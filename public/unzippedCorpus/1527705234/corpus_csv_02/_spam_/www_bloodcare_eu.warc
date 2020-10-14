@@ -1,0 +1,257 @@
+WARC/1.0
+WARC-Type: warcinfo
+WARC-Date: 2018-05-30T17:52:30Z
+WARC-All-Language: en-US
+WARC-All-Content_type: text/html; charset=UTF-8
+WARC-Record-ID: <urn:uuid:48214280-e474-42ae-a9f3-d73d326eea19>
+Content-Type: application/http;msgtype=response
+Content-Length: 46
+
+WARCProcessor by SING Group www.sing-group.com
+
+WARC/1.0
+WARC-Type: response
+WARC-Target-URI: http://www.bloodcare.eu
+WARC-Date: 20180530175230
+WARC-Language: en-US
+WARC-Record-ID: <http://www.bloodcare.eu>
+Content-Type: application/http;msgtype=response
+Content-Length: 22811
+
+HTTP/1.1 200
+Content-Type:text/html; charset=UTF-8
+
+
+<!DOCTYPE html>
+<!--[if IE 7]>
+<html class="ie ie7" lang="en-US">
+<![endif]-->
+<!--[if IE 8]>
+<html class="ie ie8" lang="en-US">
+<![endif]-->
+<!--[if !(IE 7) | !(IE 8)  ]><!-->
+<html lang="en-US">
+<!--<![endif]-->
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width">
+	<title>BloodCare</title>
+	<link rel="profile" href="http://gmpg.org/xfn/11">
+	<link rel="pingback" href="http://www.bloodcare.eu/en/xmlrpc.php">
+	<!--[if lt IE 9]>
+	<script src="http://www.bloodcare.eu/wp-content/themes/twentythirteen/js/html5.js"></script>
+	<![endif]-->
+	<link rel="alternate" type="application/rss+xml" title="BloodCare &raquo; Feed" href="http://www.bloodcare.eu/en/feed/" />
+<link rel="alternate" type="application/rss+xml" title="BloodCare &raquo; Comments Feed" href="http://www.bloodcare.eu/en/comments/feed/" />
+<link rel='stylesheet' id='twentythirteen-fonts-css'  href='//fonts.googleapis.com/css?family=Source+Sans+Pro%3A300%2C400%2C700%2C300italic%2C400italic%2C700italic%7CBitter%3A400%2C700&#038;subset=latin%2Clatin-ext' type='text/css' media='all' />
+<link rel='stylesheet' id='genericons-css'  href='http://www.bloodcare.eu/wp-content/themes/twentythirteen/fonts/genericons.css?ver=2.09' type='text/css' media='all' />
+<link rel='stylesheet' id='twentythirteen-style-css'  href='http://www.bloodcare.eu/wp-content/themes/twentythirteen/style.css?ver=2013-07-18' type='text/css' media='all' />
+<!--[if lt IE 9]>
+<link rel='stylesheet' id='twentythirteen-ie-css'  href='http://www.bloodcare.eu/wp-content/themes/twentythirteen/css/ie.css?ver=2013-07-18' type='text/css' media='all' />
+<![endif]-->
+<link rel='stylesheet' id='upw_theme_standard-css'  href='http://www.bloodcare.eu/wp-content/plugins/ultimate-posts-widget/css/upw-theme-standard.min.css?ver=3.6' type='text/css' media='all' />
+<link rel='stylesheet' id='colorbox-css'  href='http://www.bloodcare.eu/wp-content/plugins/slideshow-gallery/views/default/css/colorbox.css?ver=1.3.19' type='text/css' media='all' />
+<link rel='stylesheet' id='fontawesome-css'  href='http://www.bloodcare.eu/wp-content/plugins/slideshow-gallery/views/default/css/fontawesome.css?ver=4.4.0' type='text/css' media='all' />
+<link rel='stylesheet' id='pcs-styles-css'  href='http://www.bloodcare.eu/wp-content/plugins/post-content-shortcodes/default-styles.css?ver=0.3' type='text/css' media='screen' />
+<link rel='stylesheet' id='wp-ui-css'  href='http://www.bloodcare.eu/wp-content/plugins/wp-ui/css/wp-ui.css?ver=3.6' type='text/css' media='all' />
+<link rel='stylesheet' id='wpui-light-css'  href='http://www.bloodcare.eu/wp-content/plugins/wp-ui/css/themes/wpui-light.css?ver=3.6' type='text/css' media='all' />
+<link rel='stylesheet' id='wpui-multiple-css'  href='http://www.bloodcare.eu/wp-content/plugins/wp-ui/css/css.php?styles=wpui-light%7Cwpui-blue%7Cwpui-red%7Cwpui-green%7Cwpui-dark%7Cwpui-quark%7Cwpui-alma%7Cwpui-macish%7Cwpui-redmond%7Cwpui-sevin&#038;ver=3.6' type='text/css' media='all' />
+<script type='text/javascript' src='http://www.bloodcare.eu/wp-includes/js/jquery/jquery.js?ver=1.10.2'></script>
+<script type='text/javascript' src='http://www.bloodcare.eu/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.2.1'></script>
+<script type='text/javascript' src='http://www.bloodcare.eu/wp-includes/js/jquery/ui/jquery.ui.core.min.js?ver=1.10.3'></script>
+<script type='text/javascript' src='http://www.bloodcare.eu/wp-includes/js/jquery/ui/jquery.ui.widget.min.js?ver=1.10.3'></script>
+<script type='text/javascript' src='http://www.bloodcare.eu/wp-includes/js/jquery/ui/jquery.ui.tabs.min.js?ver=1.10.3'></script>
+<script type='text/javascript' src='http://www.bloodcare.eu/wp-includes/js/jquery/ui/jquery.ui.accordion.min.js?ver=1.10.3'></script>
+<script type='text/javascript' src='http://www.bloodcare.eu/wp-includes/js/jquery/ui/jquery.ui.mouse.min.js?ver=1.10.3'></script>
+<script type='text/javascript' src='http://www.bloodcare.eu/wp-includes/js/jquery/ui/jquery.ui.resizable.min.js?ver=1.10.3'></script>
+<script type='text/javascript' src='http://www.bloodcare.eu/wp-includes/js/jquery/ui/jquery.ui.draggable.min.js?ver=1.10.3'></script>
+<script type='text/javascript' src='http://www.bloodcare.eu/wp-includes/js/jquery/ui/jquery.ui.button.min.js?ver=1.10.3'></script>
+<script type='text/javascript' src='http://www.bloodcare.eu/wp-includes/js/jquery/ui/jquery.ui.position.min.js?ver=1.10.3'></script>
+<script type='text/javascript' src='http://www.bloodcare.eu/wp-includes/js/jquery/ui/jquery.ui.dialog.min.js?ver=1.10.3'></script>
+<script type='text/javascript' src='http://www.bloodcare.eu/wp-includes/js/jquery/ui/jquery.ui.sortable.min.js?ver=1.10.3'></script>
+<script type='text/javascript' src='http://www.bloodcare.eu/?wpui-script=before&#038;ver=3.6'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var wpUIOpts = {"wpUrl":"http:\/\/www.bloodcare.eu","pluginUrl":"http:\/\/www.bloodcare.eu\/wp-content\/plugins\/wp-ui\/","enableTabs":"on","enableAccordion":"on","enableSpoilers":"on","enableDialogs":"on","tabsEffect":"none","effectSpeed":"400","accordEffect":"none","alwaysRotate":"stop","tabsEvent":"click","collapsibleTabs":"off","accordEvent":"click","singleLineTabs":"","accordAutoHeight":"on","accordCollapsible":"off","accordEasing":"false","mouseWheelTabs":"false","bottomNav":"on","tabPrevText":"Prev","tabNextText":"Next","spoilerShowText":"","spoilerHideText":"","cookies":"on","hashChange":"on","docWriteFix":"on","linking_history":"on","misc_options":"hashing_timeout=1000\r\ntinymce_icon_row=3"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://www.bloodcare.eu/wp-content/plugins/wp-ui/js/wp-ui.js?ver=0.8.8'></script>
+<script type='text/javascript' src='http://www.bloodcare.eu/wp-content/plugins/slideshow-gallery/views/default/js/gallery.js?ver=1.0'></script>
+<script type='text/javascript' src='http://www.bloodcare.eu/wp-content/plugins/slideshow-gallery/views/default/js/colorbox.js?ver=1.6.3'></script>
+<script type='text/javascript' src='http://www.bloodcare.eu/wp-content/plugins/slideshow-gallery/views/default/js/jquery-ui.js?ver=3.6'></script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www.bloodcare.eu/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://www.bloodcare.eu/wp-includes/wlwmanifest.xml" /> 
+<link rel='prev' title='Quality assurance' href='http://www.bloodcare.eu/en/quality-assurance/' />
+<link rel='next' title='BLOODCARE matrix' href='http://www.bloodcare.eu/en/products/bloodcare-matrix/' />
+<meta name="generator" content="WordPress 3.6" />
+<link rel='canonical' href='http://www.bloodcare.eu/en/' />
+
+<meta http-equiv="Content-Language" content="en-US" />
+<style type="text/css" media="screen">
+.qtrans_flag span { display:none }
+.qtrans_flag { height:12px; width:18px; display:block }
+.qtrans_flag_and_text { padding-left:20px }
+.qtrans_flag_en { background:url(http://www.bloodcare.eu/wp-content/plugins/qtranslate/flags/gb.png) no-repeat }
+.qtrans_flag_CS { background:url(http://www.bloodcare.eu/wp-content/plugins/qtranslate/flags/cz.png) no-repeat }
+</style>
+<link hreflang="CS" href="http://www.bloodcare.eu/CS/" rel="alternate" />
+	<style type="text/css" id="twentythirteen-header-css">
+			.site-header {
+			background: url(http://www.bloodcare.eu/wp-content/themes/twentythirteen/images/headers/circle.png) no-repeat scroll top;
+			background-size: 1600px auto;
+		}
+		</style>
+		<link href='http://fonts.googleapis.com/css?family=Dosis:400,600,700&amp;subset=latin,latin-ext' rel='stylesheet' type='text/css'>
+</head>
+
+<body class="home page page-id-23 page-template-default single-author sidebar">
+
+        <div class="top-panel">
+            <div class="top-lang">
+                                    <aside id="qtranslate-2" class="widget widget_qtranslate"><ul class="current-language"><li>English<ul class="qtrans_language_chooser" id="qtranslate-2-chooser"><li class="lang-en active"><a href="http://www.bloodcare.eu/en/" hreflang="en" title="English"><span>English</span></a></li><li class="lang-CS"><a href="http://www.bloodcare.eu/CS/" hreflang="CS" title="Česky"><span>Česky</span></a></li></ul><div class="qtrans_widget_end"></div></li></ul></aside>                
+            </div>
+            <a class="home-link" href="http://www.bloodcare.eu/en" title="BloodCare" rel="home"><img src="http://www.bloodcare.eu/wp-content/themes/twentythirteen/images/logo.png" class="logo" alt="Bloodcare"/></a>
+
+            <div class="top-menu">
+                <div class="menu-hlavni-menu-container"><ul id="menu-hlavni-menu" class="nav-menu"><li id="menu-item-105" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-105"><a href="http://www.bloodcare.eu/en/products/">Products</a></li>
+<li id="menu-item-21" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-21"><a href="http://www.bloodcare.eu/en/profile/">Profile</a></li>
+<li id="menu-item-22" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-22"><a href="http://www.bloodcare.eu/en/quality-assurance/">Quality assurance</a></li>
+<li id="menu-item-210" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-210"><a href="http://www.bloodcare.eu/en/news/">News</a></li>
+<li id="menu-item-19" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-19"><a href="http://www.bloodcare.eu/en/contact/">Contact</a></li>
+</ul></div>            </div>
+        </div>
+        <div class="clear"></div>
+        <div id="top_pannel_bcg">
+            <div class="top-header">
+            <div class="top-header-text">
+            <div class="top-header-text-item">
+            oxidised-cellulose based haemostat <br/>to arrest bleeding professionally            </div>
+            </div>
+            <div class="clear"></div>
+            </div>
+        </div>
+        
+	<div id="page" class="hfeed site">
+		<div id="main" class="site-main">
+    <div class="menu-menu-produktu-container"><ul id="menu-menu-produktu" class="produkt-menu"><li id="menu-item-49" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-49 has-image"><a href="http://www.bloodcare.eu/en/products/bloodcare-matrix/"><img width="180" height="230" src="http://www.bloodcare.eu/wp-content/uploads/2013/08/bloodcare_matrix.png" class="attachment-full wp-post-image" alt="Firmly woven haemostatic fabric with high tensile strength for heavier bleeding." title="Firmly woven haemostatic fabric with high tensile strength for heavier bleeding." />
+
+<div class="description">Firmly woven haemostatic fabric with high tensile strength for heavier bleeding.</div></a><div class="more"><a href="http://www.bloodcare.eu/en/products/bloodcare-matrix/" title="BLOODCARE matrix">more</a></div></li>
+<li id="menu-item-48" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-48 has-image"><a href="http://www.bloodcare.eu/en/products/bloodcare-net/"><img width="180" height="230" src="http://www.bloodcare.eu/wp-content/uploads/2013/08/bloodcare_net2.png" class="attachment-full wp-post-image" alt="Delicately knitted haemostatic fabric with low density." title="Delicately knitted haemostatic fabric with low density." />
+
+<div class="description">Delicately knitted haemostatic fabric with low density.</div></a><div class="more"><a href="http://www.bloodcare.eu/en/products/bloodcare-net/" title="BLOODCARE net">more</a></div></li>
+<li id="menu-item-47" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-47 has-image"><a href="http://www.bloodcare.eu/en/products/bloodcare-wad/"><img width="180" height="230" src="http://www.bloodcare.eu/wp-content/uploads/2013/08/bloodcare_wad.png" class="attachment-full wp-post-image" alt="Haemostatic material with a fibrous composition." title="Haemostatic material with a fibrous composition." />
+
+<div class="description">Haemostatic material with a fibrous composition.</div></a><div class="more"><a href="http://www.bloodcare.eu/en/products/bloodcare-wad/" title="BLOODCARE wad">more</a></div></li>
+<li id="menu-item-46" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-46 has-image"><a href="http://www.bloodcare.eu/en/products/bloodcare-powder/"><img width="180" height="230" src="http://www.bloodcare.eu/wp-content/uploads/2013/08/bloodcare_powder.png" class="attachment-full wp-post-image" alt="Haemostatic preparation in a powder form." title="Haemostatic preparation in a powder form." />
+
+<div class="description">Haemostatic preparation in a powder form.</div></a><div class="more"><a href="http://www.bloodcare.eu/en/products/bloodcare-powder/" title="BLOODCARE powder">more</a></div></li>
+<li id="menu-item-45" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-45 has-image"><a href="http://www.bloodcare.eu/en/products/bloodcare-spray/"><img width="180" height="230" src="http://www.bloodcare.eu/wp-content/uploads/2013/08/bloodcare_spray1.png" class="attachment-full wp-post-image" alt="An aerosol form of a local haemostatic preparation." title="An aerosol form of a local haemostatic preparation." />
+
+<div class="description">An aerosol form of a local haemostatic preparation.</div></a><div class="more"><a href="http://www.bloodcare.eu/en/products/bloodcare-spray/" title="BLOODCARE spray">more</a></div></li>
+</ul></div><div class="clear"></div>	<div id="primary" class="content-area">
+		<div id="content" class="site-content" role="main">
+
+						
+				<article id="post-23" class="post-23 page type-page status-publish hentry">
+					<header class="entry-header">
+						
+						<!--<h1 class="entry-title">Bloodcare</h1>  -->
+					</header><!-- .entry-header -->
+
+					<div class="entry-content">
+						<p>BLOODCARE products are an excellent local haemostatic agents, with the haemostatic effect based on the oxidised cellulose features. They are indicated as a haemostatic device used to arrest capillary and minor venous bleeding and parenchymateous or osseous bleeding from resected or injured organ surfaces during surgical interventions.</p>
+<div style="text-align: center;"><span style="color: #000000;">Its usage is <span style="color: #993300;"><span class="red">SIMPLE</span>, <span class="red">EFFECTIVE</span></span> and <span class="red" style="color: #993300;">SAFE</span>.</span></div>
+<div class="two-column">
+<h2>Easy application</h2>
+<p>Having taken the product out of the sterile packages, BLOODCARE can be immediately applied on to the bleeding area.</p>
+<h2>Cost-effective treatment</h2>
+<p>BLOODCARE is an efficient local haemostat, the haemostatic effect is almost immediate. The full haemostasis is achieved by 2 minutes after application bringing thus economic benefits.</p>
+<h2>Safe application</h2>
+<p>BLOODCARE is biocompatible, biodegradable, non-acidifying haemostatic preparation of natural origin made from high quality alpha cellulose cotton. It causes no irritating reactions on the application area, is declared a hypoallergenic preparation well tolerated by the organism with no adverse effects as such that could have been reported.</p>
+<p>BLOODCARE has bactericidal and bacteriostatic features due to the presence of carboxyl groups and low pH features, and presents also a significant effect on healing process in wounds.</p>
+</div>
+<div id="wp-spoiler-1" class="wp-spoiler wpui-hashable wpui-light wpui-styles" data-style="wpui-light">  <h3 class="wp-spoiler-title wpui-hashable fade-true slide-true open-false">Where is BLOODCARE used?</h3><div class="wpui-hidden wp-spoiler-content">
+<p>BLOODCARE products are used …</p>
+<ul>
+<li>in general surgery and digestive surgery, plastic surgery, orthopedy, gynaecology, urology, stomatology and all other branches of surgery, traumatology,  and veterinary praxis</li>
+<li>at classical surgical procedures, at laparoscopy and endoscopy interventions as well as robotic surgery</li>
+<li>in dental praxis, the preparation shall be also used to arrest prolonged post-extraction capillary bleeding</li>
+<li>as a first aid treatment at sports, gardening, agriculture or common housework</li>
+</ul>
+<p></div>  </div><!-- end div.wp-spoiler --> <div id="wp-spoiler-2" class="wp-spoiler wpui-hashable wpui-light wpui-styles" data-style="wpui-light">  <h3 class="wp-spoiler-title wpui-hashable fade-true slide-true open-false">How does BLOODCARE work?</h3><div class="wpui-hidden wp-spoiler-content"></p>
+<p>BLOODCARE products’  effect consists in initiating and accelerating the haemocoagulation cascade.</p>
+<p>BLOODCARE it has a significant role in starting haemocoagulation process. While applied, Factor VII is activated as well as the trombocyte activation is initiated by tissue factor. Due to anionactive characteristics of oxidised cellulose, BLOODCARE is able to form complex polymers with compounds such as fibrinogen or haemoglobin, therefore fibrinogen polymerisation is speeded up.</p>
+<p>Calcium ions (powder and spray form) are used during protein complex fixation on cell membranes, in particular thrombocytes and endotel cells. Higher Ca2+ ion concentration stabilises activated Factor V and speeds up Factor XIII activity resulting in fibrinogen network stabilisation which is therefore able to create sufficiently organised structure for fibroblast growth and cicatrix formation. During coagulation process Ca2+ ions partially participate in thrombocyte adhesion to collagens of exposed wound, and also show partial analgesic effect. That results from ion blockage effect on autonomous nerve-endings.</p>
+<p></div>  </div><!-- end div.wp-spoiler --> <div id="wp-spoiler-3" class="wp-spoiler wpui-hashable wpui-light wpui-styles" data-style="wpui-light">  <h3 class="wp-spoiler-title wpui-hashable fade-true slide-true open-false">How is BLOODCARE produced?</h3><div class="wpui-hidden wp-spoiler-content"></p>
+<p>BLOODCARE products are produced by selective oxidation of high-quality cotton material (99% of cellulose content at minimum). The principle of the process selectivity means that predominantly alcoholic group on 6th carbon of basic building unit is oxidised and carboxyl is formed (-COOH). The content of -COOH is maintained at 16 – 24 volume percentage according to USP.</p>
+<p>From the chemical point of view it is polyanhydroglucuronic acid (used for BLOODCARE matrix, BLOODCARE net and BLOODCARE wad), whose acidity is decreased by neutralisation to calcium salt (used for BLOODCARE powder and BLOODCARE spray). As free carboxyl group is a carrier of oxidised cellulose bactericidal effect, only a part of those groups is calcium bound, residual ones are free.</p>
+<p></div>  </div><!-- end div.wp-spoiler --> <div id="wp-spoiler-4" class="wp-spoiler wpui-hashable wpui-light wpui-styles" data-style="wpui-light">  <h3 class="wp-spoiler-title wpui-hashable fade-true slide-true open-false">Does BLOODCARE have any negative impacts? </h3><div class="wpui-hidden wp-spoiler-content"></p>
+<p>BLOODCARE shows no negative effect.</p>
+<p>Having stopped the bleeding, BLOODCARE is &#8220;eliminated&#8221; via macrophages acting in healing &#8211; histiocytes and neutrophilic granulocytes. Biotransformation is in progress after phagocyting by tissue macrophages through depolymerisation. Cellulose chains are hydrolytically split by glycosidase into individual monomers &#8211; glucose, glucuronic acid and cellobiose which are excreted. Degraded BLOODCARE products are not detected in plasma nor urine. The preparations are fully absorbed within 12- 72 hours with no toxicology effect.</div>  </div><!-- end div.wp-spoiler --></p>
+											</div><!-- .entry-content -->
+
+					<footer class="entry-meta">
+											</footer><!-- .entry-meta -->
+				</article><!-- #post -->
+
+				
+<div id="comments" class="comments-area">
+
+	
+									
+</div><!-- #comments -->			
+		</div><!-- #content -->
+	</div><!-- #primary -->
+
+    </div><!-- #main -->
+	</div><!-- #page -->
+	<div id="tertiary" class="sidebar-container-bcg" role="complementary">
+		<div class="sidebar-inner">
+			<div class="widget-area">
+				<aside id="sticky-posts-2" class="widget widget_ultimate_posts">
+
+
+  <p>No posts found.</p>
+
+
+</aside>
+            <div class="clear"></div>
+            </div><!-- .widget-area -->
+		</div><!-- .sidebar-inner -->
+		<div class="sidebar-inner-bottom"></div>
+	</div><!-- #tertiary -->
+
+
+    <div id="bottom-pannel-bcg">
+        <div class="bottom-panel">
+            <div class="bottom-right">
+                            <aside id="insert-page-2" class="widget widget_insert_page"><p>certified quality system</p>
+<p>ISO 13485:2012</p>
+</aside>                        </div>
+            <div class="bottom-menu">
+                <div class="menu-menu-v-zapati-container"><ul id="menu-menu-v-zapati" class="bot-menu"><li id="menu-item-51" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-23 current_page_item menu-item-51"><a href="http://www.bloodcare.eu/en/">Bloodcare</a></li>
+<li id="menu-item-55" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-55"><a href="http://www.bloodcare.eu/en/products/">Products</a></li>
+<li id="menu-item-53" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-53"><a href="http://www.bloodcare.eu/en/profile/">Profile</a></li>
+<li id="menu-item-52" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-52"><a href="http://www.bloodcare.eu/en/quality-assurance/">Quality assurance</a></li>
+<li id="menu-item-212" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-212"><a href="http://www.bloodcare.eu/en/news/">News</a></li>
+<li id="menu-item-54" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-54"><a href="http://www.bloodcare.eu/en/contact/">Contact</a></li>
+</ul></div>            </div>
+            <img src="http://www.bloodcare.eu/wp-content/themes/twentythirteen/images/logo_bottom.png" class="logo-bottom" alt="Bloodcare"/>
+        </div>
+    </div>
+
+	<footer id="colophon" class="bottom-pannel2-bcg" role="contentinfo">
+        <div class="bottom-panel2">
+		  	<div id="secondary" class="sidebar-container" role="complementary">
+		<div class="widget-area">
+			<aside id="text-2" class="widget widget_text">			<div class="textwidget">© 2013 LIFE LINE plus s.r.o. / +420 539 002 139 / info@lifeline.cz</div>
+		</aside>		</div><!-- .widget-area -->
+	</div><!-- #secondary -->
+		</div>
+	</footer><!-- #colophon -->
+
+        <div class="clear"></div>
+    <div class="zapati-bcg"><div class="zapati"><a title="Kinalisoft - software development and consulting" href="http://www.kinalisoft.eu/en/software/software-development/">Created by Kinalisoft s.r.o.</a></div></div>
+</body>
+</html>
+

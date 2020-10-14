@@ -1,0 +1,49 @@
+WARC/1.0
+WARC-Type: warcinfo
+WARC-Date: 2018-05-30T17:52:31Z
+WARC-All-Language: it
+WARC-All-Content_type: text/html
+WARC-Record-ID: <urn:uuid:29a131f2-646c-4103-8373-39d06045cb62>
+Content-Type: application/http;msgtype=response
+Content-Length: 46
+
+WARCProcessor by SING Group www.sing-group.com
+
+WARC/1.0
+WARC-Type: response
+WARC-Target-URI: http://www.forcesp.eu
+WARC-Date: 20180530175231
+WARC-Language: it
+WARC-Record-ID: <http://www.forcesp.eu>
+Content-Type: application/http;msgtype=response
+Content-Length: 1314
+
+HTTP/1.1 200
+Content-Type:text/html
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta HTTP-EQUIV="REFRESH" content="0; url=http://www.forcesp.net">
+<title>PsyBNC, Eggdrop, Unix Shell, IRCD Shell, IRC Reseller, Radio ShoutCast, Web Hosting, Domain Name</title>
+<meta name="description" content="PsyBNC, Eggdrop, Unix Shell, IRCD Shell, IRC Reseller, Radio ShoutCast, Web Hosting, Domain Name, Vhosts" />
+<meta name="keywords" content="psybnc, eggdrop, unix shell, ircd shell, radio shoutcast, web hosting, domain name, shell, ircd, radio, shoutcast, vhost, public vhost" />
+<meta name="copyright" content="Copyright ForceSP. All rights reserved" />
+<meta name="owner" content="www.ForceSP.net" />
+<meta name="publisher" content="www.ForceSP.net" />
+<meta name="author" content="www.ForceSP.net" />
+<meta name="Audience" content="all" />
+<meta name="distribution" content="global" />
+<meta name="language" content="english" />
+<meta name="rating" content="General" />
+<meta name="expires" content="never" />
+<meta name="robots" content="index,FOLLOW" />
+<meta name="googlebot" content="index,follow" />
+<meta name="revisit-after" content="1 days" />
+</head>
+<body>
+</body>
+</html>
+
+

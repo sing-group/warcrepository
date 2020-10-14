@@ -1,0 +1,829 @@
+WARC/1.0
+WARC-Type: warcinfo
+WARC-Date: 2018-05-23T16:31:36Z
+WARC-All-Language: ar
+WARC-All-Content_type: text/html
+WARC-Record-ID: <urn:uuid:5e282590-7b32-4e47-8ec1-467119858a71>
+Content-Type: application/http;msgtype=response
+Content-Length: 46
+
+WARCProcessor by SING Group www.sing-group.com
+
+WARC/1.0
+WARC-Type: response
+WARC-Target-URI: http://www.ie.edu/
+WARC-Date: 20180523163136
+WARC-Language: ar
+WARC-Record-ID: <http://www.ie.edu/>
+Content-Type: application/http;msgtype=response
+Content-Length: 57608
+
+HTTP/1.1 200 OK
+Date: Sun, 12 Feb 2012 08:36:05 GMT
+Server: Apache
+Accept-Ranges: bytes
+Content-Length: 57447
+Connection: close
+Content-Type: text/html
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<html>
+<head>
+<meta name="description " content="Biotherapy Clinic in San Francisco Bay Area specializes in medical hypnosis and hypnotherapy. Biotherapy Clinic can help you with stress, anxiety, smoking secession, weight loss, habit and addiction control">
+<meta name="keywords" content="colon cleansing bay area, acupuncture San Francisco, acupuncture bay area, acupuncture pain, acupuncture constipation, colonic candida, prostate massage, prostatitis treatment, prostatitis alternative medicine, prostatitis holistic medicine, foot bath detox, weight loss hypnosis, smoking hypnosis, bay area hypnosis, San Francisco hypnosis, ionic foot bath, ionic detox, ion foot bath, ion detox, foot spa, foot bath spa, detox spa, San Francisco, Bay Area, hypnosis CD, hypnosis mp3, pancreatitis alternative medicine, pancreatitis holistic medicine, chronic pancreatitis">
+<meta name="GENERATOR" content="Microsoft FrontPage 6.0">
+<meta name="ProgId" content="FrontPage.Editor.Document">
+
+<title>San Francisco Alternative Medicine can help people with Stress and Panic Attacks</title>
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
+<meta name ="rating" content="General">
+<meta name ="resource-type" content="document">
+<meta name ="revisit-after" content="21 days">
+<meta name ="ROBOTS" content="ALL">
+
+
+
+
+<script language="JavaScript" type="text/JavaScript">
+<!--
+function MM_swapImgRestore() { //v3.0
+  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
+}
+
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+
+function MM_findObj(n, d) { //v4.01
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+  if(!x && d.getElementById) x=d.getElementById(n); return x;
+}
+
+function MM_swapImage() { //v3.0
+  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
+   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
+}
+//-->
+</script>
+<script language="JavaScript" fptype="dynamicanimation">
+<!--
+function dynAnimation() {}
+function clickSwapImg() {}
+//-->
+</script>
+<script language="JavaScript1.2" fptype="dynamicanimation" src="animate.js">
+</script>
+</head>
+
+<body bgcolor="#FFFFFF" background="images/biobkg.gif" text="#003300" link="#003300" vlink="#739571" alink="#009900" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0" onLoad="MM_preloadImages('images/about_over.gif','images/services_over.gif','images/app_over.gif','images/faq_over.gif','images/contact_over.gif')" language="Javascript1.2">
+<table width="949" border="0" align="center" cellpadding="0" height="1746">
+  <tr> 
+    <td width="945" height="1731"> <div align="center"> 
+        <div align="center" style="width: 957; height: 1593"> 
+          <table width="100%" border="0" cellpadding="0" cellspacing="0" align="center">
+            <tr> 
+              <td background="images/biologobkg.jpg" height="122" width="146" valign="top"><img src="images/transparent.gif" width="20" height="1"><a href="index.html"><img src="images/biologo.jpg" vspace="6" border="0" width="125" height="110"></a></td>
+              <td width="745" height="98" align="center" valign="top" background="images/biologobkg.jpg"><img src="images/transparent.gif" width="480" height="56" align="bottom"><br> 
+                <font size="4" face="Verdana, Arial, Helvetica, sans-serif">
+              <img src="images/name.gif" width="557" height="29"></font> 
+                <br> </td>
+            </tr>
+          </table>
+          <!--   Horizontal navigation table  -->
+          <!-- #BeginLibraryItem "/Library/top_nav.lbi" --><table border="0" cellspacing="0" cellpadding="0" align="center" width="100%">
+            <tr> 
+              <td width="10" height="26"><IMG src="images/transparent.gif" width="10" height="8"></td>
+              <td width="36" valign="bottom"> <img src="images/corner.gif" width="36" height="14"></td>
+              <td width="92" valign="bottom"><B>
+              <a href="about.html" onMouseOut="document['fpAnimswapImgFP1'].src=document['fpAnimswapImgFP1'].imgRolln" onMouseOver="document['fpAnimswapImgFP1'].imgRolln=document['fpAnimswapImgFP1'].src;document['fpAnimswapImgFP1'].src=document['fpAnimswapImgFP1'].lowsrc;">
+              <img src="images/about_us.gif" name="fpAnimswapImgFP1" border="0" id="fpAnimswapImgFP1" dynamicanimation="fpAnimswapImgFP1" lowsrc="about_over.gif" width="91" height="21"></a></B></td>
+              <td width="91" align="center" valign="middle"> 
+                <TABLE width="100%" border="0" cellspacing="0" cellpadding="0" height="1">
+                  <TR> 
+                    <TD bgcolor="#003300"><IMG src="images/transparent.gif" width="1" height="1"></TD>
+                  </TR>
+                </TABLE>
+              </td>
+              <td width="95" align="center" valign="bottom">
+              <a href="services.html" onMouseOut="document['fpAnimswapImgFP2'].src=document['fpAnimswapImgFP2'].imgRolln" onMouseOver="document['fpAnimswapImgFP2'].imgRolln=document['fpAnimswapImgFP2'].src;document['fpAnimswapImgFP2'].src=document['fpAnimswapImgFP2'].lowsrc;">
+              <img src="images/services.gif" name="fpAnimswapImgFP2" border="0" id="fpAnimswapImgFP2" dynamicanimation="fpAnimswapImgFP2" lowsrc="services_over.gif" width="95" height="21"></a></td>
+              <td width="92" align="center" valign="middle"> 
+                <TABLE width="100%" border="0" cellspacing="0" cellpadding="0" height="1">
+                  <TR> 
+                    <TD bgcolor="#003300"><IMG src="images/transparent.gif" width="1" height="1"></TD>
+                  </TR>
+                </TABLE></td>
+              <td width="115" align="center" valign="bottom">
+              <a href="appointment.html" onMouseOut="document['fpAnimswapImgFP3'].src=document['fpAnimswapImgFP3'].imgRolln" onMouseOver="document['fpAnimswapImgFP3'].imgRolln=document['fpAnimswapImgFP3'].src;document['fpAnimswapImgFP3'].src=document['fpAnimswapImgFP3'].lowsrc;">
+              <img src="images/app_info.gif" name="fpAnimswapImgFP3" border="0" id="fpAnimswapImgFP3" dynamicanimation="fpAnimswapImgFP3" lowsrc="app_over.gif" width="115" height="21"></a></td>
+              <td width="98" align="center" valign="middle"> 
+                <TABLE width="100%" border="0" cellspacing="0" cellpadding="0" height="1">
+                  <TR> 
+                    <TD bgcolor="#003300"><IMG src="images/transparent.gif" width="1" height="1"></TD>
+                  </TR>
+                </TABLE>
+              </td>
+              <td width="61" align="center" valign="bottom">
+              <a href="faq.html" onMouseOut="document['fpAnimswapImgFP4'].src=document['fpAnimswapImgFP4'].imgRolln" onMouseOver="document['fpAnimswapImgFP4'].imgRolln=document['fpAnimswapImgFP4'].src;document['fpAnimswapImgFP4'].src=document['fpAnimswapImgFP4'].lowsrc;">
+              <img src="images/faq.gif" name="fpAnimswapImgFP4" border="0" id="fpAnimswapImgFP4" dynamicanimation="fpAnimswapImgFP4" lowsrc="faq_over.gif" width="61" height="21"></a></td>
+              <td width="96" align="center" valign="middle"> 
+                <TABLE width="100%" border="0" cellspacing="0" cellpadding="0" height="1">
+                  <TR> 
+                    <TD bgcolor="#003300"><IMG src="images/transparent.gif" width="1" height="1"></TD>
+                  </TR>
+                </TABLE></td>
+              <td width="95" align="center" valign="bottom">
+              <a href="contact.html" onMouseOut="document['fpAnimswapImgFP5'].src=document['fpAnimswapImgFP5'].imgRolln" onMouseOver="document['fpAnimswapImgFP5'].imgRolln=document['fpAnimswapImgFP5'].src;document['fpAnimswapImgFP5'].src=document['fpAnimswapImgFP5'].lowsrc;">
+              <img src="images/contact.gif" name="fpAnimswapImgFP5" border="0" id="fpAnimswapImgFP5" dynamicanimation="fpAnimswapImgFP5" lowsrc="contact_over.gif" width="95" height="21"></a></td>
+              <td width="85" valign="middle"> 
+                <TABLE width="100%" border="0" cellspacing="0" cellpadding="0" height="1">
+                  <TR> 
+                    <TD bgcolor="#003300"><IMG src="images/transparent.gif" width="1" height="1"></TD>
+                  </TR>
+                </TABLE>
+              </td>
+            </tr>
+          </table><!-- #EndLibraryItem --><table border="0" cellspacing="0" cellpadding="0" align="center" width="100%" height="907">
+            <tr> 
+              <td height="1588" valign="top"> 
+                <table height="1680" border="0" cellpadding="0" cellspacing="0">
+                  <tr> 
+                    <td height="23">&nbsp;</td>
+                    <td background="images/leftbkg.gif" height="23">&nbsp;</td>
+                    <td height="23">&nbsp;</td>
+                    <td valign="middle" height="23">&nbsp;</td>
+                  </tr>
+                  <tr> 
+                    <td width="10" height="31"><IMG src="images/transparent.gif" width="10" height="8"></td>
+                    <td width="16" height="31" background="images/leftbkg.gif"><img src="images/left_bar.gif" width="1" height="10" name="Image5"></td>
+                    <td width="1" height="31">&nbsp;</td>
+                    <td width="195" valign="middle" height="31"><font color="1F761F" size="2" face="Arial, Helvetica, sans-serif"><strong>&nbsp;&nbsp;<a href="chronic_liver_disorders.html">Chronic 
+                      Liver Disorders</a></strong></font></td>
+                  </tr>
+                  <tr> 
+                    <td height="31"><IMG src="images/transparent.gif" width="10" height="8"></td>
+                    <td height="31" background="images/leftbkg.gif"><img src="images/left_bar.gif" width="1" height="10" name="Image5"></td>
+                    <td height="31">&nbsp;</td>
+                    <td valign="middle" height="31"><font color="1F761F" size="2" face="Arial, Helvetica, sans-serif"><strong>&nbsp;&nbsp;<a href="gastrointestinal_disorders.html">Gastrointestinal 
+                      Disorders</a></strong></font></td>
+                  </tr>
+                  <tr> 
+                    <td height="31"><IMG src="images/transparent.gif" width="10" height="8"></td>
+                    <td height="31" background="images/leftbkg.gif"><img src="images/left_bar.gif" width="1" height="10" name="Image5"></td>
+                    <td height="31">&nbsp;</td>
+                    <td valign="middle" height="31"><strong><font color="1F761F" size="2" face="Arial, Helvetica, sans-serif"><strong>&nbsp;&nbsp;</strong><a href="stress_related_disorders.html">Stress 
+                      Related Disorders</a></font></strong></td>
+                  </tr>
+                  <tr> 
+                    <td height="31"><IMG src="images/transparent.gif" width="10" height="8"></td>
+                    <td height="31" background="images/leftbkg.gif"><img src="images/left_bar.gif" width="1" height="10" name="Image5"></td>
+                    <td height="31">&nbsp;</td>
+                    <td valign="middle" height="31"><strong><font color="1F761F" size="2" face="Arial, Helvetica, sans-serif"><strong>&nbsp;&nbsp;</strong><a href="immune_system_disorders.html">Immune 
+                      System Disorders</a></font></strong></td>
+                  </tr>
+                  <tr> 
+                    <td height="31"><IMG src="images/transparent.gif" width="10" height="8"></td>
+                    <td height="31" background="images/leftbkg.gif"><img src="images/left_bar.gif" width="1" height="10" name="Image5"></td>
+                    <td height="31">&nbsp;</td>
+                    <td valign="middle" height="31"><strong><font color="1F761F" size="2" face="Arial, Helvetica, sans-serif"><strong>&nbsp;&nbsp;</strong><a href="mens_health.html">Men's 
+                      Health</a></font></strong></td>
+                  </tr>
+                  <tr> 
+                    <td height="31"><IMG src="images/transparent.gif" width="10" height="8"></td>
+                    <td height="31" background="images/leftbkg.gif"><img src="images/left_bar.gif" width="1" height="10" name="Image5"></td>
+                    <td height="31">&nbsp;</td>
+                    <td valign="middle" height="31"><strong><font color="1F761F" size="2" face="Arial, Helvetica, sans-serif"><strong>&nbsp;&nbsp;</strong><a href="womens_health.html">Women's 
+                      Health</a></font></strong></td>
+                  </tr>
+                  <tr> 
+                    <td height="31"><IMG src="images/transparent.gif" width="10" height="8"></td>
+                    <td height="31" background="images/leftbkg.gif"><img src="images/left_bar.gif" width="1" height="10" name="Image5"></td>
+                    <td height="31">&nbsp;</td>
+                    <td valign="middle" height="31"><strong><font color="1F761F" size="2" face="Arial, Helvetica, sans-serif"><strong>&nbsp;&nbsp;</strong><a href="skin_disorders.html">Skin 
+                      Problems</a></font></strong></td>
+                  </tr>
+                  <tr> 
+                    <td height="31"><IMG src="images/transparent.gif" width="10" height="8"></td>
+                    <td height="31" background="images/leftbkg.gif"><img src="images/left_bar.gif" width="1" height="10" name="Image5"></td>
+                    <td height="31">&nbsp;</td>
+                    <td valign="middle" height="31"><strong><font color="1F761F" size="2" face="Arial, Helvetica, sans-serif"><strong>&nbsp;&nbsp;</strong><a href="pain.html">Pain</a></font></strong></td>
+                  </tr>
+                  <tr> 
+                    <td height="31"><IMG src="images/transparent.gif" width="10" height="8"></td>
+                    <td height="31" background="images/leftbkg.gif"><img src="images/left_bar.gif" width="1" height="10" name="Image5"></td>
+                    <td height="31">&nbsp;</td>
+                    <td valign="middle" height="31"><strong><font color="1F761F" size="2" face="Arial, Helvetica, sans-serif"><strong>&nbsp;&nbsp;</strong><a href="cancer.html">Cancer</a></font></strong></td>
+                  </tr>
+                  <tr> 
+                    <td height="31">&nbsp;</td>
+                    <td height="31" background="images/leftbkg.gif">&nbsp;</td>
+                    <td height="31">&nbsp;</td>
+                    <td valign="middle" height="31"><strong>
+                    <font face="Arial, Helvetica, sans-serif" size="2">&nbsp;
+                    <a href="addictions.html">Addictions</a></font></strong></td>
+                  </tr>
+                  <tr> 
+                    <td height="31">&nbsp;</td>
+                    <td height="31" background="images/leftbkg.gif">&nbsp;</td>
+                    <td height="31">&nbsp;</td>
+                    <td valign="middle" height="31"><strong>
+                    <font face="Arial, Helvetica, sans-serif" size="2">&nbsp;
+                    <a href="pediatric_disorders.html">Pediatric Disorders</a></font></strong></td>
+                  </tr>
+                  <tr> 
+                    <td height="31"><IMG src="images/transparent.gif" width="10" height="8"></td>
+                    <td height="31" background="images/leftbkg.gif"><img src="images/left_bar.gif" width="1" height="10" name="Image5"></td>
+                    <td height="31">&nbsp;</td>
+                    <td valign="middle" height="31"><strong><font color="1F761F" size="2" face="Arial, Helvetica, sans-serif"><strong>&nbsp;&nbsp;</strong><a href="metabolic_disorders.html">Metabolic 
+                      Disorders</a></font></strong></td>
+                  </tr>
+                  <tr> 
+                    <td height="31">&nbsp;</td>
+                    <td height="31" background="images/leftbkg.gif">&nbsp;</td>
+                    <td height="31">&nbsp;</td>
+                    <td height="31"><font color="1F761F"><strong><font size="2" face="Arial, Helvetica, sans-serif">&nbsp;
+                    <a href="other_chronic_conditions.html">Other 
+                      Chronic Conditions</a></font></strong></font></td>
+                  </tr>
+                  <tr> 
+                    <td height="31">&nbsp;</td>
+                    <td height="31" background="images/leftbkg.gif">&nbsp;</td>
+                    <td height="31">&nbsp;</td>
+                    <td height="31"><strong>
+                    <font face="Arial, Helvetica, sans-serif" size="2">&nbsp;
+                    <a href="http://www.biotherapystore.com/giftcert.php">Gift Certificates</a></font></strong></td>
+                  </tr>
+                  <tr> 
+                    <td height="31"><IMG src="images/transparent.gif" width="10" height="8"></td>
+                    <td height="31" background="images/leftbkg.gif"><img src="images/left_bar.gif" width="1" height="10" name="Image5"></td>
+                    <td height="31">&nbsp;</td>
+                    <td height="31"><font color="1F761F"><strong><font color="1F761F" size="2" face="Arial, Helvetica, sans-serif"><strong>&nbsp;&nbsp;<a href="links.html">Links</a></strong></font></strong></font><p></td>
+                  </tr>
+                  <tr> 
+                    <td height="255">&nbsp;</td>
+                    <td height="255" background="images/leftbkg.gif">&nbsp;</td>
+                    <td height="255">&nbsp;</td>
+                    <td valign="bottom" height="255"> 
+                    <p align="center"><a target="_blank" href="custom_cd.html">
+                    <img border="0" src="images/customCD.gif" width="150" height="150"></a></p>
+                    <table width="100%" border="0" cellpadding="2">
+                        <tr> 
+                          <td><div align="center"><img src="images/kvs_kv.gif" width="146" height="28"></div></td>
+                        </tr>
+                        <tr> 
+                          <td><table width="46%" border="0" align="center" cellpadding="2" cellspacing="0" bgcolor="#C6D8C3">
+                              <tr> 
+                                <td> <table width="22%" border="0" cellspacing="0" cellpadding="0" bgcolor="#FFFFFF">
+                                    <tr> 
+                                      <td align="center"><table width="94%" border="1" bordercolor="#C6D8C3">
+                                          <tr> 
+                                            
+                      <td>
+                      <a target="_blank" href="http://www.biotherapystore.com/product.php?productid=52&cat=0&page=1&featured">
+                      <img src="images/kala_salt.gif" border="0" width="150" height="124"></a></td>
+                                          </tr>
+                                        </table></td>
+                                    </tr>
+                                  </table>
+          </td>
+                              </tr>
+                            </table></td>
+                        </tr>
+                        <tr>
+                          <td height="23">
+<div align="center"><a href="#"><img src="images/order_now.gif" border="0" width="146" height="19"></a></div></td>
+                        </tr>
+                      </table><!-- #EndLibraryItem --></td>
+                  </tr>
+                  <tr> 
+                    <td height="795">&nbsp;</td>
+                    <td height="795" background="images/leftbkg.gif">&nbsp;</td>
+                    <td height="795">&nbsp;</td>
+                    <td valign="bottom" height="795"></td>
+                  </tr>
+                </table></td>
+              <td width="744" rowspan="2" align="center" valign="top" height="907"> <table width="84%" border="0" align="right" height="1588">
+                  <tr> 
+                    <td height="1584" valign="top"> 
+                      <table width="100%" border="0" height="1441">
+                        <tr> 
+                          <td valign="top" height="1437"> 
+                            <table width="729" border="1" cellpadding="6" bordercolor="#C6D8C3" height="1533">
+                              <tr> 
+                                <td width="709" height="1517" valign="top"> 
+                                  <p align="left"><font face="Verdana"><b><span style="mso-bidi-font-size: 14.0pt; mso-ansi-language: EN-US"><i>
+									<font size="2">How
+                                  Biotherapy Alternative Medicine Clinic can help people with Panic
+                                  Attacks.</font></i></span><span style="font-size:10.0pt;
+mso-bidi-font-size:14.0pt;mso-ansi-language:EN-US"><o:p>
+                                  </o:p>
+                                  </span></b></font></p>
+                                  <p style="line-height:13.5pt;background:white"><span lang="EN" style="mso-bidi-font-size: 14.0pt; mso-ansi-language: EN">
+                                  <font size="2" face="Verdana">A
+                                  panic attack is a sudden, intense experience
+                                  of fear coupled with an overwhelming feeling
+                                  of danger, accompanied by physical symptoms of
+                                  anxiety, such as a pounding heart, sweating,
+                                  and rapid breathing. A person with panic
+                                  disorder may experience repeated panic attacks
+                                  (at least several a month) and feel severe
+                                  anxiety about having another attack.<o:p>
+                                  </o:p>
+                                  </font></span></p>
+                                  <p><font size="2" face="Verdana"><span style="mso-bidi-font-size: 14.0pt"><span lang="EN">Each
+                                  year, panic disorder affects one in every 63
+                                  Americans. </span><span style="mso-bidi-font-size: 14.0pt; mso-ansi-language: EN-US">It
+                                  is two times more likely to affect women.<o:p>
+                                  </o:p>
+                                  </span></span></font></p>
+                                  <p><span style="mso-bidi-font-size: 14.0pt; mso-ansi-language: EN-US">
+                                  <font size="2" face="Verdana">A
+                                  Harvard study shows that people who react to
+                                  stress with intense anxiety or panic are four
+                                  times more likely to become ill than those who
+                                  are able to control or relax their nerves.
+                                  Though some anxiety is normal and even
+                                  healthy, higher levels of anxiety are not only
+                                  uncomfortable, but can usually lead to
+                                  significant health problems.<o:p>
+                                  </o:p>
+                                  </font></span></p>
+                                  <p><span lang="EN" style="mso-bidi-font-size: 14.0pt; mso-ansi-language: EN">
+                                  <font size="2" face="Verdana">Panic
+                                  disorder is a chronic, debilitating condition
+                                  that can have a devastating impact on a
+                                  person's family, work, and social life.<o:p>
+                                  </o:p>
+                                  </font></span></p>
+                                  <p><span lang="EN" style="mso-bidi-font-size: 14.0pt; mso-ansi-language: EN">
+                                  <font size="2" face="Verdana">Four
+                                  or more of the following symptoms during panic
+                                  attacks would indicate panic disorder:<o:p>
+                                  </o:p>
+                                  </font></span></p>
+                                  <ul type="disc">
+                                    <li class="MsoNormal" style="mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+     line-height:13.5pt;mso-list:l1 level1 lfo1;tab-stops:list .5in;background:
+     white"><span lang="EN" style="mso-bidi-font-size: 14.0pt; mso-ansi-language: EN">
+                                    <font size="2" face="Verdana">pounding,
+                                      skipping, or palpitating heartbeat
+                                      </font> <o:p>
+                                      </o:p>
+                                      </span></li>
+                                    <li class="MsoNormal" style="mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+     line-height:13.5pt;mso-list:l1 level1 lfo1;tab-stops:list .5in;background:
+     white"><span lang="EN" style="mso-bidi-font-size: 14.0pt; mso-ansi-language: EN">
+                                    <font size="2" face="Verdana">shortness
+                                      of breath or the sensation of smothering
+                                      </font> <o:p>
+                                      </o:p>
+                                      </span></li>
+                                    <li class="MsoNormal" style="mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+     line-height:13.5pt;mso-list:l1 level1 lfo1;tab-stops:list .5in;background:
+     white"><span lang="EN" style="mso-bidi-font-size: 14.0pt; mso-ansi-language: EN">
+                                    <font size="2" face="Verdana">dizziness
+                                      or lightheadedness
+                                      </font> <o:p>
+                                      </o:p>
+                                      </span></li>
+                                    <li class="MsoNormal" style="mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+     line-height:13.5pt;mso-list:l1 level1 lfo1;tab-stops:list .5in;background:
+     white"><span lang="EN" style="mso-bidi-font-size: 14.0pt; mso-ansi-language: EN">
+                                    <font size="2" face="Verdana">nausea
+                                      or stomach problems
+                                      </font> <o:p>
+                                      </o:p>
+                                      </span></li>
+                                    <li class="MsoNormal" style="mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+     line-height:13.5pt;mso-list:l1 level1 lfo1;tab-stops:list .5in;background:
+     white"><span lang="EN" style="mso-bidi-font-size: 14.0pt; mso-ansi-language: EN">
+                                    <font size="2" face="Verdana">chest
+                                      pains or pressure
+                                      </font> <o:p>
+                                      </o:p>
+                                      </span></li>
+                                    <li class="MsoNormal" style="mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+     line-height:13.5pt;mso-list:l1 level1 lfo1;tab-stops:list .5in;background:
+     white"><span lang="EN" style="mso-bidi-font-size: 14.0pt; mso-ansi-language: EN">
+                                    <font size="2" face="Verdana">choking
+                                      sensation or a &quot;lump in the
+                                      throat&quot; 
+                                    <span style="position: absolute; left: 996; top: 496">
+                                    <img border="0" src="images/stress.gif" width="261" height="250"></span><o:p>
+                                      </o:p>
+                                      </font></span></li>
+                                    <li class="MsoNormal" style="mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+     line-height:13.5pt;mso-list:l1 level1 lfo1;tab-stops:list .5in;background:
+     white"><span lang="EN" style="mso-bidi-font-size: 14.0pt; mso-ansi-language: EN">
+                                    <font size="2" face="Verdana">chills
+                                      or hot flashes
+                                      </font> <o:p>
+                                      </o:p>
+                                      </span></li>
+                                    <li class="MsoNormal" style="mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+     line-height:13.5pt;mso-list:l1 level1 lfo1;tab-stops:list .5in;background:
+     white"><span lang="EN" style="mso-bidi-font-size: 14.0pt; mso-ansi-language: EN">
+                                    <font size="2" face="Verdana">sweating
+                                      </font>
+                                      <o:p>
+                                      </o:p>
+                                      </span></li>
+                                    <li class="MsoNormal" style="mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+     line-height:13.5pt;mso-list:l1 level1 lfo1;tab-stops:list .5in;background:
+     white"><span lang="EN" style="mso-bidi-font-size: 14.0pt; mso-ansi-language: EN">
+                                    <font size="2" face="Verdana">fear
+                                      of dying
+                                      </font> <o:p>
+                                      </o:p>
+                                      </span></li>
+                                    <li class="MsoNormal" style="mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+     line-height:13.5pt;mso-list:l1 level1 lfo1;tab-stops:list .5in;background:
+     white"><span lang="EN" style="mso-bidi-font-size: 14.0pt; mso-ansi-language: EN">
+                                    <font size="2" face="Verdana">feelings
+                                      of unreality or being detached
+                                      </font> <o:p>
+                                      </o:p>
+                                      </span></li>
+                                    <li class="MsoNormal" style="mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+     line-height:13.5pt;mso-list:l1 level1 lfo1;tab-stops:list .5in;background:
+     white"><span lang="EN" style="mso-bidi-font-size: 14.0pt; mso-ansi-language: EN">
+                                    <font size="2" face="Verdana">tingling
+                                      or numbness
+                                      </font> <o:p>
+                                      </o:p>
+                                      </span></li>
+                                    <li class="MsoNormal" style="mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+     line-height:13.5pt;mso-list:l1 level1 lfo1;tab-stops:list .5in;background:
+     white"><span lang="EN" style="mso-bidi-font-size: 14.0pt; mso-ansi-language: EN">
+                                    <font size="2" face="Verdana">shaking
+                                      and trembling
+                                      </font> <o:p>
+                                      </o:p>
+                                      </span></li>
+                                    <li class="MsoNormal" style="mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+     line-height:13.5pt;mso-list:l1 level1 lfo1;tab-stops:list .5in;background:
+     white"><span lang="EN" style="mso-bidi-font-size: 14.0pt; mso-ansi-language: EN">
+                                    <font size="2" face="Verdana">fear
+                                      of losing control<o:p>
+                                      </o:p>
+                                      </font></span></li>
+                                  </ul>
+                                  <p style="line-height:13.5pt;background:white"><span lang="EN" style="mso-bidi-font-size: 14.0pt; mso-ansi-language: EN">
+                                  <font size="2" face="Verdana">A
+                                  panic attack is often accompanied by the urge
+                                  to escape, together with a feeling of
+                                  impending doom. Others are convinced they are
+                                  about to have a heart attack , suffocate, lose
+                                  control, or &quot;go crazy.&quot; Once people
+                                  experience one panic attack, they tend to
+                                  worry so much about having another attack that
+                                  they avoid the place or situation associated
+                                  with the original episode.<o:p>
+                                  </o:p>
+                                  </font></span></p>
+                                  <p style="mso-margin-top-alt:auto;mso-margin-bottom-alt:auto"><span style="mso-bidi-font-size: 14.0pt; mso-ansi-language: EN-US">
+                                  <font size="2" face="Verdana">Anxiety
+                                  is the result of emotional and/or physical
+                                  stress encountered in our daily lives, such as
+                                  the news of our current world unrest,
+                                  relationship difficulties, severe financial
+                                  problems, job demands, food or environmental
+                                  allergies, hormonal imbalances, traffic jams,
+                                  pharmaceutical medications, nutrient
+                                  deficiencies (such as B vitamins or magnesium,
+                                  for example), caffeine, and elevated lactic
+                                  acid levels in the blood (acidosis), which
+                                  would be caused by exposure to alcohol,
+                                  caffeine, and sugar, inner toxicity connecting
+                                  with Candida-yeast overgrow or 
+                                  <span style="mso-bidi-font-size: 14.0pt">an
+                                  excess of toxic metals</span> as well as food
+                                  allergies, etc.
+                                  </font> <o:p>
+                                  </o:p>
+                                  </span></p>
+                                  <p style="mso-margin-top-alt:auto;mso-margin-bottom-alt:auto">
+                                  <font size="2" face="Verdana"><span style="mso-bidi-font-size: 14.0pt">A
+                                  drop in blood sugar causes extreme reactions
+                                  in the nervous system, including feelings of
+                                  anxiety, confusion, and even panic attacks.
+                                  The incidence of blood sugar abnormalities is
+                                  far higher than imagined, and affects over
+                                  half our population. Consumptions of refined
+                                  sugars and starches, diets deficient in EFA,
+                                  and the use of stimulants such as coffee or
+                                  cola drinks, may contribute to this cause of
+                                  anxiety feelings.<span style="mso-bidi-font-size: 14.0pt; mso-ansi-language: EN-US"><o:p>
+                                  </o:p>
+                                  </span></span></font></p>
+                                  <p style="mso-margin-top-alt:auto;mso-margin-bottom-alt:auto">
+                                  <font size="2" face="Verdana"><span style="mso-bidi-font-size: 14.0pt">Biotherapy
+                                  Alternative Medicine Clinic of San Francisco
+                                  offers a comprehensive non-drug complementary
+                                  healing program for sufferers from <span lang="EN" style="mso-bidi-font-size: 14.0pt; mso-ansi-language: EN">panic
+                                  disorder </span><span style="mso-bidi-font-size: 14.0pt; mso-ansi-language: EN-US">or
+                                  anxiety. *<o:p>
+                                  </o:p>
+                                  </span></span></font></p>
+                                  <p><font size="2" face="Verdana"><span style="mso-bidi-font-size: 14.0pt">Many
+                                  people report feeling less stressed after
+                                  receiving <span class="ombody1"><b style="mso-bidi-font-weight:
+normal"><span style="mso-bidi-font-size: 14.0pt; mso-ascii-font-family: Times New Roman; mso-hansi-font-family: Times New Roman; color: blue; mso-ansi-language: EN-US"><a href="http://www.biotherapy-clinic.com/services.html#apr">acupuncture</a></span></b><span style="mso-bidi-font-size: 14.0pt; mso-ascii-font-family: Times New Roman; mso-hansi-font-family: Times New Roman; mso-ansi-language: EN-US">
+                                  therapy. Acupuncturists treat people with
+                                  anxiety based on an individualized assessment
+                                  of the excesses and deficiencies of "Qi" </span></span><span style="mso-bidi-font-size: 14.0pt; mso-ansi-language: EN-US">(vital
+                                  energy)<span style="mso-bidi-font-size:14.0pt;mso-ascii-font-family:
+&quot;Times New Roman&quot;;mso-hansi-font-family:&quot;Times New Roman&quot;;">
+                                  located in various meridians. In the case of
+                                  anxiety, a "Qi" deficiency is usually
+                                  detected in the kidney or spleen meridians.</span>
+                                  Stimulation of acupuncture points with needles
+                                  or magnets will release endorphins,
+                                  enkephalins and other well-being hormones.
+                                  These substances are also natural pain killers
+                                  that seem to reduce anxiety and depression,
+                                  promote better night sleep, alleviate neck and
+                                  shoulder pain.<span style="mso-bidi-font-size:
+14.0pt;mso-ascii-font-family:&quot;Times New Roman&quot;;mso-hansi-font-family:&quot;Times New Roman&quot;;
+"><o:p>
+                                  </o:p>
+                                  </span></span></span></font></p>
+                                  <p><span style="mso-bidi-font-size: 14.0pt">
+                                  <font size="2" face="Verdana">Acupuncture
+                                  applied to a &quot;relaxation&quot; points in
+                                  the ear also leads to a great reduction in
+                                  anxiety and panic attacks. In addition to
+                                  performing needling techniques, we also employ
+                                  point massage, relaxation techniques as well
+                                  as </font> <span class="ombody1">
+                                  <font size="2" face="Verdana"><b style="mso-bidi-font-weight:normal"><span style="mso-bidi-font-size: 14.0pt; mso-ascii-font-family: Times New Roman; mso-hansi-font-family: Times New Roman; color: blue; mso-ansi-language: EN-US"><a href="http://www.biotherapy-clinic.com/services.html#hm">herbal
+                                  medicine</a></span></b><span style="mso-bidi-font-size: 14.0pt; mso-ascii-font-family: Times New Roman; mso-hansi-font-family: Times New Roman; mso-ansi-language: EN-US">,
+                                  </span><b style="mso-bidi-font-weight:normal"><span style="mso-bidi-font-size: 14.0pt; mso-ascii-font-family: Times New Roman; mso-hansi-font-family: Times New Roman; color: blue; mso-ansi-language: EN-US"><a href="http://www.biotherapy-clinic.com/services.html#ns">nutritional
+                                  supplementation</a></span><span style="mso-bidi-font-size: 14.0pt; mso-ascii-font-family: Times New Roman; mso-hansi-font-family: Times New Roman; mso-ansi-language: EN-US"> </span></b>
+                                  <span style="mso-bidi-font-size: 14.0pt; mso-ascii-font-family: Times New Roman; mso-hansi-font-family: Times New Roman; mso-ansi-language: EN-US">and
+                                  </span><b style="mso-bidi-font-weight:
+normal"><span style="mso-bidi-font-size: 14.0pt; mso-ascii-font-family: Times New Roman; mso-hansi-font-family: Times New Roman; color: blue; mso-ansi-language: EN-US"><a href="http://www.biotherapy-clinic.com/services.html#hfc">healing
+                                  food consultation</a></span></b></font><span style="mso-bidi-font-size: 14.0pt; mso-ascii-font-family: Times New Roman; mso-hansi-font-family: Times New Roman; mso-ansi-language: EN-US"><font size="2" face="Verdana">. </font>
+                                  </span>
+                                  <o:p>
+                                  </o:p>
+                                  </span></span></p>
+                                  <p><span style="mso-bidi-font-size: 14.0pt; mso-ansi-language: EN-US">
+                                  <font size="2" face="Verdana">One
+                                  of our most successful formulas,<b style="mso-bidi-font-weight:normal">
+                                  <a href="http://biotherapystore.com/osCommerce/product_info.php?products_id=106">Yin
+                                  Formula</a>,</b> is an all natural, unique,
+                                  safe and highly effective herbal medicine that
+                                  will relieve the stress, insomnia, nervous
+                                  tension, anxiety, restlessness and
+                                  irritability.<span style="mso-spacerun: yes; mso-bidi-font-size: 14.0pt">&nbsp;
+                                  </span>Many of the clinically tested
+                                  ingredients found in this herbal formula have
+                                  been shown to alleviate depression, mood
+                                  swings, pain, spasms and cramps, maintain
+                                  mental equilibrium, relax the body and
+                                  strengthen the nervous and immune systems. It
+                                  also helps cut the cravings for sugar, coffee,
+                                  tobacco, and alcohol.<o:p>
+                                  </o:p>
+                                  </font></span></p>
+                                  <p>
+                                  <span style="mso-bidi-font-size: 14.0pt; mso-ascii-font-family: Times New Roman; mso-hansi-font-family: Times New Roman; mso-ansi-language: EN-US">
+                                  <font size="2" face="Verdana">In addition,
+                                  </font></span><font size="2">
+                                  <span style="font-family: Verdana">i</span></font><span style="FONT-SIZE: 10pt; FONT-FAMILY: Verdana">n 
+                                  recent years <b><a href="hypnosis.html">
+                                  clinical hypnosis</a></b> or <b>
+                                  <a href="hypnosis.html">hypnotherapy</a> </b>
+                                  (therapy experienced in the hypnotic state) 
+                                  has gained considerable respectability in the 
+                                  medical profession for its therapeutic role in 
+                                  the management of many conditions including 
+                                  those that are stress and anxiety related.</span></p>
+                                  <p><span style="mso-bidi-font-size: 14.0pt; mso-ansi-language: EN-US">
+                                  <font size="2" face="Verdana">To
+                                  begin undergoing services at the Biotherapy
+                                  Alternative Medicine Clinic for Panic Attacks without psych-drug,
+                                  please select one of the following options:
+                                  </font> <o:p>
+                                  </o:p>
+                                  </span></p>
+                                  <ul>
+                                    <li><font size="2" face="Verdana"><span lang="RU" style="mso-bidi-font-size: 14.0pt">Telephone
+                                      consultation. (415) 409-3939 or (650)
+                                      365-3640<o:p>
+                                      </o:p>
+                                      </span></font></li>
+                                    <li><span lang="RU" style="mso-bidi-font-size: 14.0pt">
+                                    <font size="2" face="Verdana">Office
+                                      consultation </font> <o:p>
+                                      </o:p>
+                                      </span></li>
+                                    <li><span style="mso-bidi-font-size: 14.0pt; mso-ansi-language: EN-US">
+                                    <font size="2" face="Verdana">Telephone
+                                      or e-mail order nutrition supplementation
+                                      program </font> <o:p>
+                                      </o:p>
+                                      </span></li>
+                                    <li><font size="2" face="Verdana"><span style="mso-bidi-font-size: 14.0pt; mso-fareast-font-family: Times New Roman; mso-ansi-language: EN-US; mso-fareast-language: RU; mso-bidi-language: AR-SA">"Healthy
+                                      Vacation" in San Francisco. You can
+                                      visit the Biotherapy<span style="mso-spacerun: yes; mso-bidi-font-size: 14.0pt">&nbsp;&nbsp;&nbsp;
+                                      </span>Clinic for a few weeks to combine
+                                      the enjoyment of the wonderful city along
+                                      with an intensive healing program
+                                      including whole body cleansing,
+                                      restoration of friendly intestinal flora,
+                                      acupuncture, deep relaxation, drinking
+                                      Karlovy Vary Healing Mineral Water, and
+                                      customized nutrition supplementation.</span></font></li>
+                                  </ul>
+                                  <p>&nbsp;</p>
+                                  <p>
+                                    <font size="1" face="Verdana, Arial, Helvetica, sans-serif">*The 
+                                    statements made in this website have not been 
+                                    evaluated by the Food and Drug Administration. 
+                                    The products and procedures presented at this 
+                                    website are not intended to diagnose, treat, 
+                                    cure or prevent any disease or illness, to 
+                                    prescribe any medication or to be a substitute 
+                                    for medical treatment.
+                                    </font> </p>
+                                </td>
+                              </tr>
+                            </table></td>
+                        </tr>
+                      </table>
+                      <div align="center">
+                        <p align="center"><font face="Tahoma">
+                        <a href="http://www.biotherapystore.com">Choose from 
+                        some of the best vitamins, herbs and food supplements 
+                        available in the world.</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                        <a href="http://www.biotherapystore.com">To Visit 
+                        Biotherapy Store click here</a>&nbsp; </font></p>
+                        <p></div></td>
+                  </tr>
+                </table></td>
+            </tr>
+          </table>
+          <table width="100%" border="0" cellpadding="0" cellspacing="0">
+            <tr> 
+              <td width="1%" height="33" valign="middle"> <div align="center"><IMG src="images/transparent.gif" width="10" height="8"></div></td>
+              <td width="6%" valign="top"><img src="images/leaf.gif" width="53" height="31"></td>
+              <td width="93%" valign="middle"><img src="images/if2.gif" width="864" height="40"></td>
+            </tr>
+          <!--  <tr> 
+              <td height="33" valign="middle">&nbsp;</td>
+              <td colspan="2" valign="middle">
+<table width="99%" border="0" cellpadding="1" cellspacing="0" bgcolor="C6D8C3">
+                  <tr> 
+                    <td height="101" valign="top"> 
+                      <table width="100%" border="0" cellpadding="0" cellspacing="0">
+                        <tr> 
+                          <td width="32%" height="99" valign="top"> 
+                            <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                              <tr> 
+                                <td> <table width="100%" border="0" cellpadding="0" cellspacing="0" bgcolor="#FFFFFF">
+                                    <tr> 
+                                      <td align="center"> 
+                                        <table width="298" border="0" bgcolor="F7F9F7">
+                                          <tr> 
+                                            <td width="118" valign="middle"> 
+                                              <div align="right">
+                                                <table width="93%" border="0" align="left" cellpadding="0" cellspacing="0" bgcolor="#C6D8C3">
+                                                  <tr> 
+                                                    <td> <table width="100%" border="0" cellspacing="0" cellpadding="0" bgcolor="#FFFFFF">
+                                                        <tr> 
+                                                          <td align="center"> 
+                                                            <table width="63%" border="1" bordercolor="#C6D8C3">
+                                                              <tr> 
+                                                                <td height="87"><img src="images/bio2_sm.gif" width="100" height="83"></td>
+                                                              </tr>
+                                                            </table></td>
+                                                        </tr>
+                                                      </table></td>
+                                                  </tr>
+                                                </table>
+                                              </div></td>
+                                            <td width="170" valign="top"> <table width="99%" border="0" cellpadding="2" bgcolor="F7F9F7">
+                                                <tr> 
+                                                  <td><img src="images/alka.gif" width="142" height="22"></td>
+                                                </tr>
+                                                <tr> 
+                                                  <td height="61"><font size="2">Feel 
+                                                    renewed with our special Whole 
+                                                    Body Cleansing services</font></td>
+                                                </tr>
+                                              </table></td>
+                                          </tr>
+
+                                        </table></td>
+                                    </tr>
+                                  </table></td>
+                              </tr>
+                            </table></td>
+                          <td width="32%" valign="top">
+<div align="center"> 
+                              <table width="100%" border="0" bgcolor="F7F9F7">
+                                <tr> 
+                                  <td width="43%"><table width="93%" border="0" cellspacing="0" cellpadding="0" bgcolor="#C6D8C3">
+
+
+                                      <tr> 
+                                        <td><table width="100%" border="0" cellspacing="0" cellpadding="0" bgcolor="#FFFFFF">
+                                            <tr> 
+                                              <td height="93" align="center"> 
+                                                <table width="76%" border="1" bordercolor="#C6D8C3">
+                                                  <tr> 
+                                                    <td height="87"><img src="images/filaki_sm.gif" width="100" height="83"></td>
+                                                  </tr>
+                                                </table></td>
+                                            </tr>
+                                          </table></td>
+                                      </tr>
+                                    </table> </td>
+                                  <td width="57%" valign="top"><table width="85%" border="0" cellpadding="4" bgcolor="F7F9F7">
+                                      <tr> 
+                                        <td><img src="images/wbc.gif" width="141" height="22"></td>
+                                      </tr>
+                                      <tr> 
+                                        <td height="53"><font size="2">Feel renewed 
+                                          with our special Whole Body Cleansing 
+                                          services that </font></td>
+                                      </tr>
+                                    </table></td>
+                                </tr>
+                              </table>
+                            </div></td>
+                          <td width="36%" valign="top">
+<table width="100%" height="99" border="0" bgcolor="F7F9F7">
+                              <tr> 
+                                <td width="48%" height="95" valign="middle"> 
+                                  <div align="center"> 
+                                    <table width="72%" border="1" bordercolor="#C6D8C3">
+                                      <tr> 
+                                        <td height="70"><img src="images/kala_sm.gif" width="100" height="83"></td>
+                                      </tr>
+                                    </table>
+                                  </div></td>
+                                <td width="52%"><table width="100%" border="0" cellpadding="4" bgcolor="F7F9F7">
+                                    <tr> 
+                                      <td height="30" valign="top"><img src="images/vari.gif" width="128" height="22"></td>
+                                    </tr>
+                                    <tr> 
+                                      <td height="53" valign="bottom"><font size="2">Available 
+                                        exclusively through the Biotherapy Clinic</font></td>
+                                    </tr>
+                                  </table></td>
+                              </tr>
+                            </table></td>
+                        </tr>
+                      </table> </td>
+                  </tr>
+                </table></td>
+       
+	  
+	   
+	   
+	        </tr> -->
+          </table>
+        </div>
+      </div></td>
+  </tr>
+  <tr>
+    <td height="11"><TABLE width="99%" border="0" cellspacing="0" cellpadding="2" height="1">
+        <TR> 
+          <TD height="1"> <TABLE width="100%" border="0" cellspacing="0" cellpadding="0" bgcolor="#FFFFFF">
+              <TR> 
+                <TD width="91%" align="center"><SPAN class="navigation"><font size="-1"> 
+                  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<font size="1" face="Verdana, Arial, Helvetica, sans-serif">Copyright 
+                  &copy; 2000-2004 Biotherapy Clinic. All rights reserved. </font> 
+                  </font></SPAN></TD>
+                <TD width="9%" align="center"><SPAN class="navigation"><a href="privacy.html"><font size="1" face="Verdana, Arial, Helvetica, sans-serif">Privacy 
+                  policy</font></a></SPAN></TD>
+              </TR>
+            </TABLE></TD>
+        </TR>
+      </TABLE></td>
+  </tr>
+</table>
+
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-178414-3");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+
+
+</body>
+</html>
+

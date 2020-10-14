@@ -1,0 +1,180 @@
+WARC/1.0
+WARC-Type: warcinfo
+WARC-Date: 2018-05-30T17:52:31Z
+WARC-All-Language: en
+WARC-All-Content_type: text/html
+WARC-Record-ID: <urn:uuid:befa484a-f4a2-4123-9824-d4da3cdd692b>
+Content-Type: application/http;msgtype=response
+Content-Length: 46
+
+WARCProcessor by SING Group www.sing-group.com
+
+WARC/1.0
+WARC-Type: response
+WARC-Target-URI: http://www.e-healthmarketing.eu
+WARC-Date: 20180530175231
+WARC-Language: en
+WARC-Record-ID: <http://www.e-healthmarketing.eu>
+Content-Type: application/http;msgtype=response
+Content-Length: 7135
+
+HTTP/1.1 200
+Content-Type:text/html
+
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<title>e-Health-marketing</title>
+<style type="text/css">
+<!--
+body {
+	background-color: #0396FE;
+}
+.style1 {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-weight: bold;
+	color: #0396FE;
+	font-size: 14px;
+}
+.style2 {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+}
+.style3 {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 9px;
+	font-weight: bold;
+	color: #FFFFFF;
+}
+-->
+</style>
+<script type="text/JavaScript">
+<!--
+function MM_swapImgRestore() { //v3.0
+  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
+}
+
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+
+function MM_findObj(n, d) { //v4.01
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+  if(!x && d.getElementById) x=d.getElementById(n); return x;
+}
+
+function MM_swapImage() { //v3.0
+  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
+   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
+}
+//-->
+</script>
+</head>
+
+<body onload="MM_preloadImages('wie_.jpg','wat_.jpg','hoe_.jpg','clienten_.jpg','werken_.jpg','contact_.jpg')">
+<table width="920" border="0" align="center" cellpadding="0" cellspacing="0">
+  <tr>
+    <td><div align="center"><img src="header.jpg" width="672" height="198" border="0" usemap="#Map" /></div></td>
+    <td>&nbsp;</td>
+    <td><img src="map.jpg" width="248" height="198" /></td>
+  </tr>
+  <tr>
+    <td align="center"><table width="81%" border="0" cellspacing="0" cellpadding="0">
+      <tr>
+        <td width="17%"><a href="wie.html" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('wie','','wie_.jpg',1)"><img src="wie.jpg" name="wie" width="113" height="16" border="0" id="wie" /></a></td>
+        <td width="2%"><img src="stripe.jpg" width="10" height="21" /></td>
+        <td width="17%"><a href="wat.html" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('wat','','wat_.jpg',1)"><img src="wat.jpg" name="wat" width="124" height="16" border="0" id="wat" /></a></td>
+        <td width="2%"><img src="stripe.jpg" width="10" height="21" /></td>
+        <td width="21%"><a href="hoe.html" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('hoe','','hoe_.jpg',1)"><img src="hoe.jpg" name="hoe" width="140" height="16" border="0" id="hoe" /></a></td>
+        <td width="3%"><img src="stripe.jpg" width="10" height="21" /></td>
+        <td width="11%"><a href="clienten.html" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('clienten','','clienten_.jpg',1)"><img src="clienten.jpg" name="clienten" width="67" height="16" border="0" id="clienten" /></a></td>
+        <td width="1%"><img src="stripe.jpg" width="10" height="21" /></td>
+        <td width="26%"><a href="contact.php" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('contact','','contact_.jpg',1)"><img src="contact.jpg" name="contact" width="90" height="21" border="0" id="contact" /></a></td>
+      </tr>
+    </table></td>
+
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+  </tr>
+  <tr>
+    <td valign="top"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+      <tr>
+        <td>&nbsp;</td>
+        <td valign="bottom"><img src="h_bg_content.jpg" width="672" height="16" /></td>
+        <td>&nbsp;</td>
+      </tr>
+      <tr>
+        <td>&nbsp;</td>
+        <td background="bg_content.jpg" style="padding-left:15px; padding-right:15px; height:398px;" valign="top"><p><span class="style1">Who are we?</span><br />
+          <br />
+          <span class="style2">e-Healthmarketing is a young internationally operating company founded by internet professionals with a passion to realise your online marketing objectives. The power of e-Healthmarketing lies in the combination of strengths! Top performers with many years commercial experience in healthcare joined their skills with experts who have earned their reputation in e-advertsing. Because of this combination of talents we can offer a different approach to the current publicity world, taking into account the present law - and legislation.
+
+<br />
+          <strong><br />
+          The definition of e-Health</strong>:<br />
+          <br />
+          <em>&quot;...the term characterizes not only a  technical development, but also a state-of-mind, a way of thinking, an  attitude, and a commitment for networked, global thinking, to improve health care  locally, regionally, and worldwide by using information and communication  technology (Bron:G Eysenbach:J Med Internet Res 2001;3(2):e20)</em>&quot;<br />
+          <strong><br />
+          </strong><strong>Our Mission </strong>is to keep your marketing objectives on-target and up-to-date</span></p></td>
+        <td>&nbsp;</td>
+      </tr>
+      <tr>
+        <td>&nbsp;</td>
+        <td valign="top"><img src="l_bg_content.jpg" width="672" height="16" /></td>
+        <td>&nbsp;</td>
+      </tr>
+      <tr>
+        <td>&nbsp;</td>
+        <td valign="top"><div align="center" class="style3">Copyright &copy; 2006 - 2007 e-Healthmarketing, all rights reserved </div></td>
+        <td>&nbsp;</td>
+      </tr>
+    </table></td>
+    <td>&nbsp;</td>
+    <td valign="top"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+      <tr>
+        <td><img src="h_bg_skyscraper.jpg" width="248" height="16" /></td>
+      </tr>
+      <tr>
+        <td background="bg_skyscraper.jpg">
+          <center>
+            <object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=7,0,19,0" width="200" height="400">
+              <param name="movie" value="flesje.swf" />
+              <param name="quality" value="high" />
+              <embed src="flesje.swf" quality="high" pluginspage="http://www.macromedia.com/go/getflashplayer" type="application/x-shockwave-flash" width="200" height="400"></embed>
+            </object></center>
+         
+          </td>
+      </tr>
+      <tr>
+        <td valign="top"><img src="l_bg_skryscraper.jpg" width="248" height="16" /></td>
+      </tr>
+    </table></td>
+  </tr>
+</table>
+
+<map name="Map" id="Map">
+<area shape="rect" coords="396,20,425,40" href="#" alt="English" /><area shape="rect" coords="427,18,457,38" href="nl/index.html" alt="Netherlands" />
+</map>
+
+
+
+<br />
+
+</noscript>
+<!-- End Motigo Webstats code -->
+
+
+</body>
+
+
+</html>
+
+

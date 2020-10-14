@@ -1,0 +1,27 @@
+WARC/1.0
+WARC-Type: warcinfo
+WARC-Date: 2018-05-23T09:03:43Z
+WARC-All-Language: es
+WARC-All-Content_type: text/html
+WARC-Record-ID: <urn:uuid:206f63fa-8ef5-4048-8d3a-00165c8843c7>
+Content-Type: application/http;msgtype=response
+Content-Length: 46
+
+WARCProcessor by SING Group www.sing-group.com
+
+WARC/1.0
+WARC-Type: response
+WARC-Target-URI: http://hgbc.web-den.org.uk
+WARC-Date: 20180523090343
+WARC-Language: es
+WARC-Record-ID: <http://hgbc.web-den.org.uk>
+Content-Type: application/http;msgtype=response
+Content-Length: 153
+
+HTTP/1.1 200
+Content-Type:text/html
+
+
+<html><head><META HTTP-EQUIV="refresh" CONTENT="0;URL=/cgi-sys/defaultwebpage.cgi"></head><body></body></html>
+
+

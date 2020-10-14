@@ -1,0 +1,829 @@
+WARC/1.0
+WARC-Type: warcinfo
+WARC-Date: 2018-05-30T17:52:31Z
+WARC-All-Language: fr
+WARC-All-Content_type: text/html
+WARC-Record-ID: <urn:uuid:7faeda6e-a935-409c-ac55-5e6e45a779ee>
+Content-Type: application/http;msgtype=response
+Content-Length: 46
+
+WARCProcessor by SING Group www.sing-group.com
+
+WARC/1.0
+WARC-Type: response
+WARC-Target-URI: http://www.cartoon-media.eu
+WARC-Date: 20180530175231
+WARC-Language: fr
+WARC-Record-ID: <http://www.cartoon-media.eu>
+Content-Type: application/http;msgtype=response
+Content-Length: 91549
+
+HTTP/1.1 200
+Content-Type:text/html
+
+
+<!DOCTYPE html>
+
+<html lang="fr">
+
+<head>
+	<!-- METAS -->
+
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="title" content="Home" />
+<meta name="description" content="" />
+<meta name="robots" content="index,follow" />
+<meta name="keywords" content="cartoon animation" />
+<title>Cartoon Media - Home</title>
+<link rel="shortcut icon" href="http://www.cartoon-media.eu/favicon.ico" />
+<meta property="og:title" content="Home" />
+<meta property="og:type" content="activity" />
+<meta property="og:url" content="http://www.cartoon-media.eu/home.htm" />
+	<meta property="og:image" content="http://www.cartoon-media.eu/files/library/About/logo.png" />
+<meta property="og:description" content="" />
+<meta property="og:site_name" content="Cartoon Media" />
+
+
+<!-- FAVICON, FONTS & CSS -->
+
+
+
+<meta name="viewport" content="width=device-width">
+<!-- <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no"> -->
+
+<!-- SCRIPTS -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<link type="text/css" rel="stylesheet" href="http://www.cartoon-media.eu/service/template/css/13" />
+<link type="text/css" rel="stylesheet" href="http://www.cartoon-media.eu/service/template/css/15" />
+<link type="text/css" rel="stylesheet" href="http://www.cartoon-media.eu/modules/media/assets/css/prettyPhoto.css?m=1451382828" />
+
+
+
+
+
+
+<script type="text/javascript" src="//use.typekit.net/ztz2clx.js"></script>
+<script type="text/javascript">try{Typekit.load();}catch(e){}</script>
+
+</head>
+
+<body>
+	<div id="crt-stage">
+
+		<nav>
+	<div id="crt-menuTop-container">
+		<div id="crt-menuTop">
+			<ul>
+				<li><a href="http://www.cartoon-media.eu/my-cartoon.htm" class="open">My Cartoon</a></li>
+				<li><a href="https://www.facebook.com/CARTOON.eu" class="social fbk">Facebook</a></li>
+				<li><a href="https://twitter.com/CARTOON_media" class="social twt">Twitter</a></li>
+				<li><a href="https://vimeo.com/cartoonmedia" class="social vmo">Vimeo</a></li>
+								<li><a href="http://www.cartoon-media.eu/about-2/contact.htm" class="social msg">Contact</a></li>
+							</ul>
+						<ul>
+<li><a class="open" href="http://cartoon-media.com/">Home</a></li>
+<li><a href="http://cartoon-media.com/about-2.htm">About</a></li>
+<li><a href="http://cartoon-media.com/cartoon-d-or.htm">Cartoon d'Or</a></li>
+<li><a href="http://cartoon-media.com/etna-schools.htm">ETNA Schools</a></li>
+</ul>			
+			<div class="clearfix"></div>
+		</div>
+	</div>
+
+	<div id="crt-menuBottom-container">
+		<div id="crt-menuBottom">
+			<h1><a href="http://www.cartoon-media.eu/" class="subTitled"><strong>you create, we connect</strong> networking and co-pro events</a></h1>
+
+			<div class="menuContainer">
+			<div class="menu forum">
+									<a href="http://www.cartoon-media.eu/cartoon-forum.htm" class="first ">Cartoon Forum <strong>TV pitching event</strong></a><div class="subMenu"><span class="phyl"></span><div class="subLink"><a  class="first " href="http://www.cartoon-media.eu/cartoon-forum.htm">Highlights</a></div><div class="subLink"><a  class="" href="http://www.cartoon-media.eu/cartoon-forum/cartoon-forum-2018-1/about.htm">About</a><div class="sub-subMenu"><span class="phyl"></span><div class="sub-subLink"><a class=""  href="http://www.cartoon-media.eu/cartoon-forum/cartoon-forum-2018-1/about/concept.htm">Concept</a></div><div class="sub-subLink"><a class=""  href="http://www.cartoon-media.eu/cartoon-forum/cartoon-forum-2018-1/about/how-it-works.htm">How it works</a></div></div></div><div class="subLink"><a  class="" href="http://www.cartoon-media.eu/cartoon-forum/cartoon-forum-2018-1/attend.htm">Attend</a><div class="sub-subMenu"><span class="phyl"></span><div class="sub-subLink"><a class=""  href="http://www.cartoon-media.eu/cartoon-forum/cartoon-forum-2018-1/attend/registration-4.htm">Registration</a></div><div class="sub-subLink"><a class=""  href="http://www.cartoon-media.eu/cartoon-forum/cartoon-forum-2018-1/attend/venue-1.htm">Venue</a></div><div class="sub-subLink"><a class=""  href="http://www.cartoon-media.eu/cartoon-forum/cartoon-forum-2018-1/attend/hotels.htm">Hotels</a></div><div class="sub-subLink"><a class=""  href="http://www.cartoon-media.eu/cartoon-forum/cartoon-forum-2018-1/attend/travel.htm">Travel</a></div></div></div><div class="subLink"><a  class="" href="http://www.cartoon-media.eu/cartoon-forum/cartoon-forum-2018-1/submit-a-project.htm">Submit a project</a><div class="sub-subMenu"><span class="phyl"></span><div class="sub-subLink"><a class=""  href="http://www.cartoon-media.eu/cartoon-forum/cartoon-forum-2018-1/submit-a-project/application.htm">Application</a></div><div class="sub-subLink"><a class=""  href="http://www.cartoon-media.eu/cartoon-forum/cartoon-forum-2018-1/submit-a-project/regulations.htm">Regulations</a></div><div class="sub-subLink"><a class=""  href="http://www.cartoon-media.eu/cartoon-forum/cartoon-forum-2018-1/submit-a-project/chairpersons.htm">Chairpersons</a></div></div></div><div class="subLink"><a  class="" href="http://www.cartoon-media.eu/cartoon-forum/cartoon-forum-2018-1/programme-2018-1.htm">Programme</a></div><div class="subLink"><a  class="" href="http://www.cartoon-media.eu/cartoon-forum/cartoon-forum-2018-1/projects-accepted.htm">Projects accepted</a><div class="sub-subMenu"><span class="phyl"></span><div class="sub-subLink"><a class=""  href="http://www.cartoon-media.eu/cartoon-forum/cartoon-forum-2018-1/projects-accepted/e-catalogue-form.htm">e-catalogue form</a></div><div class="sub-subLink"><a class=""  href="http://www.cartoon-media.eu/cartoon-forum/cartoon-forum-2018-1/projects-accepted/contact-s-on-site.htm">Contact(s) on site </a></div><div class="sub-subLink"><a class=""  href="http://www.cartoon-media.eu/cartoon-forum/cartoon-forum-2018-1/projects-accepted/company-profile.htm">Company profile</a></div><div class="sub-subLink"><a class=""  href="http://www.cartoon-media.eu/cartoon-forum/cartoon-forum-2018-1/projects-accepted/technical-form.htm">Technical form</a></div><div class="sub-subLink"><a class=""  href="http://www.cartoon-media.eu/cartoon-forum/cartoon-forum-2018-1/projects-accepted/digital-exhibition.htm">Digital exhibition</a></div><div class="sub-subLink"><a class=""  href="http://www.cartoon-media.eu/cartoon-forum/cartoon-forum-2018-1/projects-accepted/pitching-sessions.htm">Pitching sessions</a></div><div class="sub-subLink"><a class=""  href="http://www.cartoon-media.eu/cartoon-forum/cartoon-forum-2018-1/projects-accepted/trailer.htm">Trailer</a></div></div></div><div class="subLink"><a  class="" href="http://www.cartoon-media.eu/cartoon-forum/cartoon-forum-2018-1/lounge-2017.htm">Lounge 2017</a></div><div class="subLink"><a  class="" href="http://www.cartoon-media.eu/cartoon-forum/cartoon-forum-2018-1/cartoon-forum-tributes.htm">Cartoon Forum Tributes</a><div class="sub-subMenu"><span class="phyl"></span><div class="sub-subLink"><a class=""  href="http://www.cartoon-media.eu/cartoon-forum/cartoon-forum-2018-1/cartoon-forum-tributes/cartoon-forum-tributes-1.htm">Cartoon Forum Tributes</a></div><div class="sub-subLink"><a class=""  href="http://www.cartoon-media.eu/cartoon-forum/cartoon-forum-2018-1/cartoon-forum-tributes/previous-nominees.htm">Previous nominees</a></div></div></div><div class="subLink"><a  class="" href="http://www.cartoon-media.eu/cartoon-forum/cartoon-forum-2018-1/photos-and-videos.htm">Photos and videos</a></div><div class="subLink"><a  class="" href="http://www.cartoon-media.eu/cartoon-forum/cartoon-forum-2018-1/press-2018.htm">Press</a></div><div class="subLink"><a  class="" href="http://www.cartoon-media.eu/cartoon-forum/cartoon-forum-2018-1/archives-1.htm">Archives</a><div class="sub-subMenu"><span class="phyl"></span><div class="sub-subLink"><a class=""  href="http://www.cartoon-media.eu/cartoon-forum/cartoon-forum-2018-1/archives-1/cartoon-forum-2017-1.htm">Cartoon Forum 2017</a><div class="subSubMenu"><span class="phyl"></span><div class="sub-sub-subLink"><a class=""  href="http://www.cartoon-media.eu/cartoon-forum/cartoon-forum-2018-1/archives-1/cartoon-forum-2017-1/discover-the-projects-2017-1.htm">Projects</a></div><div class="sub-sub-subLink"><a class=""  href="http://www.cartoon-media.eu/cartoon-forum/cartoon-forum-2018-1/archives-1/cartoon-forum-2017-1/press-17.htm">Press</a></div></div></div><div class="sub-subLink"><a class=""  href="http://www.cartoon-media.eu/cartoon-forum/cartoon-forum-2018-1/archives-1/cartoon-forum-2016-1.htm">Cartoon Forum 2016</a><div class="subSubMenu"><span class="phyl"></span><div class="sub-sub-subLink"><a class=""  href="http://www.cartoon-media.eu/cartoon-forum/cartoon-forum-2018-1/archives-1/cartoon-forum-2016-1/discover-the-projects-2016-1.htm">Projects</a></div><div class="sub-sub-subLink"><a class=""  href="http://www.cartoon-media.eu/cartoon-forum/cartoon-forum-2018-1/archives-1/cartoon-forum-2016-1/press.htm">Press</a></div></div></div><div class="sub-subLink"><a class=""  href="http://www.cartoon-media.eu/cartoon-forum/cartoon-forum-2018-1/archives-1/cartoon-forum-2015-old.htm">Cartoon Forum 2015</a><div class="subSubMenu"><span class="phyl"></span><div class="sub-sub-subLink"><a class=""  href="http://www.cartoon-media.eu/cartoon-forum/cartoon-forum-2018-1/archives-1/cartoon-forum-2015-old/discover-the-projects-2015.htm">Projects</a></div><div class="sub-sub-subLink"><a class=""  href="http://www.cartoon-media.eu/cartoon-forum/cartoon-forum-2018-1/archives-1/cartoon-forum-2015-old/press-14.htm">Press</a></div></div></div><div class="sub-subLink"><a class=""  href="http://www.cartoon-media.eu/cartoon-forum/cartoon-forum-2018-1/archives-1/cartoon-forum-2014-1.htm">Cartoon Forum 2014</a><div class="subSubMenu"><span class="phyl"></span><div class="sub-sub-subLink"><a class=""  href="http://www.cartoon-media.eu/cartoon-forum/cartoon-forum-2018-1/archives-1/cartoon-forum-2014-1/projects-4.htm">Projects</a></div><div class="sub-sub-subLink"><a class=""  href="http://www.cartoon-media.eu/cartoon-forum/cartoon-forum-2018-1/archives-1/cartoon-forum-2014-1/press-8.htm">Press</a></div></div></div><div class="sub-subLink"><a class=""  href="http://www.cartoon-media.eu/cartoon-forum/cartoon-forum-2018-1/archives-1/cartoon-forum-2013.htm">Cartoon Forum 2013</a><div class="subSubMenu"><span class="phyl"></span><div class="sub-sub-subLink"><a class=""  href="http://www.cartoon-media.eu/cartoon-forum/cartoon-forum-2018-1/archives-1/cartoon-forum-2013/projects.htm">Projects</a></div><div class="sub-sub-subLink"><a class=""  href="http://www.cartoon-media.eu/cartoon-forum/cartoon-forum-2018-1/archives-1/cartoon-forum-2013/press-3.htm">Press</a></div></div></div><div class="sub-subLink"><a class=""  href="http://www.cartoon-media.eu/cartoon-forum/cartoon-forum-2018-1/archives-1/posters-1.htm">Posters</a></div></div></div><div class="subLink"><a  class="last " href="http://www.cartoon-media.eu/cartoon-forum/cartoon-forum-2018-1/reports-cartoon-forum.htm">Reports Cartoon Forum</a><div class="sub-subMenu"><span class="phyl"></span><div class="sub-subLink"><a class=""  href="http://www.cartoon-media.eu/cartoon-forum/cartoon-forum-2018-1/reports-cartoon-forum/report-2015-1.htm">Report 2015</a></div><div class="sub-subLink"><a class=""  href="http://www.cartoon-media.eu/cartoon-forum/cartoon-forum-2018-1/reports-cartoon-forum/report-2016-2.htm">Report 2016</a></div><div class="sub-subLink"><a class=""  href="http://www.cartoon-media.eu/cartoon-forum/cartoon-forum-2018-1/reports-cartoon-forum/report-2017-1.htm">Report 2017</a></div></div></div></div></div><div class="menu movie">
+									<a href="http://www.cartoon-media.eu/cartoon-movie-event.htm" class="">Cartoon Movie <strong>Feature film pitching event</strong></a><div class="subMenu"><span class="phyl"></span><div class="subLink"><a  class="first " href="http://www.cartoon-media.eu/cartoon-movie-event.htm">Highlights</a></div><div class="subLink"><a  class="" href="http://www.cartoon-media.eu/cartoon-movie-event/cartoon-movie-2018/about-4.htm">About</a><div class="sub-subMenu"><span class="phyl"></span><div class="sub-subLink"><a class=""  href="http://www.cartoon-media.eu/cartoon-movie-event/cartoon-movie-2018/about-4/concept-1.htm">Concept</a></div><div class="sub-subLink"><a class=""  href="http://www.cartoon-media.eu/cartoon-movie-event/cartoon-movie-2018/about-4/how-it-works-1.htm">How it works</a></div></div></div><div class="subLink"><a  class="" href="http://www.cartoon-media.eu/cartoon-movie-event/cartoon-movie-2018/attend-1.htm">Attend</a><div class="sub-subMenu"><span class="phyl"></span><div class="sub-subLink"><a class=""  href="http://www.cartoon-media.eu/cartoon-movie-event/cartoon-movie-2018/attend-1/registration-3.htm">Registration</a></div><div class="sub-subLink"><a class=""  href="http://www.cartoon-media.eu/cartoon-movie-event/cartoon-movie-2018/attend-1/venue.htm">Venue</a></div><div class="sub-subLink"><a class=""  href="http://www.cartoon-media.eu/cartoon-movie-event/cartoon-movie-2018/attend-1/travel-1.htm">Travel</a></div><div class="sub-subLink"><a class=""  href="http://www.cartoon-media.eu/cartoon-movie-event/cartoon-movie-2018/attend-1/hotels-1.htm">Hotels</a></div><div class="sub-subLink"><a class=""  href="http://www.cartoon-media.eu/cartoon-movie-event/cartoon-movie-2018/attend-1/bordeaux.htm">Bordeaux </a></div></div></div><div class="subLink"><a  class="" href="http://www.cartoon-media.eu/cartoon-movie-event/cartoon-movie-2018/who-is-coming-2018.htm">Who is coming</a></div><div class="subLink"><a  class="" href="http://www.cartoon-media.eu/cartoon-movie-event/cartoon-movie-2018/discover-the-projects-2022.htm">Discover the projects</a></div><div class="subLink"><a  class="" href="http://www.cartoon-media.eu/cartoon-movie-event/cartoon-movie-2018/for-accepted-projects.htm">For accepted projects</a><div class="sub-subMenu"><span class="phyl"></span><div class="sub-subLink"><a class=""  href="http://www.cartoon-media.eu/cartoon-movie-event/cartoon-movie-2018/for-accepted-projects/e-catalogue-form-1.htm">e-catalogue form</a></div><div class="sub-subLink"><a class=""  href="http://www.cartoon-media.eu/cartoon-movie-event/cartoon-movie-2018/for-accepted-projects/company-profile-1.htm">Company profile</a></div><div class="sub-subLink"><a class=""  href="http://www.cartoon-media.eu/cartoon-movie-event/cartoon-movie-2018/for-accepted-projects/technical-form-1.htm">Technical form</a></div><div class="sub-subLink"><a class=""  href="http://www.cartoon-media.eu/cartoon-movie-event/cartoon-movie-2018/for-accepted-projects/pitching-sessions-1.htm">Pitching sessions</a></div><div class="sub-subLink"><a class=""  href="http://www.cartoon-media.eu/cartoon-movie-event/cartoon-movie-2018/for-accepted-projects/trailers.htm">Trailers</a></div><div class="sub-subLink"><a class=""  href="http://www.cartoon-media.eu/cartoon-movie-event/cartoon-movie-2018/for-accepted-projects/chairpersons-1.htm">Chairpersons</a></div></div></div><div class="subLink"><a  class="" href="http://www.cartoon-media.eu/cartoon-movie-event/cartoon-movie-2018/programme-4.htm">Programme</a></div><div class="subLink"><a  class="" href="http://www.cartoon-media.eu/cartoon-movie-event/cartoon-movie-2018/cartoon-games-transmedia.htm">Cartoon Games &amp; Transmedia</a></div><div class="subLink"><a  class="" href="http://www.cartoon-media.eu/cartoon-movie-event/cartoon-movie-2018/cartoon-movie-tributes-1.htm">Cartoon Movie Tributes</a><div class="sub-subMenu"><span class="phyl"></span><div class="sub-subLink"><a class=""  href="http://www.cartoon-media.eu/cartoon-movie-event/cartoon-movie-2018/cartoon-movie-tributes-1/cartoon-movie-tributes-2.htm">Cartoon Movie Tributes</a></div><div class="sub-subLink"><a class=""  href="http://www.cartoon-media.eu/cartoon-movie-event/cartoon-movie-2018/cartoon-movie-tributes-1/previous-nominees-1.htm">Previous nominees</a></div></div></div><div class="subLink"><a  class="" href="http://www.cartoon-media.eu/cartoon-movie-event/cartoon-movie-2018/spotlight-on-spain.htm">Spotlight on Spain </a></div><div class="subLink"><a  class="" href="http://www.cartoon-media.eu/cartoon-movie-event/cartoon-movie-2018/photos-and-videos-1.htm">Photos and videos</a></div><div class="subLink"><a  class="" href="http://www.cartoon-media.eu/cartoon-movie-event/cartoon-movie-2018/press-18.htm">Press</a></div><div class="subLink"><a  class="" href="http://www.cartoon-media.eu/cartoon-movie-event/cartoon-movie-2018/submit-a-project-1.htm">Submit a project</a><div class="sub-subMenu"><span class="phyl"></span><div class="sub-subLink"><a class=""  href="http://www.cartoon-media.eu/cartoon-movie-event/cartoon-movie-2018/submit-a-project-1/application-1.htm">Application</a></div><div class="sub-subLink"><a class=""  href="http://www.cartoon-media.eu/cartoon-movie-event/cartoon-movie-2018/submit-a-project-1/regulations-1.htm">Regulations</a></div></div></div><div class="subLink"><a  class="" href="http://www.cartoon-media.eu/cartoon-movie-event/cartoon-movie-2018/archives-6.htm">Archives</a><div class="sub-subMenu"><span class="phyl"></span><div class="sub-subLink"><a class=""  href="http://www.cartoon-media.eu/cartoon-movie-event/cartoon-movie-2018/archives-6/cartoon-movie-2017-1.htm">Cartoon Movie 2017</a><div class="subSubMenu"><span class="phyl"></span><div class="sub-sub-subLink"><a class=""  href="http://www.cartoon-media.eu/cartoon-movie-event/cartoon-movie-2018/archives-6/cartoon-movie-2017-1/discover-the-projects-1.htm">Discover the projects</a></div><div class="sub-sub-subLink"><a class=""  href="http://www.cartoon-media.eu/cartoon-movie-event/cartoon-movie-2018/archives-6/cartoon-movie-2017-1/press-1.htm">Press</a></div></div></div><div class="sub-subLink"><a class=""  href="http://www.cartoon-media.eu/cartoon-movie-event/cartoon-movie-2018/archives-6/cartoon-movie-2016-1.htm">Cartoon Movie 2016</a><div class="subSubMenu"><span class="phyl"></span><div class="sub-sub-subLink"><a class=""  href="http://www.cartoon-media.eu/cartoon-movie-event/cartoon-movie-2018/archives-6/cartoon-movie-2016-1/projects-2016.htm">Projects</a></div><div class="sub-sub-subLink"><a class=""  href="http://www.cartoon-media.eu/cartoon-movie-event/cartoon-movie-2018/archives-6/cartoon-movie-2016-1/press-7.htm">Press</a></div></div></div><div class="sub-subLink"><a class=""  href="http://www.cartoon-media.eu/cartoon-movie-event/cartoon-movie-2018/archives-6/cartoon-movie-2015-1.htm">Cartoon Movie 2015</a><div class="subSubMenu"><span class="phyl"></span><div class="sub-sub-subLink"><a class=""  href="http://www.cartoon-media.eu/cartoon-movie-event/cartoon-movie-2018/archives-6/cartoon-movie-2015-1/projects-2015-1.htm">Projects</a></div><div class="sub-sub-subLink"><a class=""  href="http://www.cartoon-media.eu/cartoon-movie-event/cartoon-movie-2018/archives-6/cartoon-movie-2015-1/press-10.htm">Press</a></div></div></div><div class="sub-subLink"><a class=""  href="http://www.cartoon-media.eu/cartoon-movie-event/cartoon-movie-2018/archives-6/cartoon-movie-2014-1.htm">Cartoon Movie 2014</a><div class="subSubMenu"><span class="phyl"></span><div class="sub-sub-subLink"><a class=""  href="http://www.cartoon-media.eu/cartoon-movie-event/cartoon-movie-2018/archives-6/cartoon-movie-2014-1/projects-2.htm">Projects</a></div><div class="sub-sub-subLink"><a class=""  href="http://www.cartoon-media.eu/cartoon-movie-event/cartoon-movie-2018/archives-6/cartoon-movie-2014-1/press-5.htm">Press</a></div></div></div><div class="sub-subLink"><a class=""  href="http://www.cartoon-media.eu/cartoon-movie-event/cartoon-movie-2018/archives-6/posters-2.htm">Posters</a></div></div></div><div class="subLink"><a  class="last " href="http://www.cartoon-media.eu/cartoon-movie-event/cartoon-movie-2018/reports-cartoon-movie.htm">Reports Cartoon Movie</a><div class="sub-subMenu"><span class="phyl"></span><div class="sub-subLink"><a class=""  href="http://www.cartoon-media.eu/cartoon-movie-event/cartoon-movie-2018/reports-cartoon-movie/report-2016-1.htm">Report 2016</a></div><div class="sub-subLink"><a class=""  href="http://www.cartoon-media.eu/cartoon-movie-event/cartoon-movie-2018/reports-cartoon-movie/report-2017.htm">Report 2017</a></div><div class="sub-subLink"><a class=""  href="http://www.cartoon-media.eu/cartoon-movie-event/cartoon-movie-2018/reports-cartoon-movie/report-2018.htm">Report 2018</a></div></div></div></div></div><div class="menu master">
+									<a href="http://www.cartoon-media.eu/cartoon-360.htm" class="">Cartoon 360 <strong>Transmedia pitching event</strong></a><div class="subMenu"><span class="phyl"></span><div class="subLink"><a  class="first " href="http://www.cartoon-media.eu/cartoon-360.htm">Highlights</a></div><div class="subLink"><a  class="" href="http://www.cartoon-media.eu/cartoon-360/about-cartoon-360.htm">About Cartoon 360</a></div><div class="subLink"><a  class="" href="http://www.cartoon-media.eu/cartoon-360/programme-2018-3.htm">Programme</a></div><div class="subLink"><a  class="" href="http://www.cartoon-media.eu/cartoon-360/speakers-experts-5.htm">Speakers &amp; Experts</a></div><div class="subLink"><a  class="" href="http://www.cartoon-media.eu/cartoon-360/who-is-coming-2042.htm">Who is coming</a></div><div class="subLink"><a  class="" href="http://www.cartoon-media.eu/cartoon-360/discover-the-projects-2018-1.htm">Discover the projects</a></div><div class="subLink"><a  class="" href="http://www.cartoon-media.eu/cartoon-360/register-4.htm">Register</a></div><div class="subLink"><a  class="" href="http://www.cartoon-media.eu/cartoon-360/practical-info-2018.htm">Practical info</a></div><div class="subLink"><a  class="" href="http://www.cartoon-media.eu/cartoon-360/host-town-lille.htm">Host town: Lille</a></div><div class="subLink"><a  class="" href="http://www.cartoon-media.eu/cartoon-360/photos-and-videos-8.htm">Photos and videos</a></div><div class="subLink"><a  class="" href="http://www.cartoon-media.eu/cartoon-360/archives-2014.htm">Archives</a><div class="sub-subMenu"><span class="phyl"></span><div class="sub-subLink"><a class=""  href="http://www.cartoon-media.eu/cartoon-360/archives-2014/cartoon-360-2017.htm">Cartoon 360 2017</a><div class="subSubMenu"><span class="phyl"></span><div class="sub-sub-subLink"><a class=""  href="http://www.cartoon-media.eu/cartoon-360/archives-2014/cartoon-360-2017/programme-2035.htm">Programme</a></div><div class="sub-sub-subLink"><a class=""  href="http://www.cartoon-media.eu/cartoon-360/archives-2014/cartoon-360-2017/speakers-experts-3.htm">Speakers &amp; Experts</a></div><div class="sub-sub-subLink"><a class=""  href="http://www.cartoon-media.eu/cartoon-360/archives-2014/cartoon-360-2017/who-is-coming-2043.htm">Who is coming</a></div><div class="sub-sub-subLink"><a class=""  href="http://www.cartoon-media.eu/cartoon-360/archives-2014/cartoon-360-2017/discover-the-projects-2017.htm">Discover the projects</a></div></div></div><div class="sub-subLink"><a class=""  href="http://www.cartoon-media.eu/cartoon-360/archives-2014/cartoon-360-2016.htm">Cartoon 360 2016</a><div class="subSubMenu"><span class="phyl"></span><div class="sub-sub-subLink"><a class=""  href="http://www.cartoon-media.eu/cartoon-360/archives-2014/cartoon-360-2016/programme-2019.htm">Programme</a></div><div class="sub-sub-subLink"><a class=""  href="http://www.cartoon-media.eu/cartoon-360/archives-2014/cartoon-360-2016/discover-the-projects-2016-2.htm">Discover the projects</a></div><div class="sub-sub-subLink"><a class=""  href="http://www.cartoon-media.eu/cartoon-360/archives-2014/cartoon-360-2016/speakers-experts-2.htm">Speakers &amp; Experts</a></div><div class="sub-sub-subLink"><a class=""  href="http://www.cartoon-media.eu/cartoon-360/archives-2014/cartoon-360-2016/who-is-coming-2027.htm">Who is coming</a></div></div></div><div class="sub-subLink"><a class=""  href="http://www.cartoon-media.eu/cartoon-360/archives-2014/cartoon-360-2015.htm">Cartoon 360 2015</a><div class="subSubMenu"><span class="phyl"></span><div class="sub-sub-subLink"><a class=""  href="http://www.cartoon-media.eu/cartoon-360/archives-2014/cartoon-360-2015/programme-6.htm">Programme</a></div><div class="sub-sub-subLink"><a class=""  href="http://www.cartoon-media.eu/cartoon-360/archives-2014/cartoon-360-2015/projects-2015.htm">Projects 2015</a></div><div class="sub-sub-subLink"><a class=""  href="http://www.cartoon-media.eu/cartoon-360/archives-2014/cartoon-360-2015/speakers-experts-in-2015.htm">Speakers &amp; Experts in 2015</a></div><div class="sub-sub-subLink"><a class=""  href="http://www.cartoon-media.eu/cartoon-360/archives-2014/cartoon-360-2015/who-is-coming-5.htm">Who is coming</a></div></div></div></div></div><div class="subLink"><a  class="last " href="http://www.cartoon-media.eu/cartoon-360/press-12.htm">Press</a></div></div></div><div class="menu connection">
+									<a href="http://www.cartoon-media.eu/cartoon-connection.htm" class="">Cartoon Connection</a>
+									<ul class="quick-access"><li><a href="http://www.cartoon-media.eu/cartoon-connection/connection-canada.htm"> CANADA</a> •</li> <li><a href="http://www.cartoon-media.eu/cartoon-connection/connection-asia-eu.htm"> ASIA-EU</a></li> </ul><div class="subMenu"><span class="phyl"></span><div class="subLink"><a  class="first " href="http://www.cartoon-media.eu/cartoon-connection/connection-canada.htm">Connection CANADA</a><div class="sub-subMenu"><span class="phyl"></span><div class="sub-subLink"><a class=""  href="http://www.cartoon-media.eu/cartoon-connection/connection-canada.htm">Highlights</a></div><div class="sub-subLink"><a class=""  href="http://www.cartoon-media.eu/cartoon-connection/connection-canada/about-1.htm">About</a></div><div class="sub-subLink"><a class=""  href="http://www.cartoon-media.eu/cartoon-connection/connection-canada/register-2017-1.htm">Register</a></div><div class="sub-subLink"><a class=""  href="http://www.cartoon-media.eu/cartoon-connection/connection-canada/practical-info-2017-2.htm">Practical info</a></div><div class="sub-subLink"><a class=""  href="http://www.cartoon-media.eu/cartoon-connection/connection-canada/photos-and-videos-2017.htm">Photos and videos</a></div><div class="sub-subLink"><a class=""  href="http://www.cartoon-media.eu/cartoon-connection/connection-canada/archives-3.htm">Archives</a><div class="subSubMenu"><span class="phyl"></span><div class="sub-sub-subLink"><a class=""  href="http://www.cartoon-media.eu/cartoon-connection/connection-canada/archives-3/connection-canada-2017.htm">Connection Canada 2017</a></div><div class="sub-sub-subLink"><a class=""  href="http://www.cartoon-media.eu/cartoon-connection/connection-canada/archives-3/connection-canada-2016.htm">Connection Canada 2016</a></div><div class="sub-sub-subLink"><a class=""  href="http://www.cartoon-media.eu/cartoon-connection/connection-canada/archives-3/connection-canada-2015.htm">Connection Canada 2015</a></div></div></div></div></div><div class="subLink"><a  class="last " href="http://www.cartoon-media.eu/cartoon-connection/connection-asia-eu.htm">Connection ASIA-EU</a><div class="sub-subMenu"><span class="phyl"></span><div class="sub-subLink"><a class=""  href="http://www.cartoon-media.eu/cartoon-connection/connection-asia-eu.htm">Highlights</a></div><div class="sub-subLink"><a class=""  href="http://www.cartoon-media.eu/cartoon-connection/connection-asia-eu/about-6.htm">About</a></div><div class="sub-subLink"><a class=""  href="http://www.cartoon-media.eu/cartoon-connection/connection-asia-eu/register-6.htm">Register</a></div><div class="sub-subLink"><a class=""  href="http://www.cartoon-media.eu/cartoon-connection/connection-asia-eu/one-to-one-meetings-1.htm">One-to-one meetings</a></div><div class="sub-subLink"><a class=""  href="http://www.cartoon-media.eu/cartoon-connection/connection-asia-eu/photos-and-videos-2015-2.htm">Photos and videos</a></div><div class="sub-subLink"><a class=""  href="http://www.cartoon-media.eu/cartoon-connection/connection-asia-eu/speakers-presentations-1.htm">Speakers' Presentations</a></div><div class="sub-subLink"><a class=""  href="http://www.cartoon-media.eu/cartoon-connection/connection-asia-eu/archives-4.htm">Archives</a><div class="subSubMenu"><span class="phyl"></span><div class="sub-sub-subLink"><a class=""  href="http://www.cartoon-media.eu/cartoon-connection/connection-asia-eu/archives-4/connection-asia-eu-2017.htm">Connection Asia-EU 2017</a></div><div class="sub-sub-subLink"><a class=""  href="http://www.cartoon-media.eu/cartoon-connection/connection-asia-eu/archives-4/connection-asia-eu-2016.htm">Connection Asia-EU 2016</a></div><div class="sub-sub-subLink"><a class=""  href="http://www.cartoon-media.eu/cartoon-connection/connection-asia-eu/archives-4/connection-asia-eu-2015.htm">Connection Asia-EU 2015</a></div></div></div></div></div></div></div><div class="menu master">
+									<a href="http://www.cartoon-media.eu/cartoon-masters.htm" class="last ">Cartoon Masters</a>
+									<ul class="quick-access"><li><a href="http://www.cartoon-media.eu/cartoon-masters/cartoon-business.htm"> BUSINESS</a> •</li> <li><a href="http://www.cartoon-media.eu/cartoon-masters/cartoon-digital.htm"> DIGITAL</a> •</li> <li><a href="http://www.cartoon-media.eu/cartoon-masters/cartoon-springboard.htm"> SPRINGBOARD</a></li> </ul><div class="subMenu"><span class="phyl"></span><div class="subLink"><a  class="first " href="http://www.cartoon-media.eu/cartoon-masters/cartoon-business.htm">Cartoon BUSINESS</a><div class="sub-subMenu left"><span class="phyl"></span><div class="sub-subLink"><a class=""  href="http://www.cartoon-media.eu/cartoon-masters/cartoon-business.htm">Highlights</a></div><div class="sub-subLink"><a class=""  href="http://www.cartoon-media.eu/cartoon-masters/cartoon-business/about-cartoon-business.htm">About Cartoon Business</a></div><div class="sub-subLink"><a class=""  href="http://www.cartoon-media.eu/cartoon-masters/cartoon-business/register-2018.htm">Register</a></div><div class="sub-subLink"><a class=""  href="http://www.cartoon-media.eu/cartoon-masters/cartoon-business/practical-info-2018-1.htm">Practical info</a></div><div class="sub-subLink"><a class=""  href="http://www.cartoon-media.eu/cartoon-masters/cartoon-business/programme-2018-2.htm">Programme</a></div><div class="sub-subLink"><a class=""  href="http://www.cartoon-media.eu/cartoon-masters/cartoon-business/speakers-2018-1.htm">Speakers</a></div><div class="sub-subLink"><a class=""  href="http://www.cartoon-media.eu/cartoon-masters/cartoon-business/who-is-coming-2018-2.htm">Who is coming</a></div><div class="sub-subLink"><a class=""  href="http://www.cartoon-media.eu/cartoon-masters/cartoon-business/host-town-laspalmas.htm">Host town: Las Palmas de G.C</a></div><div class="sub-subLink"><a class=""  href="http://www.cartoon-media.eu/cartoon-masters/cartoon-business/photos-and-videos-9.htm">Photos and videos</a></div><div class="sub-subLink"><a class=""  href="http://www.cartoon-media.eu/cartoon-masters/cartoon-business/report-3.htm">Report</a></div><div class="sub-subLink"><a class=""  href="http://www.cartoon-media.eu/cartoon-masters/cartoon-business/archives-5.htm">Archives</a><div class="subSubMenu left"><span class="phyl"></span><div class="sub-sub-subLink"><a class=""  href="http://www.cartoon-media.eu/cartoon-masters/cartoon-business/archives-5/cartoon-business-2017.htm">Cartoon Business 2017</a></div><div class="sub-sub-subLink"><a class=""  href="http://www.cartoon-media.eu/cartoon-masters/cartoon-business/archives-5/cartoon-business-2016.htm">Cartoon Business 2016</a></div></div></div></div></div><div class="subLink"><a  class="" href="http://www.cartoon-media.eu/cartoon-masters/cartoon-digital.htm">Cartoon DIGITAL</a><div class="sub-subMenu left"><span class="phyl"></span><div class="sub-subLink"><a class=""  href="http://www.cartoon-media.eu/cartoon-masters/cartoon-digital.htm">Highlights</a></div><div class="sub-subLink"><a class=""  href="http://www.cartoon-media.eu/cartoon-masters/cartoon-digital/about-cartoon-digital.htm">About Cartoon Digital</a></div><div class="sub-subLink"><a class=""  href="http://www.cartoon-media.eu/cartoon-masters/cartoon-digital/register-5.htm">Register</a></div><div class="sub-subLink"><a class=""  href="http://www.cartoon-media.eu/cartoon-masters/cartoon-digital/host-town-madrid.htm">Host town: Ghent</a></div><div class="sub-subLink"><a class=""  href="http://www.cartoon-media.eu/cartoon-masters/cartoon-digital/photos-and-videos-2016-2.htm">Photos and videos</a></div><div class="sub-subLink"><a class=""  href="http://www.cartoon-media.eu/cartoon-masters/cartoon-digital/archives-2015.htm">Archives</a><div class="subSubMenu left"><span class="phyl"></span><div class="sub-sub-subLink"><a class=""  href="http://www.cartoon-media.eu/cartoon-masters/cartoon-digital/archives-2015/cartoon-digital-2017.htm">Cartoon Digital 2017</a></div><div class="sub-sub-subLink"><a class=""  href="http://www.cartoon-media.eu/cartoon-masters/cartoon-digital/archives-2015/cartoon-digital-2016.htm">Cartoon Digital 2016</a></div><div class="sub-sub-subLink"><a class=""  href="http://www.cartoon-media.eu/cartoon-masters/cartoon-digital/archives-2015/cartoon-digital-2015.htm">Cartoon Digital 2015</a></div></div></div></div></div><div class="subLink"><a  class="last " href="http://www.cartoon-media.eu/cartoon-masters/cartoon-springboard.htm">Cartoon SPRINGBOARD</a><div class="sub-subMenu left"><span class="phyl"></span><div class="sub-subLink"><a class=""  href="http://www.cartoon-media.eu/cartoon-masters/cartoon-springboard.htm">Highlights</a></div><div class="sub-subLink"><a class=""  href="http://www.cartoon-media.eu/cartoon-masters/cartoon-springboard/about-7.htm">About</a></div><div class="sub-subLink"><a class=""  href="http://www.cartoon-media.eu/cartoon-masters/cartoon-springboard/submit-a-project-3.htm">Submit a project</a></div><div class="sub-subLink"><a class=""  href="http://www.cartoon-media.eu/cartoon-masters/cartoon-springboard/host-town-valenciennes.htm">Host town: Valenciennes</a></div><div class="sub-subLink"><a class=""  href="http://www.cartoon-media.eu/cartoon-masters/cartoon-springboard/photos-and-videos-11.htm">Photos and videos</a></div><div class="sub-subLink"><a class=""  href="http://www.cartoon-media.eu/cartoon-masters/cartoon-springboard/archives.htm">Archives</a><div class="subSubMenu left"><span class="phyl"></span><div class="sub-sub-subLink"><a class=""  href="http://www.cartoon-media.eu/cartoon-masters/cartoon-springboard/archives/cartoon-springboard-2017.htm">Cartoon Springboard 2017</a></div><div class="sub-sub-subLink"><a class=""  href="http://www.cartoon-media.eu/cartoon-masters/cartoon-springboard/archives/cartoon-springboard-2016.htm">Cartoon Springboard 2016</a></div><div class="sub-sub-subLink"><a class=""  href="http://www.cartoon-media.eu/cartoon-masters/cartoon-springboard/archives/cartoon-springboard-2015.htm">Cartoon Springboard 2015</a></div></div></div></div></div></div></div><div class="clearfix"></div>			</div>
+
+			<div class="clearfix"></div>
+		</div>
+	</div>
+
+
+
+	<form id="mobile-nav">
+		<select id="mobile-category">
+			<option value="#">Select a category</option>
+			<option value="http://www.cartoon-media.eu/cartoon-forum.htm" >Cartoon Forum</option><option value="http://www.cartoon-media.eu/cartoon-movie-event.htm" >Cartoon Movie</option><option value="http://www.cartoon-media.eu/cartoon-360.htm" >Cartoon 360</option><option value="http://www.cartoon-media.eu/cartoon-connection.htm" >Cartoon Connection</option><option value="http://www.cartoon-media.eu/cartoon-masters.htm" >Cartoon Masters</option>		</select>
+
+		<select class="sub-select" data-parent="http://www.cartoon-media.eu/cartoon-forum.htm"><option value="#">Select a page</option><option value="http://www.cartoon-media.eu/cartoon-forum.htm" >Highlights</option><option value="http://www.cartoon-media.eu/cartoon-forum/cartoon-forum-2018-1/about.htm" >About</option><option value="http://www.cartoon-media.eu/cartoon-forum/cartoon-forum-2018-1/about/concept.htm" >› Concept</option><option value="http://www.cartoon-media.eu/cartoon-forum/cartoon-forum-2018-1/about/how-it-works.htm" >› How it works</option><option value="http://www.cartoon-media.eu/cartoon-forum/cartoon-forum-2018-1/attend.htm" >Attend</option><option value="http://www.cartoon-media.eu/cartoon-forum/cartoon-forum-2018-1/attend/registration-4.htm" >› Registration</option><option value="http://www.cartoon-media.eu/cartoon-forum/cartoon-forum-2018-1/attend/venue-1.htm" >› Venue</option><option value="http://www.cartoon-media.eu/cartoon-forum/cartoon-forum-2018-1/attend/hotels.htm" >› Hotels</option><option value="http://www.cartoon-media.eu/cartoon-forum/cartoon-forum-2018-1/attend/travel.htm" >› Travel</option><option value="http://www.cartoon-media.eu/cartoon-forum/cartoon-forum-2018-1/submit-a-project.htm" >Submit a project</option><option value="http://www.cartoon-media.eu/cartoon-forum/cartoon-forum-2018-1/submit-a-project/application.htm" >› Application</option><option value="http://www.cartoon-media.eu/cartoon-forum/cartoon-forum-2018-1/submit-a-project/regulations.htm" >› Regulations</option><option value="http://www.cartoon-media.eu/cartoon-forum/cartoon-forum-2018-1/submit-a-project/chairpersons.htm" >› Chairpersons</option><option value="http://www.cartoon-media.eu/cartoon-forum/cartoon-forum-2018-1/programme-2018-1.htm" >Programme</option><option value="http://www.cartoon-media.eu/cartoon-forum/cartoon-forum-2018-1/projects-accepted.htm" >Projects accepted</option><option value="http://www.cartoon-media.eu/cartoon-forum/cartoon-forum-2018-1/projects-accepted/e-catalogue-form.htm" >› e-catalogue form</option><option value="http://www.cartoon-media.eu/cartoon-forum/cartoon-forum-2018-1/projects-accepted/contact-s-on-site.htm" >› Contact(s) on site </option><option value="http://www.cartoon-media.eu/cartoon-forum/cartoon-forum-2018-1/projects-accepted/company-profile.htm" >› Company profile</option><option value="http://www.cartoon-media.eu/cartoon-forum/cartoon-forum-2018-1/projects-accepted/technical-form.htm" >› Technical form</option><option value="http://www.cartoon-media.eu/cartoon-forum/cartoon-forum-2018-1/projects-accepted/digital-exhibition.htm" >› Digital exhibition</option><option value="http://www.cartoon-media.eu/cartoon-forum/cartoon-forum-2018-1/projects-accepted/pitching-sessions.htm" >› Pitching sessions</option><option value="http://www.cartoon-media.eu/cartoon-forum/cartoon-forum-2018-1/projects-accepted/trailer.htm" >› Trailer</option><option value="http://www.cartoon-media.eu/cartoon-forum/cartoon-forum-2018-1/lounge-2017.htm" >Lounge 2017</option><option value="http://www.cartoon-media.eu/cartoon-forum/cartoon-forum-2018-1/cartoon-forum-tributes.htm" >Cartoon Forum Tributes</option><option value="http://www.cartoon-media.eu/cartoon-forum/cartoon-forum-2018-1/cartoon-forum-tributes/cartoon-forum-tributes-1.htm" >› Cartoon Forum Tributes</option><option value="http://www.cartoon-media.eu/cartoon-forum/cartoon-forum-2018-1/cartoon-forum-tributes/previous-nominees.htm" >› Previous nominees</option><option value="http://www.cartoon-media.eu/cartoon-forum/cartoon-forum-2018-1/photos-and-videos.htm" >Photos and videos</option><option value="http://www.cartoon-media.eu/cartoon-forum/cartoon-forum-2018-1/press-2018.htm" >Press</option><option value="http://www.cartoon-media.eu/cartoon-forum/cartoon-forum-2018-1/archives-1.htm" >Archives</option><option value="http://www.cartoon-media.eu/cartoon-forum/cartoon-forum-2018-1/archives-1/cartoon-forum-2017-1.htm" >› Cartoon Forum 2017</option><option value="http://www.cartoon-media.eu/cartoon-forum/cartoon-forum-2018-1/archives-1/cartoon-forum-2017-1/discover-the-projects-2017-1.htm" >&nbsp;&nbsp;&nbsp;&nbsp;› Projects</option><option value="http://www.cartoon-media.eu/cartoon-forum/cartoon-forum-2018-1/archives-1/cartoon-forum-2017-1/press-17.htm" >&nbsp;&nbsp;&nbsp;&nbsp;› Press</option><option value="http://www.cartoon-media.eu/cartoon-forum/cartoon-forum-2018-1/archives-1/cartoon-forum-2016-1.htm" >› Cartoon Forum 2016</option><option value="http://www.cartoon-media.eu/cartoon-forum/cartoon-forum-2018-1/archives-1/cartoon-forum-2016-1/discover-the-projects-2016-1.htm" >&nbsp;&nbsp;&nbsp;&nbsp;› Projects</option><option value="http://www.cartoon-media.eu/cartoon-forum/cartoon-forum-2018-1/archives-1/cartoon-forum-2016-1/press.htm" >&nbsp;&nbsp;&nbsp;&nbsp;› Press</option><option value="http://www.cartoon-media.eu/cartoon-forum/cartoon-forum-2018-1/archives-1/cartoon-forum-2015-old.htm" >› Cartoon Forum 2015</option><option value="http://www.cartoon-media.eu/cartoon-forum/cartoon-forum-2018-1/archives-1/cartoon-forum-2015-old/discover-the-projects-2015.htm" >&nbsp;&nbsp;&nbsp;&nbsp;› Projects</option><option value="http://www.cartoon-media.eu/cartoon-forum/cartoon-forum-2018-1/archives-1/cartoon-forum-2015-old/press-14.htm" >&nbsp;&nbsp;&nbsp;&nbsp;› Press</option><option value="http://www.cartoon-media.eu/cartoon-forum/cartoon-forum-2018-1/archives-1/cartoon-forum-2014-1.htm" >› Cartoon Forum 2014</option><option value="http://www.cartoon-media.eu/cartoon-forum/cartoon-forum-2018-1/archives-1/cartoon-forum-2014-1/projects-4.htm" >&nbsp;&nbsp;&nbsp;&nbsp;› Projects</option><option value="http://www.cartoon-media.eu/cartoon-forum/cartoon-forum-2018-1/archives-1/cartoon-forum-2014-1/press-8.htm" >&nbsp;&nbsp;&nbsp;&nbsp;› Press</option><option value="http://www.cartoon-media.eu/cartoon-forum/cartoon-forum-2018-1/archives-1/cartoon-forum-2013.htm" >› Cartoon Forum 2013</option><option value="http://www.cartoon-media.eu/cartoon-forum/cartoon-forum-2018-1/archives-1/cartoon-forum-2013/projects.htm" >&nbsp;&nbsp;&nbsp;&nbsp;› Projects</option><option value="http://www.cartoon-media.eu/cartoon-forum/cartoon-forum-2018-1/archives-1/cartoon-forum-2013/press-3.htm" >&nbsp;&nbsp;&nbsp;&nbsp;› Press</option><option value="http://www.cartoon-media.eu/cartoon-forum/cartoon-forum-2018-1/archives-1/posters-1.htm" >› Posters</option><option value="http://www.cartoon-media.eu/cartoon-forum/cartoon-forum-2018-1/reports-cartoon-forum.htm" >Reports Cartoon Forum</option><option value="http://www.cartoon-media.eu/cartoon-forum/cartoon-forum-2018-1/reports-cartoon-forum/report-2015-1.htm" >› Report 2015</option><option value="http://www.cartoon-media.eu/cartoon-forum/cartoon-forum-2018-1/reports-cartoon-forum/report-2016-2.htm" >› Report 2016</option><option value="http://www.cartoon-media.eu/cartoon-forum/cartoon-forum-2018-1/reports-cartoon-forum/report-2017-1.htm" >› Report 2017</option></select><select class="sub-select" data-parent="http://www.cartoon-media.eu/cartoon-movie-event.htm"><option value="#">Select a page</option><option value="http://www.cartoon-media.eu/cartoon-movie-event.htm" >Highlights</option><option value="http://www.cartoon-media.eu/cartoon-movie-event/cartoon-movie-2018/about-4.htm" >About</option><option value="http://www.cartoon-media.eu/cartoon-movie-event/cartoon-movie-2018/about-4/concept-1.htm" >› Concept</option><option value="http://www.cartoon-media.eu/cartoon-movie-event/cartoon-movie-2018/about-4/how-it-works-1.htm" >› How it works</option><option value="http://www.cartoon-media.eu/cartoon-movie-event/cartoon-movie-2018/attend-1.htm" >Attend</option><option value="http://www.cartoon-media.eu/cartoon-movie-event/cartoon-movie-2018/attend-1/registration-3.htm" >› Registration</option><option value="http://www.cartoon-media.eu/cartoon-movie-event/cartoon-movie-2018/attend-1/venue.htm" >› Venue</option><option value="http://www.cartoon-media.eu/cartoon-movie-event/cartoon-movie-2018/attend-1/travel-1.htm" >› Travel</option><option value="http://www.cartoon-media.eu/cartoon-movie-event/cartoon-movie-2018/attend-1/hotels-1.htm" >› Hotels</option><option value="http://www.cartoon-media.eu/cartoon-movie-event/cartoon-movie-2018/attend-1/bordeaux.htm" >› Bordeaux </option><option value="http://www.cartoon-media.eu/cartoon-movie-event/cartoon-movie-2018/who-is-coming-2018.htm" >Who is coming</option><option value="http://www.cartoon-media.eu/cartoon-movie-event/cartoon-movie-2018/discover-the-projects-2022.htm" >Discover the projects</option><option value="http://www.cartoon-media.eu/cartoon-movie-event/cartoon-movie-2018/for-accepted-projects.htm" >For accepted projects</option><option value="http://www.cartoon-media.eu/cartoon-movie-event/cartoon-movie-2018/for-accepted-projects/e-catalogue-form-1.htm" >› e-catalogue form</option><option value="http://www.cartoon-media.eu/cartoon-movie-event/cartoon-movie-2018/for-accepted-projects/company-profile-1.htm" >› Company profile</option><option value="http://www.cartoon-media.eu/cartoon-movie-event/cartoon-movie-2018/for-accepted-projects/technical-form-1.htm" >› Technical form</option><option value="http://www.cartoon-media.eu/cartoon-movie-event/cartoon-movie-2018/for-accepted-projects/pitching-sessions-1.htm" >› Pitching sessions</option><option value="http://www.cartoon-media.eu/cartoon-movie-event/cartoon-movie-2018/for-accepted-projects/trailers.htm" >› Trailers</option><option value="http://www.cartoon-media.eu/cartoon-movie-event/cartoon-movie-2018/for-accepted-projects/chairpersons-1.htm" >› Chairpersons</option><option value="http://www.cartoon-media.eu/cartoon-movie-event/cartoon-movie-2018/programme-4.htm" >Programme</option><option value="http://www.cartoon-media.eu/cartoon-movie-event/cartoon-movie-2018/cartoon-games-transmedia.htm" >Cartoon Games &amp; Transmedia</option><option value="http://www.cartoon-media.eu/cartoon-movie-event/cartoon-movie-2018/cartoon-movie-tributes-1.htm" >Cartoon Movie Tributes</option><option value="http://www.cartoon-media.eu/cartoon-movie-event/cartoon-movie-2018/cartoon-movie-tributes-1/cartoon-movie-tributes-2.htm" >› Cartoon Movie Tributes</option><option value="http://www.cartoon-media.eu/cartoon-movie-event/cartoon-movie-2018/cartoon-movie-tributes-1/previous-nominees-1.htm" >› Previous nominees</option><option value="http://www.cartoon-media.eu/cartoon-movie-event/cartoon-movie-2018/spotlight-on-spain.htm" >Spotlight on Spain </option><option value="http://www.cartoon-media.eu/cartoon-movie-event/cartoon-movie-2018/photos-and-videos-1.htm" >Photos and videos</option><option value="http://www.cartoon-media.eu/cartoon-movie-event/cartoon-movie-2018/press-18.htm" >Press</option><option value="http://www.cartoon-media.eu/cartoon-movie-event/cartoon-movie-2018/submit-a-project-1.htm" >Submit a project</option><option value="http://www.cartoon-media.eu/cartoon-movie-event/cartoon-movie-2018/submit-a-project-1/application-1.htm" >› Application</option><option value="http://www.cartoon-media.eu/cartoon-movie-event/cartoon-movie-2018/submit-a-project-1/regulations-1.htm" >› Regulations</option><option value="http://www.cartoon-media.eu/cartoon-movie-event/cartoon-movie-2018/archives-6.htm" >Archives</option><option value="http://www.cartoon-media.eu/cartoon-movie-event/cartoon-movie-2018/archives-6/cartoon-movie-2017-1.htm" >› Cartoon Movie 2017</option><option value="http://www.cartoon-media.eu/cartoon-movie-event/cartoon-movie-2018/archives-6/cartoon-movie-2017-1/discover-the-projects-1.htm" >&nbsp;&nbsp;&nbsp;&nbsp;› Discover the projects</option><option value="http://www.cartoon-media.eu/cartoon-movie-event/cartoon-movie-2018/archives-6/cartoon-movie-2017-1/press-1.htm" >&nbsp;&nbsp;&nbsp;&nbsp;› Press</option><option value="http://www.cartoon-media.eu/cartoon-movie-event/cartoon-movie-2018/archives-6/cartoon-movie-2016-1.htm" >› Cartoon Movie 2016</option><option value="http://www.cartoon-media.eu/cartoon-movie-event/cartoon-movie-2018/archives-6/cartoon-movie-2016-1/projects-2016.htm" >&nbsp;&nbsp;&nbsp;&nbsp;› Projects</option><option value="http://www.cartoon-media.eu/cartoon-movie-event/cartoon-movie-2018/archives-6/cartoon-movie-2016-1/press-7.htm" >&nbsp;&nbsp;&nbsp;&nbsp;› Press</option><option value="http://www.cartoon-media.eu/cartoon-movie-event/cartoon-movie-2018/archives-6/cartoon-movie-2015-1.htm" >› Cartoon Movie 2015</option><option value="http://www.cartoon-media.eu/cartoon-movie-event/cartoon-movie-2018/archives-6/cartoon-movie-2015-1/projects-2015-1.htm" >&nbsp;&nbsp;&nbsp;&nbsp;› Projects</option><option value="http://www.cartoon-media.eu/cartoon-movie-event/cartoon-movie-2018/archives-6/cartoon-movie-2015-1/press-10.htm" >&nbsp;&nbsp;&nbsp;&nbsp;› Press</option><option value="http://www.cartoon-media.eu/cartoon-movie-event/cartoon-movie-2018/archives-6/cartoon-movie-2014-1.htm" >› Cartoon Movie 2014</option><option value="http://www.cartoon-media.eu/cartoon-movie-event/cartoon-movie-2018/archives-6/cartoon-movie-2014-1/projects-2.htm" >&nbsp;&nbsp;&nbsp;&nbsp;› Projects</option><option value="http://www.cartoon-media.eu/cartoon-movie-event/cartoon-movie-2018/archives-6/cartoon-movie-2014-1/press-5.htm" >&nbsp;&nbsp;&nbsp;&nbsp;› Press</option><option value="http://www.cartoon-media.eu/cartoon-movie-event/cartoon-movie-2018/archives-6/posters-2.htm" >› Posters</option><option value="http://www.cartoon-media.eu/cartoon-movie-event/cartoon-movie-2018/reports-cartoon-movie.htm" >Reports Cartoon Movie</option><option value="http://www.cartoon-media.eu/cartoon-movie-event/cartoon-movie-2018/reports-cartoon-movie/report-2016-1.htm" >› Report 2016</option><option value="http://www.cartoon-media.eu/cartoon-movie-event/cartoon-movie-2018/reports-cartoon-movie/report-2017.htm" >› Report 2017</option><option value="http://www.cartoon-media.eu/cartoon-movie-event/cartoon-movie-2018/reports-cartoon-movie/report-2018.htm" >› Report 2018</option></select><select class="sub-select" data-parent="http://www.cartoon-media.eu/cartoon-360.htm"><option value="#">Select a page</option><option value="http://www.cartoon-media.eu/cartoon-360/about-cartoon-360.htm" >About Cartoon 360</option><option value="http://www.cartoon-media.eu/cartoon-360/programme-2018-3.htm" >Programme</option><option value="http://www.cartoon-media.eu/cartoon-360/speakers-experts-5.htm" >Speakers &amp; Experts</option><option value="http://www.cartoon-media.eu/cartoon-360/who-is-coming-2042.htm" >Who is coming</option><option value="http://www.cartoon-media.eu/cartoon-360/discover-the-projects-2018-1.htm" >Discover the projects</option><option value="http://www.cartoon-media.eu/cartoon-360/register-4.htm" >Register</option><option value="http://www.cartoon-media.eu/cartoon-360/practical-info-2018.htm" >Practical info</option><option value="http://www.cartoon-media.eu/cartoon-360/host-town-lille.htm" >Host town: Lille</option><option value="http://www.cartoon-media.eu/cartoon-360/photos-and-videos-8.htm" >Photos and videos</option><option value="http://www.cartoon-media.eu/cartoon-360/archives-2014.htm" >Archives</option><option value="http://www.cartoon-media.eu/cartoon-360/archives-2014/cartoon-360-2017.htm" >› Cartoon 360 2017</option><option value="http://www.cartoon-media.eu/cartoon-360/archives-2014/cartoon-360-2017/programme-2035.htm" >&nbsp;&nbsp;&nbsp;&nbsp;› Programme</option><option value="http://www.cartoon-media.eu/cartoon-360/archives-2014/cartoon-360-2017/speakers-experts-3.htm" >&nbsp;&nbsp;&nbsp;&nbsp;› Speakers &amp; Experts</option><option value="http://www.cartoon-media.eu/cartoon-360/archives-2014/cartoon-360-2017/who-is-coming-2043.htm" >&nbsp;&nbsp;&nbsp;&nbsp;› Who is coming</option><option value="http://www.cartoon-media.eu/cartoon-360/archives-2014/cartoon-360-2017/discover-the-projects-2017.htm" >&nbsp;&nbsp;&nbsp;&nbsp;› Discover the projects</option><option value="http://www.cartoon-media.eu/cartoon-360/archives-2014/cartoon-360-2016.htm" >› Cartoon 360 2016</option><option value="http://www.cartoon-media.eu/cartoon-360/archives-2014/cartoon-360-2016/programme-2019.htm" >&nbsp;&nbsp;&nbsp;&nbsp;› Programme</option><option value="http://www.cartoon-media.eu/cartoon-360/archives-2014/cartoon-360-2016/discover-the-projects-2016-2.htm" >&nbsp;&nbsp;&nbsp;&nbsp;› Discover the projects</option><option value="http://www.cartoon-media.eu/cartoon-360/archives-2014/cartoon-360-2016/speakers-experts-2.htm" >&nbsp;&nbsp;&nbsp;&nbsp;› Speakers &amp; Experts</option><option value="http://www.cartoon-media.eu/cartoon-360/archives-2014/cartoon-360-2016/who-is-coming-2027.htm" >&nbsp;&nbsp;&nbsp;&nbsp;› Who is coming</option><option value="http://www.cartoon-media.eu/cartoon-360/archives-2014/cartoon-360-2015.htm" >› Cartoon 360 2015</option><option value="http://www.cartoon-media.eu/cartoon-360/archives-2014/cartoon-360-2015/programme-6.htm" >&nbsp;&nbsp;&nbsp;&nbsp;› Programme</option><option value="http://www.cartoon-media.eu/cartoon-360/archives-2014/cartoon-360-2015/projects-2015.htm" >&nbsp;&nbsp;&nbsp;&nbsp;› Projects 2015</option><option value="http://www.cartoon-media.eu/cartoon-360/archives-2014/cartoon-360-2015/speakers-experts-in-2015.htm" >&nbsp;&nbsp;&nbsp;&nbsp;› Speakers &amp; Experts in 2015</option><option value="http://www.cartoon-media.eu/cartoon-360/archives-2014/cartoon-360-2015/who-is-coming-5.htm" >&nbsp;&nbsp;&nbsp;&nbsp;› Who is coming</option><option value="http://www.cartoon-media.eu/cartoon-360/press-12.htm" >Press</option></select><select class="sub-select" data-parent="http://www.cartoon-media.eu/cartoon-connection.htm"><option value="#">Select a page</option><option value="http://www.cartoon-media.eu/cartoon-connection/connection-canada.htm" >Connection CANADA</option><option value="http://www.cartoon-media.eu/cartoon-connection/connection-canada/about-1.htm" >› About</option><option value="http://www.cartoon-media.eu/cartoon-connection/connection-canada/register-2017-1.htm" >› Register</option><option value="http://www.cartoon-media.eu/cartoon-connection/connection-canada/practical-info-2017-2.htm" >› Practical info</option><option value="http://www.cartoon-media.eu/cartoon-connection/connection-canada/photos-and-videos-2017.htm" >› Photos and videos</option><option value="http://www.cartoon-media.eu/cartoon-connection/connection-canada/archives-3.htm" >› Archives</option><option value="http://www.cartoon-media.eu/cartoon-connection/connection-canada/archives-3/connection-canada-2017.htm" >&nbsp;&nbsp;&nbsp;&nbsp;› Connection Canada 2017</option><option value="http://www.cartoon-media.eu/cartoon-connection/connection-canada/archives-3/connection-canada-2016.htm" >&nbsp;&nbsp;&nbsp;&nbsp;› Connection Canada 2016</option><option value="http://www.cartoon-media.eu/cartoon-connection/connection-canada/archives-3/connection-canada-2015.htm" >&nbsp;&nbsp;&nbsp;&nbsp;› Connection Canada 2015</option><option value="http://www.cartoon-media.eu/cartoon-connection/connection-asia-eu.htm" >Connection ASIA-EU</option><option value="http://www.cartoon-media.eu/cartoon-connection/connection-asia-eu/about-6.htm" >› About</option><option value="http://www.cartoon-media.eu/cartoon-connection/connection-asia-eu/register-6.htm" >› Register</option><option value="http://www.cartoon-media.eu/cartoon-connection/connection-asia-eu/one-to-one-meetings-1.htm" >› One-to-one meetings</option><option value="http://www.cartoon-media.eu/cartoon-connection/connection-asia-eu/photos-and-videos-2015-2.htm" >› Photos and videos</option><option value="http://www.cartoon-media.eu/cartoon-connection/connection-asia-eu/speakers-presentations-1.htm" >› Speakers' Presentations</option><option value="http://www.cartoon-media.eu/cartoon-connection/connection-asia-eu/archives-4.htm" >› Archives</option><option value="http://www.cartoon-media.eu/cartoon-connection/connection-asia-eu/archives-4/connection-asia-eu-2017.htm" >&nbsp;&nbsp;&nbsp;&nbsp;› Connection Asia-EU 2017</option><option value="http://www.cartoon-media.eu/cartoon-connection/connection-asia-eu/archives-4/connection-asia-eu-2016.htm" >&nbsp;&nbsp;&nbsp;&nbsp;› Connection Asia-EU 2016</option><option value="http://www.cartoon-media.eu/cartoon-connection/connection-asia-eu/archives-4/connection-asia-eu-2015.htm" >&nbsp;&nbsp;&nbsp;&nbsp;› Connection Asia-EU 2015</option></select><select class="sub-select" data-parent="http://www.cartoon-media.eu/cartoon-masters.htm"><option value="#">Select a page</option><option value="http://www.cartoon-media.eu/cartoon-masters/cartoon-business.htm" >Cartoon BUSINESS</option><option value="http://www.cartoon-media.eu/cartoon-masters/cartoon-business/about-cartoon-business.htm" >› About Cartoon Business</option><option value="http://www.cartoon-media.eu/cartoon-masters/cartoon-business/register-2018.htm" >› Register</option><option value="http://www.cartoon-media.eu/cartoon-masters/cartoon-business/practical-info-2018-1.htm" >› Practical info</option><option value="http://www.cartoon-media.eu/cartoon-masters/cartoon-business/programme-2018-2.htm" >› Programme</option><option value="http://www.cartoon-media.eu/cartoon-masters/cartoon-business/speakers-2018-1.htm" >› Speakers</option><option value="http://www.cartoon-media.eu/cartoon-masters/cartoon-business/who-is-coming-2018-2.htm" >› Who is coming</option><option value="http://www.cartoon-media.eu/cartoon-masters/cartoon-business/host-town-laspalmas.htm" >› Host town: Las Palmas de G.C</option><option value="http://www.cartoon-media.eu/cartoon-masters/cartoon-business/photos-and-videos-9.htm" >› Photos and videos</option><option value="http://www.cartoon-media.eu/cartoon-masters/cartoon-business/report-3.htm" >› Report</option><option value="http://www.cartoon-media.eu/cartoon-masters/cartoon-business/archives-5.htm" >› Archives</option><option value="http://www.cartoon-media.eu/cartoon-masters/cartoon-business/archives-5/cartoon-business-2017.htm" >&nbsp;&nbsp;&nbsp;&nbsp;› Cartoon Business 2017</option><option value="http://www.cartoon-media.eu/cartoon-masters/cartoon-business/archives-5/cartoon-business-2016.htm" >&nbsp;&nbsp;&nbsp;&nbsp;› Cartoon Business 2016</option><option value="http://www.cartoon-media.eu/cartoon-masters/cartoon-digital.htm" >Cartoon DIGITAL</option><option value="http://www.cartoon-media.eu/cartoon-masters/cartoon-digital/about-cartoon-digital.htm" >› About Cartoon Digital</option><option value="http://www.cartoon-media.eu/cartoon-masters/cartoon-digital/register-5.htm" >› Register</option><option value="http://www.cartoon-media.eu/cartoon-masters/cartoon-digital/host-town-madrid.htm" >› Host town: Ghent</option><option value="http://www.cartoon-media.eu/cartoon-masters/cartoon-digital/photos-and-videos-2016-2.htm" >› Photos and videos</option><option value="http://www.cartoon-media.eu/cartoon-masters/cartoon-digital/archives-2015.htm" >› Archives</option><option value="http://www.cartoon-media.eu/cartoon-masters/cartoon-digital/archives-2015/cartoon-digital-2017.htm" >&nbsp;&nbsp;&nbsp;&nbsp;› Cartoon Digital 2017</option><option value="http://www.cartoon-media.eu/cartoon-masters/cartoon-digital/archives-2015/cartoon-digital-2016.htm" >&nbsp;&nbsp;&nbsp;&nbsp;› Cartoon Digital 2016</option><option value="http://www.cartoon-media.eu/cartoon-masters/cartoon-digital/archives-2015/cartoon-digital-2015.htm" >&nbsp;&nbsp;&nbsp;&nbsp;› Cartoon Digital 2015</option><option value="http://www.cartoon-media.eu/cartoon-masters/cartoon-springboard.htm" >Cartoon SPRINGBOARD</option><option value="http://www.cartoon-media.eu/cartoon-masters/cartoon-springboard/about-7.htm" >› About</option><option value="http://www.cartoon-media.eu/cartoon-masters/cartoon-springboard/submit-a-project-3.htm" >› Submit a project</option><option value="http://www.cartoon-media.eu/cartoon-masters/cartoon-springboard/host-town-valenciennes.htm" >› Host town: Valenciennes</option><option value="http://www.cartoon-media.eu/cartoon-masters/cartoon-springboard/photos-and-videos-11.htm" >› Photos and videos</option><option value="http://www.cartoon-media.eu/cartoon-masters/cartoon-springboard/archives.htm" >› Archives</option><option value="http://www.cartoon-media.eu/cartoon-masters/cartoon-springboard/archives/cartoon-springboard-2017.htm" >&nbsp;&nbsp;&nbsp;&nbsp;› Cartoon Springboard 2017</option><option value="http://www.cartoon-media.eu/cartoon-masters/cartoon-springboard/archives/cartoon-springboard-2016.htm" >&nbsp;&nbsp;&nbsp;&nbsp;› Cartoon Springboard 2016</option><option value="http://www.cartoon-media.eu/cartoon-masters/cartoon-springboard/archives/cartoon-springboard-2015.htm" >&nbsp;&nbsp;&nbsp;&nbsp;› Cartoon Springboard 2015</option></select>
+        <a href="#" id="submit-nav">GO</a>
+	</form>
+</nav>
+
+
+		<div id="crt-banner">
+			
+<!--SLIDE-->
+<div id="slider-container">
+    <a href="#" id="cta-scroll">Scroll Down</a>
+    
+    <ul class="bullets slider-pause">
+        <li><a href="#" class="current">0</a></li>        
+        <li><a href="#">1</a></li>        
+        <li><a href="#">2</a></li>        
+        <li><a href="#">3</a></li>        
+        <li><a href="#">4</a></li>        
+            </ul>
+
+    <ul class="controllers">
+        <li><a href="#" class="prev">prev</a></li>
+        <li><a href="#" class="next">next</a></li>
+    </ul>
+
+<div class="slide current">        <a href="http://cartoon-media.eu/our-news/2nd-exciting-day-at-cartoon-360.htm">
+            <img src="http://www.cartoon-media.eu/files/library/Home/Slider/DSC_0494.jpg" alt="Cartoon 360, 28-30 May 2018, Lille" />
+            <span class="cache"></span>
+            <div class="slideTxt slider-pause">
+                <h3>Cartoon 360, 28-30 May 2018, Lille</h3>
+                <p><strong><span>2nd day at Cartoon 360:</span></strong></p>
+<p><strong><span>a captivating journey into the transmedia world’s possibilities!</span></strong></p>            </div>
+        </a>
+    </div> <!-- /.slide-->
+
+    <div class="slide">        <a href="http://www.cartoon-media.eu/our-news/welcome-to-cartoon-360-in-lille.htm">
+            <img src="http://www.cartoon-media.eu/files/library/Home/Slider/DSC_0957.jpg" alt="Cartoon 360, 28-30 May 2018, Lille" />
+            <span class="cache"></span>
+            <div class="slideTxt slider-pause">
+                <h3>Cartoon 360, 28-30 May 2018, Lille</h3>
+                <p><strong>Welcome to Cartoon 360 in Lille:</strong></p>
+<p><strong>The place where animation meets transmedia!</strong></p>            </div>
+        </a>
+    </div> <!-- /.slide-->
+
+    <div class="slide">        <a href="http://www.cartoon-media.eu/cartoon-360/programme-2018-3.htm">
+            <img src="http://www.cartoon-media.eu/files/library/Home/Slider/DSC_9154-(1).jpg" alt="Cartoon 360, 28-30 May 2018, Lille" />
+            <span class="cache"></span>
+            <div class="slideTxt slider-pause">
+                <h3>Cartoon 360, 28-30 May 2018, Lille</h3>
+                <p><strong>Creating the Success of Transmedia Properties</strong></p>            </div>
+        </a>
+    </div> <!-- /.slide-->
+
+    <div class="slide">        <a href="http://www.cartoon-media.eu/cartoon-360/discover-the-projects-2018-1.htm">
+            <img src="http://www.cartoon-media.eu/files/library/Cartoon-Masters/Cartoon-360/2018/360-18-Slider.jpg" alt="Cartoon 360, 28-30 MAY 2018, Lille" />
+            <span class="cache"></span>
+            <div class="slideTxt slider-pause">
+                <h3>Cartoon 360, 28-30 MAY 2018, Lille</h3>
+                <p><strong>215 participants from 25 countries</strong></p>
+<p><strong>30 experts for 24 transmedia projects</strong></p>            </div>
+        </a>
+    </div> <!-- /.slide-->
+
+    <div class="slide">        <a href="http://www.cartoon-media.eu/cartoon-forum/cartoon-forum-2018-1/attend/registration-4.htm">
+            <img src="http://www.cartoon-media.eu/files/library/Home/Slider/FOR2018_slider.jpg" alt="Cartoon Forum, 10-13 Sep 2018, Toulouse" />
+            <span class="cache"></span>
+            <div class="slideTxt slider-pause">
+                <h3>Cartoon Forum, 10-13 Sep 2018, Toulouse</h3>
+                <p><strong><strong>A unique networking place</strong>: </strong></p>
+<p><strong>Register as a participant!</strong></p>            </div>
+        </a>
+    </div> <!-- /.slide-->
+
+    
+
+
+
+</div> <!-- /.slider-container-->
+
+
+
+
+		</div>
+
+		<div id="crt-content">
+			<div id="content" class="home">
+
+				<!-- Upcoming Events -->
+
+				
+<div class="upcoming-events">
+	<h2><strong>Upcoming</strong> Events</h2>
+
+	<div class="events-list">
+		<span class="prev-event">Prev</span>
+		<span class="next-event">Next</span>
+
+		<div class="hidder">
+			<ul>
+									<li class="master">
+						<div class="event-title">
+							<h3>Cartoon 360 2018</h3>
+							<p class="date">
+								28 › 30 May								 | Lille							</p>
+						</div>
+						<div class="event-image">
+							<div class="event-text">
+								<span class="cache"></span>
+								<i class="more-icon"></i>
+								<p>Pitch your animated transmedia project</p>
+							</div>
+							<a href="http://www.cartoon-media.eu/cartoon-360.htm">
+								<img src="http://www.cartoon-media.eu/files/library/Cartoon-Masters/Cartoon-360/2018/360-18-SQUARE.jpg" alt="" class="event-image" />
+							</a>
+						</div>
+					</li>
+									<li class="forum">
+						<div class="event-title">
+							<h3>Cartoon Forum 2018</h3>
+							<p class="date">
+								10 › 13 Sep								 | Toulouse							</p>
+						</div>
+						<div class="event-image">
+							<div class="event-text">
+								<span class="cache"></span>
+								<i class="more-icon"></i>
+								<p>Pitching &amp; co-pro event - TV series</p>
+							</div>
+							<a href="http://www.cartoon-media.eu/cartoon-forum/cartoon-forum-2018-1.htm">
+								<img src="http://www.cartoon-media.eu/files/library/Cartoon-forum/carre-galerie/_DSC6773.jpg" alt="" class="event-image" />
+							</a>
+						</div>
+					</li>
+									<li class="connection">
+						<div class="event-title">
+							<h3>Connection Canada 2018</h3>
+							<p class="date">
+								01 › 03 Oct								 | Qu&eacute;bec city							</p>
+						</div>
+						<div class="event-image">
+							<div class="event-text">
+								<span class="cache"></span>
+								<i class="more-icon"></i>
+								<p>Business meetings between European &amp; Canadian professionals</p>
+							</div>
+							<a href="http://www.cartoon-media.eu/cartoon-connection/connection-canada.htm">
+								<img src="http://www.cartoon-media.eu/files/library/Cartoon-connection/carre-galerie/Untitled-1.jpg" alt="" class="event-image" />
+							</a>
+						</div>
+					</li>
+									<li class="master">
+						<div class="event-title">
+							<h3>Cartoon Digital 2018</h3>
+							<p class="date">
+								13 › 15 Nov								 | Ghent							</p>
+						</div>
+						<div class="event-image">
+							<div class="event-text">
+								<span class="cache"></span>
+								<i class="more-icon"></i>
+								<p>Seminar: creating entertainment for connected screens</p>
+							</div>
+							<a href="http://www.cartoon-media.eu/cartoon-masters/cartoon-digital.htm">
+								<img src="http://www.cartoon-media.eu/files/library/Home/upcoming-event/6_Digital-carre2.jpg" alt="" class="event-image" />
+							</a>
+						</div>
+					</li>
+									<li class="master">
+						<div class="event-title">
+							<h3>Cartoon Springboard 2018</h3>
+							<p class="date">
+								04 › 06 Dec															</p>
+						</div>
+						<div class="event-image">
+							<div class="event-text">
+								<span class="cache"></span>
+								<i class="more-icon"></i>
+								<p>New pitching event for young talents</p>
+							</div>
+							<a href="http://www.cartoon-media.eu/cartoon-masters/cartoon-springboard.htm">
+								<img src="http://www.cartoon-media.eu/files/library/Cartoon-Masters/Springboard/Springboard-lapin.jpg" alt="" class="event-image" />
+							</a>
+						</div>
+					</li>
+							</ul>
+		</div>
+	</div>
+</div>
+
+				<!-- end Upcoming Events -->
+
+				<!-- Waht's new -->
+
+				
+<div class="whats-new">
+    <span class="background"></span>
+    <div class="news-import">
+        <a href="#" class="close-news-btn">Fermer</a>
+        <div class="newsContent"></div>
+    </div>
+    <h2><strong>What's</strong> new ?</h2>
+            <div class="col left">
+            <ul>
+                                                        <li class="master">
+                        <a href="http://www.cartoon-media.eu/our-news/2nd-exciting-day-at-cartoon-360.htm" data-url="http://www.cartoon-media.eu/our-news/2nd-exciting-day-at-cartoon-360.htm" class="news-image"><img src="http://www.cartoon-media.eu/files/library/News/Masters/DSC_0943.jpg" alt="" /></a>
+                        <div class="news-text">
+                            <p class="title"><a href="http://www.cartoon-media.eu/our-news/2nd-exciting-day-at-cartoon-360.htm">2nd exciting day at Cartoon 360!</a></p>
+                            <p class="date">30.05.2018</p>
+                        </div>
+                    </li>
+                                                        <li class="master">
+                        <a href="http://www.cartoon-media.eu/our-news/welcome-to-cartoon-360-in-lille.htm" data-url="http://www.cartoon-media.eu/our-news/welcome-to-cartoon-360-in-lille.htm" class="news-image"><img src="http://www.cartoon-media.eu/files/library/News/Masters/DSC_9154.jpg" alt="" /></a>
+                        <div class="news-text">
+                            <p class="title"><a href="http://www.cartoon-media.eu/our-news/welcome-to-cartoon-360-in-lille.htm">Welcome to Cartoon 360 in Lille!</a></p>
+                            <p class="date">28.05.2018</p>
+                        </div>
+                    </li>
+                                                        <li class="master">
+                        <a href="http://www.cartoon-media.eu/our-news/cartoon-business-2-days-with-25-top-speakers-to-learn-about-best-practices-and-the-future-of-animation-markets.htm" data-url="http://www.cartoon-media.eu/our-news/cartoon-business-2-days-with-25-top-speakers-to-learn-about-best-practices-and-the-future-of-animation-markets.htm" class="news-image"><img src="http://www.cartoon-media.eu/files/library/News/Masters/DSC_8174.jpg" alt="" /></a>
+                        <div class="news-text">
+                            <p class="title"><a href="http://www.cartoon-media.eu/our-news/cartoon-business-2-days-with-25-top-speakers-to-learn-about-best-practices-and-the-future-of-animation-markets.htm">Cartoon Business: 2 days with 25 top speakers to learn about best practices and the future of animation markets!</a></p>
+                            <p class="date">09.05.2018</p>
+                        </div>
+                    </li>
+                                                        <li class="master">
+                        <a href="http://www.cartoon-media.eu/our-news/first-day-at-cartoon-business-las-palmas-13-international-speakers-took-the-floor.htm" data-url="http://www.cartoon-media.eu/our-news/first-day-at-cartoon-business-las-palmas-13-international-speakers-took-the-floor.htm" class="news-image"><img src="http://www.cartoon-media.eu/files/library/News/Masters/DSC_7396.jpg" alt="" /></a>
+                        <div class="news-text">
+                            <p class="title"><a href="http://www.cartoon-media.eu/our-news/first-day-at-cartoon-business-las-palmas-13-international-speakers-took-the-floor.htm">First day at Cartoon Business Las Palmas: 13 international speakers took the floor! </a></p>
+                            <p class="date">08.05.2018</p>
+                        </div>
+                    </li>
+                            </ul>
+        </div>
+            <div class="col right">
+            <ul>
+                                                        <li class="forum">
+                        <a href="http://www.cartoon-media.eu/our-news/discover-the-projects-selected-during-connection-asia-eu-animation-production-day-apd-and-visegrad-animation-forum-vaf.htm" data-url="http://www.cartoon-media.eu/our-news/discover-the-projects-selected-during-connection-asia-eu-animation-production-day-apd-and-visegrad-animation-forum-vaf.htm" class="news-image"><img src="http://www.cartoon-media.eu/files/library/News/Forum/FOR18_square.jpg" alt="" /></a>
+                        <div class="news-text">
+                            <p class="title"><a href="http://www.cartoon-media.eu/our-news/discover-the-projects-selected-during-connection-asia-eu-animation-production-day-apd-and-visegrad-animation-forum-vaf.htm">Discover the projects selected during Connection Asia-EU, Animation Production Day (APD) and Visegrad Animation Forum (VAF)!</a></p>
+                            <p class="date">04.05.2018</p>
+                        </div>
+                    </li>
+                                                        <li class="movie">
+                        <a href="http://www.cartoon-media.eu/our-news/the-winner-of-the-eurimages-co-production-development-award-2018.htm" data-url="http://www.cartoon-media.eu/our-news/the-winner-of-the-eurimages-co-production-development-award-2018.htm" class="news-image"><img src="http://www.cartoon-media.eu/files/library/Home/Slider/DSC_5685-(1).jpg" alt="" /></a>
+                        <div class="news-text">
+                            <p class="title"><a href="http://www.cartoon-media.eu/our-news/the-winner-of-the-eurimages-co-production-development-award-2018.htm">The winner of the Eurimages Co-production Development Award 2018</a></p>
+                            <p class="date">10.03.2018</p>
+                        </div>
+                    </li>
+                                                        <li class="movie">
+                        <a href="http://www.cartoon-media.eu/our-news/first-day-of-the-20th-edition-of-cartoon-movie-a-record-participation.htm" data-url="http://www.cartoon-media.eu/our-news/first-day-of-the-20th-edition-of-cartoon-movie-a-record-participation.htm" class="news-image"><img src="http://www.cartoon-media.eu/files/library/News/Movie/carremovie1.jpg" alt="" /></a>
+                        <div class="news-text">
+                            <p class="title"><a href="http://www.cartoon-media.eu/our-news/first-day-of-the-20th-edition-of-cartoon-movie-a-record-participation.htm">First day of the 20th Edition of Cartoon Movie: a record participation!</a></p>
+                            <p class="date">09.03.2018</p>
+                        </div>
+                    </li>
+                                                        <li class="movie">
+                        <a href="http://www.cartoon-media.eu/our-news/cartoon-games-transmedia-keynotes-exchanges-and-b2b-meetings.htm" data-url="http://www.cartoon-media.eu/our-news/cartoon-games-transmedia-keynotes-exchanges-and-b2b-meetings.htm" class="news-image"><img src="http://www.cartoon-media.eu/files/library/News/Movie/gamesquare.jpg" alt="" /></a>
+                        <div class="news-text">
+                            <p class="title"><a href="http://www.cartoon-media.eu/our-news/cartoon-games-transmedia-keynotes-exchanges-and-b2b-meetings.htm">Cartoon Games &amp; Transmedia: keynotes, exchanges and B2B meetings!</a></p>
+                            <p class="date">07.03.2018</p>
+                        </div>
+                    </li>
+                            </ul>
+        </div>
+    
+    <p class="see-all"><a href="http://www.cartoon-media.eu/our-news.htm">+ See all</a></p>
+
+</div>
+
+
+				<!-- end Waht's new -->
+
+				<!-- What we do -->
+
+				<div class="what-we-do">
+	<h2><strong>What</strong> we do ?</h2>
+
+			<div class="col ">
+			<div class="col-image">
+				<img src="files/library/Home/Wedo/wedo01.jpg" alt="" />
+			</div>
+			<h3>Pitching events</h3>
+			<h4>Pitch to find co-pro + funding</h4>
+			<ul>
+<li><a href="http://cartoon-media.com/cartoon-forum/toulouse-2013.htm">Cartoon Forum</a><br />For TV series projects</li>
+<li><a href="http://cartoon-media.com/cartoon-movie-event/lyon-2014.htm">Cartoon Movie</a><br />For feature film projects</li>
+</ul>
+<h4>Pitch to improve your skills</h4>
+<ul>
+<li><a href="http://www.cartoon-media.eu/cartoon-masters/cartoon-360.htm">Cartoon 360</a><br />For cross-media animation projects</li>
+<li><a href="http://cartoon-media.com/cartoon-masters/cartoon-springboard.htm">Cartoon Springboard</a><br />For young graduates</li>
+</ul>		</div>
+			<div class="col ">
+			<div class="col-image">
+				<img src="files/library/Home/Wedo/wedo02.jpg" alt="" />
+			</div>
+			<h3>International seminars</h3>
+			<h4>Learn the latest trends of the market </h4>
+			<ul>
+<li><a href="http://cartoon-media.com/cartoon-masters/cartoon-finance.htm">Cartoon Business</a><br />How to finance TV series</li>
+<li><a href="http://cartoon-media.com/cartoon-masters/cartoon-digital.htm">Cartoon Digital</a><br />Creating content for connected screens</li>
+</ul>		</div>
+			<div class="col last">
+			<div class="col-image">
+				<img src="files/library/Home/Wedo/wedo03.jpg" alt="" />
+			</div>
+			<h3>Meeting other continents</h3>
+			<h4>Keynotes &amp; 1-2-1 meetings with other continents</h4>
+			<ul>
+<li><a href="http://cartoon-media.com/cartoon-connection/connection-canada.htm">Connection Canada</a><br />EU – Canada – Latin America</li>
+<li><a href="http://cartoon-media.com/cartoon-connection/connection-asia.htm">Connection Asia</a><br />EU – South Korea – Asia</li>
+</ul>		</div>
+	</div>
+
+				<!-- end What we do -->
+
+				<!-- Latest videos -->
+
+				<div class="latest-videos">
+    <h2><strong>Latest</strong> videos</h2>
+    <ul>
+                    <li class="">
+                <div class="video-image">
+                    <a href="https://vimeo.com/265333291" rel="lightbox" title="">
+                        <img src="http://www.cartoon-media.eu/files/library/Cartoon-Movie/2018/Screen-Shot-2018-04-17-at-14.30.52.png" alt="" />
+                    </a>
+                </div>
+                <h3>EURONEWS REPORT ON CARTOON MOVIE 2018</h3>
+                <p class="play">
+                    <a href="https://vimeo.com/265333291" rel="lightbox" title="">Watch the video</a>
+                </p>
+            </li>
+                    <li class="">
+                <div class="video-image">
+                    <a href="https://vimeo.com/236649674" rel="lightbox" title="">
+                        <img src="http://www.cartoon-media.eu/files/library/Cartoon-forum/2017/37003890292_a36e361f5a_o.jpg?thumb=big-square" alt="" />
+                    </a>
+                </div>
+                <h3>C21 REPORT ON CARTOON FORUM 2017</h3>
+                <p class="play">
+                    <a href="https://vimeo.com/236649674" rel="lightbox" title="">Watch the video</a>
+                </p>
+            </li>
+                    <li class="last">
+                <div class="video-image">
+                    <a href="https://vimeo.com/270038763" rel="lightbox" title="">
+                        <img src="http://www.cartoon-media.eu/files/library/Cartoon-forum/2017/forum17.jpg" alt="" />
+                    </a>
+                </div>
+                <h3>CARTOON FORUM PRESENTATION</h3>
+                <p class="play">
+                    <a href="https://vimeo.com/270038763" rel="lightbox" title="">Watch the video</a>
+                </p>
+            </li>
+            </ul>
+</div>
+
+
+
+				<!-- end Latest videos -->
+
+				<div id="crt-newsletter">
+	<div class="title">
+		<h2><strong>Stay</strong> Tuned</h2>
+		<p>Subscribe to our newsletter</p>
+	</div>
+	
+	<form method="post" action="http://www.cartoon-media.eu/about-2/newsletter.htm">
+		<input type="text" name="customform_sEmailInjected" placeholder="your email address" />
+		<input type="submit" name="subscribe" value="Subscribe" />
+	</form>
+	
+	<div class="clearfix"></div>
+</div>
+
+			</div>
+		</div>
+		<div id="crt-partners-container">
+			<div id="crt-partners">
+				<div class="contentBox"><h3><strong>Our essential partners</strong><span style="font-size: 10px;"> </span></h3>
+<ul>
+<li><a href="http://eacea.ec.europa.eu/media/index_en.php" target="_blank"><img src="http://cartoon-media.com/files/library/partners/media.jpg" alt="" width="250" /></a></li>
+<li><a href="http://www.federation-wallonie-bruxelles.be/" target="_blank"><img src="http://www.cartoon-media.eu/files/library/partners/Logo_FWB_Hori_Quadri.jpg" alt="" width="250" /></a></li>
+<li><a href="http://www.cnc.fr/web/en" target="_blank"><img src="http://www.cartoon-media.eu/files/library/partners/CNC-en-jpg_low(2).jpg" alt="" /></a></li>
+</ul>
+<div class="clearfix"> </div></div>
+				<div class="clearfix"></div>
+			</div>
+		</div>
+	</div>
+	<footer>
+	<div id="footerTop-container">
+	<div id="footerTop">
+		<div>
+			<h3>Cartoon Forum</h3>
+			<ul>
+				<li>
+					<a href="http://www.cartoon-media.eu/cartoon-forum/cartoon-forum-2018-1/about.htm">
+						About					</a>
+				</li>
+				<li>
+					<a href="http://www.cartoon-media.eu/cartoon-forum/cartoon-forum-2018-1/attend.htm">
+						Attend					</a>
+				</li>
+				<li>
+					<a href="http://www.cartoon-media.eu/cartoon-forum/cartoon-forum-2018-1/submit-a-project.htm">
+						Submit a project					</a>
+				</li>
+				<li>
+					<a href="http://www.cartoon-media.eu/cartoon-forum/cartoon-forum-2018-1/programme-2018-1.htm">
+						Programme					</a>
+				</li>
+				<li>
+					<a href="http://www.cartoon-media.eu/cartoon-forum/cartoon-forum-2018-1/projects-accepted.htm">
+						Projects accepted					</a>
+				</li>
+				<li>
+					<a href="http://www.cartoon-media.eu/cartoon-forum/cartoon-forum-2018-1/lounge-2017.htm">
+						Lounge 2017					</a>
+				</li>
+				<li>
+					<a href="http://www.cartoon-media.eu/cartoon-forum/cartoon-forum-2018-1/cartoon-forum-tributes.htm">
+						Cartoon Forum Tributes					</a>
+				</li>
+				<li>
+					<a href="http://www.cartoon-media.eu/cartoon-forum/cartoon-forum-2018-1/photos-and-videos.htm">
+						Photos and videos					</a>
+				</li>
+				<li>
+					<a href="http://www.cartoon-media.eu/cartoon-forum/cartoon-forum-2018-1/press-2018.htm">
+						Press					</a>
+				</li>
+				<li>
+					<a href="http://www.cartoon-media.eu/cartoon-forum/cartoon-forum-2018-1/archives-1.htm">
+						Archives					</a>
+				</li>
+				<li>
+					<a href="http://www.cartoon-media.eu/cartoon-forum/cartoon-forum-2018-1/reports-cartoon-forum.htm">
+						Reports Cartoon Forum					</a>
+				</li>
+			</ul>
+				</div>
+
+		<div>
+			<h3>Cartoon Movie</h3>
+			<ul>
+				<li>
+					<a href="http://www.cartoon-media.eu/cartoon-movie-event/cartoon-movie-2018/about-4.htm">
+						About					</a>
+				</li>
+				<li>
+					<a href="http://www.cartoon-media.eu/cartoon-movie-event/cartoon-movie-2018/attend-1.htm">
+						Attend					</a>
+				</li>
+				<li>
+					<a href="http://www.cartoon-media.eu/cartoon-movie-event/cartoon-movie-2018/who-is-coming-2018.htm">
+						Who is coming					</a>
+				</li>
+				<li>
+					<a href="http://www.cartoon-media.eu/cartoon-movie-event/cartoon-movie-2018/discover-the-projects-2022.htm">
+						Discover the projects					</a>
+				</li>
+				<li>
+					<a href="http://www.cartoon-media.eu/cartoon-movie-event/cartoon-movie-2018/for-accepted-projects.htm">
+						For accepted projects					</a>
+				</li>
+				<li>
+					<a href="http://www.cartoon-media.eu/cartoon-movie-event/cartoon-movie-2018/programme-4.htm">
+						Programme					</a>
+				</li>
+				<li>
+					<a href="http://www.cartoon-media.eu/cartoon-movie-event/cartoon-movie-2018/cartoon-games-transmedia.htm">
+						Cartoon Games &amp; Transmedia					</a>
+				</li>
+				<li>
+					<a href="http://www.cartoon-media.eu/cartoon-movie-event/cartoon-movie-2018/cartoon-movie-tributes-1.htm">
+						Cartoon Movie Tributes					</a>
+				</li>
+				<li>
+					<a href="http://www.cartoon-media.eu/cartoon-movie-event/cartoon-movie-2018/spotlight-on-spain.htm">
+						Spotlight on Spain 					</a>
+				</li>
+				<li>
+					<a href="http://www.cartoon-media.eu/cartoon-movie-event/cartoon-movie-2018/photos-and-videos-1.htm">
+						Photos and videos					</a>
+				</li>
+				<li>
+					<a href="http://www.cartoon-media.eu/cartoon-movie-event/cartoon-movie-2018/press-18.htm">
+						Press					</a>
+				</li>
+				<li>
+					<a href="http://www.cartoon-media.eu/cartoon-movie-event/cartoon-movie-2018/submit-a-project-1.htm">
+						Submit a project					</a>
+				</li>
+				<li>
+					<a href="http://www.cartoon-media.eu/cartoon-movie-event/cartoon-movie-2018/archives-6.htm">
+						Archives					</a>
+				</li>
+				<li>
+					<a href="http://www.cartoon-media.eu/cartoon-movie-event/cartoon-movie-2018/reports-cartoon-movie.htm">
+						Reports Cartoon Movie					</a>
+				</li>
+			</ul>
+				</div>
+
+		<div>
+			<h3>Cartoon 360</h3>
+			<ul>
+				<li>
+					<a href="http://www.cartoon-media.eu/cartoon-360/about-cartoon-360.htm">
+						About Cartoon 360					</a>
+				</li>
+				<li>
+					<a href="http://www.cartoon-media.eu/cartoon-360/programme-2018-3.htm">
+						Programme					</a>
+				</li>
+				<li>
+					<a href="http://www.cartoon-media.eu/cartoon-360/speakers-experts-5.htm">
+						Speakers &amp; Experts					</a>
+				</li>
+				<li>
+					<a href="http://www.cartoon-media.eu/cartoon-360/who-is-coming-2042.htm">
+						Who is coming					</a>
+				</li>
+				<li>
+					<a href="http://www.cartoon-media.eu/cartoon-360/discover-the-projects-2018-1.htm">
+						Discover the projects					</a>
+				</li>
+				<li>
+					<a href="http://www.cartoon-media.eu/cartoon-360/register-4.htm">
+						Register					</a>
+				</li>
+				<li>
+					<a href="http://www.cartoon-media.eu/cartoon-360/practical-info-2018.htm">
+						Practical info					</a>
+				</li>
+				<li>
+					<a href="http://www.cartoon-media.eu/cartoon-360/host-town-lille.htm">
+						Host town: Lille					</a>
+				</li>
+				<li>
+					<a href="http://www.cartoon-media.eu/cartoon-360/photos-and-videos-8.htm">
+						Photos and videos					</a>
+				</li>
+				<li>
+					<a href="http://www.cartoon-media.eu/cartoon-360/archives-2014.htm">
+						Archives					</a>
+				</li>
+				<li>
+					<a href="http://www.cartoon-media.eu/cartoon-360/press-12.htm">
+						Press					</a>
+				</li>
+			</ul>
+				</div>
+
+		<div>
+			<h3>Cartoon Connection</h3>
+			<ul>
+				<li>
+					<a href="http://www.cartoon-media.eu/cartoon-connection/connection-canada.htm">
+						Connection CANADA					</a>
+				</li>
+				<li>
+					<a href="http://www.cartoon-media.eu/cartoon-connection/connection-asia-eu.htm">
+						Connection ASIA-EU					</a>
+				</li>
+			</ul>
+				</div>
+
+		<div class="last">
+			<h3>Cartoon Masters</h3>
+			<ul>
+				<li>
+					<a href="http://www.cartoon-media.eu/cartoon-masters/cartoon-business.htm">
+						Cartoon BUSINESS					</a>
+				</li>
+				<li>
+					<a href="http://www.cartoon-media.eu/cartoon-masters/cartoon-digital.htm">
+						Cartoon DIGITAL					</a>
+				</li>
+				<li>
+					<a href="http://www.cartoon-media.eu/cartoon-masters/cartoon-springboard.htm">
+						Cartoon SPRINGBOARD					</a>
+				</li>
+			</ul>
+					<h3>Follow us</h3>
+			<ul class="social">
+				<li><a href="https://www.facebook.com/CARTOON.eu" class="fbk">Facebook</a></li>
+				<li><a href="https://twitter.com/CARTOON_media" class="twt">Twitter</a></li>
+				<li><a href="https://vimeo.com/cartoonmedia" class="vmo">Vimeo</a></li>
+			</ul>
+						<div class="clearfix"></div>
+			<a href="http://www.cartoon-media.eu/about-2/contact.htm" class="button">Contact us</a>
+			
+				</div>
+
+		
+		<div class="clearfix"></div>
+	</div>
+</div>
+	
+	<div id="footerBottom-container">
+		<div id="footerBottom">
+			<p><a href="http://www.dogstudio.be" target="_blank" class="dog">Dogstudio</a> © 2013 - CARTOON asbl | Av. Huart Hamoir 105 - 1030 Brussels - Belgium | T : +32 2 245 12 00 | F : +32 2 245 46 89  | <a href="mailto:info@cartoon-media.eu">info@cartoon-media.eu</a> </p>
+		</div>
+	</div>
+</footer>
+
+
+
+<script type="text/javascript" src="http://www.cartoon-media.eu/files/templates/cartoon/public/js/jquery10.js?m=1467899430"></script>
+<script type="text/javascript" src="http://www.cartoon-media.eu/files/templates/cartoon/public/js/jquery-ui.min10.3.js?m=1467899430"></script>
+<script type="text/javascript" src="http://www.cartoon-media.eu/files/templates/cartoon/public/js/rAF.js?m=1467899430"></script>
+<script type="text/javascript" src="http://www.cartoon-media.eu/files/templates/cartoon/public/js/modernizr.js?m=1467899430"></script>
+<script type="text/javascript" src="http://www.cartoon-media.eu/files/templates/cartoon/public/js/modetect.js?m=1467899430"></script>
+<script type="text/javascript" src="http://www.cartoon-media.eu/files/templates/cartoon/public/js/smartresize.js?m=1467899430"></script>
+<script type="text/javascript" src="http://www.cartoon-media.eu/files/templates/cartoon/public/js/easing.js?m=1467899430"></script>
+<script type="text/javascript" src="http://www.cartoon-media.eu/files/templates/cartoon/public/js/prettyCheckable.js?m=1467899430"></script>
+<script type="text/javascript" src="http://www.cartoon-media.eu/files/templates/cartoon/public/js/jquery.prettyPhoto.js?m=1467899430"></script>
+<script type="text/javascript" src="http://www.cartoon-media.eu/files/templates/cartoon/public/js/jquery.jscrollpane.min.js?m=1467899430"></script>
+<script type="text/javascript" src="http://www.cartoon-media.eu/files/templates/cartoon/public/js/jquery.mousewheel.js?m=1467899430"></script>
+<script type="text/javascript" src="http://www.cartoon-media.eu/files/templates/cartoon/public/js/dropkick.js?m=1467899430"></script>
+<script type="text/javascript" src="http://www.cartoon-media.eu/files/templates/cartoon/public/js/cartoon.js?m=1467899430"></script>
+<script type="text/javascript" src="http://www.cartoon-media.eu/files/templates/cartoon/public/js/gallery.js?m=1474639033"></script>
+
+<script type="text/javascript">//<!--
+if(window["Locale"] && Locale.use) Locale.use("en-GB");
+//--></script>
+<script type="text/javascript">//<!--
+
+var _gaq = _gaq || [];
+_gaq.push(["_setAccount", "UA-1157790-19"]);
+_gaq.push(["_trackPageview"]);
+(function() {
+	var ga = document.createElement("script"); ga.type = "text/javascript"; ga.async = true;
+	ga.src = ("https:" == document.location.protocol ? "https://ssl" : "http://www") + ".google-analytics.com/ga.js";
+	var s = document.getElementsByTagName("script")[0]; s.parentNode.insertBefore(ga, s);
+})();
+//--></script>
+
+<script type="text/javascript">
+	$(document).ready(
+		function() {
+			var oUp = $('.up'), oDown = $('.down'), oParent, oNews = $('.blockNews');
+			oClose = $('.blockDetail-container .close'),
+					oElm = null;
+
+			oUp.click(function(e) {
+				oParent = $(this).parents('.crt-grid');
+				e.preventDefault();
+				slideBlock(true, oParent);
+			});
+
+			oDown.click(function(e) {
+				oParent = $(this).parents('.crt-grid');
+				e.preventDefault();
+				slideBlock(false, oParent);
+			});
+
+			 oNews.each(function(i, elm){
+				oElm = elm;
+				$(elm).click(function(e){
+					e.preventDefault();
+					toggleNews(oElm, true);
+					// Hande the Ajax Request
+					var newsUrl = $(this).find('.blockTxt').data('url'),
+				      posting = $.post( newsUrl ),
+				      target = $('.newsContainer'),
+				      iBlock = $('#content').width()/4;
+
+					target.empty();
+					posting.done( function(data) {
+
+						//$(data).appendTo();
+						target.append(data);
+						 $('.blockDetail').css({
+							width  : iBlock*2 - 80,
+							height : iBlock*2 - 80
+						});
+					});
+					posting.fail( function(data){
+						// Message d'erreur
+						//console.log('Ajax request failed!');
+					});
+		        });
+	        });
+
+			oClose.click(function(e) {
+				e.preventDefault();
+				toggleNews(oElm, false);
+			});
+		});
+</script>
+</body>
+</html>
+

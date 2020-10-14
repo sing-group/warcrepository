@@ -1,0 +1,285 @@
+WARC/1.0
+WARC-Type: warcinfo
+WARC-Date: 2018-05-30T18:18:32Z
+WARC-Record-ID: <urn:uuid:1ac4a018-7a24-404f-a4ed-c846c1b985d4>
+WARC-All-Language: en, en-EN, EN
+WARC-All-Content_type: text/html; charset=UTF-8, text/html
+Content-Type: application/http;msgtype=response
+Content-Length: 46
+
+WARCProcessor by SING Group www.sing-group.com
+
+WARC/1.0
+WARC-Type: response
+WARC-Record-ID: <http://www.c-rural.eu>
+WARC-Date: 20180530181832
+WARC-Target-URI: http://www.c-rural.eu
+WARC-Language: en-EN
+Content-Type: application/http;msgtype=response
+Content-Length: 10616
+
+HTTP/1.1 200
+Content-Type:text/html; charset=UTF-8
+
+
+<!DOCTYPE html>
+<html lang="en-EN">
+<head>
+	<title>C@R Website - Home</title> 
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<link rel="shortcut icon" href="images/favicon.ico">
+	<link type="text/css" rel="stylesheet" media="screen" href="css\rural_styles.css">
+	<link type="text/css" rel="stylesheet" media="screen" href="css\mod_events_cal.css">
+	<link type="text/css" rel="stylesheet" media="screen" href="css\theme.css">
+</head>
+<body>
+<!-- CONTENIDO -->
+<div id="todo">
+<!-- CABECERA -->
+	<div id="encabezado">
+    			<img src="img/cabecera.gif" alt="cabecera" style="width: 800px; height: 88px" usemap="#enlaces">
+	
+		<map name="enlaces">
+	
+		  <area shape="rect" coords="31,1,225,89" href="index.php">
+		  <area shape="rect" coords="578,1,667,54" href="http://cordis.europa.eu/fp6/dc/index.cfm?fuseaction=UserSite.FP6HomePage" target="_blank">
+		  <area shape="rect" coords="670,1,727,54" href="http://cordis.europa.eu/" target="_blank">
+		  <area shape="rect" coords="735,1,788,55" href="http://cordis.europa.eu/ist/home.html" target="_blank">
+        </map>
+	</div>	
+	<div id="encabezado2">
+	</div>
+	<!-- MIGAS -->
+		<div id="migas">
+			<p class="txt">Est&aacute; en:</p>
+			<ul>
+				<li>Inicio</li> &gt; 
+				<li>
+					<!-- sustituir los enlaces cuando subamos a servidor -->	
+					<a href="index.html"><strong>Home</strong></a>
+				</li> 
+			</ul>
+		</div>
+	
+	<!--main content-->
+	<div id="contenido">
+		<div id="izda">
+		
+		<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>menu</title>
+</head>
+<link type="text/css" rel="stylesheet" media="screen" href="css\menu_styles.css">
+<!--<link type="text/css" rel="stylesheet" media="screen" href="css\rural_styles.css">
+-->	
+
+
+
+<body>
+	<div id="izda">
+            <table cellpadding="0" cellspacing="0" class="moduletable">
+				<tbody>
+					<tr><th valign="top">About the Project</th></tr>
+					<tr><td>
+						<ul id="mainlevel">
+										
+							<li><a href="index.php" class="mainlevel  activo"  >Home</a></li>
+							<li><a href="overview.php" class="mainlevel " >Overview</a></li>
+							<li><a href="objetives.php" class="mainlevel " >Objectives</a></li>
+							<li><a href="livinglabs.php" class="mainlevel " >Living Labs</a></li>
+							<li><a href="documents.php" class="mainlevel " >Documents</a></li>
+							<li><a href="workshops.php" class="mainlevel " >Workshops</a></li>
+							<li><a href="news.php" class="mainlevel " >News</a></li>
+							<li><a href="partners.php"  class="mainlevel " >Partners</a></li>
+							<li><a href="mailto:asdm@tragsa.es" class="mainlevel" >Contacts</a></li>
+							<li><a href="links.php" class="mainlevel " >Links</a></li>
+							<li><a href="newsletters.php" class="mainlevel " >Newsletters</a></li>
+							<li><a href="deliverables.php" class="mainlevel " >Deliverables</a></li>
+							<!--<li><a href="videoslivinglabs.html" class="mainlevel" onclick="window.top.location.reload(true);return false;" target="_parent">Videos Living Labs </a></li>
+							<li><a href="" target="_blank" class="mainlevel" >Policy Support Tool</a></li>
+							<li><a href="http://catr.dit.upm.es/index.php/Main_Page" target="_blank" class="mainlevel" >Spanish Living Lab Vertical Group Software Repository </a></li>-->
+						</ul>
+					</td></tr>
+				</tbody>
+			</table>
+		</div>
+</body>
+</html>
+
+		<br> <br>
+            <a href="dmdocuments/C@RBook.pdf" target="_blank" >Download C@R Book!!</a>
+            <a href="dmdocuments/C@RBook.pdf" target="_blank" ><img src="img/descarga_libro.gif" align="center"></a>
+			<br> <br>
+			<br> <br>
+			<a href="deliverables.html"><img src="img/downloadv2.gif" align="center"></a>
+            <br><br>
+		</div>
+			
+		<div id="centro">
+        <div class="c">
+		  <br> <br />
+        <table class="blog" cellpadding="0" cellspacing="0"><tbody><tr><td valign="top">
+			<div>
+				<table class="contentpaneopen">
+					<tbody><tr><td class="contentheading" width="100%">What is Collaboration at Rural?</td></tr>
+					</tbody>
+				</table>
+
+				<table class="contentpaneopen">
+					<tbody><tr>
+						<td valign="top" colspan="2">
+							<div class="moduletable">
+							
+								<script src="js/mootools.js" type="text/javascript"></script>
+								<script src="js/slideshow.js" type="text/javascript"></script>
+								
+							
+								<div id="slidewrap" style="text-align: -webkit-center;">
+									<div id="slideshow" style="display: block; position: relative; width: 445px; text-align: -webkit-center;"><div style="display: block; overflow: hidden; position: relative; width: 445px; height: 170px;"><img src="img/rotator/i.jpg" title="" alt="" style="display: block; position: absolute; left: 0px; top: 0px; z-index: 5008; visibility: visible; zoom: 1; opacity: 1; width: auto; height: auto; cursor: default; right: auto;"><img src="img/rotator/j.jpg" title="" alt="" style="display: block; position: absolute; left: 0px; top: 0px; z-index: 5009; visibility: visible; zoom: 1; opacity: 1; width: auto; height: auto; cursor: default; right: auto;"></div>
+									</div>
+									<div id="loadingDiv"></div>
+								</div>
+								
+								
+								<script type="text/javascript">
+									window.addEvent('load', function(){
+											var imgs = [];
+
+																imgs.push({
+													file: 'a.jpg',
+																			title: '',
+													desc: '',
+													url: ''
+																		});
+																imgs.push({
+													file: 'b.jpg',
+																			title: '',
+													desc: '',
+													url: ''
+																		});
+																imgs.push({
+													file: 'c.jpg',
+																			title: '',
+													desc: '',
+													url: ''
+																		});
+																imgs.push({
+													file: 'd.jpg',
+																			title: '',
+													desc: '',
+													url: ''
+																		});
+																imgs.push({
+													file: 'e.jpg',
+																			title: '',
+													desc: '',
+													url: ''
+																		});
+																imgs.push({
+													file: 'f.jpg',
+																			title: '',
+													desc: '',
+													url: ''
+																		});
+																imgs.push({
+													file: 'g.jpg',
+																			title: '',
+													desc: '',
+													url: ''
+																		});
+																imgs.push({
+													file: 'h.jpg',
+																			title: '',
+													desc: '',
+													url: ''
+																		});
+																imgs.push({
+													file: 'i.jpg',
+																			title: '',
+													desc: '',
+													url: ''
+																		});
+																imgs.push({
+													file: 'j.jpg',
+																			title: '',
+													desc: '',
+													url: ''
+																		});
+
+											var myshow = new Slideshow('slideshow', { 
+												type: 'wipe',
+												showTitleCaption: 0,
+												captionHeight: 45,
+												width: 445, 
+												height: 170, 
+												pan: 5,
+												zoom: 5,
+												loadingDiv: 0,
+												resize: false,
+												duration: [2000, 12000],
+												transition: Fx.Transitions.Quad.easeInOut,
+												images: imgs, 
+												path: 'img/rotator/'
+											});
+
+											myshow.caps.h2.setStyles({
+												color: '#fff',
+												fontSize: '13px'
+											});
+											myshow.caps.p.setStyles({
+												color: '#ccc',
+												fontSize: '11px'
+											});
+										});
+								</script>
+								
+								
+							</div>
+							<font size="2"><p align="justify">Collaboration and Rural (C@R) is a project that aims to enable people in remote and rural Europe to fully participate in the knowledge society as citizens and as professionals.&nbsp;</p><p align="justify">There are many barriers that hinder rural development; the more severe ones include the lack of telecom infrastructures, hard environmental conditions, usability restrictions, lack of ICT literacy, difficulties on the introduction acceptance of new work methods... Barriers are also related to heterogeneity of policies, cultural aspects and working methodologies.</p><p align="justify">C@R’s objective is to remove these barriers in order to improve rural development in an effective and harmonised way.</p></font>			
+						</td>
+					</tr></tbody>
+				</table>
+
+				<span class="article_seperator">&nbsp;</span>
+
+			</div></td></tr>
+			<tr><td valign="top"><table width="100%" cellpadding="0" cellspacing="0"><tbody><tr><td valign="top" width="100%">			
+			<table class="contentpaneopen"><tbody><tr><td class="contentheading" width="100%">Our Target Users</td></tr></tbody></table>
+			
+			<table class="contentpaneopen"><tbody><tr><td valign="top" colspan="2">
+				<font size="2"><p align="justify">C@R's target users includes all rural inhabitants, trying to significantly enhance their quality of life and to revalorise rural settings. This project has a specific focus on users in incubation processes in open communities (examples include hiking, emergency, etc), eGovernance and fishery.</p><p align="justify">
+					<!-- CAMBIAR URL -->
+					
+					
+					<a href="dmdocuments/Project leaflet.pdf" target="_blank">Download Project leaflet</a></p></font> 
+					
+			</td></tr></tbody></table>
+
+		<span class="article_seperator">&nbsp;</span>
+
+			</td></tr>
+			<tr><td valign="top" width="100%">  
+			<table class="contentpaneopen">
+				<tbody><tr><td class="contentheading" width="100%">Latest News</td></tr></tbody></table>
+				
+			
+			<table class="contentpaneopen">
+				<tbody><tr><td valign="top" colspan="2">
+				<div align="left"><div id="links" style="width: 100%; height: 129px"><p align="left"><strong>2010-06-17 </strong>&nbsp;Spanish Living Lab Vertical Group Software Repository &nbsp;&nbsp;</p><p align="left"><strong>2010-06-10&nbsp;<a href="dmdocuments/C@RBook.pdf" target="_blank">Download Book</a></strong></p><p align="left"><strong>2010-05-27&nbsp;<a href="deliverablesFinalreview.html">Download Final Review Presentations</a> </strong></p></div></div></td></tr></tbody></table>
+
+		<span class="article_seperator">&nbsp;</span>
+		</td></tr></tbody></table></td></tr></tbody></table>
+		</div>
+		</div>
+		
+		
+		
+	</div>
+	<div id="pie">C@R Collaboration at Rural</div>
+</div>
+</body>
+</html>
+

@@ -1,0 +1,353 @@
+WARC/1.0
+WARC-Type: warcinfo
+WARC-Date: 2018-05-30T18:18:32Z
+WARC-Record-ID: <urn:uuid:4c22bf01-e54a-4605-ac8f-e6d682011942>
+WARC-All-Language: en, en-US
+WARC-All-Content_type: text/html; charset=UTF-8, text/html
+Content-Type: application/http;msgtype=response
+Content-Length: 46
+
+WARCProcessor by SING Group www.sing-group.com
+
+WARC/1.0
+WARC-Type: response
+WARC-Record-ID: <http://www.jazzandsoul.eu>
+WARC-Date: 20180530181832
+WARC-Target-URI: http://www.jazzandsoul.eu
+WARC-Language: en-US
+Content-Type: application/http;msgtype=response
+Content-Length: 42595
+
+HTTP/1.1 200
+Content-Type:text/html; charset=UTF-8
+
+
+<!DOCTYPE html>
+<!--[if IE 7]>
+<html class="ie ie7" lang="en-US" prefix="og: http://ogp.me/ns#">
+<![endif]-->
+<!--[if IE 8]>
+<html class="ie ie8" lang="en-US" prefix="og: http://ogp.me/ns#">
+<![endif]-->
+<!--[if !(IE 7) & !(IE 8)]><!-->
+<html lang="en-US" prefix="og: http://ogp.me/ns#">
+<!--<![endif]-->
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width" />
+<link rel="profile" href="http://gmpg.org/xfn/11" />
+<link rel="pingback" href="http://www.jazzandsoul.eu/xmlrpc.php" />
+<!--[if lt IE 9]>
+<script src="http://www.jazzandsoul.eu/wp-content/themes/tiny-forge/js/html5.js" type="text/javascript"></script>
+<![endif]-->
+<title>jazzandsoul.eu -</title>
+
+<!-- This site is optimized with the Yoast SEO plugin v3.2.5 - https://yoast.com/wordpress/plugins/seo/ -->
+<link rel="canonical" href="http://www.jazzandsoul.eu" />
+<meta property="og:locale" content="en_US" />
+<meta property="og:type" content="website" />
+<meta property="og:title" content="jazzandsoul.eu -" />
+<meta property="og:url" content="http://www.jazzandsoul.eu" />
+<meta property="og:site_name" content="jazzandsoul.eu" />
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:title" content="jazzandsoul.eu -" />
+<script type='application/ld+json'>{"@context":"http:\/\/schema.org","@type":"WebSite","url":"http:\/\/www.jazzandsoul.eu\/","name":"jazzandsoul.eu","potentialAction":{"@type":"SearchAction","target":"http:\/\/www.jazzandsoul.eu\/?s={search_term_string}","query-input":"required name=search_term_string"}}</script>
+<!-- / Yoast SEO plugin. -->
+
+<link rel="alternate" type="application/rss+xml" title="jazzandsoul.eu &raquo; Feed" href="http://www.jazzandsoul.eu/feed/" />
+<link rel="alternate" type="application/rss+xml" title="jazzandsoul.eu &raquo; Comments Feed" href="http://www.jazzandsoul.eu/comments/feed/" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/72x72\/","ext":".png","source":{"concatemoji":"http:\/\/www.jazzandsoul.eu\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.5.14"}};
+			!function(a,b,c){function d(a){var c,d,e,f=b.createElement("canvas"),g=f.getContext&&f.getContext("2d"),h=String.fromCharCode;if(!g||!g.fillText)return!1;switch(g.textBaseline="top",g.font="600 32px Arial",a){case"flag":return g.fillText(h(55356,56806,55356,56826),0,0),f.toDataURL().length>3e3;case"diversity":return g.fillText(h(55356,57221),0,0),c=g.getImageData(16,16,1,1).data,d=c[0]+","+c[1]+","+c[2]+","+c[3],g.fillText(h(55356,57221,55356,57343),0,0),c=g.getImageData(16,16,1,1).data,e=c[0]+","+c[1]+","+c[2]+","+c[3],d!==e;case"simple":return g.fillText(h(55357,56835),0,0),0!==g.getImageData(16,16,1,1).data[0];case"unicode8":return g.fillText(h(55356,57135),0,0),0!==g.getImageData(16,16,1,1).data[0]}return!1}function e(a){var c=b.createElement("script");c.src=a,c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g,h,i;for(i=Array("simple","flag","unicode8","diversity"),c.supports={everything:!0,everythingExceptFlag:!0},h=0;h<i.length;h++)c.supports[i[h]]=d(i[h]),c.supports.everything=c.supports.everything&&c.supports[i[h]],"flag"!==i[h]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[i[h]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='tinyforge-fonts-css'  href='http://fonts.googleapis.com/css?family=Open+Sans:400italic,700italic,400,700&#038;subset=latin,latin-ext' type='text/css' media='all' />
+<link rel='stylesheet' id='tinyforge-style-css'  href='http://www.jazzandsoul.eu/wp-content/themes/tiny-forge/style.css?ver=1.6.1' type='text/css' media='all' />
+<!--[if lt IE 9]>
+<link rel='stylesheet' id='tinyforge-ie-css'  href='http://www.jazzandsoul.eu/wp-content/themes/tiny-forge/css/ie.css?ver=1.5' type='text/css' media='all' />
+<![endif]-->
+<link rel='stylesheet' id='elusive-iconfont-style-css'  href='http://www.jazzandsoul.eu/wp-content/themes/tiny-forge/css/elusive-webfont.css?ver=1.5' type='text/css' media='all' />
+<script type='text/javascript' src='http://www.jazzandsoul.eu/wp-includes/js/jquery/jquery.js?ver=1.12.4'></script>
+<script type='text/javascript' src='http://www.jazzandsoul.eu/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
+<link rel='https://api.w.org/' href='http://www.jazzandsoul.eu/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www.jazzandsoul.eu/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://www.jazzandsoul.eu/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 4.5.14" />
+<!-- <meta name="NextGEN" version="2.1.31" /> -->
+	<style type="text/css" id="tinyforge-header-css">
+			.site-title,
+		.site-description {
+			position: absolute;
+			clip: rect(1px 1px 1px 1px); /* IE7 */
+			clip: rect(1px, 1px, 1px, 1px);
+		}
+		</style>
+	<link rel='stylesheet' id='nextgen_widgets_style-css'  href='http://www.jazzandsoul.eu/wp-content/plugins/nextgen-gallery/products/photocrati_nextgen/modules/widget/static/widgets.min.css?ver=2.1.31' type='text/css' media='all' />
+<link rel='stylesheet' id='nextgen_basic_thumbnails_style-css'  href='http://www.jazzandsoul.eu/wp-content/plugins/nextgen-gallery/products/photocrati_nextgen/modules/nextgen_basic_gallery/static/thumbnails/nextgen_basic_thumbnails.min.css?ver=2.1.31' type='text/css' media='all' />
+<link rel='stylesheet' id='ngg_trigger_buttons-css'  href='http://www.jazzandsoul.eu/wp-content/plugins/nextgen-gallery/products/photocrati_nextgen/modules/nextgen_gallery_display/static/trigger_buttons.min.css?ver=2.1.31' type='text/css' media='all' />
+<link rel='stylesheet' id='fancybox-0-css'  href='http://www.jazzandsoul.eu/wp-content/plugins/nextgen-gallery/products/photocrati_nextgen/modules/lightbox/static/fancybox/jquery.fancybox-1.3.4.min.css?ver=2.1.31' type='text/css' media='all' />
+<link rel='stylesheet' id='fontawesome-css'  href='http://www.jazzandsoul.eu/wp-content/plugins/nextgen-gallery/products/photocrati_nextgen/modules/nextgen_gallery_display/static/fontawesome/font-awesome.min.css?ver=2.1.31' type='text/css' media='all' />
+<link rel='stylesheet' id='nextgen_pagination_style-css'  href='http://www.jazzandsoul.eu/wp-content/plugins/nextgen-gallery/products/photocrati_nextgen/modules/nextgen_pagination/static/style.min.css?ver=2.1.31' type='text/css' media='all' />
+<link rel='stylesheet' id='nggallery-css'  href='http://www.jazzandsoul.eu/wp-content/plugins/nextgen-gallery/products/photocrati_nextgen/modules/ngglegacy/css/nggallery.css?ver=2.1.31' type='text/css' media='all' />
+</head>
+
+<body class="home blog custom-font-enabled single-author list-view header-image-yes post-casinoeuro">
+
+<noscript>
+	<div id="no-javascript">
+		Advanced features of this website require that you enable JavaScript in your browser. Thank you!	</div>
+</noscript>
+
+<div id="page" class="hfeed site">
+	<header id="masthead" class="site-header" role="banner">
+					<div class="site-branding" itemscope itemtype="http://schema.org/WPHeader">
+				<h1 class="site-title"><a href="http://www.jazzandsoul.eu/" title="jazzandsoul.eu" rel="home">jazzandsoul.eu</a></h1>
+				<h2 class="site-description"></h2>
+			</div>
+				
+		<nav id="site-navigation" class="main-navigation" role="navigation" itemscope itemtype="http://schema.org/SiteNavigationElement">
+			<h1 class="menu-toggle">Menu</h1>
+			<a class="assistive-text" href="#content" title="Skip to content">Skip to content</a>
+			<div class="menu-menu-1-container"><ul id="menu-menu-1" class="nav-menu"><li id="menu-item-54" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-54"><a href="http://www.jazzandsoul.eu/der-autor/">Der Autor</a></li>
+<li id="menu-item-50" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-50"><a href="http://www.jazzandsoul.eu/impressum/">Impressum</a></li>
+<li id="menu-item-49" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-49"><a href="http://www.jazzandsoul.eu/haftungsausschluss/">Haftungsausschluss</a></li>
+</ul></div>		</nav><!-- #site-navigation -->
+
+				<!-- Custom Header - Start -->
+															<img src="http://jazzandsoul.eu/wp-content/uploads/2016/05/cropped-karten-header.jpg" class="header-image" width="948" height="346" alt="jazzandsoul.eu" />
+									<!-- Custom Header - End -->
+
+	</header><!-- #masthead -->
+
+	<div id="main" class="wrapper">
+	<div id="primary" class="site-content">
+		<main id="content" role="main">
+		
+										
+	<article id="post-20" class="post-20 post type-post status-publish format-standard hentry category-casinoeuro tag-casinoeuro tag-review" itemscope itemtype="http://schema.org/Article">
+				<header class="entry-header">
+						<h1 class="entry-title" itemprop="headline">
+				<a href="http://www.jazzandsoul.eu/casinoeuro/" rel="bookmark" itemprop="url">CasinoEuro</a>
+							</h1>
+						<div class="entry-meta"><span class="by-author"><span class="author vcard" itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name"><a class="url fn n" href="http://www.jazzandsoul.eu/author/jazzandsoul-eu/" title="View all posts by jazzandsoul.eu" rel="author" itemprop="url">jazzandsoul.eu</a></span></span></span> <span class="meta-separator">&bull;</span> <a href="http://www.jazzandsoul.eu/casinoeuro/" title="5:52 pm" rel="bookmark"><time class="entry-date updated" datetime="2016-05-11T17:52:44+00:00" itemprop="datePublished">May 11, 2016</time></a> </div><!-- .entry-meta -->
+					</header><!-- .entry-header -->
+
+				<div class="entry-content" itemprop="articleBody">
+			<h1>Der CasinoEuro Testbericht</h1>
+<p><img class=" wp-image-22 alignleft" src="http://jazzandsoul.eu/wp-content/uploads/2016/05/casinoeuro-300x219.jpg" alt="casinoeuro" width="159" height="116" srcset="http://www.jazzandsoul.eu/wp-content/uploads/2016/05/casinoeuro-300x219.jpg 300w, http://www.jazzandsoul.eu/wp-content/uploads/2016/05/casinoeuro.jpg 440w" sizes="(max-width: 159px) 100vw, 159px" />Hier geht es um den CasinoEuro Testbericht. CasinoEuro hatte die Chance zu zeigen, dass dieser Anbieter nicht einer von vielen in den Weiten des Internet ist, sondern mithalten kann, zumindest mit der Mittelschicht, idealerweise aber mit den Marktführern.</p>
+<h2>Die Lizenz kommt von der Malta Gaming Authority</h2>
+<p>Glücklicherweise beginnt der CasinoEuro Testbericht mit einer guten Nachricht für die Spieler, die im digitalen Raum den Casino Vergnügen nachgehen. So ist CasinoEuro von der Malta Gaming Authority lizenziert und reguliert. Das bedeutet, dass nach derzeitiger Rechtsauffassung Spieler bei diesem Anbieter sicher sein können, dass sie nicht illegal handeln oder wohl möglich sogar um ihr gewonnenes Geld bangen müssen. Stattdessen können sie beruhigt bei CasinoEuro spielen und versuchen den Jackpot zu gewinnen.</p>
+<p>Das es sich bei CasinoEuro um einen seriösen Anbieter handelt, wird gleich deutlich, wenn Webseitenbesucher in den Footer scrollen. Dort sehen Sie neben den Informationen zur Regulierung auch ein paar Infos zu dem Punkt, den viele Spieler betrifft: Verantwortungsvolles Spielen. Es gibt sehr viele Menschen, die es nicht schaffen von den Automaten oder anderen Glücksspielen wegzukommen. Stattdessen laufen Sie am ersten eines jeden Monats in die Spielhallen, sowohl die in Straßenzügen und die im Internet und verspielen dort ihr gesamtes Geld.</p>
+<h2>Vielfältige Boni werden angeboten</h2>
+<p>Das Angebot bei CasinoEuro ist sehr breit gefächert. Es beginnt bei Spielautomaten und endet bei dem Live Casino. Dazwischen liegen die Rubriken Video-Poker, Jackpot Spiele und Video Poker. Kurz um Nutzer von CasinoEuro werden sicherlich keine Langeweile bekommen. Hier unten sehen Sie ein Bild vom Angebot des Live Casinos. Neben den verschiedenen Spielen können Nutzer auch von verschiedenen Boni Gebrauch machen. So gibt es derzeit die Boni: Willkommensbonus, Wochenende Freispiele, Einzahlungslotterie und sogar die Chance eine Reise nach Las Vegas zu gewinnen. Das sieht schon mal nicht schlecht aus. Aber Sie sollten nicht vergessen, dass Sie sich die Bonusbedingungen genau ansehen. Wenn Sie das nicht tun, ärgern Sie sich wohl möglich, dass Sie keinen Bonus bekommen haben und versuchen über den Kundenservice herauszufinden, warum das so ist.</p>
+<p><img class="aligncenter wp-image-21 size-large" src="http://jazzandsoul.eu/wp-content/uploads/2016/05/casinoeuro-spiele-1024x364.jpg" alt="casinoeuro spiele" width="625" height="222" srcset="http://www.jazzandsoul.eu/wp-content/uploads/2016/05/casinoeuro-spiele-1024x364.jpg 1024w, http://www.jazzandsoul.eu/wp-content/uploads/2016/05/casinoeuro-spiele-300x107.jpg 300w, http://www.jazzandsoul.eu/wp-content/uploads/2016/05/casinoeuro-spiele-768x273.jpg 768w, http://www.jazzandsoul.eu/wp-content/uploads/2016/05/casinoeuro-spiele-960x342.jpg 960w, http://www.jazzandsoul.eu/wp-content/uploads/2016/05/casinoeuro-spiele.jpg 1175w" sizes="(max-width: 625px) 100vw, 625px" /></p>
+<p>Damit kommen wir auch gleich zum nächsten und gleichzeitig auch letzten Punkt von unserem Review:dem Kundenservice von CasinoEuro. Der Kundenservice ist in der Zeit von 11 – 20 Uhr zu erreichen. Das ist in Ordnung, wenn Sie aber bedenken, dass er von Montags bis Sonntags kontaktiert werden kann, ergibt sich ein positives Bild. Darüber hinaus kann er auch per Mail und per Live – Chat beziehungsweise über das Telefon kontaktiert werden. Dazu müssen Kunden eine Nummer aus Malta wählen, dann werden sie mit dem englischen Kundenservice verbunden. Einen deutschen Kundenservice sucht man bei CasinoEuro leider vergeblich. Nichtsdestotrotz hat der CasinoEuro Testbericht deutlich gemacht, dass Spieler hier einen guten Anbieter vorfinden, der meiner Meinung nach zu Unrecht den Bekanntheitsgrad hat, der nicht ausreicht, um mit dem Marktführer zu konkurrieren. Wenn CasinoEuro die Qualität aber halten kann, dann stehen die Chancen gut, dass mehr Menschen ihm vertrauen und er weiter wachsen kann.</p>
+					</div><!-- .entry-content -->
+		
+		<footer class="entry-meta">
+			Posted in <span itemprop="articleSection"><a href="http://www.jazzandsoul.eu/category/casinoeuro/" rel="category tag">CasinoEuro</a></span>. Tags: <span itemprop="keywords"><a href="http://www.jazzandsoul.eu/tag/casinoeuro/" rel="tag">CasinoEuro</a>, <a href="http://www.jazzandsoul.eu/tag/review/" rel="tag">Review</a></span> on <a href="http://www.jazzandsoul.eu/casinoeuro/" title="5:52 pm" rel="bookmark"><time class="entry-date updated" datetime="2016-05-11T17:52:44+00:00" itemprop="datePublished">May 11, 2016</time></a><span class="by-author"> by <span class="author vcard" itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name"><a class="url fn n" href="http://www.jazzandsoul.eu/author/jazzandsoul-eu/" title="View all posts by jazzandsoul.eu" rel="author" itemprop="url">jazzandsoul.eu</a></span></span></span>.						
+					</footer><!-- .entry-meta -->
+	</article><!-- #post -->
+							
+	<article id="post-11" class="post-11 post type-post status-publish format-standard hentry category-888-casino-bonus tag-888-casino-aktion tag-review" itemscope itemtype="http://schema.org/Article">
+				<header class="entry-header">
+						<h1 class="entry-title" itemprop="headline">
+				<a href="http://www.jazzandsoul.eu/888-casino-aktion/" rel="bookmark" itemprop="url">888 Casino Aktion</a>
+							</h1>
+						<div class="entry-meta"><span class="by-author"><span class="author vcard" itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name"><a class="url fn n" href="http://www.jazzandsoul.eu/author/jazzandsoul-eu/" title="View all posts by jazzandsoul.eu" rel="author" itemprop="url">jazzandsoul.eu</a></span></span></span> <span class="meta-separator">&bull;</span> <a href="http://www.jazzandsoul.eu/888-casino-aktion/" title="5:36 pm" rel="bookmark"><time class="entry-date updated" datetime="2016-05-11T17:36:27+00:00" itemprop="datePublished">May 11, 2016</time></a> </div><!-- .entry-meta -->
+					</header><!-- .entry-header -->
+
+				<div class="entry-content" itemprop="articleBody">
+			<h1>Der 888 Casino Bonus Code Test</h1>
+<p><img class="size-full wp-image-18 alignleft" src="http://jazzandsoul.eu/wp-content/uploads/2016/05/888casino-logo.jpg" alt="888casino logo" width="137" height="85" />Das 888 Casino ist sicherlich vielen Spielern geläufig. Der Anbieter hat es geschafft mit Qualität und Durchhaltevermögen sich eine Reputation zu erarbeiten, die ihm dazu gebracht hat die Marktführer im Bereich der digitalen Casinos anzugreifen und ihnen teilweise auch schon den Rang abgelaufen hat.</p>
+<p>Das liegt zu einem großen Teil auch an den zahlreichen und tollen 888 Casino Aktionen. Ein Blick auf die Webseite verrät, dass der Anbieter einen Ersteinzahlungsbonus anbietet. Einen Bonus für die Spieler anbietet, die in der ersten Woche fünf Einzahlungen tätigen. Dabei beträgt die Höhe vom Bonus dann sogar 1500 Dollar. Dann gibt es noch die 88 Euro, die Nutzer für Freeplays nutzen können.</p>
+<h2>Es gibt bei 888 Casino vielleicht so viele Boni, wie nirgendwo sonst</h2>
+<p>Aber auch andere Boni Varianten sind denkbar. So können Spieler täglich Geldpreise gewinnen und dabei neben den Gewinnen aus den Spielen noch weitere Geldscheine auf ihrem Tisch versammeln. Das Angebot von 888 Casino kann sich in dem Bereich durchaus sehen lassen. Es gibt aber noch einen ganz besonderen 888 Casino Aktions Code. Der wird im Folgenden kurz vorgestellt.</p>
+<p>Stellen Sie sich vor, Sie melden sich bei einem Anbieter für digitales Glücksspiel an. Dann <img class="size-medium wp-image-16 alignright" src="http://jazzandsoul.eu/wp-content/uploads/2016/05/888-casino-aktion-2-297x300.jpg" alt="888 casino aktion 2" width="297" height="300" srcset="http://www.jazzandsoul.eu/wp-content/uploads/2016/05/888-casino-aktion-2-297x300.jpg 297w, http://www.jazzandsoul.eu/wp-content/uploads/2016/05/888-casino-aktion-2.jpg 326w" sizes="(max-width: 297px) 100vw, 297px" />bekommen Sie 888 Euro ohne auch nur einen Finger krumm zu machen. Das heißt Sie müssen keinen Boni freispielen oder sogar eine Einzahlung tätigen. Nichts dergleichen müssen Sie tun. Aber das ist noch nicht alles. Sie bekommen darüber hinaus auch noch einen 140 Euro Ersteinzahler Bonus. Ja, Sie haben richtig gelesen. Sie bekommen also insgesamt 1028 Euro wenn Sie eine Ersteinzahlung tätigen. Wenn Sie das nicht tun, bekommen Sie 888 Euro und können sofort spielen</p>
+<h2>Die Aktion ist kein Fake</h2>
+<p><img class="size-medium wp-image-17 alignleft" src="http://jazzandsoul.eu/wp-content/uploads/2016/05/888-casino-aktion-300x206.jpg" alt="888 casino aktion" width="300" height="206" srcset="http://www.jazzandsoul.eu/wp-content/uploads/2016/05/888-casino-aktion-300x206.jpg 300w, http://www.jazzandsoul.eu/wp-content/uploads/2016/05/888-casino-aktion.jpg 394w" sizes="(max-width: 300px) 100vw, 300px" />Ich gebe zu, dass ich erst sehr skeptisch war, als ich das Angebot gelesen habe. Ich dachte nicht, dass das möglich ist und ich habe zunächst das Internet nach weiteren Informationen dazu durchforstet. Dort bin ich ebenfalls auf großes Erstaunen getroffen und ich hatte die Aktion schon ad acta gelegt. Dennoch entschied ich mich zu 888 Casino eine E-Mail zu schreiben.</p>
+<p>Ich wollte es sozusagen Schwarz auf Weiß haben und nach ein oder zwei Werktagen bekam ich dann die Antwort von 888 Casino, in der stand, dass es sich nicht um eine Ente handelt und ich wurde freundlicherweise gleich eingeladen auch an der Aktion teilzunehmen. Das Angebot habe ich natürlich nicht ausgeschlagen und kann es jedem wirklich nur ans Herz legen.</p>
+					</div><!-- .entry-content -->
+		
+		<footer class="entry-meta">
+			Posted in <span itemprop="articleSection"><a href="http://www.jazzandsoul.eu/category/888-casino-bonus/" rel="category tag">888 Casino Bonus</a></span>. Tags: <span itemprop="keywords"><a href="http://www.jazzandsoul.eu/tag/888-casino-aktion/" rel="tag">888 Casino Aktion</a>, <a href="http://www.jazzandsoul.eu/tag/review/" rel="tag">Review</a></span> on <a href="http://www.jazzandsoul.eu/888-casino-aktion/" title="5:36 pm" rel="bookmark"><time class="entry-date updated" datetime="2016-05-11T17:36:27+00:00" itemprop="datePublished">May 11, 2016</time></a><span class="by-author"> by <span class="author vcard" itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name"><a class="url fn n" href="http://www.jazzandsoul.eu/author/jazzandsoul-eu/" title="View all posts by jazzandsoul.eu" rel="author" itemprop="url">jazzandsoul.eu</a></span></span></span>.						
+					</footer><!-- .entry-meta -->
+	</article><!-- #post -->
+							
+	<article id="post-28" class="post-28 post type-post status-publish format-standard hentry category-stargames-bonus tag-review tag-stargames-bonus" itemscope itemtype="http://schema.org/Article">
+				<header class="entry-header">
+						<h1 class="entry-title" itemprop="headline">
+				<a href="http://www.jazzandsoul.eu/stargames-bonus/" rel="bookmark" itemprop="url">Stargames Bonus</a>
+							</h1>
+						<div class="entry-meta"><span class="by-author"><span class="author vcard" itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name"><a class="url fn n" href="http://www.jazzandsoul.eu/author/jazzandsoul-eu/" title="View all posts by jazzandsoul.eu" rel="author" itemprop="url">jazzandsoul.eu</a></span></span></span> <span class="meta-separator">&bull;</span> <a href="http://www.jazzandsoul.eu/stargames-bonus/" title="5:57 pm" rel="bookmark"><time class="entry-date updated" datetime="2016-03-22T17:57:12+00:00" itemprop="datePublished">March 22, 2016</time></a> </div><!-- .entry-meta -->
+					</header><!-- .entry-header -->
+
+				<div class="entry-content" itemprop="articleBody">
+			<h1>Der Stargames Bonus im Test</h1>
+<p><img class="size-full wp-image-29 alignleft" src="http://jazzandsoul.eu/wp-content/uploads/2016/05/stargames-logo.jpg" alt="stargames logo" width="218" height="53" />In diesem Artikel geht es um das Bonusangebot von Stargames. Vielleicht haben Sie schon einmal etwas von Stargames gehört. Dieser Anbieter ist von der Malta Gaming Authority lizenziert und reguliert und hat schon einige Spieler glücklich gemacht. Er gehört zu den beliebtesten Anbietern im gesamten Bundesgebiet und bietet auch einen Bonus an.</p>
+<p>Aber, was kann der Bonus den Spielern bieten? Ist eher ein Bonus vorhanden, weil viele andere Anbieter ihn ebenfalls präsentieren oder steckt hinter dem Bonus ein Angebot, dass Sie sich nicht entgehen lassen sollten. Hier erfahren Sie alles wissenswerte rund um den Bonus von Stargames.</p>
+<h2>Der Willkommensbonus beträgt maximal 100 Euro</h2>
+<p>Der Anbieter Stargames bietet unter der Schaltfläche „Promotions“ einen Bonus an. Dieser sollte an sich nicht schwer zu finden sein, zwar ist die Schaltfläche auf Englisch, aber das Wort Promotions wird auch im deutschen Sprachgebrauch hin und wieder gebraucht. Der Bonus beinhaltet einen maximalen Bonus von 100 Euro, der auf die Mindesteinzahlung gewährt wird. Das bedeutet also, dass Sie 100 Euro von Stargames bekommen, nachdem Sie Ihre erste Einzahlung getätigt haben. Die Summe ist in Ordnung. Sie ist nicht besonders hoch, aber im Vergleich mit anderen Anbietern ist sie auch nicht besonders niedrig. Man könnte den Betrag auch guten Durchschnitt nennen.</p>
+<figure id="attachment_30" style="width: 731px" class="wp-caption aligncenter"><img class="wp-image-30 size-full" src="http://jazzandsoul.eu/wp-content/uploads/2016/05/stargames-spiele.jpg" alt="stargames spiele" width="731" height="378" srcset="http://www.jazzandsoul.eu/wp-content/uploads/2016/05/stargames-spiele.jpg 731w, http://www.jazzandsoul.eu/wp-content/uploads/2016/05/stargames-spiele-300x155.jpg 300w" sizes="(max-width: 731px) 100vw, 731px" /><figcaption class="wp-caption-text">Eine Auswahl vom Stargames Angebot</figcaption></figure>
+<p>Allerdings sollten Spieler immer genau die Bonusbedingungen durchlesen. Wenn sie sie kennen, kommt es seltener dazu, dass sie sich sozusagen „auf den Arm genommen“ fühlen. Das war in der Vergangenheit leider öfters der Fall. Anscheinend gingen viele Personen davon aus, dass es ohne weiteres möglich sei einen Bonus zu bekommen, ohne auch nur eine Bedingung zu erfüllen. Das ist natürlich nicht wahr. Sonst wäre es theoretisch möglich, dass Spieler von Anbieter zu Anbieter wechseln und immer dort einen Bonus mitnehmen, wenn er gerade angeboten wird.</p>
+<h2>Es wird der 100 fache Umsatz Ihrer Einzahlung verlangt</h2>
+<p>Mit einem Blick in die Bonusbedingungen von Stargames wird deutlich, dass es nicht so einfach ist den Bonus zu bekommen. So haben Spieler nur sechs Monate Zeit, um den Bonus sozusagen freizuspielen.Darüber hinaus müssen Spieler den 100 fachen Wert ihrer Einzahlung umsetzen, bevor sie den Bonus bekommen. Das heißt, dass bei einer Einzahlung von 10 Euro ein Umsatz von mindestens 1000Euro erfolgen muss, eher der Bonus ausgezahlt werden kann. Auch diese Bedingung ist in Ordnung, meiner Meinung nach. Stargames muss sich einfach vergewissern, dass ein gewisser Umsatz erreicht wird. Schließlich ist ein einmaliger Bonus von 100 Euro nicht viel, wenn er aber von sehr vielen Spielern angefragt wird, dann kann es schnell dazu kommen, dass die Kosten in die Höhe schnellen.<br />
+Ich hoffe, dass Sie nun besser über den Bonus von Stargames Bescheid wissen als vorher. Es handelt sich bei dem Bonus von Stargames zwar um einen attraktiven Bonus. Auf der anderen Seite wird auch etwas von Ihnen verlangt, nämlich mindestens der 100 fache Umsatz ihrer Einzahlung. Wenn Sie also Zweifel haben, dann sollten Sie sich vielleicht nach einer Alternative umsehen. Weitere Anbieter gibt es en masse.</p>
+					</div><!-- .entry-content -->
+		
+		<footer class="entry-meta">
+			Posted in <span itemprop="articleSection"><a href="http://www.jazzandsoul.eu/category/stargames-bonus/" rel="category tag">Stargames Bonus</a></span>. Tags: <span itemprop="keywords"><a href="http://www.jazzandsoul.eu/tag/review/" rel="tag">Review</a>, <a href="http://www.jazzandsoul.eu/tag/stargames-bonus/" rel="tag">Stargames Bonus</a></span> on <a href="http://www.jazzandsoul.eu/stargames-bonus/" title="5:57 pm" rel="bookmark"><time class="entry-date updated" datetime="2016-03-22T17:57:12+00:00" itemprop="datePublished">March 22, 2016</time></a><span class="by-author"> by <span class="author vcard" itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name"><a class="url fn n" href="http://www.jazzandsoul.eu/author/jazzandsoul-eu/" title="View all posts by jazzandsoul.eu" rel="author" itemprop="url">jazzandsoul.eu</a></span></span></span>.						
+					</footer><!-- .entry-meta -->
+	</article><!-- #post -->
+							
+	<article id="post-24" class="post-24 post type-post status-publish format-standard hentry category-leovegas tag-leovegas tag-review" itemscope itemtype="http://schema.org/Article">
+				<header class="entry-header">
+						<h1 class="entry-title" itemprop="headline">
+				<a href="http://www.jazzandsoul.eu/leovegas-kostenlos-nutzen/" rel="bookmark" itemprop="url">LeoVegas kostenlos nutzen</a>
+							</h1>
+						<div class="entry-meta"><span class="by-author"><span class="author vcard" itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name"><a class="url fn n" href="http://www.jazzandsoul.eu/author/jazzandsoul-eu/" title="View all posts by jazzandsoul.eu" rel="author" itemprop="url">jazzandsoul.eu</a></span></span></span> <span class="meta-separator">&bull;</span> <a href="http://www.jazzandsoul.eu/leovegas-kostenlos-nutzen/" title="5:52 pm" rel="bookmark"><time class="entry-date updated" datetime="2016-01-03T17:52:54+00:00" itemprop="datePublished">January 3, 2016</time></a> </div><!-- .entry-meta -->
+					</header><!-- .entry-header -->
+
+				<div class="entry-content" itemprop="articleBody">
+			<h1>So spielen Sie bei LeoVegas kostenlos</h1>
+<p><img class="size-medium wp-image-25 alignleft" src="http://jazzandsoul.eu/wp-content/uploads/2016/05/leovegas-logo-300x72.jpg" alt="leovegas logo" width="300" height="72" srcset="http://www.jazzandsoul.eu/wp-content/uploads/2016/05/leovegas-logo-300x72.jpg 300w, http://www.jazzandsoul.eu/wp-content/uploads/2016/05/leovegas-logo.jpg 337w" sizes="(max-width: 300px) 100vw, 300px" />Wenn Sie so wollen, dann hat jeder Anbieter eine Art Absicherung eingebaut. So können Sie Spiele von einem Anbieter nutzen, wenn Sie kein Geld bei ihm eingezahlt haben.</p>
+<p>Das sind die sogenannten Fun Games, die vor ein paar Jahren in Deutschland für große Furore gesorgt haben, da ein paar Spielhallen Betreiber scheinbar Fungames nicht als solche deklariert hatten und nicht nur der Spieler keine Chance auf eine Auszahlung hatte, sondern auch der Staat weniger durch die Fungames eingenommen hat. Mittlerweile ist das bei den Spielern aber schon wieder in Vergessenheit geraten und sie vertrauen den Spielhallen Besitzern wieder.</p>
+<h2>Wie können Sie LeoVegas kostenlos nutzen?</h2>
+<p>Auch im Internet gibt es diese Fungames. Allerdings nicht bei jeden Anbietern. Ein Anbieter, der sie sehr wohl präsentiert ist LeoVegas Casino und um ihn geht es in diesem Bericht, beziehungsweise um die Möglichkeit das Angebot von LeoVegas kostenlos zu nutzen. Um bei dem Anbieter ein paar Fungames zu spielen, müssen Sie sich nicht registrieren. Sie können also sofort loslegen und müssen sich nicht ein paar Minuten mit der Anmeldung beschäftigen, die im übrigen aber sehr unkompliziert und kurz gehalten ist. Falls Sie sich aber bereits bei LeoVegas registriert haben, können Sie alle Spiele aber auch im Fungame Modus spielen. Dabei bekommen Sie von LeoVegas sogar 200 Freispiele.</p>
+<h2>Das Erlebnis muss stimmen</h2>
+<p>Wer schon einmal mit Echtgeld Einsatz gespielt hat, der weiß wie aufregend Freispiele sein können und sicherlich haben das auch die Macher von LeoVegas bedacht. Denn an sich soll es wahrscheinlich egal sein, ob Spieler mit Echtgeld spielen oder die Fungames betätigen. Sie wollen einfach ein hervorragendes Spielerlebnis kreieren. Darüber hinaus kann ein Nutzer bei LeoVegas auch beginnen, wenn er einen Bonus nutzen will. Mit anderen Worten kann er einen gewonnenen Bonus nutzen, um Fungames zu spielen.</p>
+<figure id="attachment_26" style="width: 915px" class="wp-caption alignnone"><img class="wp-image-26 size-full" src="http://jazzandsoul.eu/wp-content/uploads/2016/05/leovegas-spiele.jpg" alt="leovegas spiele" width="915" height="364" srcset="http://www.jazzandsoul.eu/wp-content/uploads/2016/05/leovegas-spiele.jpg 915w, http://www.jazzandsoul.eu/wp-content/uploads/2016/05/leovegas-spiele-300x119.jpg 300w, http://www.jazzandsoul.eu/wp-content/uploads/2016/05/leovegas-spiele-768x306.jpg 768w" sizes="(max-width: 915px) 100vw, 915px" /><figcaption class="wp-caption-text">Eine Auswahl der Spiele von LeoVegas</figcaption></figure>
+<p>Wenn Sie kostenlos bei LeoVegas spielen möchten, dann können Sie theoretisch direkt loslegen. Sie müssen sich nicht registrieren und haben die Chance ein paar Spiele auszuprobieren oder Strategien zu testen. Wenn Sie sich aber bereits registriert haben, dann ist das ebenfalls kein Problem. Der Anbieter bietet also allen Spielern, ob sie registriert sind oder nicht die Möglichkeit an, Fungames zu spielen. Probieren Sie es doch auch mal aus. Was haben Sie denn schon zu verlieren? Ich wünsche Ihnen dabei viel Erfolg!</p>
+					</div><!-- .entry-content -->
+		
+		<footer class="entry-meta">
+			Posted in <span itemprop="articleSection"><a href="http://www.jazzandsoul.eu/category/leovegas/" rel="category tag">LeoVegas</a></span>. Tags: <span itemprop="keywords"><a href="http://www.jazzandsoul.eu/tag/leovegas/" rel="tag">LeoVegas</a>, <a href="http://www.jazzandsoul.eu/tag/review/" rel="tag">Review</a></span> on <a href="http://www.jazzandsoul.eu/leovegas-kostenlos-nutzen/" title="5:52 pm" rel="bookmark"><time class="entry-date updated" datetime="2016-01-03T17:52:54+00:00" itemprop="datePublished">January 3, 2016</time></a><span class="by-author"> by <span class="author vcard" itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name"><a class="url fn n" href="http://www.jazzandsoul.eu/author/jazzandsoul-eu/" title="View all posts by jazzandsoul.eu" rel="author" itemprop="url">jazzandsoul.eu</a></span></span></span>.						
+					</footer><!-- .entry-meta -->
+	</article><!-- #post -->
+			
+			
+		
+		</main><!-- #content -->
+	</div><!-- #primary -->
+
+
+			<div id="secondary" class="widget-area" role="complementary">
+			<aside id="search-2" class="widget widget_search"><form role="search" method="get" class="search-form" action="http://www.jazzandsoul.eu/">
+				<label>
+					<span class="screen-reader-text">Search for:</span>
+					<input type="search" class="search-field" placeholder="Search &hellip;" value="" name="s" />
+				</label>
+				<input type="submit" class="search-submit" value="Search" />
+			</form></aside><aside id="ngg-images-2" class="widget ngg_images"><div class="hslice" id="ngg-webslice"><h3 class="entry-title widget-title">Casino Eindrücke</h3><div class="ngg-widget entry-content">
+            <a href="http://www.jazzandsoul.eu/wp-content/gallery/Gallerie/roulette-710738_640.jpg"
+           title=" "
+           data-image-id='4'
+           class="ngg-fancybox" rel="061ced8d9392274c6778f2f63bd69a1c"           ><img title="roulette-710738_640"
+                 alt="roulette-710738_640"
+                 src="http://www.jazzandsoul.eu/wp-content/gallery/Gallerie/thumbs/thumbs_roulette-710738_640.jpg"
+                 width="100"
+                 height="75"
+            /></a>
+            <a href="http://www.jazzandsoul.eu/wp-content/gallery/Gallerie/cube-949116_640.jpg"
+           title=" "
+           data-image-id='3'
+           class="ngg-fancybox" rel="061ced8d9392274c6778f2f63bd69a1c"           ><img title="cube-949116_640"
+                 alt="cube-949116_640"
+                 src="http://www.jazzandsoul.eu/wp-content/gallery/Gallerie/thumbs/thumbs_cube-949116_640.jpg"
+                 width="100"
+                 height="75"
+            /></a>
+            <a href="http://www.jazzandsoul.eu/wp-content/gallery/Gallerie/cube-635354_640.jpg"
+           title=" "
+           data-image-id='2'
+           class="ngg-fancybox" rel="061ced8d9392274c6778f2f63bd69a1c"           ><img title="cube-635354_640"
+                 alt="cube-635354_640"
+                 src="http://www.jazzandsoul.eu/wp-content/gallery/Gallerie/thumbs/thumbs_cube-635354_640.jpg"
+                 width="100"
+                 height="75"
+            /></a>
+            <a href="http://www.jazzandsoul.eu/wp-content/gallery/Gallerie/cube-635353_640.jpg"
+           title=" "
+           data-image-id='1'
+           class="ngg-fancybox" rel="061ced8d9392274c6778f2f63bd69a1c"           ><img title="cube-635353_640"
+                 alt="cube-635353_640"
+                 src="http://www.jazzandsoul.eu/wp-content/gallery/Gallerie/thumbs/thumbs_cube-635353_640.jpg"
+                 width="100"
+                 height="75"
+            /></a>
+    </div>
+
+</div></aside><aside id="tag_cloud-2" class="widget widget_tag_cloud"><h3 class="widget-title">Tags</h3><div class="tagcloud"><a href='http://www.jazzandsoul.eu/tag/888-casino-aktion/' class='tag-link-8 tag-link-position-1' title='1 topic' style='font-size: 8pt;'>888 Casino Aktion</a>
+<a href='http://www.jazzandsoul.eu/tag/casinoeuro/' class='tag-link-6 tag-link-position-2' title='1 topic' style='font-size: 8pt;'>CasinoEuro</a>
+<a href='http://www.jazzandsoul.eu/tag/leovegas/' class='tag-link-10 tag-link-position-3' title='1 topic' style='font-size: 8pt;'>LeoVegas</a>
+<a href='http://www.jazzandsoul.eu/tag/review/' class='tag-link-7 tag-link-position-4' title='4 topics' style='font-size: 22pt;'>Review</a>
+<a href='http://www.jazzandsoul.eu/tag/stargames-bonus/' class='tag-link-9 tag-link-position-5' title='1 topic' style='font-size: 8pt;'>Stargames Bonus</a></div>
+</aside>		<aside id="recent-posts-2" class="widget widget_recent_entries">		<h3 class="widget-title">Recent Posts</h3>		<ul>
+					<li>
+				<a href="http://www.jazzandsoul.eu/casinoeuro/">CasinoEuro</a>
+						</li>
+					<li>
+				<a href="http://www.jazzandsoul.eu/888-casino-aktion/">888 Casino Aktion</a>
+						</li>
+					<li>
+				<a href="http://www.jazzandsoul.eu/stargames-bonus/">Stargames Bonus</a>
+						</li>
+					<li>
+				<a href="http://www.jazzandsoul.eu/leovegas-kostenlos-nutzen/">LeoVegas kostenlos nutzen</a>
+						</li>
+				</ul>
+		</aside>				</div><!-- #secondary -->
+		</div><!-- #main .wrapper -->
+	<footer id="colophon" class="clear" role="contentinfo" itemscope itemtype="http://schema.org/WPFooter">
+	
+						<div id="footer-widgets" class="widget-area three" itemscope itemtype="http://schema.org/WPSideBar">
+					
+					
+									</div><!-- #footer-widgets -->
+				<div id="site-generator">
+									<a href="http://www.jazzandsoul.eu/" title="Semantic Personal Publishing Platform">Powered by Jazzandsoul<div class="icon-webfont el-icon-wordpress"></div></a>
+		</div><!-- #site-generator -->
+	</footer><!-- #colophon -->
+</div><!-- #page -->
+
+<!-- Happy coding! "Ut In Omnibus Glorificetur Deus" ~Saint Benedict -->
+
+<!-- ngg_resource_manager_marker --><script type='text/javascript' src='http://www.jazzandsoul.eu/wp-content/themes/tiny-forge/js/navigation.js?ver=1.6.1'></script>
+<script type='text/javascript' src='http://www.jazzandsoul.eu/wp-includes/js/wp-embed.min.js?ver=4.5.14'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var photocrati_ajax = {"url":"http:\/\/www.jazzandsoul.eu\/?photocrati_ajax=1","wp_home_url":"http:\/\/www.jazzandsoul.eu","wp_site_url":"http:\/\/www.jazzandsoul.eu","wp_root_url":"http:\/\/www.jazzandsoul.eu","wp_plugins_url":"http:\/\/www.jazzandsoul.eu\/wp-content\/plugins","wp_content_url":"http:\/\/www.jazzandsoul.eu\/wp-content","wp_includes_url":"http:\/\/www.jazzandsoul.eu\/wp-includes\/","ngg_param_slug":"nggallery"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://www.jazzandsoul.eu/wp-content/plugins/nextgen-gallery/products/photocrati_nextgen/modules/ajax/static/ajax.min.js?ver=2.1.31'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+
+var galleries = {};
+galleries.gallery_061ced8d9392274c6778f2f63bd69a1c = {"id":null,"source":"recent","container_ids":["1"],"gallery_ids":[],"album_ids":[],"tag_ids":[],"display_type":"photocrati-nextgen_basic_thumbnails","exclusions":[],"order_by":"sortorder","order_direction":"ASC","image_ids":[],"entity_ids":[],"tagcloud":false,"inner_content":null,"returns":"included","slug":"widget-ngg-images-2","display_settings":{"use_lightbox_effect":true,"images_per_page":4,"number_of_columns":0,"thumbnail_width":240,"thumbnail_height":160,"show_all_in_lightbox":false,"ajax_pagination":0,"use_imagebrowser_effect":false,"template":"\/home\/ipx60666\/public_html\/wp-content\/plugins\/nextgen-gallery\/products\/photocrati_nextgen\/modules\/widget\/templates\/display_gallery.php","display_no_images_error":1,"disable_pagination":true,"show_slideshow_link":false,"slideshow_link_text":"[Show slideshow]","override_thumbnail_settings":0,"thumbnail_quality":"100","thumbnail_crop":1,"thumbnail_watermark":0,"ngg_triggers_display":"never","maximum_entity_count":4,"image_type":"thumb","show_thumbnail_link":false,"image_width":100,"image_height":75,"widget_setting_title":"Casino Eindr\u00fccke","widget_setting_before_widget":"<aside id=\"ngg-images-2\" class=\"widget ngg_images\"><div class=\"hslice\" id=\"ngg-webslice\">","widget_setting_before_title":"<h3 class=\"entry-title widget-title\">","widget_setting_after_widget":"<\/div><\/aside>","widget_setting_after_title":"<\/h3>","widget_setting_width":100,"widget_setting_height":75,"widget_setting_show_setting":"thumbnail","widget_setting_widget_id":"ngg-images-2"},"excluded_container_ids":[],"sortorder":[],"maximum_entity_count":4,"__defaults_set":true,"_errors":[],"ID":"061ced8d9392274c6778f2f63bd69a1c"};
+galleries.gallery_061ced8d9392274c6778f2f63bd69a1c.wordpress_page_root = "http:\/\/www.jazzandsoul.eu\/leovegas-kostenlos-nutzen\/";
+var nextgen_lightbox_settings = {"static_path":"http:\/\/www.jazzandsoul.eu\/wp-content\/ngg\/modules","context":"nextgen_images"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://www.jazzandsoul.eu/wp-content/plugins/nextgen-gallery/products/photocrati_nextgen/modules/nextgen_gallery_display/static/common.min.js?ver=2.1.31'></script>
+<script type='text/javascript' src='http://www.jazzandsoul.eu/wp-content/plugins/nextgen-gallery/products/photocrati_nextgen/modules/nextgen_basic_gallery/static/thumbnails/nextgen_basic_thumbnails.min.js?ver=2.1.31'></script>
+<script type='text/javascript' src='http://www.jazzandsoul.eu/wp-content/plugins/nextgen-gallery/products/photocrati_nextgen/modules/lightbox/static/lightbox_context.min.js?ver=2.1.31'></script>
+<script type='text/javascript' src='http://www.jazzandsoul.eu/wp-content/plugins/nextgen-gallery/products/photocrati_nextgen/modules/lightbox/static/fancybox/jquery.easing-1.3.pack.js?ver=2.1.31'></script>
+<script type='text/javascript' src='http://www.jazzandsoul.eu/wp-content/plugins/nextgen-gallery/products/photocrati_nextgen/modules/lightbox/static/fancybox/jquery.fancybox-1.3.4.pack.js?ver=2.1.31'></script>
+<script type='text/javascript' src='http://www.jazzandsoul.eu/wp-content/plugins/nextgen-gallery/products/photocrati_nextgen/modules/lightbox/static/fancybox/nextgen_fancybox_init.min.js?ver=2.1.31'></script>
+</body>
+</html>
+

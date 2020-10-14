@@ -1,0 +1,154 @@
+WARC/1.0
+WARC-Type: warcinfo
+WARC-Date: 2018-05-30T17:52:31Z
+WARC-Record-ID: <urn:uuid:051ff977-d27b-48c8-9585-433d5ded0ae6>
+WARC-All-Language: en
+WARC-All-Content_type: text/html
+Content-Type: application/http;msgtype=response
+Content-Length: 46
+
+WARCProcessor by SING Group www.sing-group.com
+
+WARC/1.0
+WARC-Type: response
+WARC-Record-ID: <http://www.fp7-socrates.eu>
+WARC-Date: 20180530175231
+WARC-Target-URI: http://www.fp7-socrates.eu
+WARC-Language: en
+Content-Type: application/http;msgtype=response
+Content-Length: 6914
+
+HTTP/1.1 200
+Content-Type:text/html
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+  "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+  <head>
+    <title>SOCRATES</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="alternate" type="application/rss+xml" title="SOCRATES RSS" href="index.html@q=rss.xml" />
+
+<link rel="shortcut icon" href="http://fp7-socrates.eu/misc/favicon.ico" type="image/x-icon" />
+    <style type="text/css" media="all">@import "http://fp7-socrates.eu/modules/node/node.css";</style>
+<style type="text/css" media="all">@import "http://fp7-socrates.eu/modules/system/defaults.css";</style>
+<style type="text/css" media="all">@import "http://fp7-socrates.eu/modules/system/system.css";</style>
+<style type="text/css" media="all">@import "http://fp7-socrates.eu/modules/user/user.css";</style>
+<style type="text/css" media="all">@import "http://fp7-socrates.eu/themes/garland/style.css";</style>
+<style type="text/css" media="all">@import "files/color/garland-36e37a0a/style.css";</style>
+    <script type="text/javascript" src="http://fp7-socrates.eu/misc/jquery.js"></script>
+<script type="text/javascript" src="http://fp7-socrates.eu/misc/drupal.js"></script>
+<script type="text/javascript">Drupal.extend({ settings: { "googleanalytics": { "trackDownload": "pdf|zip|mp3" } } });</script>
+    <style type="text/css" media="print">@import "http://fp7-socrates.eu/themes/garland/print.css";</style>
+    <!--[if lt IE 7]>
+    <style type="text/css" media="all">@import "/themes/garland/fix-ie.css";</style>
+    <![endif]-->
+  </head>
+  <body class="sidebar-left">
+
+<!-- Layout -->
+  <div id="header-region" class="clear-block"><div id="block-block-2" class="clear-block block block-block">
+
+
+  <div class="content"><h2 align="center">Self-Optimisation &amp; self-ConfiguRATion in wirelEss networkS</h2>
+</div>
+</div>
+</div>
+
+    <div id="wrapper">
+    <div id="container" class="clear-block">
+
+      <div id="header">
+        <div id="logo-floater">
+        <h1><a href="index.html" title="SOCRATES"><img src="files/fp7_logo.png" alt="SOCRATES" id="logo" /><img src="files/garland_logo.png" alt="SOCRATES" id="logo" /><span>SOCRATES</span></a></h1>        </div>
+
+                                  
+      </div> <!-- /header -->
+
+              <div id="sidebar-left" class="sidebar">
+                    <div id="block-user-1" class="clear-block block block-user">
+
+  <h2>Navigation</h2>
+
+  <div class="content">
+<ul class="menu">
+<li class="collapsed"><a href="index.html@q=node%252F1.html">About Socrates</a></li>
+<li class="collapsed"><a href="index.html@q=node%252F5.html">Vision on self-organisation</a></li>
+<li class="leaf"><a href="index.html@q=node%252F9.html">Consortium</a></li>
+<li class="collapsed"><a href="index.html@q=node%252F14.html">Socrates news &amp; events</a></li>
+<li class="leaf"><a href="index.html@q=node%252F10.html">Publications</a></li>
+<li class="leaf"><a href="index.html@q=node%252F25.html">Presentations</a></li>
+<li class="leaf"><a href="index.html@q=node%252F4.html">Contact</a></li>
+<li class="leaf"><a href="index.html@q=node%252F15.html">Links</a></li>
+<li class="leaf"><a href="index.html@q=node%252F21.html">Document server</a></li>
+<li class="leaf"><a href="index.html@q=node%252F26.html">Review documents</a></li>
+<li class="leaf"><a href="index.html@q=node%252F3.html">Website administration</a></li>
+
+</ul>
+</div>
+</div>
+        </div>
+      
+      <div id="center"><div id="squeeze"><div class="right-corner"><div class="left-corner">
+                    
+                              
+          
+                              
+<div id="node-30" class="node">
+
+
+  <h2><a href="index.html@q=node%252F30.html" title=" "> </a></h2>
+
+  
+  <div class="content">
+    <p>The <a href="http://fp7-semafour.eu" target="_blank"><strong>FP7 SEMAFOUR (Self-Management for Unified Heterogeneous Radio Access Networks)</strong></a> project officially started on September 1st, 2012. </p>
+<p>The <a href="index.html@q=node%252F35.html">FP7 SOCRATES Final Workshop on <strong>Self-Organisation in Mobile Networks</strong> </a> took place in Karlsruhe, Germany (co-located with <a href="http://iwsos2011.tm.kit.edu" target="_blank">IWSOS 2011</a>), on February 22, 2011. The slides of the presentations are available <a href="index.html@q=node%252F35.html">here</a>.</p>
+<p>The <strong>SOCRATES final report (deliverable D5.9) </strong> is available for download (see <a href ="index.html@q=node%252F10.html">publications</a>).</p>
+  </div>
+
+  <div class="clear-block clear">
+    <div class="meta">
+        </div>
+
+      </div>
+
+</div>
+<div id="node-1" class="node">
+
+
+  <h2><a href="index.html@q=node%252F1.html" title="The Socrates Project">The Socrates Project</a></h2>
+
+  
+  <div class="content">
+    <p><a href="index.html@q=node%252F9.html"><img src="files/Figures/SOCRATES_consortium.png" align="right" hspace="20"/></a> Future communication networks will exhibit a significant degree of <a href ="index.html@q=node%252F5.html"><em>self-organisation</em></a>. The principal objective of introducing self-organisation, comprising <em>self-optimisation</em>, <em>self-configuration</em> and <em>self-healing</em>, is to effectuate substantial operational expenditure (OPEX) reductions by diminishing human involvement in network operational tasks, while optimising network efficiency and service quality.</p>
+<p>The <em>SOCRATES (Self-Optimisation and self-ConfiguRATion in wirelEss networkS) project</em> aims at the development of self-organisation methods to enhance the operations of <em>wireless access networks</em>, by integrating network planning, configuration and optimisation into a single, mostly automated process requiring minimal manual intervention. </p>
+  </div>
+
+  <div class="clear-block clear">
+    <div class="meta">
+        </div>
+
+          <div class="links"><ul class="links inline"><li class="first last node_read_more"><a href="index.html@q=node%252F1.html" title="Read the rest of this posting." class="node_read_more">Read more</a></li>
+</ul></div>
+      </div>
+
+</div>          <span class="clear"></span>
+          <a href="index.html@q=rss.xml" class="feed-icon"><img src="http://fp7-socrates.eu/misc/feed.png" alt="Syndicate content" title="Syndicate content" width="16" height="16" /></a>          <div id="footer">
+</div>
+      </div></div></div></div> <!-- /.left-corner, /.right-corner, /#squeeze, /#center -->
+
+      
+    </div> <!-- /container -->
+  </div>
+<!-- /layout -->
+
+  <script type="text/javascript" src="http://www.google-analytics.com/urchin.js"></script>
+<script type="text/javascript">
+_uacct = "UA-3574198-1";urchinTracker();
+</script>
+<script type="text/javascript" src="http://fp7-socrates.eu/sites/default/modules/google_analytics/downloadtracker.js"></script>
+  </body>
+</html>
+
+

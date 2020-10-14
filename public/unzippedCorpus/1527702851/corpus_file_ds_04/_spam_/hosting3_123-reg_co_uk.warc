@@ -1,0 +1,34 @@
+WARC/1.0
+WARC-Type: warcinfo
+WARC-Date: 2018-05-23T10:17:34Z
+WARC-All-Language: en
+WARC-All-Content_type: text/html
+WARC-Record-ID: <urn:uuid:90234ede-1278-46e3-ab30-ab43283fc288>
+Content-Type: application/http;msgtype=response
+Content-Length: 46
+
+WARCProcessor by SING Group www.sing-group.com
+
+WARC/1.0
+WARC-Type: response
+WARC-Target-URI: http://hosting3.123-reg.co.uk
+WARC-Date: 20180523101734
+WARC-Language: en
+WARC-Record-ID: <http://hosting3.123-reg.co.uk>
+Content-Type: application/http;msgtype=response
+Content-Length: 298
+
+HTTP/1.1 200
+Content-Type:text/html
+
+
+Welcome to your new 123-reg website!
+
+If you've uploaded your site but are still getting this welcome
+page try doing a SHIFT+Reload or a CTL+F5 - this will clear the cache.
+
+Good luck with your new website!
+
+You can delete this page or change its content.
+
+

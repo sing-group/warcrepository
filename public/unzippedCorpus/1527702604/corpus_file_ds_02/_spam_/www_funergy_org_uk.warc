@@ -1,0 +1,669 @@
+WARC/1.0
+WARC-Type: warcinfo
+WARC-Date: 2018-05-23T07:59:32Z
+WARC-All-Language: en-US
+WARC-All-Content_type: text/html; charset=UTF-8
+WARC-Record-ID: <urn:uuid:acf7583e-6d03-4160-91b3-d9ba172acc94>
+Content-Type: application/http;msgtype=response
+Content-Length: 46
+
+WARCProcessor by SING Group www.sing-group.com
+
+WARC/1.0
+WARC-Type: response
+WARC-Target-URI: http://www.funergy.org.uk
+WARC-Date: 20180523075932
+WARC-Language: en-US
+WARC-Record-ID: <http://www.funergy.org.uk>
+Content-Type: application/http;msgtype=response
+Content-Length: 77147
+
+HTTP/1.1 200
+Content-Type:text/html; charset=UTF-8
+
+
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="profile" href="http://gmpg.org/xfn/11">
+<link rel="pingback" href="http://www.funergy.org.uk/xmlrpc.php">
+
+<title>Funergy &#8211; Making Energy FUN!</title>
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="Funergy &raquo; Feed" href="http://www.funergy.org.uk/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Funergy &raquo; Comments Feed" href="http://www.funergy.org.uk/comments/feed/" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.2.1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.2.1\/svg\/","svgExt":".svg","source":{"concatemoji":"http:\/\/www.funergy.org.uk\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.7.10"}};
+			!function(a,b,c){function d(a){var b,c,d,e,f=String.fromCharCode;if(!k||!k.fillText)return!1;switch(k.clearRect(0,0,j.width,j.height),k.textBaseline="top",k.font="600 32px Arial",a){case"flag":return k.fillText(f(55356,56826,55356,56819),0,0),!(j.toDataURL().length<3e3)&&(k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,57331,65039,8205,55356,57096),0,0),b=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,57331,55356,57096),0,0),c=j.toDataURL(),b!==c);case"emoji4":return k.fillText(f(55357,56425,55356,57341,8205,55357,56507),0,0),d=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55357,56425,55356,57341,55357,56507),0,0),e=j.toDataURL(),d!==e}return!1}function e(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g,h,i,j=b.createElement("canvas"),k=j.getContext&&j.getContext("2d");for(i=Array("flag","emoji4"),c.supports={everything:!0,everythingExceptFlag:!0},h=0;h<i.length;h++)c.supports[i[h]]=d(i[h]),c.supports.everything=c.supports.everything&&c.supports[i[h]],"flag"!==i[h]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[i[h]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='fontAwesome-css'  href='http://www.funergy.org.uk/wp-content/themes/emotions-lite/css/font-awesome.min.css?ver=4.4.0' type='text/css' media='all' />
+<link rel='stylesheet' id='animate-css'  href='http://www.funergy.org.uk/wp-content/themes/emotions-lite/css/animate.min.css?ver=3.5.1' type='text/css' media='all' />
+<link rel='stylesheet' id='normalize-css'  href='http://www.funergy.org.uk/wp-content/themes/emotions-lite/css/normalize.css?ver=3.0.3' type='text/css' media='all' />
+<link rel='stylesheet' id='zurb-foundation-css'  href='http://www.funergy.org.uk/wp-content/themes/emotions-lite/css/foundation6.css?ver=6.2.1' type='text/css' media='all' />
+<link rel='stylesheet' id='emotions-lite-fonts-css'  href='https://fonts.googleapis.com/css?family=Merriweather%3A300%2C300italic%2C400%2C400italic%2C700&#038;subset=latin%2Clatin-ext' type='text/css' media='all' />
+<link rel='stylesheet' id='emotions-lite-style-css'  href='http://www.funergy.org.uk/wp-content/themes/emotions-lite/style.css?ver=4.7.10' type='text/css' media='all' />
+<style id='emotions-lite-style-inline-css' type='text/css'>
+body {background-color:#81d742; }
+	body.custom-background {background-size:initial; }
+	#content {background-color:#9ed14d; color:#000000; }
+	a, a:visited {color:#e7ea48; }
+	a:hover {color:#ffffff; }
+	h1, h2, h3, h4, h5, h6, .entry-title a, .entry-title a:visited, .entry-title a:hover {color:#0a0a0a; }
+	.widget-title {color:#ffffff; }
+	#sidebar-bottom-group .widget-title {color:#e3ede9; }
+#page {margin:0px auto; }
+#site-header1, #site-header2, #site-header3 {background-color:#00e08e; }
+	#site-title a, #site_title a:visited, #site_title a:hover {color:#00750d; }
+	#site-header3 #site-description:before, #site-header3 #site-description:after {background-color:#81d742; }	
+	#site-description {color:#81d742; }
+.header-text { color: #fff)}
+	.header-subtext { color: #fff)}
+	.header-button { border-color: #fcd088); color: #fcd088)}
+	.header-button:hover { background-color: #fcd088); color: #333}	
+#social-breadcrumbs-wrapper, .search-box {background-color:#32a36e; color:#ffffff  }
+	#breadcrumbs-wrapper a, .social-navigation a, .search-toggle:before {color:#ffffff  }
+.menu-toggle {background-color:#ffffff; color:#fff  }
+	.menu-toggle:hover {background-color:#ffffff; color:#fff  }	
+	.main-navigation.toggled-on a, 
+	.main-navigation.toggled-on li.home a {background-color:#333333; color:#ffffff;  }
+	.toggled-on li {border-color:#4d4d4d  }
+	.main-navigation.toggled-on ul.sub-menu a {color:#ffffff; }
+		
+	.main-navigation.toggled-on li.home a:hover,
+	.main-navigation.toggled-on a:hover,	
+	.main-navigation.toggled-on .current-menu-item  a,
+	.main-navigation.toggled-on .current-menu-ancestor > a,
+	.main-navigation.toggled-on ul.sub-menu a:hover,
+	.main-navigation.toggled-on ul ul .current-menu-item > a,
+	.main-navigation.toggled-on ul ul .current-menu-ancestor > a {color:#eeee22; }
+	
+	.main-navigation li a, .main-navigation li.home a {color:#ffffff  }	
+	.main-navigation li.home a:hover,
+	.main-navigation a:hover,
+	.main-navigation .current-menu-item  a,
+	.main-navigation .current-menu-ancestor > a 	{color:#eeee22  }	
+	.main-navigation ul ul li a, .main-navigation li li.menu-item-has-children a {color:#222  }		
+	.main-navigation ul ul a:hover,
+	.main-navigation ul ul .current-menu-item > a,
+	.main-navigation ul ul .current-menu-ancestor > a {color:#eeee22  }		
+	.main-navigation ul li:hover > ul,	.main-navigation ul li:focus > ul {background-color:#fff; border-color:#eeee22;  }
+	#site-header3 .nav-menu {background-color:  }
+.social-navigation a, .search-toggle:before {color:#f5f1e9  }
+	.social-navigation a:hover, .search-toggle:hover:before {color:#fff  }
+.post-navigation {background-color:#ffffff; color:#ffffff  }
+	.post-navigation a, .post-navigation a:visited {color:#ffffff  }
+	.post-navigation a:hover {color:#ffffff  }
+#bottom-wrapper {background-color:#59d155; color:#ffffff  }
+	#bottom-wrapper a, #bottom-wrapper a:visited {color:#ffffff  }
+	#bottom-wrapper li {border-color:#ffffff  }
+	#bottom-wrapper a:hover {color:#fff  }
+#site-footer {background-color:#81d742; color:#000000  }
+	#site-footer a, #site-footer a:visited {color:#000000  }
+	#site-footer a:hover {color:#000000  }
+.button {background-color:#ffffff; color:#fff  }
+	.button:hover {background-color:#ffffff; color:#fff  }
+	.banner-caption .button {border-color:#fff; color:#fff  }
+	.banner-caption .button:hover {background-color:#fff; color:#ffffff  }
+.back-to-top {background-color:#000; color:#fff;}
+		.back-to-top:hover {background-color:#304c6f;}
+
+</style>
+<script type='text/javascript' src='http://www.funergy.org.uk/wp-includes/js/jquery/jquery.js?ver=1.12.4'></script>
+<script type='text/javascript' src='http://www.funergy.org.uk/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
+<link rel='https://api.w.org/' href='http://www.funergy.org.uk/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www.funergy.org.uk/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://www.funergy.org.uk/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 4.7.10" />
+		<style type="text/css">.recentcomments a{display:inline !important;padding:0 !important;margin:0 !important;}</style>
+		<style type="text/css" id="custom-background-css">
+body.custom-background { background-image: url("http://www.funergy.org.uk/wp-content/uploads/2016/11/science.jpg"); background-position: left top; background-size: auto; background-repeat: repeat; background-attachment: scroll; }
+</style>
+<link rel="icon" href="http://www.funergy.org.uk/wp-content/uploads/2016/11/cropped-cropped-FUNERGY-LOGO-32x32.png" sizes="32x32" />
+<link rel="icon" href="http://www.funergy.org.uk/wp-content/uploads/2016/11/cropped-cropped-FUNERGY-LOGO-192x192.png" sizes="192x192" />
+<link rel="apple-touch-icon-precomposed" href="http://www.funergy.org.uk/wp-content/uploads/2016/11/cropped-cropped-FUNERGY-LOGO-180x180.png" />
+<meta name="msapplication-TileImage" content="http://www.funergy.org.uk/wp-content/uploads/2016/11/cropped-cropped-FUNERGY-LOGO-270x270.png" />
+</head>
+
+<body class="home blog custom-background wp-custom-logo custom-background-image hfeed">
+<div id="page" class="width1300">
+	<a class="skip-link screen-reader-text" href="#content">Skip to content</a>
+
+		 
+ <header id="site-header1">
+	  
+		<div class="site-logo" itemscope itemtype="http://schema.org/Organization">
+			<a href="http://www.funergy.org.uk/" rel="home" itemprop="url">
+				<a href="http://www.funergy.org.uk/" class="custom-logo-link" rel="home" itemprop="url"><img width="377" height="378" src="http://www.funergy.org.uk/wp-content/uploads/2016/11/cropped-FUNERGY-LOGO.png" class="custom-logo" alt="" itemprop="logo" srcset="http://www.funergy.org.uk/wp-content/uploads/2016/11/cropped-FUNERGY-LOGO.png 377w, http://www.funergy.org.uk/wp-content/uploads/2016/11/cropped-FUNERGY-LOGO-150x150.png 150w, http://www.funergy.org.uk/wp-content/uploads/2016/11/cropped-FUNERGY-LOGO-300x300.png 300w" sizes="(max-width: 377px) 100vw, 377px" /></a>			</a>    
+		</div>  
+ 
+ 	
+		
+	<nav id="site-navigation" class="main-navigation" itemscope="itemscope" itemtype="http://schema.org/SiteNavigationElement">
+		<div class="toggle-container visible-xs visible-sm hidden-md hidden-lg">
+				<button class="menu-toggle">Menu</button>
+		</div>
+					  
+	  <div class="menu-1-container"><ul id="menu-1" class="nav-menu"><li id="menu-item-14" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item current_page_item menu-item-home menu-item-14"><a href="http://www.funergy.org.uk">Home</a></li>
+<li id="menu-item-26" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-26"><a href="http://www.funergy.org.uk/our-aim/">Our Aim</a></li>
+<li id="menu-item-28" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-28"><a href="http://www.funergy.org.uk/category/biology/">Biology</a></li>
+<li id="menu-item-29" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-29"><a href="http://www.funergy.org.uk/category/chemistry/">Chemistry</a></li>
+<li id="menu-item-197" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-197"><a href="http://www.funergy.org.uk/category/physics/">Physics</a></li>
+<li id="menu-item-30" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-30"><a href="http://www.funergy.org.uk/category/science-news/">Science News</a></li>
+<li id="menu-item-27" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-27"><a href="http://www.funergy.org.uk/contact-us/">Contact Us</a></li>
+</ul></div>                    
+	</nav>
+    
+</header>
+
+<div id="banner-wrapper"></div>
+<div id="social-breadcrumbs-wrapper">
+<div  class="expanded row">
+<div id="breadcrumbs-wrapper" class="small-12 large-6 columns"></div>
+<div id="social-wrapper" class="small-12 large-6 columns">
+
+		<nav id="social-navigation" class="social-navigation" role="navigation" aria-label="Social Links Menu">
+			<div class="search-toggle">
+				<a href="#search-container" class="screen-reader-text" aria-expanded="false" aria-controls="search-container">Search</a>
+			</div>	
+			<div id="search-container" class="search-box-wrapper hide">
+				<div class="search-box clearfix">
+					
+
+<form method="get" class="search-form" action="http://www.funergy.org.uk/">
+	<span class="screen-reader-text"></span>
+		
+      	<input type="text" class="form-control" value="" name="s" placeholder="">
+        <input class="expanded small button" type="submit" value="Search">   
+
+</form> 
+				</div>
+			</div>
+			
+		
+		</nav>
+</div>
+</div>
+</div>
+
+	
+<div id="content" class="site-content">
+
+
+
+<div id="primary" class="content-area">
+	<div class="column row">
+		<main id="main" class="site-main blog1" role="main" itemprop="mainContentOfPage">
+
+			 
+ 
+<div class="row">
+	<div class="medium-8 columns">
+
+								
+			
+			<article id="post-210" class="post-210 post type-post status-publish format-standard hentry category-biology category-physics category-science-news">
+			
+				<header class="entry-header">
+						
+					<h2 class="entry-title"><a href="http://www.funergy.org.uk/is-there-an-afterlife-and-should-i-really-worry-about-it/" rel="bookmark">Is There An Afterlife and Should I Really Worry About It?</a></h2>				
+												<div class="entry-meta">
+								<span class="posted-on"><a href="http://www.funergy.org.uk/is-there-an-afterlife-and-should-i-really-worry-about-it/" rel="bookmark"><time class="entry-date published updated" datetime="2017-11-01T16:42:54+00:00">November 1, 2017</time></a></span><span class="byline"><span class="author vcard"><a class="url fn n" href="http://www.funergy.org.uk/author/donaldtrumpsflyingcircus/">Donald</a></span></span><span class="comments-link"><a href="http://www.funergy.org.uk/is-there-an-afterlife-and-should-i-really-worry-about-it/#respond">Leave a comment<span class="screen-reader-text"> on Is There An Afterlife and Should I Really Worry About It?</span></a></span>							</div>
+											
+				</header>
+				
+								
+				<div class="entry-content">
+				
+				<h1>Does death really happen? Can we prove that we&#8217;ll go to Hell if we don&#8217;t pray in the right direction? How can I look my best when I eventually reach Nirvana?</h1>
+<h5>These are the questions that people have been attempting to answer for centuries and one that&#8217;s no doubt shaped the way that millions of people have chosen to live their lives &#8211; but, when it comes to this big divisive issue, have we all been just wasting our breath?</h5>
+<p><img class="size-large wp-image-211 aligncenter" src="http://www.funergy.org.uk/wp-content/uploads/2017/11/stairs-735995_1920-1024x575.jpg" alt="" width="750" height="421" srcset="http://www.funergy.org.uk/wp-content/uploads/2017/11/stairs-735995_1920-1024x575.jpg 1024w, http://www.funergy.org.uk/wp-content/uploads/2017/11/stairs-735995_1920-300x169.jpg 300w, http://www.funergy.org.uk/wp-content/uploads/2017/11/stairs-735995_1920-768x432.jpg 768w, http://www.funergy.org.uk/wp-content/uploads/2017/11/stairs-735995_1920-1200x674.jpg 1200w" sizes="(max-width: 750px) 100vw, 750px" /></p>
+<h5>Now, it&#8217;s probably best that we come clean straight away &#8211; the answer to this question is that <em><strong>no one really knows</strong>. </em></h5>
+<p><em>Whilst the question has been rigorously researched, debated over and tossed from one side to the other, like the only steak in a den of lions, no one has really got any closer to confirming definitely whether or not there is an afterlife. </em></p>
+<p><em>The main issue that people are coming across, when trying to ascertain the truth to this eternal question is the whole death thing. </em></p>
+<h4>Here&#8217;s a universal example that you should be able to relate to&#8230;</h4>
+<hr />
+<h4 style="text-align: center;">An elderly relative of yours is reaching the end of their long and fruitful life.</h4>
+<p><img class="size-large wp-image-212 aligncenter" src="http://www.funergy.org.uk/wp-content/uploads/2017/11/granny-2347552_1920-1024x575.jpg" alt="" width="750" height="421" srcset="http://www.funergy.org.uk/wp-content/uploads/2017/11/granny-2347552_1920-1024x575.jpg 1024w, http://www.funergy.org.uk/wp-content/uploads/2017/11/granny-2347552_1920-300x168.jpg 300w, http://www.funergy.org.uk/wp-content/uploads/2017/11/granny-2347552_1920-768x431.jpg 768w, http://www.funergy.org.uk/wp-content/uploads/2017/11/granny-2347552_1920-1200x674.jpg 1200w" sizes="(max-width: 750px) 100vw, 750px" /></p>
+<h4>It&#8217;s a sad time, but almost bitter sweet really &#8211; Nan has had a rich and rewarding life, you&#8217;ll always remember her distinctive cackle and flaccid Sunday Roasts; and who could forget her trademark scolding flannel that she used to use to get unwilling school kids out of bed &#8211; many members of your family still carry the signature scold mark on their foreheads?</h4>
+<p>On your last visit to her bedside you realise that if anyone can answer your questions about the great unknown &#8211; it&#8217;s Nan. You tell her to call you from heave as soon as she&#8217;s died and she dutifully agrees, before whipping out a hot flannel and nearly tagging you on the forehead. She might be dying, but she&#8217;s still surprisingly spry&#8230;</p>
+<h5 style="text-align: center;"><strong>Nan passes during the night.</strong></h5>
+<p><center><iframe class="giphy-embed" src="https://giphy.com/embed/gm6hE5XgvnhGo" width="480" height="361" frameborder="0" allowfullscreen="allowfullscreen"></iframe></center><center></center></p>
+<h5>No one is surprised, your Mum even seems a bit relieved &#8211; you can tell because the mark on her forehead is not as red as it has been in the last few days &#8211; and you wait patiently for a call from heaven.</h5>
+<p>The funeral comes and goes, still no call from Nan and you start to seriously consider that she might have gone to Hell instead. You raise this query with your Mum who quickly zings you with a hot spoon she was hiding behind her back, it&#8217;s her own spin on Nan&#8217;s classic burn but it leaves a more vivid white-scar, she looks pleased with herself and then suggests that just because Nan hasn&#8217;t called from Heaven doesn&#8217;t mean that she&#8217;s in Hell.</p>
+<h5>&#8220;It could be that she&#8217;s in Heaven, but just not able to get to the phone. It <em>could</em> be that she&#8217;s in Heaven but they simply don&#8217;t have phones to contact us, which would explain all my unanswered prayers&#8221;, her wry expression suggests that she&#8217;s telling a joke, but you don&#8217;t get it.</h5>
+<p><img class="size-large wp-image-214 aligncenter" src="http://www.funergy.org.uk/wp-content/uploads/2017/11/person-947709_1920-1024x683.jpg" alt="" width="750" height="500" srcset="http://www.funergy.org.uk/wp-content/uploads/2017/11/person-947709_1920-1024x683.jpg 1024w, http://www.funergy.org.uk/wp-content/uploads/2017/11/person-947709_1920-300x200.jpg 300w, http://www.funergy.org.uk/wp-content/uploads/2017/11/person-947709_1920-768x512.jpg 768w, http://www.funergy.org.uk/wp-content/uploads/2017/11/person-947709_1920-1200x801.jpg 1200w" sizes="(max-width: 750px) 100vw, 750px" /></p>
+<h5>Keeping one eye on the spoon you slowly pace the room, considering her answer. If there&#8217;s no way to know if there&#8217;s even phones in Heaven, how could it be possible to know if people are there&#8230;how is it possible to know if heaven even exists?</h5>
+<p>You stop and consider the oblique nature of death and the afterlife, before you feel an affectionate zap on the back of your neck as your Dad gets home. He&#8217;s grown fond of carrying a stun-gun on his person at all times and he&#8217;s rather proud of the effectiveness of his new toy.</p>
+<h4>As you jerk spasmodically on the floor you decide that the nature of death and the after life is perhaps not worth worrying about so much, especially when there are so many things to worry about right now &#8211; like how to cover up the inevitable patchwork of scars that you&#8217;ll build up when the rest of your family comes back for Christmas.</h4>
+
+				
+				
+									</div>
+			</article>	
+					
+					
+			
+			<article id="post-198" class="post-198 post type-post status-publish format-standard hentry category-physics">
+			
+				<header class="entry-header">
+						
+					<h2 class="entry-title"><a href="http://www.funergy.org.uk/how-do-search-engines-work-and-why-should-i-care/" rel="bookmark">How Do Search Engines Work and Why Should I Care?</a></h2>				
+												<div class="entry-meta">
+								<span class="posted-on"><a href="http://www.funergy.org.uk/how-do-search-engines-work-and-why-should-i-care/" rel="bookmark"><time class="entry-date published updated" datetime="2017-08-01T13:50:44+00:00">August 1, 2017</time></a></span><span class="byline"><span class="author vcard"><a class="url fn n" href="http://www.funergy.org.uk/author/donaldtrumpsflyingcircus/">Donald</a></span></span><span class="comments-link"><a href="http://www.funergy.org.uk/how-do-search-engines-work-and-why-should-i-care/#respond">Leave a comment<span class="screen-reader-text"> on How Do Search Engines Work and Why Should I Care?</span></a></span>							</div>
+											
+				</header>
+				
+								
+				<div class="entry-content">
+				
+				<h1>Search engines &#8211; how do they <em>really</em> work? Should we trust <em>everything</em> they give us? And, if not, who can we really trust?</h1>
+<h5>The internet is a downright mystifying place, when you stop to think about it. Millions upon millions of web pages are created (and destroyed) every day, in a never ending world of birth and death that can be hard to keep track of.</h5>
+<h5>With all of this constant change, we should really be grateful that search engines exist to give some kind of order to the whole mess.</h5>
+<p><img class="size-large wp-image-202 aligncenter" src="http://www.funergy.org.uk/wp-content/uploads/2017/07/monitor-1307227_1920-1024x723.jpg" alt="" width="750" height="530" srcset="http://www.funergy.org.uk/wp-content/uploads/2017/07/monitor-1307227_1920-1024x723.jpg 1024w, http://www.funergy.org.uk/wp-content/uploads/2017/07/monitor-1307227_1920-300x212.jpg 300w, http://www.funergy.org.uk/wp-content/uploads/2017/07/monitor-1307227_1920-768x542.jpg 768w, http://www.funergy.org.uk/wp-content/uploads/2017/07/monitor-1307227_1920-1200x847.jpg 1200w" sizes="(max-width: 750px) 100vw, 750px" /></p>
+<h5>But, in handing over the sorting and organising to the big corporations (Google, Yahoo and Microsoft), have we sacrificed our freedom to access the information that we really want to see?</h5>
+<p><em>Most people like to think that Google is like one big friendly computer that takes your questions and then tries it&#8217;s very best to answer it as truthfully as possible. </em></p>
+<p><em>Unfortunately, Google is not a big friendly giant. It&#8217;s a big giant corporation, the same as Coca-Cola and McDonalds, that has it&#8217;s own ambitions and motives, both overt and ulterior. </em></p>
+<h4>This corporation may want you to find the information you&#8217;re looking for, but it might also want you to see something else before hand, like an advert maybe&#8230;</h4>
+<hr />
+<h4>Google (and all other search engines) work using algorithms &#8211; which are basically really long, complex series of mathematical rules that need to be followed in order for the right answer</h4>
+<p><center><iframe class="giphy-embed" src="https://giphy.com/embed/l3q2PZSVUUEsajBIY" width="480" height="350" frameborder="0" allowfullscreen="allowfullscreen"></iframe></center></p>
+<h4>Search engines are notoriously secretive about how their algorithms work as these are what gives them the edge over their competitors.</h4>
+<p>The purpose of each search engine should be to respond to the user&#8217;s query with a list of results that are ordered by relevancy. Unfortunately, due to the monetisation of the internet, the motives of these search engines have changed somewhat in recent years. Whilst User Experience (UX) is still vaunted as the number one priority for the search engines, there are now many fingers in the search pie and millions of individuals who are intent on taking a slice of it.</p>
+<hr />
+<h4>At some point, in the last ten years, the search engine space changed from being a place to <em>find </em>the things that you were looking for, to a place where you are <em>shown</em> what the engines <em>think </em>you&#8217;re looking for.</h4>
+<p><em>These are two very different things. The way that users interact with Google hasn&#8217;t changed: type in a search query, receive results. But the way the search engines interact with the users has changed significantly.</em></p>
+<p><img class="size-full wp-image-203 aligncenter" src="http://www.funergy.org.uk/wp-content/uploads/2017/07/wally.jpg" alt="" width="550" height="395" srcset="http://www.funergy.org.uk/wp-content/uploads/2017/07/wally.jpg 550w, http://www.funergy.org.uk/wp-content/uploads/2017/07/wally-300x215.jpg 300w" sizes="(max-width: 550px) 100vw, 550px" /></p>
+<h4>The search engines were once shining examples of internet freedom, a place where you could make sense of the mess of sites and directories that clog up the world wide web.</h4>
+<p>Today, though, they exist as glorified advertising spaces with millions of users willingly accepting them and countless businessmen and women taking full advantage. On the one hand, an SEO in Liverpool is now able to advertise his services out to millions of people, who otherwise might not have heard of him. On the other, there will be thousands of other people who will no doubt lose their businesses, because the simply don&#8217;t know how to keep up with times.</p>
+<hr />
+<h4 style="text-align: center;"><em>Search engines are the landing page for millions of internet users all over the world.</em></h4>
+<p><center><iframe class="giphy-embed" src="https://giphy.com/embed/l3V0megwbBeETMgZa" width="480" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></center></p>
+<h4>They&#8217;re fully integrated into our lives, as essential to us as our phones, email addresses and social media accounts.</h4>
+<h4>Before you casually type another search query into one though, have a think about the answers you receive and if they&#8217;re necessarily what you were looking for in the first place&#8230;</h4>
+
+				
+				
+									</div>
+			</article>	
+					
+					
+			
+			<article id="post-164" class="post-164 post type-post status-publish format-standard hentry category-chemistry">
+			
+				<header class="entry-header">
+						
+					<h2 class="entry-title"><a href="http://www.funergy.org.uk/why-does-roasted-meat-taste-like-dirt-and-does-my-oven-need-cleaning/" rel="bookmark">Why Does Roasted Meat Taste Like Dirt and Does My Oven Need Cleaning?</a></h2>				
+												<div class="entry-meta">
+								<span class="posted-on"><a href="http://www.funergy.org.uk/why-does-roasted-meat-taste-like-dirt-and-does-my-oven-need-cleaning/" rel="bookmark"><time class="entry-date published" datetime="2017-07-01T13:46:31+00:00">July 1, 2017</time><time class="screen-reader-text updated" datetime="2017-08-01T13:47:47+00:00">August 1, 2017</time></a></span><span class="byline"><span class="author vcard"><a class="url fn n" href="http://www.funergy.org.uk/author/donaldtrumpsflyingcircus/">Donald</a></span></span><span class="comments-link"><a href="http://www.funergy.org.uk/why-does-roasted-meat-taste-like-dirt-and-does-my-oven-need-cleaning/#respond">Leave a comment<span class="screen-reader-text"> on Why Does Roasted Meat Taste Like Dirt and Does My Oven Need Cleaning?</span></a></span>							</div>
+											
+				</header>
+				
+								
+				<div class="entry-content">
+				
+				<h1>Ever since man has stood up on two legs (approximately 7 million years ago, if anyone&#8217;s counting) we&#8217;ve eaten lovely meat.</h1>
+<h5>It just made sense. The animals that we hunted were usually smaller than us, posed no threat and also provided us with a big old bounty of protein which helped us think better and grow stronger.</h5>
+<h5>The by-products from the bigger animals, once we&#8217;d got through eating the smaller ones, also made for useful crafting materials that helped us further develop our early technologies.</h5>
+<p><img class=" wp-image-169 aligncenter" src="http://www.funergy.org.uk/wp-content/uploads/2016/12/abstract-1239146_1920-1-300x200.jpg" alt="abstract-1239146_1920" width="851" height="567" srcset="http://www.funergy.org.uk/wp-content/uploads/2016/12/abstract-1239146_1920-1-300x200.jpg 300w, http://www.funergy.org.uk/wp-content/uploads/2016/12/abstract-1239146_1920-1-768x512.jpg 768w, http://www.funergy.org.uk/wp-content/uploads/2016/12/abstract-1239146_1920-1-1024x683.jpg 1024w, http://www.funergy.org.uk/wp-content/uploads/2016/12/abstract-1239146_1920-1-1200x800.jpg 1200w" sizes="(max-width: 851px) 100vw, 851px" /></p>
+<h3>Early man  however, was not the smartest. He wasn&#8217;t aware of food hygiene rules and would probably not baulk at eating a leg of lamb that had been left out in the heat.</h3>
+<h3>Gross.</h3>
+<p>Mistakes with warming meat have been well catalogued throughout History. Indeed, many theorists posit that the reason why people of Islam and Judaism swerve pork is because of how quickly it spoils after slaughter. In the sweltering year-long heat of the countries, where these religions originated, the pig&#8217;s fatty flesh would have grown acrid within mere hours of slaughter.</p>
+<p>These days, those that choose to eat meat do so with much more security. <span style="font-size: 0.875rem;">In the Western world strict food safety laws are in place to prevent the selling of any meat that may cause harm to people.</span></p>
+<hr />
+<h3>So why is it that your roasted meat tastes like dirt and is there any time at all for you to solve the issue before Christmas Day?</h3>
+<p>Here&#8217;s one reason why your meat tastes like dirt&#8230;</p>
+<h4 style="text-align: center;">You&#8217;re actually a vegan.</h4>
+<p>The meat is fine. Any ordinary person would eat it right up, but you&#8217;ve recently undergone a subconscious shift in morality that your conscious mind has yet to fully comprehend.</p>
+<p><img class=" wp-image-175 aligncenter" src="http://www.funergy.org.uk/wp-content/uploads/2016/12/vegan-sean-bean-300x177.jpg" alt="vegan-sean-bean" width="753" height="444" srcset="http://www.funergy.org.uk/wp-content/uploads/2016/12/vegan-sean-bean-300x177.jpg 300w, http://www.funergy.org.uk/wp-content/uploads/2016/12/vegan-sean-bean.jpg 568w" sizes="(max-width: 753px) 100vw, 753px" /></p>
+<p>To test this theory, try eating meat from an outside source, like a fast food shop. If you&#8217;re a vegan it should taste like dirt (or even ashes). If this is the case, then you&#8217;ll need to invest in some hemp clothing and start telling as many people as possible that you are now a Vegan. Failure to do this will lead you to drifting into the negative zone, rejected by real Vegans as a fraud and disowned by your friends for being a wannabe.</p>
+<hr />
+<h3>If this test yields a negative result and you discover that the meat tastes good and nutritious, then it look like you&#8217;re not a vegan.</h3>
+<h4 style="text-align: center;">CONGRATULATIONS</h4>
+<p><center><iframe class="giphy-embed" src="//giphy.com/embed/13ZcUw0busJzgY" width="480" height="426" frameborder="0" allowfullscreen="allowfullscreen"></iframe></center></p>
+<hr />
+<h4>This moves us along to the second eventuality:</h4>
+<h4 style="text-align: center;">Your oven is a filthy mess.</h4>
+<p>Don&#8217;t be ashamed if this is the truth.</p>
+<p>Even the most obsessive clean freaks can find themselves with a dirty oven at some point. Over the course of a few months a well used oven will build up grease and dirt with each use. Before you know it, you can&#8217;t see through the glass window anymore, because the grease has blocked your view and your meat is starting to taste like the greatest hits of all meals from the last year.</p>
+<p><img class=" wp-image-179 aligncenter" src="http://www.funergy.org.uk/wp-content/uploads/2016/12/oven-dirty-300x169.jpg" alt="oven-dirty" width="749" height="422" srcset="http://www.funergy.org.uk/wp-content/uploads/2016/12/oven-dirty-300x169.jpg 300w, http://www.funergy.org.uk/wp-content/uploads/2016/12/oven-dirty-768x432.jpg 768w, http://www.funergy.org.uk/wp-content/uploads/2016/12/oven-dirty-1024x576.jpg 1024w, http://www.funergy.org.uk/wp-content/uploads/2016/12/oven-dirty-1200x675.jpg 1200w" sizes="(max-width: 749px) 100vw, 749px" /></p>
+<p>In order to get your oven back to a decent state, you&#8217;ll either need to get stuck in and do it yourself. Alternatively, you could hire someone to do it for you. There are services that specialise in oven cleaning in Reading, London, Merseyside &#8211; you name it , there&#8217;ll be an expert oven cleaner there to sort out your mess.</p>
+<hr />
+<h4>Finally, and this might be the toughest realisation to come to, especially if you&#8217;ve already gone to the trouble of deep cleaning your oven&#8230;</h4>
+<h3 style="text-align: center;">You could just be a terrible cook.</h3>
+<p><center><iframe class="giphy-embed" src="//giphy.com/embed/l0HlPtnx368hBCrU4" width="480" height="269" frameborder="0" allowfullscreen="allowfullscreen"></iframe></center>Even if you were given the finest meat that money could buy and given the best equipment available, you will still make that lovely meat taste like dirt because you are just so awful at cooking. In order to confirm this, you&#8217;ll need to trick your, clearly very well meaning friends into telling you the truth.</p>
+<hr />
+<h4>Here&#8217;s how you do it:</h4>
+<h5>Firstly, look online to find a local makeup artist for hire. There are an abundance in every town or city, due to the frivolous nature of the business and the high volume of students that are spat out from art colleges every year. Hire the artist for a day and get them to transform you into a much better looking person.</h5>
+<p><img class=" wp-image-183 aligncenter" src="http://www.funergy.org.uk/wp-content/uploads/2016/12/makeup-artist-487063_1280-300x225.jpg" alt="makeup-artist-487063_1280" width="500" height="375" srcset="http://www.funergy.org.uk/wp-content/uploads/2016/12/makeup-artist-487063_1280-300x225.jpg 300w, http://www.funergy.org.uk/wp-content/uploads/2016/12/makeup-artist-487063_1280-768x576.jpg 768w, http://www.funergy.org.uk/wp-content/uploads/2016/12/makeup-artist-487063_1280-1024x768.jpg 1024w, http://www.funergy.org.uk/wp-content/uploads/2016/12/makeup-artist-487063_1280-1200x900.jpg 1200w, http://www.funergy.org.uk/wp-content/uploads/2016/12/makeup-artist-487063_1280.jpg 1280w" sizes="(max-width: 500px) 100vw, 500px" /></p>
+<h5>Secondly, you&#8217;ll have to track down the location of each one of the friends that you&#8217;ve recently cooked for. Find them on a Friday night, when they&#8217;re at their most vulnerable then. Armed with your stunning new looks, making you completely unrecognisable, you must then try to win their affections and eventually, trust.</h5>
+<p><img class=" wp-image-184 aligncenter" src="http://www.funergy.org.uk/wp-content/uploads/2016/12/girl-1064667_1920-300x195.jpg" alt="girl-1064667_1920" width="500" height="325" srcset="http://www.funergy.org.uk/wp-content/uploads/2016/12/girl-1064667_1920-300x195.jpg 300w, http://www.funergy.org.uk/wp-content/uploads/2016/12/girl-1064667_1920-768x500.jpg 768w, http://www.funergy.org.uk/wp-content/uploads/2016/12/girl-1064667_1920-1024x667.jpg 1024w, http://www.funergy.org.uk/wp-content/uploads/2016/12/girl-1064667_1920-1200x781.jpg 1200w" sizes="(max-width: 500px) 100vw, 500px" /></p>
+<h5>After you&#8217;ve consummated this new relationship and you have their complete trust &#8211; then you start a conversation about food, and move on to the topic of dinner parties.</h5>
+<p><img class=" wp-image-185 aligncenter" src="http://www.funergy.org.uk/wp-content/uploads/2016/12/hotel-room-1261900_1920-300x200.jpg" alt="hotel-room-1261900_1920" width="500" height="333" srcset="http://www.funergy.org.uk/wp-content/uploads/2016/12/hotel-room-1261900_1920-300x200.jpg 300w, http://www.funergy.org.uk/wp-content/uploads/2016/12/hotel-room-1261900_1920-768x512.jpg 768w, http://www.funergy.org.uk/wp-content/uploads/2016/12/hotel-room-1261900_1920-1024x683.jpg 1024w, http://www.funergy.org.uk/wp-content/uploads/2016/12/hotel-room-1261900_1920-1200x800.jpg 1200w" sizes="(max-width: 500px) 100vw, 500px" /></p>
+<p>If your cooking truly is awful, then this should successfully trigger an anecdote from your friend &#8211; they will eagerly tell you about this <em>terrible</em> meal and you will know once and for all that you can&#8217;t cook. It is <em>imperative</em> that you slink away during the night and never talk to your friends about these liaisons, even if you are very drunk, as some of them <em>may</em> see your actions as rather rude or sociopathic.</p>
+<h4>If their answer was in the positive then it looks like you shouldn&#8217;t be the person in charge of the roast dinner come Christmas day. Simply fob the task off on someone else, the rest of the party should be relieved and you can kick back and have a few drinks.</h4>
+<hr />
+<h3>However, if successive make-up sessions, fake dates and sexual adventures with your closest friends brings you no new information, then there is <em>one</em> final reason as to why your meat tastes like dirt&#8230;the meat was probably out of date.</h3>
+
+				
+				
+									</div>
+			</article>	
+					
+					
+			
+			<article id="post-133" class="post-133 post type-post status-publish format-standard hentry category-biology category-chemistry category-science-news">
+			
+				<header class="entry-header">
+						
+					<h2 class="entry-title"><a href="http://www.funergy.org.uk/how-do-i-remember-stuff-and-why-do-i-forget/" rel="bookmark">How Do I Remember Stuff and Why Do I Forget?</a></h2>				
+												<div class="entry-meta">
+								<span class="posted-on"><a href="http://www.funergy.org.uk/how-do-i-remember-stuff-and-why-do-i-forget/" rel="bookmark"><time class="entry-date published updated" datetime="2017-04-25T13:48:49+00:00">April 25, 2017</time></a></span><span class="byline"><span class="author vcard"><a class="url fn n" href="http://www.funergy.org.uk/author/donaldtrumpsflyingcircus/">Donald</a></span></span><span class="comments-link"><a href="http://www.funergy.org.uk/how-do-i-remember-stuff-and-why-do-i-forget/#respond">Leave a comment<span class="screen-reader-text"> on How Do I Remember Stuff and Why Do I Forget?</span></a></span>							</div>
+											
+				</header>
+				
+								
+				<div class="entry-content">
+				
+				<h1>Memory is a tricky subject to discuss as there are still many things that we truly do not know about the subject. Much of how our brain works remains a mystery to scientists, but there is a little light that we can shed on the matter.</h1>
+<h5>To get to the murky bottom of how we keep stuff in our heads and why some of that stuff leaks out from time to time, we&#8217;re going to have to indulge in a little bit of Neuroscience, as well as a touch of Psychology.</h5>
+<h5>Our minds are truly wonderful creations, let&#8217;s hope that yours is good enough to remember the sheer mass of facts that you&#8217;re about to read!</h5>
+<p><img class=" wp-image-134 aligncenter" src="http://www.funergy.org.uk/wp-content/uploads/2016/12/brain-1845962_1920-300x227.jpg" alt="brain-1845962_1920" width="850" height="643" srcset="http://www.funergy.org.uk/wp-content/uploads/2016/12/brain-1845962_1920-300x227.jpg 300w, http://www.funergy.org.uk/wp-content/uploads/2016/12/brain-1845962_1920-768x581.jpg 768w, http://www.funergy.org.uk/wp-content/uploads/2016/12/brain-1845962_1920-1024x775.jpg 1024w, http://www.funergy.org.uk/wp-content/uploads/2016/12/brain-1845962_1920-1200x908.jpg 1200w" sizes="(max-width: 850px) 100vw, 850px" /></p>
+<h3>Can you remember when you were born? No? Well then I guess your memory could stand to be improved a jot&#8230;</h3>
+<p><em>We&#8217;re just joking around with you! Your memory is (probably) absolutely fine and you (definitely) shouldn&#8217;t start worrying about all those childhood memories that are slowly, but surely, slipping through your fingers with each passing day. Just forget about it.</em></p>
+<p><em>See what we did there?</em></p>
+<h4>Of course, for many people, it can be just as difficult forgetting something as it can be to remember something.</h4>
+<hr />
+<h4>Before we dive into the things that we should forget and the things we should keep in our noggins, let&#8217;s dive into some memory basics.</h4>
+<p>Memories are stored in our brain. Duh. Imagine a thin, reedy gentleman, dressed in a three-piece suit, with a toothbrush moustache &#8211; if you&#8217;ve successfully conjured this image:</p>
+<p><center><iframe class="giphy-embed" src="//giphy.com/embed/13VVqtbf8pPNBe" width="480" height="236" frameborder="0" allowfullscreen="allowfullscreen"></iframe></center>&#8230;then not only does your memory work, but you&#8217;re also fortunate enough to have seen Cronenberg&#8217;s <em>A Dangerous Method</em>. Well done you.</p>
+<h4>Anyway, imagine that lovely Michael Fassbender is talking in a well researched German accent and saying this:</h4>
+<p>&#8220;Historically, teachers and practitioners have been apt to describing the memory in terms of files. <span style="font-size: 0.875rem;">The notion that we pack our neat little memories away into perfect little mental filing cabinets is easy to grasp but woefully undersells the power of the brain.</span></p>
+<hr />
+<h4 style="text-align: center;">Imagine being a child once more and consider being unaware of some basic concepts.</h4>
+<p><img class=" wp-image-150 aligncenter" src="http://www.funergy.org.uk/wp-content/uploads/2016/12/brainy-300x200.jpg" alt="brainy" width="599" height="399" srcset="http://www.funergy.org.uk/wp-content/uploads/2016/12/brainy-300x200.jpg 300w, http://www.funergy.org.uk/wp-content/uploads/2016/12/brainy-768x511.jpg 768w, http://www.funergy.org.uk/wp-content/uploads/2016/12/brainy.jpg 787w" sizes="(max-width: 599px) 100vw, 599px" /></p>
+<p><span style="font-size: 0.875rem;">Let&#8217;s say, for example, that you see your first dog. Your well-endowed Mother leans down and points at the creature. She explains that this thing is called a dog. Later on, whilst trekking back home with the shopping, through the frozen Bavarian tundra, you are both accosted by a wolf. As your Mother buries her trusty hatchet into it&#8217;s skull she points and explains that this is a wolf.</span></p>
+<p><center><iframe class="giphy-embed" src="//giphy.com/embed/12ElvZD8rOdILm" width="480" height="269" frameborder="0" allowfullscreen="allowfullscreen"></iframe></center>Here&#8217;s the question related to memory:</p>
+<h4 style="text-align: center;">Will you remember the difference between the dog and the wolf? Or will you simply be horribly scarred for the rest of your childhood?&#8221;</h4>
+<hr />
+<h4 style="text-align: center;">Thanks, Carl Jung.</h4>
+<h4>Oh&#8230;are you a little confused, that&#8217;s alright, we&#8217;ll help you out of this one.</h4>
+<p>Here&#8217;s what the you&#8217;d remember, as a young Bavarian lad who&#8217;s had quite the day out with his Mutter. We remember things differently over time. We have short term memory and long term memory. So, in the short-term, as a child you would remember that particularly cute dog you saw at the Christkindlmarkt, but only for a day at most. The incident with der Wolf would be much more likely to stay in your mind for a long time (perhaps even the rest of your life), thanks to the intense moment that the memory was formed in.</p>
+<p><img class=" wp-image-152 aligncenter" src="http://www.funergy.org.uk/wp-content/uploads/2016/12/anxiety-300x169.jpg" alt="anxiety" width="614" height="346" srcset="http://www.funergy.org.uk/wp-content/uploads/2016/12/anxiety-300x169.jpg 300w, http://www.funergy.org.uk/wp-content/uploads/2016/12/anxiety.jpg 650w" sizes="(max-width: 614px) 100vw, 614px" /></p>
+<p>However, thanks to the ingenious way our brains are formed, you will <em>never</em> forget what the general concept of a &#8216;dog&#8217; or &#8216;wolf&#8217; is and you will <em>certainly </em>be able to tell the difference and know which one likes a bone and which one likes a rusted blade splitting it&#8217;s furry dome.</p>
+<hr />
+<h4>Memory is a strange concept that we&#8217;re still yet to fully get to the bottom of. It&#8217;s mercurial nature has eluded the work of scientists for decades and is bound to confuse more for years to come.</h4>
+
+				
+				
+									</div>
+			</article>	
+					
+					
+			
+			<article id="post-100" class="post-100 post type-post status-publish format-standard hentry category-chemistry">
+			
+				<header class="entry-header">
+						
+					<h2 class="entry-title"><a href="http://www.funergy.org.uk/are-there-germs-on-my-bbq-and-can-i-kill-them-by-cleaning-it/" rel="bookmark">Are There Germs On My BBQ and Can I Kill Them By Cleaning It?</a></h2>				
+												<div class="entry-meta">
+								<span class="posted-on"><a href="http://www.funergy.org.uk/are-there-germs-on-my-bbq-and-can-i-kill-them-by-cleaning-it/" rel="bookmark"><time class="entry-date published" datetime="2016-11-30T11:43:42+00:00">November 30, 2016</time><time class="screen-reader-text updated" datetime="2016-12-14T13:49:29+00:00">December 14, 2016</time></a></span><span class="byline"><span class="author vcard"><a class="url fn n" href="http://www.funergy.org.uk/author/donaldtrumpsflyingcircus/">Donald</a></span></span><span class="comments-link"><a href="http://www.funergy.org.uk/are-there-germs-on-my-bbq-and-can-i-kill-them-by-cleaning-it/#respond">Leave a comment<span class="screen-reader-text"> on Are There Germs On My BBQ and Can I Kill Them By Cleaning It?</span></a></span>							</div>
+											
+				</header>
+				
+								
+				<div class="entry-content">
+				
+				<h1>Germs come in many forms and get everywhere &#8211; including your BBQ. They have the capability to kill you &#8211; so you must kill them first.</h1>
+<h5>To answer these questions today, we are going to have to take a little look into what germs are, and how they have the potential to hurt us. We&#8217;ll explore the four main types of germs, how they travel and what they eat.</h5>
+<h5>Once we know what these nasty little beggars are, we can start exploring how they get onto your BBQ when you least expect and how you can kill them, before they get a chance to take your body for a ride down Sicksville Avenue.</h5>
+<p><img class=" wp-image-105 aligncenter" src="http://www.funergy.org.uk/wp-content/uploads/2016/11/germs-300x162.jpg" alt="germs" width="850" height="459" srcset="http://www.funergy.org.uk/wp-content/uploads/2016/11/germs-300x162.jpg 300w, http://www.funergy.org.uk/wp-content/uploads/2016/11/germs.jpg 740w" sizes="(max-width: 850px) 100vw, 850px" /></p>
+<h3>The shady world of germs is one fraught with hazards and risks: it also happens to be a world that we traverse on a daily basis.</h3>
+<h3>That&#8217;s right, germs are absolutely everywhere. They&#8217;re on your face, on your food and inside your belly. Perhaps the most worrying thing about them is that most of them are completely invisible to the naked eye &#8211; so how can we possibly stop them?</h3>
+<p>Germs can be found everywhere, as we&#8217;ve discussed, but they can work in wildly different ways, depending what type they are. Each type lives, eats and breeds a little differently, having a different effect on the body, plant or animal that they happen to be inhabiting at any one time.</p>
+<h4>There are four main types:</h4>
+<h2>Bacteria</h2>
+<h4 style="text-align: center;">The most commonly known of all the germs &#8211; these little creatures are made up of a single cell and get their food from the environments that they reside in &#8211; whether that&#8217;s plants, animals or even people!</h4>
+<p><img class="wp-image-110 aligncenter" src="http://www.funergy.org.uk/wp-content/uploads/2016/11/GERMS-ANIMATED-300x203.jpg" alt="germs-animated" width="518" height="350" srcset="http://www.funergy.org.uk/wp-content/uploads/2016/11/GERMS-ANIMATED-300x203.jpg 300w, http://www.funergy.org.uk/wp-content/uploads/2016/11/GERMS-ANIMATED.jpg 610w" sizes="(max-width: 518px) 100vw, 518px" /></p>
+<h6 style="text-align: center;"> They have the ability of being able to reproduce at a rapid rate and can cause problems such as tooth cavities, pneumonia and sore throats. You <em>can</em> get some good bacteria in your belly, and health food drinks, but you won&#8217;t find those guys on your BBQ!</h6>
+<hr />
+<h2>Viruses</h2>
+<h4 style="text-align: center;">Viruses can only reproduce when they are <em>inside </em>another living cell &#8211; yuck!</h4>
+<p><img class=" wp-image-112 aligncenter" src="http://www.funergy.org.uk/wp-content/uploads/2016/11/cold-300x300.jpg" alt="cold" width="350" height="350" srcset="http://www.funergy.org.uk/wp-content/uploads/2016/11/cold-300x300.jpg 300w, http://www.funergy.org.uk/wp-content/uploads/2016/11/cold-150x150.jpg 150w, http://www.funergy.org.uk/wp-content/uploads/2016/11/cold.jpg 320w" sizes="(max-width: 350px) 100vw, 350px" /></p>
+<h6 style="text-align: center;"> Because they can&#8217;t live for very long outside a living being (called a host) they have developed many ingenious ways of being able to travel. Moving around in your saliva, they can escape whilst you breathe or even travel at high-speed when you sneeze. They&#8217;re the culprits behind the nasty colds and flus that people get during the winter months.</h6>
+<hr />
+<h2>Fungi</h2>
+<h4 style="text-align: center;">These guys are a little more fun and, at the very least, a little easier to spot.</h4>
+<p><img class=" wp-image-121 aligncenter" src="http://www.funergy.org.uk/wp-content/uploads/2016/11/fonz-218x300.jpg" alt="fonz" width="283" height="389" srcset="http://www.funergy.org.uk/wp-content/uploads/2016/11/fonz-218x300.jpg 218w, http://www.funergy.org.uk/wp-content/uploads/2016/11/fonz.jpg 290w" sizes="(max-width: 283px) 100vw, 283px" /></p>
+<h6 style="text-align: center;"> Made of many cells, they are the only form of germ that is visible to the naked eye. They&#8217;re often mistaken for plants, however they&#8217;re very different in makeup. Unlike plants, fungi can&#8217;t make their own food from sunshine and water. Just like viruses, they need to take their food from other living organisms. Most of the time, they&#8217;re not dangerous to us, but they <em>can</em> cause icky problems like athlete&#8217;s foot. Blech!</h6>
+<hr />
+<h2>Protozoa</h2>
+<h4 style="text-align: center;">Diseases caused by protozoa are often the most damaging to people, what&#8217;s more they&#8217;re incredibly infectious, due to the fact that they can live quite happily in water.</h4>
+<p><img class=" wp-image-115 aligncenter" src="http://www.funergy.org.uk/wp-content/uploads/2016/11/germs-2-300x264.jpg" alt="germs-2" width="401" height="353" srcset="http://www.funergy.org.uk/wp-content/uploads/2016/11/germs-2-300x264.jpg 300w, http://www.funergy.org.uk/wp-content/uploads/2016/11/germs-2.jpg 600w" sizes="(max-width: 401px) 100vw, 401px" /></p>
+<h6> That&#8217;s why in many poor countries, that can&#8217;t afford clean water, thousands of people can die of illnesses like diarrhoea and dysentery. These germs can cause nasty belly ache and other intestinal issues, all things which you&#8217;d like to avoid getting on to your BBQ, I&#8217;m sure.</h6>
+<hr />
+<h2 style="text-align: center;">&#8220;How can I clean these germs off my BBQ then?&#8221;</h2>
+<p><img class="aligncenter wp-image-116 " src="http://www.funergy.org.uk/wp-content/uploads/2016/11/bbq-300x259.jpg" width="407" height="351" srcset="http://www.funergy.org.uk/wp-content/uploads/2016/11/bbq-300x259.jpg 300w, http://www.funergy.org.uk/wp-content/uploads/2016/11/bbq.jpg 580w" sizes="(max-width: 407px) 100vw, 407px" /></p>
+<h6 style="text-align: center;">During the heat of the summer it&#8217;s really important that you keep your BBQ clean and sanitary.</h6>
+<hr />
+<h6>Even though, when you&#8217;ve got the coals burning as hot as can be, you&#8217;ll be killing most of them &#8211; you can&#8217;t guarantee that some of them haven&#8217;t jumped on board your food, ready for a little trip into your belly.</h6>
+<p>After you use your BBQ (and it&#8217;s cooled down sufficiently) make sure that you tip out the coals, rinse it down and give it a really good scrub. You&#8217;ll also need to take the sticky grill off, soak it and scrub every last bit of grease off it &#8211; this will be trapping all the germs.</p>
+<p>All this is easy enough to do if you&#8217;ve got a little BBQ, but if you&#8217;ve got a big American-style job, then it might be better to hire a cleaning business franchise to do the hard work for you. A trained professional can come out and clean your grill for you, whilst you wait.</p>
+<hr />
+<h4 style="text-align: left;">It&#8217;s good to get a deep clean done at least once a year, so that you can guarantee that you&#8217;re not feeding your guests germ infested meat.</h4>
+<h2 style="text-align: center;">Don&#8217;t poison your friends, clean your BBQ!</h2>
+
+				
+				
+									</div>
+			</article>	
+					
+					
+			
+			<article id="post-82" class="post-82 post type-post status-publish format-standard hentry category-biology">
+			
+				<header class="entry-header">
+						
+					<h2 class="entry-title"><a href="http://www.funergy.org.uk/how-much-sleep-do-we-really-need/" rel="bookmark">How Much Sleep Do We Really Need?</a></h2>				
+												<div class="entry-meta">
+								<span class="posted-on"><a href="http://www.funergy.org.uk/how-much-sleep-do-we-really-need/" rel="bookmark"><time class="entry-date published" datetime="2016-11-30T11:31:48+00:00">November 30, 2016</time><time class="screen-reader-text updated" datetime="2016-12-14T13:49:45+00:00">December 14, 2016</time></a></span><span class="byline"><span class="author vcard"><a class="url fn n" href="http://www.funergy.org.uk/author/donaldtrumpsflyingcircus/">Donald</a></span></span><span class="comments-link"><a href="http://www.funergy.org.uk/how-much-sleep-do-we-really-need/#respond">Leave a comment<span class="screen-reader-text"> on How Much Sleep Do We Really Need?</span></a></span>							</div>
+											
+				</header>
+				
+								
+				<div class="entry-content">
+				
+				<h1>This is a question that has plagued children, teenagers and unruly students alike for decades &#8211; there is an answer and you&#8217;ll most likely know it already&#8230;</h1>
+<h4>It&#8217;s rumoured that Margaret Thatcher spent the majority of her time in office sleeping only 4 hours a night, whereas Einstein was reported to have up to 10 hours a sleep every night. Most people could guess who made better decisions whilst they were on this Earth &#8211; but should we really be following in either of these people&#8217;s footsteps?</h4>
+<p><img class="aligncenter wp-image-84 " src="http://www.funergy.org.uk/wp-content/uploads/2016/11/woman-sleeping-peaceful-300x200.jpg" width="849" height="566" srcset="http://www.funergy.org.uk/wp-content/uploads/2016/11/woman-sleeping-peaceful-300x200.jpg 300w, http://www.funergy.org.uk/wp-content/uploads/2016/11/woman-sleeping-peaceful-768x512.jpg 768w, http://www.funergy.org.uk/wp-content/uploads/2016/11/woman-sleeping-peaceful-1024x683.jpg 1024w, http://www.funergy.org.uk/wp-content/uploads/2016/11/woman-sleeping-peaceful-1200x800.jpg 1200w" sizes="(max-width: 849px) 100vw, 849px" /></p>
+<h3>In order to successfully function as decent human beings, it&#8217;s imperative that we sleep regularly. But how long should we sleep for? Should it be during the night? Is taking naps OK? And is it healthy to go to sleep listening to Seinfeld repeats every night?</h3>
+<p><em>The history of sleep is a rich and textured one &#8211; we&#8217;ve not always slept in the same ways. However, over decades of research, an informal consensus has been reached &#8211; albeit one with some minor caveats. Unfortunately, the Technological Revolution has brought with it a myriad of distractions whose sole purpose, it seems, is to stop us from sleeping. </em></p>
+<p><center><iframe class="giphy-embed" src="//giphy.com/embed/AwCOpCXTNQlCE" width="480" height="289" frameborder="0" allowfullscreen="allowfullscreen"></iframe></center></p>
+<hr />
+<h2>&#8220;So how much sleep is enough, and is there such a thing as <em>too much</em> sleep?&#8221;</h2>
+<p>Most scientists recommend anywhere between 6-8 hours sleep for the average adult and around 9-11 for adolescents. Little nippers obviously need a great deal more, as they spend the nights growing &#8211; as well as resting.</p>
+<p>In the wake of an &#8216;always-on&#8217; globalised community, a worrying trend has now developed amongst adults and adolescents &#8211; suggesting that technology is keeping large swathes of the world&#8217;s populations awake at night &#8211; with thousands choosing to while away the night-time hours bingeing TV on popular streaming sites or idly scrolling through the News Feeds of their favourite Social Networks. Is this something that we should be worrying about? Do we need to be sleeping through the night and can we just get by on napping?</p>
+<p>Although we are all of us made a little differently from one another, a few general rules can be applied to human beings&#8217; relationship with sleep. Regardless of whether we are &#8216;night owls&#8217; (preferring to stay up later and rise later) or &#8216;larks&#8217; (rising much earlier and getting to bed comparatively earlier), we are all programmed to function on the same &#8216;circadian&#8217; rhythm &#8211; this is the fancy name for the internal clock inside us that determines when we get tired.</p>
+<p><center><iframe class="giphy-embed" src="//giphy.com/embed/me0mqrZiCbxwQ" width="480" height="267" frameborder="0" allowfullscreen="allowfullscreen"></iframe></center></p>
+<hr />
+<h3>&#8220;So as long as I get 8 hours sleep at some point, it doesn&#8217;t matter when I go to sleep?&#8221;</h3>
+<p>Nope. Not <em>quite.</em> You see, there are certain benefits to being awake during the day and asleep during the night. The more hours you spend in the lovely day light, the more serotonin your body is likely to produce. Serotonin is key for mental well being. Those who do not get the chance to produce enough serotonin run the risk of developing Seasonal Affective Disorder &#8211; a condition which can cause low mood or even depression.</p>
+<p>Similarly, when the sun goes down, the body starts to produce another hormone that acts in almost opposite way to serotonin. Melotonin doesn&#8217;t make you sad, but it <em>does </em>make you feel sleepy &#8211; preparing your body for the imminent sleep that is soon to come. Work against this hormone and you may well stay up longer, but you also risk sending your &#8216;circadian rhythm&#8217; into disarray.</p>
+<p><center><iframe class="giphy-embed" src="//giphy.com/embed/5MbunK7jbfqkE" width="480" height="384" frameborder="0" allowfullscreen="allowfullscreen"></iframe></center></p>
+<hr />
+<h4 style="text-align: center;">&#8220;So I should just&#8230;sleep for 8 hours, seven days a week and try and get up in the morning?&#8221;</h4>
+<p><center><iframe class="giphy-embed" src="//giphy.com/embed/l2YWFGatS2tmRGvsY" width="480" height="204" frameborder="0" allowfullscreen="allowfullscreen"></iframe></center></p>
+<h4>Yes! That&#8217;s pretty much it. The answer to getting a good night sleep is simple and, most probably, one that you already know.</h4>
+<hr />
+<h2>If you were looking on this page for an excuse to stay in bed a bit longer, or stay up that extra hour later &#8211; we&#8217;re sorry to disappoint you &#8211; but you need to look elsewhere!</h2>
+
+				
+				
+									</div>
+			</article>	
+					
+					
+			
+			<article id="post-64" class="post-64 post type-post status-publish format-standard hentry category-biology category-science-news">
+			
+				<header class="entry-header">
+						
+					<h2 class="entry-title"><a href="http://www.funergy.org.uk/what-is-renewable-energy-and-can-i-eat-it/" rel="bookmark">What Is Renewable Energy And Can I Eat It?</a></h2>				
+												<div class="entry-meta">
+								<span class="posted-on"><a href="http://www.funergy.org.uk/what-is-renewable-energy-and-can-i-eat-it/" rel="bookmark"><time class="entry-date published" datetime="2016-11-18T13:56:36+00:00">November 18, 2016</time><time class="screen-reader-text updated" datetime="2016-12-14T13:50:09+00:00">December 14, 2016</time></a></span><span class="byline"><span class="author vcard"><a class="url fn n" href="http://www.funergy.org.uk/author/donaldtrumpsflyingcircus/">Donald</a></span></span><span class="comments-link"><a href="http://www.funergy.org.uk/what-is-renewable-energy-and-can-i-eat-it/#respond">Leave a comment<span class="screen-reader-text"> on What Is Renewable Energy And Can I Eat It?</span></a></span>							</div>
+											
+				</header>
+				
+								
+				<div class="entry-content">
+				
+				<h1>That&#8217;s really two questions &#8211; thankfully one is a lot easier to answer than the other&#8230;</h1>
+<h6>There&#8217;s no such thing as a stupid question. There really isn&#8217;t, so we&#8217;ll attempt to answer yours for you now &#8211; in as fun a way as possible.</h6>
+<h6>There are a lot of different kinds of renewable energies &#8211; so many in fact &#8211; that it would be quite impossible to explain all of them. So what we&#8217;ll do is simply mention a few and then address the whole &#8216;eating&#8217; issue later.</h6>
+<p><img class=" wp-image-66 aligncenter" src="http://www.funergy.org.uk/wp-content/uploads/2016/11/renewable-300x120.gif" alt="renewable" width="850" height="340" srcset="http://www.funergy.org.uk/wp-content/uploads/2016/11/renewable-300x120.gif 300w, http://www.funergy.org.uk/wp-content/uploads/2016/11/renewable-768x307.gif 768w" sizes="(max-width: 850px) 100vw, 850px" /></p>
+<h2>In the old days, we used to get all our energy from oil and coal. There was so much of the black stuff, locked away in the ground, we thought it would last forever. When the Industrial Revolution hit the world, we all went a bit mad for fossil fuels &#8211; until things started to get a bit smoggy.</h2>
+<p>You see, although it was super fun blowing holes in mountains and smashing up the land for oil, it turns out that we were actually hurting the planet a little bit in the process. Unfortunately, it took us a little while to  come round to this. The Industrial Revolution was a bit of a crazy time, when captains of industry were being raised from the slums of the world and grabbing opportunities with their grubby mitts.</p>
+<h4>&#8220;Why were their mitts so grubby?&#8221; You ask?</h4>
+<p>Well, they were both literally and metaphorically grubby. The literal part came from the actual coal and oil that why were forever rubbing on their hands (because that&#8217;s how you test for good quality fossil fuels) and the metaphorical part from the underhand, cowardly tactics they used to make more money at the expense of the planet&#8217;s well being and people&#8217;s lives.</p>
+<p>Back in the time of this Industrial boom, a lot of kids were used to do jobs that were dangerous and damaging to their health. If an indigenous tribe was sitting on a huge oil reserve, the businessmen would think nothing of pushing them off the land or just killing them.</p>
+<h6 style="text-align: center;">Of course, things like this still happen today, but less so, thanks to lovely renewable energy!</h6>
+<p><img class=" wp-image-70 aligncenter" src="http://www.funergy.org.uk/wp-content/uploads/2016/11/renewable-energies-1-300x225.jpg" alt="renewable-energies" width="948" height="711" srcset="http://www.funergy.org.uk/wp-content/uploads/2016/11/renewable-energies-1-300x225.jpg 300w, http://www.funergy.org.uk/wp-content/uploads/2016/11/renewable-energies-1-768x576.jpg 768w, http://www.funergy.org.uk/wp-content/uploads/2016/11/renewable-energies-1.jpg 1024w" sizes="(max-width: 948px) 100vw, 948px" /></p>
+<h4 style="text-align: center;">&#8220;Wait a second, are you saying that renewable energies are stopping murders?&#8221;</h4>
+<h2 style="text-align: center;">Yes! Absolutely. The use of renewable energies is actively stopping murders on a daily basis &#8211; however it&#8217;s not stopping the proliferation of child workers. That will always continue.</h2>
+<p>At some point after the Second World War and the Cold War had blown over (in the 60s or something) people started to question the  amount of harmful gases and fuels that we were using. Some scientists (supported by a contingency of people with long hair and drug habits) pointed out that we might actually run out of lovely black oil at some point, so maybe it would be a good idea to look into different ways of making energy.</p>
+<h5>This is what they came up with:</h5>
+<h2 style="text-align: center;">Wind Power</h2>
+<p><center><iframe class="giphy-embed" src="//giphy.com/embed/DU2N85J1XHRWE" width="480" height="259" frameborder="0" allowfullscreen="allowfullscreen"></iframe></center></p>
+<h6>Discovered in the mid-70s, this is a great form of renewable energy as there&#8217;s always plenty of wind to spare! The only pain is how much they cost to install and some people think they look ugly.</h6>
+<hr />
+<h2 style="text-align: center;">Bio-Mass</h2>
+<p><center><iframe class="giphy-embed" src="//giphy.com/embed/Ee9hkOqVROIKc" width="480" height="513" frameborder="0" allowfullscreen="allowfullscreen"></iframe></center></p>
+<h6>Burning wood  is actually a renewable source of energy &#8211; as long as you take the time to grow the trees sustainably. You can buy it in a specially formulated shape from sites like Volcano Wood Fuels.</h6>
+<hr />
+<h2 style="text-align: center;">Hydro</h2>
+<p><center><iframe class="giphy-embed" src="//giphy.com/embed/3d8PvPTpwfOiQ" width="480" height="269" frameborder="0" allowfullscreen="allowfullscreen"></iframe></center></p>
+<h6>The power of the ocean is awesome and scary &#8211; and it <em>can</em> be harnessed! Using off-shore, purpose built stations, we can take the kinetic power of the waves and transform into electricity.</h6>
+<hr />
+<h4>There are loads of other ways of producing renewable energy, all as smart and clever as the next, but these are the easiest to understand. As an answer to your second question: No.</h4>
+<h2 style="text-align: center;">No, you cannot eat any of these.</h2>
+
+				
+				
+									</div>
+			</article>	
+					
+					
+			
+			<article id="post-48" class="post-48 post type-post status-publish format-standard has-post-thumbnail hentry category-biology category-chemistry">
+			
+				<header class="entry-header">
+						
+					<h2 class="entry-title"><a href="http://www.funergy.org.uk/ever-wondered-why-grass-is-green/" rel="bookmark">Ever Wondered Why Grass Is Green?</a></h2>				
+												<div class="entry-meta">
+								<span class="posted-on"><a href="http://www.funergy.org.uk/ever-wondered-why-grass-is-green/" rel="bookmark"><time class="entry-date published" datetime="2016-11-14T14:55:10+00:00">November 14, 2016</time><time class="screen-reader-text updated" datetime="2017-07-27T14:31:25+00:00">July 27, 2017</time></a></span><span class="byline"><span class="author vcard"><a class="url fn n" href="http://www.funergy.org.uk/author/donaldtrumpsflyingcircus/">Donald</a></span></span><span class="comments-link"><a href="http://www.funergy.org.uk/ever-wondered-why-grass-is-green/#respond">Leave a comment<span class="screen-reader-text"> on Ever Wondered Why Grass Is Green?</span></a></span>							</div>
+											
+				</header>
+				
+				<a class="featured-image-link" href="http://www.funergy.org.uk/ever-wondered-why-grass-is-green/" aria-hidden="true"><img width="970" height="547" src="http://www.funergy.org.uk/wp-content/uploads/2016/11/photosynthesis-3-1.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="Ever Wondered Why Grass Is Green?" itemprop="image" srcset="http://www.funergy.org.uk/wp-content/uploads/2016/11/photosynthesis-3-1.jpg 970w, http://www.funergy.org.uk/wp-content/uploads/2016/11/photosynthesis-3-1-300x169.jpg 300w, http://www.funergy.org.uk/wp-content/uploads/2016/11/photosynthesis-3-1-768x433.jpg 768w" sizes="(max-width: 970px) 100vw, 970px" /></a>				
+				<div class="entry-content">
+				
+				<h1>It&#8217;s a valid question, if you&#8217;re under the age of 10, otherwise you should read on to get some education &#8211; quick smart.</h1>
+<h6>It&#8217;s all connected to a well known (to most <em>normal</em> adults) chemical process that not only gives plants the ability to grow, but also gives us humans oxygen, so that we can breathe.</h6>
+<p><img class=" wp-image-50 aligncenter" src="http://www.funergy.org.uk/wp-content/uploads/2016/11/plants-growing-300x188.jpg" alt="plants-growing" width="849" height="532" srcset="http://www.funergy.org.uk/wp-content/uploads/2016/11/plants-growing-300x188.jpg 300w, http://www.funergy.org.uk/wp-content/uploads/2016/11/plants-growing-768x480.jpg 768w, http://www.funergy.org.uk/wp-content/uploads/2016/11/plants-growing-1024x640.jpg 1024w, http://www.funergy.org.uk/wp-content/uploads/2016/11/plants-growing-1200x750.jpg 1200w" sizes="(max-width: 849px) 100vw, 849px" /></p>
+<h2>Before your question about why leaves are green are answered, it&#8217;s important to remember that &#8211; in the world of Science &#8211; everything exists for a reason.</h2>
+<p>The leaves of plants are not simply green because that&#8217;s the prettiest colour, the appear green because of the little bits and pieces that they are made from. You see, normal green plants can&#8217;t grow without the sunlight. They need the rays of the sun, like us humans need food and water, to galvanise the cells in their bodies into actions, so that they can grow taller and taller.</p>
+<p>Sunlight comprises of loads of different light rays. You know rainbows, right? Well, when you see a rainbow, what you&#8217;re seeing is the light from the sun <em>refracted</em><em> </em>into it&#8217;s constituent rays. Without the water (or something like a glass prism) there&#8217;s no way for us to see these rays. Plants, like this little green chap in the picture above, have found a way (over years of evolution) of channelling the energy from the sun through the photosynthetic pigments in the membranes of the sub-cellular organelles.</p>
+<p><img class=" wp-image-55 aligncenter" src="http://www.funergy.org.uk/wp-content/uploads/2016/11/growing-plats-300x200.jpg" alt="growing-plats" width="929" height="619" srcset="http://www.funergy.org.uk/wp-content/uploads/2016/11/growing-plats-300x200.jpg 300w, http://www.funergy.org.uk/wp-content/uploads/2016/11/growing-plats-768x512.jpg 768w, http://www.funergy.org.uk/wp-content/uploads/2016/11/growing-plats.jpg 960w" sizes="(max-width: 929px) 100vw, 929px" /></p>
+<h5 style="text-align: center;">&#8220;What are all those long crazy words?&#8221; &#8211; I hear you say!</h5>
+<h2>Well, <em>if you were listening</em> <em>&#8211; </em>you&#8217;d have heard he answer to the question that you were looking for in the first place!</h2>
+<p>The reason why grass is green is because of the &#8216;photosynthetic pigments in the membranes of the sub-cellular organelles&#8217;, these are otherwise known as &#8216;chloroplasts&#8216; and <em>they&#8217;re</em> what makes grass green.</p>
+<h6>Still confused? OK, then I&#8217;ll explain some more&#8230;</h6>
+<p>So the power of the sunlight smashes down into the chloroplasts (the thing that makes the leaves green, remember?), this rejigs the molecular anatomy of the plant, forcing atoms to shift around and a chemical process to take place. Here comes the real part!</p>
+<p><img class=" wp-image-53 aligncenter" src="http://www.funergy.org.uk/wp-content/uploads/2016/11/photo-equation-300x82.png" alt="photo-equation" width="702" height="192" srcset="http://www.funergy.org.uk/wp-content/uploads/2016/11/photo-equation-300x82.png 300w, http://www.funergy.org.uk/wp-content/uploads/2016/11/photo-equation-768x211.png 768w, http://www.funergy.org.uk/wp-content/uploads/2016/11/photo-equation-1024x281.png 1024w, http://www.funergy.org.uk/wp-content/uploads/2016/11/photo-equation-1200x329.png 1200w" sizes="(max-width: 702px) 100vw, 702px" /></p>
+<h6 style="text-align: center;"><em>Now if you don&#8217;t know Science that good yet (and maybe you struggle with words, just like I do from time to time) &#8211; I&#8217;ll try and explain this to you.</em></h6>
+<p>So the carbon dioxide exists in the air all around us. It&#8217;s the stuff that we breathe out, so it&#8217;s handy that the plant can use this as food for it&#8217;s chemical equation. The water is just plain old water that the plant gets from rain (or from a water can that we water it with). The arrow is the part where the sun comes in. It acts as the &#8216;catalyst&#8217; &#8211; forcing the carbon dioxide and water to buddy up and get jiggy with it.</p>
+<p><img class=" wp-image-58 aligncenter" src="http://www.funergy.org.uk/wp-content/uploads/2016/11/photosynthess-s3-300x225.jpg" alt="photosynthess-s3" width="928" height="696" srcset="http://www.funergy.org.uk/wp-content/uploads/2016/11/photosynthess-s3-300x225.jpg 300w, http://www.funergy.org.uk/wp-content/uploads/2016/11/photosynthess-s3-768x576.jpg 768w, http://www.funergy.org.uk/wp-content/uploads/2016/11/photosynthess-s3.jpg 1024w" sizes="(max-width: 928px) 100vw, 928px" /></p>
+<h5>Once the reaction has taken place, we&#8217;re left with lovely glucose (which the plant uses to grow with) and oxygen (which the plant emits into the atmosphere so that we can breathe!).</h5>
+
+				
+				
+									</div>
+			</article>	
+					
+		<div class="pagination clearfix"></div>
+	</div>
+
+	<div class="medium-4 columns">        
+		<aside id="right-sidebar" class="widget-area" role="complementary"><div id="text-3" class="widget widget_text">			<div class="textwidget"><center><img src="http://www.funergy.org.uk/wp-content/uploads/2016/11/science-7.jpg"></center></div>
+		</div><div id="text-4" class="widget widget_text">			<div class="textwidget"><center><img src="http://www.funergy.org.uk/wp-content/uploads/2016/11/science-5.jpg"></center></div>
+		</div><div id="text-5" class="widget widget_text">			<div class="textwidget"><center><img src="http://www.funergy.org.uk/wp-content/uploads/2016/11/science-6.jpg".</center></div>
+		</div><div id="text-6" class="widget widget_text">			<div class="textwidget"><center><img src="http://www.funergy.org.uk/wp-content/uploads/2016/11/science-4.jpg"></center></div>
+		</div><div id="text-7" class="widget widget_text">			<div class="textwidget"><center><img sr ="http://www.funergy.org.uk/wp-content/uploads/2016/11/science-3.jpg\></center></div>
+		</div><div id="text-8" class="widget widget_text">			<div class="textwidget"><center><img src="http://www.funergy.org.uk/wp-content/uploads/2016/11/science-2.jpg"></center></div>
+		</div></aside>       
+	</div>
+
+</div>
+
+
+
+					
+			
+		</main>
+	</div>
+	
+</div>
+
+
+	</div><!-- #content -->
+
+<div id="bottom-wrapper">
+</div>
+
+
+
+	<a class="back-to-top"><span class="fa fa-angle-up"></span></a>
+	
+<footer id="site-footer" class="expanded row" role="contentinfo">
+
+
+
+	<nav id="footer-menu" class="column row">
+		</nav>
+			
+	<div id="copyright" class="column row site-info">
+	
+		Copyright &copy; 
+        2018		Funergy Inc. All rights reserved.	
+	</div><!-- .site-info -->
+	
+</footer><!-- #colophon -->
+
+</div><!-- #page -->    
+<script type='text/javascript' src='http://www.funergy.org.uk/wp-content/themes/emotions-lite/js/navigation.js?ver=20120206'></script>
+<script type='text/javascript' src='http://www.funergy.org.uk/wp-content/themes/emotions-lite/js/functions.js?ver=2015'></script>
+<script type='text/javascript' src='http://www.funergy.org.uk/wp-content/themes/emotions-lite/js/skip-link-focus-fix.js?ver=20130115'></script>
+<script type='text/javascript' src='http://www.funergy.org.uk/wp-includes/js/wp-embed.min.js?ver=4.7.10'></script>
+
+</body>
+</html>
+
+
+<!-- Cache Enabler by KeyCDN @ 04.04.2018 02:20:32 (html) -->
+

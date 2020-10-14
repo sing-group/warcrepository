@@ -1,0 +1,2078 @@
+WARC/1.0
+WARC-Type: warcinfo
+WARC-Date: 2018-05-30T17:52:30Z
+WARC-Record-ID: <urn:uuid:61ae34bd-bbab-431b-b566-c915086e67eb>
+WARC-All-Language: en
+WARC-All-Content_type: text/html
+Content-Type: application/http;msgtype=response
+Content-Length: 46
+
+WARCProcessor by SING Group www.sing-group.com
+
+WARC/1.0
+WARC-Type: response
+WARC-Record-ID: <http://www.gs1.eu>
+WARC-Date: 20180530175230
+WARC-Target-URI: http://www.gs1.eu
+WARC-Language: en
+Content-Type: application/http;msgtype=response
+Content-Length: 97198
+
+HTTP/1.1 200
+Content-Type:text/html
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+<head>
+
+	<meta http-equiv="Content-Type" content="application/xhtml+xml; charset=UTF-8" />
+	<meta name="generator" content="yii framework" />
+	<meta name="robots" content="index,follow" />
+	<!-- The meta tag below can not be altered or removed -->
+	<meta name="gs1-template" content="gs1-v1.0"/>
+			<meta name=viewport content="width=device-width, initial-scale=1">
+				<link href="/themes/gs1/images/favicon.ico" rel="shortcut icon" type="image/x-icon"  />
+		<link href="/themes/gs1/images/favicon.ico" rel="shortcut icon" type="image/vnd.microsoft.icon" />
+		 
+	<meta name="description" content="Welcome to GS1 in Europe!Today, commerce in Europe is everyone’s business." />
+<meta name="keywords" content="registration, you are a gs1 staff member or you collaborate with gs1 on specific projectsyou are interested in shared best practices? you need the latest version of an implementation guide? your mo is getting started with a new sector? you want to hear about our next internal event and latest news and achievements? you want to access your project zone?go to activities, a user or a prospective userinterested in what gs1 can bring to your business?understand gs1 in europe in 3 minutes!want to know where your local gs1 is?, gs1 in europe is made of 47 local member organisations (mo). click on the map to discover where your local gs1 is located, and how to contact them., resources, toolbox, gs1 in europe, you are a visitor, local companies as well as big multinationals all need to speak a common language with their suppliers, news and events, who we are, home, activities, contact us, commerce in europe is everyone’s business. small, welcome to gs1 in europe!today, partners and customers. gs1 in europe covers 47 countries and provides a platform where national and pan-european companies can cooperate and share best practices. harmonisation of standards on the european level and compliance with eu regulations are key to the success of your business? that’s exactly what gs1 in europe is about!" />
+<link rel="stylesheet" type="text/css" href="/assets/50b0f3f4/css/jquery.mmenu.css" />
+<link rel="stylesheet" type="text/css" href="/assets/50b0f3f4/css/jquery.mmenu.custom.css" />
+<link rel="stylesheet" type="text/css" href="/assets/8a1c412f/css/showAuth.css" />
+<link rel="stylesheet" type="text/css" href="/assets/632b88f1/css/search.css" />
+<link rel="stylesheet" type="text/css" href="/assets/ec04f2ea/css/admin.css" />
+<link rel="stylesheet" type="text/css" href="/assets/146d8e21/css/showContent.css" />
+<link rel="stylesheet" type="text/css" href="/assets/4b19b32f/css/showContentByType.css" />
+<link rel="stylesheet" type="text/css" href="/assets/b34d7285/css/banner.css" />
+<script type="text/javascript" src="/js/jquery-1.8.3.min.js"></script>
+<script type="text/javascript" src="/js/jquery-ui-1.9.2.min.js"></script>
+<script type="text/javascript" src="/js/common.js"></script>
+<script type="text/javascript" src="/js/modernizr.custom.js"></script>
+<script type="text/javascript" src="/assets/50b0f3f4/js/jQuery.mmenu-master/dist/jquery.mmenu.js"></script>
+<script type="text/javascript" src="/assets/8a1c412f/js/auth.js"></script>
+<script type="text/javascript" src="/assets/ec04f2ea/js/admin.js"></script>
+<script type="text/javascript" src="https://maps.googleapis.com/maps/api/js?key=AIzaSyC4F648Q26q1mJvTnnggUaWkOnrDwGifNY"></script>
+<script type="text/javascript" src="/assets/b34d7285/js/clickMonitor.js"></script>
+<script type="text/javascript">
+/*<![CDATA[*/
+var baseUrl="http://www.gs1.eu"
+var assetUrl_googleAnalytic="http://www.gs1.eu/assets/1cf0201"
+/*]]>*/
+</script>
+<title>GS1 in Europe</title> 
+	
+	<!-- <link rel="stylesheet" type="text/css" href="//cloud.typography.com/6247692/752844/css/fonts.css" /> -->
+	<!-- <link rel="stylesheet" type="text/css" href="https://fonts.gs1.org/fonts/307565/7F0340052E64940B8.css" /> -->
+	<link rel="stylesheet" type="text/css" href="//cloud.typography.com/6247692/752844/css/fonts.css" />
+	<style>
+	    .gotham-font-stack {
+	        font-family: "Gotham SSm A", "Gotham SSm B", Verdana, sans-serif;
+	    }
+	    .gotham-narrow-font-stack {
+	        font-family: "Gotham Narrow SSm A", "Gotham Narrow SSm B", Verdana, sans-serif;
+	    }
+	    .gotham-alt-font-stack {
+	        font-family: "Gotham A", "Gotham B", Verdana, sans-serif;
+	    }
+	</style>
+	 
+	<link type="text/css" href="/css/jquery-ui/ui-lightness/jquery-ui.min.css" rel="stylesheet" />
+	<link type="text/css" href="/css/jquery-ui/ui-lightness/jquery.ui.theme.css" rel="stylesheet" />
+
+	<script type="text/javascript" src="/themes/gs1/js/gs1.common.js"></script>
+	<script type="text/javascript" src="/themes/gs1/js/bootstrap.min.js"></script>
+	<script type="text/javascript" src="/themes/gs1/js/bootstrap-accessibility.min.js"></script>
+	
+	<link href="/themes/gs1/css/bootstrap.css" rel="stylesheet" type="text/css" media="all"/>
+	<link href="/themes/gs1/css/bootstrap-theme.css" rel="stylesheet" type="text/css" media="all"/>
+			<link href="/themes/gs1/css/bootstrap-mobile.css" rel="stylesheet" type="text/css" media="all"/>
+		<link href="/themes/gs1/css/bootstrap-accessibility.css" rel="stylesheet" type="text/css" media="all"/>
+	<link href="/themes/gs1/css/style.css" rel="stylesheet" type="text/css" media="all" />
+			<link href="/themes/gs1/css/style-mobile.css" rel="stylesheet" type="text/css" media="all" />
+		<!--[if lt IE 9]>
+	<script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+	<script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+	<![endif]-->
+	
+	<link type="text/css" href="/css/tipTip.css" rel="stylesheet" />
+	<script type="text/javascript" src="/js/jquery.tipTip.minified.js"></script>
+	
+	<script type="text/javascript">
+		var baseDir='http://www.gs1.eu/themes/gs1/';
+		var sessionID='retoan95mh8rs7upvd2k560pg7';
+	</script>
+	
+ 	<script>	
+	jQuery(window).load(function() {
+
+					$('.navbar-header #ui-collapse-167').after( $('.header-top .secondary-nav #btnLogin') );
+				
+		$('.tipTip').tipTip();
+		$('ul li:first-child').addClass('first');
+		$('ul li:last-child').addClass('last');
+
+		$('ul.nav.main-menu li.dropdown a.dropdown-toggle').each(function(){
+			if( 1==1 ) $(this).on('click',function(){
+				window.location = $(this).attr('href');
+			});
+		});
+
+		var icons = {
+		         header: "iconClosed",    // custom icon class
+		         activeHeader: "iconOpen" // custom icon class
+		     };
+		
+		$('#static .showContent div.accordion').accordion({
+			collapsible: true,
+			autoHeight: false,
+			heightStyle: "content",
+			active: false,
+			icons: icons
+		});
+
+    });
+	</script>
+	
+</head>
+
+<body class="responsive">
+
+	<script type="text/javascript">
+function submitCookieStatement(){
+	$.get("/ajax/setCookieStatement",function(){
+		$('#cookie_statement').hide();
+	});
+}
+</script>
+<div  id="cookie_statement" style="width:100%;z-index:100000;">
+<div style="margin:20px auto;width:60%;" class="inner">
+	<div class="padder">
+		<span style="display:inline-block;vertical-align:top;width:80%">We use cookies on this page.
+ <a href="/privacy-policy">What are cookies?</a></span>
+		<span style="display:inline-block;vertical-align:top;width:18%;white-space:nowrap;"><button class="btn-primary btn-margin bg-navy" type="button" onclick="submitCookieStatement();">Accept cookies</button></span>
+	</div>
+</div>
+</div>	
+	
+<div class="toolkit" id="home">
+
+<header class="example-header headroom headroom--not-top headroom--pinned">
+
+
+<div class="header-top">
+<div class="container">
+
+<div class="logo">
+
+<div class="logo1">
+<div id="logo">
+	<h1>
+		<div class="logo-holder">
+			<a href="http://www.gs1.eu/"><img src="/themes/gs1/images/logo.png" alt="GS1 in Europe" /></a>
+   		</div>
+   		   		<div class="abs-top slogen"><b>Welcome to GS1 in Europe</b><br>
+The Global Language of Business</div>
+   		    </h1>
+</div> 
+</div>
+
+</div>
+
+<div class="secondary-nav">
+
+
+
+
+
+
+<script type="text/javascript">
+	$(function() {
+		$('#mainmenu').mmenu();
+	});
+</script>
+
+<a class="mmenu-mobile" href="#mainmenu"><span></span></a>
+<!-- 
+<nav id="menu">
+	<ul>
+		<li><a href="#">Home</a></li>
+		<li><span>Coreaudio</span>
+			<ul>
+				<li><a href="/rolunk">Rolunk</a></li>
+				<li><a href="/filozofiank">Filozofiank</a></li>
+			</ul>
+		</li>
+		<li><a href="/contact">Contact</a></li>
+	</ul>
+</nav>
+-->
+<nav id="mainmenu">
+<ul class="list-inline main2-menu" id="yw0">
+<li class="  registration first even "><a class="registration link_EN tmh_0 menu-item-1 first " href="http://www.gs1.eu/registration">Registration</a></li>
+</ul></nav>
+
+
+<div style="display:none;">
+<div class="showAuthLineContainer ">
+	<div>
+					<span class="iconLogin"></span><a class="btnLogin" href="/login">Login</a>
+			<span class="iconRegistration"></span><a class="btnRegistration" href="/registration">Registration</a>
+			</div>
+</div>
+</div>
+
+<div class="">
+<script type="text/javascript">
+$(function () {
+	
+    $('#search_query_top').keyup(function(e){
+        /*$('#debug').html($(this).val().length+" | "+e.which+"\n");*/
+        if($(this).val().length>2 && e.which == 13){
+        	submitForm();
+        }
+    });
+    
+});
+function submitForm(){
+    if( $('#search_query_top').val()=='Search' ) { $('#search_query_top').val(''); }
+    $('#searchbox').submit();
+}
+</script>
+
+<div class="search_top_container" style="display:inline-block;">
+	
+		<form class="pull-right" role="form" method="get" action="http://www.gs1.eu/search" id="searchbox">
+		
+		<div class="form-group form-search-box">
+			<div class="input-wrapper glyphicon-search">
+		
+		    	<!--  <input class="form-control" type="text" placeholder="Search"></input>-->
+				<input 	class="form-control search_query waitColor" 
+						type="text" 
+						id="search_query_top" 
+						name="value" 
+						
+						value="Search" 
+						onFocus="if(this.value=='Search'){this.value='';$(this).addClass('workColor').removeClass('waitColor');}" 
+						onBlur="if(this.value==''){this.value='Search';$(this).addClass('waitColor').removeClass('workColor');}" 		
+				/>
+			</div>
+			<div>
+		
+				<button class="btn-search" type="submit">
+		    		<span class="glyphicon icon-arrow_right"></span>
+				</button>
+			</div>	
+		</div>
+	</form>
+	
+</div>
+
+<a id="btnLogin" class="btn-primary" href="/login">Login</a>
+</div>
+
+</div>
+
+</div>
+</div>
+
+<div id="admin-container">
+
+</div>
+
+<div class="navigation">
+<div class="container">
+<nav class="navbar yamm navbar-default" role="navigation">
+<script type="text/javascript">
+	$(function() {
+		$('#mainmenu').mmenu();
+	});
+</script>
+
+<a class="mmenu-mobile" href="#mainmenu"><span></span></a>
+<!-- 
+<nav id="menu">
+	<ul>
+		<li><a href="#">Home</a></li>
+		<li><span>Coreaudio</span>
+			<ul>
+				<li><a href="/rolunk">Rolunk</a></li>
+				<li><a href="/filozofiank">Filozofiank</a></li>
+			</ul>
+		</li>
+		<li><a href="/contact">Contact</a></li>
+	</ul>
+</nav>
+-->
+<nav id="mainmenu">
+<ul class="nav navbar-nav main-menu" id="yw1">
+<li class="  home first even "><a class="home link_EN tmh_0 menu-item-1 first " href="http://www.gs1.eu">Home</a></li>
+<li class="dropdown yamm-fw who_we_are  odd "><a class="dropdown-toggle who_we_are link_EN tmh_1 menu-item-2  " aria-expanded="false" aria-haspopup="true" data-toggle="dropdown" href="#">Who we are</a>
+<ul class="dropdown-menu" role="menu">
+<li class=" level_1 item0 even content_who_we_are"><a href="http://www.gs1.eu/content/who-we-are">Interested in what GS1 in Europe can bring to your business? </a></li>
+<li class=" level_1 item1 odd content_who_we_are2"><a href="http://www.gs1.eu/content/who-we-are2">What is GS1 in Europe?</a></li>
+<li class=" level_1 item2 even content_who_we_are_2"><a href="http://www.gs1.eu/content/who-we-are#2">Who can benefit from GS1 standards? </a></li>
+<li class=" level_1 item3 odd content_who_we_are2_2"><a href="http://www.gs1.eu/content/who-we-are2#2">How we operate</a></li>
+<li class=" level_1 item4 even content_who_we_are_3"><a href="http://www.gs1.eu/content/who-we-are#3">What’s in it for you? </a></li>
+<li class=" level_1 item5 odd content_who_we_are2_3"><a href="http://www.gs1.eu/content/who-we-are2#3">Who we serve</a></li>
+<li class=" level_1 item6 even content_who_we_are_4"><a href="http://www.gs1.eu/content/who-we-are#4">What are GS1 standards?</a></li>
+<li class=" level_1 item7 odd content_who_we_are2_4"><a href="http://www.gs1.eu/content/who-we-are2#4">What drives us</a></li>
+</ul>
+</li>
+<li class="  news_and_events  even "><a class="news_and_events link_EN tmh_2 menu-item-3  " href="http://www.gs1.eu/news-events">News and events</a></li>
+<li class="dropdown yamm-fw activities  odd "><a class="dropdown-toggle activities link_EN tmh_3 menu-item-4  " aria-expanded="false" aria-haspopup="true" data-toggle="dropdown" href="#">Activities</a>
+<ul class="dropdown-menu" role="menu">
+<li class=" level_1 submenu item0 even automatic_identification_and_data_carriers_aidc"><a href="/automatic-identification-and-data-carriers-aidc">Automatic identification and data carriers (AIDC)</a></li>
+<li class=" level_1 submenu item0 even automatic_identification_and_data_carriers_aidc level_1 submenu item1 odd cash_handling"><a href="/cash-handling">Cash handling</a></li>
+<li class=" level_1 submenu item0 even automatic_identification_and_data_carriers_aidc level_1 submenu item1 odd cash_handling level_1 submenu item2 even consumer_and_product_safety_traceability"><a href="/consumer-and-product-safety-traceability">Consumer and product safety, traceability</a></li>
+<li class=" level_1 submenu item0 even automatic_identification_and_data_carriers_aidc level_1 submenu item1 odd cash_handling level_1 submenu item2 even consumer_and_product_safety_traceability level_1 submenu item3 odd activity_data_excellence"><a href="/activity/data-excellence">Data management</a></li>
+<li class=" level_1 submenu item0 even automatic_identification_and_data_carriers_aidc level_1 submenu item1 odd cash_handling level_1 submenu item2 even consumer_and_product_safety_traceability level_1 submenu item3 odd activity_data_excellence level_1 submenu item4 even egovernment"><a href="/egovernment">eGovernment and eProcurement</a></li>
+<li class=" level_1 submenu item0 even automatic_identification_and_data_carriers_aidc level_1 submenu item1 odd cash_handling level_1 submenu item2 even consumer_and_product_safety_traceability level_1 submenu item3 odd activity_data_excellence level_1 submenu item4 even egovernment level_1 submenu item5 odd electronic_commerce"><a href="/electronic-commerce">Electronic Data Interchange (EDI)</a></li>
+<li class=" level_1 submenu item0 even automatic_identification_and_data_carriers_aidc level_1 submenu item1 odd cash_handling level_1 submenu item2 even consumer_and_product_safety_traceability level_1 submenu item3 odd activity_data_excellence level_1 submenu item4 even egovernment level_1 submenu item5 odd electronic_commerce level_1 submenu item6 even european_involvement_in_standardisation_els_in_gsmp"><a href="/european-involvement-in-standardisation-els-in-gsmp">European involvement in standardisation</a></li>
+<li class=" level_1 submenu item0 even automatic_identification_and_data_carriers_aidc level_1 submenu item1 odd cash_handling level_1 submenu item2 even consumer_and_product_safety_traceability level_1 submenu item3 odd activity_data_excellence level_1 submenu item4 even egovernment level_1 submenu item5 odd electronic_commerce level_1 submenu item6 even european_involvement_in_standardisation_els_in_gsmp level_1 submenu item7 odd external_relations"><a href="/external-relations">External relations</a></li>
+<li class=" level_1 submenu item0 even automatic_identification_and_data_carriers_aidc level_1 submenu item1 odd cash_handling level_1 submenu item2 even consumer_and_product_safety_traceability level_1 submenu item3 odd activity_data_excellence level_1 submenu item4 even egovernment level_1 submenu item5 odd electronic_commerce level_1 submenu item6 even european_involvement_in_standardisation_els_in_gsmp level_1 submenu item7 odd external_relations level_1 submenu item8 even activity_folder_fruits_and_vegetables"><a href="/activity-folder/fruits-and-vegetables">Fruits and Vegetables</a></li>
+<li class=" level_1 submenu item0 even automatic_identification_and_data_carriers_aidc level_1 submenu item1 odd cash_handling level_1 submenu item2 even consumer_and_product_safety_traceability level_1 submenu item3 odd activity_data_excellence level_1 submenu item4 even egovernment level_1 submenu item5 odd electronic_commerce level_1 submenu item6 even european_involvement_in_standardisation_els_in_gsmp level_1 submenu item7 odd external_relations level_1 submenu item8 even activity_folder_fruits_and_vegetables level_1 submenu item9 odd gs1_labs"><a href="/gs1-labs">GS1 Labs</a></li>
+<li class=" level_1 submenu item0 even automatic_identification_and_data_carriers_aidc level_1 submenu item1 odd cash_handling level_1 submenu item2 even consumer_and_product_safety_traceability level_1 submenu item3 odd activity_data_excellence level_1 submenu item4 even egovernment level_1 submenu item5 odd electronic_commerce level_1 submenu item6 even european_involvement_in_standardisation_els_in_gsmp level_1 submenu item7 odd external_relations level_1 submenu item8 even activity_folder_fruits_and_vegetables level_1 submenu item9 odd gs1_labs level_1 submenu item10 even gs1_standards_for_rfid"><a href="/gs1-standards-for-rfid">GS1 standards for RFID </a></li>
+<li class=" level_1 submenu item0 even automatic_identification_and_data_carriers_aidc level_1 submenu item1 odd cash_handling level_1 submenu item2 even consumer_and_product_safety_traceability level_1 submenu item3 odd activity_data_excellence level_1 submenu item4 even egovernment level_1 submenu item5 odd electronic_commerce level_1 submenu item6 even european_involvement_in_standardisation_els_in_gsmp level_1 submenu item7 odd external_relations level_1 submenu item8 even activity_folder_fruits_and_vegetables level_1 submenu item9 odd gs1_labs level_1 submenu item10 even gs1_standards_for_rfid level_1 submenu item11 odd healthcare"><a href="/healthcare">Healthcare</a></li>
+<li class=" level_1 submenu item0 even automatic_identification_and_data_carriers_aidc level_1 submenu item1 odd cash_handling level_1 submenu item2 even consumer_and_product_safety_traceability level_1 submenu item3 odd activity_data_excellence level_1 submenu item4 even egovernment level_1 submenu item5 odd electronic_commerce level_1 submenu item6 even european_involvement_in_standardisation_els_in_gsmp level_1 submenu item7 odd external_relations level_1 submenu item8 even activity_folder_fruits_and_vegetables level_1 submenu item9 odd gs1_labs level_1 submenu item10 even gs1_standards_for_rfid level_1 submenu item11 odd healthcare level_1 submenu item12 even activity_folder_omnichannel"><a href="/activity-folder/omnichannel">Omnichannel</a></li>
+<li class=" level_1 submenu item0 even automatic_identification_and_data_carriers_aidc level_1 submenu item1 odd cash_handling level_1 submenu item2 even consumer_and_product_safety_traceability level_1 submenu item3 odd activity_data_excellence level_1 submenu item4 even egovernment level_1 submenu item5 odd electronic_commerce level_1 submenu item6 even european_involvement_in_standardisation_els_in_gsmp level_1 submenu item7 odd external_relations level_1 submenu item8 even activity_folder_fruits_and_vegetables level_1 submenu item9 odd gs1_labs level_1 submenu item10 even gs1_standards_for_rfid level_1 submenu item11 odd healthcare level_1 submenu item12 even activity_folder_omnichannel level_1 submenu item13 odd protection_of_gs1_prefixes"><a href="/protection-of-gs1-prefixes">Protection of GS1 prefixes</a></li>
+<li class=" level_1 submenu item0 even automatic_identification_and_data_carriers_aidc level_1 submenu item1 odd cash_handling level_1 submenu item2 even consumer_and_product_safety_traceability level_1 submenu item3 odd activity_data_excellence level_1 submenu item4 even egovernment level_1 submenu item5 odd electronic_commerce level_1 submenu item6 even european_involvement_in_standardisation_els_in_gsmp level_1 submenu item7 odd external_relations level_1 submenu item8 even activity_folder_fruits_and_vegetables level_1 submenu item9 odd gs1_labs level_1 submenu item10 even gs1_standards_for_rfid level_1 submenu item11 odd healthcare level_1 submenu item12 even activity_folder_omnichannel level_1 submenu item13 odd protection_of_gs1_prefixes level_1 submenu item14 even activity_folder_selective_distribution_of_cosmetics"><a href="/activity-folder/selective-distribution-of-cosmetics">Selective distribution of cosmetics</a></li>
+<li class=" level_1 submenu item0 even automatic_identification_and_data_carriers_aidc level_1 submenu item1 odd cash_handling level_1 submenu item2 even consumer_and_product_safety_traceability level_1 submenu item3 odd activity_data_excellence level_1 submenu item4 even egovernment level_1 submenu item5 odd electronic_commerce level_1 submenu item6 even european_involvement_in_standardisation_els_in_gsmp level_1 submenu item7 odd external_relations level_1 submenu item8 even activity_folder_fruits_and_vegetables level_1 submenu item9 odd gs1_labs level_1 submenu item10 even gs1_standards_for_rfid level_1 submenu item11 odd healthcare level_1 submenu item12 even activity_folder_omnichannel level_1 submenu item13 odd protection_of_gs1_prefixes level_1 submenu item14 even activity_folder_selective_distribution_of_cosmetics level_1 submenu item15 odd the_gs1_system_in_rail"><a href="/the-gs1-system-in-rail">The GS1 system in rail </a></li>
+<li class=" level_1 submenu item0 even automatic_identification_and_data_carriers_aidc level_1 submenu item1 odd cash_handling level_1 submenu item2 even consumer_and_product_safety_traceability level_1 submenu item3 odd activity_data_excellence level_1 submenu item4 even egovernment level_1 submenu item5 odd electronic_commerce level_1 submenu item6 even european_involvement_in_standardisation_els_in_gsmp level_1 submenu item7 odd external_relations level_1 submenu item8 even activity_folder_fruits_and_vegetables level_1 submenu item9 odd gs1_labs level_1 submenu item10 even gs1_standards_for_rfid level_1 submenu item11 odd healthcare level_1 submenu item12 even activity_folder_omnichannel level_1 submenu item13 odd protection_of_gs1_prefixes level_1 submenu item14 even activity_folder_selective_distribution_of_cosmetics level_1 submenu item15 odd the_gs1_system_in_rail level_1 submenu item16 even activity_folder_working_with_marketplaces"><a href="/activity-folder/working-with-marketplaces">Working with Marketplaces</a></li>
+</ul>
+</li>
+<li class="  contact_us  odd "><a class="contact_us link_EN tmh_5 menu-item-5  " href="http://www.gs1.eu/contact">Contact us</a></li>
+<li class="  registration  even "><a class="registration link_EN tmh_6 menu-item-6  " href="http://www.gs1.eu/registration">Registration</a></li>
+</ul></nav><div class="navbar-header">
+	<div class="logo1 visible-xs"><a href="http://www.gs1.eu"><img src="/themes/gs1/images/logo.png" alt="GS1 logo" border="0" height="61"></a></div>
+	<div class="mobileShowAuth visible-xs"><div class="showAuthLineContainer ">
+	<div>
+					<span class="iconLogin"></span><a class="btnLogin" href="/login">Login</a>
+			<span class="iconRegistration"></span><a class="btnRegistration" href="/registration">Registration</a>
+			</div>
+</div></div>
+	<button id="ui-collapse-167" aria-expanded="false" aria-selected="false" role="tab" type="button" data-toggle="collapse" data-target="#navbar-collapse" class="navbar-toggle collapsed"><span class="icon-bar"></span><span class="icon-bar"></span><span class="icon-bar"></span></button>
+</div>
+</nav>
+</div>
+</div>
+
+
+</header>
+
+<div class="carousel-container" style="margin-bottom: 40px;">
+	<div id="carousel-example-generic" class="carousel slide" data-ride="carousel">
+		<ol class="carousel-indicators">
+						<li data-target="#carousel-example-generic" data-slide-to="0" class="active" ></li>
+						<li data-target="#carousel-example-generic" data-slide-to="1" ></li>
+						<li data-target="#carousel-example-generic" data-slide-to="2" ></li>
+						<li data-target="#carousel-example-generic" data-slide-to="3" ></li>
+						<li data-target="#carousel-example-generic" data-slide-to="4" ></li>
+					</ol>
+		<div class="carousel-inner">
+			
+							<div class="item 
+					active 
+					bg-forest					carousel-bgimage-right"
+										onclick="window.location='/slider/gs1-in-europe-mo-open-day-2018';"
+									>
+					<div class="container" style="height:100%;background: url('/picture.php?id=3774&size=medium') no-repeat scroll right center transparent;">
+						<h1>SAVE THE DATE</h1>
+<h1>MO Open Day at GS1&nbsp;Denmark</h1>
+<p>Join us in Copenhagen on 18 and 19 September for our annual MO Open Day!</p>
+<p>&nbsp;</p>
+<p><a href="http://www.gs1.eu/internal-event/gs1-in-europe-mo-open-day-copenhagen-denmark">More Information</a></p>
+<p>&nbsp;</p>					</div>
+				</div>
+							<div class="item 
+					 
+					bg-purple					carousel-bgimage-right"
+									>
+					<div class="container" style="height:100%;background: url('/picture.php?id=144&size=medium') no-repeat scroll right center transparent;">
+						<h1>Some news about the 1169 regulation</h1>
+<p>GS1 in Europe updated its European recommendations on the use of the GS1 standards linked to the 1169 regulation</p>
+<p>&nbsp;</p>
+<p><a class="btn-secondary btn-margin bg-navy" href="http://www.gs1.eu/activity/eu-1169-regulation-on-food-labeling#publications" target="_blank">Download here</a></p>					</div>
+				</div>
+							<div class="item 
+					 
+					bg-olive					carousel-bgimage-right"
+										onclick="window.location='/slider/gs1-s-newest-standard-on-gtin-management-it-s-live';"
+									>
+					<div class="container" style="height:100%;background: url('/picture.php?id=2625&size=medium') no-repeat scroll right center transparent;">
+						<h1>GS1's newest standard on GTIN management: it's live!</h1>
+<p>It is now easier to know when to change GTINs.&nbsp;</p>
+<p>&nbsp;</p>
+<p><a href="http://www.gs1.eu/news/new-gtin-management-rules-live">More information</a></p>					</div>
+				</div>
+							<div class="item 
+					 
+					bg-lavender					carousel-bgimage-right"
+									>
+					<div class="container" style="height:100%;background: url('/picture.php?id=143&size=medium') no-repeat scroll right center transparent;">
+						<h1>Discover GS1 in Europe</h1>
+<p>Visit our platform and get in touch with our 47 Member Organisations.</p>
+<p>&nbsp;</p>
+<p><a class="btn-primary btn-margin bg-navy" href="http://www.gs1.eu/gs1_mo_list">See members</a></p>					</div>
+				</div>
+							<div class="item 
+					 
+					bg-teal					carousel-bgimage-right"
+										onclick="window.location='/slider/kicking-off-the-transformation-of-cross-border-parcel-deliveries-using-gs1-sscc';"
+									>
+					<div class="container" style="height:100%;background: url('/picture.php?id=3246&size=medium') no-repeat scroll right center transparent;">
+						<h1>Kicking-off the transformation of cross-border parcel deliveries</h1>
+<p>Read how the GS1 SSCC will transform European cross-border trade!</p>
+<p>&nbsp;</p>
+<p><a href="http://www.gs1.eu/news/kicking-off-the-transformation-of-cross-border-parcel-deliveries-using-gs1-sscc" target="_blank">Learn more</a></p>					</div>
+				</div>
+						
+			<!-- <div class="item active bg-mutedpurple">
+				<h1>This is a main heading lorem ipsum dolor sit amet</h1>
+				<p class="large">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam rhoncus, nulla nec elementum pellentesque, massa neque commodo arcu.</p>
+				<button type="button" class="btn-primary btn-margin bg-navy">Call-to-Action Button</button>
+				<button type="button" class="btn-secondary btn-margin">This is a secondary button</button>
+			</div>
+			<div class="item bg-lime">
+				<div class="pull-left carousel-glyph"><span class="glyphicon icon-star"></span>
+				</div>
+				<h1>This is a main heading lorem ipsum dolor sit amet</h1>
+				<p class="large">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam rhoncus, nulla nec elementum pellentesque, massa neque commodo arcu.</p>
+				<button type="button" class="btn-primary btn-margin bg-navy">Call-to-Action Button</button>
+			</div>
+			<div class="item bg-sky">
+				<div class="pull-left place-hold-image"></div>
+				<h1>This is a main heading lorem ipsum dolor sit amet</h1>
+				<p class="large">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam rhoncus, nulla nec elementum pellentesque, massa neque commodo arcu.</p>
+				<button type="button" class="btn-primary btn-margin bg-navy">Call-to-Action Button</button>
+				<button type="button" class="btn-secondary btn-margin">Secondary Button</button>
+			</div>
+			<div class="item bg-lime carousel-bgimage-right">
+				<h1>This is a main heading lorem ipsum dolor sit amet</h1>
+				<p class="large">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam rhoncus, nulla nec elementum pellentesque, massa neque commodo arcu.</p>
+				<button type="button" class="btn-primary btn-margin bg-navy">Call-to-Action Button</button>
+			</div>
+			<div class="item carousel-bgimage">
+				<h1>This is a main heading lorem ipsum dolor sit amet</h1>
+				<button type="button" class="btn-primary btn-margin">Call-to-Action Button</button>
+			</div>
+			<div class="item bg-orange">
+				<nav class="pull-left carousel-sidebar">
+					<h3>Quick Links</h3>
+					<a href="#0">My Numberbank</a>
+					<a href="#0">Check Digit Calculator</a>
+					<a href="#0">Barcode Sizing Guide</a>
+					<a href="#0">Members Directory</a>
+					<button type="button" class="btn-secondary btn-margin">Call-to-Action Button</button>
+				</nav>
+				<h1>This is a main heading lorem ipsum dolor sit amet</h1>
+				<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam rhoncus, nulla nec elementum pellentesque, massa neque commodo arcu.</p>
+				<button type="button" class="btn-primary  btn-margin bg-navy">Call-to-Action Button</button>
+			</div> -->
+		</div>
+		<a class="left carousel-control" href="#carousel-example-generic" data-slide="prev">
+		<span class="glyphicon icon-arrow_left"></span>
+		</a>
+		<a class="right carousel-control" href="#carousel-example-generic" data-slide="next">
+		<span class="glyphicon icon-arrow_right"></span>
+		</a>
+	</div>
+</div>
+
+<script>
+	$('.carousel-inner .item a').each(function(index){
+		$(this).addClass('btn-margin').css('margin-bottom','10px');
+		if(index==0) $(this).addClass('btn-primary');
+		else $(this).addClass('btn-secondary');
+	});
+</script>
+<div class="container">
+
+
+<div class="showContent  content lang_EN" > 
+
+		
+		
+		
+		
+	
+		
+					<div class="contentLead"><div class="content-module-wrapper top-border-grass">
+<div class="content-module content-module-padding welcome-text">
+<h4>Welcome to GS1 in Europe!</h4>
+<p>Today, commerce in Europe is everyone&rsquo;s business. Small, local companies as well as big multinationals all need to speak a common language with their suppliers, partners and customers. GS1 in Europe covers 47 countries and provides a platform where national and pan-European companies can cooperate and share best practices. Harmonisation of standards on the European level and compliance with EU regulations are key to the success of your business? That&rsquo;s exactly what GS1 in Europe is about!</p>
+<p>&nbsp;</p>
+<p style="text-align: center;"><iframe src="https://youtube.com//embed/FVrp0Fk5lrk" width="650" height="400" frameborder="0" allowfullscreen=""></iframe></p>
+</div>
+</div></div>
+				
+				
+		
+		
+		
+		
+		
+</div>	
+
+
+<script type="text/javascript">
+function dialogDocument(content_id){
+	$.post("/ajax/loadDocument",{
+		'content_id':content_id
+	},function(data){
+		$('#validationModal .modal-body').html( data );
+		$('#btn-validation').trigger('click');
+	});
+}
+</script>
+
+<button class="btn btn-primary btn-lg" id="btn-validation" data-toggle="modal" data-target="#validationModal" style="display:none;">validate</button>
+
+<div class="modal fade" id="validationModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+  <div class="modal-dialog" style="width:70%!important;">
+    <div class="modal-content">
+      <div class="modal-header" style="padding-top:5px!important;padding-right:0;">
+        <button type="button" class="btn-primary" style="margin:20px;float:right;" data-dismiss="modal" aria-hidden="true" style="margin-top: -10px;">×</button>
+        <h1 class="modal-title" id="myModalLabel" style="height:5px;"></h1>
+      </div>
+      <div class="modal-body">
+        
+      </div>
+     
+     <div class="modal-footer">
+        <div class="pull-left" style="display:none">
+             <button type="button" class="btn-primary" data-dismiss="modal" aria-hidden="true">Close</button>
+        </div>
+      </div>
+      
+    </div>
+  </div>
+</div>
+
+
+</div>
+
+<div class="container">
+
+
+<div class="showContent home-visitor col-xs-12 col-md-6 section-spacing content lang_EN" > 
+
+		
+		
+		
+		
+	
+		
+					<div class="contentLead"><div class="content-module-wrapper top-border-lavender">
+<div class="content-module content-module-padding">
+<h4>You are a visitor, a user or a prospective user</h4>
+<ul>
+<li><a href="http://www.gs1.eu/content/who-we-are">Interested in what GS1 can bring to your business?</a></li>
+<li><a href="https://www.youtube.com/watch?time_continue=3&amp;v=FVrp0Fk5lrk" target="_blank">Understand GS1 in Europe in 3 minutes!</a></li>
+<li><a href="#map">Want to know where your local GS1 is?</a></li>
+</ul>
+</div>
+</div></div>
+				
+				
+		
+		
+		
+		
+		
+</div>	
+
+
+<script type="text/javascript">
+function dialogDocument(content_id){
+	$.post("/ajax/loadDocument",{
+		'content_id':content_id
+	},function(data){
+		$('#validationModal .modal-body').html( data );
+		$('#btn-validation').trigger('click');
+	});
+}
+</script>
+
+<button class="btn btn-primary btn-lg" id="btn-validation" data-toggle="modal" data-target="#validationModal" style="display:none;">validate</button>
+
+<div class="modal fade" id="validationModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+  <div class="modal-dialog" style="width:70%!important;">
+    <div class="modal-content">
+      <div class="modal-header" style="padding-top:5px!important;padding-right:0;">
+        <button type="button" class="btn-primary" style="margin:20px;float:right;" data-dismiss="modal" aria-hidden="true" style="margin-top: -10px;">×</button>
+        <h1 class="modal-title" id="myModalLabel" style="height:5px;"></h1>
+      </div>
+      <div class="modal-body">
+        
+      </div>
+     
+     <div class="modal-footer">
+        <div class="pull-left" style="display:none">
+             <button type="button" class="btn-primary" data-dismiss="modal" aria-hidden="true">Close</button>
+        </div>
+      </div>
+      
+    </div>
+  </div>
+</div>
+
+
+
+<div class="showContent home-staff col-xs-12 col-md-6 section-spacing content lang_EN" > 
+
+		
+		
+		
+		
+	
+		
+					<div class="contentLead"><div class="content-module-wrapper top-border-peach">
+	<div class="content-module content-module-padding">
+		<h4>
+			You are a GS1 staff member or you collaborate with GS1 on specific projects&nbsp;</h4>
+		<p>
+			You are interested in shared best practices? You need the latest version of an implementation guide? Your MO is getting started with a new sector? You want to hear about our next internal event and latest News and achievements? You want to access your Project Zone?</p>
+		<p>
+			<a href="/activities">go to Activities</a></p>
+	</div>
+</div>
+</div>
+				
+				
+		
+		
+		
+		
+		
+</div>	
+
+
+<script type="text/javascript">
+function dialogDocument(content_id){
+	$.post("/ajax/loadDocument",{
+		'content_id':content_id
+	},function(data){
+		$('#validationModal .modal-body').html( data );
+		$('#btn-validation').trigger('click');
+	});
+}
+</script>
+
+<button class="btn btn-primary btn-lg" id="btn-validation" data-toggle="modal" data-target="#validationModal" style="display:none;">validate</button>
+
+<div class="modal fade" id="validationModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+  <div class="modal-dialog" style="width:70%!important;">
+    <div class="modal-content">
+      <div class="modal-header" style="padding-top:5px!important;padding-right:0;">
+        <button type="button" class="btn-primary" style="margin:20px;float:right;" data-dismiss="modal" aria-hidden="true" style="margin-top: -10px;">×</button>
+        <h1 class="modal-title" id="myModalLabel" style="height:5px;"></h1>
+      </div>
+      <div class="modal-body">
+        
+      </div>
+     
+     <div class="modal-footer">
+        <div class="pull-left" style="display:none">
+             <button type="button" class="btn-primary" data-dismiss="modal" aria-hidden="true">Close</button>
+        </div>
+      </div>
+      
+    </div>
+  </div>
+</div>
+
+
+
+<div class="showContent  content lang_EN" > 
+
+		
+		
+		
+		
+	
+		
+					<div class="contentLead"><p><a name="map"></a></p>
+<div class="alert alert-info fade in"><!-- <button class="close" data-dismiss="alert" type="button">-->
+<p><strong>GS1 in Europe is made of 47 local Member Organisations (MO).</strong> Click on the map to discover where your local GS1 is located, and how to <a href="http://www.gs1.eu/gs1_mo_list">contact them</a>.</p>
+</div></div>
+				
+				
+		
+		
+		
+		
+		
+</div>	
+
+
+<script type="text/javascript">
+function dialogDocument(content_id){
+	$.post("/ajax/loadDocument",{
+		'content_id':content_id
+	},function(data){
+		$('#validationModal .modal-body').html( data );
+		$('#btn-validation').trigger('click');
+	});
+}
+</script>
+
+<button class="btn btn-primary btn-lg" id="btn-validation" data-toggle="modal" data-target="#validationModal" style="display:none;">validate</button>
+
+<div class="modal fade" id="validationModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+  <div class="modal-dialog" style="width:70%!important;">
+    <div class="modal-content">
+      <div class="modal-header" style="padding-top:5px!important;padding-right:0;">
+        <button type="button" class="btn-primary" style="margin:20px;float:right;" data-dismiss="modal" aria-hidden="true" style="margin-top: -10px;">×</button>
+        <h1 class="modal-title" id="myModalLabel" style="height:5px;"></h1>
+      </div>
+      <div class="modal-body">
+        
+      </div>
+     
+     <div class="modal-footer">
+        <div class="pull-left" style="display:none">
+             <button type="button" class="btn-primary" data-dismiss="modal" aria-hidden="true">Close</button>
+        </div>
+      </div>
+      
+    </div>
+  </div>
+</div>
+
+
+
+<a name="googleMap"></a>
+
+<script type="text/javascript">
+var center = new google.maps.LatLng(47.40629147551,21.373984338776);
+var myLatlng0 = new google.maps.LatLng(50.0592231,14.4296309);
+var marker0;
+var myLatlng1 = new google.maps.LatLng(47.5377287,19.0700066);
+var marker1;
+var myLatlng2 = new google.maps.LatLng(48.1933838,16.3688094);
+var marker2;
+var myLatlng3 = new google.maps.LatLng(41.3932057,2.1315245);
+var marker3;
+var myLatlng4 = new google.maps.LatLng(49.2123345,18.7624891);
+var marker4;
+var myLatlng5 = new google.maps.LatLng(46.0717132,14.5142834);
+var marker5;
+var myLatlng6 = new google.maps.LatLng(51.5073509,-0.1277583);
+var marker6;
+var myLatlng7 = new google.maps.LatLng(48.8724066,2.3344584);
+var marker7;
+var myLatlng8 = new google.maps.LatLng(46.9409451,7.4353623);
+var marker8;
+var myLatlng9 = new google.maps.LatLng(34.7287085,33.3369753);
+var marker9;
+var myLatlng10 = new google.maps.LatLng(41.7151377,44.827096);
+var marker10;
+var myLatlng11 = new google.maps.LatLng(40.1908709,44.511927);
+var marker11;
+var myLatlng12 = new google.maps.LatLng(41.3323518,19.8197998);
+var marker12;
+var myLatlng13 = new google.maps.LatLng(40.3822081,49.8805592);
+var marker13;
+var myLatlng14 = new google.maps.LatLng(53.90453979999999,27.5615244);
+var marker14;
+var myLatlng15 = new google.maps.LatLng(50.847129,4.3623031);
+var marker15;
+var myLatlng16 = new google.maps.LatLng(43.8602535,18.4198433);
+var marker16;
+var myLatlng17 = new google.maps.LatLng(42.6996076,23.3258481);
+var marker17;
+var myLatlng18 = new google.maps.LatLng(45.821431,15.9698161);
+var marker18;
+var myLatlng19 = new google.maps.LatLng(55.6701809,12.5385396);
+var marker19;
+var myLatlng20 = new google.maps.LatLng(59.4323665,24.7430232);
+var marker20;
+var myLatlng21 = new google.maps.LatLng(60.17332440000001,24.9410248);
+var marker21;
+var myLatlng22 = new google.maps.LatLng(50.94221,6.89825);
+var marker22;
+var myLatlng23 = new google.maps.LatLng(37.905953,23.7494698);
+var marker23;
+var myLatlng24 = new google.maps.LatLng(64.1293425,-21.8977154);
+var marker24;
+var myLatlng25 = new google.maps.LatLng(53.3186561,-6.2134758);
+var marker25;
+var myLatlng26 = new google.maps.LatLng(45.469534,9.1753587);
+var marker26;
+var myLatlng27 = new google.maps.LatLng(43.2293195,76.91538059999999);
+var marker27;
+var myLatlng28 = new google.maps.LatLng(42.8746212,74.5697617);
+var marker28;
+var myLatlng29 = new google.maps.LatLng(56.9656111,24.1428363);
+var marker29;
+var myLatlng30 = new google.maps.LatLng(54.6922345,25.2706441);
+var marker30;
+var myLatlng31 = new google.maps.LatLng(41.9939307,21.4280762);
+var marker31;
+var myLatlng32 = new google.maps.LatLng(47.0298253,28.838455);
+var marker32;
+var myLatlng33 = new google.maps.LatLng(52.3132264,4.8521501);
+var marker33;
+var myLatlng34 = new google.maps.LatLng(59.9105457,10.8109884);
+var marker34;
+var myLatlng35 = new google.maps.LatLng(52.4104526,16.9403138);
+var marker35;
+var myLatlng36 = new google.maps.LatLng(38.7222524,-9.1393366);
+var marker36;
+var myLatlng37 = new google.maps.LatLng(44.4267674,26.1025384);
+var marker37;
+var myLatlng38 = new google.maps.LatLng(55.75222,37.61556);
+var marker38;
+var myLatlng39 = new google.maps.LatLng(44.8171908,20.418653);
+var marker39;
+var myLatlng40 = new google.maps.LatLng(59.3317092,18.0536002);
+var marker40;
+var myLatlng41 = new google.maps.LatLng(39.911217,32.797609);
+var marker41;
+var myLatlng42 = new google.maps.LatLng(50.456557,30.498887);
+var marker42;
+var myLatlng43 = new google.maps.LatLng(41.2990715,69.272339);
+var marker43;
+var myLatlng44 = new google.maps.LatLng(32.0852999,34.78176759999999);
+var marker44;
+var myLatlng45 = new google.maps.LatLng(42.4304196,19.2593642);
+var marker45;
+var myLatlng46 = new google.maps.LatLng(37.9026598,58.3726489);
+var marker46;
+var myLatlng47 = new google.maps.LatLng(46.0205269,-10.1729889);
+var marker47;
+var myLatlng48 = new google.maps.LatLng(46.0205269,-15.1729889);
+var marker48;
+var map;
+var cityCircle;
+var infoWindows = [];
+
+function initialize(canvasId) {
+	
+    var mapOptions = {
+      scrollwheel: false,
+      navigationControl: false,
+      mapTypeControl: false,
+   	  scaleControl: false,
+   	  draggable: false,
+      center: center,
+      zoom: 4,
+      mapTypeId: google.maps.MapTypeId.ROADMAP
+    };
+    
+    map = new google.maps.Map( document.getElementById( canvasId ) , mapOptions);
+
+    					initMarkers();
+		    
+    }
+</script>
+
+	<script type="text/javascript">
+	var infowindow0;
+	var infowindow1;
+	var infowindow2;
+	var infowindow3;
+	var infowindow4;
+	var infowindow5;
+	var infowindow6;
+	var infowindow7;
+	var infowindow8;
+	var infowindow9;
+	var infowindow10;
+	var infowindow11;
+	var infowindow12;
+	var infowindow13;
+	var infowindow14;
+	var infowindow15;
+	var infowindow16;
+	var infowindow17;
+	var infowindow18;
+	var infowindow19;
+	var infowindow20;
+	var infowindow21;
+	var infowindow22;
+	var infowindow23;
+	var infowindow24;
+	var infowindow25;
+	var infowindow26;
+	var infowindow27;
+	var infowindow28;
+	var infowindow29;
+	var infowindow30;
+	var infowindow31;
+	var infowindow32;
+	var infowindow33;
+	var infowindow34;
+	var infowindow35;
+	var infowindow36;
+	var infowindow37;
+	var infowindow38;
+	var infowindow39;
+	var infowindow40;
+	var infowindow41;
+	var infowindow42;
+	var infowindow43;
+	var infowindow44;
+	var infowindow45;
+	var infowindow46;
+	var infowindow47;
+	var infowindow48;
+function initMarkers(){
+	 	    marker0 = new google.maps.Marker({
+	        position: myLatlng0,
+	        map: map,
+	        title: 'GS1 Czech Republic  Na Pankráci 30.   140 00 Praha 4 '
+	    });
+	    	    var contentString0 = '<div class="infoWindow">'+
+			    					 '<h4 class="firstHeading">GS1 Czech Republic</h4>'+
+			    					 '<div><label>address:</label> Na Pankráci 30.   140 00 Praha 4 </div>'+
+			    					 '<div><label>Phone:</label> +420 227 031 167</div>'+
+			    					 '<div><label>fax:</label> </div>'+
+			    					 '<div><a target="_blank" href="http://www.gs1cz.org">http://www.gs1cz.org</a></div>'+
+			    					 '</div>';
+	    infowindow0 = new google.maps.InfoWindow({
+	        content: contentString0	    });
+	    infoWindows.push(infowindow0);
+	    google.maps.event.addListener(marker0, 'click', function() {
+	        infowindow0.open(map,marker0);
+	    });
+	    		    marker1 = new google.maps.Marker({
+	        position: myLatlng1,
+	        map: map,
+	        title: 'GS1 Hungary  Budapest, Fáy u. 1b, 1139'
+	    });
+	    	    var contentString1 = '<div class="infoWindow">'+
+			    					 '<h4 class="firstHeading">GS1 Hungary</h4>'+
+			    					 '<div><label>address:</label> Budapest, Fáy u. 1b, 1139</div>'+
+			    					 '<div><label>Phone:</label> +36/1 237 7240</div>'+
+			    					 '<div><label>fax:</label> +36/1 237 7249</div>'+
+			    					 '<div><a target="_blank" href="http://gs1hu.org">http://gs1hu.org</a></div>'+
+			    					 '</div>';
+	    infowindow1 = new google.maps.InfoWindow({
+	        content: contentString1	    });
+	    infoWindows.push(infowindow1);
+	    google.maps.event.addListener(marker1, 'click', function() {
+	        infowindow1.open(map,marker1);
+	    });
+	    		    marker2 = new google.maps.Marker({
+	        position: myLatlng2,
+	        map: map,
+	        title: 'GS1 Austria  Brahmspl. 3, 1040, Austria'
+	    });
+	    	    var contentString2 = '<div class="infoWindow">'+
+			    					 '<h4 class="firstHeading">GS1 Austria</h4>'+
+			    					 '<div><label>address:</label> Brahmspl. 3, 1040, Austria</div>'+
+			    					 '<div><label>Phone:</label> +43 1 505 86 01</div>'+
+			    					 '<div><label>fax:</label> +43 1 505 86 01-22</div>'+
+			    					 '<div><a target="_blank" href="http://www.gs1.at/">http://www.gs1.at/</a></div>'+
+			    					 '</div>';
+	    infowindow2 = new google.maps.InfoWindow({
+	        content: contentString2	    });
+	    infoWindows.push(infowindow2);
+	    google.maps.event.addListener(marker2, 'click', function() {
+	        infowindow2.open(map,marker2);
+	    });
+	    		    marker3 = new google.maps.Marker({
+	        position: myLatlng3,
+	        map: map,
+	        title: 'GS1 Spain  Ronda General Mitre 10.  8017 Barcelona, Spain'
+	    });
+	    	    var contentString3 = '<div class="infoWindow">'+
+			    					 '<h4 class="firstHeading">GS1 Spain</h4>'+
+			    					 '<div><label>address:</label> Ronda General Mitre 10.  8017 Barcelona, Spain</div>'+
+			    					 '<div><label>Phone:</label> +34 93 252 39 00</div>'+
+			    					 '<div><label>fax:</label> </div>'+
+			    					 '<div><a target="_blank" href="http://www.gs1es.org ">http://www.gs1es.org </a></div>'+
+			    					 '</div>';
+	    infowindow3 = new google.maps.InfoWindow({
+	        content: contentString3	    });
+	    infoWindows.push(infowindow3);
+	    google.maps.event.addListener(marker3, 'click', function() {
+	        infowindow3.open(map,marker3);
+	    });
+	    		    marker4 = new google.maps.Marker({
+	        position: myLatlng4,
+	        map: map,
+	        title: 'GS1 Slovakia  Nanterská 23, 010 08 Žilina, Szlovákia'
+	    });
+	    	    var contentString4 = '<div class="infoWindow">'+
+			    					 '<h4 class="firstHeading">GS1 Slovakia</h4>'+
+			    					 '<div><label>address:</label> Nanterská 23, 010 08 Žilina, Szlovákia</div>'+
+			    					 '<div><label>Phone:</label> +421 41 565 11 85</div>'+
+			    					 '<div><label>fax:</label> </div>'+
+			    					 '<div><a target="_blank" href="http://www.gs1sk.org/">http://www.gs1sk.org/</a></div>'+
+			    					 '</div>';
+	    infowindow4 = new google.maps.InfoWindow({
+	        content: contentString4	    });
+	    infoWindows.push(infowindow4);
+	    google.maps.event.addListener(marker4, 'click', function() {
+	        infowindow4.open(map,marker4);
+	    });
+	    		    marker5 = new google.maps.Marker({
+	        position: myLatlng5,
+	        map: map,
+	        title: 'GS1 Slovenia  Dimičeva ulica 9, 1000 Ljubljana, Slovenija'
+	    });
+	    	    var contentString5 = '<div class="infoWindow">'+
+			    					 '<h4 class="firstHeading">GS1 Slovenia</h4>'+
+			    					 '<div><label>address:</label> Dimičeva ulica 9, 1000 Ljubljana, Slovenija</div>'+
+			    					 '<div><label>Phone:</label> + 386 1 5898 320</div>'+
+			    					 '<div><label>fax:</label> + 386 1 5898 323</div>'+
+			    					 '<div><a target="_blank" href="http://www.gs1si.org/">http://www.gs1si.org/</a></div>'+
+			    					 '</div>';
+	    infowindow5 = new google.maps.InfoWindow({
+	        content: contentString5	    });
+	    infoWindows.push(infowindow5);
+	    google.maps.event.addListener(marker5, 'click', function() {
+	        infowindow5.open(map,marker5);
+	    });
+	    		    marker6 = new google.maps.Marker({
+	        position: myLatlng6,
+	        map: map,
+	        title: 'GS1 UK  Hasilwood House - 60 Bishopsgate - London EC2N 4AW'
+	    });
+	    	    var contentString6 = '<div class="infoWindow">'+
+			    					 '<h4 class="firstHeading">GS1 UK</h4>'+
+			    					 '<div><label>address:</label> Hasilwood House - 60 Bishopsgate - London EC2N 4AW</div>'+
+			    					 '<div><label>Phone:</label> +44 (0)20 7092 3500</div>'+
+			    					 '<div><label>fax:</label> +44 (0)20 7681 2290</div>'+
+			    					 '<div><a target="_blank" href="https://www.gs1uk.org/">https://www.gs1uk.org/</a></div>'+
+			    					 '</div>';
+	    infowindow6 = new google.maps.InfoWindow({
+	        content: contentString6	    });
+	    infoWindows.push(infowindow6);
+	    google.maps.event.addListener(marker6, 'click', function() {
+	        infowindow6.open(map,marker6);
+	    });
+	    		    marker7 = new google.maps.Marker({
+	        position: myLatlng7,
+	        map: map,
+	        title: 'GS1 France  21 boulevard Haussmann 75009 Paris  '
+	    });
+	    	    var contentString7 = '<div class="infoWindow">'+
+			    					 '<h4 class="firstHeading">GS1 France</h4>'+
+			    					 '<div><label>address:</label> 21 boulevard Haussmann 75009 Paris  </div>'+
+			    					 '<div><label>Phone:</label> +33 1 409 554 10</div>'+
+			    					 '<div><label>fax:</label> </div>'+
+			    					 '<div><a target="_blank" href="http://www.gs1.fr/">http://www.gs1.fr/</a></div>'+
+			    					 '</div>';
+	    infowindow7 = new google.maps.InfoWindow({
+	        content: contentString7	    });
+	    infoWindows.push(infowindow7);
+	    google.maps.event.addListener(marker7, 'click', function() {
+	        infowindow7.open(map,marker7);
+	    });
+	    		    marker8 = new google.maps.Marker({
+	        position: myLatlng8,
+	        map: map,
+	        title: 'GS1 Switzerland  Monbijoustrasse 68, 3007 Bern'
+	    });
+	    	    var contentString8 = '<div class="infoWindow">'+
+			    					 '<h4 class="firstHeading">GS1 Switzerland</h4>'+
+			    					 '<div><label>address:</label> Monbijoustrasse 68, 3007 Bern</div>'+
+			    					 '<div><label>Phone:</label> +41(0)58 800 70 00</div>'+
+			    					 '<div><label>fax:</label> </div>'+
+			    					 '<div><a target="_blank" href="http://www.gs1.ch/">http://www.gs1.ch/</a></div>'+
+			    					 '</div>';
+	    infowindow8 = new google.maps.InfoWindow({
+	        content: contentString8	    });
+	    infoWindows.push(infowindow8);
+	    google.maps.event.addListener(marker8, 'click', function() {
+	        infowindow8.open(map,marker8);
+	    });
+	    		    marker9 = new google.maps.Marker({
+	        position: myLatlng9,
+	        map: map,
+	        title: 'GS1 Cyprus  Georgiou Griva Digeni 38'
+	    });
+	    	    var contentString9 = '<div class="infoWindow">'+
+			    					 '<h4 class="firstHeading">GS1 Cyprus</h4>'+
+			    					 '<div><label>address:</label> Georgiou Griva Digeni 38</div>'+
+			    					 '<div><label>Phone:</label> +357 2 889800</div>'+
+			    					 '<div><label>fax:</label> </div>'+
+			    					 '<div><a target="_blank" href="http://www.gs1cy.org/">http://www.gs1cy.org/</a></div>'+
+			    					 '</div>';
+	    infowindow9 = new google.maps.InfoWindow({
+	        content: contentString9	    });
+	    infoWindows.push(infowindow9);
+	    google.maps.event.addListener(marker9, 'click', function() {
+	        infowindow9.open(map,marker9);
+	    });
+	    		    marker10 = new google.maps.Marker({
+	        position: myLatlng10,
+	        map: map,
+	        title: 'GS1 Georgia  1 Lermontov street 0105 Tbilisi, Georgia '
+	    });
+	    	    var contentString10 = '<div class="infoWindow">'+
+			    					 '<h4 class="firstHeading">GS1 Georgia</h4>'+
+			    					 '<div><label>address:</label> 1 Lermontov street 0105 Tbilisi, Georgia </div>'+
+			    					 '<div><label>Phone:</label> +995 32 296 1019</div>'+
+			    					 '<div><label>fax:</label> </div>'+
+			    					 '<div><a target="_blank" href="http://www.gs1ge.org/">http://www.gs1ge.org/</a></div>'+
+			    					 '</div>';
+	    infowindow10 = new google.maps.InfoWindow({
+	        content: contentString10	    });
+	    infoWindows.push(infowindow10);
+	    google.maps.event.addListener(marker10, 'click', function() {
+	        infowindow10.open(map,marker10);
+	    });
+	    		    marker11 = new google.maps.Marker({
+	        position: myLatlng11,
+	        map: map,
+	        title: 'GS1 Armenia  64-15 Baghramian avenue, Yerevan'
+	    });
+	    	    var contentString11 = '<div class="infoWindow">'+
+			    					 '<h4 class="firstHeading">GS1 Armenia</h4>'+
+			    					 '<div><label>address:</label> 64-15 Baghramian avenue, Yerevan</div>'+
+			    					 '<div><label>Phone:</label> +374 10 272 622</div>'+
+			    					 '<div><label>fax:</label> </div>'+
+			    					 '<div><a target="_blank" href="http://www.gs1am.org/">http://www.gs1am.org/</a></div>'+
+			    					 '</div>';
+	    infowindow11 = new google.maps.InfoWindow({
+	        content: contentString11	    });
+	    infoWindows.push(infowindow11);
+	    google.maps.event.addListener(marker11, 'click', function() {
+	        infowindow11.open(map,marker11);
+	    });
+	    		    marker12 = new google.maps.Marker({
+	        position: myLatlng12,
+	        map: map,
+	        title: 'GS1 Albania  Rruga e Barrikadave, Tirane, Albania'
+	    });
+	    	    var contentString12 = '<div class="infoWindow">'+
+			    					 '<h4 class="firstHeading">GS1 Albania</h4>'+
+			    					 '<div><label>address:</label> Rruga e Barrikadave, Tirane, Albania</div>'+
+			    					 '<div><label>Phone:</label> +355 4 232073</div>'+
+			    					 '<div><label>fax:</label> </div>'+
+			    					 '<div><a target="_blank" href="http://www.gs1al.org/">http://www.gs1al.org/</a></div>'+
+			    					 '</div>';
+	    infowindow12 = new google.maps.InfoWindow({
+	        content: contentString12	    });
+	    infoWindows.push(infowindow12);
+	    google.maps.event.addListener(marker12, 'click', function() {
+	        infowindow12.open(map,marker12);
+	    });
+	    		    marker13 = new google.maps.Marker({
+	        position: myLatlng13,
+	        map: map,
+	        title: 'GS1 Azerbaijan  Khagani str., 90A Baku'
+	    });
+	    	    var contentString13 = '<div class="infoWindow">'+
+			    					 '<h4 class="firstHeading">GS1 Azerbaijan</h4>'+
+			    					 '<div><label>address:</label> Khagani str., 90A Baku</div>'+
+			    					 '<div><label>Phone:</label> +99412 4987405</div>'+
+			    					 '<div><label>fax:</label> </div>'+
+			    					 '<div><a target="_blank" href="http://www.gs1az.org/">http://www.gs1az.org/</a></div>'+
+			    					 '</div>';
+	    infowindow13 = new google.maps.InfoWindow({
+	        content: contentString13	    });
+	    infoWindows.push(infowindow13);
+	    google.maps.event.addListener(marker13, 'click', function() {
+	        infowindow13.open(map,marker13);
+	    });
+	    		    marker14 = new google.maps.Marker({
+	        position: myLatlng14,
+	        map: map,
+	        title: 'GS1 Belarus  22, Sudmalis Street 220033 Minsk'
+	    });
+	    	    var contentString14 = '<div class="infoWindow">'+
+			    					 '<h4 class="firstHeading">GS1 Belarus</h4>'+
+			    					 '<div><label>address:</label> 22, Sudmalis Street 220033 Minsk</div>'+
+			    					 '<div><label>Phone:</label> +375 17 2980660</div>'+
+			    					 '<div><label>fax:</label> </div>'+
+			    					 '<div><a target="_blank" href="http://www.gs1by.by/">http://www.gs1by.by/</a></div>'+
+			    					 '</div>';
+	    infowindow14 = new google.maps.InfoWindow({
+	        content: contentString14	    });
+	    infoWindows.push(infowindow14);
+	    google.maps.event.addListener(marker14, 'click', function() {
+	        infowindow14.open(map,marker14);
+	    });
+	    		    marker15 = new google.maps.Marker({
+	        position: myLatlng15,
+	        map: map,
+	        title: 'GS1 Belgium & Luxembourg  Koningsstraat 76 BRUSSEL'
+	    });
+	    	    var contentString15 = '<div class="infoWindow">'+
+			    					 '<h4 class="firstHeading">GS1 Belgium & Luxembourg</h4>'+
+			    					 '<div><label>address:</label> Koningsstraat 76 BRUSSEL</div>'+
+			    					 '<div><label>Phone:</label> +32 2 229 18 80</div>'+
+			    					 '<div><label>fax:</label> </div>'+
+			    					 '<div><a target="_blank" href="http://www.gs1belu.org/">http://www.gs1belu.org/</a></div>'+
+			    					 '</div>';
+	    infowindow15 = new google.maps.InfoWindow({
+	        content: contentString15	    });
+	    infoWindows.push(infowindow15);
+	    google.maps.event.addListener(marker15, 'click', function() {
+	        infowindow15.open(map,marker15);
+	    });
+	    		    marker16 = new google.maps.Marker({
+	        position: myLatlng16,
+	        map: map,
+	        title: 'GS1 Bosnia-Herzegovina  Dalmatinska 6, 71000 Sarajevo'
+	    });
+	    	    var contentString16 = '<div class="infoWindow">'+
+			    					 '<h4 class="firstHeading">GS1 Bosnia-Herzegovina</h4>'+
+			    					 '<div><label>address:</label> Dalmatinska 6, 71000 Sarajevo</div>'+
+			    					 '<div><label>Phone:</label> +387 33 258 646</div>'+
+			    					 '<div><label>fax:</label> </div>'+
+			    					 '<div><a target="_blank" href="http://www.gs1bih.org">http://www.gs1bih.org</a></div>'+
+			    					 '</div>';
+	    infowindow16 = new google.maps.InfoWindow({
+	        content: contentString16	    });
+	    infoWindows.push(infowindow16);
+	    google.maps.event.addListener(marker16, 'click', function() {
+	        infowindow16.open(map,marker16);
+	    });
+	    		    marker17 = new google.maps.Marker({
+	        position: myLatlng17,
+	        map: map,
+	        title: 'GS1 Bulgaria  ulitsa Iskar 9, 1058 Sofia'
+	    });
+	    	    var contentString17 = '<div class="infoWindow">'+
+			    					 '<h4 class="firstHeading">GS1 Bulgaria</h4>'+
+			    					 '<div><label>address:</label> ulitsa Iskar 9, 1058 Sofia</div>'+
+			    					 '<div><label>Phone:</label> +359 2 988 3139</div>'+
+			    					 '<div><label>fax:</label> </div>'+
+			    					 '<div><a target="_blank" href="http://www.gs1bg.org/">http://www.gs1bg.org/</a></div>'+
+			    					 '</div>';
+	    infowindow17 = new google.maps.InfoWindow({
+	        content: contentString17	    });
+	    infoWindows.push(infowindow17);
+	    google.maps.event.addListener(marker17, 'click', function() {
+	        infowindow17.open(map,marker17);
+	    });
+	    		    marker18 = new google.maps.Marker({
+	        position: myLatlng18,
+	        map: map,
+	        title: 'GS1 Croatia  Preradoviceva 35 10000 Zagreb'
+	    });
+	    	    var contentString18 = '<div class="infoWindow">'+
+			    					 '<h4 class="firstHeading">GS1 Croatia</h4>'+
+			    					 '<div><label>address:</label> Preradoviceva 35 10000 Zagreb</div>'+
+			    					 '<div><label>Phone:</label> +385 1 48 95 000</div>'+
+			    					 '<div><label>fax:</label> </div>'+
+			    					 '<div><a target="_blank" href="http://www.gs1hr.org/">http://www.gs1hr.org/</a></div>'+
+			    					 '</div>';
+	    infowindow18 = new google.maps.InfoWindow({
+	        content: contentString18	    });
+	    infoWindows.push(infowindow18);
+	    google.maps.event.addListener(marker18, 'click', function() {
+	        infowindow18.open(map,marker18);
+	    });
+	    		    marker19 = new google.maps.Marker({
+	        position: myLatlng19,
+	        map: map,
+	        title: 'GS1 Denmark  Vesterbrogade 149 DK-1620 København'
+	    });
+	    	    var contentString19 = '<div class="infoWindow">'+
+			    					 '<h4 class="firstHeading">GS1 Denmark</h4>'+
+			    					 '<div><label>address:</label> Vesterbrogade 149 DK-1620 København</div>'+
+			    					 '<div><label>Phone:</label> +45 39 27 85 27</div>'+
+			    					 '<div><label>fax:</label> </div>'+
+			    					 '<div><a target="_blank" href="http://www.gs1.dk/">http://www.gs1.dk/</a></div>'+
+			    					 '</div>';
+	    infowindow19 = new google.maps.InfoWindow({
+	        content: contentString19	    });
+	    infoWindows.push(infowindow19);
+	    google.maps.event.addListener(marker19, 'click', function() {
+	        infowindow19.open(map,marker19);
+	    });
+	    		    marker20 = new google.maps.Marker({
+	        position: myLatlng20,
+	        map: map,
+	        title: 'GS1 Estonia  Tornimäe 2, 15010 Tallinn'
+	    });
+	    	    var contentString20 = '<div class="infoWindow">'+
+			    					 '<h4 class="firstHeading">GS1 Estonia</h4>'+
+			    					 '<div><label>address:</label> Tornimäe 2, 15010 Tallinn</div>'+
+			    					 '<div><label>Phone:</label> + 372 660 5535 </div>'+
+			    					 '<div><label>fax:</label> </div>'+
+			    					 '<div><a target="_blank" href="http://www.gs1.ee/">http://www.gs1.ee/</a></div>'+
+			    					 '</div>';
+	    infowindow20 = new google.maps.InfoWindow({
+	        content: contentString20	    });
+	    infoWindows.push(infowindow20);
+	    google.maps.event.addListener(marker20, 'click', function() {
+	        infowindow20.open(map,marker20);
+	    });
+	    		    marker21 = new google.maps.Marker({
+	        position: myLatlng21,
+	        map: map,
+	        title: 'GS1 Finland  Helsinki PL266 00101'
+	    });
+	    	    var contentString21 = '<div class="infoWindow">'+
+			    					 '<h4 class="firstHeading">GS1 Finland</h4>'+
+			    					 '<div><label>address:</label> Helsinki PL266 00101</div>'+
+			    					 '<div><label>Phone:</label> +358 75 756 3500</div>'+
+			    					 '<div><label>fax:</label> </div>'+
+			    					 '<div><a target="_blank" href="http://www.gs1.fi/">http://www.gs1.fi/</a></div>'+
+			    					 '</div>';
+	    infowindow21 = new google.maps.InfoWindow({
+	        content: contentString21	    });
+	    infoWindows.push(infowindow21);
+	    google.maps.event.addListener(marker21, 'click', function() {
+	        infowindow21.open(map,marker21);
+	    });
+	    		    marker22 = new google.maps.Marker({
+	        position: myLatlng22,
+	        map: map,
+	        title: 'GS1 Germany  Maarweg 133 - 50825 Köln'
+	    });
+	    	    var contentString22 = '<div class="infoWindow">'+
+			    					 '<h4 class="firstHeading">GS1 Germany</h4>'+
+			    					 '<div><label>address:</label> Maarweg 133 - 50825 Köln</div>'+
+			    					 '<div><label>Phone:</label> +49 221 947 14 - 0</div>'+
+			    					 '<div><label>fax:</label> </div>'+
+			    					 '<div><a target="_blank" href="http://www.gs1-germany.de/">http://www.gs1-germany.de/</a></div>'+
+			    					 '</div>';
+	    infowindow22 = new google.maps.InfoWindow({
+	        content: contentString22	    });
+	    infoWindows.push(infowindow22);
+	    google.maps.event.addListener(marker22, 'click', function() {
+	        infowindow22.open(map,marker22);
+	    });
+	    		    marker23 = new google.maps.Marker({
+	        position: myLatlng23,
+	        map: map,
+	        title: 'GS1 Association Greece  Alexioupoleos 32, 16452 Argiroupoli'
+	    });
+	    	    var contentString23 = '<div class="infoWindow">'+
+			    					 '<h4 class="firstHeading">GS1 Association Greece</h4>'+
+			    					 '<div><label>address:</label> Alexioupoleos 32, 16452 Argiroupoli</div>'+
+			    					 '<div><label>Phone:</label> +30 210 990 4260</div>'+
+			    					 '<div><label>fax:</label> </div>'+
+			    					 '<div><a target="_blank" href="http://www.gs1greece.org/">http://www.gs1greece.org/</a></div>'+
+			    					 '</div>';
+	    infowindow23 = new google.maps.InfoWindow({
+	        content: contentString23	    });
+	    infoWindows.push(infowindow23);
+	    google.maps.event.addListener(marker23, 'click', function() {
+	        infowindow23.open(map,marker23);
+	    });
+	    		    marker24 = new google.maps.Marker({
+	        position: myLatlng24,
+	        map: map,
+	        title: 'GS1 Iceland   Kringlunni 7  103 Reykjavík '
+	    });
+	    	    var contentString24 = '<div class="infoWindow">'+
+			    					 '<h4 class="firstHeading">GS1 Iceland</h4>'+
+			    					 '<div><label>address:</label>  Kringlunni 7  103 Reykjavík </div>'+
+			    					 '<div><label>Phone:</label> +354 511 3011</div>'+
+			    					 '<div><label>fax:</label> </div>'+
+			    					 '<div><a target="_blank" href="http://www.gs1.is/">http://www.gs1.is/</a></div>'+
+			    					 '</div>';
+	    infowindow24 = new google.maps.InfoWindow({
+	        content: contentString24	    });
+	    infoWindows.push(infowindow24);
+	    google.maps.event.addListener(marker24, 'click', function() {
+	        infowindow24.open(map,marker24);
+	    });
+	    		    marker25 = new google.maps.Marker({
+	        position: myLatlng25,
+	        map: map,
+	        title: 'GS1 Ireland   The Merrion Centre, Nutley Lane, Dublin'
+	    });
+	    	    var contentString25 = '<div class="infoWindow">'+
+			    					 '<h4 class="firstHeading">GS1 Ireland</h4>'+
+			    					 '<div><label>address:</label>  The Merrion Centre, Nutley Lane, Dublin</div>'+
+			    					 '<div><label>Phone:</label> +353 1 208 0660</div>'+
+			    					 '<div><label>fax:</label> </div>'+
+			    					 '<div><a target="_blank" href="http://www.gs1ie.org">http://www.gs1ie.org</a></div>'+
+			    					 '</div>';
+	    infowindow25 = new google.maps.InfoWindow({
+	        content: contentString25	    });
+	    infoWindows.push(infowindow25);
+	    google.maps.event.addListener(marker25, 'click', function() {
+	        infowindow25.open(map,marker25);
+	    });
+	    		    marker26 = new google.maps.Marker({
+	        position: myLatlng26,
+	        map: map,
+	        title: 'GS1 Italy  Via Pietro Paleocapa 7, 20121 Milano '
+	    });
+	    	    var contentString26 = '<div class="infoWindow">'+
+			    					 '<h4 class="firstHeading">GS1 Italy</h4>'+
+			    					 '<div><label>address:</label> Via Pietro Paleocapa 7, 20121 Milano </div>'+
+			    					 '<div><label>Phone:</label>  +39 02 777 2121</div>'+
+			    					 '<div><label>fax:</label> </div>'+
+			    					 '<div><a target="_blank" href="http://www.gs1it.org/">http://www.gs1it.org/</a></div>'+
+			    					 '</div>';
+	    infowindow26 = new google.maps.InfoWindow({
+	        content: contentString26	    });
+	    infoWindows.push(infowindow26);
+	    google.maps.event.addListener(marker26, 'click', function() {
+	        infowindow26.open(map,marker26);
+	    });
+	    		    marker27 = new google.maps.Marker({
+	        position: myLatlng27,
+	        map: map,
+	        title: 'GS1 Kazakstan  Baizakov str, 299 050008 Almaty'
+	    });
+	    	    var contentString27 = '<div class="infoWindow">'+
+			    					 '<h4 class="firstHeading">GS1 Kazakstan</h4>'+
+			    					 '<div><label>address:</label> Baizakov str, 299 050008 Almaty</div>'+
+			    					 '<div><label>Phone:</label> +7 3272 756578</div>'+
+			    					 '<div><label>fax:</label> </div>'+
+			    					 '<div><a target="_blank" href="http://www.gs1.kz/">http://www.gs1.kz/</a></div>'+
+			    					 '</div>';
+	    infowindow27 = new google.maps.InfoWindow({
+	        content: contentString27	    });
+	    infoWindows.push(infowindow27);
+	    google.maps.event.addListener(marker27, 'click', function() {
+	        infowindow27.open(map,marker27);
+	    });
+	    		    marker28 = new google.maps.Marker({
+	        position: myLatlng28,
+	        map: map,
+	        title: 'GS1 Kyrgyzstan  office 8, 59 Baytik Baatyr str. 720005 Bishkek'
+	    });
+	    	    var contentString28 = '<div class="infoWindow">'+
+			    					 '<h4 class="firstHeading">GS1 Kyrgyzstan</h4>'+
+			    					 '<div><label>address:</label> office 8, 59 Baytik Baatyr str. 720005 Bishkek</div>'+
+			    					 '<div><label>Phone:</label> +996 312 900 521</div>'+
+			    					 '<div><label>fax:</label> </div>'+
+			    					 '<div><a target="_blank" href="http://www.gs1kg.org/">http://www.gs1kg.org/</a></div>'+
+			    					 '</div>';
+	    infowindow28 = new google.maps.InfoWindow({
+	        content: contentString28	    });
+	    infoWindows.push(infowindow28);
+	    google.maps.event.addListener(marker28, 'click', function() {
+	        infowindow28.open(map,marker28);
+	    });
+	    		    marker29 = new google.maps.Marker({
+	        position: myLatlng29,
+	        map: map,
+	        title: 'GS1 Latvia  31 Cesu Street, k-3, Riga LV-1012'
+	    });
+	    	    var contentString29 = '<div class="infoWindow">'+
+			    					 '<h4 class="firstHeading">GS1 Latvia</h4>'+
+			    					 '<div><label>address:</label> 31 Cesu Street, k-3, Riga LV-1012</div>'+
+			    					 '<div><label>Phone:</label> +371 7830 822</div>'+
+			    					 '<div><label>fax:</label> </div>'+
+			    					 '<div><a target="_blank" href="http://www.gs1lv.org/">http://www.gs1lv.org/</a></div>'+
+			    					 '</div>';
+	    infowindow29 = new google.maps.InfoWindow({
+	        content: contentString29	    });
+	    infoWindows.push(infowindow29);
+	    google.maps.event.addListener(marker29, 'click', function() {
+	        infowindow29.open(map,marker29);
+	    });
+	    		    marker30 = new google.maps.Marker({
+	        position: myLatlng30,
+	        map: map,
+	        title: 'GS1 Lithuania  Vašingtono a. 1-63a, LT-01108 Vilnius,'
+	    });
+	    	    var contentString30 = '<div class="infoWindow">'+
+			    					 '<h4 class="firstHeading">GS1 Lithuania</h4>'+
+			    					 '<div><label>address:</label> Vašingtono a. 1-63a, LT-01108 Vilnius,</div>'+
+			    					 '<div><label>Phone:</label> +370 5 2614 532 </div>'+
+			    					 '<div><label>fax:</label> </div>'+
+			    					 '<div><a target="_blank" href="http://www.gs1lt.org/">http://www.gs1lt.org/</a></div>'+
+			    					 '</div>';
+	    infowindow30 = new google.maps.InfoWindow({
+	        content: contentString30	    });
+	    infoWindows.push(infowindow30);
+	    google.maps.event.addListener(marker30, 'click', function() {
+	        infowindow30.open(map,marker30);
+	    });
+	    		    marker31 = new google.maps.Marker({
+	        position: myLatlng31,
+	        map: map,
+	        title: 'GS1 Macedonia  Dame Gruev 5 1000 Skopje'
+	    });
+	    	    var contentString31 = '<div class="infoWindow">'+
+			    					 '<h4 class="firstHeading">GS1 Macedonia</h4>'+
+			    					 '<div><label>address:</label> Dame Gruev 5 1000 Skopje</div>'+
+			    					 '<div><label>Phone:</label> +389 (0) 2 32 54 250</div>'+
+			    					 '<div><label>fax:</label> </div>'+
+			    					 '<div><a target="_blank" href="http://www.gs1mk.org.mk/">http://www.gs1mk.org.mk/</a></div>'+
+			    					 '</div>';
+	    infowindow31 = new google.maps.InfoWindow({
+	        content: contentString31	    });
+	    infoWindows.push(infowindow31);
+	    google.maps.event.addListener(marker31, 'click', function() {
+	        infowindow31.open(map,marker31);
+	    });
+	    		    marker32 = new google.maps.Marker({
+	        position: myLatlng32,
+	        map: map,
+	        title: 'GS1 Moldova  Bd. Grigore Vieru 9. Chisinau, Moldova'
+	    });
+	    	    var contentString32 = '<div class="infoWindow">'+
+			    					 '<h4 class="firstHeading">GS1 Moldova</h4>'+
+			    					 '<div><label>address:</label> Bd. Grigore Vieru 9. Chisinau, Moldova</div>'+
+			    					 '<div><label>Phone:</label> +373 22 21 1669</div>'+
+			    					 '<div><label>fax:</label> </div>'+
+			    					 '<div><a target="_blank" href="http://www.gs1md.org/">http://www.gs1md.org/</a></div>'+
+			    					 '</div>';
+	    infowindow32 = new google.maps.InfoWindow({
+	        content: contentString32	    });
+	    infoWindows.push(infowindow32);
+	    google.maps.event.addListener(marker32, 'click', function() {
+	        infowindow32.open(map,marker32);
+	    });
+	    		    marker33 = new google.maps.Marker({
+	        position: myLatlng33,
+	        map: map,
+	        title: 'GS1 Netherlands  Amsterdamseweg 206 1182 HL  Amstelveen'
+	    });
+	    	    var contentString33 = '<div class="infoWindow">'+
+			    					 '<h4 class="firstHeading">GS1 Netherlands</h4>'+
+			    					 '<div><label>address:</label> Amsterdamseweg 206 1182 HL  Amstelveen</div>'+
+			    					 '<div><label>Phone:</label> +31 20 511 3820</div>'+
+			    					 '<div><label>fax:</label> </div>'+
+			    					 '<div><a target="_blank" href="http://www.gs1.nl/">http://www.gs1.nl/</a></div>'+
+			    					 '</div>';
+	    infowindow33 = new google.maps.InfoWindow({
+	        content: contentString33	    });
+	    infoWindows.push(infowindow33);
+	    google.maps.event.addListener(marker33, 'click', function() {
+	        infowindow33.open(map,marker33);
+	    });
+	    		    marker34 = new google.maps.Marker({
+	        position: myLatlng34,
+	        map: map,
+	        title: 'GS1 Norway  Brynsveien 11-13, 0667 Oslo'
+	    });
+	    	    var contentString34 = '<div class="infoWindow">'+
+			    					 '<h4 class="firstHeading">GS1 Norway</h4>'+
+			    					 '<div><label>address:</label> Brynsveien 11-13, 0667 Oslo</div>'+
+			    					 '<div><label>Phone:</label> +47 22 97 13 20</div>'+
+			    					 '<div><label>fax:</label> </div>'+
+			    					 '<div><a target="_blank" href="http://www.gs1.no/">http://www.gs1.no/</a></div>'+
+			    					 '</div>';
+	    infowindow34 = new google.maps.InfoWindow({
+	        content: contentString34	    });
+	    infoWindows.push(infowindow34);
+	    google.maps.event.addListener(marker34, 'click', function() {
+	        infowindow34.open(map,marker34);
+	    });
+	    		    marker35 = new google.maps.Marker({
+	        position: myLatlng35,
+	        map: map,
+	        title: 'GS1 Poland  ul. Estkowskiego 6 61-755 Poznań'
+	    });
+	    	    var contentString35 = '<div class="infoWindow">'+
+			    					 '<h4 class="firstHeading">GS1 Poland</h4>'+
+			    					 '<div><label>address:</label> ul. Estkowskiego 6 61-755 Poznań</div>'+
+			    					 '<div><label>Phone:</label> +48 61 8504971</div>'+
+			    					 '<div><label>fax:</label> </div>'+
+			    					 '<div><a target="_blank" href="http://www.gs1pl.org/">http://www.gs1pl.org/</a></div>'+
+			    					 '</div>';
+	    infowindow35 = new google.maps.InfoWindow({
+	        content: contentString35	    });
+	    infoWindows.push(infowindow35);
+	    google.maps.event.addListener(marker35, 'click', function() {
+	        infowindow35.open(map,marker35);
+	    });
+	    		    marker36 = new google.maps.Marker({
+	        position: myLatlng36,
+	        map: map,
+	        title: 'GS1 Portugal  Estrada do Paço do Lumiar, Campus do Lumiar, Edifício K31649-038 Lisboa'
+	    });
+	    	    var contentString36 = '<div class="infoWindow">'+
+			    					 '<h4 class="firstHeading">GS1 Portugal</h4>'+
+			    					 '<div><label>address:</label> Estrada do Paço do Lumiar, Campus do Lumiar, Edifício K31649-038 Lisboa</div>'+
+			    					 '<div><label>Phone:</label> +35 1 21 752 07 40</div>'+
+			    					 '<div><label>fax:</label> </div>'+
+			    					 '<div><a target="_blank" href="http://www.gs1pt.org/">http://www.gs1pt.org/</a></div>'+
+			    					 '</div>';
+	    infowindow36 = new google.maps.InfoWindow({
+	        content: contentString36	    });
+	    infoWindows.push(infowindow36);
+	    google.maps.event.addListener(marker36, 'click', function() {
+	        infowindow36.open(map,marker36);
+	    });
+	    		    marker37 = new google.maps.Marker({
+	        position: myLatlng37,
+	        map: map,
+	        title: 'GS1 Romania  Str. Mexic nr. 13, Sector 1, Cod 011755, Bucuresti, Romania'
+	    });
+	    	    var contentString37 = '<div class="infoWindow">'+
+			    					 '<h4 class="firstHeading">GS1 Romania</h4>'+
+			    					 '<div><label>address:</label> Str. Mexic nr. 13, Sector 1, Cod 011755, Bucuresti, Romania</div>'+
+			    					 '<div><label>Phone:</label> +40 21 3178031</div>'+
+			    					 '<div><label>fax:</label> </div>'+
+			    					 '<div><a target="_blank" href="http://www.gs1.ro/">http://www.gs1.ro/</a></div>'+
+			    					 '</div>';
+	    infowindow37 = new google.maps.InfoWindow({
+	        content: contentString37	    });
+	    infoWindows.push(infowindow37);
+	    google.maps.event.addListener(marker37, 'click', function() {
+	        infowindow37.open(map,marker37);
+	    });
+	    		    marker38 = new google.maps.Marker({
+	        position: myLatlng38,
+	        map: map,
+	        title: 'GS1 Russia  Moscow, Small Levshinsky Lane, 7, p. 3.'
+	    });
+	    	    var contentString38 = '<div class="infoWindow">'+
+			    					 '<h4 class="firstHeading">GS1 Russia</h4>'+
+			    					 '<div><label>address:</label> Moscow, Small Levshinsky Lane, 7, p. 3.</div>'+
+			    					 '<div><label>Phone:</label> +7 495 730 7103</div>'+
+			    					 '<div><label>fax:</label> </div>'+
+			    					 '<div><a target="_blank" href="http://www.gs1ru.org/">http://www.gs1ru.org/</a></div>'+
+			    					 '</div>';
+	    infowindow38 = new google.maps.InfoWindow({
+	        content: contentString38	    });
+	    infoWindows.push(infowindow38);
+	    google.maps.event.addListener(marker38, 'click', function() {
+	        infowindow38.open(map,marker38);
+	    });
+	    		    marker39 = new google.maps.Marker({
+	        position: myLatlng39,
+	        map: map,
+	        title: 'GS1 Serbia  Bulevar Zorana Đinđića 73 Novi Beograd'
+	    });
+	    	    var contentString39 = '<div class="infoWindow">'+
+			    					 '<h4 class="firstHeading">GS1 Serbia</h4>'+
+			    					 '<div><label>address:</label> Bulevar Zorana Đinđića 73 Novi Beograd</div>'+
+			    					 '<div><label>Phone:</label> +381 11 3132 312</div>'+
+			    					 '<div><label>fax:</label> </div>'+
+			    					 '<div><a target="_blank" href="http://www.gs1yu.org/">http://www.gs1yu.org/</a></div>'+
+			    					 '</div>';
+	    infowindow39 = new google.maps.InfoWindow({
+	        content: contentString39	    });
+	    infoWindows.push(infowindow39);
+	    google.maps.event.addListener(marker39, 'click', function() {
+	        infowindow39.open(map,marker39);
+	    });
+	    		    marker40 = new google.maps.Marker({
+	        position: myLatlng40,
+	        map: map,
+	        title: 'GS1 Sweden  Västra Järnvägsgatan 15, 12 tr Stockholm'
+	    });
+	    	    var contentString40 = '<div class="infoWindow">'+
+			    					 '<h4 class="firstHeading">GS1 Sweden</h4>'+
+			    					 '<div><label>address:</label> Västra Järnvägsgatan 15, 12 tr Stockholm</div>'+
+			    					 '<div><label>Phone:</label> +46 8 50 10 10 00</div>'+
+			    					 '<div><label>fax:</label> </div>'+
+			    					 '<div><a target="_blank" href="http://www.gs1.se/">http://www.gs1.se/</a></div>'+
+			    					 '</div>';
+	    infowindow40 = new google.maps.InfoWindow({
+	        content: contentString40	    });
+	    infoWindows.push(infowindow40);
+	    google.maps.event.addListener(marker40, 'click', function() {
+	        infowindow40.open(map,marker40);
+	    });
+	    		    marker41 = new google.maps.Marker({
+	        position: myLatlng41,
+	        map: map,
+	        title: 'GS1 Turkey  Eskişehir Yolu 9 06530 Ankara, Türkiye'
+	    });
+	    	    var contentString41 = '<div class="infoWindow">'+
+			    					 '<h4 class="firstHeading">GS1 Turkey</h4>'+
+			    					 '<div><label>address:</label> Eskişehir Yolu 9 06530 Ankara, Türkiye</div>'+
+			    					 '<div><label>Phone:</label> +90 312 218 20 00</div>'+
+			    					 '<div><label>fax:</label> </div>'+
+			    					 '<div><a target="_blank" href="http://www.gs1tr.org/">http://www.gs1tr.org/</a></div>'+
+			    					 '</div>';
+	    infowindow41 = new google.maps.InfoWindow({
+	        content: contentString41	    });
+	    infoWindows.push(infowindow41);
+	    google.maps.event.addListener(marker41, 'click', function() {
+	        infowindow41.open(map,marker41);
+	    });
+	    		    marker42 = new google.maps.Marker({
+	        position: myLatlng42,
+	        map: map,
+	        title: 'GS1 Ukraine  Kiev, 04053 Artema Street 26 '
+	    });
+	    	    var contentString42 = '<div class="infoWindow">'+
+			    					 '<h4 class="firstHeading">GS1 Ukraine</h4>'+
+			    					 '<div><label>address:</label> Kiev, 04053 Artema Street 26 </div>'+
+			    					 '<div><label>Phone:</label> +380 44 486 0734</div>'+
+			    					 '<div><label>fax:</label> </div>'+
+			    					 '<div><a target="_blank" href="http://www.gs1ua.org/">http://www.gs1ua.org/</a></div>'+
+			    					 '</div>';
+	    infowindow42 = new google.maps.InfoWindow({
+	        content: contentString42	    });
+	    infoWindows.push(infowindow42);
+	    google.maps.event.addListener(marker42, 'click', function() {
+	        infowindow42.open(map,marker42);
+	    });
+	    		    marker43 = new google.maps.Marker({
+	        position: myLatlng43,
+	        map: map,
+	        title: 'GS1 Uzbekistan  16, Afrosiab str. 100015 Tashkent'
+	    });
+	    	    var contentString43 = '<div class="infoWindow">'+
+			    					 '<h4 class="firstHeading">GS1 Uzbekistan</h4>'+
+			    					 '<div><label>address:</label> 16, Afrosiab str. 100015 Tashkent</div>'+
+			    					 '<div><label>Phone:</label> +99871 2526604</div>'+
+			    					 '<div><label>fax:</label> </div>'+
+			    					 '<div><a target="_blank" href="http://www.gs1uz.org/">http://www.gs1uz.org/</a></div>'+
+			    					 '</div>';
+	    infowindow43 = new google.maps.InfoWindow({
+	        content: contentString43	    });
+	    infoWindows.push(infowindow43);
+	    google.maps.event.addListener(marker43, 'click', function() {
+	        infowindow43.open(map,marker43);
+	    });
+	    		    marker44 = new google.maps.Marker({
+	        position: myLatlng44,
+	        map: map,
+	        title: 'GS1 Israel  Industry House 29 Hamered St P.O.B. 50023 6150001 Tel Aviv'
+	    });
+	    	    var contentString44 = '<div class="infoWindow">'+
+			    					 '<h4 class="firstHeading">GS1 Israel</h4>'+
+			    					 '<div><label>address:</label> Industry House 29 Hamered St P.O.B. 50023 6150001 Tel Aviv</div>'+
+			    					 '<div><label>Phone:</label> +972 3 519 8839</div>'+
+			    					 '<div><label>fax:</label> </div>'+
+			    					 '<div><a target="_blank" href="http://www.gs1.org/">http://www.gs1.org/</a></div>'+
+			    					 '</div>';
+	    infowindow44 = new google.maps.InfoWindow({
+	        content: contentString44	    });
+	    infoWindows.push(infowindow44);
+	    google.maps.event.addListener(marker44, 'click', function() {
+	        infowindow44.open(map,marker44);
+	    });
+	    		    marker45 = new google.maps.Marker({
+	        position: myLatlng45,
+	        map: map,
+	        title: 'GS1 Montenegro  Moskovska bb (L7-C2), 81000 Podgorica'
+	    });
+	    	    var contentString45 = '<div class="infoWindow">'+
+			    					 '<h4 class="firstHeading">GS1 Montenegro</h4>'+
+			    					 '<div><label>address:</label> Moskovska bb (L7-C2), 81000 Podgorica</div>'+
+			    					 '<div><label>Phone:</label> +382 20 658 277</div>'+
+			    					 '<div><label>fax:</label> </div>'+
+			    					 '<div><a target="_blank" href="http://www.gs1.me">http://www.gs1.me</a></div>'+
+			    					 '</div>';
+	    infowindow45 = new google.maps.InfoWindow({
+	        content: contentString45	    });
+	    infoWindows.push(infowindow45);
+	    google.maps.event.addListener(marker45, 'click', function() {
+	        infowindow45.open(map,marker45);
+	    });
+	    		    marker46 = new google.maps.Marker({
+	        position: myLatlng46,
+	        map: map,
+	        title: 'GS1 Turkmenistan  82 Ataturk (1972) Street, 9th floor, Office No 35, 744000 Ashgabat'
+	    });
+	    	    var contentString46 = '<div class="infoWindow">'+
+			    					 '<h4 class="firstHeading">GS1 Turkmenistan</h4>'+
+			    					 '<div><label>address:</label> 82 Ataturk (1972) Street, 9th floor, Office No 35, 744000 Ashgabat</div>'+
+			    					 '<div><label>Phone:</label> +(99312) 46-80-21</div>'+
+			    					 '<div><label>fax:</label> </div>'+
+			    					 '<div><a target="_blank" href="https://www.gs1tm.org">https://www.gs1tm.org</a></div>'+
+			    					 '</div>';
+	    infowindow46 = new google.maps.InfoWindow({
+	        content: contentString46	    });
+	    infoWindows.push(infowindow46);
+	    google.maps.event.addListener(marker46, 'click', function() {
+	        infowindow46.open(map,marker46);
+	    });
+	    		    marker47 = new google.maps.Marker({
+	        position: myLatlng47,
+	        map: map,
+	        title: ' GS1 in Europe  Île d\'Aix'
+	    });
+	    	    var contentString47 = '<div class="infoWindow">'+
+			    					 '<h4 class="firstHeading"> GS1 in Europe</h4>'+
+			    					 '<div><label>address:</label> Île d\'Aix</div>'+
+			    					 '<div><label>Phone:</label> </div>'+
+			    					 '<div><label>fax:</label> </div>'+
+			    					 '<div><a target="_blank" href=""></a></div>'+
+			    					 '</div>';
+	    infowindow47 = new google.maps.InfoWindow({
+	        content: contentString47	    });
+	    infoWindows.push(infowindow47);
+	    google.maps.event.addListener(marker47, 'click', function() {
+	        infowindow47.open(map,marker47);
+	    });
+	    		    marker48 = new google.maps.Marker({
+	        position: myLatlng48,
+	        map: map,
+	        title: ' GS1 Global Office  Ponta Delgada'
+	    });
+	    	    var contentString48 = '<div class="infoWindow">'+
+			    					 '<h4 class="firstHeading"> GS1 Global Office</h4>'+
+			    					 '<div><label>address:</label> Ponta Delgada</div>'+
+			    					 '<div><label>Phone:</label> </div>'+
+			    					 '<div><label>fax:</label> </div>'+
+			    					 '<div><a target="_blank" href=""></a></div>'+
+			    					 '</div>';
+	    infowindow48 = new google.maps.InfoWindow({
+	        content: contentString48	    });
+	    infoWindows.push(infowindow48);
+	    google.maps.event.addListener(marker48, 'click', function() {
+	        infowindow48.open(map,marker48);
+	    });
+	    		
+}
+</script>    
+<div id="googlemap" style="height:500px;width:100%;background:#eee;" class="all-rounded-10px"></div>
+
+
+</div>
+
+<div class="container">
+
+<div class="row">
+
+<div class="col-md-4">
+
+
+<h4 class="event-title">Events	</h4>
+			
+				
+				
+<div class="content-module-wrapper top-border-lavender" >
+	<div class="content-module content-module-padding clearfix content-module content-module-padding clearfix">
+				
+						
+			<dl class="clearfix">
+			    <dt>
+		            <span>
+		                05 Jun		            </span>
+		            2018			    </dt>
+			    <dd>
+			        <h3 style="line-height:0.8em;"><a href="/events/meet-gs1-in-europe-at-the-2018-deliver-conference">
+			            			            Meet GS1 in Europe at the 2018 Deliver Conference			        </a></h3>
+			        
+		        			        
+			        <p>5-6 June 2018 – London, UKThe European rendez-vous for e-logistics with more than 800 international leaders in e-commerce & logistics</p>
+			    </dd>
+			</dl>
+						
+			<dl class="clearfix">
+			    <dt>
+		            <span>
+		                12 Jun		            </span>
+		            2018			    </dt>
+			    <dd>
+			        <h3 style="line-height:0.8em;"><a href="/events/gs1-in-europe-at-the-diy-summit-on-12-to-14-june-2018-in-barcelona">
+			            			            GS1 in Europe at the DIY Summit on 12 to 14 June 2018 in Barcelona			        </a></h3>
+			        
+		        			        
+			        <p>12-14 June 2018 – Barcelona, SpainSee what we will be doing at the Networking Event for the Home Improvement Industry</p>
+			    </dd>
+			</dl>
+			</div>
+</div><br><br>
+	
+
+
+</div>
+
+<div class="col-md-8">
+
+
+
+
+<h4>Featured news</h4>
+<div class=" row">
+	
+						<div style="padding-left:15px;padding-right:10px;" class="col-md-6 content-module-container ">
+			<div class="content-module-wrapper top-border-lime content_by_type " data-lang="EN" data-view="listBoxes2" data-content-type="news">
+				<div class="content-module content-module-featured-news bg-blue">
+						<div style="height:230px;overflow:hidden;padding:0;"><img src="/picture.php?id=3808&size=img_medium" alt="The European presence reinforced at GS1" style=""></div>
+					<div>
+					<h4 style="height:62px;overflow:hidden;">
+						<a href="/news/the-european-presence-reinforced-in-the-gs1-global-governance">The European presence reinforced at GS1</a>
+					</h4>
+					<p class="color-white" style="height:120px;overflow:hidden;">
+						Never before has the European participation been so strong in the governance of the organisation!					</p>
+					<p class="small color-light-medium-gray">News • 23 May 2018</p>
+					</div>
+				</div>
+			</div>
+		</div>
+						<div style="padding-left:15px;padding-right:10px;" class="col-md-6 content-module-container ">
+			<div class="content-module-wrapper top-border-blue content_by_type " data-lang="EN" data-view="listBoxes2" data-content-type="news">
+				<div class="content-module content-module-featured-news bg-blue">
+						<div style="height:230px;overflow:hidden;padding:0;"><img src="/picture.php?id=3786&size=img_medium" alt="GS1 France at Paris Healthcare Week " style=""></div>
+					<div>
+					<h4 style="height:62px;overflow:hidden;">
+						<a href="/news/gs1-france-at-paris-healthcare-week">GS1 France at Paris Healthcare Week </a>
+					</h4>
+					<p class="color-white" style="height:120px;overflow:hidden;">
+						GS1 France will be at Paris Healthcare Week from 29th to 31st may 2018, and will hold a conference on the essential functions of the standards within the Grand Hôpital de l’Est Francilien.					</p>
+					<p class="small color-light-medium-gray">News • 10 May 2018</p>
+					</div>
+				</div>
+			</div>
+		</div>
+						<div style="padding-left:15px;padding-right:10px;" class="col-md-6 content-module-container ">
+			<div class="content-module-wrapper top-border-dark-grey content_by_type " data-lang="EN" data-view="listBoxes2" data-content-type="news">
+				<div class="content-module content-module-featured-news bg-blue">
+						<div style="height:230px;overflow:hidden;padding:0;"><img src="/picture.php?id=3662&size=img_medium" alt="GDSN Implementation Guidelines for Pet Food " style=""></div>
+					<div>
+					<h4 style="height:62px;overflow:hidden;">
+						<a href="/news/gdsn-implementation-guidelines-for-pet-food">GDSN Implementation Guidelines for Pet Food </a>
+					</h4>
+					<p class="color-white" style="height:120px;overflow:hidden;">
+						The GS1 in Europe Board has recently approved the “GDSN Implementation Guidelines for Pet Food”					</p>
+					<p class="small color-light-medium-gray">News • 21 Dec 2017</p>
+					</div>
+				</div>
+			</div>
+		</div>
+						<div style="padding-left:15px;padding-right:10px;" class="col-md-6 content-module-container ">
+			<div class="content-module-wrapper top-border-link content_by_type " data-lang="EN" data-view="listBoxes2" data-content-type="news">
+				<div class="content-module content-module-featured-news bg-blue">
+						<div style="height:230px;overflow:hidden;padding:0;"><img src="/picture.php?id=3594&size=img_medium" alt="GS1 Slovenia signs agreement with 18 universities!" style=""></div>
+					<div>
+					<h4 style="height:62px;overflow:hidden;">
+						<a href="/news/gs1-slovenia-signs-agreement-with-18-universities">GS1 Slovenia signs agreement with 18 universities!</a>
+					</h4>
+					<p class="color-white" style="height:120px;overflow:hidden;">
+						Read about the impressive collaboration between GS1 Slovenia and the Slovenian tertiary education institutions.					</p>
+					<p class="small color-light-medium-gray">News • 21 Nov 2017</p>
+					</div>
+				</div>
+			</div>
+		</div>
+			
+</div>
+
+
+
+
+</div>
+
+</div>
+
+</div>
+
+<div class="container">
+
+<div class="banner_container row">
+<script type="text/javascript">
+$(function(){
+	$('.HW1140.item_0').fadeIn(1000,function(){
+		setView( '{"banner_media_id":'+$(this).attr('media_id')+'}' );
+	});
+});
+</script>
+
+<div class="banner_container">
+	<div class="banner" id="HW1140" style="width:1140px; height:132px;">
+	<div class="abs">
+		<div class="banner_size_label" style="width:132px;margin-left:-61px;margin-top:58px;">
+			WideGS1		</div>
+	</div>
+		<script type="text/javascript">function setClicked_4(url){setClicked( '{"banner_media_id":4}' );window.open(url,'_blank');}</script>
+<div class='HW1140 item_0' style='display:none;z-index: 10;position: relative;' media_id='4'><img src='http://www.gs1.eu/themes/gs1/images/banners/GS1_Corp_Visual_banner.jpg' alt='GS1 Corp' title='GS1 Corp' /></div>	</div>
+</div>
+
+</div>
+
+</div>
+
+<footer class="col-xs-12">
+<div class="container">
+
+<div class="row">
+<script type="text/javascript">
+	$(function() {
+		$('#mainmenu').mmenu();
+	});
+</script>
+
+<a class="mmenu-mobile" href="#mainmenu"><span></span></a>
+<!-- 
+<nav id="menu">
+	<ul>
+		<li><a href="#">Home</a></li>
+		<li><span>Coreaudio</span>
+			<ul>
+				<li><a href="/rolunk">Rolunk</a></li>
+				<li><a href="/filozofiank">Filozofiank</a></li>
+			</ul>
+		</li>
+		<li><a href="/contact">Contact</a></li>
+	</ul>
+</nav>
+-->
+<nav id="mainmenu">
+<ul class="menu footer-menu" id="yw2">
+<li class="  gs1_in_europe first even "><span class="gs1_in_europe link_EN tmh_0 menu-item-1 first ">GS1 in Europe</span>
+<ul>
+<li class=" level_1 item0 even content_who_we_are2"><a href="http://www.gs1.eu/content/who-we-are2">Who we are</a></li>
+<li class=" level_1 item1 odd content_who_we_are2_ourgovernance"><a href="http://www.gs1.eu/content/who-we-are2#ourgovernance">Our governance</a></li>
+<li class=" level_1 item2 even content_who_we_are2_chairman"><a href="http://www.gs1.eu/content/who-we-are2#chairman">Word of the Chairman</a></li>
+<li class=" level_1 item3 odd gs1_mo_list"><a href="http://www.gs1.eu/gs1_mo_list">GS1 in Europe Member Organisations </a></li>
+</ul>
+</li>
+<li class="  toolbox  odd "><span class="toolbox link_EN tmh_1 menu-item-2  ">Toolbox</span>
+<ul>
+<li class=" level_1 item1 odd http_www_gs1_labelview_at_front_phplang_1"><a target="_blank" href="http://www.gs1-labelview.at/front.php?lang=1&amp;">Logistic Label Simulator</a></li>
+<li class=" level_1 item3 odd http_gepir_gs1_org_v32_xx_default_aspxlang"><a target="_blank" href="http://gepir.gs1.org/v32/xx/default.aspx?Lang">Who owns this barcode?</a></li>
+</ul>
+</li>
+<li class="  resources last even "><span class="resources link_EN tmh_2 menu-item-3 last ">Resources</span>
+<ul>
+<li class=" level_1 item0 even http_www_gs1_org_search_gss_case_studies"><a target="_blank" href="http://www.gs1.org/search/gss/case studies">Case studies </a></li>
+<li class=" level_1 item1 odd events"><a href="http://www.gs1.eu/events">Calendar of events</a></li>
+<li class=" level_1 item2 even http_bit_ly_1n5rx7a"><a target="_blank" href="http://bit.ly/1N5Rx7a">YouTube channel </a></li>
+<li class=" level_1 item4 even contact"><a href="http://www.gs1.eu/contact">Contact us</a></li>
+</ul>
+</li>
+</ul></nav>
+<div class="col-xs-4">
+<div class="newsletter social">
+  <h4>Contact Us Here:</h4>
+  <p><a href="mailto:contactus@gs1eu.org?Subject=contact from website" target="_blank">contactus@gs1eu.org</a></p>
+  <hr>
+  <a target="_blank" href="https://www.linkedin.com/company/gs1-in-europe?trk=company_logo" class="icon icon-linkedin"></a>
+  <a target="_blank" href="https://twitter.com/gs1ineurope" class="icon icon-twitter"></a>
+ <a target="_blank" href="https://www.youtube.com/channel/UCw9_AOkOU-2E1Sh0qBryiDA" class="icon icon-youtube"></a>
+</div>
+</div>
+<div style="clear:both;"></div>
+
+<div class="col-md-12 copyright" >GS1 is a registered trademark of GS1 AISBL.</div>
+<div class="col-md-12 footer-service-menu">
+	  <ul class="list-inline">
+	    	     
+	    	      <li><a href="/terms-of-use" title="en">Terms of use</a></li>
+ <li style="float:right"><a href="http://www.playhold.com"><img src="/themes/gs1/images/playhold_logo.png"></a></li>
+	    	  </ul>
+</div>
+</div>
+
+</div>
+</footer>
+
+</div>
+	
+	<!-- Tooltip holder -->
+	<div id="tiptip_holder">
+		<div id="tiptip_content">
+			<div id="tiptip_arrow">
+				<div id="tiptip_arrow_inner"></div>
+			</div>
+		</div>
+	</div>
+	<!-- Tooltip holder -->
+ 
+	<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-77135007-1', 'auto');
+  ga('require', 'displayfeatures');
+  ga('send', 'pageview');
+</script>	
+	<a id="toTop" href="#" style="right: 50%; margin-right: -60px; display: block;"></a>
+	
+	<center style="font-size:9px;">pageload: 0.31 mp</center>
+	
+<script type="text/javascript">
+/*<![CDATA[*/
+initialize('googlemap');
+/*]]>*/
+</script>
+</body>
+
+
+
+</html>
+

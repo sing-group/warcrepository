@@ -1,0 +1,487 @@
+WARC/1.0
+WARC-Type: warcinfo
+WARC-Date: 2018-05-23T09:48:41Z
+WARC-All-Language: fr
+WARC-All-Content_type: text/html
+WARC-Record-ID: <urn:uuid:3de60edd-9518-43c3-9a6e-acf8b15f8829>
+Content-Type: application/http;msgtype=response
+Content-Length: 46
+
+WARCProcessor by SING Group www.sing-group.com
+
+WARC/1.0
+WARC-Type: response
+WARC-Target-URI: http://www.aoug.org.uk
+WARC-Date: 20180523094841
+WARC-Language: fr
+WARC-Record-ID: <http://www.aoug.org.uk>
+Content-Type: application/http;msgtype=response
+Content-Length: 21688
+
+HTTP/1.1 200
+Content-Type:text/html
+
+
+<!doctype html>
+<html><!-- InstanceBegin template="/Templates/aoug.dwt" codeOutsideHTMLIsLocked="false" -->
+<head>
+	<!-- InstanceBeginEditable name="head" -->
+	<meta charset="utf-8">
+	<meta name="description" content="The Association of Open University Graduates was formed in 1988 to promote the interests of graduates of the University and to support the OU and the standing of its Degrees and Awards">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<!-- InstanceEndEditable -->
+	<!-- InstanceBeginEditable name="doctitle" -->
+		<title>AOUG</title>
+	<!-- InstanceEndEditable -->
+	<link href="css/style.css" rel="stylesheet">
+	<link href="css/menu.css" rel="stylesheet">
+</head>
+<body>	
+	<div id="container">
+		<header>
+			<a href="index.html" title="Association of Open University Graduates" class="aoug-logo"><img src="images/aoug-logo.png" alt="AOUG"></a>
+			<a href="index.html" title="Association of Open University Graduates" class="aoug-header"><img src="images/title-narrow.png" alt="Association of Open University Graduates" class="header-img"></a>
+			<a href="http://www.open.ac.uk/" title="Open University" target="new" class="ou-logo"><img src="images/ou-logo.png" alt="Open University" class="ou-img"></a>
+		</header>
+		<div id="cssmenu">
+			<ul class="nav">
+				<li class="has-sub"><a href="#">About</a>
+					<ul>
+						<li><a href="about/index.html">Introduction</a></li>
+						<li><a href="about/history.html">AOUG history &amp; timeline</a></li>
+						<li><a href="about/companies.html">Companies</a></li>
+						<li class="has-sub"><a href="#">Committee</a>
+							<ul>
+								<li><a href="about/committee.html">Elections</a></li>
+								<li><a href="about/committeemembers.html">EC Members</a></li>
+								<li><a href="about/statements.html">Member Statements</a></li>
+								<li><a href="about/jobdesc.html">Job Descriptions</a></li>
+							</ul>
+						</li>
+						<li><a href="about/governance.html">Corporate Governance</a></li>
+						<li><a href="membership/index.html">Become a Member</a></li>
+					</ul>
+				</li>
+				<li class="has-sub"><a href="#">News</a>
+					<ul>
+						<li><a href="news/index.html">Latest News</a></li>
+						<li class="has-sub"><a href="#">Local e-newsletters</a>
+							<ul>
+								<li><a href="news/e-news-current.html">Current Editions</a></li>
+								<li><a href="news/e-news-archives.html">Archives</a></li>
+							</ul>
+						</li>
+					<li class="has-sub"><a href="#">OMEGA</a>
+						<ul>
+							<li><a href="news/omega.html">Introduction</a></li>
+							<li><a href="news/advertising.html">Advertising</a></li>
+							<li><a href="news/archives.html">Archives</a></li>
+							<li><a href="news/contact.html">Contact The Editor</a></li>
+						</ul>
+					</li>
+					<li><a href="news/ou.html">OU News</a></li>
+				</ul>
+				</li>
+				<li class="has-sub"><a href="#">Awards</a>
+					<ul>
+						<li class="has-sub"><a href="#">History</a>
+							<ul>
+								<li><a href="awards/index.html">History of Awards</a></li>
+								<li><a href="awards/science.html">Science</a></li>
+								<li><a href="awards/technology.html">Maths, Computing &amp; Tech</a></li>
+								<li><a href="awards/arts.html">Arts</a></li>
+								<li><a href="awards/socialsciences.html">Social Science</a></li>
+								<li><a href="awards/edulang.html">Education &amp; Language</a></li>
+								<li><a href="awards/lawschool.html">Citizenship, ID and Gov</a></li>
+								<li><a href="awards/business.html">Business Studies</a></li>
+								<li><a href="awards/health.html">Health &amp; Social Care</a></li>
+								<li><a href="awards/innovation.html">Innovation &amp; Knowledge Devt</a></li>
+								<li><a href="awards/maths.html">Maths and Computing</a></li>
+							</ul>
+							</li>
+						<li class="has-sub"><a href="#">Research Awards</a>
+							<ul>
+								<li><a href="awards/research.html">Awards Ceremonies</a></li>
+								<li><a href="awards/research-2017.html">2017 Awards Ceremony</a></li>
+								<li><a href="awards/research-2016.html">2016 Awards Ceremony</a></li>
+								<li><a href="awards/research-2015.html">2015 Awards Ceremony</a></li>
+								<li><a href="awards/research-2014.html">2014 Awards Ceremony</a></li>
+								<li><a href="awards/research-2013.html">2013 Awards Ceremony</a></li>
+								<li><a href="awards/research-2012.html">2012 Awards Ceremony</a></li>
+								<li><a href="awards/research-2011.html">2011 Awards Ceremony</a></li>
+								<li><a href="awards/research-2010.html">2010 Awards Ceremony</a></li>
+								<li><a href="awards/research-2009.html">2009 Awards Ceremony</a></li>
+							</ul>
+						</li>
+						<li class="has-sub"><a href="#">Regions &amp; Nations</a>
+							<ul>
+								<li><a href="awards/regional.html">Awards: Regions &amp; Nations</a></li>
+								<li><a href="awards/nomination.html">Nomination form</a></li>
+                                <li><a href="awards/winners17.html">Award Winners 2017</a></li>
+                                <li><a href="awards/winners16.html">Award Winners 2016</a></li>
+								<li><a href="awards/winners15.html">Award Winners 2015</a></li>
+								<li><a href="awards/winners14.html">Award Winners 2014</a></li>
+								<li><a href="awards/winners13.html">Award Winners 2013</a></li>
+								<li><a href="awards/winners12.html">Award Winners 2012</a></li>
+								<li><a href="awards/winners08.html">Award Winners 2008</a></li>
+								<li><a href="awards/regionalarchive.html">Regional Awards Archive</a></li>
+							</ul>
+						</li>
+						<li class="has-sub"><a href="#">Bursary Award</a>
+							<ul>
+								<li><a href="awards/bursary.html">Bursary Awards</a></li>
+                                <li><a href="awards/bursary2016.html">Bursary Award 2016</a></li>
+								<li><a href="awards/bursary2013.html">Bursary Award 2013</a></li>
+								<li><a href="awards/bursary2009.html">Bursary Award 2009</a></li>
+								<li><a href="awards/bursary2006.html">Bursary Award 2006</a></li>
+								<li><a href="awards/bursary2000.html">Bursary Award 2000</a></li>
+							</ul>
+						</li>
+						<li><a href="awards/donations.html">Award Donations</a></li>
+					</ul>
+				</li>
+				<li class="has-sub"><a href="#">Events</a>
+					<ul>
+					<li><a href="events/index.html">Events</a></li>
+					<li class="has-sub"><a href="#">AGM</a>
+						<ul>
+							<li><a href="events/agm.html">Introduction</a></li>
+							<li><a href="events/elections.html">Elections</a></li>
+                            <li><a href="events/2018.html">2018</a></li>
+							<li><a href="events/2017.html">2017</a></li>
+							<li><a href="events/2016.html">2016</a></li>
+							<li><a href="events/2015.html">2015</a></li>
+							<li><a href="events/2014.html">2014</a></li>
+							<li><a href="events/2013.html">2013</a></li>
+							<li><a href="events/2012.html">2012</a></li>
+							<li><a href="events/2011.html">2011</a></li>
+							<li><a href="events/2010.html">2010</a></li>
+							<li><a href="events/2009.html">2009</a></li>
+							<li><a href="events/2008.html">2008</a></li>
+							<li><a href="events/2007.html">2007</a></li>
+							<li><a href="events/2006.html">2006</a></li>
+							<li><a href="events/2005.html">2005</a></li>
+						</ul>
+					</li>					
+					<li class="has-sub"><a href="#">OU Charter Day</a>
+						<ul>
+							<li><a href="events/charter2016.html">Charter Day 2016</a></li>
+							<li><a href="events/charter2015.html">Charter Day 2015</a></li>
+							<li><a href="events/charter2014.html">Charter Day 2014</a></li>
+						</ul>
+					</li>					
+					<li class="has-sub"><a href="#">Lectures</a>
+						<ul>
+							<li><a href="events/lectures.html">Introduction</a></li>
+							<li><a href="events/future.html">Future Events</a></li>
+							<li><a href="events/past.html">Past Events</a></li>
+							<li><a href="events/papers.html">Papers</a></li>
+						</ul>
+					</li>
+					<li class="has-sub"><a href="#">Degree Ceremonies</a>
+						<ul>
+							<li><a href="events/ceremonies.html">Introduction</a></li>
+							<li><a href="events/stories.html">Ceremony Stories</a></li>
+							<li><a href="events/linkedevents.html">Linked Events</a></li>
+						</ul>
+					</li>
+					<li class="has-sub"><a href="#">Honorary Degrees</a>
+						<ul>
+							<li><a href="events/hondegrees2012.html">2012</a></li>
+							<li><a href="events/hondegrees2011.html">2011</a></li>
+							<li><a href="events/hondegrees2010.html">2010</a></li>
+							<li><a href="events/hondegrees2009.html">2009</a></li>
+						</ul>
+					</li>
+				</ul>
+				</li>
+				<li class="has-sub"><a href="#">Regions &amp; Nations</a>
+					<ul>
+						<li><a href="regions/index.html">Welcome</a></li>
+						<li><a href="regions/monthlycalendar.html">Monthly Calendar</a></li>
+						<li class="has-sub"><a href="#">London &amp; South East&nbsp; 01</a>
+							<ul>
+								<li><a href="regions/southeast/index.html">Welcome</a></li>
+								<li><a href="regions/southeast/newsletter.html">News</a></li>
+								<li><a href="regions/southeast/diarydates.html">Diary Dates</a></li>
+							</ul>
+						</li>
+						<li class="has-sub"><a href="#">South 02</a> 
+							<ul>
+								<li><a href="regions/south/index.html">Welcome</a></li>
+								<li><a href="regions/south/newsletter.html">News</a></li>
+								<li><a href="regions/south/diarydates.html">Diary Dates</a></li>
+							</ul>
+						</li>
+						<li class="has-sub"><a href="#">South West 03</a>
+							<ul>
+								<li><a href="regions/southwest/index.html">Welcome</a></li>
+								<li><a href="regions/southwest/newsletter.html">News</a></li>
+								<li><a href="regions/southwest/diarydates.html">Diary Dates</a></li>
+							</ul>
+						</li>
+						<li class="has-sub"><a href="#">West Midlands 04</a>
+							<ul>
+								<li><a href="regions/westmidlands/index.html">Welcome</a></li>
+								<li><a href="regions/westmidlands/newsletter.html">News</a></li>
+								<li><a href="regions/westmidlands/diarydates.html">Diary Dates</a></li>
+							</ul>
+						</li>
+						<li class="has-sub"><a href="#">East Midlands 05</a>
+							<ul>
+								<li><a href="regions/eastmidlands/index.html">Welcome</a></li>
+								<li><a href="regions/eastmidlands/newsletter.html">News</a></li>
+								<li><a href="regions/eastmidlands/diarydates.html">Diary Dates</a></li>
+							</ul>
+						</li>
+						<li class="has-sub"><a href="#">East of England 06</a>
+							<ul>
+								<li><a href="regions/eastofengland/index.html">Welcome</a></li>
+								<li><a href="regions/eastofengland/newsletter.html">News</a></li>
+								<li><a href="regions/eastofengland/diarydates.html">Diary Dates</a></li>
+							</ul>
+						</li>
+						<li class="has-sub"><a href="#">Yorkshire 07</a>
+							<ul>
+								<li><a href="regions/yorkshire/index.html">Welcome</a></li>
+								<li><a href="regions/yorkshire/newsletter.html">News</a></li>
+								<li><a href="regions/yorkshire/diarydates.html">Diary Dates</a></li>
+							</ul>
+						</li>
+						<li class="has-sub"><a href="#">North West 08</a>
+							<ul>
+								<li><a href="regions/northwest/index.html">Welcome</a></li>
+								<li><a href="regions/northwest/newsletter.html">News</a></li>
+								<li><a href="regions/northwest/diarydates.html">Diary Dates</a></li>
+							</ul>
+						</li>
+						<li class="has-sub"><a href="#">North 09</a>
+							<ul>
+								<li><a href="regions/north/index.html">Welcome</a></li>
+								<li><a href="regions/north/newsletter.html">News</a></li>
+								<li><a href="regions/north/diarydates.html">Diary Dates</a></li>
+							</ul>
+						</li>
+						<li class="has-sub"><a href="#">Wales 10</a>
+							<ul>
+								<li><a href="regions/wales/index.html">Welcome</a></li>
+								<li><a href="regions/wales/newsletter.html">News</a></li>
+								<li><a href="regions/wales/diarydates.html">Diary Dates</a></li>
+							</ul>
+						</li>
+						<li class="has-sub"><a href="#">Scotland 11</a>
+							<ul>
+								<li><a href="regions/scotland/index.html">Welcome</a></li>
+								<li><a href="regions/scotland/newsletter.html">News</a></li>
+								<li><a href="regions/scotland/diarydates.html">Diary Dates</a></li>
+							</ul>
+						</li>
+						<li class="has-sub"><a href="#">Ireland 12</a>
+							<ul>
+								<li><a href="regions/ireland/index.html">Welcome</a></li>
+								<li><a href="regions/ireland/newsletter.html">News</a></li>
+								<li><a href="regions/ireland/diarydates.html">Diary Dates</a></li>
+							</ul>
+						</li>
+						<li class="has-sub"><a href="#">Europe</a>
+							<ul>
+								<li><a href="regions/europe/index.html">Welcome</a></li>
+								<li><a href="regions/europe/newsletter.html">News</a></li>
+								<li><a href="regions/europe/diarydates.html">Diary Dates</a></li>
+							</ul>
+						</li>
+						<li class="has-sub"><a href="#">Rest of World</a>
+							<ul>
+								<li><a href="regions/restofworld/index.html">Welcome</a></li>
+								<li><a href="regions/restofworld/newsletter.html">News</a></li>
+								<li><a href="regions/restofworld/diarydates.html">Diary Dates</a></li>
+							</ul>
+						</li>
+					</ul>
+				</li>
+				<li class="has-sub"><a href="#">Membership</a>
+					<ul>
+						<li><a href="membership/index.html">Membership</a></li>
+						<li><a href="membership/benefits.html">Membership benefits</a></li>
+						<li class="has-sub"><a href="#">Membership Involvement</a>
+							<ul>
+								<li><a href="membership/meminvolvement.html">Member Involvement</a></li>
+								<li><a href="membership/civicreceptions.html">EC Members</a></li>
+								<li><a href="membership/coursechoice.html">Course Choice Events</a></li>
+								<li><a href="membership/degreeceremonies.html">Degree Ceremonies</a></li>
+							</ul>
+						</li>
+						<li><a href="membership/honorary-life.html">Honorary Life Membership</a></li>
+					</ul>
+				</li>
+				<li><a href="shop/index.html">Shop</a></li>
+				<li><a href="http://aoug.forumotion.co.uk/" target="new">Forum</a></li>
+				<li><a href="contact/index.html">Contact</a></li>
+			</ul>
+		</div>
+		<div class="gcse-container">
+			<script>
+				(function() {
+					var cx = '016876012409505717097:jakvu5padzk';
+					var gcse = document.createElement('script');
+					gcse.type = 'text/javascript';
+					gcse.async = true;
+					gcse.src = (document.location.protocol == 'https:' ? 'https:' : 'http:') +
+						'//cse.google.com/cse.js?cx=' + cx;
+					var s = document.getElementsByTagName('script')[0];
+					s.parentNode.insertBefore(gcse, s);
+				})();
+			</script>
+			<div class="gcse-search"></div>
+		</div>
+		<div id="mainbody">
+			<div class="bodyimages">
+				<!-- InstanceBeginEditable name="Pictures" --><!-- InstanceEndEditable -->
+			</div>
+			<div class="bodytext">
+				<!-- InstanceBeginEditable name="Main page content" -->
+				<div class="slideshow-container home">	
+				<div class="cycle-slideshow composite-example" 
+					data-cycle-fx="fade" 
+					data-cycle-slides="> div"
+					data-cycle-speed="1000"
+					data-cycle-timeout="4000"
+					data-cycle-pager=".slideshow-pager">
+					<div>
+						<a href="news/index.html"><img src="images/home/slider-september-17.jpg" alt="Norton Grange Hotel - Entrance"></a>
+						<div class="cycle-overlay"><a href="news/index.html">Norton Grange Hotel - Entrance</a></div>
+					</div>
+					<div>
+						<a href="news/index.html"><img src="images/home/North Grange Hotel - Swimming Pool edited.jpg" alt="Norton Grange Hotel - Swimming Pool"></a>
+						<div class="cycle-overlay"><a href="news/index.html">Norton Grange Hotel - Swimming Pool</a></div>
+					</div>
+					<div>
+						<a href="news/index.html"><img src="images/home/P027 -Sum17  - Saudi Festival Costumes edited.jpg" alt="Foundation Lecture - Tamsin Waterkeyn"></a>
+						<div class="cycle-overlay"><a href="news/index.html">Foundation Lecture - Tamsin Waterkeyn</a></div>
+					</div>
+				</div>
+				<div class="slideshow-pager"></div>
+				</div>		
+				<div class="slideshow-container-2">	
+						<a href="news/omega.html"><img src="images/home/omega_summer_17.jpg" width="323" height="326" alt="OMEGA"></a>
+						<div class="cycle-overlay"><a href="news/omega.html">OMEGA</a></div>
+				</div>	
+				<div class="featurebox-container">
+					<div class="featurebox latest">
+						<h2><a href="news/index.html">Latest News</a></h2>
+						<ul>
+							<li><a href="news/index.html">A New Class of Member for AOUG</a></li>
+							<li><a href="news/index.html">Preparations for October Awards &amp; Lecture</a></li>
+							<li><a href="news/index.html">2018 AGM to be held in Castleton, Rochdale</a></li>
+						</ul>
+					</div>
+					<div class="featurebox latest">
+						<h2><a href="events/index.html">Events</a></h2>
+						<ul>
+							<li><a href="events/index.html">Research Awards Ceremony &amp; Lecture</a></li>
+							<li><a href="events/index.html">Thirtieth Anniversary AGM</a></li>
+							<li><a href="events/index.html">Pearl Anniversary Year</a></li>
+						</ul>
+					</div>
+					<div class="featurebox latest">
+						<h2><a href="regions/index.html">Regions and Nations</a></h2>
+						<ul>
+							<li><a href="regions/yorkshire/newsletter.html">Yorkshire goes Wild</a></li>
+							<li><a href="regions/wales/newsletter.html">National Waterfront Museum</a></li>
+							<li><a href="regions/ireland/newsletter.html">Castle Coole in County Fermanagh</a></li>
+						</ul>
+					</div>
+				</div>
+				<div class="featurebox-container">
+					<div class="featurebox events">
+						<h2>Upcoming Events</h2>
+						<div class="events-scroller">	
+						  <p>To see all future AOUG events in the Regions and Nations, visit the <a href="regions/monthlycalendar.html">Monthly Calendar</a> page. </p>
+						  <h3>&nbsp;</h3>
+						</div>
+					</div>
+					</div>
+					<div class="featurebox membership">
+							<a href="membership/index.html"><img src="images/home/membership-folder.jpg" alt="Membership"></a>
+						<div class="cycle-overlay"><a href="membership/index.html">Membership</a></div>
+					</div>
+					<div class="featurebox shop">
+						<div class="shop-sub">
+							<a href="shop/index.html"><img src="images/home/merchandise.jpg" alt="Merchandise"></a>
+						</div>
+						<div class="cycle-overlay"><a href="shop/index.html">Shop</a></div>
+					</div>
+			<!-- InstanceEndEditable -->
+			</div>
+		</div>
+		<footer>
+			<ul>
+				<li><a href="https://www.facebook.com/pages/Association-of-Open-University-Graduates/710287149081499" target="_blank" title="AOUG on Facebook"><img src="images/home/fb-logo.gif" width="30" height="30" alt="AOUG on Facebook"></a></li>
+				<li><a href="https://twitter.com/theaoug" target="_blank" title="AOUG on Twitter"><img src="images/home/twitter-logo.gif" width="30" height="30" alt="AOUG on Twitter"></a></li>
+				<li><a href="http://www.open.ac.uk/" target="_blank">Open University</a></li>
+				<li><a href="http://www.open.ac.uk/alumni/" target="_blank">OU Alumni</a></li>
+				<li><a href="http://www.open.ac.uk/ousa/" target="_blank">OUSA</a></li>
+				<li><a href="http://aoug.forumotion.co.uk/" target="_blank">Forum</a></li>
+				<li><a href="disclaimer.html">Site Disclaimer</a></li>
+				<li class="footer-right"><a href="copyright.html">Copyright &copy; AOUG
+				<script>
+					<!--
+					var year=new Date();
+					year=year.getYear();
+					if (year<1900) year+=1900;
+					document.write(year);
+					//-->
+				</script>
+				</a></li>
+			</ul>
+			<div id="company">
+				<p>The AOUG is a Company Limited by Guarantee - registered Number 3776406</p>
+			</div>
+			<!-- InstanceBeginEditable name="Nochex" -->
+			<div class="nochex">
+				<!--Nochex Payment Link -->
+				<p><a href="http://www.nochex.com" title="Merchant Account" class="footer-right">Nochex Merchant Account</a></p>
+				<!--End Nochex Payment Link -->
+			</div>
+			<!-- InstanceEndEditable -->
+		</footer>
+	</div>
+	<script src="https://code.jquery.com/jquery-1.12.3.min.js" type="text/javascript"></script>
+	<script src="js/menu.js"></script>
+	<script src="js/jquery.cookiebar.js"></script>
+	<script>
+		<!-- Initiates cookie bar -->
+		$(document).ready(function(){
+			$.cookieBar({
+			});
+		});
+		<!-- Sets current nav li to active based on URL -->
+		$(function() {
+			var pgurl = window.location.href.substr(window.location.href
+		.lastIndexOf("/")+1);
+			$("#cssmenu ul li a").each(function(){
+				if($(this).attr("href") == pgurl || $(this).attr("href") == '' )
+				$(this).parentsUntil( $('ul.nav')).addClass('active');
+			})
+		});
+	</script>
+	<!-- InstanceBeginEditable name="scripts" -->
+	<script type="text/javascript" src="js/jquery.cycle2.min.js"></script>	
+	<script type="text/javascript">
+	// Script to hide any events in the past
+	$(document).ready(function(){
+		$(".EventDateDiv").each(function(index){
+			var EventDate = $(this).find(".EventDate").html();
+			var UKDate = new Date(EventDate.split('/')[2], EventDate.split('/')[1] - 1, EventDate.split('/')[0]); //convert date to UK format
+			var dtNow = new Date();
+			dtNow.setDate(dtNow.getDate() - 1); // Since the default time of the event is taken as 00:00, any events today are already in the past. Therefore we subtract one day so all events today are still current (i.e. after yesterday)
+			if (UKDate >= dtNow)
+		$(this).show();
+		});
+	});
+	</script>
+	<!-- InstanceEndEditable -->
+</body>
+<!-- InstanceEnd --></html>
+

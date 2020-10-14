@@ -1,0 +1,690 @@
+WARC/1.0
+WARC-Type: warcinfo
+WARC-Date: 2018-05-23T15:15:42Z
+WARC-All-Language: ar
+WARC-All-Content_type: text/html
+WARC-Record-ID: <urn:uuid:7deac30e-5354-4c92-ba35-27b79ec361c0>
+Content-Type: application/http;msgtype=response
+Content-Length: 46
+
+WARCProcessor by SING Group www.sing-group.com
+
+WARC/1.0
+WARC-Type: response
+WARC-Target-URI: http://www.businessol.com/resources/on-demand-webinars/
+WARC-Date: 20180523151542
+WARC-Language: ar
+WARC-Record-ID: <http://www.businessol.com/resources/on-demand-webinars/>
+Content-Type: application/http;msgtype=response
+Content-Length: 27427
+
+HTTP/1.0 200 OK
+Server: Apache/2.2
+Vary: Accept-Encoding
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Content-Type: text/html; charset=UTF-8
+Date: Sun, 12 Feb 2012 08:40:37 GMT
+X-Pingback: http://www.businessol.com/xmlrpc.php
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Pragma: no-cache
+Connection: close
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html dir="ltr" lang="en" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<link rel="shortcut icon" type="image/x-icon" href="http://www.businessol.com/wp-content/themes/bol-lifted/favicon.ico" />
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="robots" content="noydir"/>
+<title>On-Demand Webinars: Search Engine Optimization (SEO), Usability, Social Media Marketing, Website Analytics, PPC | BusinessOnline</title>
+<link rel="profile" href="http://gmpg.org/xfn/11" />
+<link href="/wp-content/themes/bol-lifted/style.css" rel="stylesheet" type="text/css" />
+<link rel="pingback" href="http://www.businessol.com/xmlrpc.php" />
+	<meta name="description" content="Get access to a number of our free webinars held by our subject matter experts in search engine optimization (SEO), social media and usability which includes a video of the presentation that can be viewed online or downloaded. For more information on any of our online marketing consulting services and solutions, please contact a BusinessOnline representative today." />
+<link rel="alternate" type="application/rss+xml" title="BusinessOnLine &raquo; Webinars Comments Feed" href="http://www.businessol.com/resources/on-demand-webinars/feed/" />
+<link rel='stylesheet' id='colorbox-theme2-css'  href='http://www.businessol.com/wp-content/plugins/jquery-colorbox/themes/theme2/colorbox.css?ver=4.1' type='text/css' media='screen' />
+<link rel='stylesheet' id='wp-pagenavi-css'  href='http://www.businessol.com/wp-content/plugins/wp-pagenavi/pagenavi-css.css?ver=2.70' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-form-css'  href='http://www.businessol.com/wp-content/plugins/wordpress-forms/css/frontend.form.css?ver=0.1.0' type='text/css' media='screen' />
+<script type='text/javascript' src='http://www.businessol.com/wp-includes/js/jquery/jquery.js?ver=1.4.2'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var Colorbox = {
+	colorboxInline: "false",
+	colorboxIframe: "false",
+	colorboxGroupId: "",
+	colorboxTitle: "",
+	colorboxWidth: "false",
+	colorboxHeight: "false",
+	colorboxMaxWidth: "false",
+	colorboxMaxHeight: "false",
+	colorboxSlideshow: "false",
+	colorboxSlideshowAuto: "false",
+	colorboxScalePhotos: "true",
+	colorboxPreloading: "true",
+	colorboxOverlayClose: "true",
+	colorboxLoop: "true",
+	colorboxEscKey: "true",
+	colorboxArrowKey: "true",
+	colorboxScrolling: "true",
+	colorboxOpacity: "0.75",
+	colorboxTransition: "elastic",
+	colorboxSpeed: "350",
+	colorboxSlideshowSpeed: "2500",
+	colorboxClose: "close",
+	colorboxNext: "next",
+	colorboxPrevious: "previous",
+	colorboxSlideshowStart: "start slideshow",
+	colorboxSlideshowStop: "stop slideshow",
+	colorboxCurrent: "{current} of {total} images",
+	colorboxImageMaxWidth: "90%",
+	colorboxImageMaxHeight: "90%",
+	colorboxImageHeight: "false",
+	colorboxImageWidth: "false",
+	colorboxLinkHeight: "false",
+	colorboxLinkWidth: "false",
+	colorboxInitialHeight: "100",
+	colorboxInitialWidth: "300",
+	autoColorboxJavaScript: "",
+	autoHideFlash: "true",
+	colorboxAddClassToLinks: ""
+};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://www.businessol.com/wp-content/plugins/jquery-colorbox/js/jquery.colorbox-min.js?ver=1.3.17'></script>
+<script type='text/javascript' src='http://www.businessol.com/wp-content/plugins/jquery-colorbox/js/jquery-colorbox-wrapper-min.js?ver=4.1'></script>
+<script type='text/javascript' src='http://www.businessol.com/wp-includes/js/jquery/jquery.form.js?ver=2.02m'></script>
+<script type='text/javascript' src='http://www.businessol.com/wp-content/plugins/wordpress-forms/js/jquery.validate.min.js?ver=1.5.5'></script>
+<script type='text/javascript' src='http://www.businessol.com/wp-content/plugins/wordpress-forms/js/localization/en.js?ver=1.5.5'></script>
+<script type='text/javascript' src='http://www.businessol.com/wp-content/plugins/wordpress-forms/js/jquery.metadata.min.js?ver=1.5.5'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var wp_form_strings = {
+	url: "http://www.businessol.com",
+	img: "http://www.businessol.com/wp-content/plugins/wordpress-forms/images",
+	icons: "http://www.businessol.com/wp-content/plugins/wordpress-forms/images/icons",
+	nonce: "0d7947b4b8"
+};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://www.businessol.com/wp-content/plugins/wordpress-forms/js/frontend.form.js?ver=0.1.0'></script>
+<script type='text/javascript' src='http://www.businessol.com/wp-content/plugins/google-analyticator/external-tracking.min.js?ver=6.2'></script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www.businessol.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://www.businessol.com/wp-includes/wlwmanifest.xml" /> 
+<link rel='index' title='BusinessOnLine' href='http://www.businessol.com/' />
+<link rel='up' title='Resources' href='http://www.businessol.com/resources/' />
+<link rel='prev' title='Articles' href='http://www.businessol.com/resources/articles/' />
+<link rel='next' title='Blogs' href='http://www.businessol.com/resources/blog/' />
+<meta name="generator" content="WordPress 3.0.5" />
+<link rel='canonical' href='http://www.businessol.com/resources/on-demand-webinars/' />
+  <meta name="jQuery Colorbox" content="4.1"/>
+  <!-- Google Analytics Tracking by Google Analyticator 6.2: http://ronaldheft.com/code/analyticator/ -->
+<script type="text/javascript">
+	var analyticsFileTypes = ['pdf','doc','docx','xls','xlsx','ppt','pptx'];
+	var analyticsEventTracking = 'enabled';
+</script>
+<script type="text/javascript">
+	var _gaq = _gaq || [];
+	_gaq.push(['_setAccount', 'UA-80181-1']);
+	_gaq.push(['_trackPageview']);
+	_gaq.push(['_trackPageLoadTime']);
+
+	(function() {
+		var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+		ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+		var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+	})();
+</script>
+
+
+<!-- include jQuery library -->
+<script type="text/javascript" src="http://www.businessol.com/wp-content/themes/bol/_scripts/js/jquery.1.6.3.min.js"></script> 
+<script type="text/javascript" src="http://www.businessol.com/wp-content/themes/bol/_scripts/js/jquery.ui.min.js"></script> 
+<script type="text/javascript" src="http://www.businessol.com/wp-content/themes/bol/_scripts/js/jquery.easing.min.js"></script> 
+<script type="text/javascript" src="http://www.businessol.com/wp-content/themes/bol/_scripts/js/jquery.slides.min.js"></script> 
+<script type="text/javascript" src="http://www.businessol.com/wp-content/themes/bol/_scripts/js/jquery.tipsy.min.js"></script>
+<script type="text/javascript" src="http://www.businessol.com/wp-content/themes/bol/_scripts/js/bol.custom.js"></script>
+<!-- include Cycle plugin -->
+<script type="text/javascript" src="http://www.businessol.com/wp-content/themes/bol/_scripts/js/cycle.js"></script>
+
+
+
+</head>
+<body class="page page-id-152 page-child parent-pageid-4 page-template page-template-default">
+<div class="wrapper">
+	<div class="utility-bar">
+  	<div class="utility-content">
+    	<div class="container">Download the agency overview...</div>
+  	</div>
+    <div class="utility-message">
+    	<div class="container">View our Agency Overview</div>
+  	</div>
+    <div class="container align-right">
+    	<a href="javascript:showHideUtility()"><img class="utility-tab" src="/wp-content/themes/bol/_images/btn-agency-overview.gif" width="158" height="30" alt="Agency Overview" /></a>
+    	<div class="clear-fix"><!--ClearFix--></div>
+    </div>
+	</div><div class="header">
+  	<div class="container">
+    	<div class="branding"><a href="http://www.businessol.com"><img src="/wp-content/themes/bol/_images/businessonline-logo.png" width="212" height="29" alt="BusinessOnline - Enterprise Internet Marketing Firm - SEO, Paid Search, Social Media Marketing, Website Usability &amp; Development" /></a></div>
+      <div class="navigation"><ul id="menu-primary-menu" class="menu"><li id="menu-item-2286" class="menu-item menu-item-type-post_type menu-item-2286"><a href="http://www.businessol.com/">Home</a></li>
+<li id="menu-item-2284" class="menu-item menu-item-type-post_type menu-item-2284"><a href="http://www.businessol.com/about/">About</a>
+<ul class="sub-menu">
+	<li id="menu-item-2309" class="menu-item menu-item-type-post_type menu-item-2309"><a href="http://www.businessol.com/about/meet-the-team/">Meet the Team</a></li>
+	<li id="menu-item-2311" class="menu-item menu-item-type-post_type menu-item-2311"><a href="http://www.businessol.com/about/company-culture/">Company Culture</a></li>
+	<li id="menu-item-2310" class="menu-item menu-item-type-post_type menu-item-2310"><a href="http://www.businessol.com/about/careers/">Careers</a></li>
+</ul>
+</li>
+<li id="menu-item-2288" class="menu-item menu-item-type-post_type menu-item-2288"><a href="http://www.businessol.com/solutions/">Solutions</a>
+<ul class="sub-menu">
+	<li id="menu-item-2312" class="menu-item menu-item-type-post_type menu-item-2312"><a href="http://www.businessol.com/solutions/organic-search/">Organic Search</a></li>
+	<li id="menu-item-2313" class="menu-item menu-item-type-post_type menu-item-2313"><a href="http://www.businessol.com/solutions/paid-search/">Paid Search</a></li>
+	<li id="menu-item-2315" class="menu-item menu-item-type-post_type menu-item-2315"><a href="http://www.businessol.com/solutions/user-experience/">User Experience</a></li>
+	<li id="menu-item-2314" class="menu-item menu-item-type-post_type menu-item-2314"><a href="http://www.businessol.com/solutions/social-media/">Social Media</a></li>
+	<li id="menu-item-2316" class="menu-item menu-item-type-post_type menu-item-2316"><a href="http://www.businessol.com/solutions/creative/">Creative</a></li>
+	<li id="menu-item-2317" class="menu-item menu-item-type-post_type menu-item-2317"><a href="http://www.businessol.com/solutions/web-development/">Web Development</a></li>
+	<li id="menu-item-2318" class="menu-item menu-item-type-post_type menu-item-2318"><a href="http://www.businessol.com/solutions/analytics/">Analytics</a></li>
+</ul>
+</li>
+<li id="menu-item-2570" class="menu-item menu-item-type-post_type menu-item-2570"><a href="http://www.businessol.com/work/case-studies/">Work</a>
+<ul class="sub-menu">
+	<li id="menu-item-2319" class="menu-item menu-item-type-post_type menu-item-2319"><a href="http://www.businessol.com/work/case-studies/">Case Studies</a></li>
+	<li id="menu-item-2320" class="menu-item menu-item-type-post_type menu-item-2320"><a href="http://www.businessol.com/work/portfolio/">Portfolio</a></li>
+	<li id="menu-item-2321" class="menu-item menu-item-type-post_type menu-item-2321"><a href="http://www.businessol.com/work/client-list/">Client List</a></li>
+</ul>
+</li>
+<li id="menu-item-2287" class="menu-item menu-item-type-post_type current-page-ancestor current-menu-ancestor current-menu-parent current-page-parent current_page_parent current_page_ancestor menu-item-2287"><a href="http://www.businessol.com/resources/">Resources</a>
+<ul class="sub-menu">
+	<li id="menu-item-2323" class="menu-item menu-item-type-post_type menu-item-2323"><a href="http://www.businessol.com/resources/whitepapers/">Whitepapers</a></li>
+	<li id="menu-item-2324" class="menu-item menu-item-type-post_type current-menu-item page_item page-item-152 current_page_item menu-item-2324"><a href="http://www.businessol.com/resources/on-demand-webinars/">Webinars</a></li>
+	<li id="menu-item-2322" class="menu-item menu-item-type-post_type menu-item-2322"><a href="http://www.businessol.com/resources/articles/">Articles</a></li>
+	<li id="menu-item-2325" class="menu-item menu-item-type-post_type menu-item-2325"><a href="http://www.businessol.com/resources/blog/">Blogs</a></li>
+</ul>
+</li>
+<li id="menu-item-2569" class="menu-item menu-item-type-custom menu-item-2569"><a href="http://marketing.businessol.com/contact-us.html">Contact</a></li>
+</ul></div>      <div class="clear-fix"><!--ClearFix--></div>
+  	</div>
+	</div>  <div class="main">
+  	<div class="container">
+    	<div class="title"><p><img src="/wp-content/themes/bol-lifted/_images/resources-page-hdr.png" width="330" height="84" alt="Expert Resources" /></p></div>
+              <div class="sub-navigation">
+          <ul><li class="page_item page-item-150"><a href="http://www.businessol.com/resources/articles/" title="Articles">Articles</a></li>
+<li class="page_item page-item-707"><a href="http://www.businessol.com/resources/whitepapers/" title="Whitepapers">Whitepapers</a></li>
+<li class="page_item page-item-152 current_page_item"><a href="http://www.businessol.com/resources/on-demand-webinars/" title="Webinars">Webinars</a></li>
+<li class="page_item page-item-159"><a href="http://www.businessol.com/resources/blog/" title="Blogs">Blogs</a></li>
+</ul>
+        </div>
+            <div>
+        <div class="column double">
+          <div class="content">
+            <h2>On-Demand Webinars</h2>
+<div class="post"><div class="post-thumbnail"><a href="http://marketing.businessol.com/webinarrequest.html?2575"><img width="80" height="61" src="http://www.businessol.com/wp-content/uploads/global-search-strategy-thumbnail-1-80x61.jpg" class="attachment-small-square colorbox-152  wp-post-image" alt="5 Steps to Develop a Global Search Strategy" title="global-search-strategy-thumbnail-1" /></a></div><div class="post-content"><p class="date">December 14, 2011</p><h2 class="listing"><a href="http://marketing.businessol.com/webinarrequest.html?2575">5 Steps To Develop a Global Search Strategy</a></h2><div class="post-excerpt">Your customers are all over the globe.  You have data showing what they search for, where they are coming from and what they do once they find you.  So......</div><div class="more-link"><a class="read-more" href="http://marketing.businessol.com/webinarrequest.html?2575">Register and Download</a></div></div></div><div class="post"><div class="post-thumbnail"><a href="http://marketing.businessol.com/webinarrequest.html?2547"><img width="80" height="80" src="http://www.businessol.com/wp-content/uploads/web80-building-a-b2b-mobile-marketing-strategy.jpg" class="attachment-small-square colorbox-152  wp-post-image" alt="web80-building-a-b2b-mobile-marketing-strategy" title="web80-building-a-b2b-mobile-marketing-strategy" /></a></div><div class="post-content"><p class="date">October 27, 2011</p><h2 class="listing"><a href="http://marketing.businessol.com/webinarrequest.html?2547">How To Build a B2B Mobile Marketing Strategy</a></h2><div class="post-excerpt">Think mobile marketing is just for B2C? We hate to be the ones to break it to you, but you're wrong. According to Forrester Research, B2B mobile marketing spend will quadruple over the next five...</div><div class="more-link"><a class="read-more" href="http://marketing.businessol.com/webinarrequest.html?2547">Register and Download</a></div></div></div><div class="post"><div class="post-thumbnail"><a href="http://marketing.businessol.com/webinarrequest.html?1866"><img width="80" height="80" src="http://www.businessol.com/wp-content/uploads/web80-how-to-build-a-social-campaign.jpg" class="attachment-small-square colorbox-152  wp-post-image" alt="web80-how-to-build-a-social-campaign" title="web80-how-to-build-a-social-campaign" /></a></div><div class="post-content"><p class="date">March 24, 2011</p><h2 class="listing"><a href="http://marketing.businessol.com/webinarrequest.html?1866">How to Build a Social Campaign</a></h2><div class="post-excerpt">Social Media marketing is not all about Facebook, Twitter and Youtube. A major contributor to the success of a social media marketing program is how well you leverage your website visitors to engage and share...</div><div class="more-link"><a class="read-more" href="http://marketing.businessol.com/webinarrequest.html?1866">Register and Download</a></div></div></div><div class="post"><div class="post-thumbnail"><a href="http://marketing.businessol.com/webinarrequest.html?832"><img width="80" height="80" src="http://www.businessol.com/wp-content/uploads/web80-is-your-brand-the-core-of-your-social-media-program.jpg" class="attachment-small-square colorbox-152  wp-post-image" alt="web80-is-your-brand-the-core-of-your-social-media-program" title="web80-is-your-brand-the-core-of-your-social-media-program" /></a></div><div class="post-content"><p class="date">December 9, 2010</p><h2 class="listing"><a href="http://marketing.businessol.com/webinarrequest.html?832">Is Your Brand at the Core of Your Social Media Program? It Better Be in 2011</a></h2><div class="post-excerpt">Today, consumers are presented with so many variables that affect their purchasing decision. New competition is arising every day. Real-time information is readily available. And social media technology has led to a flood of brand-consumer...</div><div class="more-link"><a class="read-more" href="http://marketing.businessol.com/webinarrequest.html?832">Register and Download</a></div></div></div><div class="post"><div class="post-thumbnail"><a href="http://marketing.businessol.com/webinarrequest.html?835"><img width="80" height="80" src="http://www.businessol.com/wp-content/uploads/web80-deciphering-google-adwords.jpg" class="attachment-small-square colorbox-152  wp-post-image" alt="Deciphering Google AdWords" title="web80-deciphering-google-adwords" /></a></div><div class="post-content"><p class="date">November 4, 2010</p><h2 class="listing"><a href="http://marketing.businessol.com/webinarrequest.html?835">Deciphering Google AdWords: Weeding Through the Clutter to Maximize Results</a></h2><div class="post-excerpt">Paid Search is a key element in your online marketing strategy, and when leveraged properly, can be used to attract highly targeted traffic to your site. However, when utilizing sophisticated tools such as Google AdWords,...</div><div class="more-link"><a class="read-more" href="http://marketing.businessol.com/webinarrequest.html?835">Register and Download</a></div></div></div><div class="post"><div class="post-thumbnail"><a href="http://marketing.businessol.com/webinarrequest.html?837"><img width="80" height="80" src="http://www.businessol.com/wp-content/uploads/web80-international-seo-establish-a-global-presence-with-a-localized-feel.jpg" class="attachment-small-square colorbox-152  wp-post-image" alt="International SEO - Establish a global presence with a localized feel" title="web80-international-seo-establish-a-global-presence-with-a-localized-feel" /></a></div><div class="post-content"><p class="date">October 26, 2010</p><h2 class="listing"><a href="http://marketing.businessol.com/webinarrequest.html?837">International SEO: How to Establish a Global Web Presence with a Localized Feel</a></h2><div class="post-excerpt">Expanding your online business? You need a global web strategy. An effective strategy includes a content management system that can handle multiple languages/regions and a process for developing, localizing and promoting content within your targeted...</div><div class="more-link"><a class="read-more" href="http://marketing.businessol.com/webinarrequest.html?837">Register and Download</a></div></div></div><div class="post"><div class="post-thumbnail"><a href="http://marketing.businessol.com/webinarrequest.html?839"><img width="80" height="80" src="http://www.businessol.com/wp-content/uploads/web80-going-mobile.jpg" class="attachment-small-square colorbox-152  wp-post-image" alt="Going Mobile: Serving the Always On, Always Connected" title="web80-going-mobile" /></a></div><div class="post-content"><p class="date">September 28, 2010</p><h2 class="listing"><a href="http://marketing.businessol.com/webinarrequest.html?839">Going Mobile: Serving the Always On, Always Connected</a></h2><div class="post-excerpt">The mobile space has quickly transformed into a legitimate marketing platform in and of itself, and should no longer be treated as merely an extension of the desktop website. In order to effectively interact and...</div><div class="more-link"><a class="read-more" href="http://marketing.businessol.com/webinarrequest.html?839">Register and Download</a></div></div></div><div class="post"><div class="post-thumbnail"><a href="http://marketing.businessol.com/webinarrequest.html?841"><img width="80" height="80" src="http://www.businessol.com/wp-content/uploads/web80-build-a-succesful-social-campaign.jpg" class="attachment-small-square colorbox-152  wp-post-image" alt="How to build a social campaign" title="web80-build-a-succesful-social-campaign" /></a></div><div class="post-content"><p class="date">September 10, 2010</p><h2 class="listing"><a href="http://marketing.businessol.com/webinarrequest.html?841">How to Build a Social Campaign</a></h2><div class="post-excerpt">Social Media marketing is not all about Facebook, Twitter and Youtube. With today’s technology you are able to add many features to your website to make it social and help generate buzz. However, it takes...</div><div class="more-link"><a class="read-more" href="http://marketing.businessol.com/webinarrequest.html?841">Register and Download</a></div></div></div><div class="pagination">Pages: <a class="current" href="?page=1">1</a><a href="?page=2">2</a><a href="?page=3">3</a><a href="?page=2">Next</a></div>
+          </div>
+        </div>
+        <div class="column single">
+        	          <div class="calls-to-action">
+          	<a class="talk-to-an-expert" href="/labs">Talk to an Expert - Schedule a One-On-One Lab</a>
+          </div>
+          <div class="resources">
+          	<a href="/resources"><img src="/wp-content/themes/bol-lifted/_images/resources-hdr.png" alt="Resources" /></a>
+            <ul>
+            	<li><a href="/resources/articles/">Articles</a></li>
+              <li><a href="/resources/on-demand-webinars/">On-Demand Webinars</a></li>
+              <li><a href="/resources/whitepapers/">Whitepapers</a></li>
+            </ul>
+          </div>
+                  </div>
+      </div>
+  </div>
+  <div class="footer">
+  <div class="container">
+    <div class="copyright">&copy;
+      2012      by BusinessOnline.  All rights reserved.&nbsp; | &nbsp;<a class="privacy-link" href="/privacy-policy/">Privacy Policy</a>
+          </div>
+    <div class="links">701 B Street, Suite 1000, San Diego, CA 92101&nbsp;  |  &nbsp;619 699 0767  &nbsp;| <a class="sitemap-link" href="javascript:showHideSitemap($('.sitemap'));">&nbsp;Site Map</a>&nbsp; <a href="http://www.facebook.com/businessol" target="blank"><img src="/wp-content/themes/bol/_images/icon-facebook.png" width="15" height="15" alt="Facebook" /></a><a href="http://www.twitter.com/boloptimized" target="blank"><img src="/wp-content/themes/bol/_images/icon-twitter.png" width="15" height="15" alt="Twitter" /></a><a href="http://www.linkedin.com/companies/41820" target="blank"><img src="/wp-content/themes/bol/_images/icon-linkedin.png" width="15" height="15" alt="LinkedIn" /></a></div>
+    <div class="clear-fix"><!--ClearFix--></div>
+    <div class="sitemap">
+      <div class="column quint">
+        <div class="search-box">
+          <form class="formSearch" name="formSearch" method="get" action="/">
+            <input class="formSearch-query" name="s" type="text" />
+            <input class="formSearch-submit" type="image" src="/wp-content/themes/bol/_images/spacer.gif"/>
+          </form>
+        </div>
+        <ul>
+          <li><strong><a href="/">BusinessOnline Home</a></strong></li>
+          <li><a href="http://marketing.businessol.com/contact-us.html">Contact</a></li>
+          <li><a href="/privacy-policy/">Privacy Policy</a></li>
+        </ul>
+      </div>
+      <div class="column quint">
+        <ul>
+          <li><strong><a href="/about/">About</a></strong></li>
+          <li><a href="/about/meet-the-team/">Meet the Team</a></li>
+          <li><a href="/about/careers/">Careers</a></li>
+          <li><a href="/about/company-culture/">Company Culture</a></li>
+        </ul>
+      </div>
+      <div class="column quint">
+        <ul>
+          <li><strong><a href="/solutions/">Solutions</a></strong></li>
+          <li><a href="/solutions/organic-search/">Organic Search</a></li>
+          <li><a href="/solutions/paid-search/">Paid Search</a></li>
+          <li><a href="/solutions/social-media/">Social Media</a></li>
+          <li><a href="/solutions/user-experience/">User Experience</a></li>
+          <li><a href="/solutions/creative/">Creative</a></li>
+          <li><a href="/solutions/web-development/">Web Development</a></li>
+          <li><a href="/solutions/analytics/">Analytics</a></li>
+        </ul>
+      </div>
+      <div class="column quint">
+        <ul>
+          <li><strong><a href="/work/case-studies/">Work</a></strong></li>
+          <li><a href="/work/portfolio/">Portfolio</a></li>
+          <li><a href="/work/client-list/">Client List</a></li>
+        </ul>
+      </div>
+      <div class="column quint">
+        <ul>
+          <li><strong><a href="/resources/">Resources</a></strong></li>
+          <li><a href="/resources/articles/">Articles</a></li>
+          <li><a href="/resources/whitepapers/">Whitepapers</a></li>
+          <li><a href="/resources/on-demand-webinars/">On-Demand Webinars</a></li>
+          <li><a href="/resources/blogs/">Blog</a></li>
+        </ul>
+      </div>
+      <div class="clear-fix"><!--Clear--></div>
+    </div>
+  </div>
+</div>
+
+ 
+
+<!-- Tealium Tracking --> 
+<script type="text/javascript" src="/wp-content/themes/bol/_scripts/tealium/Lm.js"></script> 
+<!-- Marketo Script --> 
+<script src="http://munchkin.marketo.net/munchkin.js" type="text/javascript"></script> 
+<script type="text/javascript">mktoMunchkin("209-ZCR-407");</script>
+<!-- Bizo Script -->
+<script type="text/javascript">
+  _bizo_data_partner_id = "1427";
+</script>
+<script type="text/javascript">
+(function(){(function(){var b,a;a=document.createElement("script");a.type="text/javascript";a.async=true;a.src=""+(window.location.protocol==="https:"?"https://sjs.":"http://js.")+"bizographics.com/insight.min.js";b=document.getElementsByTagName("script")[0];return b.parentNode.insertBefore(a,b)})();})();
+</script></div>
+
+			<!-- tracker added by Omniture-SiteCatalyst plugin v0.1.0: http://www.rudishumpert.com/projects/ -->
+			<script type="text/javascript" src="http://www.businessol.com/wp-content/themes/bol/_scripts/sitecatalyst/s_code.js"></script>
+			<script type="text/javascript"><!--
+			
+			s.pageName = "bol:resources:on-demand-webinars:Webinars"
+			s.channel = "bol:resources"
+			s.pageType = ""
+			s.hier1 = "bol,resources,on-demand-webinars"
+			
+			
+			
+		    s.prop1= "No"
+		    
+
+			/************* DO NOT ALTER ANYTHING BELOW THIS LINE ! **************/
+			var s_code=s.t();if(s_code)document.write(s_code) //omniture variable
+			-->
+			</script>
+
+	
+			</body>
+</html>
+
+WARC/1.0
+WARC-Type: response
+WARC-Target-URI: http://www.businessol.com/work/case-studies/
+WARC-Date: 20180523151542
+WARC-Language: ar
+WARC-Record-ID: <http://www.businessol.com/work/case-studies/>
+Content-Type: application/http;msgtype=response
+Content-Length: 20119
+
+HTTP/1.0 200 OK
+Server: Apache/2.2
+Vary: Accept-Encoding
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Content-Type: text/html; charset=UTF-8
+Date: Sun, 12 Feb 2012 08:38:31 GMT
+X-Pingback: http://www.businessol.com/xmlrpc.php
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Pragma: no-cache
+Connection: close
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html dir="ltr" lang="en" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<link rel="shortcut icon" type="image/x-icon" href="http://www.businessol.com/wp-content/themes/bol-lifted/favicon.ico" />
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="robots" content="noydir"/>
+<title>Online Marketing Case Studies - Search Engine Optimization, Custom Web Site Design, SEO Consulting, PPC, Web Development Services | BusinessOnline</title>
+<link rel="profile" href="http://gmpg.org/xfn/11" />
+<link href="/wp-content/themes/bol-lifted/style.css" rel="stylesheet" type="text/css" />
+<link rel="pingback" href="http://www.businessol.com/xmlrpc.php" />
+	<meta name="description" content="BusinessOnline is an interactive search engine marketing agency with a reputation for delivering outstanding results. Contact a BusinessOnline representative today to learn more about our internet marketing strategies and website optimization services. " />
+<link rel="alternate" type="application/rss+xml" title="BusinessOnLine &raquo; Case Studies Comments Feed" href="http://www.businessol.com/work/case-studies/feed/" />
+<link rel='stylesheet' id='colorbox-theme2-css'  href='http://www.businessol.com/wp-content/plugins/jquery-colorbox/themes/theme2/colorbox.css?ver=4.1' type='text/css' media='screen' />
+<link rel='stylesheet' id='wp-pagenavi-css'  href='http://www.businessol.com/wp-content/plugins/wp-pagenavi/pagenavi-css.css?ver=2.70' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-form-css'  href='http://www.businessol.com/wp-content/plugins/wordpress-forms/css/frontend.form.css?ver=0.1.0' type='text/css' media='screen' />
+<script type='text/javascript' src='http://www.businessol.com/wp-includes/js/jquery/jquery.js?ver=1.4.2'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var Colorbox = {
+	colorboxInline: "false",
+	colorboxIframe: "false",
+	colorboxGroupId: "",
+	colorboxTitle: "",
+	colorboxWidth: "false",
+	colorboxHeight: "false",
+	colorboxMaxWidth: "false",
+	colorboxMaxHeight: "false",
+	colorboxSlideshow: "false",
+	colorboxSlideshowAuto: "false",
+	colorboxScalePhotos: "true",
+	colorboxPreloading: "true",
+	colorboxOverlayClose: "true",
+	colorboxLoop: "true",
+	colorboxEscKey: "true",
+	colorboxArrowKey: "true",
+	colorboxScrolling: "true",
+	colorboxOpacity: "0.75",
+	colorboxTransition: "elastic",
+	colorboxSpeed: "350",
+	colorboxSlideshowSpeed: "2500",
+	colorboxClose: "close",
+	colorboxNext: "next",
+	colorboxPrevious: "previous",
+	colorboxSlideshowStart: "start slideshow",
+	colorboxSlideshowStop: "stop slideshow",
+	colorboxCurrent: "{current} of {total} images",
+	colorboxImageMaxWidth: "90%",
+	colorboxImageMaxHeight: "90%",
+	colorboxImageHeight: "false",
+	colorboxImageWidth: "false",
+	colorboxLinkHeight: "false",
+	colorboxLinkWidth: "false",
+	colorboxInitialHeight: "100",
+	colorboxInitialWidth: "300",
+	autoColorboxJavaScript: "",
+	autoHideFlash: "true",
+	colorboxAddClassToLinks: ""
+};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://www.businessol.com/wp-content/plugins/jquery-colorbox/js/jquery.colorbox-min.js?ver=1.3.17'></script>
+<script type='text/javascript' src='http://www.businessol.com/wp-content/plugins/jquery-colorbox/js/jquery-colorbox-wrapper-min.js?ver=4.1'></script>
+<script type='text/javascript' src='http://www.businessol.com/wp-includes/js/jquery/jquery.form.js?ver=2.02m'></script>
+<script type='text/javascript' src='http://www.businessol.com/wp-content/plugins/wordpress-forms/js/jquery.validate.min.js?ver=1.5.5'></script>
+<script type='text/javascript' src='http://www.businessol.com/wp-content/plugins/wordpress-forms/js/localization/en.js?ver=1.5.5'></script>
+<script type='text/javascript' src='http://www.businessol.com/wp-content/plugins/wordpress-forms/js/jquery.metadata.min.js?ver=1.5.5'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var wp_form_strings = {
+	url: "http://www.businessol.com",
+	img: "http://www.businessol.com/wp-content/plugins/wordpress-forms/images",
+	icons: "http://www.businessol.com/wp-content/plugins/wordpress-forms/images/icons",
+	nonce: "0d7947b4b8"
+};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://www.businessol.com/wp-content/plugins/wordpress-forms/js/frontend.form.js?ver=0.1.0'></script>
+<script type='text/javascript' src='http://www.businessol.com/wp-content/plugins/google-analyticator/external-tracking.min.js?ver=6.2'></script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www.businessol.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://www.businessol.com/wp-includes/wlwmanifest.xml" /> 
+<link rel='index' title='BusinessOnLine' href='http://www.businessol.com/' />
+<link rel='up' title='Work' href='http://www.businessol.com/work/' />
+<link rel='prev' title='Client List' href='http://www.businessol.com/work/client-list/' />
+<link rel='next' title='Meet the Team' href='http://www.businessol.com/about/meet-the-team/' />
+<meta name="generator" content="WordPress 3.0.5" />
+<link rel='canonical' href='http://www.businessol.com/work/case-studies/' />
+  <meta name="jQuery Colorbox" content="4.1"/>
+  <!-- Google Analytics Tracking by Google Analyticator 6.2: http://ronaldheft.com/code/analyticator/ -->
+<script type="text/javascript">
+	var analyticsFileTypes = ['pdf','doc','docx','xls','xlsx','ppt','pptx'];
+	var analyticsEventTracking = 'enabled';
+</script>
+<script type="text/javascript">
+	var _gaq = _gaq || [];
+	_gaq.push(['_setAccount', 'UA-80181-1']);
+	_gaq.push(['_trackPageview']);
+	_gaq.push(['_trackPageLoadTime']);
+
+	(function() {
+		var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+		ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+		var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+	})();
+</script>
+
+
+<!-- include jQuery library -->
+<script type="text/javascript" src="http://www.businessol.com/wp-content/themes/bol/_scripts/js/jquery.1.6.3.min.js"></script> 
+<script type="text/javascript" src="http://www.businessol.com/wp-content/themes/bol/_scripts/js/jquery.ui.min.js"></script> 
+<script type="text/javascript" src="http://www.businessol.com/wp-content/themes/bol/_scripts/js/jquery.easing.min.js"></script> 
+<script type="text/javascript" src="http://www.businessol.com/wp-content/themes/bol/_scripts/js/jquery.slides.min.js"></script> 
+<script type="text/javascript" src="http://www.businessol.com/wp-content/themes/bol/_scripts/js/jquery.tipsy.min.js"></script>
+<script type="text/javascript" src="http://www.businessol.com/wp-content/themes/bol/_scripts/js/bol.custom.js"></script>
+<!-- include Cycle plugin -->
+<script type="text/javascript" src="http://www.businessol.com/wp-content/themes/bol/_scripts/js/cycle.js"></script>
+
+
+
+</head>
+<body class="page page-id-53 page-child parent-pageid-6 page-template page-template-case-study-php">
+<div class="wrapper">
+	<div class="utility-bar">
+  	<div class="utility-content">
+    	<div class="container">Download the agency overview...</div>
+  	</div>
+    <div class="utility-message">
+    	<div class="container">View our Agency Overview</div>
+  	</div>
+    <div class="container align-right">
+    	<a href="javascript:showHideUtility()"><img class="utility-tab" src="/wp-content/themes/bol/_images/btn-agency-overview.gif" width="158" height="30" alt="Agency Overview" /></a>
+    	<div class="clear-fix"><!--ClearFix--></div>
+    </div>
+	</div><div class="header">
+  	<div class="container">
+    	<div class="branding"><a href="http://www.businessol.com"><img src="/wp-content/themes/bol/_images/businessonline-logo.png" width="212" height="29" alt="BusinessOnline - Enterprise Internet Marketing Firm - SEO, Paid Search, Social Media Marketing, Website Usability &amp; Development" /></a></div>
+      <div class="navigation"><ul id="menu-primary-menu" class="menu"><li id="menu-item-2286" class="menu-item menu-item-type-post_type menu-item-2286"><a href="http://www.businessol.com/">Home</a></li>
+<li id="menu-item-2284" class="menu-item menu-item-type-post_type menu-item-2284"><a href="http://www.businessol.com/about/">About</a>
+<ul class="sub-menu">
+	<li id="menu-item-2309" class="menu-item menu-item-type-post_type menu-item-2309"><a href="http://www.businessol.com/about/meet-the-team/">Meet the Team</a></li>
+	<li id="menu-item-2311" class="menu-item menu-item-type-post_type menu-item-2311"><a href="http://www.businessol.com/about/company-culture/">Company Culture</a></li>
+	<li id="menu-item-2310" class="menu-item menu-item-type-post_type menu-item-2310"><a href="http://www.businessol.com/about/careers/">Careers</a></li>
+</ul>
+</li>
+<li id="menu-item-2288" class="menu-item menu-item-type-post_type menu-item-2288"><a href="http://www.businessol.com/solutions/">Solutions</a>
+<ul class="sub-menu">
+	<li id="menu-item-2312" class="menu-item menu-item-type-post_type menu-item-2312"><a href="http://www.businessol.com/solutions/organic-search/">Organic Search</a></li>
+	<li id="menu-item-2313" class="menu-item menu-item-type-post_type menu-item-2313"><a href="http://www.businessol.com/solutions/paid-search/">Paid Search</a></li>
+	<li id="menu-item-2315" class="menu-item menu-item-type-post_type menu-item-2315"><a href="http://www.businessol.com/solutions/user-experience/">User Experience</a></li>
+	<li id="menu-item-2314" class="menu-item menu-item-type-post_type menu-item-2314"><a href="http://www.businessol.com/solutions/social-media/">Social Media</a></li>
+	<li id="menu-item-2316" class="menu-item menu-item-type-post_type menu-item-2316"><a href="http://www.businessol.com/solutions/creative/">Creative</a></li>
+	<li id="menu-item-2317" class="menu-item menu-item-type-post_type menu-item-2317"><a href="http://www.businessol.com/solutions/web-development/">Web Development</a></li>
+	<li id="menu-item-2318" class="menu-item menu-item-type-post_type menu-item-2318"><a href="http://www.businessol.com/solutions/analytics/">Analytics</a></li>
+</ul>
+</li>
+<li id="menu-item-2570" class="menu-item menu-item-type-post_type current-menu-item page_item page-item-53 current_page_item current-menu-ancestor current-menu-parent current_page_parent current_page_ancestor menu-item-2570"><a href="http://www.businessol.com/work/case-studies/">Work</a>
+<ul class="sub-menu">
+	<li id="menu-item-2319" class="menu-item menu-item-type-post_type current-menu-item page_item page-item-53 current_page_item menu-item-2319"><a href="http://www.businessol.com/work/case-studies/">Case Studies</a></li>
+	<li id="menu-item-2320" class="menu-item menu-item-type-post_type menu-item-2320"><a href="http://www.businessol.com/work/portfolio/">Portfolio</a></li>
+	<li id="menu-item-2321" class="menu-item menu-item-type-post_type menu-item-2321"><a href="http://www.businessol.com/work/client-list/">Client List</a></li>
+</ul>
+</li>
+<li id="menu-item-2287" class="menu-item menu-item-type-post_type menu-item-2287"><a href="http://www.businessol.com/resources/">Resources</a>
+<ul class="sub-menu">
+	<li id="menu-item-2323" class="menu-item menu-item-type-post_type menu-item-2323"><a href="http://www.businessol.com/resources/whitepapers/">Whitepapers</a></li>
+	<li id="menu-item-2324" class="menu-item menu-item-type-post_type menu-item-2324"><a href="http://www.businessol.com/resources/on-demand-webinars/">Webinars</a></li>
+	<li id="menu-item-2322" class="menu-item menu-item-type-post_type menu-item-2322"><a href="http://www.businessol.com/resources/articles/">Articles</a></li>
+	<li id="menu-item-2325" class="menu-item menu-item-type-post_type menu-item-2325"><a href="http://www.businessol.com/resources/blog/">Blogs</a></li>
+</ul>
+</li>
+<li id="menu-item-2569" class="menu-item menu-item-type-custom menu-item-2569"><a href="http://marketing.businessol.com/contact-us.html">Contact</a></li>
+</ul></div>      <div class="clear-fix"><!--ClearFix--></div>
+  	</div>
+	</div>  <div class="main">
+  	<div class="container">
+    	<div class="title"><p><img src="/wp-content/themes/bol-lifted/_images/work-hdr.png" width="166" height="95" alt="Featured Work" /></p></div>
+              <div class="sub-navigation">
+          <ul><li class="page_item page-item-53 current_page_item"><a href="http://www.businessol.com/work/case-studies/" title="Case Studies">Case Studies</a></li>
+<li class="page_item page-item-48"><a href="http://www.businessol.com/work/portfolio/" title="Portfolio">Portfolio</a></li>
+<li class="page_item page-item-50"><a href="http://www.businessol.com/work/client-list/" title="Client List">Client List</a></li>
+</ul>
+        </div>
+            <div>
+        <div class="column triple">
+        	        </div>
+        
+        <div class="grid">
+        	<div class="left_arrow">
+        		
+        	</div>
+        	<div class="right_arrow">
+        	
+        	</div>
+        	<div id="cycle_case_studies" class="cycle">
+        		<div class="content"><a href="http://www.businessol.com/?p=1822"><img width="757" height="242" src="http://www.businessol.com/wp-content/uploads/american_red_cross.jpg" class="attachment-original colorbox-1822 " alt="american_red_cross" title="american_red_cross" /></a></div><div class="content"><a href="http://www.businessol.com/?p=1817"><img width="757" height="242" src="http://www.businessol.com/wp-content/uploads/rail_europe.jpg" class="attachment-original colorbox-1817 " alt="rail_europe" title="rail_europe" /></a></div><div class="content"><a href="http://www.businessol.com/?p=1807"><img width="757" height="242" src="http://www.businessol.com/wp-content/uploads/sybase1.jpg" class="attachment-original colorbox-1807 " alt="sybase" title="sybase" /></a></div><div class="content"><a href="http://www.businessol.com/?p=1819"><img width="757" height="242" src="http://www.businessol.com/wp-content/uploads/workday1.jpg" class="attachment-original colorbox-1819 " alt="workday" title="workday" /></a></div>        	</div>
+        	
+        </div>
+        <div id="cs_cycle_pager" class="cycle_pager">
+        	
+        </div>
+        <script type="text/javascript">
+
+			    $('#cycle_case_studies').cycle({
+					fx: 'scrollHorz', // choose your transition type, ex: fade, scrollUp, shuffle, etc...
+					timeout: 7000,
+					prev: '.left_arrow',
+					next: '.right_arrow',
+					pager: '#cs_cycle_pager'
+				});		
+		</script>
+      </div>
+     
+  </div>
+  <div class="footer">
+  <div class="container">
+    <div class="copyright">&copy;
+      2012      by BusinessOnline.  All rights reserved.&nbsp; | &nbsp;<a class="privacy-link" href="/privacy-policy/">Privacy Policy</a>
+          </div>
+    <div class="links">701 B Street, Suite 1000, San Diego, CA 92101&nbsp;  |  &nbsp;619 699 0767  &nbsp;| <a class="sitemap-link" href="javascript:showHideSitemap($('.sitemap'));">&nbsp;Site Map</a>&nbsp; <a href="http://www.facebook.com/businessol" target="blank"><img src="/wp-content/themes/bol/_images/icon-facebook.png" width="15" height="15" alt="Facebook" /></a><a href="http://www.twitter.com/boloptimized" target="blank"><img src="/wp-content/themes/bol/_images/icon-twitter.png" width="15" height="15" alt="Twitter" /></a><a href="http://www.linkedin.com/companies/41820" target="blank"><img src="/wp-content/themes/bol/_images/icon-linkedin.png" width="15" height="15" alt="LinkedIn" /></a></div>
+    <div class="clear-fix"><!--ClearFix--></div>
+    <div class="sitemap">
+      <div class="column quint">
+        <div class="search-box">
+          <form class="formSearch" name="formSearch" method="get" action="/">
+            <input class="formSearch-query" name="s" type="text" />
+            <input class="formSearch-submit" type="image" src="/wp-content/themes/bol/_images/spacer.gif"/>
+          </form>
+        </div>
+        <ul>
+          <li><strong><a href="/">BusinessOnline Home</a></strong></li>
+          <li><a href="http://marketing.businessol.com/contact-us.html">Contact</a></li>
+          <li><a href="/privacy-policy/">Privacy Policy</a></li>
+        </ul>
+      </div>
+      <div class="column quint">
+        <ul>
+          <li><strong><a href="/about/">About</a></strong></li>
+          <li><a href="/about/meet-the-team/">Meet the Team</a></li>
+          <li><a href="/about/careers/">Careers</a></li>
+          <li><a href="/about/company-culture/">Company Culture</a></li>
+        </ul>
+      </div>
+      <div class="column quint">
+        <ul>
+          <li><strong><a href="/solutions/">Solutions</a></strong></li>
+          <li><a href="/solutions/organic-search/">Organic Search</a></li>
+          <li><a href="/solutions/paid-search/">Paid Search</a></li>
+          <li><a href="/solutions/social-media/">Social Media</a></li>
+          <li><a href="/solutions/user-experience/">User Experience</a></li>
+          <li><a href="/solutions/creative/">Creative</a></li>
+          <li><a href="/solutions/web-development/">Web Development</a></li>
+          <li><a href="/solutions/analytics/">Analytics</a></li>
+        </ul>
+      </div>
+      <div class="column quint">
+        <ul>
+          <li><strong><a href="/work/case-studies/">Work</a></strong></li>
+          <li><a href="/work/portfolio/">Portfolio</a></li>
+          <li><a href="/work/client-list/">Client List</a></li>
+        </ul>
+      </div>
+      <div class="column quint">
+        <ul>
+          <li><strong><a href="/resources/">Resources</a></strong></li>
+          <li><a href="/resources/articles/">Articles</a></li>
+          <li><a href="/resources/whitepapers/">Whitepapers</a></li>
+          <li><a href="/resources/on-demand-webinars/">On-Demand Webinars</a></li>
+          <li><a href="/resources/blogs/">Blog</a></li>
+        </ul>
+      </div>
+      <div class="clear-fix"><!--Clear--></div>
+    </div>
+  </div>
+</div>
+
+ 
+
+<!-- Tealium Tracking --> 
+<script type="text/javascript" src="/wp-content/themes/bol/_scripts/tealium/Lm.js"></script> 
+<!-- Marketo Script --> 
+<script src="http://munchkin.marketo.net/munchkin.js" type="text/javascript"></script> 
+<script type="text/javascript">mktoMunchkin("209-ZCR-407");</script>
+<!-- Bizo Script -->
+<script type="text/javascript">
+  _bizo_data_partner_id = "1427";
+</script>
+<script type="text/javascript">
+(function(){(function(){var b,a;a=document.createElement("script");a.type="text/javascript";a.async=true;a.src=""+(window.location.protocol==="https:"?"https://sjs.":"http://js.")+"bizographics.com/insight.min.js";b=document.getElementsByTagName("script")[0];return b.parentNode.insertBefore(a,b)})();})();
+</script>  <script type="text/javascript">
+	function onReady() {
+		
+			
+		$('.services a').tipsy({
+			'gravity' : 's',
+			'title'   : function() {
+				return $(this).text();
+			}
+		});
+		$('.thumbnail').hover(
+			function() {
+				$(this).find('.overlay').slideDown(250,'easeOutQuad');
+			},
+			function() {
+				$(this).find('.overlay').slideUp(250,'easeInQuad');
+			}
+		);
+			
+	}
+	</script>
+</div>
+
+			<!-- tracker added by Omniture-SiteCatalyst plugin v0.1.0: http://www.rudishumpert.com/projects/ -->
+			<script type="text/javascript" src="http://www.businessol.com/wp-content/themes/bol/_scripts/sitecatalyst/s_code.js"></script>
+			<script type="text/javascript"><!--
+			
+			s.pageName = "bol:work:case-studies:Workday"
+			s.channel = "bol:work"
+			s.pageType = ""
+			s.hier1 = "bol,work,case-studies"
+			
+			
+			
+		    s.prop1= "No"
+		    
+
+			/************* DO NOT ALTER ANYTHING BELOW THIS LINE ! **************/
+			var s_code=s.t();if(s_code)document.write(s_code) //omniture variable
+			-->
+			</script>
+
+	
+			</body>
+</html>
+

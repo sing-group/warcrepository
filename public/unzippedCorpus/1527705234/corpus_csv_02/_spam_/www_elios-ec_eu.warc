@@ -1,0 +1,126 @@
+WARC/1.0
+WARC-Type: warcinfo
+WARC-Date: 2018-05-30T17:52:31Z
+WARC-All-Language: en
+WARC-All-Content_type: text/html; charset=utf-8
+WARC-Record-ID: <urn:uuid:67655d68-492b-48cb-94bd-fb90c11999a7>
+Content-Type: application/http;msgtype=response
+Content-Length: 46
+
+WARCProcessor by SING Group www.sing-group.com
+
+WARC/1.0
+WARC-Type: response
+WARC-Target-URI: http://www.elios-ec.eu
+WARC-Date: 20180530175231
+WARC-Language: en
+WARC-Record-ID: <http://www.elios-ec.eu>
+Content-Type: application/http;msgtype=response
+Content-Length: 6869
+
+HTTP/1.1 200
+Content-Type:text/html; charset=utf-8
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML+RDFa 1.0//EN" "http://www.w3.org/MarkUp/DTD/xhtml-rdfa-1.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" version="XHTML+RDFa 1.0" dir="ltr">
+<head profile="http://www.w3.org/1999/xhtml/vocab">
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="shortcut icon" href="http://www.elios-ec.eu/sites/all/themes/elios1/favicon.ico" type="image/vnd.microsoft.icon" />
+	<title>Home | Elios</title>
+	<link type="text/css" rel="stylesheet" href="http://www.elios-ec.eu/sites/default/files/css/css_xE-rWrJf-fncB6ztZfd2huxqgxu4WO-qwma6Xer30m4.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://www.elios-ec.eu/sites/default/files/css/css_DwMJzMrmwXsha2fE8ZxGwdelrpeSr4kr7RfLiBVAtFs.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://www.elios-ec.eu/sites/default/files/css/css_e9i1o2m_GsLXCsIe3pJwpeNkUjTw8sddNBrCOrjat7I.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://www.elios-ec.eu/sites/default/files/css/css_k8E-_qZDVPq7A4ALaxyaYQ80ikvda03zWUkzpoXKWo4.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://www.elios-ec.eu/sites/default/files/css/css_47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU.css" media="print" />
+	<script type="text/javascript" src="http://www.elios-ec.eu/sites/default/files/js/js_vDrW3Ry_4gtSYaLsh77lWhWjIC6ml2QNkcfvfP5CVFs.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"en\/","ajaxPageState":{"theme":"elios1","theme_token":"OxNHTz30rN3nfUmaPa-qtmOMrXmuPvYANSbNHQglkB0","js":{"misc\/jquery.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"sites\/all\/modules\/calendar\/css\/calendar_multiday.css":1,"modules\/comment\/comment.css":1,"sites\/all\/modules\/date\/date_api\/date.css":1,"sites\/all\/modules\/date\/date_popup\/themes\/datepicker.1.7.css":1,"sites\/all\/modules\/date\/date_repeat_field\/date_repeat_field.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"modules\/search\/search.css":1,"modules\/user\/user.css":1,"sites\/all\/modules\/views\/css\/views.css":1,"sites\/all\/modules\/ckeditor\/css\/ckeditor.css":1,"sites\/all\/modules\/ctools\/css\/ctools.css":1,"modules\/locale\/locale.css":1,"sites\/all\/themes\/elios1\/css\/style.css":1,"sites\/all\/themes\/elios1\/css\/aller\/stylesheet.css":1,"sites\/all\/themes\/elios1\/css\/print.css":1}}});
+//--><!]]>
+</script>
+</head>
+<body class="html front not-logged-in no-sidebars page-node page-node- page-node-14 node-type-page-d-accueil i18n-en" >
+		<!-- Site -->
+<div id="wrap">
+	<div id="global" class="page">	
+	
+		<!-- Header -->
+		<div id="header">
+					
+						<!-- Langues -->
+			<div id="langues">
+				  <div class="region region-langues">
+    <div id="block-locale-language" class="block block-locale clearfix">
+  <div class="block-inner">
+
+                		
+		<div class="content" >
+		  <ul class="language-switcher-locale-url"><li class="fr first"><a href="/fr" class="language-link" xml:lang="fr">Fr</a></li>
+<li class="en last active"><a href="/en" class="language-link active" xml:lang="en">En</a></li>
+</ul>		</div>
+
+  </div>
+</div> <!-- /block-inner /block -->  </div>
+			</div>
+			<!-- /Langues -->
+						
+			<div class="clear"></div>
+		</div>
+		<!-- /Header -->
+		
+		<!-- Content -->
+		<div id="content">
+				
+			<!-- Texte -->
+						
+						<!-- Frontend Admin -->
+			<div class="tabs"></div>
+			<!-- /Frontend Admin -->
+			
+						
+			<!--<div id="splash_elios1">
+				<div class="field field-name-field-home-elios1-txt field-type-text-long field-label-hidden"><div class="field-items"><div class="field-item even"><p>The Elios 1project, which has been realized by CEA (Centre d'Etudes d'Assurances) and CSTB (Centre Scientifique Technique de Bâtiment) at the request of the European Commission, offered the first opportunity to study the building insurance systems of the 27 EU Member States as well as their impact on sustainable development.</p>
+</div></div></div><div class="field field-name-field-home-elios1-lien field-type-link-field field-label-hidden"><div class="field-items"><div class="field-item even"><a href="http://www.elios-ec.eu/en/construction-insurance-and-sustainability-0">Read more about Elios 1</a></div></div></div>			</div>-->
+			
+			<div id="splash_elios2">
+				<div class="field field-name-field-home-elios2-txt field-type-text-long field-label-hidden"><div class="field-items"><div class="field-item even"><p class="DefaultStyle"><span lang="EN-GB" xml:lang="EN-GB">On 14 December 2015, the European Commission (DG GROW) approves the Elios2 final report.</span></p>
+<p class="DefaultStyle"><br /><span lang="EN-GB" xml:lang="EN-GB">The final report and its summaries (FR-EN-DE) are available on the website in the <strong>Official records</strong>.  The Elios insurance regimes mapping on 28 EU Member States is now downloadable.<br />
+	Since the last meeting of the Forum held on 12 November 2014, the Elios team members have followed up on their contacts with all the actors involved and with the various representatives from public authorities. On the website’s Introduction page, you will find our most recent news.</span></p>
+</div></div></div><div class="field field-name-field-home-elios2-lien field-type-link-field field-label-hidden"><div class="field-items"><div class="field-item even"><a href="http://www.elios-ec.eu/en/introduction">Read more about Elios 2</a></div></div></div>			</div>
+			
+			<div class="clear"></div>
+			<!-- /Texte -->
+		
+		</div>
+		<!-- /Content -->
+		
+	</div>
+</div>
+<!-- /Site -->
+
+<!-- Footer -->
+<div id="bgfooter">
+	<div id="footer">	
+		<p>ELIOS: EUROPEAN LIABILITY INSURANCE ORGANISATION SCHEMES</p>
+		<p id="copyright"><a href="http://www.expansion.be/expansion/fr/9305-agence-marketing-communication.html" target="_blank" title="Expansion offre, au sein d'une seule agence, toutes les solutions de marketing et de communication les plus performantes via 4 pôles de compétences : Communication, Opérationnel, Stratégie et Digital.">A concept of Expansion</a></p>
+	</div>
+</div>
+<!-- /Footer -->
+	
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-32839244-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>	
+</body>
+</html>
+

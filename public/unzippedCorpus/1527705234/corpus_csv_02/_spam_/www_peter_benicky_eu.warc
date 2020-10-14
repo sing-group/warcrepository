@@ -1,0 +1,121 @@
+WARC/1.0
+WARC-Type: warcinfo
+WARC-Date: 2018-05-30T18:18:32Z
+WARC-All-Language: en
+WARC-All-Content_type: text/html
+WARC-Record-ID: <urn:uuid:2e34b0e4-3c2a-4e9f-af4e-8733926a45cb>
+Content-Type: application/http;msgtype=response
+Content-Length: 46
+
+WARCProcessor by SING Group www.sing-group.com
+
+WARC/1.0
+WARC-Type: response
+WARC-Target-URI: http://www.peter.benicky.eu
+WARC-Date: 20180530181832
+WARC-Language: en
+WARC-Record-ID: <http://www.peter.benicky.eu>
+Content-Type: application/http;msgtype=response
+Content-Length: 8130
+
+HTTP/1.1 200
+Content-Type:text/html
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+  <title>PETER "BEŇO" BENICKÝ, HOMEPAGE [ABOUT ME, DRUMP]</title>
+  <meta http-equiv="cache-control" content="no-cache" />
+  <meta http-equiv="pragma" content="no-cache" />
+  <meta http-equiv="expires" content="0" />
+  <meta name="description" content="PETER BENICKÝ, HOMEPAGE [ABOUT ME, DRUMP]" />
+  <meta name="keywords" content="Peter Benický, Beňo, dnb, drum and bass, web, webdesign, desing, web application, application, software, software developing, web developing, developing, site, website creation, freelance developer, freelance" />
+  <meta name="copyright" content="Copyright (c) 2007 Peter Benický" />
+  <meta name="author" content="Peter Benický 'Beňo', www.benicky.eu" />
+  <meta name="robots" content="index,follow" />
+  <meta name="googlebot" content="index,follow,snippet,archive" />
+  <link rel="stylesheet" media="screen" type="text/css" href="css/styles.css" />
+  <!--[if IE]>
+ 	<link rel="stylesheet" media="screen" type="text/css" href="css/fuckedie.css" />
+  <![endif]-->
+  <script type="text/javascript" src="js/jquery.js"></script>
+  <script type="text/javascript" src="js/user.js"></script>
+  <script type="text/javascript">
+	<!--
+		$(document).ready(function() {
+			var webusr = new Webusr();
+		});
+	-->
+  </script>
+</head>
+<body>
+  <div id="top">
+    <h1>PETER "BEŇO" BENICKÝ</h1>
+    <ul>
+      <li><strong>Phone:</strong> +421 (0) 911 289 198</li>
+      <li><strong>E-mail:</strong> peter@benicky.eu</li>
+      <li><strong>Google Talk:</strong> benicky@gmail.com</li>
+      <li><strong>ICQ:</strong> 349-411-676</li>
+      <li><strong>MSN:</strong> peter@benicky.eu</li>
+      <li><strong>SKYPE:</strong> BENO.SKYPE</li>
+    </ul>
+  </div>
+  <hr />
+  <div id="body">
+     <ul id="menu">
+      <li class="actived"><a href="/" title="About me and my work">About me</a></li>
+      <li><a href="drumb.html" title="Drumb" >Drumb</a></li>
+    </ul>
+ 	<hr class="divider" />
+    <h2>About me and my work</h2>
+    <h3>Who are you?</h3>
+      <p>My name is obviously <strong>Peter Benický</strong>, you may call me <strong>Beňo</strong>. I'm 22 years old student on The <a href="http://www.fiit.stuba.sk/buxus/generate_page.php?page_id=749" title="Faculty of Informatics and Information Technologies">Faculty of Informatics and Information Technologies</a> at <a href="http://www.stuba.sk/buxus/generate_page.php?page_id=132" title="Slovak Technical University">Slovak Technical University</a> in <a href="http://www.bratislava.sk/en/" title="">Bratislava</a>. This is my personal web space. I use this as a showcase for some of my work. I currently work as a <strong>freelance web developer</strong>. And why do I freelance, one might ask? The answer is simple. I truly enjoy the challenge of developing a site and I savour the challenge of achieving a site that captures the attention of a client. The other half of the fun is seeing my work presented online for millions to view.</p>
+      <h4>Skills set</h4>
+      <ul>
+       <li>PHP, MYSQL (advanced)</li>
+       <li>(X)HTML, CSS, XML, XSLT (advanced)</li>
+       <li>JAVASCRIPT, AJAX (upper-intermediate)</li>
+       <li>J2EE, J2SE, JSP, SPRING (intermediate)</li>
+      </ul>
+    <h3>How can I contact you?</h3>
+      <p>There are a number of ways you can get in contact with me. Probably the best thing is to just call me, but if your feeling a bit shy and would rather communicate through the medium of text, e-mail, icq or msn are fine too.</p>
+    <h3>How does your work look like?</h3>
+      <h5>Websites</h5>
+	      <a href="http://www.inzer.sk" title="Inzer" id="inzer" class="photo" ><img src="css/images/inzer-perex.jpg" alt="Inzer" title="Inzer"/><strong>Inzer</strong></a>
+	      <a href="drumb/" title="Drumb" id="drumb" class="photo" ><img src="css/images/drumb-perex.jpg" alt="Drumb" title="Drumb"/><strong>Drumb</strong></a>
+	      <a href="http://www.dnb.sk" title="dnb" id="dnb" class="photo" ><img src="css/images/dnb.sk-perex.jpg" alt="dnb" title="dnb"/><strong>dNb</strong></a>
+	   	    <a href="http://www.interier-extravaganza.sk" id="extravaganza" title="Interier extravaganza" class="photo" ><img src="css/images/extravaganza-perex.jpg" alt="Interier extravaganza" title="Interier extravaganza"/><strong>Extravaganza</strong></a> 
+<!--	    	   <a href="http://www.baltyre.com" id="baltyre" title="Baltyre" class="photo" ><img src="css/images/baltyre-perex.jpg" alt="Baltyre" title="Baltyre"/><strong>Baltyre</strong></a> --> 
+	      <a href="http://www.malachov.sk" title="Obec Malachov" class="photo" id="malachov" ><img src="css/images/malachov-perex.jpg" alt="Obec Malachov" title="Obec Malachov"/><strong>Obec Malachov</strong></a>
+	      <a href="http://www.bontonfilm.sk" id="bontonfilm" title="Bonton film" class="photo" ><img src="css/images/bontonfilm-perex.jpg" alt="Bonton film" title="Bonton film"/><strong>Bonton film</strong></a>
+<!--	   	    <a href="http://www.dada.sk" title="Daniela Edlingerová" class="photo" id="dada" ><img src="css/images/daniela-edlingerova-perex.jpg" alt="Daniela Edlingerová" title="Daniela Edlingerová"/><strong>Edlingerová</strong></a> 
+	   	    <a href="http://www.elam.sk" title="Elam" class="photo" id="elam" ><img src="css/images/elam-perex.jpg" alt="Elam" title="elam"/><strong>Elam</strong></a> 
+	   	    <a href="http://www.opp.sk" title="OPP" class="photo" id="opp" ><img src="css/images/opp-perex.jpg" alt="OPP" title="OPP"/><strong>OPP</strong></a> 
+	     	  <a href="http://www.akreklama.sk" title="Ak reklama" class="photo" id="akreklama" ><img src="css/images/akreklama-perex.jpg" alt="Ak reklama" title="Ak reklama"/><strong>Ak reklama</strong></a> 
+	     <a href="http://www.dfm.sk" title="Demokratické fórum mladých" class="photo" id="dfm" ><img src="css/images/dfm-perex.jpg" alt="dfm" title="dfm"/><strong>DFM</strong></a> 
+	     <a href="http://www.ppi.sk" title="PPI" class="photo" id="ppi" ><img src="css/images/ppi-perex.jpg" alt="PPI" title="PPI"/><strong>PPI</strong></a> -->
+	 <h5 class="cleaner">Others</h5>
+	      <a href="lost-in-space/" title="Lost in space" class="photo" id="space" ><img src="css/images/lost-in-space-perex.jpg" alt="Lost in space" title="Lost in space"/><strong>Lost in space</strong></a>
+	      <a href="snake/" title="Snake the game" class="photo" id="snake" ><img src="css/images/snake-perex.jpg" alt="Snake the game" title="Snake the game"/><strong>Snake the game</strong></a>
+	      <a href="paint/" title="Paint program" class="photo" id="paint" ><img src="css/images/paint-perex.jpg" alt="Paint program" title="Paint program"/><strong>Paint program</strong></a>
+  </div>
+  <hr />
+  <div id="bottom">
+    <p>Copyright (c) 2007 Peter "Beňo" Benický, <strong>Phone:</strong> +421 (0) 911 289 198, <strong>E-mail:</strong> <a href="mailto:peter@benicky.eu" title="peter@benicky.eu" >peter@benicky.eu</a>, <strong>Google Talk:</strong> <a href="mailto:benicky@gmail.com" title="benicky@gmail.com" >benicky@gmail.com</a>, <strong>ICQ:</strong> 349-411-676, <strong>MSN:</strong> <a href="mailto:peter@benicky.eu" title="peter@benicky.eu" >peter@benicky.eu</a>, <strong>SKYPE:</strong> BENO.SKYPE</p>
+  </div>
+  <div id="window" class="disable"><a href="#close" title="close" class="close"><img src="css/images/close.gif" alt="close" title="close"/></a><div></div></div>
+  <script type="text/javascript">
+    var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+    document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+    </script>
+    <script type="text/javascript">
+    var pageTracker = _gat._getTracker("UA-318617-1");
+    pageTracker._initData();
+    pageTracker._trackPageview();
+  </script>
+</body>
+</html>
+
+

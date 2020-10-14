@@ -1,0 +1,37 @@
+WARC/1.0
+WARC-Type: warcinfo
+WARC-Date: 2018-05-23T09:03:43Z
+WARC-Record-ID: <urn:uuid:594c15bd-cc61-4a5b-8f25-68380d6d8333>
+WARC-All-Language: fr
+WARC-All-Content_type: text/html
+Content-Type: application/http;msgtype=response
+Content-Length: 46
+
+WARCProcessor by SING Group www.sing-group.com
+
+WARC/1.0
+WARC-Type: response
+WARC-Record-ID: <http://www.bernina.co.uk>
+WARC-Date: 20180523090343
+WARC-Target-URI: http://www.bernina.co.uk
+WARC-Language: fr
+Content-Type: application/http;msgtype=response
+Content-Length: 368
+
+HTTP/1.1 200
+Content-Type:text/html
+
+
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>Bernina UK</title>
+ <meta http-equiv="refresh" content="0;URL='http://www.bernina.com/en-GB/'" />
+</head>
+<body>
+<p>We have moved - our exciting new site is at <a href="http://www.bernina.com/en-GB/">
+      www.bernina.com/en-GB/</a>.</p> 
+</body>
+</html>
+

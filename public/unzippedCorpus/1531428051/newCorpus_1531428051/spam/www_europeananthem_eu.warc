@@ -1,0 +1,421 @@
+WARC/1.0
+WARC-Type: warcinfo
+WARC-Date: 2018-05-30T17:52:30Z
+WARC-Record-ID: <urn:uuid:adbfee30-b1d6-4f06-a26c-eca985f4486d>
+WARC-All-Language: en
+WARC-All-Content_type: text/html, text/html; charset=ISO-8859-1
+Content-Type: application/http;msgtype=response
+Content-Length: 46
+
+WARCProcessor by SING Group www.sing-group.com
+
+WARC/1.0
+WARC-Type: response
+WARC-Record-ID: <http://www.europeananthem.eu>
+WARC-Date: 20180530175230
+WARC-Target-URI: http://www.europeananthem.eu
+WARC-Language: en
+Content-Type: application/http;msgtype=response
+Content-Length: 16675
+
+HTTP/1.1 200
+Content-Type:text/html; charset=ISO-8859-1
+
+
+<html><head><title>European Anthem: Play the European Anthem or download it as ringtone to your cell phone</title>
+<META name="description" content="Play the European Anthem or download it as ringtone to your cell phone">
+<META name="keywords" content="european anthem, europe hymn, rington european anthem">
+<META name="author" content="Mr.Ad Latjes, President of ETN">
+<META name="robots" content="ALL">
+
+<STYLE TYPE="text/css">
+<!--
+#dek {POSITION:absolute;VISIBILITY:hidden;Z-INDEX:200;}
+//-->
+</STYLE>
+
+
+<!-- stardevelop.com Live Help International Copyright - All Rights Reserved //-->
+<!--  BEGIN stardevelop.com Live Help Messenger Code - Copyright - NOT PERMITTED TO MODIFY IMAGE MAP/CODE/LINKS //-->
+<script language="JavaScript" type="text/JavaScript" src="http://www.etntalk.com/livehelp/include/javascript.php"></script>
+<!--  END stardevelop.com Live Help Messenger Code - Copyright - NOT PERMITTED TO MODIFY IMAGE MAP/CODE/LINKS //-->          
+
+</HEAD>
+
+<BODY BGCOLOR="#FFFFFF" TEXT="#000000" LINK="#000000" VLINK="#000000" ALINK="#000000" leftMargin=0 topMargin=0 marginheight="0" marginwidth="0">
+
+<!-- stardevelop.com Live Help International Copyright - All Rights Reserved //-->
+<!--  BEGIN stardevelop.com Live Help Messenger Code - Copyright - NOT PERMITTED TO MODIFY IMAGE MAP/CODE/LINKS //-->
+<map name="LiveHelpInitiateChatMap"id="LiveHelpInitiateChatMap">
+  <area shape="rect" coords="33,173,195,186" href="http://livehelp.stardevelop.com" target="_blank" alt="stardevelop.com Live Help"/>
+  <area shape="rect" coords="58,146,142,169" href="#" onclick="openLiveHelp();acceptInitiateChat();return false;" alt="Accept"/>
+  <area shape="rect" coords="150,146,229,169" href="#" onclick="declineInitiateChat();return false;" alt="Decline"/>
+  <area shape="rect" coords="231,37,269,55" href="#" onclick="declineInitiateChat();return false;" alt="Close"/>
+</map>
+<div id="floatLayer" style="position:absolute; left:10px; top:10px; visibility:hidden; z-index:5000;">
+  <div align="center"><img src="http://www.etntalk.com/livehelp/locale/en/images/initiate_dialog.gif" alt="stardevelop.com Live Help" width="377" height="238" border="0" usemap="#LiveHelpInitiateChatMap"/></div>
+</div>
+<!--  END stardevelop.com Live Help Messenger Code - Copyright - NOT PERMITTED TO MODIFY IMAGE MAP/CODE/LINKS //-->          
+
+<SCRIPT TYPE="text/javascript" LANGUAGE="javascript" SRC="http://www.etntalk.com/voip/orders/etnvoip.php"></SCRIPT>
+
+<DIV ID="dek"></DIV>
+
+<SCRIPT TYPE="text/javascript">
+<!--
+
+//Pop up information box II (Mike McGrath (mike_mcgrath@lineone.net,  http://website.lineone.net/~mike_mcgrath))
+//Permission granted to Dynamicdrive.com to include script in archive
+//For this and 100's more DHTML scripts, visit http://dynamicdrive.com
+
+Xoffset= 60;    // modify these values to ...
+Yoffset=-60;    // change the popup position.
+
+var old,skn,iex=(document.all),yyy=-1000;
+
+var ns4=document.layers
+var ns6=document.getElementById&&!document.all
+var ie4=document.all
+
+if (ns4)
+skn=document.dek
+else if (ns6)
+skn=document.getElementById("dek").style
+else if (ie4)
+skn=document.all.dek.style
+if(ns4)document.captureEvents(Event.MOUSEMOVE);
+else{
+skn.visibility="visible"
+skn.display="none"
+}
+document.onmousemove=get_mouse;
+
+function popup(msg,bak){
+var content="<TABLE BGCOLOR=FFFFCC WIDTH=337 BORDER=1 BORDERCOLOR=blue CELLPADDING=6 CELLSPACING=0 "+
+"BGCOLOR="+bak+"><TD ALIGN=left BGCOLOR=FFFFFF><FONT COLOR=black SIZE=2 FONT=Arial>"+msg+"</FONT></TD></TABLE>";
+yyy=Yoffset;
+ if(ns4){skn.document.write(content);skn.document.close();skn.visibility="visible"}
+ if(ns6){document.getElementById("dek").innerHTML=content;skn.display=''}
+ if(ie4){document.all("dek").innerHTML=content;skn.display=''}
+}
+
+function get_mouse(e){
+var x=(ns4||ns6)?e.pageX:event.x+document.body.scrollLeft;
+skn.left=x+Xoffset;
+var y=(ns4||ns6)?e.pageY:event.y+document.body.scrollTop;
+skn.top=y+yyy;
+}
+
+function kill(){
+yyy=-1000;
+if(ns4){skn.visibility="hidden";}
+else if (ns6||ie4)
+skn.display="none"
+}
+
+//-->
+</SCRIPT>
+
+
+<object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=4,0,0,0" width=0 height=0 align="absmiddle">
+<param name=movie value="european_anthem_short.swf">
+<param name=quality value=best>
+<param name=wmode value=transparent>
+<param name=bgcolor value=#80FF80>
+<param name=loop value=false>
+<embed src="european_anthem_long.swf" quality=best wmode=transparent bgcolor=#80FF80 loop=false width=0 height=0 type="application/x-shockwave-flash" pluginspage="http://www.macromedia.com/shockwave/download/index.cgi?P1_Prod_Version=ShockwaveFlash" align="absmiddle">
+</embed>
+</object>
+
+
+
+<center><font color="#000000" size=2 face="Arial">
+
+<!-- START You are here -->
+<table bgcolor="#FFFFFF" width="98%" cellpadding=8 cellspacing=0 border=0>
+<tr><td align=left><font color="#000000" size=2 face="Arial">
+You are here: 
+<a href="http://www.discountairfares.com"><font color="#000000" size=2 face="Arial">European Travel Network Home Page</font></a> > 
+<a href="http://www.discountairfares.com/free"><font color="#000000" size=2 face="Arial">Free Services</font></a> > 
+<font color="#000000" size=2 face="Arial"><b>European Anthem</b></font>
+<br><b>Our other free, public service pages:</b> 
+<a href="http://www.discountairfares.com/org"><font color="#000000" size=2 face="Arial">Useful Travel Sites</font></a> - 
+<a href="http://www.discountairfares.com/voice"><font color="#000000" size=2 face="Arial">Free Video and Voice programs</font></a> - 
+<a href="http://www.discountairfares.com/software"><font color="#000000" size=2 face="Arial">Free Software</font></a>
+</td></tr>
+</table>
+<!-- END You are here -->
+
+
+<!-- START Title -->
+<table bgcolor="#CCCCFF" width="100%" cellpadding=6 cellspacing=0 border=0>
+<tr><td align=center><font color="black" size=4 face="Arial"><b>
+EuropeanAnthem.eu</b><BR><font color="black" size=2 face="Arial"><i>
+Download the European Anthem or save it as a ringtone to your cell phone<br>
+<b>Upon opening this page you hear the European Anthem during 32 seconds</b>
+</i></font></td></tr></table>
+<!-- END Title -->
+
+<!-- PUBLIC SERVICE ANNOUNCEMENT -->
+<table bgcolor="#FFFF80" width="100%" cellpadding=4 cellspacing=0 border=0>
+<tr><td align=left><font color="black" size=2 face="Arial"><i>
+ &nbsp;  &nbsp; This European Anthem page is a free, public service of European Travel Network, 
+one of Europe's oldest travelsites since May 1995
+<br> &nbsp;  &nbsp; 
+Files and ringtones on this page don't contain any spyware or badware.  &nbsp; 
+All files and ringtones on this page are free to download</i>
+<br> &nbsp;  &nbsp; <b>Need a cheap flight?</b>  &nbsp; 
+<a href="http://www.discountairfares.com/frqcoun/euroanth.htm">
+<font color="#000000" size=2 face="Arial"><b>
+Request here a FREE Fare Quote for your next flight from The World's Best travel agents!</b></font></a>
+</i></font></td></tr></table>
+
+
+<!-- top-of-page-banner -->
+<iframe name="24window" width="750" height="115" frameborder="0" scrolling="no" src="http://www.discountairfares.com/ownads/peepads/topofpagebanner702x90.htm"></iframe>
+
+
+</center><ol>
+<a href="http://www.etntalk.com/barack-obama/president_barack_obama_inauguration_speech_20_january_2009.html" target="_blank">
+<font color="red" size=4 face="Arial"><b>President Barack Obama ringtone! (First 25 seconds of Inauguration Speech)</b></font></a>
+<BR><center>
+
+<table bgcolor="#FFFFFF" width="100%" cellpadding=5 cellspacing=0 border=0>
+
+
+<tr><a name="forwarding">
+<td bgcolor="#DDDDDD" align=left valign=top>
+<font color="black" size="3" face="Arial"><b>
+1.  &nbsp;  European Anthem</b></font>
+</td>
+</tr>
+
+<tr>
+<td bgcolor="#FFFFFF" align=left valign=top>
+<font color="black" size="2" face="Arial">
+<font color="red"><b>1.</b></font> The Council of European Ministers officially announced the 
+European Anthem on 19 January 1972: 
+<br> &nbsp; &nbsp;  the prelude to <font color="blue">The Ode to Joy</font>, 4th movement of 
+Ludwig van Beethoven's 9th symphony.
+
+</font></td>
+</tr>
+
+<tr><a name="unlimitedforwarding">
+<td bgcolor="#DDDDDD" align=left valign=top>
+<font color="black" size="3" face="Arial"><b>
+2.  &nbsp;  Play or download the European Anthem </b>(.mp3 or .swf) </font>
+</td>
+</tr>
+
+<tr>
+<td bgcolor="#FFFFFF" align=left valign=top>
+<font color="black" size="2" face="Arial">
+<font color="red"><b>1.</b></font> 
+To save a file to your computer, right-click on a link below and select 
+<font color="blue">Save Target As</font> 
+<br> &nbsp; &nbsp;  
+<a href="european_anthem_long.mp3"><font color="black" size="2" face="Arial"><b>
+European Anthem - <i>long version (.mp3)</i></b></font></a> <i>(147sec, 1.12 Mb)</i>
+<br> &nbsp; &nbsp;  
+<a href="european_anthem_long.swf" target="_blank"><font color="black" size="2" face="Arial"><b>
+European Anthem - <i>long version (.swf)</i></b></font></a> <i>(147sec, 446 Kb, plays instantly!)</i>
+<br> &nbsp; &nbsp;  
+<a href="european_anthem_short.mp3"><font color="black" size="2" face="Arial"><b>
+European Anthem - <i>short version (.mp3)</i></b></font></a> <i>(32sec, 128 Kb)</i>
+<br> &nbsp; &nbsp;  
+<a href="european_anthem_short.swf" target="_blank"><font color="black" size="2" face="Arial"><b>
+European Anthem - <i>short version (.swf)</i></b></font></a> <i>(32sec, 100 Kb, embedded in this page)</i>
+</font></td>
+</tr>
+
+<tr><a name="unlimitedforwarding">
+<td bgcolor="#DDDDDD" align=left valign=top>
+<font color="black" size="3" face="Arial"><b>
+3.  &nbsp;  Download the European Anthem as a free ringtone </b>(6 different formats) </font>
+</td>
+</tr>
+
+<tr>
+<td bgcolor="#FFFFFF" align=left valign=top>
+<font color="black" size="2" face="Arial">
+<font color="red"><b>1.</b></font> 
+If your cell phone can be connected to your computer or if your cell phone can
+<br> &nbsp; &nbsp; receive emails with attachment, you can download the European Anthem as ringtone
+<BR><font color="red"><b>2.</b></font> 
+Check your cell phone in the ringtones-directory which file formats can be used as ringtone
+<BR><font color="red"><b>3.</b></font> 
+To save a file to your computer, right-click on a link below and select 
+<font color="blue">Save Target As</font> 
+<br> &nbsp; &nbsp;  
+<a href="european_anthem_mp3.mp3"><font color="black" size="2" face="Arial"><b>
+European Anthem - <i>MP3 version (.mp3)</i></b></font></a> <i>(32sec, 128 Kb)</i>
+<br> &nbsp; &nbsp;  
+<a href="european_anthem_amr.amr"><font color="black" size="2" face="Arial"><b>
+European Anthem - <i>AMR version (.amr)</i></b></font></a> <i>(32sec, 31 Kb)</i>
+<br> &nbsp; &nbsp;  
+<a href="european_anthem_mid.mid"><font color="black" size="2" face="Arial"><b>
+European Anthem - <i>MID version (.mid)</i></b></font></a> <i>(32sec, 15 Kb)</i>
+<br> &nbsp; &nbsp;  
+<a href="european_anthem_mmf.mmf"><font color="black" size="2" face="Arial"><b>
+European Anthem - <i>MMF version (.mmf)</i></b></font></a> <i>(32sec, 128 Kb)</i>
+<br> &nbsp; &nbsp;  
+<a href="european_anthem_qcp.qcp"><font color="black" size="2" face="Arial"><b>
+European Anthem - <i>QCP version (.qcp)</i></b></font></a> <i>(32sec, 56 Kb)</i>
+<br> &nbsp; &nbsp;  
+<a href="european_anthem_swf.swf"><font color="black" size="2" face="Arial"><b>
+European Anthem - <i>SWF version (.swf)</i></b></font></a> <i>(32sec, 100 Kb)</i>
+</font></td>
+</tr>
+
+<tr><a name="unlimitedforwarding">
+<td bgcolor="#DDDDDD" align=left valign=top>
+<font color="black" size="3" face="Arial"><b>
+4.  &nbsp;  Embed the European Anthem in your webpage or blog</b></font>
+</td>
+</tr>
+
+<tr>
+<td bgcolor="#FFFFFF" align=left valign=top>
+<font color="black" size="2" face="Arial">
+<font color="red"><b>1.</b></font> 
+Paste the following html code in any of your webpages below the BODY tag 
+ &nbsp; <i>That's all!</i>
+<br> &nbsp; &nbsp; 
+<textarea name="none" rows="18" cols="80" style="color:blue;font:Arial;font-weight:bold">
+
+<object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=4,0,0,0" width=0 height=0 align="absmiddle">
+<param name=movie value="http://www.etntalk.com/european_anthem/european_anthem_short.swf">
+<param name=quality value=best>
+<param name=wmode value=transparent>
+<param name=bgcolor value=#80FF80>
+<param name=loop value=false>
+<embed src="http://www.etntalk.com/european_anthem/european_anthem_long.swf" quality=best wmode=transparent bgcolor=#80FF80 loop=false width=0 height=0 type="application/x-shockwave-flash" pluginspage="http://www.macromedia.com/shockwave/download/index.cgi?P1_Prod_Version=ShockwaveFlash" align="absmiddle">
+</embed>
+</object>
+
+</textarea>
+
+
+<br><font color="red"><b>2.</b></font> 
+If you want to embed the <font color="blue" size=2 face="Arial">long version (147sec)</font>, please 
+replace in the html code 
+<br> &nbsp;  &nbsp; <font color="blue" size=2 face="Arial">european_anthem_short.swf</font> 
+ &nbsp; by  &nbsp; <font color="blue" size=2 face="Arial">european_anthem_long.swf</font> in 
+2 places!
+<br><font color="red"><b>3.</b></font> 
+You can embed the European Anthem on as many pages or blogs as you want
+<br><font color="red"><b>4.</b></font> 
+If you want to publish on your webpage or blog any other MP3 file or your voice,   
+<a href="http://www.etn.nl/voice/voicbutt.htm" target="_blank">
+<font color="blue" size="2" face="Arial">please read this</font></a>
+</font></td>
+</tr>
+</table>
+
+<BR><center>
+<iframe name="15window" width="1000" height="120" frameborder="0" scrolling="no" src="http://www.discountairfares.com/ownads/peepads/anyetn960x70.htm"></iframe>
+
+</center>
+
+<!-- END TABLE MET GOOGLE ADS ERIN -->
+</td><td bgcolor="#CCCCFF" width="20" align="right" valign="top">
+
+
+
+</td></tr></table>
+<!-- END TABLE MET GOOGLE ADS ERIN -->
+
+
+
+
+
+<a name="notify">
+<!-- START  Recommend / Fax / Broken links -->
+<table width=100% bgcolor="#CCCCFF" cellpadding=10 cellspacing=0 border=0>
+<tr><td align=center>
+<a href="http://www.etntelephone.com/cgi-bin/birdcast.cgi" target="_blank"><font color="#000000" size=2 face="Arial"><b>
+Tell a<br>friend</b></font></a></td>
+<td align=center>
+<a href="http://www.discountairfares.com/worksnot.htm" target="_blank"><font color="#000000" size=2 face="Arial"><b>
+Report a<br>broken link</b></font></a></td>
+<td align=center>
+<a href="http://www.discountairfares.com/chat_to_etn.htm" target="_blank"><font color="#000000" size=2 face="Arial"><b>
+Contact<br>ETN</b></font></a></td>
+<td align=center>
+<a href="http://www.discountairfares.com/translate/" target="_blank"><font color="#000000" size=2 face="Arial"><b>
+Translate<br>this page</b></font></a></td>
+<td align=center>
+<a href="http://www.discountairfares.com/mindit.htm" target="_blank"><font color="#000000" size=2 face="Arial"><b>
+Email me <br>if updated</b></font></a></td>
+<td align=center>
+<a href="http://www.discountairfares.com/yourcomm.htm" target="_blank"><font color="#000000" size=2 face="Arial"><b>
+Your<br>comments</b></font></a></td>
+<td align=center>
+<a href="http://www.discountairfares.com/screensavers/makeitss.htm" target="_blank"><font color="#000000" size=2 face="Arial"><b>
+Screen<br>Saver</b></font></a></td>
+<td align=center>
+<SCRIPT>
+<!--
+if ((navigator.appVersion.indexOf("MSIE") > 0)
+  && (parseInt(navigator.appVersion) >= 4)) {
+    document.write("<a href='javascript:window.external.AddFavorite(location.href, document.title);'><font color=black size=2 face=Arial><b>Add to<br>Favorites</b></font></a>");
+}
+//-->
+</SCRIPT>
+</td></tr></table>
+<!-- END  Recommend / Fax / Broken links -->
+
+
+
+
+
+<center>
+<!-- *** COPY THIS LINE -->
+<SCRIPT LANGUAGE="JavaScript" SRC="http://www.discountairfares.com/jsimport/flicru.js">
+
+   document.write(htmlform);
+
+// End JavaScript-->
+</SCRIPT>
+
+<!-- *** THRU THIS LINE -->
+</center>
+<br>
+
+
+
+
+<FORM>
+<center>
+<table width="640"><tr><td align="center">
+<a href="javascript:history.go(-1)" onMouseOver="self.status=document.referrer;return true"><font color="#0000FF" size=5 face="Arial"><b>Back to previous page</b></font></a> - 
+<a href="http://www.discountairfares.com"><font color="#0000FF" size=5 face="Arial"><b>ETN Home Page</b></font></a>
+</td></tr></table> 
+<table width="320" bgcolor="#FF0000" cellpadding=7 cellspacing=0 border=0>
+<tr><td align=center valign=middle><font size=2 face="Arial"><b>
+<INPUT TYPE="button" NAME="Button1" VALUE="Click to close this Window" onClick="window.close()">
+</b></font></td>
+</tr></table>
+</FORM>
+
+<br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br>
+
+</b></font>
+
+
+<script src="http://www.etn.nl/jsimport/peel.js" type="text/javascript"></script>
+</body></html>
+
+
+
+
+
+
+
+
+
+
+

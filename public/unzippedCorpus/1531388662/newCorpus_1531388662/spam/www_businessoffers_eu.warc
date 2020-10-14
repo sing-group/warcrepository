@@ -1,0 +1,93 @@
+WARC/1.0
+WARC-Type: warcinfo
+WARC-Date: 2018-05-30T18:18:32Z
+WARC-Record-ID: <urn:uuid:0fc0a9cd-6a46-4b32-8e58-555de356fd00>
+WARC-All-Language: en
+WARC-All-Content_type: text/html
+Content-Type: application/http;msgtype=response
+Content-Length: 46
+
+WARCProcessor by SING Group www.sing-group.com
+
+WARC/1.0
+WARC-Type: response
+WARC-Record-ID: <http://www.businessoffers.eu>
+WARC-Date: 20180530181832
+WARC-Target-URI: http://www.businessoffers.eu
+WARC-Language: en
+Content-Type: application/http;msgtype=response
+Content-Length: 3076
+
+HTTP/1.1 200
+Content-Type:text/html
+
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head>
+<script type="text/javascript">
+ns4 = document.layers;
+ie4 = document.all;
+nn6 = document.getElementById && !document.all;
+
+function hideObject() {
+	if (ns4) {
+		document.n1.visibility = "hide";
+	}
+	else if (ie4) {
+		document.all['n1'].style.visibility = "hidden";
+	}
+	else if (nn6) {
+		document.getElementById('n1').style.visibility = "hidden";
+	}
+}
+
+function showObject() {
+	if (ns4) {
+		document.n1.visibility = "show";
+	}
+	else if (ie4) {
+		document.all['n1'].style.visibility = "visible";
+	}
+	else if (nn6) {
+		document.getElementById('n1').style.visibility = "visible";
+	}
+}
+</script>
+
+<title>BusinessOffers.eu's  editable websites can promote your European Business Offers online in a local language.</title><meta name="description" content="BusinessOffers.eu - Visit their site to build your own editable, multi paged, multi lingual Business Offers Website and to check on its suitability for use as your business website. Afterwards, you can continue using your Business Offers Website by paying Our Pages Ltd a twelve pounds annual subscription."><meta name="keywords" content="business offers, business offer,  create your web site, free templates, no downloads, personal website, personal multi-paged web site, memorable web site address"><link rel='Stylesheet' title='main' type='text/css' href='front.css'>
+</head>
+<body>
+<div ID='content'>
+<div class='servername'>
+<div ID='indeximgs' style="padding: 0 0 0 8px">
+businessoffers.eu<br>
+<div style="font-size: small; width: 420px;" id="Coming"> Coming soon - Add pages to and personalise one of OurPages Editable 5-page Templates, using WordPress themes to let you create and update you Personal Website online within minutes!</div>
+<img src="images/speck.gif" align="right" alt="Our pages, instant editable websites">
+</DIV><BR></DIV>
+<p class="width">
+BusinessOffers.eu's  editable websites can promote your European Business Offers online in a local language.</p>
+<div id="Layer1"><img src="images/offer1.gif" width="233" height="206" alt="from only £12.00 per year for a limited period only"></div>
+<br>
+</P>
+<div id="whitebutton"><A href="http://www.businessoffers.eu/index1.php">Enter this web site</a></div>
+<div id="address">
+This website is operated by Our Pages Ltd, The Lilies, Griffe Grange Valley, Grangemill, Matlock, Derbyshire, DE4 4BW, England.<br>Phone +44 1629 650194, Fax +44 1629 690017
+</div>
+<p class="bottom">
+BusinessOffers.eu - Visit their site to build your own editable, multi paged, multi lingual Business Offers Website and to check on its suitability for use as your business website. Afterwards, you can continue using your Business Offers Website by paying Our Pages Ltd a twelve pounds annual subscription.</p>
+<div id="powered"></div>
+<p class="bottom"></p>
+</DIV>
+
+
+<script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
+</script>
+<script type="text/javascript">
+_uacct = "UA-971450-1";
+urchinTracker();
+</script>
+</BODY></HTML>
+
+
+

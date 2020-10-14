@@ -1,0 +1,225 @@
+WARC/1.0
+WARC-Type: warcinfo
+WARC-Date: 2018-05-30T17:52:31Z
+WARC-All-Language: en
+WARC-All-Content_type: text/html
+WARC-Record-ID: <urn:uuid:0a0a3fb3-b1a0-43fb-a40c-9b34df690c0a>
+Content-Type: application/http;msgtype=response
+Content-Length: 46
+
+WARCProcessor by SING Group www.sing-group.com
+
+WARC/1.0
+WARC-Type: response
+WARC-Target-URI: http://www.andycarter.eu
+WARC-Date: 20180530175231
+WARC-Language: en
+WARC-Record-ID: <http://www.andycarter.eu>
+Content-Type: application/http;msgtype=response
+Content-Length: 24944
+
+HTTP/1.1 200
+Content-Type:text/html
+
+
+<!DOCTYPE html><html><head><title>Andy Carter, PR and communications specialist, radio and broadcast training ::: andycarter.eu</title><script type="text/javascript" src="ew_js/mobileRedirect.js"></script><script type="text/javascript">redirectURL('/mobile.html');</script><link rel="alternate" media="only screen and (max-width: 700px)" href="/mobile.html" /><meta http-equiv="Content-type" content="text/html;charset=UTF-8" /><meta name="viewport" content="width=1000" /><meta name="description" content="" /><meta name="generator" content="EverWeb 2.5.1 (1844)" /><meta name="buildDate" content="Saturday, 27 January 2018" /><link rel="canonical" href="http://andycarter.eu/" /><meta property="og:url" content="http://andycarter.eu/" /><meta property="og:title" content="Andy Carter, PR and communications specialist, radio and broadcast training ::: andycarter.eu" /><meta property="og:type" content="website" /> <link rel="stylesheet" type="text/css" href="ew_css/textstyles.css" /><!--[if lt IE 9]>
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+<!--<![endif]-->
+<!--[if (gte IE 9) | (!IE)]><!-->
+<script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
+<!--<![endif]-->
+<script type="text/javascript">
+if (typeof jQuery == 'undefined')
+{
+<!--[if lt IE 9]>
+ document.write(unescape("%3Cscript src='ew_js/jquery-1.9.1.min' type='text/javascript'%3E%3C/script%3E"));
+<!--<![endif]-->
+<!--[if (gte IE 9) | (!IE)]><!-->
+ document.write(unescape("%3Cscript src='ew_js/jquery.min.js' type='text/javascript'%3E%3C/script%3E"));
+<!--<![endif]-->
+}
+</script><script type="text/javascript" src="ew_js/imageCode.js"></script><script type="text/javascript" src="ew_js/galleria-1.5.5.js"></script><script type="text/javascript" src="ew_js/galleria.classic.js"></script><link rel="stylesheet" type="text/css" href="ew_css/galleria.classic.css" /><link rel="stylesheet" type="text/css" href="//fonts.googleapis.com/css?family=Raleway:400,300">
+	<style>
+    	#galleria_10{height:99px;width:100%; }
+    		
+    	#galleria_10 .galleria-stage {left:0px;top:0px;right:0px;bottom:0px;}
+   		
+   		#galleria_10 .galleria-info-text {
+    		background-color:rgba(0,0,0,0.3);
+    		font-size:12px;
+    	}
+    	
+   		#galleria_10 .galleria-info-title {
+    		font-family: Arial;
+    		font-size:1.3em;
+    		color:#000000;
+    		font-style:none;
+    		font-weight:normal;
+    		text-decoration:none;
+    	}
+    	
+    	
+    	#galleria_10 .galleria-info-description {
+    		font-family: Arial;
+    		font-size:12px;
+    		color:#000000;
+    		font-style:none;
+    		font-weight:normal;
+    		text-decoration:none;
+    	}
+    	
+    	#galleria_10 .galleria-info {
+    		width:50%;
+    		top:50%;
+    		left:50%;
+    		word-wrap: break-word;
+    	}
+
+        #galleria_10 .galleria-image-nav-right {
+            
+            background-image: url(ew_css/classic-map.png);
+            background-repeat: no-repeat;
+        }
+        
+        #galleria_10 .galleria-image-nav-left {
+            
+            background-image: url(ew_css/classic-map.png);
+            background-repeat: no-repeat;
+        }
+
+        #galleria_10 .galleria-info-text {display: block;}
+
+         
+   
+    </style>
+	
+	<style>
+    	#galleria_16{height:100px;width:100%; }
+    		
+    	#galleria_16 .galleria-stage {left:0px;top:0px;right:0px;bottom:0px;}
+   		
+   		#galleria_16 .galleria-info-text {
+    		background-color:rgba(0,0,0,0.3);
+    		font-size:12px;
+    	}
+    	
+   		#galleria_16 .galleria-info-title {
+    		font-family: Arial;
+    		font-size:1.3em;
+    		color:#000000;
+    		font-style:none;
+    		font-weight:normal;
+    		text-decoration:none;
+    	}
+    	
+    	
+    	#galleria_16 .galleria-info-description {
+    		font-family: Arial;
+    		font-size:12px;
+    		color:#000000;
+    		font-style:none;
+    		font-weight:normal;
+    		text-decoration:none;
+    	}
+    	
+    	#galleria_16 .galleria-info {
+    		width:50%;
+    		top:50%;
+    		left:50%;
+    		word-wrap: break-word;
+    	}
+
+        #galleria_16 .galleria-image-nav-right {
+            
+            background-image: url(ew_css/classic-map.png);
+            background-repeat: no-repeat;
+        }
+        
+        #galleria_16 .galleria-image-nav-left {
+            
+            background-image: url(ew_css/classic-map.png);
+            background-repeat: no-repeat;
+        }
+
+        #galleria_16 .galleria-info-text {display: block;}
+
+         
+   
+    </style>
+	<style type="text/css">a img {border:0px;}body {background-color: #FEFFFF;margin: 0px auto;}div.container {margin: 0px auto;width: 1000px;height: 5009px;background-color: #FEFFFF;}.shape_2 {background-color:#8DA8B9;}.shape_4 {background-color:#00B1E5;}.shape_13 {background-color:#C1C1C1;}.shape_21 {background-color:#76D7E8;}.shape_11030 {background-color:#FEFFFF;}</style><link href="https://fonts.googleapis.com/css?family=Raleway:100,100i,200,200i,300,300i,400,400i,500,500i,600,600i,700,700i,800,800i,900,900i" rel="stylesheet">
+
+<style type="text/css">
+.anchor {font: 15px 'Verdana', Helvetica, sans-serif;color:#000000;margin:0;padding: 0}
+.anchor a {text-decoration:none;color:#0000FF}
+.anchor a:hover {color: #FF0000}
+</style>
+</head><body><div class="shadow"><div class="container" style="height:5009px"><header></header><div class="content" data-minheight="800"><div style="position:relative"><div style="left:214px;top:3300px;height:83px;width:561px;position: absolute;z-index: 0;"><a name="connect">connect</a></div></div><div style="position:relative"><div style="left:185px;top:1442px;height:83px;width:561px;position: absolute;z-index: 1;"><a name="about">about</a></div></div><div class="shape_2" style="left:0;top:103px;width:100%;min-width:1000px;height:1456px;z-index:2;position:absolute;"></div><div style="position:relative"><div class="shape_3" style="left:43px;top:151px;width:895px;height:835px;z-index:3;position:absolute;"><img src="images/home/Screen Shot 2016-08-24 at 22.53.36-1.png" height="835" width="895" /></div></div><div class="shape_4" style="left:0;top:4858px;width:100%;min-width:1000px;height:150px;z-index:4;position:absolute;"></div><div style="position:relative"><a href="http://linkedin.andycarter.eu" target="_blank"><div class="shape_5" style="left:721px;top:4904px;width:60px;height:60px;z-index:5;position:absolute;"><img src="images/home/1472174654_Linkedin_icon.png" height="60" width="60" data-src2x="images/home/1472174654_Linkedin_icon@2x.png" srcset="images/home/1472174654_Linkedin_icon.png 1x, images/home/1472174654_Linkedin_icon@2x.png 2x" /></div></a></div><div style="position:relative"><a href="http://twitter.com/andy_carter" target="_blank"><div class="shape_6" style="left:642px;top:4904px;width:60px;height:60px;z-index:6;position:absolute;"><img src="images/home/1472174660_Twitter_icon.png" height="60" width="60" data-src2x="images/home/1472174660_Twitter_icon@2x.png" srcset="images/home/1472174660_Twitter_icon.png 1x, images/home/1472174660_Twitter_icon@2x.png 2x" /></div></a></div><div style="position:relative"><a href="http://youtube.com/commsbloke" target="_blank"><div class="shape_7" style="left:884px;top:4903px;width:62px;height:62px;z-index:7;position:absolute;"><img src="images/home/1472174670_You_Tube_icon.png" height="62" width="62" data-src2x="images/home/1472174670_You_Tube_icon@2x.png" srcset="images/home/1472174670_You_Tube_icon.png 1x, images/home/1472174670_You_Tube_icon@2x.png 2x" /></div></a></div><div style="position:relative"><a href="http://instagram.com/newsbloke" target="_blank"><div class="shape_8" style="left:801px;top:4904px;width:60px;height:60px;z-index:8;position:absolute;"><img src="images/home/1472174641_instagram_icon.png" height="60" width="60" data-src2x="images/home/1472174641_instagram_icon@2x.png" srcset="images/home/1472174641_instagram_icon.png 1x, images/home/1472174641_instagram_icon@2x.png 2x" /></div></a></div><div style="position:relative"><div class="shape_9" style="left:87px;top:4887px;width:474px;height:93px;z-index:9;position:absolute;"><div style="margin: 0px 2.16px 0px 2.16px; "><p style="line-height:19px;margin-top:0px;margin-bottom:11px;" class="Style1">© Andy Carter 2018.&nbsp;&nbsp;All rights reserved<span class="Style2">.</span></p><p style="line-height:19px;margin-bottom:11px;margin-top:0px;" class="Style3">M: 07973 174319</p><p style="line-height:19px;margin-bottom:11px;margin-top:0px;" class="Style3">E: <a href="mailto:andy@andycarter.eu?subject=Email sent via andycarter.eu" class="linkStyle_4">andy@andycarter.eu</a></p></div></div></div><div style="position:relative"><div style="left:336px;top:1696px;height:100px;width:323px;position: absolute;z-index: 10;">
+	<!--322-->
+	<div id="galleria_10">
+ 	<img src="ewExternalFiles/BBC_Logo.jpg"/>
+<img src="ewExternalFiles/ocean005.jpg"/>
+<img src="ewExternalFiles/LBC1logo.jpg"/>
+<img src="ewExternalFiles/chiltern.jpg"/>
+<img src="ewExternalFiles/Oasis.jpg"/>
+<img src="ewExternalFiles/vrwhitelogo.jpg"/>
+<img src="ewExternalFiles/iwradio%20logo.png"/>
+<img src="ewExternalFiles/sky%20news%20logo.jpg"/>
+<img src="ewExternalFiles/tlrc%20logo.jpg"/>
+<img src="ewExternalFiles/realradio_logo-266x150.jpg"/>
+
+	</div>
+ <script>
+            Galleria.run('#galleria_10', {
+            imageCrop: 'false',
+		    carousel: true,
+            responsive: true,
+            swipe:false,
+            autoplay: 4000,
+		    thumbnails: false,
+            thumbPosition: 'center',
+            showinfo: true, _toggleInfo: false,
+		    
+            initialTransition: '',transition:'fade', 
+            transitionSpeed:500,
+            showImagenav: false, 
+            showCounter: false,
+            height:99,
+		    
+});
+</script></div></div><div style="position:relative"><div class="shape_11" style="left:0px;top:1610px;width:1000px;height:66px;z-index:11;position:absolute;"><div style="margin: 0px 2.16px 0px 2.16px; "><p style="line-height:56px;text-align:center;margin-top:0px;margin-bottom:11px;" class="Style7">Radio me</p></div></div></div><div style="position:relative"><div class="shape_12" style="left:116px;top:1838px;width:768px;height:355px;z-index:12;position:absolute;"><div style="margin: 4.32px 4.32px 4.32px 4.32px; "><p style="line-height:31.5px;text-align:center;margin-top:0px;margin-bottom:11px;" class="Style8">I've been working in communications (in its widest sense) since 1991 when a man, who I still regard as a radio guru, 'foolishly' gave into my pestering and offered me a job as his weekend journalist.&nbsp;&nbsp;I've not looked back since.</p><p style="line-height:31.5px;text-align:center;margin-bottom:11px;margin-top:0px;" class="Style8">My career highlights include spells at Sky News, the BBC, Virgin Radio (as was) and four amazing years as the managing editor at Isle of Wight Radio.&nbsp;&nbsp;It is possibly the greatest little radio station in the world.</p><p style="line-height:31.5px;text-align:center;margin-bottom:11px;margin-top:0px;" class="Style8">My final full-time job radio was group head of news for The Local Radio Company (now UKRD).&nbsp;&nbsp;I had editorial roles at Isle of Wight Radio, The Quay in Portsmouth, Win FM Winchester, Mix 107 High Wycombe and Mix 96 in Aylesbury.&nbsp;&nbsp;I was also responsible for legal and compliance matters and training across TLRC's wider group of stations.</p></div></div></div><div class="shape_13" style="left:0;top:2944px;width:100%;min-width:1000px;height:496px;z-index:13;position:absolute;"></div><div style="position:relative"><div class="shape_14" style="left:0px;top:2282px;width:1000px;height:66px;z-index:14;position:absolute;"><div style="margin: 0px 2.16px 0px 2.16px; "><p style="line-height:56px;text-align:center;margin-top:0px;margin-bottom:11px;" class="Style7">PR and communications me</p></div></div></div><div style="position:relative"><div class="shape_15" style="left:116px;top:2510px;width:769px;height:439px;z-index:15;position:absolute;"><div style="margin: 4.32px 4.32px 4.32px 4.32px; "><p style="line-height:31.5px;text-align:center;margin-top:0px;margin-bottom:11px;" class="Style8">I am currently (2018) working in local government in an interim role at a district council.&nbsp;&nbsp;Before that, I spent a year as head of communications at City of York Council and previously, I was on an assignment (via Be Ambitious) with a FTSE 100 company in the north west.&nbsp;&nbsp;I was brought in during 2015 to assist with media relations and customer communications during a crisis affecting 330,000 customers.&nbsp;&nbsp;I was retained to support a digital project to improve customer communications.&nbsp;&nbsp;</p><p style="line-height:31.5px;text-align:center;margin-bottom:11px;margin-top:0px;" class="Style8">Previously, I worked for Westco/Westminster City Council as the interim director of communications at Peterborough Council.&nbsp;&nbsp;I was asked to lead the existing Peterborough team through a review and restructure process.</p><p style="line-height:31.5px;text-align:center;margin-bottom:11px;margin-top:0px;" class="Style8">Before that, I worked as the head of communications at both the London Borough of Sutton (for Westco) and Leeds City Council.&nbsp;&nbsp;Between 2011 and the end of 2012, I was the director of communications and development at Northumbria University in Newcastle.</p></div></div></div><div style="position:relative"><div style="left:274px;top:2368px;height:101px;width:447px;position: absolute;z-index: 16;">
+	<!--446-->
+	<div id="galleria_16">
+ 	<img src="ewExternalFiles/lcc_logo_colour.jpg"/>
+<img src="ewExternalFiles/northumbria%20logo.jpg"/>
+<img src="ewExternalFiles/be_ambitious%20logo.jpg"/>
+<img src="ewExternalFiles/cmp.jpg"/>
+
+	</div>
+ <script>
+            Galleria.run('#galleria_16', {
+            imageCrop: 'false',
+		    carousel: true,
+            responsive: true,
+            swipe:false,
+            autoplay: 4000,
+		    thumbnails: false,
+            thumbPosition: 'center',
+            showinfo: true, _toggleInfo: false,
+		    
+            initialTransition: '',transition:'fade', 
+            transitionSpeed:500,
+            showImagenav: false, 
+            showCounter: false,
+            height:100,
+		    
+});
+</script></div></div><div style="position:relative"><div class="shape_17" style="left:43px;top:1042px;width:895px;height:66px;z-index:17;position:absolute;"><div style="margin: 0px 2.16px 0px 2.16px; "><p style="line-height:56px;text-align:center;margin-top:0px;margin-bottom:11px;" class="Style9">Hello there.&nbsp;&nbsp;Thanks for stopping by.</p></div></div></div><div style="position:relative"><div class="shape_18" style="left:43px;top:1136px;width:895px;height:460px;z-index:18;position:absolute;"><div style="margin: 4.32px 4.32px 4.32px 4.32px; "><p style="line-height:31.5px;text-align:center;margin-top:0px;margin-bottom:11px;" class="Style10">I'm Andy Carter (that's me above in the arty-farty black and white image).</p><p style="line-height:31.5px;text-align:center;margin-bottom:11px;margin-top:0px;" class="Style10">I'm a former broadcast journalist, who after a 17 year career in front of the microphone, made the switch from news to communications in 2007.</p><p style="line-height:31.5px;text-align:center;margin-bottom:11px;margin-top:0px;" class="Style10">I am also the director of my own company.&nbsp;&nbsp;It's called <a href="http://www.beambitious.co.uk" target="_blank"  class="linkStyle_11">Be Ambitious</a><span class="Style14"> and I have been working with a range of clients across the public, private and charity sectors.&nbsp;&nbsp;Be Ambitious provides PR, communications and broadcast consultancy services.&nbsp;&nbsp;I'm also developing an aerial photography business.</span></p><p style="line-height:31.5px;text-align:center;margin-bottom:21px;margin-top:0px;" class="Style10">Home is North Yorkshire, in a village nestled between the North York Moors and the Yorkshire Dales.&nbsp;&nbsp;It is the perfect place to work from.</p><p style="line-height:31.5px;text-align:center;margin-bottom:21px;margin-top:0px;" class="Style10">This is my personal site.&nbsp;&nbsp;There aren't loads of pages (believe me, I've not got that much to say) but it should give you some more information about me, what I do and how you can get in touch.</p></div></div></div><div style="position:relative"><div class="shape_19" style="left:0px;top:2986px;width:1000px;height:66px;z-index:19;position:absolute;"><div style="margin: 0px 2.16px 0px 2.16px; "><p style="line-height:56px;text-align:center;margin-top:0px;margin-bottom:11px;" class="Style7">Other stuff worth knowing</p></div></div></div><div style="position:relative"><div class="shape_20" style="left:116px;top:3068px;width:770px;height:343px;z-index:20;position:absolute;"><div style="margin: 4.32px 4.32px 4.32px 4.32px; "><p style="line-height:31.5px;text-align:center;margin-top:0px;margin-bottom:11px;" class="Style8">I am a member of the Chartered Institute of Public Relations and the Public Relations and Communications Association (formerly the Public Relations Consultants Association).</p><p style="line-height:31.5px;text-align:center;margin-bottom:11px;margin-top:0px;" class="Style8">I am a PR, communications and broadcast journalism tutor for the College of Media and Publishing.&nbsp;&nbsp;It is one of the largest providers of accredited online courses in the UK.</p><p style="line-height:31.5px;text-align:center;margin-bottom:11px;margin-top:0px;" class="Style8">I am a member of the national executive committee of LGcommunications.&nbsp;&nbsp;I'm also part of the group which organises the annual LGcomms 'Academy' - its yearly national conference.</p><p style="line-height:31.5px;text-align:center;margin-bottom:11px;margin-top:0px;" class="Style8">I am an associate member of, and volunteer for, the UK-wide Hospital Broadcasting Association as training manager.&nbsp;&nbsp;Oh, and, I used to drive buses in London.</p></div></div></div><div class="shape_21" style="left:0;top:3440px;width:100%;min-width:1000px;height:1282px;z-index:21;position:absolute;"></div><div style="position:relative"><div class="shape_22" style="left:0px;top:3500px;width:1000px;height:66px;z-index:22;position:absolute;"><div style="margin: 0px 2.16px 0px 2.16px; "><p style="line-height:56px;text-align:center;margin-top:0px;margin-bottom:11px;" class="Style7">Connecting with and contacting me</p></div></div></div><div style="position:relative"><div class="shape_23" style="left:87px;top:3602px;width:431px;height:1056px;z-index:23;position:absolute;"><div style="margin: 4.32px 4.32px 4.32px 4.32px; "><p style="line-height:31.5px;margin-top:0px;margin-bottom:11px;" class="Style15">Connecting</p><p style="line-height:31.5px;margin-bottom:11px;margin-top:0px;" class="Style8">I welcome any opportunity to make new friends or professional contacts.&nbsp;&nbsp;Please do get in touch.</p><p style="line-height:31.5px;margin-bottom:11px;margin-top:0px;" class="Style8">On the right you can see my Twitter feed.</p><p style="line-height:31.5px;margin-bottom:11px;margin-top:0px;" class="Style8">I'm <a href="http://twitter.com/andy_carter" target="_blank"  class="linkStyle_16">@andy_carter</a><span class="Style19"> on Twitter and you're welcome to follow me.</span></p><p style="line-height:31.5px;margin-bottom:11px;margin-top:0px;" class="Style8">I tweet about communication issues, broadcast journalism and my general observations about life.</p><p style="line-height:31.5px;margin-bottom:11px;margin-top:0px;" class="Style8">I'm also on <a href="http://linkedin.andycarter.eu" target="_blank"  class="linkStyle_16">Linkedin</a><span class="Style19">.&nbsp;&nbsp;I consider it to be the Facebook for professionals.&nbsp;&nbsp;I'd be delighted if you wanted to connect with me.</span></p><p style="line-height:31.5px;margin-bottom:11px;margin-top:0px;" class="Style8">You can also use the links at the bottom of each page.</p><p style="line-height:21px;margin-bottom:11px;margin-top:0px;" class="Style20"><br /></p><p style="line-height:31.5px;margin-bottom:11px;margin-top:0px;" class="Style15">Contacting</p><p style="line-height:31.5px;margin-bottom:11px;margin-top:0px;" class="Style8">Here's how you can get hold of me: </p><p style="line-height:21px;margin-bottom:11px;margin-top:0px;" class="Style15">E:<span class="Style21"> </span><a href="mailto:andy@andycarter.eu?subject=Email sent via andycarter.eu" class="linkStyle_22">andy@andycarter.eu</a></p><p style="line-height:21px;margin-bottom:11px;margin-top:0px;" class="Style15">M:<span class="Style21"> 07973 174319</span></p><p style="line-height:21px;margin-bottom:11px;margin-top:0px;" class="Style15">O:<span class="Style21"> 01609 897578</span></p><p style="line-height:14px;margin-bottom:11px;margin-top:0px;" class="Style20"><br /></p><p style="line-height:31.5px;margin-bottom:11px;margin-top:0px;" class="Style8">You're welcome to contact me about anything, but it's PR, communications and being a broadcast journalist that I know most about.</p><p style="line-height:31.5px;margin-bottom:11px;margin-top:0px;" class="Style8">I'm also on What's App, Skype and Face Time.&nbsp;&nbsp;For the latter two, send me a text or an email so I can make sure I'm availble to join a video call.</p><p style="line-height:31.5px;margin-bottom:11px;margin-top:0px;" class="Style8">And, if all else fails, try me via <a href="http://instagram.com/newsbloke" class="linkStyle_16">Insta</a><a href="http://instagram.com/newsbloke" target="_blank"  class="linkStyle_16">gram</a><span class="Style19">.</span></p></div></div></div><div style="position:relative"><div style="left:582px;top:3652px;height:127px;width:358px;position: absolute;z-index: 24;"><a class="twitter-timeline" href="https://twitter.com/andy_carter" data-widget-id="246694196050792448">Tweets by @andy_carter</a> <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script></div></div><div style="position:relative"><div class="shape_25" style="left:0px;top:4760px;width:1000px;height:66px;z-index:25;position:absolute;"><div style="margin: 0px 2.16px 0px 2.16px; "><p style="line-height:56px;text-align:center;margin-top:0px;margin-bottom:11px;" class="Style25">I look forward to hearing from you soon!</p></div></div></div><div style="position:relative"><div style="left:448px;top:45px;height:20px;width:301px;position: absolute;z-index: 26;"><p style="width:300px;font: 15px 'Times New Roman', helvetica, sans-serif;color:#000000;margin:0;padding:0;padding-left:5px"> <a href="#anchor-1" class="scroll" style="color:#0000FF;text-decoration:none">About me</a> </p></div></div><div style="position:relative"><div style="left:418px;top:43px;height:30px;width:301px;position: absolute;z-index: 27;"><p style="width:300px;font: 18px 'Verdana', helvetica, sans-serif;color:#000000;margin:0;padding:0;padding-left:5px"> <a href="#about-me" class="scroll" style="color:#B4B4B4;text-decoration:none">About me</a> </p></div></div><div style="position:relative"><div style="left:214px;top:1426px;height:88px;width:561px;position: absolute;z-index: 28;"><a id="aboutme"></a></div></div><div style="position:relative"><div style="left:554px;top:756px;height:25px;width:93px;position: absolute;z-index: 29;"><p style="width:92px;font: 15px 'Verdana', helvetica, sans-serif;color:#000000;margin:0;padding:0;padding-left:5px"> <a href="#aboutme" class="scroll" style="color:#0000FF;text-decoration:none"></a> </p></div></div><div class="shape_11030" style="left:0;top:-27px;width:100%;min-width:1000px;height:130px;z-index:11030;position:fixed;"></div><a href="index.html" data-linkuuid="65B81F5A0BF64103BB65BA3D65958381"><div class="shape_11031" style="margin-left:29px;top:24px;width:211px;height:69px;z-index:11031;position:fixed;"><img src="images/home/andycarter logo.jpg" height="69" width="211" /></div></a><div class="shape_11032" style="margin-left:543px;top:42px;width:388px;height:51px;z-index:11032;position:fixed;"><div style="margin: 0px 2.16px 0px 2.16px; "><p style="line-height:21px;text-align:right;margin-top:0px;margin-bottom:11px;" class="Style8"><a href="#about" class="linkStyle_28">About me</a><span class="Style19">&nbsp;&nbsp;|&nbsp;&nbsp;</span><a href="#connect" class="linkStyle_28">Connect with and contact me</a></p></div></div></div><footer data-top='5009' data-height='0'></footer></div></div><script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+<script type="text/javascript">
+jQuery(document).ready(function($) {
+     $(".scroll").click(function(event){          
+          event.preventDefault();
+          $('html,body').animate({scrollTop:$(this.hash).offset().top}, 2000);
+     });
+});
+</script</body></html>
+

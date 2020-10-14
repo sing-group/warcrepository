@@ -1,0 +1,1383 @@
+WARC/1.0
+WARC-Type: warcinfo
+WARC-Date: 2018-05-30T17:52:32Z
+WARC-All-Language: en
+WARC-All-Content_type: text/html; charset=utf-8
+WARC-Record-ID: <urn:uuid:cd2eaa5d-17a7-438a-93fe-961511696aef>
+Content-Type: application/http;msgtype=response
+Content-Length: 46
+
+WARCProcessor by SING Group www.sing-group.com
+
+WARC/1.0
+WARC-Type: response
+WARC-Target-URI: http://www.greenovate-europe.eu
+WARC-Date: 20180530175232
+WARC-Language: en
+WARC-Record-ID: <http://www.greenovate-europe.eu>
+Content-Type: application/http;msgtype=response
+Content-Length: 31432
+
+HTTP/1.1 200
+Content-Type:text/html; charset=utf-8
+
+
+<!DOCTYPE html>
+<html lang="en" dir="ltr" prefix="content: http://purl.org/rss/1.0/modules/content/ dc: http://purl.org/dc/terms/ foaf: http://xmlns.com/foaf/0.1/ og: http://ogp.me/ns# rdfs: http://www.w3.org/2000/01/rdf-schema# sioc: http://rdfs.org/sioc/ns# sioct: http://rdfs.org/sioc/types# skos: http://www.w3.org/2004/02/skos/core# xsd: http://www.w3.org/2001/XMLSchema#"><head>
+  <link rel="profile" href="http://www.w3.org/1999/xhtml/vocab" />
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no">
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="shortcut icon" href="http://www.greenovate-europe.eu/sites/all/themes/ge/favicon.ico" type="image/vnd.microsoft.icon" />
+<meta name="Generator" content="Drupal 7 (http://drupal.org)" />
+<link rel="alternate" type="application/rss+xml" title="Greenovate! Europe RSS" href="http://www.greenovate-europe.eu/rss.xml" />
+  <link href='https://fonts.googleapis.com/css?family=Sanchez:400' rel='stylesheet' type='text/css'>
+  <!-- <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css"> -->
+  <title>Greenovate! Europe</title>
+  <style>
+@import url("http://www.greenovate-europe.eu/modules/system/system.base.css?p198t1");
+</style>
+<style>
+@import url("http://www.greenovate-europe.eu/sites/all/modules/date/date_api/date.css?p198t1");
+@import url("http://www.greenovate-europe.eu/sites/all/modules/date/date_popup/themes/datepicker.1.7.css?p198t1");
+@import url("http://www.greenovate-europe.eu/modules/field/theme/field.css?p198t1");
+@import url("http://www.greenovate-europe.eu/modules/node/node.css?p198t1");
+@import url("http://www.greenovate-europe.eu/sites/all/modules/views/css/views.css?p198t1");
+@import url("http://www.greenovate-europe.eu/sites/all/modules/ckeditor/css/ckeditor.css?p198t1");
+</style>
+<style>
+@import url("http://www.greenovate-europe.eu/sites/all/libraries/bootstrap/css/bootstrap.min.css?p198t1");
+@import url("http://www.greenovate-europe.eu/sites/all/libraries/bootstrap/css/bootstrap-theme.min.css?p198t1");
+@import url("http://www.greenovate-europe.eu/sites/all/modules/ctools/css/ctools.css?p198t1");
+@import url("http://www.greenovate-europe.eu/sites/all/modules/custom_search/custom_search.css?p198t1");
+</style>
+<style>
+@import url("http://www.greenovate-europe.eu/sites/all/themes/ge/css/fonts.css?p198t1");
+@import url("http://www.greenovate-europe.eu/sites/all/themes/ge/css/ge.css?p198t1");
+</style>
+  <!-- HTML5 element support for IE6-8 -->
+  <!--[if lt IE 9]>
+    <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+  <![endif]-->
+  <script src="//code.jquery.com/jquery-1.10.2.min.js"></script>
+<script>window.jQuery || document.write("<script src='/sites/all/modules/jquery_update/replace/jquery/1.10/jquery.min.js'>\x3C/script>")</script>
+<script src="http://www.greenovate-europe.eu/misc/jquery.once.js?v=1.2"></script>
+<script src="http://www.greenovate-europe.eu/misc/drupal.js?p198t1"></script>
+<script src="http://www.greenovate-europe.eu/sites/all/libraries/bootstrap/js/bootstrap.min.js?p198t1"></script>
+<script src="http://www.greenovate-europe.eu/sites/all/modules/custom_search/js/custom_search.js?p198t1"></script>
+<script>jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"ge","theme_token":"-FPr-sqmxptCJ9a_ifMcPyDmgHOstQOIvNMl4iDJKt8","js":{"sites\/all\/themes\/bootstrap\/js\/bootstrap.js":1,"\/\/code.jquery.com\/jquery-1.10.2.min.js":1,"0":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"sites\/all\/libraries\/bootstrap\/js\/bootstrap.min.js":1,"sites\/all\/modules\/custom_search\/js\/custom_search.js":1},"css":{"modules\/system\/system.base.css":1,"sites\/all\/modules\/date\/date_api\/date.css":1,"sites\/all\/modules\/date\/date_popup\/themes\/datepicker.1.7.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"sites\/all\/modules\/views\/css\/views.css":1,"sites\/all\/modules\/ckeditor\/css\/ckeditor.css":1,"sites\/all\/libraries\/bootstrap\/css\/bootstrap.min.css":1,"sites\/all\/libraries\/bootstrap\/css\/bootstrap-theme.min.css":1,"sites\/all\/modules\/ctools\/css\/ctools.css":1,"sites\/all\/modules\/custom_search\/custom_search.css":1,"sites\/all\/themes\/ge\/css\/fonts.css":1,"sites\/all\/themes\/ge\/css\/ge.css":1}},"custom_search":{"form_target":"_self","solr":0},"urlIsAjaxTrusted":{"\/":true},"bootstrap":{"anchorsFix":"0","anchorsSmoothScrolling":"0","formHasError":1,"popoverEnabled":1,"popoverOptions":{"animation":1,"html":0,"placement":"right","selector":"","trigger":"click","triggerAutoclose":1,"title":"","content":"","delay":0,"container":"body"},"tooltipEnabled":1,"tooltipOptions":{"animation":1,"html":0,"placement":"auto left","selector":"","trigger":"hover focus","delay":0,"container":"body"}}});</script>
+</head>
+<body class="html front not-logged-in no-sidebars page-node">
+  <noscript>Votre navigateur ne supporte pas le javascript</noscript>
+  <div id="skip-link">
+    <a href="#main-content" class="element-invisible element-focusable">Skip to main content</a>
+  </div>
+    <div class="container">
+
+<!-- mobile  -->
+<div class="row">
+<div class="mobilemenu bggreen col-xs-8 no-gutter">
+	                
+	<div class="navbar-header mobilemenubar"  >
+                    <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#navbar-collapse"
+                    aria-expanded="false">
+                      <span class="sr-only">Toggle navigation</span>
+                      <span class="icon-bar"></span>
+                      <span class="icon-bar"></span>
+                      <span class="icon-bar"></span>
+                    </button>
+                    <div class="tools"><div class="menulabel">MENU</div>
+                    <a class="searchicon glyphicon glyphicon-search" data-toggle="collapse" href=".search"></a></div>
+	</div>
+	</div>
+
+<div class="socialbar col-xs-4 no-left-gutter">
+
+		          	<section class="container no-right-gutter">
+				  <div class="region region-social">
+    <section id="block-block-1" class="block block-block clearfix">
+
+      
+  <p><a class="twitter" href="http://twitter.com/@GreenovateEU" target="_blank"> </a><a class="linkedin" href="http://linkedin.com/groups?gid=4627735" target="_blank"> </a><a class="issuu" href="https://issuu.com/greenovateeurope" target="_blank"> </a><a class="youtube" href="https://www.youtube.com/channel/UC90Wqw0YY-cjvRLzrzxGi_Q" target="_blank"> </a></p>
+
+</section>
+  </div>
+			</section>
+		</div> 
+</div> <!-- end green  row -->
+   
+<div class="row no-gutter">
+<div id="navbar-collapse" class="collapse mobilemenuopen">
+                	<nav role="navigation">
+                
+							                                  <ul class="menu nav navbar-nav"><li class="first collapsed"><a href="/about/profile" class="bgblue">About</a></li>
+<li class="collapsed"><a href="/services/horizon-2020-exploitation" class="bggreen">Services</a></li>
+<li class="collapsed"><a href="/sectors/bio-based-economy" class="bgred">Sectors</a></li>
+<li class="collapsed"><a href="/projects" class="bgorange">Projects</a></li>
+<li class="leaf"><a href="/publications" class="bgcyan">Publications</a></li>
+<li class="last collapsed"><a href="/discover/innovation-process" class="bgviolet">Discover</a></li>
+</ul>                                                   
+					
+                     </nav>
+</div> 
+</div> 
+              
+               
+<!--   LOGO SEARCH -->
+<div class="container">
+  	<div class="row">
+	        <div class="col-sm-6 no-gutter">
+			            <a class="logo navbar-btn" href="/" title="Home"></a>
+             
+        </div>
+        <div class="col-sm-6 col-md-3 col-md-push-3 search collapse">
+			<div id="searchzone"   >
+				                  <div class="region region-header">
+    <section id="block-search-form" class="block block-search clearfix">
+
+      
+  <form class="search-form form-search content-search" role="search" action="/" method="post" id="search-block-form" accept-charset="UTF-8"><div><div>
+      <h2 class="element-invisible">Search form</h2>
+    <div class="input-group"><input title="Enter the terms you wish to search for." class="custom-search-box form-control form-text" placeholder="Search" type="text" id="edit-search-block-form--2" name="search_block_form" value="" size="15" maxlength="128" /><span class="input-group-btn"><button type="submit" class="btn btn-primary">Search</button></span></div><div class="form-actions form-wrapper form-group" id="edit-actions"><input alt="" class="custom-search-button element-invisible form-submit" type="image" id="edit-submit" name="op" src="/sites/all/themes/ge/img/loupe.png" /></div><input type="hidden" name="form_build_id" value="form-gey7BHFfpBLJOdREpa3E3kANZIuaf6yaw1th-rQU3mU" />
+<input type="hidden" name="form_id" value="search_block_form" />
+</div>
+</div></form>
+</section>
+  </div>
+                            </div>
+		
+        </div>
+	 </div>
+</div>
+
+<!-- HEADER = main menu  -->
+<div class="container">
+<div class="row">
+<header id="navbar" role="banner" class="navbar container navbar-default">
+	<div class="" >
+   
+   		<!-- <div class="row mobilemenu">
+			              	<!-- <div class="navbar-header mobilemenubar"> <!-- data-spy="affix" data-offset-top="90" data-offset-bottom="170" 
+                    <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#navbar-collapse"
+                    aria-expanded="false">
+                      <span class="sr-only"></span>
+                      <span class="icon-bar"></span>
+                      <span class="icon-bar"></span>
+                      <span class="icon-bar"></span>
+                    </button>
+                                    <div class="menulabel">MENU</div>
+
+				   <div id="navbar-collapse" class="collapse">
+                	<nav role="navigation">
+                 		<div class="col-md-12 no-gutter">
+							                                                                                                                                                                                                                                                        						</div>
+                     </nav>
+                 </div>
+                 
+                 </div>
+            </div> -->
+   
+    <div class="row desktopmenu">
+            
+			            	<div class="navbar-collapse collapse">
+                	<nav role="navigation">
+                 		<div class="col-md-12">
+							                                  <ul class="menu nav navbar-nav"><ul class="menu nav navbar-nav"><li class="first collapsed"><a href="/about/profile" class="bgblue">About</a></li>
+<li class="collapsed"><a href="/services/horizon-2020-exploitation" class="bggreen">Services</a></li>
+<li class="collapsed"><a href="/sectors/bio-based-economy" class="bgred">Sectors</a></li>
+<li class="collapsed"><a href="/projects" class="bgorange">Projects</a></li>
+<li class="leaf"><a href="/publications" class="bgcyan">Publications</a></li>
+<li class="last collapsed"><a href="/discover/innovation-process" class="bgviolet">Discover</a></li>
+</ul></ul>                                                                                                                                                                                                                      						</div>
+                     </nav>
+                 </div>
+					</div>
+	</div>
+</header>
+</div>
+</div>
+
+<!-- big top full width picture -->
+<div class="container-fluid no-gutter">
+      </div>
+
+<div class="main-container container">
+
+<div class="row">
+<section  class="col-sm-12">
+              <a id="main-content"></a>
+
+
+
+                                                              
+     </section>
+</div> <!-- end row -->
+
+<div class="row">
+<div class="col-sm-6 no-gutter herospace">
+<section id="block-block-4" class="block block-block hero clearfix">
+
+      
+  <h3>About G!E</h3>
+<p>Greenovate! Europe cover all parts of the innovation value chain, bringing together the expertise required for technology and service developers to successfully transfer research to market, and for policy-makers to create an environment in which eco-innovative business can thrive. To this end, we bring together over 500 experienced innovation advisers and 2,000 technical experts from 14 countries, providing all of the expertise needed to support the innovation process.</p>
+
+</section>
+</div>
+<div class="col-sm-6 no-gutter topicsspace">
+<section id="block-views-about-topics" class="block block-views topics clearfix">
+
+      
+  <div class="view view-about view-id-about view-display-id-topics view-dom-id-4a2da3fc323d71eeebfd703fa90e3ae3">
+        
+  
+  
+      <div class="view-content">
+      
+<div id="views-bootstrap-grid-5" class="views-bootstrap-grid-plugin-style">
+  
+          <div class="row">
+                  <div class="col col-xs-6 col-sm-6 col-md-6 col-lg-6">
+            <div class="grid">
+                
+          <a href="/sectors/bio-based-economy">
+<div class="topic_title_bar"><div class="topic_title">Bio-based Economy</div></div>
+<div class="topic_img"><img typeof="foaf:Image" class="img-responsive" src="http://www.greenovate-europe.eu/sites/default/files/bioeconomy-topic.jpg" width="500" height="350" alt="" /></div>
+</a>
+              </div>
+          </div>
+                  <div class="col col-xs-6 col-sm-6 col-md-6 col-lg-6">
+            <div class="grid">
+                
+          <a href="sectors/sustainable-buildings">
+<div class="topic_title_bar"><div class="topic_title">Sustainable buildings</div></div>
+<div class="topic_img"><img typeof="foaf:Image" class="img-responsive" src="http://www.greenovate-europe.eu/sites/default/files/sustainable_building_topic.jpg" width="500" height="350" alt="" /></div>
+</a>
+              </div>
+          </div>
+              </div>
+          <div class="row">
+                  <div class="col col-xs-6 col-sm-6 col-md-6 col-lg-6">
+            <div class="grid">
+                
+          <a href="services/horizon-2020-exploitation">
+<div class="topic_title_bar"><div class="topic_title">Commercial exploitation</div></div>
+<div class="topic_img"><img typeof="foaf:Image" class="img-responsive" src="http://www.greenovate-europe.eu/sites/default/files/commercial_exploitation_topic_0.jpg" width="500" height="350" alt="" /></div>
+</a>
+              </div>
+          </div>
+                  <div class="col col-xs-6 col-sm-6 col-md-6 col-lg-6">
+            <div class="grid">
+                
+          <a href="services/value-chain-innovation">
+<div class="topic_title_bar"><div class="topic_title">Value chain innovation</div></div>
+<div class="topic_img"><img typeof="foaf:Image" class="img-responsive" src="http://www.greenovate-europe.eu/sites/default/files/value_chains_topic_0.jpg" width="500" height="350" alt="" /></div>
+</a>
+              </div>
+          </div>
+              </div>
+    
+  </div>
+
+    </div>
+  
+  
+  
+  
+  
+  
+</div>
+</section>
+ </div>
+</div> <!-- end row -->
+
+<div class="row">
+<div class="col-sm-12 no-left-gutter">
+<section id="block-views-about-features" class="block block-views features clearfix">
+
+        <h2 class="block-title">Features</h2>
+    
+  <div class="view view-about view-id-about view-display-id-features view-dom-id-b3fa250d63e9ad9334f79c5558c9782f">
+        
+  
+  
+      <div class="view-content">
+      
+<div id="views-bootstrap-grid-6" class="views-bootstrap-grid-plugin-style">
+  
+          <div class="row">
+                  <div class="col col-xs-12 col-sm-3 col-md-3 col-lg-3">
+            <div class="grid">
+                
+          <a href="http://www.greenovate-europe.eu/events/seizing-opportunities-circular-economy-manufacturing " target="target=&amp;quot;_self&amp;quot;"><div><div class="feature_bg" style="background-image: url('http://www.greenovate-europe.eu/sites/default/files/download_3.png')">
+  &nbsp;
+</div>
+
+<div class="feature_zone"><div class="feature_title">Seizing the opportunities of circular economy in manufacturing</div></div>
+<div class="feature_text bggreen">Discover the latest solutions for significant resource savings on 20 June in Brussels
+</div>
+</div>
+</a>              </div>
+          </div>
+                  <div class="col col-xs-12 col-sm-3 col-md-3 col-lg-3">
+            <div class="grid">
+                
+          <a href="http://www.greenovate-europe.eu/news/rubizmo-cultivating-fresh-ideas-rural-businesses-and-entrepreneurs " target="target=&amp;quot;_self&amp;quot;"><div><div class="feature_bg" style="background-image: url('http://www.greenovate-europe.eu/sites/default/files/field-3350728_19201_0.jpg')">
+  &nbsp;
+</div>
+
+<div class="feature_zone"><div class="feature_title">Cultivating fresh ideas for rural businesses and entrepreneurs</div></div>
+<div class="feature_text bgcyan">RUBIZMO will identify the best conditions for supporting rural jobs and growth
+</div>
+</div>
+</a>              </div>
+          </div>
+                  <div class="col col-xs-12 col-sm-3 col-md-3 col-lg-3">
+            <div class="grid">
+                
+          <a href="https://issuu.com/greenovateeurope/docs/greenovate2018-final " target="target=&amp;quot;_self&amp;quot;"><div><div class="feature_bg" style="background-image: url('http://www.greenovate-europe.eu/sites/default/files/download_2.png')">
+  &nbsp;
+</div>
+
+<div class="feature_zone"><div class="feature_title">As easy as A-B-E?</div></div>
+<div class="feature_text bgviolet">Learn about ButaNexT's optimised process for sustainable fuels and bio-based products
+</div>
+</div>
+</a>              </div>
+          </div>
+                  <div class="col col-xs-12 col-sm-3 col-md-3 col-lg-3">
+            <div class="grid">
+                
+          <a href="http://www.greenovate-europe.eu/join-advancefuel-stakeholder-platform " target="target=&amp;quot;_self&amp;quot;"><div><div class="feature_bg" style="background-image: url('http://www.greenovate-europe.eu/sites/default/files/download_0.png')">
+  &nbsp;
+</div>
+
+<div class="feature_zone"><div class="feature_title">Join the ADVANCEFUEL Stakeholder Platform!</div></div>
+<div class="feature_text bgblue">Join today and contribute to overcoming barriers to renewable transport fuels
+</div>
+</div>
+</a>              </div>
+          </div>
+              </div>
+    
+  </div>
+
+    </div>
+  
+  
+  
+  
+  
+  
+</div>
+</section>
+ </div>
+</div> <!-- end row -->
+
+<div class="row">
+<div class="col-sm-9 no-gutter newsspace">
+<section id="block-views-about-hp-news" class="block block-views news clearfix">
+
+        <h2 class="block-title">News</h2>
+    
+  <div class="view view-about view-id-about view-display-id-hp_news view-dom-id-37a4cda9f1d40da5e3ebbfafe54205c9">
+        
+  
+  
+      <div class="view-content">
+      
+<div id="views-bootstrap-grid-7" class="views-bootstrap-grid-plugin-style">
+  
+          <div class="row">
+                  <div class="col col-xs-12 col-sm-12 col-md-4 col-lg-4">
+            <div class="grid">
+                
+          <a href="/news/horizon-europe-budget-discussions-begin">Horizon Europe budget discussions begin</a>    
+          24 May, Brussels - The European Commission has published its budget proposal for the period 2021-2027, including a request for €100 billion for Horizon Europe, the... <a href="/news/horizon-europe-budget-discussions-begin" class="views-more-link">Read more…</a>              </div>
+          </div>
+                  <div class="col col-xs-12 col-sm-12 col-md-4 col-lg-4">
+            <div class="grid">
+                
+          <a href="/news/agreement-reached-recast-energy-performance-buildings-directive">Agreement reached on the recast of the Energy Performance of Buildings Directive</a>    
+          18 May, Brussels – The European Council signed off on its position on the recast of the Energy Performance of Buildings Directive (EPBD) on 14 May, paving the way... <a href="/news/agreement-reached-recast-energy-performance-buildings-directive" class="views-more-link">Read more…</a>              </div>
+          </div>
+                  <div class="col col-xs-12 col-sm-12 col-md-4 col-lg-4">
+            <div class="grid">
+                
+          <a href="/news/rubizmo-cultivating-fresh-ideas-rural-businesses-and-entrepreneurs">RUBIZMO: Cultivating fresh ideas for rural businesses and entrepreneurs</a>    
+          23 May, Brussels - A new European initiative is working to identify the vital ingredients for developing rural entrepreneurship and successful business models in... <a href="/news/rubizmo-cultivating-fresh-ideas-rural-businesses-and-entrepreneurs" class="views-more-link">Read more…</a>              </div>
+          </div>
+              </div>
+    
+  </div>
+
+    </div>
+  
+  
+  
+  
+  
+  
+</div>
+</section>
+</div>
+<div class="hidden-xs col-sm-3 no-right-gutter twitterspace">
+<div class="twitter-container">
+<section id="block-block-8" class="block block-block twitter-container clearfix">
+
+      
+  <div class="twitter"><a class="twitter-timeline" data-height="220" href="https://twitter.com/GreenovateEU">Tweets by GreenovateEU</a> 
+<script async="" src="//platform.twitter.com/widgets.js" charset="utf-8"></script></div>
+
+</section>
+</div>
+
+<!-- <div class="twitter">
+</div> -->
+ </div>
+</div> <!-- end row -->
+
+<div class="row more">
+<div class="col-xs-6 col-xs-offset-6 no-right-gutter"><a href="/news"><span class="glyphicon glyphicon-plus"></span><span>MORE NEWS</span></a></div>
+</div>
+
+
+
+<div class="row">
+<div class="col-sm-9 no-gutter eventsspace">
+<section id="block-views-about-hp-events" class="block block-views events clearfix">
+
+        <h2 class="block-title">Events</h2>
+    
+  <div class="view view-about view-id-about view-display-id-hp_events view-dom-id-851fe8056ecdcbbfd7e8b004766316f9">
+        
+  
+  
+      <div class="view-content">
+      
+<div id="views-bootstrap-grid-8" class="views-bootstrap-grid-plugin-style">
+  
+          <div class="row">
+                  <div class="col col-xs-12 col-sm-4 col-md-4 col-lg-4">
+            <div class="grid">
+                
+          <a href="/events/innovative-europe-time-new-eu-innovation-strategy">Innovative Europe? Time for a new EU innovation strategy</a>    
+          5 June, Brussels
+
+
+
+The Annual Science|Business Framework conference
+Europe’s economy is picking up – but what about its engine for future... <a href="/events/innovative-europe-time-new-eu-innovation-strategy" class="views-more-link">Read more…</a>              </div>
+          </div>
+                  <div class="col col-xs-12 col-sm-4 col-md-4 col-lg-4">
+            <div class="grid">
+                
+          <a href="/events/seizing-opportunities-circular-economy-manufacturing">Seizing the opportunities of circular economy in manufacturing</a>    
+          
+
+20 June 2018, Brussels
+The consumption of energy and raw materials in manufacturing will increase by 40% over the next 20 years.... <a href="/events/seizing-opportunities-circular-economy-manufacturing" class="views-more-link">Read more…</a>              </div>
+          </div>
+                  <div class="col col-xs-12 col-sm-4 col-md-4 col-lg-4">
+            <div class="grid">
+                
+          <a href="/events/advanced-biofuels-conference">Advanced Biofuels Conference</a>    
+          18-20 September - Gothenburg, Sweden
+During 18-20 September, 2018 the Swedish Bioenergy Association (Svebio) is organizing its 4th Advanced... <a href="/events/advanced-biofuels-conference" class="views-more-link">Read more…</a>              </div>
+          </div>
+              </div>
+    
+  </div>
+
+    </div>
+  
+  
+  
+  
+  
+  
+</div>
+</section>
+</div>
+
+<div class="col-sm-3 no-gutter bannerspace hidden-xs">
+<section id="block-views-about-banner-hp" class="block block-views clearfix">
+
+      
+  <div class="view view-about view-id-about view-display-id-banner_hp view-dom-id-e096eda00e1f55b6a3816ee28485bfcb">
+        
+  
+  
+      <div class="view-content">
+        <div class="views-row views-row-1 views-row-odd views-row-first views-row-last">
+      
+          <a href="http://www.innovationseeds.eu/"><img typeof="foaf:Image" class="img-responsive" src="http://www.greenovate-europe.eu/sites/default/files/banners/300x250_3.jpg" width="300" height="250" alt="" /></a>    </div>
+    </div>
+  
+  
+  
+  
+  
+  
+</div>
+</section>
+ </div>
+</div> <!-- end row -->
+
+<div class="row more">
+<div class="col-xs-6 col-xs-offset-6 no-right-gutter"><a href="/events"><span class="glyphicon glyphicon-plus"></span><span>MORE EVENTS</span></a></div>
+</div>
+
+
+<div class="row">
+<div class="hidden-sm hidden-md hidden-lg hidden-xl">
+<div class="twitter">
+</div>
+ </div>
+</div> <!-- end row -->
+
+<div class="row">
+<div class="hidden-sm hidden-md hidden-lg hidden-xl">
+<section id="block-views-about-banner-hp--2" class="block block-views clearfix">
+
+      
+  <div class="view view-about view-id-about view-display-id-banner_hp view-dom-id-a60fc58c65d86294aaf93c03005003e8">
+        
+  
+  
+      <div class="view-content">
+        <div class="views-row views-row-1 views-row-odd views-row-first views-row-last">
+      
+          <a href="http://www.innovationseeds.eu/"><img typeof="foaf:Image" class="img-responsive" src="http://www.greenovate-europe.eu/sites/default/files/banners/300x250_3.jpg" width="300" height="250" alt="" /></a>    </div>
+    </div>
+  
+  
+  
+  
+  
+  
+</div>
+</section>
+ </div>
+</div> <!-- end row -->
+
+
+
+</div> <!-- end main container -->
+
+
+    <div class="row">  
+		                 <footer class="footer container text-center">
+                  <div class="region region-footer">
+    <section id="block-block-2" class="block block-block clearfix">
+
+      
+  <p><img class="img-responsive centered" src="/sites/all/themes/ge/img/footer.gif" /></p>
+
+</section>
+  </div>
+              </footer>
+                </div>
+
+</div> <!-- end of content container-->
+
+<div class="container-fluid bggreen">
+
+  
+    <div class="container superfooter">  
+		                <div class="col-xs-6 no-gutter col-sm-6 col-md-3">
+                   <div class="region region-superfooter1">
+    <section id="block-menu-block-7" class="block block-menu-block clearfix">
+
+        <h2 class="block-title">About</h2>
+    
+  <div class="menu-block-wrapper menu-block-7 menu-name-main-menu parent-mlid-482 menu-level-1">
+  <ul class="menu nav"><li class="first leaf menu-mlid-427"><a href="/about/profile">Profile</a></li>
+<li class="collapsed menu-mlid-428"><a href="/about/members">Members</a></li>
+<li class="leaf menu-mlid-481"><a href="/about/board">Board</a></li>
+<li class="leaf menu-mlid-431"><a href="/about/management">Management</a></li>
+<li class="last leaf menu-mlid-432"><a href="/about/affiliation">Affiliation</a></li>
+</ul></div>
+
+</section>
+  </div>
+                                 
+			</div>
+                                    <div class="col-xs-6 no-gutter col-sm-6 col-md-3">
+                   <div class="region region-superfooter2">
+    <section id="block-menu-block-5" class="block block-menu-block clearfix">
+
+        <h2 class="block-title">Services</h2>
+    
+  <div class="menu-block-wrapper menu-block-5 menu-name-main-menu parent-mlid-430 menu-level-1">
+  <ul class="menu nav"><li class="first leaf menu-mlid-444"><a href="/services/horizon-2020-exploitation">Horizon 2020 Exploitation</a></li>
+<li class="leaf menu-mlid-443"><a href="/services/open-innovation">Open Innovation</a></li>
+<li class="leaf menu-mlid-445"><a href="/services/access-market">Access to Market</a></li>
+<li class="leaf menu-mlid-446"><a href="/services/green-innovation-vouchers">Green Innovation Vouchers</a></li>
+<li class="leaf menu-mlid-447"><a href="/services/policy-and-communications">Policy and Communications</a></li>
+<li class="last leaf menu-mlid-529"><a href="/services/value-chain-innovation">Value Chain Innovation</a></li>
+</ul></div>
+
+</section>
+  </div>
+			</div>
+                                    <div class="col-xs-6 no-gutter col-sm-6 col-md-3">
+                 <div>  <div class="region region-superfooter3">
+    <section id="block-menu-block-4" class="block block-menu-block clearfix">
+
+        <h2 class="block-title">Sectors</h2>
+    
+  <div class="menu-block-wrapper menu-block-4 menu-name-main-menu parent-mlid-523 menu-level-1">
+  <ul class="menu nav"><li class="first leaf menu-mlid-509"><a href="/sectors/bio-based-economy">Bio-based Economy</a></li>
+<li class="leaf menu-mlid-510"><a href="/sectors/electricity">Electricity</a></li>
+<li class="leaf menu-mlid-511"><a href="/sectors/sustainable-buildings">Sustainable Buildings</a></li>
+<li class="leaf menu-mlid-512"><a href="/sectors/transport">Transport</a></li>
+<li class="last leaf menu-mlid-513"><a href="/sectors/water">Water</a></li>
+</ul></div>
+
+</section>
+  </div>
+</div>
+			</div>
+                                    <div class="col-xs-6 no-gutter col-sm-6 col-md-3">
+                   <div class="region region-superfooter4">
+    <section id="block-menu-block-6" class="block block-menu-block clearfix">
+
+        <h2 class="block-title">Projects</h2>
+    
+  <div class="menu-block-wrapper menu-block-6 menu-name-main-menu parent-mlid-420 menu-level-1">
+  <ul class="menu nav"><li class="first leaf menu-mlid-827"><a href="/projects/advancefuel">ADVANCEFUEL</a></li>
+<li class="leaf menu-mlid-470"><a href="/projects/best-paths">Best Paths</a></li>
+<li class="leaf menu-mlid-576"><a href="/projects/bio4products">Bio4Products</a></li>
+<li class="leaf menu-mlid-577"><a href="/projects/biorescue">BIOrescue</a></li>
+<li class="leaf menu-mlid-467"><a href="/projects/eu-gugle">EU-GUGLE</a></li>
+<li class="leaf menu-mlid-472"><a href="/projects/inno4SD.net">inno4sd.net</a></li>
+<li class="leaf menu-mlid-830"><a href="/projects/interreg-europe-policy-learning-platform-0">Interreg Europe</a></li>
+<li class="leaf menu-mlid-471"><a href="/projects/isobio">ISOBIO</a></li>
+<li class="leaf menu-mlid-474"><a href="/projects/meman">MEMAN</a></li>
+<li class="leaf menu-mlid-469"><a href="/projects/sinfonia">Sinfonia</a></li>
+<li class="leaf menu-mlid-829"><a href="/projects/stardust">STARDUST</a></li>
+<li class="last leaf has-children menu-mlid-531 completed-menu"><a href="/projects/completed" class="completed-project">Completed Projects</a></li>
+</ul></div>
+
+</section>
+  </div>
+			</div>
+            	</div>
+</div> <!-- end fluid container -->
+   <div class="container disclaimer"> 
+  <div class="row">  
+         <section class="container text-center">
+          <div class="region region-disclaimer">
+    <section id="block-block-3" class="block block-block clearfix">
+
+      
+  <p><a href="disclaimer">Disclaimer</a><a href="copyright">© GIE</a><a href="cookies">Cookies</a></p>
+
+</section>
+  </div>
+      </section>
+       </div>
+
+</div>  <script src="http://www.greenovate-europe.eu/sites/all/themes/bootstrap/js/bootstrap.js?p198t1"></script>
+  <script>
+    (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+    (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+    m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+    })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+    ga('create', 'UA-53700940-4', 'auto');
+    ga('send', 'pageview');
+
+  </script>
+
+
+</body>
+</html>
+
+
+WARC/1.0
+WARC-Type: response
+WARC-Target-URI: http://www.greenovate-europe.eu
+WARC-Date: 20180530181832
+WARC-Language: en
+WARC-Record-ID: <http://www.greenovate-europe.eu>
+Content-Type: application/http;msgtype=response
+Content-Length: 31432
+
+HTTP/1.1 200
+Content-Type:text/html; charset=utf-8
+
+
+<!DOCTYPE html>
+<html lang="en" dir="ltr" prefix="content: http://purl.org/rss/1.0/modules/content/ dc: http://purl.org/dc/terms/ foaf: http://xmlns.com/foaf/0.1/ og: http://ogp.me/ns# rdfs: http://www.w3.org/2000/01/rdf-schema# sioc: http://rdfs.org/sioc/ns# sioct: http://rdfs.org/sioc/types# skos: http://www.w3.org/2004/02/skos/core# xsd: http://www.w3.org/2001/XMLSchema#"><head>
+  <link rel="profile" href="http://www.w3.org/1999/xhtml/vocab" />
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no">
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="shortcut icon" href="http://www.greenovate-europe.eu/sites/all/themes/ge/favicon.ico" type="image/vnd.microsoft.icon" />
+<meta name="Generator" content="Drupal 7 (http://drupal.org)" />
+<link rel="alternate" type="application/rss+xml" title="Greenovate! Europe RSS" href="http://www.greenovate-europe.eu/rss.xml" />
+  <link href='https://fonts.googleapis.com/css?family=Sanchez:400' rel='stylesheet' type='text/css'>
+  <!-- <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css"> -->
+  <title>Greenovate! Europe</title>
+  <style>
+@import url("http://www.greenovate-europe.eu/modules/system/system.base.css?p198t1");
+</style>
+<style>
+@import url("http://www.greenovate-europe.eu/sites/all/modules/date/date_api/date.css?p198t1");
+@import url("http://www.greenovate-europe.eu/sites/all/modules/date/date_popup/themes/datepicker.1.7.css?p198t1");
+@import url("http://www.greenovate-europe.eu/modules/field/theme/field.css?p198t1");
+@import url("http://www.greenovate-europe.eu/modules/node/node.css?p198t1");
+@import url("http://www.greenovate-europe.eu/sites/all/modules/views/css/views.css?p198t1");
+@import url("http://www.greenovate-europe.eu/sites/all/modules/ckeditor/css/ckeditor.css?p198t1");
+</style>
+<style>
+@import url("http://www.greenovate-europe.eu/sites/all/libraries/bootstrap/css/bootstrap.min.css?p198t1");
+@import url("http://www.greenovate-europe.eu/sites/all/libraries/bootstrap/css/bootstrap-theme.min.css?p198t1");
+@import url("http://www.greenovate-europe.eu/sites/all/modules/ctools/css/ctools.css?p198t1");
+@import url("http://www.greenovate-europe.eu/sites/all/modules/custom_search/custom_search.css?p198t1");
+</style>
+<style>
+@import url("http://www.greenovate-europe.eu/sites/all/themes/ge/css/fonts.css?p198t1");
+@import url("http://www.greenovate-europe.eu/sites/all/themes/ge/css/ge.css?p198t1");
+</style>
+  <!-- HTML5 element support for IE6-8 -->
+  <!--[if lt IE 9]>
+    <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+  <![endif]-->
+  <script src="//code.jquery.com/jquery-1.10.2.min.js"></script>
+<script>window.jQuery || document.write("<script src='/sites/all/modules/jquery_update/replace/jquery/1.10/jquery.min.js'>\x3C/script>")</script>
+<script src="http://www.greenovate-europe.eu/misc/jquery.once.js?v=1.2"></script>
+<script src="http://www.greenovate-europe.eu/misc/drupal.js?p198t1"></script>
+<script src="http://www.greenovate-europe.eu/sites/all/libraries/bootstrap/js/bootstrap.min.js?p198t1"></script>
+<script src="http://www.greenovate-europe.eu/sites/all/modules/custom_search/js/custom_search.js?p198t1"></script>
+<script>jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"ge","theme_token":"CeuBJPrv75ewbocLgnIU01AmPEwXG5stt-6I-Jgi548","js":{"sites\/all\/themes\/bootstrap\/js\/bootstrap.js":1,"\/\/code.jquery.com\/jquery-1.10.2.min.js":1,"0":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"sites\/all\/libraries\/bootstrap\/js\/bootstrap.min.js":1,"sites\/all\/modules\/custom_search\/js\/custom_search.js":1},"css":{"modules\/system\/system.base.css":1,"sites\/all\/modules\/date\/date_api\/date.css":1,"sites\/all\/modules\/date\/date_popup\/themes\/datepicker.1.7.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"sites\/all\/modules\/views\/css\/views.css":1,"sites\/all\/modules\/ckeditor\/css\/ckeditor.css":1,"sites\/all\/libraries\/bootstrap\/css\/bootstrap.min.css":1,"sites\/all\/libraries\/bootstrap\/css\/bootstrap-theme.min.css":1,"sites\/all\/modules\/ctools\/css\/ctools.css":1,"sites\/all\/modules\/custom_search\/custom_search.css":1,"sites\/all\/themes\/ge\/css\/fonts.css":1,"sites\/all\/themes\/ge\/css\/ge.css":1}},"custom_search":{"form_target":"_self","solr":0},"urlIsAjaxTrusted":{"\/":true},"bootstrap":{"anchorsFix":"0","anchorsSmoothScrolling":"0","formHasError":1,"popoverEnabled":1,"popoverOptions":{"animation":1,"html":0,"placement":"right","selector":"","trigger":"click","triggerAutoclose":1,"title":"","content":"","delay":0,"container":"body"},"tooltipEnabled":1,"tooltipOptions":{"animation":1,"html":0,"placement":"auto left","selector":"","trigger":"hover focus","delay":0,"container":"body"}}});</script>
+</head>
+<body class="html front not-logged-in no-sidebars page-node">
+  <noscript>Votre navigateur ne supporte pas le javascript</noscript>
+  <div id="skip-link">
+    <a href="#main-content" class="element-invisible element-focusable">Skip to main content</a>
+  </div>
+    <div class="container">
+
+<!-- mobile  -->
+<div class="row">
+<div class="mobilemenu bggreen col-xs-8 no-gutter">
+	                
+	<div class="navbar-header mobilemenubar"  >
+                    <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#navbar-collapse"
+                    aria-expanded="false">
+                      <span class="sr-only">Toggle navigation</span>
+                      <span class="icon-bar"></span>
+                      <span class="icon-bar"></span>
+                      <span class="icon-bar"></span>
+                    </button>
+                    <div class="tools"><div class="menulabel">MENU</div>
+                    <a class="searchicon glyphicon glyphicon-search" data-toggle="collapse" href=".search"></a></div>
+	</div>
+	</div>
+
+<div class="socialbar col-xs-4 no-left-gutter">
+
+		          	<section class="container no-right-gutter">
+				  <div class="region region-social">
+    <section id="block-block-1" class="block block-block clearfix">
+
+      
+  <p><a class="twitter" href="http://twitter.com/@GreenovateEU" target="_blank"> </a><a class="linkedin" href="http://linkedin.com/groups?gid=4627735" target="_blank"> </a><a class="issuu" href="https://issuu.com/greenovateeurope" target="_blank"> </a><a class="youtube" href="https://www.youtube.com/channel/UC90Wqw0YY-cjvRLzrzxGi_Q" target="_blank"> </a></p>
+
+</section>
+  </div>
+			</section>
+		</div> 
+</div> <!-- end green  row -->
+   
+<div class="row no-gutter">
+<div id="navbar-collapse" class="collapse mobilemenuopen">
+                	<nav role="navigation">
+                
+							                                  <ul class="menu nav navbar-nav"><li class="first collapsed"><a href="/about/profile" class="bgblue">About</a></li>
+<li class="collapsed"><a href="/services/horizon-2020-exploitation" class="bggreen">Services</a></li>
+<li class="collapsed"><a href="/sectors/bio-based-economy" class="bgred">Sectors</a></li>
+<li class="collapsed"><a href="/projects" class="bgorange">Projects</a></li>
+<li class="leaf"><a href="/publications" class="bgcyan">Publications</a></li>
+<li class="last collapsed"><a href="/discover/innovation-process" class="bgviolet">Discover</a></li>
+</ul>                                                   
+					
+                     </nav>
+</div> 
+</div> 
+              
+               
+<!--   LOGO SEARCH -->
+<div class="container">
+  	<div class="row">
+	        <div class="col-sm-6 no-gutter">
+			            <a class="logo navbar-btn" href="/" title="Home"></a>
+             
+        </div>
+        <div class="col-sm-6 col-md-3 col-md-push-3 search collapse">
+			<div id="searchzone"   >
+				                  <div class="region region-header">
+    <section id="block-search-form" class="block block-search clearfix">
+
+      
+  <form class="search-form form-search content-search" role="search" action="/" method="post" id="search-block-form" accept-charset="UTF-8"><div><div>
+      <h2 class="element-invisible">Search form</h2>
+    <div class="input-group"><input title="Enter the terms you wish to search for." class="custom-search-box form-control form-text" placeholder="Search" type="text" id="edit-search-block-form--2" name="search_block_form" value="" size="15" maxlength="128" /><span class="input-group-btn"><button type="submit" class="btn btn-primary">Search</button></span></div><div class="form-actions form-wrapper form-group" id="edit-actions"><input alt="" class="custom-search-button element-invisible form-submit" type="image" id="edit-submit" name="op" src="/sites/all/themes/ge/img/loupe.png" /></div><input type="hidden" name="form_build_id" value="form-fEMuKxMY_y24WLkoc45i_34hCYTC8CMIdSDx6uv7bDg" />
+<input type="hidden" name="form_id" value="search_block_form" />
+</div>
+</div></form>
+</section>
+  </div>
+                            </div>
+		
+        </div>
+	 </div>
+</div>
+
+<!-- HEADER = main menu  -->
+<div class="container">
+<div class="row">
+<header id="navbar" role="banner" class="navbar container navbar-default">
+	<div class="" >
+   
+   		<!-- <div class="row mobilemenu">
+			              	<!-- <div class="navbar-header mobilemenubar"> <!-- data-spy="affix" data-offset-top="90" data-offset-bottom="170" 
+                    <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#navbar-collapse"
+                    aria-expanded="false">
+                      <span class="sr-only"></span>
+                      <span class="icon-bar"></span>
+                      <span class="icon-bar"></span>
+                      <span class="icon-bar"></span>
+                    </button>
+                                    <div class="menulabel">MENU</div>
+
+				   <div id="navbar-collapse" class="collapse">
+                	<nav role="navigation">
+                 		<div class="col-md-12 no-gutter">
+							                                                                                                                                                                                                                                                        						</div>
+                     </nav>
+                 </div>
+                 
+                 </div>
+            </div> -->
+   
+    <div class="row desktopmenu">
+            
+			            	<div class="navbar-collapse collapse">
+                	<nav role="navigation">
+                 		<div class="col-md-12">
+							                                  <ul class="menu nav navbar-nav"><ul class="menu nav navbar-nav"><li class="first collapsed"><a href="/about/profile" class="bgblue">About</a></li>
+<li class="collapsed"><a href="/services/horizon-2020-exploitation" class="bggreen">Services</a></li>
+<li class="collapsed"><a href="/sectors/bio-based-economy" class="bgred">Sectors</a></li>
+<li class="collapsed"><a href="/projects" class="bgorange">Projects</a></li>
+<li class="leaf"><a href="/publications" class="bgcyan">Publications</a></li>
+<li class="last collapsed"><a href="/discover/innovation-process" class="bgviolet">Discover</a></li>
+</ul></ul>                                                                                                                                                                                                                      						</div>
+                     </nav>
+                 </div>
+					</div>
+	</div>
+</header>
+</div>
+</div>
+
+<!-- big top full width picture -->
+<div class="container-fluid no-gutter">
+      </div>
+
+<div class="main-container container">
+
+<div class="row">
+<section  class="col-sm-12">
+              <a id="main-content"></a>
+
+
+
+                                                              
+     </section>
+</div> <!-- end row -->
+
+<div class="row">
+<div class="col-sm-6 no-gutter herospace">
+<section id="block-block-4" class="block block-block hero clearfix">
+
+      
+  <h3>About G!E</h3>
+<p>Greenovate! Europe cover all parts of the innovation value chain, bringing together the expertise required for technology and service developers to successfully transfer research to market, and for policy-makers to create an environment in which eco-innovative business can thrive. To this end, we bring together over 500 experienced innovation advisers and 2,000 technical experts from 14 countries, providing all of the expertise needed to support the innovation process.</p>
+
+</section>
+</div>
+<div class="col-sm-6 no-gutter topicsspace">
+<section id="block-views-about-topics" class="block block-views topics clearfix">
+
+      
+  <div class="view view-about view-id-about view-display-id-topics view-dom-id-37faf76a2b085de155da21123566c440">
+        
+  
+  
+      <div class="view-content">
+      
+<div id="views-bootstrap-grid-5" class="views-bootstrap-grid-plugin-style">
+  
+          <div class="row">
+                  <div class="col col-xs-6 col-sm-6 col-md-6 col-lg-6">
+            <div class="grid">
+                
+          <a href="/sectors/bio-based-economy">
+<div class="topic_title_bar"><div class="topic_title">Bio-based Economy</div></div>
+<div class="topic_img"><img typeof="foaf:Image" class="img-responsive" src="http://www.greenovate-europe.eu/sites/default/files/bioeconomy-topic.jpg" width="500" height="350" alt="" /></div>
+</a>
+              </div>
+          </div>
+                  <div class="col col-xs-6 col-sm-6 col-md-6 col-lg-6">
+            <div class="grid">
+                
+          <a href="sectors/sustainable-buildings">
+<div class="topic_title_bar"><div class="topic_title">Sustainable buildings</div></div>
+<div class="topic_img"><img typeof="foaf:Image" class="img-responsive" src="http://www.greenovate-europe.eu/sites/default/files/sustainable_building_topic.jpg" width="500" height="350" alt="" /></div>
+</a>
+              </div>
+          </div>
+              </div>
+          <div class="row">
+                  <div class="col col-xs-6 col-sm-6 col-md-6 col-lg-6">
+            <div class="grid">
+                
+          <a href="services/horizon-2020-exploitation">
+<div class="topic_title_bar"><div class="topic_title">Commercial exploitation</div></div>
+<div class="topic_img"><img typeof="foaf:Image" class="img-responsive" src="http://www.greenovate-europe.eu/sites/default/files/commercial_exploitation_topic_0.jpg" width="500" height="350" alt="" /></div>
+</a>
+              </div>
+          </div>
+                  <div class="col col-xs-6 col-sm-6 col-md-6 col-lg-6">
+            <div class="grid">
+                
+          <a href="services/value-chain-innovation">
+<div class="topic_title_bar"><div class="topic_title">Value chain innovation</div></div>
+<div class="topic_img"><img typeof="foaf:Image" class="img-responsive" src="http://www.greenovate-europe.eu/sites/default/files/value_chains_topic_0.jpg" width="500" height="350" alt="" /></div>
+</a>
+              </div>
+          </div>
+              </div>
+    
+  </div>
+
+    </div>
+  
+  
+  
+  
+  
+  
+</div>
+</section>
+ </div>
+</div> <!-- end row -->
+
+<div class="row">
+<div class="col-sm-12 no-left-gutter">
+<section id="block-views-about-features" class="block block-views features clearfix">
+
+        <h2 class="block-title">Features</h2>
+    
+  <div class="view view-about view-id-about view-display-id-features view-dom-id-221f31e58f2cf605018bd0db3bd704b4">
+        
+  
+  
+      <div class="view-content">
+      
+<div id="views-bootstrap-grid-6" class="views-bootstrap-grid-plugin-style">
+  
+          <div class="row">
+                  <div class="col col-xs-12 col-sm-3 col-md-3 col-lg-3">
+            <div class="grid">
+                
+          <a href="http://www.greenovate-europe.eu/events/seizing-opportunities-circular-economy-manufacturing " target="target=&amp;quot;_self&amp;quot;"><div><div class="feature_bg" style="background-image: url('http://www.greenovate-europe.eu/sites/default/files/download_3.png')">
+  &nbsp;
+</div>
+
+<div class="feature_zone"><div class="feature_title">Seizing the opportunities of circular economy in manufacturing</div></div>
+<div class="feature_text bggreen">Discover the latest solutions for significant resource savings on 20 June in Brussels
+</div>
+</div>
+</a>              </div>
+          </div>
+                  <div class="col col-xs-12 col-sm-3 col-md-3 col-lg-3">
+            <div class="grid">
+                
+          <a href="http://www.greenovate-europe.eu/news/rubizmo-cultivating-fresh-ideas-rural-businesses-and-entrepreneurs " target="target=&amp;quot;_self&amp;quot;"><div><div class="feature_bg" style="background-image: url('http://www.greenovate-europe.eu/sites/default/files/field-3350728_19201_0.jpg')">
+  &nbsp;
+</div>
+
+<div class="feature_zone"><div class="feature_title">Cultivating fresh ideas for rural businesses and entrepreneurs</div></div>
+<div class="feature_text bgcyan">RUBIZMO will identify the best conditions for supporting rural jobs and growth
+</div>
+</div>
+</a>              </div>
+          </div>
+                  <div class="col col-xs-12 col-sm-3 col-md-3 col-lg-3">
+            <div class="grid">
+                
+          <a href="https://issuu.com/greenovateeurope/docs/greenovate2018-final " target="target=&amp;quot;_self&amp;quot;"><div><div class="feature_bg" style="background-image: url('http://www.greenovate-europe.eu/sites/default/files/download_2.png')">
+  &nbsp;
+</div>
+
+<div class="feature_zone"><div class="feature_title">As easy as A-B-E?</div></div>
+<div class="feature_text bgviolet">Learn about ButaNexT's optimised process for sustainable fuels and bio-based products
+</div>
+</div>
+</a>              </div>
+          </div>
+                  <div class="col col-xs-12 col-sm-3 col-md-3 col-lg-3">
+            <div class="grid">
+                
+          <a href="http://www.greenovate-europe.eu/join-advancefuel-stakeholder-platform " target="target=&amp;quot;_self&amp;quot;"><div><div class="feature_bg" style="background-image: url('http://www.greenovate-europe.eu/sites/default/files/download_0.png')">
+  &nbsp;
+</div>
+
+<div class="feature_zone"><div class="feature_title">Join the ADVANCEFUEL Stakeholder Platform!</div></div>
+<div class="feature_text bgblue">Join today and contribute to overcoming barriers to renewable transport fuels
+</div>
+</div>
+</a>              </div>
+          </div>
+              </div>
+    
+  </div>
+
+    </div>
+  
+  
+  
+  
+  
+  
+</div>
+</section>
+ </div>
+</div> <!-- end row -->
+
+<div class="row">
+<div class="col-sm-9 no-gutter newsspace">
+<section id="block-views-about-hp-news" class="block block-views news clearfix">
+
+        <h2 class="block-title">News</h2>
+    
+  <div class="view view-about view-id-about view-display-id-hp_news view-dom-id-631645b879e33ba59e2c4f7b025d7cc3">
+        
+  
+  
+      <div class="view-content">
+      
+<div id="views-bootstrap-grid-7" class="views-bootstrap-grid-plugin-style">
+  
+          <div class="row">
+                  <div class="col col-xs-12 col-sm-12 col-md-4 col-lg-4">
+            <div class="grid">
+                
+          <a href="/news/horizon-europe-budget-discussions-begin">Horizon Europe budget discussions begin</a>    
+          24 May, Brussels - The European Commission has published its budget proposal for the period 2021-2027, including a request for €100 billion for Horizon Europe, the... <a href="/news/horizon-europe-budget-discussions-begin" class="views-more-link">Read more…</a>              </div>
+          </div>
+                  <div class="col col-xs-12 col-sm-12 col-md-4 col-lg-4">
+            <div class="grid">
+                
+          <a href="/news/agreement-reached-recast-energy-performance-buildings-directive">Agreement reached on the recast of the Energy Performance of Buildings Directive</a>    
+          18 May, Brussels – The European Council signed off on its position on the recast of the Energy Performance of Buildings Directive (EPBD) on 14 May, paving the way... <a href="/news/agreement-reached-recast-energy-performance-buildings-directive" class="views-more-link">Read more…</a>              </div>
+          </div>
+                  <div class="col col-xs-12 col-sm-12 col-md-4 col-lg-4">
+            <div class="grid">
+                
+          <a href="/news/rubizmo-cultivating-fresh-ideas-rural-businesses-and-entrepreneurs">RUBIZMO: Cultivating fresh ideas for rural businesses and entrepreneurs</a>    
+          23 May, Brussels - A new European initiative is working to identify the vital ingredients for developing rural entrepreneurship and successful business models in... <a href="/news/rubizmo-cultivating-fresh-ideas-rural-businesses-and-entrepreneurs" class="views-more-link">Read more…</a>              </div>
+          </div>
+              </div>
+    
+  </div>
+
+    </div>
+  
+  
+  
+  
+  
+  
+</div>
+</section>
+</div>
+<div class="hidden-xs col-sm-3 no-right-gutter twitterspace">
+<div class="twitter-container">
+<section id="block-block-8" class="block block-block twitter-container clearfix">
+
+      
+  <div class="twitter"><a class="twitter-timeline" data-height="220" href="https://twitter.com/GreenovateEU">Tweets by GreenovateEU</a> 
+<script async="" src="//platform.twitter.com/widgets.js" charset="utf-8"></script></div>
+
+</section>
+</div>
+
+<!-- <div class="twitter">
+</div> -->
+ </div>
+</div> <!-- end row -->
+
+<div class="row more">
+<div class="col-xs-6 col-xs-offset-6 no-right-gutter"><a href="/news"><span class="glyphicon glyphicon-plus"></span><span>MORE NEWS</span></a></div>
+</div>
+
+
+
+<div class="row">
+<div class="col-sm-9 no-gutter eventsspace">
+<section id="block-views-about-hp-events" class="block block-views events clearfix">
+
+        <h2 class="block-title">Events</h2>
+    
+  <div class="view view-about view-id-about view-display-id-hp_events view-dom-id-3f174eaf91b4122434dc698cce8ff3bb">
+        
+  
+  
+      <div class="view-content">
+      
+<div id="views-bootstrap-grid-8" class="views-bootstrap-grid-plugin-style">
+  
+          <div class="row">
+                  <div class="col col-xs-12 col-sm-4 col-md-4 col-lg-4">
+            <div class="grid">
+                
+          <a href="/events/innovative-europe-time-new-eu-innovation-strategy">Innovative Europe? Time for a new EU innovation strategy</a>    
+          5 June, Brussels
+
+
+
+The Annual Science|Business Framework conference
+Europe’s economy is picking up – but what about its engine for future... <a href="/events/innovative-europe-time-new-eu-innovation-strategy" class="views-more-link">Read more…</a>              </div>
+          </div>
+                  <div class="col col-xs-12 col-sm-4 col-md-4 col-lg-4">
+            <div class="grid">
+                
+          <a href="/events/seizing-opportunities-circular-economy-manufacturing">Seizing the opportunities of circular economy in manufacturing</a>    
+          
+
+20 June 2018, Brussels
+The consumption of energy and raw materials in manufacturing will increase by 40% over the next 20 years.... <a href="/events/seizing-opportunities-circular-economy-manufacturing" class="views-more-link">Read more…</a>              </div>
+          </div>
+                  <div class="col col-xs-12 col-sm-4 col-md-4 col-lg-4">
+            <div class="grid">
+                
+          <a href="/events/advanced-biofuels-conference">Advanced Biofuels Conference</a>    
+          18-20 September - Gothenburg, Sweden
+During 18-20 September, 2018 the Swedish Bioenergy Association (Svebio) is organizing its 4th Advanced... <a href="/events/advanced-biofuels-conference" class="views-more-link">Read more…</a>              </div>
+          </div>
+              </div>
+    
+  </div>
+
+    </div>
+  
+  
+  
+  
+  
+  
+</div>
+</section>
+</div>
+
+<div class="col-sm-3 no-gutter bannerspace hidden-xs">
+<section id="block-views-about-banner-hp" class="block block-views clearfix">
+
+      
+  <div class="view view-about view-id-about view-display-id-banner_hp view-dom-id-ff79e075b043d655ce2876a158428ca0">
+        
+  
+  
+      <div class="view-content">
+        <div class="views-row views-row-1 views-row-odd views-row-first views-row-last">
+      
+          <a href="http://www.innovationseeds.eu/"><img typeof="foaf:Image" class="img-responsive" src="http://www.greenovate-europe.eu/sites/default/files/banners/300x250_3.jpg" width="300" height="250" alt="" /></a>    </div>
+    </div>
+  
+  
+  
+  
+  
+  
+</div>
+</section>
+ </div>
+</div> <!-- end row -->
+
+<div class="row more">
+<div class="col-xs-6 col-xs-offset-6 no-right-gutter"><a href="/events"><span class="glyphicon glyphicon-plus"></span><span>MORE EVENTS</span></a></div>
+</div>
+
+
+<div class="row">
+<div class="hidden-sm hidden-md hidden-lg hidden-xl">
+<div class="twitter">
+</div>
+ </div>
+</div> <!-- end row -->
+
+<div class="row">
+<div class="hidden-sm hidden-md hidden-lg hidden-xl">
+<section id="block-views-about-banner-hp--2" class="block block-views clearfix">
+
+      
+  <div class="view view-about view-id-about view-display-id-banner_hp view-dom-id-dca8360b58034b8895de3d74d21aeeeb">
+        
+  
+  
+      <div class="view-content">
+        <div class="views-row views-row-1 views-row-odd views-row-first views-row-last">
+      
+          <a href="http://www.innovationseeds.eu/"><img typeof="foaf:Image" class="img-responsive" src="http://www.greenovate-europe.eu/sites/default/files/banners/300x250_3.jpg" width="300" height="250" alt="" /></a>    </div>
+    </div>
+  
+  
+  
+  
+  
+  
+</div>
+</section>
+ </div>
+</div> <!-- end row -->
+
+
+
+</div> <!-- end main container -->
+
+
+    <div class="row">  
+		                 <footer class="footer container text-center">
+                  <div class="region region-footer">
+    <section id="block-block-2" class="block block-block clearfix">
+
+      
+  <p><img class="img-responsive centered" src="/sites/all/themes/ge/img/footer.gif" /></p>
+
+</section>
+  </div>
+              </footer>
+                </div>
+
+</div> <!-- end of content container-->
+
+<div class="container-fluid bggreen">
+
+  
+    <div class="container superfooter">  
+		                <div class="col-xs-6 no-gutter col-sm-6 col-md-3">
+                   <div class="region region-superfooter1">
+    <section id="block-menu-block-7" class="block block-menu-block clearfix">
+
+        <h2 class="block-title">About</h2>
+    
+  <div class="menu-block-wrapper menu-block-7 menu-name-main-menu parent-mlid-482 menu-level-1">
+  <ul class="menu nav"><li class="first leaf menu-mlid-427"><a href="/about/profile">Profile</a></li>
+<li class="collapsed menu-mlid-428"><a href="/about/members">Members</a></li>
+<li class="leaf menu-mlid-481"><a href="/about/board">Board</a></li>
+<li class="leaf menu-mlid-431"><a href="/about/management">Management</a></li>
+<li class="last leaf menu-mlid-432"><a href="/about/affiliation">Affiliation</a></li>
+</ul></div>
+
+</section>
+  </div>
+                                 
+			</div>
+                                    <div class="col-xs-6 no-gutter col-sm-6 col-md-3">
+                   <div class="region region-superfooter2">
+    <section id="block-menu-block-5" class="block block-menu-block clearfix">
+
+        <h2 class="block-title">Services</h2>
+    
+  <div class="menu-block-wrapper menu-block-5 menu-name-main-menu parent-mlid-430 menu-level-1">
+  <ul class="menu nav"><li class="first leaf menu-mlid-444"><a href="/services/horizon-2020-exploitation">Horizon 2020 Exploitation</a></li>
+<li class="leaf menu-mlid-443"><a href="/services/open-innovation">Open Innovation</a></li>
+<li class="leaf menu-mlid-445"><a href="/services/access-market">Access to Market</a></li>
+<li class="leaf menu-mlid-446"><a href="/services/green-innovation-vouchers">Green Innovation Vouchers</a></li>
+<li class="leaf menu-mlid-447"><a href="/services/policy-and-communications">Policy and Communications</a></li>
+<li class="last leaf menu-mlid-529"><a href="/services/value-chain-innovation">Value Chain Innovation</a></li>
+</ul></div>
+
+</section>
+  </div>
+			</div>
+                                    <div class="col-xs-6 no-gutter col-sm-6 col-md-3">
+                 <div>  <div class="region region-superfooter3">
+    <section id="block-menu-block-4" class="block block-menu-block clearfix">
+
+        <h2 class="block-title">Sectors</h2>
+    
+  <div class="menu-block-wrapper menu-block-4 menu-name-main-menu parent-mlid-523 menu-level-1">
+  <ul class="menu nav"><li class="first leaf menu-mlid-509"><a href="/sectors/bio-based-economy">Bio-based Economy</a></li>
+<li class="leaf menu-mlid-510"><a href="/sectors/electricity">Electricity</a></li>
+<li class="leaf menu-mlid-511"><a href="/sectors/sustainable-buildings">Sustainable Buildings</a></li>
+<li class="leaf menu-mlid-512"><a href="/sectors/transport">Transport</a></li>
+<li class="last leaf menu-mlid-513"><a href="/sectors/water">Water</a></li>
+</ul></div>
+
+</section>
+  </div>
+</div>
+			</div>
+                                    <div class="col-xs-6 no-gutter col-sm-6 col-md-3">
+                   <div class="region region-superfooter4">
+    <section id="block-menu-block-6" class="block block-menu-block clearfix">
+
+        <h2 class="block-title">Projects</h2>
+    
+  <div class="menu-block-wrapper menu-block-6 menu-name-main-menu parent-mlid-420 menu-level-1">
+  <ul class="menu nav"><li class="first leaf menu-mlid-827"><a href="/projects/advancefuel">ADVANCEFUEL</a></li>
+<li class="leaf menu-mlid-470"><a href="/projects/best-paths">Best Paths</a></li>
+<li class="leaf menu-mlid-576"><a href="/projects/bio4products">Bio4Products</a></li>
+<li class="leaf menu-mlid-577"><a href="/projects/biorescue">BIOrescue</a></li>
+<li class="leaf menu-mlid-467"><a href="/projects/eu-gugle">EU-GUGLE</a></li>
+<li class="leaf menu-mlid-472"><a href="/projects/inno4SD.net">inno4sd.net</a></li>
+<li class="leaf menu-mlid-830"><a href="/projects/interreg-europe-policy-learning-platform-0">Interreg Europe</a></li>
+<li class="leaf menu-mlid-471"><a href="/projects/isobio">ISOBIO</a></li>
+<li class="leaf menu-mlid-474"><a href="/projects/meman">MEMAN</a></li>
+<li class="leaf menu-mlid-469"><a href="/projects/sinfonia">Sinfonia</a></li>
+<li class="leaf menu-mlid-829"><a href="/projects/stardust">STARDUST</a></li>
+<li class="last leaf has-children menu-mlid-531 completed-menu"><a href="/projects/completed" class="completed-project">Completed Projects</a></li>
+</ul></div>
+
+</section>
+  </div>
+			</div>
+            	</div>
+</div> <!-- end fluid container -->
+   <div class="container disclaimer"> 
+  <div class="row">  
+         <section class="container text-center">
+          <div class="region region-disclaimer">
+    <section id="block-block-3" class="block block-block clearfix">
+
+      
+  <p><a href="disclaimer">Disclaimer</a><a href="copyright">© GIE</a><a href="cookies">Cookies</a></p>
+
+</section>
+  </div>
+      </section>
+       </div>
+
+</div>  <script src="http://www.greenovate-europe.eu/sites/all/themes/bootstrap/js/bootstrap.js?p198t1"></script>
+  <script>
+    (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+    (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+    m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+    })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+    ga('create', 'UA-53700940-4', 'auto');
+    ga('send', 'pageview');
+
+  </script>
+
+
+</body>
+</html>
+
+

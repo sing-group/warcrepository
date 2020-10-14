@@ -1,0 +1,377 @@
+WARC/1.0
+WARC-Type: warcinfo
+WARC-Date: 2018-05-30T18:18:32Z
+WARC-Record-ID: <urn:uuid:38c2a453-025b-48eb-b232-6286f2808359>
+WARC-All-Language: nl
+WARC-All-Content_type: text/html; charset=UTF-8, text/html
+Content-Type: application/http;msgtype=response
+Content-Length: 46
+
+WARCProcessor by SING Group www.sing-group.com
+
+WARC/1.0
+WARC-Type: response
+WARC-Record-ID: <http://www.hokke.eu>
+WARC-Date: 20180530181832
+WARC-Target-URI: http://www.hokke.eu
+WARC-Language: nl
+Content-Type: application/http;msgtype=response
+Content-Length: 47961
+
+HTTP/1.1 200
+Content-Type:text/html; charset=UTF-8
+
+
+<!DOCTYPE html>
+<!--[if lt IE 7]><html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="nl"> <![endif]-->
+<!--[if IE 7]><html class="no-js lt-ie9 lt-ie8" lang="nl"> <![endif]-->
+<!--[if IE 8]><html class="no-js lt-ie9" lang="nl"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="nl"> <!--<![endif]-->
+<head>
+
+	<!-- Basic Page Needs
+  ================================================== -->
+	<meta charset="UTF-8" />
+	<title>Hokke &#8211; online portfolio &amp; blog  </title>
+
+	<!--[if lt IE 9]>
+		<script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+	<![endif]-->
+
+	<!-- CSS
+  ================================================== -->
+				<meta name="viewport" content="width=device-width, user-scalable=no">
+		
+	<!--[if IE 7]>
+		<link rel="stylesheet" href="http://www.hokke.eu/wp-content/themes/worldwide-v1-01/stylesheet/ie7-style.css" /> 
+		<link rel="stylesheet" href="http://www.hokke.eu/wp-content/themes/worldwide-v1-01/stylesheet/font-awesome/font-awesome-ie7.min.css" /> 
+	<![endif]-->	
+	
+	<link rel="alternate" type="application/rss+xml" title="Hokke - online portfolio &amp; blog &raquo; Feed" href="http://www.hokke.eu/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Hokke - online portfolio &amp; blog &raquo; Reactiesfeed" href="http://www.hokke.eu/comments/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Hokke - online portfolio &amp; blog &raquo; Welkom Reactiesfeed" href="http://www.hokke.eu/welkom/feed/" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/72x72\/","ext":".png","source":{"concatemoji":"http:\/\/www.hokke.eu\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.5.14"}};
+			!function(a,b,c){function d(a){var c,d,e,f=b.createElement("canvas"),g=f.getContext&&f.getContext("2d"),h=String.fromCharCode;if(!g||!g.fillText)return!1;switch(g.textBaseline="top",g.font="600 32px Arial",a){case"flag":return g.fillText(h(55356,56806,55356,56826),0,0),f.toDataURL().length>3e3;case"diversity":return g.fillText(h(55356,57221),0,0),c=g.getImageData(16,16,1,1).data,d=c[0]+","+c[1]+","+c[2]+","+c[3],g.fillText(h(55356,57221,55356,57343),0,0),c=g.getImageData(16,16,1,1).data,e=c[0]+","+c[1]+","+c[2]+","+c[3],d!==e;case"simple":return g.fillText(h(55357,56835),0,0),0!==g.getImageData(16,16,1,1).data[0];case"unicode8":return g.fillText(h(55356,57135),0,0),0!==g.getImageData(16,16,1,1).data[0]}return!1}function e(a){var c=b.createElement("script");c.src=a,c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g,h,i;for(i=Array("simple","flag","unicode8","diversity"),c.supports={everything:!0,everythingExceptFlag:!0},h=0;h<i.length;h++)c.supports[i[h]]=d(i[h]),c.supports.everything=c.supports.everything&&c.supports[i[h]],"flag"!==i[h]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[i[h]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='wow-style-css'  href='http://www.hokke.eu/wp-content/themes/worldwide-v1-01/style.css?ver=4.5.14' type='text/css' media='all' />
+<link rel='stylesheet' id='wow-foundation-css'  href='http://www.hokke.eu/wp-content/themes/worldwide-v1-01/stylesheet/foundation-responsive.css?ver=4.5.14' type='text/css' media='all' />
+<link rel='stylesheet' id='style-custom-css'  href='http://www.hokke.eu/wp-content/themes/worldwide-v1-01/style-custom.css?ver=4.5.14' type='text/css' media='all' />
+<link rel='stylesheet' id='Google-Font-Droid+Serif-css'  href='http://fonts.googleapis.com/css?family=Droid+Serif%3An%2Ci%2Cb%2Cbi&#038;subset=latin&#038;ver=4.5.14' type='text/css' media='all' />
+<link rel='stylesheet' id='Google-Font-Oswald-css'  href='http://fonts.googleapis.com/css?family=Oswald%3An%2Ci%2Cb%2Cbi&#038;subset=latin&#038;ver=4.5.14' type='text/css' media='all' />
+<link rel='stylesheet' id='superfish-css'  href='http://www.hokke.eu/wp-content/themes/worldwide-v1-01/stylesheet/superfish.css?ver=4.5.14' type='text/css' media='all' />
+<link rel='stylesheet' id='fancybox-css'  href='http://www.hokke.eu/wp-content/themes/worldwide-v1-01/stylesheet/fancybox.css?ver=4.5.14' type='text/css' media='all' />
+<link rel='stylesheet' id='fancybox-thumbs-css'  href='http://www.hokke.eu/wp-content/themes/worldwide-v1-01/stylesheet/jquery.fancybox-thumbs.css?ver=4.5.14' type='text/css' media='all' />
+<link rel='stylesheet' id='font-awesome-css'  href='http://www.hokke.eu/wp-content/themes/worldwide-v1-01/stylesheet/font-awesome/font-awesome.css?ver=4.5.14' type='text/css' media='all' />
+<link rel='stylesheet' id='nivo-slider-css'  href='http://www.hokke.eu/wp-content/themes/worldwide-v1-01/stylesheet/nivo-slider.css?ver=4.5.14' type='text/css' media='all' />
+<link rel='stylesheet' id='flex-slider-css'  href='http://www.hokke.eu/wp-content/themes/worldwide-v1-01/stylesheet/flexslider.css?ver=4.5.14' type='text/css' media='all' />
+<script type='text/javascript' src='http://www.hokke.eu/wp-includes/js/jquery/jquery.js?ver=1.12.4'></script>
+<script type='text/javascript' src='http://www.hokke.eu/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
+<script type='text/javascript' src='http://www.hokke.eu/wp-content/themes/worldwide-v1-01/javascript/jquery.fitvids.js?ver=1.0'></script>
+<link rel='https://api.w.org/' href='http://www.hokke.eu/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www.hokke.eu/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://www.hokke.eu/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 4.5.14" />
+<link rel="canonical" href="http://www.hokke.eu/" />
+<link rel='shortlink' href='http://www.hokke.eu/' />
+<link rel="alternate" type="application/json+oembed" href="http://www.hokke.eu/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fwww.hokke.eu%2F" />
+<link rel="alternate" type="text/xml+oembed" href="http://www.hokke.eu/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fwww.hokke.eu%2F&#038;format=xml" />
+	
+<!--[if lt IE 9]>
+<style type="text/css">
+	div.shortcode-dropcap.circle,
+	div.anythingSlider .anythingControls ul a, .flex-control-nav li a, 
+	.nivo-controlNav a, ls-bottom-slidebuttons a{
+		z-index: 1000;
+		position: relative;
+		behavior: url(http://www.hokke.eu/wp-content/themes/worldwide-v1-01/stylesheet/ie-fix/PIE.php);
+	}
+
+	ul.gdl-accordion li, ul.gdl-toggle-box li{ overflow: hidden; }
+	
+	.logo-wrapper{ overflow: hidden; width: 250px !important; }	
+</style>
+<![endif]-->
+</head>
+<body class="home page page-id-62 page-template-default">
+<div class="body-outer-wrapper">
+	<div class="body-wrapper">
+		<div class="header-outer-wrapper">
+			<!-- top navigation -->
+							<div class="top-navigation-wrapper boxed-style">
+					<div class="top-navigation-container container">
+						<div class="top-navigation-right"><div class="top-search-wrapper">								<div class="gdl-search-form">
+									<form method="get" id="searchform" action="http://www.hokke.eu/">
+										<input type="submit" id="searchsubmit" value="" />
+										<div class="search-text" id="search-text">
+											<input type="text" value="" name="s" id="s" autocomplete="off" data-default="" />
+										</div>
+										<div class="clear"></div>
+									</form>
+								</div>
+								</div><div id="gdl-social-icon" class="social-wrapper gdl-retina"><div class="social-icon-wrapper"><div class="social-icon"><a target="_blank" href="http://www.facebook.com/prohokke"><img src="http://www.hokke.eu/wp-content/themes/worldwide-v1-01/images/icon/social-icon/facebook.png" alt="facebook" width="18" height="18" /></a></div><div class="social-icon"><a target="_blank" href="http://www.flickr.com/photos/99000607@N03/"><img src="http://www.hokke.eu/wp-content/themes/worldwide-v1-01/images/icon/social-icon/flickr.png" alt="flickr" width="18" height="18" /></a></div><div class="social-icon"><a target="_blank" href="http://www.twitter.com/prohokke"><img src="http://www.hokke.eu/wp-content/themes/worldwide-v1-01/images/icon/social-icon/twitter.png" alt="twitter" width="18" height="18" /></a></div><div class="social-icon"><a target="_blank" href="https://vimeo.com/user40343190"><img src="http://www.hokke.eu/wp-content/themes/worldwide-v1-01/images/icon/social-icon/vimeo.png" alt="vimeo" width="18" height="18" /></a></div><div class="social-icon"><a target="_blank" href="#"><img src="http://www.hokke.eu/wp-content/themes/worldwide-v1-01/images/icon/social-icon/youtube.png" alt="youtube" width="18" height="18" /></a></div><div class="social-icon"><a target="_blank" href="#"><img src="http://www.hokke.eu/wp-content/themes/worldwide-v1-01/images/icon/social-icon/google-plus.png" alt="google_plus" width="18" height="18" /></a></div><div class="social-icon"><a target="_blank" href="mailto:contact@hokke.eu"><img src="http://www.hokke.eu/wp-content/themes/worldwide-v1-01/images/icon/social-icon/email.png" alt="email" width="18" height="18" /></a></div><div class="social-icon"><a target="_blank" href="https://www.pinterest.com/peterhokke/"><img src="http://www.hokke.eu/wp-content/themes/worldwide-v1-01/images/icon/social-icon/pinterest.png" alt="pinterest" width="18" height="18" /></a></div></div></div><div class="top-navigation-right-text">contact@hokke.eu</div></div>						<div class="clear"></div>
+					</div>
+				</div> <!-- top navigation wrapper -->
+						
+			<div class="header-wrapper boxed-style">
+				<div class="header-container container">
+					<!-- Get Logo -->
+					<div class="logo-wrapper">
+						<h1><a href="http://www.hokke.eu"><img src="http://www.hokke.eu/wp-content/themes/worldwide-v1-01/images/default-logo.png" alt="default-logo"/></a></h1>					</div>
+					
+					<!-- Right Banner Area -->
+					<div class="header-right-banner-wrapper">
+										</div>
+					<div class="clear"></div>		
+				</div> <!-- header container -->
+			</div> <!-- header wrapper -->
+			
+			<!-- Navigation -->
+			<div class="gdl-navigation-wrapper boxed-style">
+				<div class="responsive-menu-wrapper"><select id="menu-home" class="menu dropdown-menu"><option value="" class="blank">&#8212; Main Menu &#8212;</option><option class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-62 current_page_item menu-item-83 menu-item-depth-0" value="http://www.hokke.eu/" selected="selected">Home</option>
+<option class="menu-item menu-item-type-post_type menu-item-object-page menu-item-434 menu-item-depth-0" value="http://www.hokke.eu/wie-ben-ik/">Wie ben ik?</option>
+<option class="menu-item menu-item-type-post_type menu-item-object-page menu-item-439 menu-item-depth-0" value="http://www.hokke.eu/contact/">Contact</option>
+<option class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-1672 menu-item-depth-0" value="http://www.hokke.eu/reizen/">Reizen</option>	<option class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1246 menu-item-depth-1" value="http://www.hokke.eu/argentinie/">- Argentinie</option>
+	<option class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1248 menu-item-depth-1" value="http://www.hokke.eu/bolivia/">- Bolivia</option>
+	<option class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1245 menu-item-depth-1" value="http://www.hokke.eu/peru/">- Peru</option>
+	<option class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1249 menu-item-depth-1" value="http://www.hokke.eu/japan/">- Japan</option>
+	<option class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-1679 menu-item-depth-1" value="http://www.hokke.eu/stedentrips-2/">- Stedentrips</option>		<option class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1636 menu-item-depth-2" value="http://www.hokke.eu/gent/">- - Gent</option>
+		<option class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1631 menu-item-depth-2" value="http://www.hokke.eu/haarlem/">- - Haarlem</option>
+		<option class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1335 menu-item-depth-2" value="http://www.hokke.eu/kopenhagen/">- - Kopenhagen 2006</option>
+		<option class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1336 menu-item-depth-2" value="http://www.hokke.eu/londen-2005/">- - Londen 2005</option>
+		<option class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1334 menu-item-depth-2" value="http://www.hokke.eu/oslo/">- - Oslo 2006</option>
+		<option class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1337 menu-item-depth-2" value="http://www.hokke.eu/stockholm-2006/">- - Stockholm 2006</option>
+
+
+<option class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-1543 menu-item-depth-0" value="http://www.hokke.eu/kids-for-kids/">Kids for Kids</option>	<option class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1651 menu-item-depth-1" value="http://www.hokke.eu/kids-for-kids-2007/">- Kids for Kids 2007</option>
+	<option class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1649 menu-item-depth-1" value="http://www.hokke.eu/kids-for-kids-2008/">- Kids for Kids 2008</option>
+	<option class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1650 menu-item-depth-1" value="http://www.hokke.eu/kids-for-kids-2009/">- Kids for Kids 2009</option>
+	<option class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1291 menu-item-depth-1" value="http://www.hokke.eu/kids-for-kids-2013-ochtend/">- Kids for Kids 2013 Ochtend</option>
+	<option class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1292 menu-item-depth-1" value="http://www.hokke.eu/kids-for-kids-2013-middag/">- Kids for Kids 2013 Middag</option>
+	<option class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1305 menu-item-depth-1" value="http://www.hokke.eu/kids-for-kids-2014-ochtend/">- Kids for Kids 2014 Ochtend</option>
+	<option class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1304 menu-item-depth-1" value="http://www.hokke.eu/kids-for-kids-2014-middag/">- Kids for Kids 2014 Middag</option>
+	<option class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1433 menu-item-depth-1" value="http://www.hokke.eu/kids-for-kids-2015-ochtend/">- Kids for Kids 2015 Ochtend</option>
+	<option class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1434 menu-item-depth-1" value="http://www.hokke.eu/kids-for-kids-2015-middag/">- Kids for Kids 2015 Middag</option>
+	<option class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1603 menu-item-depth-1" value="http://www.hokke.eu/kids-for-kids-2016-ochtend/">- Kids for Kids 2016 Ochtend</option>
+	<option class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1604 menu-item-depth-1" value="http://www.hokke.eu/kids-for-kids-2016-middag/">- Kids for Kids 2016 Middag</option>
+
+<option class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-1681 menu-item-depth-0" value="http://www.hokke.eu/overig/">Overig</option>	<option class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1338 menu-item-depth-1" value="http://www.hokke.eu/artis/">- Artis</option>
+	<option class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1462 menu-item-depth-1" value="http://www.hokke.eu/bavaria-city-race-2007/">- Bavaria City race 2007</option>
+	<option class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1461 menu-item-depth-1" value="http://www.hokke.eu/circuit-zandvoort/">- Circuit Zandvoort</option>
+	<option class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1460 menu-item-depth-1" value="http://www.hokke.eu/giro/">- Giro</option>
+	<option class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1315 menu-item-depth-1" value="http://www.hokke.eu/keukenhof-2/">- Keukenhof</option>
+	<option class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1682 menu-item-depth-1" value="http://www.hokke.eu/red-bull-air-race/">- Red Bull Air Race</option>
+	<option class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1686 menu-item-depth-1" value="http://www.hokke.eu/synchroonzwemmen/">- Synchroonzwemmen</option>
+	<option class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1687 menu-item-depth-1" value="http://www.hokke.eu/texel-mei-2015/">- Texel mei 2015</option>
+
+<option class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-1680 menu-item-depth-0" value="http://www.hokke.eu/schoten/">Schoten</option>	<option class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1373 menu-item-depth-1" value="http://www.hokke.eu/schoten-kampioen/">- Schoten kampioen! (2013-2014)</option>
+	<option class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1455 menu-item-depth-1" value="http://www.hokke.eu/schoten-lucky-ajax/">- Schoten – Lucky Ajax</option>
+	<option class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1456 menu-item-depth-1" value="http://www.hokke.eu/schoten-goud-haarlem/">- Schoten – (G)oud Haarlem</option>
+
+<option class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-1505 menu-item-depth-0" value="http://www.hokke.eu/tour-de-france/">Tour de France</option>	<option class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1506 menu-item-depth-1" value="http://www.hokke.eu/tour-de-france-2004/">- Tour de France 2004</option>
+	<option class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1507 menu-item-depth-1" value="http://www.hokke.eu/tour-de-france-2005/">- Tour de France 2005</option>
+	<option class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1508 menu-item-depth-1" value="http://www.hokke.eu/tour-de-france-2006/">- Tour de France 2006</option>
+	<option class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1509 menu-item-depth-1" value="http://www.hokke.eu/tour-de-france-2007/">- Tour de France 2007</option>
+	<option class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1510 menu-item-depth-1" value="http://www.hokke.eu/tour-de-france-2009/">- Tour de France 2009</option>
+	<option class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1511 menu-item-depth-1" value="http://www.hokke.eu/tour-de-france-2011/">- Tour de France 2011</option>
+	<option class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1512 menu-item-depth-1" value="http://www.hokke.eu/tour-de-france-2013/">- Tour de France 2013</option>
+	<option class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1513 menu-item-depth-1" value="http://www.hokke.eu/tour-de-france-2015/">- Tour de France 2015</option>
+	<option class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1553 menu-item-depth-1" value="http://www.hokke.eu/la-course-parijs-2015/">- La Course – Parijs 2015</option>
+
+</select></div><div class="clear"></div><div class="main-navigation-wrapper"><div class="main-superfish-wrapper" id="main-superfish-wrapper" ><ul id="menu-home-1" class="sf-menu"><li id="menu-item-83" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-62 current_page_item menu-item-83"><a href="http://www.hokke.eu/">Home</a></li>
+<li id="menu-item-434" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-434"><a href="http://www.hokke.eu/wie-ben-ik/">Wie ben ik?</a></li>
+<li id="menu-item-439" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-439"><a href="http://www.hokke.eu/contact/">Contact</a></li>
+<li id="menu-item-1672" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-1672"><a href="http://www.hokke.eu/reizen/">Reizen</a>
+<ul class="sub-menu">
+	<li id="menu-item-1246" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1246"><a href="http://www.hokke.eu/argentinie/">Argentinie</a></li>
+	<li id="menu-item-1248" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1248"><a href="http://www.hokke.eu/bolivia/">Bolivia</a></li>
+	<li id="menu-item-1245" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1245"><a href="http://www.hokke.eu/peru/">Peru</a></li>
+	<li id="menu-item-1249" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1249"><a href="http://www.hokke.eu/japan/">Japan</a></li>
+	<li id="menu-item-1679" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-1679"><a href="http://www.hokke.eu/stedentrips-2/">Stedentrips</a>
+	<ul class="sub-menu">
+		<li id="menu-item-1636" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1636"><a href="http://www.hokke.eu/gent/">Gent</a></li>
+		<li id="menu-item-1631" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1631"><a href="http://www.hokke.eu/haarlem/">Haarlem</a></li>
+		<li id="menu-item-1335" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1335"><a href="http://www.hokke.eu/kopenhagen/">Kopenhagen 2006</a></li>
+		<li id="menu-item-1336" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1336"><a href="http://www.hokke.eu/londen-2005/">Londen 2005</a></li>
+		<li id="menu-item-1334" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1334"><a href="http://www.hokke.eu/oslo/">Oslo 2006</a></li>
+		<li id="menu-item-1337" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1337"><a href="http://www.hokke.eu/stockholm-2006/">Stockholm 2006</a></li>
+	</ul>
+</li>
+</ul>
+</li>
+<li id="menu-item-1543" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-1543"><a href="http://www.hokke.eu/kids-for-kids/">Kids for Kids</a>
+<ul class="sub-menu">
+	<li id="menu-item-1651" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1651"><a href="http://www.hokke.eu/kids-for-kids-2007/">Kids for Kids 2007</a></li>
+	<li id="menu-item-1649" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1649"><a href="http://www.hokke.eu/kids-for-kids-2008/">Kids for Kids 2008</a></li>
+	<li id="menu-item-1650" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1650"><a href="http://www.hokke.eu/kids-for-kids-2009/">Kids for Kids 2009</a></li>
+	<li id="menu-item-1291" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1291"><a href="http://www.hokke.eu/kids-for-kids-2013-ochtend/">Kids for Kids 2013 Ochtend</a></li>
+	<li id="menu-item-1292" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1292"><a href="http://www.hokke.eu/kids-for-kids-2013-middag/">Kids for Kids 2013 Middag</a></li>
+	<li id="menu-item-1305" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1305"><a href="http://www.hokke.eu/kids-for-kids-2014-ochtend/">Kids for Kids 2014 Ochtend</a></li>
+	<li id="menu-item-1304" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1304"><a href="http://www.hokke.eu/kids-for-kids-2014-middag/">Kids for Kids 2014 Middag</a></li>
+	<li id="menu-item-1433" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1433"><a href="http://www.hokke.eu/kids-for-kids-2015-ochtend/">Kids for Kids 2015 Ochtend</a></li>
+	<li id="menu-item-1434" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1434"><a href="http://www.hokke.eu/kids-for-kids-2015-middag/">Kids for Kids 2015 Middag</a></li>
+	<li id="menu-item-1603" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1603"><a href="http://www.hokke.eu/kids-for-kids-2016-ochtend/">Kids for Kids 2016 Ochtend</a></li>
+	<li id="menu-item-1604" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1604"><a href="http://www.hokke.eu/kids-for-kids-2016-middag/">Kids for Kids 2016 Middag</a></li>
+</ul>
+</li>
+<li id="menu-item-1681" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-1681"><a href="http://www.hokke.eu/overig/">Overig</a>
+<ul class="sub-menu">
+	<li id="menu-item-1338" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1338"><a href="http://www.hokke.eu/artis/">Artis</a></li>
+	<li id="menu-item-1462" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1462"><a href="http://www.hokke.eu/bavaria-city-race-2007/">Bavaria City race 2007</a></li>
+	<li id="menu-item-1461" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1461"><a href="http://www.hokke.eu/circuit-zandvoort/">Circuit Zandvoort</a></li>
+	<li id="menu-item-1460" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1460"><a href="http://www.hokke.eu/giro/">Giro</a></li>
+	<li id="menu-item-1315" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1315"><a href="http://www.hokke.eu/keukenhof-2/">Keukenhof</a></li>
+	<li id="menu-item-1682" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1682"><a href="http://www.hokke.eu/red-bull-air-race/">Red Bull Air Race</a></li>
+	<li id="menu-item-1686" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1686"><a href="http://www.hokke.eu/synchroonzwemmen/">Synchroonzwemmen</a></li>
+	<li id="menu-item-1687" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1687"><a href="http://www.hokke.eu/texel-mei-2015/">Texel mei 2015</a></li>
+</ul>
+</li>
+<li id="menu-item-1680" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-1680"><a href="http://www.hokke.eu/schoten/">Schoten</a>
+<ul class="sub-menu">
+	<li id="menu-item-1373" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1373"><a href="http://www.hokke.eu/schoten-kampioen/">Schoten kampioen! (2013-2014)</a></li>
+	<li id="menu-item-1455" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1455"><a href="http://www.hokke.eu/schoten-lucky-ajax/">Schoten – Lucky Ajax</a></li>
+	<li id="menu-item-1456" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1456"><a href="http://www.hokke.eu/schoten-goud-haarlem/">Schoten – (G)oud Haarlem</a></li>
+</ul>
+</li>
+<li id="menu-item-1505" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-1505"><a href="http://www.hokke.eu/tour-de-france/">Tour de France</a>
+<ul class="sub-menu">
+	<li id="menu-item-1506" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1506"><a href="http://www.hokke.eu/tour-de-france-2004/">Tour de France 2004</a></li>
+	<li id="menu-item-1507" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1507"><a href="http://www.hokke.eu/tour-de-france-2005/">Tour de France 2005</a></li>
+	<li id="menu-item-1508" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1508"><a href="http://www.hokke.eu/tour-de-france-2006/">Tour de France 2006</a></li>
+	<li id="menu-item-1509" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1509"><a href="http://www.hokke.eu/tour-de-france-2007/">Tour de France 2007</a></li>
+	<li id="menu-item-1510" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1510"><a href="http://www.hokke.eu/tour-de-france-2009/">Tour de France 2009</a></li>
+	<li id="menu-item-1511" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1511"><a href="http://www.hokke.eu/tour-de-france-2011/">Tour de France 2011</a></li>
+	<li id="menu-item-1512" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1512"><a href="http://www.hokke.eu/tour-de-france-2013/">Tour de France 2013</a></li>
+	<li id="menu-item-1513" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1513"><a href="http://www.hokke.eu/tour-de-france-2015/">Tour de France 2015</a></li>
+	<li id="menu-item-1553" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1553"><a href="http://www.hokke.eu/la-course-parijs-2015/">La Course – Parijs 2015</a></li>
+</ul>
+</li>
+</ul><div class="clear"></div></div><div class="clear"></div></div>				<div class="clear"></div>
+			</div>	<!-- navigation-wrapper -->		
+			
+		</div> <!-- header outer wrapper -->
+				<div class="content-outer-wrapper">
+			<div class="content-wrapper container main ">			
+	<div id="post-62" class="post-62 page type-page status-publish hentry">
+	<div class="page-wrapper normal-sidebar single-page ">
+		<div class="row gdl-page-row-wrapper"><div class="gdl-page-left mb0 twelve columns"><div class="row"><div class="gdl-page-item mb0 twelve columns"><div class="row"><div class="twelve columns mb0"><div class="gdl-page-content"></div></div><div class="clear"></div></div><div class="row"><div class="twelve columns slider-item-class slider-item-class-0 mb45"><div class="gdl-slider-wrapper"><div class="nivoSliderWrapper"><div class="nivoSlider gdl-slider"><a href="http://www.hokke.eu/tour-de-france-2015/" ><img class="gdl-no-preload" src="http://www.hokke.eu/wp-content/uploads/2014/01/tour2015slider-940x360.jpg" title="#nivo-caption0" alt="" /></a><a href="http://www.hokke.eu/la-course-parijs-2015/" ><img class="gdl-no-preload" src="http://www.hokke.eu/wp-content/uploads/2014/01/lacourseslider-940x360.jpg" title="#nivo-caption1" alt="" /></a><a href="http://www.hokke.eu/tour-de-france-2013" ><img class="gdl-no-preload" src="http://www.hokke.eu/wp-content/uploads/2015/07/tourdefrance2013slider-940x360.jpg" title="#nivo-caption2" alt="" /></a><a href="http://www.hokke.eu/tour-de-france-2011" ><img class="gdl-no-preload" src="http://www.hokke.eu/wp-content/uploads/2015/07/tour2011slider-940x360.jpg" title="#nivo-caption3" alt="" /></a><a href="http://www.hokke.eu/keukenhof-2/" ><img class="gdl-no-preload" src="http://www.hokke.eu/wp-content/uploads/2015/07/keukenhof-940x360.jpg" title="#nivo-caption4" alt="" /></a><a href="http://www.hokke.eu/giro/" ><img class="gdl-no-preload" src="http://www.hokke.eu/wp-content/uploads/2015/07/giro2010slider-940x360.jpg" title="#nivo-caption5" alt="" /></a><a href="http://www.hokke.eu/tour-de-france-2009" ><img class="gdl-no-preload" src="http://www.hokke.eu/wp-content/uploads/2015/07/tour2009slider-940x360.jpg" title="#nivo-caption6" alt="" /></a><a href="http://www.hokke.eu/tour-de-france-2007" ><img class="gdl-no-preload" src="http://www.hokke.eu/wp-content/uploads/2015/07/tour2007slider-940x360.jpg" title="#nivo-caption7" alt="" /></a><a href="http://www.hokke.eu/tour-de-france-2006" ><img class="gdl-no-preload" src="http://www.hokke.eu/wp-content/uploads/2015/07/tour2006slider1-940x360.jpg" title="#nivo-caption8" alt="" /></a><a href="http://www.hokke.eu/tour-de-france-2005" ><img class="gdl-no-preload" src="http://www.hokke.eu/wp-content/uploads/2015/07/tour2005slider-940x360.jpg" title="#nivo-caption9" alt="" /></a><a href="http://www.hokke.eu/tour-de-france-2004/" ><img class="gdl-no-preload" src="http://www.hokke.eu/wp-content/uploads/2015/07/tour2004slider-940x360.jpg" title="#nivo-caption10" alt="" /></a></div></div><div class='nivo-caption' id='nivo-caption0' ><div class="gdl-slider-caption-wrapper "><h2 class='gdl-slider-title'><span>Tour de France 2015</span></h2><div class='gdl-slider-caption'>Chris Froome samen met zijn ploeggenoten van SKY op weg naar zijn tweede Tourzege.</div></div></div><div class='nivo-caption' id='nivo-caption1' ><div class="gdl-slider-caption-wrapper "><h2 class='gdl-slider-title'><span>La Course 2015</span></h2><div class='gdl-slider-caption'>Het peleton van start voor de tweede La Course in Parijs, door Anna van der Breggen gewonnen.</div></div></div><div class='nivo-caption' id='nivo-caption2' ><div class="gdl-slider-caption-wrapper "><h2 class='gdl-slider-title'><span>Tour de France 2013</span></h2><div class='gdl-slider-caption'>Na Bradley Wiggins weer een Britse winnaar, Chris Froome.</div></div></div><div class='nivo-caption' id='nivo-caption3' ><div class="gdl-slider-caption-wrapper "><h2 class='gdl-slider-title'><span>Tour de France 2011</span></h2><div class='gdl-slider-caption'>Cadel Evans, als eerste Australische Tourwinnaar in het geel in Parijs.</div></div></div><div class='nivo-caption' id='nivo-caption4' ><div class="gdl-slider-caption-wrapper "><h2 class='gdl-slider-title'><span>Keukenhof 2010</span></h2><div class='gdl-slider-caption'>De bloembollen in bloei in de Keukenhof</div></div></div><div class='nivo-caption' id='nivo-caption5' ><div class="gdl-slider-caption-wrapper "><h2 class='gdl-slider-title'><span>Giro d'Italia</span></h2><div class='gdl-slider-caption'>Bezoek van de Giro aan Nederland. De etappe van Amsterdam naar Middelburg dwars door de Haarlemmermeer</div></div></div><div class='nivo-caption' id='nivo-caption6' ><div class="gdl-slider-caption-wrapper "><h2 class='gdl-slider-title'><span>Tour de France 2009</span></h2><div class='gdl-slider-caption'>Alberto Contador op weg naar zijn tweede Tourzege.</div></div></div><div class='nivo-caption' id='nivo-caption7' ><div class="gdl-slider-caption-wrapper "><h2 class='gdl-slider-title'><span>Tour de France 2007</span></h2><div class='gdl-slider-caption'>Alberto Contador in het geel, nadat Rasmussen door Rabobank uit de Tour is gehaald. </div></div></div><div class='nivo-caption' id='nivo-caption8' ><div class="gdl-slider-caption-wrapper "><h2 class='gdl-slider-title'><span>Tour de France 2006</span></h2><div class='gdl-slider-caption'>Floyd Landis, de voormalige knecht van Armstrong op weg naar de Tourzege. Door dopinggebruik van Landis ging de zege later over naar Oscar Pereiro Sio.</div></div></div><div class='nivo-caption' id='nivo-caption9' ><div class="gdl-slider-caption-wrapper "><h2 class='gdl-slider-title'><span>Tour de France 2005</span></h2><div class='gdl-slider-caption'>Lance Armstrong op weg naar zijn zevende Tourzege op rij.</div></div></div><div class='nivo-caption' id='nivo-caption10' ><div class="gdl-slider-caption-wrapper "><h2 class='gdl-slider-title'><span>Tour de France 2004</span></h2><div class='gdl-slider-caption'>Lance Armstrongs zesde Tourzege</div></div></div></div></div><div class="clear"></div></div><div class="row"><div class="six columns blog-item-class blog-item-class-1 mb40"><div class="blog-item-holder"><div class="gdl-blog-medium"><div class="blog-content-wrapper"><div class="blog-medium-media-wrapper"></div><div class="blog-context-wrapper"><h2 class="blog-title"><a href="http://www.hokke.eu/tour-de-france-2015/">Tour de France 2015</a></h2><div class="blog-content"><p>Zondag 26 juli kwam de Tour van 2015 weer tot een eind, na zijn overwinning in 2013 pakte Chris Froome zijn tweede Tourzege. De foto&#8217;s van de aankomst in Parijs staan nu <a href="http://www.hokke.eu/tour-de-france-2015/">online</a>.</p>
+</div><div class="blog-info-wrapper"><div class="blog-date"><span class="head">Posted On</span> <a href="http://www.hokke.eu/2015/07/28/" >28 Jul 2015</a></div><div class="blog-author"><span class="separator">, </span><span class="head">By</span> <a href="http://www.hokke.eu/author/prohokke/" title="Berichten van Peter Hokke" rel="author">Peter Hokke</a></div><div class="clear"></div></div></div><div class="clear"></div></div></div><div class="gdl-blog-medium"><div class="blog-content-wrapper"><div class="blog-medium-media-wrapper"></div><div class="blog-context-wrapper"><h2 class="blog-title"><a href="http://www.hokke.eu/la-course-parijs-2015/">La Course Parijs 2015</a></h2><div class="blog-content"><p>Voor de tweede keer werd er voorafgaand aan de aankomst van de Tour de France in Parijs een wedstrijd voor vrouwen gereden. Vorig jaar werd de eerste race gewonnen door Marianne Vos. Dit jaar won wederom een landgenote, Anna van der Breggen. Voor foto&#8217;s kun je recht op <a href="http://www.hokke.eu/la-course-parijs-2015/">deze pagina.</a></p>
+</div><div class="blog-info-wrapper"><div class="blog-date"><span class="head">Posted On</span> <a href="http://www.hokke.eu/2015/07/28/" >28 Jul 2015</a></div><div class="blog-author"><span class="separator">, </span><span class="head">By</span> <a href="http://www.hokke.eu/author/prohokke/" title="Berichten van Peter Hokke" rel="author">Peter Hokke</a></div><div class="clear"></div></div></div><div class="clear"></div></div></div></div><div class="clear"></div></div><div class="six columns blog-item-class blog-item-class-2 mb40"><div class="blog-item-holder"><div class="gdl-blog-medium"><div class="blog-content-wrapper"><div class="blog-medium-media-wrapper"></div><div class="blog-context-wrapper"><h2 class="blog-title"><a href="http://www.hokke.eu/kids-for-kids-2016/">Kids for Kids 2016</a></h2><div class="blog-content">Dit jaar zal voor het laatst het Kids for Kids toernooi in zijn huidige vorm worden gespeeld. Er wordt wederom gevoetbald voor Stichting FC Robinstein. Na afloop van het toernooi zullen de foto van het toernooi op onderstaande pagina&#8217;s gepubliceerd worden: Ochtendprogramma... </div><div class="blog-info-wrapper"><div class="blog-date"><span class="head">Posted On</span> <a href="http://www.hokke.eu/2016/04/22/" >22 Apr 2016</a></div><div class="blog-author"><span class="separator">, </span><span class="head">By</span> <a href="http://www.hokke.eu/author/prohokke/" title="Berichten van Peter Hokke" rel="author">Peter Hokke</a></div><div class="clear"></div></div></div><div class="clear"></div></div></div><div class="gdl-blog-medium"><div class="blog-content-wrapper"><div class="blog-medium-media-wrapper"></div><div class="blog-context-wrapper"><h2 class="blog-title"><a href="http://www.hokke.eu/kids-for-kids-2015-2/">Kids for Kids 2015</a></h2><div class="blog-content">Op 25 april 2015 heeft wederom het jaarlijkse Kids for Kids toernooi plaatsgevonden op het Schotenterrein. Dit jaar werd er door de kids gevoetbald voor de Dexfoundation. De foto&#8217;s van dit jaar zijn te vinden op de volgende pagina&#8217;s: Kids for Kids 2015... </div><div class="blog-info-wrapper"><div class="blog-date"><span class="head">Posted On</span> <a href="http://www.hokke.eu/2015/04/27/" >27 Apr 2015</a></div><div class="blog-author"><span class="separator">, </span><span class="head">By</span> <a href="http://www.hokke.eu/author/prohokke/" title="Berichten van Peter Hokke" rel="author">Peter Hokke</a></div><div class="clear"></div></div></div><div class="clear"></div></div></div><div class="gdl-blog-medium"><div class="blog-content-wrapper"><div class="blog-medium-media-wrapper"></div><div class="blog-context-wrapper"><h2 class="blog-title"><a href="http://www.hokke.eu/kfk2014/">Kids for Kids 2014</a></h2><div class="blog-content">Op 12 april heeft op het terrein van vv Schoten het jaarlijkse Kids for Kids toernooi plaatsgevonden. Dit evenement voor de mini&#8217;s wordt elk jaar georganiseerd om voor een goed doel zoveel mogelijk geld op te halen. Het goede doel van 2014 is Stichting FC Robinstijn. Ook... </div><div class="blog-info-wrapper"><div class="blog-date"><span class="head">Posted On</span> <a href="http://www.hokke.eu/2014/04/25/" >25 Apr 2014</a></div><div class="blog-author"><span class="separator">, </span><span class="head">By</span> <a href="http://www.hokke.eu/author/prohokke/" title="Berichten van Peter Hokke" rel="author">Peter Hokke</a></div><div class="clear"></div></div></div><div class="clear"></div></div></div></div><div class="clear"></div></div><div class="clear"></div></div></div><div class="clear"></div></div></div><div class="clear"></div></div>		<div class="clear"></div>
+	</div> <!-- page wrapper -->
+	</div> <!-- post class -->
+			</div> <!-- content wrapper -->
+		</div> <!-- content outer wrapper -->
+
+				<div class="footer-twitter-wrapper boxed-style">
+			<div class="container twitter-container">
+				<i class="gdl-twitter-icon icon-twitter"></i>
+				<div class="gdl-twitter-wrapper">
+					<div class="gdl-twitter-navigation">
+						<a class="prev"></a>
+						<a class="next"></a>
+					</div>					
+					<ul id="gdl-twitter" >
+					<li><span></span><a target="_blank" href="http://twitter.com/prohokke/statuses/995322051354296320"> 18 days ago</a></li><li><span></span><a target="_blank" href="http://twitter.com/prohokke/statuses/991670865719853056"> 28 days ago</a></li><li><span></span><a target="_blank" href="http://twitter.com/prohokke/statuses/990974708962258945"> 30 days ago</a></li><li><span></span><a target="_blank" href="http://twitter.com/prohokke/statuses/990914715269378048"> 30 days ago</a></li><li><span></span><a target="_blank" href="http://twitter.com/prohokke/statuses/990888757724372992"> 30 days ago</a></li>					</ul>				
+				</div>
+				<div class="clear"></div>
+			</div>
+			<div class="twitter-bar-top-shadow" ></div>
+			<div class="twitter-bar-bottom-shadow" ></div>
+		</div>
+		<script type="text/javascript">
+			jQuery(document).ready(function(){
+				var twitter_wrapper = jQuery('ul#gdl-twitter');
+				twitter_wrapper.each(function(){
+			
+					var fetch_num = jQuery(this).children().length;
+					var twitter_nav = jQuery(this).siblings('div.gdl-twitter-navigation');
+
+					if( fetch_num > 0 ){ 
+						gdl_cycle_resize(twitter_wrapper);
+						twitter_wrapper.cycle({ fx: 'fade', slideResize: 1, fit: true, width: '100%', timeout: 4000, speed: 1000,
+							next: twitter_nav.children('.next'),  prev: twitter_nav.children('.prev') });
+					}
+				});	
+
+				jQuery(window).resize(function(){ 
+					if( twitter_wrapper ){ gdl_cycle_resize(twitter_wrapper); }
+				});								
+			});				
+		</script>		
+				
+		<div class="footer-wrapper boxed-style">
+
+		<!-- Get Footer Widget -->
+							<div class="container footer-container">
+				<div class="footer-widget-wrapper">
+					<div class="row">
+						<div class="three columns gdl-footer-1 mb0"><div class="custom-sidebar widget_text" id="text-2" >			<div class="textwidget"></div>
+		</div></div><div class="three columns gdl-footer-2 mb0"></div><div class="three columns gdl-footer-3 mb0"></div><div class="three columns gdl-footer-4 mb0"></div>						<div class="clear"></div>
+					</div> <!-- close row -->
+					
+					<!-- Get Copyright Text -->
+																<div class="copyright-wrapper">
+							<div class="copyright-border"></div>
+							<div class="copyright-left">
+								Copyright  - All rights reserved - One Sky Training & Design							</div>
+						</div>
+										
+				</div>
+			</div> 
+		
+		</div><!-- footer wrapper -->
+	</div> <!-- body wrapper -->
+</div> <!-- body outer wrapper -->
+	
+<script type="text/javascript">jQuery(document).ready(function(){});</script>	<script>
+		var getElementsByClassName=function(a,b,c){if(document.getElementsByClassName){getElementsByClassName=function(a,b,c){c=c||document;var d=c.getElementsByClassName(a),e=b?new RegExp("\\b"+b+"\\b","i"):null,f=[],g;for(var h=0,i=d.length;h<i;h+=1){g=d[h];if(!e||e.test(g.nodeName)){f.push(g)}}return f}}else if(document.evaluate){getElementsByClassName=function(a,b,c){b=b||"*";c=c||document;var d=a.split(" "),e="",f="http://www.w3.org/1999/xhtml",g=document.documentElement.namespaceURI===f?f:null,h=[],i,j;for(var k=0,l=d.length;k<l;k+=1){e+="[contains(concat(' ', @class, ' '), ' "+d[k]+" ')]"}try{i=document.evaluate(".//"+b+e,c,g,0,null)}catch(m){i=document.evaluate(".//"+b+e,c,null,0,null)}while(j=i.iterateNext()){h.push(j)}return h}}else{getElementsByClassName=function(a,b,c){b=b||"*";c=c||document;var d=a.split(" "),e=[],f=b==="*"&&c.all?c.all:c.getElementsByTagName(b),g,h=[],i;for(var j=0,k=d.length;j<k;j+=1){e.push(new RegExp("(^|\\s)"+d[j]+"(\\s|$)"))}for(var l=0,m=f.length;l<m;l+=1){g=f[l];i=false;for(var n=0,o=e.length;n<o;n+=1){i=e[n].test(g.className);if(!i){break}}if(i){h.push(g)}}return h}}return getElementsByClassName(a,b,c)},
+			dropdowns = getElementsByClassName( 'dropdown-menu' );
+		for ( i=0; i<dropdowns.length; i++ )
+			dropdowns[i].onchange = function(){ if ( this.value != '' ) window.location.href = this.value; }
+	</script>
+	<script type='text/javascript' src='http://www.hokke.eu/wp-content/themes/worldwide-v1-01/javascript/superfish.js?ver=1.0'></script>
+<script type='text/javascript' src='http://www.hokke.eu/wp-content/themes/worldwide-v1-01/javascript/supersub.js?ver=1.0'></script>
+<script type='text/javascript' src='http://www.hokke.eu/wp-content/themes/worldwide-v1-01/javascript/hoverIntent.js?ver=1.0'></script>
+<script type='text/javascript' src='http://www.hokke.eu/wp-content/themes/worldwide-v1-01/javascript/jquery.easing.js?ver=1.0'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var ATTR = {"enable":"enable","width":"80","height":"45"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://www.hokke.eu/wp-content/themes/worldwide-v1-01/javascript/jquery.fancybox.js?ver=1.0'></script>
+<script type='text/javascript' src='http://www.hokke.eu/wp-content/themes/worldwide-v1-01/javascript/jquery.fancybox-media.js?ver=1.0'></script>
+<script type='text/javascript' src='http://www.hokke.eu/wp-content/themes/worldwide-v1-01/javascript/jquery.fancybox-thumbs.js?ver=1.0'></script>
+<script type='text/javascript' src='http://www.hokke.eu/wp-content/themes/worldwide-v1-01/javascript/gdl-scripts.js?ver=1.0'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var NIVO = {"effect":"sliceDown","pauseOnHover":"enable","controlNav":"enable","directionNav":"enable","animSpeed":"500","pauseTime":"12000"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://www.hokke.eu/wp-content/themes/worldwide-v1-01/javascript/jquery.nivo.slider.js?ver=1.0'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var FLEX = {"animation":"fade","pauseOnHover":"enable","controlNav":"enable","directionNav":"enable","animationSpeed":"600","slideshowSpeed":"12000","pauseOnAction":"disable","controlsContainer":".flexslider"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://www.hokke.eu/wp-content/themes/worldwide-v1-01/javascript/jquery.flexslider.js?ver=1.0'></script>
+<script type='text/javascript' src='http://www.hokke.eu/wp-includes/js/comment-reply.min.js?ver=4.5.14'></script>
+<script type='text/javascript' src='http://www.hokke.eu/wp-includes/js/wp-embed.min.js?ver=4.5.14'></script>
+<script type='text/javascript' src='http://www.hokke.eu/wp-content/themes/worldwide-v1-01/javascript/jquery.cycle.js?ver=1.0'></script>
+
+</body>
+</html>
+

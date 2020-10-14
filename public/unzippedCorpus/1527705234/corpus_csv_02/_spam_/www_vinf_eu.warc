@@ -1,0 +1,439 @@
+WARC/1.0
+WARC-Type: warcinfo
+WARC-Date: 2018-05-30T17:52:31Z
+WARC-All-Language: en
+WARC-All-Content_type: text/html; charset=utf-8
+WARC-Record-ID: <urn:uuid:24a987c4-1dd6-47d9-b2e1-87499c86f1ab>
+Content-Type: application/http;msgtype=response
+Content-Length: 46
+
+WARCProcessor by SING Group www.sing-group.com
+
+WARC/1.0
+WARC-Type: response
+WARC-Target-URI: http://www.vinf.eu
+WARC-Date: 20180530175231
+WARC-Language: en
+WARC-Record-ID: <http://www.vinf.eu>
+Content-Type: application/http;msgtype=response
+Content-Length: 16839
+
+HTTP/1.1 200
+Content-Type:text/html; charset=utf-8
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+  "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en" dir="ltr">
+  <head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="shortcut icon" href="/sites/all/themes/vinf/favicon.ico" type="image/x-icon" />
+    <title>Homepage | VINF</title>
+    <link type="text/css" rel="stylesheet" media="all" href="/sites/default/files/css/css_d4c7f216e4352a73fabf1a44844bef4e.css" />
+<link type="text/css" rel="stylesheet" media="print" href="/sites/default/files/css/css_61fe6c88f9b7cc23c24347bf19090216.css" />
+    <script type="text/javascript" src="/sites/default/files/js/js_1279c96fc23ce9a2be56450e40cfc818.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, { "basePath": "/" });
+//--><!]]>
+</script>
+    <!--[if lt IE 7]>
+      <link type="text/css" rel="stylesheet" media="all" href="/sites/all/themes/vinf/fix-ie.css" />    <![endif]-->
+  </head>
+  <body class="sidebars">
+  <div id="main-container">
+
+<!-- Layout -->
+  <div id="header-region" class="clear-block"></div>
+
+    <div id="wrapper">
+    <div id="container" class="clear-block">
+
+      <div id="header">
+        
+        
+      
+        <div id="logo-floater">
+		<!-- <a title="drupal.gb.int" href="/"><img id="logo" alt="drupal.gb.int" src="/sites/all/themes/vinf/logo.png"><span>drupal.gb.int</span></a> -->
+        		
+						
+		<div id="logo-container"><a title="VINF" href="/"><img id="logo" alt="VINF" src="/sites/all/themes/vinf/logo.png" /></a></div>
+		<div id="banner-header"><div id="block-block-2" class="clear-block block block-block">
+
+
+  <div class="content"><p>
+	<img alt="" src="/sites/default/files/banner_ecnf2018-final_0_0.jpg" style="width: 500px; height: 70px;" /></p>
+<p>
+	more info on <a href="http://www.ecnf2018.org" title="www.ecnf2018.org">www.ecnf2018.org</a></p>
+</div>
+</div>
+</div>
+
+        </div>
+        <div id="login"><div id="block-user-0" class="clear-block block block-user">
+
+
+  <div class="content"><form action="/page/homepage?destination=node%2F71"  accept-charset="UTF-8" method="post" id="user-login-form">
+<div><div class="form-item" id="edit-name-wrapper">
+ <label for="edit-name">Username: <span class="form-required" title="This field is required.">*</span></label>
+ <input type="text" maxlength="60" name="name" id="edit-name" size="15" value="" class="form-text required" />
+</div>
+<div class="form-item" id="edit-pass-wrapper">
+ <label for="edit-pass">Password: <span class="form-required" title="This field is required.">*</span></label>
+ <input type="password" name="pass" id="edit-pass"  maxlength="60"  size="15"  class="form-text required" />
+</div>
+<input type="submit" name="op" id="edit-submit-1" value="Log in"  class="form-submit" />
+<div class="item-list"><ul><li class="first last"><a href="/user/password" title="Request new password via e-mail.">Request new password</a></li>
+</ul></div><input type="hidden" name="form_build_id" id="form-5349bdf028e8b4e9d8dbd1e11b5d3c6d" value="form-5349bdf028e8b4e9d8dbd1e11b5d3c6d"  />
+<input type="hidden" name="form_id" id="edit-user-login-block" value="user_login_block"  />
+
+</div></form>
+</div>
+</div>
+</div>
+                                                            
+       
+
+      </div> <!-- /header -->
+	  
+		<br class="clearfix" />
+		<div id="header-separator-content">
+			<img src="/sites/all/themes/vinf/images/bar.jpg" width="960" height="36" title="" />
+		</div>
+		
+		
+					<div id="sidebar-left" class="sidebar">
+			<div class="block block-theme"><form action="/"  accept-charset="UTF-8" method="post" id="search-theme-form">
+<div>
+<input type="hidden" value="search_theme_form" id="edit-search-theme-form" name="form_id">
+<input type="hidden" value="23aeeff4a3f50623bf5a857847decd8e" name="form_token" />
+<div>
+	<div class="container-inline" id="search">
+		<div id="edit-search-theme-form-1-wrapper" class="form-item">
+			<label for="edit-search-theme-form-1">Search this site: </label>
+			<div>
+			<input size="17" type="text" class="form" value="Enter your search" onfocus="if(this.value=='Enter your search')this.value='' " name="search_theme_form" id="edit-search-theme-form-1"/>
+			<input type="submit" class="form-submit" value="Search" id="edit-submit" name="op">
+			</div>
+		</div>
+	</div>
+</div>
+
+
+</div></form>
+</div>			<div id="block-menu-menu-menu-left" class="clear-block block block-menu">
+
+  <h2>About us</h2>
+
+  <div class="content"><ul class="menu"><li class="leaf first active-trail"><a href="/page/homepage" title="" class="menu-723 active">Homepage</a></li>
+<li class="leaf"><a href="/page/welcome" title="Welcome" class="menu-115">Welcome</a></li>
+<li class="leaf"><a href="/page/objectives" title="
+" class="menu-284">Objectives</a></li>
+<li class="leaf"><a href="/page/fields-expertise" title="
+" class="menu-285">Fields of expertise</a></li>
+<li class="leaf"><a href="/page/staff" title="
+" class="menu-289">Staff</a></li>
+<li class="leaf"><a href="/page/become-member-vinf" title="
+" class="menu-290">Become a member</a></li>
+<li class="leaf last"><a href="/teams" title="" class="menu-353">Team of experts</a></li>
+</ul></div>
+</div>
+<div id="block-menu-menu-networking" class="clear-block block block-menu">
+
+  <h2>Networking</h2>
+
+  <div class="content"><ul class="menu"><li class="expanded first"><a href="/page/research" title="
+" class="menu-300">Research</a><ul class="menu"><li class="leaf first"><a href="/projects" title="
+" class="menu-307">VINF in European Projects</a></li>
+<li class="leaf"><a href="/page/research#EPR" title="
+" class="menu-306">Overview of European Projects Fundings</a></li>
+<li class="leaf"><a href="/page/research#FSC" title="
+" class="menu-308">Find Scientific Collaboration </a></li>
+<li class="leaf"><a href="/page/research#VB" title="
+" class="menu-309">VINF Bibliography</a></li>
+<li class="leaf"><a href="/page/research#MSB" title="
+" class="menu-310">Members Scientific Bibliography</a></li>
+<li class="leaf last"><a href="/page/research#RRR" title="" class="menu-814">Rolling Research Roadmap</a></li>
+</ul></li>
+<li class="expanded"><a href="/page/education" title="
+" class="menu-301">Education</a><ul class="menu"><li class="leaf first"><a href="/page/education#PGTP" title="" class="menu-361">Post-graduate training program</a></li>
+<li class="leaf last"><a href="/page/education#ACT" title="" class="menu-362">A la carte training</a></li>
+</ul></li>
+<li class="leaf"><a href="/page/conference-and-workshops" title="" class="menu-366">Conference and Workshops</a></li>
+<li class="leaf"><a href="/page/scientific-infrastructure" title="
+" class="menu-302">Scientific infrastructure</a></li>
+<li class="leaf"><a href="/page/services-products" title="
+" class="menu-303">Services &amp; Products</a></li>
+<li class="leaf"><a href="/events/events-archive" title="
+" class="menu-304">Events</a></li>
+<li class="expanded"><a href="/webform/job-demand" title="" class="menu-363">Job Market</a><ul class="menu"><li class="leaf first"><a href="/webform/job-demand" title="" class="menu-364">Job demand</a></li>
+<li class="leaf last"><a href="/jobs" title="" class="menu-365">Jobs Offer List</a></li>
+</ul></li>
+<li class="leaf"><a href="/page/get-involved" title="
+" class="menu-305">Get involved</a></li>
+<li class="leaf last"><a href="/usefuls-links" title="" class="menu-313">Usefuls Links</a></li>
+</ul></div>
+</div>
+<div id="block-menu-menu-documents-taxonomy-menu" class="clear-block block block-menu">
+
+  <h2>Documents</h2>
+
+  <div class="content"><ul class="menu"><li class="leaf first last"><a href="/category/documents-category/brochures" title="Brochures" class="menu-823">Brochures</a></li>
+</ul></div>
+</div>
+<div id="block-menu-menu-contact" class="clear-block block block-menu">
+
+  <h2>Contact</h2>
+
+  <div class="content"><ul class="menu"><li class="leaf first"><a href="/webform/contact-form" title="" class="menu-231">Contact form</a></li>
+<li class="leaf last"><a href="/page/contact-information" title="" class="menu-238">Contact information</a></li>
+</ul></div>
+</div>
+			</div>
+		
+      <div id="center">	  
+	  <div id="squeeze">
+	  <div class="center-top"></div>
+	  <div class="center-middle">
+                                        <h2>Homepage</h2>                                                  <div class="clear-block">
+            <div id="node-71" class="node">
+
+
+
+  
+  <div class="content clear-block">
+    <div class="rtecenter">
+	<img alt="" border="0" src="/sites/default/files/page/graphgrap540px.jpg" style="width: 540px; height: 656px;" usemap="#Map" /><map id="Map" name="Map"><area coords="120,135,184,154" href="/page/education" shape="rect" /> <area coords="11,229,190,250" href="/page/research" shape="rect" /> <area coords="212,253,341,271" href="/page/participation-etp" shape="rect" /><area coords="148,303,250,325" href="/projects" shape="rect" /> <area coords="113,401,291,421" href="/page/conference-and-workshops" shape="rect" /><area coords="92,461,174,479" href="/page/objectives" shape="rect" /> <area coords="99,556,207,573" href="/page/services-products" shape="rect" /></map></div>
+  </div>
+
+  <div class="clear-block">
+    <div class="meta">
+        </div>
+
+    	
+		
+	
+  </div>
+
+</div>
+          </div>
+          	  </div>
+	  <div class="center-bottom"></div>
+      </div><!--  /#squeeze -->
+	  </div> <!--  /#center -->
+
+              <div id="sidebar-right" class="sidebar">
+                    <div id="block-views-last_5_news-block_1" class="clear-block block block-views">
+
+  <h2>News</h2>
+
+  <div class="content"><div class="view view-last-5-news view-id-last_5_news view-display-id-block_1 view-dom-id-1">
+    
+  
+  
+      <div class="view-content">
+        <div class="views-row views-row-1 views-row-odd views-row-first">
+      
+  <div class="views-field-title">
+                <span class="field-content"><a href="/news/cost-action-supported">COST Action supported</a></span>
+  </div>
+  
+  <div class="views-field-field-teaser-value">
+                <span class="field-content">Good opportunity ! Please contact MBN</span>
+  </div>
+  
+  <div class="views-field-view-node">
+                <span class="field-content"><a href="/news/cost-action-supported">Read more</a></span>
+  </div>
+  </div>
+  <div class="views-row views-row-2 views-row-even">
+      
+  <div class="views-field-title">
+                <span class="field-content"><a href="/news/training-course-multiscale-computational-methods-complex-molecular-systems">Training course : Multiscale Computational Methods for Complex Molecular Systems</a></span>
+  </div>
+  
+  <div class="views-field-field-teaser-value">
+                <span class="field-content">co-organised by the two VINF members MBN RC and Cranfield University</span>
+  </div>
+  
+  <div class="views-field-view-node">
+                <span class="field-content"><a href="/news/training-course-multiscale-computational-methods-complex-molecular-systems">Read more</a></span>
+  </div>
+  </div>
+  <div class="views-row views-row-3 views-row-odd views-row-last">
+      
+  <div class="views-field-title">
+                <span class="field-content"><a href="/news/2018-european-conference-nanofilms">2018 - European Conference on NanoFilms</a></span>
+  </div>
+  
+  <div class="views-field-field-teaser-value">
+                <span class="field-content">Cranfield University</span>
+  </div>
+  
+  <div class="views-field-view-node">
+                <span class="field-content"><a href="/news/2018-european-conference-nanofilms">Read more</a></span>
+  </div>
+  </div>
+    </div>
+  
+  
+  
+  
+      <div class="view-footer">
+      <div class="footer"><a href="/news/news-archive">All News</a></div>
+    </div>
+  
+  
+</div> </div>
+</div>
+<div id="block-views-last_5_events-block_1" class="clear-block block block-views">
+
+  <h2>Events</h2>
+
+  <div class="content"><div class="view view-last-5-events view-id-last_5_events view-display-id-block_1 view-dom-id-2">
+    
+  
+  
+      <div class="view-content">
+        <div class="views-row views-row-1 views-row-odd views-row-first">
+      
+  <div class="views-field-title">
+                <span class="field-content"><a href="/event/mbn-training-course-computational-methods-complex-molecular-systems">MBN : training course on Computational Methods for Complex Molecular Systems</a></span>
+  </div>
+  
+  <div class="views-field-field-teaser-value">
+                <span class="field-content">October 06-07, 2018 : Odense, Denmark</span>
+  </div>
+  
+  <div class="views-field-view-node">
+                <span class="field-content">On <strong>29/05/2018</strong></span>
+  </div>
+  </div>
+  <div class="views-row views-row-2 views-row-even">
+      
+  <div class="views-field-title">
+                <span class="field-content"><a href="/event/ecnf-2018">ECNF 2018</a></span>
+  </div>
+  
+  <div class="views-field-field-teaser-value">
+                <span class="field-content">Cranfield University (UK)</span>
+  </div>
+  
+  <div class="views-field-view-node">
+                <span class="field-content">On <strong>20/03/2018</strong> > <strong>22/03/2018</strong></span>
+  </div>
+  </div>
+  <div class="views-row views-row-3 views-row-odd views-row-last">
+      
+  <div class="views-field-title">
+                <span class="field-content"><a href="/event/ecnf-2016">ECNF 2016</a></span>
+  </div>
+  
+  <div class="views-field-field-teaser-value">
+                <span class="field-content">Bilbao, 19-21/10/2016</span>
+  </div>
+  
+  <div class="views-field-view-node">
+                <span class="field-content">On <strong>19/10/2016</strong> > <strong>21/10/2016</strong></span>
+  </div>
+  </div>
+    </div>
+  
+  
+  
+  
+      <div class="view-footer">
+      <div class="footer"><a href="/event/">Events calendar</a> - <a href="/events/events-archive">All events</a></div>
+    </div>
+  
+  
+</div> </div>
+</div>
+<div id="block-views-newsletter-block_1" class="clear-block block block-views">
+
+
+  <div class="content"><div class="view view-newsletter view-id-newsletter view-display-id-block_1 view-dom-id-3">
+    
+  
+  
+      <div class="view-content">
+        <div class="views-row views-row-1 views-row-odd views-row-first views-row-last">
+    <div id="node-88" class="node">
+
+
+  <h2><a href="/webform/newsletter" title="Newsletter">Newsletter</a></h2>
+
+  
+  <div class="content clear-block">
+    <p></p>
+<form action="/webform/newsletter"  accept-charset="UTF-8" method="post" id="webform-client-form-88" class="webform-client-form" enctype="multipart/form-data">
+<div><div class="webform-component-email" id="webform-component-e_mail"><div class="form-item" id="edit-submitted-e-mail-wrapper">
+ <label for="edit-submitted-e-mail">E-mail: <span class="form-required" title="This field is required.">*</span></label>
+ <input type="text" maxlength="128" name="submitted[e_mail]" id="edit-submitted-e-mail" size="60" value="Enter your email..." class="form-text required" />
+</div>
+</div><input type="hidden" name="details[email_subject]" id="edit-details-email-subject" value="default"  />
+<input type="hidden" name="details[email_from_name]" id="edit-details-email-from-name" value="default"  />
+<input type="hidden" name="details[email_from_address]" id="edit-details-email-from-address" value="default"  />
+<input type="hidden" name="form_build_id" id="form-ad73ed08edab4265816fb793b3af6713" value="form-ad73ed08edab4265816fb793b3af6713"  />
+<input type="hidden" name="form_id" id="edit-webform-client-form-88" value="webform_client_form_88"  />
+<input type="submit" name="op" id="edit-submit" value="OK"  class="form-submit" />
+
+</div></form>
+  </div>
+
+  <div class="clear-block">
+    <div class="meta">
+        </div>
+
+    	
+		
+	
+  </div>
+
+</div>
+  </div>
+    </div>
+  
+  
+  
+  
+      <div class="view-footer">
+      <div class="footer"><a href="/newsletters">All Newsletter</a></div>
+    </div>
+  
+  
+</div> </div>
+</div>
+        </div>
+      
+    </div> <!-- /container -->
+    
+		<div id="push"></div>
+  </div>  
+<!-- /layout -->
+    </div><!-- /main-container -->
+  <div id="footer-container">
+    <div id="footer">
+	  <div id="left">V.A.T. BE 0893 523 022</div>
+	  <div id="right">
+	  <div id="block-menu-menu-footer" class="clear-block block block-menu">
+
+
+  <div class="content"><ul class="menu"><li class="leaf first"><a href="/page/map" title="" class="menu-216">map</a></li>
+<li class="leaf"><a href="/page/legal-information" title="" class="menu-217">legal information</a></li>
+<li class="leaf last"><a href="/page/website-terms-use" title="" class="menu-218">website terms of use</a></li>
+</ul></div>
+</div>
+  
+	  </div>
+	  <br class="clearfix" />
+    </div>
+  </div>
+  
+  
+  
+  </body>
+</html>
+
+

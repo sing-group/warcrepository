@@ -1,0 +1,3907 @@
+WARC/1.0
+WARC-Type: warcinfo
+WARC-Date: 2018-05-23T15:15:42Z
+WARC-Record-ID: <urn:uuid:b2aab37b-f7c6-43f5-b4e3-4624bb3efb87>
+WARC-All-Language: ar
+WARC-All-Content_type: text/html
+Content-Type: application/http;msgtype=response
+Content-Length: 46
+
+WARCProcessor by SING Group www.sing-group.com
+
+WARC/1.0
+WARC-Type: response
+WARC-Record-ID: <http://www.americangables.com/floorplans/albany/share/>
+WARC-Date: 20180523151542
+WARC-Target-URI: http://www.americangables.com/floorplans/albany/share/
+WARC-Language: ar
+Content-Type: application/http;msgtype=response
+Content-Length: 13708
+
+HTTP/1.1 200 OK
+Server: Apache/2.2
+Content-Type: text/html; charset=UTF-8
+Date: Sun, 12 Feb 2012 08:28:21 GMT
+Connection: close
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>House Plans - Albany</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<link href="/css/style.css" rel="stylesheet" type="text/css">
+<link href="http://www.americangables.com/favicon.ico" rel="SHORTCUT ICON"> 
+<script type="text/javascript" src="/js/mouseover.js"></script>
+<script type='text/javascript'> 
+function Pop_Go(){return} 
+function PopMenu(x,y){return} 
+function OutMenu(){return} 
+</script> 
+<script type='text/javascript' src='/js/popmenu_var.js'></script>
+<script type='text/javascript' src='/js/popmenu_com.js'></script>
+<script language="javascript" src="/inc/scripts.js"></script>
+<script language="javascript">
+<!--//
+function isReady() {
+	if (/^\w+([\.-]?\w+)*@\w+([\.-]?\w+)*(\.\w{2,3})+$/.test(document.form1.share_sender_email.value)) {
+		// correct format
+	}
+	else {
+		alert("Please fill in your valid e-mail address.");
+		return false;
+	}
+	
+	if (/^\w+([\.-]?\w+)*@\w+([\.-]?\w+)*(\.\w{2,3})+$/.test(document.form1.share_friend_email.value)) {
+		// correct format
+	}
+	else {
+		alert("Please fill in your friend's valid e-mail address.");
+		return false;
+	}
+	
+	if (document.form1.share_sender_name.value <= 1) {
+	  alert("Please fill in your name.");
+	  return false;
+	}
+	if (document.form1.share_friend_name.value <= 1) {
+	  alert("Please fill in your friend's name.");
+	  return false;
+	}
+	else
+	  return true;
+}
+//-->
+</script>
+</head>
+
+<body topmargin="0" onload="Pop_Go();">
+<p class="topmsg">Order Our House Plans via phone at 1-866-681-5407 Monday-Friday 9AM to 6PM</p>
+<table border="0" cellpadding="0" cellspacing="0" align="center" id="maintable">
+  <tr>
+	<td>
+	<div id="headerarea">
+	<div id="header"><a href="http://www.americangables.com/"><img src="/atd_images/header_left.jpg" width="363" height="120" border="0" alt="House Plans at American Gables Home Designs" /></a></div>
+</div>
+<div id="navarea" class="content">
+		<table border="0" cellpadding="2" cellspacing="0" width="100%" id="nav">
+		<tr>
+			<td><a href="http://www.americangables.com/">Home</a></td>
+			<td><span id="homePlans" onMouseOver="PopMenu('PopMenu1',event);" onMouseOut="OutMenu('PopMenu1');">House Plans</span></td>
+			<td><span id="services" onMouseOver="PopMenu('PopMenu2',event);" onMouseOut="OutMenu('PopMenu2');">Services</span></td>
+			<td><a href="http://www.americangables.com/aboutplans/">About Plans</a></td>
+			<td><a href="http://www.americangables.com/aboutus/">About Us</a></td>
+			<td><span id="planPhotos" onMouseOver="PopMenu('PopMenu3',event);" onMouseOut="OutMenu('PopMenu3');">House Plan Photos</span></td>
+			<td><a href="http://www.americangables.com/faqs/">FAQs</a></td>
+			<td><a href="http://www.americangables.com/links/">Links</a></td>
+			<td><a href="http://www.americangables.com/forms/contactus/">Contact</a></td>
+		</tr>
+	</table>
+</div>
+	<div class="body">
+	<table border="0" cellpadding="0" cellspacing="0" class="content">
+		<tr valign="top">
+			<td class="leftbar"><!--BEGIN SEARCH BOX-->
+<div class="greenbox">
+	<img src="/atd_images/greenbar_search_house_plans.jpg" width="205" height="27" class="greenbar_header">
+	<div class="greenbox_form">
+		<form name="leftbarsearch" action="/floorplans/" method="get">
+		<input name="action" type="hidden" value="Search">
+			<strong>Plan Name:</strong><br />
+			<input name="plan_name" type="text" class="greenbox_form long"><br />
+			<strong>Square Footage:</strong><br />
+			<input name="sqft_min"type="text" class="greenbox_form short"> to <input name="sqft_max"type="text" class="greenbox_form short">
+			<strong>Width of Plan (in ft):</strong><br />
+			<input name="width_min" type="text" class="greenbox_form short"> to <input name="width_max" type="text" class="greenbox_form short"><br />
+			<strong>Depth of Plan (in ft):</strong><br />
+			<input name="depth_min"type="text" class="greenbox_form short"> to <input name="depth_max" type="text" class="greenbox_form short"><br />
+			<strong>Type of Plan:</strong><br />
+			<select name="category_id" size="1" class="greenbox_form">
+				<option value="">&nbsp;</option>
+				<option value="1">Master Down</option>
+<option value="2">Ranch</option>
+<option value="3">Split Foyer</option>
+<option value="4">Split Level</option>
+<option value="5">Two-Story</option>
+<option value="6"></option>
+			</select>
+			<br /><img src="/atd_images/spacer.gif" border="0" height="5" width="1"><br />
+			<!--<div class="search_links"><a href="/searchhelp/">Search Help</a></div>-->
+			<input type="image" src="/atd_images/btn_search.gif" border="0" value="submit">
+			<div><strong><a href="/floorplans/">Advanced Search</a></strong> | <strong><a href="/searchhelp/">Help</a></strong></div>
+		</form>
+	</div>
+</div>
+<!--END SEARCH BOX-->
+<p>
+<!--BEGIN SEARCH CATEGORIES-->
+<div class="greenbox">
+<img src="/atd_images/greenbar_house_plan_styles.jpg" width="205" height="27" class="greenbar_header">
+<div class="greenbox_content">
+<a href="/bungalow-house-plans/">Bungalow House Plans</a><br />
+<a href="/cape-cod-house-plans/">Cape Cod House Plans</a><br />
+<a href="/coastal-house-plans/">Coastal House Plans</a><br />
+<a href="/colonial-house-plans/">Colonial House Plans</a><br />
+<a href="/cottage-house-plans/">Cottage House Plans</a><br />
+<a href="/country-house-plans/">Country House Plans</a><br />
+<a href="/craftsman-house-plans/">Craftsman House Plans</a><br />
+<a href="/custom-house-plans/">Custom House Plans</a><br />
+<a href="/european-house-plans/">European House Plans</a><br />
+<a href="/farmhouse-house-plans/">Farmhouse House Plans</a><br />
+<a href="/french-country-house-plans/">French Country House Plans</a><br />
+<a href="/georgian-house-plans/">Georgian House Plans</a><br />
+<a href="/luxury-house-plans/">Luxury House Plans</a><br />
+<a href="/narrow-lot-house-plans/">Narrow Lot House Plans</a><br />
+<a href="/ranch-house-plans/">Ranch House Plans</a><br />
+<a href="/small-house-plans/">Small House Plans</a><br />
+<a href="/southern-house-plans/">Southern House Plans</a><br />
+<a href="/traditional-house-plans/">Traditional House Plans</a><br />
+<a href="/tudor-house-plans/">Tudor House Plans</a><br />
+<a href="/victorian-house-plans/">Victorian House Plans</a><br />
+</div>
+</div>
+<p>
+<div class="greenbox">
+<img src="/atd_images/greenbar_search_house_plans_by_category.jpg" width="205" height="27" class="greenbar_header">
+<div class="greenbox_content">
+<strong>Plan Category:</strong><br />
+<a href="/bonus-room-house-plans/">Bonus Room House Plans</a><br />
+<a href="/courtyard-entry-house-plans/">Courtyard Entry House Plans</a><br />
+<a href="/house-plans-with-keeping-rooms/">House Plans w/ Keeping Rooms</a><br />
+<a href="/house-plans-with-lofts/">House Plans w/ Lofts</a><br />
+<a href="/house-plans-with-photos/">House Plans w/ Photos</a><br />
+<a href="/master-down-house-plans/">Master Down House Plans</a><br />
+<a href="/new-house-plans/">New House Plans</a><br />
+<a href="/one-story-house-plans/">One-Story House Plans</a><br />
+<a href="/split-foyer-house-plans/">Split Foyer House Plans</a><br />
+<a href="/two-story-house-plans/">Two-Story House Plans</a><br />
+<strong>Square Footage:</strong><br />
+<a href="/house-plans-1001-2000-sq-ft/">House Plans 1001-2000 Sq. Ft.</a><br />
+<a href="/house-plans-2001-3000-sq-ft/">House Plans 2001-3000 Sq. Ft.</a><br />
+<a href="/house-plans-3001-4000-sq-ft/">House Plans 3001-4000 Sq. Ft.</a><br />
+<a href="/house-plans-over-4000-sq-ft/">Plans Over 4000 Sq. Ft.</a>
+</div>
+</div>
+<!--END SEARCH CATEGORIES-->
+<p align="center">Proud Members of:</p>
+<p>
+<a href="http://www.ncbdc.com/" target="_blank"><img src="/atd_images/logo_triangle.gif" alt="National Council of Building Designer Certification" border="0" /></a><br />
+</p></td>
+			<td width="10">&nbsp;</td>
+			<td class="content">
+				<div class="top_nav"><p>
+<a href="/cart/" class="shop">Shopping Cart</a>
+|
+<a href="http://www.americangables.com/account/" class="shop">Log In</a>
+</p></div>
+<p>February 12, 2012</p>				<!--BEGIN CONTENT-->
+
+	<h1>House Plan Albany</h1>
+	<h2>E-mail to a Friend</h2>
+	<div style="margin-bottom: 10px;"><a href="/floorplans/albany/"><img src="/uploads/floorplanelevations/list107.jpg" border="0" alt="Albany" style="border: 1px solid #000000;"></a></div>
+	<form action="/floorplans/albany/share/" method="post" name="form1" onSubmit="return isReady(form1);">
+	<input type="hidden" name="action" value="submit" />
+	<input type="hidden" name="p" value="albany" />
+	<fieldset>
+		<dl>
+			<dt>Your Name:</dt>
+			<dd><input name="share_sender_name" type="text" id="share_sender_name" size="30" maxlength="50" class="formfield" /></dd>
+			<dt>Your E-mail Address:</dt>
+			<dd><input name="share_sender_email" type="text" id="share_sender_email" size="30" maxlength="50" class="formfield" /></dd>
+			<dt>Friend's Name:</dt>
+			<dd><input name="share_friend_name" type="text" id="share_friend_name" size="30" maxlength="50" class="formfield" /></dd>
+			<dt>Friend's E-mail Address:</dt>
+			<dd><input name="share_friend_email" type="text" id="share_friend_email" size="30" maxlength="50" class="formfield" /></dd>
+			<dt>Add a Personalized Message:</dt>
+			<dd><textarea name="share_message" cols="40" rows="5" wrap="virtual" id="share_message" class="formfield">Check out this great house plan!</textarea></dd>
+		</dl>
+	</fieldset>
+	<div class="buttonarea"><input type="submit" value="Send Message" class="button"></div>
+	</form>
+	
+	
+				<!-- END CONTENT -->
+			</td>
+		</tr>
+	</table>
+	</div>
+	</td>
+  </tr>
+  <tr>
+	<td class="footer_nav"><p>
+<a href="/">Home</a> |
+<a href="/floorplans/">House Plans</a> |
+<a href="/builderservices/">Services</a> |
+<a href="/aboutplans/">About Plans</a> |
+<a href="/aboutus/">About Company</a> |
+<a href="/faqs/">FAQs</a> |
+<a href="/links/">Links</a> |
+<a href="/forms/contactus/">Contact Us</a>
+<br />
+<a href="/jobopps/">Job Opportunities</a> |
+<a href="/orderinginfo/">Ordering Information</a> |
+<a href="/copyrights/">Copyrights</a> |
+<a href="/privacy/">Privacy Policy</a> |
+<a href="/sitemap/">Site Map</a>
+</p>
+
+<script type="text/javascript"><!--
+google_ad_client = "ca-pub-9410095703612993";
+/* AGHD */
+google_ad_slot = "2673122341";
+google_ad_width = 728;
+google_ad_height = 90;
+//-->
+</script>
+<script type="text/javascript"
+src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>
+
+<center><p><div id="googleCheckoutLogo"></div><script src='https://checkout.google.com/buttons/logos?merchant_id=420294893307834&loc=en_US&f=png' ></script>
+</p></center>
+<br /></td>
+  </tr>
+</table>
+<div class="copyright">
+	<p>678-919-7717 or call toll-free 888-919-6243 | <a href="mailto:info@americangables.com">info@americangables.com</a><br />
+	Copyright &copy; 2001-2012 American Gables Home Designs, Inc. All rights reserved.</p>
+		
+	<p align="center">
+	<strong>House Plan Resources</strong><br>
+	<a href="http://www.americangables.com/">House Plans</a> - American Gables Home Designs, Inc.</a><br />
+	<a href="http://www.houseplans.net/">House Plans</a> - America's Best House Plans</a><br />
+	<a href="http://www.designevolutions.com/index.html">Luxury house plans and custom home designs</a> at designevolutions.com<br />
+	<a href="http://www.garrellassociates.com/">House Plans</a> - Garrell Associates, Inc.<br>
+	</p>
+	<br />
+	
+	
+	<!-- BEGIN http://www.HomeSalez.com Top100 Program Code -->
+	<SCRIPT language="JavaScript" src="http://www.homesalez.com/itop/hits.php?id=6394">
+	</SCRIPT><NOSCRIPT><a href="http://www.homesalez.com">Home For Sale</a><br />
+	<a href="http://usa.homesalez.com">Real Estate Listing</a><br />
+	<a href="http://uk.homesalez.com">Property For Sale</a><br />
+	<a href="http://canada.homesalez.com">Canada Real Estate</a><br />
+	<a href="http://australia.homesalez.com">Australia Real Estate</a></NOSCRIPT>
+	<!-- END http://www.HomeSalez.com Top100 Program Code  -->
+	
+<br>
+<a href="http://www.toponlineshopping.com/"><img src="http://www.toponlineshopping.com/image.php?site=16116&color=4" border="0" alt="Online Shopping Directory"></a>
+</div>
+
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-22461478-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+
+<script language="JavaScript1.2">
+
+/*
+Disable right click script II (on images)- By Dynamicdrive.com
+For full source, Terms of service, and 100s DTHML scripts
+Visit http://www.dynamicdrive.com
+*/
+
+var clickmessage="All images are copyrighted by American Gables Home Designs"
+
+function disableclick(e) {
+if (document.all) {
+if (event.button==2||event.button==3) {
+if (event.srcElement.tagName=="IMG"){
+alert(clickmessage);
+return false;
+}
+}
+}
+else if (document.layers) {
+if (e.which == 3) {
+alert(clickmessage);
+return false;
+}
+}
+else if (document.getElementById){
+if (e.which==3&&e.target.tagName=="IMG"){
+alert(clickmessage)
+return false
+}
+}
+}
+
+function associateimages(){
+for(i=0;i<document.images.length;i++)
+document.images[i].onmousedown=disableclick;
+}
+
+if (document.all)
+document.onmousedown=disableclick
+else if (document.getElementById)
+document.onmouseup=disableclick
+else if (document.layers)
+associateimages()
+</script>
+</body>
+</html>
+
+
+WARC/1.0
+WARC-Type: response
+WARC-Record-ID: <http://www.americangables.com/floorplans/harrison/>
+WARC-Date: 20180523151542
+WARC-Target-URI: http://www.americangables.com/floorplans/harrison/
+WARC-Language: ar
+Content-Type: application/http;msgtype=response
+Content-Length: 20562
+
+HTTP/1.1 200 OK
+Server: Apache/2.2
+Content-Type: text/html; charset=UTF-8
+Date: Sun, 12 Feb 2012 09:07:22 GMT
+Connection: close
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>American Gables: House Plans, Home Plans, Stock Plans, Custom Home Design, Floor Plans, Home Designer, House Floor Plans - Harrison</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<style type="text/css">
+
+.floorplanlistthumbnail {
+	padding: 0px; 
+	border: 0px solid #FFFFFF;
+	background-color: #FFFFFF;
+	text-align: left;
+}
+
+.floorplanlistplanname {
+	font-family: Arial, Helvetica;
+	font-size: 1.2em; 
+		font-weight: bold;
+	}
+
+#elevation {
+	padding: 5px; 
+	border: 1px solid #b7bba2; 
+	background-color: #FFFFFF;
+	font-family: Verdana, Arial, Helvetica;
+	font-size: .95em; 
+		color: #126611;
+	text-align: center; 
+	margin-bottom: 10px;
+	text-transform: uppercase;
+}
+
+#elevation a, #elevation a:link, #elevation a:hover, #elevation a:visited {
+	color: #126611;
+}
+
+.floatright {
+	float: right;
+}
+
+.floatleft {
+	float: left;
+}
+
+.centered {
+	text-align: center;
+}
+
+#floorplan {
+	width : 550px; 
+	height : 458px;
+	padding : 0px;
+	margin : 0px;
+	position : relative;
+}
+
+.specstable {
+	border: 1px solid #b7bba2;
+	background-color: #FFFFFF;
+	color: #000000;
+	margin-bottom: 10px;
+	width: 100%;
+	font-size: 1em;
+}
+.specstable td {
+	color: #000000;
+}
+
+
+</style><meta name="description" content="American Gables Home Designs, Inc. develops custom home designs and stock plans to build the dream home you have always wanted.  Choose from our extensive list of stock plans or let us custom design your house plan.  We offer a wide variety of floor plans to build your townhome, single family home, or Custom home." />
+<meta name="keywords" content="House plans, Home Plans, Home Floor Plans, Garage, Blueprints, Designers, Home Design, House Design, Dream Home, Dream House, Townhome, Single Family Home, Custom Design, Architecture, Architects, House Floor Plan, Ranch, Traditional, Craftsman" />
+<link href="/css/style.css" rel="stylesheet" type="text/css">
+<link href="http://www.americangables.com/favicon.ico" rel="SHORTCUT ICON"> 
+<script type="text/javascript" src="/js/mouseover.js"></script>
+<script type='text/javascript'> 
+function Pop_Go(){return} 
+function PopMenu(x,y){return} 
+function OutMenu(){return} 
+</script> 
+<script type='text/javascript' src='/js/popmenu_var.js'></script>
+<script type='text/javascript' src='/js/popmenu_com.js'></script>
+<script type='text/javascript' src='/inc/scripts.js'></script>
+<script language="javascript">
+function showElevation(thisPic, thisURL) {
+	if (document.images) {
+		document.imgElevation.src = thisPic;
+//		document.getElementById('imgLink').href = "mylink.php";
+		document.getElementById('imgLink').href = thisURL;
+	}
+}
+</script>
+</head>
+
+<body topmargin="0" onload="Pop_Go();">
+<p class="topmsg">Order Our House Plans via phone at 1-866-681-5407 Monday-Friday 9AM to 6PM</p>
+<table border="0" cellpadding="0" cellspacing="0" align="center" id="maintable">
+  <tr>
+	<td>
+	<div id="headerarea">
+	<div id="header"><a href="http://www.americangables.com/"><img src="/atd_images/header_left.jpg" width="363" height="120" border="0" alt="House Plans at American Gables Home Designs" /></a></div>
+</div>
+<div id="navarea" class="content">
+		<table border="0" cellpadding="2" cellspacing="0" width="100%" id="nav">
+		<tr>
+			<td><a href="http://www.americangables.com/">Home</a></td>
+			<td><span id="homePlans" onMouseOver="PopMenu('PopMenu1',event);" onMouseOut="OutMenu('PopMenu1');">House Plans</span></td>
+			<td><span id="services" onMouseOver="PopMenu('PopMenu2',event);" onMouseOut="OutMenu('PopMenu2');">Services</span></td>
+			<td><a href="http://www.americangables.com/aboutplans/">About Plans</a></td>
+			<td><a href="http://www.americangables.com/aboutus/">About Us</a></td>
+			<td><span id="planPhotos" onMouseOver="PopMenu('PopMenu3',event);" onMouseOut="OutMenu('PopMenu3');">House Plan Photos</span></td>
+			<td><a href="http://www.americangables.com/faqs/">FAQs</a></td>
+			<td><a href="http://www.americangables.com/links/">Links</a></td>
+			<td><a href="http://www.americangables.com/forms/contactus/">Contact</a></td>
+		</tr>
+	</table>
+</div>
+	<div class="body">
+	<table border="0" cellpadding="0" cellspacing="0" class="content">
+		<tr valign="top">
+			<td class="leftbar"><!--BEGIN SEARCH BOX-->
+<div class="greenbox">
+	<img src="/atd_images/greenbar_search_house_plans.jpg" width="205" height="27" class="greenbar_header">
+	<div class="greenbox_form">
+		<form name="leftbarsearch" action="/floorplans/" method="get">
+		<input name="action" type="hidden" value="Search">
+			<strong>Plan Name:</strong><br />
+			<input name="plan_name" type="text" class="greenbox_form long"><br />
+			<strong>Square Footage:</strong><br />
+			<input name="sqft_min"type="text" class="greenbox_form short"> to <input name="sqft_max"type="text" class="greenbox_form short">
+			<strong>Width of Plan (in ft):</strong><br />
+			<input name="width_min" type="text" class="greenbox_form short"> to <input name="width_max" type="text" class="greenbox_form short"><br />
+			<strong>Depth of Plan (in ft):</strong><br />
+			<input name="depth_min"type="text" class="greenbox_form short"> to <input name="depth_max" type="text" class="greenbox_form short"><br />
+			<strong>Type of Plan:</strong><br />
+			<select name="category_id" size="1" class="greenbox_form">
+				<option value="">&nbsp;</option>
+				<option value="1">Master Down</option>
+<option value="2">Ranch</option>
+<option value="3">Split Foyer</option>
+<option value="4">Split Level</option>
+<option value="5">Two-Story</option>
+<option value="6"></option>
+			</select>
+			<br /><img src="/atd_images/spacer.gif" border="0" height="5" width="1"><br />
+			<!--<div class="search_links"><a href="/searchhelp/">Search Help</a></div>-->
+			<input type="image" src="/atd_images/btn_search.gif" border="0" value="submit">
+			<div><strong><a href="/floorplans/">Advanced Search</a></strong> | <strong><a href="/searchhelp/">Help</a></strong></div>
+		</form>
+	</div>
+</div>
+<!--END SEARCH BOX-->
+<p>
+<!--BEGIN SEARCH CATEGORIES-->
+<div class="greenbox">
+<img src="/atd_images/greenbar_house_plan_styles.jpg" width="205" height="27" class="greenbar_header">
+<div class="greenbox_content">
+<a href="/bungalow-house-plans/">Bungalow House Plans</a><br />
+<a href="/cape-cod-house-plans/">Cape Cod House Plans</a><br />
+<a href="/coastal-house-plans/">Coastal House Plans</a><br />
+<a href="/colonial-house-plans/">Colonial House Plans</a><br />
+<a href="/cottage-house-plans/">Cottage House Plans</a><br />
+<a href="/country-house-plans/">Country House Plans</a><br />
+<a href="/craftsman-house-plans/">Craftsman House Plans</a><br />
+<a href="/custom-house-plans/">Custom House Plans</a><br />
+<a href="/european-house-plans/">European House Plans</a><br />
+<a href="/farmhouse-house-plans/">Farmhouse House Plans</a><br />
+<a href="/french-country-house-plans/">French Country House Plans</a><br />
+<a href="/georgian-house-plans/">Georgian House Plans</a><br />
+<a href="/luxury-house-plans/">Luxury House Plans</a><br />
+<a href="/narrow-lot-house-plans/">Narrow Lot House Plans</a><br />
+<a href="/ranch-house-plans/">Ranch House Plans</a><br />
+<a href="/small-house-plans/">Small House Plans</a><br />
+<a href="/southern-house-plans/">Southern House Plans</a><br />
+<a href="/traditional-house-plans/">Traditional House Plans</a><br />
+<a href="/tudor-house-plans/">Tudor House Plans</a><br />
+<a href="/victorian-house-plans/">Victorian House Plans</a><br />
+</div>
+</div>
+<p>
+<div class="greenbox">
+<img src="/atd_images/greenbar_search_house_plans_by_category.jpg" width="205" height="27" class="greenbar_header">
+<div class="greenbox_content">
+<strong>Plan Category:</strong><br />
+<a href="/bonus-room-house-plans/">Bonus Room House Plans</a><br />
+<a href="/courtyard-entry-house-plans/">Courtyard Entry House Plans</a><br />
+<a href="/house-plans-with-keeping-rooms/">House Plans w/ Keeping Rooms</a><br />
+<a href="/house-plans-with-lofts/">House Plans w/ Lofts</a><br />
+<a href="/house-plans-with-photos/">House Plans w/ Photos</a><br />
+<a href="/master-down-house-plans/">Master Down House Plans</a><br />
+<a href="/new-house-plans/">New House Plans</a><br />
+<a href="/one-story-house-plans/">One-Story House Plans</a><br />
+<a href="/split-foyer-house-plans/">Split Foyer House Plans</a><br />
+<a href="/two-story-house-plans/">Two-Story House Plans</a><br />
+<strong>Square Footage:</strong><br />
+<a href="/house-plans-1001-2000-sq-ft/">House Plans 1001-2000 Sq. Ft.</a><br />
+<a href="/house-plans-2001-3000-sq-ft/">House Plans 2001-3000 Sq. Ft.</a><br />
+<a href="/house-plans-3001-4000-sq-ft/">House Plans 3001-4000 Sq. Ft.</a><br />
+<a href="/house-plans-over-4000-sq-ft/">Plans Over 4000 Sq. Ft.</a>
+</div>
+</div>
+<!--END SEARCH CATEGORIES-->
+<p align="center">Proud Members of:</p>
+<p>
+<a href="http://www.ncbdc.com/" target="_blank"><img src="/atd_images/logo_triangle.gif" alt="National Council of Building Designer Certification" border="0" /></a><br />
+</p></td>
+			<td width="10">&nbsp;</td>
+			<td class="content">
+				<div class="top_nav"><p>
+<a href="/cart/" class="shop">Shopping Cart</a>
+|
+<a href="http://www.americangables.com/account/" class="shop">Log In</a>
+</p></div>
+<p>February 12, 2012</p>				<!--BEGIN CONTENT-->
+<h1>House Plan-Harrison</h1>
+<table cellpadding="0" cellspacing="0" border="0">
+	 <tr valign="top">
+		 <td width="35%">
+		 	<table class="specstable">
+<tr><td><strong>Square Footage:</strong></td><td>2,351 sq. ft.</td></tr>
+<tr><td><strong>First Floor:</strong></td><td>1,745 sq. ft.</td></tr>
+<tr><td><strong>Second Floor:</strong></td><td>606 sq. ft.</td></tr>
+<tr><td><strong>Bonus Room:</strong></td><td>392 sq. ft.</td></tr>
+<tr><td><strong>Garage:</strong></td><td>423 sq. ft.</td></tr>
+<tr><td><strong>Basement:</strong></td><td>1,745 sq. ft.</td></tr>
+<tr><td><strong>Floors:</strong></td><td>2</td></tr>
+<tr><td><strong>Bedrooms:</strong></td><td>3</td></tr>
+<tr><td><strong>Bathrooms:</strong></td><td>2</td></tr>
+<tr><td><strong>Half Baths:</strong></td><td>1</td></tr>
+<tr><td><strong>Garages:</strong></td><td>2 car</td></tr>
+<tr><td><strong>Width:</strong></td><td>58 ft.</td></tr>
+<tr><td><strong>Depth:</strong></td><td>44 ft.</td></tr>
+<tr><td><strong>Height:</strong></td><td>29 ft., 11 in.</td></tr>
+<tr valign="top"><td><strong>Foundation:</strong></td><td>Unfinished Basement</td></tr>
+<tr><td><strong>Main Roof Pitch:</strong></td><td>8:12</td></tr>
+<tr valign="top"><td><strong>Additional&nbsp;Specs:</strong></td><td><a href="" onclick="toggleLayer('roomdims'); return false;">Show Room Dimensions</a></td></tr>
+</table>
+<div style="display: none;" id="roomdims"><table class="specstable"><tr><td colspan="2" align="right">(width x depth x height)</td></tr><tr><td><strong>Bedroom 2: </strong></td>
+				 <td>
+				 11-6
+				 x 13
+				  x 8
+				 </td>
+				 </tr><tr><td><strong>Bedroom 3: </strong></td>
+				 <td>
+				 12
+				 x 12-6
+				  x 8
+				 </td>
+				 </tr><tr><td><strong>Bonus Room: </strong></td>
+				 <td>
+				 19-5
+				 x 13
+				  x 8
+				 </td>
+				 </tr><tr><td><strong>Breakfast: </strong></td>
+				 <td>
+				 11-9
+				 x 14-1
+				  x 9
+				 </td>
+				 </tr><tr><td><strong>Dining Room: </strong></td>
+				 <td>
+				 13-6
+				 x 14-1
+				  x 9
+				 </td>
+				 </tr><tr><td><strong>Family Room: </strong></td>
+				 <td>
+				 18-11
+				 x 15
+				  x 12
+				 </td>
+				 </tr><tr><td><strong>Foyer: </strong></td>
+				 <td>
+				 11-11
+				 x 9
+				  x 18-4
+				 </td>
+				 </tr><tr><td><strong>Garage: </strong></td>
+				 <td>
+				 19-5
+				 x 21-1
+				 
+				 </td>
+				 </tr><tr><td><strong>Kitchen: </strong></td>
+				 <td>
+				 12
+				 x 14-1
+				  x 9
+				 </td>
+				 </tr><tr><td><strong>Laundry: </strong></td>
+				 <td>
+				 8-4
+				 x 6-8
+				  x 9
+				 </td>
+				 </tr><tr><td><strong>Master Bath: </strong></td>
+				 <td>
+				 11-9
+				 x 11
+				  x 12
+				 </td>
+				 </tr><tr><td><strong>Master Bedroom: </strong></td>
+				 <td>
+				 13-9
+				 x 16-4
+				  x 11
+				 </td>
+				 </tr><tr><td><strong>Master Closet 1: </strong></td>
+				 <td>
+				 13-9
+				 x 7-7
+				  x 9
+				 </td>
+				 </tr></table></div><p><strong><img src="/uploads/brochure.gif" height="25" width="25" align="absmiddle">
+			 <a href="/uploads/floorplanspecs/65.pdf" target="_blank">Print Brochure</a></strong></p>
+
+			<p>
+			 <strong><a href="http://www.americangables.com/account/favorites/?action=addfavorite&plan=65">Save House Plan</a></strong><br />
+			 <strong><a href="http://www.americangables.com/forms/modifythisplan/harrison/">Modify This Plan</a></strong><br />
+			 <strong><a href="http://www.americangables.com/forms/buildcost/harrison/">Build Cost</a></strong><br />
+			 <strong><a href="/floorplans/harrison/share/">Email to Friend</a></strong>
+			 </p>
+			 <h3>Pricing</h3>
+<strong>5 Sets:</strong> $625.00<br />
+<strong>8 Sets:</strong> $700.00<br />
+<strong>Reproducible Master or PDF Files:</strong> $900.00<br />
+<strong>CAD of Electronic Files:</strong> $1,800.00<br />
+<h4 style="margin: 5px 0px; padding: 0px;">Additional Options</h4>
+<strong>Additional Construction Sets:</strong> $40.00<br />
+<strong>Right Reading Reverse Set:</strong> $200.00<br />
+<strong>Crawl Space Foundation:</strong> $250.00<br />
+<strong>Slab Foundation:</strong> $250.00<br />
+<h4 style="margin: 5px 0px; padding: 0px;">Marketing Options</h4>
+<strong>Plan Book - The Genesis Collection:</strong> $5.00<br />
+<strong>18x24 Rendering w/ Floor Plans:</strong> $100.00<br />
+<strong>8 1/2x11 Rendering w/ Floor Plan:</strong> $40.00<br />
+<strong>Digital Color Perspective:</strong> $65.00<br />
+<strong>Digital B/W Perspective:</strong> $50.00<br />
+<strong>Digital Floor Plans:</strong> $50.00<br />
+<p><a href="http://www.americangables.com/cart_add.php?plan=65"><img src="/atd_images/orderPlan.jpg" height="22" width="102" alt="Order This Plan" border="0" /></a></p>
+
+		</td>
+		 <td width="5%">&nbsp;</td>
+		 <td width="60%">
+		 	<div id="elevation" class="centered"><a href="/uploads/floorplanelevations/full-120.jpg" id="imgLink" target="_blank"><img src="/uploads/floorplanelevations/120.jpg" alt="" style="border: 1px solid #126611;" name="imgElevation" border="0" /></a>
+<br />
+&nbsp; <a href="javascript:showElevation('/uploads/floorplanelevations/120.jpg','/uploads/floorplanelevations/full-120.jpg')">Front&nbsp;Elevation</a> &nbsp;&nbsp; <a href="javascript:showElevation('/uploads/floorplanelevations/121.jpg','/uploads/floorplanelevations/full-121.jpg')">Rear&nbsp;Elevation</a> &nbsp;</div>
+
+			<p style="padding-bottom: 15px;">The Harrison house plan is a traditional two story, master down home design. The master suite offers, a tray ceiling with a vaulted ceiling in the bathroom and a large Walk in Closet. The open floor plan provides large family, kitchen and breakfast rooms which make traffic flow easy for entertaining. The Harrison also is drawn on a basement foundation and offers the option for a bonus room or fourth bedroom to allow for future expansion.</p>
+			<h3>Features</h3>
+<p><div style="float: right; padding-top: 7px;"><a href="http://www.websitealive7.com/3508/rRouter.asp?groupid=3508&amp;departmentid=" onclick="window.open('http://www.websitealive7.com/3508/rRouter.asp?groupid=3508&departmentid=','guest','width=450,height=400,left='+(screen.availWidth/2-225)+',top='+(screen.availHeight/2-200)+'');return false;"><img src="/images/button_livechat.gif" border="0" alt="live chat" width="165" height="85" /></a></div><strong>Additional Rooms</strong><br />
+Bonus Room<br />
+Laundry First Floor<br />
+Master Down<br />
+<br /><strong>Garage Type</strong><br />
+Front Entry<br />
+<br /><strong>Porch Type</strong><br />
+Front<br />
+</p>
+
+			<br /><h3>Similar Plans</h3>
+<p>
+<a href="/floorplans/woodmont/">Woodmont</a><br />
+</p>
+
+		 </td>
+	 </tr>
+	 </table>
+<a name="floorplan"></a><div style="page-break-after: always;"></div><h3>Floorplan 1</h3><p style="text-align: center; font-weight: bold;">Images Copyrighted by American Gables Home Designs, Inc.</p><div align="center"><div id="floorplan">
+		<img src="/uploads/floorplans/65-1.jpg" alt="floor plan" height="458" width="550">
+	</div></div>
+<h3 style="page-break-before: always;">Floorplan 2</h3>
+			 <div align="center"><img src="/uploads/floorplans/65-2.jpg" alt="floor plan" height="425" width="550"></div>
+	<p>&nbsp;</p>
+
+
+				<!-- END CONTENT -->
+			</td>
+		</tr>
+	</table>
+	</div>
+	</td>
+  </tr>
+  <tr>
+	<td class="footer_nav"><p>
+<a href="/">Home</a> |
+<a href="/floorplans/">House Plans</a> |
+<a href="/builderservices/">Services</a> |
+<a href="/aboutplans/">About Plans</a> |
+<a href="/aboutus/">About Company</a> |
+<a href="/faqs/">FAQs</a> |
+<a href="/links/">Links</a> |
+<a href="/forms/contactus/">Contact Us</a>
+<br />
+<a href="/jobopps/">Job Opportunities</a> |
+<a href="/orderinginfo/">Ordering Information</a> |
+<a href="/copyrights/">Copyrights</a> |
+<a href="/privacy/">Privacy Policy</a> |
+<a href="/sitemap/">Site Map</a>
+</p>
+
+<script type="text/javascript"><!--
+google_ad_client = "ca-pub-9410095703612993";
+/* AGHD */
+google_ad_slot = "2673122341";
+google_ad_width = 728;
+google_ad_height = 90;
+//-->
+</script>
+<script type="text/javascript"
+src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>
+
+<center><p><div id="googleCheckoutLogo"></div><script src='https://checkout.google.com/buttons/logos?merchant_id=420294893307834&loc=en_US&f=png' ></script>
+</p></center>
+<br /></td>
+  </tr>
+</table>
+<div class="copyright">
+	<p>678-919-7717 or call toll-free 888-919-6243 | <a href="mailto:info@americangables.com">info@americangables.com</a><br />
+	Copyright &copy; 2001-2012 American Gables Home Designs, Inc. All rights reserved.</p>
+		
+	<p align="center">
+	<strong>House Plan Resources</strong><br>
+	<a href="http://www.americangables.com/">House Plans</a> - American Gables Home Designs, Inc.</a><br />
+	<a href="http://www.houseplans.net/">House Plans</a> - America's Best House Plans</a><br />
+	<a href="http://www.designevolutions.com/index.html">Luxury house plans and custom home designs</a> at designevolutions.com<br />
+	<a href="http://www.garrellassociates.com/">House Plans</a> - Garrell Associates, Inc.<br>
+	</p>
+	<br />
+	
+	
+	<!-- BEGIN http://www.HomeSalez.com Top100 Program Code -->
+	<SCRIPT language="JavaScript" src="http://www.homesalez.com/itop/hits.php?id=6394">
+	</SCRIPT><NOSCRIPT><a href="http://www.homesalez.com">Home For Sale</a><br />
+	<a href="http://usa.homesalez.com">Real Estate Listing</a><br />
+	<a href="http://uk.homesalez.com">Property For Sale</a><br />
+	<a href="http://canada.homesalez.com">Canada Real Estate</a><br />
+	<a href="http://australia.homesalez.com">Australia Real Estate</a></NOSCRIPT>
+	<!-- END http://www.HomeSalez.com Top100 Program Code  -->
+	
+<br>
+<a href="http://www.toponlineshopping.com/"><img src="http://www.toponlineshopping.com/image.php?site=16116&color=4" border="0" alt="Online Shopping Directory"></a>
+</div>
+
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-22461478-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+
+<script language="JavaScript1.2">
+
+/*
+Disable right click script II (on images)- By Dynamicdrive.com
+For full source, Terms of service, and 100s DTHML scripts
+Visit http://www.dynamicdrive.com
+*/
+
+var clickmessage="All images are copyrighted by American Gables Home Designs"
+
+function disableclick(e) {
+if (document.all) {
+if (event.button==2||event.button==3) {
+if (event.srcElement.tagName=="IMG"){
+alert(clickmessage);
+return false;
+}
+}
+}
+else if (document.layers) {
+if (e.which == 3) {
+alert(clickmessage);
+return false;
+}
+}
+else if (document.getElementById){
+if (e.which==3&&e.target.tagName=="IMG"){
+alert(clickmessage)
+return false
+}
+}
+}
+
+function associateimages(){
+for(i=0;i<document.images.length;i++)
+document.images[i].onmousedown=disableclick;
+}
+
+if (document.all)
+document.onmousedown=disableclick
+else if (document.getElementById)
+document.onmouseup=disableclick
+else if (document.layers)
+associateimages()
+</script>
+</body>
+</html>
+
+
+WARC/1.0
+WARC-Type: response
+WARC-Record-ID: <http://www.americangables.com/floorplans/mackenzie/share/>
+WARC-Date: 20180523151542
+WARC-Target-URI: http://www.americangables.com/floorplans/mackenzie/share/
+WARC-Language: ar
+Content-Type: application/http;msgtype=response
+Content-Length: 13726
+
+HTTP/1.1 200 OK
+Server: Apache/2.2
+Content-Type: text/html; charset=UTF-8
+Date: Sun, 12 Feb 2012 08:40:36 GMT
+Connection: close
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>House Plans - Mackenzie</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<link href="/css/style.css" rel="stylesheet" type="text/css">
+<link href="http://www.americangables.com/favicon.ico" rel="SHORTCUT ICON"> 
+<script type="text/javascript" src="/js/mouseover.js"></script>
+<script type='text/javascript'> 
+function Pop_Go(){return} 
+function PopMenu(x,y){return} 
+function OutMenu(){return} 
+</script> 
+<script type='text/javascript' src='/js/popmenu_var.js'></script>
+<script type='text/javascript' src='/js/popmenu_com.js'></script>
+<script language="javascript" src="/inc/scripts.js"></script>
+<script language="javascript">
+<!--//
+function isReady() {
+	if (/^\w+([\.-]?\w+)*@\w+([\.-]?\w+)*(\.\w{2,3})+$/.test(document.form1.share_sender_email.value)) {
+		// correct format
+	}
+	else {
+		alert("Please fill in your valid e-mail address.");
+		return false;
+	}
+	
+	if (/^\w+([\.-]?\w+)*@\w+([\.-]?\w+)*(\.\w{2,3})+$/.test(document.form1.share_friend_email.value)) {
+		// correct format
+	}
+	else {
+		alert("Please fill in your friend's valid e-mail address.");
+		return false;
+	}
+	
+	if (document.form1.share_sender_name.value <= 1) {
+	  alert("Please fill in your name.");
+	  return false;
+	}
+	if (document.form1.share_friend_name.value <= 1) {
+	  alert("Please fill in your friend's name.");
+	  return false;
+	}
+	else
+	  return true;
+}
+//-->
+</script>
+</head>
+
+<body topmargin="0" onload="Pop_Go();">
+<p class="topmsg">Order Our House Plans via phone at 1-866-681-5407 Monday-Friday 9AM to 6PM</p>
+<table border="0" cellpadding="0" cellspacing="0" align="center" id="maintable">
+  <tr>
+	<td>
+	<div id="headerarea">
+	<div id="header"><a href="http://www.americangables.com/"><img src="/atd_images/header_left.jpg" width="363" height="120" border="0" alt="House Plans at American Gables Home Designs" /></a></div>
+</div>
+<div id="navarea" class="content">
+		<table border="0" cellpadding="2" cellspacing="0" width="100%" id="nav">
+		<tr>
+			<td><a href="http://www.americangables.com/">Home</a></td>
+			<td><span id="homePlans" onMouseOver="PopMenu('PopMenu1',event);" onMouseOut="OutMenu('PopMenu1');">House Plans</span></td>
+			<td><span id="services" onMouseOver="PopMenu('PopMenu2',event);" onMouseOut="OutMenu('PopMenu2');">Services</span></td>
+			<td><a href="http://www.americangables.com/aboutplans/">About Plans</a></td>
+			<td><a href="http://www.americangables.com/aboutus/">About Us</a></td>
+			<td><span id="planPhotos" onMouseOver="PopMenu('PopMenu3',event);" onMouseOut="OutMenu('PopMenu3');">House Plan Photos</span></td>
+			<td><a href="http://www.americangables.com/faqs/">FAQs</a></td>
+			<td><a href="http://www.americangables.com/links/">Links</a></td>
+			<td><a href="http://www.americangables.com/forms/contactus/">Contact</a></td>
+		</tr>
+	</table>
+</div>
+	<div class="body">
+	<table border="0" cellpadding="0" cellspacing="0" class="content">
+		<tr valign="top">
+			<td class="leftbar"><!--BEGIN SEARCH BOX-->
+<div class="greenbox">
+	<img src="/atd_images/greenbar_search_house_plans.jpg" width="205" height="27" class="greenbar_header">
+	<div class="greenbox_form">
+		<form name="leftbarsearch" action="/floorplans/" method="get">
+		<input name="action" type="hidden" value="Search">
+			<strong>Plan Name:</strong><br />
+			<input name="plan_name" type="text" class="greenbox_form long"><br />
+			<strong>Square Footage:</strong><br />
+			<input name="sqft_min"type="text" class="greenbox_form short"> to <input name="sqft_max"type="text" class="greenbox_form short">
+			<strong>Width of Plan (in ft):</strong><br />
+			<input name="width_min" type="text" class="greenbox_form short"> to <input name="width_max" type="text" class="greenbox_form short"><br />
+			<strong>Depth of Plan (in ft):</strong><br />
+			<input name="depth_min"type="text" class="greenbox_form short"> to <input name="depth_max" type="text" class="greenbox_form short"><br />
+			<strong>Type of Plan:</strong><br />
+			<select name="category_id" size="1" class="greenbox_form">
+				<option value="">&nbsp;</option>
+				<option value="1">Master Down</option>
+<option value="2">Ranch</option>
+<option value="3">Split Foyer</option>
+<option value="4">Split Level</option>
+<option value="5">Two-Story</option>
+<option value="6"></option>
+			</select>
+			<br /><img src="/atd_images/spacer.gif" border="0" height="5" width="1"><br />
+			<!--<div class="search_links"><a href="/searchhelp/">Search Help</a></div>-->
+			<input type="image" src="/atd_images/btn_search.gif" border="0" value="submit">
+			<div><strong><a href="/floorplans/">Advanced Search</a></strong> | <strong><a href="/searchhelp/">Help</a></strong></div>
+		</form>
+	</div>
+</div>
+<!--END SEARCH BOX-->
+<p>
+<!--BEGIN SEARCH CATEGORIES-->
+<div class="greenbox">
+<img src="/atd_images/greenbar_house_plan_styles.jpg" width="205" height="27" class="greenbar_header">
+<div class="greenbox_content">
+<a href="/bungalow-house-plans/">Bungalow House Plans</a><br />
+<a href="/cape-cod-house-plans/">Cape Cod House Plans</a><br />
+<a href="/coastal-house-plans/">Coastal House Plans</a><br />
+<a href="/colonial-house-plans/">Colonial House Plans</a><br />
+<a href="/cottage-house-plans/">Cottage House Plans</a><br />
+<a href="/country-house-plans/">Country House Plans</a><br />
+<a href="/craftsman-house-plans/">Craftsman House Plans</a><br />
+<a href="/custom-house-plans/">Custom House Plans</a><br />
+<a href="/european-house-plans/">European House Plans</a><br />
+<a href="/farmhouse-house-plans/">Farmhouse House Plans</a><br />
+<a href="/french-country-house-plans/">French Country House Plans</a><br />
+<a href="/georgian-house-plans/">Georgian House Plans</a><br />
+<a href="/luxury-house-plans/">Luxury House Plans</a><br />
+<a href="/narrow-lot-house-plans/">Narrow Lot House Plans</a><br />
+<a href="/ranch-house-plans/">Ranch House Plans</a><br />
+<a href="/small-house-plans/">Small House Plans</a><br />
+<a href="/southern-house-plans/">Southern House Plans</a><br />
+<a href="/traditional-house-plans/">Traditional House Plans</a><br />
+<a href="/tudor-house-plans/">Tudor House Plans</a><br />
+<a href="/victorian-house-plans/">Victorian House Plans</a><br />
+</div>
+</div>
+<p>
+<div class="greenbox">
+<img src="/atd_images/greenbar_search_house_plans_by_category.jpg" width="205" height="27" class="greenbar_header">
+<div class="greenbox_content">
+<strong>Plan Category:</strong><br />
+<a href="/bonus-room-house-plans/">Bonus Room House Plans</a><br />
+<a href="/courtyard-entry-house-plans/">Courtyard Entry House Plans</a><br />
+<a href="/house-plans-with-keeping-rooms/">House Plans w/ Keeping Rooms</a><br />
+<a href="/house-plans-with-lofts/">House Plans w/ Lofts</a><br />
+<a href="/house-plans-with-photos/">House Plans w/ Photos</a><br />
+<a href="/master-down-house-plans/">Master Down House Plans</a><br />
+<a href="/new-house-plans/">New House Plans</a><br />
+<a href="/one-story-house-plans/">One-Story House Plans</a><br />
+<a href="/split-foyer-house-plans/">Split Foyer House Plans</a><br />
+<a href="/two-story-house-plans/">Two-Story House Plans</a><br />
+<strong>Square Footage:</strong><br />
+<a href="/house-plans-1001-2000-sq-ft/">House Plans 1001-2000 Sq. Ft.</a><br />
+<a href="/house-plans-2001-3000-sq-ft/">House Plans 2001-3000 Sq. Ft.</a><br />
+<a href="/house-plans-3001-4000-sq-ft/">House Plans 3001-4000 Sq. Ft.</a><br />
+<a href="/house-plans-over-4000-sq-ft/">Plans Over 4000 Sq. Ft.</a>
+</div>
+</div>
+<!--END SEARCH CATEGORIES-->
+<p align="center">Proud Members of:</p>
+<p>
+<a href="http://www.ncbdc.com/" target="_blank"><img src="/atd_images/logo_triangle.gif" alt="National Council of Building Designer Certification" border="0" /></a><br />
+</p></td>
+			<td width="10">&nbsp;</td>
+			<td class="content">
+				<div class="top_nav"><p>
+<a href="/cart/" class="shop">Shopping Cart</a>
+|
+<a href="http://www.americangables.com/account/" class="shop">Log In</a>
+</p></div>
+<p>February 12, 2012</p>				<!--BEGIN CONTENT-->
+
+	<h1>House Plan Mackenzie</h1>
+	<h2>E-mail to a Friend</h2>
+	<div style="margin-bottom: 10px;"><a href="/floorplans/mackenzie/"><img src="/uploads/floorplanelevations/list108.jpg" border="0" alt="Mackenzie" style="border: 1px solid #000000;"></a></div>
+	<form action="/floorplans/mackenzie/share/" method="post" name="form1" onSubmit="return isReady(form1);">
+	<input type="hidden" name="action" value="submit" />
+	<input type="hidden" name="p" value="mackenzie" />
+	<fieldset>
+		<dl>
+			<dt>Your Name:</dt>
+			<dd><input name="share_sender_name" type="text" id="share_sender_name" size="30" maxlength="50" class="formfield" /></dd>
+			<dt>Your E-mail Address:</dt>
+			<dd><input name="share_sender_email" type="text" id="share_sender_email" size="30" maxlength="50" class="formfield" /></dd>
+			<dt>Friend's Name:</dt>
+			<dd><input name="share_friend_name" type="text" id="share_friend_name" size="30" maxlength="50" class="formfield" /></dd>
+			<dt>Friend's E-mail Address:</dt>
+			<dd><input name="share_friend_email" type="text" id="share_friend_email" size="30" maxlength="50" class="formfield" /></dd>
+			<dt>Add a Personalized Message:</dt>
+			<dd><textarea name="share_message" cols="40" rows="5" wrap="virtual" id="share_message" class="formfield">Check out this great house plan!</textarea></dd>
+		</dl>
+	</fieldset>
+	<div class="buttonarea"><input type="submit" value="Send Message" class="button"></div>
+	</form>
+	
+	
+				<!-- END CONTENT -->
+			</td>
+		</tr>
+	</table>
+	</div>
+	</td>
+  </tr>
+  <tr>
+	<td class="footer_nav"><p>
+<a href="/">Home</a> |
+<a href="/floorplans/">House Plans</a> |
+<a href="/builderservices/">Services</a> |
+<a href="/aboutplans/">About Plans</a> |
+<a href="/aboutus/">About Company</a> |
+<a href="/faqs/">FAQs</a> |
+<a href="/links/">Links</a> |
+<a href="/forms/contactus/">Contact Us</a>
+<br />
+<a href="/jobopps/">Job Opportunities</a> |
+<a href="/orderinginfo/">Ordering Information</a> |
+<a href="/copyrights/">Copyrights</a> |
+<a href="/privacy/">Privacy Policy</a> |
+<a href="/sitemap/">Site Map</a>
+</p>
+
+<script type="text/javascript"><!--
+google_ad_client = "ca-pub-9410095703612993";
+/* AGHD */
+google_ad_slot = "2673122341";
+google_ad_width = 728;
+google_ad_height = 90;
+//-->
+</script>
+<script type="text/javascript"
+src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>
+
+<center><p><div id="googleCheckoutLogo"></div><script src='https://checkout.google.com/buttons/logos?merchant_id=420294893307834&loc=en_US&f=png' ></script>
+</p></center>
+<br /></td>
+  </tr>
+</table>
+<div class="copyright">
+	<p>678-919-7717 or call toll-free 888-919-6243 | <a href="mailto:info@americangables.com">info@americangables.com</a><br />
+	Copyright &copy; 2001-2012 American Gables Home Designs, Inc. All rights reserved.</p>
+		
+	<p align="center">
+	<strong>House Plan Resources</strong><br>
+	<a href="http://www.americangables.com/">House Plans</a> - American Gables Home Designs, Inc.</a><br />
+	<a href="http://www.houseplans.net/">House Plans</a> - America's Best House Plans</a><br />
+	<a href="http://www.designevolutions.com/index.html">Luxury house plans and custom home designs</a> at designevolutions.com<br />
+	<a href="http://www.garrellassociates.com/">House Plans</a> - Garrell Associates, Inc.<br>
+	</p>
+	<br />
+	
+	
+	<!-- BEGIN http://www.HomeSalez.com Top100 Program Code -->
+	<SCRIPT language="JavaScript" src="http://www.homesalez.com/itop/hits.php?id=6394">
+	</SCRIPT><NOSCRIPT><a href="http://www.homesalez.com">Home For Sale</a><br />
+	<a href="http://usa.homesalez.com">Real Estate Listing</a><br />
+	<a href="http://uk.homesalez.com">Property For Sale</a><br />
+	<a href="http://canada.homesalez.com">Canada Real Estate</a><br />
+	<a href="http://australia.homesalez.com">Australia Real Estate</a></NOSCRIPT>
+	<!-- END http://www.HomeSalez.com Top100 Program Code  -->
+	
+<br>
+<a href="http://www.toponlineshopping.com/"><img src="http://www.toponlineshopping.com/image.php?site=16116&color=4" border="0" alt="Online Shopping Directory"></a>
+</div>
+
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-22461478-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+
+<script language="JavaScript1.2">
+
+/*
+Disable right click script II (on images)- By Dynamicdrive.com
+For full source, Terms of service, and 100s DTHML scripts
+Visit http://www.dynamicdrive.com
+*/
+
+var clickmessage="All images are copyrighted by American Gables Home Designs"
+
+function disableclick(e) {
+if (document.all) {
+if (event.button==2||event.button==3) {
+if (event.srcElement.tagName=="IMG"){
+alert(clickmessage);
+return false;
+}
+}
+}
+else if (document.layers) {
+if (e.which == 3) {
+alert(clickmessage);
+return false;
+}
+}
+else if (document.getElementById){
+if (e.which==3&&e.target.tagName=="IMG"){
+alert(clickmessage)
+return false
+}
+}
+}
+
+function associateimages(){
+for(i=0;i<document.images.length;i++)
+document.images[i].onmousedown=disableclick;
+}
+
+if (document.all)
+document.onmousedown=disableclick
+else if (document.getElementById)
+document.onmouseup=disableclick
+else if (document.layers)
+associateimages()
+</script>
+</body>
+</html>
+
+
+WARC/1.0
+WARC-Type: response
+WARC-Record-ID: <http://www.americangables.com/floorplans/shelton/share/>
+WARC-Date: 20180523151542
+WARC-Target-URI: http://www.americangables.com/floorplans/shelton/share/
+WARC-Language: ar
+Content-Type: application/http;msgtype=response
+Content-Length: 13713
+
+HTTP/1.1 200 OK
+Server: Apache/2.2
+Content-Type: text/html; charset=UTF-8
+Date: Sun, 12 Feb 2012 08:26:58 GMT
+Connection: close
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>House Plans - Shelton</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<link href="/css/style.css" rel="stylesheet" type="text/css">
+<link href="http://www.americangables.com/favicon.ico" rel="SHORTCUT ICON"> 
+<script type="text/javascript" src="/js/mouseover.js"></script>
+<script type='text/javascript'> 
+function Pop_Go(){return} 
+function PopMenu(x,y){return} 
+function OutMenu(){return} 
+</script> 
+<script type='text/javascript' src='/js/popmenu_var.js'></script>
+<script type='text/javascript' src='/js/popmenu_com.js'></script>
+<script language="javascript" src="/inc/scripts.js"></script>
+<script language="javascript">
+<!--//
+function isReady() {
+	if (/^\w+([\.-]?\w+)*@\w+([\.-]?\w+)*(\.\w{2,3})+$/.test(document.form1.share_sender_email.value)) {
+		// correct format
+	}
+	else {
+		alert("Please fill in your valid e-mail address.");
+		return false;
+	}
+	
+	if (/^\w+([\.-]?\w+)*@\w+([\.-]?\w+)*(\.\w{2,3})+$/.test(document.form1.share_friend_email.value)) {
+		// correct format
+	}
+	else {
+		alert("Please fill in your friend's valid e-mail address.");
+		return false;
+	}
+	
+	if (document.form1.share_sender_name.value <= 1) {
+	  alert("Please fill in your name.");
+	  return false;
+	}
+	if (document.form1.share_friend_name.value <= 1) {
+	  alert("Please fill in your friend's name.");
+	  return false;
+	}
+	else
+	  return true;
+}
+//-->
+</script>
+</head>
+
+<body topmargin="0" onload="Pop_Go();">
+<p class="topmsg">Order Our House Plans via phone at 1-866-681-5407 Monday-Friday 9AM to 6PM</p>
+<table border="0" cellpadding="0" cellspacing="0" align="center" id="maintable">
+  <tr>
+	<td>
+	<div id="headerarea">
+	<div id="header"><a href="http://www.americangables.com/"><img src="/atd_images/header_left.jpg" width="363" height="120" border="0" alt="House Plans at American Gables Home Designs" /></a></div>
+</div>
+<div id="navarea" class="content">
+		<table border="0" cellpadding="2" cellspacing="0" width="100%" id="nav">
+		<tr>
+			<td><a href="http://www.americangables.com/">Home</a></td>
+			<td><span id="homePlans" onMouseOver="PopMenu('PopMenu1',event);" onMouseOut="OutMenu('PopMenu1');">House Plans</span></td>
+			<td><span id="services" onMouseOver="PopMenu('PopMenu2',event);" onMouseOut="OutMenu('PopMenu2');">Services</span></td>
+			<td><a href="http://www.americangables.com/aboutplans/">About Plans</a></td>
+			<td><a href="http://www.americangables.com/aboutus/">About Us</a></td>
+			<td><span id="planPhotos" onMouseOver="PopMenu('PopMenu3',event);" onMouseOut="OutMenu('PopMenu3');">House Plan Photos</span></td>
+			<td><a href="http://www.americangables.com/faqs/">FAQs</a></td>
+			<td><a href="http://www.americangables.com/links/">Links</a></td>
+			<td><a href="http://www.americangables.com/forms/contactus/">Contact</a></td>
+		</tr>
+	</table>
+</div>
+	<div class="body">
+	<table border="0" cellpadding="0" cellspacing="0" class="content">
+		<tr valign="top">
+			<td class="leftbar"><!--BEGIN SEARCH BOX-->
+<div class="greenbox">
+	<img src="/atd_images/greenbar_search_house_plans.jpg" width="205" height="27" class="greenbar_header">
+	<div class="greenbox_form">
+		<form name="leftbarsearch" action="/floorplans/" method="get">
+		<input name="action" type="hidden" value="Search">
+			<strong>Plan Name:</strong><br />
+			<input name="plan_name" type="text" class="greenbox_form long"><br />
+			<strong>Square Footage:</strong><br />
+			<input name="sqft_min"type="text" class="greenbox_form short"> to <input name="sqft_max"type="text" class="greenbox_form short">
+			<strong>Width of Plan (in ft):</strong><br />
+			<input name="width_min" type="text" class="greenbox_form short"> to <input name="width_max" type="text" class="greenbox_form short"><br />
+			<strong>Depth of Plan (in ft):</strong><br />
+			<input name="depth_min"type="text" class="greenbox_form short"> to <input name="depth_max" type="text" class="greenbox_form short"><br />
+			<strong>Type of Plan:</strong><br />
+			<select name="category_id" size="1" class="greenbox_form">
+				<option value="">&nbsp;</option>
+				<option value="1">Master Down</option>
+<option value="2">Ranch</option>
+<option value="3">Split Foyer</option>
+<option value="4">Split Level</option>
+<option value="5">Two-Story</option>
+<option value="6"></option>
+			</select>
+			<br /><img src="/atd_images/spacer.gif" border="0" height="5" width="1"><br />
+			<!--<div class="search_links"><a href="/searchhelp/">Search Help</a></div>-->
+			<input type="image" src="/atd_images/btn_search.gif" border="0" value="submit">
+			<div><strong><a href="/floorplans/">Advanced Search</a></strong> | <strong><a href="/searchhelp/">Help</a></strong></div>
+		</form>
+	</div>
+</div>
+<!--END SEARCH BOX-->
+<p>
+<!--BEGIN SEARCH CATEGORIES-->
+<div class="greenbox">
+<img src="/atd_images/greenbar_house_plan_styles.jpg" width="205" height="27" class="greenbar_header">
+<div class="greenbox_content">
+<a href="/bungalow-house-plans/">Bungalow House Plans</a><br />
+<a href="/cape-cod-house-plans/">Cape Cod House Plans</a><br />
+<a href="/coastal-house-plans/">Coastal House Plans</a><br />
+<a href="/colonial-house-plans/">Colonial House Plans</a><br />
+<a href="/cottage-house-plans/">Cottage House Plans</a><br />
+<a href="/country-house-plans/">Country House Plans</a><br />
+<a href="/craftsman-house-plans/">Craftsman House Plans</a><br />
+<a href="/custom-house-plans/">Custom House Plans</a><br />
+<a href="/european-house-plans/">European House Plans</a><br />
+<a href="/farmhouse-house-plans/">Farmhouse House Plans</a><br />
+<a href="/french-country-house-plans/">French Country House Plans</a><br />
+<a href="/georgian-house-plans/">Georgian House Plans</a><br />
+<a href="/luxury-house-plans/">Luxury House Plans</a><br />
+<a href="/narrow-lot-house-plans/">Narrow Lot House Plans</a><br />
+<a href="/ranch-house-plans/">Ranch House Plans</a><br />
+<a href="/small-house-plans/">Small House Plans</a><br />
+<a href="/southern-house-plans/">Southern House Plans</a><br />
+<a href="/traditional-house-plans/">Traditional House Plans</a><br />
+<a href="/tudor-house-plans/">Tudor House Plans</a><br />
+<a href="/victorian-house-plans/">Victorian House Plans</a><br />
+</div>
+</div>
+<p>
+<div class="greenbox">
+<img src="/atd_images/greenbar_search_house_plans_by_category.jpg" width="205" height="27" class="greenbar_header">
+<div class="greenbox_content">
+<strong>Plan Category:</strong><br />
+<a href="/bonus-room-house-plans/">Bonus Room House Plans</a><br />
+<a href="/courtyard-entry-house-plans/">Courtyard Entry House Plans</a><br />
+<a href="/house-plans-with-keeping-rooms/">House Plans w/ Keeping Rooms</a><br />
+<a href="/house-plans-with-lofts/">House Plans w/ Lofts</a><br />
+<a href="/house-plans-with-photos/">House Plans w/ Photos</a><br />
+<a href="/master-down-house-plans/">Master Down House Plans</a><br />
+<a href="/new-house-plans/">New House Plans</a><br />
+<a href="/one-story-house-plans/">One-Story House Plans</a><br />
+<a href="/split-foyer-house-plans/">Split Foyer House Plans</a><br />
+<a href="/two-story-house-plans/">Two-Story House Plans</a><br />
+<strong>Square Footage:</strong><br />
+<a href="/house-plans-1001-2000-sq-ft/">House Plans 1001-2000 Sq. Ft.</a><br />
+<a href="/house-plans-2001-3000-sq-ft/">House Plans 2001-3000 Sq. Ft.</a><br />
+<a href="/house-plans-3001-4000-sq-ft/">House Plans 3001-4000 Sq. Ft.</a><br />
+<a href="/house-plans-over-4000-sq-ft/">Plans Over 4000 Sq. Ft.</a>
+</div>
+</div>
+<!--END SEARCH CATEGORIES-->
+<p align="center">Proud Members of:</p>
+<p>
+<a href="http://www.ncbdc.com/" target="_blank"><img src="/atd_images/logo_triangle.gif" alt="National Council of Building Designer Certification" border="0" /></a><br />
+</p></td>
+			<td width="10">&nbsp;</td>
+			<td class="content">
+				<div class="top_nav"><p>
+<a href="/cart/" class="shop">Shopping Cart</a>
+|
+<a href="http://www.americangables.com/account/" class="shop">Log In</a>
+</p></div>
+<p>February 12, 2012</p>				<!--BEGIN CONTENT-->
+
+	<h1>House Plan Shelton</h1>
+	<h2>E-mail to a Friend</h2>
+	<div style="margin-bottom: 10px;"><a href="/floorplans/shelton/"><img src="/uploads/floorplanelevations/list92.jpg" border="0" alt="Shelton" style="border: 1px solid #000000;"></a></div>
+	<form action="/floorplans/shelton/share/" method="post" name="form1" onSubmit="return isReady(form1);">
+	<input type="hidden" name="action" value="submit" />
+	<input type="hidden" name="p" value="shelton" />
+	<fieldset>
+		<dl>
+			<dt>Your Name:</dt>
+			<dd><input name="share_sender_name" type="text" id="share_sender_name" size="30" maxlength="50" class="formfield" /></dd>
+			<dt>Your E-mail Address:</dt>
+			<dd><input name="share_sender_email" type="text" id="share_sender_email" size="30" maxlength="50" class="formfield" /></dd>
+			<dt>Friend's Name:</dt>
+			<dd><input name="share_friend_name" type="text" id="share_friend_name" size="30" maxlength="50" class="formfield" /></dd>
+			<dt>Friend's E-mail Address:</dt>
+			<dd><input name="share_friend_email" type="text" id="share_friend_email" size="30" maxlength="50" class="formfield" /></dd>
+			<dt>Add a Personalized Message:</dt>
+			<dd><textarea name="share_message" cols="40" rows="5" wrap="virtual" id="share_message" class="formfield">Check out this great house plan!</textarea></dd>
+		</dl>
+	</fieldset>
+	<div class="buttonarea"><input type="submit" value="Send Message" class="button"></div>
+	</form>
+	
+	
+				<!-- END CONTENT -->
+			</td>
+		</tr>
+	</table>
+	</div>
+	</td>
+  </tr>
+  <tr>
+	<td class="footer_nav"><p>
+<a href="/">Home</a> |
+<a href="/floorplans/">House Plans</a> |
+<a href="/builderservices/">Services</a> |
+<a href="/aboutplans/">About Plans</a> |
+<a href="/aboutus/">About Company</a> |
+<a href="/faqs/">FAQs</a> |
+<a href="/links/">Links</a> |
+<a href="/forms/contactus/">Contact Us</a>
+<br />
+<a href="/jobopps/">Job Opportunities</a> |
+<a href="/orderinginfo/">Ordering Information</a> |
+<a href="/copyrights/">Copyrights</a> |
+<a href="/privacy/">Privacy Policy</a> |
+<a href="/sitemap/">Site Map</a>
+</p>
+
+<script type="text/javascript"><!--
+google_ad_client = "ca-pub-9410095703612993";
+/* AGHD */
+google_ad_slot = "2673122341";
+google_ad_width = 728;
+google_ad_height = 90;
+//-->
+</script>
+<script type="text/javascript"
+src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>
+
+<center><p><div id="googleCheckoutLogo"></div><script src='https://checkout.google.com/buttons/logos?merchant_id=420294893307834&loc=en_US&f=png' ></script>
+</p></center>
+<br /></td>
+  </tr>
+</table>
+<div class="copyright">
+	<p>678-919-7717 or call toll-free 888-919-6243 | <a href="mailto:info@americangables.com">info@americangables.com</a><br />
+	Copyright &copy; 2001-2012 American Gables Home Designs, Inc. All rights reserved.</p>
+		
+	<p align="center">
+	<strong>House Plan Resources</strong><br>
+	<a href="http://www.americangables.com/">House Plans</a> - American Gables Home Designs, Inc.</a><br />
+	<a href="http://www.houseplans.net/">House Plans</a> - America's Best House Plans</a><br />
+	<a href="http://www.designevolutions.com/index.html">Luxury house plans and custom home designs</a> at designevolutions.com<br />
+	<a href="http://www.garrellassociates.com/">House Plans</a> - Garrell Associates, Inc.<br>
+	</p>
+	<br />
+	
+	
+	<!-- BEGIN http://www.HomeSalez.com Top100 Program Code -->
+	<SCRIPT language="JavaScript" src="http://www.homesalez.com/itop/hits.php?id=6394">
+	</SCRIPT><NOSCRIPT><a href="http://www.homesalez.com">Home For Sale</a><br />
+	<a href="http://usa.homesalez.com">Real Estate Listing</a><br />
+	<a href="http://uk.homesalez.com">Property For Sale</a><br />
+	<a href="http://canada.homesalez.com">Canada Real Estate</a><br />
+	<a href="http://australia.homesalez.com">Australia Real Estate</a></NOSCRIPT>
+	<!-- END http://www.HomeSalez.com Top100 Program Code  -->
+	
+<br>
+<a href="http://www.toponlineshopping.com/"><img src="http://www.toponlineshopping.com/image.php?site=16116&color=4" border="0" alt="Online Shopping Directory"></a>
+</div>
+
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-22461478-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+
+<script language="JavaScript1.2">
+
+/*
+Disable right click script II (on images)- By Dynamicdrive.com
+For full source, Terms of service, and 100s DTHML scripts
+Visit http://www.dynamicdrive.com
+*/
+
+var clickmessage="All images are copyrighted by American Gables Home Designs"
+
+function disableclick(e) {
+if (document.all) {
+if (event.button==2||event.button==3) {
+if (event.srcElement.tagName=="IMG"){
+alert(clickmessage);
+return false;
+}
+}
+}
+else if (document.layers) {
+if (e.which == 3) {
+alert(clickmessage);
+return false;
+}
+}
+else if (document.getElementById){
+if (e.which==3&&e.target.tagName=="IMG"){
+alert(clickmessage)
+return false
+}
+}
+}
+
+function associateimages(){
+for(i=0;i<document.images.length;i++)
+document.images[i].onmousedown=disableclick;
+}
+
+if (document.all)
+document.onmousedown=disableclick
+else if (document.getElementById)
+document.onmouseup=disableclick
+else if (document.layers)
+associateimages()
+</script>
+</body>
+</html>
+
+
+WARC/1.0
+WARC-Type: response
+WARC-Record-ID: <http://www.americangables.com/floorplans/windridge/share/>
+WARC-Date: 20180523151542
+WARC-Target-URI: http://www.americangables.com/floorplans/windridge/share/
+WARC-Language: ar
+Content-Type: application/http;msgtype=response
+Content-Length: 13725
+
+HTTP/1.1 200 OK
+Server: Apache/2.2
+Content-Type: text/html; charset=UTF-8
+Date: Sun, 12 Feb 2012 08:51:35 GMT
+Connection: close
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>House Plans - Windridge</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<link href="/css/style.css" rel="stylesheet" type="text/css">
+<link href="http://www.americangables.com/favicon.ico" rel="SHORTCUT ICON"> 
+<script type="text/javascript" src="/js/mouseover.js"></script>
+<script type='text/javascript'> 
+function Pop_Go(){return} 
+function PopMenu(x,y){return} 
+function OutMenu(){return} 
+</script> 
+<script type='text/javascript' src='/js/popmenu_var.js'></script>
+<script type='text/javascript' src='/js/popmenu_com.js'></script>
+<script language="javascript" src="/inc/scripts.js"></script>
+<script language="javascript">
+<!--//
+function isReady() {
+	if (/^\w+([\.-]?\w+)*@\w+([\.-]?\w+)*(\.\w{2,3})+$/.test(document.form1.share_sender_email.value)) {
+		// correct format
+	}
+	else {
+		alert("Please fill in your valid e-mail address.");
+		return false;
+	}
+	
+	if (/^\w+([\.-]?\w+)*@\w+([\.-]?\w+)*(\.\w{2,3})+$/.test(document.form1.share_friend_email.value)) {
+		// correct format
+	}
+	else {
+		alert("Please fill in your friend's valid e-mail address.");
+		return false;
+	}
+	
+	if (document.form1.share_sender_name.value <= 1) {
+	  alert("Please fill in your name.");
+	  return false;
+	}
+	if (document.form1.share_friend_name.value <= 1) {
+	  alert("Please fill in your friend's name.");
+	  return false;
+	}
+	else
+	  return true;
+}
+//-->
+</script>
+</head>
+
+<body topmargin="0" onload="Pop_Go();">
+<p class="topmsg">Order Our House Plans via phone at 1-866-681-5407 Monday-Friday 9AM to 6PM</p>
+<table border="0" cellpadding="0" cellspacing="0" align="center" id="maintable">
+  <tr>
+	<td>
+	<div id="headerarea">
+	<div id="header"><a href="http://www.americangables.com/"><img src="/atd_images/header_left.jpg" width="363" height="120" border="0" alt="House Plans at American Gables Home Designs" /></a></div>
+</div>
+<div id="navarea" class="content">
+		<table border="0" cellpadding="2" cellspacing="0" width="100%" id="nav">
+		<tr>
+			<td><a href="http://www.americangables.com/">Home</a></td>
+			<td><span id="homePlans" onMouseOver="PopMenu('PopMenu1',event);" onMouseOut="OutMenu('PopMenu1');">House Plans</span></td>
+			<td><span id="services" onMouseOver="PopMenu('PopMenu2',event);" onMouseOut="OutMenu('PopMenu2');">Services</span></td>
+			<td><a href="http://www.americangables.com/aboutplans/">About Plans</a></td>
+			<td><a href="http://www.americangables.com/aboutus/">About Us</a></td>
+			<td><span id="planPhotos" onMouseOver="PopMenu('PopMenu3',event);" onMouseOut="OutMenu('PopMenu3');">House Plan Photos</span></td>
+			<td><a href="http://www.americangables.com/faqs/">FAQs</a></td>
+			<td><a href="http://www.americangables.com/links/">Links</a></td>
+			<td><a href="http://www.americangables.com/forms/contactus/">Contact</a></td>
+		</tr>
+	</table>
+</div>
+	<div class="body">
+	<table border="0" cellpadding="0" cellspacing="0" class="content">
+		<tr valign="top">
+			<td class="leftbar"><!--BEGIN SEARCH BOX-->
+<div class="greenbox">
+	<img src="/atd_images/greenbar_search_house_plans.jpg" width="205" height="27" class="greenbar_header">
+	<div class="greenbox_form">
+		<form name="leftbarsearch" action="/floorplans/" method="get">
+		<input name="action" type="hidden" value="Search">
+			<strong>Plan Name:</strong><br />
+			<input name="plan_name" type="text" class="greenbox_form long"><br />
+			<strong>Square Footage:</strong><br />
+			<input name="sqft_min"type="text" class="greenbox_form short"> to <input name="sqft_max"type="text" class="greenbox_form short">
+			<strong>Width of Plan (in ft):</strong><br />
+			<input name="width_min" type="text" class="greenbox_form short"> to <input name="width_max" type="text" class="greenbox_form short"><br />
+			<strong>Depth of Plan (in ft):</strong><br />
+			<input name="depth_min"type="text" class="greenbox_form short"> to <input name="depth_max" type="text" class="greenbox_form short"><br />
+			<strong>Type of Plan:</strong><br />
+			<select name="category_id" size="1" class="greenbox_form">
+				<option value="">&nbsp;</option>
+				<option value="1">Master Down</option>
+<option value="2">Ranch</option>
+<option value="3">Split Foyer</option>
+<option value="4">Split Level</option>
+<option value="5">Two-Story</option>
+<option value="6"></option>
+			</select>
+			<br /><img src="/atd_images/spacer.gif" border="0" height="5" width="1"><br />
+			<!--<div class="search_links"><a href="/searchhelp/">Search Help</a></div>-->
+			<input type="image" src="/atd_images/btn_search.gif" border="0" value="submit">
+			<div><strong><a href="/floorplans/">Advanced Search</a></strong> | <strong><a href="/searchhelp/">Help</a></strong></div>
+		</form>
+	</div>
+</div>
+<!--END SEARCH BOX-->
+<p>
+<!--BEGIN SEARCH CATEGORIES-->
+<div class="greenbox">
+<img src="/atd_images/greenbar_house_plan_styles.jpg" width="205" height="27" class="greenbar_header">
+<div class="greenbox_content">
+<a href="/bungalow-house-plans/">Bungalow House Plans</a><br />
+<a href="/cape-cod-house-plans/">Cape Cod House Plans</a><br />
+<a href="/coastal-house-plans/">Coastal House Plans</a><br />
+<a href="/colonial-house-plans/">Colonial House Plans</a><br />
+<a href="/cottage-house-plans/">Cottage House Plans</a><br />
+<a href="/country-house-plans/">Country House Plans</a><br />
+<a href="/craftsman-house-plans/">Craftsman House Plans</a><br />
+<a href="/custom-house-plans/">Custom House Plans</a><br />
+<a href="/european-house-plans/">European House Plans</a><br />
+<a href="/farmhouse-house-plans/">Farmhouse House Plans</a><br />
+<a href="/french-country-house-plans/">French Country House Plans</a><br />
+<a href="/georgian-house-plans/">Georgian House Plans</a><br />
+<a href="/luxury-house-plans/">Luxury House Plans</a><br />
+<a href="/narrow-lot-house-plans/">Narrow Lot House Plans</a><br />
+<a href="/ranch-house-plans/">Ranch House Plans</a><br />
+<a href="/small-house-plans/">Small House Plans</a><br />
+<a href="/southern-house-plans/">Southern House Plans</a><br />
+<a href="/traditional-house-plans/">Traditional House Plans</a><br />
+<a href="/tudor-house-plans/">Tudor House Plans</a><br />
+<a href="/victorian-house-plans/">Victorian House Plans</a><br />
+</div>
+</div>
+<p>
+<div class="greenbox">
+<img src="/atd_images/greenbar_search_house_plans_by_category.jpg" width="205" height="27" class="greenbar_header">
+<div class="greenbox_content">
+<strong>Plan Category:</strong><br />
+<a href="/bonus-room-house-plans/">Bonus Room House Plans</a><br />
+<a href="/courtyard-entry-house-plans/">Courtyard Entry House Plans</a><br />
+<a href="/house-plans-with-keeping-rooms/">House Plans w/ Keeping Rooms</a><br />
+<a href="/house-plans-with-lofts/">House Plans w/ Lofts</a><br />
+<a href="/house-plans-with-photos/">House Plans w/ Photos</a><br />
+<a href="/master-down-house-plans/">Master Down House Plans</a><br />
+<a href="/new-house-plans/">New House Plans</a><br />
+<a href="/one-story-house-plans/">One-Story House Plans</a><br />
+<a href="/split-foyer-house-plans/">Split Foyer House Plans</a><br />
+<a href="/two-story-house-plans/">Two-Story House Plans</a><br />
+<strong>Square Footage:</strong><br />
+<a href="/house-plans-1001-2000-sq-ft/">House Plans 1001-2000 Sq. Ft.</a><br />
+<a href="/house-plans-2001-3000-sq-ft/">House Plans 2001-3000 Sq. Ft.</a><br />
+<a href="/house-plans-3001-4000-sq-ft/">House Plans 3001-4000 Sq. Ft.</a><br />
+<a href="/house-plans-over-4000-sq-ft/">Plans Over 4000 Sq. Ft.</a>
+</div>
+</div>
+<!--END SEARCH CATEGORIES-->
+<p align="center">Proud Members of:</p>
+<p>
+<a href="http://www.ncbdc.com/" target="_blank"><img src="/atd_images/logo_triangle.gif" alt="National Council of Building Designer Certification" border="0" /></a><br />
+</p></td>
+			<td width="10">&nbsp;</td>
+			<td class="content">
+				<div class="top_nav"><p>
+<a href="/cart/" class="shop">Shopping Cart</a>
+|
+<a href="http://www.americangables.com/account/" class="shop">Log In</a>
+</p></div>
+<p>February 12, 2012</p>				<!--BEGIN CONTENT-->
+
+	<h1>House Plan Windridge</h1>
+	<h2>E-mail to a Friend</h2>
+	<div style="margin-bottom: 10px;"><a href="/floorplans/windridge/"><img src="/uploads/floorplanelevations/list38.jpg" border="0" alt="Windridge" style="border: 1px solid #000000;"></a></div>
+	<form action="/floorplans/windridge/share/" method="post" name="form1" onSubmit="return isReady(form1);">
+	<input type="hidden" name="action" value="submit" />
+	<input type="hidden" name="p" value="windridge" />
+	<fieldset>
+		<dl>
+			<dt>Your Name:</dt>
+			<dd><input name="share_sender_name" type="text" id="share_sender_name" size="30" maxlength="50" class="formfield" /></dd>
+			<dt>Your E-mail Address:</dt>
+			<dd><input name="share_sender_email" type="text" id="share_sender_email" size="30" maxlength="50" class="formfield" /></dd>
+			<dt>Friend's Name:</dt>
+			<dd><input name="share_friend_name" type="text" id="share_friend_name" size="30" maxlength="50" class="formfield" /></dd>
+			<dt>Friend's E-mail Address:</dt>
+			<dd><input name="share_friend_email" type="text" id="share_friend_email" size="30" maxlength="50" class="formfield" /></dd>
+			<dt>Add a Personalized Message:</dt>
+			<dd><textarea name="share_message" cols="40" rows="5" wrap="virtual" id="share_message" class="formfield">Check out this great house plan!</textarea></dd>
+		</dl>
+	</fieldset>
+	<div class="buttonarea"><input type="submit" value="Send Message" class="button"></div>
+	</form>
+	
+	
+				<!-- END CONTENT -->
+			</td>
+		</tr>
+	</table>
+	</div>
+	</td>
+  </tr>
+  <tr>
+	<td class="footer_nav"><p>
+<a href="/">Home</a> |
+<a href="/floorplans/">House Plans</a> |
+<a href="/builderservices/">Services</a> |
+<a href="/aboutplans/">About Plans</a> |
+<a href="/aboutus/">About Company</a> |
+<a href="/faqs/">FAQs</a> |
+<a href="/links/">Links</a> |
+<a href="/forms/contactus/">Contact Us</a>
+<br />
+<a href="/jobopps/">Job Opportunities</a> |
+<a href="/orderinginfo/">Ordering Information</a> |
+<a href="/copyrights/">Copyrights</a> |
+<a href="/privacy/">Privacy Policy</a> |
+<a href="/sitemap/">Site Map</a>
+</p>
+
+<script type="text/javascript"><!--
+google_ad_client = "ca-pub-9410095703612993";
+/* AGHD */
+google_ad_slot = "2673122341";
+google_ad_width = 728;
+google_ad_height = 90;
+//-->
+</script>
+<script type="text/javascript"
+src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>
+
+<center><p><div id="googleCheckoutLogo"></div><script src='https://checkout.google.com/buttons/logos?merchant_id=420294893307834&loc=en_US&f=png' ></script>
+</p></center>
+<br /></td>
+  </tr>
+</table>
+<div class="copyright">
+	<p>678-919-7717 or call toll-free 888-919-6243 | <a href="mailto:info@americangables.com">info@americangables.com</a><br />
+	Copyright &copy; 2001-2012 American Gables Home Designs, Inc. All rights reserved.</p>
+		
+	<p align="center">
+	<strong>House Plan Resources</strong><br>
+	<a href="http://www.americangables.com/">House Plans</a> - American Gables Home Designs, Inc.</a><br />
+	<a href="http://www.houseplans.net/">House Plans</a> - America's Best House Plans</a><br />
+	<a href="http://www.designevolutions.com/index.html">Luxury house plans and custom home designs</a> at designevolutions.com<br />
+	<a href="http://www.garrellassociates.com/">House Plans</a> - Garrell Associates, Inc.<br>
+	</p>
+	<br />
+	
+	
+	<!-- BEGIN http://www.HomeSalez.com Top100 Program Code -->
+	<SCRIPT language="JavaScript" src="http://www.homesalez.com/itop/hits.php?id=6394">
+	</SCRIPT><NOSCRIPT><a href="http://www.homesalez.com">Home For Sale</a><br />
+	<a href="http://usa.homesalez.com">Real Estate Listing</a><br />
+	<a href="http://uk.homesalez.com">Property For Sale</a><br />
+	<a href="http://canada.homesalez.com">Canada Real Estate</a><br />
+	<a href="http://australia.homesalez.com">Australia Real Estate</a></NOSCRIPT>
+	<!-- END http://www.HomeSalez.com Top100 Program Code  -->
+	
+<br>
+<a href="http://www.toponlineshopping.com/"><img src="http://www.toponlineshopping.com/image.php?site=16116&color=4" border="0" alt="Online Shopping Directory"></a>
+</div>
+
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-22461478-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+
+<script language="JavaScript1.2">
+
+/*
+Disable right click script II (on images)- By Dynamicdrive.com
+For full source, Terms of service, and 100s DTHML scripts
+Visit http://www.dynamicdrive.com
+*/
+
+var clickmessage="All images are copyrighted by American Gables Home Designs"
+
+function disableclick(e) {
+if (document.all) {
+if (event.button==2||event.button==3) {
+if (event.srcElement.tagName=="IMG"){
+alert(clickmessage);
+return false;
+}
+}
+}
+else if (document.layers) {
+if (e.which == 3) {
+alert(clickmessage);
+return false;
+}
+}
+else if (document.getElementById){
+if (e.which==3&&e.target.tagName=="IMG"){
+alert(clickmessage)
+return false
+}
+}
+}
+
+function associateimages(){
+for(i=0;i<document.images.length;i++)
+document.images[i].onmousedown=disableclick;
+}
+
+if (document.all)
+document.onmousedown=disableclick
+else if (document.getElementById)
+document.onmouseup=disableclick
+else if (document.layers)
+associateimages()
+</script>
+</body>
+</html>
+
+
+WARC/1.0
+WARC-Type: response
+WARC-Record-ID: <http://www.americangables.com/forms/buildcost/albany/>
+WARC-Date: 20180523151542
+WARC-Target-URI: http://www.americangables.com/forms/buildcost/albany/
+WARC-Language: ar
+Content-Type: application/http;msgtype=response
+Content-Length: 10751
+
+HTTP/1.1 200 OK
+Server: Apache/2.2
+Content-Type: text/html; charset=UTF-8
+Date: Sun, 12 Feb 2012 08:30:25 GMT
+Connection: close
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title></title>
+<meta http-equiv="Content-Type" content="text/html;">
+<meta name="verify-v1" content="6HoxzqUiP440meznxWozCWZ9KINq8qJfJ7VIFk/k8Kw=" />
+<link href="/css/style.css" rel="stylesheet" type="text/css">
+<link href="http://www.americangables.com/favicon.ico" rel="SHORTCUT ICON"> 
+<script type="text/javascript" src="/inc/scripts.js"></script>
+<script type="text/javascript" src="/js/mouseover.js"></script>
+<script type='text/javascript'> 
+function Pop_Go(){return} 
+function PopMenu(x,y){return} 
+function OutMenu(){return} 
+</script> 
+<script type='text/javascript' src='/js/popmenu_var.js'></script>
+<script type='text/javascript' src='/js/popmenu_com.js'></script>
+<script language="javascript">
+<!--//
+
+//-->
+</script>
+</head>
+<body topmargin="0" onload="Pop_Go();">
+<p class="topmsg">Order Our House Plans via phone at 1-866-681-5407 Monday-Friday 9AM to 6PM</p>
+<table border="0" cellpadding="0" cellspacing="0" align="center" id="maintable">
+  <tr>
+	<td>
+	<div id="headerarea">
+	<div id="header"><a href="http://www.americangables.com/"><img src="/atd_images/header_left.jpg" width="363" height="120" border="0" alt="House Plans at American Gables Home Designs" /></a></div>
+</div>
+<div id="navarea" class="content">
+		<table border="0" cellpadding="2" cellspacing="0" width="100%" id="nav">
+		<tr>
+			<td><a href="http://www.americangables.com/">Home</a></td>
+			<td><span id="homePlans" onMouseOver="PopMenu('PopMenu1',event);" onMouseOut="OutMenu('PopMenu1');">House Plans</span></td>
+			<td><span id="services" onMouseOver="PopMenu('PopMenu2',event);" onMouseOut="OutMenu('PopMenu2');">Services</span></td>
+			<td><a href="http://www.americangables.com/aboutplans/">About Plans</a></td>
+			<td><a href="http://www.americangables.com/aboutus/">About Us</a></td>
+			<td><span id="planPhotos" onMouseOver="PopMenu('PopMenu3',event);" onMouseOut="OutMenu('PopMenu3');">House Plan Photos</span></td>
+			<td><a href="http://www.americangables.com/faqs/">FAQs</a></td>
+			<td><a href="http://www.americangables.com/links/">Links</a></td>
+			<td><a href="http://www.americangables.com/forms/contactus/">Contact</a></td>
+		</tr>
+	</table>
+</div>
+	<div class="body">
+	<table border="0" cellpadding="0" cellspacing="0" class="content">
+		<tr valign="top">
+			<td class="leftbar"><!--BEGIN SEARCH BOX-->
+<div class="greenbox">
+	<img src="/atd_images/greenbar_search_house_plans.jpg" width="205" height="27" class="greenbar_header">
+	<div class="greenbox_form">
+		<form name="leftbarsearch" action="/floorplans/" method="get">
+		<input name="action" type="hidden" value="Search">
+			<strong>Plan Name:</strong><br />
+			<input name="plan_name" type="text" class="greenbox_form long"><br />
+			<strong>Square Footage:</strong><br />
+			<input name="sqft_min"type="text" class="greenbox_form short"> to <input name="sqft_max"type="text" class="greenbox_form short">
+			<strong>Width of Plan (in ft):</strong><br />
+			<input name="width_min" type="text" class="greenbox_form short"> to <input name="width_max" type="text" class="greenbox_form short"><br />
+			<strong>Depth of Plan (in ft):</strong><br />
+			<input name="depth_min"type="text" class="greenbox_form short"> to <input name="depth_max" type="text" class="greenbox_form short"><br />
+			<strong>Type of Plan:</strong><br />
+			<select name="category_id" size="1" class="greenbox_form">
+				<option value="">&nbsp;</option>
+				<option value="1">Master Down</option>
+<option value="2">Ranch</option>
+<option value="3">Split Foyer</option>
+<option value="4">Split Level</option>
+<option value="5">Two-Story</option>
+<option value="6"></option>
+			</select>
+			<br /><img src="/atd_images/spacer.gif" border="0" height="5" width="1"><br />
+			<!--<div class="search_links"><a href="/searchhelp/">Search Help</a></div>-->
+			<input type="image" src="/atd_images/btn_search.gif" border="0" value="submit">
+			<div><strong><a href="/floorplans/">Advanced Search</a></strong> | <strong><a href="/searchhelp/">Help</a></strong></div>
+		</form>
+	</div>
+</div>
+<!--END SEARCH BOX-->
+<p>
+<!--BEGIN SEARCH CATEGORIES-->
+<div class="greenbox">
+<img src="/atd_images/greenbar_house_plan_styles.jpg" width="205" height="27" class="greenbar_header">
+<div class="greenbox_content">
+<a href="/bungalow-house-plans/">Bungalow House Plans</a><br />
+<a href="/cape-cod-house-plans/">Cape Cod House Plans</a><br />
+<a href="/coastal-house-plans/">Coastal House Plans</a><br />
+<a href="/colonial-house-plans/">Colonial House Plans</a><br />
+<a href="/cottage-house-plans/">Cottage House Plans</a><br />
+<a href="/country-house-plans/">Country House Plans</a><br />
+<a href="/craftsman-house-plans/">Craftsman House Plans</a><br />
+<a href="/custom-house-plans/">Custom House Plans</a><br />
+<a href="/european-house-plans/">European House Plans</a><br />
+<a href="/farmhouse-house-plans/">Farmhouse House Plans</a><br />
+<a href="/french-country-house-plans/">French Country House Plans</a><br />
+<a href="/georgian-house-plans/">Georgian House Plans</a><br />
+<a href="/luxury-house-plans/">Luxury House Plans</a><br />
+<a href="/narrow-lot-house-plans/">Narrow Lot House Plans</a><br />
+<a href="/ranch-house-plans/">Ranch House Plans</a><br />
+<a href="/small-house-plans/">Small House Plans</a><br />
+<a href="/southern-house-plans/">Southern House Plans</a><br />
+<a href="/traditional-house-plans/">Traditional House Plans</a><br />
+<a href="/tudor-house-plans/">Tudor House Plans</a><br />
+<a href="/victorian-house-plans/">Victorian House Plans</a><br />
+</div>
+</div>
+<p>
+<div class="greenbox">
+<img src="/atd_images/greenbar_search_house_plans_by_category.jpg" width="205" height="27" class="greenbar_header">
+<div class="greenbox_content">
+<strong>Plan Category:</strong><br />
+<a href="/bonus-room-house-plans/">Bonus Room House Plans</a><br />
+<a href="/courtyard-entry-house-plans/">Courtyard Entry House Plans</a><br />
+<a href="/house-plans-with-keeping-rooms/">House Plans w/ Keeping Rooms</a><br />
+<a href="/house-plans-with-lofts/">House Plans w/ Lofts</a><br />
+<a href="/house-plans-with-photos/">House Plans w/ Photos</a><br />
+<a href="/master-down-house-plans/">Master Down House Plans</a><br />
+<a href="/new-house-plans/">New House Plans</a><br />
+<a href="/one-story-house-plans/">One-Story House Plans</a><br />
+<a href="/split-foyer-house-plans/">Split Foyer House Plans</a><br />
+<a href="/two-story-house-plans/">Two-Story House Plans</a><br />
+<strong>Square Footage:</strong><br />
+<a href="/house-plans-1001-2000-sq-ft/">House Plans 1001-2000 Sq. Ft.</a><br />
+<a href="/house-plans-2001-3000-sq-ft/">House Plans 2001-3000 Sq. Ft.</a><br />
+<a href="/house-plans-3001-4000-sq-ft/">House Plans 3001-4000 Sq. Ft.</a><br />
+<a href="/house-plans-over-4000-sq-ft/">Plans Over 4000 Sq. Ft.</a>
+</div>
+</div>
+<!--END SEARCH CATEGORIES-->
+<p align="center">Proud Members of:</p>
+<p>
+<a href="http://www.ncbdc.com/" target="_blank"><img src="/atd_images/logo_triangle.gif" alt="National Council of Building Designer Certification" border="0" /></a><br />
+</p></td>
+			<td width="10">&nbsp;</td>
+			<td class="content">
+				<div class="top_nav"><p>
+<a href="/cart/" class="shop">Shopping Cart</a>
+|
+<a href="http://www.americangables.com/account/" class="shop">Log In</a>
+</p></div>
+<p>February 12, 2012</p>				<!--BEGIN CONTENT-->
+
+<h1></h1>
+<p><a href="/forms/buildcostanalysis/">Build Cost Analysis</a></p>
+<p><a href="/forms/contactus/">Contact Us</a></p>
+<p><a href="/forms/modifythisplan/">Modify This Plan</a></p>
+
+				<!-- END CONTENT -->
+			</td>
+		</tr>
+	</table>
+	</div>
+	</td>
+  </tr>
+  <tr>
+	<td class="footer_nav"><p>
+<a href="/">Home</a> |
+<a href="/floorplans/">House Plans</a> |
+<a href="/builderservices/">Services</a> |
+<a href="/aboutplans/">About Plans</a> |
+<a href="/aboutus/">About Company</a> |
+<a href="/faqs/">FAQs</a> |
+<a href="/links/">Links</a> |
+<a href="/forms/contactus/">Contact Us</a>
+<br />
+<a href="/jobopps/">Job Opportunities</a> |
+<a href="/orderinginfo/">Ordering Information</a> |
+<a href="/copyrights/">Copyrights</a> |
+<a href="/privacy/">Privacy Policy</a> |
+<a href="/sitemap/">Site Map</a>
+</p>
+
+<script type="text/javascript"><!--
+google_ad_client = "ca-pub-9410095703612993";
+/* AGHD */
+google_ad_slot = "2673122341";
+google_ad_width = 728;
+google_ad_height = 90;
+//-->
+</script>
+<script type="text/javascript"
+src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>
+
+<center><p><div id="googleCheckoutLogo"></div><script src='https://checkout.google.com/buttons/logos?merchant_id=420294893307834&loc=en_US&f=png' ></script>
+</p></center>
+<br /></td>
+  </tr>
+</table>
+<div class="copyright">
+	<p>770-479-5410 or call toll-free 866-681-5407 | <a href="mailto:info@americangables.com">info@americangables.com</a><br />
+	Copyright &copy; 2001-2012 American Gables Home Designs, Inc. All rights reserved.</p>
+		
+	<p align="center">
+	<strong>House Plan Resources</strong>
+	<a href="http://www.americangables.com/">House Plans</a> - American Gables Home Designs, Inc.</a><br />
+	<a href="http://www.houseplans.net/">House Plans</a> - America's Best House Plans</a><br />
+	<a href="http://www.designevolutions.com/index.html">Luxury house plans and custom home designs</a> at designevolutions.com<br />
+	<a href="http://www.avenuehomesga.com/">Custom Homes</a> and <a href="http://www.avenuehomesga.com/">Remodeling</a> at Avenue Homes of GA, Inc.<br>
+        <a href="http://www.garrellassociates.com">House Plans</a>-Garrell Associates, Inc.<br>
+	</p>
+</div>
+
+<script language="JavaScript1.2">
+
+/*
+Disable right click script II (on images)- By Dynamicdrive.com
+For full source, Terms of service, and 100s DTHML scripts
+Visit http://www.dynamicdrive.com
+*/
+
+var clickmessage="All images are copyrighted by American Gables Home Designs"
+
+function disableclick(e) {
+if (document.all) {
+if (event.button==2||event.button==3) {
+if (event.srcElement.tagName=="IMG"){
+alert(clickmessage);
+return false;
+}
+}
+}
+else if (document.layers) {
+if (e.which == 3) {
+alert(clickmessage);
+return false;
+}
+}
+else if (document.getElementById){
+if (e.which==3&&e.target.tagName=="IMG"){
+alert(clickmessage)
+return false
+}
+}
+}
+
+function associateimages(){
+for(i=0;i<document.images.length;i++)
+document.images[i].onmousedown=disableclick;
+}
+
+if (document.all)
+document.onmousedown=disableclick
+else if (document.getElementById)
+document.onmouseup=disableclick
+else if (document.layers)
+associateimages()
+</script>
+</body>
+</html>
+
+WARC/1.0
+WARC-Type: response
+WARC-Record-ID: <http://www.americangables.com/forms/buildcost/mackenzie/>
+WARC-Date: 20180523151542
+WARC-Target-URI: http://www.americangables.com/forms/buildcost/mackenzie/
+WARC-Language: ar
+Content-Type: application/http;msgtype=response
+Content-Length: 10751
+
+HTTP/1.1 200 OK
+Server: Apache/2.2
+Content-Type: text/html; charset=UTF-8
+Date: Sun, 12 Feb 2012 08:43:15 GMT
+Connection: close
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title></title>
+<meta http-equiv="Content-Type" content="text/html;">
+<meta name="verify-v1" content="6HoxzqUiP440meznxWozCWZ9KINq8qJfJ7VIFk/k8Kw=" />
+<link href="/css/style.css" rel="stylesheet" type="text/css">
+<link href="http://www.americangables.com/favicon.ico" rel="SHORTCUT ICON"> 
+<script type="text/javascript" src="/inc/scripts.js"></script>
+<script type="text/javascript" src="/js/mouseover.js"></script>
+<script type='text/javascript'> 
+function Pop_Go(){return} 
+function PopMenu(x,y){return} 
+function OutMenu(){return} 
+</script> 
+<script type='text/javascript' src='/js/popmenu_var.js'></script>
+<script type='text/javascript' src='/js/popmenu_com.js'></script>
+<script language="javascript">
+<!--//
+
+//-->
+</script>
+</head>
+<body topmargin="0" onload="Pop_Go();">
+<p class="topmsg">Order Our House Plans via phone at 1-866-681-5407 Monday-Friday 9AM to 6PM</p>
+<table border="0" cellpadding="0" cellspacing="0" align="center" id="maintable">
+  <tr>
+	<td>
+	<div id="headerarea">
+	<div id="header"><a href="http://www.americangables.com/"><img src="/atd_images/header_left.jpg" width="363" height="120" border="0" alt="House Plans at American Gables Home Designs" /></a></div>
+</div>
+<div id="navarea" class="content">
+		<table border="0" cellpadding="2" cellspacing="0" width="100%" id="nav">
+		<tr>
+			<td><a href="http://www.americangables.com/">Home</a></td>
+			<td><span id="homePlans" onMouseOver="PopMenu('PopMenu1',event);" onMouseOut="OutMenu('PopMenu1');">House Plans</span></td>
+			<td><span id="services" onMouseOver="PopMenu('PopMenu2',event);" onMouseOut="OutMenu('PopMenu2');">Services</span></td>
+			<td><a href="http://www.americangables.com/aboutplans/">About Plans</a></td>
+			<td><a href="http://www.americangables.com/aboutus/">About Us</a></td>
+			<td><span id="planPhotos" onMouseOver="PopMenu('PopMenu3',event);" onMouseOut="OutMenu('PopMenu3');">House Plan Photos</span></td>
+			<td><a href="http://www.americangables.com/faqs/">FAQs</a></td>
+			<td><a href="http://www.americangables.com/links/">Links</a></td>
+			<td><a href="http://www.americangables.com/forms/contactus/">Contact</a></td>
+		</tr>
+	</table>
+</div>
+	<div class="body">
+	<table border="0" cellpadding="0" cellspacing="0" class="content">
+		<tr valign="top">
+			<td class="leftbar"><!--BEGIN SEARCH BOX-->
+<div class="greenbox">
+	<img src="/atd_images/greenbar_search_house_plans.jpg" width="205" height="27" class="greenbar_header">
+	<div class="greenbox_form">
+		<form name="leftbarsearch" action="/floorplans/" method="get">
+		<input name="action" type="hidden" value="Search">
+			<strong>Plan Name:</strong><br />
+			<input name="plan_name" type="text" class="greenbox_form long"><br />
+			<strong>Square Footage:</strong><br />
+			<input name="sqft_min"type="text" class="greenbox_form short"> to <input name="sqft_max"type="text" class="greenbox_form short">
+			<strong>Width of Plan (in ft):</strong><br />
+			<input name="width_min" type="text" class="greenbox_form short"> to <input name="width_max" type="text" class="greenbox_form short"><br />
+			<strong>Depth of Plan (in ft):</strong><br />
+			<input name="depth_min"type="text" class="greenbox_form short"> to <input name="depth_max" type="text" class="greenbox_form short"><br />
+			<strong>Type of Plan:</strong><br />
+			<select name="category_id" size="1" class="greenbox_form">
+				<option value="">&nbsp;</option>
+				<option value="1">Master Down</option>
+<option value="2">Ranch</option>
+<option value="3">Split Foyer</option>
+<option value="4">Split Level</option>
+<option value="5">Two-Story</option>
+<option value="6"></option>
+			</select>
+			<br /><img src="/atd_images/spacer.gif" border="0" height="5" width="1"><br />
+			<!--<div class="search_links"><a href="/searchhelp/">Search Help</a></div>-->
+			<input type="image" src="/atd_images/btn_search.gif" border="0" value="submit">
+			<div><strong><a href="/floorplans/">Advanced Search</a></strong> | <strong><a href="/searchhelp/">Help</a></strong></div>
+		</form>
+	</div>
+</div>
+<!--END SEARCH BOX-->
+<p>
+<!--BEGIN SEARCH CATEGORIES-->
+<div class="greenbox">
+<img src="/atd_images/greenbar_house_plan_styles.jpg" width="205" height="27" class="greenbar_header">
+<div class="greenbox_content">
+<a href="/bungalow-house-plans/">Bungalow House Plans</a><br />
+<a href="/cape-cod-house-plans/">Cape Cod House Plans</a><br />
+<a href="/coastal-house-plans/">Coastal House Plans</a><br />
+<a href="/colonial-house-plans/">Colonial House Plans</a><br />
+<a href="/cottage-house-plans/">Cottage House Plans</a><br />
+<a href="/country-house-plans/">Country House Plans</a><br />
+<a href="/craftsman-house-plans/">Craftsman House Plans</a><br />
+<a href="/custom-house-plans/">Custom House Plans</a><br />
+<a href="/european-house-plans/">European House Plans</a><br />
+<a href="/farmhouse-house-plans/">Farmhouse House Plans</a><br />
+<a href="/french-country-house-plans/">French Country House Plans</a><br />
+<a href="/georgian-house-plans/">Georgian House Plans</a><br />
+<a href="/luxury-house-plans/">Luxury House Plans</a><br />
+<a href="/narrow-lot-house-plans/">Narrow Lot House Plans</a><br />
+<a href="/ranch-house-plans/">Ranch House Plans</a><br />
+<a href="/small-house-plans/">Small House Plans</a><br />
+<a href="/southern-house-plans/">Southern House Plans</a><br />
+<a href="/traditional-house-plans/">Traditional House Plans</a><br />
+<a href="/tudor-house-plans/">Tudor House Plans</a><br />
+<a href="/victorian-house-plans/">Victorian House Plans</a><br />
+</div>
+</div>
+<p>
+<div class="greenbox">
+<img src="/atd_images/greenbar_search_house_plans_by_category.jpg" width="205" height="27" class="greenbar_header">
+<div class="greenbox_content">
+<strong>Plan Category:</strong><br />
+<a href="/bonus-room-house-plans/">Bonus Room House Plans</a><br />
+<a href="/courtyard-entry-house-plans/">Courtyard Entry House Plans</a><br />
+<a href="/house-plans-with-keeping-rooms/">House Plans w/ Keeping Rooms</a><br />
+<a href="/house-plans-with-lofts/">House Plans w/ Lofts</a><br />
+<a href="/house-plans-with-photos/">House Plans w/ Photos</a><br />
+<a href="/master-down-house-plans/">Master Down House Plans</a><br />
+<a href="/new-house-plans/">New House Plans</a><br />
+<a href="/one-story-house-plans/">One-Story House Plans</a><br />
+<a href="/split-foyer-house-plans/">Split Foyer House Plans</a><br />
+<a href="/two-story-house-plans/">Two-Story House Plans</a><br />
+<strong>Square Footage:</strong><br />
+<a href="/house-plans-1001-2000-sq-ft/">House Plans 1001-2000 Sq. Ft.</a><br />
+<a href="/house-plans-2001-3000-sq-ft/">House Plans 2001-3000 Sq. Ft.</a><br />
+<a href="/house-plans-3001-4000-sq-ft/">House Plans 3001-4000 Sq. Ft.</a><br />
+<a href="/house-plans-over-4000-sq-ft/">Plans Over 4000 Sq. Ft.</a>
+</div>
+</div>
+<!--END SEARCH CATEGORIES-->
+<p align="center">Proud Members of:</p>
+<p>
+<a href="http://www.ncbdc.com/" target="_blank"><img src="/atd_images/logo_triangle.gif" alt="National Council of Building Designer Certification" border="0" /></a><br />
+</p></td>
+			<td width="10">&nbsp;</td>
+			<td class="content">
+				<div class="top_nav"><p>
+<a href="/cart/" class="shop">Shopping Cart</a>
+|
+<a href="http://www.americangables.com/account/" class="shop">Log In</a>
+</p></div>
+<p>February 12, 2012</p>				<!--BEGIN CONTENT-->
+
+<h1></h1>
+<p><a href="/forms/buildcostanalysis/">Build Cost Analysis</a></p>
+<p><a href="/forms/contactus/">Contact Us</a></p>
+<p><a href="/forms/modifythisplan/">Modify This Plan</a></p>
+
+				<!-- END CONTENT -->
+			</td>
+		</tr>
+	</table>
+	</div>
+	</td>
+  </tr>
+  <tr>
+	<td class="footer_nav"><p>
+<a href="/">Home</a> |
+<a href="/floorplans/">House Plans</a> |
+<a href="/builderservices/">Services</a> |
+<a href="/aboutplans/">About Plans</a> |
+<a href="/aboutus/">About Company</a> |
+<a href="/faqs/">FAQs</a> |
+<a href="/links/">Links</a> |
+<a href="/forms/contactus/">Contact Us</a>
+<br />
+<a href="/jobopps/">Job Opportunities</a> |
+<a href="/orderinginfo/">Ordering Information</a> |
+<a href="/copyrights/">Copyrights</a> |
+<a href="/privacy/">Privacy Policy</a> |
+<a href="/sitemap/">Site Map</a>
+</p>
+
+<script type="text/javascript"><!--
+google_ad_client = "ca-pub-9410095703612993";
+/* AGHD */
+google_ad_slot = "2673122341";
+google_ad_width = 728;
+google_ad_height = 90;
+//-->
+</script>
+<script type="text/javascript"
+src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>
+
+<center><p><div id="googleCheckoutLogo"></div><script src='https://checkout.google.com/buttons/logos?merchant_id=420294893307834&loc=en_US&f=png' ></script>
+</p></center>
+<br /></td>
+  </tr>
+</table>
+<div class="copyright">
+	<p>770-479-5410 or call toll-free 866-681-5407 | <a href="mailto:info@americangables.com">info@americangables.com</a><br />
+	Copyright &copy; 2001-2012 American Gables Home Designs, Inc. All rights reserved.</p>
+		
+	<p align="center">
+	<strong>House Plan Resources</strong>
+	<a href="http://www.americangables.com/">House Plans</a> - American Gables Home Designs, Inc.</a><br />
+	<a href="http://www.houseplans.net/">House Plans</a> - America's Best House Plans</a><br />
+	<a href="http://www.designevolutions.com/index.html">Luxury house plans and custom home designs</a> at designevolutions.com<br />
+	<a href="http://www.avenuehomesga.com/">Custom Homes</a> and <a href="http://www.avenuehomesga.com/">Remodeling</a> at Avenue Homes of GA, Inc.<br>
+        <a href="http://www.garrellassociates.com">House Plans</a>-Garrell Associates, Inc.<br>
+	</p>
+</div>
+
+<script language="JavaScript1.2">
+
+/*
+Disable right click script II (on images)- By Dynamicdrive.com
+For full source, Terms of service, and 100s DTHML scripts
+Visit http://www.dynamicdrive.com
+*/
+
+var clickmessage="All images are copyrighted by American Gables Home Designs"
+
+function disableclick(e) {
+if (document.all) {
+if (event.button==2||event.button==3) {
+if (event.srcElement.tagName=="IMG"){
+alert(clickmessage);
+return false;
+}
+}
+}
+else if (document.layers) {
+if (e.which == 3) {
+alert(clickmessage);
+return false;
+}
+}
+else if (document.getElementById){
+if (e.which==3&&e.target.tagName=="IMG"){
+alert(clickmessage)
+return false
+}
+}
+}
+
+function associateimages(){
+for(i=0;i<document.images.length;i++)
+document.images[i].onmousedown=disableclick;
+}
+
+if (document.all)
+document.onmousedown=disableclick
+else if (document.getElementById)
+document.onmouseup=disableclick
+else if (document.layers)
+associateimages()
+</script>
+</body>
+</html>
+
+WARC/1.0
+WARC-Type: response
+WARC-Record-ID: <http://www.americangables.com/forms/buildcost/shelton/>
+WARC-Date: 20180523151542
+WARC-Target-URI: http://www.americangables.com/forms/buildcost/shelton/
+WARC-Language: ar
+Content-Type: application/http;msgtype=response
+Content-Length: 10751
+
+HTTP/1.1 200 OK
+Server: Apache/2.2
+Content-Type: text/html; charset=UTF-8
+Date: Sun, 12 Feb 2012 08:25:49 GMT
+Connection: close
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title></title>
+<meta http-equiv="Content-Type" content="text/html;">
+<meta name="verify-v1" content="6HoxzqUiP440meznxWozCWZ9KINq8qJfJ7VIFk/k8Kw=" />
+<link href="/css/style.css" rel="stylesheet" type="text/css">
+<link href="http://www.americangables.com/favicon.ico" rel="SHORTCUT ICON"> 
+<script type="text/javascript" src="/inc/scripts.js"></script>
+<script type="text/javascript" src="/js/mouseover.js"></script>
+<script type='text/javascript'> 
+function Pop_Go(){return} 
+function PopMenu(x,y){return} 
+function OutMenu(){return} 
+</script> 
+<script type='text/javascript' src='/js/popmenu_var.js'></script>
+<script type='text/javascript' src='/js/popmenu_com.js'></script>
+<script language="javascript">
+<!--//
+
+//-->
+</script>
+</head>
+<body topmargin="0" onload="Pop_Go();">
+<p class="topmsg">Order Our House Plans via phone at 1-866-681-5407 Monday-Friday 9AM to 6PM</p>
+<table border="0" cellpadding="0" cellspacing="0" align="center" id="maintable">
+  <tr>
+	<td>
+	<div id="headerarea">
+	<div id="header"><a href="http://www.americangables.com/"><img src="/atd_images/header_left.jpg" width="363" height="120" border="0" alt="House Plans at American Gables Home Designs" /></a></div>
+</div>
+<div id="navarea" class="content">
+		<table border="0" cellpadding="2" cellspacing="0" width="100%" id="nav">
+		<tr>
+			<td><a href="http://www.americangables.com/">Home</a></td>
+			<td><span id="homePlans" onMouseOver="PopMenu('PopMenu1',event);" onMouseOut="OutMenu('PopMenu1');">House Plans</span></td>
+			<td><span id="services" onMouseOver="PopMenu('PopMenu2',event);" onMouseOut="OutMenu('PopMenu2');">Services</span></td>
+			<td><a href="http://www.americangables.com/aboutplans/">About Plans</a></td>
+			<td><a href="http://www.americangables.com/aboutus/">About Us</a></td>
+			<td><span id="planPhotos" onMouseOver="PopMenu('PopMenu3',event);" onMouseOut="OutMenu('PopMenu3');">House Plan Photos</span></td>
+			<td><a href="http://www.americangables.com/faqs/">FAQs</a></td>
+			<td><a href="http://www.americangables.com/links/">Links</a></td>
+			<td><a href="http://www.americangables.com/forms/contactus/">Contact</a></td>
+		</tr>
+	</table>
+</div>
+	<div class="body">
+	<table border="0" cellpadding="0" cellspacing="0" class="content">
+		<tr valign="top">
+			<td class="leftbar"><!--BEGIN SEARCH BOX-->
+<div class="greenbox">
+	<img src="/atd_images/greenbar_search_house_plans.jpg" width="205" height="27" class="greenbar_header">
+	<div class="greenbox_form">
+		<form name="leftbarsearch" action="/floorplans/" method="get">
+		<input name="action" type="hidden" value="Search">
+			<strong>Plan Name:</strong><br />
+			<input name="plan_name" type="text" class="greenbox_form long"><br />
+			<strong>Square Footage:</strong><br />
+			<input name="sqft_min"type="text" class="greenbox_form short"> to <input name="sqft_max"type="text" class="greenbox_form short">
+			<strong>Width of Plan (in ft):</strong><br />
+			<input name="width_min" type="text" class="greenbox_form short"> to <input name="width_max" type="text" class="greenbox_form short"><br />
+			<strong>Depth of Plan (in ft):</strong><br />
+			<input name="depth_min"type="text" class="greenbox_form short"> to <input name="depth_max" type="text" class="greenbox_form short"><br />
+			<strong>Type of Plan:</strong><br />
+			<select name="category_id" size="1" class="greenbox_form">
+				<option value="">&nbsp;</option>
+				<option value="1">Master Down</option>
+<option value="2">Ranch</option>
+<option value="3">Split Foyer</option>
+<option value="4">Split Level</option>
+<option value="5">Two-Story</option>
+<option value="6"></option>
+			</select>
+			<br /><img src="/atd_images/spacer.gif" border="0" height="5" width="1"><br />
+			<!--<div class="search_links"><a href="/searchhelp/">Search Help</a></div>-->
+			<input type="image" src="/atd_images/btn_search.gif" border="0" value="submit">
+			<div><strong><a href="/floorplans/">Advanced Search</a></strong> | <strong><a href="/searchhelp/">Help</a></strong></div>
+		</form>
+	</div>
+</div>
+<!--END SEARCH BOX-->
+<p>
+<!--BEGIN SEARCH CATEGORIES-->
+<div class="greenbox">
+<img src="/atd_images/greenbar_house_plan_styles.jpg" width="205" height="27" class="greenbar_header">
+<div class="greenbox_content">
+<a href="/bungalow-house-plans/">Bungalow House Plans</a><br />
+<a href="/cape-cod-house-plans/">Cape Cod House Plans</a><br />
+<a href="/coastal-house-plans/">Coastal House Plans</a><br />
+<a href="/colonial-house-plans/">Colonial House Plans</a><br />
+<a href="/cottage-house-plans/">Cottage House Plans</a><br />
+<a href="/country-house-plans/">Country House Plans</a><br />
+<a href="/craftsman-house-plans/">Craftsman House Plans</a><br />
+<a href="/custom-house-plans/">Custom House Plans</a><br />
+<a href="/european-house-plans/">European House Plans</a><br />
+<a href="/farmhouse-house-plans/">Farmhouse House Plans</a><br />
+<a href="/french-country-house-plans/">French Country House Plans</a><br />
+<a href="/georgian-house-plans/">Georgian House Plans</a><br />
+<a href="/luxury-house-plans/">Luxury House Plans</a><br />
+<a href="/narrow-lot-house-plans/">Narrow Lot House Plans</a><br />
+<a href="/ranch-house-plans/">Ranch House Plans</a><br />
+<a href="/small-house-plans/">Small House Plans</a><br />
+<a href="/southern-house-plans/">Southern House Plans</a><br />
+<a href="/traditional-house-plans/">Traditional House Plans</a><br />
+<a href="/tudor-house-plans/">Tudor House Plans</a><br />
+<a href="/victorian-house-plans/">Victorian House Plans</a><br />
+</div>
+</div>
+<p>
+<div class="greenbox">
+<img src="/atd_images/greenbar_search_house_plans_by_category.jpg" width="205" height="27" class="greenbar_header">
+<div class="greenbox_content">
+<strong>Plan Category:</strong><br />
+<a href="/bonus-room-house-plans/">Bonus Room House Plans</a><br />
+<a href="/courtyard-entry-house-plans/">Courtyard Entry House Plans</a><br />
+<a href="/house-plans-with-keeping-rooms/">House Plans w/ Keeping Rooms</a><br />
+<a href="/house-plans-with-lofts/">House Plans w/ Lofts</a><br />
+<a href="/house-plans-with-photos/">House Plans w/ Photos</a><br />
+<a href="/master-down-house-plans/">Master Down House Plans</a><br />
+<a href="/new-house-plans/">New House Plans</a><br />
+<a href="/one-story-house-plans/">One-Story House Plans</a><br />
+<a href="/split-foyer-house-plans/">Split Foyer House Plans</a><br />
+<a href="/two-story-house-plans/">Two-Story House Plans</a><br />
+<strong>Square Footage:</strong><br />
+<a href="/house-plans-1001-2000-sq-ft/">House Plans 1001-2000 Sq. Ft.</a><br />
+<a href="/house-plans-2001-3000-sq-ft/">House Plans 2001-3000 Sq. Ft.</a><br />
+<a href="/house-plans-3001-4000-sq-ft/">House Plans 3001-4000 Sq. Ft.</a><br />
+<a href="/house-plans-over-4000-sq-ft/">Plans Over 4000 Sq. Ft.</a>
+</div>
+</div>
+<!--END SEARCH CATEGORIES-->
+<p align="center">Proud Members of:</p>
+<p>
+<a href="http://www.ncbdc.com/" target="_blank"><img src="/atd_images/logo_triangle.gif" alt="National Council of Building Designer Certification" border="0" /></a><br />
+</p></td>
+			<td width="10">&nbsp;</td>
+			<td class="content">
+				<div class="top_nav"><p>
+<a href="/cart/" class="shop">Shopping Cart</a>
+|
+<a href="http://www.americangables.com/account/" class="shop">Log In</a>
+</p></div>
+<p>February 12, 2012</p>				<!--BEGIN CONTENT-->
+
+<h1></h1>
+<p><a href="/forms/buildcostanalysis/">Build Cost Analysis</a></p>
+<p><a href="/forms/contactus/">Contact Us</a></p>
+<p><a href="/forms/modifythisplan/">Modify This Plan</a></p>
+
+				<!-- END CONTENT -->
+			</td>
+		</tr>
+	</table>
+	</div>
+	</td>
+  </tr>
+  <tr>
+	<td class="footer_nav"><p>
+<a href="/">Home</a> |
+<a href="/floorplans/">House Plans</a> |
+<a href="/builderservices/">Services</a> |
+<a href="/aboutplans/">About Plans</a> |
+<a href="/aboutus/">About Company</a> |
+<a href="/faqs/">FAQs</a> |
+<a href="/links/">Links</a> |
+<a href="/forms/contactus/">Contact Us</a>
+<br />
+<a href="/jobopps/">Job Opportunities</a> |
+<a href="/orderinginfo/">Ordering Information</a> |
+<a href="/copyrights/">Copyrights</a> |
+<a href="/privacy/">Privacy Policy</a> |
+<a href="/sitemap/">Site Map</a>
+</p>
+
+<script type="text/javascript"><!--
+google_ad_client = "ca-pub-9410095703612993";
+/* AGHD */
+google_ad_slot = "2673122341";
+google_ad_width = 728;
+google_ad_height = 90;
+//-->
+</script>
+<script type="text/javascript"
+src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>
+
+<center><p><div id="googleCheckoutLogo"></div><script src='https://checkout.google.com/buttons/logos?merchant_id=420294893307834&loc=en_US&f=png' ></script>
+</p></center>
+<br /></td>
+  </tr>
+</table>
+<div class="copyright">
+	<p>770-479-5410 or call toll-free 866-681-5407 | <a href="mailto:info@americangables.com">info@americangables.com</a><br />
+	Copyright &copy; 2001-2012 American Gables Home Designs, Inc. All rights reserved.</p>
+		
+	<p align="center">
+	<strong>House Plan Resources</strong>
+	<a href="http://www.americangables.com/">House Plans</a> - American Gables Home Designs, Inc.</a><br />
+	<a href="http://www.houseplans.net/">House Plans</a> - America's Best House Plans</a><br />
+	<a href="http://www.designevolutions.com/index.html">Luxury house plans and custom home designs</a> at designevolutions.com<br />
+	<a href="http://www.avenuehomesga.com/">Custom Homes</a> and <a href="http://www.avenuehomesga.com/">Remodeling</a> at Avenue Homes of GA, Inc.<br>
+        <a href="http://www.garrellassociates.com">House Plans</a>-Garrell Associates, Inc.<br>
+	</p>
+</div>
+
+<script language="JavaScript1.2">
+
+/*
+Disable right click script II (on images)- By Dynamicdrive.com
+For full source, Terms of service, and 100s DTHML scripts
+Visit http://www.dynamicdrive.com
+*/
+
+var clickmessage="All images are copyrighted by American Gables Home Designs"
+
+function disableclick(e) {
+if (document.all) {
+if (event.button==2||event.button==3) {
+if (event.srcElement.tagName=="IMG"){
+alert(clickmessage);
+return false;
+}
+}
+}
+else if (document.layers) {
+if (e.which == 3) {
+alert(clickmessage);
+return false;
+}
+}
+else if (document.getElementById){
+if (e.which==3&&e.target.tagName=="IMG"){
+alert(clickmessage)
+return false
+}
+}
+}
+
+function associateimages(){
+for(i=0;i<document.images.length;i++)
+document.images[i].onmousedown=disableclick;
+}
+
+if (document.all)
+document.onmousedown=disableclick
+else if (document.getElementById)
+document.onmouseup=disableclick
+else if (document.layers)
+associateimages()
+</script>
+</body>
+</html>
+
+WARC/1.0
+WARC-Type: response
+WARC-Record-ID: <http://www.americangables.com/forms/modifythisplan/albany/>
+WARC-Date: 20180523151542
+WARC-Target-URI: http://www.americangables.com/forms/modifythisplan/albany/
+WARC-Language: ar
+Content-Type: application/http;msgtype=response
+Content-Length: 16978
+
+HTTP/1.1 200 OK
+Server: Apache/2.2
+Content-Type: text/html; charset=UTF-8
+Date: Sun, 12 Feb 2012 08:29:21 GMT
+Connection: close
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>Modify This Plan</title>
+<meta http-equiv="Content-Type" content="text/html;">
+<meta name="verify-v1" content="6HoxzqUiP440meznxWozCWZ9KINq8qJfJ7VIFk/k8Kw=" />
+<link href="/css/style.css" rel="stylesheet" type="text/css">
+<link href="http://www.americangables.com/favicon.ico" rel="SHORTCUT ICON"> 
+<script type="text/javascript" src="/inc/scripts.js"></script>
+<script type="text/javascript" src="/js/mouseover.js"></script>
+<script type='text/javascript'> 
+function Pop_Go(){return} 
+function PopMenu(x,y){return} 
+function OutMenu(){return} 
+</script> 
+<script type='text/javascript' src='/js/popmenu_var.js'></script>
+<script type='text/javascript' src='/js/popmenu_com.js'></script>
+<script language="javascript">
+<!--//
+
+function isReady() {
+if (document.form4.field26.value <= 1) {
+				  alert("Please complete Name:.");
+				  return false;
+				}
+else if (document.form4.field27.value <= 1) {
+				  alert("Please complete Address:.");
+				  return false;
+				}
+else if (document.form4.field28.value <= 1) {
+				  alert("Please complete City:.");
+				  return false;
+				}
+else if (document.form4.field50.options[document.form4.field50.selectedIndex].value == "") {
+			  alert("Please complete State:.");
+			  return false;
+			}
+else if (document.form4.field30.value <= 1) {
+				  alert("Please complete Zip Code:.");
+				  return false;
+				}
+else if (!(/^\w+([\.-]?\w+)*@\w+([\.-]?\w+)*(\.\w{2,3})+$/.test(document.form4.field31.value))) {
+					alert("Please fill in a valid e-mail address.");
+					return false;
+				}
+if (!check_math_question()) { return false; }
+else
+	return true;
+}
+function check_math_question() {
+if (document.getElementById('mathquestion').value == 11) { return true; } else {
+ alert('Please Answer the anti-spam Math Question (hint, the answer is 11)'); return false; }
+}
+//-->
+</script>
+</head>
+<body topmargin="0" onload="Pop_Go();">
+<p class="topmsg">Order Our House Plans via phone at 1-866-681-5407 Monday-Friday 9AM to 6PM</p>
+<table border="0" cellpadding="0" cellspacing="0" align="center" id="maintable">
+  <tr>
+	<td>
+	<div id="headerarea">
+	<div id="header"><a href="http://www.americangables.com/"><img src="/atd_images/header_left.jpg" width="363" height="120" border="0" alt="House Plans at American Gables Home Designs" /></a></div>
+</div>
+<div id="navarea" class="content">
+		<table border="0" cellpadding="2" cellspacing="0" width="100%" id="nav">
+		<tr>
+			<td><a href="http://www.americangables.com/">Home</a></td>
+			<td><span id="homePlans" onMouseOver="PopMenu('PopMenu1',event);" onMouseOut="OutMenu('PopMenu1');">House Plans</span></td>
+			<td><span id="services" onMouseOver="PopMenu('PopMenu2',event);" onMouseOut="OutMenu('PopMenu2');">Services</span></td>
+			<td><a href="http://www.americangables.com/aboutplans/">About Plans</a></td>
+			<td><a href="http://www.americangables.com/aboutus/">About Us</a></td>
+			<td><span id="planPhotos" onMouseOver="PopMenu('PopMenu3',event);" onMouseOut="OutMenu('PopMenu3');">House Plan Photos</span></td>
+			<td><a href="http://www.americangables.com/faqs/">FAQs</a></td>
+			<td><a href="http://www.americangables.com/links/">Links</a></td>
+			<td><a href="http://www.americangables.com/forms/contactus/">Contact</a></td>
+		</tr>
+	</table>
+</div>
+	<div class="body">
+	<table border="0" cellpadding="0" cellspacing="0" class="content">
+		<tr valign="top">
+			<td class="leftbar"><!--BEGIN SEARCH BOX-->
+<div class="greenbox">
+	<img src="/atd_images/greenbar_search_house_plans.jpg" width="205" height="27" class="greenbar_header">
+	<div class="greenbox_form">
+		<form name="leftbarsearch" action="/floorplans/" method="get">
+		<input name="action" type="hidden" value="Search">
+			<strong>Plan Name:</strong><br />
+			<input name="plan_name" type="text" class="greenbox_form long"><br />
+			<strong>Square Footage:</strong><br />
+			<input name="sqft_min"type="text" class="greenbox_form short"> to <input name="sqft_max"type="text" class="greenbox_form short">
+			<strong>Width of Plan (in ft):</strong><br />
+			<input name="width_min" type="text" class="greenbox_form short"> to <input name="width_max" type="text" class="greenbox_form short"><br />
+			<strong>Depth of Plan (in ft):</strong><br />
+			<input name="depth_min"type="text" class="greenbox_form short"> to <input name="depth_max" type="text" class="greenbox_form short"><br />
+			<strong>Type of Plan:</strong><br />
+			<select name="category_id" size="1" class="greenbox_form">
+				<option value="">&nbsp;</option>
+				<option value="1">Master Down</option>
+<option value="2">Ranch</option>
+<option value="3">Split Foyer</option>
+<option value="4">Split Level</option>
+<option value="5">Two-Story</option>
+<option value="6"></option>
+			</select>
+			<br /><img src="/atd_images/spacer.gif" border="0" height="5" width="1"><br />
+			<!--<div class="search_links"><a href="/searchhelp/">Search Help</a></div>-->
+			<input type="image" src="/atd_images/btn_search.gif" border="0" value="submit">
+			<div><strong><a href="/floorplans/">Advanced Search</a></strong> | <strong><a href="/searchhelp/">Help</a></strong></div>
+		</form>
+	</div>
+</div>
+<!--END SEARCH BOX-->
+<p>
+<!--BEGIN SEARCH CATEGORIES-->
+<div class="greenbox">
+<img src="/atd_images/greenbar_house_plan_styles.jpg" width="205" height="27" class="greenbar_header">
+<div class="greenbox_content">
+<a href="/bungalow-house-plans/">Bungalow House Plans</a><br />
+<a href="/cape-cod-house-plans/">Cape Cod House Plans</a><br />
+<a href="/coastal-house-plans/">Coastal House Plans</a><br />
+<a href="/colonial-house-plans/">Colonial House Plans</a><br />
+<a href="/cottage-house-plans/">Cottage House Plans</a><br />
+<a href="/country-house-plans/">Country House Plans</a><br />
+<a href="/craftsman-house-plans/">Craftsman House Plans</a><br />
+<a href="/custom-house-plans/">Custom House Plans</a><br />
+<a href="/european-house-plans/">European House Plans</a><br />
+<a href="/farmhouse-house-plans/">Farmhouse House Plans</a><br />
+<a href="/french-country-house-plans/">French Country House Plans</a><br />
+<a href="/georgian-house-plans/">Georgian House Plans</a><br />
+<a href="/luxury-house-plans/">Luxury House Plans</a><br />
+<a href="/narrow-lot-house-plans/">Narrow Lot House Plans</a><br />
+<a href="/ranch-house-plans/">Ranch House Plans</a><br />
+<a href="/small-house-plans/">Small House Plans</a><br />
+<a href="/southern-house-plans/">Southern House Plans</a><br />
+<a href="/traditional-house-plans/">Traditional House Plans</a><br />
+<a href="/tudor-house-plans/">Tudor House Plans</a><br />
+<a href="/victorian-house-plans/">Victorian House Plans</a><br />
+</div>
+</div>
+<p>
+<div class="greenbox">
+<img src="/atd_images/greenbar_search_house_plans_by_category.jpg" width="205" height="27" class="greenbar_header">
+<div class="greenbox_content">
+<strong>Plan Category:</strong><br />
+<a href="/bonus-room-house-plans/">Bonus Room House Plans</a><br />
+<a href="/courtyard-entry-house-plans/">Courtyard Entry House Plans</a><br />
+<a href="/house-plans-with-keeping-rooms/">House Plans w/ Keeping Rooms</a><br />
+<a href="/house-plans-with-lofts/">House Plans w/ Lofts</a><br />
+<a href="/house-plans-with-photos/">House Plans w/ Photos</a><br />
+<a href="/master-down-house-plans/">Master Down House Plans</a><br />
+<a href="/new-house-plans/">New House Plans</a><br />
+<a href="/one-story-house-plans/">One-Story House Plans</a><br />
+<a href="/split-foyer-house-plans/">Split Foyer House Plans</a><br />
+<a href="/two-story-house-plans/">Two-Story House Plans</a><br />
+<strong>Square Footage:</strong><br />
+<a href="/house-plans-1001-2000-sq-ft/">House Plans 1001-2000 Sq. Ft.</a><br />
+<a href="/house-plans-2001-3000-sq-ft/">House Plans 2001-3000 Sq. Ft.</a><br />
+<a href="/house-plans-3001-4000-sq-ft/">House Plans 3001-4000 Sq. Ft.</a><br />
+<a href="/house-plans-over-4000-sq-ft/">Plans Over 4000 Sq. Ft.</a>
+</div>
+</div>
+<!--END SEARCH CATEGORIES-->
+<p align="center">Proud Members of:</p>
+<p>
+<a href="http://www.ncbdc.com/" target="_blank"><img src="/atd_images/logo_triangle.gif" alt="National Council of Building Designer Certification" border="0" /></a><br />
+</p></td>
+			<td width="10">&nbsp;</td>
+			<td class="content">
+				<div class="top_nav"><p>
+<a href="/cart/" class="shop">Shopping Cart</a>
+|
+<a href="http://www.americangables.com/account/" class="shop">Log In</a>
+</p></div>
+<p>February 12, 2012</p>				<!--BEGIN CONTENT-->
+
+<h1>Modify This Plan</h1>
+<p><a href="http://www.websitealive7.com/1579/rRouter.asp?groupid=1579&amp;departmentid=" onclick="window.open('http://www.websitealive7.com/1579/rRouter.asp?groupid=1579&departmentid=','guest','width=450,height=400,left='+(screen.availWidth/2-225)+',top='+(screen.availHeight/2-200)+'');return false;"><img src="/uploads/pagesfiles/29.gif" border="0" alt="Live Chat" title="Live Chat" hspace="5" width="165" height="85" /></a></p><p>Please fill out the form below and receive a free modification estimate within two to four business days.&nbsp; Please feel free to print the brochure of the plan&nbsp;that you&nbsp;would like a modification&nbsp;request for,&nbsp;make the appropriate markups on the brochure and fax it back to us at 770-479-5413.&nbsp;If you have any questions with your plan modification request please contact our customer representatives via <a href="/forms/contactus/">email</a> , live chat, or at 1-866-681-5407.&nbsp; </p><form action="" method="post" name="form4" onSubmit="return isReady(form4);">
+		<input type="hidden" name="action" value="submit" />
+		<input type="hidden" name="f" value="modifythisplan" />
+		<table border="0" cellpadding="0" cellspacing="2">
+<input type="hidden" name="field25" value="albany" /><tr>
+				 <td class="formlabel">*Name:</td>
+				 <td><input name="field26" type="text" class="formfield" value="" style="width: 250px;" /></td>
+				 </tr>
+<tr>
+				 <td class="formlabel">*Address:</td>
+				 <td><input name="field27" type="text" class="formfield" value="" style="width: 250px;" /></td>
+				 </tr>
+<tr>
+				 <td class="formlabel">*City:</td>
+				 <td><input name="field28" type="text" class="formfield" value="" style="width: 250px;" /></td>
+				 </tr>
+<tr>
+				 <td class="formlabel">*State:</td>
+				 <td><select name="field50" size="1" class="formfield">
+					 <option value=""></option>
+<option value="Alabama">Alabama</option>
+<option value="Alaska">Alaska</option>
+<option value="Arizona">Arizona</option>
+<option value="Arkansas">Arkansas</option>
+<option value="California">California</option>
+<option value="Colorado">Colorado</option>
+<option value="Connecticut">Connecticut</option>
+<option value="Delaware">Delaware</option>
+<option value="District of Columbia">District of Columbia</option>
+<option value="Florida">Florida</option>
+<option value="Georgia">Georgia</option>
+<option value="Hawaii">Hawaii</option>
+<option value="Idaho">Idaho</option>
+<option value="Illinois">Illinois</option>
+<option value="Indiana">Indiana</option>
+<option value="Iowa">Iowa</option>
+<option value="Kansas">Kansas</option>
+<option value="Kentucky">Kentucky</option>
+<option value="Louisiana">Louisiana</option>
+<option value="Maine">Maine</option>
+<option value="Maryland">Maryland</option>
+<option value="Massachusetts">Massachusetts</option>
+<option value="Michigan">Michigan</option>
+<option value="Minnesota">Minnesota</option>
+<option value="Mississippi">Mississippi</option>
+<option value="Missouri">Missouri</option>
+<option value="Montana">Montana</option>
+<option value="Nebraska">Nebraska</option>
+<option value="Nevada">Nevada</option>
+<option value="New Hampshire">New Hampshire</option>
+<option value="New Jersey">New Jersey</option>
+<option value="New Mexico">New Mexico</option>
+<option value="New York">New York</option>
+<option value="North Carolina">North Carolina</option>
+<option value="North Dakota">North Dakota</option>
+<option value="Ohio">Ohio</option>
+<option value="Oklahoma">Oklahoma</option>
+<option value="Oregon">Oregon</option>
+<option value="Pennsylvania">Pennsylvania</option>
+<option value="Rhode Island">Rhode Island</option>
+<option value="South Carolina">South Carolina</option>
+<option value="South Dakota">South Dakota</option>
+<option value="Tennessee">Tennessee</option>
+<option value="Texas">Texas</option>
+<option value="Utah">Utah</option>
+<option value="Vermont">Vermont</option>
+<option value="Virginia">Virginia</option>
+<option value="Washington">Washington</option>
+<option value="West Virginia">West Virginia</option>
+<option value="Wisconsin">Wisconsin</option>
+<option value="Wyoming">Wyoming</option>
+</select>
+</td>
+				 </tr>
+<tr>
+				 <td class="formlabel">*Zip Code:</td>
+				 <td><input name="field30" type="text" class="formfield" value="" style="width: 100px;" /></td>
+				 </tr>
+<tr>
+				 <td class="formlabel">*Email Address:</td>
+				 <td><input name="field31" type="text" class="formfield" value="" style="width: 250px;" /></td>
+				 </tr>
+<tr>
+				 <td class="formlabel">Telephone:</td>
+				 <td><input name="field32" type="text" class="formfield" value="" style="width: 250px;" /></td>
+				 </tr>
+<tr>
+				 <td class="formlabel">Fax Number:</td>
+				 <td><input name="field33" type="text" class="formfield" value="" style="width: 250px;" /></td>
+				 </tr>
+<tr>
+				 <td class="formlabel">Comments (type your modification description):</td>
+				 <td><textarea name="field34" class="formfield" style="width: 250px; height: 150px;" /></textarea></td>
+				 </tr>
+<td><div align='right'><strong>* 3 + 8 =</strong></div></td>
+<td colspan='2'><input name='mathquestion' type='text' id='mathquestion' size='5' class='formfield' /> <em>Help us stop spam!</em></td>
+<tr>
+<td>&nbsp;</td>
+	 <td><input type="submit" value="Submit Form" class="button" /></td>
+	 </tr>
+</table>
+</form>
+
+				<!-- END CONTENT -->
+			</td>
+		</tr>
+	</table>
+	</div>
+	</td>
+  </tr>
+  <tr>
+	<td class="footer_nav"><p>
+<a href="/">Home</a> |
+<a href="/floorplans/">House Plans</a> |
+<a href="/builderservices/">Services</a> |
+<a href="/aboutplans/">About Plans</a> |
+<a href="/aboutus/">About Company</a> |
+<a href="/faqs/">FAQs</a> |
+<a href="/links/">Links</a> |
+<a href="/forms/contactus/">Contact Us</a>
+<br />
+<a href="/jobopps/">Job Opportunities</a> |
+<a href="/orderinginfo/">Ordering Information</a> |
+<a href="/copyrights/">Copyrights</a> |
+<a href="/privacy/">Privacy Policy</a> |
+<a href="/sitemap/">Site Map</a>
+</p>
+
+<script type="text/javascript"><!--
+google_ad_client = "ca-pub-9410095703612993";
+/* AGHD */
+google_ad_slot = "2673122341";
+google_ad_width = 728;
+google_ad_height = 90;
+//-->
+</script>
+<script type="text/javascript"
+src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>
+
+<center><p><div id="googleCheckoutLogo"></div><script src='https://checkout.google.com/buttons/logos?merchant_id=420294893307834&loc=en_US&f=png' ></script>
+</p></center>
+<br /></td>
+  </tr>
+</table>
+<div class="copyright">
+	<p>770-479-5410 or call toll-free 866-681-5407 | <a href="mailto:info@americangables.com">info@americangables.com</a><br />
+	Copyright &copy; 2001-2012 American Gables Home Designs, Inc. All rights reserved.</p>
+		
+	<p align="center">
+	<strong>House Plan Resources</strong>
+	<a href="http://www.americangables.com/">House Plans</a> - American Gables Home Designs, Inc.</a><br />
+	<a href="http://www.houseplans.net/">House Plans</a> - America's Best House Plans</a><br />
+	<a href="http://www.designevolutions.com/index.html">Luxury house plans and custom home designs</a> at designevolutions.com<br />
+	<a href="http://www.avenuehomesga.com/">Custom Homes</a> and <a href="http://www.avenuehomesga.com/">Remodeling</a> at Avenue Homes of GA, Inc.<br>
+        <a href="http://www.garrellassociates.com">House Plans</a>-Garrell Associates, Inc.<br>
+	</p>
+</div>
+
+<script language="JavaScript1.2">
+
+/*
+Disable right click script II (on images)- By Dynamicdrive.com
+For full source, Terms of service, and 100s DTHML scripts
+Visit http://www.dynamicdrive.com
+*/
+
+var clickmessage="All images are copyrighted by American Gables Home Designs"
+
+function disableclick(e) {
+if (document.all) {
+if (event.button==2||event.button==3) {
+if (event.srcElement.tagName=="IMG"){
+alert(clickmessage);
+return false;
+}
+}
+}
+else if (document.layers) {
+if (e.which == 3) {
+alert(clickmessage);
+return false;
+}
+}
+else if (document.getElementById){
+if (e.which==3&&e.target.tagName=="IMG"){
+alert(clickmessage)
+return false
+}
+}
+}
+
+function associateimages(){
+for(i=0;i<document.images.length;i++)
+document.images[i].onmousedown=disableclick;
+}
+
+if (document.all)
+document.onmousedown=disableclick
+else if (document.getElementById)
+document.onmouseup=disableclick
+else if (document.layers)
+associateimages()
+</script>
+</body>
+</html>
+
+WARC/1.0
+WARC-Type: response
+WARC-Record-ID: <http://www.americangables.com/forms/modifythisplan/dunwoody/>
+WARC-Date: 20180523151542
+WARC-Target-URI: http://www.americangables.com/forms/modifythisplan/dunwoody/
+WARC-Language: ar
+Content-Type: application/http;msgtype=response
+Content-Length: 16980
+
+HTTP/1.1 200 OK
+Server: Apache/2.2
+Content-Type: text/html; charset=UTF-8
+Date: Sun, 12 Feb 2012 08:24:39 GMT
+Connection: close
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>Modify This Plan</title>
+<meta http-equiv="Content-Type" content="text/html;">
+<meta name="verify-v1" content="6HoxzqUiP440meznxWozCWZ9KINq8qJfJ7VIFk/k8Kw=" />
+<link href="/css/style.css" rel="stylesheet" type="text/css">
+<link href="http://www.americangables.com/favicon.ico" rel="SHORTCUT ICON"> 
+<script type="text/javascript" src="/inc/scripts.js"></script>
+<script type="text/javascript" src="/js/mouseover.js"></script>
+<script type='text/javascript'> 
+function Pop_Go(){return} 
+function PopMenu(x,y){return} 
+function OutMenu(){return} 
+</script> 
+<script type='text/javascript' src='/js/popmenu_var.js'></script>
+<script type='text/javascript' src='/js/popmenu_com.js'></script>
+<script language="javascript">
+<!--//
+
+function isReady() {
+if (document.form4.field26.value <= 1) {
+				  alert("Please complete Name:.");
+				  return false;
+				}
+else if (document.form4.field27.value <= 1) {
+				  alert("Please complete Address:.");
+				  return false;
+				}
+else if (document.form4.field28.value <= 1) {
+				  alert("Please complete City:.");
+				  return false;
+				}
+else if (document.form4.field50.options[document.form4.field50.selectedIndex].value == "") {
+			  alert("Please complete State:.");
+			  return false;
+			}
+else if (document.form4.field30.value <= 1) {
+				  alert("Please complete Zip Code:.");
+				  return false;
+				}
+else if (!(/^\w+([\.-]?\w+)*@\w+([\.-]?\w+)*(\.\w{2,3})+$/.test(document.form4.field31.value))) {
+					alert("Please fill in a valid e-mail address.");
+					return false;
+				}
+if (!check_math_question()) { return false; }
+else
+	return true;
+}
+function check_math_question() {
+if (document.getElementById('mathquestion').value == 16) { return true; } else {
+ alert('Please Answer the anti-spam Math Question (hint, the answer is 16)'); return false; }
+}
+//-->
+</script>
+</head>
+<body topmargin="0" onload="Pop_Go();">
+<p class="topmsg">Order Our House Plans via phone at 1-866-681-5407 Monday-Friday 9AM to 6PM</p>
+<table border="0" cellpadding="0" cellspacing="0" align="center" id="maintable">
+  <tr>
+	<td>
+	<div id="headerarea">
+	<div id="header"><a href="http://www.americangables.com/"><img src="/atd_images/header_left.jpg" width="363" height="120" border="0" alt="House Plans at American Gables Home Designs" /></a></div>
+</div>
+<div id="navarea" class="content">
+		<table border="0" cellpadding="2" cellspacing="0" width="100%" id="nav">
+		<tr>
+			<td><a href="http://www.americangables.com/">Home</a></td>
+			<td><span id="homePlans" onMouseOver="PopMenu('PopMenu1',event);" onMouseOut="OutMenu('PopMenu1');">House Plans</span></td>
+			<td><span id="services" onMouseOver="PopMenu('PopMenu2',event);" onMouseOut="OutMenu('PopMenu2');">Services</span></td>
+			<td><a href="http://www.americangables.com/aboutplans/">About Plans</a></td>
+			<td><a href="http://www.americangables.com/aboutus/">About Us</a></td>
+			<td><span id="planPhotos" onMouseOver="PopMenu('PopMenu3',event);" onMouseOut="OutMenu('PopMenu3');">House Plan Photos</span></td>
+			<td><a href="http://www.americangables.com/faqs/">FAQs</a></td>
+			<td><a href="http://www.americangables.com/links/">Links</a></td>
+			<td><a href="http://www.americangables.com/forms/contactus/">Contact</a></td>
+		</tr>
+	</table>
+</div>
+	<div class="body">
+	<table border="0" cellpadding="0" cellspacing="0" class="content">
+		<tr valign="top">
+			<td class="leftbar"><!--BEGIN SEARCH BOX-->
+<div class="greenbox">
+	<img src="/atd_images/greenbar_search_house_plans.jpg" width="205" height="27" class="greenbar_header">
+	<div class="greenbox_form">
+		<form name="leftbarsearch" action="/floorplans/" method="get">
+		<input name="action" type="hidden" value="Search">
+			<strong>Plan Name:</strong><br />
+			<input name="plan_name" type="text" class="greenbox_form long"><br />
+			<strong>Square Footage:</strong><br />
+			<input name="sqft_min"type="text" class="greenbox_form short"> to <input name="sqft_max"type="text" class="greenbox_form short">
+			<strong>Width of Plan (in ft):</strong><br />
+			<input name="width_min" type="text" class="greenbox_form short"> to <input name="width_max" type="text" class="greenbox_form short"><br />
+			<strong>Depth of Plan (in ft):</strong><br />
+			<input name="depth_min"type="text" class="greenbox_form short"> to <input name="depth_max" type="text" class="greenbox_form short"><br />
+			<strong>Type of Plan:</strong><br />
+			<select name="category_id" size="1" class="greenbox_form">
+				<option value="">&nbsp;</option>
+				<option value="1">Master Down</option>
+<option value="2">Ranch</option>
+<option value="3">Split Foyer</option>
+<option value="4">Split Level</option>
+<option value="5">Two-Story</option>
+<option value="6"></option>
+			</select>
+			<br /><img src="/atd_images/spacer.gif" border="0" height="5" width="1"><br />
+			<!--<div class="search_links"><a href="/searchhelp/">Search Help</a></div>-->
+			<input type="image" src="/atd_images/btn_search.gif" border="0" value="submit">
+			<div><strong><a href="/floorplans/">Advanced Search</a></strong> | <strong><a href="/searchhelp/">Help</a></strong></div>
+		</form>
+	</div>
+</div>
+<!--END SEARCH BOX-->
+<p>
+<!--BEGIN SEARCH CATEGORIES-->
+<div class="greenbox">
+<img src="/atd_images/greenbar_house_plan_styles.jpg" width="205" height="27" class="greenbar_header">
+<div class="greenbox_content">
+<a href="/bungalow-house-plans/">Bungalow House Plans</a><br />
+<a href="/cape-cod-house-plans/">Cape Cod House Plans</a><br />
+<a href="/coastal-house-plans/">Coastal House Plans</a><br />
+<a href="/colonial-house-plans/">Colonial House Plans</a><br />
+<a href="/cottage-house-plans/">Cottage House Plans</a><br />
+<a href="/country-house-plans/">Country House Plans</a><br />
+<a href="/craftsman-house-plans/">Craftsman House Plans</a><br />
+<a href="/custom-house-plans/">Custom House Plans</a><br />
+<a href="/european-house-plans/">European House Plans</a><br />
+<a href="/farmhouse-house-plans/">Farmhouse House Plans</a><br />
+<a href="/french-country-house-plans/">French Country House Plans</a><br />
+<a href="/georgian-house-plans/">Georgian House Plans</a><br />
+<a href="/luxury-house-plans/">Luxury House Plans</a><br />
+<a href="/narrow-lot-house-plans/">Narrow Lot House Plans</a><br />
+<a href="/ranch-house-plans/">Ranch House Plans</a><br />
+<a href="/small-house-plans/">Small House Plans</a><br />
+<a href="/southern-house-plans/">Southern House Plans</a><br />
+<a href="/traditional-house-plans/">Traditional House Plans</a><br />
+<a href="/tudor-house-plans/">Tudor House Plans</a><br />
+<a href="/victorian-house-plans/">Victorian House Plans</a><br />
+</div>
+</div>
+<p>
+<div class="greenbox">
+<img src="/atd_images/greenbar_search_house_plans_by_category.jpg" width="205" height="27" class="greenbar_header">
+<div class="greenbox_content">
+<strong>Plan Category:</strong><br />
+<a href="/bonus-room-house-plans/">Bonus Room House Plans</a><br />
+<a href="/courtyard-entry-house-plans/">Courtyard Entry House Plans</a><br />
+<a href="/house-plans-with-keeping-rooms/">House Plans w/ Keeping Rooms</a><br />
+<a href="/house-plans-with-lofts/">House Plans w/ Lofts</a><br />
+<a href="/house-plans-with-photos/">House Plans w/ Photos</a><br />
+<a href="/master-down-house-plans/">Master Down House Plans</a><br />
+<a href="/new-house-plans/">New House Plans</a><br />
+<a href="/one-story-house-plans/">One-Story House Plans</a><br />
+<a href="/split-foyer-house-plans/">Split Foyer House Plans</a><br />
+<a href="/two-story-house-plans/">Two-Story House Plans</a><br />
+<strong>Square Footage:</strong><br />
+<a href="/house-plans-1001-2000-sq-ft/">House Plans 1001-2000 Sq. Ft.</a><br />
+<a href="/house-plans-2001-3000-sq-ft/">House Plans 2001-3000 Sq. Ft.</a><br />
+<a href="/house-plans-3001-4000-sq-ft/">House Plans 3001-4000 Sq. Ft.</a><br />
+<a href="/house-plans-over-4000-sq-ft/">Plans Over 4000 Sq. Ft.</a>
+</div>
+</div>
+<!--END SEARCH CATEGORIES-->
+<p align="center">Proud Members of:</p>
+<p>
+<a href="http://www.ncbdc.com/" target="_blank"><img src="/atd_images/logo_triangle.gif" alt="National Council of Building Designer Certification" border="0" /></a><br />
+</p></td>
+			<td width="10">&nbsp;</td>
+			<td class="content">
+				<div class="top_nav"><p>
+<a href="/cart/" class="shop">Shopping Cart</a>
+|
+<a href="http://www.americangables.com/account/" class="shop">Log In</a>
+</p></div>
+<p>February 12, 2012</p>				<!--BEGIN CONTENT-->
+
+<h1>Modify This Plan</h1>
+<p><a href="http://www.websitealive7.com/1579/rRouter.asp?groupid=1579&amp;departmentid=" onclick="window.open('http://www.websitealive7.com/1579/rRouter.asp?groupid=1579&departmentid=','guest','width=450,height=400,left='+(screen.availWidth/2-225)+',top='+(screen.availHeight/2-200)+'');return false;"><img src="/uploads/pagesfiles/29.gif" border="0" alt="Live Chat" title="Live Chat" hspace="5" width="165" height="85" /></a></p><p>Please fill out the form below and receive a free modification estimate within two to four business days.&nbsp; Please feel free to print the brochure of the plan&nbsp;that you&nbsp;would like a modification&nbsp;request for,&nbsp;make the appropriate markups on the brochure and fax it back to us at 770-479-5413.&nbsp;If you have any questions with your plan modification request please contact our customer representatives via <a href="/forms/contactus/">email</a> , live chat, or at 1-866-681-5407.&nbsp; </p><form action="" method="post" name="form4" onSubmit="return isReady(form4);">
+		<input type="hidden" name="action" value="submit" />
+		<input type="hidden" name="f" value="modifythisplan" />
+		<table border="0" cellpadding="0" cellspacing="2">
+<input type="hidden" name="field25" value="dunwoody" /><tr>
+				 <td class="formlabel">*Name:</td>
+				 <td><input name="field26" type="text" class="formfield" value="" style="width: 250px;" /></td>
+				 </tr>
+<tr>
+				 <td class="formlabel">*Address:</td>
+				 <td><input name="field27" type="text" class="formfield" value="" style="width: 250px;" /></td>
+				 </tr>
+<tr>
+				 <td class="formlabel">*City:</td>
+				 <td><input name="field28" type="text" class="formfield" value="" style="width: 250px;" /></td>
+				 </tr>
+<tr>
+				 <td class="formlabel">*State:</td>
+				 <td><select name="field50" size="1" class="formfield">
+					 <option value=""></option>
+<option value="Alabama">Alabama</option>
+<option value="Alaska">Alaska</option>
+<option value="Arizona">Arizona</option>
+<option value="Arkansas">Arkansas</option>
+<option value="California">California</option>
+<option value="Colorado">Colorado</option>
+<option value="Connecticut">Connecticut</option>
+<option value="Delaware">Delaware</option>
+<option value="District of Columbia">District of Columbia</option>
+<option value="Florida">Florida</option>
+<option value="Georgia">Georgia</option>
+<option value="Hawaii">Hawaii</option>
+<option value="Idaho">Idaho</option>
+<option value="Illinois">Illinois</option>
+<option value="Indiana">Indiana</option>
+<option value="Iowa">Iowa</option>
+<option value="Kansas">Kansas</option>
+<option value="Kentucky">Kentucky</option>
+<option value="Louisiana">Louisiana</option>
+<option value="Maine">Maine</option>
+<option value="Maryland">Maryland</option>
+<option value="Massachusetts">Massachusetts</option>
+<option value="Michigan">Michigan</option>
+<option value="Minnesota">Minnesota</option>
+<option value="Mississippi">Mississippi</option>
+<option value="Missouri">Missouri</option>
+<option value="Montana">Montana</option>
+<option value="Nebraska">Nebraska</option>
+<option value="Nevada">Nevada</option>
+<option value="New Hampshire">New Hampshire</option>
+<option value="New Jersey">New Jersey</option>
+<option value="New Mexico">New Mexico</option>
+<option value="New York">New York</option>
+<option value="North Carolina">North Carolina</option>
+<option value="North Dakota">North Dakota</option>
+<option value="Ohio">Ohio</option>
+<option value="Oklahoma">Oklahoma</option>
+<option value="Oregon">Oregon</option>
+<option value="Pennsylvania">Pennsylvania</option>
+<option value="Rhode Island">Rhode Island</option>
+<option value="South Carolina">South Carolina</option>
+<option value="South Dakota">South Dakota</option>
+<option value="Tennessee">Tennessee</option>
+<option value="Texas">Texas</option>
+<option value="Utah">Utah</option>
+<option value="Vermont">Vermont</option>
+<option value="Virginia">Virginia</option>
+<option value="Washington">Washington</option>
+<option value="West Virginia">West Virginia</option>
+<option value="Wisconsin">Wisconsin</option>
+<option value="Wyoming">Wyoming</option>
+</select>
+</td>
+				 </tr>
+<tr>
+				 <td class="formlabel">*Zip Code:</td>
+				 <td><input name="field30" type="text" class="formfield" value="" style="width: 100px;" /></td>
+				 </tr>
+<tr>
+				 <td class="formlabel">*Email Address:</td>
+				 <td><input name="field31" type="text" class="formfield" value="" style="width: 250px;" /></td>
+				 </tr>
+<tr>
+				 <td class="formlabel">Telephone:</td>
+				 <td><input name="field32" type="text" class="formfield" value="" style="width: 250px;" /></td>
+				 </tr>
+<tr>
+				 <td class="formlabel">Fax Number:</td>
+				 <td><input name="field33" type="text" class="formfield" value="" style="width: 250px;" /></td>
+				 </tr>
+<tr>
+				 <td class="formlabel">Comments (type your modification description):</td>
+				 <td><textarea name="field34" class="formfield" style="width: 250px; height: 150px;" /></textarea></td>
+				 </tr>
+<td><div align='right'><strong>* 8 + 8 =</strong></div></td>
+<td colspan='2'><input name='mathquestion' type='text' id='mathquestion' size='5' class='formfield' /> <em>Help us stop spam!</em></td>
+<tr>
+<td>&nbsp;</td>
+	 <td><input type="submit" value="Submit Form" class="button" /></td>
+	 </tr>
+</table>
+</form>
+
+				<!-- END CONTENT -->
+			</td>
+		</tr>
+	</table>
+	</div>
+	</td>
+  </tr>
+  <tr>
+	<td class="footer_nav"><p>
+<a href="/">Home</a> |
+<a href="/floorplans/">House Plans</a> |
+<a href="/builderservices/">Services</a> |
+<a href="/aboutplans/">About Plans</a> |
+<a href="/aboutus/">About Company</a> |
+<a href="/faqs/">FAQs</a> |
+<a href="/links/">Links</a> |
+<a href="/forms/contactus/">Contact Us</a>
+<br />
+<a href="/jobopps/">Job Opportunities</a> |
+<a href="/orderinginfo/">Ordering Information</a> |
+<a href="/copyrights/">Copyrights</a> |
+<a href="/privacy/">Privacy Policy</a> |
+<a href="/sitemap/">Site Map</a>
+</p>
+
+<script type="text/javascript"><!--
+google_ad_client = "ca-pub-9410095703612993";
+/* AGHD */
+google_ad_slot = "2673122341";
+google_ad_width = 728;
+google_ad_height = 90;
+//-->
+</script>
+<script type="text/javascript"
+src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>
+
+<center><p><div id="googleCheckoutLogo"></div><script src='https://checkout.google.com/buttons/logos?merchant_id=420294893307834&loc=en_US&f=png' ></script>
+</p></center>
+<br /></td>
+  </tr>
+</table>
+<div class="copyright">
+	<p>770-479-5410 or call toll-free 866-681-5407 | <a href="mailto:info@americangables.com">info@americangables.com</a><br />
+	Copyright &copy; 2001-2012 American Gables Home Designs, Inc. All rights reserved.</p>
+		
+	<p align="center">
+	<strong>House Plan Resources</strong>
+	<a href="http://www.americangables.com/">House Plans</a> - American Gables Home Designs, Inc.</a><br />
+	<a href="http://www.houseplans.net/">House Plans</a> - America's Best House Plans</a><br />
+	<a href="http://www.designevolutions.com/index.html">Luxury house plans and custom home designs</a> at designevolutions.com<br />
+	<a href="http://www.avenuehomesga.com/">Custom Homes</a> and <a href="http://www.avenuehomesga.com/">Remodeling</a> at Avenue Homes of GA, Inc.<br>
+        <a href="http://www.garrellassociates.com">House Plans</a>-Garrell Associates, Inc.<br>
+	</p>
+</div>
+
+<script language="JavaScript1.2">
+
+/*
+Disable right click script II (on images)- By Dynamicdrive.com
+For full source, Terms of service, and 100s DTHML scripts
+Visit http://www.dynamicdrive.com
+*/
+
+var clickmessage="All images are copyrighted by American Gables Home Designs"
+
+function disableclick(e) {
+if (document.all) {
+if (event.button==2||event.button==3) {
+if (event.srcElement.tagName=="IMG"){
+alert(clickmessage);
+return false;
+}
+}
+}
+else if (document.layers) {
+if (e.which == 3) {
+alert(clickmessage);
+return false;
+}
+}
+else if (document.getElementById){
+if (e.which==3&&e.target.tagName=="IMG"){
+alert(clickmessage)
+return false
+}
+}
+}
+
+function associateimages(){
+for(i=0;i<document.images.length;i++)
+document.images[i].onmousedown=disableclick;
+}
+
+if (document.all)
+document.onmousedown=disableclick
+else if (document.getElementById)
+document.onmouseup=disableclick
+else if (document.layers)
+associateimages()
+</script>
+</body>
+</html>
+
+WARC/1.0
+WARC-Type: response
+WARC-Record-ID: <http://www.americangables.com/forms/modifythisplan/shelton/>
+WARC-Date: 20180523151542
+WARC-Target-URI: http://www.americangables.com/forms/modifythisplan/shelton/
+WARC-Language: ar
+Content-Type: application/http;msgtype=response
+Content-Length: 16977
+
+HTTP/1.1 200 OK
+Server: Apache/2.2
+Content-Type: text/html; charset=UTF-8
+Date: Sun, 12 Feb 2012 08:24:45 GMT
+Connection: close
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>Modify This Plan</title>
+<meta http-equiv="Content-Type" content="text/html;">
+<meta name="verify-v1" content="6HoxzqUiP440meznxWozCWZ9KINq8qJfJ7VIFk/k8Kw=" />
+<link href="/css/style.css" rel="stylesheet" type="text/css">
+<link href="http://www.americangables.com/favicon.ico" rel="SHORTCUT ICON"> 
+<script type="text/javascript" src="/inc/scripts.js"></script>
+<script type="text/javascript" src="/js/mouseover.js"></script>
+<script type='text/javascript'> 
+function Pop_Go(){return} 
+function PopMenu(x,y){return} 
+function OutMenu(){return} 
+</script> 
+<script type='text/javascript' src='/js/popmenu_var.js'></script>
+<script type='text/javascript' src='/js/popmenu_com.js'></script>
+<script language="javascript">
+<!--//
+
+function isReady() {
+if (document.form4.field26.value <= 1) {
+				  alert("Please complete Name:.");
+				  return false;
+				}
+else if (document.form4.field27.value <= 1) {
+				  alert("Please complete Address:.");
+				  return false;
+				}
+else if (document.form4.field28.value <= 1) {
+				  alert("Please complete City:.");
+				  return false;
+				}
+else if (document.form4.field50.options[document.form4.field50.selectedIndex].value == "") {
+			  alert("Please complete State:.");
+			  return false;
+			}
+else if (document.form4.field30.value <= 1) {
+				  alert("Please complete Zip Code:.");
+				  return false;
+				}
+else if (!(/^\w+([\.-]?\w+)*@\w+([\.-]?\w+)*(\.\w{2,3})+$/.test(document.form4.field31.value))) {
+					alert("Please fill in a valid e-mail address.");
+					return false;
+				}
+if (!check_math_question()) { return false; }
+else
+	return true;
+}
+function check_math_question() {
+if (document.getElementById('mathquestion').value == 9) { return true; } else {
+ alert('Please Answer the anti-spam Math Question (hint, the answer is 9)'); return false; }
+}
+//-->
+</script>
+</head>
+<body topmargin="0" onload="Pop_Go();">
+<p class="topmsg">Order Our House Plans via phone at 1-866-681-5407 Monday-Friday 9AM to 6PM</p>
+<table border="0" cellpadding="0" cellspacing="0" align="center" id="maintable">
+  <tr>
+	<td>
+	<div id="headerarea">
+	<div id="header"><a href="http://www.americangables.com/"><img src="/atd_images/header_left.jpg" width="363" height="120" border="0" alt="House Plans at American Gables Home Designs" /></a></div>
+</div>
+<div id="navarea" class="content">
+		<table border="0" cellpadding="2" cellspacing="0" width="100%" id="nav">
+		<tr>
+			<td><a href="http://www.americangables.com/">Home</a></td>
+			<td><span id="homePlans" onMouseOver="PopMenu('PopMenu1',event);" onMouseOut="OutMenu('PopMenu1');">House Plans</span></td>
+			<td><span id="services" onMouseOver="PopMenu('PopMenu2',event);" onMouseOut="OutMenu('PopMenu2');">Services</span></td>
+			<td><a href="http://www.americangables.com/aboutplans/">About Plans</a></td>
+			<td><a href="http://www.americangables.com/aboutus/">About Us</a></td>
+			<td><span id="planPhotos" onMouseOver="PopMenu('PopMenu3',event);" onMouseOut="OutMenu('PopMenu3');">House Plan Photos</span></td>
+			<td><a href="http://www.americangables.com/faqs/">FAQs</a></td>
+			<td><a href="http://www.americangables.com/links/">Links</a></td>
+			<td><a href="http://www.americangables.com/forms/contactus/">Contact</a></td>
+		</tr>
+	</table>
+</div>
+	<div class="body">
+	<table border="0" cellpadding="0" cellspacing="0" class="content">
+		<tr valign="top">
+			<td class="leftbar"><!--BEGIN SEARCH BOX-->
+<div class="greenbox">
+	<img src="/atd_images/greenbar_search_house_plans.jpg" width="205" height="27" class="greenbar_header">
+	<div class="greenbox_form">
+		<form name="leftbarsearch" action="/floorplans/" method="get">
+		<input name="action" type="hidden" value="Search">
+			<strong>Plan Name:</strong><br />
+			<input name="plan_name" type="text" class="greenbox_form long"><br />
+			<strong>Square Footage:</strong><br />
+			<input name="sqft_min"type="text" class="greenbox_form short"> to <input name="sqft_max"type="text" class="greenbox_form short">
+			<strong>Width of Plan (in ft):</strong><br />
+			<input name="width_min" type="text" class="greenbox_form short"> to <input name="width_max" type="text" class="greenbox_form short"><br />
+			<strong>Depth of Plan (in ft):</strong><br />
+			<input name="depth_min"type="text" class="greenbox_form short"> to <input name="depth_max" type="text" class="greenbox_form short"><br />
+			<strong>Type of Plan:</strong><br />
+			<select name="category_id" size="1" class="greenbox_form">
+				<option value="">&nbsp;</option>
+				<option value="1">Master Down</option>
+<option value="2">Ranch</option>
+<option value="3">Split Foyer</option>
+<option value="4">Split Level</option>
+<option value="5">Two-Story</option>
+<option value="6"></option>
+			</select>
+			<br /><img src="/atd_images/spacer.gif" border="0" height="5" width="1"><br />
+			<!--<div class="search_links"><a href="/searchhelp/">Search Help</a></div>-->
+			<input type="image" src="/atd_images/btn_search.gif" border="0" value="submit">
+			<div><strong><a href="/floorplans/">Advanced Search</a></strong> | <strong><a href="/searchhelp/">Help</a></strong></div>
+		</form>
+	</div>
+</div>
+<!--END SEARCH BOX-->
+<p>
+<!--BEGIN SEARCH CATEGORIES-->
+<div class="greenbox">
+<img src="/atd_images/greenbar_house_plan_styles.jpg" width="205" height="27" class="greenbar_header">
+<div class="greenbox_content">
+<a href="/bungalow-house-plans/">Bungalow House Plans</a><br />
+<a href="/cape-cod-house-plans/">Cape Cod House Plans</a><br />
+<a href="/coastal-house-plans/">Coastal House Plans</a><br />
+<a href="/colonial-house-plans/">Colonial House Plans</a><br />
+<a href="/cottage-house-plans/">Cottage House Plans</a><br />
+<a href="/country-house-plans/">Country House Plans</a><br />
+<a href="/craftsman-house-plans/">Craftsman House Plans</a><br />
+<a href="/custom-house-plans/">Custom House Plans</a><br />
+<a href="/european-house-plans/">European House Plans</a><br />
+<a href="/farmhouse-house-plans/">Farmhouse House Plans</a><br />
+<a href="/french-country-house-plans/">French Country House Plans</a><br />
+<a href="/georgian-house-plans/">Georgian House Plans</a><br />
+<a href="/luxury-house-plans/">Luxury House Plans</a><br />
+<a href="/narrow-lot-house-plans/">Narrow Lot House Plans</a><br />
+<a href="/ranch-house-plans/">Ranch House Plans</a><br />
+<a href="/small-house-plans/">Small House Plans</a><br />
+<a href="/southern-house-plans/">Southern House Plans</a><br />
+<a href="/traditional-house-plans/">Traditional House Plans</a><br />
+<a href="/tudor-house-plans/">Tudor House Plans</a><br />
+<a href="/victorian-house-plans/">Victorian House Plans</a><br />
+</div>
+</div>
+<p>
+<div class="greenbox">
+<img src="/atd_images/greenbar_search_house_plans_by_category.jpg" width="205" height="27" class="greenbar_header">
+<div class="greenbox_content">
+<strong>Plan Category:</strong><br />
+<a href="/bonus-room-house-plans/">Bonus Room House Plans</a><br />
+<a href="/courtyard-entry-house-plans/">Courtyard Entry House Plans</a><br />
+<a href="/house-plans-with-keeping-rooms/">House Plans w/ Keeping Rooms</a><br />
+<a href="/house-plans-with-lofts/">House Plans w/ Lofts</a><br />
+<a href="/house-plans-with-photos/">House Plans w/ Photos</a><br />
+<a href="/master-down-house-plans/">Master Down House Plans</a><br />
+<a href="/new-house-plans/">New House Plans</a><br />
+<a href="/one-story-house-plans/">One-Story House Plans</a><br />
+<a href="/split-foyer-house-plans/">Split Foyer House Plans</a><br />
+<a href="/two-story-house-plans/">Two-Story House Plans</a><br />
+<strong>Square Footage:</strong><br />
+<a href="/house-plans-1001-2000-sq-ft/">House Plans 1001-2000 Sq. Ft.</a><br />
+<a href="/house-plans-2001-3000-sq-ft/">House Plans 2001-3000 Sq. Ft.</a><br />
+<a href="/house-plans-3001-4000-sq-ft/">House Plans 3001-4000 Sq. Ft.</a><br />
+<a href="/house-plans-over-4000-sq-ft/">Plans Over 4000 Sq. Ft.</a>
+</div>
+</div>
+<!--END SEARCH CATEGORIES-->
+<p align="center">Proud Members of:</p>
+<p>
+<a href="http://www.ncbdc.com/" target="_blank"><img src="/atd_images/logo_triangle.gif" alt="National Council of Building Designer Certification" border="0" /></a><br />
+</p></td>
+			<td width="10">&nbsp;</td>
+			<td class="content">
+				<div class="top_nav"><p>
+<a href="/cart/" class="shop">Shopping Cart</a>
+|
+<a href="http://www.americangables.com/account/" class="shop">Log In</a>
+</p></div>
+<p>February 12, 2012</p>				<!--BEGIN CONTENT-->
+
+<h1>Modify This Plan</h1>
+<p><a href="http://www.websitealive7.com/1579/rRouter.asp?groupid=1579&amp;departmentid=" onclick="window.open('http://www.websitealive7.com/1579/rRouter.asp?groupid=1579&departmentid=','guest','width=450,height=400,left='+(screen.availWidth/2-225)+',top='+(screen.availHeight/2-200)+'');return false;"><img src="/uploads/pagesfiles/29.gif" border="0" alt="Live Chat" title="Live Chat" hspace="5" width="165" height="85" /></a></p><p>Please fill out the form below and receive a free modification estimate within two to four business days.&nbsp; Please feel free to print the brochure of the plan&nbsp;that you&nbsp;would like a modification&nbsp;request for,&nbsp;make the appropriate markups on the brochure and fax it back to us at 770-479-5413.&nbsp;If you have any questions with your plan modification request please contact our customer representatives via <a href="/forms/contactus/">email</a> , live chat, or at 1-866-681-5407.&nbsp; </p><form action="" method="post" name="form4" onSubmit="return isReady(form4);">
+		<input type="hidden" name="action" value="submit" />
+		<input type="hidden" name="f" value="modifythisplan" />
+		<table border="0" cellpadding="0" cellspacing="2">
+<input type="hidden" name="field25" value="shelton" /><tr>
+				 <td class="formlabel">*Name:</td>
+				 <td><input name="field26" type="text" class="formfield" value="" style="width: 250px;" /></td>
+				 </tr>
+<tr>
+				 <td class="formlabel">*Address:</td>
+				 <td><input name="field27" type="text" class="formfield" value="" style="width: 250px;" /></td>
+				 </tr>
+<tr>
+				 <td class="formlabel">*City:</td>
+				 <td><input name="field28" type="text" class="formfield" value="" style="width: 250px;" /></td>
+				 </tr>
+<tr>
+				 <td class="formlabel">*State:</td>
+				 <td><select name="field50" size="1" class="formfield">
+					 <option value=""></option>
+<option value="Alabama">Alabama</option>
+<option value="Alaska">Alaska</option>
+<option value="Arizona">Arizona</option>
+<option value="Arkansas">Arkansas</option>
+<option value="California">California</option>
+<option value="Colorado">Colorado</option>
+<option value="Connecticut">Connecticut</option>
+<option value="Delaware">Delaware</option>
+<option value="District of Columbia">District of Columbia</option>
+<option value="Florida">Florida</option>
+<option value="Georgia">Georgia</option>
+<option value="Hawaii">Hawaii</option>
+<option value="Idaho">Idaho</option>
+<option value="Illinois">Illinois</option>
+<option value="Indiana">Indiana</option>
+<option value="Iowa">Iowa</option>
+<option value="Kansas">Kansas</option>
+<option value="Kentucky">Kentucky</option>
+<option value="Louisiana">Louisiana</option>
+<option value="Maine">Maine</option>
+<option value="Maryland">Maryland</option>
+<option value="Massachusetts">Massachusetts</option>
+<option value="Michigan">Michigan</option>
+<option value="Minnesota">Minnesota</option>
+<option value="Mississippi">Mississippi</option>
+<option value="Missouri">Missouri</option>
+<option value="Montana">Montana</option>
+<option value="Nebraska">Nebraska</option>
+<option value="Nevada">Nevada</option>
+<option value="New Hampshire">New Hampshire</option>
+<option value="New Jersey">New Jersey</option>
+<option value="New Mexico">New Mexico</option>
+<option value="New York">New York</option>
+<option value="North Carolina">North Carolina</option>
+<option value="North Dakota">North Dakota</option>
+<option value="Ohio">Ohio</option>
+<option value="Oklahoma">Oklahoma</option>
+<option value="Oregon">Oregon</option>
+<option value="Pennsylvania">Pennsylvania</option>
+<option value="Rhode Island">Rhode Island</option>
+<option value="South Carolina">South Carolina</option>
+<option value="South Dakota">South Dakota</option>
+<option value="Tennessee">Tennessee</option>
+<option value="Texas">Texas</option>
+<option value="Utah">Utah</option>
+<option value="Vermont">Vermont</option>
+<option value="Virginia">Virginia</option>
+<option value="Washington">Washington</option>
+<option value="West Virginia">West Virginia</option>
+<option value="Wisconsin">Wisconsin</option>
+<option value="Wyoming">Wyoming</option>
+</select>
+</td>
+				 </tr>
+<tr>
+				 <td class="formlabel">*Zip Code:</td>
+				 <td><input name="field30" type="text" class="formfield" value="" style="width: 100px;" /></td>
+				 </tr>
+<tr>
+				 <td class="formlabel">*Email Address:</td>
+				 <td><input name="field31" type="text" class="formfield" value="" style="width: 250px;" /></td>
+				 </tr>
+<tr>
+				 <td class="formlabel">Telephone:</td>
+				 <td><input name="field32" type="text" class="formfield" value="" style="width: 250px;" /></td>
+				 </tr>
+<tr>
+				 <td class="formlabel">Fax Number:</td>
+				 <td><input name="field33" type="text" class="formfield" value="" style="width: 250px;" /></td>
+				 </tr>
+<tr>
+				 <td class="formlabel">Comments (type your modification description):</td>
+				 <td><textarea name="field34" class="formfield" style="width: 250px; height: 150px;" /></textarea></td>
+				 </tr>
+<td><div align='right'><strong>* 4 + 5 =</strong></div></td>
+<td colspan='2'><input name='mathquestion' type='text' id='mathquestion' size='5' class='formfield' /> <em>Help us stop spam!</em></td>
+<tr>
+<td>&nbsp;</td>
+	 <td><input type="submit" value="Submit Form" class="button" /></td>
+	 </tr>
+</table>
+</form>
+
+				<!-- END CONTENT -->
+			</td>
+		</tr>
+	</table>
+	</div>
+	</td>
+  </tr>
+  <tr>
+	<td class="footer_nav"><p>
+<a href="/">Home</a> |
+<a href="/floorplans/">House Plans</a> |
+<a href="/builderservices/">Services</a> |
+<a href="/aboutplans/">About Plans</a> |
+<a href="/aboutus/">About Company</a> |
+<a href="/faqs/">FAQs</a> |
+<a href="/links/">Links</a> |
+<a href="/forms/contactus/">Contact Us</a>
+<br />
+<a href="/jobopps/">Job Opportunities</a> |
+<a href="/orderinginfo/">Ordering Information</a> |
+<a href="/copyrights/">Copyrights</a> |
+<a href="/privacy/">Privacy Policy</a> |
+<a href="/sitemap/">Site Map</a>
+</p>
+
+<script type="text/javascript"><!--
+google_ad_client = "ca-pub-9410095703612993";
+/* AGHD */
+google_ad_slot = "2673122341";
+google_ad_width = 728;
+google_ad_height = 90;
+//-->
+</script>
+<script type="text/javascript"
+src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>
+
+<center><p><div id="googleCheckoutLogo"></div><script src='https://checkout.google.com/buttons/logos?merchant_id=420294893307834&loc=en_US&f=png' ></script>
+</p></center>
+<br /></td>
+  </tr>
+</table>
+<div class="copyright">
+	<p>770-479-5410 or call toll-free 866-681-5407 | <a href="mailto:info@americangables.com">info@americangables.com</a><br />
+	Copyright &copy; 2001-2012 American Gables Home Designs, Inc. All rights reserved.</p>
+		
+	<p align="center">
+	<strong>House Plan Resources</strong>
+	<a href="http://www.americangables.com/">House Plans</a> - American Gables Home Designs, Inc.</a><br />
+	<a href="http://www.houseplans.net/">House Plans</a> - America's Best House Plans</a><br />
+	<a href="http://www.designevolutions.com/index.html">Luxury house plans and custom home designs</a> at designevolutions.com<br />
+	<a href="http://www.avenuehomesga.com/">Custom Homes</a> and <a href="http://www.avenuehomesga.com/">Remodeling</a> at Avenue Homes of GA, Inc.<br>
+        <a href="http://www.garrellassociates.com">House Plans</a>-Garrell Associates, Inc.<br>
+	</p>
+</div>
+
+<script language="JavaScript1.2">
+
+/*
+Disable right click script II (on images)- By Dynamicdrive.com
+For full source, Terms of service, and 100s DTHML scripts
+Visit http://www.dynamicdrive.com
+*/
+
+var clickmessage="All images are copyrighted by American Gables Home Designs"
+
+function disableclick(e) {
+if (document.all) {
+if (event.button==2||event.button==3) {
+if (event.srcElement.tagName=="IMG"){
+alert(clickmessage);
+return false;
+}
+}
+}
+else if (document.layers) {
+if (e.which == 3) {
+alert(clickmessage);
+return false;
+}
+}
+else if (document.getElementById){
+if (e.which==3&&e.target.tagName=="IMG"){
+alert(clickmessage)
+return false
+}
+}
+}
+
+function associateimages(){
+for(i=0;i<document.images.length;i++)
+document.images[i].onmousedown=disableclick;
+}
+
+if (document.all)
+document.onmousedown=disableclick
+else if (document.getElementById)
+document.onmouseup=disableclick
+else if (document.layers)
+associateimages()
+</script>
+</body>
+</html>
+

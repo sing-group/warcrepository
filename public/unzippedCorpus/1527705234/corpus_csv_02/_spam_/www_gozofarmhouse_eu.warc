@@ -1,0 +1,1065 @@
+WARC/1.0
+WARC-Type: warcinfo
+WARC-Date: 2018-05-30T18:18:32Z
+WARC-All-Language: en
+WARC-All-Content_type: text/html
+WARC-Record-ID: <urn:uuid:2eb85c2e-6211-4af9-912b-9ea632436fc2>
+Content-Type: application/http;msgtype=response
+Content-Length: 46
+
+WARCProcessor by SING Group www.sing-group.com
+
+WARC/1.0
+WARC-Type: response
+WARC-Target-URI: http://www.gozofarmhouse.eu
+WARC-Date: 20180530181832
+WARC-Language: en
+WARC-Record-ID: <http://www.gozofarmhouse.eu>
+Content-Type: application/http;msgtype=response
+Content-Length: 46669
+
+HTTP/1.1 200
+Content-Type:text/html
+
+
+<!DOCTYPE html>
+<!--[if IE 7]>
+<html class="ie ie7 no-js" lang="en-US">
+<![endif]-->
+<!--[if IE 8]>
+<html class="ie ie8 no-js" lang="en-US">
+<![endif]-->
+<!--[if !(IE 7) | !(IE 8)  ]><!-->
+<html lang="en" class="no-js">
+	<head>
+		<!-- Basic needs -->	
+		<meta charset="utf-8">	
+		<meta name="description" content="">
+		<meta name="keywords" content="gozo holiday services, gozo accommodation, gozo letting, gozo farmhouses, gozo apartments, gozo flats, malta farmhouses, malta villas, gozo villas, rent, apartments, flats, self catering, houses of character, gozo property, marsalforn, xlendi, xaghra, nadur, qala, ghajnsielem, xewkija, victoria, sannat, munxar, victoria, kercem, santa lucia, dwejra, mgarr, car hire, transport, transfers, malta tours, gozo tours">
+		<meta name="author" content="This farmhouse is situated in a quiet alley in the village of Gharb. Entrance is via its own carport. Traditional décor with stone arched ceilings add to the rustic charm. Both Dining / Kitchen and Living area overlooks the large south facing pool area.">
+
+		<link rel="shortcut icon" href="images/favicon.ico">
+		<title>Tal-Masklu Farmouse - Gozo Malta Holiday Villa</title>
+
+		<!-- Mobile specific meta -->
+		<meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0">
+		<meta name="format-detection" content="telephone-no">
+
+		<!-- CSS files -->
+		<link rel="stylesheet" href="css/style-roman.css">
+		<!-- You can remove these 2 line when implement on your product -->
+		<!-- <link rel="stylesheet" href="css/style-switcher.css">
+		<link rel="stylesheet" href="#" id="preview-color"> -->
+
+		<!-- JS Files -->
+		<script type="text/javascript" src="js/jquery.js"></script>
+
+		<!-- Fonts -->				
+		<link href='http://fonts.googleapis.com/css?family=Oswald:300,400,700' rel='stylesheet' type='text/css'>
+		<link href='http://fonts.googleapis.com/css?family=Lato:300,400,700' rel='stylesheet' type='text/css'>
+		<link href="//maxcdn.bootstrapcdn.com/font-awesome/4.1.0/css/font-awesome.min.css" rel="stylesheet">
+        
+        
+        
+<link href="calendar2/calendar.css" rel="stylesheet" type="text/css" />
+<style type="text/css">
+.desctext {font-size: 11px;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+}
+</style>
+<script language="javascript" src="calendar2/calendar.js"></script>
+
+<script src="mail/req.js"></script>
+<script type="text/javascript" src="mail/md5.js"></script>
+<script type="text/javascript" src="mail/jcap.js"></script>
+<script type="text/javascript" src="mail/confmess.js"></script>
+
+	</head>
+
+	<body>
+		<!-- HT-PRELOAD -->
+		<div id="ht-preload">
+			<div class="inner">
+				<div class="animation-container">
+					<div class="loader"></div>
+				</div>
+			</div><!-- //inner -->
+		</div><!-- //#ht-preload -->
+
+		<!-- HT-TOP-AREA -->
+		<div id="ht-top-area" class="slide-background" data-auto="true" data-effect="slide" data-navi="true" data-pager="false">
+			<div class="overlay" style="background-color: rgba(0,0,0,0.3);"></div>
+			<div class="flexslider">
+				<ul class="slides">
+					<li style="background-image:url('images/img/head1.jpg')"></li>
+					<li style="background-image:url('images/img/head2.jpg')"></li>
+					<li style="background-image:url('images/img/head3.jpg')"></li>
+				</ul>
+			</div>
+			<div class="ht-top-content">
+				<div class="text">					
+					<h1>GozoFarmhouse.eu</h1>
+					<p><span class="ht-highlight">Tal-Masklu Farmhouse</span> - Gozo - luxury holiday accommodation</p>
+					<a class="next-section scroll-to" href="#villa"><span class="glyphicon glyphicon-chevron-down"></span></a>
+				</div>
+			</div>
+			<!-- //ht-top-content -->
+		</div>
+		<!-- //HT-TOP-AREA -->
+
+		<!-- HEADER -->
+		<header id="ht-header" class="dark-navigation">
+			<div class="container">
+				<div class="row">
+					<div id="ht-site-brand" class="ht-site-brand col-md-2">
+						<a href="index.html" rel="home"><img src="images/masklu_logo.png" alt=""></a>
+					</div>
+
+					<button type="button" class="ht-navbar-toggle center-block" data-target="#ht-navigation">
+						<span class="sr-only">Toggle navigation</span>
+						<span class="icon-bar"></span>
+						<span class="icon-bar"></span>
+						<span class="icon-bar"></span>
+					</button>
+
+					<nav id="ht-navigation" class="col-md-10">
+						<ul>
+							
+                            <li><a href="index.html">Home</a></li>
+							<li><a href="#villa">The Villa</a></li>
+							<li><a href="#rates">Rates</a></li>
+							<li><a href="#services">Services</a></li>
+							<!--<li><a href="#portfolio">About Gozo</a></li>-->
+							<li><a href="#booking">Booking Request</a></li>
+							<li><a href="#contact">Contact</a></li>
+							
+						</ul>
+					</nav><!-- //site-navigation -->
+				</div><!-- //row -->
+			</div><!-- //container -->
+		</header>
+		<!-- //HEADER -->
+
+		<!-- HT-CONTAINER -->
+		<div id="ht-container">
+        
+        
+        <!-- VILLA -->
+			<section id="villa" class="ht-page">
+				<header class="heading-area">
+					<div class="container">
+						<div class="row">
+							<h2><span>The Villa</span></h2>
+							<p class="col-md-10 col-md-offset-1">Tal-Masklu Farmhouse - Gharb - Gozo - Malta</p>
+						</div><!-- //row -->
+					</div><!-- //container -->
+				</header><!-- //heading-area -->
+
+				<div id="section-feature" class="ht-section">
+					<div class="container">
+						<div class="row masonry-layout">
+							<div class="service col-md-6 col-sm-6">
+								
+							  <div class="text">
+								<h3>ABOUT</h3>
+								  <p>This newly converted farmhouse oozes in character. This farmhouse is situated in a quiet alley in the village of Gharb. Entrance is via its own carport. Traditional décor with stone arched ceilings add to the rustic charm. Both Dining / Kitchen and Living area overlooks the large south facing pool area. One twin bedroom is situated on ground floor, whereas the rest of the bedrooms are situated on the 1st floor.</p>
+								</div>
+							</div>
+							<div class="service col-md-6 col-sm-6">
+								
+							  <div class="text">
+									<h3>LOCATION</h3>
+								<p>Malta's sister island of Gozo provides a tranquil haven and scene change. Greener, more rural and smaller than Malta, life on Gozo moves at a leisurely pace. </p>
+                                    <p>Gharb lies in some of Gozo's most delightful countryside, particularly at Dbiegi, the highest hill on the Island. Also at Dbiegi is a centre for Gozitan crafts. Within the limits of Gharb is the quaint Chapel of San Dimitri. According to legend, the first chapel was built on the cliff side by a woman whose son was freed from captivity by St. Demetrius. Also nearby is the Basilica ta' Pinu, Malta's pre-eminent shrine to the Virgin Mary. It was on this spot in 1883 that a local woman heard the voice of the Virgin. </p>
+                                								
+								</div>
+							</div>
+							<div class="service col-md-6 col-sm-6">
+								
+							  <div class="text">
+									<h3>INCLUDES</h3>
+                                    
+                                    <ul>
+									<li><i class="fa fa-check"></i> Fully Equipped Kitchen / Dining</li>
+									<li><i class="fa fa-check"></i> Sitting Area with fireplace</li>
+									<li><i class="fa fa-check"></i> 4 Bedrooms (all with coin meter air conditioning)</li>
+									<li><i class="fa fa-check"></i> Sleeps up to 10 persons</li>
+									<li><i class="fa fa-check"></i> 2 En-suites</li>
+									<li><i class="fa fa-check"></i> 2 Extra bathrooms</li> 
+                                   	<li><i class="fa fa-check"></i> Washing Machine</li>
+									<li><i class="fa fa-check"></i> Wood Fireplace</li>
+									<li><i class="fa fa-check"></i> Pool & Garden Furniture</li>
+									<li><i class="fa fa-check"></i> Barbecue</li>
+									<li><i class="fa fa-check"></i> T.V Satellite + Video</li>
+									<li><i class="fa fa-check"></i> Cleaning Service</li>
+									<li><i class="fa fa-check"></i> Free Internet Connection</li>
+								                             
+								</ul>
+								
+								</div>
+							</div>
+							<div class="service col-md-6 col-sm-6">
+								
+								<div class="text">
+									<h3>AVAILABILITY CALENDAR</h3>
+           <div>
+           <div style="float:left;">                          
+		
+        <object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" codebase="http://fpdownload.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=8,0,0,0" width="280" height="234" align="middle">
+<param name="allowScriptAccess" value="always" />
+<param name="movie" value="http://www.gozofarmhouse.eu/calendar/calendar.swf?phpURL=www.gozofarmhouse.eu/calendar/calendar-data.php&cid=2&owner=phpjabbers.com" />
+<param name="quality" value="high" />
+<embed src="http://www.gozofarmhouse.eu/calendar/calendar.swf?phpURL=www.gozofarmhouse.eu/calendar/calendar-data.php&cid=2&owner=phpjabbers.com" quality="high" width="280" height="234" align="middle" allowScriptAccess="always" type="application/x-shockwave-flash" pluginspage="http://www.macromedia.com/go/getflashplayer" />
+</object>
+</div>
+
+<div style="float:left; margin-top:10px;">
+		 
+		 <p> <img src="images/available.gif" width="25" height="18" align="left" HSPACE="10" />  Farmhouse Available </p>
+         <p> <img src="images/Not_Available.gif" width="25" height="18" align="left" HSPACE="10"/>  Farmhouse NOT Available  </p>
+    	
+    </div>
+    
+   
+      <div style="clear:both; text-align:center;">
+    <p><a href="http://www.gozofarmhouse.eu/calendar/12months.php?cid=2" target="_blank">View 12 Month Availability Calendar</a></p>
+  	</div>
+       </div>
+    
+								</div>
+							</div>
+						</div><!-- //row -->
+					</div><!-- //container -->
+				</div><!-- //section-feature -->						
+
+				<div id="section-testimonial" class="ht-section">
+					<div class="container">
+						<div class="row">
+							<div class="title-area col-md-12">
+								<h4>CLICK ON IMAGE MAGNIFER TO ENLARGE</h4>
+								<span class="sub-title">TAL-MASKLU FARMHOUSE PHOTOS</span>
+							</div>
+
+							<!-- //content -->
+						</div><!-- //row -->
+					</div><!-- //container -->
+                    
+                    <div class="col-xs-12">
+							<ul class="ht-lightbox-gallery masonry-layout">
+								<li class="col-md-2 col-sm-3 col-xs-6"><img src="images/placeholder/1.jpg" alt="Tal Masklu Farmhouse, Gharb Gozo Malta."></li>
+								<li class="col-md-2 col-sm-3 col-xs-6"><img src="images/placeholder/2.jpg" alt="Tal Masklu Farmhouse, Gharb Gozo Malta."></li>
+								<li class="col-md-2 col-sm-3 col-xs-6"><img src="images/placeholder/3.jpg" alt="Tal Masklu Farmhouse, Gharb Gozo Malta."></li>
+								<li class="col-md-2 col-sm-3 col-xs-6"><img src="images/placeholder/4.jpg" alt="Tal Masklu Farmhouse, Gharb Gozo Malta."></li>
+								<li class="col-md-2 col-sm-3 col-xs-6"><img src="images/placeholder/5.jpg" alt="Tal Masklu Farmhouse, Gharb Gozo Malta."></li>
+								<li class="col-md-2 col-sm-3 col-xs-6"><img src="images/placeholder/6.jpg" alt="Tal Masklu Farmhouse, Gharb Gozo Malta."></li>
+								
+								<li class="col-md-2 col-sm-3 col-xs-6"><img src="images/placeholder/8.jpg" alt="Tal Masklu Farmhouse, Gharb Gozo Malta."></li>
+								<li class="col-md-2 col-sm-3 col-xs-6"><img src="images/placeholder/9.jpg" alt="Tal Masklu Farmhouse, Gharb Gozo Malta."></li>
+								<li class="col-md-2 col-sm-3 col-xs-6"><img src="images/placeholder/10.jpg" alt="Tal Masklu Farmhouse, Gharb Gozo Malta."></li>
+								<li class="col-md-2 col-sm-3 col-xs-6"><img src="images/placeholder/11.jpg" alt="Tal Masklu Farmhouse, Gharb Gozo Malta."></li>
+                                
+								<li class="col-md-2 col-sm-3 col-xs-6"><img src="images/placeholder/13.jpg" alt="Tal Masklu Farmhouse, Gharb Gozo Malta."></li>
+								<li class="col-md-2 col-sm-3 col-xs-6"><img src="images/placeholder/14.jpg" alt="Tal Masklu Farmhouse, Gharb Gozo Malta."></li>
+								<li class="col-md-2 col-sm-3 col-xs-6"><img src="images/placeholder/15.jpg" alt="Tal Masklu Farmhouse, Gharb Gozo Malta."></li>                              
+								<li class="col-md-2 col-sm-3 col-xs-6"><img src="images/placeholder/16.jpg" alt="Tal Masklu Farmhouse, Gharb Gozo Malta."></li>
+                                
+                                <li class="col-md-2 col-sm-3 col-xs-6"><img src="images/placeholder/18.jpg" alt="Tal Masklu Farmhouse, Gharb Gozo Malta."></li>
+                                <li class="col-md-2 col-sm-3 col-xs-6"><img src="images/placeholder/19.jpg" alt="Tal Masklu Farmhouse, Gharb Gozo Malta."></li>
+                                <li class="col-md-2 col-sm-3 col-xs-6"><img src="images/placeholder/20.jpg" alt="Tal Masklu Farmhouse, Gharb Gozo Malta."></li>
+                                
+                                <li class="col-md-2 col-sm-3 col-xs-6"><img src="images/placeholder/21.jpg" alt="Tal Masklu Farmhouse, Gharb Gozo Malta."></li>
+                                <li class="col-md-2 col-sm-3 col-xs-6"><img src="images/placeholder/22.jpg" alt="Tal Masklu Farmhouse, Gharb Gozo Malta."></li>
+						
+							</ul>
+						</div>     
+                        
+				</div><!-- //section-testimonial -->
+
+			</section>
+       
+			<!-- //VILLA -->
+        
+        
+        
+				
+
+			
+
+			<!-- RATES -->
+			<section id="rates" class="ht-page">
+				<header class="heading-area">
+					<div class="container">
+						<div class="row">
+							<h2><span>Rates</span></h2>
+							<p class="col-md-10 col-md-offset-1">Please Note: Prices are set on a minimum of 4 night stay.</p>
+						</div><!-- //row -->
+					</div><!-- //container -->
+				</header><!-- //heading-area -->
+
+				<div id="section-member" class="ht-section">
+					<div class="container">
+						<div class="row shortcode-row">
+						  <div class="col-xs-12">
+							<h4>Rental Prices:</h4>
+							<br>
+						</div>
+                        <!-- /col-sm-3 -->
+						<div class="col-sm-3">
+							<ul class="ht-list ht-glyph single-right-pointing">
+                            <h4>7th January till 30th April</h4>
+								<li>4 persons - €100 / night</li>
+								<li>5 persons - €120 / night</li>
+								<li>6 persons - €140 / night</li>
+                                <li>7 persons - €160 / night</li>
+								<li>8 persons - €180 / night</li>
+
+							</ul>
+						</div>
+
+						<!-- /col-sm-3 -->
+						<div class="col-sm-3">
+                        <h4>1st May till 30th June </h4>
+							<ul class="ht-list ht-glyph single-right-pointing">
+								<li>4 persons - €120 / night</li>
+								<li>5 persons - €140 / night</li>
+								<li>6 persons - €160 / night</li>
+                                <li>7 persons - €180 / night</li>
+								<li>8 persons - €200 / night</li>
+
+							</ul>
+						</div>
+						<!-- /col-sm-3 -->
+						<div class="col-sm-3">
+                        <h4>1st July till 31st August</h4>
+							<ul class="ht-list ht-glyph single-right-pointing">
+								<li>4 persons - €200 / night</li>
+								<li>5 persons - €220 / night</li>
+								<li>6 persons - €240 / night</li>
+                                <li>7 persons - €260 / night</li>
+								<li>8 persons - €280 / night</li>
+
+							</ul>
+						</div>
+						<!-- /col-sm-3 -->
+						<div class="col-sm-3">
+                        <h4>1st September till  30th September</h4>
+							<ul class="ht-list ht-glyph single-right-pointing">
+							  <li>4 persons - €120 / night</li>
+								<li>5 persons - €140 / night</li>
+								<li>6 persons - €160 / night</li>
+                                <li>7 persons - €180 / night</li>
+								<li>8 persons - €200 / night</li>
+
+						  </ul>
+						</div>
+                        <!-- /col-sm-3 -->
+						<div class="col-sm-3">
+                        <h4>1st October till  23rd December</h4>
+							<ul class="ht-list ht-glyph single-right-pointing">
+							  <li>4 persons - €100 / night</li>
+								<li>5 persons - €120 / night</li>
+								<li>6 persons - €140 / night</li>
+                                <li>7 persons - €160 / night</li>
+								<li>8 persons - €180 / night</li>
+
+						  </ul>
+						</div>
+                        <!-- /col-sm-3 -->
+						<div class="col-sm-3">
+                        <h4>24th December till 6th January</h4>
+							<ul class="ht-list ht-glyph single-right-pointing">
+							  <li>4 persons - €150 / night</li>
+								<li>5 persons - €170 / night</li>
+								<li>6 persons - €190 / night</li>
+                                <li>7 persons - €210 / night</li>
+								<li>8 persons - €230 / night</li>
+
+						  </ul>
+						</div>
+
+					</div><!-- //row -->
+					</div><!-- container -->
+				</div><!-- //section-member -->
+			</section>
+			
+            <!-- //RATES -->
+
+			<!-- PARALLAX SECTION 2 -->
+			<!-- PARALLAX SECTION 2 -->
+
+			<!-- SERVICES -->
+			<section id="services" class="ht-page">
+				<header class="heading-area">
+					<div class="container">
+						<div class="row">
+							<h2><span>Services</span></h2>
+							<p class="col-md-10 col-md-offset-1">We want your stay in Gozo to be as relaxing as possible. This is why along with accommodation we can take care any other services you may need during your stay in Gozo. So when you come visit our sunny island all you need to do is lay back and relax! If you require any other services not listed below feel free to <a href="#contact">contact us...</a></p>
+						</div><!-- //row -->
+					</div><!-- //container -->
+				</header><!-- //heading-area -->
+
+				<div id="section-feature" class="ht-section">
+					<div class="container">
+						<div class="row masonry-layout">
+							<div class="service col-md-6 col-sm-6">
+								<i class="fa fa-car"></i>
+								<div class="text">
+									<h3>Car Hire</h3>
+									<p>Choose from a wide fleet of the latest model cars which can be provided with or without airconditioning, power steering and automatic transmission. We have small or large cars and depending on the size of your group we have people carriers and mini buses for hire as well. For the more adventurous, we have 4x4 Jeeps - to reach the parts of the island that are inaccessible otherwise.</p>
+								</div>
+							</div>
+							<div class="service col-md-6 col-sm-6">
+								<i class="fa fa-plane"></i>
+								<div class="text">
+									<h3>Airport Transfers</h3>
+									<p>We offer a dependable service for any number of persons, at any time, meeting you on your arrival at Malta International Airport and driving you and your luggage, hassle free, via ferry straight to your accommodation in Gozo and vice versa. You can just sit back and enjoy the first moments on the Maltese Islands while we take care of the rest. Transportation to/from anywhere in Gozo, from your place of accommodation to nightclubs and restaurants are available for you at any time even very late.</p>
+								</div>
+							</div>
+						</div><!-- //row -->
+					</div><!-- //container -->
+				</div><!-- //section-feature --><!-- //section-testimonial -->
+			</section>
+			<!-- //SERVICES -->
+
+			<!-- PARALLAX SECTION 3 -->			
+			<div class="ht-parallax-section" style="background-image: url(images/img/DSC_8198e.jpg);" data-ht-parallax="500">
+				<div class="overlay"></div><!-- //content -->
+			</div>
+			<!-- PARALLAX SECTION 3 -->
+
+		<!-- PORTFOLIO 
+			<section id="portfolio" class="ht-page">
+				<header class="heading-area">
+					<div class="container">
+						<div class="row">
+							<h2><span>About Gozo</span></h2>
+							<p class="col-md-10 col-md-offset-1">Suspendise potenti. Integer placerat eget velit vel gravida. Ut egestas fringilla lutpat elementum ligula sed diam.</p>
+						</div>
+					</div>
+				</header>
+
+				<div id="section-portfolio" class="ht-section">
+					<div class="sortbar">
+						<div class="container">
+							<ul id="filter-controller">
+								<li><a href="#" class="ht-button default large rounded float" data-filter="*">All</a></li>
+								<li><a href="#" class="ht-button default large rounded float" data-filter=".web-design">Web Design</a></li>
+								<li><a href="#" class="ht-button default large rounded float" data-filter=".branding">Branding</a></li>
+								<li><a href="#" class="ht-button default large rounded float" data-filter=".photographic">Photography</a></li>
+							</ul>
+						</div>
+					</div>
+
+					<div class="portfolio-single">
+						<div class="container">
+							<div class="port-loading">
+								<img src="images/ajax-loading-1.gif" alt="">
+							</div>
+							<div class="port-control">
+								<div class="port-direction">
+									<a href="#" class="fa fa-chevron-left prev"></a>
+									<a href="#" class="fa fa-chevron-right next"></a>
+								</div>
+								<a class="port-close fa fa-times"></a>
+							</div>
+							<div class="port-content row">
+								
+							</div>
+						</div>
+					</div>
+
+					<div class="portfolio-grid homepage" id="filter-container">
+						<div class="portfolio-item web-design">
+							<div class="inner">
+								<a href="ajax-portfolio-demo/port-1.html">
+									<span class="overlay"></span>
+									<div class="name">
+										<p>Lorem ipsum dolor sit amet</p>
+										<span></span>
+										<ul class="categories">
+											<li>Design</li>
+											<li>Photography</li>
+										</ul>
+									</div>
+									<img src="images/placeholder/768x512.gif" alt="" />
+								</a>
+							</div>
+						</div>
+						<div class="portfolio-item branding">
+							<div class="inner">
+								<a href="ajax-portfolio-demo/port-2.html">
+									<span class="overlay"></span>
+									<div class="name">
+										<p>Lorem ipsum dolor sit amet</p>
+										<span></span>
+										<ul class="categories">
+											<li>Design</li>
+											<li>Photography</li>
+										</ul>
+									</div>
+									<img src="images/placeholder/768x512.gif" alt="" />
+								</a>
+							</div>
+						</div>
+						<div class="portfolio-item photographic web-design">
+							<div class="inner">
+								<a href="ajax-portfolio-demo/port-3.html">
+									<span class="overlay"></span>
+									<div class="name">
+										<p>Lorem ipsum dolor sit amet</p>
+										<span></span>
+										<ul class="categories">
+											<li>Design</li>
+											<li>Photography</li>
+										</ul>
+									</div>
+									<img src="images/placeholder/768x512.gif" alt="" />
+								</a>
+							</div>
+						</div>
+						<div class="portfolio-item web-design">
+							<div class="inner">
+								<a href="ajax-portfolio-demo/port-1.html">
+									<span class="overlay"></span>
+									<div class="name">
+										<p>Lorem ipsum dolor sit amet</p>
+										<span></span>
+										<ul class="categories">
+											<li>Design</li>
+											<li>Photography</li>
+										</ul>
+									</div>
+									<img src="images/placeholder/768x512.gif" alt="" />
+								</a>
+							</div>
+						</div>
+						<div class="portfolio-item branding">
+							<div class="inner">
+								<a href="ajax-portfolio-demo/port-2.html">
+									<span class="overlay"></span>
+									<div class="name">
+										<p>Lorem ipsum dolor sit amet</p>
+										<span></span>
+										<ul class="categories">
+											<li>Design</li>
+											<li>Photography</li>
+										</ul>
+									</div>
+									<img src="images/placeholder/768x512.gif" alt="" />
+								</a>
+							</div>
+						</div>
+						<div class="portfolio-item web-design photographic">
+							<div class="inner">
+								<a href="ajax-portfolio-demo/port-3.html">
+									<span class="overlay"></span>
+									<div class="name">
+										<p>Lorem ipsum dolor sit amet</p>
+										<span></span>
+										<ul class="categories">
+											<li>Design</li>
+											<li>Photography</li>
+										</ul>
+									</div>
+									<img src="images/placeholder/768x512.gif" alt="" />
+								</a>
+							</div>
+						</div>
+						<div class="portfolio-item web-design">
+							<div class="inner">
+								<a href="ajax-portfolio-demo/port-1.html">
+									<span class="overlay"></span>
+									<div class="name">
+										<p>Lorem ipsum dolor sit amet</p>
+										<span></span>
+										<ul class="categories">
+											<li>Design</li>
+											<li>Photography</li>
+										</ul>
+									</div>
+									<img src="images/placeholder/768x512.gif" alt="" />
+								</a>
+							</div>
+						</div>
+						<div class="portfolio-item branding photographic">
+							<div class="inner">
+								<a href="ajax-portfolio-demo/port-2.html">
+									<span class="overlay"></span>
+									<div class="name">
+										<p>Lorem ipsum dolor sit amet</p>
+										<span></span>
+										<ul class="categories">
+											<li>Design</li>
+											<li>Photography</li>
+										</ul>
+									</div>
+									<img src="images/placeholder/768x512.gif" alt="" />
+								</a>
+							</div>
+						</div>
+						<div class="portfolio-item web-design">
+							<div class="inner">
+								<a href="ajax-portfolio-demo/port-3.html">
+									<span class="overlay"></span>
+									<div class="name">
+										<p>Lorem ipsum dolor sit amet</p>
+										<span></span>
+										<ul class="categories">
+											<li>Design</li>
+											<li>Photography</li>
+										</ul>
+									</div>
+									<img src="images/placeholder/768x512.gif" alt="" />
+								</a>
+							</div>
+						</div>
+						<div class="portfolio-item web-design photographic">
+							<div class="inner">
+								<a href="ajax-portfolio-demo/port-1.html">
+									<span class="overlay"></span>
+									<div class="name">
+										<p>Lorem ipsum dolor sit amet</p>
+										<span></span>
+										<ul class="categories">
+											<li>Design</li>
+											<li>Photography</li>
+										</ul>
+									</div>
+									<img src="images/placeholder/768x512.gif" alt="" />
+								</a>
+							</div>
+						</div>
+						<div class="portfolio-item branding">
+							<div class="inner">
+								<a href="ajax-portfolio-demo/port-2.html">
+									<span class="overlay"></span>
+									<div class="name">
+										<p>Lorem ipsum dolor sit amet</p>
+										<span></span>
+										<ul class="categories">
+											<li>Design</li>
+											<li>Photography</li>
+										</ul>
+									</div>
+									<img src="images/placeholder/768x512.gif" alt="" />
+								</a>
+							</div>
+						</div>
+						<div class="portfolio-item web-design">
+							<div class="inner">
+								<a href="ajax-portfolio-demo/port-3.html">
+									<span class="overlay"></span>
+									<div class="name">
+										<p>Lorem ipsum dolor sit amet</p>
+										<span></span>
+										<ul class="categories">
+											<li>Design</li>
+											<li>Photography</li>
+										</ul>
+									</div>
+									<img src="images/placeholder/768x512.gif" alt="" />
+								</a>
+							</div>
+						</div>						
+					</div>
+				</div>
+			</section>
+			 //PORTFOLIO --> 
+
+			<!-- PRICING -->
+			<section id="booking" class="ht-page">
+				<header class="heading-area">
+				  <div class="container">
+					<div class="row">
+					  <h2><span>Book Now</span></h2>
+						  <div class="content row">
+						    <p class="col-xs-12"></p>
+						    </div>
+		            </div><!-- //row -->
+					</div><!-- //container -->
+				</header><!-- //heading-area -->
+
+			  <div id="section-pricing" class="ht-section">
+					<!-- Remove recommended class to use hover effect -->
+					<div class="ht-pricing recommended container">
+<form action="mail/mail.php"  method="post" name="form1" id="form1" onsubmit="return (verifyForm(this) &amp;&amp; jcap())">
+                      <table width="100%" border="0" cellpadding="0" cellspacing="0">
+                        <tr>
+                          <td colspan="3" align="left">								<div class="alert alert-success" id="display" style="display: none;" >
+                            <strong>Success!</strong> Your message has been sent to us.
+                          </div></td>
+                        </tr>
+                        <tr>
+                          <td colspan="2" align="left" >Required Fields(*)</td>
+                          <td width="70%" align="left" class="desctext">&nbsp;</td>
+                        </tr>
+                        <tr>
+                          <td colspan="2" align="left" class="desctext">&nbsp;</td>
+                          <td align="left" class="desctext">&nbsp;</td>
+                        </tr>
+                        <tr>
+                          <td colspan="2" align="left">Name &amp; Surname*:<br />
+                            <input name="name" type="text" id="name" /><div id="usernameMsg" style="display:none;"></div>
+            </p>
+                          </td>
+                          <td align="left" >Email*:<br />
+                            <input name="email" type="email" id="email" /><div id="emailMsg" style="display:none;"></div>
+            </p>
+                          </td>
+                        </tr>
+                        <tr>
+                          <td colspan="2" align="left" >Phone*:<br />
+                            <input name="phone" type="text" id="phone" /><div id="phonemsg" style="display:none;"></div>
+            </p>
+                         </td>
+                          <td align="left" >Country*:<br />
+                            <input name="country" type="text" id="country" /><div id="countrymsg" style="display:none;"></div>
+            </p>
+                          </td>
+                        </tr>
+                        <tr>
+                          <td colspan="3" align="left" >&nbsp;</td>
+                        </tr>
+                        <tr>
+                          <td colspan="2" align="left" >Arrival: 
+                            <select 
+name="arrival_day" class="desctext" id="arrival_day">
+                              <option selected="selected">1</option>
+                              <option>2</option>
+                              <option>3</option>
+                              <option>4</option>
+                              <option>5</option>
+                              <option>6</option>
+                              <option>7</option>
+                              <option>8</option>
+                              <option>9</option>
+                              <option>10</option>
+                              <option>11</option>
+                              <option>12</option>
+                              <option>13</option>
+                              <option>14</option>
+                              <option>15</option>
+                              <option>16</option>
+                              <option>17</option>
+                              <option>18</option>
+                              <option>19</option>
+                              <option>20</option>
+                              <option>21</option>
+                              <option>22</option>
+                              <option>23</option>
+                              <option>24</option>
+                              <option>25</option>
+                              <option>26</option>
+                              <option>27</option>
+                              <option>28</option>
+                              <option>29</option>
+                              <option>30</option>
+                              <option>31</option>
+                            </select>
+                            <select name="arrival_month" class="desctext" id="arrival_month">
+                              <option 
+selected="selected">January</option>
+                              <option>February</option>
+                              <option>March</option>
+                              <option>April</option>
+                              <option>May</option>
+                              <option>June</option>
+                              <option>July</option>
+                              <option>August</option>
+                              <option>September</option>
+                              <option>October</option>
+                              <option>November</option>
+                              <option>December</option>
+                            </select>
+                            <select name="arrival_year" class="desctext" id="arrival_year">
+<option>2014</option>
+                              <option>2015</option>
+                              <option>2016</option>
+                              <option>2017</option>
+                              <option>2018</option>
+                              <option>2019</option>
+                              <option>2020</option>
+                          </select></td>
+                          <td align="left" >Departure: 
+                            <select 
+name="departure_day" class="desctext" id="departure_day">
+                              <option selected="selected">1</option>
+                              <option>2</option>
+                              <option>3</option>
+                              <option>4</option>
+                              <option>5</option>
+                              <option>6</option>
+                              <option>7</option>
+                              <option>8</option>
+                              <option>9</option>
+                              <option>10</option>
+                              <option>11</option>
+                              <option>12</option>
+                              <option>13</option>
+                              <option>14</option>
+                              <option>15</option>
+                              <option>16</option>
+                              <option>17</option>
+                              <option>18</option>
+                              <option>19</option>
+                              <option>20</option>
+                              <option>21</option>
+                              <option>22</option>
+                              <option>23</option>
+                              <option>24</option>
+                              <option>25</option>
+                              <option>26</option>
+                              <option>27</option>
+                              <option>28</option>
+                              <option>29</option>
+                              <option>30</option>
+                              <option>31</option>
+                            </select>
+                            <select name="departure_month" class="desctext" id="departure_month">
+                              <option 
+selected="selected">January</option>
+                              <option>February</option>
+                              <option>March</option>
+                              <option>April</option>
+                              <option>May</option>
+                              <option>June</option>
+                              <option>July</option>
+                              <option>August</option>
+                              <option>September</option>
+                              <option>October</option>
+                              <option>November</option>
+                              <option>December</option>
+                            </select>
+                            <select name="departure_year" class="desctext" id="departure_year">
+<option>2014</option>
+                              <option>2015</option>
+                              <option>2016</option>
+                              <option>2017</option>
+                              <option>2018</option>
+                              <option>2019</option>
+                              <option>2020</option>
+                          </select></td>
+                        </tr>
+                        <tr>
+                          <td colspan="3" align="left" class="desctext">&nbsp;</td>
+                        </tr>
+                        <tr>
+                          <td colspan="2" align="left" >Adults:
+                            <select name="Adults" class="desctext" id="Adults">
+                              <option selected="selected">1</option>
+                              <option>2</option>
+                              <option>3</option>
+                              <option>4</option>
+                              <option>5</option>
+                              <option>6</option>
+                              <option>7</option>
+                              <option>8</option>
+                              <option>9</option>
+                              <option>10</option>
+                              <option>11</option>
+                              <option>12</option>
+                            </select>
+                          </td>
+                          <td align="left" >Children:
+                            <select name="Children" class="desctext" id="Children">
+<option selected>0</option>
+<option>1</option>
+<option>2</option>
+<option>3</option>
+<option>4</option>
+<option>5</option>
+<option>6</option>
+<option>7</option>
+<option>8</option>
+<option>9</option>
+<option>10</option>
+<option>11</option>
+<option>12</option>
+                          </select></td>
+                        </tr>
+                        <tr>
+                          <td colspan="2" align="left" >&nbsp;</td>
+                          <td align="left" class="desctext">&nbsp;</td>
+                        </tr>
+                        <tr>
+                          <td colspan="2" align="left" >Car Rental:
+                            <select name="Car_Rental" class="desctext" id="Car_Rental">
+                              <option selected>No</option>
+                              <option>Yes</option>
+                          </select></td>
+                          <td align="left" >Airport Transfers:
+                            <select name="Transfers" class="desctext" id="Transfers">
+                              <option selected>No</option>
+                              <option>Yes</option>
+                          </select></td>
+                        </tr>
+                        <tr>
+                          <td colspan="2" align="left" class="desctext">&nbsp;</td>
+                          <td align="left" class="desctext">&nbsp;</td>
+                        </tr>
+                        <tr>
+                          <td colspan="3" align="left" >Comments:
+                            <textarea name="Comments" cols="50" rows="3" class="desctext" id="Comments"></textarea>
+                          </td>
+                        </tr>
+                        <tr>
+                          <td width="8%" class="desctext">&nbsp;</td>
+                          <td width="22%" class="desctext">&nbsp;</td>
+                        </tr>
+                        <tr>
+                          <td > 
+                          Verification*:</td>
+                          <td ><script type="text/javascript">sjcap();</script> </p><div id="wordmsg" style="display:none;">
+                              
+                            </div></td>
+                          <td >&nbsp;</td>
+                        </tr>
+                        <tr>
+                          <td colspan="3" class="desctext">
+                            
+                            
+                            <div >
+                              <input name="formid" type="hidden" id="formid" value="accommodation" />
+                             <p ><input name="Submit" type="submit"  value="Submit Request" /></p>
+                            </div>
+                            </td>
+                          </tr>
+                      </table>
+                    </form>
+			    </div><!-- //container -->
+				</div><!-- //section-pricing -->
+			</section>
+			<!-- //PRICING -->
+
+			<!-- PARALLAX SECTION 4 -->			
+			<div class="ht-parallax-section" style="background-image: url(images/img/DSC_8242e.jpg)" data-ht-parallax="500">
+				<div class="overlay"></div><!-- //content -->
+			</div>
+			<!-- PARALLAX SECTION 4 -->
+
+			<!-- CONTACT -->
+			<section id="contact" class="ht-page">
+				<header class="heading-area">
+					<div class="container">
+						<div class="row">
+						  <h2><span>Contact</span></h2>
+						  <p class="col-md-10 col-md-offset-1">If you have any questions or require more info about any of our services, feel free to contact us anytime on (+356) 7971 0769 or <a href="mailto:info@gozofarmhouse.eu">info@gozofarmhouse.eu</a> Or simply fill up and submit the following query form and we will get back to as quickly as possible.</p>
+					  </div><!-- //row -->
+					</div><!-- //container -->
+				</header><!-- //heading-area -->
+
+				<div id="section-contact" class="ht-section">
+					<div class="ht-map" data-height="300" data-coor="[36.061966,14.208321]" data-zoom="15" data-control-ui="false" data-scroll-wheel="false" data-map-type="roadmap"></div>
+
+				</div><!-- //section-pricing -->
+			</section>
+			<!-- //CONTACT -->
+		</div>
+		<!-- //HT-CONTAINER -->
+
+		<!-- FOOTER -->
+		<footer id="ht-footer" class="ht-footer">
+			<div class="pre-footer">
+				<div class="container">
+					<div class="row"></div><!-- //row -->
+					<div class="row">
+						<div id="foo-5" class="foo-item">
+							<div class="col-xs-12">
+								<hr>
+								<h3>Contact Us</h3>
+								phone: (+356) 7971 0769 - email: <a href="mailto:info@gozofarmhouse.eu">info@gozofarmhouse.eu</a> - 
+								<a href="" title="facebook" class="fa fa-facebook-square"></a>
+								<!-- <a href="" title="twitter" class="fa fa-twitter-square"></a>
+								<a href="" title="google plus" class="fa fa-google-plus-square"></a>
+								<a href="" title="tumblr" class="fa fa-tumblr-square"></a>
+								<a href="" title="linkedin" class="fa fa-linkedin-square"></a>
+								<a href="" title="pinterest" class="fa fa-pinterest-square"></a>
+								<a href="" title="dribbble" class="fa fa-dribbble"></a>
+								<a href="" title="github" class="fa fa-github-square"></a>
+								<a href="" title="bitbuckket" class="fa fa-bitbucket-square"></a>
+								<a href="" title="instagram" class="fa fa-instagram"></a>
+								<a href="" title="flickr" class="fa fa-flickr"></a>
+								<a href="" title="vimeo" class="fa fa-vimeo-square"></a>
+								<a href="" title="youtube" class="fa fa-youtube-square"></a>
+								<a href="" title="rss" class="fa fa-rss-square"></a> -->
+							</div><!-- / col-xs-12 -->
+						</div>
+					</div><!-- / row -->
+				</div><!-- / container -->
+			</div><!-- //container -->
+			<div class="bottom">
+				<div class="container">
+					<div class="row">
+						<div class="copyright col-md-6">
+							<span>
+							&copy; 2014 GozoFarmhouse.eu - all rights reserverd. Powered by <a href="http://iwebs.com.mt/" target="_blank">iwebs.com.mt </a></span><!-- / copyright -->
+						</div><!-- / col-md-6 -->
+						<div class="to-top col-md-6">
+							<span>
+								<a id="back-to-top"><i class="fa fa-angle-up"></i><span> Back to top</span></a>
+							</span>
+						</div><!-- / col-md-6 -->
+					</div><!-- / row -->
+				</div><!-- / container -->
+			</div><!-- / container -->
+		</footer>
+		<!-- //FOOTER -->
+
+		<!-- You can remove this section when implement on your product -->
+		<!-- <div id="ht-style-switcher">
+			<div class="inner">
+				<a class="toggle"><i class="fa fa-arrows"></i></a><!-- / toggle -->
+			<!--	<ul class="change-nav">
+					<li class="heading">Nav Style</li>
+					<li data-nav="dark-navigation"><i class="fa fa-adjust"></i></li>
+					<li data-nav=""><i class="fa fa-circle"></i></li>
+				</ul>
+				<p class="heading">Colors</p>
+				<ul class="change-color">
+					<li class="color-1" title="Sea Buckthorn" data-theme="css/style.css"></li>
+					<li class="color-2" title="Caribbean Green" data-theme="css/style-caribbean-green.css"></li>
+				</ul>
+				<ul class="change-color">
+					<li class="color-3" title="Heliotrope" data-theme="css/style-heliotrope.css"></li>
+					<li class="color-4" title="Matrix" data-theme="css/style-matrix.css"></li>
+				</ul>
+				<ul class="change-color">
+					<li class="color-5" title="Forest Green" data-theme="css/style-forest-green.css"></li>
+					<li class="color-6" title="Roman" data-theme="css/style-roman.css"></li>
+				</ul>
+				<ul class="change-color">
+					<li class="color-7" title="Malibu" data-theme="css/style-malibu.css"></li>
+					<li class="color-8" title="Cranberry" data-theme="css/style-cranberry.css"></li>
+				</ul>
+				<ul class="change-color">
+					<li class="color-9" title="Conifer" data-theme="css/style-conifer.css"></li>
+					<li class="color-10" title="Gold" data-theme="css/style-gold.css"></li>
+				</ul>
+			</div>
+		</div><!-- / ht-style-switcher -->
+
+		<!-- JS Files -->
+		<script src="https://maps.googleapis.com/maps/api/js?sensor=false"></script>
+		<script src="js/bootstrap.js"></script>
+		<script src="js/smooth.scroll.js"></script>
+		<script src="js/modernizr.js"></script>
+		<script src="js/jquery.sticky.js"></script>
+		<script src="plugin/nivo/nivo-lightbox.min.js"></script>
+		<script src="plugin/owl-carousel/owl.carousel.min.js"></script>
+		<script src="js/jquery.onscreen.js"></script>
+		<script src="js/skrollr.js"></script>
+		<script src="js/isotope.pkgd.js"></script>
+		<script src="js/jquery.nav.js"></script>
+		<script src="js/jquery.counterup.js"></script>
+		<script src="js/jquery.placeholder.js"></script>
+		<script src="js/jquery.validate.js"></script>
+		<script src="js/jquery.tubular.1.0.js"></script>
+		<script src="js/jquery.flexslider.js"></script>
+		<script src="js/jquery.columnizer.js"></script>
+		<script src="js/jquery.easypiechart.js"></script>
+		<script src="js/ht.ajax.contact.js"></script>
+		<script src="js/bigtext.js"></script>
+		<script src="js/ht.js"></script>
+	</body>
+</html>
+

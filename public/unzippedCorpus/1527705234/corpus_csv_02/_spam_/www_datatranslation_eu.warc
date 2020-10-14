@@ -1,0 +1,474 @@
+WARC/1.0
+WARC-Type: warcinfo
+WARC-Date: 2018-05-30T18:18:32Z
+WARC-All-Language: en
+WARC-All-Content_type: text/html
+WARC-Record-ID: <urn:uuid:55122144-2b0c-4353-aa3c-cb0d99ed0a12>
+Content-Type: application/http;msgtype=response
+Content-Length: 46
+
+WARCProcessor by SING Group www.sing-group.com
+
+WARC/1.0
+WARC-Type: response
+WARC-Target-URI: http://www.datatranslation.eu
+WARC-Date: 20180530181832
+WARC-Language: en
+WARC-Record-ID: <http://www.datatranslation.eu>
+Content-Type: application/http;msgtype=response
+Content-Length: 29066
+
+HTTP/1.1 200
+Content-Type:text/html
+
+
+ <!DOCTYPE html 
+     PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+     "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+  <META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=iso-8859-1">
+      <title>Data Translation - USB and Ethernet Data Acquisition Measurement Solutions</title>
+    <meta name="description" content="Data Translation offers high performance USB and Ethernet data acquisition (DAQ) modules and instrumentation for temperature, voltage as well as sound & vibration measurement and analysis with supporting software solutions for the test and measurement market."/>
+  <meta name="keywords" content="daq measurement, data acquisition measurement, usb data acquisition, usb daq, ethernet data acquisition, ethernet daq, data acquisition module, data acquisition hardware, simultaneous data acquisition, data acquisition software, test and measurement, temperature measurement, alternativ energy measurement, voltage measurement, thermocouple measurement, RTD measurement, sound and vibration, vibration measurement, strain measurement, dsp data acquisition, embedded dsp, data acquisition boards, data acquisition device, temperature data acquisition, temperature measurement, RTD measurement instrument, temperature instrument, test and measurement software, pci data acquistition, LabVIEW, MATLAB, Data Translation"/>
+  <meta name="robots" content="index, follow">  
+  
+  <link rel="alternate" hreflang="de" href="http://www.datatranslation.de/" />
+  <link rel="alternate" hreflang="en" href="http://www.datatranslation.co.uk/" />
+  <link rel="alternate" hreflang="fr" href="http://www.datatranslation.fr/" />
+  <link rel="alternate" hreflang="zh" href="http://www.datatranslation.com.cn/" />
+  <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon"/>
+  <link rel="stylesheet" type="text/css" href="/js/colorbox/colorbox.css"/>
+  <link rel="stylesheet" type="text/css" href="/js/inhalt.css"/>  
+  <script type="text/javascript" src="/js/jquery-1.4.2.min.js"></script>
+  <script type="text/javascript" src="/js/colorbox/jquery.colorbox-min.js"></script>
+  <script language="JavaScript">
+    <!--
+    $(document).ready(function () {
+      $("a[rel='nofollow']").colorbox({ iframe: true, innerWidth: 300, innerHeight: 450 });
+      $("input[rel='nofollow']").colorbox({ iframe: true, innerWidth: 300, innerHeight: 425, href: "preisinfo.php?pname=XXbasket&merk=fbfc671abb49ea8560d36a6d888ca276" });
+    });  
+    
+    function changeCountry(strCountry)
+    {
+      if(strCountry != "-" && strCountry != "")
+      {
+        arrC = strCountry.split("_");
+					if(arrC[1]) self.location.href = 'http://www.'+arrC[1]+'/index.php?&form_KatID=&cv='+arrC[0]+'&merk=fbfc671abb49ea8560d36a6d888ca276';
+			else self.location.href = '/index.php?&form_KatID=&cv='+arrC[0]+'&merk=fbfc671abb49ea8560d36a6d888ca276';
+			//top.document.title='Data Translation - Messtechnik für analoge und digitale Signale über USB und Ethernet';
+		      }
+    }
+    // -->
+  </script>
+  <script type="text/javascript">function openComparison(path) { comparisonFenster=window.open('/frontend/'+path, 'comparisonFenster', 'width=700,height=600,scrollbars=yes,resizable=yes');comparisonFenster.focus(); }</script>
+</head>
+<body >
+<div style="width: 1060px;">
+<div id="header">&nbsp;</div>
+<div id="kundenanzeige" style="float: right;">
+    <table width="1" border="0" cellpadding="0" cellspacing="3"> 
+  <tr><td class='menuBasketTd' align="right"><table width="1" border="0" cellpadding="0" cellspacing="0"><tr><td><img src="../img/header/ico_abgemeldet.gif" border="0"></td><td style="padding-left:5px;"><nobr><b>Not logged in</b></nobr></td></tr></table></td></tr>  <tr> 
+  <td class="menuBasketTd" align="right" style="padding-top:7px;">
+  <table width="1" border="0" cellpadding="0" cellspacing="0"><tr><td><a href="/en/frontend/warenkorb.php?merk=fbfc671abb49ea8560d36a6d888ca276"><img src="../img/header/ico_basket.gif" border="0"></a></td><td style="padding-left:5px;"><a href="/en/frontend/warenkorb.php?merk=fbfc671abb49ea8560d36a6d888ca276" style="color:#000000; text-decoration:none;"><b>Empty</b></a></td></tr></table>
+  </td> 
+  </tr> 
+  </table>
+</div>
+</div>
+<br style="clear: both; line-height: 0; font-size: 0; height: 0;"/>
+<div id="navTop">
+  <table border="0" cellpadding="0" cellspacing="0" width="100%">
+    <tr>
+      <td>
+        <table width="1" border="0" cellpadding="0" cellspacing="0">
+        <tr> 
+          <td><img src="../img/dot.gif" width="20" height="26"></td> 
+          <td><a href="/en/index.php?merk=fbfc671abb49ea8560d36a6d888ca276" class="menuTop"><nobr>Home</nobr></a></td>
+          <td><img src="../img/dot.gif" width="25" height="1"></td> 
+          <td>
+                    <!--<a href="frontend/registrierung.php?merk=fbfc671abb49ea8560d36a6d888ca276" class="menuTop"><nobr>Register</nobr></a></td>
+          <td><img src="../img/dot.gif" width="25" height="1"></td> -->
+          <td><a href="/frontend/login.php?merk=fbfc671abb49ea8560d36a6d888ca276&action=in" class="menuTop"><nobr>Login</nobr></a></td>
+                    <td><img src="../img/dot.gif" width="25" height="1"></td> 
+          <td><a href="/frontend/warenkorb.php?merk=fbfc671abb49ea8560d36a6d888ca276" class="menuTop"><nobr>Shopping Cart</nobr></a></td>
+          <!--<td><img src="../img/dot.gif" width="25" height="1"></td> 
+          <td><a href="frontend/angebotsanfrage.php?merk=fbfc671abb49ea8560d36a6d888ca276" class="menuTop"><nobr>Quotation</nobr></a></td>-->
+          <td><img src="../img/dot.gif" width="25" height="1"></td> 
+          <td><a href="/impressum.php?merk=fbfc671abb49ea8560d36a6d888ca276" class="menuTop"><nobr>Company</nobr></a></td> 
+          <td><img src="../img/dot.gif" width="25" height="1"></td> 
+          <td><a href="/kontakt.php?merk=fbfc671abb49ea8560d36a6d888ca276" class="menuTop"><nobr>Contact</nobr></a></td> 
+          <td><img src="../img/dot.gif" width="25" height="1"></td> 
+          <td><a href="/beratung.php?merk=fbfc671abb49ea8560d36a6d888ca276" class="menuTop"><nobr>Help Desk</nobr></a></td> 
+          <td><img src="../img/dot.gif" width="25" height="1"></td> 
+          <td><a href="/news.php?merk=fbfc671abb49ea8560d36a6d888ca276" class="menuTop"><nobr>News</nobr></a></td>
+        </tr> 
+        </table>
+      </td>
+      <td align="right"><nobr><a href="javascript:changeCountry('de_datatranslation.de');"><img src="../img/flagge_d.gif"/></a>&nbsp;&nbsp;&nbsp;<a href="javascript:changeCountry('en_datatranslation.eu');"><img src="../img/flagge_e.gif"/></a></nobr></td>
+      <td align="right" style="padding-right:5px;">
+      <table border="0" cellpadding="0" cellspacing="0"><tr><td><img src="../img/dot.gif" width="25" height="25"></td><td class="menuTop"><nobr> &nbsp; </nobr></td></tr></table></td>
+      <td align="right" style="padding-right:10px;" width="1">
+      <select name="country" class="mussnicht" style="width:190px; height:20px; font-size:11px;" onchange="changeCountry(this.value);">
+        <option value="ex_datatranslation.eu">Other&nbsp;Countries&nbsp;&nbsp;|&nbsp;&nbsp;English</option>
+<optgroup label="DT Offices">
+<option value="de_datatranslation.de">Deutschland&nbsp;&nbsp;|&nbsp;&nbsp;Deutsch</option>
+<option value="en_datatranslation.eu" selected="selected">Germany&nbsp;&nbsp;|&nbsp;&nbsp;English</option>
+<option value="gb_datatranslation.co.uk">United&nbsp;Kingdom&nbsp;&nbsp;|&nbsp;&nbsp;English</option>
+</optgroup>
+<optgroup label="International Partners">
+<option value="au_datatranslation.eu">Australia&nbsp;&nbsp;|&nbsp;&nbsp;English</option>
+<option value="at_datatranslation.de">Austria&nbsp;&nbsp;|&nbsp;&nbsp;Deutsch</option>
+<option value="bh_datatranslation.eu">Bahrain&nbsp;|&nbsp;English</option>
+<option value="be_datatranslation.eu">Belgium&nbsp;&nbsp;|&nbsp;&nbsp;English</option>
+<option value="cn_datatranslation.com.cn">China&nbsp;&nbsp;|&nbsp;&nbsp;Chinese</option>
+<option value="cz_datatranslation.eu">Czech&nbsp;Republic&nbsp;&nbsp;|&nbsp;&nbsp;English</option>
+<option value="dk_datatranslation.eu">Denmark&nbsp;&nbsp;|&nbsp;&nbsp;English</option>
+<option value="fi_datatranslation.eu">Finland&nbsp;&nbsp;|&nbsp;&nbsp;English</option>
+<option value="fr_datatranslation.fr">France&nbsp;&nbsp;|&nbsp;&nbsp;French</option>
+<option value="gr_datatranslation.eu">Greece&nbsp;&nbsp;|&nbsp;&nbsp;English</option>
+<option value="in_datatranslation.eu">India&nbsp;&nbsp;|&nbsp;&nbsp;English</option>
+<option value="id_datatranslation.eu">Indonesia&nbsp;&nbsp;|&nbsp;&nbsp;English</option>
+<option value="iq_datatranslation.eu">Iraq&nbsp;|&nbsp;English</option>
+<option value="ie_datatranslation.co.uk">Ireland&nbsp;&nbsp;|&nbsp;&nbsp;English</option>
+<option value="il_datatranslation.eu">Israel&nbsp;&nbsp;|&nbsp;&nbsp;English</option>
+<option value="it_datatranslation.eu">Italy&nbsp;&nbsp;|&nbsp;&nbsp;English</option>
+<option value="jp_datatranslation.eu">Japan&nbsp;&nbsp;|&nbsp;&nbsp;English</option>
+<option value="jo_datatranslation.eu">Jordan&nbsp;|&nbsp;English</option>
+<option value="ru_datatranslation.eu">Kaliningrad&nbsp;&nbsp;|&nbsp;&nbsp;English</option>
+<option value="kw_datatranslation.eu">Kuwait&nbsp;|&nbsp;English</option>
+<option value="lu_datatranslation.eu">Luxembourg&nbsp;|&nbsp;&nbsp;English</option>
+<option value="my_datatranslation.eu">Malaysia&nbsp;&nbsp;|&nbsp;&nbsp;English</option>
+<option value="nl_datatranslation.eu">Netherlands&nbsp;&nbsp;|&nbsp;&nbsp;English</option>
+<option value="nz_datatranslation.eu">New&nbsp;Zealand&nbsp;&nbsp;|&nbsp;&nbsp;English</option>
+<option value="no_datatranslation.eu">Norway&nbsp;&nbsp;|&nbsp;&nbsp;English</option>
+<option value="om_datatranslation.eu">Oman&nbsp;|&nbsp;English</option>
+<option value="pk_datatranslation.eu">Pakistan&nbsp;|&nbsp;English</option>
+<option value="pl_datatranslation.eu">Poland&nbsp;&nbsp;|&nbsp;&nbsp;English</option>
+<option value="pt_datatranslation.eu">Portugal&nbsp;&nbsp;|&nbsp;&nbsp;English</option>
+<option value="qa_datatranslation.eu">Qatar&nbsp;|&nbsp;English</option>
+<option value="rx_datatranslation.eu">Russia&nbsp;|&nbsp;&nbsp;English</option>
+<option value="sa_datatranslation.eu">Saudi&nbsp;Arabia&nbsp;|&nbsp;English</option>
+<option value="sg_datatranslation.eu">Singapore&nbsp;&nbsp;|&nbsp;&nbsp;English</option>
+<option value="za_datatranslation.eu">South&nbsp;Africa&nbsp;&nbsp;|&nbsp;&nbsp;English</option>
+<option value="kx_datatranslation.eu">South&nbsp;Korea&nbsp;&nbsp;|&nbsp;&nbsp;English</option>
+<option value="es_datatranslation.eu">Spain&nbsp;&nbsp;|&nbsp;&nbsp;English</option>
+<option value="se_datatranslation.eu">Sweden&nbsp;&nbsp;|&nbsp;&nbsp;English</option>
+<option value="ch_datatranslation.de">Switzerland&nbsp;&nbsp;|&nbsp;&nbsp;Deutsch</option>
+<option value="cx_datatranslation.eu">Switzerland&nbsp;&nbsp;|&nbsp;&nbsp;English</option>
+<option value="tw_datatranslation.eu">Taiwan&nbsp;&nbsp;|&nbsp;&nbsp;English</option>
+<option value="th_datatranslation.eu">Thailand&nbsp;&nbsp;|&nbsp;&nbsp;English</option>
+<option value="tr_datatranslation.eu">Turkey&nbsp;&nbsp;|&nbsp;&nbsp;English</option>
+<option value="ae_datatranslation.eu">United&nbsp;Arab&nbsp;Emirates&nbsp;|&nbsp;English</option>
+</optgroup>
+<optgroup label="">
+</optgroup>
+      </select>  
+      </td>
+    </tr>
+  </table>   
+</div>
+<div id="breadcrumb">
+  &gt;&gt;&nbsp;Home&nbsp;  
+</div>
+<div style="width: 980px;" id="container">
+<div id="navLeft">
+  
+<!-- Selbst definierte Links Newsbereich //-->
+<table border="0" cellpadding="3" cellspacing="0" width="208" class="infoTab">
+<tr><td class="infoHead">Product Overview</td></tr>
+<tr><td class="infoContent"><a href="/intIncluder.php?merk=fbfc671abb49ea8560d36a6d888ca276&url=frontend%2Fproducts%2Fhtml%2Fmccdaq.php" target="_self" class="menu" style="line-height: 16px;"><b>Measurement Computing</b></a><br><a href="/intIncluder.php?merk=fbfc671abb49ea8560d36a6d888ca276&url=frontend%2Fproducts%2Fhtml%2Fdirect_connect.php" target="_self" class="menu" style="line-height: 16px;"><b>Direct Sensor Connect</b></a><br><a href="/intIncluder.php?merk=fbfc671abb49ea8560d36a6d888ca276&url=frontend%2Fproducts%2Fhtml%2Fhw_usb_overview.php" target="_self" class="menu" style="line-height: 16px;"><b>USB Data Acquisition</b></a><br><a href="/intIncluder.php?merk=fbfc671abb49ea8560d36a6d888ca276&url=frontend%2Fproducts%2Fhtml%2Fhw_ethernet_overview.php" target="_self" class="menu" style="line-height: 16px;"><b>Ethernet Data Acquisition</b></a><br></a></td></tr>
+</table>
+<br style='line-height: 7px'>
+
+
+<!-- Produkte //-->
+<tr><td>
+<table border="0" cellpadding="3" cellspacing="0" width="208" class="infoTab">
+<tr><td class="prodHead">Embedded Systems</td></tr>
+<tr><td><div class='menuLink'><a href='/en/embedded/cortex-a8-arm.html?merk=fbfc671abb49ea8560d36a6d888ca276' target='_self' class='menu'>Data Acquisition with ARM</a></div><br style='line-height: 7px'></td></tr>
+<tr><td class="prodHead">Sound and Vibration DAQ</td></tr>
+<tr><td><div class='menuLink'><a href='/en/vibration/vibration-measurement.html?merk=fbfc671abb49ea8560d36a6d888ca276' target='_self' class='menu'>...over USB</a></div><div class='menuLink'><a href='/en/vibration/vibration-ethernet.html?merk=fbfc671abb49ea8560d36a6d888ca276' target='_self' class='menu'>...over Ethernet</a></div><div class='menuLink'><a href='/en/vibration/embedded-arm-daq.html?merk=fbfc671abb49ea8560d36a6d888ca276' target='_self' class='menu'>...with Embedded ARM</a></div><br style='line-height: 7px'></td></tr>
+<tr><td class="prodHead">Temperature Measurement</td></tr>
+<tr><td><div class='menuLink'><a href='/en/temperature/temperature-measurement.html?merk=fbfc671abb49ea8560d36a6d888ca276' target='_self' class='menu'>Temperature Data Acquisition</a></div><br style='line-height: 7px'></td></tr>
+<tr><td class="prodHead">Data Acquisition</td></tr>
+<tr><td><div class='menuLink'><a href='/en/measure/data-acquisition.html?merk=fbfc671abb49ea8560d36a6d888ca276' target='_self' class='menu'>Multifunction Data Acquisition</a></div><div class='menuLink'><a href='/en/measure/simultaneous-data-acquisition.html?merk=fbfc671abb49ea8560d36a6d888ca276' target='_self' class='menu'>Simultaneous Data Acquisition</a></div><div class='menuLink'><a href='/en/measure/high-speed-simultaneous.html?merk=fbfc671abb49ea8560d36a6d888ca276' target='_self' class='menu'>High Speed Simultaneous DAQ</a></div><div class='menuLink'><a href='/en/measure/24-bit-data-acquisition.html?merk=fbfc671abb49ea8560d36a6d888ca276' target='_self' class='menu'>24-Bit Data Acquisition</a></div><div class='menuLink'><a href='/en/measure/low-cost-data-acquisition.html?merk=fbfc671abb49ea8560d36a6d888ca276' target='_self' class='menu'>Low-Cost DAQ Devices</a></div><div class='menuLink'><a href='/en/measure/strain-measurement.html?merk=fbfc671abb49ea8560d36a6d888ca276' target='_self' class='menu'>Strain, Force, Pressure DAQ</a></div><div class='menuLink'><a href='/en/measure/temperature-measure-usb.html?merk=fbfc671abb49ea8560d36a6d888ca276' target='_self' class='menu'>Temperature Measurement</a></div><div class='menuLink'><a href='/en/measure/analog-output-device.html?merk=fbfc671abb49ea8560d36a6d888ca276' target='_self' class='menu'>Analog Output </a></div><div class='menuLink'><a href='/en/measure/digital-io.html?merk=fbfc671abb49ea8560d36a6d888ca276' target='_self' class='menu'>Digital I/O</a></div><br style='line-height: 7px'></td></tr>
+<tr><td class="prodHead">Software</td></tr>
+<tr><td><div class='menuLink'><a href='/en/software/test-and-measurement-software.html?merk=fbfc671abb49ea8560d36a6d888ca276' target='_self' class='menu'>Test and Measurement Software</a></div><br style='line-height: 7px'></td></tr>
+<tr><td class="prodHead">More Products</td></tr>
+<tr><td><div class='menuLink'><a href='/en/boards/pci-data-acquisition.html?merk=fbfc671abb49ea8560d36a6d888ca276' target='_self' class='menu'>PCI Data Acquisition</a></div><div class='menuLink'><a href='/en/boards/signal-conditioning.html?merk=fbfc671abb49ea8560d36a6d888ca276' target='_self' class='menu'>Signal Conditioning Solutions</a></div></td></tr>
+
+</table>
+</td></tr>
+
+<!-- Produktsuche //-->
+<img src="../img/dot.gif" width="1" height="10" border="0"><br>
+<table border="0" cellpadding="3" cellspacing="0" width="208" class="infoTab">
+<tr><td class="infoHead">Search for Product, Keyword</td></tr>
+<tr><td class="infoContent">
+  <form action="/en/frontend/katalog.php" method="POST"><table border="0" cellpadding="0" cellspacing="0" width="1"><tr><td><input type="text" name="stichwort" size="10" class="menuSearchInput"></td><td><input type="image" src="../img/menu_suche_starten.gif" style="margin-left:5px;"></td></tr></table>
+<!-- <input type="checkbox" name="volltext" value="1" style="margin-left:-4px;">Full text Search //-->
+<input type="hidden" name="volltext" value="1"><input type="hidden" name="suche" value="1"><input type="hidden" name="merk" value="fbfc671abb49ea8560d36a6d888ca276"></form></td></tr>
+</table>
+
+
+<!-- Produktvergleich //-->
+<img src="../img/dot.gif" width="1" height="10" border="0"><br>
+<table border="0" cellpadding="3" cellspacing="0" width="208" class="infoTab">
+<tr><td class="infoHead">Product Comparison</td></tr>
+<tr><td class="infoContent">No products selected</a></td></tr>
+</table>
+
+
+<!-- Selbst definierte Links //-->
+<img src="../img/dot.gif" width="1" height="10" border="0"><br>
+<table border="0" cellpadding="3" cellspacing="0" width="208" class="infoTab">
+<tr><td class="infoHead">Support</td></tr>
+<tr><td class="infoContent"><a href="/extIncluder.php?merk=fbfc671abb49ea8560d36a6d888ca276&url=..%2F..%2Finhaltsseiten%2Fsupport%2Fsupport_eu.php%3Fmerk%3Dfbfc671abb49ea8560d36a6d888ca276" target="_self" class="menu" style="line-height: 16px;"><b>Drivers and Downloads</b></a><br><a href="/extIncluder.php?merk=fbfc671abb49ea8560d36a6d888ca276&url=..%2F..%2Finhaltsseiten%2Fsupport%2Fappnotes.php%3Fmerk%3Dfbfc671abb49ea8560d36a6d888ca276" target="_self" class="menu" style="line-height: 16px;"><b>Application Notes</b></a><br><a href="/extIncluder.php?merk=fbfc671abb49ea8560d36a6d888ca276&url=..%2F..%2Finhaltsseiten%2Fsupport%2Fvideos.php%3Fmerk%3Dfbfc671abb49ea8560d36a6d888ca276" target="_self" class="menu" style="line-height: 16px;"><b>Videos</b></a><br></a></td></tr>
+</table>
+
+
+<!-- DAT-Homepage //-->
+<img src="../img/dot.gif" width="1" height="10" border="0"><br>
+<table border="0" cellpadding="3" cellspacing="0" width="208" class="infoTab">
+<tr><td class="infoHead2"><a href="/extIncluder.php?merk=fbfc671abb49ea8560d36a6d888ca276&url=..%2F%2Finhaltsseiten%2Fhelpdesk_eu.php%3Fmerk%3Dfbfc671abb49ea8560d36a6d888ca276" target="_self" class="menu" style="line-height: 16px;"><u>Measurement Computing</u></a></td></tr>
+</table>
+</div>
+<div id="contentMain">  <div style="margin-left:3px; margin-top: -20px;">
+  <!-- Beginn Inhalt für Selbstpflege //-->
+  <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1252" />
+<title>Data Translation</title>
+
+
+</head>
+<style type="text/css">
+.p1 {
+	font-family: Tahoma;
+	font-size: 18px;
+	color: #666;
+	font-weight: bold;
+}
+
+.p2 {
+	font-family: Tahoma;
+	font-size: 12px;
+	font-weight: normal;
+	color: #000;
+	vertical-align: text-top;
+	padding-top: 5px;
+	padding-right: 5px;
+	padding-bottom: 5px;
+	padding-left: 5px;
+}
+.p3 {
+	font-family: Tahoma;
+	font-size: 12px;
+	font-weight: normal;
+	vertical-align: top;
+}
+.p4 {
+	font-family: Tahoma;
+	font-size: 12px;
+	border-bottom-color: #CCC;
+}
+.p5 {
+	font-family: Tahoma, Geneva, sans-serif;
+	font-size: 15px;
+	font-weight: bold;
+	color: #FFF;
+	text-decoration: none;
+	line-height: 23px;
+}
+.p5:visited {
+	font-family: Tahoma, Geneva, sans-serif;
+	font-size: 15px;
+	color: #FFF;
+}
+.p5:hover {
+	font-family: Tahoma, Geneva, sans-serif;
+	font-size: 15px;
+	color: #DBE1F2;
+}
+.p6 {
+	font-family: Tahoma, Geneva, sans-serif;
+	font-size: 12px;
+	font-weight: bold;
+	color: #000;
+	text-align: center;
+}
+.p7 {
+	font-family: Tahoma;
+	font-size: 16px;
+	font-weight: bold;
+	text-decoration: none;
+	color: #3F70BA;
+}
+.p7:visited {
+	font-family: Tahoma, Geneva, sans-serif;
+	font-size: 16px;
+	color: #3F70BA;
+}
+.p7:hover {
+	font-family: Tahoma, Geneva, sans-serif;
+	font-size: 16px;
+	color: #3F70BA;
+	text-decoration: underline;
+	text-align: center;
+}
+.p8 {
+	font-family: Tahoma;
+	font-size: 26px;
+	color: #666;
+	font-weight: bold;
+}
+</style>
+
+<body topmargin="0" leftmargin="0">
+<body>
+<table width="794" height="825" border="0">
+  <tr class="p4">
+    <td width="786" height="374" colspan="3" valign="top" class="p4"><table width="794" border="0" cellspacing="0" cellpadding="0">
+      <tr>
+        <td height="44" colspan="4" align="center" class="p8">Two Great DAQ Brands, One-Stop Shop:</td>
+        </tr>
+        
+         <tr class="p4">
+    <td height="16" colspan="3" valign="top" class="p4"><br />
+  </tr>
+      <tr>
+        <td height="51" colspan="4" align="center"><a href="https://www.MCCdaq.com" target="_new"><img src="../img/home/MCCLOGO3.png" alt="MCC Logo" width="248" height="27" border=0/></a></td>
+        </tr>
+      <tr>
+        <td width="5" bgcolor="#3475D1">&nbsp;</td>
+        <td width="383" bgcolor="#3475D1" class="p5"><blockquote>
+          <p><a href="https://www.MCCdaq.com" target="_new" class="p5">Data Translation Products</a><a href="https://www.MCCdaq.com"></a></p>
+        </blockquote></td>
+        <td width="5" bgcolor="#0099CC">&nbsp;</td>
+        <td width="384" bgcolor="#0099CC" class="p5"><blockquote>
+          <p><a href="https://www.MCCdaq.com" target="_new" class="p5">Measurement Computing Products</a></p>
+        </blockquote></td>
+      </tr>
+      <tr>
+        <td width="5" height="207" bgcolor="#3475D1">&nbsp;</td>
+        <td width="383" height="207" valign="top" bgcolor="#3475D1" class="p5"><ul>
+          <li> <a href="https://www.mccdaq.com/multifunction-data-acquisition.aspx" target="_new" class="p5">USB Multifunction Measurement <br />
+              modules with BNC </a> </li>
+          <li>            <a href="https://www.mccdaq.com/data-acquisition/simultaneous-daq" target="_new" class="p5">Simultaneous DAQ USB devices </a>          </li>
+          <li>            <a href="https://www.mccdaq.com/sound-vibration-daq" target="_new" class="p5">Sound &amp; Vibration measurement </a>          </li>
+          <li>            <a href="https://www.mccdaq.com/temperature-measurement.aspx" target="_new" class="p5">High accuracy, isolated temperature measurement </a>          </li>
+          <li>            <a href="https://www.mccdaq.com/data-acquisition/mixed-universal-measurement" target="_new" class="p5">Direct Sensor Connect </a>          </li>
+          <li>            <a href="https://www.mccdaq.com/embedded-oem" target="_new" class="p5">Embedded ARM Systems</a></li>
+        </ul></td>
+        <td width="5" height="207" bgcolor="#0099CC" class="p4">&nbsp;</td>
+        <td width="384" height="207" valign="top" bgcolor="#0099CC" class="p5"><ul>
+          <li>            <a href="https://www.mccdaq.com/data-acquisition/low-cost-daq" target="_new" class="p5">Low Cost USB Multifunction modules </a>          </li>
+          <li>            <a href="https://www.mccdaq.com/temperature-measurement.aspx" target="_new" class="p5">Low priced temperature DAQ over USB, Ethernet, or Wireless </a>          </li>
+          <li>            <a href="https://www.mccdaq.com/data-loggers" target="_new" class="p5">Stand-alone, remote data logger solutions for any application </a>          </li>
+          <li>            <a href="https://www.mccdaq.com/data-loggers" target="_new" class="p5">Wireless DAQ solutions </a>          </li>
+          <li>            <a href="https://www.mccdaq.com/data-acquisition/digital-IO" target="_new" class="p5">Ethernet-based DAQ and Digital I/O</a>          </li>
+          <li>            <a href="https://www.mccdaq.com/data-acquisition/PCI" target="_new" class="p5">PCI/PCIe multifunction cards</a></li>
+        </ul></td>
+      </tr>
+  </table></tr>
+  <tr class="p4">
+    <td height="16" colspan="3" valign="top" class="p4"><br />
+  </tr>
+  <tr>
+    <td height="295" valign="top"><table width="232" border="0" cellpadding="0" cellspacing="0">
+      <tr>
+        <td width="232" colspan="2" valign="top"><table width="232" height="268" align="left" valign="top">
+          <tr class="p3">
+            <td width="224" height="30" valign="top" class="p3"><font size="1" face="Tahoma" class="p1"><strong>New Product</strong></font></td>
+          </tr>
+          <tr class="p3">
+            <td height="126" valign="top"><strong><a href="/frontend/katalog_detail.php?merk=fbfc671abb49ea8560d36a6d888ca276&amp;form_KatTable=menue2&amp;form_KatID=172&amp;pID=1499"></a></strong><span class="p4"><span class="p42"><strong><a href="https://www.mccdaq.com/Data-Translation/data-loggers" target="_new">Internet-enabled Data Loggers</a><br />
+              </strong>The WebDAQ Series offers a new data logger architecture that allows configuration and access to your data from anywhere in the world. With an easy-to-use built-in Web Service, virtually unlimited storage, and the ability to set triggers and alarms, you can set up remote data logging applications without complex programming.</span><br />
+              <br />
+              <strong>Call us for further information!<br />
+                </strong>You will find our distributor in your country in the &quot;Help Desk&quot; on the top.<br />
+              <br />
+            </span></td>
+          </tr>
+          <tr class="p3">
+            <td height="16" valign="top"><strong><a href="https://www.mccdaq.com/internet-enabled-data-loggers.aspx"></a></strong></td>
+          </tr>
+        </table></td>
+      </tr>
+    </table>
+      <table width="225" height="20" border="0" cellpadding="0" cellspacing="0">
+        <tr></tr>
+      </table></td>
+    <td valign="top"><table width="313" height="30" border="0" cellpadding="0" cellspacing="0">
+      <tr>
+        <td width="313" height="72" colspan="2" valign="top"><strong><em></em></strong>
+          <table width="314" height="221" border="0">
+            <tr class="p3">
+              <td width="308" height="30" valign="top" class="p3"><font size="1" face="Tahoma" class="p1"><strong>Latest News</strong></font></td>
+            </tr>
+             <tr class="p3">
+               <td height="28" valign="top" class="p4">Please  look at our<strong> <a href="https://www.mccdaq.com/Press-Room" target="_new">Press Room</a> </strong>on our new Measurement Computing Website.</td>
+             </tr>
+            <tr class="p3">
+              <td height="16" valign="top">&nbsp;</td>
+            </tr>
+            <tr class="p3">
+              <td valign="top"><strong><a href="https://www.mccdaq.com/internet-enabled-data-loggers.aspx" target="_new"><img src="../img/home/WebDAQ_200.jpg" alt="" width="200" height="192" /></a></strong></td>
+            </tr>
+          </table></td>
+      </tr>
+    </table>
+      <table width="323" height="23">
+        <tr class="p3"></tr>
+      </table></td>
+    <td valign="top"><table width="219" border="0">
+      <tr>
+        <td height="30" valign="top" class="p51"><font size="1" face="Tahoma" class="p1"><strong>Product Catalog</strong></font></td>
+      </tr>
+       <tr>
+         <td align="center"><a href="https://www.mccdaq.com/support/CatRequest" target="_new"><img src="../img/home/MCC-DAQ-Catalog.jpg" width="220" height="285" /></a></td>
+       </tr>
+    </table></td>
+  </tr>
+  
+
+
+
+  <tr>
+    <td height="96" colspan="3" bgcolor="#F2F2F2"><p class="p2">Data Translation - now Measurement Computing - is a leading designer and manufacturer of high-quality PC-based and embedded ARM-based Data Acquisition (DAQ) solutions for the test and measurement market. We offer a wide range of USB, Ethernet and PCI data acquisition modules and devices for temperature, voltage, and sound and vibration as well as supporting software solutions for any application and budget. With over 100 modules from low cost to high performance, high-accuracy, we have a solution to meet your needs.</p></td>
+  </tr>
+
+</table>
+
+</body>
+</html>
+  <!-- Ende Inhalt für Selbstpflege //-->
+
+
+  <table border="0" cellpadding="0" cellspacing="0" width="1%">
+  <tr>
+    <td valign="top" ></td>
+    <td><img src="img/dot.gif" width="20" height="1" border="0"></td>
+    <td valign="top" ></td>
+  </tr>
+    </table>
+  <br>
+    </div>
+</div>
+</div>
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-3866531-1");
+_gat._anonymizeIp();
+pageTracker._trackPageview();
+} catch(err) {}</script>
+</body>
+</html>
+
+

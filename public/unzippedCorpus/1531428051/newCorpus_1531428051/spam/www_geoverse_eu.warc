@@ -1,0 +1,225 @@
+WARC/1.0
+WARC-Type: warcinfo
+WARC-Date: 2018-05-30T17:52:31Z
+WARC-Record-ID: <urn:uuid:65181409-a523-465b-89b8-dea6dffb6291>
+WARC-All-Language: en
+WARC-All-Content_type: text/html
+Content-Type: application/http;msgtype=response
+Content-Length: 46
+
+WARCProcessor by SING Group www.sing-group.com
+
+WARC/1.0
+WARC-Type: response
+WARC-Record-ID: <http://www.geoverse.eu>
+WARC-Date: 20180530175231
+WARC-Target-URI: http://www.geoverse.eu
+WARC-Language: en
+Content-Type: application/http;msgtype=response
+Content-Length: 7974
+
+HTTP/1.1 200
+Content-Type:text/html
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" 
+   "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+	<head>
+		<title>Geoverse</title>
+		<meta http-equiv="Content-Type" content="application/xhtml+xml; charset=UTF-8" />
+		<meta name="author" content="Robert Farla" />
+		<meta name="keywords" content="Robert Farla, Rex Mundi, curriculum vitae, project, geology, geologie, geosciences, aardwetenschappen, geoverse, geoworld, impedance analyser, Olivine, electrical, conductivity, study, qmp, qcd, skins, wallpapers" />
+		<meta name="description" content="Website of Robert Farla with contact information, curriculum vitae, projects, hobbies, links, and more" />
+		<meta name="robots" content="all" />
+		<link rel="stylesheet" href="css.css" type="text/css" />
+		<script type="text/javascript" src="external.js"></script>
+		<script language="JavaScript" type="text/javascript">
+<!--
+var timerID = null
+var timerRunning = false
+
+function stopclock()
+{
+	if(timerRunning)
+		clearTimeout(timerID)
+	timerRunning = false
+}
+
+function startclock()
+{
+	stopclock()
+	showtime()
+}
+
+function showtime()
+{
+	var now = new Date()
+    var hours
+	var minutes
+	var seconds
+	var totsecs
+	var now
+	var day
+	var month
+	var year
+	var dectime
+	var centidays
+	var qd
+	var def
+	var idl
+	var umtcd
+    var umtqd
+	var cd
+
+	// Local
+	hours = now.getHours()
+	minutes = now.getMinutes()
+	seconds = now.getSeconds()
+	totsecs = hours*3600
+	totsecs += minutes*60
+	totsecs += seconds
+	totsecs += (now.getTime() % 1000) / 1000
+	
+	// Decimal
+	dectime = totsecs / .864
+	cd = ((dectime - (dectime % 1000)) / 1000)
+	//var secs = (dectime - (dectime % 1) - (centidays * 864))
+	qd = (dectime - (dectime % 1) - (cd * 1000))
+
+	// IDL
+	def = now.getTimezoneOffset()
+	idl = ((60 * now.getHours()) + (def - 720))
+	if (idl < 0) idl = 1440 + idl
+	idl = idl / 60
+	totsecs = idl*3600
+	totsecs += minutes*60
+	totsecs += seconds
+	totsecs += (now.getTime() % 1000) / 1000
+	mtime = totsecs / .864
+	umtcd = ((mtime - (mtime % 1000)) / 1000)
+	umtqd = (mtime - (mtime % 1) - (umtcd * 1000))
+	
+	//var globalcentidays = ((mtime - (mtime % 864)) / 864)
+	//var globalsecs = (mtime - (mtime % 1) - (globalcentidays * 864))
+
+	// Create strings
+	//var localValue = ((centidays < 10) ? "0" : "") + centidays + "."
+	//localValue += ((secs < 10) ? "0" : "") +((secs < 100) ? "0" : "") + secs + " LMT"
+
+	//var globalValue = ((globalcentidays < 10) ? "0" : "") + globalcentidays + "."
+	//globalValue += ((globalsecs < 10) ? "0" : "") +((globalsecs < 100) ? "0" : "") + globalsecs + " UMT"
+		
+	// Create decimal time strings
+	localValue = ((cd < 10) ? "0" : "") + cd + "."
+	localValue  += ((qd < 10) ? "0" : "") + ((qd < 100) ? "0" : "") + qd + " LMT"
+	
+	globalValue = ((umtcd < 10) ? "0" : "") + umtcd + "."
+	globalValue  += ((umtqd < 10) ? "0" : "") + ((umtqd < 100) ? "0" : "") + umtqd + " UMT"
+	
+	document.local_cday_second_time.face.value = localValue
+	document.global_cday_second_time.face.value = globalValue
+	timerID = setTimeout("showtime()", 86)
+	timerRunning = true
+}
+//-->
+</script>
+</head>
+<body onload="startclock();">
+
+<div id="wrap">
+<div id="nav3">
+		<div class="navigation">
+		<table>
+			<form NAME="local_cday_second_time">
+			<tr>
+			<td><br />
+			<h6>METRIC TIME</h6>
+			<p>Local:</p><br />
+			<input id ="mtime" type="text" name="face" size="10" value="No JS" />
+			</td>
+			</tr>
+			</form>
+			
+			<form NAME="global_cday_second_time">
+			<tr>
+			<td>
+			<p>Universal:</p><br />
+			<input id ="mtime" type="text" name="face" size="10" value="No JS" />
+			</td>
+			</tr>
+			</form>
+		</table>
+			<div class="active"><a href="news.php">News</a></div>
+			<a href="blog.html" title="The weblog">Geo Blog</a>
+			<a href="picasa.html" title="Picasa photoalbums">My Photos</a>
+			<a href="lynn.html">Lynn's page</a>
+			</div>
+	</div>
+<div id="header">
+		<a href="index.html" ><img src="title.gif" style="border-style: none" alt="" /></a>
+</div>
+<div id="nav">
+<table class="tablenav">
+<tr>
+		<td class="tablenav"><div class="home"><a href="news.php"></a></div></td>
+		<td class="tablenav"><div class="geoworld"><a href="geoworld.php"></a></div></td>
+		<td class="tablenav"><div class="travels"><a href="travels.html"></a></div></td>
+		<td class="tablenav"><div class="files"><a href="files.html"></a></div></td>
+		<td class="tablenav"><div class="projects"><a href="projects.php"></a></div></td>
+		<td class="tablenav"><div class="contact"><a href="contact.html"></a></div></td>
+</tr>
+</table></div>
+<div id="main"><div id="text">
+<br />
+<h3>Quick Links</h3>
+<img src="pictures/bar.gif" alt="" />
+<br /><br />
+<table>
+			<tr>
+				<td class="dt"><a href="http://geoverse.eu/files/resume.html"><img height="80px" src="http://geoverse.eu/buttons/Resume.png" alt="" /></a></td>
+				<td class="dt"><a href="http://geoverse.eu/files/cv.html"><img height="80px" src="http://geoverse.eu/buttons/Pubs.png" alt="" /></a></td>
+				<td class="dt"><a href="http://geoverse.eu/files/reports.html"><img height="80px" src="http://geoverse.eu/buttons/Reports.png" alt="" /></a></td>
+				<td class="dt"><a href="http://geoverse.eu/geoworld/posters.html"><img height="80px" src="http://geoverse.eu/buttons/Posters.png" alt="" /></a></td>
+				<td class="dt"><a href="http://geoverse.eu/geoworld.php"><img height="80px" src="http://geoverse.eu/buttons/Labs.png" alt="" /></a></td>
+			</tr>
+</table>
+<br /><br />
+
+
+		<h3>Welcome to the Geoverse</h3>
+		<img src="pictures/bar.gif" alt="" />		
+		<br /><br />
+		<img src="../pictures/me.jpg" alt="me" class="image_about2" />
+		<p>My name is Robert Farla. I am an experimental geologist and electron microscope expert.<br /><br />
+		A brief CV:-</p>
+		<ul class="a">
+		<li> Born in the Netherlands and lived in Italy for 6 years. </li>
+		<li> Obtained a MSc in Earth Sciences at Utrecht University: 05 Sept 2006. </li>
+		<li> Obtained a PhD in Rock Physics at The Australian National University: 12 March 2011. </li>
+		<li> First post-doctoral position at Yale University: February 2011 - April 2013. </li>
+		<li> Currently a Humboldt post-doctoral fellow at the Bayerisches Geoinstitut, Bayreuth University, Germany. </li>
+		</ul>
+		<p>I am interested in the physical (and chemical) properties of Earth Materials, in particular key mantle minerals olivine (wadsleyite, ringwoodite) and pyroxene. I carry out high temperature and pressure experiments on reconstituted polycrystalline samples to determine:-</p>
+		<ul class="a">
+		<li> Mechanical properties (rheology/mantle flow) </li>
+		<li> Microstructural evolution (e.g. strain localisation) </li>
+		<li> Electrical conductivity properties </li>
+		<li> Seismic properties (wave velocity, attenuation, etc.) </li>
+		</ul>
+		<p>Using a laboratory approach, I aim to place physical constraints on large-scale models that reconcile direct observations (deformation related to mountain building, subduction and rifting) and indirect observations (magnetotellurics, seismic tomography, geodynamics) to understand how and why the Earth exhibits plate-tectonics style mantle convection. New discoveries about the internal dynamic motion of the Earth helps to understand the fate of planetary bodies (Venus & Mars) in our solar system and of other rocky exo-planets, which may have the potential to support life. Earth Scientists, including myself, not only play an important role for assessing continued habitability on Earth (in terms of resources and hazards) but are also indispensable for space exploration. 
+		<br /><br />
+		Navigate this website using the links provided in the top bar. Any links in the side-bar on the left contain additional information.
+		For photos, see the <a href="http://geoverse.eu/geoworld.php"><img src="http://geoverse.eu/buttons/geoworld.png" height="20px" alt="" /></a> link.
+     	<br /><br />
+		Note: The link 'Lynn's page' will lead you to my wife's craft and artwork site.</p>
+
+		</div>
+	</div>
+	</div>
+</body>
+</html>
+
+
+

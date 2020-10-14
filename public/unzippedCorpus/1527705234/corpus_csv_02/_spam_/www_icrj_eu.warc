@@ -1,0 +1,113 @@
+WARC/1.0
+WARC-Type: warcinfo
+WARC-Date: 2018-05-30T17:52:31Z
+WARC-All-Language: en
+WARC-All-Content_type: text/html; charset=UTF-8
+WARC-Record-ID: <urn:uuid:6ff543eb-8da6-4a5d-b885-7a6c88bcaf52>
+Content-Type: application/http;msgtype=response
+Content-Length: 46
+
+WARCProcessor by SING Group www.sing-group.com
+
+WARC/1.0
+WARC-Type: response
+WARC-Target-URI: http://www.icrj.eu
+WARC-Date: 20180530175231
+WARC-Language: en
+WARC-Record-ID: <http://www.icrj.eu>
+Content-Type: application/http;msgtype=response
+Content-Length: 9121
+
+HTTP/1.1 200
+Content-Type:text/html; charset=UTF-8
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>Homepage - International CLIL Research Journal</title>
+<meta name="description" content="Online Research Journal about Content and Language Integrated Learning (CLIL)." />
+<meta name="keywords" content="clil, language, learning, multilingual, bilingualism, trilingualism, research, lifelong learning programme, european union, university of jyväskylä" />
+<meta name="viewport" content="width=device-width" />
+<meta name="designer" content="jüri klyszejko" />
+<meta http-equiv="ImageResize" content="no" />
+<meta http-equiv="ImageToolbar" content="no" />
+<meta name="MSSmartTagsPreventParsing" content="true" />
+<link type="text/css" rel="stylesheet" href="/styles.css" /><!-- ?775 -->
+<link rel="shortcut icon" type="image/x-icon" href="/favicon.ico" />
+<!-- google analytics -->
+<script type="text/javascript">
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-3246963-7', 'auto');
+  ga('send', 'pageview');
+</script>
+<!-- // 193.147.87.218 -->
+<!-- end google analytics -->
+</head>
+<body class="main" onload="divH(); setInterval('divH()', 50);"><!-- divH for some older and mobile browsers -->
+<div id="wrapper" style="position: relative; width: 940px; margin: 0 auto; background: url(/images/back_main.png) center top repeat-y; min-height: 590px;">
+<div id="header" style="position: relative; width: 900px; height: 140px; margin: 0 20px; background: url(/images/back_header.png) center top no-repeat;">
+<div id="headline" style="position: absolute; top: 94px; right: 30px; width: 620px; text-align: right; font-family: Verdana, Arial, sans-serif; font-size: 10px; color: #dddddd; line-height: 14px; font-style: normal; padding-left: 30px;">
+</div><!-- //headline -->
+</div><!-- //header -->
+<div id="printpage" class="printsave" style="position: absolute; top: 140px; left: 240px; width: 650px; height: 28px; text-align: right; vertical-align: top;"><a href="javascript:void(0);" onclick="winOpen('http://www.icrj.eu/voljournal/home.php?loc=http%3A%2F%2Fwww.icrj.eu%2F&amp;vol=journal&amp;issue=','article',1,1,760,screen.availHeight);" class="printsave" title="Print the content page">Print</a> &nbsp; | &nbsp; <a href="http://www.icrj.eu/dl.php?file=voljournal/pdf/ICRJ-home.pdf" class="printsave" title="Save the content page in PDF format">Save</a></div>
+
+<div id="content" style="position: absolute; top: 168px; left: 240px; width: 680px; overflow: auto;">
+<!-- <script type="text/javascript">//divH();</script> -->
+<div class="column">
+<h1><strong>Welcome to the International CLIL Research Journal</strong></h1>
+<p>The ICRJ is an electronic refereed journal which acts as a platform for researchers across the world who work on Content and Language Integrated Learning (CLIL). Research in this field is often published in a range of journals reflecting different disciplines. The ICRJ attempts to consolidate insights and research findings into a single publication so as to enhance accessibility to those in the field. </p>
+<p>In addition to developing an evidence-base for CLIL, the ICRJ is a catalyst for forging links between inter-disciplinary research networks. </p>
+<p>The ICRJ is jointly administered by Valencia International University (VIU), Spain and ECF, University of Jyväskylä Group, Finland. Each future issue will be produced in partnership with other universities.</p>
+<p style="margin-top: 30px; font-family: 'Times New Roman', Times, serif; float: left;">ISSN 1797-948X</p>
+<p style="margin-top: 30px; margin-bottom: 20px; text-align: right; float: right; clear: right;"><!--<img src="../images/logo_ccn.gif" alt="" width="52" height="53" style="margin-right: 70px;" />--><img src="../images/logo_llp.png" alt="" width="132" height="48" style="margin-right: 20px;" /></p>
+<div class="clearfix"></div>
+<div class="hrow"></div>
+<!--<hr style="margin-bottom: 10px; clear: both;" />-->
+<!--<p style="font-size: 11px; line-height: 14px; margin: 0 0 20px 0;">This project has been funded with support from the European Commission. This publication reflects the views only of the authors, and the Commission cannot be held responsible for any use which may be made of the information contained therein.</p>-->
+</div>
+<div class="clearfix"></div>
+</div><!-- //content -->
+
+<div id="menu" style="position: absolute; top: 140px; left: 21px; width: 219px;">
+<div><a href="http://www.icrj.eu/" onmouseout="MM_swapImgRestore();" onmouseover="MM_swapImage('but1','','http://www.icrj.eu/images/but1b.png',1); window.status=''; return true;"><img src="http://www.icrj.eu/images/but1b.png" alt="" name="but1" width="219" height="28" border="0" id="but1" style="margin-bottom: 1px;" /></a></div>
+<div><a href="http://www.icrj.eu/journal/contact.html" onmouseout="MM_swapImgRestore();" onmouseover="MM_swapImage('but2','','http://www.icrj.eu/images/but2b.png',2); window.status=''; return true;"><img src="http://www.icrj.eu/images/but2.png" alt="" name="but2" width="219" height="28" border="0" id="but2" style="margin-bottom: 1px;" /></a></div>
+<div><a href="http://www.icrj.eu/journal/editorial-board.html" onmouseout="MM_swapImgRestore();" onmouseover="MM_swapImage('but3','','http://www.icrj.eu/images/but3b.png',3); window.status=''; return true;"><img src="http://www.icrj.eu/images/but3.png" alt="" name="but3" width="219" height="28" border="0" id="but3" style="margin-bottom: 1px;" /></a></div>
+<div><a href="http://www.icrj.eu/journal/advisory-board.html" onmouseout="MM_swapImgRestore();" onmouseover="MM_swapImage('but4','','http://www.icrj.eu/images/but4b.png',4); window.status=''; return true;"><img src="http://www.icrj.eu/images/but4.png" alt="" name="but4" width="219" height="28" border="0" id="but4" style="margin-bottom: 1px;" /></a></div>
+<div><a href="http://www.icrj.eu/journal/manuscript-guidelines.html" onmouseout="MM_swapImgRestore();" onmouseover="MM_swapImage('but6','','http://www.icrj.eu/images/but6b.png',6); window.status=''; return true;"><img src="http://www.icrj.eu/images/but6.png" alt="" name="but6" width="219" height="28" border="0" id="but6" style="margin-bottom: 1px;" /></a></div>
+<div><a href="http://www.icrj.eu/21/contents.html" onmouseout="MM_swapImgRestore();" onmouseover="MM_swapImage('but7','','http://www.icrj.eu/images/but7b.png',7); window.status=''; return true;"><img src="http://www.icrj.eu/images/but7.png" alt="" name="but7" width="219" height="28" border="0" id="but7" style="margin-bottom: 1px;" /></a></div>
+<div id="divb1"  style="display: none;">
+<div id="diva1"><img src="/images/spacer.gif" alt="" width="40" height="1" /></div><!-- placeholder for javascript -->
+</div>
+
+<div id="diva2" style="display: block;">
+<a href="javascript:void(0);" onclick="disp('diva2','divb2',kogus);" onmouseout="MM_swapImgRestore();" onmouseover="MM_swapImage('but8','','/images/but8b.png',8); window.status=''; return true;"><img src="/images/but8.png" alt="" name="but8" width="219" height="28" border="0" id="but8" style="margin-bottom: 1px;" /></a>
+</div><!-- //diva2 -->
+
+<div id="divb2" style="display: none; clear: left;">
+<a href="javascript:void(0);" onclick="disp('divb2','diva2',kogus);" onmouseout="MM_swapImgRestore();" onmouseover="MM_swapImage('but8','','/images/but8b.png',8); window.status=''; return true;"><img src="/images/but8b.png" alt="" name="but8b" width="219" height="28" border="0" id="but8b" style="margin-bottom: 1px;" /></a>
+<div id="archive" style="padding: 4px 0 4px 20px; clear: left;">
+<p class="submenu_item"><a href="http://www.icrj.eu/14/contents.html">Issue &nbsp; Vol 1 (4) 2012</a></p><!-- update -->
+<p class="submenu_item"><a href="http://www.icrj.eu/13/contents.html">Issue &nbsp; Vol 1 (3) 2010</a></p>
+<p class="submenu_item"><a href="http://www.icrj.eu/12/contents.html">Issue &nbsp; Vol 1 (2) 2009</a></p>
+<p class="submenu_item"><a href="http://www.icrj.eu/11/contents.html">Issue &nbsp; Vol 1 (1) 2008</a></p>
+</div><!-- //archive -->
+</div><!-- //divb2 -->
+
+<!-- update -->
+<div><a href="http://www.icrj.eu/journal/journal-search.html" onmouseout="MM_swapImgRestore();" onmouseover="MM_swapImage('but9','','http://www.icrj.eu/images/but9b.png',9); window.status=''; return true;"><img src="http://www.icrj.eu/images/but9.png" alt="" name="but9" width="219" height="28" border="0" id="but9" style="margin-bottom: 1px;" /></a></div>
+<!-- update -->
+<div style="height: 3px; background-color: #15254b;"></div>
+</div><!-- //menu -->
+</div><!-- //wrapper -->
+<!-- <script type="text/javascript" src="/js/jquery.min.js"></script> -->
+<script type="text/javascript" src="/js/scriptid.js"></script>
+</body>
+</html>
+
+

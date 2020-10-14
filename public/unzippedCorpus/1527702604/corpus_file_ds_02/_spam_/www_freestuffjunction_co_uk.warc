@@ -1,0 +1,575 @@
+WARC/1.0
+WARC-Type: warcinfo
+WARC-Date: 2018-05-23T07:59:32Z
+WARC-All-Language: en
+WARC-All-Content_type: text/html; charset=UTF-8
+WARC-Record-ID: <urn:uuid:1a43ab89-9668-4b92-b14a-ac38a52e02a7>
+Content-Type: application/http;msgtype=response
+Content-Length: 46
+
+WARCProcessor by SING Group www.sing-group.com
+
+WARC/1.0
+WARC-Type: response
+WARC-Target-URI: http://www.freestuffjunction.co.uk
+WARC-Date: 20180523075932
+WARC-Language: en
+WARC-Record-ID: <http://www.freestuffjunction.co.uk>
+Content-Type: application/http;msgtype=response
+Content-Length: 35695
+
+HTTP/1.1 200
+Content-Type:text/html; charset=UTF-8
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+<title>
+Free Stuff Junction - UK free stuff, freebies, and samples
+</title>
+<meta name="description" content="A large collection of only the best UK free stuff. The original UK freebie site, going strong for more than 10 years, updated regularly. If you love getting free stuff and samples through your letter box, Free Stuff Junction is for you." />
+<meta name="keywords" content="free stuff, free samples, free, free offers, free food, freebies, offers, bargains, freestuff, free stuf, freestuf, freestuffjunction, freestuffjuntion, freestufjunction" />
+<meta name="robots" content="index follow" />
+<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+<meta http-equiv="content-language" content="en" />
+<meta name="rating" content="general" />
+<meta name="google-site-verification" content="Jj-1poVqU1XT8BfWz1C6VzTt4TzrsZ0ZWLFWfl0qXrA" />
+<meta name="msvalidate.01" content="941CFD807E792ABB8353D977570B9031" />
+<meta name="verification" content="7040ee14d522ad3dce880cc8da3864eb" />
+<style type="text/css">
+/*<![CDATA[*/
+body { background-color: white; font-family: Arial; font-size: 12px; } 
+img { border: 0px; }
+img.bann_img { padding: 0px; margin: 5px; float: left; }
+
+/*
+padding: defines the space between the element border and the element content.
+margin: clears an area around an element (outside the border). The margin does not have a background colour, and is completely transparent.
+short hand order: top, right, bottom, left
+*/
+
+p.nomargins { padding: 0px; margin: 0px; }
+p.header_a { padding: 2px; margin: 0px; background-color: antiquewhite; font-weight: bold; }
+/* p.header_b { padding: 2px; margin: 2px; font-style: italic; font-weight: bold; font-size: 10px; } DELETE AFTER A WHILE */
+p.listing_ads { padding: 5px; margin: 0px; }
+p.listing_descr { padding: 0px; margin: 0px; text-align: justify; }
+p.prev_next { font-size: 14px; font-weight: bold; }
+p.home_listings { padding: 2px; margin: 3px 0px 0px 0px; background-color: #F7F7FF; }
+p.last_updated { padding: 2px; margin: 3px 0px 0px 0px; color: darkred; font-weight: bold; background-color: #F7F7FF; }
+p.title_bold { font-size: 14px; font-weight: bold; }
+p.txt_italics { font-style: italic; }
+
+a.ad_title { font-size: 14px; }
+a.jqbookmark:link { text-decoration: underline; color: blue; }
+a.jqbookmark:visited { text-decoration: underline; color: blue; }
+a#set_homepage { text-decoration: underline; color: blue; cursor: hand; }
+
+/* Navigation lists */
+ul.my_nav_ul { padding: 0px; margin: 0px; list-style-type: none; }
+li.nav_title { padding: 0px; margin: 0px 0px 2px 0px; text-align: center; font-weight: bold; background-color: antiquewhite; }
+li.nav_link { padding: 2px; margin: 0 0 2px 0; background-color: #F7F7FF; }
+.nav_link_a { text-decoration: none; }
+
+/* Main structure divs */
+#top_main_row { padding: 0px; margin: 0px; width: 100%; max-width: 960px; }
+#bottom_main_row { padding: 0px; margin: 0px; width: 100%; max-width: 960px; clear: left; }
+#left_main_col { padding: 0px; margin: 2px; float: left; clear: left; width: 15%; min-width: 100px; max-width: 150px; border-style: solid; border-width: thin; }
+#right_main_col { padding: 0px; margin: 0px; float: left; width: 83%; max-width: 805px; }
+
+/* Top logo and mini forms */
+#div_fsjlogo { padding: 0px; margin: 5px 10px 5px 5px; float: left; width: 32%; min-width: 300px; }
+#div_newsl_form { padding: 0px; margin: 5px 10px 5px 10px; float: left; width: 22%; min-width: 180px; }
+#div_search { padding: 0px; margin: 5px 10px 5px 10px; float: left; width: 26%; min-width: 180px; }
+
+/* Only used when showing home page */
+div.right_col_box { padding: 0px; margin: 0px 0px 0px 10px; float: left; width: 48%; }
+
+#cat_content { padding: 0px; margin: 0px 0px 0px 30px; width: 90%; }
+
+/* Listings page Banners */
+#div_bann_top { padding: 0px; margin: 0px 0px 0px 10px; max-width: 790px; }
+div.ad_single_listing { padding: 5px; margin: 0px 0px 5px 0px; background-color: #F7F7FF; clear: left; }
+
+div.right_col_std_row { padding: 0px 0px 0px 10px; margin: 0px; max-width: 790px; }
+div.right_col_std_row_cntrd { padding: 0px 0px 0px 10px; margin: 0px; max-width: 790px; text-align: center; }
+
+/* Bits in between banners and listings */
+#div_listings_title { padding: 5px 15px 5px 0px; margin: 0px; float: left; }
+#div_facebooklogo { padding: 5px 0px 5px 15px; margin: 0px; float: right; width: 144px; }
+#div_twitterlogo { padding: 5px 0px 5px 15px; margin: 0px; float: right; width: 100px; }
+
+div.listings_row { padding: 10px 0px 10px 10px; margin: 0px; max-width: 790px; clear: left; }
+div.listings_column_1 { padding: 5px; margin: 0px; width: 47%; float: left; background-color: #F7F7FF; border-style: dashed none none none; border-width: 1px; }
+div.listings_column_2 { padding: 5px; margin: 0px 0px 0px 10px; width: 47%; float: left; background-color: #F7F7FF; border-style: dashed none none none; border-width: 1px; }
+div.div_prev_next { padding: 10px 0px 0px 0px; margin: 0px; clear: left; }
+
+#ukiform_outer { padding: 10px 15px 10px 5px; margin: 0px; float: left; }
+div.ukiform_inner { padding: 0px; margin: 0px; float: left; }
+
+div#sendfriend { padding: 5px 10px 5px 10px; margin: 0px; float: left; }
+div#bookmark_home { padding: 5px 10px 5px 10px; margin: 0px; float: right; }
+/*]]>*/
+</style>
+<script type="text/javascript" src="/jquery.js">
+</script>
+<script type="text/javascript">
+//<![CDATA[
+/*
+ * jqBookmark - a jquery Bookmark script
+ *
+ * LICENSE
+ *
+ * This source file is subject to the new BSD license that is bundled
+ * with this package in the file license.txt.
+ * If you did not receive a copy of the license and are unable to
+ * obtain it through the world-wide-web, please send an email
+ * to calisza@gmail.com so we can send you a copy immediately.
+ *
+ */
+$(document).ready(function(){
+        // add a "rel" attrib if Opera 7+
+        if(window.opera) {
+                if ($("a.jqbookmark").attr("rel") != ""){
+                        $("a.jqbookmark").attr("rel","sidebar");
+                } 
+        }
+
+        $("a.jqbookmark").click(function(event){
+                event.preventDefault();
+                var url = this.href;
+                var title = this.title;
+                
+                if (window.sidebar) { // Mozilla Firefox Bookmark
+                        window.sidebar.addPanel(title, url,"");
+                } else if( window.external ) { // IE Favorite
+                        window.external.AddFavorite( url, title);
+                } else if(window.opera) { // Opera 7+
+                        return false; // do nothing
+                } else { 
+                         alert('Unfortunately, this browser does not support the requested action,'
+                         + ' please bookmark this page manually.');
+                }
+        
+        });
+});
+
+/**
+ * jQuery-Plugin "clearField"
+ * 
+ * @version: 1.1, 04.12.2010
+ * 
+ * @author: Stijn Van Minnebruggen
+ *          stijn@donotfold.be
+ *          http://www.donotfold.be
+ * 
+ * @example: $('selector').clearField();
+ * @example: $('selector').clearField({ blurClass: 'myBlurredClass', activeClass: 'myactiveClass' });
+ * 
+ */
+        
+        (function($){$.fn.clearField=function(s){s=jQuery.extend({blurClass:'clearFieldBlurred',activeClass:'clearFieldActive',attribute:'rel',value:''},s);return $(this).each(function(){var el=$(this);s.value=el.val();if(el.attr(s.attribute)==undefined){el.attr(s.attribute,el.val()).addClass(s.blurClass)}else{s.value=el.attr(s.attribute)}el.focus(function(){if(el.val()==el.attr(s.attribute)){el.val('').removeClass(s.blurClass).addClass(s.activeClass)}});el.blur(function(){if(el.val()==''){el.val(el.attr(s.attribute)).removeClass(s.activeClass).addClass(s.blurClass)}})})}})(jQuery);
+
+
+
+
+$(document).ready(function() {
+        $('.clearField').clearField();
+});
+
+
+
+function tell_friend(){
+        var path_to_script="http://www.freestuffjunction.co.uk/referrer/referrer.php?id=eddie6671";
+        path_to_script += '&url=' + escape(document.location);
+        window.open(path_to_script,"FRIENDS01","STATUS=NO,TOOLBAR=NO,LOCATION=NO,DIRECTORIES=NO,COPYHISTORY=NO,MENU=NO,RESISABLE=NO,SCROLLBARS=YES,TOP=40,LEFT=20,WIDTH=300,HEIGHT=500");
+}
+
+// put any custom javascript in here which is run on page load
+$(document).ready(function() {
+
+        // open links with rel="external" in a new window
+        $("a[rel=external]").attr('target', '_blank');
+
+        if (self != top) {
+        top.location = self.location;
+        }
+
+});
+
+
+
+//]]>
+</script>
+</head>
+<body>
+<div id="top_main_row">
+<div id="div_fsjlogo">
+<a href="/"><img src="/fsjlogo.jpg" height="46" width="300" alt="Free Stuff Junction logo" /></a>
+</div>
+<form id="newsl" action="/e.php" method="post">
+<div id="div_newsl_form">
+Get the latest free stuff once a week<br />
+<input class="clearField" type="text" name="email" size="15" value="your eMail" /> <input class="go_img" type="image" src="/go.gif" />
+</div>
+</form>
+<form id="search" action="/search/" method="post">
+<div id="div_search">
+Search for free stuff<br />
+<input type="text" name="keywords" size="15" /> <input id="search_img" type="image" src="/search.gif" />
+</div>
+</form>
+</div>
+<div id="bottom_main_row">
+<div id="left_main_col">
+<ul class="my_nav_ul">
+<li class="nav_title">Freebies
+</li>
+<li class="nav_link">
+<a class="nav_link_a" href="/audio-video-free-stuff.html">Audio &amp; Video Freebies</a>
+</li>
+<li class="nav_link">
+<a class="nav_link_a" href="/free-books-magazines.html">Books &amp; Magazines</a>
+</li>
+<li class="nav_link">
+<a class="nav_link_a" href="/cashback-rewards.html">Cashback &amp; Rewards</a>
+</li>
+<li class="nav_link">
+<a class="nav_link_a" href="/free-cinema-tickets.html">Cinema Tickets</a>
+</li>
+<li class="nav_link">
+<a class="nav_link_a" href="/consumer-advice.html">Consumer Advice</a>
+</li>
+<li class="nav_link">
+<a class="nav_link_a" href="/free-email-providers.html">E-mail</a>
+</li>
+<li class="nav_link">
+<a class="nav_link_a" href="/free-food-drink.html">Food &amp; Drink Freebies</a>
+</li>
+<li class="nav_link">
+<a class="nav_link_a" href="/free-wifi.html">Free Wifi</a>
+</li>
+<li class="nav_link">
+<a class="nav_link_a" href="/health-beauty-samples-free-stuff.html">Health &amp; Beauty</a>
+</li>
+<li class="nav_link">
+<a class="nav_link_a" href="/free-knowledge.html">Knowledge</a>
+</li>
+<li class="nav_link">
+<a class="nav_link_a" href="/linux-free-software.html">Linux</a>
+</li>
+<li class="nav_link">
+<a class="nav_link_a" href="/miscellaneous-free-stuff.html">Miscellaneous</a>
+</li>
+<li class="nav_link">
+<a class="nav_link_a" href="/pet-free-stuff.html">Pet Free Stuff</a>
+</li>
+<li class="nav_link">
+<a class="nav_link_a" href="/free-sim-cards-and-sms-text-messages.html">SIM Cards &amp; SMS</a>
+</li>
+<li class="nav_link">
+<a class="nav_link_a" href="/student-free-stuff-offers.html">Student Free Stuff</a>
+</li>
+<li class="nav_link">
+<a class="nav_link_a" href="/free-stuff-for-teachers.html">Teacher Free Stuff</a>
+</li>
+<li class="nav_link">
+<a class="nav_link_a" href="/travel-free-stuff.html">Travel &amp; Holidays</a>
+</li>
+<li class="nav_link">
+<a class="nav_link_a" href="/free-tv-audience-tickets.html">TV Audience Tickets</a>
+</li>
+<li class="nav_link">
+<a class="nav_link_a" href="/free-stuff-for-webmasters.html">Webmaster</a>
+</li>
+<li class="nav_link">
+<a class="nav_link_a" href="/windows-freeware.html">Windows Freeware</a>
+</li>
+</ul>
+<ul class="my_nav_ul">
+<li class="nav_title">Bargains
+</li>
+<li class="nav_link">
+<a class="nav_link_a" href="/best-credit-cards.html">Best Credit Cards</a>
+</li>
+<li class="nav_link">
+<a class="nav_link_a" href="/cash-for-old-mobile-phone.html">Cash for Old Mobiles</a>
+</li>
+<li class="nav_link">
+<a class="nav_link_a" href="/comparison-engines.html">Comparison Engines</a>
+</li>
+<li class="nav_link">
+<a class="nav_link_a" href="/free-cheap-domain-names.html">Domain Names</a>
+</li>
+<li class="nav_link">
+<a class="nav_link_a" href="/free-cheap-phone-calls.html">Phone Calls</a>
+</li>
+</ul>
+<ul class="my_nav_ul">
+<li class="nav_title">UKInbox Webmail
+</li>
+<li class="nav_link">
+<a class="nav_link_a" href="/ukinbox-login.html">Login</a>
+</li>
+</ul>
+<ul class="my_nav_ul">
+<li class="nav_title">Ad-free...
+</li>
+<li class="nav_link">
+<a class="nav_link_a" href="/hscripts.html">Hosted CGI</a>
+</li>
+<li class="nav_link">
+<a class="nav_link_a" href="/url-redirection.html">URL Redirection</a>
+</li>
+<li class="nav_link">
+<a class="nav_link_a" href="/ad-free-bannerless-web-hosting.html">WebHosts</a>
+</li>
+<li class="nav_link">
+<a class="nav_link_a" href="/ad-free-bannerless-web-space.html">WebSpace</a>
+</li>
+</ul>
+<ul class="my_nav_ul">
+<li class="nav_title">For Webmasters
+</li>
+<li class="nav_link">
+<a class="nav_link_a" href="/link-to-us.html">Link to us</a>
+</li>
+<li class="nav_link">
+<a class="nav_link_a" href="/free-stuff-for-webmasters.html">Webmaster</a>
+</li>
+</ul>
+<ul class="my_nav_ul">
+<li class="nav_title">Other Stuff
+</li>
+<li class="nav_link">
+<a class="nav_link_a" href="/about-us.html">About Us</a>
+</li>
+<li class="nav_link">
+<a class="nav_link_a" href="/contact.html">Contact</a>
+</li>
+<li class="nav_link">
+<a class="nav_link_a" href="/newsletter.html">Newsletter</a>
+</li>
+<li class="nav_link">
+<a class="nav_link_a" href="/privacy-policy.html">Privacy Policy</a>
+</li>
+<li class="nav_link">
+<a class="nav_link_a" href="/suggest-a-freebie.html">Suggest a Freebie</a>
+</li>
+<li class="nav_link">
+<a class="nav_link_a" href="/testimonials.html">Testimonials</a>
+</li>
+</ul>
+<ul class="my_nav_ul">
+<li class="nav_title">Links
+</li>
+<li class="nav_link">
+<a class="nav_link_a" href="/other-freebie-sites.html">Other Freebie Sites</a>
+</li>
+</ul>
+</div>
+<div id="right_main_col">
+<div class="right_col_box">
+<div id="div_latest_listings">
+<p class="header_a">
+Best of the latest free stuff
+</p>
+<p class="last_updated">
+Freebies last updated Wed 21st August, 1:16 PM UK time
+</p>
+<p class="home_listings">
+<b>&bull; &pound;5 off a &pound;30 spend at Lidl</b><br />
+&quot;Like&quot; Lidl&#039;s Facebook page and you can then print off a voucher giving you for &pound;5 off a &pound;30 spend in-store, between Thursday 22nd and Monday 26th August 2013.<br />
+<i>From the <a href="/free-food-drink.html">Food &amp; Drink Freebies</a> page.</i>
+</p>
+<p class="home_listings">
+<b>&bull; Free L&#039;Occitane Hair Care Duo sample</b><br />
+&quot;Like&quot; their Facebook page and then claim your free 35ml sample of Hair Care Duo at a participating UK L&#039;OCCITANE boutique.<br />
+<i>From the <a href="/health-beauty-samples-free-stuff.html">Health &amp; Beauty</a> page.</i>
+</p>
+<p class="home_listings">
+<b>&bull; <i>i</i> newspaper free for 4 weeks</b><br />
+<i>i</i> newspaper was launched by The Independent in 2010 as a concise, quality daily paper, for just 20p. It was recently awarded &lsquo;Newspaper of the Year&rsquo;. Fill in the simple form to download and print off a set of vouchers which you can use to claim the <i>i</i> free for 4 weeks from most retailers.<br />
+<i>From the <a href="/free-books-magazines.html">Books &amp; Magazines</a> page.</i>
+</p>
+<p class="home_listings">
+<b>&bull; Free entry to Heritage properties 12th-15th Sept 2013</b><br />
+Between Thurs 12th and Sunday 15th September 2013, England&rsquo;s towns, villages and countryside reveal their hidden secrets, when over 4,000 properties open up for Heritage Open Days, the largest free heritage event in the country.<br />
+<i>From the <a href="/travel-free-stuff.html">Travel &amp; Holidays</a> page.</i>
+</p>
+<p class="home_listings">
+<b>&bull; Free burger for students</b><br />
+The Yellow Card is a popular student discount card you can pick up at pubs such as Scream or Yates, and other outlets. If you have one already, just register it online and you can then claim a free burger. If you don&#039;t already have one, they cost &pound;1, but it entitles you to discounts on drinks as well as other offers and promotions (and of course a free burger when you register the card online).<br />
+<i>From the <a href="/student-free-stuff-offers.html">Student Free Stuff</a> page.</i>
+</p>
+<p class="home_listings">
+<b>&bull; Free Fisher-Price Lion Rattle</b><br />
+Fisher-Price are offering all new mums their baby&#039;s very first toy, a Lion Rattle, for free. Just register online for the Fisher-Price Baby Club to claim yours. Offer ends when all 50,000 samples have been claimed or the 30th December 2013, whichever is earlier.<br />
+<i>From the <a href="/miscellaneous-free-stuff.html">Miscellaneous</a> page.</i>
+</p>
+<p class="home_listings">
+<b>&bull; Free sample of Dorset tea</b><br />
+Dorset Tea are currently giving away free sample packs of tea on their Facebook page until Tuesday 3rd September 2013. The sample pack contains 2 x tag and envelope samples of Dorset Tea and a 50p money off next purchase voucher. They only have a total of 4,900 samples available and they are giving them away in batches, so you will probably have to check a few times before you are allowed to request your sample pack. You have to &quot;Like&quot; their Facebook page to be able to take part in the promotion.<br />
+<i>From the <a href="/free-food-drink.html">Food &amp; Drink Freebies</a> page.</i>
+</p>
+<p class="home_listings">
+<b>&bull; Free Est&eacute;e Lauder Advanced Night Repair sample</b><br />
+Print out this invitation coupon (no registration required) and take it along to your nearest Est&eacute;e Lauder counter. You can then claim a free 7ml deluxe sample of their new Advanced Night Repair Synchronized Recovery Complex II anti ageing serum, when you have a complimentary signature service. Offer ends 31st August 2013.<br />
+<i>From the <a href="/health-beauty-samples-free-stuff.html">Health &amp; Beauty</a> page.</i>
+</p>
+<p class="home_listings">
+<b>&bull; Free Cadburys Crispello chocolate bar</b><br />
+To claim your free Cadburys Crispello chocolate bar, print out the coupon and take it to one of the 1,000 Nisa stores in the UK, many of them in petrol forecourts. <b>To find this freebie</b>, it is one of the offers rotating in the big banner on their home page, so you&#039;ll need to wait a moment before it appears.<br />
+<i>From the <a href="/free-food-drink.html">Food &amp; Drink Freebies</a> page.</i>
+</p>
+<p class="home_listings">
+<b>&bull; Free 100g bag of coffee</b><br />
+Pact coffee&#039;s mission is to make incredible, freshly roasted coffee accessible to everyone. For a limited time, you can claim a free 100g bag with this special offer. You have to provide credit card details as you are signing up for a subscription service. The first bag is free, and if you don&#039;t cancel, you will be charged &pound;6.95/m for your monthly coffee. But you can cancel anytime easily on their website or by giving them a call. <b>To claim this offer</b>: you must type the following URL by hand into your browser: <b>https://www.pactcoffee.com/voucher/introduce?voucher=bbcgf</b> You cannot click through to the offer from here as the website is rejecting visitors clicking through from our site.<br />
+<i>From the <a href="/free-food-drink.html">Food &amp; Drink Freebies</a> page.</i>
+</p>
+<p class="home_listings">
+<b>&bull; Free issue of Garden News magazine</b><br />
+Garden News magazine brings you everything you need to know about your garden each week. You have to ring a freephone number or send an SMS message in order to claim this freebie. Offer closes on September 30th 2013.<br />
+<i>From the <a href="/free-books-magazines.html">Books &amp; Magazines</a> page.</i>
+</p>
+<p class="home_listings">
+<b>&bull; Free sample of ilumi curry</b><br />
+ilumi recipes are naturally nut, gluten and milk free. You can try them yourself for free by requesting a free 275g ready cooked pouch of either Vegetable and Chickpea Jalfrezi, or Kerala Chicken Curry.<br />
+<i>From the <a href="/free-food-drink.html">Food &amp; Drink Freebies</a> page.</i>
+</p>
+<p class="home_listings">
+<b>&bull; Free Eau de Lacoste sample</b><br />
+Request your free sample of Eau de Lacoste L.12.12 Collection, Eau de Lacoste Fragrance, or Eau de Lacoste Noir.<br />
+<i>From the <a href="/health-beauty-samples-free-stuff.html">Health &amp; Beauty</a> page.</i>
+</p>
+<p class="home_listings">
+<b>&bull; Free multipurpose surface wipes samples</b><br />
+Sign up to receive a free sample pack of Sandy&#039;s Extra Strength multipurpose surface wipes, their signature disinfectant wipe that &quot;cleans just about every surface in your home, killing 99.9% of germs and bacteria with a streak- and residue-free shine&quot;.<br />
+<i>From the <a href="/miscellaneous-free-stuff.html">Miscellaneous</a> page.</i>
+</p>
+<p class="home_listings">
+<b>&bull; Use your O2 contract minutes on any device</b><br />
+With O2&#039;s recently launched TuGo software, you can make and receive calls, send and receive texts and check your voicemail on any supported device, not just your phone, and calls and texts come out of your bundle. So you can use your free minutes to make calls from your PC, tablet, or another smartphone, even if it is not on O2. The service works over the internet, so your PC/device needs to have internet access, e.g. Wi-fi. The software is currently available for Apple iOS 5+ devices, Android 2.3.1+ for smartphones/tablets, and Windows 7 only for PC users. It&#039;s currently (June 2013) only available for O2 Pay Monthly but they&#039;re working on making it available for Pay and Go and Business customers.<br />
+<i>From the <a href="/free-cheap-phone-calls.html">Phone Calls</a> page.</i>
+</p>
+<p class="home_listings">
+<b>&bull; Free Est&eacute;e Lauder Double Wear makeup sample</b><br />
+Visit an Est&eacute;e Lauder counter for an iMatch&trade; foundation consultation and take away a complimentary 10-day supply of your perfect shade. Just fill in your details on the voucher form and they&#039;ll email you a voucher to take with you to your nearest store to claim the sample. One 4ml sample per customer while stocks last.<br />
+<i>From the <a href="/health-beauty-samples-free-stuff.html">Health &amp; Beauty</a> page.</i>
+</p>
+<p class="home_listings">
+<b>&bull; Free Good Doer wristband</b><br />
+Goodnet, the gateway on the net to doing good, are giving away a free wristband and inspiration kit. Just answer a few questions to discover what your style of good doing is. <b>Edit (Sun 19th May 18:53):</b> Apparently, you have to have a Facebook account in order to claim this freebie.<br />
+<i>From the <a href="/miscellaneous-free-stuff.html">Miscellaneous</a> page.</i>
+</p>
+<p class="home_listings">
+<b>&bull; Free Dylon Colour Catcher sample</b><br />
+Dylon Colour Catcher helps you save time and money by allowing mixed colour wash loads. Fill in the form to register on their website, and tick the box to indicate you&#039;d like to have free sample.<br />
+<i>From the <a href="/miscellaneous-free-stuff.html">Miscellaneous</a> page.</i>
+</p>
+<p class="home_listings">
+<b>&bull; Free Boiler replacement (check if you are eligible)</b><br />
+If your boiler is not working, you are in receipt of certain benefits, and on a low income, you may be eligible for a free boiler replacement, including the cost of all materials and fitting, under B&amp;Q&#039;s &#039;Feel the Benefit&#039; scheme. Click through for more details.<br />
+<i>From the <a href="/miscellaneous-free-stuff.html">Miscellaneous</a> page.</i>
+</p>
+<p class="home_listings">
+<b>&bull; London Underground free Wifi</b><br />
+Most Virgin Media, EE (T-Mobile and Orange), Vodafone and O2 customers can go online using Wifi for free at 120 London Underground stations. You&#039;ll be able to connect in ticket halls, walkways and platforms. To see if you are eligible, and for further details, see your provider&#039;s page: <a href="http://www.virginmedia.com/wifi" rel="external">Virgin Media</a>, <a href="http://www.ee.co.uk/tubewifi" rel="external">EE</a>, <a href="http://www.vodafone.co.uk/shop/internet/wi-fi/index.htm" rel="external">Vodafone</a>, <a href="http://news.o2.co.uk/?press-release=o2-hops-onto-london-underground-with-virgin-media-wifi" rel="external">O2 (from June 2013)</a>. If you&#039;re not one of these customers, you can purchase a daily, weekly or monthly Virgin Media WiFi Pass to get online, see the Virgin Media page for details.<br />
+<i>From the <a href="/free-wifi.html">Free Wifi</a> page.</i>
+</p>
+<p class="home_listings">
+<b>&bull; Free wifi at Pizza Hut</b><br />
+Pizza Hut UK has teamed up with O2 to launch free wifi across its UK Dine-In restaurants. As with other retailers who have partnered with O2, the service is free for everyone, no matter which mobile or broadband provider you are with. You just sign up once with O2 Wifi and you can then use service in any Pizza Hut UK Dine-In restaurant, or at any of O2&#039;s wifi locations nationwide. O2 Wifi also has a free iPhone and Android app which makes sign-up even easier.<br />
+<i>From the <a href="/free-wifi.html">Free Wifi</a> page.</i>
+</p>
+<p class="home_listings">
+<b>&bull; Free Douwe Egberts Smooth Caramel coffee sample</b><br />
+Experience the rich toffee aroma of Douwe Egberts Smooth Caramel flavoured coffee. Just fill in the form on their Facebook page to request your free sample. There are 150,000 samples available on a first come, first served basis. Offer closes 1st Nov 2013.<br />
+<i>From the <a href="/free-food-drink.html">Food &amp; Drink Freebies</a> page.</i>
+</p>
+<p class="home_listings">
+<b>&bull; Free sample of Huggies Pull-Ups pants</b><br />
+Huggies Pull-Ups pants are specifically designed for potty training. With their fun Disney designs and super stretchy sides, they&#039;ll help your little one on their way to big kid undies. Find out for yourself by requesting a free sample.<br />
+<i>From the <a href="/health-beauty-samples-free-stuff.html">Health &amp; Beauty</a> page.</i>
+</p>
+<p class="home_listings">
+<b>&bull; Free Nivea Dare to Dip Kit</b><br />
+If you pledge on Facebook to take part in a NIVEA Dare to Dip event this summer, they&#039;ll send you a free Dare to Dip kit with NIVEA product samples, including NIVEA Soft and NIVEA In-Shower Moisturiser. They have 55,000 kits available on a first come, first served basis so hurry!<br />
+<i>From the <a href="/health-beauty-samples-free-stuff.html">Health &amp; Beauty</a> page.</i>
+</p>
+<p class="home_listings">
+<b>&bull; Free Luponde tea sample</b><br />
+Click on &quot;Free tea sample&quot; on the bottom left of their home page, and then just fill in the short form to request your free sample. Choose from Black, Green, White, Camomile, Peppermint, or Lemon Verbena tea.<br />
+<i>From the <a href="/free-food-drink.html">Food &amp; Drink Freebies</a> page.</i>
+</p>
+<p class="home_listings">
+<b>&bull; Free Petremedies Flea Comb</b><br />
+petremedies.co.uk stocks pet products and medicines, and they have decided to give away free flea combs to help pet owners in the battle against fleas. Just add the free comb to your basket, and later in the checkout process you&#039;ll find that delivery becomes free too.<br />
+<i>From the <a href="/pet-free-stuff.html">Pet Free Stuff</a> page.</i>
+</p>
+<p class="home_listings">
+<b>&bull; Free Finish dishwasher tablet samples</b><br />
+Finish Quantum Power Gel now comes with a revolutionary new gel chamber that delivers their best ever sparkling clean. &quot;Like&quot; their Facebook page, and you can request a free sample containing two tablets <b>(you&#039;ll need to be logged in to Facebook in order to see the offer)</b>. But you&#039;ll need to enter the full barcode situated on the back of a Fairy product are currently using in order to qualify. They have 192,000 samples available, closing date is 31st January 2014.<br />
+<i>From the <a href="/miscellaneous-free-stuff.html">Miscellaneous</a> page.</i>
+</p>
+<p class="home_listings">
+<b>&bull; Money from delayed flights</b><br />
+If you&#039;ve been on a flight that started or ended in the EU, departed on 17th February 2005 or later, which arrived more than 3hrs late, and which was not due to extraordinary circumstances, you are in luck. The European Court of Justice ruled in Oct 2012 that you can claim between &euro;250 and &euro;600 compensation from the airline for the delay. The link for this listing takes you to a Which? page with more details. If you think you qualify, just contact your airline and ask for the money.<br />
+<i>From the <a href="/travel-free-stuff.html">Travel &amp; Holidays</a> page.</i>
+</p>
+<p class="home_listings">
+<b>&bull; Money from lost bank accounts</b><br />
+If you think you may have an old bank current or savings account that you&#039;ve forgotten about or can&#039;t locate anymore, that may have cash in it, this website will guide you through some simple steps to help reunite you with your money. It is a free service brought to you by the British Bankers&rsquo; Association, the Building Societies Association and National Savings and Investments.<br />
+<i>From the <a href="/miscellaneous-free-stuff.html">Miscellaneous</a> page.</i>
+</p>
+</div>
+</div>
+<div class="right_col_box">
+<div id="div_topten">
+<p class="header_a">
+The Top Ten
+</p>
+<p class="home_listings">
+<b>1. <a href="http://www.freestuffjunction.co.uk/492/197" rel="external">6 virtually free issues of Auto Express + free 26 piece toolkit</a></b><br />
+With Auto Express you&#039;ll discover the fastest car news and a wealth of exclusive stories from the world of motoring. Claim 6 trial issues for the insane price of just &pound;1 (17p per issue, instead of the usual &pound;2.45 at the newsagent). It costs them more than &pound;1 in postage to mail you the 6 issues, so in our eyes this is virtually a freebie. Plus, you&#039;ll be sent <b>a free 26 piece toolkit</b> as a gift. But hurry as stocks of the free gift will likely run out quickly with this offer being so good (<b>note:</b> the first page doesn&#039;t mention the toolkit, but click the &quot;Get 6 issues for &pound;1 now&quot; link and it is shown there). You can cancel at any time during your 6 introductory issues and pay no more than the &pound;1 already debited. The 6 issues and free gift are yours to keep whatever you decide.
+</p>
+<p class="home_listings">
+<b>2. <a href="http://www.freestuffjunction.co.uk/492/280" rel="external">Get Paid for your Opinion at Valued Opinions</a></b><br />
+Give your opinion on a range of subjects at Valued Opinions and they&rsquo;ll reward you handsomely for it. For every paid survey you complete you can expect to earn up to &pound;5. Once you have &pound;10.00 of credit, you can claim reward vouchers to spend at retailers such as Amazon.co.uk, Wow HD, Marks &amp; Spencer, Argos, Sainsburys, Boots, John Lewis &amp; more. They have over 450,000 members in the UK earning rewards.
+</p>
+<p class="home_listings">
+<b>3. <a href="http://www.freestuffjunction.co.uk/492/310" rel="external">3 virtually free issues of Glamour! magazine</a></b><br />
+Glamour! magazine is Britain&#039;s No1 Women&#039;s Magazine which fits your life and your handbag. It normally costs &pound;2 for 1 issue at the newsagent, but with this special trial offer you get 3 issues for just &pound;1 (just 33p per issue). It probably costs them more than &pound;1 in postage to mail you the 3 issues, so in our eyes this is virtually a freebie. You can cancel your subscription before the end of the trial period and you will pay nothing more than the &pound;1.
+</p>
+<p class="home_listings">
+<b>4. <a href="http://www.freestuffjunction.co.uk/492/354" rel="external">Save up to 80% with Wowcher deals and discounts</a></b><br />
+With up to 80% off some great spring treats, why shop on foot? By shopping online at Wowcher you can get the best deals off the retail price for jewellery, gadgets, cosmetics, entertainment and more in your area.
+</p>
+<p class="home_listings">
+<b>5. <a href="http://www.freestuffjunction.co.uk/492/294" rel="external">3 virtually free issues of GQ Magazine</a></b><br />
+GQ is the ultimate men&#039;s lifestyle guide. Claim 3 trial issues for the insane price of just &pound;1. It normally costs &pound;3.99 for just 1 issue at the newsagent, which means this offer is worth &pound;11.97. It probably costs them more than &pound;1 in postage to mail you the 3 issues, so in our eyes this is virtually a freebie. You can cancel at any time during your 3 introductory issues and pay no more than the &pound;1 already debited. The 3 issues are yours to keep whatever you decide.
+</p>
+<p class="home_listings">
+<b>6. <a href="http://www.freestuffjunction.co.uk/492/297" rel="external">Two free Graze healthy snack boxes</a></b><br />
+Graze handpick your very own healthy snack box and post it straight to you (at work or home). Choose from over 100 tasty natural nibbles. What&#039;s more, your first box and your fifth box are free of charge. You need a credit or debit card to sign up as this is an ongoing subscription service but you are not charged for your first free box and <b>you can cancel the service any time, even after receiving your first free box</b>. If you choose to continue your subscription beyond the first box, your fifth box is also free of charge.
+</p>
+<p class="home_listings">
+<b>7. <a href="http://www.freestuffjunction.co.uk/492/356" rel="external">Earn &pound;15 just browsing the internet as you usual do</a></b><br />
+GfK Group, one of the world&#039;s largest market research companies, together with Survey Sampling International (SSI), are building a market research panel in the UK called Digital Trends Panel, to learn more about how people use the Internet. Join the panel, activate the browser add-on, and you&#039;ll earn at least &pound;15 after 30 days, and &pound;5 every 90 days thereafter, paid to you via PayPal.
+</p>
+<p class="home_listings">
+<b>8. <a href="http://www.freestuffjunction.co.uk/492/247" rel="external">3 issues of Digital SLR Photography for &pound;1 + Free Lens Cleaner</a></b><br />
+Trial 3 issues of Digital SLR Photography Magazine for just &pound;1 by Direct Debit. That&#039;s just 33p per issue, instead of the usual price of &pound;3.99 at the newsagent! Plus, you will be sent a <b>free Lens Cleaning Pen</b> as a gift. Lens Cleaning Pens usually retail for between &pound;5 - &pound;10, and are great for cleaning the lens on your smartphone, camera or camcorder. After your 3 trial issues, your subscription will continue at &pound;21.49 every 6 issue. However, you can cancel at any time during your 3 introductory issues and pay no more than the &pound;1 already debited. The 3 issues and free gift are yours to keep whatever you decide.
+</p>
+<p class="home_listings">
+<b>9. <a href="http://www.freestuffjunction.co.uk/492/345" rel="external">30 days free online movies</a></b><br />
+NOW TV is the new internet TV service powered by Sky with no ties and no contract, and more of the latest and biggest movies, up to 12 months before Netflix or LOVEFiLM Instant. Enjoy a 30 day free trial with no obligation to continue your subscription, which you can easily cancel at any time within your online account. You don&#039;t have to be an existing Sky customer to use the service. You can watch on a range of devices (PC or Mac, iPad, iPhone, and selected Android devices) or on your TV using an Xbox 360, YouView or Roku streaming player or by connecting your laptop/PC with an HDMI cable. If you continue your subscription after the trial then it&rsquo;s only &pound;8.99 a month for the first three months.
+</p>
+</div>
+</div>
+</div>
+</div>
+</body>
+</html>
+

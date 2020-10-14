@@ -1,0 +1,50 @@
+WARC/1.0
+WARC-Type: warcinfo
+WARC-Date: 2018-05-30T18:18:32Z
+WARC-Record-ID: <urn:uuid:6f5987d9-3cb6-4bf1-a225-de9ff1ac22e1>
+WARC-All-Language: de
+WARC-All-Content_type: text/html; charset=UTF-8, text/html
+Content-Type: application/http;msgtype=response
+Content-Length: 46
+
+WARCProcessor by SING Group www.sing-group.com
+
+WARC/1.0
+WARC-Type: response
+WARC-Record-ID: <http://www.s-wing.eu>
+WARC-Date: 20180530181832
+WARC-Target-URI: http://www.s-wing.eu
+WARC-Language: de
+Content-Type: application/http;msgtype=response
+Content-Length: 886
+
+HTTP/1.1 200
+Content-Type:text/html; charset=UTF-8
+
+
+<HTML>
+<HEAD>
+</HEAD>
+<BODY bgcolor="#FFFFFF">
+<table width="100%" height="100%" border=0>
+<tr>
+<td width="100%" height="100%" align=center>
+<span style="font-size:16px; font-family:Georgia,Garmond,'Times New Roman';color:#02316b">
+<b>Diese Domain wurde gesperrt...</b>
+</span>
+<span style="font-size:12px; font-family:Arial,Verdana;color:#02316b">
+<br>
+<br>Falls Sie der Administrator dieser Domain
+<br>sind und Fragen zur Sperrung Ihrer
+<br>Domain haben, wenden Sie sich bitte
+<br>an unser <a href="http://united-domains.support/support/" style="color:#02316b" rel="nofollow">Support-Team</a>.
+</span>
+<br>
+<br><a href="http://united-domains.support" alt="Domain" rel="nofollow"><img src="http://www.united-domains.de/images/evolution/udag_logo.png" border="0" width="290" height="41"></a>
+</td>
+</tr>
+</table>
+</BODY>
+</HTML>
+
+

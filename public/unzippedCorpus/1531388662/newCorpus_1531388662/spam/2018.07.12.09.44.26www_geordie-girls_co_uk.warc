@@ -1,0 +1,41 @@
+WARC/1.0
+WARC-Type: warcinfo
+WARC-Date: 2018-05-23T07:59:32Z
+WARC-Record-ID: <urn:uuid:0b479a62-0213-4bbc-95ec-cdacb0545a7d>
+WARC-All-Language: en
+WARC-All-Content_type: text/html
+Content-Type: application/http;msgtype=response
+Content-Length: 46
+
+WARCProcessor by SING Group www.sing-group.com
+
+WARC/1.0
+WARC-Type: response
+WARC-Record-ID: <http://www.geordie-girls.co.uk>
+WARC-Date: 20180523075932
+WARC-Target-URI: http://www.geordie-girls.co.uk
+WARC-Language: en
+Content-Type: application/http;msgtype=response
+Content-Length: 588
+
+HTTP/1.1 200
+Content-Type:text/html
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Frameset//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-frameset.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+<head>
+<title></title>
+<meta http-equiv="Content-type" content="text/html; charset=utf-8" />
+</head>
+<frameset rows="100%,*" cols="100%" frameborder="0" border="0" framespacing="0">
+	<frame src="http://www.x-girl.co.uk" scrolling="auto" />
+</frameset>
+<noframes>
+<body bgcolor="#FFFFFF">
+Redirection to <a href="http://www.x-girl.co.uk">here</a>
+</body>
+</noframes>
+</html>
+
+

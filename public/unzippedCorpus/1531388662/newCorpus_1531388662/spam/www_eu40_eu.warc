@@ -1,0 +1,534 @@
+WARC/1.0
+WARC-Type: warcinfo
+WARC-Date: 2018-05-30T18:18:32Z
+WARC-Record-ID: <urn:uuid:0348d41d-0bc7-48a8-8dfe-e9b2fd670602>
+WARC-All-Language: en, en-US
+WARC-All-Content_type: text/html; charset=UTF-8, text/html
+Content-Type: application/http;msgtype=response
+Content-Length: 46
+
+WARCProcessor by SING Group www.sing-group.com
+
+WARC/1.0
+WARC-Type: response
+WARC-Record-ID: <http://www.eu40.eu>
+WARC-Date: 20180530181832
+WARC-Target-URI: http://www.eu40.eu
+WARC-Language: en-US
+Content-Type: application/http;msgtype=response
+Content-Length: 38176
+
+HTTP/1.1 200
+Content-Type:text/html; charset=UTF-8
+
+
+<!DOCTYPE html>
+<html lang="en-US" xmlns:fb="https://www.facebook.com/2008/fbml" xmlns:addthis="https://www.addthis.com/help/api-spec" >
+<head>
+  <title>EU40 | The new generation</title>
+  <meta name="description" content=" | The new generation" />
+  <meta charset="UTF-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  <link rel="icon" href="http://www.eu40.eu/wp-content/themes/EU40/favicon.ico" type="image/x-icon" />
+  
+  <!--[if lt IE 9]>
+  <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+  <![endif]-->
+
+  <link rel="stylesheet" type="text/css" href="http://www.eu40.eu/wp-content/themes/EU40/main.css" />
+
+  <link rel='dns-prefetch' href='//s.w.org' />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.3\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.3\/svg\/","svgExt":".svg","source":{"concatemoji":"http:\/\/www.eu40.eu\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.8.6"}};
+			!function(a,b,c){function d(a){var b,c,d,e,f=String.fromCharCode;if(!k||!k.fillText)return!1;switch(k.clearRect(0,0,j.width,j.height),k.textBaseline="top",k.font="600 32px Arial",a){case"flag":return k.fillText(f(55356,56826,55356,56819),0,0),b=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,56826,8203,55356,56819),0,0),c=j.toDataURL(),b!==c&&(k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447),0,0),b=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447),0,0),c=j.toDataURL(),b!==c);case"emoji4":return k.fillText(f(55358,56794,8205,9794,65039),0,0),d=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55358,56794,8203,9794,65039),0,0),e=j.toDataURL(),d!==e}return!1}function e(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g,h,i,j=b.createElement("canvas"),k=j.getContext&&j.getContext("2d");for(i=Array("flag","emoji4"),c.supports={everything:!0,everythingExceptFlag:!0},h=0;h<i.length;h++)c.supports[i[h]]=d(i[h]),c.supports.everything=c.supports.everything&&c.supports[i[h]],"flag"!==i[h]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[i[h]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='contact-form-7-css'  href='http://www.eu40.eu/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=4.9.2' type='text/css' media='all' />
+<link rel='stylesheet' id='cookielawinfo-style-css'  href='http://www.eu40.eu/wp-content/plugins/cookie-law-info/css/cli-style.css?ver=1.5.3' type='text/css' media='all' />
+<link rel='stylesheet' id='addthis_all_pages-css'  href='http://www.eu40.eu/wp-content/plugins/addthis/frontend/build/addthis_wordpress_public.min.css?ver=4.8.6' type='text/css' media='all' />
+<link rel='stylesheet' id='fancybox-css'  href='http://www.eu40.eu/wp-content/plugins/easy-fancybox/fancybox/jquery.fancybox-1.3.8.min.css?ver=1.6.2' type='text/css' media='screen' />
+<script type='text/javascript' src='http://www.eu40.eu/wp-includes/js/jquery/jquery.js?ver=1.12.4'></script>
+<script type='text/javascript' src='http://www.eu40.eu/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
+<script type='text/javascript' src='http://www.eu40.eu/wp-content/themes/EU40/js/animations.js?ver=4.8.6'></script>
+<script type='text/javascript' src='http://www.eu40.eu/wp-content/plugins/cookie-law-info/js/cookielawinfo.js?ver=1.5.3'></script>
+<link rel='https://api.w.org/' href='http://www.eu40.eu/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www.eu40.eu/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://www.eu40.eu/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 4.8.6" />
+<!-- <meta name="NextGEN" version="2.2.33" /> -->
+<script data-cfasync="false" type="text/javascript">if (window.addthis_product === undefined) { window.addthis_product = "wpp"; } if (window.wp_product_version === undefined) { window.wp_product_version = "wpp-6.1.2"; } if (window.wp_blog_version === undefined) { window.wp_blog_version = "4.8.6"; } if (window.addthis_share === undefined) { window.addthis_share = {}; } if (window.addthis_config === undefined) { window.addthis_config = {"data_track_clickback":true,"ignore_server_config":true,"ui_atversion":"300"}; } if (window.addthis_layers === undefined) { window.addthis_layers = {}; } if (window.addthis_layers_tools === undefined) { window.addthis_layers_tools = []; } else {  } if (window.addthis_plugin_info === undefined) { window.addthis_plugin_info = {"info_status":"enabled","cms_name":"WordPress","plugin_name":"Share Buttons by AddThis","plugin_version":"6.1.2","plugin_mode":"WordPress","anonymous_profile_id":"wp-4c50659ed96705afbf5f3d730c246377","page_info":{"template":"home","post_type":""},"sharing_enabled_on_post_via_metabox":false}; } 
+                    (function() {
+                      var first_load_interval_id = setInterval(function () {
+                        if (typeof window.addthis !== 'undefined') {
+                          window.clearInterval(first_load_interval_id);
+                          if (typeof window.addthis_layers !== 'undefined' && Object.getOwnPropertyNames(window.addthis_layers).length > 0) {
+                            window.addthis.layers(window.addthis_layers);
+                          }
+                          if (Array.isArray(window.addthis_layers_tools)) {
+                            for (i = 0; i < window.addthis_layers_tools.length; i++) {
+                              window.addthis.layers(window.addthis_layers_tools[i]);
+                            }
+                          }
+                        }
+                     },1000)
+                    }());
+                </script> <script data-cfasync="false" type="text/javascript"src="https://s7.addthis.com/js/300/addthis_widget.js#pubid=wp-4c50659ed96705afbf5f3d730c246377" async="async"></script>
+<!-- Easy FancyBox 1.6.2 using FancyBox 1.3.8 - RavanH (http://status301.net/wordpress-plugins/easy-fancybox/) -->
+<script type="text/javascript">
+/* <![CDATA[ */
+var fb_timeout = null;
+var fb_opts = { 'overlayShow' : true, 'hideOnOverlayClick' : true, 'showCloseButton' : true, 'margin' : 20, 'centerOnScroll' : true, 'enableEscapeButton' : true, 'autoScale' : true };
+var easy_fancybox_handler = function(){
+	/* IMG */
+	var fb_IMG_select = 'a[href*=".jpg"]:not(.nolightbox,li.nolightbox>a), area[href*=".jpg"]:not(.nolightbox), a[href*=".jpeg"]:not(.nolightbox,li.nolightbox>a), area[href*=".jpeg"]:not(.nolightbox), a[href*=".png"]:not(.nolightbox,li.nolightbox>a), area[href*=".png"]:not(.nolightbox)';
+	jQuery(fb_IMG_select).addClass('fancybox image');
+	var fb_IMG_sections = jQuery('div.gallery');
+	fb_IMG_sections.each(function() { jQuery(this).find(fb_IMG_select).attr('rel', 'gallery-' + fb_IMG_sections.index(this)); });
+	jQuery('a.fancybox, area.fancybox, li.fancybox a').fancybox( jQuery.extend({}, fb_opts, { 'transitionIn' : 'elastic', 'easingIn' : 'easeOutBack', 'transitionOut' : 'elastic', 'easingOut' : 'easeInBack', 'opacity' : false, 'hideOnContentClick' : false, 'titleShow' : true, 'titlePosition' : 'over', 'titleFromAlt' : true, 'showNavArrows' : true, 'enableKeyboardNav' : true, 'cyclic' : false }) );
+}
+var easy_fancybox_auto = function(){
+	/* Auto-click */
+	setTimeout(function(){jQuery('#fancybox-auto').trigger('click')},1000);
+}
+/* ]]> */
+</script>
+<style type="text/css">
+#fancybox-content{background:#fff}
+#fancybox-content{border-color:#fff}#fancybox-outer{background:#fff}
+#fancybox-content{color:inherit}
+</style>
+
+  <script type="text/javascript" src="http://www.eu40.eu/wp-content/themes/EU40/js/swfobject.js"></script>
+  <script type="text/javascript">
+  swfobject.registerObject("myFlashContent", "8");
+  </script>
+
+</head>
+
+<body>
+  <div class="container conth">
+    <div id="content">
+      <div id="top-content">
+        <div style="float: left; width: 1002; height: 94px;">
+          <object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" width="1002" height="94" id="myFlashContent">
+            <param name='flashvars' value='clickTag=#&clickTarget=_blank' />
+            <param name='allowScriptAccess' value='always' />
+            <param name="movie" value="http://www.eu40.eu/wp-content/themes/EU40/swf/EU40_POUR BANNIERE.swf" />
+            <!--[if !IE]>-->
+            <object type="application/x-shockwave-flash" data="http://www.eu40.eu/wp-content/themes/EU40/swf/EU40_POUR BANNIERE.swf"  width="1002" height="94" wmode="transparent">
+              <!--<![endif]-->
+              <a href="http://www.eu40.eu" title="EU40 - The New Generation" id="banner"></a>
+              <!--[if !IE]>-->
+            </object>
+            <!--<![endif]-->
+          </object>
+        </div>
+
+        <div id="separator"></div>
+
+        <!-- PROJECTS -->
+        <div id="works"></div>
+        <nav id="menu">
+<ul>
+    <li class="members"><a href="http://www.eu40.eu/category/mep" class="menu-level-1">Members</a>
+        <ul class="members-subnav">
+            <li><a class="menu-level-2 partners" href="http://www.eu40.eu/category/partners">Partners</a></li>
+            <li><a class="menu-level-2 alumni" href="http://www.eu40.eu/category/members/alumni/2009-2014">Alumni</a></li>
+            <li><a class="menu-level-2" href="http://www.eu40.eu/members-map">Member's Map</a></li>
+        </ul>
+    </li>
+    <li class="projects"><a href="http://www.eu40.eu/who-we-are" class="menu-level-1">Who We Are</a>
+        <ul class="projects-subnav">
+            <li><a class="menu-level-2 our-projects" href="http://www.eu40.eu/our-projects">News</a></li>
+            <li><a class="menu-level-2 staff" href="http://www.eu40.eu/category/board-staff">Board &amp; Staff</a></li>
+        </ul>
+    </li>
+    <li class="events">
+        <a href="http://www.eu40.eu/events" class="menu-level-1">Events</a>
+        <ul class="events-subnav">
+            <li><a class="menu-level-2" href="http://www.eu40.eu/category/gallery">Photo Gallery</a></li>
+            <li><a class="menu-level-2 guests" href="http://www.eu40.eu/category/guests-speakers/by-event/">Guests &amp; Speakers</a></li>
+        </ul>
+    </li>
+    <li class="media">
+        <a href="http://www.eu40.eu/category/tv-video" class="menu-level-1">Media</a>
+        <ul class="media-subnav">
+            <li><a class="menu-level-2" href="http://www.eu40.eu/members-map">Member's Map</a></li>
+            <li><a class="menu-level-2" href="http://www.eu40.eu/category/gallery">Photo Gallery</a></li>
+            <li><a class="menu-level-2" href="http://www.eu40.eu/category/tv-video">TV/Video</a></li>
+        </ul>
+    </li>
+    <li class="links">
+        <a href="http://www.eu40.eu/category/links" class="menu-level-1">Links</a>
+        <ul class="links-subnav">
+            <li><a class="menu-level-2 downloads" href="http://www.eu40.eu/downloads">Downloads</a></li>
+        </ul>
+    </li>
+    <li class="contacts">
+        <a href="http://www.eu40.eu/form" class="menu-level-1">Contacts</a>
+        <ul class="contacts-subnav">
+            <li><a class="menu-level-2 address" href="http://www.eu40.eu/address">Address</a></li>
+            <li><a class="menu-level-2 participate" href="http://www.eu40.eu/form">Participate</a></li>
+        </ul>
+    </li>
+</ul>
+</nav>
+        <!-- MEDIA -->
+        <a href="http://www.eu40.eu/category/tv-video"><div id="medias"></div></a>
+        <div id="medias-box">
+          <div class="video-thumbnail">
+            <div class="widget-area widget-sidebar"><ul>			<div class="textwidget"><iframe width="320" height="183" src="http://www.youtube.com/embed/videoseries?list=PL912290A667BB2B3B&modestbranding=1&amp;autohide=1&amp;showinfo=0&amp;controls=0;" frameborder="0" allowfullscreen></iframe></div>
+		</ul></div>          </div>
+
+          <div class="photo-slider">
+            <div class="slider_photo">
+                          </div>
+          </div>
+          <a class="members-map" href="http://www.eu40.eu/members-map" title="Members Map"></a>
+        </div>
+
+
+
+        <!-- EVENTS -->
+        <a href="http://www.eu40.eu/events"><div id="events"></div></a>
+        <div id="events-box">
+                      <a href="http://www.eu40.eu/battle-4-your-vote-2018/" title="Battle4YourVote at the European Youth Event (EYE) 2018">
+              <p class="events-date">
+                June
+1st              </p>
+              <p class="events-title">Battle4YourVote at the European Youth Event (EYE) 2018</p>
+            </a>
+                    <div class="all-events"><a href="http://www.eu40.eu/events">See all events</a></div>
+        </div>
+
+      </div><!-- #top-content -->
+
+      <div id="separator"></div>
+<div id="left-content">
+    <div class="news-box">
+        <h2><a href="events/"><img src="http://www.eu40.eu/wp-content/themes/EU40/images/logo-small.png" id="news-loader"/>Events</a></h2>
+        <div id="featured-event">
+        </div>
+        
+<section id="polydea_box_wrapper_1">
+	<div class="pb-featured">
+		<a href="http://www.eu40.eu/step-up-your-linkedin-game/" title="Step up your LinkedIn game ahead of the 2019 elections" rel="bookmark">
+        <div class="news-image">
+        <img width="313" height="222" src="http://www.eu40.eu/wp-content/uploads/2018/05/Visual-LinkedIn-training-v3-313x222.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" srcset="http://www.eu40.eu/wp-content/uploads/2018/05/Visual-LinkedIn-training-v3-313x222.jpg 313w, http://www.eu40.eu/wp-content/uploads/2018/05/Visual-LinkedIn-training-v3-181x128.jpg 181w" sizes="(max-width: 313px) 100vw, 313px" />        </div>
+        <h3 class="news-article-title">Step up your LinkedIn game ahead of the 2019 elections</h3>
+</a>
+<div class="post-content">
+    <a href="http://www.eu40.eu/step-up-your-linkedin-game/" title="Step up your LinkedIn game ahead of the 2019 elections" rel="bookmark">
+        <p>The elections are approaching swiftly and we are all getting into gear to reach our respective electorates. We are planning communication strategies, speaking tours and of course our social media presence. Recently LinkedIn has emerged as an extremely useful tool to post longer and more serious content and include videos hosted on the LinkedIn server, etc. People engage on LinkedIn in quite a concentrated and serious manner and there is hardly any trolling. EU40 and our MEPs Tomáš Zdechovský and Ilhan Kyuchyuk are therefore proud to be able to host Bruna Gill, LinkedIn Partner Manager, EMEA and Jaime Pham, LinkedIn Content Marketing Evangelist alongside Dan Sobovitz, speechwriter and communication strategist of European Commission Vice-President Maroš Šefčovič in order to speak […]</p>    </a>
+</div>	</div>
+<div class="more-box">
+    <div class="more-box-slider" style="position: relative;">
+        <div class="more-box-group" style="float: left; height: 163px; width: 650px;">
+            <a href="http://www.eu40.eu/step-up-your-linkedin-game/" title="Step up your LinkedIn game ahead of the 2019 elections">
+    <div class="more-article-box" data-post-id="10241">
+        <div class="featured-thumbnail">
+            <img width="181" height="128" src="http://www.eu40.eu/wp-content/uploads/2018/05/Visual-LinkedIn-training-v3-181x128.jpg" class="attachment-homepage-thumb size-homepage-thumb wp-post-image" alt="" srcset="http://www.eu40.eu/wp-content/uploads/2018/05/Visual-LinkedIn-training-v3-181x128.jpg 181w, http://www.eu40.eu/wp-content/uploads/2018/05/Visual-LinkedIn-training-v3-313x222.jpg 313w" sizes="(max-width: 181px) 100vw, 181px" />        </div>
+        <div class="more-article-excerpt" style="text-align: center;">
+            Step up your LinkedIn game ahead of the 2019 elections        </div>
+    </div>
+</a>    <a href="http://www.eu40.eu/e-evidence/" title="Criminal investigation in the digital world">
+    <div class="more-article-box" data-post-id="10262">
+        <div class="featured-thumbnail">
+            <img width="181" height="128" src="http://www.eu40.eu/wp-content/uploads/2018/05/cybercrime-investigation-cybersecurity-181x128.jpg" class="attachment-homepage-thumb size-homepage-thumb wp-post-image" alt="" srcset="http://www.eu40.eu/wp-content/uploads/2018/05/cybercrime-investigation-cybersecurity-181x128.jpg 181w, http://www.eu40.eu/wp-content/uploads/2018/05/cybercrime-investigation-cybersecurity-313x222.jpg 313w" sizes="(max-width: 181px) 100vw, 181px" />        </div>
+        <div class="more-article-excerpt" style="text-align: center;">
+            Criminal investigation in the digital world        </div>
+    </div>
+</a>    <a href="http://www.eu40.eu/tu40network2018/" title="TU-40 Network 2018 delegation in Washington D.C.">
+    <div class="more-article-box" data-post-id="9938">
+        <div class="featured-thumbnail">
+            <img alt="" src="http://www.eu40.eu/wp-content/uploads/2018/02/EU-US-flags_8-181x128.jpg" />        </div>
+        <div class="more-article-excerpt" style="text-align: center;">
+            TU-40 Network 2018 delegation in Washington D.C.        </div>
+    </div>
+</a>            </div>
+    </div>
+</div>
+
+<div class="more-box-pagination more-box-pagination-bottom">
+    <a href="#" class="polydea-box-prev">Previous</a>
+    <a href="#" class="polydea-box-next">Next</a>
+</div>
+
+<script type="text/javascript">
+    var params_1 = {
+        ajaxurl : "http://www.eu40.eu/wp-admin/admin-ajax.php",
+        numposts : 109,
+        ppp : 3,
+        queried : 3,
+        offset : 3,
+        innerBoxWidth : 650,
+        innerBoxHeight : 163,
+        cat : 11,
+        loader : '#news-loader',
+        boxTemplate : 'smallbox',
+        initOffset: 0,
+        feature: 'featureevent',
+        featureActive: 0    }
+    
+jQuery(document).ready( function($) {
+    polydea_box_init('#polydea_box_wrapper_1', params_1);
+    
+    $('#polydea_box_wrapper_1 .polydea-box-next').click( function(e) {
+        polydea_box_next('#polydea_box_wrapper_1', params_1, e);
+    });
+    
+    $('#polydea_box_wrapper_1 .polydea-box-prev').click( function(e) {
+        polydea_box_prev('#polydea_box_wrapper_1', params_1, e);
+    });
+});
+</script>
+</section>
+
+<script type="text/javascript">
+    function polydea_box_init(wrapper, params) {
+    
+        jQuery(wrapper + " .more-box-pagination .polydea-box-prev").css('visibility', 'hidden');
+        if (params.queried >= params.numposts) {
+            jQuery(wrapper + " .more-box-pagination .polydea-box-next").css('visibility', 'hidden');
+        }
+        
+        if (params.feature) {
+	        params.featureActive = jQuery(wrapper + ' .more-article-box').eq(0).data('post-id');
+	    	jQuery('[data-post-id=' + params.featureActive + ']').addClass('active-thumbnail');
+        
+	        jQuery(wrapper +' .more-box-slider').on('click', 'a', function(event) {
+		        event.preventDefault();
+		        params.featureActive = jQuery(this).find('.more-article-box').data('post-id');
+		        polydea_box_feature(wrapper, params);
+	        });
+	    }
+    }
+    
+    function polydea_box_feature(wrapper, params) {
+	    jQuery(wrapper + ' .active-thumbnail').removeClass('active-thumbnail');
+		jQuery('[data-post-id=' + params.featureActive + ']').addClass('active-thumbnail');
+		jQuery(wrapper + ' .pb-featured').animate({opacity: 0, left: -40}, 'fast');
+	    jQuery.post(params.ajaxurl, {
+		    action: 'polydea_box_feature',
+		    postID: params.featureActive,
+		    template: params.feature
+	    }, function(response) {
+		    console.log(response);
+		    jQuery(wrapper + ' .pb-featured').stop().html(response).css('left', 40).animate({opacity: 1, left: 0}, 'fast');
+		});
+    }
+    
+    function polydea_box_next(wrapper, params, event) {
+        event.preventDefault();
+        params.offset += params.ppp;
+        if (params.offset >= params.numposts) {
+            jQuery(wrapper + " .polydea-box-next").css('visibility', 'hidden');
+        }
+        if (params.offset > params.queried) {
+            jQuery(params.loader).addClass('polydea-loading');
+            jQuery.post(params.ajaxurl, 
+                {
+                    action : 'polydea_box_more',
+                    postoffset: params.queried,
+                    catID: params.cat,
+                    ppp: params.ppp,
+                    width: params.innerBoxWidth,
+                    height: params.innerBoxHeight,
+                    boxTemplate : params.boxTemplate,
+                },
+                function( response ) {
+                    params.queried += params.ppp;
+                    jQuery(wrapper + ' .more-box-slider').css('width', '+=' + params.innerBoxWidth).append( response );
+                    jQuery(wrapper + ' .more-box-slider').animate({left: "-=" + params.innerBoxWidth}, 'fast');
+                    jQuery(params.loader).removeClass('polydea-loading');
+                }
+            );
+        } else {
+            jQuery(wrapper + ' .more-box-slider').animate({left: "-=" + params.innerBoxWidth}, 'fast');
+        }
+        jQuery(wrapper + " .polydea-box-prev").css('visibility', 'visible');
+    }
+    
+    function polydea_box_prev(wrapper,params,event) {
+        event.preventDefault();
+        params.offset -= params.ppp;
+        if (params.offset == params.ppp + params.initOffset) {
+            jQuery(wrapper + " .polydea-box-prev").css('visibility', 'hidden');
+        }
+        jQuery(wrapper + " .more-box-slider").animate({left: "+=" + params.innerBoxWidth}, 'fast');
+        jQuery(wrapper + " .polydea-box-next").css('visibility', 'visible');
+    }
+</script>
+
+
+    </div>
+
+    <h2 id="more-frontpage"><a href="our-projects/"><img src="http://www.eu40.eu/wp-content/themes/EU40/images/logo-small.png" id="more-loader"/>News</a></h2>
+    
+<section id="polydea_box_wrapper_2">
+<div class="more-box">
+    <div class="more-box-slider" style="position: relative;">
+        <div class="more-box-group" style="float: left; height: 163px; width: 650px;">
+            <a href="http://www.eu40.eu/young-meps-call-for-more-power-and-mandates/" title="Young MEPs call for more power and mandates">
+    <div class="more-article-box" data-post-id="9982">
+        <div class="featured-thumbnail">
+            <img width="181" height="128" src="http://www.eu40.eu/wp-content/uploads/2018/03/Young-MEPs-call-for-more-power-181x128.jpg" class="attachment-homepage-thumb size-homepage-thumb wp-post-image" alt="" srcset="http://www.eu40.eu/wp-content/uploads/2018/03/Young-MEPs-call-for-more-power-181x128.jpg 181w, http://www.eu40.eu/wp-content/uploads/2018/03/Young-MEPs-call-for-more-power-313x222.jpg 313w" sizes="(max-width: 181px) 100vw, 181px" />        </div>
+        <div class="more-article-excerpt" style="text-align: center;">
+            Young MEPs call for more power and mandates        </div>
+    </div>
+</a>    <a href="http://www.eu40.eu/mepawards18/" title="EU40 MEPs nominated for the MEP Awards 2018">
+    <div class="more-article-box" data-post-id="9861">
+        <div class="featured-thumbnail">
+            <img width="181" height="128" src="http://www.eu40.eu/wp-content/uploads/2018/01/MEP-Awards-18-collage2-181x128.png" class="attachment-homepage-thumb size-homepage-thumb wp-post-image" alt="" srcset="http://www.eu40.eu/wp-content/uploads/2018/01/MEP-Awards-18-collage2-181x128.png 181w, http://www.eu40.eu/wp-content/uploads/2018/01/MEP-Awards-18-collage2-313x222.png 313w" sizes="(max-width: 181px) 100vw, 181px" />        </div>
+        <div class="more-article-excerpt" style="text-align: center;">
+            EU40 MEPs nominated for the MEP Awards 2018        </div>
+    </div>
+</a>    <a href="http://www.eu40.eu/european-health-parliament-3/" title="Join the European Health Parliament movement">
+    <div class="more-article-box" data-post-id="9563">
+        <div class="featured-thumbnail">
+            <img width="181" height="128" src="http://www.eu40.eu/wp-content/uploads/2017/07/EHP_POST_FB_JOIN-THE-MOVMENT_V2-181x128.png" class="attachment-homepage-thumb size-homepage-thumb wp-post-image" alt="" srcset="http://www.eu40.eu/wp-content/uploads/2017/07/EHP_POST_FB_JOIN-THE-MOVMENT_V2-181x128.png 181w, http://www.eu40.eu/wp-content/uploads/2017/07/EHP_POST_FB_JOIN-THE-MOVMENT_V2-313x222.png 313w" sizes="(max-width: 181px) 100vw, 181px" />        </div>
+        <div class="more-article-excerpt" style="text-align: center;">
+            Join the European Health Parliament movement        </div>
+    </div>
+</a>            </div>
+    </div>
+</div>
+
+<div class="more-box-pagination more-box-pagination-bottom">
+    <a href="#" class="polydea-box-prev">Previous</a>
+    <a href="#" class="polydea-box-next">Next</a>
+</div>
+
+<script type="text/javascript">
+    var params_2 = {
+        ajaxurl : "http://www.eu40.eu/wp-admin/admin-ajax.php",
+        numposts : 60,
+        ppp : 3,
+        queried : 3,
+        offset : 3,
+        innerBoxWidth : 650,
+        innerBoxHeight : 163,
+        cat : 74,
+        loader : '#more-loader',
+        boxTemplate : 'smallbox',
+        initOffset: 0,
+        feature: '',
+        featureActive: 0    }
+    
+jQuery(document).ready( function($) {
+    polydea_box_init('#polydea_box_wrapper_2', params_2);
+    
+    $('#polydea_box_wrapper_2 .polydea-box-next').click( function(e) {
+        polydea_box_next('#polydea_box_wrapper_2', params_2, e);
+    });
+    
+    $('#polydea_box_wrapper_2 .polydea-box-prev').click( function(e) {
+        polydea_box_prev('#polydea_box_wrapper_2', params_2, e);
+    });
+});
+</script>
+</section>
+
+
+
+
+</div><!-- #left-content-->
+<div id="sidebar" class="sidebar-home">
+
+	
+	<div id="sidebar-search" class="widget">
+        <h3>Search</h3><form role="search" method="get" id="searchform" action="http://www.eu40.eu/"><input type="text" value="" name="s" id="s" /></form>    </div>
+    
+    <div class="widget-area widget-sidebar"><h3>Support</h3>			<div class="textwidget"><!--<a target="_blank" href="http://www.eu40.eu/cecilia-malmstrom-alumni-supports-eu40/" title="Alumni support!"><img src="http://www.eu40.eu/wp-content/uploads/2016/03/Cecilia-MalmStrom_Supports-eu40-QUOTE_March16_200X113.jpeg" /></a>-->
+<a target="_blank" href="http://www.eu40.eu/cecilia-malmstrom-alumni-supports-eu40/"><img src="http://www.eu40.eu/wp-content/uploads/2016/03/Cecilia-MalmStrom_Supports-eu40-QUOTE_March16_200X113.jpeg" alt="#MalmstromSupport" /></a></div>
+		</div><div class="widget-area widget-sidebar"><h3>Partners</h3>			<div class="textwidget"><p><ul class="pl_links"><li class="pl_link"><a href=" http://www.petrochemistry.eu/" title="Petrochimicals" target="_blank"><img src="http://www.eu40.eu/wp-content/uploads/links/7480_recolored.png" width="100" height="65" data-base-src="http://www.eu40.eu/wp-content/uploads/links/7480_recolored.png" data-active-src="http://www.eu40.eu/wp-content/uploads/links/7480.png" /><img src="http://www.eu40.eu/wp-content/uploads/links/7480.png" style="display: none !important" /></a></li>
+<li class="pl_link"><a href="http://www.eutop.com/eu" title="EUTOP" target="_blank"><img src="http://www.eu40.eu/wp-content/uploads/links/9398_recolored.png" width="100" height="65" data-base-src="http://www.eu40.eu/wp-content/uploads/links/9398_recolored.png" data-active-src="http://www.eu40.eu/wp-content/uploads/links/9398.png" /><img src="http://www.eu40.eu/wp-content/uploads/links/9398.png" style="display: none !important" /></a></li>
+<li class="pl_link"><a href="http://www.enel.com" title="Enel" target="_blank"><img src="http://www.eu40.eu/wp-content/uploads/links/8099_recolored.png" width="100" height="65" data-base-src="http://www.eu40.eu/wp-content/uploads/links/8099_recolored.png" data-active-src="http://www.eu40.eu/wp-content/uploads/links/8099.png" /><img src="http://www.eu40.eu/wp-content/uploads/links/8099.png" style="display: none !important" /></a></li>
+<li class="pl_link"><a href="https://www.elanco.com/" title="Elanco" target="_blank"><img src="http://www.eu40.eu/wp-content/uploads/links/8025_recolored.png" width="100" height="65" data-base-src="http://www.eu40.eu/wp-content/uploads/links/8025_recolored.png" data-active-src="http://www.eu40.eu/wp-content/uploads/links/8025.png" /><img src="http://www.eu40.eu/wp-content/uploads/links/8025.png" style="display: none !important" /></a></li>
+<li class="pl_link"><a href="http://www.microsoft.com" title="Microsoft" target="_blank"><img src="http://www.eu40.eu/wp-content/uploads/links/5414_recolored.png" width="100" height="65" data-base-src="http://www.eu40.eu/wp-content/uploads/links/5414_recolored.png" data-active-src="http://www.eu40.eu/wp-content/uploads/links/5414.png" /><img src="http://www.eu40.eu/wp-content/uploads/links/5414.png" style="display: none !important" /></a></li>
+<li class="pl_link"><a href="http://www.medtecheurope.org" title="MedTech Europe" target="_blank"><img src="http://www.eu40.eu/wp-content/uploads/links/8967_recolored.png" width="100" height="65" data-base-src="http://www.eu40.eu/wp-content/uploads/links/8967_recolored.png" data-active-src="http://www.eu40.eu/wp-content/uploads/links/8967.png" /><img src="http://www.eu40.eu/wp-content/uploads/links/8967.png" style="display: none !important" /></a></li>
+<li class="pl_link"><a href="https://www.iabeurope.eu/" title="IAB Europe" target="_blank"><img src="http://www.eu40.eu/wp-content/uploads/links/9437_recolored.png" width="100" height="65" data-base-src="http://www.eu40.eu/wp-content/uploads/links/9437_recolored.png" data-active-src="http://www.eu40.eu/wp-content/uploads/links/9437.png" /><img src="http://www.eu40.eu/wp-content/uploads/links/9437.png" style="display: none !important" /></a></li>
+<li class="pl_link"><a href="https://www.docmorris.com/" title="DocMorris" target="_blank"><img src="http://www.eu40.eu/wp-content/uploads/links/2933_recolored.png" width="100" height="65" data-base-src="http://www.eu40.eu/wp-content/uploads/links/2933_recolored.png" data-active-src="http://www.eu40.eu/wp-content/uploads/links/2933.png" /><img src="http://www.eu40.eu/wp-content/uploads/links/2933.png" style="display: none !important" /></a></li>
+<li class="pl_link"><a href="http://www.fticonsulting-emea.com/?rl=emea" title="FTI Consulting" target="_blank"><img src="http://www.eu40.eu/wp-content/uploads/links/9968_recolored.png" width="100" height="65" data-base-src="http://www.eu40.eu/wp-content/uploads/links/9968_recolored.png" data-active-src="http://www.eu40.eu/wp-content/uploads/links/9968.png" /><img src="http://www.eu40.eu/wp-content/uploads/links/9968.png" style="display: none !important" /></a></li>
+<li class="pl_link"><a href="http://www.jnj.com/" title="Johnson &#038; Johnson" target="_blank"><img src="http://www.eu40.eu/wp-content/uploads/links/6763_recolored.png" width="100" height="65" data-base-src="http://www.eu40.eu/wp-content/uploads/links/6763_recolored.png" data-active-src="http://www.eu40.eu/wp-content/uploads/links/6763.png" /><img src="http://www.eu40.eu/wp-content/uploads/links/6763.png" style="display: none !important" /></a></li>
+<li class="pl_link"><a href="http://www.google.com" title="Google" target="_blank"><img src="http://www.eu40.eu/wp-content/uploads/links/8026_recolored.png" width="100" height="65" data-base-src="http://www.eu40.eu/wp-content/uploads/links/8026_recolored.png" data-active-src="http://www.eu40.eu/wp-content/uploads/links/8026.png" /><img src="http://www.eu40.eu/wp-content/uploads/links/8026.png" style="display: none !important" /></a></li>
+<li class="pl_link"><a href="http://www.etno.eu" title="Etno" target="_blank"><img src="http://www.eu40.eu/wp-content/uploads/links/8102_recolored.png" width="100" height="65" data-base-src="http://www.eu40.eu/wp-content/uploads/links/8102_recolored.png" data-active-src="http://www.eu40.eu/wp-content/uploads/links/8102.png" /><img src="http://www.eu40.eu/wp-content/uploads/links/8102.png" style="display: none !important" /></a></li>
+</ul><div style="clear: both;"></div></p>
+</div>
+		</div><div class="widget-area widget-sidebar">			<div class="textwidget"><div class="social-networks" style="margin-left: 20px; margin-top:13px;"><a title="EU40 on Facebook" href="https://www.facebook.com/pages/EU40/545782345473507" target="_blank" rel="noopener"><img style="width: 30px;" src="http://www.eu40.eu/wp-content/themes/EU40/images/fb.svg" /></a><a title="EU40 on Linkedin" href="https://www.linkedin.com/pub/eu-40/96/3b2/320" target="_blank" rel="noopener"><img style="width: 30px;" src="http://www.eu40.eu/wp-content/themes/EU40/images/linkedin.svg" /></a><a title="EU40 on Twitter" href="http://twitter.com/eu40" target="_blank" rel="noopener"><img style="width: 30px;" src="http://www.eu40.eu/wp-content/themes/EU40/images/tw.svg" /></a><a title="EU40 on YouTube" href="http://www.youtube.com/EU40Network" target="_blank" rel="noopener"><img style="width: 30px;" src="http://www.eu40.eu/wp-content/themes/EU40/images/ytube.svg" /></a></div>
+</div>
+		</div>
+</div><div class="footer">
+    <a class="cc" href="http://creativecommons.org/licenses/by-nc-nd/3.0/de/" target="_blank">Under license <img src="http://www.eu40.eu/wp-content/themes/EU40/images/cc.png" style="position: relative; top: 3px;"></a>
+    <a class="privacy fancybox iframe" href="http://www.eu40.eu/privacy-statement">Privacy statement</a>
+    <span class="polydea">2011 - 2018<br /><a href="http://www.polydea.eu" target="_blank"><img src="http://www.eu40.eu/wp-content/themes/EU40/images/polydea.png" /></a></span>
+</div>
+</div><!--#content-->
+</div><!--#container-->
+
+<!--  initialize the slideshow when the DOM is ready -->
+<script type="text/javascript">
+    var $j = jQuery.noConflict();
+    $j(document).ready(function() {
+        $j('.slider_photo').cycle({
+            fx: 'fade',
+            speed: 900,
+            timeout: 5000,
+            next:   '.next2',
+            prev:   '.prev2'
+        });
+    });
+</script>
+<script type="text/javascript">
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-10807606-1']);
+  _gaq.push(['_setDomainName', 'eu40.eu']);
+  _gaq.push(['_trackPageview']);
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+</script>
+<!-- ngg_resource_manager_marker --><script type='text/javascript'>
+/* <![CDATA[ */
+var wpcf7 = {"apiSettings":{"root":"http:\/\/www.eu40.eu\/wp-json\/contact-form-7\/v1","namespace":"contact-form-7\/v1"},"recaptcha":{"messages":{"empty":"Please verify that you are not a robot."}}};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://www.eu40.eu/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=4.9.2'></script>
+<script type='text/javascript' src='http://www.eu40.eu/wp-includes/js/wp-embed.min.js?ver=4.8.6'></script>
+<script type='text/javascript' src='http://www.eu40.eu/wp-content/plugins/easy-fancybox/fancybox/jquery.fancybox-1.3.8.min.js?ver=1.6.2'></script>
+<script type='text/javascript' src='http://www.eu40.eu/wp-content/plugins/easy-fancybox/js/jquery.easing.min.js?ver=1.4.0'></script>
+<script type='text/javascript' src='http://www.eu40.eu/wp-content/plugins/easy-fancybox/js/jquery.mousewheel.min.js?ver=3.1.13'></script>
+<div id="cookie-law-info-bar"><span>This website uses cookies to improve your experience. We'll assume you're ok with this, but you can opt-out if you wish. <a href="#" id="cookie_action_close_header"  class="medium cli-plugin-button cli-plugin-main-button" >Accept</a></span></div>		
+		<script type="text/javascript">
+			//<![CDATA[
+			jQuery(document).ready(function() {
+				cli_show_cookiebar({
+					settings: '{"animate_speed_hide":"500","animate_speed_show":"500","background":"#fff","border":"#0B5F82","border_on":true,"button_1_button_colour":"#0b5f82","button_1_button_hover":"#094c68","button_1_link_colour":"#fff","button_1_as_button":true,"button_2_button_colour":"#333","button_2_button_hover":"#292929","button_2_link_colour":"#444","button_2_as_button":false,"font_family":"inherit","header_fix":"fffffff","notify_animate_hide":true,"notify_animate_show":false,"notify_div_id":"#cookie-law-info-bar","notify_position_horizontal":"right","notify_position_vertical":"bottom","scroll_close":"fffffff","scroll_close_reload":"fffffff","showagain_tab":false,"showagain_background":"#fff","showagain_border":"#000","showagain_div_id":"#cookie-law-info-again","showagain_x_position":"100px","text":"#000","show_once_yn":false,"show_once":"10000"}'
+				});
+			});
+			//]]>
+		</script>
+		
+		<script type="text/javascript">
+jQuery(document).on('ready post-load', function(){ jQuery('.nofancybox,a.pin-it-button,a[href*="pinterest.com/pin/create"]').addClass('nolightbox'); });
+jQuery(document).on('ready post-load',easy_fancybox_handler);
+jQuery(document).on('ready',easy_fancybox_auto);</script>
+	</body>
+</html>
+
+

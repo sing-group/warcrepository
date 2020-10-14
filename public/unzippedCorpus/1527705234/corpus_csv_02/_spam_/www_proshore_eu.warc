@@ -1,0 +1,131 @@
+WARC/1.0
+WARC-Type: warcinfo
+WARC-Date: 2018-05-30T17:52:31Z
+WARC-All-Language: {{ current_language }}
+WARC-All-Content_type: text/html; charset=UTF-8
+WARC-Record-ID: <urn:uuid:58fd17b2-7a4c-460d-a677-e3e4c1c7e2f0>
+Content-Type: application/http;msgtype=response
+Content-Length: 46
+
+WARCProcessor by SING Group www.sing-group.com
+
+WARC/1.0
+WARC-Type: response
+WARC-Target-URI: http://www.proshore.eu
+WARC-Date: 20180530175231
+WARC-Language: {{ current_language }}
+WARC-Record-ID: <http://www.proshore.eu>
+Content-Type: application/http;msgtype=response
+Content-Length: 2347
+
+HTTP/1.1 200
+Content-Type:text/html; charset=UTF-8
+
+
+<!DOCTYPE html>
+<html lang="{{ current_language }}" ng-app="ProshoreApp">
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="x-ua-compatible" content="ie=edge">
+        <meta name="fragment" content="!" />
+        <title>Proshore - {{ seo.pageTitle }}</title>
+        <meta name="description" content="{{ seo.metaDescription }}">
+        <meta name="keywords" content="{{ seo.metaKeywords }}">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <link rel="apple-touch-icon" href="apple-touch-icon.png">
+        <link rel="shortcut icon" href="/images/favicon.ico" type="image/x-icon">
+        <link rel="icon" href="/images/favicon.ico" type="image/x-icon">
+        <!-- Place favicon.ico in the root directory -->
+
+        <!-- all.min.css includes all css merged and minified. Check gulpfile.js and add any third party css to it if required -->
+        <link rel="stylesheet" href="/app/all.min.css">
+        <link rel="stylesheet" href="/css/main.css">
+        <script src="https://code.jquery.com/jquery-1.12.4.min.js" integrity="sha256-ZosEbRLbNQzLpnKIkEdrPv7lOy9C27hHQ+Xp8a4MxAQ=" crossorigin="anonymous"></script>
+        <script src="/js/vendor/modernizr-2.8.3.min.js"></script>
+
+        <base href="/">
+    </head>
+    <body class="{{ bodylayout }} {{ languageClass }}" ng-controller="baseController">
+        <div class="{{ headerLayout }}">
+            <div class="header-eclipse {{ eclipseLayout }}"></div>
+            <div class="site-header">
+                <div ng-include="'app/views/common/header.html'"></div>
+            </div>
+        </div>
+
+        <div class="page {{ pageClass }}" ui-view></div>
+
+        <div ng-include="'app/views/common/footer.html'"></div>
+    </body>
+</html>
+<!-- components.min.js includes all bower component js merged and minified. Check gulpfile.js and add any third party scripts to it if required -->
+<script src="/app/components.min.js"></script>
+<script src="http://cdnjs.cloudflare.com/ajax/libs/gsap/latest/TweenMax.min.js"></script>
+<script src="http://ajax.googleapis.com/ajax/libs/angularjs/1.4.14/angular-messages.js"></script>
+<!--<script src="/js/angular-recaptcha.min.js"></script>-->
+<script src="/app/app.min.js"></script>
+<script src="/app/translations/en.js"></script>
+
+
+
+
+WARC/1.0
+WARC-Type: response
+WARC-Target-URI: http://www.proshore.eu
+WARC-Date: 20180530181832
+WARC-Language: {{ current_language }}
+WARC-Record-ID: <http://www.proshore.eu>
+Content-Type: application/http;msgtype=response
+Content-Length: 2347
+
+HTTP/1.1 200
+Content-Type:text/html; charset=UTF-8
+
+
+<!DOCTYPE html>
+<html lang="{{ current_language }}" ng-app="ProshoreApp">
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="x-ua-compatible" content="ie=edge">
+        <meta name="fragment" content="!" />
+        <title>Proshore - {{ seo.pageTitle }}</title>
+        <meta name="description" content="{{ seo.metaDescription }}">
+        <meta name="keywords" content="{{ seo.metaKeywords }}">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <link rel="apple-touch-icon" href="apple-touch-icon.png">
+        <link rel="shortcut icon" href="/images/favicon.ico" type="image/x-icon">
+        <link rel="icon" href="/images/favicon.ico" type="image/x-icon">
+        <!-- Place favicon.ico in the root directory -->
+
+        <!-- all.min.css includes all css merged and minified. Check gulpfile.js and add any third party css to it if required -->
+        <link rel="stylesheet" href="/app/all.min.css">
+        <link rel="stylesheet" href="/css/main.css">
+        <script src="https://code.jquery.com/jquery-1.12.4.min.js" integrity="sha256-ZosEbRLbNQzLpnKIkEdrPv7lOy9C27hHQ+Xp8a4MxAQ=" crossorigin="anonymous"></script>
+        <script src="/js/vendor/modernizr-2.8.3.min.js"></script>
+
+        <base href="/">
+    </head>
+    <body class="{{ bodylayout }} {{ languageClass }}" ng-controller="baseController">
+        <div class="{{ headerLayout }}">
+            <div class="header-eclipse {{ eclipseLayout }}"></div>
+            <div class="site-header">
+                <div ng-include="'app/views/common/header.html'"></div>
+            </div>
+        </div>
+
+        <div class="page {{ pageClass }}" ui-view></div>
+
+        <div ng-include="'app/views/common/footer.html'"></div>
+    </body>
+</html>
+<!-- components.min.js includes all bower component js merged and minified. Check gulpfile.js and add any third party scripts to it if required -->
+<script src="/app/components.min.js"></script>
+<script src="http://cdnjs.cloudflare.com/ajax/libs/gsap/latest/TweenMax.min.js"></script>
+<script src="http://ajax.googleapis.com/ajax/libs/angularjs/1.4.14/angular-messages.js"></script>
+<!--<script src="/js/angular-recaptcha.min.js"></script>-->
+<script src="/app/app.min.js"></script>
+<script src="/app/translations/en.js"></script>
+
+
+
+

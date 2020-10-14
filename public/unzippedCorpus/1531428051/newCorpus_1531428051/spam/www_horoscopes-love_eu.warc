@@ -1,0 +1,932 @@
+WARC/1.0
+WARC-Type: warcinfo
+WARC-Date: 2018-05-30T17:52:31Z
+WARC-Record-ID: <urn:uuid:8f2ff038-49dd-41a1-b255-8cf54ab56010>
+WARC-All-Language: en, en-gb
+WARC-All-Content_type: text/html
+Content-Type: application/http;msgtype=response
+Content-Length: 46
+
+WARCProcessor by SING Group www.sing-group.com
+
+WARC/1.0
+WARC-Type: response
+WARC-Record-ID: <http://www.horoscopes-love.eu>
+WARC-Date: 20180530175231
+WARC-Target-URI: http://www.horoscopes-love.eu
+WARC-Language: en-gb
+Content-Type: application/http;msgtype=response
+Content-Length: 36330
+
+HTTP/1.1 200
+Content-Type:text/html
+
+
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-gb" lang="en-gb" dir="ltr">
+<head>
+	<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+	  <base href="http://www.horoscopes-love.eu/" />
+  <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+  <meta name="description" content="Horoscope could help you in partnership, romance, love and career. See how planets influence yor life and your partner´s life." />
+  <meta name="generator" content="Joomla! - Open Source Content Management" />
+  <title>Horoscope and Astrology</title>
+  <link href="/?format=feed&amp;type=rss" rel="alternate" type="application/rss+xml" title="RSS 2.0" />
+  <link href="/?format=feed&amp;type=atom" rel="alternate" type="application/atom+xml" title="Atom 1.0" />
+  <link href="http://horoscopes.dejvo01.netdna-cdn.com/templates/protostar/favicon.ico" rel="shortcut icon" type="image/vnd.microsoft.icon" />
+  <link rel="stylesheet" href="http://horoscopes.dejvo01.netdna-cdn.com/templates/protostar/css/template.css" type="text/css" />
+  <link rel="stylesheet" href="http://horoscopes.dejvo01.netdna-cdn.com/media/com_acymailing/css/module_default.css?v=1448850195" type="text/css" />
+  <script src="http://horoscopes.dejvo01.netdna-cdn.com/media/system/js/mootools-core.js" type="text/javascript"></script>
+  <script src="http://horoscopes.dejvo01.netdna-cdn.com/media/system/js/core.js" type="text/javascript"></script>
+  <script src="http://horoscopes.dejvo01.netdna-cdn.com/media/system/js/caption.js" type="text/javascript"></script>
+  <script src="http://horoscopes.dejvo01.netdna-cdn.com/media/jui/js/jquery.min.js" type="text/javascript"></script>
+  <script src="http://horoscopes.dejvo01.netdna-cdn.com/media/jui/js/jquery-noconflict.js" type="text/javascript"></script>
+  <script src="http://horoscopes.dejvo01.netdna-cdn.com/media/jui/js/bootstrap.min.js" type="text/javascript"></script>
+  <script src="http://horoscopes.dejvo01.netdna-cdn.com/templates/protostar/js/template.js" type="text/javascript"></script>
+  <script src="http://horoscopes.dejvo01.netdna-cdn.com/media/com_acymailing/js/acymailing_module.js?v=501" type="text/javascript"></script>
+  <script type="text/javascript">
+window.addEvent('load', function() {
+				new JCaption('img.caption');
+			});	if(typeof acymailing == 'undefined'){
+					var acymailing = Array();
+				}
+				acymailing['NAMECAPTION'] = 'Name';
+				acymailing['NAME_MISSING'] = 'Please enter your name';
+				acymailing['EMAILCAPTION'] = 'E-mail';
+				acymailing['VALID_EMAIL'] = 'Please enter a valid e-mail address';
+				acymailing['ACCEPT_TERMS'] = 'Please check the Terms and Conditions';
+				acymailing['CAPTCHA_MISSING'] = 'Please enter the security code displayed in the image';
+				acymailing['NO_LIST_SELECTED'] = 'Please select the lists you want to subscribe to';
+		
+  </script>
+
+			<link href='https://fonts.googleapis.com/css?family=PT+Sans' rel='stylesheet' type='text/css'>
+		<style type="text/css">
+			h1,h2,h3,h4,h5,h6,.site-title{
+				font-family: 'Open Sans', sans-serif;
+			}
+		</style>
+			<style type="text/css">
+		body.site
+		{
+			border-top: 3px solid #cc0033;
+			background-color: #34282C		}
+		a
+		{
+			color: #cc0033;
+		}
+		.navbar-inner, .nav-list > .active > a, .nav-list > .active > a:hover, .dropdown-menu li > a:hover, .dropdown-menu .active > a, .dropdown-menu .active > a:hover, .nav-pills > .active > a, .nav-pills > .active > a:hover,
+		.btn-primary
+		{
+			background: #cc0033;
+		}
+		.navbar-inner
+		{
+			-moz-box-shadow: 0 1px 3px rgba(0, 0, 0, .25), inset 0 -1px 0 rgba(0, 0, 0, .1), inset 0 30px 10px rgba(0, 0, 0, .2);
+			-webkit-box-shadow: 0 1px 3px rgba(0, 0, 0, .25), inset 0 -1px 0 rgba(0, 0, 0, .1), inset 0 30px 10px rgba(0, 0, 0, .2);
+			box-shadow: 0 1px 3px rgba(0, 0, 0, .25), inset 0 -1px 0 rgba(0, 0, 0, .1), inset 0 30px 10px rgba(0, 0, 0, .2);
+		}
+	</style>
+    
+		<!--[if lt IE 9]>
+		<script src="http://horoscopes.dejvo01.netdna-cdn.com/media/jui/js/html5.js"></script>
+	<![endif]-->
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-1415658-3', 'horoscopes-love.eu');
+  ga('send', 'pageview');
+
+</script>
+   
+</head>
+<div id="fb-root"></div>
+<script>
+      window.fbAsyncInit = function() {
+        FB.init({
+          appId      : '{125356530862370}',
+          xfbml      : true,
+          version    : 'v2.0'
+        });
+      };
+
+      (function(d, s, id){
+         var js, fjs = d.getElementsByTagName(s)[0];
+         if (d.getElementById(id)) {return;}
+         js = d.createElement(s); js.id = id;
+         js.src = "//connect.facebook.net/en_US/sdk.js";
+         fjs.parentNode.insertBefore(js, fjs);
+       }(document, 'script', 'facebook-jssdk'));
+    </script>
+
+	<!-- Body -->
+	<div class="body">
+		<div class="container">
+			<!-- Header -->
+			<header class="header" role="banner">
+				<div class="header-inner clearfix">
+					<a class="brand pull-left" href="/">
+						<img src="http://horoscopes.dejvo01.netdna-cdn.com/images/logo.png" alt="Horoscopes-Love.eu" /> 					</a>
+					<div class="header-search pull-right">
+						
+
+<div class="custom"  >
+	<div class="oranum-up">
+<p><a href="http://www.oranum.com/chat/random-expert?s=1&p=6&w=100393&t=216&c=1752" target="_blank" rel="nofollow"><img src="http://horoscopes.dejvo01.netdna-cdn.com/images/hor-Tarotcom_300x125-compressor.jpg?s=1&amp;p=6&amp;w=100393&amp;t=83&amp;c=1752&amp;cs=0" border="0" /></a></p>
+</div></div>
+
+					</div>
+				</div>
+			</header>
+						<nav class="navigation" role="navigation">
+						<div class="module">
+			<div>
+				<div>
+					<div>
+											
+<ul class="menu nav-pills">
+<li class="item-329"><a href="http://coupons.horoscopes-love.eu/" >Psychic Coupons</a></li><li class="item-330"><a href="http://answers.horoscopes-love.eu/" >Forum</a></li><li class="item-356"><a href="http://monthly.horoscopes-love.eu/" >April 2018 Horoscope</a></li><li class="item-357"><a href="http://psychic.horoscopes-love.eu/" >Psychic Readings</a></li></ul>
+					</div>
+				</div>
+			</div>
+		</div>
+	
+			</nav>
+						
+			<div class="row-fluid">
+								<main id="content" role="main" class="span7">
+					<!-- Begin Content -->
+					
+					
+<div id="system-message-container">
+</div>
+					<div class="blog-featured">
+	<h1>
+	Horoscope and Astrology	</h1>
+
+	
+	
+			<div class="items-row cols-1 row-0">
+				<div class="item column-1">
+			
+	<h2>
+					<a href="/horoscope-2018/aquarius-horoscope-2018">
+			Aquarius Horoscope 2018: Love, Career &amp; Health </a>
+			</h2>
+
+
+
+
+
+ <dl class="article-info">
+ <dt class="article-info-term"></dt>
+		<dd class="category-name">
+										Category: <a href="/horoscope-2018">Horoscope 2018</a>						</dd>
+		<dd class="modified">
+		Last Updated on January 10, 2018		</dd>
+	<dd class="createdby">
+				
+							Written by admin				</dd>
+ </dl>
+
+
+<p><img class="imageinarticle2" alt="Aquarius Horoscope 2018" src="http://horoscopes.dejvo01.netdna-cdn.com/images/Aquarius-horoscope-2018.jpg" /></p>
+<h2>Aquarius 2018 - The Year of Recognition</h2>
+<p>This is the year of recognition and rewards for you, Aquarius! Just be patient and you will be noticed. You may have to make some compromises, but don’t be scared to do so. Make new connections and try to increase your network that would prove to be a valuable support system later on in life.</p>
+
+			<p class="readmore">
+				<a href="/horoscope-2018/aquarius-horoscope-2018">
+					Read more...</a>
+		</p>
+
+
+<div class="item-separator"></div>
+		</div>
+									<span class="row-separator"></span>
+				</div>
+
+				
+	
+			<div class="items-row cols-1 row-1">
+				<div class="item column-1">
+			
+	<h2>
+					<a href="/horoscope-2018/capricorn-horoscope-2018">
+			Capricorn Horoscope 2018: Love, Career &amp; Health </a>
+			</h2>
+
+
+
+
+
+ <dl class="article-info">
+ <dt class="article-info-term"></dt>
+		<dd class="category-name">
+										Category: <a href="/horoscope-2018">Horoscope 2018</a>						</dd>
+		<dd class="modified">
+		Last Updated on January 10, 2018		</dd>
+	<dd class="createdby">
+				
+							Written by admin				</dd>
+ </dl>
+
+
+<p><img class="imageinarticle2" alt="Capricorn Horoscope 2018" src="http://horoscopes.dejvo01.netdna-cdn.com/images/Capricorn-horoscope-2018.jpg" /></p>
+<h2>Capricorn 2018 - The Year of Gains</h2>
+<p>Capricorns are disciplined by nature, and definitely not scared of hard work. Give it your best, and you are bound to succeed in 2018; after all, this is the year when you gain so much. There’d be hardly anything that you want, and would not be able to get this year.</p>
+
+			<p class="readmore">
+				<a href="/horoscope-2018/capricorn-horoscope-2018">
+					Read more...</a>
+		</p>
+
+
+<div class="item-separator"></div>
+		</div>
+									<span class="row-separator"></span>
+				</div>
+
+				
+	
+			<div class="items-row cols-1 row-2">
+				<div class="item column-1">
+			
+	<h2>
+					<a href="/horoscope-2018/pisces-horoscope-2018">
+			Pisces Horoscope 2018: Love, Career &amp; Health </a>
+			</h2>
+
+
+
+
+
+ <dl class="article-info">
+ <dt class="article-info-term"></dt>
+		<dd class="category-name">
+										Category: <a href="/horoscope-2018">Horoscope 2018</a>						</dd>
+		<dd class="modified">
+		Last Updated on January 10, 2018		</dd>
+	<dd class="createdby">
+				
+							Written by admin				</dd>
+ </dl>
+
+
+<p><img class="imageinarticle2" alt="Pisces Horoscope 2018" src="http://horoscopes.dejvo01.netdna-cdn.com/images/Pisces-horoscope-2018.jpg" /></p>
+<h2>Pisces 2018 - The Year of Luck</h2>
+<p>This year, your progress may take a step back, at least in the first part. But then onwards, as luck walks with you down the path, things change rapidly. Work hard, and you’ll be rewarded greatly. People around you may want to dampen your spirit. Avoid them and don’t work in the same teams; instead, work individually in the position of an advisor, consultant or another suitable role.</p>
+
+			<p class="readmore">
+				<a href="/horoscope-2018/pisces-horoscope-2018">
+					Read more...</a>
+		</p>
+
+
+<div class="item-separator"></div>
+		</div>
+									<span class="row-separator"></span>
+				</div>
+
+				
+	
+			<div class="items-row cols-1 row-3">
+				<div class="item column-1">
+			
+	<h2>
+					<a href="/horoscope-2018/sagittarius-horoscope-2018">
+			Sagittarius Horoscope 2018: Love, Career &amp; Health </a>
+			</h2>
+
+
+
+
+
+ <dl class="article-info">
+ <dt class="article-info-term"></dt>
+		<dd class="category-name">
+										Category: <a href="/horoscope-2018">Horoscope 2018</a>						</dd>
+		<dd class="modified">
+		Last Updated on January 10, 2018		</dd>
+	<dd class="createdby">
+				
+							Written by admin				</dd>
+ </dl>
+
+
+<p><img class="imageinarticle2" alt="Sagittarius Horoscope 2018" src="http://horoscopes.dejvo01.netdna-cdn.com/images/Sagittarius-horoscope-2018.jpg" /></p>
+<h2>Sagittarius 2018 - The Year of Greater Income</h2>
+<p>2018 is going to be a roller coaster ride for you, dear Sagittarius! You’ll face so many upsides, but at the same time, there would be downsides as well. One moment, you would be filled with joy, and the next, you’ll be caught in an intensely difficult personal challenge. How would you react to the circumstances around you? You’d be determined to prove yourself, to tell the world who you truly are and what you are best at.</p>
+
+			<p class="readmore">
+				<a href="/horoscope-2018/sagittarius-horoscope-2018">
+					Read more...</a>
+		</p>
+
+
+<div class="item-separator"></div>
+		</div>
+									<span class="row-separator"></span>
+				</div>
+
+				
+	
+			<div class="items-row cols-1 row-4">
+				<div class="item column-1">
+			
+	<h2>
+					<a href="/horoscope-2018/virgo-horoscope-2018">
+			Virgo Horoscope 2018: Love, Career &amp; Health </a>
+			</h2>
+
+
+
+
+
+ <dl class="article-info">
+ <dt class="article-info-term"></dt>
+		<dd class="category-name">
+										Category: <a href="/horoscope-2018">Horoscope 2018</a>						</dd>
+		<dd class="modified">
+		Last Updated on January 10, 2018		</dd>
+	<dd class="createdby">
+				
+							Written by admin				</dd>
+ </dl>
+
+
+<p><img class="imageinarticle2" alt="Virgo Horoscope 2018" src="http://horoscopes.dejvo01.netdna-cdn.com/images/Virgo-horoscope-2018.jpg" /></p>
+<h2>Virgo 2018 - The Year of Progress</h2>
+<p>Good news for you, dear Virgo friend! 2018 is a year when you are destined to progress at work. What’s the result? Obviously more income and a greater financial situation. Unfortunately, you may have to face some issues at home or with distant family members, but you’d know how to get those resolved. In any case, overall, 2018 has a lot of positivity and progress in store for you. It’s a year where you should take advantage of whatever is thrown your way. Your communication skills, expressive power and creativity would be at an all time high for a major part of this year, till around October. And in this time, there’ll be periods in between, where you’ll really rock the professional boat.</p>
+
+			<p class="readmore">
+				<a href="/horoscope-2018/virgo-horoscope-2018">
+					Read more...</a>
+		</p>
+
+
+<div class="item-separator"></div>
+		</div>
+									<span class="row-separator"></span>
+				</div>
+
+				
+	
+			<div class="items-row cols-1 row-5">
+				<div class="item column-1">
+			
+	<h2>
+					<a href="/horoscope-2018/scorpio-horoscope-2018">
+			Scorpio Horoscope 2018: Love, Career &amp; Health </a>
+			</h2>
+
+
+
+
+
+ <dl class="article-info">
+ <dt class="article-info-term"></dt>
+		<dd class="category-name">
+										Category: <a href="/horoscope-2018">Horoscope 2018</a>						</dd>
+		<dd class="modified">
+		Last Updated on January 10, 2018		</dd>
+	<dd class="createdby">
+				
+							Written by admin				</dd>
+ </dl>
+
+
+<p><img class="imageinarticle2" alt="Scorpio Horoscope 2018" src="http://horoscopes.dejvo01.netdna-cdn.com/images/Scorpio-horoscope-2018.jpg" /></p>
+<h2>Scorpio 2018 - The Year of Courage</h2>
+<p>Scorpions are known for holding what matters close to the heart, and this one thing isn’t going to change in any way this year. Obviously, your basic nature stays as it is, but you can still make some other improvements. Mercury is expected to merge with Pluto, your home planet towards the end of January, and at this time, you’ll be part of several secrets; but hey Scorpio, don’t let the cat out of the bag even if it seems harmless! If someone is entrusting you with something, please don’t break their trust. Communications may be kind of underground so don’t expose anything or anyone on a social network or some other public forum. Use the information for your good and benefits, but not in any malicious or hurtful ways that affect others negatively.</p>
+
+			<p class="readmore">
+				<a href="/horoscope-2018/scorpio-horoscope-2018">
+					Read more...</a>
+		</p>
+
+
+<div class="item-separator"></div>
+		</div>
+									<span class="row-separator"></span>
+				</div>
+
+				
+	
+			<div class="items-row cols-1 row-6">
+				<div class="item column-1">
+			
+	<h2>
+					<a href="/horoscope-2018/libra-horoscope-2018">
+			Libra Horoscope 2018: Love, Career &amp; Health </a>
+			</h2>
+
+
+
+
+
+ <dl class="article-info">
+ <dt class="article-info-term"></dt>
+		<dd class="category-name">
+										Category: <a href="/horoscope-2018">Horoscope 2018</a>						</dd>
+		<dd class="modified">
+		Last Updated on January 10, 2018		</dd>
+	<dd class="createdby">
+				
+							Written by admin				</dd>
+ </dl>
+
+
+<p><img class="imageinarticle2" alt="Libra Horoscope 2018" src="http://horoscopes.dejvo01.netdna-cdn.com/images/Libra-horoscope-2018.jpg" /></p>
+<h2>Libra 2018 - The Year of Blossoming</h2>
+<p>2018 will be both good and not so good for you. You’ll have to face some difficult times that would last for a while, but once they are over, gone are the troubles and the hard luck – for the whole year that is! Your career will eventually rise, and you would become more ambitious and start putting in more efforts, you’ll embark a new growth cycle and reach heights that you’ve never crossed before.</p>
+
+			<p class="readmore">
+				<a href="/horoscope-2018/libra-horoscope-2018">
+					Read more...</a>
+		</p>
+
+
+<div class="item-separator"></div>
+		</div>
+									<span class="row-separator"></span>
+				</div>
+
+				
+	
+			<div class="items-row cols-1 row-7">
+				<div class="item column-1">
+			
+	<h2>
+					<a href="/horoscope-2018/taurus-horoscope-2018">
+			Taurus Horoscope 2018: Love, Career &amp; Health </a>
+			</h2>
+
+
+
+
+
+ <dl class="article-info">
+ <dt class="article-info-term"></dt>
+		<dd class="category-name">
+										Category: <a href="/horoscope-2018">Horoscope 2018</a>						</dd>
+		<dd class="modified">
+		Last Updated on January 10, 2018		</dd>
+	<dd class="createdby">
+				
+							Written by admin				</dd>
+ </dl>
+
+
+<p><img class="imageinarticle2" alt="Taurus Horoscope 2018" src="http://horoscopes.dejvo01.netdna-cdn.com/images/Taurus-horoscope-2018.jpg" /></p>
+<h2>Taurus 2018 - The Year of Peace</h2>
+<p>Hey Taurus! Come 2018, and you’ll find peace and serenity. You’ll be mentally relaxed, and will have so much to enjoy, but make sure that you exercise good control on your anger. Or it will drain all the love from your relationships. Your career is destined to shine this year, but if you are considering switching roles or jobs, then the period between March and July is not a great time to do it. In these four months, be very focused on your work and don’t take any steps which could put your job security at risk. But other than this period, 2018 is indeed promising in terms of your career especially if are interested in settling abroad. After all, this is the year when nothing would stop you from achieving your goals.</p>
+
+			<p class="readmore">
+				<a href="/horoscope-2018/taurus-horoscope-2018">
+					Read more...</a>
+		</p>
+
+
+<div class="item-separator"></div>
+		</div>
+									<span class="row-separator"></span>
+				</div>
+
+				
+	
+			<div class="items-row cols-1 row-8">
+				<div class="item column-1">
+			
+	<h2>
+					<a href="/horoscope-2018/leo-horoscope-2018">
+			Leo Horoscope 2018: Love, Career &amp; Health </a>
+			</h2>
+
+
+
+
+
+ <dl class="article-info">
+ <dt class="article-info-term"></dt>
+		<dd class="category-name">
+										Category: <a href="/horoscope-2018">Horoscope 2018</a>						</dd>
+		<dd class="modified">
+		Last Updated on January 10, 2018		</dd>
+	<dd class="createdby">
+				
+							Written by admin				</dd>
+ </dl>
+
+
+<p><img class="imageinarticle2" alt="Leo Horoscope 2018" src="http://horoscopes.dejvo01.netdna-cdn.com/images/Leo-horoscope-2018.jpg" /></p>
+<h2>Leo 2018 - The Year of Relief</h2>
+<p>Leo! 2018 will be a year of mental reliefs for you, my dear friend. You will come across haters, but let them do what they want, and you do what you want. So long as, they don’t hinder your progress, why should you care? And if they become too much of a problem, you do know how to deal with them. But yeah, proceed with caution because 2018 isn’t a great year to make enemies.</p>
+
+			<p class="readmore">
+				<a href="/horoscope-2018/leo-horoscope-2018">
+					Read more...</a>
+		</p>
+
+
+<div class="item-separator"></div>
+		</div>
+									<span class="row-separator"></span>
+				</div>
+
+				
+	
+			<div class="items-row cols-1 row-9">
+				<div class="item column-1">
+			
+	<h2>
+					<a href="/horoscope-2018/gemini-horoscope-2018">
+			Gemini Horoscope 2018: Love, Career &amp; Health </a>
+			</h2>
+
+
+
+
+
+ <dl class="article-info">
+ <dt class="article-info-term"></dt>
+		<dd class="category-name">
+										Category: <a href="/horoscope-2018">Horoscope 2018</a>						</dd>
+		<dd class="modified">
+		Last Updated on January 10, 2018		</dd>
+	<dd class="createdby">
+				
+							Written by admin				</dd>
+ </dl>
+
+
+<p><img class="imageinarticle2" alt="Gemini Horoscope 2018" src="http://horoscopes.dejvo01.netdna-cdn.com/images/Gemini-horoscope-2018.jpg" /></p>
+<h2>Gemini 2018 - The Year of Energy</h2>
+<p>2018 is a going to be a year full of energy and plenty of opportunities to grow. Gemini, you are probably the most talkative zodiac sign that there is. You are amazing with words and speak your mind without any kinds of fears, but despite that you would face several communications issues for a huge chunk of this year. Mercury, the planet that rules you, will retrograde in Aries in the last days of March, and during this time, be really careful about what you say. Ensure that no harsh words leave your mouth; if you hurt or offend someone, the effects would last a long time, and you’d be filled with regrets later on.</p>
+
+			<p class="readmore">
+				<a href="/horoscope-2018/gemini-horoscope-2018">
+					Read more...</a>
+		</p>
+
+
+<div class="item-separator"></div>
+		</div>
+									<span class="row-separator"></span>
+				</div>
+
+				
+	
+			<div class="items-row cols-1 row-10">
+				<div class="item column-1">
+			
+	<h2>
+					<a href="/horoscope-2018/cancer-horoscope-2018">
+			Cancer Horoscope 2018: Love, Career &amp; Health </a>
+			</h2>
+
+
+
+
+
+ <dl class="article-info">
+ <dt class="article-info-term"></dt>
+		<dd class="category-name">
+										Category: <a href="/horoscope-2018">Horoscope 2018</a>						</dd>
+		<dd class="modified">
+		Last Updated on January 10, 2018		</dd>
+	<dd class="createdby">
+				
+							Written by admin				</dd>
+ </dl>
+
+
+<p><img class="imageinarticle2" alt="Cancer Horoscope 2018" src="http://horoscopes.dejvo01.netdna-cdn.com/images/Cancer-horoscope-2018.jpg" /></p>
+<h2>Cancer 2018 - The Year of Possibilities</h2>
+<p>Hey Cancer! 2018 is an opportunistic year for you – the year when you rule your destiny. Throughout you’ll enjoy so many possibilities and chances to grow and bloom. Both your personal and professional life will bloom with you relishing in the rewards of all your hard work.</p>
+
+			<p class="readmore">
+				<a href="/horoscope-2018/cancer-horoscope-2018">
+					Read more...</a>
+		</p>
+
+
+<div class="item-separator"></div>
+		</div>
+									<span class="row-separator"></span>
+				</div>
+
+				
+	
+			<div class="items-row cols-1 row-11">
+				<div class="item column-1">
+			
+	<h2>
+					<a href="/horoscope-2018/aries-horoscope-2018">
+			Aries Horoscope 2018: Love, Career &amp; Health </a>
+			</h2>
+
+
+
+
+
+ <dl class="article-info">
+ <dt class="article-info-term"></dt>
+		<dd class="category-name">
+										Category: <a href="/horoscope-2018">Horoscope 2018</a>						</dd>
+		<dd class="modified">
+		Last Updated on January 10, 2018		</dd>
+	<dd class="createdby">
+				
+							Written by admin				</dd>
+ </dl>
+
+
+<p><img class="imageinarticle2" alt="Aries Horoscope 2018" src="http://horoscopes.dejvo01.netdna-cdn.com/images/Aries-horoscope-2018.jpg" /></p>
+<h2>Aries 2018 - The Year of Opportunities</h2>
+<p>Hey Aries! 2018 is going to be an exciting year with so much in store for you. You’re going to be making some important decisions for life, and will eliminate all things that are no longer relevant or important. Expect your maturity to increase, which will refine things for you.</p>
+
+			<p class="readmore">
+				<a href="/horoscope-2018/aries-horoscope-2018">
+					Read more...</a>
+		</p>
+
+
+<div class="item-separator"></div>
+		</div>
+									<span class="row-separator"></span>
+				</div>
+
+				
+	
+			<div class="items-row cols-1 row-12">
+				<div class="item column-1">
+			
+	<h2>
+					<a href="/love-and-relationship/crystals-crystals-for-money-and-career">
+			Crystals – Crystals for Money and Career</a>
+			</h2>
+
+
+
+
+
+ <dl class="article-info">
+ <dt class="article-info-term"></dt>
+		<dd class="category-name">
+										Category: <a href="/love-and-relationship">Love and Relationship Readings</a>						</dd>
+		<dd class="modified">
+		Last Updated on August 25, 2016		</dd>
+	<dd class="createdby">
+				
+							Written by admin				</dd>
+ </dl>
+
+
+<p><img class="imageinarticle2" alt="Crystals for Money and Career" src="http://horoscopes.dejvo01.netdna-cdn.com/images/crystal-money.jpg" /></p>
+<p>When money or career need a hand, these crystals and stones are definite “go-tos” for help with achieving success.</p>
+
+			<p class="readmore">
+				<a href="/love-and-relationship/crystals-crystals-for-money-and-career">
+					Read more...</a>
+		</p>
+
+
+<div class="item-separator"></div>
+		</div>
+									<span class="row-separator"></span>
+				</div>
+
+				
+	
+			<div class="items-row cols-1 row-13">
+				<div class="item column-1">
+			
+	<h2>
+					<a href="/love-and-relationship/crystals-for-love-and-relationships">
+			Crystals for Love and Relationships</a>
+			</h2>
+
+
+
+
+
+ <dl class="article-info">
+ <dt class="article-info-term"></dt>
+		<dd class="category-name">
+										Category: <a href="/love-and-relationship">Love and Relationship Readings</a>						</dd>
+		<dd class="modified">
+		Last Updated on August 12, 2016		</dd>
+	<dd class="createdby">
+				
+							Written by admin				</dd>
+ </dl>
+
+
+<p><img class="imageinarticle2" alt="Crystals for Love and Relationships" src="http://horoscopes.dejvo01.netdna-cdn.com/images/crystals.jpg" /></p>
+<p>Are you interested in learning about crystals which can help you with your love life? These crystals are not only pretty to look at, they are known to help in all matters of emotion!</p>
+
+			<p class="readmore">
+				<a href="/love-and-relationship/crystals-for-love-and-relationships">
+					Read more...</a>
+		</p>
+
+
+<div class="item-separator"></div>
+		</div>
+									<span class="row-separator"></span>
+				</div>
+
+				
+	
+			<div class="items-row cols-1 row-14">
+				<div class="item column-1">
+			
+	<h2>
+					<a href="/health-and-beauty/how-to-make-four-thieves-vinegar">
+			How to Make Four Thieves Vinegar</a>
+			</h2>
+
+
+
+
+
+ <dl class="article-info">
+ <dt class="article-info-term"></dt>
+		<dd class="category-name">
+										Category: <a href="/health-and-beauty">Health and Beauty Readings</a>						</dd>
+		<dd class="modified">
+		Last Updated on August 08, 2016		</dd>
+	<dd class="createdby">
+				
+							Written by admin				</dd>
+ </dl>
+
+
+<p><img class="imageinarticle2" alt="How to Make Four Thieves Vinegar" src="http://horoscopes.dejvo01.netdna-cdn.com/images/Vinegar.jpg" /></p>
+<p>Herbal vinegars have been used as medicine since the time of Hippocrates, the father of Western Medicine. Four Thieves Vinegar comes to us from a time when the plague was rampant in Europe, which is also known as the Black Death. It is also known as Marseilles Vinegar. It is also an old magickal remedy, a protection against evil and the magick of others. It is still commonly used today by modern practitioners.</p>
+
+			<p class="readmore">
+				<a href="/health-and-beauty/how-to-make-four-thieves-vinegar">
+					Read more...</a>
+		</p>
+
+
+<div class="item-separator"></div>
+		</div>
+									<span class="row-separator"></span>
+				</div>
+
+				
+
+
+</div>
+
+					
+					<!-- End Content -->
+				</main>
+								<div id="aside" class="span5">
+					<!-- Begin Right Sidebar -->
+					<div class="well ">
+
+<div class="custom"  >
+	<div class="socialbox"><a href="https://www.facebook.com/horoscopeslove.eu"><img width="48" height="48" alt="Facebook" src="http://horoscopes.dejvo01.netdna-cdn.com/images/facebook_48.png" /></a><a href="http://www.twitter.com/horoscopes_love"><img width="48" height="48" alt="Twitter" src="http://horoscopes.dejvo01.netdna-cdn.com/images/twitter_48.png" /></a><a href="http://www.youtube.com/user/HoroscopesLove"><img width="48" height="48" alt="Youtube" src="http://horoscopes.dejvo01.netdna-cdn.com/images/youtube_48.png" /></a><a href="http://feeds.feedburner.com/horoscopes"><img width="48" height="48" alt="RSS" src="http://horoscopes.dejvo01.netdna-cdn.com/images/feed_48.png" /></a></div></div>
+</div><div class="well .page-header"><div class="page-header">Need Answers?</div>
+
+<div class="custom.page-header"  >
+	<script src="http://ad.oranum.com/banners/iag/embed.php?type=livefeed_001&s=1&p=6&w=100393&t=216&c=2910" type="text/javascript"></script><div id="oranum_livefeed_container"></div></div>
+</div><div class="well ">
+
+<div class="custom"  >
+	<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- Horoscope-Right -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-6805410043791485"
+     data-ad-slot="3122866925"
+     data-ad-format="auto"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script></div>
+</div><div class="well _menu"><div class="page-header">Horoscopes</div>
+<ul class="menu">
+<li class="item-101 current active"><a href="/" >Home</a></li><li class="item-226"><a href="/chinese-horoscope" >Chinese Horoscope</a></li><li class="item-142"><a href="/daily-horoscopes" >Daily Horoscope</a></li><li class="item-280"><a href="/health-horoscope" >Health Horoscope</a></li><li class="item-366"><a href="/horoscope-2018" >Horoscope 2018</a></li><li class="item-182"><a href="/love-horoscopes" >Love Horoscope</a></li><li class="item-210"><a href="/pet-horoscope" >Pet Horoscope</a></li><li class="item-227"><a href="/weekly-horoscope" >Weekly Horoscope</a></li><li class="item-279"><a href="/weekly-love-horoscope" >Weekly Love Horoscope</a></li><li class="item-281"><a href="/work-horoscope" >Work Horoscope</a></li></ul>
+</div><div class="well "><div class="page-header">Zodiac Signs</div>
+<ul class="menu">
+<li class="item-186"><a href="/12-zodiac-signs" >12 Zodiac Signs</a></li><li class="item-187"><a href="/zodiac-sign-compatibility" >Zodiac Sign Compatibility</a></li><li class="item-188"><a href="/zodiac-signs-characteristics" >Zodiac Signs Characteristics</a></li><li class="item-189"><a href="/famous-people-by-zodiac-signs" >Famous People by Zodiac Signs</a></li><li class="item-190"><a href="/chinese-zodiac-signs" >Chinese Zodiac Signs</a></li><li class="item-191"><a href="/constellations-of-zodiac-signs" >Constellations of Zodiac Signs</a></li></ul>
+</div><div class="well ">
+
+<div class="custom"  >
+	<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- Links-right-horoscopes -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:200px;height:90px"
+     data-ad-client="ca-pub-6805410043791485"
+     data-ad-slot="8948188583"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script></div>
+</div><div class="well "><div class="page-header">Astrology</div>
+<ul class="menu">
+<li class="item-195"><a href="/astrological-terms" >Astrological Terms</a></li><li class="item-196"><a href="/birthstone-by-month" >Birthstone by Month</a></li><li class="item-197"><a href="/planets-in-the-houses" >Planets in the Houses</a></li><li class="item-198"><a href="/planets-in-the-signs" >Planets in the Signs</a></li></ul>
+</div><div class="well "><div class="page-header">Love</div>
+<ul class="menu">
+<li class="item-192"><a href="/love-calculator" >Love Calculator</a></li><li class="item-193"><a href="/love-tests" >Love Tests</a></li><li class="item-194"><a href="/love-lyrics" >Love Lyrics</a></li></ul>
+</div><div class="well "><div class="page-header">Readings</div>
+<ul class="menu">
+<li class="item-199"><a href="/astrology-and-psychic" >Astrology and Psychic</a></li><li class="item-200"><a href="/entertainment-and-celebrities" >Entertainment and Celebrities</a></li><li class="item-201"><a href="/health-and-beauty" >Health and Beauty</a></li><li class="item-202"><a href="/love-and-relationship" >Love and Relationship</a></li></ul>
+</div><div class="well "><div class="page-header">Others</div>
+<ul class="menu">
+<li class="item-203"><a href="/numerology" >Numerology</a></li><li class="item-204"><a href="/dream-interpretation" >Dream Interpretation</a></li><li class="item-205"><a href="/tarot-reading" >Tarot Reading</a></li><li class="item-206"><a href="/divination" >Divination</a></li><li class="item-228"><a href="/name-meanings" >Name Meanings</a></li><li class="item-207"><a href="/palmistry" >Palmistry</a></li><li class="item-208"><a href="/nostradamus-predictions" >Nostradamus Predictions</a></li><li class="item-211"><a href="/recommendations" >Recommendations</a></li><li class="item-319"><a href="/psychic-answers" >Psychic Answers</a></li></ul>
+</div><div class="well "><div class="page-header">Most Popular Articles</div><ul class="mostread">
+	<li>
+		<a href="/love-and-relationship/how-to-know-when-a-man-is-falling-in-love-with-you">
+			How to Know When A Man Is Falling In Love With You</a>
+	</li>
+	<li>
+		<a href="/astrology-and-psychic/new-zodiac-signs-2011-ophiuchus">
+			New Zodiac Signs 2011: Ophiuchus</a>
+	</li>
+	<li>
+		<a href="/astrology-and-psychic/learn-about-your-true-self-during-pluto-sextile-chiron">
+			Learn About Your True Self During Pluto Sextile Chiron</a>
+	</li>
+	<li>
+		<a href="/astrology-and-psychic/what-happens-when-the-sun-enters-scorpio-october-23rd">
+			What Happens When the Sun Enters Scorpio October 23rd?</a>
+	</li>
+	<li>
+		<a href="/astrology-and-psychic/astrology-and-your-life-s-purpose">
+			Astrology and Your Life’s Purpose</a>
+	</li>
+	<li>
+		<a href="/astrology-and-psychic/full-moon-full-of-surprises-and-opportunities">
+			Full Moon Full of Surprises and Opportunities</a>
+	</li>
+	<li>
+		<a href="/astrology-and-psychic/ophiuchus-13th-zodiac-sign">
+			Ophiuchus- 13th Zodiac Sign</a>
+	</li>
+	<li>
+		<a href="/astrology-and-psychic/sun-entering-sagittarius-brings-energy-and-intensity">
+			Sun Entering Sagittarius Brings Energy and Intensity</a>
+	</li>
+</ul>
+</div><div class="well "><div class="page-header">Get latest update via email:</div><div class="acymailing_module" id="acymailing_module_formAcymailing17661">
+	<div class="acymailing_fulldiv" id="acymailing_fulldiv_formAcymailing17661" style="text-align:left" >
+		<form id="formAcymailing17661" action="/" onsubmit="return submitacymailingform('optin','formAcymailing17661')" method="post" name="formAcymailing17661"  >
+		<div class="acymailing_module_form" >
+						<table class="acymailing_form">
+				<tr>
+												<td class="acyfield_email acy_requiredField">
+								<input id="user_email_formAcymailing17661"  onfocus="if(this.value == 'E-mail') this.value = '';" onblur="if(this.value=='') this.value='E-mail';" class="inputbox" type="text" name="user[email]" style="width:80%" value="E-mail" title="E-mail"/>
+							</td> 
+					
+					<td  class="acysubbuttons">
+												<input class="button subbutton btn btn-primary" type="submit" value="Subscribe" name="Submit" onclick="try{ return submitacymailingform('optin','formAcymailing17661'); }catch(err){alert('The form could not be submitted '+err);return false;}"/>
+											</td>
+				</tr>
+			</table>
+			<div class="acymailing_finaltext">You can unsubscribe at any time.</div>			<input type="hidden" name="ajax" value="0" />
+			<input type="hidden" name="acy_source" value="module_96" />
+			<input type="hidden" name="ctrl" value="sub"/>
+			<input type="hidden" name="task" value="notask"/>
+			<input type="hidden" name="redirect" value="http%3A%2F%2Fwww.horoscopes-love.eu%2F"/>
+			<input type="hidden" name="redirectunsub" value="http%3A%2F%2Fwww.horoscopes-love.eu%2F"/>
+			<input type="hidden" name="option" value="com_acymailing"/>
+						<input type="hidden" name="hiddenlists" value="2,1"/>
+			<input type="hidden" name="acyformname" value="formAcymailing17661" />
+									</div>
+		</form>
+	</div>
+	</div>
+</div>
+					<!-- End Right Sidebar -->
+				</div>
+							</div>
+		</div>
+	</div>
+	<!-- Footer -->
+	<footer class="footer" role="contentinfo">
+		<div class="container">
+			<hr />
+			
+<ul class="menu nav-pills">
+<li class="item-107"><a href="mailto:info@horoscopes-love.eu" >Contact Us</a></li><li class="item-108"><a href="/privacy-policy" >Privacy Policy</a></li><li class="item-109"><a href="/our-partners" >Our Partners</a></li><li class="item-110"><a href="/our-team" >Our Team</a></li><li class="item-111"><a href="http://www.horoscopes-love.eu/sitemap.htm" >Sitemap</a></li></ul>
+
+			<p class="pull-right">
+				
+			</p>
+			<p>
+				<div class="copyright">&copy; 2018 Horoscopes-Love.eu The services are provided for entertainment purposes only. Unauthorized duplication prohibited</div>
+			</p>
+		</div>
+	</footer>
+	
+<div class="mobile-add"></div>
+
+</body>
+</html> 
+

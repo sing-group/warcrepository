@@ -1,0 +1,36 @@
+WARC/1.0
+WARC-Type: warcinfo
+WARC-Date: 2018-05-23T15:15:43Z
+WARC-Record-ID: <urn:uuid:7c67885b-9c0f-4f16-9784-4b70b5118289>
+WARC-All-Language: fr
+WARC-All-Content_type: text/html
+Content-Type: application/http;msgtype=response
+Content-Length: 46
+
+WARCProcessor by SING Group www.sing-group.com
+
+WARC/1.0
+WARC-Type: response
+WARC-Record-ID: <http://www.bobpaley.com/>
+WARC-Date: 20180523151543
+WARC-Target-URI: http://www.bobpaley.com/
+WARC-Language: fr
+Content-Type: application/http;msgtype=response
+Content-Length: 220
+
+HTTP/1.1 200
+Content-Type:text/html
+
+
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>Bob Paley</title>
+</head>
+<h1 align="center">This website is under construction</h1>
+<body>
+</body>
+</html>
+
+

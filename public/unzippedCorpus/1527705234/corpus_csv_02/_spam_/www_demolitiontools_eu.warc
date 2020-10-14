@@ -1,0 +1,181 @@
+WARC/1.0
+WARC-Type: warcinfo
+WARC-Date: 2018-05-30T17:52:31Z
+WARC-All-Language: en
+WARC-All-Content_type: text/html
+WARC-Record-ID: <urn:uuid:fa277e35-26f6-4be9-bf6f-63a93a1de1ad>
+Content-Type: application/http;msgtype=response
+Content-Length: 46
+
+WARCProcessor by SING Group www.sing-group.com
+
+WARC/1.0
+WARC-Type: response
+WARC-Target-URI: http://www.demolitiontools.eu
+WARC-Date: 20180530175231
+WARC-Language: en
+WARC-Record-ID: <http://www.demolitiontools.eu>
+Content-Type: application/http;msgtype=response
+Content-Length: 16577
+
+HTTP/1.1 200
+Content-Type:text/html
+
+
+<!DOCTYPE html><html><head><meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1"><title>Saes International BV</title><meta name="description" content=""><meta name="keywords" content=""><link rel="stylesheet" type="text/css" href="/css/style.css"><link rel="stylesheet" type="text/css" href="/css/devices.css"><link rel="stylesheet" type="text/css" href="/css/contentpage.css"><script src="/js/jquery-1.10.2.min.js"></script><script src="/js/jquery.slides.min.js"></script><script src="/js/menu.js"></script><script type="text/javascript" src="js/pdfobject.min.js"></script></head><body>
+<div id="contentwrapper">
+	<div id="contentshadow">
+		<div id="header">
+			<div id="headerleft">
+				<div id="logowebsite">
+					<a href=""><img src="images/header.gif" alt="saes"></a>
+				</div>
+			</div>
+			<div id="headerright">
+				<div id="headerrightTop">
+					<div id="languageslist">
+					<ul id="languages"><li class="flagen "><a href="language/&amp;language=en"><img src="images/uploads/england.gif" alt=""></a></li><li class="grayout flagnl "><a><img src="images/uploads/nl.gif" alt=""></a></li><li class="grayout flagfr lastFlag"><a><img src="images/uploads/fr.gif" alt=""></a></li></ul></div>
+					<form id="zoekbalk" action="/search" method="post">
+						<input type="text" name="zoekwoord"><input type="submit" name="zoek" value="" class="searchSubmitHeader"></form>
+					<div id="headermenupoition">
+					<ul id="headermenu"><li class="first"><a href="">Home</a></li><li><a href="page/news">News</a></li><li><a href="page/videos">Videos</a></li><li><a href="page/downloads">Downloads</a></li><li><a href="page/contact">Contact</a></li></ul></div>
+				</div>
+			</div>
+			<div id="menuContainer">
+			<ul id="menu"><li><a>About SAES</a><ul><div class="subsubmenus">
+						<div class="subsubmenu">
+							<div class="menusubitem listmenu">
+									<ul class="subsubmenuitem"><li><a href="page/company-profile">Company profile</a></li><li><a href="page/references">References</a></li><li><a href="page/contact">Contact</a></li><li><a href="page/jobs">Jobs</a></li></ul></div></div></div></ul></li><li><a>Attachments</a><ul><div class="subsubmenus"><div class="subsubmenu">
+							<div class="menusubitem">
+								<img src="images/uploads/saesattachmentsmenu.jpg" alt=""><h3>Saes Attachments</h3>
+								<ul class="subsubmenuitem"><li><a href="page/saes-loader-buckets">SAES Loader Buckets</a></li><li><a href="page/saes-excavator-buckets">SAES Excavator Buckets</a></li><li><a href="page/saes-hydraulic-compactors">SAES Hydraulic Compactors</a></li><li><a href="page/saes-pallet-frames">SAES Pallet Frames</a></li><li><a href="page/saes-miscellaneous">SAES Miscellaneous</a></li></ul></div></div><div class="subsubmenu">
+							<div class="menusubitem">
+								<img src="images/uploads/1attachmentsmenu.jpg" alt=""><h3>Attachments</h3>
+								<ul class="subsubmenuitem"><li><a href="page/hydraulic-breakers">Hydraulic Breakers</a></li><li><a href="page/hydraulic-crushers-cutters-and-shears">Hydraulic Crushers, Cutters, and Shears</a></li></ul></div></div><div class="subsubmenu">
+							<div class="menusubitem">
+								<img src="images/uploads/xriattachmentsmenu.jpg" alt=""><h3>XRI Attachments</h3>
+								<ul class="subsubmenuitem"><li><a href="page/xcentric-rippers">Xcentric&reg; Rippers</a></li><li><a href="page/go-max-quick-couplers">GO-Max Quick Couplers</a></li></ul></div></div><div class="subsubmenu">
+							<div class="menusubitem">
+								<img src="images/uploads/fractumattachmentsmenu.jpg" alt=""><h3>Fractum Attachments</h3>
+								<ul class="subsubmenuitem"><li><a href="page/fractum-drop-ball-breakers">Fractum Drop-Ball Breakers</a></li></ul></div></div><div class="subsubmenu">
+							<div class="menusubitem">
+								<img src="images/uploads/mbattachmentsmenu.jpg" alt=""><h3>Crusher and Screener buckets</h3>
+								<ul class="subsubmenuitem"><li><a href="page/crusher-buckets">XC Crusher buckets</a></li><li><a href="page/screener-buckets">XS Screener buckets</a></li></ul></div></div><div class="subsubmenu">
+							<div class="menusubitem">
+								<img src="images/uploads/usedattachmentsmenu.jpg" alt=""><h3>Used</h3>
+								<ul class="subsubmenuitem"><li><a href="page/used-attachments">Used attachments</a></li></ul></div></div></div></ul></li><li><a>Services</a><ul><div class="subsubmenus">
+						<div class="subsubmenu">
+							<div class="menusubitem listmenu">
+									<ul class="subsubmenuitem"><li><a href="page/manufacturing">Manufacturing</a></li><li><a href="page/rentals">Rentals</a></li><li><a href="page/pre-sales">Pre-Sales</a></li><li><a href="page/after-sales">After-Sales</a></li></ul></div></div></div></ul></li></ul><ul id="menusmall"><li id="phoneMenu0" onclick="toggleMenu('phoneMenu0')"><a>About SAES</a><ul><li><a href="page/company-profile">Company profile</a></li><li><a href="page/references">References</a></li><li><a href="page/contact">Contact</a></li><li><a href="page/jobs">Jobs</a></li></ul></li><li id="phoneMenu1" onclick="toggleMenu('phoneMenu1')"><a>Attachments</a><ul><li><a href="page/saes-loader-buckets">SAES Loader Buckets</a></li><li><a href="page/saes-excavator-buckets">SAES Excavator Buckets</a></li><li><a href="page/saes-hydraulic-compactors">SAES Hydraulic Compactors</a></li><li><a href="page/saes-pallet-frames">SAES Pallet Frames</a></li><li><a href="page/saes-miscellaneous">SAES Miscellaneous</a></li><li><a href="page/hydraulic-breakers">Hydraulic Breakers</a></li><li><a href="page/hydraulic-crushers-cutters-and-shears">Hydraulic Crushers, Cutters, and Shears</a></li><li><a href="page/xcentric-rippers">Xcentric&reg; Rippers</a></li><li><a href="page/go-max-quick-couplers">GO-Max Quick Couplers</a></li><li><a href="page/fractum-drop-ball-breakers">Fractum Drop-Ball Breakers</a></li><li><a href="page/crusher-buckets">XC Crusher buckets</a></li><li><a href="page/used-attachments">Used attachments</a></li></ul></li><li id="phoneMenu2" onclick="toggleMenu('phoneMenu2')"><a>Services</a><ul><li><a href="page/manufacturing">Manufacturing</a></li><li><a href="page/rentals">Rentals</a></li><li><a href="page/pre-sales">Pre-Sales</a></li><li><a href="page/after-sales">After-Sales</a></li></ul></li></ul></div>
+		</div>
+		<div id="banner">
+		<div id="sliderFrame">
+				<div id="slider"><a text="&lt;p&gt;Soma 6,7,8 February 2018&lt;/p&gt;
+" href="page/news"><img src="images/uploads/21bannerbeurs.jpg" alt="Soma"></a><a text="&lt;p&gt;Steinexpo 2017&lt;/p&gt;
+" href="page/news"><img src="images/uploads/steinexpo.jpg" alt="Steinexpo 2017"></a><a text="" href="page/news"><img src="images/uploads/dscn.jpg" alt="XR52"></a><a text="&lt;p&gt;April 2017: delivery of 3 units Atlas Copco MB 1500 to Smitma.&lt;/p&gt;
+" href="page/news"><img src="images/uploads/smitma.jpg" alt=""></a><a text="&lt;p&gt;2017 Recycling exhibition very successful&lt;/p&gt;
+" href="page/news"><img src="images/uploads/Hardenberg.jpg" alt=""></a><a text="&lt;p&gt;2016 Recycling exhibition huge success&lt;/p&gt;
+" href="page/news"><img src="images/uploads/beurs2.jpg" alt="beurs2"></a><a text="&lt;p&gt;2016 Recycling exhibition huge success&lt;/p&gt;
+" href="page/news"><img src="images/uploads/beurs1.jpg" alt="Beurs1"></a><a text="&lt;p&gt;October 2016: Atlas Copco HB 7000 DP delivered to company Wanty&lt;/p&gt;
+" href="page/news"><img src="images/uploads/wantyhb7000.jpg" alt="Wanty-HB-7000"></a><a text="&lt;p&gt;SAES International: proud sponsor of the Venray raceway&lt;/p&gt;
+" href="page/news"><img src="images/uploads/raceway.jpg" alt="Venray raceway"></a><a text="&lt;p&gt;Atlas Copco HB 2000 DP operated by Baldewijns Belgium&lt;/p&gt;
+" href="page/news"><img src="images/uploads/baldewijns.jpg" alt="Atlas Copco HB 2000 DP operated "></a><a text="&lt;p&gt;Atlas Copco HB 4200 DP operated from water by De Vries &amp; Van de Wiel&lt;/p&gt;
+" href="page/news"><img src="images/uploads/dvdw.jpg" alt=""></a><a text="&lt;p&gt;Atlas Copco HB 7000 at job site Vlasman&lt;/p&gt;
+" href="page/news"><img src="images/uploads/vlasman.jpg" alt="Atlas Copco HB 7000 at job site "></a><a text="&lt;p&gt;Installation Atlas Copco HB 3100 DP at yard Gubbels&lt;/p&gt;
+" href="page/news"><img src="images/uploads/gubbels.jpg" alt="Installation Atlas Copco HB 3100"></a><a text="&lt;p&gt;Atlas Copco HB 4200 DP rented out to Van Liempd&lt;/p&gt;
+" href="page/news"><img src="images/uploads/liempd.jpg" alt="Atlas Copco HB 4200 DP rented ou"></a><a text="&lt;p&gt;Atlas Copco HB 4200 DP working at job site DDM&lt;/p&gt;
+" href="page/news"><img src="images/uploads/ddm.jpg" alt="Atlas Copco HB 4200 DP working a"></a><a text="&lt;p&gt;Installation Atlas Copco HB7000 DP at job site Pouw&lt;/p&gt;
+" href="page/news"><img src="images/uploads/1pouw.jpg" alt="Installation Atlas Copco HB7000 "></a><a text="&lt;p&gt;September 2015, InfraPro / Recycling Expo Netherlands&lt;/p&gt;
+" href="page/news"><img src="images/uploads/infra2015.jpg" alt="September 2015, InfraPro / Recyc"></a><a text="&lt;p&gt;&lt;strong&gt;News:&lt;/strong&gt; April 2014, first Xcentric&reg; Ripper in the Caribbean&lt;/p&gt;
+" href="page/news"><img src="images/uploads/1bannercuracao.jpg" alt="April 2014, first Xcentric&reg; Ripp"></a><a text="&lt;p&gt;Saes International, proud and exclusive distributor Xcentric&reg; Ripper&lt;/p&gt;
+" href="page/news"><img src="images/uploads/1bannerxr.jpg" alt=""></a><a text="&lt;p&gt;&lt;strong&gt;News:&lt;/strong&gt; September 2013, custom HARDOX ditching buckets delivered to Pouw&lt;/p&gt;
+" href="page/news"><img src="images/uploads/1banner1.jpg" alt="banner1"></a><a text="&lt;p&gt;&lt;strong&gt;News:&lt;/strong&gt; July 2013, hydraulic breakers F45 and F70 delivered to Wanty SA.&lt;/p&gt;
+" href="page/news"><img src="images/uploads/1bannernew072013.jpg" alt="banner2"></a><a text="&lt;p&gt;&lt;strong&gt;News:&lt;/strong&gt; June 2013, Xcentric&reg; Ripper type XR50 delivered to Boskalis NV, operated in Surinam bauxite mines&lt;/p&gt;
+" href="page/news"><img src="images/uploads/bannernews062013.jpg" alt=""></a><a text="&lt;p&gt;&lt;strong&gt;News:&lt;/strong&gt; April 2013, Saes international becomes the exclusive distributor of Fractum Breakers for both the Benelux and France&lt;/p&gt;
+" href="page/news"><img src="images/uploads/bannernews042013.jpg" alt=""></a><a text="&lt;p&gt;&lt;strong&gt;Latest Video:&lt;/strong&gt; Xcentric&reg; Ripper type XR40 operated in a Hard Layered Sandstone Quarry in Belgium.&lt;/p&gt;
+" href="page/news"><img src="images/uploads/xr40video.jpg" alt=""></a></div>
+			</div></div>
+		<div id="bannerText">
+		</div>
+		<div id="content">
+			<div id="imageSubMenu"></div>
+			<div id="contentblocken">
+				<div id="contentblockenpos">
+				<div class="contentblock contentblock0">
+						<h2>Hydraulic breakers</h2>
+						<a href="page/hydraulic-breakers"><img src="images/uploads/blockimagecopy.jpg" alt=""></a>
+						<div>Manufactures premium quality hydraulic breakers, which are the best sold breakers worldwide
+...</div>
+						<a href="page/hydraulic-breakers">Read more</a>
+					</div><div class="blockborder contentblock0"></div><div class="contentblock contentblock1">
+						<h2>Xcentric&reg; Ripper</h2>
+						<a href="page/xcentric-rippers"><img src="images/uploads/blockimageXR.jpg" alt=""></a>
+						<div>The Xcentric&reg; Ripper, a truly unique and worldwide patented attachment, has started a revolution in the world of demolition
+...</div>
+						<a href="page/xcentric-rippers">Read more</a>
+					</div><div class="blockborder contentblock1"></div><div class="contentblock contentblock2">
+						<h2>Fractum</h2>
+						<a href="page/fractum-drop-ball-breakers"><img src="images/uploads/blockimageFractum.jpg" alt=""></a>
+						<div>Fractum manufactures world&rsquo;s biggest and most powerful breakers, with impact powers up to an impressive 300.000 Joules
+...</div>
+						<a href="page/fractum-drop-ball-breakers">Read more</a>
+					</div><div class="blockborder contentblock2"></div><div class="contentblock contentblock3">
+						<h2>Manufacturing</h2>
+						<a href="page/company-profile"><img src="images/uploads/blockimageSAES.jpg" alt=""></a>
+						<div>Since 1982, we have been manufacturing excavator and wheel loader attachments for earth moving, road construction, trans-shipment, demolition, and recycling
+...</div>
+						<a href="page/company-profile">Read more</a>
+					</div><div class="blockborder contentblock3"></div><div class="contentblock contentblock4">
+						<h2>Rentals</h2>
+						<a href="page/rentals"><img src="images/uploads/blockimageRental.jpg" alt=""></a>
+						<div>The bigger part of our delivery program is available for rent, both for shorter and longer periods of time. Upon request we arrange for transport and execute installation at location
+...</div>
+						<a href="page/rentals">Read more</a>
+					</div><div class="blockborder contentblock4"></div><div class="contentblock contentblock5">
+						<h2>After-Sales</h2>
+						<a href="page/after-sales"><img src="images/uploads/blockimageservice.jpg" alt=""></a>
+						<div>We provide a wide range of after sales services, among others transport, installation, operator training, (on-site) maintenance of both represented and non-represented brands, original parts supply
+...</div>
+						<a href="page/after-sales">Read more</a>
+					</div><div class="blockborder contentblock5"></div></div>
+			</div>
+			<div id="contentText">
+			<h1></h1></div>
+         <div id="beursDeelnames">
+            <h2>Beurs deelnames</h2>
+            <div class="deelnamen">
+               <span>Technische kontakt dagen in Almere:</span>
+               <img src="/images/beurs/kontaktDagen.jpg"></div>
+         </div>
+		</div>
+		<div id="footer">
+			<div id="footerContainer">
+			</div>
+		<div class="footerItem">
+					<span>About Saes</span>
+					<ul><li><a href="page/company-profile">Company Profile</a></li><li><a href="page/references">References</a></li><li><a href="page/contact">Contact</a></li><li><a href="page/jobs">Jobs</a></li></ul></div><div class="footerItem">
+					<span>Attachments</span>
+					<ul><li><a href="page/saes-loader-buckets">Saes Loader Buckets</a></li><li><a href="page/saes-excavator-buckets">Saes Digging Buckets</a></li><li><a href="page/saes-hydraulic-compactors">Saes Hydraulic Compactors</a></li><li><a href="page/saes-pallet-frames">Saes Pallet Frames</a></li><li><a href="page/saes-miscellaneous">Saes Miscellaneous</a></li><li><a href="page/hydraulic-breakers">Hydraulic Breakers</a></li><li><a href="page/hydraulic-crushers-cutters-and-shears">Hydraulic Crushers</a></li><li><a href="page/hydraulic-crushers-cutters-and-shears">Hydraulic Shears</a></li><li><a href="page/xcentric-rippers">Xcentric&reg; Rippers</a></li><li><a href="page/go-max-quick-couplers">GO-MAX Quick Couplers</a></li><li><a href="page/fractum-drop-ball-breakers">Fractum Drop-Ball Breakers</a></li><li><a href="page/crusher-buckets">XC Crusher Buckets</a></li><li><a href="page/screener-buckets">XS Screener Buckets </a></li><li><a href="page/used-attachments">USED Attachments</a></li></ul></div><div class="footerItem">
+					<span>Services</span>
+					<ul><li><a href="page/manufacturing">Manufacturing</a></li><li><a href="page/rentals">Rentals</a></li><li><a href="page/pre-sales">Pre-Sales</a></li><li><a href="page/after-sales">After-Sales</a></li></ul></div><div class="footerItem">
+					<span>Media</span>
+					<ul><li><a href="page/news">News</a></li><li><a href="page/videos">Videos</a></li><li><a href="page/downloads">Downloads</a></li></ul></div><div class="footerItem">
+					<span>Our Online Channels</span>
+					<ul><li><a href="http://www.youtube.com/SaesIntBV">Youtube</a></li><li><a href="http://www.mascus.nl/Co%3A%3Asaes%20international%20b.v./+/Search.html">Mascus</a></li><li><a href="http://autoline-eu.nl/saes/">Autoline</a></li></ul></div><div id="bottomFooter">
+					<p>&copy; SAES International BV 2013. All Rights Reserved. Trademarks and logos are the property of their respective owners.</p>
+					<p>SAES International BV, Lozerweg 10-14, 6006 SR Weert, the Netherlands, tel. +31 (0)495-561929.</p>
+					<p>Chamber of Commerce Registration Number 12048862. VAT Number NL811088911B01.</p>
+				</div></div>
+	</div>
+</div>
+
+<div id="pdf" class="pdf" style="display:none">
+	<div class="closePdf"><span style="float:left">Ga naar de website</span><span style="float:right">X</span></div>
+	<div id="bet" pdf="/pdf/Persbericht Saes-K3517.pdf">
+		<img src="/images/Persbericht%20Saes-K3517.png"></div>
+</div>
+
+</body></html>
+
+
+

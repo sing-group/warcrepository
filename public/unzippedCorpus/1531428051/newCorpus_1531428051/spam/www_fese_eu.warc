@@ -1,0 +1,492 @@
+WARC/1.0
+WARC-Type: warcinfo
+WARC-Date: 2018-05-30T18:18:32Z
+WARC-Record-ID: <urn:uuid:298584f5-652c-4f42-ad4e-217e4325d0cc>
+WARC-All-Language: en, en-gb
+WARC-All-Content_type: text/html, text/html; charset=utf-8
+Content-Type: application/http;msgtype=response
+Content-Length: 46
+
+WARCProcessor by SING Group www.sing-group.com
+
+WARC/1.0
+WARC-Type: response
+WARC-Record-ID: <http://www.fese.eu>
+WARC-Date: 20180530181832
+WARC-Target-URI: http://www.fese.eu
+WARC-Language: en-gb
+Content-Type: application/http;msgtype=response
+Content-Length: 15266
+
+HTTP/1.1 200
+Content-Type:text/html; charset=utf-8
+
+
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-gb" lang="en-gb" dir="ltr">
+<head>
+	
+<link rel="stylesheet" href="/templates/tpl-fese/s/css/font-awesome.min.css"> 		
+<link rel="stylesheet" href="/templates/tpl-fese/s/skeleton.css?300017874" type="text/css" />
+<link rel="stylesheet" href="/templates/tpl-fese/s/s.css?1814290877" type="text/css" />	
+	
+<script src="https://code.jquery.com/jquery-3.2.1.min.js"></script>
+
+	<base href="http://www.fese.eu/" />
+	<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+	<title>FESE represents the operators of European regulated markets</title>
+	<link href="/?format=feed&amp;type=rss" rel="alternate" type="application/rss+xml" title="RSS 2.0" />
+	<link href="/?format=feed&amp;type=atom" rel="alternate" type="application/atom+xml" title="Atom 1.0" />
+	<link href="/templates/tpl-fese/favicon.ico" rel="shortcut icon" type="image/vnd.microsoft.icon" />
+	<link href="/plugins/system/jcemediabox/css/jcemediabox.css?1d12bb5a40100bbd1841bfc0e498ce7b" rel="stylesheet" type="text/css" />
+	<link href="/plugins/system/jcemediabox/themes/standard/css/style.css?50fba48f56052a048c5cf30829163e4d" rel="stylesheet" type="text/css" />
+	<style type="text/css">
+</style>
+	<script src="/plugins/system/jcemediabox/js/jcemediabox.js?0c56fee23edfcb9fbdfe257623c5280e" type="text/javascript"></script>
+	<script type="text/javascript">
+jQuery(window).on('load',  function() {
+				new JCaption('img.caption');
+			});JCEMediaBox.init({popup:{width:"",height:"",legacy:0,lightbox:0,shadowbox:0,resize:1,icons:1,overlay:1,overlayopacity:0.8,overlaycolor:"#000000",fadespeed:500,scalespeed:500,hideobjects:0,scrolling:"fixed",close:2,labels:{'close':'Close','next':'Next','previous':'Previous','cancel':'Cancel','numbers':'{$current} of {$total}'},cookie_expiry:"",google_viewer:0},tooltip:{className:"tooltip",opacity:0.8,speed:150,position:"br",offsets:{x: 16, y: 16}},base:"/",imgpath:"plugins/system/jcemediabox/img",theme:"standard",themecustom:"",themepath:"plugins/system/jcemediabox/themes",mediafallback:0,mediaselector:"audio,video"});</script>
+
+
+<link href='http://fonts.googleapis.com/css?family=Open+Sans:400,600,700&subset=latin,latin-ext' rel='stylesheet' type='text/css'>
+	
+
+
+<link rel="stylesheet" href="/templates/tpl-fese/js/css/owl.carousel.css" media="screen"> 
+<link rel="stylesheet" href="/templates/tpl-fese/js/css/owl.transitions.css" media="screen">
+<script src="/templates/tpl-fese/js/owl.carousel.js"></script>
+
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.1.25/jquery.fancybox.min.css" />
+<script src="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.1.25/jquery.fancybox.min.js"></script>
+ 
+  
+			
+
+ 	<!--[if lt IE 9]>
+		<script src="/media/jui/js/html5.js"></script>
+	<![endif]-->
+	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+</head>
+
+<body class="default home  ">
+ <!-- Header -->
+<header class="header">
+			<div class="topRight">
+						
+			</div>
+
+			<a class="logoLnk" href="/"> <img id="logo" src="/images/FESE-logo.png" alt="logo" /></a>
+								
+
+<div class="custom strapline"  >
+	<p>Federation of European Securities Exchanges</p></div>
+
+					
+</header>
+		<nav class="navigation orangeBg" role="navigation">
+				<ul class="nav menusecondary">
+<li class="item-168"><a href="/contact" >Contact</a></li><li class="item-169"><a href="/disclaimer" >Disclaimer</a></li><li class="item-191 current active"><a href="/" >Home</a></li></ul>
+
+	</nav>
+		
+<div id="tainer" class="box">
+							<div class="banner">
+				
+
+<div class="custom homeTitle"  >
+	<div class="custom">
+<h1>Federation of European Securities Exchanges</h1>
+<p>FESE represents the operators of European regulated markets.</p>
+</div></div>
+
+			</div>
+						 
+  			<!-- Begin Sidebar -->
+			<div id="left" class="columns three">
+			  			<div class="moduletable_menu">
+						<ul class="nav menu">
+<li class="item-101 default current active"><a href="/" >Home</a></li><li class="item-109 parent"><a href="/about-us" >About FESE</a></li><li class="item-112"><a href="/position-papers" >Position Papers</a></li><li class="item-114 parent"><a href="/statistics-market-research" >Statistics &amp; Research</a></li><li class="item-113"><a href="/press-room" >News Room</a></li><li class="item-118 parent"><a href="/fese-events" >FESE Events</a></li><li class="item-120 parent"><a href="/de-la-vega-prize" >FESE De la Vega Prize 2018</a></li></ul>
+		</div>
+	
+			</div>
+	<main id="content" role="main" class="columns six">
+				<!-- Begin Content -->
+				
+				<div id="system-message-container">
+	</div>
+
+				<div class="blog blog-featured" >
+
+	
+		
+	 
+		 
+			
+<div class="postItem hover_item" onclick="window.location.href='/position-papers/189-input-to-the-european-commission-on-its-proposal-for-a-regulation-on-european-crowdfunding-service-providers-ecsp-for-business'"  >
+
+
+	<h2 class="item-title">
+	 
+		Input to the European Commission on its Proposal for a Regulation on European Crowdfunding Service Providers (ECSP) for Business	
+	</h2>
+
+
+
+
+ 
+	 
+		
+		
+			 
+													Category: <span class="category">Position Papers</span>						 
+		
+		
+					 
+		
+
+			
+		 
+	
+ 
+	<span class="create">
+				 
+					<time datetime="2018-05-10T14:45:55+00:00">
+						Created: 10 May 2018					</time>
+				</span> 
+			 
+				
+
+ <p>FESE fully supports the Commission’s objective of increasing the harmonisation of crowdfunding activity and reviewing potential barriers to cross-border transactions, both initiatives which could help to bolster an important source of capital for early-stage companies.</p>
+
+
+
+	
+<p class="readmore">
+			<a class="btn" href="/position-papers/189-input-to-the-european-commission-on-its-proposal-for-a-regulation-on-european-crowdfunding-service-providers-ecsp-for-business" itemprop="url" aria-label="Read more:  Input to the European Commission on its Proposal for a Regulation on European Crowdfunding Service Providers (ECSP) for Business">
+			<span class="icon-chevron-right" aria-hidden="true"></span> 
+			Read more ...		</a>
+	</p>
+
+
+</div>
+		 
+			
+			
+ 
+		
+	
+		
+	 
+		 
+			
+<div class="postItem hover_item" onclick="window.location.href='/position-papers/188-response-to-the-esma-consultation-paper-on-draft-rts-under-the-new-prospectus-regulation'"  >
+
+
+	<h2 class="item-title">
+	 
+		Response to the ESMA Consultation Paper on draft RTS under the new Prospectus Regulation	
+	</h2>
+
+
+
+
+ 
+	 
+		
+		
+			 
+													Category: <span class="category">Position Papers</span>						 
+		
+		
+					 
+		
+
+			
+		 
+	
+ 
+	<span class="create">
+				 
+					<time datetime="2018-03-09T13:47:44+00:00">
+						Created: 09 March 2018					</time>
+				</span> 
+			 
+				
+
+ <p>FESE members believes that, in order to be successful, the review of the Prospectus rules should significantly reduce burdens for companies, and ensure that rules are aligned with the existing framework and not duplicated.</p>
+<p>In particular, we would recommend retaining flexibility for companies as this would allow them to better highlight to investors their distinct characteristics and features.</p>
+
+
+
+	
+<p class="readmore">
+			<a class="btn" href="/position-papers/188-response-to-the-esma-consultation-paper-on-draft-rts-under-the-new-prospectus-regulation" itemprop="url" aria-label="Read more:  Response to the ESMA Consultation Paper on draft RTS under the new Prospectus Regulation">
+			<span class="icon-chevron-right" aria-hidden="true"></span> 
+			Read more ...		</a>
+	</p>
+
+
+</div>
+		 
+			
+			
+ 
+		
+	
+		
+	 
+		 
+			
+<div class="postItem hover_item" onclick="window.location.href='/position-papers/187-position-on-the-review-of-the-prudential-framework-for-investment-firms'"  >
+
+
+	<h2 class="item-title">
+	 
+		Position on the Review of the Prudential Framework for Investment Firms	
+	</h2>
+
+
+
+
+ 
+	 
+		
+		
+			 
+													Category: <span class="category">Position Papers</span>						 
+		
+		
+					 
+		
+
+			
+		 
+	
+ 
+	<span class="create">
+				 
+					<time datetime="2018-03-08T10:41:23+00:00">
+						Created: 08 March 2018					</time>
+				</span> 
+			 
+				
+
+ <p>We welcome the underlying objective followed in the Commission’s legislative proposals on designing a new prudential regime for investment firms, i.e. to categorise investment firms into three classes based on the risks they pose and to attach different capital and prudential requirements to the respective classes. However, we have strong concerns regarding the potential impact of the proposals on market makers and liquidity providers,</p>
+
+
+
+	
+<p class="readmore">
+			<a class="btn" href="/position-papers/187-position-on-the-review-of-the-prudential-framework-for-investment-firms" itemprop="url" aria-label="Read more:  Position on the Review of the Prudential Framework for Investment Firms">
+			<span class="icon-chevron-right" aria-hidden="true"></span> 
+			Read more ...		</a>
+	</p>
+
+
+</div>
+		 
+			
+			
+ 
+		
+	
+		
+	 
+		 
+			
+<div class="postItem hover_item" onclick="window.location.href='/position-papers/186-response-to-ec-paper-building-a-proportionate-regulatory-environment-to-support-sme-listing'"  >
+
+
+	<h2 class="item-title">
+	 
+		Response to EC's Consultation: Building a Proportionate Regulatory Environment to Support SME Listing'	
+	</h2>
+
+
+
+
+ 
+	 
+		
+		
+			 
+													Category: <span class="category">Position Papers</span>						 
+		
+		
+					 
+		
+
+			
+		 
+	
+ 
+	<span class="create">
+				 
+					<time datetime="2018-02-27T14:28:28+00:00">
+						Created: 27 February 2018					</time>
+				</span> 
+			 
+				
+
+ <p>We fully support the European Commission’s commitment to&nbsp;deliver a more conducive regulatory environment to support SME initial public offerings and</p>
+
+
+
+	
+<p class="readmore">
+			<a class="btn" href="/position-papers/186-response-to-ec-paper-building-a-proportionate-regulatory-environment-to-support-sme-listing" itemprop="url" aria-label="Read more:  Response to EC&#039;s Consultation: Building a Proportionate Regulatory Environment to Support SME Listing&#039;">
+			<span class="icon-chevron-right" aria-hidden="true"></span> 
+			Read more ...		</a>
+	</p>
+
+
+</div>
+		 
+			
+			
+ 
+		
+	
+		
+	 
+		 
+			
+<div class="postItem hover_item" onclick="window.location.href='/press-room/184-fese-launches-the-de-la-vega-prize-2018'"  >
+
+
+	<h2 class="item-title">
+	 
+		FESE launches the De la Vega Prize 2018	
+	</h2>
+
+
+
+
+ 
+	 
+		
+		
+			 
+													Category: <span class="category">News Room</span>						 
+		
+		
+					 
+		
+
+			
+		 
+	
+ 
+	<span class="create">
+				 
+					<time datetime="2018-02-06T13:39:19+00:00">
+						Created: 06 February 2018					</time>
+				</span> 
+			 
+				
+
+ <p>The Federation of European Securities Exchanges (FESE) will award the <strong>FESE de la Vega Prize 2018</strong> for an outstanding research paper related to the securities markets in Europe. Papers about current developments in European securities markets are particularly welcome.</p>
+
+
+
+	
+<p class="readmore">
+			<a class="btn" href="/press-room/184-fese-launches-the-de-la-vega-prize-2018" itemprop="url" aria-label="Read more:  FESE launches the De la Vega Prize 2018">
+			<span class="icon-chevron-right" aria-hidden="true"></span> 
+			Read more ...		</a>
+	</p>
+
+
+</div>
+		 
+			
+			
+ 
+		
+	
+
+
+</div>
+				
+				<!-- End Content -->
+</main>
+								<!-- Begin Right Sidebar -->
+			<div id="right" class="columns three">
+				<div class="well ">
+
+<div class="custom"  >
+	<p style="text-align: justify;"><a href="http://convention.fese.eu/" target="_blank" rel="noopener"><img src="/images/FESE_Vienna-square_banner.jpg" alt="FESE Vienna square banner" width="100%" /></a></p></div>
+</div><div class="well "><h3 class="page-header">Latest Statistics </h3>
+
+<div class="custom"  >
+	<div class="home_content" style="text-align: center;"><a href="/statistics-market-research/last-month" style="line-height: 15.36px; color: #0fa0ce; outline: 0px; background-color: #ffffff;">April 2018 now available<br /></a><span style="color: #0000ff;"><br /><a href="/statistics-market-research/european-capital-markets-fact-sheet">NEW!&nbsp;</a></span><br /><a href="/statistics-market-research/european-capital-markets-fact-sheet"><span style="color: #0000ff;">EUROPEAN CAPITAL MARKETS FACT SHEET</span></a><br /> <a href="/statistics-market-research/last-month"></a></div>
+<div><a href="/statistics-market-research/european-capital-markets-fact-sheet" target="_self"><img src="/images/180129_FESE_European_Capital_Markets_Factsheet.jpg" alt="180129 FESE European Capital Markets Factsheet" width="475" height="267" style="display: block; margin-left: auto; margin-right: auto;" /><br /></a></div></div>
+</div><div class="well "><h3 class="page-header">Reports</h3>
+
+<div class="custom"  >
+	<ul>
+<li style="text-align: left;"><a href="/images/OW_FESE_-_Strengthening_Europes_Position_in_Global_Capital_Markets_vf.pdf" target="_blank">Strengthening Europe’s Position in Global Capital Markets</a>&nbsp;(June 2017)</li>
+<li style="text-align: left;"><a href="/images/FESE_EEMR_Year_2018_April.xls">European Equity Market Report</a>&nbsp;(April 2018)</li>
+<li><a href="/images/EUROPEAN_EXCHANGE_REPORT_2016.pdf" target="_blank">European Exchange Report 2016</a></li>
+<li style="text-align: left;"><a href="/images/documents/speeches-reports/2015/Final_report_IPO_Task_Force_20150323.pdf">EU IPO Report: Rebuilding IPOs in Europe; Creating jobs and growth in European capital markets</a><span style="font-size: 10.8px; line-height: 19.2px;">:&nbsp;</span><span class="text" style="font-size: 10.8px; line-height: 19.2px;">(<a href="/images/documents/speeches-reports/2015/FESE-IPO-Summary-Report-20150323.pdf" target="_blank"><span class="text">View</span></a>&nbsp;Summary of this report) (March 2015)&nbsp;</span></li>
+<li style="text-align: left;"><a href="/images/documents/speeches-reports/2014/150522_FESE-Blue-Print.pdf" target="_blank">A Blueprint for European Capital Markets: How to Unleash Markets' Potential to Finance Dynamic and Sustainable Growth</a>&nbsp;(October 2014)</li>
+</ul></div>
+</div>
+			</div>
+			    
+	
+		
+</div>	
+	<!-- Footer -->
+<footer class="footer" role="contentinfo">
+				
+
+<div class="custom"  >
+	<p><span style="font-size: 10pt; color: #808080;">&copy; The Federation of European Securities Exchanges AISBL</span></p></div>
+
+		<a href="#top" id="back-top"><i class="fa fa-angle-up fa-2x"></i> top</a>
+</footer>
+	
+		
+	<script type="text/javascript">
+ 
+	   $('.owl-carousel').owlCarousel({
+        items:1,
+		loop:true,
+		autoplay:true,
+    autoplayTimeout:6000,
+    autoplayHoverPause:true,
+	dots:true,
+   nav:true,
+	navText: [
+      "<i class='fa fa-angle-left fa-2x'></i>",
+      "<i class='fa fa-angle-right fa-2x'></i>"
+      ],
+	    margin:50, stagePadding:20
+     });
+   
+	</script>
+	
+ 
+
+ 
+	 
+<script type="text/javascript">
+var _gaq = _gaq || [];
+_gaq.push(['_setAccount', 'UA-31772499-1']);
+_gaq.push(['_trackPageview']);
+(function() {
+var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+})();
+</script>
+
+
+	
+	</body>
+</html>
+
+

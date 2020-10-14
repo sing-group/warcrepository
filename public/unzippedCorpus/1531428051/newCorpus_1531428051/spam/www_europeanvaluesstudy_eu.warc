@@ -1,0 +1,444 @@
+WARC/1.0
+WARC-Type: warcinfo
+WARC-Date: 2018-05-30T18:18:32Z
+WARC-Record-ID: <urn:uuid:07b4253c-63e6-4f12-b2d6-aeaab271c02a>
+WARC-All-Language: en
+WARC-All-Content_type: text/html, text/html; charset=utf-8
+Content-Type: application/http;msgtype=response
+Content-Length: 46
+
+WARCProcessor by SING Group www.sing-group.com
+
+WARC/1.0
+WARC-Type: response
+WARC-Record-ID: <http://www.europeanvaluesstudy.eu>
+WARC-Date: 20180530181832
+WARC-Target-URI: http://www.europeanvaluesstudy.eu
+WARC-Language: en
+Content-Type: application/http;msgtype=response
+Content-Length: 29686
+
+HTTP/1.1 200
+Content-Type:text/html; charset=utf-8
+
+
+<script>
+    var d = new Date();
+    d.setTime(d.getTime() + (30*24*60*60*1000));
+    var expires = "expires=" + d.toGMTString();
+		w = window,
+    	d = document,
+    	e = d.documentElement,
+    	g = d.getElementsByTagName('body')[0],
+    	x = w.innerWidth || e.clientWidth || g.clientWidth,
+    	y = w.innerHeight|| e.clientHeight|| g.clientHeight;
+	if ((document.cookie.indexOf("ScreenWidth") >= 0) ||  (document.cookie.indexOf("ScreenWidth") == x) ) {
+
+	} else {
+    	document.cookie = "ScreenWidth="+x+"; "+expires;
+		location.reload(); 
+	}
+</script>
+<!DOCTYPE html>
+<!--[if IE 9]> <html lang="en" class="ie9 no-js"> <![endif]-->
+<!--[if !IE]><!-->
+<html lang="en">
+<!--<![endif]-->
+<!-- Header Start -->
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+  	<title>EVS</title>
+  	<meta name="description" content="EVS" />
+  	<meta name="keywords" content="EVS" />
+  	<meta name="revisit-after" content="5 Days" />
+  	<meta name="language" content="english, EN-US" />
+    <meta property="og:title" content="European Values Study" />
+	<meta property="og:type" content="website" />
+	<meta property="og:url" content="http://www.europeanvaluesstudy.eu" />	
+	<meta property="og:description" content="The European Values Study is a large-scale, cross-national, and longitudinal survey research program on basic human values. Visit our website for more details." />
+    <meta property="og:image" content="http://europeanvaluesstudy.eu/vendor/site/images/header/fb.jpg" />
+    <meta property="og:image:width" content="500"/>
+    <meta property="og:image:height" content="78"/>
+  	<meta content="INDEX, FOLLOW" name="robots" />
+    
+   <!--[if IE]>
+   <link rel="stylesheet" type="text/css" href="http://www.europeanvaluesstudy.eu/vendor/site/css/internetcrapsplorer.css" />
+<![endif]-->
+	<link rel="icon" type="image/png" href="http://www.europeanvaluesstudy.eu/vendor/site/images/favicon.png">
+    <link rel="stylesheet" type="text/css" href="http://www.europeanvaluesstudy.eu/vendor/site/css/main.css" />
+    <link rel="stylesheet" type="text/css" href="http://www.europeanvaluesstudy.eu/vendor/site/css/ideaboxNews.css" />
+
+
+
+    <script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+  ga('create', 'UA-66868565-1', 'auto');
+  ga('send', 'pageview');
+</script>
+<script>
+var b = document.documentElement;
+b.setAttribute('data-useragent',  navigator.userAgent);
+b.setAttribute('data-platform', navigator.platform );
+
+</script>
+</head>
+<!-- Header End -->
+<!-- Body Start -->
+<body >
+    <!--Head Section start-->
+<div id="wrapper">
+    <header style="background-image:url(http://www.europeanvaluesstudy.eu/vendor/site/images/header/3.png);background-position:bottom;">
+        <div class="col-lg-12 ">
+            <div class="col-lg-12">
+                <div class="eco_search_form">
+                     <form action="http://www.europeanvaluesstudy.eu/cautare.html" method="post" id="search_form">
+                    <input type="text" name="search_term" id="search_term" class="eco_input" />
+                    <input type="submit" value=" " class="eco_submit" id="submit_search" />
+                </form>
+               </div>
+            </div>
+        </div>
+    </header>
+    <!--Head Section End-->
+    <!--Home Section Start-->
+    <!--Home Slider Start-->
+	<div class="row">
+    <div class="col-lg-12 " id="main-page" style="padding: 0px;">
+    	        	<div id="inner" class="col-lg-12" style="">
+                 <div class="content">
+                    <div class="leftside col-lg-3 col-md-3" style="z-index:2147483647;">
+						                    	<style>
+						ul.leftmenu li.leftmenuactiv ul.submenu{
+							margin-left:-10px;
+							display:block;
+						}
+						ul.submenu{
+							display:none;
+							}
+						
+						</style>
+						
+						<ul class="leftmenu">
+                        	<li><a href="http://www.europeanvaluesstudy.eu/">Home</a></li>
+                                                                                    							
+                                                        					
+                            <li >
+                            
+                            <a href="http://www.europeanvaluesstudy.eu/page/about-evs.html">About EVS</a>
+                            
+                            
+                            
+															                            		                                								                                                                    								 <ul class="submenu">
+                                                                </ul>
+														</li>
+                             							                             					
+                            <li >
+                            
+                            <a href="http://www.europeanvaluesstudy.eu/page/research-topics.html">Research Topics</a>
+                            
+                            
+                            
+															                            		                                								                                                                    								 <ul class="submenu">
+                                                                </ul>
+														</li>
+                             							                             					
+                            <li >
+                            
+                            <a href="http://www.europeanvaluesstudy.eu/page/surveys.html">Previous Surveys 1981-2008</a>
+                            
+                            
+                            
+															                            		                                								                                                                    								 <ul class="submenu">
+                                                                </ul>
+														</li>
+                             							                             					
+                            <li >
+                            
+                            <a href="http://www.europeanvaluesstudy.eu/page/current-survey.html">Survey 2017</a>
+                            
+                            
+                            
+															                            		                                								                                                                    								 <ul class="submenu">
+                                                                </ul>
+														</li>
+                             							                             					
+                            <li >
+                            
+                            <a href="http://www.europeanvaluesstudy.eu/page/collaboration-with-wvs.html">Collaboration with WVS</a>
+                            
+                            
+                            
+															                            		                                								                                                                    								 <ul class="submenu">
+                                                                </ul>
+														</li>
+                             							                             					
+                            <li >
+                            
+                            <a href=" http://www.gesis.org/en/services/data-analysis/survey-data/european-values-study/
+							">Data and Downloads</a>
+                            
+                            
+                            
+															                            		                                								                                                                    								 <ul class="submenu">
+                                                                </ul>
+														</li>
+                             							                             					
+                            <li >
+                            
+                            <a href="http://www.europeanvaluesstudy.eu/page/online-analysis.html">Online analysis</a>
+                            
+                            
+                            
+															                            		                                								                                                                    								 <ul class="submenu">
+                                                                </ul>
+														</li>
+                                                          	<!-- spatiu meniu
+                             	<li></li>
+                            	<li></li>
+                            	<li></li>  -->
+                             							                             					
+                            <li >
+                            
+                            <a href="http://www.europeanvaluesstudy.eu/page/atlas-of-european-values.html">Maps</a>
+                            
+                            
+                            
+															                            		                                								                                                                    								 <ul class="submenu">
+                                                                </ul>
+														</li>
+                             							                             					
+                            <li >
+                            
+                            <a href="http://www.europeanvaluesstudy.eu/page/education-1.html">Education</a>
+                            
+                            
+                            
+															                            		                                								                                                                    								 <ul class="submenu">
+                                                                </ul>
+														</li>
+                             							                             					
+                            <li >
+                            
+                            <a href="http://www.europeanvaluesstudy.eu/page/publications.html">Publications</a>
+                            
+                            
+                            
+															                            		                                								                                                                    								 <ul class="submenu">
+                                                                </ul>
+														</li>
+                             							                             					
+                            <li >
+                            
+                            <a href="http://www.europeanvaluesstudy.eu/page/news.html">News and Events</a>
+                            
+                            
+                            
+															                            		                                								                                                                    								 <ul class="submenu">
+                                                                </ul>
+														</li>
+                             							                                                      </ul>
+						                    </div>
+                    <div class="col-lg-12" style="margin-left:-2%;margin-top:-400px;">
+						<div class="tp-banner" style="margin-top: 50px; max-height: 600px; height: 600px;">
+
+            <ul>
+                <!-- SLIDE  -->
+                <li data-transition="fade" data-slotamount="7" data-masterspeed="1000" data-saveperformance="off">
+                    <!-- MAIN IMAGE -->
+                    <img src="http://www.europeanvaluesstudy.eu/vendor/site/images/main_slider/dummy.png" alt="slideshow-background-1" data-lazyload="http://www.europeanvaluesstudy.eu/vendor/site/images/main_slider/slideshow-background-1.jpg" data-bgposition="left bottom" data-bgfit="cover" data-bgrepeat="no-repeat">
+                    <!-- LAYERS -->
+
+                    <!-- LAYER NR. 1 -->
+                    <div class="tp-caption lfb" data-x="485" data-y="159" hahaha="0" data-start="0" hahaha="0.1" hahaha="2000" style="z-index: 200;"><img src="http://www.europeanvaluesstudy.eu/vendor/site/images/main_slider/dummy.png" alt="" data-lazyload="http://www.europeanvaluesstudy.eu/vendor/site/images/main.png"> </div>
+                
+                    <!-- LAYER NR. 10 -->
+                    <div class="tp-caption randomrotate" data-x="621" data-y="203" data-start="0"  style="z-index: 11;"><img src="http://www.europeanvaluesstudy.eu/vendor/site/images/main_slider/dummy.png" alt="" data-lazyload="http://www.europeanvaluesstudy.eu/vendor/site/images/main-gri.png"> </div>
+                    
+                                        
+                    <!-- LAYER NR. 3 -->
+                    <div class="tp-caption randomrotate" data-x="416" data-y="457"  data-start="0"  style="z-index: 204;"><img src="http://www.europeanvaluesstudy.eu/vendor/site/images/main_slider/dummy.png" alt="" data-lazyload="http://www.europeanvaluesstudy.eu/vendor/site/images/logo-home.png"> </div>
+
+                    <!-- LAYER NR. 2 -->
+                    <div class="tp-caption randomrotate" data-x="430" data-y="380"  data-start="0"  style="z-index: 203;width:217px;"><img style="float:right;" src="http://www.europeanvaluesstudy.eu/vendor/site/images/main_slider/dummy.png" alt="" data-lazyload="http://www.europeanvaluesstudy.eu/vendor/site/images/sponsoring-and-funding.png"><span class="sponsoring-and-funding"><a href="http://www.europeanvaluesstudy.eu/page/sponsoring-and-funding.html"><p style="position:relative;">Sponsoring and funding</p><img class="hiddenimage sponsoricon" src="http://www.europeanvaluesstudy.eu/vendor/site/images/Icon/sponsoring.png" /></a></span></div>
+                    
+                    <!-- LAYER NR. 4 -->
+                    <div class="tp-caption randomrotate homehover" data-x="370" data-y="210"  data-start="0"  style="z-index: 205;width:135px;"><img style="float:right;" src="http://www.europeanvaluesstudy.eu/vendor/site/images/main_slider/dummy.png" alt="" data-lazyload="http://www.europeanvaluesstudy.eu/vendor/site/images/publications.png"><span class="publications"><a href="http://www.europeanvaluesstudy.eu/page/publications.html"><p style="position:relative;">Publications</p><img class="hiddenimage publicationsicon" src="http://www.europeanvaluesstudy.eu/vendor/site/images/Icon/publications.png" /></a></span></div>
+
+                    <!-- LAYER NR. 4 -->
+                    <div class="tp-caption randomrotate homehover" data-x="360" data-y="300"  data-start="0"  style="z-index: 205;width:170px;"><img style="float:right;" src="http://www.europeanvaluesstudy.eu/vendor/site/images/main_slider/dummy.png" alt="" data-lazyload="http://www.europeanvaluesstudy.eu/vendor/site/images/publications.png"><span class="publications"><a href="http://www.europeanvaluesstudy.eu/page/maps-and-figures.html"><p style="position:relative;">Maps and figures</p><img class="hiddenimage rosaicon" src="http://www.europeanvaluesstudy.eu/vendor/site/images/Icon/rosa.png" /></a></span></div>
+                   
+                    <!-- LAYER NR. 8 -->
+                    <div class="tp-caption randomrotate" data-x="644" data-y="292"  data-start="0"  style="z-index: 201;"><img src="http://www.europeanvaluesstudy.eu/vendor/site/images/main_slider/dummy.png" alt="" data-lazyload="http://www.europeanvaluesstudy.eu/vendor/site/images/research-topics.png"><span class="research-topics"><a href="http://www.europeanvaluesstudy.eu/page/research-topics.html"><p style="position:relative;">Research Topics</p><img class="hiddenimage researchicon" src="http://www.europeanvaluesstudy.eu/vendor/site/images/Icon/research.png" /></a></span></div>
+
+
+                    <!-- LAYER NR. 9 -->
+                    <div class="tp-caption randomrotate" data-x="737" data-y="269"  data-start="0"  style="z-index: 13;"><img src="http://www.europeanvaluesstudy.eu/vendor/site/images/main_slider/dummy.png" alt="" data-lazyload="http://www.europeanvaluesstudy.eu/vendor/site/images/news-and-events.png"><span class="news-and-events"><a href="http://www.europeanvaluesstudy.eu/page/surveys.html"><p style="position:relative;">Surveys</p><img class="hiddenimage researchicon" src="http://www.europeanvaluesstudy.eu/vendor/site/images/Icon/surveys.png" /></a></span></div>
+
+
+                    <!-- LAYER NR. 11 -->
+                    <div class="tp-caption randomrotate" data-x="716" data-y="193"  data-start="0"  style="z-index: 12;"><img src="http://www.europeanvaluesstudy.eu/vendor/site/images/main_slider/dummy.png" alt="" data-lazyload="http://www.europeanvaluesstudy.eu/vendor/site/images/news-and-events.png"><span class="news-and-events"><a href="http://www.europeanvaluesstudy.eu/news-and-events.html"><p style="position:relative;">News and events</p><img class="hiddenimage researchicon" src="http://www.europeanvaluesstudy.eu/vendor/site/images/Icon/news.png" /></a></span></div>
+
+
+                    <!-- LAYER NR. 14 -->
+                    <div class="tp-caption randomrotate" data-x="597" data-y="173"  data-start="0"  style="z-index: 201;"><img src="http://www.europeanvaluesstudy.eu/vendor/site/images/main_slider/dummy.png" alt=""  data-lazyload="http://www.europeanvaluesstudy.eu/vendor/site/images/news-and-events.png"><span class="news-and-events"><a href=" http://www.gesis.org/en/services/data-analysis/survey-data/european-values-study/"><p style="position:relative;">Data and downloads</p><img class="hiddenimage researchicon" src="http://www.europeanvaluesstudy.eu/vendor/site/images/Icon/downloads.png" /></a></span></div>
+
+
+                    <!-- LAYER NR. 18 -->
+                    <div class="tp-caption randomrotate" data-x="498" data-y="145"  data-start="0"  style="z-index: 201;"><img src="http://www.europeanvaluesstudy.eu/vendor/site/images/main_slider/dummy.png" alt="" data-lazyload="http://www.europeanvaluesstudy.eu/vendor/site/images/news-and-events.png"><span class="news-and-events"><a href="http://www.europeanvaluesstudy.eu/page/about-evs.html">About EVS <img  class="hiddenimage" src="http://www.europeanvaluesstudy.eu/vendor/site/images/Icon/about.png" /></a></span></div>
+                    
+                       
+                    <div class="tp-caption randomrotate" data-x="1000" data-y="120"  data-start="0"  style="z-index: 6;left:1325px !important;">
+                    <div>
+                        <ul  class="news-hp">
+							                                                                                                                                                                        <li style="width:230px !important;">
+                                <div class="fnt-content" data-link="http://www.europeanvaluesstudy.eu/news/62/cross-national-online-survey-cronos-panel-data-now-available.html"><a href="http://www.europeanvaluesstudy.eu/news/62/cross-national-online-survey-cronos-panel-data-now-available.html"><strong>EVS items in CRONOS</strong><br /><p style="font-size:12px;font-style:italic;width:230px !important;white-space:initial;">Panel data now available</p></a></div>
+                            </li>
+                                                                                    <li style="width:230px !important;">
+                                <div class="fnt-content" data-link="http://www.europeanvaluesstudy.eu/news/61/evs-2017-first-data-pre-release.html"><a href="http://www.europeanvaluesstudy.eu/news/61/evs-2017-first-data-pre-release.html"><strong>EVS2017: data release</strong><br /><p style="font-size:12px;font-style:italic;width:230px !important;white-space:initial;">First pre-release in December 2018</p></a></div>
+                            </li>
+                                                                                    <li style="width:230px !important;">
+                                <div class="fnt-content" data-link="http://www.europeanvaluesstudy.eu/news/60/how-to-debate-european-values.html"><a href="http://www.europeanvaluesstudy.eu/news/60/how-to-debate-european-values.html"><strong>How to Debate European Values?</strong><br /><p style="font-size:12px;font-style:italic;width:230px !important;white-space:initial;">A seminar organized by the EVS Bulgaria team</p></a></div>
+                            </li>
+                                                                                    <li style="width:230px !important;">
+                                <div class="fnt-content" data-link="http://www.europeanvaluesstudy.eu/news/58/april-2018-evs-2017-status-of-the-fieldwork.html"><a href="http://www.europeanvaluesstudy.eu/news/58/april-2018-evs-2017-status-of-the-fieldwork.html"><strong>EVS 2017 Status of the fieldwork</strong><br /><p style="font-size:12px;font-style:italic;width:230px !important;white-space:initial;">Data processing started</p></a></div>
+                            </li>
+                                                                                    <li style="width:230px !important;">
+                                <div class="fnt-content" data-link="http://www.europeanvaluesstudy.eu/news/57/evs-at-the-8th-lcsr-international-workshop.html"><a href="http://www.europeanvaluesstudy.eu/news/57/evs-at-the-8th-lcsr-international-workshop.html"><strong>8th LCSR International Workshop</strong><br /><p style="font-size:12px;font-style:italic;width:230px !important;white-space:initial;"> EVS Special Lectures on Cross-sectional surveys and the Challenges of Comparability </p></a></div>
+                            </li>
+                                                                                </ul>
+          
+                    </div>
+           
+                    </div>
+                    
+                                        <style>
+                     .footer {
+    border-top: 3px solid #d02a42;
+    position: absolute;
+}
+                    </style>
+                     <!--[if IE]>
+<style>
+   ul.news-hp{width: 230px !important; overflow: hidden; display: block; max-height: 450px;margin-left:-350px!important;}
+</style>
+<![endif]-->
+                                        
+                    <!-- LAYER NR. 12 -->
+                    <div class="tp-caption leftpartners" data-x="left" data-y="370"  data-start="0"  style="z-index: 13;"><a href="http://www.tilburguniversity.edu/" target="_blank"><img src="http://www.europeanvaluesstudy.eu/vendor/site/images/main_slider/dummy.png" alt="" data-lazyload="http://www.europeanvaluesstudy.eu/vendor/site/images/tilburg.png"> </a></div>
+                    
+                    <!-- LAYER NR. 6 -->
+                    <div class="tp-caption leftpartners randomrotate" data-x="left" data-y="bottom"  data-start="0"  style="z-index: 7;"><a href="http://www.gesis.org/en/home/" target="_blank"><img src="http://www.europeanvaluesstudy.eu/vendor/site/images/main_slider/dummy.png" alt="" data-lazyload="http://www.europeanvaluesstudy.eu/vendor/site/images/gesis.png"></a></div>
+                </li>
+                <!-- SLIDE  -->
+            </ul>
+        </div>
+                           </div>
+                 </div>
+            </div>
+            </div>
+    <!-- END REVOLUTION SLIDER -->
+	<br clear="all" />
+	</div>
+		</div>
+<div class="row">
+  <div class="footer">
+  	
+        <div class="eco_copyight">
+        	<div style="margin: 0px auto ! important; text-align: center; display: block ! important; float: none; max-width: 955px;">
+                <div class="cpr">&copy; 2015 | Copyright European Values Study</div>
+                <div class="social">
+                    <ul class="socialmenu">
+                        <li class="first"><a href="https://twitter.com/evs_values" target="_blank"><img src="http://www.europeanvaluesstudy.eu/vendor/site/images/twitter.jpg" /></a></li>
+                        <li class="first"><a href=" https://www.facebook.com/europeanvaluesstudy" target="_blank"><img src="http://www.europeanvaluesstudy.eu/vendor/site/images/facebook.jpg" /></a></li>
+                        <li class="first"><a href="https://plus.google.com/104074359805014904613/about" target="_blank"><img src="http://www.europeanvaluesstudy.eu/vendor/site/images/googleplus.jpg" /></a></li>
+                       <!-- <li class="first"><a href="#"><img src="http://www.europeanvaluesstudy.eu/vendor/site/images/linkedin.jpg" /></a></li>-->
+                           <!--  <li class="first"><a href="#"><img src="http://www.europeanvaluesstudy.eu/vendor/site/images/pinterest.jpg" /></a></li>-->
+                    </ul>
+                </div>
+                <div class="menu">
+                    <ul class="footermenu">
+                        <li class="first"><a href="http://www.europeanvaluesstudy.eu/">Home</a></li>
+                        <li><a href="http://www.europeanvaluesstudy.eu/page/about-evs.html">About Us</a></li>
+                        <li><a href="https://seriss.gesis.org/portal/login?initialURI=%2Fportal%2Fintranet%2F">Login</a></li>
+                        <li><a href="http://www.europeanvaluesstudy.eu/feed.html" target="_blank">RSS Feed</a></li>
+                        <li><a href="http://www.europeanvaluesstudy.eu/sitemap.php">Sitemap</a></li>
+                        <li class="last"><a href="http://www.europeanvaluesstudy.eu/page/contact.html">Contact</a></li>
+                    </ul>
+                </div>
+             </div>
+        </div>
+
+    </div>
+	</div>
+    <!--Footer Section End-->
+    <!--go to top-->
+    <div class="totop">
+        <div class="gototop">
+            <a href="#">
+                <div class="arrowgototop"> </div>
+            </a>
+        </div>
+    </div>
+    
+    <!--Script Start-->
+      <script type="text/javascript">
+		var wdx_base_url = "http://www.europeanvaluesstudy.eu/";
+		var wdx_max_photos = 5;
+	  </script>
+	<script src="http://www.europeanvaluesstudy.eu/vendor/site/js/jquery-1.11.1.min.js" type="text/javascript"></script>
+    <script src="http://www.europeanvaluesstudy.eu/vendor/site/js/bootstrap.js" type="text/javascript"></script>
+    <script src="http://www.europeanvaluesstudy.eu/vendor/site/js/jquery.bxslider.min.js"></script>
+    <script src="http://www.europeanvaluesstudy.eu/vendor/site/js/plugins/prettyphoto/jquery.prettyPhoto.js" type="text/javascript"></script>
+    <script src="http://www.europeanvaluesstudy.eu/vendor/site/js/plugins/rainyday/rainyday.js" type="text/javascript"></script>
+    <script src="http://www.europeanvaluesstudy.eu/vendor/site/js/jquery.mixitup.js" type="text/javascript"></script>
+    <script src="http://www.europeanvaluesstudy.eu/vendor/site/js/scrollReveal.js" type="text/javascript"></script>
+    <script src="http://www.europeanvaluesstudy.eu/vendor/site/js/circles.js" type="text/javascript"></script>
+    <script src="http://www.europeanvaluesstudy.eu/vendor/site/js/plugins/countto/jquery.countTo.js" type="text/javascript"></script>
+    <script src="http://www.europeanvaluesstudy.eu/vendor/site/js/plugins/countto/jquery.appear.js" type="text/javascript"></script>
+    <script src="http://www.europeanvaluesstudy.eu/vendor/site/js/plugins/parallax/jquery.parallax-1.1.3.js" type="text/javascript"></script>
+    <script src="http://www.europeanvaluesstudy.eu/vendor/site/js/plugins/revolution/js/jquery.themepunch.revolution.min.js" type="text/javascript"></script>
+    <script src="http://www.europeanvaluesstudy.eu/vendor/site/js/plugins/revolution/js/jquery.themepunch.tools.min.js" type="text/javascript"></script>
+    <script src="http://www.europeanvaluesstudy.eu/vendor/site/js/plugins/jquery-ui/jquery-ui.js" type="text/javascript"></script>
+    <script src="http://www.europeanvaluesstudy.eu/vendor/site/js/plugins/smoothscroll/smoothScroll.js" type="text/javascript"></script>
+    <script src="http://www.europeanvaluesstudy.eu/vendor/site/js/custom.js" type="text/javascript"></script>
+    <script src="http://maps.googleapis.com/maps/api/js?key=&amp;sensor=false"></script>
+  <script src="http://www.europeanvaluesstudy.eu/vendor/site/js/funnyNewsTicker.js" type="text/javascript"></script>
+  <script>
+	$(document).ready(function(){
+		$("#funnyNewsTicker1").funnyNewsTicker({feed:"http://rss.cnn.com/rss/edition.rss",width:"70%"});	
+		$("#funnyNewsTicker2").funnyNewsTicker({width:"100%",timer:1000});	
+		$("#funnyNewsTicker3").funnyNewsTicker({width:"40%",itemheight:250,infobarvisible:false,pagenavi:false,timer:500,itembgcolor:"#af1f63",bordercolor:"#af1f63",titlecolor:"#FFF"});	
+		 $("a[href*='http://www.europeanvaluesstudy.eu/page/news.html']").attr('href','http://www.europeanvaluesstudy.eu/news/');
+		 $("a[href*='http://www.europeanvaluesstudy.eu/page/upcoming-events.html']").attr('href','http://www.europeanvaluesstudy.eu/news/upcoming');
+		 $("a[href*='http://www.europeanvaluesstudy.eu/page/recent-events.html']").attr('href','http://www.europeanvaluesstudy.eu/news/latest');
+	});	
+</script>
+<script>
+
+$( document ).ready(function() {
+  console.log($(location).attr('pathname'));
+   var url = $(location).attr('pathname');
+   var str = "news";
+  
+   if(url.indexOf(str)>-1){
+	   console.log('here');
+	   $("a[href*='http://www.europeanvaluesstudy.eu/news/']").closest('li').addClass('leftmenuactiv'); 
+	   
+   }
+   });
+</script>
+<style>
+ul.submenu li.leftsubmenu a{
+	border:none;
+}
+</style>
+    <!--Script End-->
+    <!--Body End-->
+</body>
+</html>
+

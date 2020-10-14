@@ -1,0 +1,485 @@
+WARC/1.0
+WARC-Type: warcinfo
+WARC-Date: 2018-05-23T09:03:44Z
+WARC-Record-ID: <urn:uuid:7d3cf7f2-10ff-4e0d-b2fe-bda02bf1e473>
+WARC-All-Language: en, en-US
+WARC-All-Content_type: text/html; charset=UTF-8, text/html
+Content-Type: application/http;msgtype=response
+Content-Length: 46
+
+WARCProcessor by SING Group www.sing-group.com
+
+WARC/1.0
+WARC-Type: response
+WARC-Record-ID: <http://www.camrasurrey.org.uk>
+WARC-Date: 20180523090344
+WARC-Target-URI: http://www.camrasurrey.org.uk
+WARC-Language: en-US
+Content-Type: application/http;msgtype=response
+Content-Length: 36658
+
+HTTP/1.1 200
+Content-Type:text/html; charset=UTF-8
+
+
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+<meta charset="UTF-8" />
+<title>CAMRA Surrey | Campaigning for Real Ale in Surrey</title>
+<link rel="profile" href="http://gmpg.org/xfn/11" />
+<link rel="stylesheet" type="text/css" media="all" href="http://www.camrasurrey.org.uk/wp-content/themes/twentyten/style.css" />
+<link rel="pingback" href="http://www.camrasurrey.org.uk/xmlrpc.php" />
+<link rel='dns-prefetch' href='//www.camrasurrey.org.uk' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="CAMRA Surrey &raquo; Feed" href="http://www.camrasurrey.org.uk/feed" />
+<link rel="alternate" type="application/rss+xml" title="CAMRA Surrey &raquo; Comments Feed" href="http://www.camrasurrey.org.uk/comments/feed" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.2.1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.2.1\/svg\/","svgExt":".svg","source":{"concatemoji":"http:\/\/www.camrasurrey.org.uk\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.7.10"}};
+			!function(a,b,c){function d(a){var b,c,d,e,f=String.fromCharCode;if(!k||!k.fillText)return!1;switch(k.clearRect(0,0,j.width,j.height),k.textBaseline="top",k.font="600 32px Arial",a){case"flag":return k.fillText(f(55356,56826,55356,56819),0,0),!(j.toDataURL().length<3e3)&&(k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,57331,65039,8205,55356,57096),0,0),b=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,57331,55356,57096),0,0),c=j.toDataURL(),b!==c);case"emoji4":return k.fillText(f(55357,56425,55356,57341,8205,55357,56507),0,0),d=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55357,56425,55356,57341,55357,56507),0,0),e=j.toDataURL(),d!==e}return!1}function e(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g,h,i,j=b.createElement("canvas"),k=j.getContext&&j.getContext("2d");for(i=Array("flag","emoji4"),c.supports={everything:!0,everythingExceptFlag:!0},h=0;h<i.length;h++)c.supports[i[h]]=d(i[h]),c.supports.everything=c.supports.everything&&c.supports[i[h]],"flag"!==i[h]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[i[h]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='sidebar-login-css'  href='http://www.camrasurrey.org.uk/wp-content/plugins/sidebar-login/assets/css/sidebar-login.css?ver=2.7.3' type='text/css' media='all' />
+<script type='text/javascript' src='http://www.camrasurrey.org.uk/wp-includes/js/jquery/jquery.js?ver=1.12.4'></script>
+<script type='text/javascript' src='http://www.camrasurrey.org.uk/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var ie6w = {"url":"http:\/\/www.camrasurrey.org.uk\/wp-content\/plugins\/shockingly-big-ie6-warning","test":"false","jstest":"false","t1":"WARNING","t2":"You are using Internet Explorer v 6.0 or lower. Due to security issues and lack of support for Web Standards it is recommended that you upgrade to a modern browser.","firefox":"true","opera":"true","chrome":"true","safari":"true","ie":"true","firefoxu":"http:\/\/www.getfirefox.net\/","operau":"http:\/\/www.opera.com\/","chromeu":"http:\/\/www.google.com\/chrome\/","safariu":"http:\/\/www.apple.com\/safari\/","ieu":"http:\/\/www.microsoft.com\/windows\/ie\/"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://www.camrasurrey.org.uk/wp-content/plugins/shockingly-big-ie6-warning/js/ie6w_top.js?ver=4.7.10'></script>
+<script type='text/javascript' src='http://www.camrasurrey.org.uk/wp-content/plugins/sidebar-login/assets/js/jquery.blockUI.min.js?ver=2.70'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var sidebar_login_params = {"ajax_url":"http:\/\/www.camrasurrey.org.uk\/wp-admin\/admin-ajax.php","force_ssl_admin":"0","is_ssl":"0","i18n_username_required":"Please enter your username","i18n_password_required":"Please enter your password","error_class":"sidebar_login_error"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://www.camrasurrey.org.uk/wp-content/plugins/sidebar-login/assets/js/sidebar-login.min.js?ver=2.7.3'></script>
+<link rel='https://api.w.org/' href='http://www.camrasurrey.org.uk/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www.camrasurrey.org.uk/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://www.camrasurrey.org.uk/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 4.7.10" />
+<link rel="canonical" href="http://www.camrasurrey.org.uk/" />
+<link rel='shortlink' href='http://www.camrasurrey.org.uk/' />
+<link rel="alternate" type="application/json+oembed" href="http://www.camrasurrey.org.uk/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fwww.camrasurrey.org.uk%2F" />
+<link rel="alternate" type="text/xml+oembed" href="http://www.camrasurrey.org.uk/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fwww.camrasurrey.org.uk%2F&#038;format=xml" />
+		<style type="text/css">
+		.better-tag-cloud-shortcode li,
+		.better-tag-cloud-shortcode li a,
+		li#better-tag-cloud ul.wp-tag-cloud li,
+		li#better-tag-cloud ul.wp-tag-cloud li a {
+			display:	inline;
+					}
+		</style> <script type="text/javascript" src="http://www.camrasurrey.org.uk/wp-content/plugins/si-captcha-for-wordpress/captcha/si_captcha.js?ver=1527065335"></script>
+<!-- begin SI CAPTCHA Anti-Spam - login/register form style -->
+<style type="text/css">
+.si_captcha_small { width:175px; height:45px; padding-top:10px; padding-bottom:10px; }
+.si_captcha_large { width:250px; height:60px; padding-top:10px; padding-bottom:10px; }
+img#si_image_com { border-style:none; margin:0; padding-right:5px; float:left; }
+img#si_image_reg { border-style:none; margin:0; padding-right:5px; float:left; }
+img#si_image_log { border-style:none; margin:0; padding-right:5px; float:left; }
+img#si_image_side_login { border-style:none; margin:0; padding-right:5px; float:left; }
+img#si_image_checkout { border-style:none; margin:0; padding-right:5px; float:left; }
+img#si_image_jetpack { border-style:none; margin:0; padding-right:5px; float:left; }
+img#si_image_bbpress_topic { border-style:none; margin:0; padding-right:5px; float:left; }
+.si_captcha_refresh { border-style:none; margin:0; vertical-align:bottom; }
+div#si_captcha_input { display:block; padding-top:15px; padding-bottom:5px; }
+label#si_captcha_code_label { margin:0; }
+input#si_captcha_code_input { width:65px; }
+p#si_captcha_code { clear: left; padding-top:10px; }
+.si-captcha-jetpack-error { color:#DC3232; }
+</style>
+<!-- end SI CAPTCHA Anti-Spam - login/register form style -->
+<style type="text/css" id="custom-background-css">
+body.custom-background { background-color: #6e983e; }
+</style>
+</head>
+
+<body class="home page-template-default page page-id-209 custom-background">
+<div id="wrapper" class="hfeed">
+	<div id="header">
+		<div id="masthead">
+			<div id="branding" role="banner">
+								<h1 id="site-title">
+					<span>
+						<a href="http://www.camrasurrey.org.uk/" title="CAMRA Surrey" rel="home">CAMRA Surrey</a>
+					</span>
+				</h1>
+				<div id="site-description">Campaigning for Real Ale in Surrey</div>
+
+										<img src="http://www.camrasurrey.org.uk/wp-content/uploads/2010/09/cropped-camra-web-axe.jpg" width="940" height="198" alt="" />
+								</div><!-- #branding -->
+
+			<div id="access" role="navigation">
+			  				<div class="skip-link screen-reader-text"><a href="#content" title="Skip to content">Skip to content</a></div>
+								<div class="menu"><ul>
+<li class="current_page_item"><a href="http://www.camrasurrey.org.uk/">Home</a></li><li class="page_item page-item-1684"><a href="http://www.camrasurrey.org.uk/news-and-ale">News and Ale</a></li>
+<li class="page_item page-item-7"><a href="http://www.camrasurrey.org.uk/breweries">Breweries</a></li>
+<li class="page_item page-item-12 page_item_has_children"><a href="http://www.camrasurrey.org.uk/festivals">Festivals</a>
+<ul class='children'>
+	<li class="page_item page-item-5310"><a href="http://www.camrasurrey.org.uk/festivals/19th-kingston-beer-cider-festival">19th Kingston Beer &#038; Cider Festival</a></li>
+	<li class="page_item page-item-265 page_item_has_children"><a href="http://www.camrasurrey.org.uk/festivals/festivals-redhill">Redhill</a>
+	<ul class='children'>
+		<li class="page_item page-item-6266"><a href="http://www.camrasurrey.org.uk/festivals/festivals-redhill/redhill-previous-festivals">Redhill &#8211; Previous Festivals</a></li>
+	</ul>
+</li>
+</ul>
+</li>
+<li class="page_item page-item-239"><a href="http://www.camrasurrey.org.uk/blog">Blog</a></li>
+<li class="page_item page-item-14"><a href="http://www.camrasurrey.org.uk/pub-guides">Pub Guides</a></li>
+<li class="page_item page-item-20 page_item_has_children"><a href="http://www.camrasurrey.org.uk/east-mid-surrey">East &#038; Mid Surrey</a>
+<ul class='children'>
+	<li class="page_item page-item-22"><a href="http://www.camrasurrey.org.uk/east-mid-surrey/ems-news">News</a></li>
+	<li class="page_item page-item-31"><a href="http://www.camrasurrey.org.uk/east-mid-surrey/ems-diary">Diary</a></li>
+	<li class="page_item page-item-33"><a href="http://www.camrasurrey.org.uk/east-mid-surrey/ems-pubs-clubs">LocAle</a></li>
+	<li class="page_item page-item-37"><a href="http://www.camrasurrey.org.uk/east-mid-surrey/ems-awards">Awards</a></li>
+	<li class="page_item page-item-39"><a href="http://www.camrasurrey.org.uk/east-mid-surrey/ems-contacts">Contacts</a></li>
+</ul>
+</li>
+<li class="page_item page-item-41 page_item_has_children"><a href="http://www.camrasurrey.org.uk/kingston-leatherhead">Kingston &#038; Leatherhead</a>
+<ul class='children'>
+	<li class="page_item page-item-1698"><a href="http://www.camrasurrey.org.uk/kingston-leatherhead/news">News</a></li>
+	<li class="page_item page-item-48"><a href="http://www.camrasurrey.org.uk/kingston-leatherhead/k-l-diary">Kingston &#038; Leatherhead Branch Diary</a></li>
+	<li class="page_item page-item-1198"><a href="http://www.camrasurrey.org.uk/kingston-leatherhead/pub-of-the-year">Pub of The Year</a></li>
+	<li class="page_item page-item-1201"><a href="http://www.camrasurrey.org.uk/kingston-leatherhead/pub-of-the-season">Pub of The Season</a></li>
+	<li class="page_item page-item-51"><a href="http://www.camrasurrey.org.uk/kingston-leatherhead/k-l-pubs-clubs">LocAle</a></li>
+	<li class="page_item page-item-75"><a href="http://www.camrasurrey.org.uk/kingston-leatherhead/k-l-contacts">Contacts</a></li>
+</ul>
+</li>
+<li class="page_item page-item-80 page_item_has_children"><a href="http://www.camrasurrey.org.uk/north-surrey">North Surrey</a>
+<ul class='children'>
+	<li class="page_item page-item-2033"><a href="http://www.camrasurrey.org.uk/north-surrey/nsy-pub-clips">NSY Pub Clips</a></li>
+	<li class="page_item page-item-2660"><a href="http://www.camrasurrey.org.uk/north-surrey/nsy-pubwatch%e2%80%a8%e2%80%a8">NSY PubWatch</a></li>
+	<li class="page_item page-item-94"><a href="http://www.camrasurrey.org.uk/north-surrey/nsy-festivals">NSY Beer Festivals</a></li>
+	<li class="page_item page-item-4605"><a href="http://www.camrasurrey.org.uk/north-surrey/nsy-beers-brewing">NSY Beers &#038; Brewing</a></li>
+	<li class="page_item page-item-87"><a href="http://www.camrasurrey.org.uk/north-surrey/ns-news">NSY News</a></li>
+	<li class="page_item page-item-89"><a href="http://www.camrasurrey.org.uk/north-surrey/ns-diary">NSY Diary &#038; What&#8217;s On</a></li>
+	<li class="page_item page-item-639"><a href="http://www.camrasurrey.org.uk/north-surrey/ns-pub-club-of-the-year">NSY Pub of the Year &#038; Club of the Year</a></li>
+	<li class="page_item page-item-92"><a href="http://www.camrasurrey.org.uk/north-surrey/locale">NSY LocAle</a></li>
+	<li class="page_item page-item-98"><a href="http://www.camrasurrey.org.uk/north-surrey/ns-contacts">NSY Contacts</a></li>
+</ul>
+</li>
+<li class="page_item page-item-101 page_item_has_children"><a href="http://www.camrasurrey.org.uk/surrey-hants-borders">Surrey Hants Borders</a>
+<ul class='children'>
+	<li class="page_item page-item-153"><a href="http://www.camrasurrey.org.uk/surrey-hants-borders/sh-news">News</a></li>
+	<li class="page_item page-item-3763"><a href="http://www.camrasurrey.org.uk/surrey-hants-borders/pubnews">Pub News</a></li>
+	<li class="page_item page-item-5038"><a href="http://www.camrasurrey.org.uk/surrey-hants-borders/diary">Diary</a></li>
+	<li class="page_item page-item-159"><a href="http://www.camrasurrey.org.uk/surrey-hants-borders/sh-pubsclubs">LocAle</a></li>
+	<li class="page_item page-item-155"><a href="http://www.camrasurrey.org.uk/surrey-hants-borders/sh-awards">Awards</a></li>
+	<li class="page_item page-item-4199"><a href="http://www.camrasurrey.org.uk/surrey-hants-borders/press-releases">Press Releases</a></li>
+	<li class="page_item page-item-734"><a href="http://www.camrasurrey.org.uk/surrey-hants-borders/shb-cider">Cider</a></li>
+	<li class="page_item page-item-161"><a href="http://www.camrasurrey.org.uk/surrey-hants-borders/sh-contacts">Contacts</a></li>
+</ul>
+</li>
+<li class="page_item page-item-18"><a href="http://www.camrasurrey.org.uk/about-us">About CAMRA</a></li>
+</ul></div>
+			</div><!-- #access -->
+		</div><!-- #masthead -->
+	</div><!-- #header -->
+
+	<div id="main">
+
+		<div id="container">
+			<div id="content" role="main">
+
+			
+
+				<div id="post-209" class="post-209 page type-page status-publish hentry">
+											<h2 class="entry-title">Home</h2>
+					
+					<div class="entry-content">
+						<p>Welcome to the website of the Surrey Branches of CAMRA, the Campaign for Real Ale.</p>
+<p>The <a href="http://www.camra.org.uk/"><span style="color: #800080;">Campaign for Real Ale</span> </a>is a voluntary organisation with over 191,000 members (Mar&#8217;18) run by an elected, unpaid national executive and backed by a small core of professional staff. It speaks for people everywhere by fighting to save pubs and breweries from closure, attempting to improve quality and choice, and trying to ensure pub standards are raised.</p>
+<p>There are 4 CAMRA Branches covering the whole of Surrey.</p>
+<p><strong><a href="http://www.camrasurrey.org.uk/east-mid-surrey">East &amp; Mid Surrey</a></strong> covering Boroughs of Reigate &amp; Banstead, Tandridge, and Dorking</p>
+<p><strong><a href="http://www.camrasurrey.org.uk/kingston-leatherhead">Kingston &amp; Leatherhead</a></strong> covering Kingston Borough, Leatherhead &amp; Elmbridge</p>
+<p><strong><a href="http://www.camrasurrey.org.uk/north-surrey">North Surrey</a></strong> covering Runnymede &amp; Spelthorne Boroughs</p>
+<p><strong><a href="http://www.camrasurrey.org.uk/surrey-hants-borders">Surrey Hampshire Borders</a></strong> includes Guildford, Surrey Heath, Waverley &amp; Rushmoor Borough</p>
+<p>Local information about each of these Branches and details of events can be found by following the links above. If you&#8217;d like to receive our low-volume emails, then please join one of our mailing lists.</p>
+<p>If you&#8217;re unsure which Branch covers your area, it can be found via <a href="https://whatpub.com/" target="_blank" rel="noopener noreferrer">WhatPub</a>, where local branch is included in pub descriptions.</p>
+<h2>Surrey CAMRA Pub of the Year 2017</h2>
+<p>The winner of the Surrey CAMRA Branches Pub of the Year for 2017 is: <a href="https://whatpub.com/pubs/NSY/13515/thyme-at-the-tavern-chertsey" target="_blank" rel="noopener noreferrer">Thyme at the Tavern, Chertsey</a>. The finalists were:</p>
+<ul>
+<li>East &amp; Mid Surrey: <a href="https://whatpub.com/pubs/REI/291/garland-redhill" target="_blank" rel="noopener noreferrer">Garland, Redhill</a></li>
+<li>Kingston &amp; Leatherhead: <a href="https://whatpub.com/pubs/KIN/7116/wheatsheaf-esher" target="_blank" rel="noopener noreferrer">Wheatsheaf, Esher</a></li>
+<li>North Surrey: <a href="https://whatpub.com/pubs/NSY/13515/thyme-at-the-tavern-chertsey" target="_blank" rel="noopener noreferrer">Thyme at the Tavern, Chertsey</a></li>
+<li>Surrey Hants Borders: <a href="https://whatpub.com/pubs/SHB/334/jolly-sailor-farnham" target="_blank" rel="noopener noreferrer">Jolly Sailor, Farnham</a></li>
+</ul>
+<p>The winner in 2016 was the <a href="http://whatpub.com/pubs/REI/261/surrey-oaks-newdigate" target="_blank" rel="noopener noreferrer">Surrey Oaks, Newdigate</a>.</p>
+<h2>Surrey CAMRA Club of the Year 2017</h2>
+<p>The winner of the Surrey CAMRA Branches Club of the Year for 2017: <a href="http://whatpub.com/pubs/NSY/13525/united-services-club-egham">Egham United Services Club</a>. The finalists were:</p>
+<ul>
+<li>East &amp; Mid Surrey: <a href="https://whatpub.com/pubs/REI/455/kingswood-village-club-lower-kingswood" target="_blank" rel="noopener noreferrer">Kingswood Village Club</a></li>
+<li>Kingston &amp; Leatherhead: <a href="https://whatpub.com/pubs/KIN/16924/old-cranleighan-club-thames-ditton" target="_blank" rel="noopener noreferrer">Old Cranleighan Club, Thames Ditton</a></li>
+<li>North Surrey: <a href="http://whatpub.com/pubs/NSY/13525/united-services-club-egham" target="_blank" rel="noopener noreferrer">Egham United Services Club</a></li>
+<li>Surrey Hants Borders:<a href="https://whatpub.com/pubs/SHB/712/woking-railway-athletic-club-woking" target="_blank" rel="noopener noreferrer"> Woking Railway &amp; Athletic Club</a></li>
+</ul>
+<h2>Surrey &amp; Sussex Cider Pub of the Year 2017</h2>
+<p>The winner of the 2017 Surrey &amp; Sussex Regional Cider Pub of the Year competition was the <a href="https://whatpub.com/pubs/REI/499/radius-arms-whyteleafe" target="_blank" rel="noopener noreferrer">Radius Arms, Whyteleaf</a></p>
+<h2>Officials</h2>
+<h3>Surrey and Sussex Regional Director &#8211; <a href="mailto:rd.SurreySussex@camra.org.uk">Chris Stringer</a></h3>
+<h3>Deputy Regional Director Surrey &#8211; <a href="mailto:shb@camrasurrey.org.uk">Kevin Travers </a></h3>
+<p>Last reviewed and updated March 2018</p>
+																	</div><!-- .entry-content -->
+				</div><!-- #post-## -->
+
+				
+			<div id="comments">
+
+
+	<p class="nocomments">Comments are closed.</p>
+
+
+
+</div><!-- #comments -->
+
+
+			</div><!-- #content -->
+		</div><!-- #container -->
+
+
+		<div id="primary" class="widget-area" role="complementary">
+			<ul class="xoxo">
+
+<li id="wp_sidebarlogin-3" class="widget-container widget_wp_sidebarlogin"><h3 class="widget-title">Login</h3>
+		<form name="loginform" id="loginform" action="http://www.camrasurrey.org.uk/wp-login.php" method="post">
+			
+			<p class="login-username">
+				<label for="user_login">Username</label>
+				<input type="text" name="log" id="user_login" class="input" value="" size="20" />
+			</p>
+			<p class="login-password">
+				<label for="user_pass">Password</label>
+				<input type="password" name="pwd" id="user_pass" class="input" value="" size="20" />
+			</p>
+			
+			<p class="login-remember"><label><input name="rememberme" type="checkbox" id="rememberme" value="forever" checked="checked" /> Remember Me</label></p>
+			<p class="login-submit">
+				<input type="submit" name="wp-submit" id="wp-submit" class="button button-primary" value="Login &rarr;" />
+				<input type="hidden" name="redirect_to" value="http://www.camrasurrey.org.uk/" />
+			</p>
+			
+		</form></li><li id="pages-4" class="widget-container widget_pages"><h3 class="widget-title">Site pages</h3>		<ul>
+			<li class="page_item page-item-209 current_page_item"><a href="http://www.camrasurrey.org.uk/">Home</a></li>
+<li class="page_item page-item-1684"><a href="http://www.camrasurrey.org.uk/news-and-ale">News and Ale</a></li>
+<li class="page_item page-item-7"><a href="http://www.camrasurrey.org.uk/breweries">Breweries</a></li>
+<li class="page_item page-item-12 page_item_has_children"><a href="http://www.camrasurrey.org.uk/festivals">Festivals</a>
+<ul class='children'>
+	<li class="page_item page-item-5310"><a href="http://www.camrasurrey.org.uk/festivals/19th-kingston-beer-cider-festival">19th Kingston Beer &#038; Cider Festival</a></li>
+	<li class="page_item page-item-265 page_item_has_children"><a href="http://www.camrasurrey.org.uk/festivals/festivals-redhill">Redhill</a>
+	<ul class='children'>
+		<li class="page_item page-item-6266"><a href="http://www.camrasurrey.org.uk/festivals/festivals-redhill/redhill-previous-festivals">Redhill &#8211; Previous Festivals</a></li>
+	</ul>
+</li>
+</ul>
+</li>
+<li class="page_item page-item-239"><a href="http://www.camrasurrey.org.uk/blog">Blog</a></li>
+<li class="page_item page-item-14"><a href="http://www.camrasurrey.org.uk/pub-guides">Pub Guides</a></li>
+<li class="page_item page-item-20 page_item_has_children"><a href="http://www.camrasurrey.org.uk/east-mid-surrey">East &#038; Mid Surrey</a>
+<ul class='children'>
+	<li class="page_item page-item-22"><a href="http://www.camrasurrey.org.uk/east-mid-surrey/ems-news">News</a></li>
+	<li class="page_item page-item-31"><a href="http://www.camrasurrey.org.uk/east-mid-surrey/ems-diary">Diary</a></li>
+	<li class="page_item page-item-33"><a href="http://www.camrasurrey.org.uk/east-mid-surrey/ems-pubs-clubs">LocAle</a></li>
+	<li class="page_item page-item-37"><a href="http://www.camrasurrey.org.uk/east-mid-surrey/ems-awards">Awards</a></li>
+	<li class="page_item page-item-39"><a href="http://www.camrasurrey.org.uk/east-mid-surrey/ems-contacts">Contacts</a></li>
+</ul>
+</li>
+<li class="page_item page-item-41 page_item_has_children"><a href="http://www.camrasurrey.org.uk/kingston-leatherhead">Kingston &#038; Leatherhead</a>
+<ul class='children'>
+	<li class="page_item page-item-1698"><a href="http://www.camrasurrey.org.uk/kingston-leatherhead/news">News</a></li>
+	<li class="page_item page-item-48"><a href="http://www.camrasurrey.org.uk/kingston-leatherhead/k-l-diary">Kingston &#038; Leatherhead Branch Diary</a></li>
+	<li class="page_item page-item-1198"><a href="http://www.camrasurrey.org.uk/kingston-leatherhead/pub-of-the-year">Pub of The Year</a></li>
+	<li class="page_item page-item-1201"><a href="http://www.camrasurrey.org.uk/kingston-leatherhead/pub-of-the-season">Pub of The Season</a></li>
+	<li class="page_item page-item-51"><a href="http://www.camrasurrey.org.uk/kingston-leatherhead/k-l-pubs-clubs">LocAle</a></li>
+	<li class="page_item page-item-75"><a href="http://www.camrasurrey.org.uk/kingston-leatherhead/k-l-contacts">Contacts</a></li>
+</ul>
+</li>
+<li class="page_item page-item-80 page_item_has_children"><a href="http://www.camrasurrey.org.uk/north-surrey">North Surrey</a>
+<ul class='children'>
+	<li class="page_item page-item-2033"><a href="http://www.camrasurrey.org.uk/north-surrey/nsy-pub-clips">NSY Pub Clips</a></li>
+	<li class="page_item page-item-2660"><a href="http://www.camrasurrey.org.uk/north-surrey/nsy-pubwatch%e2%80%a8%e2%80%a8">NSY PubWatch</a></li>
+	<li class="page_item page-item-94"><a href="http://www.camrasurrey.org.uk/north-surrey/nsy-festivals">NSY Beer Festivals</a></li>
+	<li class="page_item page-item-4605"><a href="http://www.camrasurrey.org.uk/north-surrey/nsy-beers-brewing">NSY Beers &#038; Brewing</a></li>
+	<li class="page_item page-item-87"><a href="http://www.camrasurrey.org.uk/north-surrey/ns-news">NSY News</a></li>
+	<li class="page_item page-item-89"><a href="http://www.camrasurrey.org.uk/north-surrey/ns-diary">NSY Diary &#038; What&#8217;s On</a></li>
+	<li class="page_item page-item-639"><a href="http://www.camrasurrey.org.uk/north-surrey/ns-pub-club-of-the-year">NSY Pub of the Year &#038; Club of the Year</a></li>
+	<li class="page_item page-item-92"><a href="http://www.camrasurrey.org.uk/north-surrey/locale">NSY LocAle</a></li>
+	<li class="page_item page-item-98"><a href="http://www.camrasurrey.org.uk/north-surrey/ns-contacts">NSY Contacts</a></li>
+</ul>
+</li>
+<li class="page_item page-item-101 page_item_has_children"><a href="http://www.camrasurrey.org.uk/surrey-hants-borders">Surrey Hants Borders</a>
+<ul class='children'>
+	<li class="page_item page-item-153"><a href="http://www.camrasurrey.org.uk/surrey-hants-borders/sh-news">News</a></li>
+	<li class="page_item page-item-3763"><a href="http://www.camrasurrey.org.uk/surrey-hants-borders/pubnews">Pub News</a></li>
+	<li class="page_item page-item-5038"><a href="http://www.camrasurrey.org.uk/surrey-hants-borders/diary">Diary</a></li>
+	<li class="page_item page-item-159"><a href="http://www.camrasurrey.org.uk/surrey-hants-borders/sh-pubsclubs">LocAle</a></li>
+	<li class="page_item page-item-155"><a href="http://www.camrasurrey.org.uk/surrey-hants-borders/sh-awards">Awards</a></li>
+	<li class="page_item page-item-4199"><a href="http://www.camrasurrey.org.uk/surrey-hants-borders/press-releases">Press Releases</a></li>
+	<li class="page_item page-item-734"><a href="http://www.camrasurrey.org.uk/surrey-hants-borders/shb-cider">Cider</a></li>
+	<li class="page_item page-item-161"><a href="http://www.camrasurrey.org.uk/surrey-hants-borders/sh-contacts">Contacts</a></li>
+</ul>
+</li>
+<li class="page_item page-item-18"><a href="http://www.camrasurrey.org.uk/about-us">About CAMRA</a></li>
+		</ul>
+		</li><li id="twitter-1" class="widget-container widget_twitter"><h3 class="widget-title"><a href="http://twitter.com/@CAMRAsurrey" class="twitter_title_link">CAMRA Surrey</a></h3><ul class="twitter"><li>No public Twitter messages.</li></ul></li>			</ul>
+		</div><!-- #primary .widget-area -->
+
+	</div><!-- #main -->
+
+	<div id="footer" role="contentinfo">
+		<div id="colophon">
+
+
+
+			<div id="footer-widget-area" role="complementary">
+
+				<div id="first" class="widget-area">
+					<ul class="xoxo">
+						<li id="categories-2" class="widget-container widget_categories"><h3 class="widget-title">Blog categories</h3>		<ul>
+	<li class="cat-item cat-item-5"><a href="http://www.camrasurrey.org.uk/category/camra" >CAMRA</a> (1)
+</li>
+	<li class="cat-item cat-item-8"><a href="http://www.camrasurrey.org.uk/category/surrey/east-mid-surrey" >East &amp; Mid Surrey</a> (1)
+</li>
+	<li class="cat-item cat-item-20"><a href="http://www.camrasurrey.org.uk/category/egham" >Egham</a> (1)
+</li>
+	<li class="cat-item cat-item-19"><a href="http://www.camrasurrey.org.uk/category/eusc" >EUSC</a> (1)
+</li>
+	<li class="cat-item cat-item-16"><a href="http://www.camrasurrey.org.uk/category/griffin" >Griffin</a> (1)
+</li>
+	<li class="cat-item cat-item-17"><a href="http://www.camrasurrey.org.uk/category/griffin-bars" >Griffin Bars</a> (1)
+</li>
+	<li class="cat-item cat-item-9"><a href="http://www.camrasurrey.org.uk/category/surrey/kingston-leatherhead" >Kingston &amp; Leatherhead</a> (1)
+</li>
+	<li class="cat-item cat-item-7"><a href="http://www.camrasurrey.org.uk/category/surrey/north-surrey" >North Surrey</a> (1)
+</li>
+	<li class="cat-item cat-item-1"><a href="http://www.camrasurrey.org.uk/category/real-ale" >Real Ale</a> (1)
+</li>
+	<li class="cat-item cat-item-6"><a href="http://www.camrasurrey.org.uk/category/surrey" >Surrey</a> (1)
+</li>
+	<li class="cat-item cat-item-10"><a href="http://www.camrasurrey.org.uk/category/surrey/surrey-hants-borders" >Surrey Hants Borders</a> (1)
+</li>
+	<li class="cat-item cat-item-11"><a href="http://www.camrasurrey.org.uk/category/website" >Website</a> (1)
+</li>
+		</ul>
+</li><li id="archives-2" class="widget-container widget_archive"><h3 class="widget-title">Archives</h3>		<ul>
+			<li><a href='http://www.camrasurrey.org.uk/2010/09'>September 2010</a></li>
+		</ul>
+		</li><li id="recent-comments-3" class="widget-container widget_recent_comments"><h3 class="widget-title">Recent Comments</h3><ul id="recentcomments"></ul></li>		<li id="recent-posts-2" class="widget-container widget_recent_entries">		<h3 class="widget-title">Recent Posts</h3>		<ul>
+					<li>
+				<a href="http://www.camrasurrey.org.uk/real-ale">Website</a>
+						</li>
+				</ul>
+		</li>							</ul>
+				</div><!-- #first .widget-area -->
+
+				<div id="second" class="widget-area">
+					<ul class="xoxo">
+						<li id="linkcat-12" class="widget-container widget_links"><h3 class="widget-title">Clubs</h3>
+	<ul class='xoxo blogroll'>
+<li><a href="http://www.eusc.co.uk" title="Egham United Services Club, multi award winning club." target="_blank">Egham United Services Club</a></li>
+
+	</ul>
+</li>
+<li id="linkcat-14" class="widget-container widget_links"><h3 class="widget-title">Local Councils</h3>
+	<ul class='xoxo blogroll'>
+<li><a href="http://www.elmbridge.gov.uk/" target="_blank">Elmbridge</a></li>
+<li><a href="http://www.epsom-ewell.gov.uk" target="_blank">Epsom</a></li>
+<li><a href="http://www.guildford.gov.uk" target="_blank">Guildford</a></li>
+<li><a href="http://www.mole-valley.gov.uk">Mole Valley</a></li>
+<li><a href="http://www.reigate-banstead.gov.uk" target="_blank">Reigate</a></li>
+<li><a href="http://www.runnymede.gov.uk/" target="_blank">Runnymede</a></li>
+<li><a href="http://www.spelthorne.gov.uk" target="_blank">Spelthorn</a></li>
+<li><a href="http://www.surreycc.gov.uk/sccwebsite/sccwspages.nsf/LookupWebPagesByTITLE_RTF/Trading+standards?opendocument" title="Advice for businesses and consumers" target="_blank">Surrey County Council Trading Standards</a></li>
+<li><a href="http://www.surreyheath.gov.uk" target="_blank">Surrey Heath</a></li>
+<li><a href="http://www.tandridgedc.gov.uk" target="_blank">Tandridge</a></li>
+<li><a href="http://www.waverley.gov.uk" target="_blank">Waverley</a></li>
+<li><a href="http://www.woking.gov.uk/" target="_blank">Woking</a></li>
+
+	</ul>
+</li>
+<li id="linkcat-21" class="widget-container widget_links"><h3 class="widget-title">Public Transport</h3>
+	<ul class='xoxo blogroll'>
+<li><a href="http://www.surreycc.gov.uk/sccwebsite/sccwspages.nsf/LookupWebPagesByTITLE_RTF/Bus+timetables?opendocument" title="Bus timetables for services in Surrey">Bus Information</a></li>
+<li><a href="http://www.nationalrail.co.uk/">Rail Information</a></li>
+
+	</ul>
+</li>
+					</ul>
+				</div><!-- #second .widget-area -->
+
+				<div id="third" class="widget-area">
+					<ul class="xoxo">
+						<li id="linkcat-15" class="widget-container widget_links"><h3 class="widget-title">Breweries</h3>
+	<ul class='xoxo blogroll'>
+<li><a href="http://www.ascot-ales.co.uk" title="Fine ales from Ascot Ales, Camberley." target="_blank">Ascot Ales</a></li>
+<li><a href="http://www.dorkingbrewery.com/" title="Within the historic town of Dorking a distinctive aroma of hops hangs in the air, announcing the arrival of Dorking&#8217;s very own brewery. " target="_blank">Dorking Brewery</a></li>
+<li><a href="http://www.theballandwicket.co.uk/page2.html" title="The Ball and Wicket specialises in REAL ALES, and boasts a micro brewery. The New Farnham Brewery is at the rear of the premises." target="_blank">Farnham Brewery</a></li>
+<li><a href="http://www.hogsback.co.uk/" title="The Hogs Back Brewery is an independent brewery based in Tongham, Surrey" target="_blank">Hogs Back</a></li>
+<li><a href="http://www.ploughinn.com/" title="Established in 1996 by Rick Abrehart, the Leith Hill Brewery is situated at the rear of the barn just before the beer garden. " target="_blank">Leith Hill Brewery</a></li>
+<li><a href="http://www.pilgrim.co.uk/" title="Based in Reigate, &#8220;the friendly town at the foot of the Downs&#8221; and love brewing beer. " target="_blank">Pilgrim Brewery</a></li>
+<li><a href="http://www.rebellionbeer.co.uk" title="Rebellion Beer Co" target="_blank">Rebellion Beer Co</a></li>
+<li><a href="http://www.surreyhills.co.uk/" title="Surrey Hills Brewery is an award-winning traditional brewery based in the heart of the Surrey Hills. " target="_blank">Surrey Hills</a></li>
+<li><a href="http://www.tillybeer.co.uk" title="The Tillingbourne Brewery" target="_blank">Tillingbourne Brewery</a></li>
+<li><a href="http://www.webrew.co.uk" title="Windsor &amp; Eton Brewery" target="_blank">Windsor &amp; Eton Brewery</a></li>
+
+	</ul>
+</li>
+					</ul>
+				</div><!-- #third .widget-area -->
+
+				<div id="fourth" class="widget-area">
+					<ul class="xoxo">
+						<li id="search-2" class="widget-container widget_search"><form role="search" method="get" id="searchform" class="searchform" action="http://www.camrasurrey.org.uk/">
+				<div>
+					<label class="screen-reader-text" for="s">Search for:</label>
+					<input type="text" value="" name="s" id="s" />
+					<input type="submit" id="searchsubmit" value="Search" />
+				</div>
+			</form></li><li id="text-3" class="widget-container widget_text"><h3 class="widget-title">CAMRA Disclaimer</h3>			<div class="textwidget"><p>The views expressed on the web site are not necessarily those of the Campaign for Real Ale Ltd. </p>
+<p>Whilst every effort is made to ensure that the information on the web site is accurate and up to date, no responsibility for errors and omissions can be accepted.</p>
+</div>
+		</li><li id="text-4" class="widget-container widget_text">			<div class="textwidget"><p>Links to external sites do not imply any official CAMRA endorsement of the opinions or ideas expressed therein, or guarantee the validity of the information provided. Links to commercial sites are in no way an endorsement of any vendor's products or services.</p>
+</div>
+		</li><li id="nktagcloud-3" class="widget-container widget_nktagcloud"><h3 class="widget-title">Tags</h3><a href='http://www.camrasurrey.org.uk/category/camra'  class='tag-link-5 nktagcloud-8' title='1' rel="tag" style='font-size: 8pt;'>CAMRA</a>
+<a href='http://www.camrasurrey.org.uk/category/surrey/east-mid-surrey'  class='tag-link-8 nktagcloud-8' title='1' rel="tag" style='font-size: 8pt;'>East &amp; Mid Surrey</a>
+<a href='http://www.camrasurrey.org.uk/category/egham'  class='tag-link-20 nktagcloud-8' title='1' rel="tag" style='font-size: 8pt;'>Egham</a>
+<a href='http://www.camrasurrey.org.uk/category/eusc'  class='tag-link-19 nktagcloud-8' title='1' rel="tag" style='font-size: 8pt;'>EUSC</a>
+<a href='http://www.camrasurrey.org.uk/category/griffin'  class='tag-link-16 nktagcloud-8' title='1' rel="tag" style='font-size: 8pt;'>Griffin</a>
+<a href='http://www.camrasurrey.org.uk/category/griffin-bars'  class='tag-link-17 nktagcloud-8' title='1' rel="tag" style='font-size: 8pt;'>Griffin Bars</a>
+<a href='http://www.camrasurrey.org.uk/category/surrey/kingston-leatherhead'  class='tag-link-9 nktagcloud-8' title='1' rel="tag" style='font-size: 8pt;'>Kingston &amp; Leatherhead</a>
+<a href='http://www.camrasurrey.org.uk/category/surrey/north-surrey'  class='tag-link-7 nktagcloud-8' title='1' rel="tag" style='font-size: 8pt;'>North Surrey</a>
+<a href='http://www.camrasurrey.org.uk/category/real-ale'  class='tag-link-1 nktagcloud-8' title='1' rel="tag" style='font-size: 8pt;'>Real Ale</a>
+<a href='http://www.camrasurrey.org.uk/category/surrey'  class='tag-link-6 nktagcloud-8' title='1' rel="tag" style='font-size: 8pt;'>Surrey</a>
+<a href='http://www.camrasurrey.org.uk/category/surrey/surrey-hants-borders'  class='tag-link-10 nktagcloud-8' title='1' rel="tag" style='font-size: 8pt;'>Surrey Hants Borders</a>
+<a href='http://www.camrasurrey.org.uk/category/website'  class='tag-link-11 nktagcloud-8' title='1' rel="tag" style='font-size: 8pt;'>Website</a></li>					</ul>
+				</div><!-- #fourth .widget-area -->
+
+			</div><!-- #footer-widget-area -->
+(c) CAMRA Ltd CAMRA Surrey and hosted and maintained by Richard Griffin &copy; 2010	 - Number of hits: 1300635			<div id="site-generator">
+								<a href="http://wordpress.org/" title="Semantic Personal Publishing Platform" rel="generator">Proudly powered by WordPress.</a>
+			</div><!-- #site-generator -->
+
+		</div><!-- #colophon -->
+	</div><!-- #footer -->
+
+</div><!-- #wrapper -->
+
+<script type='text/javascript' src='http://www.camrasurrey.org.uk/wp-includes/js/comment-reply.min.js?ver=4.7.10'></script>
+<script type='text/javascript' src='http://www.camrasurrey.org.uk/wp-includes/js/wp-embed.min.js?ver=4.7.10'></script>
+</body>
+</html>
+
+

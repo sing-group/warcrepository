@@ -1,0 +1,497 @@
+WARC/1.0
+WARC-Type: warcinfo
+WARC-Date: 2018-05-30T17:52:30Z
+WARC-All-Language: en
+WARC-All-Content_type: text/html; charset=UTF-8
+WARC-Record-ID: <urn:uuid:51193af7-e807-4a5f-92f9-4a82825eca24>
+Content-Type: application/http;msgtype=response
+Content-Length: 46
+
+WARCProcessor by SING Group www.sing-group.com
+
+WARC/1.0
+WARC-Type: response
+WARC-Target-URI: http://www.cuboctaedro.eu
+WARC-Date: 20180530175230
+WARC-Language: en
+WARC-Record-ID: <http://www.cuboctaedro.eu>
+Content-Type: application/http;msgtype=response
+Content-Length: 29165
+
+HTTP/1.1 200
+Content-Type:text/html; charset=UTF-8
+
+
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+
+    <!-- Search  -->
+<title>Cuboctaedro - Home</title>
+<meta name="author" content="Dimitris Kottas">
+<meta name="description" content="Online portfolio and blog of Dimitris Kottas, graphic and web designer, editor and designer of books." />
+<meta name="keywords" content="Graphic Design,Web Design,Book Design,Editing,Kirby,Wordpress" />
+<link rel="canonical" href="http://www.cuboctaedro.eu">
+
+
+<!-- Twitter Card data -->
+<meta name="twitter:site" content="@Cuboctaedro">
+<meta name="twitter:title" content="Home">
+<meta name="twitter:description" content="Online portfolio and blog of Dimitris Kottas, graphic and web designer, editor and designer of books.">
+<meta name="twitter:creator" content="@Cuboctaedro">
+        <meta name="twitter:image:src" content="http://www.cuboctaedro.eu/content/home/screenshot.jpg">
+
+<!-- Open Graph data -->
+<meta property="og:title" content="Home" />
+<meta property="og:url" content="http://www.cuboctaedro.eu" />
+        <meta property="og:image" content="http://www.cuboctaedro.eu/content/home/screenshot.jpg" />
+<meta property="og:description" content="Online portfolio and blog of Dimitris Kottas, graphic and web designer, editor and designer of books." />
+<meta property="og:site_name" content="Cuboctaedro" />
+
+
+    <meta name="twitter:card" content="summary_large_image">
+
+    <meta property="og:type" content="website" />
+
+    <meta name="viewport" content="width=device-width" />
+    <meta name="robots" content="index, follow" />
+    <meta property="fb:pages" content="1489284151380497" />
+        <link rel="apple-touch-icon" sizes="57x57" href="http://www.cuboctaedro.eu/assets/icons/apple-icon-57x57.png">
+    <link rel="apple-touch-icon" sizes="60x60" href="http://www.cuboctaedro.eu/assets/icons/apple-icon-60x60.png">
+    <link rel="apple-touch-icon" sizes="72x72" href="http://www.cuboctaedro.eu/assets/icons/apple-icon-72x72.png">
+    <link rel="apple-touch-icon" sizes="76x76" href="http://www.cuboctaedro.eu/assets/icons/apple-icon-76x76.png">
+    <link rel="apple-touch-icon" sizes="114x114" href="http://www.cuboctaedro.eu/assets/icons/apple-icon-114x114.png">
+    <link rel="apple-touch-icon" sizes="120x120" href="http://www.cuboctaedro.eu/assets/icons/apple-icon-120x120.png">
+    <link rel="apple-touch-icon" sizes="144x144" href="http://www.cuboctaedro.eu/assets/icons/apple-icon-144x144.png">
+    <link rel="apple-touch-icon" sizes="152x152" href="http://www.cuboctaedro.eu/assets/icons/apple-icon-152x152.png">
+    <link rel="apple-touch-icon" sizes="180x180" href="http://www.cuboctaedro.eu/assets/icons/apple-icon-180x180.png">
+    <link rel="icon" type="image/png" sizes="192x192"  href="http://www.cuboctaedro.eu/assets/icons/android-icon-192x192.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="http://www.cuboctaedro.eu/assets/icons/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="96x96" href="http://www.cuboctaedro.eu/assets/icons/favicon-96x96.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="http://www.cuboctaedro.eu/assets/icons/favicon-16x16.png">
+    <link rel="manifest" href="manifest.json">
+    <meta name="msapplication-TileColor" content="#ffffff">
+    <meta name="msapplication-TileImage" content="http://www.cuboctaedro.eu/assets/icons/ms-icon-144x144.png">
+    <meta name="theme-color" content="#ffffff">
+
+    <link rel="stylesheet" href="https://use.typekit.net/pks4mdq.css">
+
+    <link rel="stylesheet" href="http://www.cuboctaedro.eu/assets/css/index.css"></head>
+
+<body itemscope itemtype="http://schema.org/WebPage" class="fs-16 fw-400 ff-sans c-black bg-white lh-16 b-10 bc-grey-light bs-solid p-0 m-0 min-h-screen">
+    <p class="visually-hidden">
+        <a href="#main">skip to main content</a>
+    </p>
+    <div class="wrapper">
+        <div class="min-h-screen">
+        <div class="d-flex fxd-row fxw-wrap jc-between mb-50">
+            <header id="header" role="banner" aria-labelledby="sitetitle" class="w-full lg__w-1of3 xl__w-1of4 pl-15 pr-15">
+                                    <h1 class="fs-24 tt-upper fw-800"><a href="http://www.cuboctaedro.eu">Cuboctaedro</a></h1>
+                            </header>
+            <div class="w-full lg__w-2of3 xl__w-3of4 pl-15 pr-15">
+                <nav role="navigation">
+    <h2 class="visually-hidden">Site Navigation</h2>
+    <ul class="d-flex fxd-row fxw-wrap pt-10" id="nav">
+                    <li class="menuitem">
+                <a href="http://www.cuboctaedro.eu/services" class="d-in-bl mr-20 menulink animate">Services</a>
+            </li>
+                    <li class="menuitem">
+                <a href="http://www.cuboctaedro.eu/work" class="d-in-bl mr-20 menulink animate">Work</a>
+            </li>
+                    <li class="menuitem">
+                <a href="http://www.cuboctaedro.eu/about" class="d-in-bl mr-20 menulink animate">About</a>
+            </li>
+                    <li class="menuitem">
+                <a href="http://www.cuboctaedro.eu/notebook" class="d-in-bl mr-20 menulink animate">Notebook</a>
+            </li>
+                    <li class="menuitem">
+                <a href="http://www.cuboctaedro.eu/contact" class="d-in-bl mr-20 menulink animate">Contact</a>
+            </li>
+            </ul>
+</nav>            </div>
+        </div>
+
+    <main id="main" role="main">
+
+        <section id="slogan" class="pt-50 pb-50 w-full">
+            <div class="pl-15 pr-15 xl__w-3of4 xl__ml-1of4">
+                <div class="lh-12 fs-32 fw-300 lg__fs-36 fw-300">Perfection is achieved, <br>not when there is nothing more to add, <br>but when there is nothing left to take away.</div>
+                <div class="mt-15 fs-16 lg__fs-18">Antoine de Saint-Exupéry</div>
+            </div>
+        </section>
+
+        <section id="services" class="pt-50 w-full">
+            
+<header class="pl-15 pr-15 pb-30">
+    <h2 class="header-main">Services</h2>
+</header>
+
+<div class="d-flex fxd-col lg__fxd-row fxw-wrap xl__w-3of4 xl__ml-1of4">
+            <article class="pl-15 pr-15 pb-50 lg__w-1of3">
+            <header class="mb-30">
+                                    <h3 class="header-second">Graphic Design</h3>
+                            </header>
+            <div><p>Graphic design, typography and branding for companies, exhibitions, events, stationary or any other format and application. Specialized in working with artist, designers and cultural institutions.</p></div>
+        </article>
+            <article class="pl-15 pr-15 pb-50 lg__w-1of3">
+            <header class="mb-30">
+                                    <h3 class="header-second">Web Design and Development</h3>
+                            </header>
+            <div><p>I design and develop websites with responsive patterns, using Kirby CMS, Wordpress, Drupal. I have created various artist and designer portfolios, e-shops, news sites and others.</p></div>
+        </article>
+            <article class="pl-15 pr-15 pb-50 lg__w-1of3">
+            <header class="mb-30">
+                                    <h3 class="header-second">Book Design and Editing</h3>
+                            </header>
+            <div><p>More than 15 years of experience in designing books and editing publications about design and architecture. Currently running my own publishing company, <a href="http://eccentric-books.com/" rel="noopener noreferrer" target="_blank">Eccentric Books</a>.</p></div>
+        </article>
+    </div>        </section>
+
+        <section id="work" class="pt-50 w-full">
+            
+<header class="pl-15 pr-15 pb-30">
+    <h2 class="header-main">Work</h2>
+</header>
+
+
+
+<div class="d-flex fxd-row fxw-wrap">
+    <nav class="pl-15 pr-15 w-full xl__w-1of4 pb-75">
+        <ul class="d-flex fxd-row xl__fxd-col fxw-wrap">
+            <li>
+                <a href="http://www.cuboctaedro.eu/work" class="menulink d-in-bl pr-20">All Projects</a>
+            </li>
+                    <li>
+                <a href="http://www.cuboctaedro.eu/work/tag:Exhibition" class="menulink d-in-bl pr-20">
+                    Exhibition                </a>
+            </li>
+                    <li>
+                <a href="http://www.cuboctaedro.eu/work/tag:Graphic+Design" class="menulink d-in-bl pr-20">
+                    Graphic Design                </a>
+            </li>
+                    <li>
+                <a href="http://www.cuboctaedro.eu/work/tag:Book+Design" class="menulink d-in-bl pr-20">
+                    Book Design                </a>
+            </li>
+                    <li>
+                <a href="http://www.cuboctaedro.eu/work/tag:Web+design" class="menulink d-in-bl pr-20">
+                    Web design                </a>
+            </li>
+                    <li>
+                <a href="http://www.cuboctaedro.eu/work/tag:Web+development" class="menulink d-in-bl pr-20">
+                    Web development                </a>
+            </li>
+                    <li>
+                <a href="http://www.cuboctaedro.eu/work/tag:Editing" class="menulink d-in-bl pr-20">
+                    Editing                </a>
+            </li>
+                </ul>
+    </nav>
+
+    <div class="w-full xl__w-3of4 d-flex fxd-col md__fxd-row fxw-wrap">
+
+        
+        <div class="md__w-1of2 lg__w-1of3 pl-15 pr-15 pb-50" itemscope itemtype="http://schema.org/CreativeWork">
+            <a href="http://www.cuboctaedro.eu/work/ioannis-kapodistrias" itemprop="url" class="h__c-black d-block h-full animate project-card">
+                <div class="bg-pos-center bg-rep-no bg-size-contain ratio-3by4 animate image" style="background-image:url(http://www.cuboctaedro.eu/content/2-work/1-ioannis-kapodistrias/kapodistrias-01.jpg);"></div>
+                <div class="">
+                                            <h3 class="header-second animate" itemprop="name">Ioannis Kapodistrias</h3>
+                                        <div class="project-year" itemprop="dateCreated">
+                        2017                    </div>
+                    <div class="project-description" itemprop="description">
+                        <p>An exhibition about the first governor of modern Greece.</p>                    </div>
+                </div>
+            </a>
+        </div>
+        
+        <div class="md__w-1of2 lg__w-1of3 pl-15 pr-15 pb-50" itemscope itemtype="http://schema.org/CreativeWork">
+            <a href="http://www.cuboctaedro.eu/work/informal-urbanism" itemprop="url" class="h__c-black d-block h-full animate project-card">
+                <div class="bg-pos-center bg-rep-no bg-size-contain ratio-3by4 animate image" style="background-image:url(http://www.cuboctaedro.eu/content/2-work/2-informal-urbanism/informal-1.jpg);"></div>
+                <div class="">
+                                            <h3 class="header-second animate" itemprop="name">Informal Urbanism</h3>
+                                        <div class="project-year" itemprop="dateCreated">
+                        2017                    </div>
+                    <div class="project-description" itemprop="description">
+                        <p>A book about an urbanism workshop held in Athens and Dortmund.</p>                    </div>
+                </div>
+            </a>
+        </div>
+        
+        <div class="md__w-1of2 lg__w-1of3 pl-15 pr-15 pb-50" itemscope itemtype="http://schema.org/CreativeWork">
+            <a href="http://www.cuboctaedro.eu/work/the-bridge-of-plaka" itemprop="url" class="h__c-black d-block h-full animate project-card">
+                <div class="bg-pos-center bg-rep-no bg-size-contain ratio-3by4 animate image" style="background-image:url(http://www.cuboctaedro.eu/content/2-work/3-the-bridge-of-plaka/plaka-1.jpg);"></div>
+                <div class="">
+                                            <h3 class="header-second animate" itemprop="name">The Bridge of Plaka</h3>
+                                        <div class="project-year" itemprop="dateCreated">
+                        2017                    </div>
+                    <div class="project-description" itemprop="description">
+                        <p>Book about the rebuilding of traditional stone bridge.</p>                    </div>
+                </div>
+            </a>
+        </div>
+        
+        <div class="md__w-1of2 lg__w-1of3 pl-15 pr-15 pb-50" itemscope itemtype="http://schema.org/CreativeWork">
+            <a href="http://www.cuboctaedro.eu/work/archiphos" itemprop="url" class="h__c-black d-block h-full animate project-card">
+                <div class="bg-pos-center bg-rep-no bg-size-contain ratio-3by4 animate image" style="background-image:url(http://www.cuboctaedro.eu/content/2-work/4-archiphos/archiphos1.jpg);"></div>
+                <div class="">
+                                            <h3 class="header-second animate" itemprop="name">Archiphos</h3>
+                                        <div class="project-year" itemprop="dateCreated">
+                        2017                    </div>
+                    <div class="project-description" itemprop="description">
+                        <p>Website for an architectural photographer.</p>                    </div>
+                </div>
+            </a>
+        </div>
+        
+        <div class="md__w-1of2 lg__w-1of3 pl-15 pr-15 pb-50" itemscope itemtype="http://schema.org/CreativeWork">
+            <a href="http://www.cuboctaedro.eu/work/minimaximum-improvision" itemprop="url" class="h__c-black d-block h-full animate project-card">
+                <div class="bg-pos-center bg-rep-no bg-size-contain ratio-3by4 animate image" style="background-image:url(http://www.cuboctaedro.eu/content/2-work/5-minimaximum-improvision/minimaximum1.jpg);"></div>
+                <div class="">
+                                            <h3 class="header-second animate" itemprop="name">Minimaximum Improvision</h3>
+                                        <div class="project-year" itemprop="dateCreated">
+                        2017                    </div>
+                    <div class="project-description" itemprop="description">
+                        <p>A website for a group of improvisational music.</p>                    </div>
+                </div>
+            </a>
+        </div>
+        
+        <div class="md__w-1of2 lg__w-1of3 pl-15 pr-15 pb-50" itemscope itemtype="http://schema.org/CreativeWork">
+            <a href="http://www.cuboctaedro.eu/work/invensor" itemprop="url" class="h__c-black d-block h-full animate project-card">
+                <div class="bg-pos-center bg-rep-no bg-size-contain ratio-3by4 animate image" style="background-image:url(http://www.cuboctaedro.eu/content/2-work/6-invensor/invensor.jpg);"></div>
+                <div class="">
+                                            <h3 class="header-second animate" itemprop="name">Invensor</h3>
+                                        <div class="project-year" itemprop="dateCreated">
+                        2017                    </div>
+                    <div class="project-description" itemprop="description">
+                        <p>Website for a company that makes cooling systems</p>                    </div>
+                </div>
+            </a>
+        </div>
+        
+        <div class="md__w-1of2 lg__w-1of3 pl-15 pr-15 pb-50" itemscope itemtype="http://schema.org/CreativeWork">
+            <a href="http://www.cuboctaedro.eu/work/vipera" itemprop="url" class="h__c-black d-block h-full animate project-card">
+                <div class="bg-pos-center bg-rep-no bg-size-contain ratio-3by4 animate image" style="background-image:url(http://www.cuboctaedro.eu/content/2-work/7-vipera/vipera.jpg);"></div>
+                <div class="">
+                                            <h3 class="header-second animate" itemprop="name">Vipera</h3>
+                                        <div class="project-year" itemprop="dateCreated">
+                        2016                    </div>
+                    <div class="project-description" itemprop="description">
+                        <p>Identity and website for an e-shop of handcrafted accessories.</p>                    </div>
+                </div>
+            </a>
+        </div>
+        
+        <div class="md__w-1of2 lg__w-1of3 pl-15 pr-15 pb-50" itemscope itemtype="http://schema.org/CreativeWork">
+            <a href="http://www.cuboctaedro.eu/work/inura-athens-2015" itemprop="url" class="h__c-black d-block h-full animate project-card">
+                <div class="bg-pos-center bg-rep-no bg-size-contain ratio-3by4 animate image" style="background-image:url(http://www.cuboctaedro.eu/content/2-work/8-inura-athens-2015/inura-1.jpg);"></div>
+                <div class="">
+                                            <h3 class="header-second animate" itemprop="name">Inura Athens 2015</h3>
+                                        <div class="project-year" itemprop="dateCreated">
+                        2015                    </div>
+                    <div class="project-description" itemprop="description">
+                        <p>Posters and booklet design for an urban studies conference.</p>                    </div>
+                </div>
+            </a>
+        </div>
+        
+        <div class="md__w-1of2 lg__w-1of3 pl-15 pr-15 pb-50" itemscope itemtype="http://schema.org/CreativeWork">
+            <a href="http://www.cuboctaedro.eu/work/venetian-nauplion" itemprop="url" class="h__c-black d-block h-full animate project-card">
+                <div class="bg-pos-center bg-rep-no bg-size-contain ratio-3by4 animate image" style="background-image:url(http://www.cuboctaedro.eu/content/2-work/9-venetian-nauplion/venetian-nayplion-1.jpg);"></div>
+                <div class="">
+                                            <h3 class="header-second animate" itemprop="name">Venetian Nafplion</h3>
+                                        <div class="project-year" itemprop="dateCreated">
+                        2015                    </div>
+                    <div class="project-description" itemprop="description">
+                        <p>Exhibition panels, logo and banner for a small exhibition about the military history of the city of Nafplion.</p>                    </div>
+                </div>
+            </a>
+        </div>
+        
+</div>
+
+
+
+</div>
+
+        </section>
+
+        <section id="about" class="pt-50 w-full">
+            
+<header class="pl-15 pr-15 pb-30">
+    <h2 class="header-main">About</h2>
+</header>
+
+<div class="d-flex fxd-row fxw-wrap">
+    <div class="pl-15 pr-15 pb-50 w-1of2 lg__w-1of3 xl__w-1of4 ord-0">
+                <img src="http://www.cuboctaedro.eu/content/3-about/about.jpg" alt="">
+    </div>
+
+    <div class="pl-15 pr-15 pb-50 lg__w-2of3 xl__w-1of2 ord-99 lg__ord-1">
+        <p>I am Dimitris Kottas, graphic and web designer, editor and publisher of books and PhD student in architecture and urban design. I have studied architecture and have worked many years at the publishing industry designing and editing books on architecture and design. </p>
+<p>I work mostly for artists, designers, architects and cultural institutions like museums and galleries but I welcome any creative challenge. I enjoy projects that combine design and editorial work.</p>    </div>
+
+    <div class="pl-15 pr-15 pb-50 w-1of2 lg__w-1of3 xl__w-1of4 ord-2">
+                <a href="http://www.cuboctaedro.eu/content/3-about/cv2015.pdf" target="_blank" class="d-block menulink">Download CV</a>
+        <a href="http://gr.linkedin.com/in/dikottas" target="_blank" class="d-block menulink">Linkedin Profile</a>
+    </div>
+
+</div>
+        </section>
+
+        <section id="notebook" class="pt-50 w-full">
+            <div itemscope itemtype="http://schema.org/Blog">
+
+    <header class="pl-15 pr-15 pb-30">
+            <h2 class="header-main" itemprop="name">Notebook</h2>
+        </header>
+
+            <article class="mb-75" itemprop="blogPost" itemscope itemtype="http://schema.org/BlogPosting">
+            <div class="d-flex fxd-col lg__fxd-row-rev">
+                <header class="article-header lg__w-2of3 xl__w-3of4  pl-15 pr-15">
+                                            <h3 itemprop="headline" class="header-second">
+                            <a href="http://www.cuboctaedro.eu/notebook/static-site-generators" itemprop="url">Static Site Generators, Part 1 - the Generators</a>
+                        </h3>
+                                    </header>
+                <time datetime="2018-05-16T00:00:00+00:00" itemprop="datePublished" class="lg__w-1of3 xl__w-1of4 mb-20 pl-15 pr-15">Wednesday May 16th, 2018</time>
+            </div>
+            <meta itemprop="author" content="Dimitris Kottas">
+            <meta itemprop="publisher" content="Cuboctaedro">
+            <div class="post-description lg__w-2of3 xl__w-1of2  pl-15 pr-15 lg__ml-1of3 xl__ml-1of4" itemprop="description">
+                I have spent the last few months experimenting with various static site generators and related technologies. The results have been a couple of websites like Archiphos and Minimaximum Improvision and various plans for future projects.  For those who may not…                <a href="http://www.cuboctaedro.eu/notebook/static-site-generators" title="Static Site Generators, Part 1 - the Generators" class="readmore d-block mt-10 menulink">read more</a>
+            </div>
+        </article>
+            <article class="mb-75" itemprop="blogPost" itemscope itemtype="http://schema.org/BlogPosting">
+            <div class="d-flex fxd-col lg__fxd-row-rev">
+                <header class="article-header lg__w-2of3 xl__w-3of4  pl-15 pr-15">
+                                            <h3 itemprop="headline" class="header-second">
+                            <a href="http://www.cuboctaedro.eu/notebook/a-long-needed-relaunch" itemprop="url">A long-needed re-design</a>
+                        </h3>
+                                    </header>
+                <time datetime="2016-09-15T00:00:00+00:00" itemprop="datePublished" class="lg__w-1of3 xl__w-1of4 mb-20 pl-15 pr-15">Thursday September 15th, 2016</time>
+            </div>
+            <meta itemprop="author" content="Dimitris Kottas">
+            <meta itemprop="publisher" content="Cuboctaedro">
+            <div class="post-description lg__w-2of3 xl__w-1of2  pl-15 pr-15 lg__ml-1of3 xl__ml-1of4" itemprop="description">
+                If you have visited this website the past year more than once you may have noticed that it was in a state of constant change. Some time ago I did a complete relaunch, updated the back-end and redesigned  the front-end from scratch. And then I spend many…                <a href="http://www.cuboctaedro.eu/notebook/a-long-needed-relaunch" title="A long-needed re-design" class="readmore d-block mt-10 menulink">read more</a>
+            </div>
+        </article>
+            <article class="mb-75" itemprop="blogPost" itemscope itemtype="http://schema.org/BlogPosting">
+            <div class="d-flex fxd-col lg__fxd-row-rev">
+                <header class="article-header lg__w-2of3 xl__w-3of4  pl-15 pr-15">
+                                            <h3 itemprop="headline" class="header-second">
+                            <a href="http://www.cuboctaedro.eu/notebook/on-flatness-truth-and-authenticity" itemprop="url">On flatness, truth and authenticity</a>
+                        </h3>
+                                    </header>
+                <time datetime="2013-07-18T00:00:00+00:00" itemprop="datePublished" class="lg__w-1of3 xl__w-1of4 mb-20 pl-15 pr-15">Thursday July 18th, 2013</time>
+            </div>
+            <meta itemprop="author" content="Dimitris Kottas">
+            <meta itemprop="publisher" content="Cuboctaedro">
+            <div class="post-description lg__w-2of3 xl__w-1of2  pl-15 pr-15 lg__ml-1of3 xl__ml-1of4" itemprop="description">
+                A couple of days ago Dmitry Fadeyev published an article on Smashing Magazine titled &quot;Authentic Design&quot;. Fadeyev argues that &quot;flat design&quot; is, or can be when properly practiced, a more &quot;authentic&quot; design than skeuomorphic or more…                <a href="http://www.cuboctaedro.eu/notebook/on-flatness-truth-and-authenticity" title="On flatness, truth and authenticity" class="readmore d-block mt-10 menulink">read more</a>
+            </div>
+        </article>
+            <article class="mb-75" itemprop="blogPost" itemscope itemtype="http://schema.org/BlogPosting">
+            <div class="d-flex fxd-col lg__fxd-row-rev">
+                <header class="article-header lg__w-2of3 xl__w-3of4  pl-15 pr-15">
+                                            <h3 itemprop="headline" class="header-second">
+                            <a href="http://www.cuboctaedro.eu/notebook/the-kirby-cms" itemprop="url">The Kirby CMS</a>
+                        </h3>
+                                    </header>
+                <time datetime="2013-02-18T00:00:00+00:00" itemprop="datePublished" class="lg__w-1of3 xl__w-1of4 mb-20 pl-15 pr-15">Monday February 18th, 2013</time>
+            </div>
+            <meta itemprop="author" content="Dimitris Kottas">
+            <meta itemprop="publisher" content="Cuboctaedro">
+            <div class="post-description lg__w-2of3 xl__w-1of2  pl-15 pr-15 lg__ml-1of3 xl__ml-1of4" itemprop="description">
+                The last few weeks I have started working with Kirby, a file-based CMS written on PHP. I have found it very convenient for many kinds of projects. It is a very good solution for small-to-medium sized websites, like portfolios, small blogs or small company…                <a href="http://www.cuboctaedro.eu/notebook/the-kirby-cms" title="The Kirby CMS" class="readmore d-block mt-10 menulink">read more</a>
+            </div>
+        </article>
+    
+</div>
+
+
+
+
+
+        </section>
+
+        <section id="contact" class="pt-50 w-full">
+            
+<header class="pl-15 pr-15 pb-30">
+    <h2 class="header-main">Contact</h2>
+</header>
+
+<div class="d-flex fxd-col md__fxd-row fxw-wrap lg__w-2of3 lg__ml-1of3 xl__w-full xl__ml-0">
+    <article class="pl-15 pr-15 pb-50 md__w-1of2 xl__w-1of4">
+        <header class="mb-30">
+                            <h3 class="header-second">e-mail</h3>
+            
+        </header>
+        <div class="contacttype-text"><p><a href="mailto:&#x69;&#110;&#102;&#x6f;&#64;&#99;&#x75;&#x62;&#111;&#99;&#x74;&#x61;&#101;&#100;&#114;&#111;&#46;&#101;&#117;">&#x69;&#x6e;&#x66;&#x6f;&#x40;&#99;&#x75;&#x62;&#x6f;&#99;&#116;&#97;&#101;&#100;&#114;&#x6f;&#x2e;&#x65;&#x75;</a></p></div>
+    </article>
+    <article class="pl-15 pr-15 pb-50 md__w-1of2 xl__w-1of4">
+        <header class="mb-30">
+                            <h3 class="header-second">Phone</h3>
+            
+        </header>
+        <div class="contacttype-text"><p><a href="tel:+306932001313">+30 6932 00 1313</a></p></div>
+    </article>
+    <article class="pl-15 pr-15 pb-50 md__w-1of2 xl__w-1of4">
+        <header class="mb-30">
+                            <h3 class="header-second">Post Address</h3>
+            
+        </header>
+        <div class="contacttype-text"><p>Dimitris Kottas<br />
+Lomvardou 23-25<br />
+11473, Athens<br />
+Greece</p></div>
+    </article>
+    <article class="pl-15 pr-15 pb-50 md__w-1of2 xl__w-1of4">
+        <header class="mb-30">
+                            <h3 class="header-second">Social</h3>
+            
+        </header>
+        <div class="contacttype-text"><p><a href="https://twitter.com/Cuboctaedro" rel="noopener noreferrer" target="_blank">Twitter</a><br />
+<a href="https://www.facebook.com/Cuboctaedro-1489284151380497" rel="noopener noreferrer" target="_blank">Facebook</a><br />
+<a href="https://www.behance.net/cuboctaedro" rel="noopener noreferrer" target="_blank">Behance</a><br />
+<a href="https://gr.linkedin.com/in/dikottas" rel="noopener noreferrer" target="_blank">Linkedin</a><br />
+<a href="https://www.pinterest.com/cuboctaedro/" rel="noopener noreferrer" target="_blank">Pinterest</a></p></div>
+    </article>
+</div>
+
+
+        </section>
+
+    </main>
+
+        </div>
+        <footer class="d-flex fxd-row fxw-wrap " role="contentinfo">
+            <div class="pr-20 fs-14 lh-20">
+                <p>© 2018 <a href="http://cuboctaedro.eu">Dimitris Kottas</a></p>            </div>
+            <div class="fs-14 lh-20">
+                <p>
+                    <a href="http://getkirby.com/" target="_blank">Made with Kirby</a>
+                </p>
+            </div>
+        </footer>
+
+    </div>
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-11452545-1', 'auto');
+  ga('send', 'pageview');
+
+  if ('serviceWorker' in navigator) {
+    navigator.serviceWorker.register('/service-worker.js');
+  }
+
+</script>
+</body>
+</html>
+

@@ -1,0 +1,330 @@
+WARC/1.0
+WARC-Type: warcinfo
+WARC-Date: 2018-05-30T18:18:32Z
+WARC-All-Language: en
+WARC-All-Content_type: text/html; charset=utf-8
+WARC-Record-ID: <urn:uuid:1c4e5ea7-b59f-434e-b027-a5960a3e49bb>
+Content-Type: application/http;msgtype=response
+Content-Length: 46
+
+WARCProcessor by SING Group www.sing-group.com
+
+WARC/1.0
+WARC-Type: response
+WARC-Target-URI: http://www.novator.eu
+WARC-Date: 20180530181832
+WARC-Language: en
+WARC-Record-ID: <http://www.novator.eu>
+Content-Type: application/http;msgtype=response
+Content-Length: 13828
+
+HTTP/1.1 200
+Content-Type:text/html; charset=utf-8
+
+
+
+
+
+<!doctype html>
+
+<html>
+<head id="ctl00_Head1"><title>
+	Home
+</title><link rel="shortcut icon" href="/favicon.ico" /><meta name="viewport" content="initial-scale = 1.0" /><meta http-equiv="content-type" content="text/html; charset=UTF-8" /><link rel="stylesheet" type="text/css" href="/css/style.css?v=1" /><link rel="stylesheet" type="text/css" href="/css/custom.css" /><link href="/css/system.css" rel="stylesheet" type="text/css" />
+<meta name="generator" content="WebDoc CMS 7.0" /><script type="text/javascript">window.wdRoot='//wd7.se';</script><meta name="description" content="Startsida" /><script src="//wd7.se/ql2.js" type="text/javascript"></script><link rel="canonical" href="http://www.novator.eu/" /></head>
+<body>
+    <form name="aspnetForm" method="post" action="/" id="aspnetForm" enctype="multipart/form-data">
+<div>
+<input type="hidden" name="__wdID" id="__wdID" value="c_1" />
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="" />
+</div>
+
+
+<script type="text/javascript">
+//<![CDATA[
+var contentServers = [];//]]>
+</script>
+
+        
+        
+
+        <div id="head">
+            <div class="row mg20 ">
+                <div class="c2 clms">
+                    <a class="homelink" href="/">
+                        <img src="/images/novator.gif" alt="Till startidan" /></a>
+                </div>
+                <div class="c7 clms ">
+                    
+                            <ul id="mainmenu" class="nav-bar top-nav">
+                        
+                            <li>
+                                <a href="/about-novator__4"  title="About Novator AB"><span>About Novator </span></a></li>
+                        
+                            <li>
+                                <a href="/technology/orbital-drilling__141"  title="The Orbital Drilling™ Concept"><span>Technology</span></a></li>
+                        
+                            <li>
+                                <a href="/productsandservices"  title="Products &amp; Services"><span>Products &amp; Services</span></a></li>
+                        
+                            <li>
+                                <a href="/news"  title="News"><span>News</span></a></li>
+                        
+                            <li>
+                                <a href="/contact__12"  title="Contact"><span>Contact</span></a></li>
+                        
+                            <li>
+                                <a href="/login__15"  title="Login"><span>Login</span></a></li>
+                        
+                            </ul>
+                        
+                </div>
+                <div class="c3 clms">
+                    <input id="ctl00_exSearch" class="search" type="text" value="Search..." /><div id="result" class="qsearchresult" style="display:none"></div>
+                    <div class="mbtn">
+                        <svg height="50px" id="Layer_1" style="enable-background: new 0 0 32 32;" version="1.1" viewBox="0 0 32 32" width="50px" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+                            <path d="M4,10h24c1.104,0,2-0.896,2-2s-0.896-2-2-2H4C2.896,6,2,6.896,2,8S2.896,10,4,10z M28,14H4c-1.104,0-2,0.896-2,2  s0.896,2,2,2h24c1.104,0,2-0.896,2-2S29.104,14,28,14z M28,22H4c-1.104,0-2,0.896-2,2s0.896,2,2,2h24c1.104,0,2-0.896,2-2  S29.104,22,28,22z" />
+                        </svg>
+                    </div>
+                </div>
+            </div>
+            <div id="mmenu">
+                <div id="ctl00_exMainmm">
+	
+                        <ul class="mobilemenu">
+                    
+                        <li>
+                            <a href="/about-novator__4"  title="About Novator AB"><span>About Novator </span></a>
+                            <ul>
+                    
+                        </ul>
+                        </li>
+                    
+                        <li>
+                            <a href="/technology/orbital-drilling__141"  title="The Orbital Drilling™ Concept"><span>Technology</span></a>
+                            <ul>
+                    
+                        </ul>
+                        </li>
+                    
+                        <li>
+                            <a href="/productsandservices"  title="Products &amp; Services"><span>Products &amp; Services</span></a>
+                            <ul>
+                    
+                        </ul>
+                        </li>
+                    
+                        <li>
+                            <a href="/news"  title="News"><span>News</span></a>
+                            <ul>
+                    
+                        </ul>
+                        </li>
+                    
+                        <li>
+                            <a href="/contact__12"  title="Contact"><span>Contact</span></a>
+                            <ul>
+                    
+                        </ul>
+                        </li>
+                    
+                        <li>
+                            <a href="/login__15"  title="Login"><span>Login</span></a>
+                        </li>
+                    
+                        </ul>
+                    
+</div>
+            </div>
+        </div>
+        <div id="pagecnt">
+            
+    <div class="startcontent">
+        <div class="row">
+            <div class="c12 clms">
+                
+                <div class="starttxt c7">
+                    <div id="ctl00_cph1_body">
+	<h1>
+Welcome to Novator</h1>
+<h3>
+Boeing Supplier of the Year 2013 &amp; 2014<br /></h3>
+<p>
+For successfully introducing &amp; implementing a new technology into Boeing's production system, Novator was awarded Boeing Supplier of the Year for both 2013 and 2014 in the Technology category. Contact us to learn more about what we can do for you.&nbsp;<br /></p>
+</div>
+                </div>
+         
+            </div>
+        </div>
+        <div class="row">
+            <div class="c5 clms"><div class="box">
+                <div class="header"><h2><span id="ctl00_cph1_ltext2" class="header" style="font-size:28px;">The inventor of Orbital Drilling</span></h2></div>
+                <div id="ctl00_cph1_text2" class="pd">
+	<h4>
+<strong>Novator is focused on providing the aerospace industry with intelligent production engineering solutions.</strong></h4>
+<p>
+Technologies developed by Novator include Orbital Drilling<sup>TM</sup> - an entirely new method for producing holes - and SmartTemplates<sup>TM</sup> - a procedure for failsafe drilling operations.</p>
+<p>
+We offer both products and services aimed at increasing productivity&nbsp; and reducing cost for our customers.</p>
+</div></div>
+            </div>
+            <div class="c3 clms ">
+                <div id="ctl00_cph1_text1">
+	<h4>
+&nbsp;<img style="margin-right: auto; margin-left: auto; display: block;" alt="orbital-drilling-173.gif" src="/gen.img?imgurl=/UserFiles/orbital-drilling-173.gif&amp;mw=380&amp;x=gif" /></h4>
+</div>
+            </div>
+            <div class="c4 clms"><div class="box">
+                <div class="header"><h2><span id="ctl00_cph1_ltext3" style="font-size:28px;">News</span></h2></div>
+                <div id="ctl00_cph1_newslist1_newsl" class="pd pt wd-pp6">
+	
+        <ul class="newslist no-ul">
+    
+        <li><span class="date">
+            2017-03-09</span>
+            <a href="/news/first-delivery-of-novator-drilling-syste__170" class="linkicon" title="First delivery of Novator drilling systems to Boeing’s 777X"><span>First delivery of Novator drilling systems to Boeing’s 777X</span></a>
+           <a href="/news/first-delivery-of-novator-drilling-syste__170" class="readmore">Read more &raquo;</a>
+        </li>
+    
+        <li><span class="date">
+            2017-02-24</span>
+            <a href="/news/novator-receives-gold-boeing-performance__169" class="linkicon" title="Novator receives Gold Boeing Performance Excellence Award"><span>Novator receives Gold Boeing Performance Excellence Award</span></a>
+           <a href="/news/novator-receives-gold-boeing-performance__169" class="readmore">Read more &raquo;</a>
+        </li>
+    
+        <li><span class="date">
+            2016-09-06</span>
+            <a href="/news/novator-ab-named-national-champion__168" class="linkicon" title="Novator AB named National Champion in The European Business Awards 2016/17"><span>Novator AB named National Champion</span></a>
+           <a href="/news/novator-ab-named-national-champion__168" class="readmore">Read more &raquo;</a>
+        </li>
+    
+        </ul>
+</div>
+</div>
+                <div id="ctl00_cph1_dcNews" style="position:relative">
+
+</div>
+            </div> 
+            <div class="row">
+              <div class="c12 clms ">
+            <div id="ctl00_cph1_dcMain" style="position:relative">
+
+</div></div></div>
+        </div>
+    </div>
+
+        </div>
+        <div id="foot">
+            <div class="row">
+                <div class="c4 clms">
+                    <div id="ctl00_foot1">
+	<h4>
+Orbital Drilling<br /></h4>
+<p>
+Novator is the inventor of Orbital Drilling<sup>TM</sup>, a technology well established within the Aerospace industry. It provides premium quality holes and enables faster assembly processes, especially in difficult-to-drill applications.<br /></p>
+</div>
+                </div>
+                <div class="c4 clms">
+                    <div id="ctl00_foot2">
+	<h4>
+Aerospace Engineering<br /></h4>
+<p>
+Novator has many years experience of advanced mechanic and mechatronic systems and a highly innovative and knowledgeable team of engineers. We develop and manufacture solutions for high value applications and support our customers throughout the process.<br data-mce-bogus="1" /></p>
+</div>
+                </div>
+                <div class="c4 clms">
+                    <div id="ctl00_foot3">
+	<h4>
+Contact us<br /></h4>
+<p>
+<img src="/gen.img?imgurl=/Userfiles/pin.png&amp;mw=380&amp;x=png" alt="pin.png" />&nbsp;&nbsp; Address: Stormbyv&auml;gen 6, 163 55 Sp&aring;nga, Sweden</p>
+<p>
+<img src="/gen.img?imgurl=/Userfiles/phone.png&amp;mw=380&amp;x=png" alt="phone.png" />&nbsp;&nbsp;&nbsp; Phone: +46 8 673 54 70<br /></p>
+<p>
+<img src="/gen.img?imgurl=/Userfiles/email.png&amp;mw=380&amp;x=png" alt="email.png" />&nbsp; E-mail: info@novator.eu<br /></p>
+</div>
+                </div>
+            </div>
+            <div class="row">
+                <div class="c12 clms text-center">
+                    <p>
+                        <a href="http://cavagent.com">Cavagent</a> <a href="http://cavcms.se/">CMS</a>
+                    </p>
+                </div>
+            </div>
+        </div>
+    </form>
+    <script type="text/javascript">
+        ql.load(function () { setSlideHeight(); });
+        ql.postload(function () {
+            //kolla höjden på bildspelet direkt vid laddning
+            function setFootPos() {
+                var win = $(window);
+                if (win.width() > 768) {
+                    var h = $('#head').outerHeight(),
+                        w = win.height(),
+                        f = $('#foot').outerHeight(),
+                        cnt = $('#pagecnt').outerHeight(),
+                        diff = w - h - f - cnt;
+
+                    if (diff > 0)
+                        $('#pagecnt').height(cnt + diff);
+                }
+            }
+            setTimeout(function () {
+                setFootPos();
+            },400);
+            
+            $('.mbtn').click(function () {
+                $('#mmenu').slideToggle();
+
+            });
+
+            $(window).resize(function () {
+                //kör sedan på resize också
+                setSlideHeight();
+            });
+
+            $('.lightbox, a[rel=lightbox], a[rel=lightbox1]').lightBox();
+        });
+
+        function getSlideHeight() {
+            var height = 0;
+            $('#ctl00_cph1_dcSlideshow').find("img").each(function () {
+                var tHeight = this.clientHeight || this.offsetHeight;
+                if (tHeight > height)
+                    height = tHeight;
+            });
+            return height;
+        }
+
+        function setSlideHeight() {
+            var height = getSlideHeight();
+            if (height > 0) {
+                //                $("#ctl00_cph1_MainSlideShow_slideshow").height(height);
+                $("#ctl00_cph1_dcSlideshow").height(height);
+            }
+        }
+
+    </script>
+    <script type="text/javascript">
+
+        var _gaq = _gaq || [];
+        _gaq.push(['_setAccount', 'UA-12462256-1']);
+        _gaq.push(['_trackPageview']);
+
+        (function () {
+            var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+        })();
+
+    </script>
+
+
+<script type="text/javascript">
+//<![CDATA[
+var wdpid=1;var wdlang=1;ql.load(((!window.JSON)?'//wd7.se/JSON2.js':''),'//wd7.se/jq/wdbase.js','/js/wd_83d584c3961050790e3fc739ab81fbdb.js',function() { $('#ctl00_exSearch').qsearch({beginSearchText:'Search...',beginSearchTextUsePlaceholder:false,showAddToCard:false,noResults:7,resultId:'result',searchType:'',quickResult:true,groupedResults:true,filterResults:false,hasicon:false,showSugg:true,ty:['article'],minLength:3 } ); });
+//]]>
+</script></body></html>
+

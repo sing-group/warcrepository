@@ -1,0 +1,1283 @@
+WARC/1.0
+WARC-Type: warcinfo
+WARC-Date: 2018-05-23T09:03:44Z
+WARC-All-Language: en-US
+WARC-All-Content_type: text/html
+WARC-Record-ID: <urn:uuid:b584160a-4d7c-437d-8003-d1839635e64a>
+Content-Type: application/http;msgtype=response
+Content-Length: 46
+
+WARCProcessor by SING Group www.sing-group.com
+
+WARC/1.0
+WARC-Type: response
+WARC-Target-URI: http://www.ceebd.co.uk
+WARC-Date: 20180523090344
+WARC-Language: en-US
+WARC-Record-ID: <http://www.ceebd.co.uk>
+Content-Type: application/http;msgtype=response
+Content-Length: 94918
+
+HTTP/1.1 200
+Content-Type:text/html
+
+
+<!DOCTYPE html>
+<!--[if IE 8 ]><html class="ie" xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-US" lang="en-US"> <![endif]-->
+<!--[if (gte IE 9)|!(IE)]><!--><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-US" lang="en-US"><!--<![endif]--> 
+<head>
+<style type="text/css">
+<!--
+.input {
+     border: 1px solid #006;
+     background: #ffc;
+ }
+ .input:hover {
+     border: 1px solid #f00;
+     background: #ff6;
+ }
+ .button {
+     border: none;
+     background: url('/forms/up.png') no-repeat top left;
+     padding: 2px 8px;
+	 font-family: Arial;
+	 font-size: 18px;
+	 font-weight: normal;
+ }
+ .button:hover {
+     border: none;
+     background: url('/forms/down.png') no-repeat top left;
+     padding: 2px 8px;
+	
+ }
+ label {
+     display: block;
+     width: 150px;
+     float: left;
+     margin: 2px 4px 6px 4px;
+     text-align: left;
+	
+ }
+ br { clear: left; }
+ -->
+</style>
+<style type="text/css">
+<!--
+.raver {font-family: Arial; COLOR:black;  font-size: 18px; font-weight: normal }
+A.paver {COLOR:#C2C2C2;  }
+A.paver:Visited {COLOR:#1ba3c2; }
+A.paver:Active {COLOR:#1ba3c2;  }
+A.paver:Hover {COLOR:#1ba3c2;  }
+  -->
+</style>
+
+    <!-- Basic Page Needs -->
+    <meta charset="utf-8">
+    <!--[if IE]><meta http-equiv='X-UA-Compatible' content='IE=edge,chrome=1'><![endif]-->
+    <TITLE>
+
+STUDY ABROAD: Masters and Bachelors courses - MBA, MSc, MEng, MA, MPhil, LLM, BA, BEng, BSc 	| ceebd.co.uk
+
+</title>
+<LINK REL="SHORTCUT ICON" HREF="http://www.euroeducation.net/favicon.ico">
+<META  name="description" content="Study Abroad: Masters and Bachelors courses in engineering, technology, science, arts, humanities, business. MBA, MSc, MA, LLM, MPhil, MLitt">
+
+<META  name="keywords" content="educate abroad, educate abroad, study masters abroad, PROGRAMMES / PROGRAMS / COURSES, courses, programs, science, engineering,  economics, MBA, AMBA, EMBA, MSc, MA, LLM, MPhil, MLitt, technology, graduate, postgraduate, arts, humanities, europe, asia, usa, canada, europe
+"> 
+<meta NAME="revisit-after" CONTENT="2 days">
+<meta NAME="ROBOTS" CONTENT="INDEX, FOLLOW">
+<meta NAME="ROBOTS" CONTENT="INDEX, ALL">
+<meta NAME="distribution" CONTENT="global">
+<META NAME="Author" CONTENT="EUROEDUCATION NET">   
+<meta http-equiv="Cache-control" content="public">
+
+    <!-- Mobile Specific Metas -->
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+
+    <!-- Bootstrap  -->
+    <link rel="stylesheet" type="text/css" href="stylesheets/bootstrap.css" >
+
+    <!-- Theme Style -->
+    <link rel="stylesheet" type="text/css" href="stylesheets/style.css">
+	
+	<!-- Animation Style -->
+    <link rel="stylesheet" type="text/css" href="stylesheets/animate.css">
+
+    <!-- Colors -->
+    <link rel="stylesheet" type="text/css" href="stylesheets/colors/color1.css" id="colors">
+
+    <!-- Google Fonts -->
+    <link href='http://fonts.googleapis.com/css?family=Lato:400,300,700,300italic,900' rel='stylesheet' type='text/css'>
+    <link href='http://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
+    <!-- Google Fonts -->
+    <link href='http://fonts.googleapis.com/css?family=Playfair+Display:400,700' rel='stylesheet' type='text/css'>
+
+    <!-- Favicon and touch icons  -->
+<!--     <link href="icon/apple-touch-icon-144-precomposed.png" rel="apple-touch-icon-precomposed" sizes="144x144">
+    <link href="icon/apple-touch-icon-114-precomposed.png" rel="apple-touch-icon-precomposed" sizes="114x114">
+    <link href="icon/apple-touch-icon-72-precomposed.png" rel="apple-touch-icon-precomposed" sizes="72x72">
+    <link href="icon/apple-touch-icon-57-precomposed.png" rel="apple-touch-icon-precomposed">
+    <link href="icon/favicon.png" rel="shortcut icon"> -->
+
+    <!--[if lt IE 9]>
+        <script src="javascript/html5shiv.js"></script>
+        <script src="javascript/respond.min.js"></script>
+    <![endif]-->
+</head>
+
+<body class="header-sticky home">
+    <div class="loader">
+      <span class="loader1 block-loader"></span>
+      <span class="loader2 block-loader"></span>
+      <span class="loader3 block-loader"></span>
+    </div>
+   
+
+        <!-- Header -->
+        <header id="header" class="header">
+            <div class="header-wrap">
+        		<div class="content-header">
+                    <div id="logo" class="logo">
+                        <!-- <a href="index.html" rel="home"> -->
+                           <!--  <img src="images/logo.png" alt="image"> -->
+						   <a href="http://www.ceebd.co.uk/" class="btn-besmart btn-color-#F96868">Study Abroad</i></a>
+                        <!-- </a> -->
+                    </div><!-- /.logo -->
+                    <div class="wrap-nav">
+                        <div class="btn-menu"></div><!-- //mobile menu button -->
+                        <nav id="mainnav" class="mainnav">
+                            <ul class="menu"> 
+                                <li class="active">
+                                    <a href="http://www.ceebd.co.uk/" rel=nofollow> Study Abroad</a> 
+                                    <ul class="submenu">                             
+                                        <li><a href="http://www.ceebd.co.uk/ceeed/edahcoun.htm" rel=nofollow>Arts</a></li>
+										<li><a href="http://www.ceebd.co.uk/ceeed/edahcoun.htm" rel=nofollow>Humanities</a></li>
+		<li><a href="http://www.ceebd.co.uk/ceeed/edbucoun.htm" rel=nofollow>Business</a></li>
+		<li><a href="http://www.ceebd.co.uk/ceeed/edbucoun.htm" rel=nofollow>Economics</a></li>
+		<li><a href="http://www.ceebd.co.uk/ceeed/edencoun.htm" rel=nofollow>Engineering</a></li>
+		<li><a href="http://www.ceebd.co.uk/ceeed/edencoun.htm" rel=nofollow>Technology</a></li>
+		<li><a href="http://www.ceebd.co.uk/ceeed/edmbcoun.htm" rel=nofollow>MBA</a></li>
+		<li><a href="http://www.ceebd.co.uk/ceeed/edsccoun.htm" rel=nofollow>Science</a></li>
+                                    </ul><!-- /.submenu -->
+                                </li>
+                                 <li class="active">
+                                    <a href="http://www.euroeducation.net/">Popular Study Guides</a>
+                                    <ul class="submenu">
+		<li><a href="http://www.euroeducation.net">Study in Europe</a></li>                             
+        <li><a href="http://www.ceebd.co.uk/studyuk/">Study in the UK</a></li>
+		<li><a href="http://www.ceebd.co.uk/studyusa/">Study in the USA</a></li>
+		<li><a href="http://www.euroeducation.net/schools_and_universities_in_europe/study-in-central-and-eastern-europe.htm" rel="nofollow">Study in C & E Europe</a></li>
+		<li><a href="http://www.ceebd.co.uk/study_in_germany/">Study in Germany</a></li>
+		<li><a href="http://www.euroeducation.net/schools_and_universities_in_europe/study-in-russia.htm" rel="nofollow">Study in Russia</a></li>
+		<li><a href="http://www.ceebd.co.uk/study-in-italy/">Study in Italy</a></li>
+		<li><a href="http://www.ceebd.co.uk/studycanada/canada.htm">Study in Canada</a></li>
+		<li><a href="http://www.euroeducation.net/study-in-asia.htm" rel="nofollow">Study in Asia</a></li>
+		<li><a href="http://www.studymastersonline.net/">Study Masters Online</a></li>
+		<li><a href="http://www.ceebd.co.uk/ceeed/lang.htm">English Language</a></li>
+                                    </ul><!-- /.submenu -->
+                                </li>
+								<li class="active">
+                                   <a href="http://www.studentholidays.com/">Student Travel Guides</a>
+                                    <ul class="submenu">                             
+        <li><a href="http://www.european-museums.com/" target="_blank" rel="nofollow">EuropeanMuseums.com</a></li>
+		<li><a href="http://www.studentholidays.com/" target="_blank" rel="nofollow">StudentHolidays.com</a></li>
+		<li><a href="http://www.cheap-hostels.org/" target="_blank" rel="nofollow">Cheap-Hostels.org</a></li>
+		<li><a href="http://www.world-festivals.net/" target="_blank" rel="nofollow">World-Festivals.net</a></li>
+		<li><a href="http://www.cheap-hostels.org/book-a-hostel.html" target="_blank" rel="nofollow">Book a Hostel / Hotel</a></li>
+                                    </ul><!-- /.submenu -->
+                                </li>
+                                <!-- <li class="topmenu"><a href="http://www.euroeducation.net/" title="Home" style="height:32px;line-height:32px;"><img src="http://www.ceebd.co.uk/menu1_files/css3menu1/home.png" alt="Home"/>&nbsp</a></li> -->
+	
+                                 <li class="active">
+                                    <a href="contact.html">Contact</a>
+                                </li>
+                            </ul>
+							<!-- /.menu -->
+                        </nav><!-- /.mainnav -->
+                    </div><!-- /.wrap-nav -->
+                    <div class="wrap-social clearfix">                
+                        <ul class="besmart-socials">
+                            <li class="topmenu"><a href="http://www.euroeducation.net/subscribe.htm" title="Newsletter Sign up" style="height:32px;line-height:32px;" rel="nofollow"> <img src="http://www.ceebd.co.uk/menu1_files/css3menu1/mail_add.png" alt="EuroEducation Newsletter Sign up"/>Sign up</a></LI>
+	<li class="topmenu"><a href="http://www.facebook.com/euroeducation.net" target="_blank"	 style="height:32px;line-height:32px;" rel="nofollow"><img src="http://www.ceebd.co.uk/facebook.png" alt="Follow us on Facebook"/></a></li>
+	<li class="topmenu"><a href="https://twitter.com/Euro_Education" target="_blank"  style="height:32px;line-height:32px;" rel="nofollow"><img src="http://www.ceebd.co.uk/twitter.png"  alt="Follow us on Twitter"/></a></li> 
+                            <!-- <li><a href="#"><span class="icon-social">G</span></a></li>             
+                            <li><a href="#"><span class="icon-social linkedin">I</span></a></li>
+                            <li><a href="#"><span class="icon-social pinterest">:</span></a></li> -->
+                        </ul> 
+                    </div><!-- /.social-wrap -->
+                </div><!-- /.content-header -->
+            </div><!-- /.header-wrap -->
+        </header><!-- /.header -->
+
+       <!-- <div class="top-search">
+            <div class="content-header">
+                <input type="text" class="ts-search" placeholder="Type Keywords Here...">
+                <a href="#"><span class="icon-zoom-outline"></span></a>
+            </div> --><!-- /.content-header -->
+       <!--  </div>  --><!-- /.top-search -->
+        
+        <div class="roll-slider" data-auto="true" data-effect="slide" data-direction="horizotal">
+            <div class="flexslider">
+                <ul class="slides">
+					   <li>
+                        <img src="images/slide/20-4.jpg" alt="image" class="roll-ziBackground">
+                        <div class="content-slider">
+                        	<h4 class="title FromTop"><b><font color="#f96868">EUROEDUCATION: <font color="#5b5b5b">&nbsp;&nbsp;23 years serving students worldwide</font></b></font></h4><P>
+                        	<h1 class="sub-title"><span class="roll-zoomIn"> Bachelors</span> <span class="st-thin roll-bounceInDown">&amp;</span> <span class="st-color roll-zoomOut">Masters</span> <span class="st-thin roll-bounceOutDown"> Degree Courses</span></h1>
+                        	<p class="FromBottom">A Guide to Undergraduate and Postgraduate Degree Courses in Arts, Business, Economics, Engineering, Humanities, Management, MBA, Science, Technology</p>
+                        	<a href="http://www.euroeducation.net/subscribe.htm" class="btn-besmart captionDelay2 FromRight">Join our Newsletter</a>
+                        	<a href="https://www.facebook.com/euroeducation.net" class="btn-besmart captionDelay2 btn-trans FromLeft">Like us on FB</a>
+                        </div><!-- /.content-slider -->
+                    </li>
+					<li>
+                        <img src="images/slide/3.jpg" alt="image" class="roll-ziBackground">
+                        <div class="content-slider">
+                        	<h4 class="title FromTop"><b><font color="#f96868">EUROEDUCATION: <font color="#5b5b5b">&nbsp;&nbsp;23 years serving students worldwide</font></b></font></h4><P>
+                        	<h1 class="sub-title"><span class="roll-zoomIn">Bachelors</span> <span class="st-thin roll-bounceInDown">&amp;</span> <span class="st-color roll-zoomOut">Masters</span> <span class="st-thin roll-bounceOutDown">Courses</span></h1>
+                        	<p class="FromBottom">A guide to university diploma & degree courses in Arts, Business, Economics, Engineering, Humanities, Management, MBA, Science</p>
+                        	<a href="http://www.euroeducation.net/subscribe.htm" class="btn-besmart captionDelay2 FromRight">Join our Newsletter</a>
+                        	<a href="https://www.facebook.com/euroeducation.net" class="btn-besmart captionDelay2 btn-trans FromLeft">Like us on FB</a>
+                        </div><!-- /.content-slider -->
+                    </li>                   
+                </ul> 
+            </div>
+        </div><!-- /.roll-slider -->        
+    </div><!-- /.wrap-slider -->
+	
+ 				
+				  <section class="section padding-section courses" style="padding: 40px 0 40px 0; background: #5b5b5b;">
+           				
+                        <div style="text-align: center"><h3><font color="WHITE">Search 900+ universities for Undergraduate & Postgraduate courses</font></h3><br>                       
+                   			 
+<!-- <TABLE width=100% align=center ><TR><TD width=100%><h3><FONT FACE="Arial Narrow" font color="#FF6600" >Search 900+ universities for Undergraduate & Postgraduate courses</font></h3></TD></TR></TABLE> --> <br> <B><form method="GET" action="http://www.educateabroad.net/cgi-bin/search/search.pl" TARGET="_top"><SELECT NAME="Realm">
+	
+	<OPTION style="background-color=#CACACA" selected="selected" VALUE="Study Europe">Study in Europe
+	<OPTION style="background-color=#CACACA" VALUE="Study Central & Eastern Europe">Study in Central & Eastern Europe
+	<OPTION style="background-color=#CACACA" VALUE="Study UK">Study in the UK
+	<OPTION style="background-color=#CACACA" VALUE="Study Germany">Study in Germany
+	<OPTION style="background-color=#CACACA" VALUE="Study Russia">Study in Russia
+	<OPTION style="background-color=#CACACA" VALUE="Study Italy">Study in Italy
+    <OPTION style="background-color=#CACACA" VALUE="Study USA">Study in the USA
+    <OPTION style="background-color=#CACACA" VALUE="Study Canada">Study in Canada
+	<OPTION style="background-color=#CACACA" VALUE="Study Online">Study DL and Online Masters
+	<OPTION style="background-color=#CACACA" VALUE="Study Asia">Study in Asia
+    <option  style="background-color=#CACACA"  value="All">All</option><!-- </TD><TD> --><!-- &nbsp;&nbsp; -->
+	<!-- </TD><TD width=100% align=left> --> 
+<input type="text"  NAME="Terms" value="" SIZE="27" placeholder="Course Search">&nbsp;
+<input type="submit" value="Submit" button class="btn-besmart"></B>
+<!-- <INPUT NAME="Terms" SIZE=52>&nbsp;&nbsp; 
+<input type="submit" value="Course Search" class="button" />  -->
+<!-- <INPUT TYPE="submit" CLASS="submit" VALUE="Course Search"><br> -->
+</form>
+</div>
+</div><br><br>
+<!--  </div>  --><!-- /.row -->
+        				 
+				<section class="section padding-section courses" style="padding: 108px 0 0px 0; background: white">
+            
+                <div class="row">
+                    <div class="title-box text-center">
+                        <h3><font color="#F96868">Courses by Area & Program of Study</font></h3>
+                        
+                    </div><!-- /.titile-box -->
+                <div class="roll-tabs courses-tabs type-border clearfix">                    
+                    <ul class="menu-tab">
+					    <li class="languages active">
+                        	 <i></i>
+                            <a href="http://www.ceebd.co.uk/ceeed/edahcoun.htm">Humanities <br>& the Arts</a>
+                            <p>Courses</p>
+                        </li>
+						<li class="economics">
+                       		  <i></i>
+                            <a href="http://www.ceebd.co.uk/ceeed/edencoun.htm">Engineering <br>&Technology</a>
+                            <p>Courses</p>
+                        </li>
+                     
+						<li class="training">
+                        	   <i></i>
+                        <a href="http://www.ceebd.co.uk/ceeed/edbucoun.htm">MBA &<br> Business</a>
+                            <p>Courses</p>
+                        </li> 
+                        <li class="other">
+                        	 <i></i>
+                            <a href="http://www.ceebd.co.uk/ceeed/edsccoun.htm">Science &<br> Computing</a>
+                            <p>Courses</p>
+                        </li>                        
+                    </ul><!-- /.menu-tab -->
+                    <div class="content-tab clearfix">
+					<div class="content-inner">
+                            <div class="image-tab">
+                                <div style="text-align: center"><img src="images/courses/5.png" alt="image"></div>
+                            </div><!-- /.image-tab -->
+                            <div class="text-tab">
+                                <h3>Humanities & the Arts</h3>			  
+                                <ul class="course">									   
+                                 <li class="course-level"><b>Study level: </b><span><font color="#F96868">Diploma  / Bacheror's / Master's / Graduate </font></span></li>
+                                    <li class="course-duration"><b>Countries:</b><span>
+<a href="http://www.ceebd.co.uk/ceeed/armenia/edarmahu.htm">Armenia</a>  &nbsp; - &nbsp;
+<a href="http://www.ceebd.co.uk/ceeed/austria/arthum.htm">Austria</a>  &nbsp; - &nbsp;
+<a href="http://www.ceebd.co.uk/ceeed/azerbaij/edazeahu.htm">Azerbaijan</a> &nbsp; - &nbsp;
+<a href="http://www.ceebd.co.uk/ceeed/belarus/edbelahu.htm">Belarus</a> &nbsp; - &nbsp;
+<a href="http://www.ceebd.co.uk/ceeed/belgium/arthum.htm">Belgium</a> &nbsp; - &nbsp;
+<a href="http://www.ceebd.co.uk/ceeed/bulgaria/edbulahu.htm">Bulgaria</a> &nbsp; - &nbsp;
+<a href="http://www.ceebd.co.uk/ceeed/croatia/edcroahu.htm">Croatia</a> &nbsp; - &nbsp;
+<a href="http://www.ceebd.co.uk/ceeed/czech/edczeahu.htm">Czech Republic</a> &nbsp; - &nbsp; 
+<a href="http://www.ceebd.co.uk/ceeed/denmark/arthum.htm">Denmark</a> &nbsp; - &nbsp; 
+<a href="http://www.ceebd.co.uk/ceeed/estonia/edestahu.htm">Estonia</a> &nbsp; - &nbsp;
+<a href="http://www.ceebd.co.uk/ceeed/france/arts-programmes-france.htm">France</a> &nbsp; - &nbsp;
+<a href="http://www.ceebd.co.uk/ceeed/georgia/edgeoahu.htm">Georgia</a> &nbsp; - &nbsp; 
+<a href="http://www.ceebd.co.uk/ceeed/germany/arthum.htm">Germany</a> &nbsp; - &nbsp;
+<a href="http://www.ceebd.co.uk/ceeed/hungary/edhunahu.htm">Hungary</a> &nbsp; - &nbsp;
+<a href="http://www.ceebd.co.uk/ceeed/italy/arthum.htm">Italy</a> &nbsp; - &nbsp;
+<a href="http://www.ceebd.co.uk/ceeed/kazak/edkazahu.htm">Kazakhstan</a> &nbsp; - &nbsp;
+<a href="http://www.ceebd.co.uk/ceeed/latvia/edlatahu.htm">Latvia</a> &nbsp; - &nbsp;
+<a href="http://www.ceebd.co.uk/ceeed/lithuania/edlitahu.htm">Lithuania</a> &nbsp; - &nbsp;
+<a href="http://www.ceebd.co.uk/ceeed/luxembourg/arthum.htm">Luxembourg</a> &nbsp; - &nbsp;
+<a href="http://www.ceebd.co.uk/ceeed/macedonia/edmacahu.htm">Macedonia</a> &nbsp; - &nbsp;
+<a href="http://www.ceebd.co.uk/ceeed/malta/arthum.htm">Malta</a> &nbsp; - &nbsp;
+<a href="http://www.ceebd.co.uk/ceeed/netherla/arthum.htm">Netherlands</a> &nbsp; - &nbsp;
+<a href="http://www.ceebd.co.uk/ceeed/poland/edpolahu.htm">Poland</a> &nbsp; - &nbsp;
+<a href="http://www.ceebd.co.uk/ceeed/romania/edromahu.htm">Romania</a> &nbsp; - &nbsp;
+<a href="http://www.ceebd.co.uk/ceeed/russia/edrusahu.htm">Russia</a> &nbsp; - &nbsp;
+<a href="http://www.ceebd.co.uk/ceeed/slovakia/edslvahu.htm">Slovak Republic</a> &nbsp; - &nbsp;
+<a href="http://www.ceebd.co.uk/ceeed/slovenia/edslnahu.htm">Slovenia</a> &nbsp; - &nbsp;
+<a href="http://www.ceebd.co.uk/ceeed/spain/arthum.htm">Spain</a> &nbsp; - &nbsp; 
+<a href="http://www.ceebd.co.uk/ceeed/swiss/arthum.htm">Switzerland</a> &nbsp; - &nbsp; 
+<a href="http://www.ceebd.co.uk/ceeed/turkey/arts-programmes-turkey.htm">Turkey</a> &nbsp; - &nbsp; 
+<a href="http://www.ceebd.co.uk/ceeed/uk/arthum.htm">UK</a> &nbsp; - &nbsp;
+<a href="http://www.ceebd.co.uk/ceeed/ukraine/edukrahu.htm">Ukraine</a> &nbsp; - &nbsp;
+<a href="http://www.ceebd.co.uk/ceeed/us/arthum.htm">USA</a> &nbsp; - &nbsp;
+<a href="http://www.ceebd.co.uk/ceeed/uzbek/eduzbahu.htm">Uzbekistan</a> </span></li>
+                                </ul>
+                                <a href="http://www.ceebd.co.uk/ceeed/edahcoun.htm" class="btn-besmart">All Countries & Courses</a>
+                            </div><!-- /.text-tab -->                            
+                        </div><!-- /.comments --> 
+                        <div class="content-inner">
+                            <div class="image-tab">
+                                <div style="text-align: center"><img src="images/courses/1.png" alt="image"></div>
+                            </div><!-- /.image-tab -->
+                            <div class="text-tab">
+                                <h3>Engineering & Technology</h3>
+                                <ul class="course">
+								<li class="course-level"><b>Study level: </b><span><font color="#F96868">Diploma  / Bacheror's / Master's / Graduate</font></span></li>
+                                    <li class="course-duration"><b>Countries:</b><span>
+<a href="http://www.ceebd.co.uk/ceeed/armenia/edarmeng.htm">Armenia</a>  &nbsp; - &nbsp;
+<a href="http://www.ceebd.co.uk/ceeed/azerbaij/edazeeng.htm">Azerbaijan</a> &nbsp; - &nbsp;
+<a href="http://www.ceebd.co.uk/ceeed/belarus/edbeleng.htm">Belarus</a> &nbsp; - &nbsp;
+<a href="http://www.ceebd.co.uk/ceeed/bulgaria/edbuleng.htm">Bulgaria</a> &nbsp; - &nbsp;
+<a href="http://www.ceebd.co.uk/ceeed/croatia/edcroeng.htm">Croatia</a> &nbsp; - &nbsp;
+<a href="http://www.ceebd.co.uk/ceeed/czech/edczeeng.htm">Czech Republic</a> &nbsp; - &nbsp; 
+<a href="http://www.ceebd.co.uk/ceeed/denmark/engtech.htm">Denmark</a> &nbsp; - &nbsp; 
+<a href="http://www.ceebd.co.uk/ceeed/estonia/edesteng.htm">Estonia</a> &nbsp; - &nbsp;
+<a href="http://www.ceebd.co.uk/ceeed/georgia/edgeoeng.htm">Georgia</a> &nbsp; - &nbsp; 
+<a href="http://www.ceebd.co.uk/ceeed/germany/engtech.htm">Germany</a> &nbsp; - &nbsp;
+<a href="http://www.ceebd.co.uk/ceeed/finland/engtech.htm">Finland</a> &nbsp; - &nbsp;
+<a href="http://www.ceebd.co.uk/ceeed/hungary/edhuneng.htm">Hungary</a> &nbsp; - &nbsp;
+<a href="http://www.ceebd.co.uk/ceeed/italy/engineering-programmes-in-italy.htm">Italy</a> &nbsp; - &nbsp;
+<a href="http://www.ceebd.co.uk/ceeed/kazak/edkazeng.htm">Kazakhstan</a> &nbsp; - &nbsp;
+<a href="http://www.ceebd.co.uk/ceeed/latvia/edlateng.htm">Latvia</a> &nbsp; - &nbsp;
+<a href="http://www.ceebd.co.uk/ceeed/lithuania/edliteng.htm">Lithuania</a> &nbsp; - &nbsp;
+<a href="http://www.ceebd.co.uk/ceeed/macedonia/edmaceng.htm">Macedonia</a> &nbsp; - &nbsp;
+<a href="http://www.ceebd.co.uk/ceeed/poland/edpoleng.htm">Poland</a> &nbsp; - &nbsp;
+<a href="http://www.ceebd.co.uk/ceeed/romania/edromeng.htm">Romania</a> &nbsp; - &nbsp;
+<a href="http://www.ceebd.co.uk/ceeed/russia/edruseng.htm">Russia</a> &nbsp; - &nbsp;
+<a href="http://www.ceebd.co.uk/ceeed/slovakia/edslveng.htm">Slovak Republic</a> &nbsp; - &nbsp;
+<a href="http://www.ceebd.co.uk/ceeed/slovenia/edslneng.htm">Slovenia</a> &nbsp; - &nbsp;
+<a href="http://www.ceebd.co.uk/ceeed/spain/engtech.htm">Spain</a> &nbsp; - &nbsp; 
+<a href="http://www.ceebd.co.uk/ceeed/uk/engtech.htm">UK</a> &nbsp; - &nbsp;
+<a href="http://www.ceebd.co.uk/ceeed/ukraine/edukreng.htm">Ukraine</a> &nbsp; - &nbsp;
+<a href="http://www.ceebd.co.uk/ceeed/uzbek/eduzbeng.htm">Uzbekistan</a> 
+</span></li> 
+                                </ul>
+                                <a href="http://www.ceebd.co.uk/ceeed/edencoun.htm" class="btn-besmart">All Countries & Courses</a>
+                            </div><!-- /.text-tab -->                            
+                        </div><!-- /.comments -->
+                        
+						                        <div class="content-inner">
+                            <div class="image-tab">
+                                <div style="text-align: center"><img src="images/courses/14.jpg" alt="image"></div>
+                            </div><!-- /.image-tab -->
+                            <div class="text-tab">
+                                <h3>Business & Management Courses</h3>							  
+                                <!-- <p>Consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At veeos accusam et justo duo dolores et ea rebum.</p> -->
+								<ul class="course">
+                                <li class="course-level"><b>Study level: </b><span><font color="#F96868">Diploma  / Bacheror's / Master's / MBA / Graduate</font></span></li>
+                                    <li class="course-duration"><b>Countries:</b><span>
+<a href="http://www.ceebd.co.uk/ceeed/armenia/edarmbus.htm">Armenia</a>  &nbsp; - &nbsp;
+<a href="http://www.ceebd.co.uk/ceeed/azerbaij/edazebus.htm">Azerbaijan</a> &nbsp; - &nbsp;
+<a href="http://www.ceebd.co.uk/ceeed/belarus/edbelbus.htm">Belarus</a> &nbsp; - &nbsp;
+<a href="http://www.ceebd.co.uk/ceeed/belgium/bus.htm">Belgium</a> &nbsp; - &nbsp;
+<a href="http://www.ceebd.co.uk/ceeed/bulgaria/edbulbus.htm">Bulgaria</a> &nbsp; - &nbsp;
+<a href="http://www.ceebd.co.uk/ceeed/croatia/edcrobus.htm">Croatia</a> &nbsp; - &nbsp;
+<a href="http://www.ceebd.co.uk/ceeed/cyprus/business_courses_cyprus.htm">Cyprus</a> &nbsp; - &nbsp;
+<a href="http://www.ceebd.co.uk/ceeed/czech/edczebus.htm">Czech Republic</a> &nbsp; - &nbsp; 
+<a href="http://www.ceebd.co.uk/ceeed/estonia/edestbus.htm">Estonia</a> &nbsp; - &nbsp;
+<a href="http://www.ceebd.co.uk/ceeed/georgia/edgeobus.htm">Georgia</a> &nbsp; - &nbsp; 
+<a href="http://www.ceebd.co.uk/ceeed/germany/business_and_economics_programmes_in_germany.htm">Germany</a> &nbsp; - &nbsp;
+<a href="http://www.ceebd.co.uk/ceeed/greece/business_and_economics_programmes_in_greece.htm">Greece</a> &nbsp; - &nbsp;
+<a href="http://www.ceebd.co.uk/ceeed/hungary/edhunbus.htm">Hungary</a> &nbsp; - &nbsp;
+<a href="http://www.ceebd.co.uk/ceeed/italy/bus.htm">Italy</a> &nbsp; - &nbsp;
+<a href="http://www.ceebd.co.uk/ceeed/kazak/edkazbus.htm">Kazakhstan</a> &nbsp; - &nbsp;
+<a href="http://www.ceebd.co.uk/ceeed/latvia/edlatbus.htm">Latvia</a> &nbsp; - &nbsp;
+<a href="http://www.ceebd.co.uk/ceeed/lithuania/edlitbus.htm">Lithuania</a> &nbsp; - &nbsp;
+<a href="http://www.ceebd.co.uk/ceeed/macedonia/edmacbus.htm">Macedonia</a> &nbsp; - &nbsp;
+<a href="http://www.ceebd.co.uk/ceeed/malta/mba.htm">Malta</a> &nbsp; - &nbsp;
+<a href="http://www.ceebd.co.uk/ceeed/netherla/mba.htm">Netherlands</a> &nbsp; - &nbsp;
+<a href="http://www.ceebd.co.uk/ceeed/poland/edpolbus.htm">Poland</a> &nbsp; - &nbsp;
+<a href="http://www.ceebd.co.uk/ceeed/romania/edrombus.htm">Romania</a> &nbsp; - &nbsp;
+<a href="http://www.ceebd.co.uk/ceeed/russia/edrusbus.htm">Russia</a> &nbsp; - &nbsp;
+<a href="http://www.ceebd.co.uk/ceeed/slovakia/edslvbus.htm">Slovak Republic</a> &nbsp; - &nbsp;
+<a href="http://www.ceebd.co.uk/ceeed/slovenia/edslnbus.htm">Slovenia</a> &nbsp; - &nbsp;
+<a href="http://www.ceebd.co.uk/ceeed/spain/business_and_economics_programmes_in_spain.htm">Spain</a> &nbsp; - &nbsp; 
+<a href="http://www.ceebd.co.uk/ceeed/swiss/busman.htm">Switzerland</a> &nbsp; - &nbsp; 
+<a href="http://www.ceebd.co.uk/ceeed/uk/busecon.htm">UK</a> &nbsp; - &nbsp;
+<a href="http://www.ceebd.co.uk/ceeed/ukraine/edukrbus.htm">Ukraine</a> &nbsp; - &nbsp;
+<a href="http://www.ceebd.co.uk/ceeed/us/mba.htm">USA</a> &nbsp; - &nbsp;
+<a href="http://www.ceebd.co.uk/ceeed/uzbek/eduzbbus.htm">Uzbekistan</a></span></li>
+                                    
+                                </ul>
+                                <a href="http://www.ceebd.co.uk/ceeed/edsccoun.htm" class="btn-besmart">All Countries & Coursese</a>
+                            </div><!-- /.text-tab -->                            
+                        </div><!-- /.comments -->
+                        <div class="content-inner">
+                            <div class="image-tab">
+                                <div style="text-align: center"><img src="images/courses/17.jpg" alt="image"></div>
+                            </div><!-- /.image-tab -->
+                            <div class="text-tab">								  
+                                <h3>Science & Computing</h3>					  					
+                                <ul class="course">
+                                 <li class="course-level"><b>Study level: </b><span><font color="#F96868">Diploma  / Bacheror's / Master's / Graduate</font></span></li>
+                                    <li class="course-duration"><b>Countries:</b><span>
+<a href="http://www.ceebd.co.uk/ceeed/armenia/edarmsci.htm">Armenia</a>  &nbsp; - &nbsp;
+<a href="http://www.ceebd.co.uk/ceeed/azerbaij/edazesci.htm">Azerbaijan</a> &nbsp; - &nbsp;
+<a href="http://www.ceebd.co.uk/ceeed/belarus/edbelsci.htm">Belarus</a> &nbsp; - &nbsp;
+<a href="http://www.ceebd.co.uk/ceeed/belgium/science.htm">Belgium</a> &nbsp; - &nbsp;
+<a href="http://www.ceebd.co.uk/ceeed/bulgaria/edbulsci.htm">Bulgaria</a> &nbsp; - &nbsp;
+<a href="http://www.ceebd.co.uk/ceeed/croatia/edcrosci.htm">Croatia</a> &nbsp; - &nbsp;
+<a href="http://www.ceebd.co.uk/ceeed/czech/edczesci.htm">Czech Republic</a> &nbsp; - &nbsp; 
+<a href="http://www.ceebd.co.uk/ceeed/denmark/science.htm">Denmark</a> &nbsp; - &nbsp; 
+<a href="http://www.ceebd.co.uk/ceeed/estonia/edestsci.htm">Estonia</a> &nbsp; - &nbsp;
+<a href="http://www.ceebd.co.uk/ceeed/france/science-programmes-france.htm">France</a> &nbsp; - &nbsp;
+<a href="http://www.ceebd.co.uk/ceeed/georgia/edgeosci.htm">Georgia</a> &nbsp; - &nbsp; 
+<a href="http://www.ceebd.co.uk/ceeed/germany/science_programs_germany.htm">Germany</a> &nbsp; - &nbsp;
+<a href="http://www.ceebd.co.uk/ceeed/hungary/edhunsci.htm">Hungary</a> &nbsp; - &nbsp;
+<a href="http://www.ceebd.co.uk/ceeed/italy/editasci.htm">Italy</a> &nbsp; - &nbsp;
+<a href="http://www.ceebd.co.uk/ceeed/kazak/edkazsci.htm">Kazakhstan</a> &nbsp; - &nbsp;
+<a href="http://www.ceebd.co.uk/ceeed/latvia/edlatsci.htm">Latvia</a> &nbsp; - &nbsp;
+<a href="http://www.ceebd.co.uk/ceeed/lithuania/edlitsci.htm">Lithuania</a> &nbsp; - &nbsp;
+<a href="http://www.ceebd.co.uk/ceeed/macedonia/edmacsci.htm">Macedonia</a> &nbsp; - &nbsp;
+<a href="http://www.ceebd.co.uk/ceeed/macedonia/edmacsci.htm">Moldova</a> &nbsp; - &nbsp;
+<a href="http://www.ceebd.co.uk/ceeed/netherla/science_programs_netherlands.htm">Netherlands</a> &nbsp; - &nbsp;
+<a href="http://www.ceebd.co.uk/ceeed/poland/edpolsci.htm">Poland</a> &nbsp; - &nbsp;
+<a href="http://www.ceebd.co.uk/ceeed/romania/edromsci.htm">Romania</a> &nbsp; - &nbsp;
+<a href="http://www.ceebd.co.uk/ceeed/russia/edrussci.htm">Russia</a> &nbsp; - &nbsp;
+<a href="http://www.ceebd.co.uk/ceeed/slovakia/edslvsci.htm">Slovak Republic</a> &nbsp; - &nbsp;
+<a href="http://www.ceebd.co.uk/ceeed/slovenia/edslnsci.htm">Slovenia</a> &nbsp; - &nbsp;
+<a href="http://www.ceebd.co.uk/ceeed/uk/science.htm">UK</a> &nbsp; - &nbsp;
+<a href="http://www.ceebd.co.uk/ceeed/ukraine/edukrsci.htm">Ukraine</a> &nbsp; - &nbsp;
+<a href="http://www.ceebd.co.uk/ceeed/uzbek/eduzbsci.htm">Uzbekistan</a></span></li>
+                                </ul>
+                                <a href="http://www.studymastersonline.net/science-computer-it-courses.htm" class="btn-besmart">All Countries & Courses</a> 
+								
+                            </div><!-- /.text-tab -->                            
+                        </div><!-- /.comments -->                        
+                    </div><!-- /.content-tab -->
+                </div><!-- /.tabs -->
+            </div><!-- /.row -->
+       <!--  </div> --><!-- /.container -->   
+    </section>
+			
+			
+			<section id="sec-courses" class="section padding-section courses" style="padding: 70px 0 50px 0; background: #FFFFFF; text-align: left;">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-12">                    
+                    <div class="roll-accordion instructors">
+                          <div class="title-box text-center">
+                        <h3><font color="#FF6633">Study Abroad: <i>Top Courses</i></font></h3>                     
+                    </div> 	  
+						<div class="roll-toggle">
+                            <div class="toggle-title">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="http://www.euroeducation.net/sda-bocconi-banner.jpg" border="0" width="180" height="68"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; SDA Bocconi School of Management - Italy</div>
+                            <div class="toggle-content">
+                                <!-- <img src="images/instructors/1.jpg" alt="images"> -->
+                                <div class="info">
+                                     <font color="#FF6600">Master Course in: </font><br>
+                                    <p class="desc-info"><a href="http://www.euroeducation.net/euro/bocconi_school_of_management_mama.htm" class=paver><font color="#1FBCDE">Arts Management and Administration</a></font><br> <a href="http://www.euroeducation.net/euro/bocconi_school_of_management_mcf.htm" class=paver><font color="#1FBCDE">Corporate Finance</a></font><br> <a href="http://www.euroeducation.net/euro/bocconi_school_of_management_mafed.htm" class=paver><font color="#1FBCDE">Fashion, Experience & Design Management</a></font><br> <a href="http://www.euroeducation.net/euro/bocconi_school_of_management_global_executive_mba.htm" class=paver><font color="#1FBCDE">Global Executive MBA</a></font><br> <a href="http://www.euroeducation.net/euro/mihmep.htm" class=paver><font color="#1FBCDE">International Health Care Management, Economics & Policy</a></font><br>
+<a href="http://www.euroeducation.net/euro/bocconi_school_of_management_emilux.htm" class=paver> <font color="#1FBCDE">Executive Master in Luxury Management</a></font><br><a href="http://www.euroeducation.net/euro/bocconi_school_of_management_mffb.htm" class=paver><font color="#1FBCDE">Management in Food & Beverage</a></font><br> <a href="http://www.euroeducation.net/euro/bocconi_school_of_management_emms.htm" class=paver><font color="#1FBCDE">Marketing & Sales</a></font><br> <a href="http://www.euroeducation.net/euro/bocconi_school_of_management_mba.htm" class=paver><font color="#1FBCDE">MBA</a></font><br> <a href="http://www.euroeducation.net/euro/bocconi_school_of_management_mpa.htm" class=paver><font color="#1FBCDE">Public Administration</a></p></font></a>
+                                    <!-- <p>A</p> -->
+                                </div>
+                            </div>
+                        </div><!-- /.toggle -->		
+												<div class="roll-toggle">
+                            <div class="toggle-title">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="http://www.euroeducation.net/fsfm.jpg" border="0" width="180" height="68"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Frankfurt School of Finance & Management - Germany</div>
+                            <div class="toggle-content">
+                                <!-- <img src="images/instructors/1.jpg" alt="images"> -->
+                                <div class="info">
+                                     <font color="#FF6600">Master Course in: </font><br>
+                                    <p class="desc-info"><a href="http://www.euroeducation.net/euro/leadership-in-development-finance-ma.htm" class=paver><font color="#1FBCDE">Leadership in Development Finance - Online</p></font></a>
+                                    <!-- <p>A</p> -->
+                                </div>
+                            </div>
+                        </div><!-- /.toggle -->
+						 <div class="roll-toggle">
+                            <div class="toggle-title">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="http://www.euroeducation.net/fau.jpg" border="0" width="180" height="68"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Friedensau Adventist University - Germany</div>
+                            <div class="toggle-content">
+                                <!-- <img src="images/instructors/1.jpg" alt="images"> -->
+                                <div class="info">
+                                     <font color="#FF6600">Master Course in: </font><br>
+                                    <p class="desc-info"><a href="http://www.ceebd.co.uk/ceeed/un/ger/international-social-sciences-ma.htm" class=paver><font color="#1FBCDE">International Social Sciences</p></font></a>
+                                    <!-- <p>A</p> -->
+                                </div>
+                            </div>
+                        </div><!-- /.toggle -->            
+                        <div class="roll-toggle">
+                            <!-- <div class="toggle-title active"> --><div class="toggle-title">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="http://www.ceebd.co.uk/htw.jpg" border="0" width="180" height="68"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; HTW Berlin - Germany</div>
+                            <div class="toggle-content">
+                                <!-- <img src="images/instructors/1.jpg" alt="images"> -->
+                                <div class="info">
+                                     <font color="#FF6600">Master Course in: </font><br>
+                                    <p class="desc-info"><a href="http://www.ceebd.co.uk/ceeed/un/ger/htw-berlin-mba&e.htm" class=paver><font color="#1FBCDE">Business Administration and Engineering (MBA&E)</p></font></a>
+                                    <!-- <p>A</p> -->
+                                </div>
+                            </div>
+                        </div><!-- /.toggle -->
+						<div class="roll-toggle">
+                            <div class="toggle-title">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="http://www.euroeducation.net/kaiserslautern-banner.gif" border="0" width="180" height="68"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; University of Kaiserslautern - Germany</div>
+                            <div class="toggle-content">
+                                <!-- <img src="images/instructors/1.jpg" alt="images"> -->
+                                <div class="info">
+                                     <font color="#FF6600">Master Course in: </font><br>
+                                    <p class="desc-info"><a href="http://www.ceebd.co.uk/ceeed/un/ger/university_kaiserslautern_software_engineering.htm" class=paver><font color="#1FBCDE">Software Engineering for Embedded Systems</p></font></a>
+                                    <!-- <p>A</p> -->
+                                </div>
+                            </div>
+                        </div><!-- /.toggle -->
+						<!-- <div class="roll-toggle">
+                            <div class="toggle-title">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="http://www.euroeducation.net/uollogo.png" border="0" width="180" height="68"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; University of Leicester - United Kingdom</div>
+                            <div class="toggle-content">
+                                
+                                <div class="info">
+                                     <font color="#FF6600">Full-time Master Courses in: </font><br>
+                                    <p class="desc-info"><a href="http://www.euroeducation.net/euro/leicest.htm" class=paver><font color="#1FBCDE"> Accounting and Finance<br>Finance<br>Management<br>Management, Finance and Accounting<br>Marketing</p></font></a>
+<font color="#FF6600">Distance Learning Master Courses in: </font><br>
+                                    <p class="desc-info"><a href="http://www.euroeducation.net/euro/leicest.htm" class=paver><font color="#1FBCDE">  MBA<br>Finance<br>Human Resource Management and Training<br>Marketing<br>Risk, Crisis and Disaster Management</p></font></a>
+                                   
+                                </div>
+                            </div>
+                        </div> -->
+						<div class="roll-toggle">
+                            <div class="toggle-title">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="http://www.ceebd.co.uk/ips.png" border="0" width="180" height="68"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; University of Warsaw - Poland</div>
+                            <div class="toggle-content">
+                                <!-- <img src="images/instructors/1.jpg" alt="images"> -->
+                                <div class="info">
+                                     <font color="#FF6600">Full-time Master Courses in: </font><br>
+                                    <p class="desc-info"><a href="http://www.euroeducation.net/euro/institute_of_political_science_warsaw_university.htm" class=paver><font color="#1FBCDE"> Political Science</font></a><br>
+									<a href="http://www.euroeducation.net/euro/graduate-programme-security-studies-warsaw-university.htm" class=paver><font color="#1FBCDE"> Security Studies</p></font></a>
+<font color="#FF6600">Full-time Undergraduate Courses in: </font><br>
+                                    <p class="desc-info"><a href="http://www.euroeducation.net/euro/undergraduate-programme-political-science.htm" class=paver><font color="#1FBCDE">  Political Science</font></a> <br>
+									<a href="http://www.euroeducation.net/euro/undergraduate-programme-internal-security-warsaw-university.htm" class=paver> <font color="#1FBCDE"> Internal Security</p></font></a> <br>
+                                    <!-- <p>A</p> -->
+                                </div>
+                            </div>
+                        </div><!-- /.toggle -->
+    
+                       
+                        </div> <!-- /.toggle -->
+                    </div><!-- /.accordion -->
+                </div><!-- /.col-md-6 -->   
+				   </div> <!-- /.row -->
+        	</div> <!-- /.container -->
+    </section>
+	    <div class="title-box text-center">
+         <h3><font color="white"><br><br><h3><font color="#FF6633">Academic Focus: <i>International Study Centres</i></font></h3></div>
+
+        <div class="container">
+            <div class="row">
+		<div class="col-md-6">
+        <div class="about-us padding-l7">
+																		 
+	
+<div style="text-align: left">
+
+<img border=0 IMG SRC="http://www.euroeducation.net/image/bologna-university.jpg" width="150" height="100"><A HREF="http://www.euroeducation.net/university/bologna-university-masters.htm" TARGET="_blank" class=paver><font color="#FFFFFF">&nbsp;&nbsp;&nbsp;&nbsp; University of Bologna, Italy</font></a></FONT><br><br>
+</div></div>
+						</div> <div class="col-md-6">
+                               <div class="about-us padding-l7">
+<div style="text-align: left">	
+				   
+<img border=0 IMG SRC="http://www.euroeducation.net/image/campus-koblenzl.jpg" width="150" height="100"><A HREF="http://www.euroeducation.net/university/university-koblenz-landau.htm" TARGET="_blank" class=paver><font color="#FFFFFF">&nbsp;&nbsp;&nbsp;&nbsp; University of Koblenz-Landau, Germany</font></a></FONT><br><br>	
+
+<br></div> </div> 
+                   		</div>
+                    </div> <!-- /.about-us --> 
+                </div>
+	<section id="sec-courses" class="section padding-section courses" style="padding: 70px 0 50px 0; background: #FFFFFF;">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-12"> 
+	<div class="title-box text-center">
+	
+                      <h3><font color="#FF6633">Programme Editorials</font></h3><p><font color="black">Expert views and help on choosing Bachelors and Masters courses in:</font></p>                      
+                    </div> 
+					<div class="title-box text-center">
+					<div class="title-box text-left">
+					
+	 <ul>
+                                                       
+                              
+<li><A HREF="http://www.euroeducation.net/editor/master-of-business-administration-and-engineering.htm" TARGET="_blank"><FONT COLOR="black">Master of <B>Business 
+Administration and Engineering</B> <BR> <I> by Antti Kapanen, Research Associate, Master of Business Administration and Engineering (MBA&E), HTW Berlin, Germany</I></A></FONT></li><br>
+
+<li><A HREF="http://www.euroeducation.net/editor/european-and-international-energy-law.htm" TARGET="_blank"><FONT COLOR="black">Master in <B> European and International Energy Law (MBL)</B> <BR> <I>by Dr. Carsten Koenig, Berlin University of Technology, Germany</I></A></FONT></li><br> 
+
+<li><A HREF="http://www.euroeducation.net/editor/molecular-ecosystem-sciences/" TARGET="_blank"><FONT COLOR="black">Bachelors in <B>Molecular Ecosystem Sciences</B> <BR><I>by Dr. Anne Sennhenn, Faculty of Forest Sciences and Forest Ecology at the University of Goettingen, Germany</I></A></FONT></li><br> 
+
+<li><A HREF="http://www.euroeducation.net/editor/masters-degree-studies-in-political-science/" TARGET="_blank"><FONT COLOR="black">Master Studies in <B>Political Science</B> <BR><I>by Dr. Adam Szymanski, Chair of the Master&rsquo;s Degree Studies in Political Science in English, Institute of Political Science, University of Warsaw, Poland</I></A></FONT></li><br> 
+	
+					   </UL> </div></div> </div></div>                 
+                    </div> <!-- /.about-us --> 
+                </div> </div> <!-- /.col-md-12 --> 
+					   
+					   <div style="text-align: center; padding: 40px 0 40px 0; background: #5b5b5b;"> <form method="GET" action="http://www.educateabroad.net/cgi-bin/search/search.pl" TARGET="_top"><SELECT NAME="Realm">
+	
+	<OPTION style="background-color=#CACACA" selected="selected" VALUE="Editorials">Programme Editorials
+	<OPTION style="background-color=#CACACA" VALUE="Study Europe">Study in Europe
+	<OPTION style="background-color=#CACACA" VALUE="Study Central & Eastern Europe">Study in Central & Eastern Europe
+	<OPTION style="background-color=#CACACA" VALUE="Study UK">Study in the UK
+	<OPTION style="background-color=#CACACA" VALUE="Study Germany">Study in Germany
+	<OPTION style="background-color=#CACACA" VALUE="Study Russia">Study in Russia
+	<OPTION style="background-color=#CACACA" VALUE="Study Italy">Study in Italy
+    <OPTION style="background-color=#CACACA" VALUE="Study USA">Study in the USA
+    <OPTION style="background-color=#CACACA" VALUE="Study Canada">Study in Canada
+	<OPTION style="background-color=#CACACA" VALUE="Study Online">Study DL and Online Masters
+	<OPTION style="background-color=#CACACA" VALUE="Study Asia">Study in Asia
+    <option  style="background-color=#CACACA"  value="All">All</option><!-- </TD><TD> --><!-- &nbsp;&nbsp; -->
+	<!-- </TD><TD width=100% align=left> --> &nbsp;&nbsp;&nbsp;
+<input type="text"  NAME="Terms" value="" SIZE="27" placeholder="Search for more information">&nbsp;
+<input type="submit" value="Submit" button class="btn-besmart"></B>
+<!-- <INPUT NAME="Terms" SIZE=52>&nbsp;&nbsp; 
+<input type="submit" value="Course Search" class="button" />  -->
+<!-- <INPUT TYPE="submit" CLASS="submit" VALUE="Course Search"><br> -->
+</form></div><br><br>
+
+					
+	<!-- Recent Courses -->
+    <section class="section padding-section courses" style="padding: 108px 0 120px 0; background: #FFFFFF">
+       <div class="container">
+            <div class="row">
+                <div class="col-md-12">                    
+                    <div class="roll-carousel courses-carousel" data-margin="23" data-item="3">
+                        <div class="title-box text-center">
+                            <h3><font color="#FF6633">Recently Posted Courses</font></h3>				
+                            <!-- <p class="sub-title">View all Courses</p> -->
+                        </div><!-- /.titile-box -->
+                        <div class="owl-carousel">
+								<div class="item">
+                                <img src="http://www.euroeducation.net/images/project/frankfurt-finance2.jpg" alt="image">	<!-- 01.05.2018 -->
+                                <div class="text-courses">
+                                    <h4><a href="http://www.euroeducation.net/euro/leadership-in-development-finance-ma.htm" class='raver'>
+Master of Leadership in Development Finance - Online<br>Frankfurt School of Finance & Management<br>Germany</a><br></h4>
+                                    <div class="detail-courses clearfix">
+                                          <a href="http://www.euroeducation.net/euro/leadership-in-development-finance-ma.htm" span class="btn-besmart btn-small price">Apply now</span></a>
+                                       
+                                    </div>
+                                </div>
+                            </div> 
+						<div class="item">
+                                <img src="http://www.euroeducation.net/images/project/mediaarthistories.jpg" alt="image">	<!-- 24.04.2018 -->
+                                <div class="text-courses">
+                                 <h4><a href="http://www.euroeducation.net/euro/mediaarthistories-danube-universty-krems.htm" class='raver'>
+M.A. & Advanced M. A. MediaArtHistories<br> Danube Universty Krems<br>Austria</a><br><br></h4>
+                                    <div class="detail-courses clearfix">
+                                  <a href="http://www.euroeducation.net/euro/mediaarthistories-danube-universty-krems.htm" span class="btn-besmart btn-small price">Apply now</span></a>
+                                       <!--  <span class="like pull-right">Apply: Now</span> -->
+                                    </div><!-- /.detail-courses -->
+                                </div>
+                            </div> 	 
+												<div class="item">
+                                <img src="http://www.euroeducation.net/images/project/ips6.jpg" alt="image">	<!-- 19.04.2018 -->
+                                <div class="text-courses">
+                                 <h4><a href="http://www.euroeducation.net/euro/undergraduate-programme-political-science.htm" class='raver'>
+Undergraduate Programme in Political Science<br> University of Warsaw <br>Poland</a><br><br></h4>
+                                    <div class="detail-courses clearfix">
+                                  <a href="http://www.euroeducation.net/euro/undergraduate-programme-political-science.htm" span class="btn-besmart btn-small price">Apply now</span></a>
+                                       <!--  <span class="like pull-right">Apply: Now</span> -->
+                                    </div><!-- /.detail-courses -->
+                                </div>
+                            </div> 
+									<div class="item">
+                                <img src="http://www.euroeducation.net/images/project/ips2.jpg" alt="image">	<!-- 19.04.2018 -->
+                                <div class="text-courses">
+                                 <h4><a href="http://www.euroeducation.net/euro/institute_of_political_science_warsaw_university.htm" class='raver'>
+Graduate Programme in Political Science<br> University of Warsaw <br>Poland</a><br><br></h4>
+                                    <div class="detail-courses clearfix">
+                                  <a href="http://www.euroeducation.net/euro/institute_of_political_science_warsaw_university.htm" span class="btn-besmart btn-small price">Apply now</span></a>
+                                       <!--  <span class="like pull-right">Apply: Now</span> -->
+                                    </div><!-- /.detail-courses -->
+                                </div>
+                            </div>  
+								<div class="item">
+                                <img src="http://www.euroeducation.net/images/project/ips3.jpg" alt="image">	<!-- 18.04.2018 -->
+                                <div class="text-courses">
+                                 <h4><a href="http://www.euroeducation.net/euro/graduate-programme-security-studies-warsaw-university.htm" class='raver'>
+Graduate Programme in Security Studies<br> University of Warsaw <br>Poland</a><br><br></h4>
+                                    <div class="detail-courses clearfix">
+                                  <a href="http://www.euroeducation.net/euro/graduate-programme-security-studies-warsaw-university.htm" span class="btn-besmart btn-small price">Apply now</span></a>
+                                       <!--  <span class="like pull-right">Apply: Now</span> -->
+                                    </div><!-- /.detail-courses -->
+                                </div>
+                            </div>  
+						<div class="item">
+                                <img src="http://www.euroeducation.net/images/project/ips5.jpg" alt="image">	<!-- 18.04.2018 -->
+                                <div class="text-courses">
+                                 <h4><a href="http://www.euroeducation.net/euro/undergraduate-programme-internal-security-warsaw-university.htm" class='raver'>
+Undergraduate Programme in Internal Security<br> University of Warsaw <br>Poland</a><br><br></h4>
+                                    <div class="detail-courses clearfix">
+                                  <a href="http://www.euroeducation.net/euro/undergraduate-programme-internal-security-warsaw-university.htm" span class="btn-besmart btn-small price">Apply now</span></a>
+                                       <!--  <span class="like pull-right">Apply: Now</span> -->
+                                    </div><!-- /.detail-courses -->
+                                </div>
+                            </div> 
+						<div class="item">
+                                <img src="http://www.euroeducation.net/images/project/freiburg-ese.jpg" alt="image">	<!-- 16.04.2018 -->
+                                <div class="text-courses">
+                                    <h4><a href="http://www.euroeducation.net/euro/freiburg_university_embedded-systems-engineering.htm" class='raver'>
+MSc. Embedded Systems Engineering <br>University of Freiburg <br>Germany</a><br><br></h4>
+                                    <div class="detail-courses clearfix">
+                                          <a href="http://www.euroeducation.net/euro/freiburg_university_embedded-systems-engineering.htm" span class="btn-besmart btn-small price">Apply now</span></a>
+                                       <!--  <span class="like pull-right">Apply: Now</span> -->
+                                    </div><!-- /.detail-courses -->
+                                </div>
+                            </div> 
+								<div class="item">
+                                <img src="http://www.euroeducation.net/images/project/freiburg-computer-science.jpg" alt="image">	<!-- 16.04.2018 -->
+                                <div class="text-courses">
+                                    <h4><a href="http://www.euroeducation.net/euro/freiburg_university_applied_computer_science.htm" class='raver'>
+M.Sc. Computer Science <br>University of Freiburg <br>Germany</a><br><br><br></h4>
+                                    <div class="detail-courses clearfix">
+                                          <a href="http://www.euroeducation.net/euro/freiburg_university_applied_computer_science.htm" span class="btn-besmart btn-small price">Apply now</span></a>
+                                       <!--  <span class="like pull-right">Apply: Now</span> -->
+                                    </div><!-- /.detail-courses -->
+                                </div>
+                            </div> 
+						<div class="item">
+                                <img src="http://www.euroeducation.net/images/project/freiburg-mse-2.jpg" alt="image">	<!-- 16.04.2018 -->
+                                <div class="text-courses">
+                                    <h4><a href="http://www.euroeducation.net/euro/freiburg_university_microsystems_engineering.htm" class='raver'>
+M.Sc. Microsystems Engineering <br>University of Freiburg <br>Germany</a><br><br><br></h4>
+                                    <div class="detail-courses clearfix">
+                                          <a href="http://www.euroeducation.net/euro/freiburg_university_microsystems_engineering.htm" span class="btn-besmart btn-small price">Apply now</span></a>
+                                       <!--  <span class="like pull-right">Apply: Now</span> -->
+                                    </div><!-- /.detail-courses -->
+                                </div>
+                            </div>
+						<div class="item">
+                                <img src="http://www.euroeducation.net/images/project/emilux.jpg" alt="image">	<!-- 26.03.2018 -->
+                                <div class="text-courses">
+                                    <h4><a href="http://www.euroeducation.net/euro/bocconi_school_of_management_emilux.htm" class='raver'>
+Executive Master in Luxury Management<br>SDA Bocconi School of Management <br>Italy</a></h4>
+                                    <div class="detail-courses clearfix">
+                                          <a href="http://www.euroeducation.net/euro/bocconi_school_of_management_emilux.htm" span class="btn-besmart btn-small price">Apply now</span></a>
+                                       <!--  <span class="like pull-right">Apply: Now</span> -->
+                                    </div><!-- /.detail-courses -->
+                                </div>
+                            </div>
+							<div class="item">
+                                <img src="http://www.euroeducation.net/images/project/mihmep.jpg" alt="image">	<!-- 26.03.2018 -->
+                                <div class="text-courses">
+                                    <h4><a href="http://www.euroeducation.net/euro/mihmep.htm" class='raver'>
+Master of International Health Care Management<br>SDA Bocconi School of Management <br>Italy</a></h4>
+                                    <div class="detail-courses clearfix">
+                                          <a href="http://www.euroeducation.net/euro/mihmep.htm" span class="btn-besmart btn-small price">Apply now</span></a>
+                                       <!--  <span class="like pull-right">Apply: Now</span> -->
+                                    </div><!-- /.detail-courses -->
+                                </div>
+                            </div>
+								<div class="item">
+                                <img src="http://www.euroeducation.net/images/project/tum-life-science-economics.jpg" alt="image">	<!-- 26.03.2018 -->
+                                <div class="text-courses">
+                                    <h4><a href="http://www.euroeducation.net/euro/technical-university-munich-life-sciences-economics-msc.htm" class='raver'>
+M.Sc. Life Science Economics and Policy <br>Technical University of Munich <br>Germany</a><br><br></h4>
+                                    <div class="detail-courses clearfix">
+                                          <a href="http://www.euroeducation.net/euro/technical-university-munich-life-sciences-economics-msc.htm" span class="btn-besmart btn-small price">Apply now</span></a>
+                                       <!--  <span class="like pull-right">Apply: Now</span> -->
+                                    </div><!-- /.detail-courses -->
+                                </div>
+                            </div>	
+							<div class="item">
+                                <img src="http://www.euroeducation.net/images/project/bocconi_mcf.jpg" alt="image">	<!-- 26.03.2018 -->
+                                <div class="text-courses">
+                                    <h4><a href="http://www.euroeducation.net/euro/bocconi_school_of_management_mcf.htm" class='raver'>
+Master in Corporate Finance<br>SDA Bocconi School of Management <br>Italy</a><br><br></h4>
+                                    <div class="detail-courses clearfix">
+                                          <a href="http://www.euroeducation.net/euro/bocconi_school_of_management_mcf.htm" span class="btn-besmart btn-small price">Apply now</span></a>
+                                       <!--  <span class="like pull-right">Apply: Now</span> -->
+                                    </div><!-- /.detail-courses -->
+                                </div>
+                            </div>
+						<div class="item">
+                                <img src="http://www.euroeducation.net/images/project/bocconi_emms.jpg" alt="image">	<!-- 26.03.2018 -->
+                                <div class="text-courses">
+                                    <h4><a href="http://www.euroeducation.net/euro/bocconi_school_of_management_emms.htm" class='raver'>
+Executive Master in Marketing & Sales<br>SDA Bocconi School of Management <br>Italy</a></h4>
+                                    <div class="detail-courses clearfix">
+                                          <a href="http://www.euroeducation.net/euro/bocconi_school_of_management_emms.htm" span class="btn-besmart btn-small price">Apply now</span></a>
+                                       <!--  <span class="like pull-right">Apply: Now</span> -->
+                                    </div><!-- /.detail-courses -->
+                                </div>
+                            </div>
+							<div class="item">
+                                <img src="http://www.euroeducation.net/images/project/bocconi-mba2.jpg" alt="image">	<!-- 26.03.2018 -->
+                                <div class="text-courses">
+                                    <h4><a href="http://www.euroeducation.net/euro/bocconi_school_of_management_mba.htm" class='raver'>
+Full-time MBA <br>SDA Bocconi School of Management <br>Italy</a><br><br></h4>
+                                    <div class="detail-courses clearfix">
+                                          <a href="http://www.euroeducation.net/euro/bocconi_school_of_management_mba.htm" span class="btn-besmart btn-small price">Apply now</span></a>
+                                       <!--  <span class="like pull-right">Apply: Now</span> -->
+                                    </div><!-- /.detail-courses -->
+                                </div>
+                            </div>
+						<div class="item">
+                                <img src="http://www.euroeducation.net/images/project/euref-building-sustainability2.jpg" alt="image">	<!-- 15.03.2018 -->
+                                <div class="text-courses">
+                                    <h4><a href="http://www.euroeducation.net/euro/technical-university-berlin-mba-building-sustainability.htm" class='raver'>
+Building Sustainability - Management Methods for Energy Efficiency (MBA) <br>Berlin University of Technology <br>Germany</a></h4>
+                                    <div class="detail-courses clearfix">
+                                          <a href="http://www.euroeducation.net/euro/technical-university-berlin-mba-building-sustainability.htm" span class="btn-besmart btn-small price">Apply now</span></a>
+                                       <!--  <span class="like pull-right">Apply: Now</span> -->
+                                    </div><!-- /.detail-courses -->
+                                </div>
+                            </div> 	 
+							<div class="item">
+                                <img src="http://www.euroeducation.net/images/project/aristotle-university.jpg" alt="image">	<!-- 15.03.2018 -->
+                                <div class="text-courses">
+                                    <h4><a href="http://www.euroeducation.net/euro/aristotle-university-of-thessaloniki-ma-digital-media.htm" class='raver'>
+MA in Digital Media, Communication and Journalism  <br>Aristotle University of Thessaloniki<br>Greece</a></h4>
+                                    <div class="detail-courses clearfix">
+                                          <a href="http://www.euroeducation.net/euro/aristotle-university-of-thessaloniki-ma-digital-media.htm" span class="btn-besmart btn-small price">Apply now</span></a>
+                                       <!--  <span class="like pull-right">Apply: Now</span> -->
+                                    </div><!-- /.detail-courses -->
+                                </div>
+                            </div> 	 
+						<div class="item">
+                                <img src="http://www.euroeducation.net/images/project/euref-law2.jpg" alt="image">	<!-- 15.03.2018 -->
+                                <div class="text-courses">
+                                    <h4><a href="http://www.euroeducation.net/euro/technical-university-berlin-european-international-energy-law-mbl.htm" class='raver'>
+Master in European and International Energy Law (MBL) <br>Berlin University of Technology <br>Germany</a><br><br></h4>
+                                    <div class="detail-courses clearfix">
+                                          <a href="http://www.euroeducation.net/euro/technical-university-berlin-european-international-energy-law-mbl.htm" span class="btn-besmart btn-small price">Apply now</span></a>
+                                       <!--  <span class="like pull-right">Apply: Now</span> -->
+                                    </div><!-- /.detail-courses -->
+                                </div>
+                            </div> 	 
+						<div class="item">
+                                <img src="http://www.euroeducation.net/images/project/euref-mba3.jpg" alt="image">	<!-- 15.03.2018 -->
+                                <div class="text-courses">
+                                    <h4><a href="http://www.euroeducation.net/euro/technical-university-berlin-energy-management-mba.htm" class='raver'>
+MBA Energy Management <br>Berlin University of Technology <br>Germany</a><br><br><br></h4>
+                                    <div class="detail-courses clearfix">
+                                          <a href="http://www.euroeducation.net/euro/technical-university-berlin-energy-management-mba.htm" span class="btn-besmart btn-small price">Apply now</span></a>
+                                       <!--  <span class="like pull-right">Apply: Now</span> -->
+                                    </div><!-- /.detail-courses -->
+                                </div>
+                            </div> 	
+						<div class="item">
+                                <img src="http://www.euroeducation.net/images/project/koblenz-ecotoxicology.jpg" alt="image">	<!-- 11.03.2018 -->
+                                <div class="text-courses">
+                                    <h4><a href="http://www.euroeducation.net/euro/koblenz-landau-university-web-science-msc.htm" class='raver'>
+M.Sc. Web Science <br>University of Koblenz-Landau<br>Germany</a><br><br><br></h4>
+                                    <div class="detail-courses clearfix">
+                                          <a href="http://www.euroeducation.net/euro/koblenz-landau-university-web-science-msc.htm" span class="btn-besmart btn-small price">Apply now</span></a>
+                                       <!--  <span class="like pull-right">Apply: Now</span> -->
+                                    </div><!-- /.detail-courses -->
+                                </div>
+                            </div> 
+						<div class="item">
+                                <img src="http://www.euroeducation.net/images/project/koblenz-web-science.jpg" alt="image">	<!-- 11.03.2018 -->
+                                <div class="text-courses">
+                                    <h4><a href="http://www.euroeducation.net/euro/koblenz-landau-university-chemistry-physics-of-functional-materials-msc.htm" class='raver'>
+M.Sc. Chemistry and Physics of Functional Materials<br>University of Koblenz-Landau<br>Germany</a><br><br></h4>
+                                    <div class="detail-courses clearfix">
+                                          <a href="http://www.euroeducation.net/euro/koblenz-landau-university-chemistry-physics-of-functional-materials-msc.htm" span class="btn-besmart btn-small price">Apply now</span></a>
+                                       <!--  <span class="like pull-right">Apply: Now</span> -->
+                                    </div><!-- /.detail-courses -->
+                                </div>
+                            </div> 
+									<div class="item">
+                                <img src="http://www.euroeducation.net/images/project/koblenz-environmental-science.jpg" alt="image">	<!-- 11.03.2018 -->
+                                <div class="text-courses">
+                                    <h4><a href="http://www.euroeducation.net/euro/koblenz-landau-university-environmental-sciences-msc.htm" class='raver'>
+M.Sc. Environmental Sciences <br>University of Koblenz-Landau<br>Germany</a><br><br><br></h4>
+                                    <div class="detail-courses clearfix">
+                                          <a href="http://www.euroeducation.net/euro/koblenz-landau-university-environmental-sciences-msc.htm" span class="btn-besmart btn-small price">Apply now</span></a>
+                                       <!--  <span class="like pull-right">Apply: Now</span> -->
+                                    </div><!-- /.detail-courses -->
+                                </div>
+                            </div> 
+							<div class="item">
+                                <img src="http://www.euroeducation.net/images/project/koblenz-ecotoxicology2.jpg" alt="image">	<!-- 11.03.2018 -->
+                                <div class="text-courses">
+                                    <h4><a href="http://www.euroeducation.net/euro/koblenz-landau-university-ecotoxicology-msc.htm" class='raver'>
+M.Sc. Ecotoxicology<br>University of Koblenz-Landau<br>Germany</a><br><br><br></h4>
+                                    <div class="detail-courses clearfix">
+                                          <a href="http://www.euroeducation.net/euro/koblenz-landau-university-ecotoxicology-msc.htm" span class="btn-besmart btn-small price">Apply now</span></a>
+                                       <!--  <span class="like pull-right">Apply: Now</span> -->
+                                    </div><!-- /.detail-courses -->
+                                </div>
+                            </div>  
+						<div class="item">
+                                <img src="http://www.euroeducation.net/images/project/koblenz-maths-modelling.jpg" alt="image">	<!-- 11.03.2018 -->
+                                <div class="text-courses">
+                                    <h4><a href="http://www.euroeducation.net/euro/koblenz-landau-university-mathematical-modeling-msc.htm" class='raver'>
+M.Sc. Mathematical Modelling of Complex Systems<br>University of Koblenz-Landau<br>Germany</a><br><br></h4>
+                                    <div class="detail-courses clearfix">
+                                          <a href="http://www.euroeducation.net/euro/koblenz-landau-university-mathematical-modeling-msc.htm" span class="btn-besmart btn-small price">Apply now</span></a>
+                                       <!--  <span class="like pull-right">Apply: Now</span> -->
+                                    </div><!-- /.detail-courses -->
+                                </div>
+                            </div>    	 
+						<div class="item">
+                                <img src="http://www.euroeducation.net/images/project/milan-llm1.jpg" alt="image">	<!-- 07.03.2018 -->
+                                <div class="text-courses">
+                                    <h4><a href="http://www.euroeducation.net/euro/university-milan-llm-sustainable-development.htm" class='raver'>
+LL.M. in Sustainable Development <br>University of Milan<br>Italy</a><br><br></h4>
+                                    <div class="detail-courses clearfix">
+                                          <a href="http://www.euroeducation.net/euro/university-milan-llm-sustainable-development.htm" span class="btn-besmart btn-small price">Apply now</span></a>
+                                       <!--  <span class="like pull-right">Apply: Now</span> -->
+                                    </div><!-- /.detail-courses -->
+                                </div>
+                            </div>    	
+						<div class="item">
+                                <img src="http://www.euroeducation.net/images/project/st-petersburg-university.jpg" alt="image">	<!-- 29.01.2018 -->
+                                <div class="text-courses">
+                                    <h4><a href="http://www.euroeducation.net/euro/master-program-studies-in-european-societies.htm" class='raver'>
+Master Degree Program Studies in European Societies <br>Saint Petersburg State University  <br>Russia</a></h4>
+                                    <div class="detail-courses clearfix">
+                                          <a href="http://www.euroeducation.net/euro/master-program-studies-in-european-societies.htm" span class="btn-besmart btn-small price">Apply now</span></a>
+                                       <!--  <span class="like pull-right">Apply: Now</span> -->
+                                    </div><!-- /.detail-courses -->
+                                </div>
+                            </div>
+							<div class="item"> 
+							   	<img src="http://www.euroeducation.net/images/project/vsu2.jpg" alt="image">	<!-- 10.04.2018 -->
+                                <div class="text-courses">
+                                    <h4><a href="http://www.euroeducation.net/euro/ru007.htm" class='raver'>
+Undergraduate & Postgraduate Degree Programmes <br>Voronezh State University  <br>Russia</a><br><br></h4>
+                                    <div class="detail-courses clearfix">
+                                          <a href="http://www.euroeducation.net/euro/ru007.htm" span class="btn-besmart btn-small price">Apply now</span></a>
+                                       <!--  <span class="like pull-right">Apply: Now</span> -->
+                                    </div><!-- /.detail-courses -->
+                                </div>
+                            </div>    
+								<div class="item">
+                                <img src="http://www.euroeducation.net/images/project/carol-davila4.jpg" alt="image">	<!-- 12.01.2018 -->
+                                <div class="text-courses">
+                                    <h4><a href="http://www.euroeducation.net/euro/ro003.htm" class='raver'>
+Medicine, Dental Medicine, Pharmacy<br>University of Medicine and Pharmacy "Carol Davila"<br>Romania</a></h4>
+                                    <div class="detail-courses clearfix">
+                                          <a href="http://www.euroeducation.net/euro/ro003.htm" span class="btn-besmart btn-small price">Apply now</span></a>
+                                       <!--  <span class="like pull-right">Apply: Now</span> -->
+                                    </div><!-- /.detail-courses -->
+                                </div>
+                            </div> 
+						<div class="item">
+                                <img src="http://www.euroeducation.net/images/project/online-masters-of-public-administration.jpg" alt="image">	<!-- 23.11.2017 -->
+                                <div class="text-courses">
+                                    <h4><a href="http://www.euroeducation.net/euro/online-masters-of-public-administration.htm" class='raver'>
+Online Masters of Public Administration<br>University of Birmingham<br>United Kingdom</a><br><br></h4>
+                                    <div class="detail-courses clearfix">
+                                          <a href="http://www.euroeducation.net/euro/online-masters-of-public-administration.htm" span class="btn-besmart btn-small price">Apply now</span></a>
+                                       <!--  <span class="like pull-right">Apply: Now</span> -->
+                                    </div><!-- /.detail-courses -->
+                                </div>
+                            </div>
+								<div class="item">
+                                <img src="http://www.euroeducation.net/images/project/htw-mba&e2.jpg" alt="image">	<!-- 15.06.2016 -->
+                                <div class="text-courses">
+                                    <h4><a href="http://www.euroeducation.net/euro/htw-berlin-mba&e.htm" class='raver'>Master of Business Administration and Engineering (MBA&E)  <br>  
+													HTW Berlin<br>Germany</a></h4>
+                                    <div class="detail-courses clearfix">
+                                          <a href="http://www.euroeducation.net/euro/htw-berlin-mba&e.htm" span class="btn-besmart btn-small price">Apply now</span></a>
+                                       <!--  <span class="like pull-right">Apply: Now</span> -->
+                                    </div><!-- /.detail-courses -->
+                                </div>
+                            </div>
+						
+                    </div><!-- /.roll-carousel --> 
+                </div><!-- /.col-md-12 -->
+            </div><!-- /.row -->
+        </div><!-- /.container -->
+  </section>
+							   
+				       
+<section class="section padding-section courses" style="padding: 70px 0 50px 0; background: #FFFFFF; text-align: center"><h3><font color="#F96868">EuroEducation in Numbers</font></h3><br></div>
+     <section id="sec-paracount" class="section parallax2 parallax">
+    	<div class="overlay"></div>
+        <div class="roll-counter clearfix">
+            <div class="one-six">
+                <div class="item-counter">
+                    <span class="icon-tags2"></span>
+                    <div class="wrap-numb">                
+                        <span class="numb-count" data-to="900" data-speed="2000" data-waypoint-active="yes">900</span> 
+                       <span>+</span>                 
+                    </div>
+                    <div class="name-count">Universities
+					<br> Presented</div>
+                </div><!-- /.item-couter -->
+            </div><!-- /.one-six -->
+            <div class="one-six">
+                <div class="item-counter">
+                    <span class="icon-folder2"></span>
+                    <div class="wrap-numb">                
+                        <span class="numb-count" data-to="43" data-speed="2000" data-waypoint-active="yes">43</span>     
+                                       
+                    </div>
+                    <div class="name-count">Countries<br> Represented</div>
+                </div><!-- /.item-couter -->
+            </div><!-- /.one-six -->
+            <div class="one-six">
+                <div class="item-counter">
+                    <span class="icon-contacts"></span>
+                    <div class="wrap-numb">                
+                        <span class="numb-count" data-to="4" data-speed="2000" data-waypoint-active="yes">4</span> <!-- <span>/</span>
+                        <span class="numb-count" data-to="46" data-speed="2000" data-waypoint-active="yes">46</span> -->
+                    </div>
+                    <div class="name-count">Education<br> Portals</div>
+                </div><!-- /.item-couter -->
+            </div><!-- /.one-six -->
+			<div class="one-six">
+                <div class="item-counter">
+                    <span class="icon-group-outline"></span>
+                    <div class="wrap-numb">                
+                        <span class="numb-count" data-to="269000" data-speed="2000" data-waypoint-active="yes">269000</span>       
+                        <span>+</span>               
+                    </div>
+                    <div class="name-count">Newsletter<br> Subscribers</div>
+                </div><!-- /.item-couter -->
+            </div><!-- /.one-six -->
+            <div class="one-six">
+                <div class="item-counter">
+                    <span class="icon-folder2"></span>
+                    <div class="wrap-numb">                
+                        <span class="numb-count" data-to="185000" data-speed="2000" data-waypoint-active="yes">185000</span>
+						<span>+</span>                     
+                    </div>
+                    <div class="name-count">Facebook<br> Followers</div>
+                </div><!-- /.item-couter -->
+            </div><!-- /.one-six -->
+            <div class="one-six">    
+                <div class="item-counter">
+                    <span class="icon-lightbulb"></span>
+                    <div class="wrap-numb">                
+                        <span class="numb-count" data-to="23" data-speed="2000" data-waypoint-active="yes">23</span>
+                        <!-- <span>+</span> -->                    
+                    </div>
+                    <div class="name-count">Years <br>Serving Students</div>
+                </div></div><!-- /.item-couter -->
+            </div><!-- /.one-six -->            
+        </div><!-- /.roll-counter -->
+    </section><br><br>
+
+    
+
+    <!-- Icon Box -->
+    <section id="sec-iconbox" class="section section-iconbox" style="padding: 70px 0 50px 0; background: #FFFFFF">
+        <div class="wrap-icon-box clearfix">
+            <div class="one-three">        
+                <div class="besmart-icon-box margin-b70">
+                    <span class="icon-book2"></span>
+                    <h2>About</h2>
+                    <p>Know more about our Project</p>                
+                    <a href="http://www.ceebd.co.uk/about-study-abroad.htm" class="btn-besmart btn-color-gray">Study Abroad</a>
+                </div>                
+            </div><!-- /.one-three -->             
+            <div class="one-three">  
+                <div class="besmart-icon-box">
+                    <span class="icon-pen"></span>
+                    <h2>Editorials</h2>
+                    <p>Guidance in choosing degree programmes</p>
+                    <div class="btn-iconbox">
+                        <a href="http://www.euroeducation.net/editor/index.htm" class="btn-besmart btn-color-gray">Programme editorials</a>
+                    </div>                        
+                </div>                
+            </div><!-- /.one-three -->
+            <div class="one-three">   
+                <div class="besmart-icon-box margin-b25">
+                    <span class="icon-image-outline"></span>
+                    <h2>Blog</h2>
+                    <p>Check our Blog</p>
+                    <div class="btn-iconbox">
+                        <a href="http://www.ceebd.co.uk/news.htm" class="btn-besmart btn-color-gray">Newsroom</a>
+                    </div>                        
+                </div> 
+				</div>  </div>                  
+            </div><!-- /.one-three -->  															  
+        </div><!-- /.wrap-icon-box --><br><br>
+	    <div class="title-box text-left" style="background: #FFFFFF">
+        <div class="container" style="padding: 70px 0 50px 0; background: #FFFFFF">
+            <div class="row">
+		<div class="col-md-6">
+        <div class="about-us padding-l7" >
+                   
+                       <UL>     <h6><font color="#BCBCBC"><b>POPULAR SEARCHES: FT, PT, DL, ONLINE </b></h6>
+
+  <li><A HREF="http://www.euroeducation.net/schools_and_universities_in_europe/undergraduate_and_postgraduate_courses.htm" class="paver">Masters and bachelors courses in Europe</A><br></li>
+  <li><a href="http://www.ceebd.co.uk/studyuk/" class="paver">Masters and bachelors courses in the UK</A><br></li>
+  <li><a href="http://www.ceebd.co.uk/study_in_germany/" class="paver">Masters and bachelors courses in English in Germany</A><br></li>
+  <li><A HREF="http://www.euroeducation.net/schools_and_universities_in_europe/study-in-russia.htm" class="paver">Masters, bachelors & diploma courses in Russia </A><br></li>
+  <li><A HREF="http://www.ceebd.co.uk/study-in-italy/" class="paver">Masters and bachelors courses in English in Italy </A><br></li>
+  <li><A HREF="http://www.euroeducation.net/schools_and_universities_in_europe/study-in-central-and-eastern-europe.htm" class="paver">Masters & bachelors courses in Central & Eastern Europe </A><br></li>
+  <li><a href="http://www.euroeducation.net/us/usa_colleges_and_universities.htm" class="paver">Undergraduate and graduate courses in the USA</A><br></li>
+  <li><a href="http://www.euroeducation.net/studycanada/canada_colleges_and_universities.htm" TARGET="_top" class="paver">Undergraduate and graduate courses in Canada</A><br></li>
+  <li><a href="http://www.euroeducation.net/study-in-asia.htm" class="paver">Masters and bachelors courses in Asia</A><br></li>
+  <li><A HREF="http://www.euroeducation.net/EQUIS_AMBA_Acc#F96868ited_MBA_Programmes/"TARGET="_blank" class="paver">Top Accredited EQUIS / AMBA  Programs in Europe</A><br></li>
+  <li><A HREF="http://www.euroeducation.net/us/usamba.htm" class="paver">Top MBA & Business Programs in the USA </A><br></li>
+  <li><A HREF="http://www.ceebd.co.uk/" class="paver">Study Abroad courses</A><br></li>
+
+
+ <li><A HREF="http://www.ceebd.co.uk/ceeed/lang.htm" class="paver">English language courses</A><br></li>
+<!--  <li><a href="http://www.ceebd.co.uk/ceeed/edahcoun.htm"> Undergraduate and Postgraduate Studies in Arts</a></li> -->
+										<li><a href="http://www.ceebd.co.uk/ceeed/edahcoun.htm">Undergraduate and Postgraduate Studies in Humanities</a></li>
+		<li><a href="http://www.ceebd.co.uk/ceeed/edbucoun.htm">Undergraduate and Postgraduate Studies in Business</a></li>
+		<!-- <li><a href="http://www.ceebd.co.uk/ceeed/edbucoun.htm">Economics</a></li> -->
+		<li><a href="http://www.ceebd.co.uk/ceeed/edencoun.htm">Undergraduate and Postgraduate Studies in Engineering</a></li>
+		<!-- <li><a href="http://www.ceebd.co.uk/ceeed/edencoun.htm">Undergraduate and Postgraduate Studies in Technology</a></li> -->
+		<li><a href="http://www.ceebd.co.uk/ceeed/edsccoun.htm">Undergraduate and Postgraduate Studies in Science</a></li></UL>
+<!-- <A HREF="http://www.ceebd.co.uk/online-mba-fairs/" >Graduate fairs & exhibitions</A><br> --> 
+</div>
+						 </div><div class="col-md-6">
+						 		<div class="about-us padding-l7">               
+                       
+ <UL><h6><font color="#BCBCBC"><b>MASTERS & BACHELORS COURSE EDITORIALS</b></h6>
+  <li><A HREF="http://www.euroeducation.net/editor/masters-program-in-accounting-and-finance/" class="paver">Accounting and Finance</A><br></li>
+  <li><A HREF="http://www.euroeducation.net/editor/master-of-customs-administration.htm" class="paver">Masters in Customs Administration</A><BR></li>
+  <li><A HREF="http://www.euroeducation.net/editor/east-asian-studies/" class="paver">East Asian Regional Studies</A><BR></li>
+  <li><A HREF="http://www.euroeducation.net/editor/energy-a-sustainable-career-choice/" class="paver">Energy</A><BR></li>
+  <li><a href="http://www.euroeducation.net/editor/international-business-engineering-education-mba&e.htm" class="paver">International Business Engineering Education</a><BR></li>
+  <li><A HREF="http://www.euroeducation.net/editor/international-hospitality-degrees.htm" class="paver">International Hospitality</A><BR></li>
+  <li><A HREF="http://www.euroeducation.net/editor/ma-in-law-and-international-business.htm" class="paver">Law and International Business</A> <BR></li>
+  <li><A HREF="http://www.euroeducation.net/editor/master-of-science-in-life-sciences.htm" class="paver">Life Sciences</A><BR></li>
+  <li><A HREF="http://www.euroeducation.net/editor/master-of-arts-in-management.htm" class="paver">Management</A><BR></li>
+    <li><A HREF="http://www.euroeducation.net/editor/master-of-business-administration.htm" class="paver">MBA</A><BR></li>
+  <li><A HREF="http://www.euroeducation.net/editor/master-of-business-administration-and-engineering.htm" class="paver">MBA & Engineering</A><BR></li>
+  <li><A HREF="http://www.euroeducation.net/editor/mba-in-supply-chain-management.htm" class="paver">MBA in Supply Chain Management </A><BR></li>
+  <li><A HREF="http://www.euroeducation.net/editor/molecular-ecosystem-sciences/" class="paver">Molecular Ecosystem Sciences</A><BR></li>
+  <li><A HREF="http://www.euroeducation.net/editor/masters-degree-studies-in-political-science/" class="paver">Political Science</A><BR></li>
+  <li><A HREF="http://www.euroeducation.net/editor/renewable-energy/" class="paver">Renewable Energy and Energy Efficiency</A><BR></li>
+  <li><A HREF="http://www.euroeducation.net/editor/master-of-arts-in-responsible-management.htm" class="paver">Responsible Management</A><BR></li>
+  <li><A HREF="http://www.euroeducation.net/editor/selecting-a-masters-in-translation-studies.htm" class="paver">Translation Studies</A><BR></li>
+		   </UL>
+</div> 
+ 						  </div>
+                   		</div>
+                    </div> <!-- /.about-us --> 
+                </div> <!-- /.col-md-6 --> 
+				
+
+	 <div class="title-box text-left">
+        <div class="container">
+            <div class="row">
+		<div class="col-md-12">
+        <div class="about-us padding-l7">
+		
+		<div style="text-align: center"><h6><font color="#BCBCBC"><b>Graduate Partner Portals</b></h6></font></div>
+<UL>
+<li><a href="http://www.euroeducation.net/" class="paver" TARGET="_blank" title="EuroEducation - Postgraduate and Undergraduate Courses in Europe">EuroEducation</a> - The European education undergraduate and postgraduate search portal <br></li>
+<li><a href="http://www.studymastersonline.net/" class="paver" TARGET="_blank" title="Online Masters Courses: MBA, MSc, MEng, MA, MPhil, MEd, LLM">Study Masters Online</a> - A Directory to online and disctance learning (DL) Masters courses <br></li>
+<li><a href="http://www.educateabroad.net/" class="paver" TARGET="_blank" title="EducateAbroad - Bachelors & Masters Courses in Europe, USA & Asia">Educate Abroad</a> - Bachelors & Masters Courses in Europe, USA & Asia <br></li></UL> 
+                   
+                           
+
+<!-- <div style="text-align: center"><h6><font color="#BCBCBC"><b>Lifestyle, Health, Leisure</b></h6></font></div> -->
+
+
+</div> 
+                   		</div>
+                    </div> <!-- /.about-us --> 
+                </div> <!-- /.col-md-6 --> <br><br> 			
+
+   <!-- Bottom -->
+    <div class="bottom">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-12">
+                    <div class="copyright text-center">
+					      <div class="wrap-social clearfix">                
+                        <ul class="besmart-socials">
+                            <li><a href="https://www.facebook.com/euroeducation.net"><span class="icon-social facebook"><font color="#FF6633">F</font></span></a></li>
+                            <li><a href="https://twitter.com/Euro_Education"><span class="icon-social twitter"><font color="#FF6633">L</font></span></a></li>
+<!--                             <li><a href="#"><span class="icon-social">G</span></a></li>             
+                            <li><a href="#"><span class="icon-social linkedin">I</span></a></li>
+                            <li><a href="#"><span class="icon-social pinterest">:</span></a></li> -->
+                        </ul> 
+                    </div><br>
+                        <span>
+		 <font color="black"> To add your programme / school / university with detailed information please contact us on: <a href="mailto:add-school@euroeducation.net"><font color="black">add-school@euroeducation.net</font></a></font><br><br>
+<font color="#FF6633">Copyright
+
+<i>&copy;</i> 1995 - 2018
+
+
+
+EuroEducation Net</font><br>
+
+<A HREF="http://www.euroeducation.net/terms.htm" TARGET="_blank"><font color="#CACACA">
+
+Terms of Use</A></font> |  <A HREF="http://www.euroeducation.net/disclaim.htm" TARGET="_blank" ><font color="#CACACA">
+
+Disclaimer</A></font> | </A> <A HREF="http://www.euroeducation.net/cookies.htm" TARGET="_blank"><font color="#CACACA">
+
+Privacy & Cookies</A></font><BR>
+
+
+
+                    </div>                   
+                </div><!-- /.span12 -->
+            </div><!-- /.row -->
+        </div><!-- /.container -->
+    </div>
+	
+	<!-- Go Top -->
+    <a class="go-top">
+        <i class="fa fa-angle-up"></i>
+    </a>
+
+    <!-- Javascript -->
+    <script type="text/javascript" src="javascript/jquery.min.js"></script>
+    <script type="text/javascript" src="javascript/bootstrap.min.js"></script>
+    <script type="text/javascript" src="javascript/jquery.easing.js"></script>
+
+    <script type="text/javascript" src="javascript/jquery.sticky.js"></script>
+
+    <script type="text/javascript" src="javascript/jquery.flexslider-min.js"></script>
+    <script type="text/javascript" src="javascript/owl.carousel.js"></script>
+   <script type="text/javascript" src="javascript/jquery.bxslider.js"></script>
+
+    <script type="text/javascript" src="javascript/imagesloaded.min.js"></script>
+    <script type="text/javascript" src="javascript/jquery.isotope.min.js"></script>
+
+    <script type="text/javascript" src="javascript/jquery-countTo.js"></script>
+
+    <script type="text/javascript" src="javascript/jquery.easypiechart.min.js"></script>
+
+    <script type="text/javascript" src="javascript/jquery-waypoints.js"></script>
+
+    <script type="text/javascript" src="javascript/parallax.js"></script>
+    
+    <script type="text/javascript" src="javascript/jquery.cookie.js"></script>
+   <!--  <script type="text/javascript" src="javascript/switcher.js"></script> -->
+    <script type="text/javascript" src="https://maps.googleapis.com/maps/api/js?sensor=false"></script>
+    <script type="text/javascript" src="javascript/gmap3.min.js"></script>    
+    <script type="text/javascript" src="javascript/jquery.tweet.min.js"></script>
+    <script type="text/javascript" src="javascript/main.js"></script>
+
+</body>
+</html>
+
+
+
+
+
+
+
+

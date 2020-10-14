@@ -1,0 +1,1254 @@
+WARC/1.0
+WARC-Type: warcinfo
+WARC-Date: 2018-05-30T17:52:31Z
+WARC-All-Language: en-US
+WARC-All-Content_type: text/html; charset=UTF-8
+WARC-Record-ID: <urn:uuid:988249d2-bae6-44e3-a6ee-fee3e28a0893>
+Content-Type: application/http;msgtype=response
+Content-Length: 46
+
+WARCProcessor by SING Group www.sing-group.com
+
+WARC/1.0
+WARC-Type: response
+WARC-Target-URI: http://www.epp.eu
+WARC-Date: 20180530175231
+WARC-Language: en-US
+WARC-Record-ID: <http://www.epp.eu>
+Content-Type: application/http;msgtype=response
+Content-Length: 64127
+
+HTTP/1.1 200
+Content-Type:text/html; charset=UTF-8
+
+
+<!DOCTYPE html>
+<!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+<!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8"> <![endif]-->
+<!--[if IE 8]>         <html class="no-js lt-ie9"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="en-US"> <!--<![endif]-->
+<head>
+	<meta name="google-site-verification" content="xprco_--2JtT7JeqcwX2_Kv7WVHRlk1SACfIi0odpOg" />
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+	<!-- Website by blcreative -->
+	<!-- http://www.blcreative.eu -->
+	<title>EPP - European People's Party - Homepage</title>
+	<meta name="author" content="EPP - European People's Party">
+	<meta name="owner" content="EPP - European People's Party">
+	<meta name="language" content="en-US">
+	<meta name="identifier-url" content="http://www.epp.eu">
+	<meta name="category" content="website">
+	<meta name="keywords" content="">
+	<meta name="description" content="The EPP is the centre-right, pro-European political party which gathers over 70 national parties from 40 countries.">
+	<!-- Facebook -->
+	<meta property="og:url" content="http://www.epp.eu/">
+	<meta property="og:site_name" content="EPP - European People&#039;s Party">
+	<meta property="og:title" content="Homepage">
+	<meta property="og:type" content="website">
+	<meta property="og:description" content="The EPP is the centre-right, pro-European political party which gathers over 70 national parties from 40 countries.">
+	<meta property="og:image" content="http://www.epp.eu/files/themes/epp/images/epp-ogimage.png">
+	<meta property="og:latitude" content="50.8398374">
+	<meta property="og:longitude" content="4.3671204">
+	<meta property="og:street-address" content="Rue du Commerce 10">
+	<meta property="og:locality" content="Brussels">
+	<meta property="og:region" content="Brussels capital">
+	<meta property="og:postal-code" content="1000">
+	<meta property="og:country-name" content="BEL">
+	<meta property="og:phone_number" content="+3222854140">
+	<meta property="og:fax_number" content="+3222854141">
+	<!-- GooglePlus -->
+	<meta itemprop="name" content="EPP - European People&#039;s Party">
+	<meta itemprop="description" content="The EPP is the centre-right, pro-European political party which gathers over 70 national parties from 40 countries.">
+	<!-- Twitter -->
+	<meta name="twitter:card" content="summary">
+	<meta name="twitter:title" content="EPP - European People&#039;s Party - Homepage">
+	<meta name="twitter:description" content="The EPP is the centre-right, pro-European political party which gathers over 70 national parties from 40 countries.">
+	<meta name="twitter:image" content="http://www.epp.eu/files/themes/epp/images/epp-twitter-image.png">
+	<meta name="twitter:domain" content="http://www.epp.eu">
+	<!-- GEO -->
+	<meta name="geo.placename" content="EPP, Rue du Commerce 10, Brussels, Belgium">
+	<meta name="geo.region" content="be">
+	<meta name="geo.position" content="50.8398374;4.3671204">
+	<!-- --- -->
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<!-- Adobe TypeKit -->
+	<script src="//use.typekit.net/erv2upn.js"></script>
+	<script>try{Typekit.load({ async: true });}catch(e){}</script>
+	<!-- --- -->
+	<link rel="stylesheet" href="http://www.epp.eu/files/themes/epp/css/vendor/bootstrap.css">
+	<link rel="stylesheet" href="http://www.epp.eu/files/themes/epp/css/vendor/fontawesome.css">
+	<link rel="stylesheet" href="http://www.epp.eu/files/themes/epp/css/vendor/ionicons.css">
+	<link rel="stylesheet" href="http://www.epp.eu/files/themes/epp/assets/lightslider/lightslider.css">
+	<link rel='dns-prefetch' href='//maxcdn.bootstrapcdn.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel='stylesheet' id='cff-css'  href='http://www.epp.eu/files/plugins/custom-facebook-feed-pro/css/cff-style.css?ver=3.2.7' type='text/css' media='all' />
+<link rel='stylesheet' id='sb-font-awesome-css-css'  href='https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css?ver=adb6351ddbca703e6d094c18df5c8b43' type='text/css' media='all' />
+<link rel='https://api.w.org/' href='http://www.epp.eu/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www.epp.eu/xmlrpc.php?rsd" />
+<link rel="canonical" href="http://www.epp.eu/" />
+<link rel='shortlink' href='http://www.epp.eu/' />
+<link rel="alternate" type="application/json+oembed" href="http://www.epp.eu/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fwww.epp.eu%2F" />
+<link rel="alternate" type="text/xml+oembed" href="http://www.epp.eu/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fwww.epp.eu%2F&#038;format=xml" />
+<!-- Custom Facebook Feed JS vars -->
+<script type="text/javascript">
+var cffsiteurl = "http://www.epp.eu/files/plugins";
+var cffajaxurl = "http://www.epp.eu/wp-admin/admin-ajax.php";
+var cffmetatrans = "false";
+
+var cfflinkhashtags = "true";
+</script>
+
+<!-- Google Tag Manager for WordPress by DuracellTomi - http://duracelltomi.com -->
+<script data-cfasync="false" type="text/javascript">
+	var gtm4wp_datalayer_name = "dataLayer";
+	var dataLayer = dataLayer || [];
+	dataLayer.push({"pagePostType":"frontpage","pagePostType2":"single-page","pagePostAuthor":"Manuel"});
+</script>
+<script data-cfasync="false">(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.'+'js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-NQ7LP3J');</script>
+<!-- End Google Tag Manager -->
+<!-- End Google Tag Manager for WordPress by DuracellTomi --><link rel="stylesheet" href="http://www.epp.eu/files/themes/epp/assets/layerslider/css/layerslider.css">
+	<link rel="stylesheet" href="http://www.epp.eu/files/themes/epp/style.css">
+	<script src="http://www.epp.eu/files/themes/epp/js/vendor/modernizr-2.6.2-respond-1.1.0.min.js"></script>
+	<script src="http://www.epp.eu/files/themes/epp/js/website/constants.min.js"></script>
+</head>
+<body>
+<!--[if lt IE 9]>
+<p class="chromeframe">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/" target="_blank">upgrade your browser</a> to improve your experience. <a class="close-alert" href="#">x</a></p>
+<![endif]-->
+<noscript><div class="nojs-alert"><div class="valign-center"><div><p>Please enable javascript to view this site.</p></div></div></div></noscript>
+<header class="page-header  js-header">
+	<div class="main-nav  js-main-nav">
+		<div class="container">
+			<div class="row">
+				<div class="col-sm-12">
+					<h1 class="logo has-bg"><a href="http://www.epp.eu">EPP - European People's Party</a></h1>
+					<nav role="navigation">
+											<ul>
+						<li><a href="http://www.epp.eu/about-us/">About us</a></li>
+						<li><a href="http://www.epp.eu/our-commitments/">Our Commitments</a></li>
+						<li><a href="http://www.epp.eu/parties-and-partners/">Parties &#038; Partners</a></li>
+						<li><a href="http://www.epp.eu/epp-news/">News</a></li>
+						<li><a href="http://www.epp.eu/stay-in-touch/">Stay In Touch</a></li>
+					</ul>
+						<div class="search-nav  js-search-nav">
+							<form id="searchform" action="http://www.epp.eu/" accept-charset="utf-8" autocomplete="off" method="get" role="search">
+								<input id="s" name="s" type="text" placeholder="Type your search here" value="">
+							</form>
+							<div class="search-nav__btns">
+								<button class="search" type="button"><i class="fa fa-search"></i></button>
+								<button class="close" type="button"><i class="fa fa-close"></i></button>
+							</div>
+						</div>
+					</nav>
+				</div>
+			</div>
+		</div>
+		<button class="main-nav__menubtn  js-menubtn">
+			<i class="burger-icon"><span></span></i>
+		</button>
+	</div>
+		<div class="page-header__slider  js-header-slider">
+				<div class="layerslider  js-layerslider" style="width:100%; height:600px;">
+						<div class="ls-slide" data-ls="transition2d:104; slidedelay:5000;">
+				<img class="ls-bg" src="http://www.epp.eu/files/uploads/2018/05/41250253465_5edcecc6aa_k-1650x860.jpg" alt="">
+								<div class="ls-l" data-ls="offsetxin:0; offsetxout:0;" style="left:0; top:0; width:100%; height:100%; background:rgba(0, 50, 104, .75);"></div>
+				<div class="ls-l ls-content" data-ls="offsetxin:0; offsetyin:40; offsetxout:0; offsetyout:-40;" style="top:50%; left:50%; width:75%; text-align:center; color: #fff;">
+					<h2>EPP reiterates its unequivocal support for a credible Western Balkans enlargement</h2>
+										<p class="more"><a class="button button--wired-wh" href="http://www.epp.eu/press-releases/epp-reiterates-its-unequivocal-support-for-a-credible-western-balkans-enlargement/" target="_blank">Read More</a></p>				</div>
+			</div>
+						<div class="ls-slide" data-ls="transition2d:104; slidedelay:5000;">
+				<img class="ls-bg" src="http://www.epp.eu/files/uploads/2018/05/shutterstock-411390229.jpg" alt="">
+								<div class="ls-l" data-ls="offsetxin:0; offsetxout:0;" style="left:0; top:0; width:100%; height:100%; background:rgba(0, 50, 104, .75);"></div>
+				<div class="ls-l ls-content" data-ls="offsetxin:0; offsetyin:40; offsetxout:0; offsetyout:-40;" style="top:50%; left:50%; width:75%; text-align:center; color: #fff;">
+					<h2>Europe Day: To European Challenges, European Answers</h2>
+										<p class="more"><a class="button button--wired-wh" href="http://www.epp.eu/press-releases/europe-day-to-european-challenges-european-answers/" target="_blank">Read More</a></p>				</div>
+			</div>
+						<div class="ls-slide" data-ls="transition2d:104; slidedelay:5000;">
+				<img class="ls-bg" src="http://www.epp.eu/files/uploads/2018/05/BiH-Flag-sky-background.jpg" alt="">
+								<div class="ls-l" data-ls="offsetxin:0; offsetxout:0;" style="left:0; top:0; width:100%; height:100%; background:rgba(0, 50, 104, .75);"></div>
+				<div class="ls-l ls-content" data-ls="offsetxin:0; offsetyin:40; offsetxout:0; offsetyout:-40;" style="top:50%; left:50%; width:75%; text-align:center; color: #fff;">
+					<h2>BiH leaders must follow up on their commitment and reach a compromise on electoral deadlock</h2>
+										<p class="more"><a class="button button--wired-wh" href="http://www.epp.eu/press-releases/bih-leaders-must-follow-up-on-their-commitment-and-reach-a-compromise-on-electoral-deadlock/" target="_blank">Read More</a></p>				</div>
+			</div>
+					</div>
+				<div class="scroll-down">Scroll Down</div>
+	</div>
+		<div class="tools-nav  js-tools-nav">
+		<div class="container">
+			<div class="row">
+				<div class="col-sm-12">
+										<div class="tools-nav__socials">
+						<div class="share-this">
+							<a href="#" data-toggle="modal" data-target="#share-this-page">Share this page</a>
+						</div>
+						<div class="get-social">
+							<span>Get social with us</span>
+							<ul>
+								<li class="twitter"><a href="https://twitter.com/epp" target="_blank"><i class="fa fa-twitter"></i></a></li>
+<li class="facebook"><a href="http://www.facebook.com/epp.eu" target="_blank"><i class="fa fa-facebook-f"></i></a></li>
+<li class="youtube"><a href="http://www.youtube.com/user/epppress" target="_blank"><i class="fa fa-youtube-play"></i></a></li>
+<li class="linkedin"><a href="https://www.linkedin.com/company/304964?trk=tyah&trkInfo=clickedVertical%3Acompany%2CentityType%3AentityHistoryName%2CclickedEntityId%3Acompany_company_304964%2Cidx%3A5" target="_blank"><i class="fa fa-linkedin"></i></a></li>
+<li class="instagram"><a href="https://instagram.com/insta_epp/" target="_blank"><i class="fa fa-instagram"></i></a></li>
+<li class="flickr"><a href="http://www.flickr.com/photos/eppofficial/" target="_blank"><i class="fa fa-flickr"></i></a></li>							</ul>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+	</header>
+<div class="full-nav  js-full-nav">
+	<div class="full-nav__group">
+		<p class="title"><a href="http://www.epp.eu/about-us/">About us</a></p>
+		<ul>
+			<li><a href="http://www.epp.eu/about-us/history/">History</a></li>
+			<li><a href="http://www.epp.eu/about-us/president/">President</a></li>
+			<li><a href="http://www.epp.eu/about-us/secretary-general/">Secretary General</a></li>
+			<li><a href="http://www.epp.eu/about-us/leaders/">Leaders</a></li>
+		</ul>
+	</div>
+	<div class="full-nav__group">
+		<p class="title"><a href="http://www.epp.eu/our-commitments/">Our Commitments</a></p>
+		<ul>
+			<li><a href="http://www.epp.eu/our-commitments/commitments/">Commitments</a></li>
+			<li><a href="http://www.epp.eu/our-commitments/manifesto/">Manifesto</a></li>
+			<li><a href="http://www.epp.eu/our-commitments/platform/">Platform</a></li>
+			<li><a href="http://www.epp.eu/our-commitments/papers/">Papers</a></li>
+		</ul>
+	</div>
+	<div class="full-nav__group">
+		<p class="title"><a href="http://www.epp.eu/parties-and-partners/">Parties &#038; Partners</a></p>
+	</div>
+	<div class="full-nav__group">
+		<p class="title"><a href="http://www.epp.eu/epp-news/">News</a></p>
+		<ul>
+			<li><a href="http://www.epp.eu/epp-news/press-releases/">Press Releases</a></li>
+			<li><a href="http://www.epp.eu/epp-news/press-clippings/">Press Clippings</a></li>
+			<li><a class="js-menu-modal" href="#66">Media Kit</a></li>
+		</ul>
+	</div>
+	<div class="full-nav__group">
+		<p class="title"><a href="http://www.epp.eu/structure/">Structure</a></p>
+		<ul>
+			<li><a href="http://www.epp.eu/structure/presidency/">Presidency</a></li>
+			<li><a href="http://www.epp.eu/structure/summit/">Summit</a></li>
+			<li><a href="http://www.epp.eu/structure/political-assembly/">Political Assembly</a></li>
+			<li><a href="http://www.epp.eu/structure/ministerial-meetings/">Ministerial Meetings</a></li>
+			<li><a href="http://www.epp.eu/structure/working-groups/">Working Groups</a></li>
+			<li><a href="http://www.epp.eu/structure/congress/">Congress</a></li>
+		</ul>
+	</div>
+	<div class="full-nav__group">
+		<p class="title"><a href="http://www.epp.eu/network/">Network</a></p>
+		<ul>
+			<li><a href="http://www.epp.eu/network/in-the-eu/">In the EU</a></li>
+			<li><a href="http://www.epp.eu/network/beyond-the-eu/">Beyond The EU</a></li>
+			<li><a href="http://www.epp.eu/network/associations/">Associations</a></li>
+			<li><a href="http://www.epp.eu/network/foundations/">Foundations</a></li>
+		</ul>
+	</div>
+	<div class="full-nav__group">
+		<p class="title"><a href="http://www.epp.eu/internal-organization/">Internal Organization</a></p>
+		<ul>
+			<li><a class="js-menu-modal" href="#56">Legal & Finances</a></li>
+			<li><a class="js-menu-modal" href="#58">Statutes 2017</a></li>
+			<li><a class="js-menu-modal" href="#1643">Internal Regulations</a></li>
+		</ul>
+	</div>
+	<div class="full-nav__group">
+		<p class="title"><a href="http://www.epp.eu/people/">People</a></p>
+	</div>
+	<div class="full-nav__group">
+		<p class="title"><a href="http://www.epp.eu/events/">Events</a></p>
+	</div>
+	<div class="full-nav__group">
+		<p class="title"><a href="http://www.epp.eu/stay-in-touch/">Stay In Touch</a></p>
+	</div>
+	<div class="full-nav__group">
+		<p class="title"><a href="http://www.epp.eu/job-opportunities-traineeship/">Job Opportunities &#038; Traineeship</a></p>
+	</div>
+</div>
+<section id="home" class="page-wrapper page-wrapper--home">	<section class="intro  content content--lgpaddy">
+		<div class="container">
+			<div class="row">
+				<div class="col-md-7 col-md-offset-1 col-sm-8 col-sm-push-4">
+					<div class="intro__body">
+						<h1 class="shuline shuline--c02"><span class="sans-medium">The European People’s Party.</span><br />
+Our commitment to a strong Europe.</h1>
+<p class="large"><strong>Since its foundation in 1976, the European People’s Party (EPP) has advocated in favour of a strong, transparent and efficient Europe at the service of its citizens.</strong> The 2014 European Elections marked the fourth victory for the EPP and reaffirmed the party as the leading political force in Europe. Every day the renewed trust of the European citizens is the driving inspiration for the EPP’s activities. Being the largest political party entails the great responsibility to deliver on  all those issues which matter the most to our citizens: jobs and economic stability, competitiveness, security, and prosperity.</p>
+<p>We are committed to working with our member parties and associations, our heads of state and government, our ministers in the EPP Ministerial Meetings, President Tusk, President Juncker and the EPP Commissioners, and our Group in the European Parliament to achieve these objectives and to promote our values, which we derive from our Christian Democrat tradition: the dignity of the human being, freedom, responsibility, equality, truth, justice, solidarity and subsidiarity.</p>
+<p>We are aware of the importance of being united as well as the privilege of our differences, and of the importance of reaching our citizens and being more accessible in an increasingly interconnected reality. This platform, the new EPP website, has evolved to be more open to the user and aims to make the “European language” our common language.</p>
+<p>We wish to offer the openness, dialogue and opportunity for debate which has always distinguished our political family.</p>
+<p class="more"><a class="button button--wired" href="http://www.epp.eu/about-us/leaders/">Leaders</a></p>
+					</div>
+				</div>
+				<div class="col-sm-4 col-sm-pull-8">
+					<figure>
+												<img src="http://www.epp.eu/files/uploads/2015/09/daullopez-e1474273586889.jpg" width="1024" height="682" alt="daullopez">
+						<figcaption class="large">
+							<h2>Joseph Daul</h2>
+<p>President</p>
+<h2>Antonio López-Istúriz</h2>
+<p>Secretary General</p>
+						</figcaption>
+					</figure>
+				</div>
+			</div>
+		</div>
+	</section>
+	<section class="our-commitments  content content--lgpady content--bgc09 content--arrd-wh">
+				<header class="section-header">
+			<div class="container">
+				<div class="row">
+					<div class="col-sm-12">
+						<h1>Our commitments</h1>
+						<p>What we believe and what we will do for Europe.</p>
+					</div>
+				</div>
+			</div>
+		</header>
+				<div class="slider  js-slider">
+						<div>
+				<div class="container">
+					<div class="row">
+						<div class="col-sm-12">
+										<article class="block-item  js-block-item">
+								<header style="background-image:url(http://www.epp.eu/files/uploads/2015/09/commitment-europe.jpg);">
+									<div class="title">
+										<div>
+											<h1>Europe</h1>
+										</div>
+									</div>
+								</header>
+								<div class="block-item__body">
+									<p>The promotion of the European model is crucial if we want European values to have an impact in a rapidly changing world.</p>
+								</div>
+								<footer>
+									<a class="button button--narrow" href="http://www.epp.eu/our-commitments/commitments/#213-europe">Learn more</a>
+								</footer>
+							</article>
+										<article class="block-item  js-block-item">
+								<header style="background-image:url(http://www.epp.eu/files/uploads/2015/10/justice-350x250.jpg);">
+									<div class="title">
+										<div>
+											<h1>Justice & Security</h1>
+										</div>
+									</div>
+								</header>
+								<div class="block-item__body">
+									<p>Migration, illicit arms, drug trade and human trafficking, as well as international terrorism are challenges of the globalised world.</p>
+								</div>
+								<footer>
+									<a class="button button--narrow" href="http://www.epp.eu/our-commitments/commitments/#232-justice">Learn more</a>
+								</footer>
+							</article>
+										<article class="block-item  js-block-item">
+								<header style="background-image:url(http://www.epp.eu/files/uploads/2015/10/jobsandgrowth-350x250.jpg);">
+									<div class="title">
+										<div>
+											<h1>Jobs & Growth</h1>
+										</div>
+									</div>
+								</header>
+								<div class="block-item__body">
+									<p>Jobs and economic growth enable our wellbeing. We must invest in competitiveness.</p>
+								</div>
+								<footer>
+									<a class="button button--narrow" href="http://www.epp.eu/our-commitments/commitments/#989-jobs-growth">Learn more</a>
+								</footer>
+							</article>
+										<article class="block-item  js-block-item">
+								<header style="background-image:url(http://www.epp.eu/files/uploads/2015/10/entrepreneurship-350x250.jpg);">
+									<div class="title">
+										<div>
+											<h1>Entrepreneurship & Innovation</h1>
+										</div>
+									</div>
+								</header>
+								<div class="block-item__body">
+									<p>Entrepreneurs create the jobs in Europe. Innovations lead to greater wellbeing and prosperity.</p>
+								</div>
+								<footer>
+									<a class="button button--narrow" href="http://www.epp.eu/our-commitments/commitments/#992-entrepreneurship-innovation">Learn more</a>
+								</footer>
+							</article>
+										<article class="block-item  js-block-item">
+								<header style="background-image:url(http://www.epp.eu/files/uploads/2015/10/External-350x250.jpg);">
+									<div class="title">
+										<div>
+											<h1>External Relations</h1>
+										</div>
+									</div>
+								</header>
+								<div class="block-item__body">
+									<p>European strength-international/global responsibility. Tackling together international challenges with our global partners and friends.</p>
+								</div>
+								<footer>
+									<a class="button button--narrow" href="http://www.epp.eu/our-commitments/commitments/#984-external-relations">Learn more</a>
+								</footer>
+							</article>
+										<article class="block-item  js-block-item">
+								<header style="background-image:url(http://www.epp.eu/files/uploads/2015/10/TTiP-350x250.jpg);">
+									<div class="title">
+										<div>
+											<h1>TTIP</h1>
+										</div>
+									</div>
+								</header>
+								<div class="block-item__body">
+									<p>History proves that Europe and America are better off when we work together.</p>
+								</div>
+								<footer>
+									<a class="button button--narrow" href="http://www.epp.eu/our-commitments/commitments/#988-ttip">Learn more</a>
+								</footer>
+							</article>
+									</div>
+					</div>
+				</div>
+			</div>
+						<div>
+				<div class="container">
+					<div class="row">
+						<div class="col-sm-12">
+										<article class="block-item  js-block-item">
+								<header style="background-image:url(http://www.epp.eu/files/uploads/2015/10/digital-350x250.jpg);">
+									<div class="title">
+										<div>
+											<h1>Digital Society</h1>
+										</div>
+									</div>
+								</header>
+								<div class="block-item__body">
+									<p>Driving the digital transformation of Europe to leveraging the benefits and tackling the challenges for an inclusive, secure and sustainable digital society.</p>
+								</div>
+								<footer>
+									<a class="button button--narrow" href="http://www.epp.eu/our-commitments/commitments/#983-digital-society">Learn more</a>
+								</footer>
+							</article>
+										<article class="block-item  js-block-item">
+								<header style="background-image:url(http://www.epp.eu/files/uploads/2015/09/commitment-environment.jpg);">
+									<div class="title">
+										<div>
+											<h1>Environment</h1>
+										</div>
+									</div>
+								</header>
+								<div class="block-item__body">
+									<p>We believe in green and sustainable growth uncompromising on EU environment and safety standards.</p>
+								</div>
+								<footer>
+									<a class="button button--narrow" href="http://www.epp.eu/our-commitments/commitments/#227-environment">Learn more</a>
+								</footer>
+							</article>
+										<article class="block-item  js-block-item">
+								<header style="background-image:url(http://www.epp.eu/files/uploads/2015/10/energy-350x250.jpg);">
+									<div class="title">
+										<div>
+											<h1>Energy</h1>
+										</div>
+									</div>
+								</header>
+								<div class="block-item__body">
+									<p>Putting the EU economy back on the growth track can only be achieved with competitive energy prices and sustainable and secure supplies.</p>
+								</div>
+								<footer>
+									<a class="button button--narrow" href="http://www.epp.eu/our-commitments/commitments/#236-energy">Learn more</a>
+								</footer>
+							</article>
+										<article class="block-item  js-block-item">
+								<header style="background-image:url(http://www.epp.eu/files/uploads/2015/10/climate-350x250.jpg);">
+									<div class="title">
+										<div>
+											<h1>Climate Change</h1>
+										</div>
+									</div>
+								</header>
+								<div class="block-item__body">
+									<p>As a global leader, efficiently preserving our planet for future generations.</p>
+								</div>
+								<footer>
+									<a class="button button--narrow" href="http://www.epp.eu/our-commitments/commitments/#981-climate-change">Learn more</a>
+								</footer>
+							</article>
+										<article class="block-item  js-block-item">
+								<header style="background-image:url(http://www.epp.eu/files/uploads/2015/10/agriculture-350x250.jpg);">
+									<div class="title">
+										<div>
+											<h1>Agriculture</h1>
+										</div>
+									</div>
+								</header>
+								<div class="block-item__body">
+									<p>Supporting our farmers while providing the people with quality food at reasonable prices.</p>
+								</div>
+								<footer>
+									<a class="button button--narrow" href="http://www.epp.eu/our-commitments/commitments/#982-agriculture">Learn more</a>
+								</footer>
+							</article>
+										<article class="block-item  js-block-item">
+								<header style="background-image:url(http://www.epp.eu/files/uploads/2015/10/Western-350x250.jpg);">
+									<div class="title">
+										<div>
+											<h1>Western Balkans</h1>
+										</div>
+									</div>
+								</header>
+								<div class="block-item__body">
+									<p>Enhancing stability, preparing for enlargement by improving rule of law, justice systems, fight against corruption and good neighbourly relations.</p>
+								</div>
+								<footer>
+									<a class="button button--narrow" href="http://www.epp.eu/our-commitments/commitments/#985-western-balkans">Learn more</a>
+								</footer>
+							</article>
+									</div>
+					</div>
+				</div>
+			</div>
+						<div>
+				<div class="container">
+					<div class="row">
+						<div class="col-sm-12">
+										<article class="block-item  js-block-item">
+								<header style="background-image:url(http://www.epp.eu/files/uploads/2015/10/Mena-350x250.png);">
+									<div class="title">
+										<div>
+											<h1>Southern Neighborhood</h1>
+										</div>
+									</div>
+								</header>
+								<div class="block-item__body">
+									<p>Working for a more prosperous, stable and democratic Southern neighborhood.</p>
+								</div>
+								<footer>
+									<a class="button button--narrow" href="http://www.epp.eu/our-commitments/commitments/#986-mena-region">Learn more</a>
+								</footer>
+							</article>
+										<article class="block-item  js-block-item">
+								<header style="background-image:url(http://www.epp.eu/files/uploads/2015/10/EP-350x250.jpg);">
+									<div class="title">
+										<div>
+											<h1>Eastern Partnership</h1>
+										</div>
+									</div>
+								</header>
+								<div class="block-item__body">
+									<p>Reviewing the ENP, Re-launching the Eastern Partnership, achieving stability, democracy and prosperity in its Eastern neighbourhood.</p>
+								</div>
+								<footer>
+									<a class="button button--narrow" href="http://www.epp.eu/our-commitments/commitments/#987-eastern-partnership">Learn more</a>
+								</footer>
+							</article>
+										<article class="block-item  js-block-item">
+								<header style="background-image:url(http://www.epp.eu/files/uploads/2015/10/SkillsMobility-350x250.jpg);">
+									<div class="title">
+										<div>
+											<h1>Skills & Mobility</h1>
+										</div>
+									</div>
+								</header>
+								<div class="block-item__body">
+									<p>We must make sure that Europe has the highest skill level in the world.</p>
+								</div>
+								<footer>
+									<a class="button button--narrow" href="http://www.epp.eu/our-commitments/commitments/#990-skills-mobility">Learn more</a>
+								</footer>
+							</article>
+										<article class="block-item  js-block-item">
+								<header style="background-image:url(http://www.epp.eu/files/uploads/2015/09/commitment-economy.jpg);">
+									<div class="title">
+										<div>
+											<h1>Euro & Investments</h1>
+										</div>
+									</div>
+								</header>
+								<div class="block-item__body">
+									<p>We are fully committed to the euro.</p>
+								</div>
+								<footer>
+									<a class="button button--narrow" href="http://www.epp.eu/our-commitments/commitments/#991-euro-investments">Learn more</a>
+								</footer>
+							</article>
+										<article class="block-item  js-block-item">
+								<header style="background-image:url(http://www.epp.eu/files/uploads/2015/10/Inclusive-350x250.jpg);">
+									<div class="title">
+										<div>
+											<h1>Inclusive Society</h1>
+										</div>
+									</div>
+								</header>
+								<div class="block-item__body">
+									<p>We will take care of and help those in need. We must not leave anyone behind.</p>
+								</div>
+								<footer>
+									<a class="button button--narrow" href="http://www.epp.eu/our-commitments/commitments/#994-inclusive-society">Learn more</a>
+								</footer>
+							</article>
+									</div>
+					</div>
+				</div>
+			</div>
+					</div>
+				<footer class="section-footer">
+			<div class="container">
+				<div class="row">
+					<div class="col-sm-12">
+						<p><a class="button button--wired-c03" href="http://www.epp.eu/our-commitments/commitments/">See all commitments</a></p>
+					</div>
+				</div>
+			</div>
+		</footer>
+	</section>
+	<section class="content content--lgpady content--arrd-c09">
+				<header class="section-header">
+			<div class="container">
+				<div class="row">
+					<div class="col-sm-12">
+						<h1>EPP News</h1>
+											</div>
+				</div>
+			</div>
+		</header>
+				<div class="container">
+			<div class="row">
+				<div class="col-sm-12">
+										<div class="news-item">
+						<a href="http://www.epp.eu/press-releases/epp-reiterates-its-unequivocal-support-for-a-credible-western-balkans-enlargement/">
+							<time datetime="2018-05-16">16.05.2018</time>
+							EPP reiterates its unequivocal support for a credible Western Balkans ... - <span class="subtitle">Sofia</span>						</a>
+					</div>
+										<div class="news-item">
+						<a href="http://www.epp.eu/press-releases/europe-day-to-european-challenges-european-answers/">
+							<time datetime="2018-05-09">09.05.2018</time>
+							Europe Day: To European Challenges, European Answers - <span class="subtitle">Brussels</span>						</a>
+					</div>
+										<div class="news-item">
+						<a href="http://www.epp.eu/press-releases/bih-leaders-must-follow-up-on-their-commitment-and-reach-a-compromise-on-electoral-deadlock/">
+							<time datetime="2018-05-02">02.05.2018</time>
+							BiH leaders must follow up on their commitment and reach a compromise ... - <span class="subtitle">Brussels</span>						</a>
+					</div>
+									</div>
+			</div>
+		</div>
+				<footer class="section-footer">
+			<div class="container">
+				<div class="row">
+					<div class="col-sm-12">
+												<p><a class="button button--wired" href="http://www.epp.eu/epp-news/press-releases/#join-us">Join our press list</a></p>
+					</div>
+				</div>
+			</div>
+		</footer>
+	</section>
+	<section class="content content--lgpady content--bgc02 content--arrd-wh">
+				<header class="section-header">
+			<div class="container">
+				<div class="row">
+					<div class="col-sm-12">
+						<h1>Events</h1>
+											</div>
+				</div>
+			</div>
+		</header>
+				<div class="slider  js-slider" data-modifier="lSSlideOuter--white">
+						<div>
+				<div class="container">
+					<div class="row">
+						<div class="col-sm-12">
+										<article class="block-item block-item--labeled  js-block-item">
+								<header style="background-image:url(http://www.epp.eu/files/uploads/2018/04/41359945941_581e549fd2_k-350x250.jpg);">
+									<div class="title">
+										<div>
+											<h1>EPP Political Assembly April 2018</h1>
+											<h2>Brussels - Belgium</h2>
+										</div>
+									</div>
+									<p class="label"><time datetime="2018-04-09">09-10/04/2018</time></p>
+								</header>
+								<div class="block-item__body">
+									<p>A EPP Political Assembly was held in Brussels 9-10 April 2018. </p>
+								</div>
+								<footer>
+									<a class="button button--bgc02 button--narrow" href="http://www.epp.eu/events/#3729-epp-political-assembly-april-2018">More info</a>
+								</footer>
+							</article>
+										<article class="block-item block-item--labeled  js-block-item">
+								<header style="background-image:url(http://www.epp.eu/files/uploads/2017/10/37759549392_cc5e5725d4_k.jpg);">
+									<div class="title">
+										<div>
+											<h1>EPP Summit March 2018</h1>
+											<h2>Brussels - Belgium</h2>
+										</div>
+									</div>
+									<p class="label"><time datetime="2018-03-22">22 March 2018</time></p>
+								</header>
+								<div class="block-item__body">
+									<p>An EPP Summit was be held on 22 March 2018. </p>
+								</div>
+								<footer>
+									<a class="button button--bgc02 button--narrow" href="http://www.epp.eu/events/#3553-epp-summit-in-march-2018">More info</a>
+								</footer>
+							</article>
+										<article class="block-item block-item--labeled  js-block-item">
+								<header style="background-image:url(http://www.epp.eu/files/uploads/2017/12/PA-December-2017-e1512493118678.jpg);">
+									<div class="title">
+										<div>
+											<h1>Political Assembly January 2018</h1>
+											<h2>Brussels - Belgium</h2>
+										</div>
+									</div>
+									<p class="label"><time datetime="2018-01-30">29-30/01/2018</time></p>
+								</header>
+								<div class="block-item__body">
+									<p>EPP Political Assembly was held on 29 and 30 January 2018 in Brussels. </p>
+								</div>
+								<footer>
+									<a class="button button--bgc02 button--narrow" href="http://www.epp.eu/events/#3554-political-assembly-january-2018">More info</a>
+								</footer>
+							</article>
+									</div>
+					</div>
+				</div>
+			</div>
+					</div>
+				<footer class="section-footer">
+			<div class="container">
+				<div class="row">
+					<div class="col-sm-12">
+						<p><a class="button button--wired-wh" href="http://www.epp.eu/events/">See all events</a></p>
+					</div>
+				</div>
+			</div>
+		</footer>
+	</section>
+		<section class="latest-tweets  content content--lgpady content--bgc03 content--arrd-c02 content--barrd-c09">
+				<span class="pics-overlay" style="background-image:url(http://www.epp.eu/files/uploads/2015/09/latest-tweets.jpg);"></span>
+		<div class="latest-tweets__slider  js-latest-tweets-slider" data-modifier="lSSlideOuter--white">
+						<div class="tweet">
+				<div class="container">
+					<div class="row">
+						<div class="col-sm-12">
+							<blockquote cite="https://twitter.com/Interior/status/1001815254559535106">
+								<p>RT @<a target="_blank" href="http://twitter.com/kmitsotakis">kmitsotakis</a>: Nea Demokratia and the @<a target="_blank" href="http://twitter.com/EPP">EPP</a> working together on upcoming 2019 European elections. Great meeting today with EPP VP and head…</p>
+							</blockquote>
+							<p class="author"><a href="https://www.twitter.com/EPP" target="_blank"><i class="fa fa-twitter"></i></a></p>
+							<ul class="buttons">
+								<li><a class="button button--small button--wired-wh" href="https://twitter.com/intent/retweet?tweet_id=1001815254559535106">Retweet</a></li>
+								<li><a class="button button--small button--wired-wh" href="https://twitter.com/intent/tweet?in_reply_to=1001815254559535106">Reply</a></li>
+								<li><a class="button button--small button--wired-wh" href="https://twitter.com/intent/favorite?tweet_id=1001815254559535106">Favorite</a></li>
+								<li><a class="button button--small button--wired-wh" href="https://twitter.com/intent/follow?screen_name=EPP">Follow</a></li>
+							</ul>
+						</div>
+					</div>
+				</div>
+			</div>
+						<div class="tweet">
+				<div class="container">
+					<div class="row">
+						<div class="col-sm-12">
+							<blockquote cite="https://twitter.com/Interior/status/1001811281559597057">
+								<p>RT @<a target="_blank" href="http://twitter.com/DaraMurphyEPP">DaraMurphyEPP</a>: Proud to support the outstanding work @<a target="_blank" href="http://twitter.com/neademokratia">neademokratia</a> President @<a target="_blank" href="http://twitter.com/kmitsotakis">kmitsotakis</a> is doing in showing a clear, competent, hope…</p>
+							</blockquote>
+							<p class="author"><a href="https://www.twitter.com/EPP" target="_blank"><i class="fa fa-twitter"></i></a></p>
+							<ul class="buttons">
+								<li><a class="button button--small button--wired-wh" href="https://twitter.com/intent/retweet?tweet_id=1001811281559597057">Retweet</a></li>
+								<li><a class="button button--small button--wired-wh" href="https://twitter.com/intent/tweet?in_reply_to=1001811281559597057">Reply</a></li>
+								<li><a class="button button--small button--wired-wh" href="https://twitter.com/intent/favorite?tweet_id=1001811281559597057">Favorite</a></li>
+								<li><a class="button button--small button--wired-wh" href="https://twitter.com/intent/follow?screen_name=EPP">Follow</a></li>
+							</ul>
+						</div>
+					</div>
+				</div>
+			</div>
+						<div class="tweet">
+				<div class="container">
+					<div class="row">
+						<div class="col-sm-12">
+							<blockquote cite="https://twitter.com/Interior/status/1001811097173798912">
+								<p>RT @<a target="_blank" href="http://twitter.com/mariannethyssen">mariannethyssen</a>: I am very happy that #<a target="_blank" href="http://twitter.com/search?q=EUbudget">EUbudget</a>  will make a very visible contribution to invest in people. Our social funds will be mo…</p>
+							</blockquote>
+							<p class="author"><a href="https://www.twitter.com/EPP" target="_blank"><i class="fa fa-twitter"></i></a></p>
+							<ul class="buttons">
+								<li><a class="button button--small button--wired-wh" href="https://twitter.com/intent/retweet?tweet_id=1001811097173798912">Retweet</a></li>
+								<li><a class="button button--small button--wired-wh" href="https://twitter.com/intent/tweet?in_reply_to=1001811097173798912">Reply</a></li>
+								<li><a class="button button--small button--wired-wh" href="https://twitter.com/intent/favorite?tweet_id=1001811097173798912">Favorite</a></li>
+								<li><a class="button button--small button--wired-wh" href="https://twitter.com/intent/follow?screen_name=EPP">Follow</a></li>
+							</ul>
+						</div>
+					</div>
+				</div>
+			</div>
+						<div class="tweet">
+				<div class="container">
+					<div class="row">
+						<div class="col-sm-12">
+							<blockquote cite="https://twitter.com/Interior/status/1001811049950085121">
+								<p>RT @<a target="_blank" href="http://twitter.com/TNavracsicsEU">TNavracsicsEU</a>: Future #<a target="_blank" href="http://twitter.com/search?q=CreativeEurope">CreativeEurope</a> will include new initiative that will connect artists and #<a target="_blank" href="http://twitter.com/search?q=creative">creative</a> professionals from different…</p>
+							</blockquote>
+							<p class="author"><a href="https://www.twitter.com/EPP" target="_blank"><i class="fa fa-twitter"></i></a></p>
+							<ul class="buttons">
+								<li><a class="button button--small button--wired-wh" href="https://twitter.com/intent/retweet?tweet_id=1001811049950085121">Retweet</a></li>
+								<li><a class="button button--small button--wired-wh" href="https://twitter.com/intent/tweet?in_reply_to=1001811049950085121">Reply</a></li>
+								<li><a class="button button--small button--wired-wh" href="https://twitter.com/intent/favorite?tweet_id=1001811049950085121">Favorite</a></li>
+								<li><a class="button button--small button--wired-wh" href="https://twitter.com/intent/follow?screen_name=EPP">Follow</a></li>
+							</ul>
+						</div>
+					</div>
+				</div>
+			</div>
+						<div class="tweet">
+				<div class="container">
+					<div class="row">
+						<div class="col-sm-12">
+							<blockquote cite="https://twitter.com/Interior/status/1001810471488577536">
+								<p>RT @<a target="_blank" href="http://twitter.com/TNavracsicsEU">TNavracsicsEU</a>: Investing in people &amp; in the future! Very proud that #<a target="_blank" href="http://twitter.com/search?q=Erasmus">Erasmus</a> is the big winner of our proposal for next #<a target="_blank" href="http://twitter.com/search?q=EUbudget">EUbudget</a> - I w…</p>
+							</blockquote>
+							<p class="author"><a href="https://www.twitter.com/EPP" target="_blank"><i class="fa fa-twitter"></i></a></p>
+							<ul class="buttons">
+								<li><a class="button button--small button--wired-wh" href="https://twitter.com/intent/retweet?tweet_id=1001810471488577536">Retweet</a></li>
+								<li><a class="button button--small button--wired-wh" href="https://twitter.com/intent/tweet?in_reply_to=1001810471488577536">Reply</a></li>
+								<li><a class="button button--small button--wired-wh" href="https://twitter.com/intent/favorite?tweet_id=1001810471488577536">Favorite</a></li>
+								<li><a class="button button--small button--wired-wh" href="https://twitter.com/intent/follow?screen_name=EPP">Follow</a></li>
+							</ul>
+						</div>
+					</div>
+				</div>
+			</div>
+					</div>
+	</section>
+	<section class="social-feeds  content content--lgpadyb content--bgc09">
+		<header class="section-header">
+			<div class="container">
+				<div class="row">
+					<div class="col-sm-12">
+						<h1>Get social with us</h1>
+											</div>
+				</div>
+			</div>
+		</header>
+		<div class="container">
+			<div class="row">
+				<div class="col-md-3 col-sm-3">
+					<div class="flickr-feed  js-flickr-feed">
+						<div class="feed-container  js-feed-container"></div>
+						<a class="feed-icon" href="http://www.flickr.com/photos/eppofficial/" target="_blank"><i class="fa fa-flickr"></i></a>
+					</div>
+				</div>
+				<div class="col-md-3 col-sm-3">
+					<div class="youtube-feed  js-youtube-feed">
+						<div class="feed-container">
+														<div class="youtube-item">
+								<a href="http://www.youtube.com/watch?v=xPt6p4HcpzQ" title="EPP Political Assembly, 9-10 April 2018">
+									<img src="https://i.ytimg.com/vi/xPt6p4HcpzQ/mqdefault.jpg" alt="EPP Political Assembly, 9-10 April 2018">
+									<p class="title">EPP Political Assembly, 9-10 April 2018</p>
+								</a>
+							</div>
+														<div class="youtube-item">
+								<a href="http://www.youtube.com/watch?v=uS0QXCwv2y4" title="EPP Summit, 22 March 2018">
+									<img src="https://i.ytimg.com/vi/uS0QXCwv2y4/mqdefault.jpg" alt="EPP Summit, 22 March 2018">
+									<p class="title">EPP Summit, 22 March 2018</p>
+								</a>
+							</div>
+													</div>
+						<a class="feed-icon" href="https://www.youtube.com/user/epppress" target="_blank"><i class="fa fa-youtube-play"></i></a>
+					</div>
+				</div>
+				<div class="col-md-6">
+					<div class="facebook-feed  js-facebook-feed">
+						<div class="cff-wrapper"><div id="cff" class="cff js-fb-slideshow  cff-thumb-layout cff-timeline-feed  cff-lb"  data-fb-text="View on Facebook" data-offset="" data-grid-pag="" data-lb-comments="true" data-pag-num="10" data-cff-shortcode="{&quot;class&quot;: &quot;js-fb-slideshow&quot;, &quot;num&quot;: &quot;10&quot;}"><div class="cff-posts-wrap"><div class='cff-error-msg'><p><b>This message is only visible to admins:</b><br />Unable to display Facebook posts</p><div id="cff-error-reason"><b>Error:</b> Error validating application. Application has been deleted.<br /><b>Type:</b> OAuthException<br /><b>Code:</b> 190<br /><a href="https://smashballoon.com/custom-facebook-feed/docs/errors/" target="_blank">Click here to Troubleshoot</a>.</div></div></div></div><div class="cff-clear"></div></div>						<div class="facebook-feed__nav  js-fb-ss-nav">
+							<a class="prev  js-prev" href="#"><i class="ion ion-ios-arrow-left"></i></a>
+							<a class="next  js-next" href="#"><i class="ion ion-ios-arrow-right"></i></a>
+						</div>
+						<a class="feed-icon" href="https://www.facebook.com/epp.eu" target="_blank"><i class="fa fa-facebook-f"></i></a>
+					</div>
+				</div>
+			</div>
+		</div>
+	</section>
+	<section class="thema-form  content content--bgc03 content--lgpady">
+				<span class="pics-overlay" style="background-image:url(http://www.epp.eu/files/uploads/2015/09/1.jpg);"></span>
+		<div class="container">
+			<div class="row">
+				<div class="col-md-5">
+					<h1>Engage with us!</h1>
+				</div>
+				<div class="col-md-7">
+					<form name="subscamps" action="#" accept-charset="utf-8" autocomplete="off" method="post" role="form">
+						<input name="campaign_id" type="hidden" value="1">
+						<input id="astro" name="astro" type="text" value="" tabindex="-1">
+						<div class="form-group">
+							<div class="row">
+								<div class="col-sm-6">
+																		<input class="form-control required" id="firstname" name="firstname" type="text" placeholder="First Name *" value="First Name *"
+										   onfocus="if(this.value==&quot;First Name *&quot;)this.value=&quot;&quot;;"
+										   onblur="if(this.value==&quot;&quot;)this.value=&quot;First Name *&quot;;">
+								</div>
+								<div class="col-sm-6">
+																		<input class="form-control required" id="lastname" name="lastname" type="text" placeholder="Last Name *" value="Last Name *"
+										   onfocus="if(this.value==&quot;Last Name *&quot;)this.value=&quot;&quot;;"
+										   onblur="if(this.value==&quot;&quot;)this.value=&quot;Last Name *&quot;;">
+								</div>
+							</div>
+						</div>
+						<div class="form-group">
+							<div class="row">
+								<div class="col-sm-12">
+																		<input class="form-control required" id="email" name="email" type="text" placeholder="Email *" value="Email *"
+										   onfocus="if(this.value==&quot;Email *&quot;)this.value=&quot;&quot;;"
+										   onblur="if(this.value==&quot;&quot;)this.value=&quot;Email *&quot;;">
+								</div>
+							</div>
+						</div>
+						<div class="form-group">
+							<div class="row">
+								<div class="col-sm-6">
+																		<input class="form-control required" id="country" name="country" type="text" placeholder="Country *" value="Country *"
+										   onfocus="if(this.value==&quot;Country *&quot;)this.value=&quot;&quot;;"
+										   onblur="if(this.value==&quot;&quot;)this.value=&quot;Country *&quot;;">
+								</div>
+								<div class="col-sm-6">
+																		<input class="form-control required" id="zipcode" name="zipcode" type="text" placeholder="ZIP code *" value="ZIP code *"
+										   onfocus="if(this.value==&quot;ZIP code *&quot;)this.value=&quot;&quot;;"
+										   onblur="if(this.value==&quot;&quot;)this.value=&quot;ZIP code *&quot;;">
+								</div>
+							</div>
+						</div>
+						<div class="form-group">
+							<div class="row">
+								<div class="col-sm-12">
+									<input class="button button--bgc02" id="submit" name="submit" type="submit" value="I'm contributing for a fairer Europe">
+								</div>
+							</div>
+						</div>
+					</form>
+				</div>
+			</div>
+		</div>
+	</section>
+	<script>
+		var LAYERSLIDER_SKIN_PATH = 'http://www.epp.eu/files/themes/epp/assets/layerslider/skins/';
+		var NUM_FLICKR_PICTURES = 6;
+
+		var ERROR_OCCURED = 'An error occured, please try again later.';
+		var MANDATORY_ERROR = 'Please fill in all fields.';
+		var EMAIL_FORMAT_ERROR = 'Please enter a valid email address.';
+	</script>
+	<span class="back-top  js-back-top"></span>
+</section>
+<footer class="page-footer  js-footer">
+	<div class="container">
+		<div class="row">
+			<div class="col-sm-12">
+				<nav class="footer-nav" role="navigation">
+					<div class="row">
+						<div class="col-sm-3">
+								<div class="footer-nav__group">
+		<p class="title"><a href="http://www.epp.eu/about-us/">About us</a></p>
+		<ul>
+			<li><a href="http://www.epp.eu/about-us/history/">History</a></li>
+			<li><a href="http://www.epp.eu/about-us/president/">President</a></li>
+			<li><a href="http://www.epp.eu/about-us/secretary-general/">Secretary General</a></li>
+			<li><a href="http://www.epp.eu/about-us/leaders/">Leaders</a></li>
+		</ul>
+	</div>
+	<div class="footer-nav__group">
+		<p class="title"><a href="http://www.epp.eu/parties-and-partners/">Parties &#038; Partners</a></p>
+	</div>
+	<div class="footer-nav__group">
+		<p class="title"><a href="http://www.epp.eu/our-commitments/">Our Commitments</a></p>
+		<ul>
+			<li><a href="http://www.epp.eu/our-commitments/commitments/">Commitments</a></li>
+			<li><a href="http://www.epp.eu/our-commitments/manifesto/">Manifesto</a></li>
+			<li><a href="http://www.epp.eu/our-commitments/platform/">Platform</a></li>
+			<li><a href="http://www.epp.eu/our-commitments/papers/">Papers</a></li>
+		</ul>
+	</div>
+						</div>
+						<div class="col-sm-3">
+								<div class="footer-nav__group">
+		<p class="title"><a href="http://www.epp.eu/structure/">Structure</a></p>
+		<ul>
+			<li><a href="http://www.epp.eu/structure/presidency/">Presidency</a></li>
+			<li><a href="http://www.epp.eu/structure/summit/">Summit</a></li>
+			<li><a href="http://www.epp.eu/structure/political-assembly/">Political Assembly</a></li>
+			<li><a href="http://www.epp.eu/structure/ministerial-meetings/">Ministerial Meetings</a></li>
+			<li><a href="http://www.epp.eu/structure/working-groups/">Working Groups</a></li>
+			<li><a href="http://www.epp.eu/structure/congress/">Congress</a></li>
+		</ul>
+	</div>
+	<div class="footer-nav__group">
+		<p class="title"><a href="http://www.epp.eu/network/">Network</a></p>
+		<ul>
+			<li><a href="http://www.epp.eu/network/in-the-eu/">In the EU</a></li>
+			<li><a href="http://www.epp.eu/network/beyond-the-eu/">Beyond The EU</a></li>
+			<li><a href="http://www.epp.eu/network/associations/">Associations</a></li>
+			<li><a href="http://www.epp.eu/network/foundations/">Foundations</a></li>
+		</ul>
+	</div>
+						</div>
+						<div class="col-sm-3">
+								<div class="footer-nav__group">
+		<p class="title"><a href="http://www.epp.eu/internal-organization/">Internal Organization</a></p>
+		<ul>
+			<li><a class="js-menu-modal" href="#56">Legal & Finances</a></li>
+			<li><a class="js-menu-modal" href="#58">Statutes 2017</a></li>
+			<li><a class="js-menu-modal" href="#1643">Internal Regulations</a></li>
+		</ul>
+	</div>
+	<div class="footer-nav__group">
+		<p class="title"><a href="http://www.epp.eu/job-opportunities-traineeship/">Job Opportunities &#038; Traineeship</a></p>
+	</div>
+	<div class="footer-nav__group">
+		<p class="title"><a href="http://www.epp.eu/epp-news/">News</a></p>
+		<ul>
+			<li><a href="http://www.epp.eu/epp-news/press-releases/">Press Releases</a></li>
+			<li><a href="http://www.epp.eu/epp-news/press-clippings/">Press Clippings</a></li>
+			<li><a class="js-menu-modal" href="#66">Media Kit</a></li>
+		</ul>
+	</div>
+	<div class="footer-nav__group">
+		<p class="title"><a href="http://www.epp.eu/people/">People</a></p>
+	</div>
+	<div class="footer-nav__group">
+		<p class="title"><a href="http://www.epp.eu/events/">Events</a></p>
+	</div>
+						</div>
+						<div class="col-sm-3">
+							<div class="footer-nav__group">
+								<p class="title"><a href="#">Contact us</a></p>
+								<div class="vcard">
+									<p>
+										<span class="fn org">European People's Party</span><br>
+										EPP Headquarters<br>
+										<span class="adr">
+											<span class="street-address">Rue du Commerce 10</span><br>
+											<span class="postal-code">1000</span> <span class="locality">Brussels</span>
+										</span>
+									</p>
+									<p>
+										<i class="fa fa-phone"></i> <a class="tel" href="callto:+3222854140">+32-2-2854140</a><br>
+										<i class="fa fa-fax"></i> <a class="fax" href="callto:+3222854141">+32-2-2854141</a><br>
+										<i class="fa fa-envelope"></i> <span class="rs-spamspan"><span class="the-u">info</span> |blob| <span class="the-d">epp |punt| eu</span></span>									</p>
+								</div>
+							</div>
+						</div>
+					</div>
+				</nav>
+				<div class="page-footer__socials">
+					<div class="row">
+						<div class="col-sm-3">
+							<p class="title">Get social with us</p>
+							<ul class="networks">
+								<li class="twitter"><a href="https://twitter.com/epp" target="_blank"><i class="fa fa-twitter"></i></a></li>
+<li class="facebook"><a href="http://www.facebook.com/epp.eu" target="_blank"><i class="fa fa-facebook-f"></i></a></li>
+<li class="youtube"><a href="http://www.youtube.com/user/epppress" target="_blank"><i class="fa fa-youtube-play"></i></a></li>
+<li class="linkedin"><a href="https://www.linkedin.com/company/304964?trk=tyah&trkInfo=clickedVertical%3Acompany%2CentityType%3AentityHistoryName%2CclickedEntityId%3Acompany_company_304964%2Cidx%3A5" target="_blank"><i class="fa fa-linkedin"></i></a></li>
+<li class="instagram"><a href="https://instagram.com/insta_epp/" target="_blank"><i class="fa fa-instagram"></i></a></li>
+<li class="flickr"><a href="http://www.flickr.com/photos/eppofficial/" target="_blank"><i class="fa fa-flickr"></i></a></li>							</ul>
+						</div>
+												<div class="col-sm-6">
+							<p class="title">Recent tweets</p>
+							<div class="tweets  js-tweets">
+								<div class="row">
+																		<div class="col-sm-6">
+										<div class="tweet">
+											<p class="author"><a href="https://twitter.com/EPP" target="_blank">EPP - @EPP</a></p>
+											<p>RT @<a target="_blank" href="http://twitter.com/kmitsotakis">kmitsotakis</a>: Nea Demokratia and the @<a target="_blank" href="http://twitter.com/EPP">EPP</a> working together on upcoming 2019 European elections. Great meeting today with EPP VP and head…</p>
+											<time datetime="2018-05-30 15:19:04">3:19 PM May 30th</time>
+										</div>
+									</div>
+																		<div class="col-sm-6">
+										<div class="tweet">
+											<p class="author"><a href="https://twitter.com/EPP" target="_blank">EPP - @EPP</a></p>
+											<p>RT @<a target="_blank" href="http://twitter.com/DaraMurphyEPP">DaraMurphyEPP</a>: Proud to support the outstanding work @<a target="_blank" href="http://twitter.com/neademokratia">neademokratia</a> President @<a target="_blank" href="http://twitter.com/kmitsotakis">kmitsotakis</a> is doing in showing a clear, competent, hope…</p>
+											<time datetime="2018-05-30 15:03:16">3:03 PM May 30th</time>
+										</div>
+									</div>
+																	</div>
+							</div>
+						</div>
+						<div class="col-sm-3">
+													<h1 class="logo"><a href="http://www.epp.eu">EPP - European People's Party</a></h1>
+							<p>Funded with the support of the European Parliament</p>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+	<div class="page-footer__foot">
+		<div class="container">
+			<div class="row">
+				<div class="col-sm-12">
+					<p>&copy; All Rights Reserved. Created and developed by <a href="http://www.blcreative.eu" target="_blank">blcreative.eu</a></p>
+				</div>
+			</div>
+		</div>
+	</div>
+</footer>
+<div class="modal modal--files fade" id="1643" tabindex="-1" role="dialog">
+	<div class="modal-dialog" role="document">
+		<div class="modal-content">
+			<div class="modal-header">
+				<button class="close" type="button" data-dismiss="modal" aria-label="Close"><span aria-hidden="true"><i class="ion ion-ios-close-empty"></i></span></button>
+			</div>
+			<div class="modal-body">
+				<div class="container-fluid">
+					<div class="row">
+						<div class="col-md-8 col-md-offset-2">
+							<p class="title">Internal Regulations</p>
+														<div class="chapter">
+								<p class="subtitle shuline shuline--centered">EPP INTERNAL REGULATIONS / EN</p>								<p>2017</p>
+								<p class="download"><a class="button button--bgc02" href="http://www.epp.eu/files/uploads/2015/12/EN-Internal-Regulations-1.pdf" target="_blank">DOWNLOAD</a></p>
+							</div>
+														<div class="chapter">
+								<p class="subtitle shuline shuline--centered">EPP INTERNAL REGULATIONS / FR</p>								<p>2017</p>
+								<p class="download"><a class="button button--bgc02" href="http://www.epp.eu/files/uploads/2015/12/FR-Internal-Regulations.pdf" target="_blank">DOWNLOAD</a></p>
+							</div>
+													</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+<div class="modal modal--files fade" id="66" tabindex="-1" role="dialog">
+	<div class="modal-dialog" role="document">
+		<div class="modal-content">
+			<div class="modal-header">
+				<button class="close" type="button" data-dismiss="modal" aria-label="Close"><span aria-hidden="true"><i class="ion ion-ios-close-empty"></i></span></button>
+			</div>
+			<div class="modal-body">
+				<div class="container-fluid">
+					<div class="row">
+						<div class="col-md-8 col-md-offset-2">
+							<p class="title">Media Kit</p>
+														<div class="chapter">
+																<p>You will find attached our kit media which includes backgrounds and variants of the EPP logotype available in several languages. If you have any questions, please don’t hesitate to send us an email at connect@epp.eu.</p>
+								<p class="download"><a class="button button--bgc02" href="http://www.epp.eu/files/uploads/2018/01/EPP-Media-KIT-2-1.zip" target="_blank">Download the media kit</a></p>
+							</div>
+													</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+<div class="modal modal--files fade" id="58" tabindex="-1" role="dialog">
+	<div class="modal-dialog" role="document">
+		<div class="modal-content">
+			<div class="modal-header">
+				<button class="close" type="button" data-dismiss="modal" aria-label="Close"><span aria-hidden="true"><i class="ion ion-ios-close-empty"></i></span></button>
+			</div>
+			<div class="modal-body">
+				<div class="container-fluid">
+					<div class="row">
+						<div class="col-md-8 col-md-offset-2">
+							<p class="title">Statutes 2017</p>
+														<div class="chapter">
+								<p class="subtitle shuline shuline--centered">DECISION OF THE AUTHORITY - Decision of the Authority to register EPP as European Political Party</p>								<p>23/05/2017</p>
+								<p class="download"><a class="button button--bgc02" href="http://www.epp.eu/files/uploads/2015/09/2017-05-23_Decision_Authority_EPP.pdf" target="_blank">DOWNLOAD</a></p>
+							</div>
+														<div class="chapter">
+								<p class="subtitle shuline shuline--centered">EPP STATUTES 2017/ EN</p>								<p>2017</p>
+								<p class="download"><a class="button button--bgc02" href="http://www.epp.eu/files/uploads/2015/09/EN-STATUTES-version-9-Mai-2017.pdf" target="_blank">DOWNLOAD</a></p>
+							</div>
+														<div class="chapter">
+								<p class="subtitle shuline shuline--centered">EPP STATUTES 2017/ FR</p>								<p>2017</p>
+								<p class="download"><a class="button button--bgc02" href="http://www.epp.eu/files/uploads/2015/09/Publication-Official-Journal-of-the-EU-6-July-2017-FR.pdf" target="_blank">DOWNLOAD</a></p>
+							</div>
+													</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+<div class="modal modal--files fade" id="56" tabindex="-1" role="dialog">
+	<div class="modal-dialog" role="document">
+		<div class="modal-content">
+			<div class="modal-header">
+				<button class="close" type="button" data-dismiss="modal" aria-label="Close"><span aria-hidden="true"><i class="ion ion-ios-close-empty"></i></span></button>
+			</div>
+			<div class="modal-body">
+				<div class="container-fluid">
+					<div class="row">
+						<div class="col-md-8 col-md-offset-2">
+							<p class="title">Legal and Finances</p>
+														<div class="chapter">
+								<p class="subtitle shuline shuline--centered">EPP 2016 Financial Statement</p>																<p class="download"><a class="button button--bgc02" href="http://www.epp.eu/files/uploads/2015/09/EPP-Audit-report-EY-and-Annual-Accounts-2016.pdf" target="_blank">Download</a></p>
+							</div>
+													</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+<div class="modal modal--share fade" id="share-this-page" tabindex="-1" role="dialog">
+	<div class="modal-dialog" role="document">
+		<div class="modal-content">
+			<div class="modal-header">
+				<button class="close" type="button" data-dismiss="modal" aria-label="Close"><span aria-hidden="true"><i class="ion ion-ios-close-empty"></i></span></button>
+			</div>
+			<div class="modal-body">
+				<div class="container-fluid">
+					<div class="row">
+						<div class="col-md-8 col-md-offset-2">
+							<p class="title">Share this page</p>
+							<ul>
+								<li class="facebook"><a href="http://www.facebook.com/sharer/sharer.php?u=http%3A%2F%2Fwww.epp.eu%2F" target="_blank"><i class="fa fa-facebook-f"></i></a></li>
+								<li class="twitter"><a href="http://twitter.com/intent/tweet?status=EPP+-+European+People%5C%27s+Party%3A+Homepage%20(http%3A%2F%2Fwww.epp.eu%2F)" target="_blank"><i class="fa fa-twitter"></i></a></li>
+								<li class="linkedin"><a href="http://www.linkedin.com/shareArticle?mini=true&amp;url=http%3A%2F%2Fwww.epp.eu%2F&amp;source=http%3A%2F%2Fwww.epp.eu" target="_blank"><i class="fa fa-linkedin"></i></a></li>
+								<li class="pinterest"><a href="http://pinterest.com/pin/create/bookmarklet/?url=http%3A%2F%2Fwww.epp.eu%2F&amp;is_video=false&amp;description=EPP+-+European+People%5C%27s+Party%3A+Homepage" target="_blank"><i class="fa fa-pinterest-p"></i></a></li>
+							</ul>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+<script>
+	var SITE_NAME = 'EPP - European People\'s Party';
+	var SITE_URL = 'http://www.epp.eu';
+</script>
+<script src="http://www.epp.eu/files/themes/epp/js/vendor/jquery-1.11.2.min.js"></script>
+<script src="http://www.epp.eu/files/themes/epp/js/vendor/bootstrap.min.js"></script>
+<script src="http://www.epp.eu/files/themes/epp/js/vendor/rs-spamspan.min.js"></script>
+<script src="http://www.epp.eu/files/themes/epp/js/helpers/rs-various-helper.min.js"></script>
+<script src="http://www.epp.eu/files/themes/epp/js/website/share-helper.min.js"></script>
+<script src="http://www.epp.eu/files/themes/epp/assets/lightslider/lightslider.min.js"></script>
+
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-NQ7LP3J"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) --><script src="http://www.epp.eu/files/themes/epp/assets/layerslider/js/greensock.min.js"></script>
+<script src="http://www.epp.eu/files/themes/epp/assets/layerslider/js/layerslider.transitions.min.js"></script>
+<script src="http://www.epp.eu/files/themes/epp/assets/layerslider/js/layerslider.jquery.min.js"></script>
+<script src="http://www.epp.eu/files/themes/epp/js/website/home.min.js"></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var ajax_object = {"ajax_url":"http:\/\/www.epp.eu\/wp-admin\/admin-ajax.php"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://www.epp.eu/files/plugins/subscriptions-campaigns/js/form.min.js'></script>
+<script type='text/javascript' src='http://www.epp.eu/wp-includes/js/wp-embed.min.js?ver=adb6351ddbca703e6d094c18df5c8b43'></script>
+<script id="overon_main_script" type="text/javascript" src="http://overonocc.cdn.customers.overon.es/player/environment.js"></script>
+<script src="http://www.epp.eu/files/themes/epp/js/website/default.min.js"></script>
+<!--<script>
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+	(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+	m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+ga('create', 'UA-58324232-2', 'auto');
+ga('send', 'pageview');
+</script>-->
+</body>
+</html>
+

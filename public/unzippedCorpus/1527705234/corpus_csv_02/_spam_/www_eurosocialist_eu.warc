@@ -1,0 +1,982 @@
+WARC/1.0
+WARC-Type: warcinfo
+WARC-Date: 2018-05-30T18:18:32Z
+WARC-All-Language: en-US
+WARC-All-Content_type: text/html; charset=UTF-8
+WARC-Record-ID: <urn:uuid:fd88fdfa-2c7e-4f13-bd3b-949ae05b3e9e>
+Content-Type: application/http;msgtype=response
+Content-Length: 46
+
+WARCProcessor by SING Group www.sing-group.com
+
+WARC/1.0
+WARC-Type: response
+WARC-Target-URI: http://www.eurosocialist.eu
+WARC-Date: 20180530181832
+WARC-Language: en-US
+WARC-Record-ID: <http://www.eurosocialist.eu>
+Content-Type: application/http;msgtype=response
+Content-Length: 74208
+
+HTTP/1.1 200
+Content-Type:text/html; charset=UTF-8
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" dir="ltr" lang="en-US">
+
+<head profile="http://gmpg.org/xfn/11">
+
+    <meta
+        http-equiv="Content-Type"
+        content="text/html; charset=UTF-8"
+    />
+
+    <title>
+        Eurosocialist                    </title>
+
+    <meta
+        name="generator"
+        content="WordPress 3.2.1"
+    /> <!-- leave this for stats -->
+
+    <link
+        rel="stylesheet"
+        href="http://www.eurosocialist.eu/wp-content/themes/ahimsa/style.css"
+        type="text/css" media="screen"
+    />
+
+    <link
+        rel="alternate"
+        type="application/rss+xml"
+        title="Eurosocialist RSS Feed"
+        href="http://www.eurosocialist.eu/feed/"
+    />
+
+    <link rel="pingback" href="http://www.eurosocialist.eu/xmlrpc.php" />
+
+    <script type='text/javascript' src='http://www.eurosocialist.eu/wp-includes/js/l10n.js?ver=20101110'></script>
+<script type='text/javascript' src='http://www.eurosocialist.eu/wp-includes/js/jquery/jquery.js?ver=1.6.1'></script>
+<script type='text/javascript' src='http://www.eurosocialist.eu/wp-content/plugins/google-analyticator/external-tracking.min.js?ver=6.0.2'></script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www.eurosocialist.eu/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://www.eurosocialist.eu/wp-includes/wlwmanifest.xml" /> 
+<link rel='index' title='Eurosocialist' href='http://www.eurosocialist.eu/' />
+<meta name="generator" content="WordPress 3.2.1" />
+<style type="text/css">
+	.addtoany_share_save_container{margin:16px 0;}
+	ul.addtoany_list{
+		display:inline;
+		list-style-type:none;
+		margin:0 !important;
+		padding:0 !important;
+		text-indent:0 !important;
+	}
+	ul.addtoany_list li{
+		background:none !important;
+		border:0;
+		display:inline !important;
+		line-height:32px;		list-style-type:none;
+		margin:0 !important;
+		padding:0 !important;
+	}
+	ul.addtoany_list li:before{content:"";}
+	ul.addtoany_list li a{padding:0 9px;}
+	ul.addtoany_list img{
+		float:none;
+		border:0;
+		margin:0;
+		padding:0;
+		vertical-align:middle;
+	}
+	ul.addtoany_list a img{
+		opacity:.6;
+		-moz-opacity:.6;
+		filter:alpha(opacity=60);
+	}
+	ul.addtoany_list a:hover img, ul.addtoany_list a.addtoany_share_save img{
+		opacity:1;
+		-moz-opacity:1;
+		filter:alpha(opacity=100);
+	}
+	a.addtoany_share_save img{border:0;width:auto;height:auto;}    </style>
+<meta name="googleanalyticscounter" content="googleanalyticscounter/0.5" />
+<link rel="stylesheet" href="http://www.eurosocialist.eu/wp-content/plugins/googleanalyticscounter/styles/googleanalyticscounter.css" type="text/css" media="screen" />
+	<style type="text/css">.recentcomments a{display:inline !important;padding:0 !important;margin:0 !important;}</style>
+<!-- Google Analytics Tracking by Google Analyticator 6.0.2: http://ronaldheft.com/code/analyticator/ -->
+<script type="text/javascript">
+	var analyticsFileTypes = [''];
+	var analyticsEventTracking = 'enabled';
+</script>
+<script type="text/javascript">
+	var _gaq = _gaq || [];
+	_gaq.push(['_setAccount', 'UA-8997762-2']);
+	_gaq.push(['_trackPageview']);
+
+	(function() {
+		var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+		ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+		(document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(ga);
+	})();
+</script>
+
+    <script type="text/javascript" src="http://www.eurosocialist.eu/wp-content/themes/ahimsa/jquery-min.js"></script>
+    <script type="text/javascript" src="http://www.eurosocialist.eu/wp-content/themes/ahimsa/ahimsa.js"></script>
+
+            <script type="text/javascript"
+            src="http://www.eurosocialist.eu/wp-content/themes/ahimsa/jquery.corner.js"></script>
+        <script type="text/javascript"
+            src="http://www.eurosocialist.eu/wp-content/themes/ahimsa/jquery.corners.min.js"></script>
+        <script type="text/javascript"
+            src="http://www.eurosocialist.eu/wp-content/themes/ahimsa/iecorners.js"></script>
+    
+<!-- browser specific CSS -->
+
+    <style type='text/css'>
+
+
+
+    </style>
+
+
+</head>
+
+<body onload='recalcBlocks();' onresize='recalcBlocks();'>
+
+
+<div id='bgtop'>
+<br clear='all'/>
+</div>
+
+<div id='rsslinks'>
+    <div class='capsule'>
+    <a href='http://www.eurosocialist.eu/comments/feed/'>
+    <img border='0' align='top' alt='Comments RSS'
+        src='http://www.eurosocialist.eu/wp-content/themes/ahimsa/images/rss-icon.gif' />
+    <span title='Subscribe to the RSS feed for the comments on this site'>Comments</span>
+    </a>
+    </div>
+    <div class='capsule'>
+    <a href='http://www.eurosocialist.eu/feed/'>
+    <img border='0' align='top' alt='Site RSS'
+        src='http://www.eurosocialist.eu/wp-content/themes/ahimsa/images/rss-icon.gif' />
+    <span title='Subscribe to the RSS feed for the posts on this site'>Site</span>
+    </a>
+    </div>
+        <div class='capsule'>
+    <a href="http://www.eurosocialist.eu/wp-login.php">Log in</a>    </div>
+    </div>
+
+<table id='container' cellpadding='0' cellspacing='0'>
+
+<tr>
+<td id='maincontainer' style='height: 100%; width: 100%;'>
+
+<table id='main' cellpadding='0' cellspacing='0'>
+
+<tr>
+
+<td class='sidetabs'>&nbsp;</td>
+
+<td colspan='2' id='header'>
+
+<table border='0' cellpadding='0' cellspacing='0'>
+
+    <tr>
+    <td id='title'><a href="http://www.eurosocialist.eu/">Eurosocialist</a></td>
+    <td id='description'>a blog by a French PES activist</td>
+    <td id='search' valign='middle'><form method="get" id="searchform" action="http://www.eurosocialist.eu/">
+<input type="text" value="" name="s" id="s" />
+<!-- <input type="submit" id="searchsubmit" value="Search" /> -->
+</form>
+ </td>
+    </tr>
+
+</table>
+</td>
+
+</tr>
+
+<tr>
+
+    <td valign='top' class='sidetabs'>
+    <div id='sidebartab' onclick='fadeSideBar();'>
+    <font color='#22bb00'>&raquo;</font><br/>S<br/>I<br/>D<br/>E<br/>B<br/>A<br/>R<br/><font color='#22bb00'>&laquo;</font>
+    </div>
+    </td>
+
+    <td id='tdsidebar' valign='top'>
+        <!-- inline style required for easy JavaScript mods, without getting computed styles -->
+        <div id='sidebar' style='display: block; opacity: 1.0;'>
+            
+
+<fieldset class='sidebarlist'><legend>Ce blog en français?</legend>			<div class="textwidget"><a href="http://eurosocialiste.eu/ ">Cliquez ici !</a>
+</div>
+		</fieldset><fieldset class='sidebarlist'><legend>Who am I?</legend>    <style>
+       .aboutme {clear:both}
+       .aboutme * {border: 0px solid;}
+       .aboutme img {padding:0px;}
+    </style>
+    <div class='aboutme'>French PES activist, I would like to build bridges between European politics and French politics, deciphering French politics to the Euroblogosphere on one hand (most articles are available in French and English), and Europeanising French political debates on the other hand.<div style='clear:both'></div><div style='border-top: 1px solid #eee; padding-top:5px; position:relative; height:25px'><div style='left:0; position: absolute'><a style='padding:2px' href='http://feeds2.feedburner.com/Eurosocialist'><img src='http://www.eurosocialist.eu/wp-content/plugins/about-me-3000/feedburner.png' border='0'></a><script type="text/javascript">
+<!--
+    var string1 = "eurosocialiste";
+    var string2 = "@";
+    var string3 = "gmail.com";
+    var string4 = string1 + string2 + string3;
+    document.write("<a style='padding:2px' href=" + "mail" + "to:" + string1 + string2 + string3 + ">");
+    document.write("<img src='http://www.eurosocialist.eu/wp-content/plugins/about-me-3000/email.png' border='0'>");
+    document.write("</a>");
+//-->
+</script>
+        </div></div></div></fieldset><fieldset class='sidebarlist'><legend>Raison d&#8217;être</legend>		<ul>
+			<li class="page_item page-item-352"><a href="http://www.eurosocialist.eu/why-i-started-this-blog/" title="Why I started this blog">Why I started this blog</a></li>
+		</ul>
+		</fieldset>		<fieldset class='sidebarlist'>		<legend>Recent articles</legend>		<ul>
+				<li><a href="http://www.eurosocialist.eu/why-the-commission%e2%80%99s-proposal-is-nipping-the-citizens-initiative-in-the-bud/" title="Why the Commission’s proposal is nipping the citizen&#8217;s initiative in the bud">Why the Commission’s proposal is nipping the citizen&#8217;s initiative in the bud</a></li>
+				<li><a href="http://www.eurosocialist.eu/an-example-of-belgian-kafkaism/" title="An example of Belgian Kafkaism">An example of Belgian Kafkaism</a></li>
+				<li><a href="http://www.eurosocialist.eu/quote-of-the-week-2/" title="Quote of the Week: Tom Foremski">Quote of the Week: Tom Foremski</a></li>
+				<li><a href="http://www.eurosocialist.eu/procrastination/" title="Procrastination">Procrastination</a></li>
+				<li><a href="http://www.eurosocialist.eu/quote-of-the-week-margaret-mead/" title="Quote of the Week: Margaret Mead">Quote of the Week: Margaret Mead</a></li>
+				</ul>
+		</fieldset><fieldset class='sidebarlist'><legend>Recent comments</legend><ul id="recentcomments"><li class="recentcomments"><a href='https://www.goldengooseshoponline.com/3-2-12' rel='external nofollow' class='url'>Women Golden Goose 2.12 UK</a> on <a href="http://www.eurosocialist.eu/what%e2%80%99s-so-shocking-about-jean-sarkozy%e2%80%99s-election-as-head-of-epad/comment-page-1/#comment-65701">What’s so shocking about Jean Sarkozy’s election as head of EPAD?</a></li><li class="recentcomments"><a href='http://1i1.me/weddinglimohire' rel='external nofollow' class='url'>irishweddinglimos.com</a> on <a href="http://www.eurosocialist.eu/dear-commissioners-stop-broadcasting-and-start-engaging/comment-page-1/#comment-62771">Dear Commissioners, stop broadcasting, and start engaging!</a></li><li class="recentcomments"><a href='http://wedding-pictures-ideas83715.pointblog.net/Hot-Trends-for-Summer-Weddings-8786563' rel='external nofollow' class='url'>wedding planning books barnes and noble</a> on <a href="http://www.eurosocialist.eu/dear-commissioners-stop-broadcasting-and-start-engaging/comment-page-1/#comment-62086">Dear Commissioners, stop broadcasting, and start engaging!</a></li><li class="recentcomments"><a href='http://canadian-pharmacy.us.org' rel='external nofollow' class='url'>canadian pharmacy</a> on <a href="http://www.eurosocialist.eu/pes-activist-forum-championing-equality-for-all/comment-page-1/#comment-54301">PES activists forum 2009: championing equality for all</a></li><li class="recentcomments"><a href='https://www.youtube.com/watch?v=7ZOHh9Dyxn0' rel='external nofollow' class='url'>https://www.youtube.com/watch?v=7ZOHh9Dyxn0</a> on <a href="http://www.eurosocialist.eu/pes-activists-forum-video-summary/comment-page-1/#comment-52674">PES activists forum 2009: video summary</a></li></ul></fieldset><fieldset class='sidebarlist'><legend>What do I write about?</legend><div class="tagcloud"><a href='http://www.eurosocialist.eu/tag/abstention/' class='tag-link-71' title='1 topic' style='font-size: 8pt;'>Abstention</a>
+<a href='http://www.eurosocialist.eu/tag/being-a-socialist/' class='tag-link-40' title='5 topics' style='font-size: 14.588235294118pt;'>Being a Socialist</a>
+<a href='http://www.eurosocialist.eu/tag/belgian-surrealism/' class='tag-link-91' title='1 topic' style='font-size: 8pt;'>Belgian Surrealism</a>
+<a href='http://www.eurosocialist.eu/tag/belgium/' class='tag-link-90' title='2 topics' style='font-size: 10.470588235294pt;'>Belgium</a>
+<a href='http://www.eurosocialist.eu/tag/brussels/' class='tag-link-41' title='3 topics' style='font-size: 12.117647058824pt;'>Brussels</a>
+<a href='http://www.eurosocialist.eu/tag/bureaucracy/' class='tag-link-94' title='1 topic' style='font-size: 8pt;'>Bureaucracy</a>
+<a href='http://www.eurosocialist.eu/tag/citizens-initiative/' class='tag-link-95' title='1 topic' style='font-size: 8pt;'>citizen's initiative</a>
+<a href='http://www.eurosocialist.eu/tag/corruption/' class='tag-link-83' title='2 topics' style='font-size: 10.470588235294pt;'>Corruption</a>
+<a href='http://www.eurosocialist.eu/tag/diversity/' class='tag-link-57' title='6 topics' style='font-size: 15.549019607843pt;'>Diversity</a>
+<a href='http://www.eurosocialist.eu/tag/environment/' class='tag-link-89' title='1 topic' style='font-size: 8pt;'>Environment</a>
+<a href='http://www.eurosocialist.eu/tag/equality/' class='tag-link-69' title='6 topics' style='font-size: 15.549019607843pt;'>Equality</a>
+<a href='http://www.eurosocialist.eu/tag/euroblogosphere/' class='tag-link-17' title='7 topics' style='font-size: 16.235294117647pt;'>Euroblogosphere</a>
+<a href='http://www.eurosocialist.eu/tag/european-commission/' class='tag-link-62' title='11 topics' style='font-size: 18.705882352941pt;'>European Commission</a>
+<a href='http://www.eurosocialist.eu/tag/european-communication/' class='tag-link-51' title='4 topics' style='font-size: 13.490196078431pt;'>European communication</a>
+<a href='http://www.eurosocialist.eu/tag/european-council/' class='tag-link-80' title='4 topics' style='font-size: 13.490196078431pt;'>European Council</a>
+<a href='http://www.eurosocialist.eu/tag/european-elections/' class='tag-link-37' title='20 topics' style='font-size: 22pt;'>European elections</a>
+<a href='http://www.eurosocialist.eu/tag/european-parliament/' class='tag-link-46' title='8 topics' style='font-size: 16.921568627451pt;'>European Parliament</a>
+<a href='http://www.eurosocialist.eu/tag/european-union/' class='tag-link-70' title='5 topics' style='font-size: 14.588235294118pt;'>European Union</a>
+<a href='http://www.eurosocialist.eu/tag/framing/' class='tag-link-6' title='7 topics' style='font-size: 16.235294117647pt;'>Framing</a>
+<a href='http://www.eurosocialist.eu/tag/france/' class='tag-link-84' title='1 topic' style='font-size: 8pt;'>France</a>
+<a href='http://www.eurosocialist.eu/tag/fun/' class='tag-link-44' title='8 topics' style='font-size: 16.921568627451pt;'>Fun</a>
+<a href='http://www.eurosocialist.eu/tag/gender-equality/' class='tag-link-81' title='8 topics' style='font-size: 16.921568627451pt;'>Gender equality</a>
+<a href='http://www.eurosocialist.eu/tag/germany/' class='tag-link-73' title='1 topic' style='font-size: 8pt;'>Germany</a>
+<a href='http://www.eurosocialist.eu/tag/italy/' class='tag-link-82' title='1 topic' style='font-size: 8pt;'>Italy</a>
+<a href='http://www.eurosocialist.eu/tag/lobbies/' class='tag-link-11' title='1 topic' style='font-size: 8pt;'>Lobbies</a>
+<a href='http://www.eurosocialist.eu/tag/media/' class='tag-link-5' title='5 topics' style='font-size: 14.588235294118pt;'>Media</a>
+<a href='http://www.eurosocialist.eu/tag/new-politics/' class='tag-link-60' title='5 topics' style='font-size: 14.588235294118pt;'>New politics</a>
+<a href='http://www.eurosocialist.eu/tag/obama/' class='tag-link-33' title='3 topics' style='font-size: 12.117647058824pt;'>Obama</a>
+<a href='http://www.eurosocialist.eu/tag/participatory-democracy/' class='tag-link-74' title='2 topics' style='font-size: 10.470588235294pt;'>Participatory Democracy</a>
+<a href='http://www.eurosocialist.eu/tag/pdf/' class='tag-link-88' title='1 topic' style='font-size: 8pt;'>PdF</a>
+<a href='http://www.eurosocialist.eu/tag/pes/' class='tag-link-63' title='16 topics' style='font-size: 20.764705882353pt;'>PES</a>
+<a href='http://www.eurosocialist.eu/tag/pes-activists/' class='tag-link-68' title='7 topics' style='font-size: 16.235294117647pt;'>PES activists</a>
+<a href='http://www.eurosocialist.eu/tag/political-actions/' class='tag-link-43' title='7 topics' style='font-size: 16.235294117647pt;'>Political actions</a>
+<a href='http://www.eurosocialist.eu/tag/portugal/' class='tag-link-72' title='1 topic' style='font-size: 8pt;'>Portugal</a>
+<a href='http://www.eurosocialist.eu/tag/poul-nyrup-rasmussen/' class='tag-link-22' title='1 topic' style='font-size: 8pt;'>Poul Nyrup Rasmussen</a>
+<a href='http://www.eurosocialist.eu/tag/primaries/' class='tag-link-56' title='2 topics' style='font-size: 10.470588235294pt;'>Primaries</a>
+<a href='http://www.eurosocialist.eu/tag/ps/' class='tag-link-24' title='7 topics' style='font-size: 16.235294117647pt;'>PS</a>
+<a href='http://www.eurosocialist.eu/tag/sarkozia/' class='tag-link-85' title='1 topic' style='font-size: 8pt;'>Sarkozia</a>
+<a href='http://www.eurosocialist.eu/tag/social-media/' class='tag-link-52' title='9 topics' style='font-size: 17.607843137255pt;'>Social media</a>
+<a href='http://www.eurosocialist.eu/tag/spain/' class='tag-link-64' title='5 topics' style='font-size: 14.588235294118pt;'>Spain</a>
+<a href='http://www.eurosocialist.eu/tag/surrealism/' class='tag-link-93' title='1 topic' style='font-size: 8pt;'>Surrealism</a>
+<a href='http://www.eurosocialist.eu/tag/twitter/' class='tag-link-18' title='7 topics' style='font-size: 16.235294117647pt;'>Twitter</a>
+<a href='http://www.eurosocialist.eu/tag/us/' class='tag-link-92' title='1 topic' style='font-size: 8pt;'>US</a>
+<a href='http://www.eurosocialist.eu/tag/web-2-0/' class='tag-link-12' title='15 topics' style='font-size: 20.352941176471pt;'>Web 2.0</a>
+<a href='http://www.eurosocialist.eu/tag/women/' class='tag-link-78' title='12 topics' style='font-size: 19.117647058824pt;'>Women</a></div>
+</fieldset><fieldset class='sidebarlist'>			<div class="textwidget"><a href="http://www.agoravox.com/auteur.php3?id_auteur=6860"><img src="http://www.agoravox.com/IMG/report/icone_redacteur.gif" alt="AgoraVox Author" border="0"></a></div>
+		</fieldset><fieldset class='sidebarlist'><a class="widget_sp_image-image-link" href="http://www.social-europe.eu/author/eurosocialiste/" target="_blank"><img src="http://www.eurosocialist.eu/wp-content/uploads/SEJ.png" style="max-width: 234px;max-height: 70px;" class="alignleft" alt="" /></a></fieldset><fieldset class='sidebarlist'><a class="widget_sp_image-image-link" href="http://www.bloggingportal.eu/" target="_self"><img src="http://www.eurosocialist.eu/wp-content/uploads/bloggingportal-logo-298x88.jpg" style="max-width: 300px;max-height: 88px;" class="aligncenter" alt="" /></a></fieldset><fieldset class='sidebarlist'><legend><a class='rsswidget' href='http://www.bloggingportal.eu/export/feed' title='Syndicate this content'><img style='border:0' width='14' height='14' src='http://www.eurosocialist.eu/wp-includes/images/rss.png' alt='RSS' /></a> <a class='rsswidget' href='' title=''>bloggingportal.eu &#8211; Editor&#8217;s choice</a></legend></fieldset><fieldset class='sidebarlist'><legend>My favourite blogs (in English)</legend>
+	<ul class='xoxo blogroll'>
+<li><a href="http://blogs.euobserver.com/berry">A View from the Outfield</a></li>
+<li><a href="http://people.oii.ox.ac.uk/aribo/">Alejandro@Oxford</a></li>
+<li><a href="http://blogs.euobserver.com/mahony">Behind the Scenes</a></li>
+<li><a href="http://bentekalsnes.wordpress.com/">Bente Kalsnes&#039; blog</a></li>
+<li><a href="http://www.bitmorecomplicated.com/">Bit more complicated…</a></li>
+<li><a href="http://blogs.ft.com/brusselsblog">Brussels Blog</a></li>
+<li><a href="http://www.economist.com/blogs/charlemagne/">Charlemagne&#039;s notebook</a></li>
+<li><a href="http://eurotechnocrat.blogspot.com/">Eurocrat=European+Technocrat</a></li>
+<li><a href="http://grahnlaw.blogspot.com/">Grahnlaw</a></li>
+<li><a href="http://hadleighroberts.co.uk/">Hadleigh Roberts</a></li>
+<li><a href="http://www.jonworth.eu/">Jon Worth&#039;s Euroblog</a></li>
+<li><a href="http://julienfrisch.blogspot.com/">Julien Frisch &#8211; Watching Europe</a></li>
+<li><a href="http://www.kosmopolito.org/">Kosmopolito</a></li>
+<li><a href="http://www.jcm.org.uk/blog/">Nosemonkey&#039;s EUtopia</a></li>
+<li><a href="http://personaldemocracy.com/">Personal Democracy Forum</a></li>
+<li><a href="http://socialistsocial.generation-europe.net/">Socialist Social</a></li>
+<li><a href="http://www.stephenspillane.com/blog/">Stephen Spillane</a></li>
+<li><a href="http://theeuropeancitizen.blogspot.com/">The European Citizen</a></li>
+<li><a href="http://theeulobby.wordpress.com/">The Lobby</a></li>
+
+	</ul>
+</fieldset>
+<fieldset class='sidebarlist'><legend>My favourite blogs (in French)</legend>
+	<ul class='xoxo blogroll'>
+<li><a href="http://www.27roses.eu">27roses</a></li>
+<li><a href="http://asclepieia.free.fr/blog/index.php">Asclepieia</a></li>
+<li><a href="http://www.bahbycc.com/">Bah !? by CC</a></li>
+<li><a href="http://clermont-citygroup.eu/blog">Blog du city group PSE de Clermont-Ferrand</a></li>
+<li><a href="http://www.cpolitic.com/cblog/">C Politic</a></li>
+<li><a href="http://bruxelles.blogs.liberation.fr/">Coulisses de Bruxelles</a></li>
+<li><a href="http://demetentreprises.wordpress.com/">Démocratie &amp; Entreprises</a></li>
+<li><a href="http://etoile.touteleurope.fr/index.php/post/2009/06/19/Elections-europeennes-:-les-citoyens-se-sont-decides-sur-Internet">eToile</a></li>
+<li><a href="http://europesociale.over-blog.com/">Europe sociale, au jour le jour</a></li>
+<li><a href="http://europeconfidentiel.cafebabel.com/fr/">europeconfidentiel</a></li>
+<li><a href="http://www.eurosduvillage.eu/spip.php?lang=fr">Euros du Village</a></li>
+<li><a href="http://www.fabrice-jamar.be/">Fabrice Jamar</a></li>
+<li><a href="http://lefrenchcancan.blogspot.com/">French Cancan</a></li>
+<li><a href="http://www.generationy20.com/">Generation Y 2.0</a></li>
+<li><a href="http://www.intox2007.info/">Intox 2007</a></li>
+<li><a href="http://chourka.canalblog.com/">Journal d&#039;un chou</a></li>
+<li><a href="http://blogs.arte.tv/LEUROPE_EN_BLOGS/frontUser.do?method=getHomePage">L&#039;Europe en blogs</a></li>
+<li><a href="http://renovitude.net/">La rénovitude</a></li>
+<li><a href="http://joelcordier.skynetblogs.be/">le blog de Joël Cordier</a></li>
+<li><a href="http://www.militants-pse-namur.eu/">Le blog des militants du PSE de Namur</a></li>
+<li><a href="http://www.taurillon.org/">Le Taurillon</a></li>
+<li><a href="http://leftblogs.info/">leftblogs</a></li>
+<li><a href="http://www.mediassociaux.com/">MédiasSociaux.com</a></li>
+<li><a href="http://www.netpolitique.net/">Netpolitique</a></li>
+<li><a href="http://reynie.typepad.fr/opinion_europenneeuropean/">Opinion européenne &#8211; Dominique Reynié</a></li>
+<li><a href="http://jegpol.blogspot.com/">Partageons mon avis</a></li>
+<li><a href="http://pierrecatalan.hautetfort.com/">Pierre Catalan</a></li>
+<li><a href="http://quoideneufeneurope.hautetfort.com/">Quoi de neuf en Europe</a></li>
+<li><a href="http://www.puisney.eu/">Un Européen jamais content</a></li>
+<li><a href="http://yonnecpolet.blogspot.com/">Yonnec Polet</a></li>
+
+	</ul>
+</fieldset>
+<fieldset class='sidebarlist'><legend>My favourite blogs (in Spanish)</legend>
+	<ul class='xoxo blogroll'>
+<li><a href="http://ccarnero.blogspot.com/">Carlos Carnero</a></li>
+<li><a href="http://jorgejuanmorante.blogspot.com/">Ciudadano Morante</a></li>
+<li><a href="http://lacomunidad.elpais.com/efurom1/posts">europe@s</a></li>
+<li><a href="http://evaeneuropa.blogspot.com/">Eva en Europa</a></li>
+<li><a href="http://laorejadeeuropa.blogspot.com/">La oreja de Europa</a></li>
+<li><a href="http://encarnahernandez.wordpress.com/">Más Europa</a></li>
+<li><a href="http://www.nuestracausa.es/">nuestracausa</a></li>
+<li><a href="http://progresabruselas.wordpress.com/">progres@</a></li>
+
+	</ul>
+</fieldset>
+<fieldset class='sidebarlist'><legend>archives</legend>		<ul>
+			<li><a href='http://www.eurosocialist.eu/2010/04/' title='April 2010'>April 2010</a>&nbsp;(1)</li>
+	<li><a href='http://www.eurosocialist.eu/2010/03/' title='March 2010'>March 2010</a>&nbsp;(3)</li>
+	<li><a href='http://www.eurosocialist.eu/2010/02/' title='February 2010'>February 2010</a>&nbsp;(5)</li>
+	<li><a href='http://www.eurosocialist.eu/2010/01/' title='January 2010'>January 2010</a>&nbsp;(5)</li>
+	<li><a href='http://www.eurosocialist.eu/2009/12/' title='December 2009'>December 2009</a>&nbsp;(4)</li>
+	<li><a href='http://www.eurosocialist.eu/2009/11/' title='November 2009'>November 2009</a>&nbsp;(9)</li>
+	<li><a href='http://www.eurosocialist.eu/2009/10/' title='October 2009'>October 2009</a>&nbsp;(8)</li>
+	<li><a href='http://www.eurosocialist.eu/2009/09/' title='September 2009'>September 2009</a>&nbsp;(13)</li>
+	<li><a href='http://www.eurosocialist.eu/2009/07/' title='July 2009'>July 2009</a>&nbsp;(8)</li>
+	<li><a href='http://www.eurosocialist.eu/2009/06/' title='June 2009'>June 2009</a>&nbsp;(16)</li>
+	<li><a href='http://www.eurosocialist.eu/2009/05/' title='May 2009'>May 2009</a>&nbsp;(3)</li>
+		</ul>
+</fieldset>
+        </div>
+    </td>
+
+    <td id='content' valign='top'>
+
+
+
+
+    
+        <div class="post" id="post-722">
+
+            <fieldset>
+
+                <legend class='title'>
+                    <a href="http://www.eurosocialist.eu/why-the-commission%e2%80%99s-proposal-is-nipping-the-citizens-initiative-in-the-bud/" rel="bookmark"
+                        title="Permanent Link to Why the Commission’s proposal is nipping the citizen&#8217;s initiative in the bud">Why the Commission’s proposal is nipping the citizen&#8217;s initiative in the bud</a>
+                </legend>
+
+                <div class='capsule dateauthor'>
+                    Apr 4th, 2010                </div>
+
+                <div class="entry">
+                    <p>I’ve never been a great fan of the concept of the European citizen&#8217;s initiative. Having to mobilise 1.000.000 people to submit an idea for review by the Commission without the Commission having any obligation to actually act on it, I&#8217;ve always thought it could potentially produce great deception, rather than foster enthusiasm for European issues. On the other hand, in times where barely half of the citizens bother to vote to elect their political representatives, I think that any initiative that aims at fostering more citizen participation is good to take, especially when the initiative is meant to promote pan-European debates as it is the case here.</p>
+<p>So I read carefully the <a href="http://ec.europa.eu/dgs/secretariat_general/citizens_initiative/docs/com_2010_119_en.pdf">Commission’s proposal for the citizen’s initiative</a>, and as many commentators (see <a href="http://theeuropeancitizen.blogspot.com/2010/04/citizens-initiative-proposal.html">here</a>, <a href="http://www.bitmorecomplicated.com/?p=428">here</a>, <a href="http://laorejadeeuropa.blogspot.com/2010/03/el-poder-del-pueblo-y-las-trabas-para.html">here</a>, and <a href="http://www.lacomeuropeenne.com/index.php?2010/03/31/559-initiative-citoyenne-inquietudes-autour-des-propositions-de-la-commission-europeenne">here</a>), I was disappointed. The general feeling is that the initial spirit of the citizen’s initiative will be nipped in the bud by unnecessary administrative requirements.</p>
+<ol>
+<li>The main problem to me is to require petition signatories to give their ID number. Honestly, who would give their ID number to petition organisers? I wouldn’t, and I’m not even a very wary person. First name, last name, city of residence, email or phone number should be more than enough.</li>
+<li>Petition organisers would only get 12 months after they officially register their petition to get 1.000.000 signatories in 1/3<sup>rd</sup> of member states. Surely that will favour large organisations that have established networks and permanent staff, and will not give enough time for individual citizens to set up campaigns from scratch during their free time. The citizen’s initiative is meant to get citizens actively involved in the political process, not large organisations.</li>
+<li>A citizen’s initiative would be checked for admissibility after 300.000 signatures have been collected. In my opinion, that should be done right at the beginning, or not at all. Is there really a need to have it checked anyway? Does it really matter if the initiative doesn’t fall in the competences of the Commission and/or the EU? These are not carved in marble after all.</li>
+<li>The proposal also requires that online petitions should have adequate security features. What does that mean exactly? Does it mean that petition organisers would have to purchase expensive security software to get their petition approved? Again, that would favour large organisations, and kill many grass-root campaigns from emerging.</li>
+<li>Finally, it would apparently be up to each member state to verify the validity of signatures. So a petition organiser would have to submit its support forms to 9 member states at least. More red-tape again. Less room for citizen-led initiatives.</li>
+</ol>
+<p>If ever one petition manages to fulfil all the requirements, it’s not even sure the Commission would make a proposal according to the petition’s request, and the proposal would have to get the European Parliament’s and the Council’s approval anyway. So I can’t help but wonder&#8230; is there really a need for that many security safeguards -admissibility check, security software, signatories’ ID numbers and address, authentication of statements of support by member states, etc?</p>
+<p>Both the European Parliament and the Council will have to examine the proposal now. Maybe it’s time for some citizen lobbying? <a href="http://twitter.com/davygeee/status/11472492868">Davygee on Twitter the other day</a> suggested to set up a social media campaign to improve the Commission’s proposal. Who’s up for it?</p>
+<div class="addtoany_share_save_container"><ul class="addtoany_list"><li><a class="a2a_dd addtoany_share_save" href="http://www.addtoany.com/share_save?linkurl=http%3A%2F%2Fwww.eurosocialist.eu%2Fwhy-the-commission%25e2%2580%2599s-proposal-is-nipping-the-citizens-initiative-in-the-bud%2F&amp;linkname=Why%20the%20Commission%E2%80%99s%20proposal%20is%20nipping%20the%20citizen%26%238217%3Bs%20initiative%20in%20the%20bud"><img src="http://www.eurosocialist.eu/wp-content/plugins/add-to-any/share_save_171_16.png" width="171" height="16" alt="Share/Bookmark"/></a></li></ul></div>                </div>
+
+                <div class="postmetadata"
+                                        >
+
+                    <span class='capsule commentlink actbubble'>
+                        <a href="http://www.eurosocialist.eu/why-the-commission%e2%80%99s-proposal-is-nipping-the-citizens-initiative-in-the-bud/#comments" title="Comment on Why the Commission’s proposal is nipping the citizen&#8217;s initiative in the bud">14 Comments &#187;</a>                    </span>
+
+                    <input type='button' class='capsule actbubble cattrigger'
+                        value='Categories &darr;'
+                        onclick='fadeBlock("postcats-722");'/>
+
+                                            <input type='button' class='capsule actbubble cattrigger'
+                            value='Tags &darr;'
+                            onclick='fadeBlock("posttags-722");'/>
+                    
+                    <!-- inline style for easy JavaScript mods, without getting computed styles -->
+                    <div id='postcats-722' class='postcattags postcats'
+                        style='display: none; opacity: 0;'>
+                        <a href='http://www.eurosocialist.eu/category/european-politics/'>European politics</a>                    </div>
+
+                                            <!-- inline style for easy JavaScript mods, without getting computed styles -->
+                        <div id='posttags-722' class='postcattags posttags'
+                            style='display: none; opacity: 0;'>
+                            <a href="http://www.eurosocialist.eu/tag/citizens-initiative/" rel="tag">citizen's initiative</a>, <a href="http://www.eurosocialist.eu/tag/european-commission/" rel="tag">European Commission</a>, <a href="http://www.eurosocialist.eu/tag/political-actions/" rel="tag">Political actions</a> 
+                        </div>
+                    
+                </div> <!-- postmetadata -->
+
+            </fieldset>
+
+        </div> <!-- post -->
+
+    
+        <div class="post" id="post-709">
+
+            <fieldset>
+
+                <legend class='title'>
+                    <a href="http://www.eurosocialist.eu/an-example-of-belgian-kafkaism/" rel="bookmark"
+                        title="Permanent Link to An example of Belgian Kafkaism">An example of Belgian Kafkaism</a>
+                </legend>
+
+                <div class='capsule dateauthor'>
+                    Mar 29th, 2010                </div>
+
+                <div class="entry">
+                    <p>After I got fined for not declaring that I had nothing to declare, I now have to pay taxes on revenue I never earned. Feeling confused? Welcome to Belgium!</p>
+<p><a href="http://www.musee-magritte-museum.be/Typo3/index.php?id=43&amp;L=1"><img class="alignright" style="margin: 5px; border: 0px initial initial;" src="http://www.library.yale.edu/librarynews/ceci-n-est-pas-une-pipe.jpg" alt="ceci-n-est-pas-une-pipe.jpg" width="250" height="175" /></a>Let me try and explain&#8230; After I was made redundant because of the crisis a year ago I registered as a freelancer on a complementary basis, thinking boldly: what the hell, what if I were to become my own boss? That didn’t happen though as I found a new full-time job straight away. Having been too busy since then I never used my freelancer status, thus made €0.00 with it. Still I had to fill in VAT declarations. I did so but too late, which is why I got a fine. Fair enough, I should have declared in time that I had nothing to declare. Mea culpa&#8230; But isn’t there something a little surreal about fining  someone for not having declared that they had nothing to declare? Or am I just not Belgian enough? Anyway, I’m an honest citizen so I paid my fine. I also kept on declaring that I had nothing to declare. That’s how cooperative I am. And then I received a letter from the Belgian tax authorities telling me that I had to pay tax on revenue I never earned. Hold on. I thought you actually had to earn revenue to get taxed on that revenue&#8230; or am I missing something?</p>
+<p style="text-align: center;"><a href="http://www.eurosocialist.eu/wp-content/uploads/brussel_bruxelles.png"><img class="size-full wp-image-713 aligncenter" style="margin-top: 5px; margin-bottom: 5px; border: 0px initial initial;" title="brussel_bruxelles" src="http://www.eurosocialist.eu/wp-content/uploads/brussel_bruxelles.png" alt="" width="410" height="106" /></a></p>
+<p>What is the moral of the story? I am going to get rid of this freelancer status as it is just too much of a bother. It’s a shame as I will probably have freelancing opportunities in the future, which I will then decline because it just seems like too much of an administrative nightmare! When a year ago I was thinking of getting this freelancer status, some friends advised me to register in France or in the UK for it was more interesting tax-wise. But as a socialist, I don’t mind paying high taxes. Besides I thought it was just the right thing to do to register as a freelancer in the country I live. How very idealistic of mine&#8230;</p>
+<p>PS: If you are a Belgian tax expert, please get in touch with me. Thank you!</p>
+<div class="addtoany_share_save_container"><ul class="addtoany_list"><li><a class="a2a_dd addtoany_share_save" href="http://www.addtoany.com/share_save?linkurl=http%3A%2F%2Fwww.eurosocialist.eu%2Fan-example-of-belgian-kafkaism%2F&amp;linkname=An%20example%20of%20Belgian%20Kafkaism"><img src="http://www.eurosocialist.eu/wp-content/plugins/add-to-any/share_save_171_16.png" width="171" height="16" alt="Share/Bookmark"/></a></li></ul></div>                </div>
+
+                <div class="postmetadata"
+                                        >
+
+                    <span class='capsule commentlink actbubble'>
+                        <a href="http://www.eurosocialist.eu/an-example-of-belgian-kafkaism/#comments" title="Comment on An example of Belgian Kafkaism">4 Comments &#187;</a>                    </span>
+
+                    <input type='button' class='capsule actbubble cattrigger'
+                        value='Categories &darr;'
+                        onclick='fadeBlock("postcats-709");'/>
+
+                                            <input type='button' class='capsule actbubble cattrigger'
+                            value='Tags &darr;'
+                            onclick='fadeBlock("posttags-709");'/>
+                    
+                    <!-- inline style for easy JavaScript mods, without getting computed styles -->
+                    <div id='postcats-709' class='postcattags postcats'
+                        style='display: none; opacity: 0;'>
+                        <a href='http://www.eurosocialist.eu/category/european-politics/'>European politics</a>                    </div>
+
+                                            <!-- inline style for easy JavaScript mods, without getting computed styles -->
+                        <div id='posttags-709' class='postcattags posttags'
+                            style='display: none; opacity: 0;'>
+                            <a href="http://www.eurosocialist.eu/tag/belgium/" rel="tag">Belgium</a>, <a href="http://www.eurosocialist.eu/tag/bureaucracy/" rel="tag">Bureaucracy</a>, <a href="http://www.eurosocialist.eu/tag/surrealism/" rel="tag">Surrealism</a> 
+                        </div>
+                    
+                </div> <!-- postmetadata -->
+
+            </fieldset>
+
+        </div> <!-- post -->
+
+    
+        <div class="post" id="post-707">
+
+            <fieldset>
+
+                <legend class='title'>
+                    <a href="http://www.eurosocialist.eu/quote-of-the-week-2/" rel="bookmark"
+                        title="Permanent Link to Quote of the Week: Tom Foremski">Quote of the Week: Tom Foremski</a>
+                </legend>
+
+                <div class='capsule dateauthor'>
+                    Mar 18th, 2010                </div>
+
+                <div class="entry">
+                    <blockquote><p>Internet 1.0 was about being able to publish to anything with a computer screen. Now, anything with a screen can publish back. That&#8217;s what social media represents&#8230;the &#8216;me&#8217; in media.</p></blockquote>
+<p>Tom Foremski, <a href="http://www.siliconvalleywatcher.com/mt/archives/2010/03/social_media_is.php">SiliconValleyWatcher</a></p>
+<div class="addtoany_share_save_container"><ul class="addtoany_list"><li><a class="a2a_dd addtoany_share_save" href="http://www.addtoany.com/share_save?linkurl=http%3A%2F%2Fwww.eurosocialist.eu%2Fquote-of-the-week-2%2F&amp;linkname=Quote%20of%20the%20Week%3A%20Tom%20Foremski"><img src="http://www.eurosocialist.eu/wp-content/plugins/add-to-any/share_save_171_16.png" width="171" height="16" alt="Share/Bookmark"/></a></li></ul></div>                </div>
+
+                <div class="postmetadata"
+                                        >
+
+                    <span class='capsule commentlink actbubble'>
+                        <a href="http://www.eurosocialist.eu/quote-of-the-week-2/#respond" title="Comment on Quote of the Week: Tom Foremski">No Comments &#187;</a>                    </span>
+
+                    <input type='button' class='capsule actbubble cattrigger'
+                        value='Categories &darr;'
+                        onclick='fadeBlock("postcats-707");'/>
+
+                                            <input type='button' class='capsule actbubble cattrigger'
+                            value='Tags &darr;'
+                            onclick='fadeBlock("posttags-707");'/>
+                    
+                    <!-- inline style for easy JavaScript mods, without getting computed styles -->
+                    <div id='postcats-707' class='postcattags postcats'
+                        style='display: none; opacity: 0;'>
+                        <a href='http://www.eurosocialist.eu/category/quote-of-the-week/'>Quote of the week</a>, <a href='http://www.eurosocialist.eu/category/web-2-0/'>Web 2.0</a>                    </div>
+
+                                            <!-- inline style for easy JavaScript mods, without getting computed styles -->
+                        <div id='posttags-707' class='postcattags posttags'
+                            style='display: none; opacity: 0;'>
+                            <a href="http://www.eurosocialist.eu/tag/social-media/" rel="tag">Social media</a>, <a href="http://www.eurosocialist.eu/tag/web-2-0/" rel="tag">Web 2.0</a> 
+                        </div>
+                    
+                </div> <!-- postmetadata -->
+
+            </fieldset>
+
+        </div> <!-- post -->
+
+    
+        <div class="post" id="post-704">
+
+            <fieldset>
+
+                <legend class='title'>
+                    <a href="http://www.eurosocialist.eu/procrastination/" rel="bookmark"
+                        title="Permanent Link to Procrastination">Procrastination</a>
+                </legend>
+
+                <div class='capsule dateauthor'>
+                    Mar 17th, 2010                </div>
+
+                <div class="entry">
+                    <p><object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" width="400" height="320" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,40,0"><param name="allowfullscreen" value="true" /><param name="allowscriptaccess" value="always" /><param name="src" value="http://vimeo.com/moogaloop.swf?clip_id=9553205&amp;server=vimeo.com&amp;show_title=1&amp;show_byline=1&amp;show_portrait=0&amp;color=&amp;fullscreen=1" /><embed type="application/x-shockwave-flash" width="400" height="320" src="http://vimeo.com/moogaloop.swf?clip_id=9553205&amp;server=vimeo.com&amp;show_title=1&amp;show_byline=1&amp;show_portrait=0&amp;color=&amp;fullscreen=1" allowscriptaccess="always" allowfullscreen="true"></embed></object></p>
+<p><a href="http://vimeo.com/9553205">Procrastination</a> from <a href="http://vimeo.com/johnnykelly">Johnny Kelly</a> on <a href="http://vimeo.com">Vimeo</a>.</p>
+<div class="addtoany_share_save_container"><ul class="addtoany_list"><li><a class="a2a_dd addtoany_share_save" href="http://www.addtoany.com/share_save?linkurl=http%3A%2F%2Fwww.eurosocialist.eu%2Fprocrastination%2F&amp;linkname=Procrastination"><img src="http://www.eurosocialist.eu/wp-content/plugins/add-to-any/share_save_171_16.png" width="171" height="16" alt="Share/Bookmark"/></a></li></ul></div>                </div>
+
+                <div class="postmetadata"
+                                        >
+
+                    <span class='capsule commentlink actbubble'>
+                        <a href="http://www.eurosocialist.eu/procrastination/#comments" title="Comment on Procrastination">1 Comment &#187;</a>                    </span>
+
+                    <input type='button' class='capsule actbubble cattrigger'
+                        value='Categories &darr;'
+                        onclick='fadeBlock("postcats-704");'/>
+
+                                            <input type='button' class='capsule actbubble cattrigger'
+                            value='Tags &darr;'
+                            onclick='fadeBlock("posttags-704");'/>
+                    
+                    <!-- inline style for easy JavaScript mods, without getting computed styles -->
+                    <div id='postcats-704' class='postcattags postcats'
+                        style='display: none; opacity: 0;'>
+                        <a href='http://www.eurosocialist.eu/category/the-best-of-the-blogosphere/'>The best of the web</a>                    </div>
+
+                                            <!-- inline style for easy JavaScript mods, without getting computed styles -->
+                        <div id='posttags-704' class='postcattags posttags'
+                            style='display: none; opacity: 0;'>
+                            <a href="http://www.eurosocialist.eu/tag/fun/" rel="tag">Fun</a> 
+                        </div>
+                    
+                </div> <!-- postmetadata -->
+
+            </fieldset>
+
+        </div> <!-- post -->
+
+    
+        <div class="post" id="post-702">
+
+            <fieldset>
+
+                <legend class='title'>
+                    <a href="http://www.eurosocialist.eu/quote-of-the-week-margaret-mead/" rel="bookmark"
+                        title="Permanent Link to Quote of the Week: Margaret Mead">Quote of the Week: Margaret Mead</a>
+                </legend>
+
+                <div class='capsule dateauthor'>
+                    Feb 18th, 2010                </div>
+
+                <div class="entry">
+                    <blockquote><p>Never doubt that a small group of thoughtful, committed citizens can change the world. Indeed, it is the only thing that ever has.</p></blockquote>
+<p><a href="http://en.wikipedia.org/wiki/Margaret_Mead">Margaret Mead</a>, American anthropologist (1901-1978)</p>
+<div class="addtoany_share_save_container"><ul class="addtoany_list"><li><a class="a2a_dd addtoany_share_save" href="http://www.addtoany.com/share_save?linkurl=http%3A%2F%2Fwww.eurosocialist.eu%2Fquote-of-the-week-margaret-mead%2F&amp;linkname=Quote%20of%20the%20Week%3A%20Margaret%20Mead"><img src="http://www.eurosocialist.eu/wp-content/plugins/add-to-any/share_save_171_16.png" width="171" height="16" alt="Share/Bookmark"/></a></li></ul></div>                </div>
+
+                <div class="postmetadata"
+                                        >
+
+                    <span class='capsule commentlink actbubble'>
+                        <a href="http://www.eurosocialist.eu/quote-of-the-week-margaret-mead/#comments" title="Comment on Quote of the Week: Margaret Mead">4 Comments &#187;</a>                    </span>
+
+                    <input type='button' class='capsule actbubble cattrigger'
+                        value='Categories &darr;'
+                        onclick='fadeBlock("postcats-702");'/>
+
+                                            <input type='button' class='capsule actbubble cattrigger'
+                            value='Tags &darr;'
+                            onclick='fadeBlock("posttags-702");'/>
+                    
+                    <!-- inline style for easy JavaScript mods, without getting computed styles -->
+                    <div id='postcats-702' class='postcattags postcats'
+                        style='display: none; opacity: 0;'>
+                        <a href='http://www.eurosocialist.eu/category/quote-of-the-week/'>Quote of the week</a>                    </div>
+
+                                            <!-- inline style for easy JavaScript mods, without getting computed styles -->
+                        <div id='posttags-702' class='postcattags posttags'
+                            style='display: none; opacity: 0;'>
+                            <a href="http://www.eurosocialist.eu/tag/pes-activists/" rel="tag">PES activists</a> 
+                        </div>
+                    
+                </div> <!-- postmetadata -->
+
+            </fieldset>
+
+        </div> <!-- post -->
+
+    
+        <div class="post" id="post-699">
+
+            <fieldset>
+
+                <legend class='title'>
+                    <a href="http://www.eurosocialist.eu/quote-of-the-week-madeleine-albright/" rel="bookmark"
+                        title="Permanent Link to Quote of the Week: Madeleine Albright">Quote of the Week: Madeleine Albright</a>
+                </legend>
+
+                <div class='capsule dateauthor'>
+                    Feb 13th, 2010                </div>
+
+                <div class="entry">
+                    <p>&#8220;There is a special place in hell for women who do not help other women.&#8221;</p>
+<p><a href="http://en.wikipedia.org/wiki/Madeleine_Albright">Madeleine Albright</a>, Former US Secretary of State</p>
+<div class="addtoany_share_save_container"><ul class="addtoany_list"><li><a class="a2a_dd addtoany_share_save" href="http://www.addtoany.com/share_save?linkurl=http%3A%2F%2Fwww.eurosocialist.eu%2Fquote-of-the-week-madeleine-albright%2F&amp;linkname=Quote%20of%20the%20Week%3A%20Madeleine%20Albright"><img src="http://www.eurosocialist.eu/wp-content/plugins/add-to-any/share_save_171_16.png" width="171" height="16" alt="Share/Bookmark"/></a></li></ul></div>                </div>
+
+                <div class="postmetadata"
+                                        >
+
+                    <span class='capsule commentlink actbubble'>
+                        <a href="http://www.eurosocialist.eu/quote-of-the-week-madeleine-albright/#comments" title="Comment on Quote of the Week: Madeleine Albright">4 Comments &#187;</a>                    </span>
+
+                    <input type='button' class='capsule actbubble cattrigger'
+                        value='Categories &darr;'
+                        onclick='fadeBlock("postcats-699");'/>
+
+                                            <input type='button' class='capsule actbubble cattrigger'
+                            value='Tags &darr;'
+                            onclick='fadeBlock("posttags-699");'/>
+                    
+                    <!-- inline style for easy JavaScript mods, without getting computed styles -->
+                    <div id='postcats-699' class='postcattags postcats'
+                        style='display: none; opacity: 0;'>
+                        <a href='http://www.eurosocialist.eu/category/girl-power/'>Girl Power</a>, <a href='http://www.eurosocialist.eu/category/quote-of-the-week/'>Quote of the week</a>                    </div>
+
+                                            <!-- inline style for easy JavaScript mods, without getting computed styles -->
+                        <div id='posttags-699' class='postcattags posttags'
+                            style='display: none; opacity: 0;'>
+                            <a href="http://www.eurosocialist.eu/tag/us/" rel="tag">US</a>, <a href="http://www.eurosocialist.eu/tag/women/" rel="tag">Women</a> 
+                        </div>
+                    
+                </div> <!-- postmetadata -->
+
+            </fieldset>
+
+        </div> <!-- post -->
+
+    
+        <div class="post" id="post-693">
+
+            <fieldset>
+
+                <legend class='title'>
+                    <a href="http://www.eurosocialist.eu/dear-commissioners-stop-broadcasting-and-start-engaging/" rel="bookmark"
+                        title="Permanent Link to Dear Commissioners, stop broadcasting, and start engaging!">Dear Commissioners, stop broadcasting, and start engaging!</a>
+                </legend>
+
+                <div class='capsule dateauthor'>
+                    Feb 9th, 2010                </div>
+
+                <div class="entry">
+                    <p>In the <a href="http://ec.europa.eu/commission_designate_2009-2014/index_en.htm">new European Commission set-up</a>, there are two nominations that make me quite sceptical: that of Neelie Kroes at the Digital Agenda, and that of Viviane Reding at Justice, Fundamental Rights and Citizenship.</p>
+<p>First the person who will be in charge of the so-called digital agenda for Europe is a 69-year-old woman, current Competition Commissioner Neelie Kroes. I can’t help but wonder: is a person who should actually be retired the right one to lead Europe into the future? Can she understand what the digital revolution is all about? I doubt it. The Spanish socialist party’s spokesperson for the digital economy is a <a href="http://www.mariagonzalezveracruz.com/">30-year-old woman</a>. I think that’s the way it should be because one cannot apply old methods to new phenomena.</p>
+<p>Then the Communication portfolio &#8211; held by one of the most decent Commissioners so far, Margot Wallström, simply disappeared. Apparently, the competence for communication will be under Viviane Reding’s portfolio. I followed her hearing. Although it is not humanly possible to follow 3 hours of Commissioner hearing -and I might have therefore missed something- I’m pretty sure there were almost no questions about communication. At some point, <a href="http://www.lacomeuropeenne.com/index.php?2010/01/18/523-inquietude-sur-la-communication-de-lue-apres-les-propos-de-viviane-reding-a-new-europe">as this blog reports</a>, Viviane Reding mentioned that, as a former journalist her approach would be to find interesting stories to tell about the EU. Clearly she still thinks that in order to make the EU closer to the citizen, the EU needs to be better communicated. As many EU communicators, she’s wrong. <a href="http://www.eurosocialist.eu/communicating-europe-mission-impossible-what-if-the-problem-was-elsewhere%E2%80%A6/">The EU needs to communicate WITH the citizens and not TO the citizens</a>. So I’m begging you, please: stop broadcasting, and start engaging!</p>
+<p>EU leaders’ basic misunderstanding on how they should communicate is well reflected in their use of social media. I did a quick study. On Facebook, <a href="http://www.facebook.com/pages/Jose-Manuel-Barroso/110107045169?ref=search&amp;sid=689702535.4099685713..1">José Manuel Barroso</a> has 337 fans, <a href="http://www.facebook.com/pages/Baroness-Catherine-Ashton/203618869107?ref=search&amp;sid=689702535.3225528596..1">Catherine Ashton</a> 204, <a href="http://www.facebook.com/pages/Neelie-Kroes/15394709586?ref=search&amp;sid=689702535.1435903769..1">Neelie Kroes</a> 717, and Viviane Reding&#8230; well, she just doesn’t have a profile. To give you a point of comparison, I -Miss Anybody- personally have 565 friends on Facebook, and 155 fans of the <a href="http://www.facebook.com/eurosocialiste">Eurosocialist fan page</a>. Surely top EU officials can do better than that! The presence of EU leaders on Twitter is even more pathetic. They simply are not there at all, at least officially, because the vacuum their absence creates has been filled by either fake accounts: such as <a href="http://twitter.com/JMDBarroso">@JMDBarroso</a> and <a href="https://twitter.com/hermanvanrompuy">@hermanvanrompuy</a> or <a href="http://en.wikipedia.org/wiki/Cybersquatting">cybersquatting</a>: <a href="https://twitter.com/CatherineAshton">@CatherineAshton</a>, <a href="https://twitter.com/VivianeReding">@VivianeReding</a> <a href="https://twitter.com/neeliekroes">@neeliekroes</a>.</p>
+<p>Dear Commissioners, you can’t be serious. Communicating with citizens is actually easy to do: just go where they are. You ought to take an example from the European Parliament president, Jerzy Buzek, who has a remarkably different approach: <a href="http://www.facebook.com/JerzyBuzek?ref=search&amp;sid=689702535.1463089302..1">2.462 fans on Facebook</a>, an <a href="http://twitter.com/JerzyBuzek">official Twitter profile</a> that has already 1.006 followers, though it opened just a few weeks ago, and he is the only one of the above to have links to his social network accounts on his <a href="http://www.ep-president.eu/view/en/">Web page</a>. Last month the European Commission&#8217;s Internet editors and webmasters <a href="http://dicknieuwenhuis.files.wordpress.com/2010/01/open-letter-final-january-2010.pdf">published an appeal</a> to their bosses so that they start harnessing the power of the Internet for better communication. This letter clearly shows that the Commission has competent staff on the matter. The question then is: how long will EU leaders keep on ignoring <a href="http://www.eurosocialist.eu/generation-2-0-not-just-a-technological-revolution-it%E2%80%99s-a-cultural-revolution/">the communication revolution that is taking place at the moment</a>?</p>
+<p>NB: Thanks to the good work of Commission staff, a list of EU institutions’ Twitter and Facebook accounts can be found <a href="http://ec.europa.eu/external_relations/twitter/index_en.htm">here</a>.</p>
+<p>UPDATE February 10th: <a href="http://twitter.com/dicknieuwenhuis">@dicknieuwenhuis</a> informs me that <a href="http://twitter.com/Potocnik_Janez">Janez Potočnik</a>, new Commissioner for the Environment has opened a Twitter account today! Congratulations!</p>
+<div class="addtoany_share_save_container"><ul class="addtoany_list"><li><a class="a2a_dd addtoany_share_save" href="http://www.addtoany.com/share_save?linkurl=http%3A%2F%2Fwww.eurosocialist.eu%2Fdear-commissioners-stop-broadcasting-and-start-engaging%2F&amp;linkname=Dear%20Commissioners%2C%20stop%20broadcasting%2C%20and%20start%20engaging%21"><img src="http://www.eurosocialist.eu/wp-content/plugins/add-to-any/share_save_171_16.png" width="171" height="16" alt="Share/Bookmark"/></a></li></ul></div>                </div>
+
+                <div class="postmetadata"
+                                        >
+
+                    <span class='capsule commentlink actbubble'>
+                        <a href="http://www.eurosocialist.eu/dear-commissioners-stop-broadcasting-and-start-engaging/#comments" title="Comment on Dear Commissioners, stop broadcasting, and start engaging!">9 Comments &#187;</a>                    </span>
+
+                    <input type='button' class='capsule actbubble cattrigger'
+                        value='Categories &darr;'
+                        onclick='fadeBlock("postcats-693");'/>
+
+                                            <input type='button' class='capsule actbubble cattrigger'
+                            value='Tags &darr;'
+                            onclick='fadeBlock("posttags-693");'/>
+                    
+                    <!-- inline style for easy JavaScript mods, without getting computed styles -->
+                    <div id='postcats-693' class='postcattags postcats'
+                        style='display: none; opacity: 0;'>
+                        <a href='http://www.eurosocialist.eu/category/european-politics/'>European politics</a>, <a href='http://www.eurosocialist.eu/category/web-2-0/'>Web 2.0</a>                    </div>
+
+                                            <!-- inline style for easy JavaScript mods, without getting computed styles -->
+                        <div id='posttags-693' class='postcattags posttags'
+                            style='display: none; opacity: 0;'>
+                            <a href="http://www.eurosocialist.eu/tag/european-commission/" rel="tag">European Commission</a>, <a href="http://www.eurosocialist.eu/tag/european-communication/" rel="tag">European communication</a>, <a href="http://www.eurosocialist.eu/tag/social-media/" rel="tag">Social media</a> 
+                        </div>
+                    
+                </div> <!-- postmetadata -->
+
+            </fieldset>
+
+        </div> <!-- post -->
+
+    
+        <div class="post" id="post-691">
+
+            <fieldset>
+
+                <legend class='title'>
+                    <a href="http://www.eurosocialist.eu/the-belgian-government-is-asking-for-help-please-listen-to-its-call/" rel="bookmark"
+                        title="Permanent Link to The Belgian government is asking for help. Please listen to its call">The Belgian government is asking for help. Please listen to its call</a>
+                </legend>
+
+                <div class='capsule dateauthor'>
+                    Feb 7th, 2010                </div>
+
+                <div class="entry">
+                    <p><object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" width="425" height="344" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,40,0"><param name="allowFullScreen" value="true" /><param name="allowscriptaccess" value="always" /><param name="src" value="http://www.youtube.com/v/2-vspTB1n9g&amp;hl=fr_FR&amp;fs=1&amp;" /><param name="allowfullscreen" value="true" /><embed type="application/x-shockwave-flash" width="425" height="344" src="http://www.youtube.com/v/2-vspTB1n9g&amp;hl=fr_FR&amp;fs=1&amp;" allowscriptaccess="always" allowfullscreen="true"></embed></object></p>
+<p>Found on Twitter thanks to <a href="http://twitter.com/maitea6">@Maitea6</a></p>
+<p>Fortunately, some good souls, such as <a href="http://twitter.com/linotherhino">@linotherhino</a>, have already started to reply.</p>
+<p><object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" width="560" height="340" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,40,0"><param name="allowFullScreen" value="true" /><param name="allowscriptaccess" value="always" /><param name="src" value="http://www.youtube.com/v/dlp2EKxQDvE&amp;hl=fr_FR&amp;fs=1&amp;" /><param name="allowfullscreen" value="true" /><embed type="application/x-shockwave-flash" width="560" height="340" src="http://www.youtube.com/v/dlp2EKxQDvE&amp;hl=fr_FR&amp;fs=1&amp;" allowscriptaccess="always" allowfullscreen="true"></embed></object></p>
+<div class="addtoany_share_save_container"><ul class="addtoany_list"><li><a class="a2a_dd addtoany_share_save" href="http://www.addtoany.com/share_save?linkurl=http%3A%2F%2Fwww.eurosocialist.eu%2Fthe-belgian-government-is-asking-for-help-please-listen-to-its-call%2F&amp;linkname=The%20Belgian%20government%20is%20asking%20for%20help.%20Please%20listen%20to%20its%20call"><img src="http://www.eurosocialist.eu/wp-content/plugins/add-to-any/share_save_171_16.png" width="171" height="16" alt="Share/Bookmark"/></a></li></ul></div>                </div>
+
+                <div class="postmetadata"
+                                        >
+
+                    <span class='capsule commentlink actbubble'>
+                        <a href="http://www.eurosocialist.eu/the-belgian-government-is-asking-for-help-please-listen-to-its-call/#comments" title="Comment on The Belgian government is asking for help. Please listen to its call">2 Comments &#187;</a>                    </span>
+
+                    <input type='button' class='capsule actbubble cattrigger'
+                        value='Categories &darr;'
+                        onclick='fadeBlock("postcats-691");'/>
+
+                                            <input type='button' class='capsule actbubble cattrigger'
+                            value='Tags &darr;'
+                            onclick='fadeBlock("posttags-691");'/>
+                    
+                    <!-- inline style for easy JavaScript mods, without getting computed styles -->
+                    <div id='postcats-691' class='postcattags postcats'
+                        style='display: none; opacity: 0;'>
+                        <a href='http://www.eurosocialist.eu/category/the-best-of-the-blogosphere/'>The best of the web</a>                    </div>
+
+                                            <!-- inline style for easy JavaScript mods, without getting computed styles -->
+                        <div id='posttags-691' class='postcattags posttags'
+                            style='display: none; opacity: 0;'>
+                            <a href="http://www.eurosocialist.eu/tag/belgian-surrealism/" rel="tag">Belgian Surrealism</a>, <a href="http://www.eurosocialist.eu/tag/belgium/" rel="tag">Belgium</a>, <a href="http://www.eurosocialist.eu/tag/european-communication/" rel="tag">European communication</a>, <a href="http://www.eurosocialist.eu/tag/fun/" rel="tag">Fun</a> 
+                        </div>
+                    
+                </div> <!-- postmetadata -->
+
+            </fieldset>
+
+        </div> <!-- post -->
+
+    
+        <div class="post" id="post-688">
+
+            <fieldset>
+
+                <legend class='title'>
+                    <a href="http://www.eurosocialist.eu/quote-of-the-week-marian-wright-edelman/" rel="bookmark"
+                        title="Permanent Link to Quote of the Week: Marian Wright Edelman">Quote of the Week: Marian Wright Edelman</a>
+                </legend>
+
+                <div class='capsule dateauthor'>
+                    Feb 7th, 2010                </div>
+
+                <div class="entry">
+                    <p>&#8220;If you don&#8217;t like the way the world is, you change it. You have an obligation to change it. You just do it one step at a time.&#8221;</p>
+<p><a href="http://en.wikipedia.org/wiki/Marian_Wright_Edelman">Marian Wright Edelman</a>, found on Twitter thanks to <a href="http://twitter.com/womenontheverge">Women on the Verge</a></p>
+<div class="addtoany_share_save_container"><ul class="addtoany_list"><li><a class="a2a_dd addtoany_share_save" href="http://www.addtoany.com/share_save?linkurl=http%3A%2F%2Fwww.eurosocialist.eu%2Fquote-of-the-week-marian-wright-edelman%2F&amp;linkname=Quote%20of%20the%20Week%3A%20Marian%20Wright%20Edelman"><img src="http://www.eurosocialist.eu/wp-content/plugins/add-to-any/share_save_171_16.png" width="171" height="16" alt="Share/Bookmark"/></a></li></ul></div>                </div>
+
+                <div class="postmetadata"
+                                        >
+
+                    <span class='capsule commentlink actbubble'>
+                        <a href="http://www.eurosocialist.eu/quote-of-the-week-marian-wright-edelman/#comments" title="Comment on Quote of the Week: Marian Wright Edelman">2 Comments &#187;</a>                    </span>
+
+                    <input type='button' class='capsule actbubble cattrigger'
+                        value='Categories &darr;'
+                        onclick='fadeBlock("postcats-688");'/>
+
+                                            <input type='button' class='capsule actbubble cattrigger'
+                            value='Tags &darr;'
+                            onclick='fadeBlock("posttags-688");'/>
+                    
+                    <!-- inline style for easy JavaScript mods, without getting computed styles -->
+                    <div id='postcats-688' class='postcattags postcats'
+                        style='display: none; opacity: 0;'>
+                        <a href='http://www.eurosocialist.eu/category/girl-power/'>Girl Power</a>, <a href='http://www.eurosocialist.eu/category/quote-of-the-week/'>Quote of the week</a>                    </div>
+
+                                            <!-- inline style for easy JavaScript mods, without getting computed styles -->
+                        <div id='posttags-688' class='postcattags posttags'
+                            style='display: none; opacity: 0;'>
+                            <a href="http://www.eurosocialist.eu/tag/women/" rel="tag">Women</a> 
+                        </div>
+                    
+                </div> <!-- postmetadata -->
+
+            </fieldset>
+
+        </div> <!-- post -->
+
+    
+        <div class="post" id="post-675">
+
+            <fieldset>
+
+                <legend class='title'>
+                    <a href="http://www.eurosocialist.eu/happy-birthday-to-bloggingportal-eu/" rel="bookmark"
+                        title="Permanent Link to Happy Birthday to Bloggingportal.eu!">Happy Birthday to Bloggingportal.eu!</a>
+                </legend>
+
+                <div class='capsule dateauthor'>
+                    Jan 26th, 2010                </div>
+
+                <div class="entry">
+                    <p style="text-align: left;">Today we are celebrating <a style="color: #7799bb;" href="http://bloggingportal.eu/" target="_blank">bloggingportal.eu</a>’s first birthday. It’s hard to believe it is still so young. It now aggregates more than 500 euroblogs and blogs talking about the EU in all kinds of languages. The project is grassroots. We are not getting any funding. It’s a team of voluntary bloggers who each day, during their free time, select the best euroblog content for you and tag the posts. Inevitably some languages are represented better than others (English, German, French and more recently Spanish). That’s because however multilingual our team of bloggers is, we do not speak all European languages. And if you want to join the team, please do! Just send an email introducing yourself and your blog at: info @ bloggingportal.eu See you on <a href="http://bloggingportal.eu">bloggingportal.eu</a>!</p>
+<p style="text-align: center;"><a rel="attachment wp-att-676" href="http://www.eurosocialist.eu/happy-birthday-to-bloggingportal-eu/bloggingportal-1year/"><img class="size-full wp-image-676 aligncenter" title="bloggingportal-1year" src="http://www.eurosocialist.eu/wp-content/uploads/bloggingportal-1year.png" alt="bloggingportal-1year" width="478" height="188" /></a></p>
+<p style="text-align: left;">
+<p style="text-align: left;">
+<div class="addtoany_share_save_container"><ul class="addtoany_list"><li><a class="a2a_dd addtoany_share_save" href="http://www.addtoany.com/share_save?linkurl=http%3A%2F%2Fwww.eurosocialist.eu%2Fhappy-birthday-to-bloggingportal-eu%2F&amp;linkname=Happy%20Birthday%20to%20Bloggingportal.eu%21"><img src="http://www.eurosocialist.eu/wp-content/plugins/add-to-any/share_save_171_16.png" width="171" height="16" alt="Share/Bookmark"/></a></li></ul></div>                </div>
+
+                <div class="postmetadata"
+                                        >
+
+                    <span class='capsule commentlink actbubble'>
+                        <a href="http://www.eurosocialist.eu/happy-birthday-to-bloggingportal-eu/#comments" title="Comment on Happy Birthday to Bloggingportal.eu!">1 Comment &#187;</a>                    </span>
+
+                    <input type='button' class='capsule actbubble cattrigger'
+                        value='Categories &darr;'
+                        onclick='fadeBlock("postcats-675");'/>
+
+                                            <input type='button' class='capsule actbubble cattrigger'
+                            value='Tags &darr;'
+                            onclick='fadeBlock("posttags-675");'/>
+                    
+                    <!-- inline style for easy JavaScript mods, without getting computed styles -->
+                    <div id='postcats-675' class='postcattags postcats'
+                        style='display: none; opacity: 0;'>
+                        <a href='http://www.eurosocialist.eu/category/european-politics/'>European politics</a>, <a href='http://www.eurosocialist.eu/category/web-2-0/'>Web 2.0</a>                    </div>
+
+                                            <!-- inline style for easy JavaScript mods, without getting computed styles -->
+                        <div id='posttags-675' class='postcattags posttags'
+                            style='display: none; opacity: 0;'>
+                            <a href="http://www.eurosocialist.eu/tag/euroblogosphere/" rel="tag">Euroblogosphere</a> 
+                        </div>
+                    
+                </div> <!-- postmetadata -->
+
+            </fieldset>
+
+        </div> <!-- post -->
+
+    
+    <div class="navigation">
+                <a href="http://www.eurosocialist.eu/page/2/" ><span class='capsule actbubble'>&laquo; Older Entries</span></a>    </div>
+
+
+
+
+</td>
+</tr>
+</table> <!-- end of table main -->
+
+</td>
+</tr>
+
+<tr>
+<td id='credits'>
+
+<div style='float: right;'>
+&raquo;&nbsp;
+Substance: <a href='http://wordpress.org/'>WordPress</a>
+&nbsp;
+&raquo;&nbsp;
+Style: <a href='http://ahren.org/code/ahimsa'>Ahren Ahimsa</a>
+</div>
+
+&copy; Eurosocialiste 2010. Everything posted on this blog is my personal opinion and does not necessarily represent the views of my employer or its clients. The content of this blog has been revised by Fabtrad (fabtrad @ gmail.com)
+</td> <!-- end of credits -->
+</tr>
+
+</table> <!-- end of table container -->
+
+
+<script type="text/javascript">
+a2a_linkname="Why the Commission’s proposal is nipping the citizen&#8217;s initiative in the bud";
+a2a_linkurl="http://www.eurosocialist.eu/why-the-commission%e2%80%99s-proposal-is-nipping-the-citizens-initiative-in-the-bud/";
+
+</script><script type="text/javascript" src="http://static.addtoany.com/menu/page.js"></script>
+
+<script type="text/javascript">
+a2a_linkname="An example of Belgian Kafkaism";
+a2a_linkurl="http://www.eurosocialist.eu/an-example-of-belgian-kafkaism/";
+a2a_init("page");</script>
+
+<script type="text/javascript">
+a2a_linkname="Quote of the Week: Tom Foremski";
+a2a_linkurl="http://www.eurosocialist.eu/quote-of-the-week-2/";
+a2a_init("page");</script>
+
+<script type="text/javascript">
+a2a_linkname="Procrastination";
+a2a_linkurl="http://www.eurosocialist.eu/procrastination/";
+a2a_init("page");</script>
+
+<script type="text/javascript">
+a2a_linkname="Quote of the Week: Margaret Mead";
+a2a_linkurl="http://www.eurosocialist.eu/quote-of-the-week-margaret-mead/";
+a2a_init("page");</script>
+
+<script type="text/javascript">
+a2a_linkname="Quote of the Week: Madeleine Albright";
+a2a_linkurl="http://www.eurosocialist.eu/quote-of-the-week-madeleine-albright/";
+a2a_init("page");</script>
+
+<script type="text/javascript">
+a2a_linkname="Dear Commissioners, stop broadcasting, and start engaging!";
+a2a_linkurl="http://www.eurosocialist.eu/dear-commissioners-stop-broadcasting-and-start-engaging/";
+a2a_init("page");</script>
+
+<script type="text/javascript">
+a2a_linkname="The Belgian government is asking for help. Please listen to its call";
+a2a_linkurl="http://www.eurosocialist.eu/the-belgian-government-is-asking-for-help-please-listen-to-its-call/";
+a2a_init("page");</script>
+
+<script type="text/javascript">
+a2a_linkname="Quote of the Week: Marian Wright Edelman";
+a2a_linkurl="http://www.eurosocialist.eu/quote-of-the-week-marian-wright-edelman/";
+a2a_init("page");</script>
+
+<script type="text/javascript">
+a2a_linkname="Happy Birthday to Bloggingportal.eu!";
+a2a_linkurl="http://www.eurosocialist.eu/happy-birthday-to-bloggingportal-eu/";
+a2a_init("page");</script>
+
+
+</body>
+
+</html>
+
+
+
+

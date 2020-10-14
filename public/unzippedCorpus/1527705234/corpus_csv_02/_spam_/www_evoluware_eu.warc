@@ -1,0 +1,444 @@
+WARC/1.0
+WARC-Type: warcinfo
+WARC-Date: 2018-05-30T17:52:31Z
+WARC-All-Language: en
+WARC-All-Content_type: text/html
+WARC-Record-ID: <urn:uuid:c10ae547-f420-41a2-ad36-60a457adc772>
+Content-Type: application/http;msgtype=response
+Content-Length: 46
+
+WARCProcessor by SING Group www.sing-group.com
+
+WARC/1.0
+WARC-Type: response
+WARC-Target-URI: http://www.evoluware.eu
+WARC-Date: 20180530175231
+WARC-Language: en
+WARC-Record-ID: <http://www.evoluware.eu>
+Content-Type: application/http;msgtype=response
+Content-Length: 32473
+
+HTTP/1.1 200
+Content-Type:text/html
+
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html><head>
+<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
+<meta http-equiv="content-type" content="text/html; charset=ISO-8859-1">
+<meta name="keywords" content="Fred Spiessens, dr. Fred Spiessens, PhD, Alfred Spiessens, Freddy Spiessens, smart grid, renewable energy, P(H)EV, PEV, pluggable electric vehicles, pluggable hybrid electronic vehicles, research, secure software, secure software research, trust management, distributed trust management, trust management research, SCOLL, SCOLLAR, TU/E, Technische Universiteit Eindhoven, constraint programming, 4C, Software Security, trust, security and trust, trust management, distributed trust management, capabilities, capability-based security, capability security, capability based security, POLA, principle of least authority, secure language design, software pipelining, retargetable compiler, parallelism, Object Persistency, Multi-paradigm Programming, Development Team Lead, CTO, Mozart-Oz, Oz, Oz-E, Chief Technology Officer, Dr., Dr, Doctor, PhD., PhD, PhD in software security, PhD on software security, Senior Software Engineer, Architect Embedded Systems, Embedded, Embedded Systems, Multi Core Systems, Multi-Core On-Chip Systems, IMEC, Research, Nano Technology, Compiler, Compiler Technology, Software Engineer, Software Architect, IT Specialist, Object Orientation, Mathematics, Topology, Lambda Calculus, Embedded Systems, Multi Processor on Chip, Nomadic Embedded Systems, Senior Researcher, Experienced, Communication, International, Professional, Academic, Course, Technical, Computer Science, Computer, Honours Degree, V.U.B., Electronics, Analyst, Inno.com, ICT, Consultant, University, Flemish, Belgium, Ireland, Netherlands, Automotive, Lead, Application Architect, reuse, knowledge management, persistency, persistency layer, tiered, OQL, Object Query Language, object relational, SQL-Server, HTML, JavaScript, J2EE, Developer, mentor, manifacturing, electrical, industrial, constraint programming in Smalltalk, constraint programming in python, python, Smalltalk, VisualWorks, Envy, Team, Teacher, ARGO, framework, meta model, reflection, introspection, CTO, aspect, paper, document management, rulebase, data sensitive authorization, GUI design, generic, Oracle, database, VAX, VMS, Cobol, communication, skills, approach, professors, musician, Dutch, English, Irish, after sales, strategy, integration, SOAP, JMS, RMI, MQSeries, requirements, Standards, UML, RUP, XP, Agents, component, J++, accordeon, piano">
+<meta name="description" content="This is the curriculum of dr. Fred Spiessens, a Senior Software Engineer and Secure Software Researcher, currently leading a research project on distributed trust management and secure software at TU/e Netherlands in a post-doc position">
+<meta name="GENERATOR" content="Mozilla/4.75 [en] (X11; U; SunOS 5.7 sun4us) [Netscape]"><title>CV dr. Fred Spiessens</title>
+</head><body style="background-color: rgb(255, 255, 255);">
+
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+  <caption>
+  
+  </caption>
+  <tbody>
+    <tr>
+      <th rowspan="2" align="left" valign="MIDDLE" width="127">
+	<img src="fred.jpg" alt="picture" border="0" width="200">
+      </th>
+      <td align="center" valign="top">
+	<h1>CV dr. Fred Spiessens</h1> 
+      </td>
+    </tr>
+    <tr>
+      <td align="center" valign="MIDDLE">
+	<img src="contact.jpg" alt="contact" border="0">
+      </td>
+    </tr>
+  </tbody>
+</table>
+<br>
+<u>Contents</u> 
+<ul> 
+  <li>
+  <a href="#summary">Summary</a>
+  </li><li>
+  <a href="#current">Current Occupation</a> 
+  </li><li>
+  <a href="#education">Education</a>
+  </li><li>
+  <a href="#domain">Domain Expertise</a> 
+  </li><li>
+  <a href="#skills">Specialties and Skills</a>
+  </li><li>
+  <a href="#languages">Languages</a> 
+  </li><li>
+  <a href="#interests">Personal Interests</a>
+  </li><li>
+  <a href="#professional">Professional Experience</a>
+  </li><li>
+  <a href="#activities">Scientific Activities</a>
+  </li><li>
+  <a href="#publications">List of Publications</a>
+  </li><li>
+  <a href="#recomm">Recommendations</a>
+  </li>
+</ul>
+<h2><a name="summary"></a>Summary</h2>
+
+I am an experienced software engineer, research scientist, development team lead, enterprise architect, and C.T.O. with over 25 years of industry experience, a broad set of technology and people skills and a special interest in Energy Management, Secure Software Development and Optimisation. I graduated with great distinction in electronics (1988) and computer science (1992), while working fulltime as a plant operator at an oil refinery. I have led heterogeneous and international teams of technically skilled coworkers and delivered maintainable and scalable mission-critical software for many environments and platforms. I received a PhD from Universit&eacute; Catholique de Louvain for my research in <a href="http://www.evoluware.eu/thesis.html">secure software engineering</a>.
+
+
+
+<h2><a name="current"></a>Current Occupation</h2>
+<ul><li>
+  A short-term assignment with Sony in the domain of ubiquitous, context-aware computing, where I perform a technology scouting assignment exploring the landscape in this domain.
+ </li><li>
+ Preparing for a project in EV-charging, that will valorize the software framework developed earlier with Sony Belgium
+  </li>
+</ul>
+
+
+<h2><a name="education"></a>Education</h2> 
+<ul>
+  <li>
+  <b>Docteur en Sciences Appliqu&eacute;es (Phd)</b>: 2007,  <a href="http://www.info.ucl.ac.be/">Universit&eacute; catholique de Louvain:</a>
+  <ul><li>
+    PhD thesis on <a href="http://www.evoluware.eu/fsp_thesis.pdf">"Patterns of Safe Collaboration"</a>. 
+    </li><li>
+    See also:  <a href="#activities">Scientific Activities</a> and <a href="#publications">List of Publications</a>
+    </li>
+  </ul>
+</li>
+<li>
+<b>Masters Computer Sciences</b>: 1992, <a href="http://prog.vub.ac.be/">Free University Brussels.</a> 
+<ul>
+  <li>
+  Great Distinction 
+  </li><li>
+  Studies while working full-time as a plant operator in an oil refinery.</li>
+</ul></li>
+<li>
+<b>Engineer Electronics</b>: 1988
+<ul>
+  <li>
+  Great Distinction 
+  </li><li>
+  Studies while working full-time as a plant operator in an oil refinery.
+  </li></ul>
+</li>
+</ul>
+
+
+<h2><a name="domain"></a>Domain Expertise</h2> 
+<ul><li>
+  Smart Grids, E-Vehicles, Energy Management and Demand Response
+  </li><li>
+  Information Security - Secure Programming
+  </li><li>
+  Maritime Electronics and Maritime Communication
+  </li><li>
+  Embedded Systems
+  </li><li>
+  Automotive
+  </li><li>
+  Process Industry, Petroleum Sector, Wastewater Management
+  </li><li>
+  Mobile Telecom
+  </li><li>
+  Banking, Insurance and Administration    
+  </li>
+</ul>
+
+
+<h2><a name="skills"></a>Specialties and Skills</h2> 
+<ul>
+<li>Scalable Distributed Programming, Declarative Concurrency (Oz, Scala, AKKA)
+</li><li>Software Security, Applied R&D
+</li><li>Logic Programming, Constraint Programming, Mathematical Programming, Data Analytics
+</li><li>Algorithms in Java, Scala, Oz, Prolog, Mathematica, Smalltalk, C, C++, C#
+</li><li>IDE's (Eclipse, VisualWorks, Visual Age, XCode, Visual Studio, ... )
+</li><li>R&D Projects and Proposals
+</li><li>Ontologies, Meta Data Driven Design
+</li><li>Software Architecture, Middleware, Application Integration
+</li><li>Productive Development Processes, Scrum, Extreme Programming
+</li><li>Industrial Process Control
+</li><li>Customer expectation management, lead generation, pre-sales
+</li><li>Requirements Gathering and Analysis
+  </li>
+</ul>
+
+<h2><a name="languages"></a>Languages</h2>
+<ul><li>
+  English: fluent
+  </li><li>
+  Dutch: mother tongue
+  </li><li>
+  French: professional level
+  </li><li>
+  German: good understanding, reasonably well spoken
+  </li>
+</ul>
+
+
+<h2><a name="interests"></a>Personal Interests</h2> 
+<ul>
+  <li>
+  IT: 
+  <ul>
+    <li>
+    Renewable Energy
+    </li><li>
+    Software Design for scalability, maintainability and security
+    </li><li>
+    Secure Development Process, Software Security (PhD thesis)
+    </li>
+  </ul></li>
+  <li>
+  Music: 
+  <ul>
+    <li>
+    Piano, Accordion
+    </li>
+  </ul>
+  </li><li>
+  Other: 
+  <ul>
+    <li>
+    Reading, Traveling, Astronomy
+    </li>
+  </ul></li>
+</ul>
+
+<p></p>
+<h2><a name="professional"></a>Professional Experience</h2> 
+
+ 
+<ul>
+</li><li><h3>03/2010 - 10/2013: Sony Techsoft Belgium</h3>
+<p><i>E-Vehicles, Smart Grids, Context awareness</i> - <b>Senior R&amp;D Engineer, Team Leader</b></p>
+
+For Sony's R&amp;D division in Belgium, I performed applied research in the field of
+Electric Vehicles, Vehicle-to-Grid connecitivity, and Smart Grids in
+collaboration with academic and industrial partners. I explored new
+business opportunities in this field. I developed new
+software for Home Energy Management and Plugin (Hybrid) Electric
+Vehicle management, to be deployed on multiple
+platforms including embedded systems. I have set up research projects
+in collaboration with universities and industrial partners, to address
+the relevant technological challenges in the fields of Renewable
+Energy, Demand Response based Grid Balancing, and Pluggable (Hybrid)
+Electric Vehicles. I have lead a team of R&D engineers developing two of these projects. I provide technology advise concerning software security and constraint programming.
+ 
+<p><b>Technologies used:</b></p>
+Scala, AKKA, Python, C++, Java, JavaScript, Web Development, Mobile Devices, Embedded Systems, Performance Tuning, Software Testing Frameworks, Active Objects, Distributed Agents, Concurrency, RDBMS, Persistency Layers, Sockets, Eclipse, SVN, Linux.
+
+<li><h3>01/2008 - 12/2009: TU Eindhoven and Thales</h3>
+<p><i>Maritime Sector</i> - <b>Senior R&amp;D Engineer - Researcher</b></p>
+I led the research and development efforts on secure data transfer and communications in Thales' large multi-facetted R&D project about situational awareness in maritime coalitions, designing and integrating security enforcement points into an existing component-based architecture and developing a policy specification language and tool for ontology-based security policies. I was responsible for the budget control of TU/e in the project. I coached PhD students, performed analysis of trust relationships, made research proposals with industrial partners, wrote publications and was a guest lecturer at TU Eindhoven.
+
+<p><b>Technologies used:</b></p>
+Java: Swing, Concurrency, Encryption, Parser Generators, Compilers, RDBMS, JDBC, Sockets <br>
+Prolog: Ontologies, Java-to-Prolog API's, AJAX, Persistency Layers<br>
+Others: Eclipse,  CVS, SVN, Constraint Programming, Mozart-Oz, Mathematica, Protégé, Windows, Mac OS X, X-windows.
+  
+</li><li><h3>01 - 12/2007: IMEC (and Samsung)</h3>
+<p><i>Nano-Electronics</i> - <b>Senior R&amp;D Engineer</b></p>
+I optimized applications and developed compilers for highly parallel embedded software, for use in mobile devices, in collaboration with Samsung.  I maximized the performance, data throughput, and minimized the power consumption of embedded software, improving compilers for optimal Instruction-level Parallelism (ILP).  I applied Constraint Programming to code mapping and scheduling problems.
+
+<p><b>Technologies used:</b></p>
+C, C++, Assembly, CPU architectures, mobile devices, open source compilers (GCC), debuggers (GDB), Static and Dynamic code analysis and optimization tools, performance tuning, Vector Programming, Simulated Annealing, Constraint Programming, Software Defined Radio,  MPSOC, Eclipse, Unix scripting, Make, SVN, CVS, Mozart-Oz, Linux, Mac OS X
+
+</li><li><h3>10-12/2006: Thomas Cook via Delaware Consulting </h3>
+<p><i>Traveling Industry</i> - <b>Project Consultant & Developer</b> (freelance) </p>
+I co-developed a new online booking system for holidays, audited the development process and performed a SWOT analysis.
+
+<p><b>Technologies used:</b></p>
+C#, .Net, Visual Studio, MSSQL, Spring, Subversion, MS Windows, Mac OS X, Parallels Desktop
+
+</li><li><h3>01 - 09/2006: Cork Constraint Computation Centre </h3>
+<p><i>Research in Applications of Constraint Programming for Software Security</i> - <b>Senior Research Staff</b> </p>
+I developed a tool for secure software development. I solved combinatorial optimization problems using Concurrent Constraint Programming (CCP), and applied the solutions to problems in secure software engineering. I investigated new possibilities for funding within the EU.
+
+<p><b>Technologies used:</b></p>
+CCP, Soft Constraints, Mozart-Oz, Java, Swing, Unix scripting, Make, CVS, Mac OS X
+
+
+</li><li><h3>11/2002 - 12/2005: Universit&eacute; catholique de Louvain-la-Neuve </h3>
+<p><i>Applied Research in Secure Software Engineering</i> - <b>Senior Research Staff</b> </p>
+I developed algorithms, (web-based) tools and approaches for robust and secure software engineering with high maintainability and high availability, established design guidelines for secure, concurrent programming languages and designed, built and applied the "Safe Collaboration Language" for secure software design. I organized symposia, published my results and presented my work at scientific conferences. For this work I was awarded with a PhD in Software Security.
+
+<p><b>Technologies used:</b></p> C, C++, Mozart-Oz, Java, Swing, Eclipse, PHP, Unix scripting, Make, CVS, SVN, Lex &amp; Yac, Virtual Machine Design, Programming Language Design, Multi Paradigm Programming, Concurrent Constraint Programming, Declarative Programming, Encryption.
+
+</li><li><h3>1-3/2004 IVPV Institute for Permanent Education</h3>
+<p><i>Education</i> - <b>Trainer & Lecturer</b> (Freelance) </p>
+I designed and recorded video courses on Enterprise Architecture, and taught live courses on Component Based Software Development to senior developers and ICT managers.
+
+<h4>Technologies used :</h4> 
+Java, J2EE, Websphere Application Server, RDBMS, Windows, Mac OS X
+
+</li><li><h3>12/2003-1/2004: Ministry of Traffic Belgium via Radio Holland</h3>
+<p><i>Marine Electronics</i> - <b>Development team lead </b> (Freelance) </p>
+I led the development team of Radio Holland hands-on to maintain, debug and extend existing software for marine weather stations. I negotiated and revised requirements with the end customer and transferred knowledge to Radio Holland. 
+
+<p><b>Technologies used:</b></p> 
+Electronics, proprietary programming language for low-level hardware, Visual Basic, Visual Studio, ODBC, RDBMS, MSSQL, MS Windows, Mac OS X, Parallels Desktop
+
+</li><li><h3>7/1999 - 10/2002: Inno.com </h3>
+<p><i>ICT Consultancy</i> - <b>Development team lead </b> (Freelance) </p>
+As Technology Expert and CTO, I advised the board of directors on technology matters and 
+coordinated the collaboration with Flemish and Dutch universities in the Advisory Board. I provided  leadership, advise and mentorship to consultants and developers on innovative technologies and introduced J2EE and the IBM WebSphere product family.
+
+<p>I guided several strategic projects as Chief Architect and hands-on Development Lead through their initial high-risk stage, and then transferred knowledge to Inno-com consultants and customer staff.</p>
+
+</li><li><h3>Toyota Europe (via Inno.com)</h3>
+<p><i>Automotive</i></p>
+During a 6 months assignment, I audited their high-level plan for a worldwide enterprise architecture to integrate dealer software into the company's supply chain management systems, designed and implemented a prototype for early adaptor dealers from Norway and Belgium, negotiated and communicated the conceptual and technology requirements of the prototype with all stakeholders, and built an architecture transition strategy based on the experiences with the prototype. I advised the customer&rsquo;s CIO on issues of integration with new technologies, introduced new development methods and integration tools to their development team, and consulted on Enterprise Architecture and Web Development.
+
+<p><b>Technologies used:</b></p> 
+Java, J2EE, IBM WebSphere, MQ-Series, CICS, MS Windows, IBM Mainframe,  COBOL, ODBC, JDBC, RDBMS, Stored Procedures
+
+</li><li><h3>KBC Insurance  (via Inno.com)</h3>
+<p><i>Banking and Insurances</i></p>
+During a 4 months assignment at project startup, I supervised and audited the building of a new Enterprise Architecture by a third party. I coached the KBC development team, hands-on where necessary, to use, implement, and maintain the architecture, and trained them in OO principles, design patterns, the full project lifecycle,  and new technologies. 
+
+<p><b>Technologies used and taught:</b></p> 
+Java, J2EE, WebSphere Application Server, Visual Age for Java, UML, XML, Object Persistency, Java API's., MS Windows, ODBC, MSSQL, JDBC, RDBMS.
+
+</li><li><h3>Belgian Post (via Inno.com)</h3>
+During a 6 months project, I led a team of 5 experienced EAI consultants and developers designing a new enterprise architecture blueprint to reflect the long term management vision. I discussed and communicated requirements and transition strategies with all stakeholders, established inter-departmental responsibilities for data ownership, and delivered a transition plan towards the new architecture.
+
+<p><b>Technologies used:</b></p> 
+Java, J2EE, Corba, UML, XML, Object Persistency, Java API's., MS Windows, ODBC, JDBC, RDBMS.
+
+</li><li><h3>Swedish Post (for EDS, via Innoc.com)</h3>
+During a 6 months assignment at the startup of a large project, I was the lead architect of an international team of 10 experienced OO developers and architects in a business critical project to enable "Posten" to take a central role in the electronic billing process in Sweden. I gathered and structured customer requirements, devised an overall enterprise architecture in which the E-Billing project would fit, and integrated existing components to optimal satisfaction of EDS and its costumer. I communicated and negotiated design decisions with all stakeholders, and got the development team on track to develop the key components, before transferring the knowledge and duties of guarding the architecture to EDS.
+
+<p><b>Technologies used:</b></p> 
+Java, J2EE, Proprietary Java API's, Financial API's (J/XFS), UML, XML, Object Persistency, MS Windows.
+
+</li><li><h3>Belgium's Ministry of SME's (via Inno.com)</h3>
+<p><i>Public Sector</i></p>
+In a 6 months project, I led the development of a web portal for centralized services to Belgian SME's by a team of 4 developers, designing and building a meta-data based persistence layer with object-relational mapping facilities and an Object Query Language (SQL for Objects). I communicated on the approach,  the progress, and the results to the customer and their external auditor.
+
+<p><b>Technologies used:</b></p> 
+Java, COM, Object Persistency, ODBC, RDBMS, MSSQL, Stored Procedures, MS Windows.
+
+</li><li><h3>Flanders Government (via Inno.com)</h3>
+<p><i>Public Sector</i></p>
+In a short term assignment, I advised on their ERP package selection, interviewing business stakeholders about the architecture and functionality requirements, evaluating potential solutions and providers on the merits of their proposed solutions, and comparing the ERP packages of SAP, Oracle, and PeopleSoft.
+
+<p><b>Technologies investigated:</b></p> 
+SAP, Oracle, PeopleSoft, ERP packages
+
+</li><li><h3>KPN-Orange  (via Inno.com)</h3>
+<p><i>Mobile Telecom</i></p>
+During a 4 months project, I delivered a feasible enterprise architecture blueprint to replace existing point-to-point connectivity, working in close collaboration with application owners and management. I evaluated and compared technologies and product families suitable to implement this transition, and designed and integrated new components for e-billing and point-of-sales software to fit in the enterprise architecture. 
+
+<p><b>Technologies investigated:</b></p> 
+CORBA, EJB (J2EE), TIBCO, BEA WebLogic
+
+</li><li><h3>1/1998 - 6/1999: Delaware Object Technology</h3>
+<p><i>ICT Consultancy</i> - <b>Development Team Lead &amp; Trainer </b></p>
+At Pauwels Trafo (Transformer Manufacturer) during an 18 months project, I led the development of a rule-based tool for the Electrical and Mechanical design of Industrial Power Transformers and its integration with peripheral products and tools. I provided technology leadership in their ICT alignment project with Pauwels Canada, and trained and coached their development team in Object Orientated Development (Smalltalk) and the full project lifecycle. 
+<p>At KBC (Banking) during a short assignment, I trained KBC developers in the full project lifecycle, in EAI principles and practices and OO design patterns, introducing an Object Oriented and Component Based approaches. </p>
+
+
+<p><b>Technologies used:</b></p>
+Smalltalk, (VisualWorks and VisualAge), C (external calls), Version Management (Envy), Object Persistency, RDBMS, Reflection and Introspection, Rule Engines.
+
+</li><li><h3>3/1993 - 1/1998: Unisys</h3>
+<p><i>ICT Consultancy</i> - <b>Developer, Team Lead &amp; Trainer </b></p>
+At ARGO	(Schools Administration), in a large 50-man-years project, I delivered a meta-data based component framework, allowing for applications to be assembled on demand by customers and business consultants. This framework was based on a meta-model repository, and made extensive use of reflection, introspection and all the OO-patterns in Smalltalk that became fancy later. 
+<p>I was the customer contact for requirements and delivery. I taught, coached and led the teams of developers and key-users, and co-designed and developed the core framework. I was responsible for the development of the components for workflow, generic persistency (object-relational mapping), document management, rule-based and role-based security, a secure scripting language, and a meta-model driven GUI. I was also responsible for the technical project management, requirements gathering, business process reengineering, the timely delivery of the applications, and for training the key-users in a train-the-trainer program.</p>
+
+<p><b>Technologies used:</b></p>
+Smalltalk, (VisualWorks), C (external calls), Version Management (Envy), Object Persistency, RDBMS, ODBC, Reflection and Introspection, Parsers, Compilers, Runtime GUI generation.
+
+
+
+
+
+</li><li><h3>1983 - 3/1993: Fina Refinery</h3>
+<p><i>Oil Industry</i> - <b> Plant Operator (until 1991) and Programmer and DBA</b></p>
+As a plant operator, working full-time in a continuous shift system, I studied electronics and computer science in my spare time. Fina Refinery then re-hired me into their IT division, giving me responsibilities for database administration, application programming and maintenance.
+
+<p><b>Technologies used:</b></p>  
+COBOL, ORACLE 7, RDBMS, VAX VMS, SQL, PL/SQL, Oracle Forms
+
+
+
+</li>
+</ul>
+
+
+
+
+<h2><a name="activities"></a>Scientific Activities</h2>
+Program Commitees and Workshops Organisation:
+<ul>
+  <li><a href="http://soft.vub.ac.be/events/dcdp/">DCDP 2010:</a> 1st. Workshop on Decentralized Coordination of Distributed Processes.
+   </li><li><a href="http://www.cetic.be/moz2004/">MOZ&nbsp;2004:</a> 2nd International Mozart/Oz conference (Charleroi Belgium - Oct2004)
+   </li><li><a href="http://www.info.ucl.ac.be/%7Efsp/colops/index.html">COLOPS 2003</a> 1st. Workshop on Constraint &amp; Logic Programming in Security.
+  </li><li><a href="http://www.tcs.tifr.res.in/%7eiclp03">ICLP2003:</a> Logic Programming (Mumbai India - Dec2003)
+  </li>
+</ul>
+Invited talks:
+<ul>
+  <li><a href="https://www.securiosity.nl/">Securiosity 2009</a> National Congres on Security and Cybercrime (November 2009), &quot;Virus virulentie controle met object capabilities en Scoll&quot;. 
+  </li><li><a href="http://www.cs.unibo.it/%7esangio/TGC05/">TGC05</a> Workshop on Trusted Global Computing (Edinburgh April 2005),
+  <a href="http://www.info.ucl.ac.be/%7Efsp/tgc/tgc05fs.pdf">&quot;A Practical Formal Model for Safety Analysis in Capability-Based Systems&quot;</a>
+  </li><li><a href="http://www.info.ucl.ac.be/%7Efsp/pola032005.pdf">Viruses ... how to fight back!</a> presentation on the principle of least authority (POLA) for the Belgian Secretary of State for the Informatization of the State.
+  </li>
+</ul>
+PhD. Defense Examiner:
+<ul>
+  <li><a>2010:</a> Toby Murray, Oxford University: thesis on the application of CSP to authority analysis in Capability Systems.
+  </li>
+</ul>
+Other:
+<ul>
+  <li>Co-author of the chapter on formal security analysis in "<a href="http://www.springer.com/computer/swe/book/978-3-540-78958-1">Sichere Systeme</a>: Konzepte, Architekturen und Frameworks" by Walter Kriha and Roland Schmitz.
+  </li>
+    <li>Co-editor of the "<a href="http://www.object-oriented-security.org/">Object Oriented Security Website</a>"  .
+  </li>
+    <li>Examiner and Advisor for the security research funding programm of the Flemish "<a href="http://www.iwt.be">Agentschap voor Innovatie door Wetenschap en Onderzoek</a>"  .
+  </li> (Agency for Innovation through Science and Research)
+</ul>
+
+<h2><a name="publications"></a>List of Publications</h2>
+
+<ul><li>Daniel Trivellato, Fred Spiessens, Nicola Zannone, Sandro Etalle, <a href="http://www.evoluware.eu/reputation_securecom09.pdf">&quot;Reputation-Based Ontology Alignment for Autonomy and Interoperability in Distributed Access Control&quot;</a>, International Symposium on Secure Computing (SecureCom09, Vancouver, Canada, August 29-31, 2009). To be published in the PASSAT-09 proceedings by IEEE CS press.
+  </li><li>Daniel Trivellato, Fred Spiessens, Nicola Zannone, Sandro Etalle, <a href="http://www.evoluware.eu/polipo_policy09.pdf">&quot;POLIPO: Policies & OntoLogies for Interoperability, Portability, and autOnomy&quot;</a>, IEEE International Symposium on Policies for Distributed Systems and Networks (Policy2009, London, July 20 - 22). To be published in the POLICY-09 proceedings by IEEE CS press.
+  </li><li>Fred Spiessens, Jerry den Hartog, Sandro Etalle, <a href="http://www.springerlink.com/content/yh8983n1841n0132/">&quot;Know what you trust: Analyzing and designing trust policies with Scoll.&quot;</a>, Proceedings 5th International Workshop on Formal Aspects in Security and Trust (FAST 2008, Malaga, Spain, October 9-10, 2008). Lecture Notes in Computer Science, vol. 5491, page 129-142, Berlin 2009, Springer.
+  </li><li>Fred Spiessens, <a href="http://www.evoluware.eu/fsp_thesis.pdf">&quot;Patterns of Safe Collaboration&quot;</a>, Ph.D. dissertation, Department of Computing Science and Engineering, Université catholique de Louvain, Feb. 2007.
+  </li><li>Fred Spiessens, Yves Jaradin, and Peter Van Roy, <a href="http://www.info.ucl.ac.be/people/PVR/rr2005-12.pdf">&quot;SCOLL and SCOLLAR: Safe Collaboration based on Partial Trust&quot;</a>, Research Report RR2005-12, Department of Computing Science and Engineering, Université catholique de Louvain, 2005.
+  </li><li>Fred Spiessens, Yves Jaradin, and Peter Van Roy, <a href="http://www.info.ucl.ac.be/people/PVR/rr2005-11.pdf">&quot;Using Constraints to Analyze and Generate Safe Capability Patterns&quot;</a>, Research Report RR2005-11, Department of Computing Science and Engineering, Université catholique de Louvain, 2005. 
+  </li><li>Yves Jaradin, Fred Spiessens, and Peter Van Roy, <a href="http://www.info.ucl.ac.be/people/PVR/rr2005-10.pdf">&quot;SCOLL: A Language for Safe Capability Based Collaboration&quot;</a>, Research Report RR2005-10, Department of Computing Science and Engineering, Université catholique de Louvain, 2005.
+  </li><li>Fred Spiessens and Peter Van Roy, <a href="http://www.info.ucl.ac.be/people/PVR/tgc05fs.pdf">&quot;A Practical Formal Model for Safety Analysis in Capability-Based Systems&quot;</a>, Symposium on Trustworthy Global Computing (TGC 2005), Edinburgh, UK, Springer-Verlag LNCS volume 3705, 2005. 
+  </li><li>Yves Jaradin, Fred Spiessens, and Peter Van Roy, <a href="http://www.info.ucl.ac.be/people/PVR/rr2005-03.pdf">&quot;Capability Confinement by Membranes&quot;</a>, Research Report RR2005-03, Department of Computing Science and Engineering, Université catholique de Louvain, March 2005. 
+  </li><li>Fred Spiessens and Peter Van Roy, <a href="http://www.info.ucl.ac.be/people/PVR/oze.pdf">&quot;The Oz-E Project: Design Guidelines for a Secure Multiparadigm Programming Language&quot;</a>, Springer-Verlag LNCS volume 3389, March 2005.  
+  </li><li>Alfred Spiessens, Raphael Collet, and Peter Van Roy, <a href="http://www.info.ucl.ac.be/people/PVR/dlcc.pdf">&quot;Declarative Laziness in a Concurrent Constraint Language&quot;</a>, 2nd International Workshop on Multiparadigm Constraint Programming Languages (MultiCPL 2003), at the 9th International Conference on Principles and Practice of Constraint Programming (CP2003), Kinsale, Ireland, September 2003. 
+  </li><li>Fred Spiessens, Luis Quesada, and Peter Van Roy, <a href="http://www.irisa.fr/manifestations/2006/CSTVA06/index.htm#proceedings">&quot;Confinement Analysis with Graph Reachabilty Constraints&quot</a>;, Online proceedings of the first workshop on Constraints in Software Testing, Verification and Analysis , Nantes, France, September, 2006.  
+  </li><li>Martine Devos, Michel Tilman, Fred Spiessens, <a href="http://citeseer.ist.psu.edu/495508.htm">&quot;A Framework for Adaptive Design&quot;</a>, OOPSLA 1997, Atlanta, Georgia, October 1997.
+  </li>
+</ul>
+  
+
+
+<h2><a name="recomm"></a>Recommendations</h2>
+<p>These recommendations were made available online at <a href="http://www.linkedin.com">Linked In</a>. Please contact me if you require any references in specific areas.</p>
+<p><b>Jacek Skowronek: </b>&quot;I have worked with Fred in the scope of the Poseidon project, in which Dutch universities cooperate with Thales in the area of maritime situation awareness. He has a firm grasp on what an industrial partner expects of an R&D project, and how to manage and fulfill those expectations, in a flexible manner. He can handle pressure very well, and I am sure will be a stable presence in every endeavour. Fred is one of the rare examples of advanced R&D workers who can do their job equally well in a scientific and industrial context.&quot;</p>
+<p><i>December 1, 2009, Jacek Skowronek, Innovation Manager Architecture, Thales</i></p>
+<p><b>Martine Thijs: </b>&quot;Fred is a technical consultant who has a wide business knowledge and interest as well. His insights in architecture and process structures are thorough. Fred is someone who has the capabilities to both guide and lead a team and be a valuable team player. I enjoyed very much working with Fred.&quot;</p>
+<p><i>November 6, 2007, Martine Thijs, Business Consultant, Inno.com</i></p>
+<p><b>Dr. Mark S. Miller: </b>&quot;For his thesis, Fred gave form and depth to the ideas explored by the capability community. His work was an original and major advance of our field. Fred is one of those rare computer scientists who span the range from deep formalist to solid practical engineer to prolific explainer to honest skeptical critic. Whatever he touches, he will discover its true nature, explain it, and make it work.&quot;</p>
+<p><i>May 28, 2007. Mark S. Miller, Software Architect, HP Labs</i></p>
+<p><b>Dr. Luis Quesada: </b>&quot;I had the opportunity of working with Fred at Université Catholique de Louvain (UCL). We were both working as research assistants under the supervision of Prof. Peter Van Roy. During my years at UCL I always appreciated Fred's capacity to adapt to different research topics. I also think that Fred is a very open minded person. This quality and the fact that he always takes his duties very seriously made it very enjoyable to work with him. Taking into account the above mentioned and his high academic qualification, I have no doubt about his success in any responsibility he decides to take.&quot;</p>
+<p><i>May 25, 2007. Luis Quesada, Research Assistant, Université catholique de Louvain</i></p>
+<p><b>Prof. Peter Van Roy</b> <i>Thesis advisor</I>: &quot;Fred Spiessens did an excellent dissertation in which he defined a formal model for security analysis that is able to model both access control lists and capabilities. He implemented the model and used it to analyze the security properties of programming patterns. He has the ability to understand previous work and to make original contributions that considerably improve it.&quot;</p>
+<p><i>May 27, 2007 Peter Van Roy, Professor, Université catholique de Louvain</i></p>
+
+    
+
+
+
+
+
+
+</body></html>
+

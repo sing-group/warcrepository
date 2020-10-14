@@ -1,0 +1,96 @@
+WARC/1.0
+WARC-Type: warcinfo
+WARC-Date: 2018-05-30T18:18:32Z
+WARC-Record-ID: <urn:uuid:6ec1bd61-b447-49fc-9f20-dcae345042c1>
+WARC-All-Language: en
+WARC-All-Content_type: text/html
+Content-Type: application/http;msgtype=response
+Content-Length: 46
+
+WARCProcessor by SING Group www.sing-group.com
+
+WARC/1.0
+WARC-Type: response
+WARC-Record-ID: <http://www.simbad-fp7.eu>
+WARC-Date: 20180530181832
+WARC-Target-URI: http://www.simbad-fp7.eu
+WARC-Language: en
+Content-Type: application/http;msgtype=response
+Content-Length: 5117
+
+HTTP/1.1 200
+Content-Type:text/html
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+<title>Simbad Project</title>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<link rel="stylesheet" href="images/BrightSide.css" type="text/css" />
+<script type="text/javascript">
+  function toggleDiv(divId) {
+    if(document.getElementById(divId).style.display=="block"){
+      document.getElementById(divId).style.display="none";
+    }else{
+      document.getElementById(divId).style.display="block";
+    }
+  }
+</script> 
+</head>
+<body>
+<div id="wrap">
+  <div id="header">
+    <img src="images/logo.png" align="left">
+    <div id="slogan"><span class="green">Beyond Features</span><br/><span class="blue">Similarity-based Pattern Analysis and Recognition</span></div>
+  </div>
+  <div id="content-wrap"> <img src="images/headerphoto.jpg" width="820" height="120" alt="headerphoto" class="no-border" />
+    <div id="sidebar" >
+      <h1>Site Menu</h1>
+      <ul class="sidemenu">
+        <li><a href="index.php">Home</a></li>
+        <li><a href="partners.php">Partners</a></li>
+        <li><a href="deadlines.php">Deadlines</a></li>
+        <!-- <li><a href="seminars.php">Seminars</a></li> -->
+        <li><a href="documents.php">Documents</a></li>
+        <li><a href="techreports.php">Technical reports</a></li>
+        <li><a href="deliverables.php">Deliverables</a></li>
+        <li><a href="meetingsandevents.php">Meetings and Events</a></li>
+        <li><a href="bibliography.php">Bibliography</a></li>
+        <li><a href="workpackages.php">Work packages</a></li>
+        <!-- <li><a href="roadmap.php">Roadmap</a></li> -->
+        <li><a href="news.php">Press Coverage</a></li>
+        <li><a href="restricted">Restricted Area</a></li>
+        <li><a href="https://www.dsi.unive.it/~simbadweb/blog/wp-login.php" target="_blank">Simbad Blog</a></li>
+        <li><a href="tutorials">Tutorials</a></li>
+      </ul>
+      <br/>
+      <p align="center">
+      <h4>Information and Communication Technologies<br>Collaborative Project<br>FET Open<br></h4>
+      </p>
+      <p align="center">
+      <img src="images/FP7-gen-RGB.jpg" width=100>
+      </p>
+      <p align="center">
+      <img src="images/euflag.png">
+      </p>
+    </div>
+    <div id="main">
+
+<h1>About SIMBAD</h1>
+<p>
+<a href="http://en.wikipedia.org/wiki/Pattern_recognition">Traditional pattern recognition</a> techniques are centered around the notion of <a href="http://en.wikipedia.org/wiki/Features_(pattern_recognition)">"feature"</a>. According to this view, the objects to be classified are represented in terms of properties that are intrinsic to the object itself. Hence, a typical pattern recognition system makes its decisions by simply looking at one or more feature vectors provided as input. The strength of this approach is that it can leverage a wide range of mathematical tools ranging from statistics, to geometry, to optimization. However, in many real-world applications a feasible feature-based description of objects might be difficult to obtain or inefficient for learning purposes. In these cases, it is often possible to obtain a measure of the <a href="http://en.wikipedia.org/wiki/Dissimilarity">(dis)similarity</a> of the objects to be classified, and in some applications the use of dissimilarities (rather than features) makes the problem more viable. In the last few years, researchers in pattern recognition and <a href="http://en.wikipedia.org/wiki/Machine_learning">machine learning</a> are becoming increasingly aware of the importance of similarity information per se. Indeed, by abandoning the realm of vectorial representations one is confronted with the challenging problem of dealing with (dis)similarities that do not necessarily obey the requirements of a <a href="http://en.wikipedia.org/wiki/Metric">metric</a>. This undermines the very foundations of traditional pattern recognition theories and algorithms, and poses totally new theoretical and computational questions. In this project we aim at undertaking a thorough study of several aspects of purely similarity-based pattern analysis and recognition methods, from the theoretical, computational, and applicative perspective. We aim at covering a wide range of problems and perspectives. We shall consider both <a href="http://en.wikipedia.org/wiki/Supervised_learning">supervised</a> and <a href="http://en.wikipedia.org/wiki/Unsupervised_learning">unsupervised</a> learning paradigms, <a href="http://en.wikipedia.org/wiki/Generative_model">generative</a> and <a href="http://en.wikipedia.org/wiki/Discriminative_model">discriminative</a> models, and our interest will range from purely theoretical problems to real-world practical applications. 
+</p>
+
+     </div>
+  </div>
+  <div id="footer">
+  <p align="center">
+  <h5>contact: <a href="mailto:info@simbad-fp7.eu">info@simbad-fp7.eu</a></h5>
+  </p>
+  </div>
+</div>
+</body>
+</html>
+
+

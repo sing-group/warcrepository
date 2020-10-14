@@ -1,0 +1,28 @@
+WARC/1.0
+WARC-Type: warcinfo
+WARC-Date: 2018-05-30T17:52:31Z
+WARC-All-Language: de
+WARC-All-Content_type: text/html
+WARC-Record-ID: <urn:uuid:a86dbea0-b737-4ac3-8fe0-7077f7d1e643>
+Content-Type: application/http;msgtype=response
+Content-Length: 46
+
+WARCProcessor by SING Group www.sing-group.com
+
+WARC/1.0
+WARC-Type: response
+WARC-Target-URI: http://www.bensozia.eu
+WARC-Date: 20180530175231
+WARC-Language: de
+WARC-Record-ID: <http://www.bensozia.eu>
+Content-Type: application/http;msgtype=response
+Content-Length: 209
+
+HTTP/1.1 200
+Content-Type:text/html
+
+
+<br />
+<b>Parse error</b>:  syntax error, unexpected T_STRING in <b>/mounted-storage/home78b/sub003/sc40527-OLAT/www/includes/prepend.php</b> on line <b>187</b><br />
+
+

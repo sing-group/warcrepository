@@ -1,0 +1,758 @@
+WARC/1.0
+WARC-Type: warcinfo
+WARC-Date: 2018-05-30T17:52:31Z
+WARC-All-Language: en-US
+WARC-All-Content_type: text/html; charset=UTF-8
+WARC-Record-ID: <urn:uuid:77be259d-7b76-4e62-b6bf-b1eeb89cdd3b>
+Content-Type: application/http;msgtype=response
+Content-Length: 46
+
+WARCProcessor by SING Group www.sing-group.com
+
+WARC/1.0
+WARC-Type: response
+WARC-Target-URI: http://www.allodium.eu
+WARC-Date: 20180530175231
+WARC-Language: en-US
+WARC-Record-ID: <http://www.allodium.eu>
+Content-Type: application/http;msgtype=response
+Content-Length: 113966
+
+HTTP/1.1 200
+Content-Type:text/html; charset=UTF-8
+
+
+<!doctype html>
+<!--[if lt IE 10]>
+<html class="ie9 no-js" lang="en-US" prefix="og: http://ogp.me/ns#">
+<![endif]-->
+<!--[if (gt IE 9)|!(IE)]><!-->
+
+<html class="no-js" lang="en-US" prefix="og: http://ogp.me/ns#"> <!--<![endif]-->
+
+	<head>
+		<meta charset="UTF-8">
+
+		<!-- viewport -->
+		<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+
+		<!-- allow pinned sites -->
+		<meta name="application-name" content="Allodium" />
+
+		<link rel="pingback" href="http://www.allodium.eu/xmlrpc.php">
+
+		<title>Home - Allodium</title>
+
+<!-- This site is optimized with the Yoast SEO plugin v5.1 - https://yoast.com/wordpress/plugins/seo/ -->
+<link rel="canonical" href="http://www.allodium.eu/" />
+<meta property="og:locale" content="en_US" />
+<meta property="og:type" content="website" />
+<meta property="og:title" content="Home - Allodium" />
+<meta property="og:url" content="http://www.allodium.eu/" />
+<meta property="og:site_name" content="Allodium" />
+<meta property="og:image" content="http://www.allodium.eu/wp-content/uploads/2000/01/grve-dummy-sample-image.png" />
+<meta property="og:image:width" content="1920" />
+<meta property="og:image:height" content="1080" />
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:title" content="Home - Allodium" />
+<meta name="twitter:image" content="http://www.allodium.eu/wp-content/uploads/2000/01/grve-dummy-sample-image.png" />
+<script type='application/ld+json'>{"@context":"http:\/\/schema.org","@type":"WebSite","@id":"#website","url":"http:\/\/www.allodium.eu\/","name":"Allodium","potentialAction":{"@type":"SearchAction","target":"http:\/\/www.allodium.eu\/?s={search_term_string}","query-input":"required name=search_term_string"}}</script>
+<!-- / Yoast SEO plugin. -->
+
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="Allodium &raquo; Feed" href="http://www.allodium.eu/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Allodium &raquo; Comments Feed" href="http://www.allodium.eu/comments/feed/" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.3\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.3\/svg\/","svgExt":".svg","source":{"concatemoji":"http:\/\/www.allodium.eu\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.8.6"}};
+			!function(a,b,c){function d(a){var b,c,d,e,f=String.fromCharCode;if(!k||!k.fillText)return!1;switch(k.clearRect(0,0,j.width,j.height),k.textBaseline="top",k.font="600 32px Arial",a){case"flag":return k.fillText(f(55356,56826,55356,56819),0,0),b=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,56826,8203,55356,56819),0,0),c=j.toDataURL(),b!==c&&(k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447),0,0),b=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447),0,0),c=j.toDataURL(),b!==c);case"emoji4":return k.fillText(f(55358,56794,8205,9794,65039),0,0),d=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55358,56794,8203,9794,65039),0,0),e=j.toDataURL(),d!==e}return!1}function e(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g,h,i,j=b.createElement("canvas"),k=j.getContext&&j.getContext("2d");for(i=Array("flag","emoji4"),c.supports={everything:!0,everythingExceptFlag:!0},h=0;h<i.length;h++)c.supports[i[h]]=d(i[h]),c.supports.everything=c.supports.everything&&c.supports[i[h]],"flag"!==i[h]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[i[h]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='contact-form-7-css'  href='http://www.allodium.eu/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=4.8' type='text/css' media='all' />
+<link rel='stylesheet' id='blade-grve-awsome-fonts-css'  href='http://www.allodium.eu/wp-content/themes/blade/css/font-awesome.min.css?ver=4.4.0' type='text/css' media='all' />
+<link rel='stylesheet' id='blade-grve-basic-css'  href='http://www.allodium.eu/wp-content/themes/blade/css/basic.css?ver=2.2.0' type='text/css' media='all' />
+<link rel='stylesheet' id='blade-grve-grid-css'  href='http://www.allodium.eu/wp-content/themes/blade/css/grid.css?ver=2.2.0' type='text/css' media='all' />
+<link rel='stylesheet' id='blade-grve-theme-style-css'  href='http://www.allodium.eu/wp-content/themes/blade/css/theme-style.css?ver=2.2.0' type='text/css' media='all' />
+<link rel='stylesheet' id='blade-grve-elements-css'  href='http://www.allodium.eu/wp-content/themes/blade/css/elements.css?ver=2.2.0' type='text/css' media='all' />
+<link rel='stylesheet' id='blade-grve-responsive-css'  href='http://www.allodium.eu/wp-content/themes/blade/css/responsive.css?ver=2.2.0' type='text/css' media='all' />
+<link rel='stylesheet' id='js_composer_front-css'  href='http://www.allodium.eu/wp-content/plugins/js_composer/assets/css/js_composer.min.css?ver=4.11.2' type='text/css' media='all' />
+<link rel='stylesheet' id='redux-google-fonts-grve_blade_options-css'  href='http://fonts.googleapis.com/css?family=Open+Sans%3A400%2C700%2C400italic%7CMontserrat%3A700&#038;subset=latin&#038;ver=1503022253' type='text/css' media='all' />
+<script type='text/javascript' src='http://www.allodium.eu/wp-includes/js/jquery/jquery.js?ver=1.12.4'></script>
+<script type='text/javascript' src='http://www.allodium.eu/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var gadwpUAEventsData = {"options":{"event_tracking":"1","event_downloads":"zip|mp3*|mpe*g|pdf|docx*|pptx*|xlsx*|rar*","event_bouncerate":0,"aff_tracking":0,"event_affiliates":"\/out\/","hash_tracking":0,"root_domain":"allodium.eu","event_timeout":100,"event_precision":0,"event_formsubmit":1,"ga_pagescrolldepth_tracking":1}};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://www.allodium.eu/wp-content/plugins/google-analytics-dashboard-for-wp/front/js/tracking-analytics-events.js?ver=5.1.1.3'></script>
+<script type='text/javascript' src='http://www.allodium.eu/wp-content/plugins/google-analytics-dashboard-for-wp/front/js/tracking-scrolldepth.js?ver=5.1.1.3'></script>
+<script type='text/javascript' src='http://www.allodium.eu/wp-content/themes/blade/js/modernizr.custom.js?ver=2.8.3'></script>
+<link rel='https://api.w.org/' href='http://www.allodium.eu/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www.allodium.eu/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://www.allodium.eu/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 4.8.6" />
+<link rel='shortlink' href='http://www.allodium.eu/' />
+<link rel="alternate" type="application/json+oembed" href="http://www.allodium.eu/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fwww.allodium.eu%2F" />
+<link rel="alternate" type="text/xml+oembed" href="http://www.allodium.eu/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fwww.allodium.eu%2F&#038;format=xml" />
+<!-- Dynamic css -->
+<style type="text/css">
+ body, p { font-size: 14px; font-family: "Open Sans"; font-weight: 400; line-height: 24px; letter-spacing: 0.7px; } #grve-header .grve-logo.grve-logo-text a { font-family: Montserrat; font-weight: 700; font-style: normal; font-size: 36px; text-transform: none; letter-spacing: 0px; } #grve-main-menu .grve-wrapper > ul > li > a, #grve-main-menu .grve-wrapper > ul > li.megamenu > ul > li > a, #grve-theme-wrapper #grve-hidden-menu ul.grve-menu > li > a, .grve-toggle-hiddenarea .grve-label, #grve-hidden-menu ul.grve-menu > li.megamenu > ul > li > a, #grve-main-menu .grve-wrapper > ul > li ul li.grve-goback a, #grve-hidden-menu ul.grve-menu > li ul li.grve-goback a { font-family: "Open Sans"; font-weight: 700; font-style: normal; font-size: 12px; text-transform: uppercase; letter-spacing: 2px; } .grve-slide-menu #grve-main-menu .grve-wrapper ul li.megamenu ul li:not(.grve-goback) > a, #grve-hidden-menu.grve-slide-menu ul li.megamenu ul li:not(.grve-goback) > a, #grve-main-menu .grve-wrapper > ul > li ul li a, #grve-header .grve-shoppin-cart-content { font-family: "Open Sans"; font-weight: 400; font-style: normal; font-size: 12px; text-transform: none; letter-spacing: 0px; } #grve-main-menu .grve-menu-description, #grve-hidden-menu .grve-menu-description { font-family: "Open Sans"; font-weight: 400; font-style: italic; font-size: 11px; text-transform: none; letter-spacing: 0px; } .grve-anchor-menu .grve-anchor-wrapper .grve-container > ul > li > a, .grve-anchor-menu .grve-anchor-wrapper .grve-container ul.sub-menu li a { font-family: "Open Sans"; font-weight: 400; font-style: normal; font-size: 11px; text-transform: uppercase; letter-spacing: 2px; } h1, .grve-h1, #grve-theme-wrapper .grve-modal .grve-search input[type='text'], .grve-dropcap span, h2, .grve-h2, h3, .grve-h3, h4, .grve-h4, h5, .grve-h5, h6, .grve-h6 { font-family: Montserrat; font-weight: 700; font-style: normal; text-transform: uppercase; } h1, .grve-h1, #grve-theme-wrapper .grve-modal .grve-search input[type='text'], .grve-dropcap span { font-size: 53px; line-height: 60px; letter-spacing: 0px; } h2, .grve-h2 { font-size: 36px; line-height: 40px; letter-spacing: 0px; } h3, .grve-h3 { font-size: 30px; line-height: 33px; letter-spacing: 0px; } h4, .grve-h4 { font-size: 23px; line-height: 26px; letter-spacing: 0px; } h5, .grve-h5, h3#reply-title { font-size: 18px; line-height: 20px; letter-spacing: 0px; } h6, .grve-h6 { font-size: 16px; line-height: 18px; letter-spacing: 0px; } #grve-page-title .grve-title, #grve-blog-title .grve-title { font-family: Montserrat; font-weight: 700; font-style: normal; font-size: 36px; text-transform: none; line-height: 40px; letter-spacing: 0px; } #grve-page-title .grve-description, #grve-blog-title .grve-description, #grve-blog-title .grve-description p { font-family: "Open Sans"; font-weight: 400; font-style: normal; font-size: 18px; text-transform: none; line-height: 30px; letter-spacing: 0.7px; } #grve-post-title .grve-title-meta { font-family: "Open Sans"; font-weight: 400; font-style: normal; font-size: 12px; text-transform: uppercase; line-height: 30px; letter-spacing: 3.7px; } #grve-post-title .grve-title { font-family: Montserrat; font-weight: 700; font-style: normal; font-size: 36px; text-transform: none; line-height: 40px; letter-spacing: 0px; } #grve-post-title .grve-description { font-family: "Open Sans"; font-weight: 400; font-style: normal; font-size: 18px; text-transform: none; line-height: 30px; letter-spacing: 0.7px; } #grve-portfolio-title .grve-title { font-family: Montserrat; font-weight: 700; font-style: normal; font-size: 36px; text-transform: none; line-height: 40px; letter-spacing: 0px; } #grve-portfolio-title .grve-description { font-family: "Open Sans"; font-weight: 400; font-style: normal; font-size: 18px; text-transform: none; line-height: 30px; letter-spacing: 0.7px; } #grve-product-title .grve-title, #grve-product-tax-title .grve-title, .woocommerce-page #grve-page-title .grve-title { font-family: Montserrat; font-weight: 700; font-style: normal; font-size: 64px; text-transform: uppercase; line-height: 68px; letter-spacing: 0px; } #grve-product-title .grve-description, #grve-product-tax-title .grve-description, #grve-product-tax-title .grve-description p, .woocommerce-page #grve-page-title .grve-description { font-family: "Open Sans"; font-weight: 400; font-style: normal; font-size: 20px; text-transform: none; line-height: 30px; letter-spacing: 0.7px; } #grve-feature-section .grve-subheading { font-family: "Open Sans"; font-weight: 400; font-style: normal; font-size: 14px; text-transform: uppercase; line-height: 30px; letter-spacing: 3.7px; } #grve-feature-section .grve-title { font-family: Montserrat; font-weight: 700; font-style: normal; font-size: 64px; text-transform: uppercase; line-height: 68px; letter-spacing: 0px; } #grve-feature-section .grve-description { font-family: "Open Sans"; font-weight: 400; font-style: normal; font-size: 20px; text-transform: none; line-height: 30px; letter-spacing: 0.7px; } #grve-feature-section.grve-fullscreen .grve-subheading { font-family: "Open Sans"; font-weight: 400; font-style: normal; font-size: 20px; text-transform: uppercase; line-height: 30px; letter-spacing: 3.7px; } #grve-feature-section.grve-fullscreen .grve-title { font-family: Montserrat; font-weight: 700; font-style: normal; font-size: 90px; text-transform: uppercase; line-height: 96px; letter-spacing: 0px; } #grve-feature-section.grve-fullscreen .grve-description { font-family: "Open Sans"; font-weight: 400; font-style: italic; font-size: 30px; text-transform: none; line-height: 36px; letter-spacing: 0.7px; } .grve-leader-text, .grve-leader-text p, p.grve-leader-text, blockquote, blockquote p { font-family: "Open Sans"; font-weight: 400; font-style: normal; font-size: 20px; text-transform: none; line-height: 30px; letter-spacing: 0px; } .grve-subtitle, .grve-subtitle p, .grve-subtitle-text { font-family: "Open Sans"; font-weight: 400; font-style: normal; font-size: 12px; text-transform: uppercase; line-height: 30px; letter-spacing: 3.7px; } .grve-small-text, span.wpcf7-not-valid-tip, div.wpcf7-validation-errors { font-family: "Open Sans"; font-weight: 400; font-style: normal; font-size: 11px; text-transform: uppercase; letter-spacing: 2px; } .grve-link-text, .grve-btn, input[type='submit'], input[type='reset'], button:not(.mfp-arrow), #grve-header .grve-shoppin-cart-content .total, #grve-header .grve-shoppin-cart-content .button, #grve-main-content .vc_tta.vc_general .vc_tta-tab > a, .vc_tta.vc_general .vc_tta-panel-title, #cancel-comment-reply-link { font-family: Montserrat !important; font-weight: 700 !important; font-style: normal; font-size: 13px !important; text-transform: uppercase; letter-spacing: 0.7px; } .grve-btn.grve-btn-extrasmall, .widget.woocommerce button[type='submit'] { font-size: 9px !important; } .grve-btn.grve-btn-small { font-size: 11px !important; } .grve-btn.grve-btn-large { font-size: 16px !important; } .grve-btn.grve-btn-extralarge { font-size: 18px !important; } .grve-widget-title { font-family: Montserrat; font-weight: 700; font-style: normal; font-size: 14px; text-transform: uppercase; line-height: 24px; letter-spacing: 0px; } .widget, .widgets, #grve-hidden-menu ul.grve-menu li a { font-family: "Open Sans"; font-weight: 400; font-style: normal; font-size: 14px; text-transform: none; line-height: 24px; letter-spacing: 0px; } @media only screen and (min-width: 960px) and (max-width: 1200px) { h1,.grve-h1,#grve-theme-wrapper .grve-modal .grve-search input[type="text"],.grve-dropcap span { font-size: 47.7px; line-height: 1.13em; } h2,.grve-h2 { font-size: 32.4px; line-height: 1.11em; } #grve-page-title .grve-title,#grve-blog-title .grve-title { font-size: 32.4px; line-height: 1.11em; } #grve-post-title .grve-title { font-size: 32.4px; line-height: 1.11em; } #grve-portfolio-title .grve-title { font-size: 32.4px; line-height: 1.11em; } #grve-product-title .grve-title,#grve-product-tax-title .grve-title,.woocommerce-page #grve-page-title .grve-title { font-size: 57.6px; line-height: 1.06em; } #grve-feature-section .grve-title { font-size: 57.6px; line-height: 1.06em; } #grve-feature-section.grve-fullscreen .grve-title { font-size: 81px; line-height: 1.07em; } #grve-feature-section.grve-fullscreen .grve-description { font-size: 27px; line-height: 1.2em; } #grve-page-title .grve-description,#grve-blog-title .grve-description,#grve-blog-title .grve-description p { font-size: 16.2px; line-height: 1.67em; } #grve-post-title .grve-description { font-size: 16.2px; line-height: 1.67em; } #grve-portfolio-title .grve-description { font-size: 16.2px; line-height: 1.67em; } #grve-product-title .grve-description,#grve-product-tax-title .grve-description,#grve-product-tax-title .grve-description p,.woocommerce-page #grve-page-title .grve-description { font-size: 18px; line-height: 1.5em; } #grve-feature-section .grve-subheading { font-size: 12.6px; line-height: 2.14em; } #grve-feature-section.grve-fullscreen .grve-subheading { font-size: 18px; line-height: 1.5em; } #grve-feature-section .grve-description { font-size: 18px; line-height: 1.5em; } .grve-leader-text,.grve-leader-text p,p.grve-leader-text,blockquote { font-size: 18px; line-height: 1.5em; } } @media only screen and (min-width: 768px) and (max-width: 959px) { h1,.grve-h1,#grve-theme-wrapper .grve-modal .grve-search input[type="text"],.grve-dropcap span { font-size: 37.1px; line-height: 1.13em; } h2,.grve-h2 { font-size: 25.2px; line-height: 1.11em; } h3,.grve-h3 { font-size: 21px; line-height: 1.1em; } h4,.grve-h4 { font-size: 16.1px; line-height: 1.13em; } h5,.grve-h5,h3#reply-title { font-size: 12.6px; line-height: 1.11em; } h6,.grve-h6 { font-size: 11.2px; line-height: 1.13em; } #grve-page-title .grve-title,#grve-blog-title .grve-title { font-size: 30.6px; line-height: 1.11em; } #grve-post-title .grve-title { font-size: 30.6px; line-height: 1.11em; } #grve-portfolio-title .grve-title { font-size: 30.6px; line-height: 1.11em; } #grve-product-title .grve-title,#grve-product-tax-title .grve-title,.woocommerce-page #grve-page-title .grve-title { font-size: 54.4px; line-height: 1.06em; } #grve-feature-section .grve-title { font-size: 54.4px; line-height: 1.06em; } #grve-feature-section.grve-fullscreen .grve-title { font-size: 76.5px; line-height: 1.07em; } #grve-feature-section.grve-fullscreen .grve-description { font-size: 25.5px; line-height: 1.2em; } #grve-page-title .grve-description,#grve-blog-title .grve-description,#grve-blog-title .grve-description p { font-size: 14.4px; line-height: 1.67em; } #grve-post-title .grve-description { font-size: 14.4px; line-height: 1.67em; } #grve-portfolio-title .grve-description { font-size: 14.4px; line-height: 1.67em; } #grve-product-title .grve-description,#grve-product-tax-title .grve-description,#grve-product-tax-title .grve-description p,.woocommerce-page #grve-page-title .grve-description { font-size: 16px; line-height: 1.5em; } #grve-feature-section .grve-subheading { font-size: 11.2px; line-height: 2.14em; } #grve-feature-section.grve-fullscreen .grve-subheading { font-size: 16px; line-height: 1.5em; } #grve-feature-section .grve-description { font-size: 16px; line-height: 1.5em; } .grve-leader-text,.grve-leader-text p,p.grve-leader-text,blockquote { font-size: 16px; line-height: 1.5em; } } @media only screen and (max-width: 767px) { h1,.grve-h1,#grve-theme-wrapper .grve-modal .grve-search input[type="text"],.grve-dropcap span { font-size: 42.4px; line-height: 1.13em; } h2,.grve-h2 { font-size: 28.8px; line-height: 1.11em; } h3,.grve-h3 { font-size: 24px; line-height: 1.1em; } h4,.grve-h4 { font-size: 18.4px; line-height: 1.13em; } h5,.grve-h5,h3#reply-title { font-size: 14.4px; line-height: 1.11em; } h6,.grve-h6 { font-size: 12.8px; line-height: 1.13em; } #grve-page-title .grve-title,#grve-blog-title .grve-title { font-size: 14.4px; line-height: 1.11em; } #grve-post-title .grve-title { font-size: 14.4px; line-height: 1.11em; } #grve-portfolio-title .grve-title { font-size: 14.4px; line-height: 1.11em; } #grve-product-title .grve-title,#grve-product-tax-title .grve-title,.woocommerce-page #grve-page-title .grve-title { font-size: 25.6px; line-height: 1.06em; } #grve-feature-section .grve-title { font-size: 25.6px; line-height: 1.06em; } #grve-feature-section.grve-fullscreen .grve-title { font-size: 36px; line-height: 1.07em; } #grve-feature-section.grve-fullscreen .grve-description { font-size: 12px; line-height: 1.2em; } #grve-page-title .grve-description,#grve-blog-title .grve-description,#grve-blog-title .grve-description p { font-size: 12.6px; line-height: 1.67em; } #grve-post-title .grve-description { font-size: 12.6px; line-height: 1.67em; } #grve-portfolio-title .grve-description { font-size: 12.6px; line-height: 1.67em; } #grve-product-title .grve-description,#grve-product-tax-title .grve-description,#grve-product-tax-title .grve-description p,.woocommerce-page #grve-page-title .grve-description { font-size: 14px; line-height: 1.5em; } #grve-feature-section .grve-subheading { font-size: 9.8px; line-height: 2.14em; } #grve-feature-section.grve-fullscreen .grve-subheading { font-size: 14px; line-height: 1.5em; } #grve-feature-section .grve-description { font-size: 14px; line-height: 1.5em; } .grve-leader-text,.grve-leader-text p,p.grve-leader-text,blockquote { font-size: 14px; line-height: 1.5em; } #grve-theme-wrapper .grve-link-text,#grve-theme-wrapper a.grve-btn,#grve-theme-wrapper input[type="submit"],#grve-theme-wrapper input[type="reset"],#grve-theme-wrapper button:not(.mfp-arrow),#cancel-comment-reply-link { font-size: 9.1px !important; line-height: 2.46em; } } @media print { h1,.grve-h1,#grve-theme-wrapper .grve-modal .grve-search input[type="text"],.grve-dropcap span { font-size: 42.4px; line-height: 1.13em; } h2,.grve-h2 { font-size: 28.8px; line-height: 1.11em; } h3,.grve-h3 { font-size: 24px; line-height: 1.1em; } h4,.grve-h4 { font-size: 18.4px; line-height: 1.13em; } h5,.grve-h5,h3#reply-title { font-size: 14.4px; line-height: 1.11em; } h6,.grve-h6 { font-size: 12.8px; line-height: 1.13em; } #grve-page-title .grve-title,#grve-blog-title .grve-title { font-size: 14.4px; line-height: 1.11em; } #grve-post-title .grve-title { font-size: 14.4px; line-height: 1.11em; } #grve-portfolio-title .grve-title { font-size: 14.4px; line-height: 1.11em; } #grve-product-title .grve-title,#grve-product-tax-title .grve-title,.woocommerce-page #grve-page-title .grve-title { font-size: 25.6px; line-height: 1.06em; } #grve-feature-section .grve-title { font-size: 25.6px; line-height: 1.06em; } #grve-feature-section.grve-fullscreen .grve-title { font-size: 36px; line-height: 1.07em; } #grve-feature-section.grve-fullscreen .grve-description { font-size: 12px; line-height: 1.2em; } #grve-page-title .grve-description,#grve-blog-title .grve-description,#grve-blog-title .grve-description p { font-size: 12.6px; line-height: 1.67em; } #grve-post-title .grve-description { font-size: 12.6px; line-height: 1.67em; } #grve-portfolio-title .grve-description { font-size: 12.6px; line-height: 1.67em; } #grve-product-title .grve-description,#grve-product-tax-title .grve-description,#grve-product-tax-title .grve-description p,.woocommerce-page #grve-page-title .grve-description { font-size: 14px; line-height: 1.5em; } #grve-feature-section .grve-subheading { font-size: 9.8px; line-height: 2.14em; } #grve-feature-section.grve-fullscreen .grve-subheading { font-size: 14px; line-height: 1.5em; } #grve-feature-section .grve-description { font-size: 14px; line-height: 1.5em; } .grve-leader-text,.grve-leader-text p,p.grve-leader-text,blockquote { font-size: 14px; line-height: 1.5em; } #grve-theme-wrapper .grve-link-text,#grve-theme-wrapper a.grve-btn,#grve-theme-wrapper input[type="submit"],#grve-theme-wrapper input[type="reset"],#grve-theme-wrapper button:not(.mfp-arrow),#cancel-comment-reply-link { font-size: 9.1px !important; line-height: 2.46em; } } 
+</style><!-- Dynamic css -->
+<style type="text/css">
+ a { color: #f60034; } a:hover { color: #000000; } .grve-container, #disqus_thread, #grve-content.grve-left-sidebar .grve-content-wrapper, #grve-content.grve-right-sidebar .grve-content-wrapper { max-width: 1170px; } @media only screen and (min-width: 960px) { #grve-theme-wrapper.grve-header-side .grve-container, #grve-theme-wrapper.grve-header-side #grve-content.grve-left-sidebar .grve-content-wrapper, #grve-theme-wrapper.grve-header-side #grve-content.grve-right-sidebar .grve-content-wrapper { width: 90%; max-width: 1170px; } } body.grve-boxed #grve-theme-wrapper { width: 1220px; } #grve-body.grve-boxed #grve-header.grve-fixed #grve-main-header, #grve-body.grve-boxed .grve-anchor-menu .grve-anchor-wrapper.grve-sticky, #grve-body.grve-boxed #grve-footer.grve-fixed-footer { max-width: 1220px; } #grve-top-bar, #grve-top-bar .grve-language > li > ul, #grve-top-bar .grve-top-bar-menu ul.sub-menu { background-color: #1c2125; color: #777777; } #grve-top-bar a { color: #777777; } #grve-top-bar a:hover { color: #f60034; } #grve-main-header { background-color: rgba(255,255,255,1); } #grve-main-header.grve-transparent, #grve-main-header.grve-light, #grve-main-header.grve-dark { background-color: transparent; } #grve-main-header.grve-header-default .grve-header-elements-wrapper:before { background: -moz-linear-gradient(top, rgba(0,0,0,0) 5%, rgba(0,0,0,0.10) 30%, rgba(0,0,0,0.10) 70%, rgba(0,0,0,0) 95%); background: -webkit-linear-gradient(top, rgba(0,0,0,0) 5%, rgba(0,0,0,0.10) 30%, rgba(0,0,0,0.10) 70%, rgba(0,0,0,0) 95%); background: linear-gradient(to bottom, rgba(0,0,0,0) 5%, rgba(0,0,0,0.10) 30%, rgba(0,0,0,0.10) 70%, rgba(0,0,0,0) 95%); } #grve-main-header.grve-header-default { border-color: rgba(0,0,0,0.10); } #grve-main-menu .grve-wrapper > ul > li > a, .grve-header-element > a, .grve-header-element .grve-purchased-items { color: #000000; } #grve-main-menu .grve-wrapper > ul > li.grve-current > a, #grve-main-menu .grve-wrapper > ul > li.current-menu-item > a, #grve-main-menu .grve-wrapper > ul > li.current-menu-ancestor > a, #grve-main-menu .grve-wrapper > ul > li:hover > a, .grve-header-element > a:hover { color: #b0072b; } #grve-main-menu.grve-menu-type-button .grve-wrapper > ul > li.current-menu-item > a span, #grve-main-menu.grve-menu-type-button .grve-wrapper > ul > li.current-menu-ancestor > a span { border-color: #ededed; } #grve-main-menu.grve-menu-type-button .grve-wrapper > ul > li:hover > a span, #grve-main-menu.grve-menu-type-button .grve-wrapper > ul > li.active > a span { border-color: #b0072b; } #grve-main-menu.grve-menu-type-underline .grve-wrapper > ul > li > a span:after { background-color: #ededed; } #grve-main-menu.grve-menu-type-underline .grve-wrapper > ul > li:hover > a span:after, #grve-main-menu.grve-menu-type-underline .grve-wrapper > ul > li.active > a span:after { background-color: #b0072b; } #grve-main-menu .grve-wrapper > ul > li ul { background-color: #232323; } #grve-main-menu .grve-wrapper > ul > li ul li a, #grve-main-header.grve-light #grve-main-menu .grve-wrapper > ul > li.megamenu > ul > li:hover > a { color: #777777; } #grve-main-menu .grve-wrapper > ul > li ul li a:hover, #grve-main-menu .grve-wrapper > ul > li ul li.current-menu-item > a, #grve-main-menu .grve-wrapper > ul li li.current-menu-ancestor > a { color: #ffffff; background-color: #1f1f1f; } #grve-main-menu .grve-wrapper > ul > li.megamenu > ul > li > a { color: #ffffff; background-color: transparent; } #grve-main-menu .grve-wrapper > ul > li.megamenu > ul > li:hover > a { color: #b0072b; } #grve-main-menu.grve-horizontal-menu .grve-wrapper > ul > li.megamenu > ul > li { border-color: #3e3e3e; } #grve-main-menu .grve-wrapper > ul > li ul li.grve-menu-type-button a { background-color: transparent; } #grve-main-header, .grve-logo { height: 90px; } .grve-logo a { height: 50px; } #grve-main-menu .grve-wrapper > ul > li > a, .grve-header-element > a, .grve-no-assigned-menu { line-height: 90px; } .grve-logo .grve-wrapper img { padding-top: 0; padding-bottom: 0; } #grve-theme-wrapper.grve-feature-below #grve-goto-section-wrapper { margin-bottom: 90px; } @media only screen and (min-width: 1024px) { #grve-header.grve-overlapping + .grve-page-title, #grve-header.grve-overlapping + #grve-feature-section, #grve-header.grve-overlapping + #grve-content, #grve-header.grve-overlapping + #grve-breadcrumbs, #grve-header.grve-overlapping + .grve-single-wrapper { top: -90px; margin-bottom: -90px; } #grve-feature-section + #grve-header.grve-overlapping { top: -90px; } #grve-header.grve-overlapping + .grve-page-title .grve-wrapper, #grve-header.grve-overlapping + #grve-feature-section .grve-wrapper { padding-top: 45px; } #grve-header.grve-overlapping + #grve-breadcrumbs .grve-wrapper { padding-top: 90px; } #grve-header { height: 90px; } } @media only screen and (min-width: 1024px) { #grve-header.grve-overlapping + #grve-content .grve-sidebar.grve-fixed-sidebar, #grve-header.grve-overlapping + .grve-single-wrapper .grve-sidebar.grve-fixed-sidebar { top: 90px; } } #grve-main-header.grve-light #grve-main-menu .grve-wrapper > ul > li > a, #grve-main-header.grve-light .grve-header-element > a, #grve-main-header.grve-light .grve-header-element .grve-purchased-items { color: #ffffff; } #grve-main-header.grve-light #grve-main-menu .grve-wrapper > ul > li.grve-current > a, #grve-main-header.grve-light #grve-main-menu .grve-wrapper > ul > li.current-menu-item > a, #grve-main-header.grve-light #grve-main-menu .grve-wrapper > ul > li:hover > a, #grve-main-header.grve-light #grve-main-menu .grve-wrapper > ul > li.current-menu-item > a, #grve-main-header.grve-light #grve-main-menu .grve-wrapper > ul > li.current-menu-ancestor > a, #grve-main-header.grve-light .grve-header-element > a:hover { color: #f60034; } #grve-main-header.grve-light #grve-main-menu.grve-menu-type-button .grve-wrapper > ul > li.current-menu-item > a span, #grve-main-header.grve-light #grve-main-menu.grve-menu-type-button .grve-wrapper > ul > li.current-menu-ancestor > a span, #grve-main-header.grve-light #grve-main-menu.grve-menu-type-button .grve-wrapper > ul > li:hover > a span { border-color: #ededed; } #grve-main-header.grve-light #grve-main-menu.grve-menu-type-underline .grve-wrapper > ul > li > a span:after, #grve-main-header.grve-light #grve-main-menu.grve-menu-type-underline .grve-wrapper > ul > li:hover > a span:after { background-color: #ededed; } #grve-main-header.grve-header-default.grve-light .grve-header-elements-wrapper:before { background: -moz-linear-gradient(top, rgba(255,255,255,0) 5%, rgba(255,255,255,0.10) 30%, rgba(255,255,255,0.10) 70%, rgba(255,255,255,0) 95%); background: -webkit-linear-gradient(top, rgba(255,255,255,0) 5%, rgba(255,255,255,0.10) 30%, rgba(255,255,255,0.10) 70%, rgba(255,255,255,0) 95%); background: linear-gradient(to bottom, rgba(255,255,255,0) 5%, rgba(255,255,255,0.10) 30%, rgba(255,255,255,0.10) 70%, rgba(255,255,255,0) 95%); } #grve-main-header.grve-header-default.grve-light { border-color: rgba(255,255,255,0.10); } #grve-main-header.grve-dark #grve-main-menu .grve-wrapper > ul > li > a, #grve-main-header.grve-dark .grve-header-element > a, #grve-main-header.grve-dark .grve-header-element .grve-purchased-items { color: #000000; } #grve-main-header.grve-dark #grve-main-menu .grve-wrapper > ul > li.grve-current > a, #grve-main-header.grve-dark #grve-main-menu .grve-wrapper > ul > li.current-menu-item > a, #grve-main-header.grve-dark #grve-main-menu .grve-wrapper > ul > li:hover > a, #grve-main-header.grve-dark #grve-main-menu .grve-wrapper > ul > li.current-menu-item > a, #grve-main-header.grve-dark #grve-main-menu .grve-wrapper > ul > li.current-menu-ancestor > a, #grve-main-header.grve-dark .grve-header-element > a:hover { color: #f60034; } #grve-main-header.grve-dark #grve-main-menu.grve-menu-type-button .grve-wrapper > ul > li.current-menu-item > a span, #grve-main-header.grve-dark #grve-main-menu.grve-menu-type-button .grve-wrapper > ul > li.current-menu-ancestor > a span, #grve-main-header.grve-dark #grve-main-menu.grve-menu-type-button .grve-wrapper > ul > li:hover > a span { border-color: #ededed; } #grve-main-header.grve-dark #grve-main-menu.grve-menu-type-underline .grve-wrapper > ul > li > a span:after, #grve-main-header.grve-dark #grve-main-menu.grve-menu-type-underline .grve-wrapper > ul > li:hover > a span:after { background-color: #ededed; } #grve-main-header.grve-header-default.grve-dark .grve-header-elements-wrapper:before { background: -moz-linear-gradient(top, rgba(0,0,0,0) 5%, rgba(0,0,0,0.10) 30%, rgba(0,0,0,0.10) 70%, rgba(0,0,0,0) 95%); background: -webkit-linear-gradient(top, rgba(0,0,0,0) 5%, rgba(0,0,0,0.10) 30%, rgba(0,0,0,0.10) 70%, rgba(0,0,0,0) 95%); background: linear-gradient(to bottom, rgba(0,0,0,0) 5%, rgba(0,0,0,0.10) 30%, rgba(0,0,0,0.10) 70%, rgba(0,0,0,0) 95%); } #grve-main-header.grve-header-default.grve-dark { border-color: rgba(0,0,0,0.10); } #grve-header.grve-sticky-header.grve-shrink #grve-main-header, #grve-header.grve-sticky-header.grve-advanced #grve-main-header { height: 40px; } #grve-header.grve-sticky-header.grve-shrink .grve-logo, #grve-header.grve-sticky-header.grve-advanced .grve-logo { height: 40px; } #grve-header.grve-sticky-header.grve-shrink .grve-logo a, #grve-header.grve-sticky-header.grve-advanced .grve-logo a { height: 30px; } #grve-header.grve-sticky-header.grve-shrink #grve-main-menu .grve-wrapper > ul > li > a, #grve-header.grve-sticky-header.grve-shrink .grve-header-element > a, #grve-header.grve-sticky-header.grve-advanced #grve-main-menu .grve-wrapper > ul > li > a, #grve-header.grve-sticky-header.grve-advanced .grve-header-element > a, #grve-header.grve-sticky-header.grve-shrink .grve-no-assigned-menu, #grve-header.grve-sticky-header.grve-advanced .grve-no-assigned-menu { line-height: 40px; } #grve-header.grve-sticky-header.grve-advanced.hide #grve-main-header { -webkit-transform: translateY(-90px); -moz-transform: translateY(-90px); transform: translateY(-90px); } #grve-header.grve-sticky-header #grve-main-header { background-color: rgba(28,33,37,0.85); } #grve-header.grve-sticky-header #grve-top-header, #grve-header.grve-sticky-header #grve-bottom-header { background-color: transparent; } #grve-header.grve-sticky-header #grve-main-header #grve-main-menu .grve-wrapper > ul > li > a, #grve-header.grve-sticky-header #grve-main-header .grve-header-element > a, #grve-header.grve-sticky-header .grve-header-element .grve-purchased-items { color: #ffffff; } #grve-header.grve-sticky-header #grve-main-header #grve-main-menu .grve-wrapper > ul > li.grve-current > a, #grve-header.grve-sticky-header #grve-main-header #grve-main-menu .grve-wrapper > ul > li.current-menu-item > a, #grve-header.grve-sticky-header #grve-main-header #grve-main-menu .grve-wrapper > ul > li:hover > a, #grve-header.grve-sticky-header #grve-main-header #grve-main-menu .grve-wrapper > ul > li.current-menu-item > a, #grve-header.grve-sticky-header #grve-main-header #grve-main-menu .grve-wrapper > ul > li.current-menu-ancestor > a, #grve-header.grve-sticky-header #grve-main-header #grve-main-menu .grve-wrapper > ul > li.active > a, #grve-header.grve-sticky-header #grve-main-header .grve-header-element > a:hover { color: #f60034; } #grve-header.grve-sticky-header #grve-main-menu.grve-menu-type-button .grve-wrapper > ul > li.current-menu-item > a span, #grve-header.grve-sticky-header #grve-main-menu.grve-menu-type-button .grve-wrapper > ul > li.current-menu-ancestor > a span { border-color: #ededed; } #grve-header.grve-sticky-header #grve-main-menu.grve-menu-type-button .grve-wrapper > ul > li:hover > a span { border-color: #ededed; } #grve-header.grve-sticky-header #grve-main-menu.grve-menu-type-underline .grve-wrapper > ul > li > a span:after { background-color: #ededed; } #grve-header.grve-sticky-header #grve-main-menu.grve-menu-type-underline .grve-wrapper > ul > li:hover > a span:after { background-color: #ededed; } #grve-header.grve-sticky-header #grve-main-header.grve-header-default .grve-header-elements-wrapper:before { background: -moz-linear-gradient(top, rgba(255,255,255,0) 5%, rgba(255,255,255,0.30) 30%, rgba(255,255,255,0.30) 70%, rgba(255,255,255,0) 95%); background: -webkit-linear-gradient(top, rgba(255,255,255,0) 5%, rgba(255,255,255,0.30) 30%, rgba(255,255,255,0.30) 70%, rgba(255,255,255,0) 95%); background: linear-gradient(to bottom, rgba(255,255,255,0) 5%, rgba(255,255,255,0.30) 30%, rgba(255,255,255,0.30) 70%, rgba(255,255,255,0) 95%); } #grve-header.grve-sticky-header #grve-main-header.grve-header-default { border-color: rgba(255,255,255,0.30); } #grve-sidearea { background-color: #232323; color: #777777; } #grve-sidearea .widget, #grve-sidearea form, #grve-sidearea form p, #grve-sidearea form div, #grve-sidearea form span { color: #777777; } #grve-sidearea h1, #grve-sidearea h2, #grve-sidearea h3, #grve-sidearea h4, #grve-sidearea h5, #grve-sidearea h6, #grve-sidearea .widget .grve-widget-title { color: #ffffff; } #grve-sidearea a { color: #777777; } #grve-sidearea .widget li a .grve-arrow:after, #grve-sidearea .widget li a .grve-arrow:before { color: #777777; } #grve-sidearea a:hover { color: #f60034; } #grve-sidearea .grve-close-btn:after, #grve-sidearea .grve-close-btn:before, #grve-sidearea .grve-close-btn span { background-color: #777777; } #grve-sidearea .grve-border, #grve-sidearea form, #grve-sidearea form p, #grve-sidearea form div, #grve-sidearea form span, #grve-sidearea .widget a, #grve-sidearea .widget ul, #grve-sidearea .widget li, #grve-sidearea .widget table, #grve-sidearea .widget table td, #grve-sidearea .widget table th, #grve-sidearea .widget table tr { border-color: #3e3e3e; } #grve-sidearea-overlay { background-color: rgba(255,255,255,0.90); } #grve-modal-overlay, .mfp-bg, #grve-loader-overflow { background-color: rgba(0,0,0,1); } #grve-theme-wrapper .grve-modal-content .grve-form-style-1:not(.grve-white-bg) h1, #grve-theme-wrapper .grve-modal-content .grve-form-style-1:not(.grve-white-bg) h2, #grve-theme-wrapper .grve-modal-content .grve-form-style-1:not(.grve-white-bg) h3, #grve-theme-wrapper .grve-modal-content .grve-form-style-1:not(.grve-white-bg) h4, #grve-theme-wrapper .grve-modal-content .grve-form-style-1:not(.grve-white-bg) h5, #grve-theme-wrapper .grve-modal-content .grve-form-style-1:not(.grve-white-bg) h6, #grve-theme-wrapper .grve-modal-content .grve-form-style-1:not(.grve-white-bg) .grve-modal-title, .mfp-title, .mfp-counter { color: #ffffff; } .grve-close-modal:before, .grve-close-modal:after, .mfp-wrap .grve-loader { background-color: #ffffff; } button.mfp-arrow { color: #ffffff; } #grve-theme-wrapper .grve-modal form, #grve-theme-wrapper .grve-modal form p, #grve-theme-wrapper .grve-modal form div, #grve-theme-wrapper .grve-modal form span, #grve-socials-modal ul li a, #grve-language-modal ul li a { color: #777777; border-color: #e9e9e9; } #grve-responsive-header > .grve-wrapper { background-color: rgba(35,35,35,0.70); } #grve-responsive-header { height: 50px; } #grve-responsive-header .grve-logo { height: 50px; } #grve-responsive-header .grve-header-element > a { line-height: 50px; } #grve-responsive-header .grve-logo a { height: 30px; } #grve-responsive-header .grve-logo .grve-wrapper img { padding-top: 0; padding-bottom: 0; } @media only screen and (max-width: 1023px) { #grve-header.grve-responsive-overlapping + * { top: -50px; margin-bottom: -50px; } #grve-feature-section + #grve-header.grve-responsive-overlapping { top: -50px; } #grve-header.grve-responsive-overlapping + * .grve-wrapper { padding-top: 50px; } } #grve-hidden-menu { background-color: #232323; } #grve-hidden-menu a { color: #ffffff; } #grve-hidden-menu:not(.grve-slide-menu) ul.grve-menu li a .grve-arrow:after, #grve-hidden-menu:not(.grve-slide-menu) ul.grve-menu li a .grve-arrow:before { background-color: #ffffff; } #grve-hidden-menu ul.grve-menu li.open > a .grve-arrow:after, #grve-hidden-menu ul.grve-menu li.open > a .grve-arrow:before { background-color: #f60034; } #grve-theme-wrapper .grve-header-responsive-elements form, #grve-theme-wrapper .grve-header-responsive-elements form p, #grve-theme-wrapper .grve-header-responsive-elements form div, #grve-theme-wrapper .grve-header-responsive-elements form span { color: #ffffff; } #grve-hidden-menu a:hover, #grve-hidden-menu ul.grve-menu > li.current-menu-item > a, #grve-hidden-menu ul.grve-menu > li.current-menu-ancestor > a, #grve-hidden-menu ul.grve-menu li.current-menu-item > a, #grve-hidden-menu ul.grve-menu li.open > a { color: #f60034; } #grve-hidden-menu .grve-close-btn:after, #grve-hidden-menu .grve-close-btn:before, #grve-hidden-menu .grve-close-btn span { background-color: #777777; } #grve-hidden-menu ul.grve-menu li a, #grve-theme-wrapper .grve-header-responsive-elements form, #grve-theme-wrapper .grve-header-responsive-elements form p, #grve-theme-wrapper .grve-header-responsive-elements form div, #grve-theme-wrapper .grve-header-responsive-elements form span { border-color: #3e3e3e; } #grve-hidden-menu-overlay { background-color: rgba(255,255,255,0.90); } #grve-responsive-header .grve-header-element > a, #grve-responsive-header .grve-header-element .grve-purchased-items { color: #ffffff; } #grve-responsive-header .grve-header-element > a:hover { color: #f60034; } .grve-spinner { display: inline-block; position: absolute !important; margin: 0 !important; top: 50%; left: 50%; margin-top: -1.500em; margin-left: -1.500em; text-indent: -9999em; -webkit-transform: translateZ(0); -ms-transform: translateZ(0); transform: translateZ(0); } .grve-spinner:not(.custom) { font-size: 14px; border-top: 0.200em solid rgba(127, 127, 127, 0.3); border-right: 0.200em solid rgba(127, 127, 127, 0.3); border-bottom: 0.200em solid rgba(127, 127, 127, 0.3); border-left: 0.200em solid; -webkit-animation: spinnerAnim 1.1s infinite linear; animation: spinnerAnim 1.1s infinite linear; } .grve-spinner:not(.custom) { border-left-color: #f60034; } .grve-spinner:not(.custom), .grve-spinner:not(.custom):after { border-radius: 50%; width: 3.000em; height: 3.000em; } @-webkit-keyframes spinnerAnim { 0% { -webkit-transform: rotate(0deg); transform: rotate(0deg); } 100% { -webkit-transform: rotate(360deg); transform: rotate(360deg); } } @keyframes spinnerAnim { 0% { -webkit-transform: rotate(0deg); transform: rotate(0deg); } 100% { -webkit-transform: rotate(360deg); transform: rotate(360deg); } } ::-moz-selection { color: #ffffff; background: #f60034; } ::selection { color: #ffffff; background: #f60034; } h1,h2,h3,h4,h5,h6, .grve-h1, .grve-h2, .grve-h3, .grve-h4, .grve-h5, .grve-h6, .grve-heading-color, .grve-blog.grve-with-shadow .grve-post-title { color: #000000; } .grve-headings-primary-1 h1, .grve-headings-primary-1 h2, .grve-headings-primary-1 h3, .grve-headings-primary-1 h4, .grve-headings-primary-1 h5, .grve-headings-primary-1 h6, .grve-headings-primary-1 .grve-heading-color, .wpb_column.grve-headings-primary-1 h1, .wpb_column.grve-headings-primary-1 h2, .wpb_column.grve-headings-primary-1 h3, .wpb_column.grve-headings-primary-1 h4, .wpb_column.grve-headings-primary-1 h5, .wpb_column.grve-headings-primary-1 h6, .wpb_column.grve-headings-primary-1 .grve-heading-color , .grve-blog ul.grve-post-meta a:hover, .grve-blog a.grve-read-more { color: #f60034; } .grve-headings-primary-2 h1, .grve-headings-primary-2 h2, .grve-headings-primary-2 h3, .grve-headings-primary-2 h4, .grve-headings-primary-2 h5, .grve-headings-primary-2 h6, .grve-headings-primary-2 .grve-heading-color, .wpb_column.grve-headings-primary-2 h1, .wpb_column.grve-headings-primary-2 h2, .wpb_column.grve-headings-primary-2 h3, .wpb_column.grve-headings-primary-2 h4, .wpb_column.grve-headings-primary-2 h5, .wpb_column.grve-headings-primary-2 h6, .wpb_column.grve-headings-primary-2 .grve-heading-color { color: #00bfa5; } .grve-headings-primary-3 h1, .grve-headings-primary-3 h2, .grve-headings-primary-3 h3, .grve-headings-primary-3 h4, .grve-headings-primary-3 h5, .grve-headings-primary-3 h6, .grve-headings-primary-3 .grve-heading-color, .wpb_column.grve-headings-primary-3 h1, .wpb_column.grve-headings-primary-3 h2, .wpb_column.grve-headings-primary-3 h3, .wpb_column.grve-headings-primary-3 h4, .wpb_column.grve-headings-primary-3 h5, .wpb_column.grve-headings-primary-3 h6, .wpb_column.grve-headings-primary-3 .grve-heading-color { color: #00bcd4; } .grve-headings-primary-4 h1, .grve-headings-primary-4 h2, .grve-headings-primary-4 h3, .grve-headings-primary-4 h4, .grve-headings-primary-4 h5, .grve-headings-primary-4 h6, .grve-headings-primary-4 .grve-heading-color, .wpb_column.grve-headings-primary-4 h1, .wpb_column.grve-headings-primary-4 h2, .wpb_column.grve-headings-primary-4 h3, .wpb_column.grve-headings-primary-4 h4, .wpb_column.grve-headings-primary-4 h5, .wpb_column.grve-headings-primary-4 h6, .wpb_column.grve-headings-primary-4 .grve-heading-color { color: #9575cd; } .grve-headings-primary-5 h1, .grve-headings-primary-5 h2, .grve-headings-primary-5 h3, .grve-headings-primary-5 h4, .grve-headings-primary-5 h5, .grve-headings-primary-5 h6, .grve-headings-primary-5 .grve-heading-color, .wpb_column.grve-headings-primary-5 h1, .wpb_column.grve-headings-primary-5 h2, .wpb_column.grve-headings-primary-5 h3, .wpb_column.grve-headings-primary-5 h4, .wpb_column.grve-headings-primary-5 h5, .wpb_column.grve-headings-primary-5 h6, .wpb_column.grve-headings-primary-5 .grve-heading-color { color: #b0072b; } .grve-headings-dark h1, .grve-headings-dark h2, .grve-headings-dark h3, .grve-headings-dark h4, .grve-headings-dark h5, .grve-headings-dark h6, .grve-headings-dark .grve-heading-color, .wpb_column.grve-headings-dark h1, .wpb_column.grve-headings-dark h2, .wpb_column.grve-headings-dark h3, .wpb_column.grve-headings-dark h4, .wpb_column.grve-headings-dark h5, .wpb_column.grve-headings-dark h6, .wpb_column.grve-headings-dark .grve-heading-color { color: #000000; } .grve-headings-light h1, .grve-headings-light h2, .grve-headings-light h3, .grve-headings-light h4, .grve-headings-light h5, .grve-headings-light h6, .grve-headings-light .grve-heading-color, .wpb_column.grve-headings-light h1, .wpb_column.grve-headings-light h2, .wpb_column.grve-headings-light h3, .wpb_column.grve-headings-light h4, .wpb_column.grve-headings-light h5, .wpb_column.grve-headings-light h6, .wpb_column.grve-headings-light .grve-heading-color { color: #ffffff; } .grve-text-primary-1, .grve-text-hover-primary-1:hover, a:hover .grve-text-hover-primary-1, .grve-like-counter.active i, .grve-list li:before, #grve-single-post-meta-bar .grve-categories ul li a:hover, #grve-single-post-meta-bar .grve-tags ul li a:hover, .vc_tta-panel.vc_active .vc_tta-controls-icon, .grve-pagination ul li a:hover, .grve-pagination ul li span.current, .grve-blog.grve-with-shadow .grve-post-title:hover { color: #f60034; } .grve-text-primary-2, .grve-text-hover-primary-2:hover, a:hover .grve-text-hover-primary-2, .grve-list li:before { color: #00bfa5; } .grve-text-primary-3, .grve-text-hover-primary-3:hover, a:hover .grve-text-hover-primary-3, .grve-list li:before { color: #00bcd4; } .grve-text-primary-4, .grve-text-hover-primary-4:hover, a:hover .grve-text-hover-primary-4, .grve-list li:before { color: #9575cd; } .grve-text-primary-5, .grve-text-hover-primary-5:hover, a:hover .grve-text-hover-primary-5, .grve-list li:before { color: #b0072b; } .grve-text-dark, #grve-content .grve-text-dark, a.grve-text-dark, .grve-text-dark-hover:hover, a:hover .grve-text-dark-hover { color: #000000; } .grve-text-light, #grve-content .grve-text-light, a.grve-text-light, .grve-text-light-hover:hover, a:hover .grve-text-light-hover { color: #ffffff; } .grve-text-green, .grve-text-hover-green:hover, a.grve-text-hover-green:hover, a:hover .grve-text-hover-green { color: #66bb6a; } .grve-text-red, .grve-text-hover-red:hover, a.grve-text-hover-red:hover, a:hover .grve-text-hover-red { color: #ff5252; } .grve-text-orange, .grve-text-hover-orange:hover, a.grve-text-hover-orange:hover, a:hover .grve-text-hover-orange { color: #fd7f24; } .grve-text-aqua, .grve-text-hover-aqua:hover, a.grve-text-hover-aqua:hover, a:hover .grve-text-hover-aqua { color: #1de9b6; } .grve-text-blue, .grve-text-hover-blue:hover, a.grve-text-hover-blue:hover, a:hover .grve-text-hover-blue { color: #00b0ff; } .grve-text-purple, .grve-text-hover-purple:hover, a.grve-text-hover-purple:hover, a:hover .grve-text-hover-purple { color: #b388ff; } .grve-text-black, .grve-text-hover-black:hover, a.grve-text-hover-black:hover, a:hover .grve-text-hover-black { color: #000000; } .grve-text-grey, .grve-text-hover-grey:hover, a.grve-text-hover-grey:hover, a:hover .grve-text-hover-grey { color: #bababa; } .grve-text-white, .grve-text-hover-white:hover, a.grve-text-hover-white:hover, a:hover .grve-text-hover-white { color: #ffffff; } .grve-bg-primary-1, .grve-bg-hover-primary-1:hover, a.grve-bg-hover-primary-1:hover, #grve-main-content .vc_tta.vc_general .vc_tta-tab.vc_active > a:after, blockquote:before, .grve-no-assigned-menu a:hover, #grve-theme-wrapper .mejs-controls .mejs-time-rail .mejs-time-current { background-color: #f60034; color: #ffffff; } a.grve-btn-line.grve-bg-primary-1 { background-color: transparent; border-color: #f60034; color: #f60034; } a.grve-btn-line.grve-bg-hover-primary-1:hover { background-color: #f60034; border-color: #f60034; color: #ffffff; } .grve-menu-type-button.grve-primary-1 > a .grve-item, .grve-menu-type-button.grve-hover-primary-1 > a:hover .grve-item { background-color: #f60034; color: #ffffff; } .grve-bg-primary-2, .grve-bg-hover-primary-2:hover, a.grve-bg-hover-primary-2:hover { background-color: #00bfa5; color: #ffffff; } a.grve-btn-line.grve-bg-primary-2 { background-color: transparent; border-color: #00bfa5; color: #00bfa5; } a.grve-btn-line.grve-bg-hover-primary-2:hover { background-color: #00bfa5; border-color: #00bfa5; color: #ffffff; } .grve-menu-type-button.grve-primary-2 > a .grve-item, .grve-menu-type-button.grve-hover-primary-2 > a:hover .grve-item { background-color: #00bfa5; color: #ffffff; } .grve-bg-primary-3, .grve-bg-hover-primary-3:hover, a.grve-bg-hover-primary-3:hover { background-color: #00bcd4; color: #ffffff; } a.grve-btn-line.grve-bg-primary-3 { background-color: transparent; border-color: #00bcd4; color: #00bcd4; } a.grve-btn-line.grve-bg-hover-primary-3:hover { background-color: #00bcd4; border-color: #00bcd4; color: #ffffff; } .grve-menu-type-button.grve-primary-3 > a .grve-item, .grve-menu-type-button.grve-hover-primary-3 > a:hover .grve-item { background-color: #00bcd4; color: #ffffff; } .grve-bg-primary-4, .grve-bg-hover-primary-4:hover, a.grve-bg-hover-primary-4:hover { background-color: #9575cd; color: #ffffff; } a.grve-btn-line.grve-bg-primary-4 { background-color: transparent; border-color: #9575cd; color: #9575cd; } a.grve-btn-line.grve-bg-hover-primary-4:hover { background-color: #9575cd; border-color: #9575cd; color: #ffffff; } .grve-menu-type-button.grve-primary-4 > a .grve-item, .grve-menu-type-button.grve-hover-primary-4 > a:hover .grve-item { background-color: #9575cd; color: #ffffff; } .grve-bg-primary-5, .grve-bg-hover-primary-5:hover, a.grve-bg-hover-primary-5:hover { background-color: #b0072b; color: #ffffff; } a.grve-btn-line.grve-bg-primary-5 { background-color: transparent; border-color: #b0072b; color: #b0072b; } a.grve-btn-line.grve-bg-hover-primary-5:hover { background-color: #b0072b; border-color: #b0072b; color: #ffffff; } .grve-menu-type-button.grve-primary-5 > a .grve-item, .grve-menu-type-button.grve-hover-primary-5 > a:hover .grve-item { background-color: #b0072b; color: #ffffff; } .grve-bg-dark, a.grve-bg-dark:hover, .grve-outline-btn a.grve-bg-dark:hover { background-color: #000000; color: #ffffff; } .grve-outline-btn a.grve-bg-dark { background-color: transparent; border-color: #000000; color: #000000; } .grve-bg-light, a.grve-bg-light:hover { background-color: #ffffff; color: #000000; } .grve-outline-btn a.grve-bg-light:hover { background-color: #ffffff; color: #000000; } .grve-outline-btn a.grve-bg-light { background-color: transparent; border-color: #ffffff; color: #ffffff; } .grve-bg-green, .grve-bg-hover-green:hover, a.grve-bg-hover-green:hover { background-color: #66bb6a; color: #ffffff; } a.grve-btn-line.grve-bg-green { background-color: transparent; border-color: #66bb6a; color: #66bb6a; } a.grve-btn-line.grve-bg-hover-green:hover { background-color: #66bb6a; border-color: #66bb6a; color: #ffffff; } .grve-menu-type-button.grve-green > a .grve-item, .grve-menu-type-button.grve-hover-green > a:hover .grve-item { background-color: #66bb6a; color: #ffffff; } .grve-bg-red, .grve-bg-hover-red:hover, a.grve-bg-hover-red:hover { background-color: #ff5252; color: #ffffff; } a.grve-btn-line.grve-bg-red { background-color: transparent; border-color: #ff5252; color: #ff5252; } a.grve-btn-line.grve-bg-hover-red:hover { background-color: #ff5252; border-color: #ff5252; color: #ffffff; } .grve-menu-type-button.grve-red > a .grve-item, .grve-menu-type-button.grve-hover-red > a:hover .grve-item { background-color: #ff5252; color: #ffffff; } .grve-bg-orange, .grve-bg-hover-orange:hover, a.grve-bg-hover-orange:hover { background-color: #fd7f24; color: #ffffff; } a.grve-btn-line.grve-bg-orange { background-color: transparent; border-color: #fd7f24; color: #fd7f24; } a.grve-btn-line.grve-bg-hover-orange:hover { background-color: #fd7f24; border-color: #fd7f24; color: #ffffff; } .grve-menu-type-button.grve-orange > a .grve-item, .grve-menu-type-button.grve-hover-orange > a:hover .grve-item { background-color: #fd7f24; color: #ffffff; } .grve-bg-aqua, .grve-bg-hover-aqua:hover, a.grve-bg-hover-aqua:hover { background-color: #1de9b6; color: #ffffff; } a.grve-btn-line.grve-bg-aqua { background-color: transparent; border-color: #1de9b6; color: #1de9b6; } a.grve-btn-line.grve-bg-hover-aqua:hover { background-color: #1de9b6; border-color: #1de9b6; color: #ffffff; } .grve-menu-type-button.grve-aqua > a .grve-item, .grve-menu-type-button.grve-hover-aqua > a:hover .grve-item { background-color: #1de9b6; color: #ffffff; } .grve-bg-blue, .grve-bg-hover-blue:hover, a.grve-bg-hover-blue:hover { background-color: #00b0ff; color: #ffffff; } a.grve-btn-line.grve-bg-blue { background-color: transparent; border-color: #00b0ff; color: #00b0ff; } a.grve-btn-line.grve-bg-hover-blue:hover { background-color: #00b0ff; border-color: #00b0ff; color: #ffffff; } .grve-menu-type-button.grve-blue > a .grve-item, .grve-menu-type-button.grve-hover-blue > a:hover .grve-item { background-color: #00b0ff; color: #ffffff; } .grve-bg-purple, .grve-bg-hover-purple:hover, a.grve-bg-hover-purple:hover { background-color: #b388ff; color: #ffffff; } a.grve-btn-line.grve-bg-purple { background-color: transparent; border-color: #b388ff; color: #b388ff; } a.grve-btn-line.grve-bg-hover-purple:hover { background-color: #b388ff; border-color: #b388ff; color: #ffffff; } .grve-menu-type-button.grve-purple > a .grve-item, .grve-menu-type-button.grve-hover-purple > a:hover .grve-item { background-color: #b388ff; color: #ffffff; } .grve-bg-black, .grve-bg-hover-black:hover, a.grve-bg-hover-black:hover { background-color: #000000; color: #ffffff; } a.grve-btn-line.grve-bg-black { background-color: transparent; border-color: #000000; color: #000000; } a.grve-btn-line.grve-bg-hover-black:hover { background-color: #000000; border-color: #000000; color: #ffffff; } .grve-menu-type-button.grve-black > a .grve-item, .grve-menu-type-button.grve-hover-black > a:hover .grve-item { background-color: #000000; color: #ffffff; } .grve-bg-grey, .grve-bg-hover-grey:hover, a.grve-bg-hover-grey:hover { background-color: #bababa; color: #ffffff; } a.grve-btn-line.grve-bg-grey { background-color: transparent; border-color: #bababa; color: #bababa; } a.grve-btn-line.grve-bg-hover-grey:hover { background-color: #bababa; border-color: #bababa; color: #ffffff; } .grve-menu-type-button.grve-grey > a .grve-item, .grve-menu-type-button.grve-hover-grey > a:hover .grve-item { background-color: #bababa; color: #ffffff; } .grve-bg-white, .grve-bg-hover-white:hover, a.grve-bg-hover-white:hover { background-color: #ffffff; color: #bababa; } a.grve-btn-line.grve-bg-white { background-color: transparent; border-color: #ffffff; color: #ffffff; } a.grve-btn-line.grve-bg-hover-white:hover { background-color: #ffffff; border-color: #ffffff; color: #bababa; } .grve-menu-type-button.grve-white > a .grve-item, .grve-menu-type-button.grve-hover-white > a:hover .grve-item { background-color: #ffffff; color: #bababa; } .grve-anchor-menu .grve-anchor-wrapper, .grve-anchor-menu .grve-container ul { background-color: #f60034; } .grve-anchor-menu .grve-container > ul > li > a, .grve-anchor-menu .grve-container ul li a, .grve-anchor-menu .grve-container > ul > li:last-child > a { border-color: #f60034; } .grve-anchor-menu a { color: #ffffff; background-color: transparent; } .grve-anchor-menu a:hover, .grve-anchor-menu .grve-container > ul > li.active > a { color: #ffffff; background-color: #f60034; } .grve-anchor-menu a .grve-arrow:after, .grve-anchor-menu a .grve-arrow:before { background-color: #ffffff; } #grve-page-anchor { height: 60px; } #grve-page-anchor .grve-anchor-wrapper { height: 60px; line-height: 60px; } #grve-page-anchor.grve-anchor-menu .grve-anchor-btn { width: 60px; } #grve-post-anchor { height: 60px; } #grve-post-anchor .grve-anchor-wrapper { height: 60px; line-height: 60px; } #grve-post-anchor.grve-anchor-menu .grve-anchor-btn { width: 60px; } #grve-portfolio-anchor { height: 60px; } #grve-portfolio-anchor .grve-anchor-wrapper { height: 60px; line-height: 60px; } #grve-portfolio-anchor.grve-anchor-menu .grve-anchor-btn { width: 60px; } #grve-product-anchor { height: 60px; } #grve-product-anchor .grve-anchor-wrapper { height: 60px; line-height: 60px; } #grve-product-anchor.grve-anchor-menu .grve-anchor-btn { width: 60px; } .grve-breadcrumbs { background-color: #ffffff; border-color: #e0e0e0; } .grve-breadcrumbs ul li { color: #b2b2b2; } .grve-breadcrumbs ul li a { color: #6e6e6e; } .grve-breadcrumbs ul li a:hover { color: #f60034; } #grve-page-breadcrumbs { line-height: 60px; } #grve-post-breadcrumbs { line-height: 60px; } #grve-portfolio-breadcrumbs { line-height: 60px; } #grve-product-breadcrumbs { line-height: 60px; } #grve-content, .grve-single-wrapper, #grve-main-content .grve-section { background-color: #ffffff; color: #212121; } body, .grve-text-content, .grve-text-content a, #grve-single-post-meta-bar .grve-categories ul li a, #grve-single-post-meta-bar .grve-tags ul li a, #grve-content form, #grve-content form p, #grve-content form div, #grve-content form span, table, .grve-blog.grve-with-shadow .grve-post-content { color: #212121; } .grve-border, #grve-content .grve-border, #grve-content form, #grve-content form p, #grve-content form div, #grve-content form span, hr, .grve-hr.grve-element div, .grve-title-double-line span:before, .grve-title-double-line span:after, .grve-title-double-bottom-line span:after, .vc_tta-tabs-position-top .vc_tta-tabs-list, table,tr,th,td { border-color: #e4e4e4; } #grve-content .grve-blog-large .grve-blog-item.sticky ul.grve-post-meta, .grve-carousel-pagination-2 .grve-carousel .owl-controls .owl-page.active span, .grve-carousel-pagination-2 .grve-carousel .owl-controls.clickable .owl-page:hover span, .grve-carousel-pagination-2.grve-testimonial .owl-controls .owl-page.active span, .grve-carousel-pagination-2.grve-testimonial .owl-controls.clickable .owl-page:hover span, .grve-carousel-pagination-2 .grve-flexible-carousel .owl-controls .owl-page.active span, .grve-carousel-pagination-2 .grve-flexible-carousel .owl-controls.clickable .owl-page:hover span { border-color: #f60034; } .widget .grve-widget-title { color: #000000; } .widget { color: #212121; } #grve-sidebar .widget a:not(.grve-outline):not(.grve-btn), #grve-sidebar .widget ul, #grve-sidebar .widget li, #grve-sidebar .widget table, #grve-sidebar .widget table td, #grve-sidebar .widget table th, #grve-sidebar .widget table tr { border-color: #e4e4e4; } .widget a:not(.grve-outline):not(.grve-btn) { color: #212121; } .widget a:not(.grve-outline):not(.grve-btn):hover, .widget.widget_nav_menu li.open > a { color: #f60034; } #grve-footer .grve-widget-area { background-color: #1c2125; } #grve-footer .widget .grve-widget-title, #grve-footer h1, #grve-footer h2, #grve-footer h3, #grve-footer h4, #grve-footer h5, #grve-footer h6 { color: #ffffff; } #grve-footer .widget, #grve-footer form, #grve-footer form p, #grve-footer form div, #grve-footer form span { color: #bbbbbb; } #grve-footer .widget a:not(.grve-outline):not(.grve-btn), #grve-footer .widget ul, #grve-footer .widget li, #grve-footer .widget table, #grve-footer .widget table td, #grve-footer .widget table th, #grve-footer .widget table tr, #grve-footer .grve-border, #grve-footer form, #grve-footer form p, #grve-footer form div, #grve-footer form span { border-color: #363636; } #grve-footer .widget a:not(.grve-outline):not(.grve-btn) { color: #a0a0a0; } #grve-footer .widget a:not(.grve-outline):not(.grve-btn):hover, #grve-footer .widget.widget_nav_menu li.open > a { color: #00bfa5; } #grve-footer .grve-footer-bar { color: #5b5b5b; background-color: rgba(0,0,0,1); } #grve-footer .grve-footer-bar a { color: #5b5b5b; } #grve-footer .grve-footer-bar a:hover { color: #f60034; } #grve-post-bar { background-color: #f7f7f7; border-color: #eae8e8; } #grve-post-bar .grve-post-socials a { color: #000000; } #grve-post-bar .grve-post-socials a:hover, #grve-post-bar .grve-backlink a:hover, #grve-post-bar a.active i { color: #f60034; } #grve-post-bar .grve-title { color: #afafaf; } #grve-post-bar .grve-nav-title { color: #c4c4c4; } #grve-post-bar .grve-arrow { color: #000000; } #grve-portfolio-bar { background-color: #f7f7f7; border-color: #f2f2f2; } #grve-portfolio-bar .grve-post-socials a { color: #000000; } #grve-portfolio-bar .grve-post-socials a:hover, #grve-portfolio-bar .grve-backlink a:hover, #grve-portfolio-bar a.active i { color: #f60034; } #grve-portfolio-bar .grve-title { color: #afafaf; } #grve-portfolio-bar .grve-nav-title { color: #c4c4c4; } #grve-portfolio-bar .grve-arrow { color: #000000; } .compose-mode .vc_element .grve-row { margin-top: 30px; } .compose-mode .vc_vc_column .wpb_column { width: 100% !important; margin-bottom: 30px; border: 1px dashed rgba(125, 125, 125, 0.4); } .compose-mode .vc_controls > .vc_controls-out-tl { left: 15px; } .compose-mode .vc_controls > .vc_controls-bc { bottom: 15px; } .compose-mode .vc_welcome .vc_buttons { margin-top: 60px; } .compose-mode .grve-image img { opacity: 1; } .compose-mode .vc_controls > div { z-index: 9; } .compose-mode .grve-bg-image { opacity: 1; } .compose-mode #grve-theme-wrapper .grve-section.grve-fullwidth-background, .compose-mode #grve-theme-wrapper .grve-section.grve-fullwidth-element { visibility: visible; } .compose-mode .grve-animated-item { opacity: 1; } 
+</style><!-- Dynamic css -->
+<style type="text/css">
+#grve-feature-section .grve-content .grve-graphic img {max-height:150px}.grve-page-title {background-color:#1c2125;}
+</style><!-- Dynamic css -->
+<style type="text/css">
+.grve-modal input[type='submit']:not(.grve-custom-btn), #grve-theme-wrapper input[type='submit']:not(.grve-custom-btn), #grve-theme-wrapper input[type='reset']:not(.grve-custom-btn), #grve-theme-wrapper button:not(.grve-custom-btn):not(.vc_general) {background-color: #000000;color: #ffffff;}.grve-modal input[type='submit']:not(.grve-custom-btn):hover, #grve-theme-wrapper input[type='submit']:not(.grve-custom-btn):hover, #grve-theme-wrapper input[type='reset']:not(.grve-custom-btn):hover, #grve-theme-wrapper button:not(.grve-custom-btn):not(.vc_general):hover,.woocommerce-cart .wc-proceed-to-checkout a.checkout-button:hover, .woocommerce-cart .wc-proceed-to-checkout a.checkout-button:hover {background-color: #f60034;color: #ffffff;}
+</style>		<style type="text/css">.recentcomments a{display:inline !important;padding:0 !important;margin:0 !important;}</style>
+		<meta name="generator" content="Powered by Visual Composer - drag and drop page builder for WordPress."/>
+<!--[if lte IE 9]><link rel="stylesheet" type="text/css" href="http://www.allodium.eu/wp-content/plugins/js_composer/assets/css/vc_lte_ie9.min.css" media="screen"><![endif]--><!--[if IE  8]><link rel="stylesheet" type="text/css" href="http://www.allodium.eu/wp-content/plugins/js_composer/assets/css/vc-ie8.min.css" media="screen"><![endif]--><link rel="icon" href="http://www.allodium.eu/wp-content/uploads/2016/04/cropped-lvicek-1-32x32.png" sizes="32x32" />
+<link rel="icon" href="http://www.allodium.eu/wp-content/uploads/2016/04/cropped-lvicek-1-192x192.png" sizes="192x192" />
+<link rel="apple-touch-icon-precomposed" href="http://www.allodium.eu/wp-content/uploads/2016/04/cropped-lvicek-1-180x180.png" />
+<meta name="msapplication-TileImage" content="http://www.allodium.eu/wp-content/uploads/2016/04/cropped-lvicek-1-270x270.png" />
+<!-- BEGIN GADWP v5.1.1.3 Universal Analytics - https://deconf.com/google-analytics-dashboard-wordpress/ -->
+<script>
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+	(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+	m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+  ga('create', 'UA-104077061-1', 'auto');
+  ga('send', 'pageview');
+</script>
+<!-- END GADWP Universal Analytics -->
+<style type="text/css" title="dynamic-css" class="options-output">#grve-body{background-color:#212121;}.grve-widget-area{padding-top:140px;padding-bottom:130px;}.grve-footer-bar{padding-top:30px;padding-bottom:30px;}#grve-post-bar{padding-top:30px;padding-bottom:30px;}#grve-portfolio-bar{padding-top:30px;padding-bottom:30px;}</style><style type="text/css" data-type="vc_shortcodes-custom-css">.vc_custom_1461372148509{padding-right: 10% !important;padding-left: 10% !important;}.vc_custom_1443610153759{padding: 3% !important;background-color: #2d2d2d !important;}.vc_custom_1443610175911{padding: 3% !important;background-color: #282828 !important;}.vc_custom_1443610182807{padding: 3% !important;}</style><noscript><style type="text/css"> .wpb_animate_when_almost_visible { opacity: 1; }</style></noscript>	</head>
+
+	
+	<body id="grve-body" class="home page-template-default page page-id-6505 grve-stretched wpb-js-composer js-comp-ver-4.11.2 vc_responsive">
+				
+		
+		<!-- Theme Wrapper -->
+		<div id="grve-theme-wrapper" class="">
+
+			
+			<!-- HEADER -->
+			<header id="grve-header" class="grve-fullwidth grve-overlapping grve-responsive-overlapping" data-sticky="advanced" data-devices-sticky="yes">
+				<div class="grve-wrapper clearfix">
+
+					<!-- Header -->
+					<div id="grve-main-header" class="grve-header-default grve-light">
+											<div class="grve-wrapper clearfix">
+							<div class="grve-container">
+										<!-- Logo -->
+		<div class="grve-logo grve-position-left">
+			<div class="grve-wrapper">
+				<a href="http://www.allodium.eu/">
+		<img class="grve-default" src="http://www.allodium.eu/wp-content/uploads/2016/04/logolev.png" alt="Allodium" data-no-retina="" width="500" height="500">
+		<img class="grve-light" src="http://www.allodium.eu/wp-content/uploads/2016/04/logolev.png" alt="Allodium" data-no-retina="" width="500" height="500">
+		<img class="grve-dark" src="http://www.allodium.eu/wp-content/uploads/2016/04/logolev.png" alt="Allodium" data-no-retina="" width="500" height="500">
+		<img class="grve-sticky" src="http://www.allodium.eu/wp-content/uploads/2016/04/logolev.png" alt="Allodium" data-no-retina="" width="500" height="500">
+				</a>
+			</div>
+		</div>
+		<!-- End Logo -->
+								<div class="grve-header-elements-wrapper grve-position-right">
+									<!-- Header Elements -->
+		<div class="grve-header-elements grve-position-left">
+			<div class="grve-wrapper">
+				<ul>
+				</ul>
+			</div>
+		</div>
+		<!-- End Header Elements -->
+								</div>
+																<!-- Main Menu -->
+									<nav id="grve-main-menu" class="grve-horizontal-menu grve-position-right grve-arrow grve-menu-type-classic">
+										<div class="grve-wrapper">
+											<ul id="menu-menu" class="grve-menu"><li id="menu-item-11424" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-6505 current_page_item menu-item-11424"><a href="http://www.allodium.eu/"><span class="grve-item">Game Backends</span></a></li>
+<li id="menu-item-11481" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11481"><a href="http://www.allodium.eu/fantasysports/"><span class="grve-item">Fantasy Sports</span></a></li>
+<li id="menu-item-11440" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-11440"><a href="http://www.allodium.eu/references/"><span class="grve-item">References</span></a>
+<ul  class="sub-menu">
+	<li id="menu-item-11946" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-11946"><a href="/portfolio/sazkafantasy-cz/"><span class="grve-item">Sazka Fantasy (sazka.cz)</span></a></li>
+	<li id="menu-item-11947" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-11947"><a href="/portfolio/infinitum-battle-for-europe/"><span class="grve-item">Infinitum: Battle for Europe</span></a></li>
+	<li id="menu-item-11948" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-11948"><a href="/portfolio/prozeny-cz/"><span class="grve-item">ProZeny.cz (seznam.cz)</span></a></li>
+	<li id="menu-item-11949" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-11949"><a href="/portfolio/starliga-cz/"><span class="grve-item">Starliga.cz</span></a></li>
+	<li id="menu-item-11950" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-11950"><a href="/portfolio/infinitum-2010-2013/"><span class="grve-item">Infinitum</span></a></li>
+	<li id="menu-item-11951" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-11951"><a href="/portfolio/ipr-prague/"><span class="grve-item">IPR Praha</span></a></li>
+	<li id="menu-item-11952" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-11952"><a href="/portfolio/fantasy-sport-cz/"><span class="grve-item">FantasySport.cz (sport.cz)</span></a></li>
+	<li id="menu-item-11953" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-11953"><a href="/portfolio/alza-media-alza-cz/"><span class="grve-item">Alza Media (Alza.cz)</span></a></li>
+</ul>
+</li>
+<li id="menu-item-11439" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11439"><a href="http://www.allodium.eu/hire-us/"><span class="grve-item">Hire us</span></a></li>
+</ul>										</div>
+									</nav>
+									<!-- End Main Menu -->
+														</div>
+						</div>
+										</div>
+					<!-- End Header -->
+
+					<!-- Responsive Header -->
+					<div id="grve-responsive-header">
+						<div class="grve-wrapper clearfix">
+							<div class="grve-container">
+									<!-- Logo -->
+		<div class="grve-logo grve-position-left">
+			<div class="grve-wrapper">
+				<a href="http://www.allodium.eu/">
+		<img class="grve-logo-responsive" src="http://www.allodium.eu/wp-content/uploads/2016/04/logolev.png" alt="Allodium" data-no-retina="" width="500" height="500">
+				</a>
+			</div>
+		</div>
+		<!-- End Logo -->
+								<div class="grve-header-elements-wrapper grve-position-right">
+								<!-- Hidden Menu & Side Area Button -->
+									<div class="grve-hidden-menu-btn grve-position-right">
+		<div class="grve-header-element">
+			<a href="#grve-hidden-menu" class="grve-toggle-hiddenarea">
+				<span class="grve-item">
+										<i class="grve-icon-menu"></i>
+									</span>
+			</a>
+		</div>
+	</div>
+																								<!-- End Hidden Menu & Side Area Button -->
+								</div>
+							</div>
+						</div>
+					</div>
+					<!-- End Responsive Header -->
+				</div>
+			</header>
+			<!-- END HEADER -->
+
+				<div id="grve-feature-section" style="background-color: #383838;" class="grve-with-image grve-fullscreen grve-bg-parallax">
+		<div class="grve-wrapper clearfix" >
+				<div class="grve-content grve-align-center-center" data-animation="fade-in">
+		<div class="grve-container">
+
+					<div class="grve-graphic clearfix">
+			<img width="500" height="500" src="http://www.allodium.eu/wp-content/uploads/2016/04/logolev.png" class="attachment-full size-full" alt="" srcset="http://www.allodium.eu/wp-content/uploads/2016/04/logolev.png 500w, http://www.allodium.eu/wp-content/uploads/2016/04/logolev-150x150.png 150w, http://www.allodium.eu/wp-content/uploads/2016/04/logolev-300x300.png 300w, http://www.allodium.eu/wp-content/uploads/2016/04/logolev-180x180.png 180w" sizes="(max-width: 500px) 100vw, 500px" />		</div>
+									<div class="grve-title clearfix grve-text-light"><span>EXPERTS IN GAME BACKENDS</span></div>
+									<h2 class="grve-description clearfix grve-text-light"><span>Helping you build your in-house backend for game-as-a-service</span></h2>
+			
+					</div>
+	</div>
+		</div>
+		<div class="grve-background-wrapper">
+		<div class="grve-pattern"></div><div class="grve-bg-overlay" style="background-color: rgba(0,0,0,0.20);"></div><div class="grve-bg-image grve-bg-center-top" style="background-image: url(http://www.allodium.eu/wp-content/uploads/2015/10/02background-1920x1200.jpg);"></div>		</div>
+			</div>
+
+
+		
+		<!-- CONTENT -->
+		<div id="grve-content" class="clearfix ">
+			<div class="grve-content-wrapper">
+				<!-- MAIN CONTENT -->
+				<div id="grve-main-content">
+					<div class="grve-main-content-wrapper clearfix">
+
+						<!-- PAGE CONTENT -->
+						<div id="page-6505" class="post-6505 page type-page status-publish has-post-thumbnail hentry">
+							<div class="grve-section grve-fullwidth-background grve-bg-none grve-headings-dark grve-feature-header"  style="padding-top: 120px;padding-bottom: 120px;margin-bottom: 0px;">  <div class="grve-container">    <div class="grve-row grve-bookmark">
+		<div class="wpb_column grve-column-1 vc_custom_1461372148509"  style="color:#e0003b;">
+			<div class="grve-element grve-slogan grve-align-center grve-animated-item fadeInUp" style="" data-delay="400"><div class="grve-subtitle">we create</div><h3 class="grve-slogan-title grve-align-center grve-h4"><span style="font-size: 200%; line-height: 1.120em;">outstanding solutions<span class="grve-title-line grve-bg-black" style="width: 200px;height: 2px;"></span></span></h3>  <p class="grve-subtitle">We have over 100 years of combined experience</p></div><div class="grve-element grve-text">
+			
+		</div>
+	<div class="vc_empty_space"  style="height: 60px" ><span class="vc_empty_space_inner"></span></div>
+
+		</div>
+	
+		<div class="wpb_column grve-column-1-3">
+			<div class="grve-element grve-box-icon grve-align-center grve-medium grve-animated-item fadeInUp" style="" data-delay="400">  <div class="grve-wrapper-icon grve-no-shape grve-text-grey"><i class="fa fa-share-square-o grve-text-primary-1"></i></div>  <div class="grve-box-content">      <h3 class="grve-box-title grve-h5">OUTSIDE THE BOX</h3>    <p class="">We think while we work. Novelty solutions to problems are our passion.</p>  </div></div>
+		</div>
+	
+		<div class="wpb_column grve-column-1-3">
+			<div class="grve-element grve-box-icon grve-align-center grve-medium grve-animated-item fadeInUp" style="" data-delay="600">  <div class="grve-wrapper-icon grve-no-shape grve-text-grey"><i class="fa fa-code grve-text-primary-1"></i></div>  <div class="grve-box-content">      <h3 class="grve-box-title grve-h5">CODE MASTERY</h3>    <p class="">We know code by heart. We use many different languages and technologies. </p>  </div></div>
+		</div>
+	
+		<div class="wpb_column grve-column-1-3">
+			<div class="grve-element grve-box-icon grve-align-center grve-medium grve-animated-item fadeInUp" style="" data-delay="800">  <div class="grve-wrapper-icon grve-no-shape grve-text-grey"><i class="entypo-icon entypo-icon-monitor grve-text-primary-1"></i></div>  <div class="grve-box-content">      <h3 class="grve-box-title grve-h5">HARDWARE GEEKS</h3>    <p class="">We use our own hardware solutions &amp; build our own machines. </p>  </div></div>
+		</div>
+	    </div>  </div>  <div class="grve-background-wrapper">  </div></div><div class="grve-section grve-fullwidth-background grve-bg-none grve-middle-content"  style="background-color:#1c2125;margin-bottom: 0px;">  <div class="grve-container">    <div class="grve-row grve-bookmark">
+		<div class="wpb_column grve-column-1 grve-tablet-sm-column-1"  style="color:#ffffff;">
+			<div class="vc_empty_space"  style="height: 40px" ><span class="vc_empty_space_inner"></span></div>
+<h3 class="grve-element grve-typed-text grve-align-left grve-h3" style="">    <span class="grve-typed-text-prefix"> </span>    <span class="grve-animated-text grve-text-white">    	<span id="grve-typed-item-5b0ed554aabe8"></span>    </span>    <span class="grve-typed-text-suffix"> </span><script type="text/javascript">
+				jQuery(function($){ $("#grve-typed-item-5b0ed554aabe8").typed({
+					strings: ["Delivering know-how and workforce for your in-house project"],
+					typeSpeed: 0,
+					backSpeed: 0,
+					startDelay: 200,
+					backDelay: 5000,
+					loop: true,
+					loopCount: false,
+					showCursor: true,
+					cursorChar: "|",
+					attr: null
+				});
+			});
+		</script></h3><div class="vc_empty_space"  style="height: 12px" ><span class="vc_empty_space_inner"></span></div>
+
+		</div>
+	    </div>  </div>  <div class="grve-background-wrapper">  </div></div><div class="grve-section grve-fullwidth-background grve-bg-none"  style="background-color:#e8e8e8;">  <div class="grve-container">    <div class="grve-row grve-bookmark">
+		<div class="wpb_column grve-column-1">
+			<div class="vc_empty_space"  style="height: 50px" ><span class="vc_empty_space_inner"></span></div>
+<h3 class="grve-element grve-title grve-align-left grve-h3" style=""><span>MAKING INFINITUM: Battle for Europe</span></h3><blockquote class="grve-element" style=""><p>Real-time strategy game in browser where you can have tens-of-thousands players fighting with hundreds-of-thousands units on the same map is a hell of an engineering task! We achieved it by not playing by the books. We used code generators heavily, CRL methods on MSSQL server and some other tricks that people seldom use. The AI that battles all the players at once is one of the most advanced in browser games we have seen. We wanted to make a proper game, not just a simple concept like so many others. </p></blockquote><div class="grve-element grve-video" style=""><iframe width="1080" height="608" src="https://www.youtube.com/embed/6hksUM3LHA0?feature=oembed" frameborder="0" allowfullscreen></iframe></div><div class="grve-element grve-gallery grve-isotope grve-gallery-popup grve-with-gap" style="" data-columns="3" data-columns-tablet-landscape="3" data-columns-tablet-portrait="2" data-columns-mobile="1" data-layout="fitRows" data-gutter-size="40">  <div class="grve-isotope-container"><div class="grve-isotope-item grve-gallery-item ">  <a href="http://www.allodium.eu/wp-content/uploads/2015/10/screenshots_01-1920x1080.jpg"><div class="grve-isotope-item-inner zoomIn">    <figure class="grve-hover-style-1 grve-image-hover grve-zoom-in">      <div class="grve-media">        <div class="grve-hover-overlay grve-bg-light grve-opacity-90"></div>        <img src="http://www.allodium.eu/wp-content/uploads/2015/10/screenshots_01-600x600.jpg" alt="screenshots_01" width="600" height="600">      </div>      <figcaption>        <div class="grve-gallery-content">        </div>      </figcaption>    </figure></div>  </a></div><div class="grve-isotope-item grve-gallery-item ">  <a href="http://www.allodium.eu/wp-content/uploads/2015/10/screenshots_02-1920x1080.jpg"><div class="grve-isotope-item-inner zoomIn">    <figure class="grve-hover-style-1 grve-image-hover grve-zoom-in">      <div class="grve-media">        <div class="grve-hover-overlay grve-bg-light grve-opacity-90"></div>        <img src="http://www.allodium.eu/wp-content/uploads/2015/10/screenshots_02-600x600.jpg" alt="screenshots_02" width="600" height="600">      </div>      <figcaption>        <div class="grve-gallery-content">        </div>      </figcaption>    </figure></div>  </a></div><div class="grve-isotope-item grve-gallery-item ">  <a href="http://www.allodium.eu/wp-content/uploads/2015/10/screenshots_03-1920x1080.jpg"><div class="grve-isotope-item-inner zoomIn">    <figure class="grve-hover-style-1 grve-image-hover grve-zoom-in">      <div class="grve-media">        <div class="grve-hover-overlay grve-bg-light grve-opacity-90"></div>        <img src="http://www.allodium.eu/wp-content/uploads/2015/10/screenshots_03-600x600.jpg" alt="screenshots_03" width="600" height="600">      </div>      <figcaption>        <div class="grve-gallery-content">        </div>      </figcaption>    </figure></div>  </a></div>  </div></div><div class="vc_empty_space"  style="height: 30px" ><span class="vc_empty_space_inner"></span></div>
+
+		</div>
+	    </div>  </div>  <div class="grve-background-wrapper">  </div></div><div class="grve-section grve-fullwidth-background grve-bg-none">  <div class="grve-container">    <div class="grve-row grve-bookmark">
+		<div class="wpb_column grve-column-1">
+			<div class="vc_empty_space"  style="height: 50px" ><span class="vc_empty_space_inner"></span></div>
+<div class="grve-element grve-text">
+			<h2 style="text-align: center;">Team of backend experts</h2>
+
+		</div>
+	<div class="vc_empty_space"  style="height: 32px" ><span class="vc_empty_space_inner"></span></div>
+<div class="grve-row">
+		<div class="wpb_column grve-column-1-3">
+			<div class="grve-element grve-box-icon grve-align-left grve-medium" style="">  <div class="grve-wrapper-icon grve-no-shape grve-text-grey"><i class="smp-icon-user grve-text-primary-1"></i></div>  <div class="grve-box-content">      <h3 class="grve-box-title grve-h3">Identify bottlenects</h3>    <p class="">Making things run faster is our joy, try us! </p>  </div></div>
+		</div>
+	
+		<div class="wpb_column grve-column-1-3">
+			<div class="grve-element grve-box-icon grve-align-left grve-medium" style="">  <div class="grve-wrapper-icon grve-no-shape grve-text-grey"><i class="fa fa-server grve-text-primary-1"></i></div>  <div class="grve-box-content">      <h3 class="grve-box-title grve-h3">Game mechanics</h3>    <p class="">We help you build rock solid foundation of your game backend. Implement the essential parts and share our know-how. </p>  </div></div>
+		</div>
+	
+		<div class="wpb_column grve-column-1-3">
+			<div class="grve-element grve-box-icon grve-align-left grve-medium" style="">  <div class="grve-wrapper-icon grve-no-shape grve-text-grey"><i class="fa fa-space-shuttle grve-text-primary-1"></i></div>  <div class="grve-box-content">      <h3 class="grve-box-title grve-h3">INFRASTRUCTURE DESING</h3>    <p class="">Cloud or your own server farm? We will help you reduce cost dramatically while speeding the whole system up. </p>  </div></div>
+		</div>
+	</div><div class="vc_empty_space"  style="height: 50px" ><span class="vc_empty_space_inner"></span></div>
+
+		</div>
+	    </div>  </div>  <div class="grve-background-wrapper">  </div></div><div class="grve-section grve-fullwidth grve-bg-none grve-headings-light grve-equal-column"  style="background-color:#232323;color:#8e8e8e;margin-bottom: 0px;">  <div class="grve-container">    <div class="grve-row grve-bookmark">
+		<div class="wpb_column grve-column-1-3 vc_custom_1443610153759">
+			<div class="vc_empty_space"  style="height: 75px" ><span class="vc_empty_space_inner"></span></div>
+<div class="grve-element grve-image grve-align-center" style="">  <img class="" alt="" src="http://www.allodium.eu/wp-content/uploads/2017/08/round2_infinitum_color-300x300.png" width="300" height="300"></div><div class="vc_empty_space"  style="height: 25px" ><span class="vc_empty_space_inner"></span></div>
+<div class="grve-element grve-slogan grve-align-center grve-animated-item fadeInUp" style="" data-delay="200"><div class="grve-subtitle">infinitumgame.com</div><h2 class="grve-slogan-title grve-align-center grve-h4"><span>ONLINE MMO STRATEGY<span class="grve-title-line grve-bg-primary-1" style="width: 50px;height: 2px;"></span></span></h2>  <p class="">10.000 players on the same map sharing RTS battles. </p></div><div class="grve-element grve-image grve-animated-item fadeInUp grve-align-center" style="" data-delay="300">  <img class="" alt="" src="http://www.allodium.eu/wp-content/uploads/2017/08/256x128_infinitum_white.png" width="256" height="128"></div>
+		</div>
+	
+		<div class="wpb_column grve-column-1-3 vc_custom_1443610175911">
+			<div class="vc_empty_space"  style="height: 75px" ><span class="vc_empty_space_inner"></span></div>
+<div class="grve-element grve-image grve-align-center" style="">  <img class="" alt="" src="http://www.allodium.eu/wp-content/uploads/2017/08/round2_sazkaf_color-300x300.png" width="300" height="300"></div><div class="vc_empty_space"  style="height: 25px" ><span class="vc_empty_space_inner"></span></div>
+<div class="grve-element grve-slogan grve-align-center grve-animated-item fadeInUp" style="" data-delay="300"><div class="grve-subtitle">sazkafantasy.cz</div><h2 class="grve-slogan-title grve-align-center grve-h4"><span>DAILY FANTASY SPORTS<span class="grve-title-line grve-bg-primary-1" style="width: 50px;height: 2px;"></span></span></h2>  <p class="">Daily Fantasy Sports game for the biggest european Lottery. Built on custom HW with an interesting tech stack. </p></div><div class="grve-element grve-image grve-animated-item fadeInUp grve-align-center" style="" data-delay="400">  <img class="" alt="" src="http://www.allodium.eu/wp-content/uploads/2017/08/256x128_sazka_whie.png" width="256" height="128"></div>
+		</div>
+	
+		<div class="wpb_column grve-column-1-3 vc_custom_1443610182807">
+			<div class="vc_empty_space"  style="height: 75px" ><span class="vc_empty_space_inner"></span></div>
+<div class="grve-element grve-image grve-align-center" style="">  <img class="" alt="" src="http://www.allodium.eu/wp-content/uploads/2017/08/round2_sfantasy_color-300x300.png" width="300" height="300"></div><div class="vc_empty_space"  style="height: 25px" ><span class="vc_empty_space_inner"></span></div>
+<div class="grve-element grve-slogan grve-align-center grve-animated-item fadeInUp" style="" data-delay="400"><div class="grve-subtitle">fantasy.sport.cz</div><h2 class="grve-slogan-title grve-align-center grve-h4"><span>FANTASY (SPORT.CZ)<span class="grve-title-line grve-bg-primary-1" style="width: 50px;height: 2px;"></span></span></h2>  <p class="">Complete solution for the first and biggest Fantasy Sports game in Czechia. In cooperation with Seznam a.s. (czech Google)</p></div><div class="grve-element grve-image grve-animated-item fadeInUp grve-align-center" style="" data-delay="500">  <img class="" alt="" src="http://www.allodium.eu/wp-content/uploads/2015/10/fantasy-logo-300x90.png" width="300" height="90"></div>
+		</div>
+	    </div>  </div>  <div class="grve-background-wrapper">  </div></div><div class="grve-section grve-fullwidth-background grve-bg-none"  style="color:#e0003b;">  <div class="grve-container">    <div class="grve-row grve-bookmark">
+		<div class="wpb_column grve-column-1-3">
+			<div class="vc_empty_space"  style="height: 25px" ><span class="vc_empty_space_inner"></span></div>
+
+				<div class="grve-team grve-element grve-style-1 grve-animated-item fadeInUp" style="" data-delay="500">
+			<figure class="grve-image-hover">
+				<div class="grve-team-person grve-media">
+									  <img src="http://www.allodium.eu/wp-content/uploads/2015/10/jakub-muller-600x600.png" alt="" width="600" height="600">								</div>
+				<figcaption>
+					<div class="grve-team-content">
+						<div class="grve-team-description grve-align-center">
+							<div class="grve-team-identity grve-subtitle">CTO</div>
+														<h3 class="grve-team-name grve-text-hover-primary-1 grve-h3">Jakub Müller</h3>
+																					<p>Our software Guru</p>
+													</div>
+												<div class="grve-team-social grve-list-divider grve-small-text grve-align-center">
+							<ul>
+								<li><a href="http://twitter.com/jakub.muller" target="_blank" class="grve-text-dark">Twitter</a></li><li><a href="http://linkedin.com/jakub.muller" target="_blank" class="grve-text-dark">Linkedin</a></li><li><a href="mailto:&#106;&#97;&#107;&#117;b.m&#117;&#108;&#108;&#101;r&#64;&#97;l&#108;o&#100;ium&#46;eu" class="grve-text-dark">E-mail</a></li>							</ul>
+						</div>
+											</div>
+				</figcaption>
+			</figure>
+		</div>
+		
+		
+		</div>
+	
+		<div class="wpb_column grve-column-1-3">
+			<div class="vc_empty_space"  style="height: 25px" ><span class="vc_empty_space_inner"></span></div>
+
+				<div class="grve-team grve-element grve-style-1 grve-animated-item fadeInUp" style="" data-delay="1000">
+			<figure class="grve-image-hover">
+				<div class="grve-team-person grve-media">
+									  <img src="http://www.allodium.eu/wp-content/uploads/2015/10/martin-bohac-600x600.png" alt="" width="600" height="600">								</div>
+				<figcaption>
+					<div class="grve-team-content">
+						<div class="grve-team-description grve-align-center">
+							<div class="grve-team-identity grve-subtitle">CEO</div>
+														<h3 class="grve-team-name grve-text-hover-primary-1 grve-h3">Martin Boháč</h3>
+																					<p>Captain</p>
+													</div>
+												<div class="grve-team-social grve-list-divider grve-small-text grve-align-center">
+							<ul>
+								<li><a href="https://cz.linkedin.com/in/martin-boháč-18571515" target="_blank" class="grve-text-dark">Linkedin</a></li><li><a href="mailto:&#109;a&#114;&#116;&#105;n&#46;&#98;oha&#99;&#64;&#97;llodiu&#109;&#46;&#101;u" class="grve-text-dark">E-mail</a></li>							</ul>
+						</div>
+											</div>
+				</figcaption>
+			</figure>
+		</div>
+		
+		
+		</div>
+	
+		<div class="wpb_column grve-column-1-3">
+			<div class="vc_empty_space"  style="height: 25px" ><span class="vc_empty_space_inner"></span></div>
+
+				<div class="grve-team grve-element grve-style-1 grve-animated-item fadeInUp" style="" data-delay="1500">
+			<figure class="grve-image-hover">
+				<div class="grve-team-person grve-media">
+									  <img src="http://www.allodium.eu/wp-content/uploads/2015/10/ondrej-neumann-600x600.png" alt="" width="600" height="600">								</div>
+				<figcaption>
+					<div class="grve-team-content">
+						<div class="grve-team-description grve-align-center">
+							<div class="grve-team-identity grve-subtitle">CFO</div>
+														<h3 class="grve-team-name grve-text-hover-primary-1 grve-h3">Ondřej Neumann</h3>
+																					<p>Keeper of the Vault</p>
+													</div>
+												<div class="grve-team-social grve-list-divider grve-small-text grve-align-center">
+							<ul>
+								<li><a href="mailto:&#111;ndrej.&#110;&#101;uma&#110;n&#64;all&#111;&#100;ium.e&#117;" class="grve-text-dark">E-mail</a></li>							</ul>
+						</div>
+											</div>
+				</figcaption>
+			</figure>
+		</div>
+		
+		
+		</div>
+	
+		<div class="wpb_column grve-column-1">
+			<div class="vc_empty_space"  style="height: 100px" ><span class="vc_empty_space_inner"></span></div>
+
+		</div>
+	    </div>  </div>  <div class="grve-background-wrapper">  </div></div><div class="grve-section grve-fullwidth-background grve-bg-parallax grve-headings-light grve-feature-footer" data-parallax-sensor="250"  style="padding-top: 120px;padding-bottom: 120px;margin-bottom: 0px;">  <div class="grve-container">    <div class="grve-row grve-bookmark">
+		<div class="wpb_column grve-column-1">
+			<div class="vc_empty_space"  style="height: 32px" ><span class="vc_empty_space_inner"></span></div>
+<div class="grve-element grve-slogan grve-align-center grve-animated-item fadeInUp" style="margin-bottom: 0px;" data-delay="200"><h2 class="grve-slogan-title grve-align-center grve-h3"><span style="font-size: 140%; line-height: 1.120em;">NEED SOMETHING DONE?<span class="grve-title-line grve-bg-primary-1" style="width: 50px;height: 2px;"></span></span></h2><div class="grve-btn-wrapper"><a class="grve-btn grve-btn-large grve-square grve-bg-primary-1 grve-bg-hover-primary-1 grve-btn-line" href="http://www.allodium.eu/references/" target="_self" style=""><span>SEE OUR WORK</span></a><a class="grve-btn grve-btn-large grve-square grve-bg-primary-1 grve-bg-hover-black" href="http://www.allodium.eu/hire-us/" target="_self" style=""><span>HIRE US</span></a></div></div>
+		</div>
+	    </div>  </div>  <div class="grve-background-wrapper">  <div class="grve-pattern"></div>  <div class="grve-bg-overlay grve-bg-dark grve-opacity-80"></div>  <div class="grve-bg-image"  style="background-image: url(http://www.allodium.eu/wp-content/uploads/2015/10/infinitum_gsa_rising_final-1920x1080.jpg);"></div>  </div></div>
+						</div>
+						<!-- END PAGE CONTENT -->
+
+													
+
+
+
+
+						
+					</div>
+				</div>
+				<!-- END MAIN CONTENT -->
+
+								
+			</div>
+		</div>
+		<!-- END CONTENT -->
+
+				
+			<footer id="grve-footer" data-sticky-footer="yes">
+
+				<div class="grve-footer-wrapper">
+							<!-- Footer -->
+			<div class="grve-widget-area ">
+				<div class="grve-container">
+					<div class="grve-row">
+		<div class="grve-column-1-4 grve-tablet-column-1-2"><div id="text-19" class="grve-widget widget widget_text">			<div class="textwidget"><p><H6>ALLODIUM S.R.O.</H6></p>
+</div>
+		</div><div id="media_image-3" class="grve-widget widget widget_media_image"><img width="80" height="80" src="http://www.allodium.eu/wp-content/uploads/2016/04/logolev-150x150.png" class="image wp-image-8912  attachment-80x80 size-80x80" alt="" style="max-width: 100%; height: auto;" srcset="http://www.allodium.eu/wp-content/uploads/2016/04/logolev-150x150.png 150w, http://www.allodium.eu/wp-content/uploads/2016/04/logolev-300x300.png 300w, http://www.allodium.eu/wp-content/uploads/2016/04/logolev-180x180.png 180w, http://www.allodium.eu/wp-content/uploads/2016/04/logolev.png 500w" sizes="(max-width: 80px) 100vw, 80px" /></div></div><div class="grve-column-1-4 grve-tablet-column-1-2"><div id="text-18" class="grve-widget widget widget_text">			<div class="textwidget"><h6>PUŠKINOVO NÁM. 11</h6>
+<p>PRAGUE 6 – BUBENEČ, <br />CZECH REPUBLIC</p>
+<p>IČO: <strong><span class="nowrap">27938697<br />
+</span></strong>DIČ/VATID: CZ<strong><span class="nowrap">27938697</span></strong></p>
+</div>
+		</div></div><div class="grve-column-1-4 grve-tablet-column-1-2"></div><div class="grve-column-1-4 grve-tablet-column-1-2"><div id="grve-widget-latest-portfolio-8" class="grve-widget widget grve-latest-portfolio"><div class="grve-widget-title">TOP PROJECTS</div>			<ul>
+						<li>
+					<a href="http://www.allodium.eu/portfolio/prozeny-cz/">
+													<img width="150" height="150" src="http://www.allodium.eu/wp-content/uploads/2017/08/square_prozeny_color-150x150.png" class="attachment-thumbnail size-thumbnail wp-post-image" alt="" srcset="http://www.allodium.eu/wp-content/uploads/2017/08/square_prozeny_color-150x150.png 150w, http://www.allodium.eu/wp-content/uploads/2017/08/square_prozeny_color-300x300.png 300w, http://www.allodium.eu/wp-content/uploads/2017/08/square_prozeny_color-768x768.png 768w, http://www.allodium.eu/wp-content/uploads/2017/08/square_prozeny_color-600x600.png 600w, http://www.allodium.eu/wp-content/uploads/2017/08/square_prozeny_color.png 800w" sizes="(max-width: 150px) 100vw, 150px" />											</a>
+				</li>
+
+						<li>
+					<a href="http://www.allodium.eu/portfolio/sazkafantasy-cz/">
+													<img width="150" height="150" src="http://www.allodium.eu/wp-content/uploads/2017/08/square_sazkaf_color-150x150.png" class="attachment-thumbnail size-thumbnail wp-post-image" alt="" srcset="http://www.allodium.eu/wp-content/uploads/2017/08/square_sazkaf_color-150x150.png 150w, http://www.allodium.eu/wp-content/uploads/2017/08/square_sazkaf_color-300x300.png 300w, http://www.allodium.eu/wp-content/uploads/2017/08/square_sazkaf_color-768x768.png 768w, http://www.allodium.eu/wp-content/uploads/2017/08/square_sazkaf_color-600x600.png 600w, http://www.allodium.eu/wp-content/uploads/2017/08/square_sazkaf_color.png 800w" sizes="(max-width: 150px) 100vw, 150px" />											</a>
+				</li>
+
+						<li>
+					<a href="http://www.allodium.eu/portfolio/starliga-cz/">
+													<img width="150" height="150" src="http://www.allodium.eu/wp-content/uploads/2017/08/square_starliga_color-150x150.png" class="attachment-thumbnail size-thumbnail wp-post-image" alt="" srcset="http://www.allodium.eu/wp-content/uploads/2017/08/square_starliga_color-150x150.png 150w, http://www.allodium.eu/wp-content/uploads/2017/08/square_starliga_color-300x300.png 300w, http://www.allodium.eu/wp-content/uploads/2017/08/square_starliga_color-768x768.png 768w, http://www.allodium.eu/wp-content/uploads/2017/08/square_starliga_color-600x600.png 600w, http://www.allodium.eu/wp-content/uploads/2017/08/square_starliga_color.png 800w" sizes="(max-width: 150px) 100vw, 150px" />											</a>
+				</li>
+
+						<li>
+					<a href="http://www.allodium.eu/portfolio/alza-media-alza-cz/">
+													<img width="150" height="150" src="http://www.allodium.eu/wp-content/uploads/2017/08/square_alza_color-150x150.png" class="attachment-thumbnail size-thumbnail wp-post-image" alt="" srcset="http://www.allodium.eu/wp-content/uploads/2017/08/square_alza_color-150x150.png 150w, http://www.allodium.eu/wp-content/uploads/2017/08/square_alza_color-300x300.png 300w, http://www.allodium.eu/wp-content/uploads/2017/08/square_alza_color-768x768.png 768w, http://www.allodium.eu/wp-content/uploads/2017/08/square_alza_color-600x600.png 600w, http://www.allodium.eu/wp-content/uploads/2017/08/square_alza_color.png 800w" sizes="(max-width: 150px) 100vw, 150px" />											</a>
+				</li>
+
+						<li>
+					<a href="http://www.allodium.eu/portfolio/infinitum-2010-2013/">
+													<img width="150" height="150" src="http://www.allodium.eu/wp-content/uploads/2017/08/square_infinitum1a_color-150x150.png" class="attachment-thumbnail size-thumbnail wp-post-image" alt="" srcset="http://www.allodium.eu/wp-content/uploads/2017/08/square_infinitum1a_color-150x150.png 150w, http://www.allodium.eu/wp-content/uploads/2017/08/square_infinitum1a_color-300x300.png 300w, http://www.allodium.eu/wp-content/uploads/2017/08/square_infinitum1a_color-768x768.png 768w, http://www.allodium.eu/wp-content/uploads/2017/08/square_infinitum1a_color-600x600.png 600w, http://www.allodium.eu/wp-content/uploads/2017/08/square_infinitum1a_color.png 800w" sizes="(max-width: 150px) 100vw, 150px" />											</a>
+				</li>
+
+						<li>
+					<a href="http://www.allodium.eu/portfolio/infinitum-battle-for-europe/">
+													<img width="150" height="150" src="http://www.allodium.eu/wp-content/uploads/2017/08/square_infinitum2_color-150x150.png" class="attachment-thumbnail size-thumbnail wp-post-image" alt="" srcset="http://www.allodium.eu/wp-content/uploads/2017/08/square_infinitum2_color-150x150.png 150w, http://www.allodium.eu/wp-content/uploads/2017/08/square_infinitum2_color-300x300.png 300w, http://www.allodium.eu/wp-content/uploads/2017/08/square_infinitum2_color-768x768.png 768w, http://www.allodium.eu/wp-content/uploads/2017/08/square_infinitum2_color-600x600.png 600w, http://www.allodium.eu/wp-content/uploads/2017/08/square_infinitum2_color.png 800w" sizes="(max-width: 150px) 100vw, 150px" />											</a>
+				</li>
+
+						<li>
+					<a href="http://www.allodium.eu/portfolio/fantasy-sport-cz/">
+													<img width="150" height="150" src="http://www.allodium.eu/wp-content/uploads/2017/08/square_sfantasy_color-150x150.png" class="attachment-thumbnail size-thumbnail wp-post-image" alt="" srcset="http://www.allodium.eu/wp-content/uploads/2017/08/square_sfantasy_color-150x150.png 150w, http://www.allodium.eu/wp-content/uploads/2017/08/square_sfantasy_color-300x300.png 300w, http://www.allodium.eu/wp-content/uploads/2017/08/square_sfantasy_color-768x768.png 768w, http://www.allodium.eu/wp-content/uploads/2017/08/square_sfantasy_color-600x600.png 600w, http://www.allodium.eu/wp-content/uploads/2017/08/square_sfantasy_color.png 800w" sizes="(max-width: 150px) 100vw, 150px" />											</a>
+				</li>
+
+						<li>
+					<a href="http://www.allodium.eu/portfolio/ipr-prague/">
+													<img width="150" height="150" src="http://www.allodium.eu/wp-content/uploads/2017/08/square_ipr_color-150x150.png" class="attachment-thumbnail size-thumbnail wp-post-image" alt="" srcset="http://www.allodium.eu/wp-content/uploads/2017/08/square_ipr_color-150x150.png 150w, http://www.allodium.eu/wp-content/uploads/2017/08/square_ipr_color-300x300.png 300w, http://www.allodium.eu/wp-content/uploads/2017/08/square_ipr_color-768x768.png 768w, http://www.allodium.eu/wp-content/uploads/2017/08/square_ipr_color-600x600.png 600w, http://www.allodium.eu/wp-content/uploads/2017/08/square_ipr_color.png 800w" sizes="(max-width: 150px) 100vw, 150px" />											</a>
+				</li>
+
+					</ul>
+		</div></div>					</div>
+				</div>
+			</div>
+					
+				<div class="grve-footer-bar " data-align-center="no">
+					<div class="grve-container">
+						<div class="grve-row">
+
+							<div class="grve-bar-content grve-left-side">
+								<div class="grve-copyright grve-small-text">
+									© Allodium s.r.o.  2007-2017								</div>
+							</div>
+													</div>
+					</div>
+				</div>
+
+									</div>
+
+			</footer>
+
+			<!-- SIDE AREA -->
+						<!-- END SIDE AREA -->
+
+			<!-- HIDDEN MENU -->
+				<nav id="grve-hidden-menu" class="grve-hidden-area grve-slide-menu">
+		<div class="grve-hiddenarea-wrapper">
+			<!-- Close Button -->
+			<div class="grve-close-btn-wrapper">
+				<div class="grve-close-btn grve-close-arrow"><span></span></div>
+			</div>
+			<!-- End Close Button -->
+			<div class="grve-hiddenarea-content">
+				<div class="grve-menu-wrapper">
+					<ul id="menu-menu-1" class="grve-menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-6505 current_page_item menu-item-11424"><a href="http://www.allodium.eu/"><span class="grve-item">Game Backends</span></a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11481"><a href="http://www.allodium.eu/fantasysports/"><span class="grve-item">Fantasy Sports</span></a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-11440"><a href="http://www.allodium.eu/references/"><span class="grve-item">References</span></a>
+<ul  class="sub-menu">
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-11946"><a href="/portfolio/sazkafantasy-cz/"><span class="grve-item">Sazka Fantasy (sazka.cz)</span></a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-11947"><a href="/portfolio/infinitum-battle-for-europe/"><span class="grve-item">Infinitum: Battle for Europe</span></a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-11948"><a href="/portfolio/prozeny-cz/"><span class="grve-item">ProZeny.cz (seznam.cz)</span></a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-11949"><a href="/portfolio/starliga-cz/"><span class="grve-item">Starliga.cz</span></a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-11950"><a href="/portfolio/infinitum-2010-2013/"><span class="grve-item">Infinitum</span></a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-11951"><a href="/portfolio/ipr-prague/"><span class="grve-item">IPR Praha</span></a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-11952"><a href="/portfolio/fantasy-sport-cz/"><span class="grve-item">FantasySport.cz (sport.cz)</span></a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-11953"><a href="/portfolio/alza-media-alza-cz/"><span class="grve-item">Alza Media (Alza.cz)</span></a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11439"><a href="http://www.allodium.eu/hire-us/"><span class="grve-item">Hire us</span></a></li>
+</ul>				</div>
+							</div>
+
+		</div>
+	</nav>
+			<!-- END HIDDEN MENU -->
+
+			<!-- CART AREA -->
+						<!-- END CART AREA -->
+
+					<div id="grve-search-modal" class="grve-modal">
+			<div class="grve-modal-wrapper">
+				<div class="grve-modal-content">
+					<div class="grve-modal-item">
+						<form class="grve-search" method="get" action="http://www.allodium.eu/" >  <button type="submit" class="grve-search-btn grve-custom-btn grve-text-primary-1"><i class="grve-icon-search"></i></button>  <input type="text" class="grve-search-textfield grve-h1" value="" name="s" placeholder="SEARCH FOR ..." autocomplete="off"/></form>					</div>
+				</div>
+			</div>
+		</div>
+					<div id="grve-top-left-form-modal" class="grve-modal">
+			<div class="grve-modal-wrapper">
+				<div class="grve-modal-content">
+					<div class="grve-modal-form">
+						<div class="grve-modal-item">
+													</div>
+					</div>
+				</div>
+			</div>
+		</div>
+
+		<div id="grve-top-right-form-modal" class="grve-modal">
+			<div class="grve-modal-wrapper">
+				<div class="grve-modal-content">
+					<div class="grve-modal-form">
+						<div class="grve-modal-item">
+													</div>
+					</div>
+				</div>
+			</div>
+		</div>
+
+		<div id="grve-menu-form-modal" class="grve-modal">
+			<div class="grve-modal-wrapper">
+				<div class="grve-modal-content">
+					<div class="grve-modal-form">
+						<div class="grve-modal-item">
+							<div role="form" class="wpcf7" id="wpcf7-f6442-p6505-o1" lang="en-US" dir="ltr">
+<div class="screen-reader-response"></div>
+<form action="/#wpcf7-f6442-p6505-o1" method="post" class="wpcf7-form" novalidate="novalidate">
+<div style="display: none;">
+<input type="hidden" name="_wpcf7" value="6442" />
+<input type="hidden" name="_wpcf7_version" value="4.8" />
+<input type="hidden" name="_wpcf7_locale" value="en_US" />
+<input type="hidden" name="_wpcf7_unit_tag" value="wpcf7-f6442-p6505-o1" />
+<input type="hidden" name="_wpcf7_container_post" value="6505" />
+<input type="hidden" name="_wpcf7_nonce" value="677dc09865" />
+</div>
+<div class="grve-form-style-2 grve-form-light">
+<div class="grve-one-half"><span class="wpcf7-form-control-wrap your-name"><input type="text" name="your-name" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required" aria-required="true" aria-invalid="false" placeholder="Your Name (required)" /></span></div>
+<div class="grve-one-half grve-last-column"><span class="wpcf7-form-control-wrap your-email"><input type="email" name="your-email" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-email wpcf7-validates-as-required wpcf7-validates-as-email" aria-required="true" aria-invalid="false" placeholder="Your Email (required)" /></span></div>
+<div><span class="wpcf7-form-control-wrap your-subject"><input type="text" name="your-subject" value="" size="40" class="wpcf7-form-control wpcf7-text" aria-invalid="false" placeholder="Subject" /></span></div>
+<div><span class="wpcf7-form-control-wrap your-message"><textarea name="your-message" cols="40" rows="10" class="wpcf7-form-control wpcf7-textarea" aria-invalid="false" placeholder="Your message"></textarea></span></div>
+<div align="center">
+<div class="wpcf7-form-control-wrap"><div data-sitekey="6LfVlB0TAAAAAO2dy8nkpsszYGc-KSjqlK3MMLHa" data-theme="dark" class="wpcf7-form-control g-recaptcha wpcf7-recaptcha"></div>
+<noscript>
+	<div style="width: 302px; height: 422px;">
+		<div style="width: 302px; height: 422px; position: relative;">
+			<div style="width: 302px; height: 422px; position: absolute;">
+				<iframe src="https://www.google.com/recaptcha/api/fallback?k=6LfVlB0TAAAAAO2dy8nkpsszYGc-KSjqlK3MMLHa" frameborder="0" scrolling="no" style="width: 302px; height:422px; border-style: none;">
+				</iframe>
+			</div>
+			<div style="width: 300px; height: 60px; border-style: none; bottom: 12px; left: 25px; margin: 0px; padding: 0px; right: 25px; background: #f9f9f9; border: 1px solid #c1c1c1; border-radius: 3px;">
+				<textarea id="g-recaptcha-response" name="g-recaptcha-response" class="g-recaptcha-response" style="width: 250px; height: 40px; border: 1px solid #c1c1c1; margin: 10px 25px; padding: 0px; resize: none;">
+				</textarea>
+			</div>
+		</div>
+	</div>
+</noscript>
+</div>
+</div>
+<div><input type="submit" value="Send your message" class="wpcf7-form-control wpcf7-submit grve-custom-btn" /></div>
+</div>
+<div class="wpcf7-response-output wpcf7-display-none"></div></form></div>						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+				<div id="grve-language-modal" class="grve-modal">
+		<div class="grve-modal-wrapper">
+			<div class="grve-modal-content">
+				<div class="grve-modal-item">
+							<ul class="grve-language">
+		</ul>
+				</div>
+			</div>
+		</div>
+	</div>
+			
+			
+						<div class="grve-back-top">
+				<i class="grve-icon-arrow-top-alt grve-text-grey"></i>
+			</div>
+		
+		</div> <!-- end #grve-theme-wrapper -->
+
+		<script type="text/javascript">
+var recaptchaWidgets = [];
+var recaptchaCallback = function() {
+	var forms = document.getElementsByTagName( 'form' );
+	var pattern = /(^|\s)g-recaptcha(\s|$)/;
+
+	for ( var i = 0; i < forms.length; i++ ) {
+		var divs = forms[ i ].getElementsByTagName( 'div' );
+
+		for ( var j = 0; j < divs.length; j++ ) {
+			var sitekey = divs[ j ].getAttribute( 'data-sitekey' );
+
+			if ( divs[ j ].className && divs[ j ].className.match( pattern ) && sitekey ) {
+				var params = {
+					'sitekey': sitekey,
+					'type': divs[ j ].getAttribute( 'data-type' ),
+					'size': divs[ j ].getAttribute( 'data-size' ),
+					'theme': divs[ j ].getAttribute( 'data-theme' ),
+					'badge': divs[ j ].getAttribute( 'data-badge' ),
+					'tabindex': divs[ j ].getAttribute( 'data-tabindex' )
+				};
+
+				var callback = divs[ j ].getAttribute( 'data-callback' );
+
+				if ( callback && 'function' == typeof window[ callback ] ) {
+					params[ 'callback' ] = window[ callback ];
+				}
+
+				var expired_callback = divs[ j ].getAttribute( 'data-expired-callback' );
+
+				if ( expired_callback && 'function' == typeof window[ expired_callback ] ) {
+					params[ 'expired-callback' ] = window[ expired_callback ];
+				}
+
+				var widget_id = grecaptcha.render( divs[ j ], params );
+				recaptchaWidgets.push( widget_id );
+				break;
+			}
+		}
+	}
+}
+
+document.addEventListener( 'wpcf7submit', function( event ) {
+	switch ( event.detail.status ) {
+		case 'spam':
+		case 'mail_sent':
+		case 'mail_failed':
+			for ( var i = 0; i < recaptchaWidgets.length; i++ ) {
+				grecaptcha.reset( recaptchaWidgets[ i ] );
+			}
+	}
+}, false );
+</script>
+<link rel='stylesheet' id='vc_entypo-css'  href='http://www.allodium.eu/wp-content/plugins/js_composer/assets/css/lib/vc-entypo/vc_entypo.min.css?ver=4.11.2' type='text/css' media='all' />
+<link rel='stylesheet' id='grve-vc-simple-line-icons-css'  href='http://www.allodium.eu/wp-content/plugins/grve-blade-vc-extension/assets/css/simple-line-icons.css?ver=2.2.3' type='text/css' media='all' />
+<script type='text/javascript'>
+/* <![CDATA[ */
+var wpcf7 = {"apiSettings":{"root":"http:\/\/www.allodium.eu\/wp-json\/","namespace":"contact-form-7\/v1"},"recaptcha":{"messages":{"empty":"Please verify that you are not a robot."}},"cached":"1"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://www.allodium.eu/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=4.8'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var grve_plugins_data = {"retina_support":"default"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://www.allodium.eu/wp-content/themes/blade/js/plugins.js?ver=2.2.0'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var grve_main_data = {"siteurl":"http:\/\/www.allodium.eu\/wp-content\/themes\/blade","ajaxurl":"http:\/\/www.allodium.eu\/wp-admin\/admin-ajax.php","grve_wp_gallery_popup":"0","grve_back_top_top":"1","grve_string_weeks":"Weeks","grve_string_days":"Days","grve_string_hours":"Hours","grve_string_minutes":"Min","grve_string_seconds":"Sec"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://www.allodium.eu/wp-content/themes/blade/js/main.js?ver=2.2.0'></script>
+<script type='text/javascript' src='http://www.allodium.eu/wp-includes/js/wp-embed.min.js?ver=4.8.6'></script>
+<script type='text/javascript' src='http://www.allodium.eu/wp-content/plugins/js_composer/assets/js/dist/js_composer_front.min.js?ver=4.11.2'></script>
+<script type='text/javascript' src='https://www.google.com/recaptcha/api.js?onload=recaptchaCallback&#038;render=explicit&#038;ver=2.0'></script>
+
+	</body>
+
+</html>
+
+<!-- Performance optimized by W3 Total Cache. Learn more: https://www.w3-edge.com/products/
+
+Object Caching 2517/2777 objects using disk
+Page Caching using disk: enhanced
+Minified using disk
+Database Caching 4/86 queries in 0.031 seconds using disk
+
+ Served from: www.allodium.eu @ 2018-05-30 16:46:13 by W3 Total Cache -->
+

@@ -1,0 +1,37 @@
+WARC/1.0
+WARC-Type: warcinfo
+WARC-Date: 2018-05-30T17:52:30Z
+WARC-Record-ID: <urn:uuid:be5dd2e1-9190-4e46-bcda-b8b96501cbd0>
+WARC-All-Language: fr
+WARC-All-Content_type: text/html
+Content-Type: application/http;msgtype=response
+Content-Length: 46
+
+WARCProcessor by SING Group www.sing-group.com
+
+WARC/1.0
+WARC-Type: response
+WARC-Record-ID: <http://www.velocity.greyisgood.eu>
+WARC-Date: 20180530175230
+WARC-Target-URI: http://www.velocity.greyisgood.eu
+WARC-Language: fr
+Content-Type: application/http;msgtype=response
+Content-Length: 436
+
+HTTP/1.1 200
+Content-Type:text/html
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1" />
+<title>Velocity 2007</title>
+<meta http-equiv="Refresh" content="0;URL=http://greyisgood.eu/blog/?page_id=105" />
+</head>
+
+<body>
+</body>
+</html>
+
+

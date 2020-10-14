@@ -1,0 +1,129 @@
+WARC/1.0
+WARC-Type: warcinfo
+WARC-Date: 2018-05-30T17:52:31Z
+WARC-All-Language: pl
+WARC-All-Content_type: text/html
+WARC-Record-ID: <urn:uuid:0dea8059-eebf-4ebd-afb5-56e72445af7c>
+Content-Type: application/http;msgtype=response
+Content-Length: 46
+
+WARCProcessor by SING Group www.sing-group.com
+
+WARC/1.0
+WARC-Type: response
+WARC-Target-URI: http://www.greatproject.eu
+WARC-Date: 20180530175231
+WARC-Language: pl
+WARC-Record-ID: <http://www.greatproject.eu>
+Content-Type: application/http;msgtype=response
+Content-Length: 6853
+
+HTTP/1.1 200
+Content-Type:text/html
+
+
+﻿﻿﻿<html>
+ <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+ <meta name="keywords" content="great, project">
+ <meta name="description" content="Great Project - mocne linki" >
+ 
+<script type="text/javascript" src="js.js"></script>
+
+<head>
+  <title>Great Project</title>
+	<link type="text/css" rel="stylesheet" href="style.css" />
+  
+</head>
+<body>
+<div id="all">
+	<div id="side">
+		
+	 <div id='sideleft'>Stron w katalogu: 1405 | Czeka na dodanie: 8</div><div id='sideright'>Katalog działa od: 2011-07-21 | Backlinks: 3,536 | </div>
+	
+		
+</div>
+
+<div id="top">
+	<div id="menu">
+		<ul>
+			<li class="current"><a href="index.php?page=home">Home</a></li> 
+			<li> <a href='index.php?page=dodaj'>Dodaj</a></li>	
+			<li> <a href='regulamin.php' target="_blank">Regulamin</a></li>	
+			
+						
+			<li> <a href='index.php?page=logowanie'>Zaloguj</a></li>	
+
+			
+						
+		</ul>
+		
+	</div>
+	<div id="szukaj">
+		<form action="index.php?page=podstrona" method='post'>
+		<input type='text' value='' name='szukaj'>
+		<input type='submit' value='Szukaj' name='sz'>
+		</form>
+	</div>
+	
+	<div id="grafika">
+		<img src="img/grafika.png" alt="logo" />
+	</div>
+	
+	<br>
+	<div id='linki'>
+    <font size="2"></font>
+    </div>
+	
+</div>	
+		
+<br><br><br>
+<font size=2>Polecane: 
+<a href="http://www.alearena.eu">Alearena</a> |
+<a href="http://www.wolve.eu">Wolve</a> |
+<a href="http://www.ocultismo.eu">Ocultismo</a></font>	
+	
+	<div id="wrap">
+
+		
+		
+		<div id="content"> 
+		<table class='kategorie'><tr><td><a href="index.php?page=kategoria&kategoria=1,biznes_i_ekonomiasuper">Biznes i ekonomia</a>			
+			</td><td><a href="index.php?page=kategoria&kategoria=16,dom_i_ogrodsuper">Dom i ogród</a>			
+			</td><td><a href="index.php?page=kategoria&kategoria=2,edukacja_i_naukasuper">Edukacja i nauka</a>			
+			</td><td><a href="index.php?page=kategoria&kategoria=15,firmy_wg_branzsuper">Firmy wg branż</a>			
+			</td></tr><tr><td><a href="index.php?page=kategoria&kategoria=3,innesuper">Inne</a>			
+			</td><td><a href="index.php?page=kategoria&kategoria=14,internet_i_komputerysuper">Internet i komputery</a>			
+			</td><td><a href="index.php?page=kategoria&kategoria=4,kultura_i_sztukasuper">Kultura i sztuka</a>			
+			</td><td><a href="index.php?page=kategoria&kategoria=13,miastasuper">Miasta</a>			
+			</td></tr><tr><td><a href="index.php?page=kategoria&kategoria=5,motoryzacjasuper">Motoryzacja</a>			
+			</td><td><a href="index.php?page=kategoria&kategoria=12,prawo_i_spoleczenstwosuper">Prawo i społeczeństwo</a>			
+			</td><td><a href="index.php?page=kategoria&kategoria=6,produkcja_przemyslowasuper">Produkcja przemysłowa</a>			
+			</td><td><a href="index.php?page=kategoria&kategoria=11,reklama_i_marketingsuper">Reklama i marketing</a>			
+			</td></tr><tr><td><a href="index.php?page=kategoria&kategoria=7,rozrywkasuper">Rozrywka</a>			
+			</td><td><a href="index.php?page=kategoria&kategoria=10,sportsuper">Sport</a>			
+			</td><td><a href="index.php?page=kategoria&kategoria=8,turystykasuper">Turystyka</a>			
+			</td><td><a href="index.php?page=kategoria&kategoria=9,zdrowie_i_urodasuper">Zdrowie i uroda</a>			
+			</td></tr></table><table class='news'><tr> 
+			<td>
+			<h3><a href='site.php?9,zdrowie_i_urodasuperperuka&site=1585'>Peruka</a></h3><p>Peruki naturalne to najlepszy wybór. Jeżeli zatem interesują was peruki z włosów naturalnych. Jeżeli peruka to jedyna szansa na pozbycie się problemów jakim są wypadające włosy, to koniecznie stawiajcie na usługi przygotowane przez Peruki Rzeszów. Peruki w Rzeszowie mogą być na najróżniejszym poziomie. My jednak gwarantujemy wszystko co najlepsze i do tego w przystępnych cenach. Zapraszamy serdecznie do sprawdzenia oferty</p></td> 
+			<td>
+			<h3><a href='site.php?9,zdrowie_i_urodasuperperuka_krakow&site=1584'>Peruka kraków</a></h3><p>Peruki Kraków czyli znajdź dla siebie najlepszą i idealną perukę. Jeżeli koniecznie chcecie korzystać z najlepszych opcji związanych z perukami. Jeżeli szukacie takich rozwiązań jak choćby tupety, tresy, dopinki, uzupełnienia systemowe to Peruki Kraków jest dla was idealnym rozwiązaniem. Polecamy peruki klasyczne jak i te nowoczesne. Dostarczamy peruki w systemie sprzedaży detalicznej jak i hurtowej</p></td> 
+			<td>
+			<h3><a href='site.php?8,turystykasuperapartamenty_nad_morzem&site=1583'>Apartamenty nad morzem</a></h3><p>Apartamenty w Krynicy Morskiej to najlepszy wybór. Jeżeli koniecznie chcecie mieć pewność, że znajdziecie apartamenty przy plaży. Że znajdziecie apartamenty nad morzem w doskonałym standardzie to polecamy po prostu Krynica Morska apartamenty. Sprawdzajcie pełną ofertę, rezerwujcie najlepsze apartamenty nad morzem</p></td></tr></table><div class='tagi'><p>Tagi: <a href='index.php?page=podstrona&tag='></a>   <a href='index.php?page=podstrona&tag=Warszawa'>Warszawa</a>   <a href='index.php?page=podstrona&tag=noclegi'>noclegi</a>   <a href='index.php?page=podstrona&tag=nieruchomości'>nieruchomości</a>   <a href='index.php?page=podstrona&tag=Pozycjonowanie'>Pozycjonowanie</a>   <a href='index.php?page=podstrona&tag=Softstarty falowniki lenze silniki przekładnie'>Softstarty falowniki lenze silniki przekładnie</a>   <a href='index.php?page=podstrona&tag=praca'>praca</a>   <a href='index.php?page=podstrona&tag=biuro rachunkowe'>biuro rachunkowe</a>   <a href='index.php?page=podstrona&tag=lokaty bankowe'>lokaty bankowe</a>   <a href='index.php?page=podstrona&tag=lokaty 2014'>lokaty 2014</a>   <a href='index.php?page=podstrona&tag=transport'>transport</a>   <a href='index.php?page=podstrona&tag=ogłoszenia'>ogłoszenia</a>   <a href='index.php?page=podstrona&tag=windykacja'>windykacja</a>   <a href='index.php?page=podstrona&tag=kraków'>kraków</a>   <a href='index.php?page=podstrona&tag=kredyty'>kredyty</a>   <a href='index.php?page=podstrona&tag=Dystrybutor Dobór Serwis falowniki przemienniki'>Dystrybutor Dobór Serwis falowniki przemienniki</a>   <a href='index.php?page=podstrona&tag=księgowość'>księgowość</a>   <a href='index.php?page=podstrona&tag=oprocentowanie lokat'>oprocentowanie lokat</a>   <a href='index.php?page=podstrona&tag=Gdańsk'>Gdańsk</a>   <a href='index.php?page=podstrona&tag=strony internetowe'>strony internetowe</a>   <a href='index.php?page=podstrona&tag=meble'>meble</a>   <a href='index.php?page=podstrona&tag=poznań'>poznań</a>   <a href='index.php?page=podstrona&tag=oświetlenie'>oświetlenie</a>   <a href='index.php?page=podstrona&tag=pożyczki'>pożyczki</a>   <a href='index.php?page=podstrona&tag=pokoje'>pokoje</a>   </p></div>	
+	
+	</div>
+	</div>
+
+	
+  
+	
+<div id='foot'><p>&copy Katalog Great Project - skrypt ERSIM</p></div>
+
+
+</div>
+
+
+
+</body>
+</html>
+

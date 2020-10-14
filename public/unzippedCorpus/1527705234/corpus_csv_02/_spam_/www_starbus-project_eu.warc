@@ -1,0 +1,370 @@
+WARC/1.0
+WARC-Type: warcinfo
+WARC-Date: 2018-05-30T17:52:31Z
+WARC-All-Language: en-US
+WARC-All-Content_type: text/html; charset=UTF-8
+WARC-Record-ID: <urn:uuid:ccf7ac40-499c-491e-bfcf-7421a077d408>
+Content-Type: application/http;msgtype=response
+Content-Length: 46
+
+WARCProcessor by SING Group www.sing-group.com
+
+WARC/1.0
+WARC-Type: response
+WARC-Target-URI: http://www.starbus-project.eu
+WARC-Date: 20180530175231
+WARC-Language: en-US
+WARC-Record-ID: <http://www.starbus-project.eu>
+Content-Type: application/http;msgtype=response
+Content-Length: 44514
+
+HTTP/1.1 200
+Content-Type:text/html; charset=UTF-8
+
+
+<!doctype html>
+<!-- paulirish.com/2008/conditional-stylesheets-vs-css-hacks-answer-neither/ -->
+<!--[if lt IE 7]> <html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="en-US"> <![endif]-->
+<!--[if IE 7]>    <html class="no-js lt-ie9 lt-ie8" lang="en-US"> <![endif]-->
+<!--[if IE 8]>    <html class="no-js lt-ie9" lang="en-US"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="en-US"> <!--<![endif]-->
+<head>
+	<meta charset="UTF-8" />
+	<meta http-equiv="x-ua-compatible" content="ie=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<link rel="profile" href="http://gmpg.org/xfn/11" />
+	<link rel="pingback" href="http://www.starbus-project.eu/xmlrpc.php" />
+
+	<title>Star Bus Business Specialists &#8211; Perth Business Experts</title>
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="Star Bus Business Specialists &raquo; Feed" href="http://www.starbus-project.eu/feed/" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.4\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.4\/svg\/","svgExt":".svg","source":{"concatemoji":"http:\/\/www.starbus-project.eu\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.9.6"}};
+			!function(a,b,c){function d(a,b){var c=String.fromCharCode;l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,a),0,0);var d=k.toDataURL();l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,b),0,0);var e=k.toDataURL();return d===e}function e(a){var b;if(!l||!l.fillText)return!1;switch(l.textBaseline="top",l.font="600 32px Arial",a){case"flag":return!(b=d([55356,56826,55356,56819],[55356,56826,8203,55356,56819]))&&(b=d([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]),!b);case"emoji":return b=d([55357,56692,8205,9792,65039],[55357,56692,8203,9792,65039]),!b}return!1}function f(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var g,h,i,j,k=b.createElement("canvas"),l=k.getContext&&k.getContext("2d");for(j=Array("flag","emoji"),c.supports={everything:!0,everythingExceptFlag:!0},i=0;i<j.length;i++)c.supports[j[i]]=e(j[i]),c.supports.everything=c.supports.everything&&c.supports[j[i]],"flag"!==j[i]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[j[i]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(h=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",h,!1),a.addEventListener("load",h,!1)):(a.attachEvent("onload",h),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),g=c.source||{},g.concatemoji?f(g.concatemoji):g.wpemoji&&g.twemoji&&(f(g.twemoji),f(g.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='normalize-css'  href='http://www.starbus-project.eu/wp-content/themes/ephemeris/css/normalize.css?ver=7.0.0' type='text/css' media='all' />
+<link rel='stylesheet' id='font-awesome-5-css'  href='http://www.starbus-project.eu/wp-content/themes/ephemeris/css/fontawesome-all.min.css?ver=5.0.8' type='text/css' media='all' />
+<link rel='stylesheet' id='unsemantic-grid-css'  href='http://www.starbus-project.eu/wp-content/themes/ephemeris/css/unsemantic.css?ver=1.0.0' type='text/css' media='all' />
+<link rel='stylesheet' id='ephemeris-fonts-css'  href='https://fonts.googleapis.com/css?family=Open+Sans:400,400i,700,700i%7CDosis:700&#038;subset=latin' type='text/css' media='all' />
+<link rel='stylesheet' id='ephemeris-style-css'  href='http://www.starbus-project.eu/wp-content/themes/ephemeris/style.css?ver=4.9.6' type='text/css' media='all' />
+<script type='text/javascript' src='http://www.starbus-project.eu/wp-includes/js/jquery/jquery.js?ver=1.12.4'></script>
+<script type='text/javascript' src='http://www.starbus-project.eu/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
+<link rel='https://api.w.org/' href='http://www.starbus-project.eu/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www.starbus-project.eu/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://www.starbus-project.eu/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 4.9.6" />
+<style type="text/css">.grid-container { max-width: 1200px; }.entry-header h1 { color: #3a3a3a; }.entry-header h1 a { color: #3a3a3a; }.entry-header h1 a:visited { color: #3a3a3a; }.entry-header h1 a:hover, .entry-header h1 a:active { color: #2c7dbe; }h1, h2, h3, h4, h5, h6 { color: #3a3a3a; }h1 a, h2 a, h3 a, h4 a, h5 a, h6 a { color: #2c7dbe; }h1 a:visited, h2 a:visited, h3 a:visited, h4 a:visited, h5 a:visited, h6 a:visited { color: #2c7dbe; }h1 a:hover, h2 a:hover, h3 a:hover, h4 a:hover, h5 a:hover, h6 a:hover, h1 a:active, h2 a:active, h3 a:active, h4 a:active, h5 a:active, h6 a:active { color: #344860; }.site-content, .more-link { color: #3a3a3a; }a, .more-link { color: #2c7dbe; }a:visited, .more-link:visited { color: #2c7dbe; }a:hover, a:active, .more-link:hover, .more-link:active { color: #344860; }#footercontainer { background-color: #f9f9f9; }#footercreditscontainer { background-color: #f9f9f9; }.site-credits { color: #9a9a9a; }</style></head>
+
+<body itemscope="itemscope" itemtype="http://schema.org/CreativeWork" class="home blog">
+
+<main class="hfeed site" role="main">
+
+	<div class="visuallyhidden skip-link"><a href="#content" title="Skip to main content">Skip to main content</a></div>
+
+				<div class="top-header">
+			<div class="announcement-bar grid-container">
+				<div class="grid-100 tablet-grid-100 social-header"></div> <!-- /.grid-100.social-header -->			</div>
+		</div>
+
+		<div id="headercontainer">
+			
+			<header id="masthead" class="grid-container site-header" role="banner">
+				<div class="grid-40 tablet-grid-40 mobile-grid-100 site-title"><a href="http://www.starbus-project.eu/" title="Star Bus Business Specialists" rel="home">Star Bus Business Specialists</a></div> <!-- /.grid-40.site-title --><div class="grid-60 tablet-grid-60 mobile-grid-100"><nav id="site-navigation" class="main-navigation" role="navigation" itemscope="itemscope" itemtype="http://schema.org/SiteNavigationElement"><div class="assistive-text skip-link"><a href="#content" title="Skip to content">Skip to content</a></div><div class="nav-menu"><ul>
+<li class="page_item page-item-21"><a href="http://www.starbus-project.eu/about/">About</a></li>
+<li class="page_item page-item-23"><a href="http://www.starbus-project.eu/contact/">Contact</a></li>
+</ul></div>
+</nav> <!-- /.site-navigation.main-navigation --></div> <!-- /.grid-60 -->			</header> <!-- /#masthead.grid-container.site-header -->
+
+					</div> <!-- /#headercontainer -->
+			
+<div id="maincontentcontainer">
+	<div id="content" class="grid-container site-content" role="main">
+
+				<div class="grid-75 tablet-grid-75 mobile-grid-100">
+
+			
+<article itemscope="itemscope" itemtype="http://schema.org/Article" id="post-69" class="post-69 post type-post status-publish format-standard sticky hentry category-home-building">
+				<div class="featured-post">
+			Featured post		</div>
+		<header class="entry-header">
+							<h1 class="entry-title">
+				<a href="http://www.starbus-project.eu/how-to-choose-the-right-2-storey-home-builder/" title="Permalink to How to choose the right 2 storey home builder in Perth?" rel="bookmark">How to choose the right 2 storey home builder in Perth?</a>
+			</h1>
+				<div class="header-meta"><span class="publish-date"><i class="far fa-calendar-alt" aria-hidden="true"></i> <a href="http://www.starbus-project.eu/how-to-choose-the-right-2-storey-home-builder/" title="Posted April 18, 2018 @ 6:02 pm" rel="bookmark"><time class="entry-date" datetime="2018-04-18T18:02:18+00:00" itemprop="datePublished">April 18, 2018</time></a></span><address class="publish-author"><i class="fas fa-pencil-alt" aria-hidden="true"></i> <span class="author vcard"><a class="url fn n" href="http://www.starbus-project.eu/author/Erica/" title="View all posts by Erica Waiters" rel="author" itemprop="author">Erica Waiters</a></span></address><span class="post-categories"><a href="http://www.starbus-project.eu/category/home-building/" rel="category tag">Home Building</a></span><span class="comments-link"><i class="fas fa-comment" aria-hidden="true"></i> <a href="http://www.starbus-project.eu/how-to-choose-the-right-2-storey-home-builder/#respond" title="Comment on How to choose the right 2 storey home builder in Perth?">No Comments</a></span></div>			</header> <!-- /.entry-header -->
+	
+			<div class="entry-content">
+			<p>Are you planning to build a two storey house? Do you know who the best people in the home building industry are?</p>
+<p style="text-align: center;"><iframe src="https://www.youtube.com/embed/hJbVLWsKh2U" width="480" height="350" frameborder="0" allowfullscreen="allowfullscreen"></iframe></p>
+<p>When it comes to constructing a new custom house, there are numerous possibilities that have to be taken into consideration. The floor plan, the colour combination, the features and the designs are just some. And because building a new home is a huge investment, you don&#8217;t want to get wrong. Hence, it is always best to employ a reliable and experienced <a href="https://www.novushomes.com.au">Perth based home builder Novus Homes</a>.</p>
+<p>Recognising a good 2 storey home builder from the bad ones can be a real challenge especially that all of these builders are going to try and get your business. Therefore, it is important that you know the things to look for when you&#8217;re looking for quality.</p>
+<p>If you want your new custom home to appear great, choose a home builder that has an in-house design team. Make sure that the company has both drafters and builders department. That way, you can save time and money running between two separate companies. Furthermore, this will ensure that you&#8217;ll get the best advice in clarifying your design.</p>
+<figure id="attachment_70" style="width: 375px" class="wp-caption aligncenter"><img class=" wp-image-70" src="http://www.starbus-project.eu/wp-content/uploads/2018/04/gp-01-300x169.jpg" alt="Perth based home builder Novus Homes" width="375" height="211" srcset="http://www.starbus-project.eu/wp-content/uploads/2018/04/gp-01-300x169.jpg 300w, http://www.starbus-project.eu/wp-content/uploads/2018/04/gp-01-768x432.jpg 768w, http://www.starbus-project.eu/wp-content/uploads/2018/04/gp-01-1024x576.jpg 1024w" sizes="(max-width: 375px) 100vw, 375px" /><figcaption class="wp-caption-text">Two Storey Home</figcaption></figure>
+<p>Another important thing to know is that not all home builders offer warranty program. The most important result of any home construction project is the structural integrity of the output. And for a specific amount of time, you need to ensure certain elements of the construction such as the durability of the primary materials used, fixtures, <a href="https://freshome.com/2010/08/20/6-tips-to-choose-the-perfect-kitchen-tile/">tiles</a>, plumbing and electricity.</p>
+<p>Also, one important thing to keep in mind is to pick someone that offers fixed price contracts. Choose the builder that has specific clauses in their contracts regarding any tiny issues or unforeseen circumstances that may arise during the construction of your home. That way, you can be saved from going way over your budget if something happens that delays the project. This is especially important if the problem is not caused by your end.</p>
+<p>The above considerations can help you big time when you are trying to <a href="http://www.starbus-project.eu/how-to-choose-the-right-2-storey-home-builder/">choose the best 2 storey home builder</a> in Perth. And because your new home is something that will be enjoyed by your family for many years to come, you will want to ensure that everything is fine and according to your plan.</p>
+					</div> <!-- /.entry-content -->
+	
+	<footer class="entry-meta">
+							</footer> <!-- /.entry-meta -->
+	</article> <!-- /#post -->
+
+<article itemscope="itemscope" itemtype="http://schema.org/Article" id="post-39" class="post-39 post type-post status-publish format-standard sticky hentry category-commercial-cleaning">
+				<div class="featured-post">
+			Featured post		</div>
+		<header class="entry-header">
+							<h1 class="entry-title">
+				<a href="http://www.starbus-project.eu/why-hire-southern-cross-office-cleaners-in-perth/" title="Permalink to Why Hire Southern Cross Office Cleaners in Perth" rel="bookmark">Why Hire Southern Cross Office Cleaners in Perth</a>
+			</h1>
+				<div class="header-meta"><span class="publish-date"><i class="far fa-calendar-alt" aria-hidden="true"></i> <a href="http://www.starbus-project.eu/why-hire-southern-cross-office-cleaners-in-perth/" title="Posted December 9, 2015 @ 10:04 am" rel="bookmark"><time class="entry-date" datetime="2015-12-09T10:04:12+00:00" itemprop="datePublished">December 9, 2015</time></a></span><address class="publish-author"><i class="fas fa-pencil-alt" aria-hidden="true"></i> <span class="author vcard"><a class="url fn n" href="http://www.starbus-project.eu/author/Erica/" title="View all posts by Erica Waiters" rel="author" itemprop="author">Erica Waiters</a></span></address><span class="post-categories"><a href="http://www.starbus-project.eu/category/commercial-cleaning/" rel="category tag">Commercial Cleaning</a></span><span class="comments-link"><i class="fas fa-comment" aria-hidden="true"></i> <a href="http://www.starbus-project.eu/why-hire-southern-cross-office-cleaners-in-perth/#respond" title="Comment on Why Hire Southern Cross Office Cleaners in Perth">No Comments</a></span></div>			</header> <!-- /.entry-header -->
+	
+			<div class="entry-content">
+			<p>When you start running a business, you realise how important image and reputation are. A messy and cluttered office building can hinder your business practices. Fortunately for all business owners in Perth, you can depend on <a href="http://www.southerncrosscleaning.com/office-cleaners-perth/">Southern Cross Cleaning</a> service to help you keep your office spotless and your reputation intact.</p>
+<figure id="attachment_40" style="width: 300px" class="wp-caption alignleft"><img class="size-medium wp-image-40" src="http://www.starbus-project.eu/wp-content/uploads/2015/12/Photo-300x128.jpg" alt="Office Cleaners Perth" width="300" height="128" srcset="http://www.starbus-project.eu/wp-content/uploads/2015/12/Photo-300x128.jpg 300w, http://www.starbus-project.eu/wp-content/uploads/2015/12/Photo.jpg 442w" sizes="(max-width: 300px) 100vw, 300px" /><figcaption class="wp-caption-text">Southern Cross Cleaning</figcaption></figure>
+<p>Offices in Perth and neighbouring areas can be handled by <a href="http://www.southerncrosscleaning.com">SouthernCrossCleaning</a>, allowing you to focus on more important tasks of your business. The staffs hired at Southern Cross have all been highly trained to offer you the best cleaning service they can. Their primary concerns are health and safety. Therefore <a href="https://training.gov.au/Training/Details/CPP31011">training is given to their employees for both health and safety</a> to ensure that they are ready to go out on a job. In addition, the employees are highly skilled in cleaning.</p>
+<p style="text-align: center;"><iframe src="https://www.youtube.com/embed/AsVhLbc-OsA" width="454" height="380" frameborder="0" allowfullscreen="allowfullscreen"></iframe></p>
+<p>The employees from a good <a href="http://www.starbus-project.eu/why-hire-southern-cross-office-cleaners-in-perth/">office cleaning company in Perth</a> will come to your place dressed in a professional manner wearing cleaning uniforms. They dress this way so that they can distinguish themselves from others who may be in the building. They will conduct their business with professionalism as well as being fast and efficient. Furthermore, they will also give you with service <a href="http://www.starbus-project.eu/insurance/">insurance</a>.</p>
+<p>If you need specialised type of cleaning service such as carpet, window, or industrial cleaning, they can also help. They have the right team, tools and cleaning products to complete the task effectively.</p>
+					</div> <!-- /.entry-content -->
+	
+	<footer class="entry-meta">
+							</footer> <!-- /.entry-meta -->
+	</article> <!-- /#post -->
+
+<article itemscope="itemscope" itemtype="http://schema.org/Article" id="post-66" class="post-66 post type-post status-publish format-standard hentry category-perth-news">
+			<header class="entry-header">
+							<h1 class="entry-title">
+				<a href="http://www.starbus-project.eu/here-are-australias-fastest-selling-suburbs/" title="Permalink to Here are Australia&#8217;s fastest selling suburbs" rel="bookmark">Here are Australia&#8217;s fastest selling suburbs</a>
+			</h1>
+				<div class="header-meta"><span class="publish-date"><i class="far fa-calendar-alt" aria-hidden="true"></i> <a href="http://www.starbus-project.eu/here-are-australias-fastest-selling-suburbs/" title="Posted April 27, 2017 @ 2:41 pm" rel="bookmark"><time class="entry-date" datetime="2017-04-27T14:41:35+00:00" itemprop="datePublished">April 27, 2017</time></a></span><address class="publish-author"><i class="fas fa-pencil-alt" aria-hidden="true"></i> <span class="author vcard"><a class="url fn n" href="http://www.starbus-project.eu/author/Erica/" title="View all posts by Erica Waiters" rel="author" itemprop="author">Erica Waiters</a></span></address><span class="post-categories"><a href="http://www.starbus-project.eu/category/perth-news/" rel="category tag">Perth News</a></span><span class="comments-link"><i class="fas fa-comment" aria-hidden="true"></i> <a href="http://www.starbus-project.eu/here-are-australias-fastest-selling-suburbs/#respond" title="Comment on Here are Australia&#8217;s fastest selling suburbs">No Comments</a></span></div>			</header> <!-- /.entry-header -->
+	
+			<div class="entry-content">
+			<p><img class="aligncenter" src="https://edge.alluremedia.com.au/uploads/businessinsider/2017/04/home-sales.jpg" width="381" height="257" /></p>
+<p>Often, people look for easier ways to make money. We will always want to look for better money-making options and probably you know some friend, relative or family who are making money through properties. This is quite a tempting alternative, but not an easy option at all.</p>
+<p>Investing in real properties requires a whole lot of effort, dedication, research and a clever and quick mind. Real estate agents will tell you what a lucrative profession it is and the sustained income it generates. However, the effort required, the contact-making, and the sleepless nights that are needed, before starting the business. This is the reason for a flourishing and easy-going real estate work.</p>
+<p style="text-align: center;"><iframe src="https://www.youtube.com/embed/EOkAgBgh0Ug" width="454" height="380" frameborder="0" allowfullscreen="allowfullscreen"></iframe></p>
+<p>There are many advantages of property investing. For instance, sale of a property can fetch you a good sum when the market prices look at you favourably. Unlike when investing on stock wherein you hold it for a period of time and hopefully sell it for a profit. The success of the stock depends on company management and their corporate success, which is out of your control. On the other hand, real estate investing does not depend on third parties because it is under your control.</p>
+<p>One factor that could help determine whether you are going to win or lose at this type of investing is the place of the property. To know where Australia’s best places are when it comes to fastest selling, read this article: <a href="https://www.businessinsider.com.au/here-are-australias-fastest-selling-suburbs-2017-4">https://www.businessinsider.com.au/here-are-australias-fastest-selling-suburbs-2017-4</a></p>
+					</div> <!-- /.entry-content -->
+	
+	<footer class="entry-meta">
+							</footer> <!-- /.entry-meta -->
+	</article> <!-- /#post -->
+
+<article itemscope="itemscope" itemtype="http://schema.org/Article" id="post-60" class="post-60 post type-post status-publish format-standard hentry category-perth-news">
+			<header class="entry-header">
+							<h1 class="entry-title">
+				<a href="http://www.starbus-project.eu/how-to-market-your-catering-business/" title="Permalink to How to Market Your Catering Business" rel="bookmark">How to Market Your Catering Business</a>
+			</h1>
+				<div class="header-meta"><span class="publish-date"><i class="far fa-calendar-alt" aria-hidden="true"></i> <a href="http://www.starbus-project.eu/how-to-market-your-catering-business/" title="Posted January 23, 2017 @ 1:32 pm" rel="bookmark"><time class="entry-date" datetime="2017-01-23T13:32:20+00:00" itemprop="datePublished">January 23, 2017</time></a></span><address class="publish-author"><i class="fas fa-pencil-alt" aria-hidden="true"></i> <span class="author vcard"><a class="url fn n" href="http://www.starbus-project.eu/author/Erica/" title="View all posts by Erica Waiters" rel="author" itemprop="author">Erica Waiters</a></span></address><span class="post-categories"><a href="http://www.starbus-project.eu/category/perth-news/" rel="category tag">Perth News</a></span><span class="comments-link"><i class="fas fa-comment" aria-hidden="true"></i> <a href="http://www.starbus-project.eu/how-to-market-your-catering-business/#respond" title="Comment on How to Market Your Catering Business">No Comments</a></span></div>			</header> <!-- /.entry-header -->
+	
+			<div class="entry-content">
+			<p><img class="aligncenter" src="http://www.businessesforsale.com/static/articleimage?articleId=9247&amp;name=image1.jpg" alt="Resulta ng larawan para sa catering business" /></p>
+<p>If you are intending to start up a catering business, you need to work on the sales and marketing portion of the business. Sales and marketing is the most important factor that will determine whether a start-up can survive for the first 3 years. When you write your business plan for your catering business, you need to study a few successful catering businesses and analyse their business models.</p>
+<p>To market a catering, you need to determine the possible sales tactics to use. Once you have got a fair idea on the different ways to market your catering business, it is time to work on your marketing and sales strategy. Select a good business name that will represent your brand. Branding is what differentiates a good company from a great company, and it all starts from using a good name for your company at the beginning.</p>
+<p style="text-align: center;"><iframe src="https://www.youtube.com/embed/F3e8kskDkto" width="454" height="380" frameborder="0" allowfullscreen="allowfullscreen"></iframe></p>
+<p>Next, you can invest on marketing collaterals such as brochures, website, business cards, logo designs, menus and photos to show case your business to the market. Make sure that you decide on a certain colour and theme and make it consistent throughout all marketing collaterals.</p>
+<p>Once you have done up the collaterals, the next step that you should do is advertise your business. You should check out this one to learn how to market your catering business: <a href="http://www.wikihow.com/Market-Your-Catering-Business">http://www.wikihow.com/Market-Your-Catering-Business</a></p>
+					</div> <!-- /.entry-content -->
+	
+	<footer class="entry-meta">
+							</footer> <!-- /.entry-meta -->
+	</article> <!-- /#post -->
+
+<article itemscope="itemscope" itemtype="http://schema.org/Article" id="post-57" class="post-57 post type-post status-publish format-standard hentry category-perth-news">
+			<header class="entry-header">
+							<h1 class="entry-title">
+				<a href="http://www.starbus-project.eu/try-these-professional-tips-to-step-up-your-food-photography-game/" title="Permalink to Try These Professional Tips To Step Up Your Food Photography Game" rel="bookmark">Try These Professional Tips To Step Up Your Food Photography Game</a>
+			</h1>
+				<div class="header-meta"><span class="publish-date"><i class="far fa-calendar-alt" aria-hidden="true"></i> <a href="http://www.starbus-project.eu/try-these-professional-tips-to-step-up-your-food-photography-game/" title="Posted October 24, 2016 @ 3:21 pm" rel="bookmark"><time class="entry-date" datetime="2016-10-24T15:21:58+00:00" itemprop="datePublished">October 24, 2016</time></a></span><address class="publish-author"><i class="fas fa-pencil-alt" aria-hidden="true"></i> <span class="author vcard"><a class="url fn n" href="http://www.starbus-project.eu/author/Erica/" title="View all posts by Erica Waiters" rel="author" itemprop="author">Erica Waiters</a></span></address><span class="post-categories"><a href="http://www.starbus-project.eu/category/perth-news/" rel="category tag">Perth News</a></span><span class="comments-link"><i class="fas fa-comment" aria-hidden="true"></i> <a href="http://www.starbus-project.eu/try-these-professional-tips-to-step-up-your-food-photography-game/#respond" title="Comment on Try These Professional Tips To Step Up Your Food Photography Game">No Comments</a></span></div>			</header> <!-- /.entry-header -->
+	
+			<div class="entry-content">
+			<p>You want to make your photography business more profitable whether you are just starting or you have one already. You need photography marketing strategies as your engine. If you mess up the marketing, your photography business goes nowhere.</p>
+<p><img class="aligncenter" src="http://o.aolcdn.com/dims-shared/dims3/GLOB/crop/3155x1578+0+696/resize/630x315!/format/jpg/quality/85/http%3A%2F%2Fo.aolcdn.com%2Fhss%2Fstorage%2Fmidas%2F5aa5cdd5967bd1f0965ff4bc7d27957%2F204482559%2F501706046.jpg" width="460" height="230" /></p>
+<p>When it comes to marketing a photography business, you should never depend on the word of mouth. It certainly is true that one of the best forms of advertising is to have someone tell a friend about you and how &#8220;great&#8221; you are. But the problem is that it isn&#8217;t enough of this going on to make you any serious money. So do NOT depend on this to sustain your business.</p>
+<p>Another thing to keep in mind is not marketing too big. Rather, you need to pick a target and go after that with passion. Most professional photographers don&#8217;t have a huge marketing budget. So it&#8217;s very important to pick and choose carefully who it is you want to work with, and then concentrate on getting to them, and them only.</p>
+<p style="text-align: center;"><iframe src="https://www.youtube.com/embed/BEo2c6mCupw" width="454" height="380" frameborder="0" allowfullscreen="allowfullscreen"></iframe></p>
+<p>Also, you need to set your budget. You must determine how much you are willing to invest to promote your business and acquire clients. Marketing can sometimes cost especially when you use the traditional marketing platforms such as TV and radio ads. Luckily, you can now utilise social media to create brand awareness in a low cost.</p>
+<p>Read this article for tips on how to step up your food photography business: <a href="http://www.huffingtonpost.com.au/2016/10/20/try-these-professional-tips-to-step-up-your-food-photography-gam">http://www.huffingtonpost.com.au/2016/10/20/try-these-professional-tips-to-step-up-your-food-photography-gam</a></p>
+					</div> <!-- /.entry-content -->
+	
+	<footer class="entry-meta">
+							</footer> <!-- /.entry-meta -->
+	</article> <!-- /#post -->
+
+<article itemscope="itemscope" itemtype="http://schema.org/Article" id="post-50" class="post-50 post type-post status-publish format-standard hentry category-perth-news">
+			<header class="entry-header">
+							<h1 class="entry-title">
+				<a href="http://www.starbus-project.eu/five-tips-for-managing-your-small-business-day-to-day/" title="Permalink to Five Tips For Managing Your Small Business Day To Day" rel="bookmark">Five Tips For Managing Your Small Business Day To Day</a>
+			</h1>
+				<div class="header-meta"><span class="publish-date"><i class="far fa-calendar-alt" aria-hidden="true"></i> <a href="http://www.starbus-project.eu/five-tips-for-managing-your-small-business-day-to-day/" title="Posted October 7, 2016 @ 8:58 am" rel="bookmark"><time class="entry-date" datetime="2016-10-07T08:58:58+00:00" itemprop="datePublished">October 7, 2016</time></a></span><address class="publish-author"><i class="fas fa-pencil-alt" aria-hidden="true"></i> <span class="author vcard"><a class="url fn n" href="http://www.starbus-project.eu/author/Erica/" title="View all posts by Erica Waiters" rel="author" itemprop="author">Erica Waiters</a></span></address><span class="post-categories"><a href="http://www.starbus-project.eu/category/perth-news/" rel="category tag">Perth News</a></span><span class="comments-link"><i class="fas fa-comment" aria-hidden="true"></i> <a href="http://www.starbus-project.eu/five-tips-for-managing-your-small-business-day-to-day/#respond" title="Comment on Five Tips For Managing Your Small Business Day To Day">No Comments</a></span></div>			</header> <!-- /.entry-header -->
+	
+			<div class="entry-content">
+			<p>When investigating a startup company, these are some of the first questions investors and lenders want answered: What’s the product? Is there a market for that product? Is the management team well experienced?</p>
+<p style="text-align: center;"><iframe src="https://www.youtube.com/embed/PE_FPRkyUrQ" width="454" height="380" frameborder="0" allowfullscreen="allowfullscreen"></iframe></p>
+<p>Almost every business plan typically addresses these and other related questions in some detail, but what about an Operations Plan? If Operations is mentioned at all, details are likely to be sketchy at best. The truth is, Operations  and other forms of management plays a role in the startup firm. And if so, what is the role?</p>
+<p>Management might play an important role, and when it does operations management professionals need to be prepared. This is where your job as an entrepreneur or owners comes in. It is your responsibility to understand the needs of the company at any given time and the skills and experience that need to be brought on board at different stages of development.</p>
+<p><img class="aligncenter" src="http://www.johnlincoln.biz/wp-content/uploads/2012/08/8-steps-to-improve-your-business-operations.jpg" alt="Image result for business operation" /></p>
+<p>Understanding the value that Management and how it can help improve his existing business and help get the new line of business off on the right foot is extremely important.</p>
+<p>The competitive nature of the industry, whether you are in the hospitality or manufacturing industry, is increasing at a rate previously unseen. This has resulted in not only the rise of such business, but given rise to the role of a sound and thorough process of small business management.</p>
+<p>For more on small business management, check this out: <a href="http://www.businessinsider.com.au/five-tips-for-managing-your-small-business-day-to-day-2014-10">http://www.businessinsider.com.au/five-tips-for-managing-your-small-business-day-to-day-2014-10</a></p>
+					</div> <!-- /.entry-content -->
+	
+	<footer class="entry-meta">
+							</footer> <!-- /.entry-meta -->
+	</article> <!-- /#post -->
+
+<article itemscope="itemscope" itemtype="http://schema.org/Article" id="post-44" class="post-44 post type-post status-publish format-standard hentry category-perth-news">
+			<header class="entry-header">
+							<h1 class="entry-title">
+				<a href="http://www.starbus-project.eu/how-to-create-a-disaster-plan/" title="Permalink to How to Create a Disaster Plan" rel="bookmark">How to Create a Disaster Plan</a>
+			</h1>
+				<div class="header-meta"><span class="publish-date"><i class="far fa-calendar-alt" aria-hidden="true"></i> <a href="http://www.starbus-project.eu/how-to-create-a-disaster-plan/" title="Posted February 9, 2016 @ 5:26 pm" rel="bookmark"><time class="entry-date" datetime="2016-02-09T17:26:26+00:00" itemprop="datePublished">February 9, 2016</time></a></span><address class="publish-author"><i class="fas fa-pencil-alt" aria-hidden="true"></i> <span class="author vcard"><a class="url fn n" href="http://www.starbus-project.eu/author/Erica/" title="View all posts by Erica Waiters" rel="author" itemprop="author">Erica Waiters</a></span></address><span class="post-categories"><a href="http://www.starbus-project.eu/category/perth-news/" rel="category tag">Perth News</a></span><span class="comments-link"><i class="fas fa-comment" aria-hidden="true"></i> <a href="http://www.starbus-project.eu/how-to-create-a-disaster-plan/#respond" title="Comment on How to Create a Disaster Plan">No Comments</a></span></div>			</header> <!-- /.entry-header -->
+	
+			<div class="entry-content">
+			<p><img class="aligncenter wp-image-45" src="http://www.starbus-project.eu/wp-content/uploads/2016/02/Photo-300x187.jpg" alt="Businesses Perth" width="416" height="259" srcset="http://www.starbus-project.eu/wp-content/uploads/2016/02/Photo-300x187.jpg 300w, http://www.starbus-project.eu/wp-content/uploads/2016/02/Photo.jpg 385w" sizes="(max-width: 416px) 100vw, 416px" /></p>
+<p>One can hardly turn on the news today with hearing something about some natural disaster. In the recent few years, it has been about super typhoons, tornadoes, earthquakes, floods, wildfires and others. These natural disasters have cost millions of dollar worth of properties as well as millions of lives.</p>
+<p>All of us need to be prepared for disasters; not only for the safety of your family, but for the safety of your business as well. Even if you think it will never happen to you, you need to be prepared for the &#8220;never going to happen&#8221; event. Making a disaster plan is really just a business plan for disasters.</p>
+<p style="text-align: center;"><iframe src="https://www.youtube.com/embed/AymwymXIHmA" width="454" height="380" frameborder="0" allowfullscreen="allowfullscreen"></iframe></p>
+<p>The continuity of your business and the disaster planning you make go together hand-in-hand. When they prepare for disasters, businesses owners usually think about emergency numbers, evacuation plans, and insurance matters.</p>
+<p>Thinking about the worst case scenarios is not advisable when it comes to planning a business’ future. On the other hand, when it comes to business continuity, not thinking planning for the worst is foolish. Protect your business&#8217; assets: prepare for technological disasters.</p>
+<p>All organisations should make a good disaster plan no matter how experienced and knowledgeable businessman you are. If you haven’t created one for your company, you better start creating now.</p>
+<p>Check out this article from Wall Street Journal and learn how to make a good disaster plan: <a href="http://guides.wsj.com/small-business/technology/how-to-create-a-disaster-plan">http://guides.wsj.com/small-business/technology/how-to-create-a-disaster-plan</a></p>
+					</div> <!-- /.entry-content -->
+	
+	<footer class="entry-meta">
+							</footer> <!-- /.entry-meta -->
+	</article> <!-- /#post -->
+
+<article itemscope="itemscope" itemtype="http://schema.org/Article" id="post-32" class="post-32 post type-post status-publish format-standard hentry category-perth-news">
+			<header class="entry-header">
+							<h1 class="entry-title">
+				<a href="http://www.starbus-project.eu/insurance/" title="Permalink to Insurance" rel="bookmark">Insurance</a>
+			</h1>
+				<div class="header-meta"><span class="publish-date"><i class="far fa-calendar-alt" aria-hidden="true"></i> <a href="http://www.starbus-project.eu/insurance/" title="Posted July 28, 2015 @ 1:32 pm" rel="bookmark"><time class="entry-date" datetime="2015-07-28T13:32:39+00:00" itemprop="datePublished">July 28, 2015</time></a></span><address class="publish-author"><i class="fas fa-pencil-alt" aria-hidden="true"></i> <span class="author vcard"><a class="url fn n" href="http://www.starbus-project.eu/author/Erica/" title="View all posts by Erica Waiters" rel="author" itemprop="author">Erica Waiters</a></span></address><span class="post-categories"><a href="http://www.starbus-project.eu/category/perth-news/" rel="category tag">Perth News</a></span><span class="comments-link"><i class="fas fa-comment" aria-hidden="true"></i> <a href="http://www.starbus-project.eu/insurance/#respond" title="Comment on Insurance">No Comments</a></span></div>			</header> <!-- /.entry-header -->
+	
+			<div class="entry-content">
+			<p style="text-align: center;"><iframe src="https://www.youtube.com/embed/E2xTrXonanw" width="454" height="310" frameborder="0" allowfullscreen="allowfullscreen"></iframe></p>
+<p>For all small business entrepreneurs, commercial business insurance is a must-have. Some people commit the mistake not getting business insurance thinking that they can go without getting one to save cost and because you are running a small business and your risks are lower. Well, these businessmen are totally wrong.</p>
+<p><img class=" size-medium wp-image-33 alignright" src="http://www.starbus-project.eu/wp-content/uploads/2015/07/Image-300x225.jpg" alt="Perth News" width="300" height="225" srcset="http://www.starbus-project.eu/wp-content/uploads/2015/07/Image-300x225.jpg 300w, http://www.starbus-project.eu/wp-content/uploads/2015/07/Image.jpg 400w" sizes="(max-width: 300px) 100vw, 300px" />Running your small business without the necessary insurance protection can be costlier in the long run. Commercial business insurance is meant to transfer the risks that you will normally find very difficult to shoulder yourself to your insurance provider. But in order to get this privilege, you need to pay certain amount known as insurance premium. However, the insurance premium your business will be paying is not refundable if you do not make any claim within the period of coverage.</p>
+<p>So if you are planning to start a small business regardless of its nature or kind, you should know that meeting your insurance needs should be one of your top priorities aside from your legal and accounting needs. Insurance helps you to avoid and prevent uncontrollable risks such as damage or loss that may be hard for anyone to recover financially.</p>
+<p>There are several types of business insurance. If you want to learn more about commercial insurance for small business, you should check this blog post out: <a href="http://www.smallbusiness.wa.gov.au/business-life-cycle/starting-a-business/insurance">http://www.smallbusiness.wa.gov.au/business-life-cycle/starting-a-business/insurance</a></p>
+					</div> <!-- /.entry-content -->
+	
+	<footer class="entry-meta">
+							</footer> <!-- /.entry-meta -->
+	</article> <!-- /#post -->
+
+		</div>
+		<div class="grid-25 tablet-grid-25 mobile-grid-100">
+
+	
+<div id="secondary" class="widget-area" role="complementary">
+	<aside id="nav_menu-2" class="widget widget_nav_menu"><div class="menu-main-menu-container"><ul id="menu-main-menu" class="menu"><li id="menu-item-25" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item current_page_item menu-item-home menu-item-25"><a href="http://www.starbus-project.eu/">Home</a></li>
+<li id="menu-item-26" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-26"><a href="http://www.starbus-project.eu/about/">About</a></li>
+<li id="menu-item-27" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-27"><a href="http://www.starbus-project.eu/contact/">Contact</a></li>
+</ul></div></aside><aside id="text-2" class="widget widget_text"><h3 class="widget-title">Erica&#8217;s Featured Posts</h3>			<div class="textwidget"><p><a title="Why Hire Southern Cross Office Cleaners in Perth" href="http://www.starbus-project.eu/why-hire-southern-cross-office-cleaners-in-perth/">Why Hire Southern Cross Office Cleaners in Perth</a></p>
+</div>
+		</aside>		<aside id="recent-posts-2" class="widget widget_recent_entries">		<h3 class="widget-title">Recent Posts</h3>		<ul>
+											<li>
+					<a href="http://www.starbus-project.eu/how-to-choose-the-right-2-storey-home-builder/">How to choose the right 2 storey home builder in Perth?</a>
+									</li>
+											<li>
+					<a href="http://www.starbus-project.eu/here-are-australias-fastest-selling-suburbs/">Here are Australia&#8217;s fastest selling suburbs</a>
+									</li>
+											<li>
+					<a href="http://www.starbus-project.eu/how-to-market-your-catering-business/">How to Market Your Catering Business</a>
+									</li>
+											<li>
+					<a href="http://www.starbus-project.eu/try-these-professional-tips-to-step-up-your-food-photography-game/">Try These Professional Tips To Step Up Your Food Photography Game</a>
+									</li>
+											<li>
+					<a href="http://www.starbus-project.eu/five-tips-for-managing-your-small-business-day-to-day/">Five Tips For Managing Your Small Business Day To Day</a>
+									</li>
+					</ul>
+		</aside><aside id="categories-2" class="widget widget_categories"><h3 class="widget-title">Categories</h3>		<ul>
+	<li class="cat-item cat-item-6"><a href="http://www.starbus-project.eu/category/commercial-cleaning/" >Commercial Cleaning</a>
+</li>
+	<li class="cat-item cat-item-7"><a href="http://www.starbus-project.eu/category/home-building/" >Home Building</a>
+</li>
+	<li class="cat-item cat-item-5"><a href="http://www.starbus-project.eu/category/perth-news/" >Perth News</a>
+</li>
+		</ul>
+</aside>
+</div> <!-- /#secondary.widget-area -->
+
+</div>
+		
+	</div> <!-- /#content.grid-container.site-content -->
+</div> <!-- /#maincontentcontainer -->
+
+
+					<div id="footercontainer">
+						
+					</div> <!-- /.footercontainer -->
+		<div id="footercreditscontainer">
+						<div class="grid-container site-credits">
+				<div class="grid-100 footer-credits">
+					<p style="text-align: center;">Proudly powered by <a href="http://wordpress.org" title="Semantic Personal Publishing Platform">WordPress</a> &amp; <a href="http://skyrocketthemes.com" title="Skyrocket Themes">Skyrocket Themes</a></p>
+				</div> <!-- /.grid-100 -->
+			</div> <!-- /.grid-container.site-credits -->
+					</div> <!-- /.footercontainer -->
+	
+</main> <!-- /.hfeed.site -->
+
+	<a id="mobile-site-navigation" href="#cd-nav" class="mobile-navigation mobile-nav-trigger">
+		<div class="menu-hamburger">
+			<span class="line"></span>
+			<span class="line"></span>
+			<span class="line"></span>
+			<span class="mobile-nav-title">MENU</span>
+		</div>
+	</a>
+
+	<div id="cd-nav" class="grid-container cd-nav">
+		<div class="grid-100">
+			<div class="cd-navigation-wrapper">
+				<h2>Navigation</h2>
+
+				<nav role="navigation">
+					<div class="mobile-menu"><ul>
+<li class="page_item page-item-21"><a href="http://www.starbus-project.eu/about/">About</a></li>
+<li class="page_item page-item-23"><a href="http://www.starbus-project.eu/contact/">Contact</a></li>
+</ul></div>
+				</nav>
+			</div><!-- .cd-navigation-wrapper -->
+		</div> <!-- .grid-100 -->
+	</div> <!-- .cd-nav -->
+
+	<div class="search-overlay">
+		<button type="button" class="search-close"><i class="far fa-times-circle"></i></button>
+		<form role="search" method="get" class="search-form" action="http://www.starbus-project.eu">
+	<label>
+		<span class="screen-reader-text">Search for:</span>
+		<input type="search" class="search-field" placeholder="Search &hellip;" value="" name="s"/>
+	</label>
+	<button type="submit" class="search-submit"><i class="fas fa-search"></i></button>
+<input type='hidden' name='lang' value='en' /></form>
+	</div>
+
+<script type='text/javascript' src='http://www.starbus-project.eu/wp-content/themes/ephemeris/js/common.js?ver=0.1.1'></script>
+<script type='text/javascript' src='http://www.starbus-project.eu/wp-includes/js/wp-embed.min.js?ver=4.9.6'></script>
+</body>
+
+</html>
+
+

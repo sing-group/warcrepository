@@ -1,0 +1,121 @@
+WARC/1.0
+WARC-Type: warcinfo
+WARC-Date: 2018-05-30T18:18:32Z
+WARC-Record-ID: <urn:uuid:989c8e9c-726d-4700-90cc-c21485f7fc5c>
+WARC-All-Language: en
+WARC-All-Content_type: text/html; charset=UTF-8, text/html
+Content-Type: application/http;msgtype=response
+Content-Length: 46
+
+WARCProcessor by SING Group www.sing-group.com
+
+WARC/1.0
+WARC-Type: response
+WARC-Record-ID: <http://www.devlieger.eu>
+WARC-Date: 20180530181832
+WARC-Target-URI: http://www.devlieger.eu
+WARC-Language: en
+Content-Type: application/http;msgtype=response
+Content-Length: 6642
+
+HTTP/1.1 200
+Content-Type:text/html; charset=UTF-8
+
+
+<!doctype html>
+<html lang="en">
+	<head>
+		<meta charset="UTF-8">
+		<title>Registered by a Vevida customer</title>
+		<meta name="description" content="">
+		<meta name="keywords" content="">
+		<meta name="language" content="en">
+		<meta name="revisit-after" content="15 days">
+		<meta name="robots" content="index, nofollow">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+		<meta http-equiv="cleartype" content="on">
+		<meta http-equiv="X-UA-Compatible" content="IE=Edge,Chrome=1">
+		<link rel="shortcut icon" type="image/x-icon" href="https://static.vevida.com/geregistreerd/images/favicon.ico" />
+		<link rel="icon" type="image/png" sizes="32x32" href="https://static.vevida.com/geregistreerd/images/favicon-32x32.png" />
+		<link rel="icon" type="image/png" sizes="16x16" href="https://static.vevida.com/geregistreerd/images/favicon-16x16.png" />
+		<link rel="stylesheet" href="https://static.vevida.com/geregistreerd/stylesheets/normalize.min.css">
+		<link rel="stylesheet" href="https://static.vevida.com/geregistreerd/stylesheets/main.css">
+		<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,600">
+	</head>
+	<body>
+		<header>
+			<div class="fullscreen-bg">
+				<video muted autoplay class="fullscreen-bg__video">
+					<source src="https://static.vevida.com/geregistreerd/video/splashvideo.mp4" type="video/mp4">
+					<source src="https://static.vevida.com/geregistreerd/video/splashvideo.webm" type="video/webm">
+				</video>
+				<div class="videowrap">
+					<div class="wrap">
+						<div class="domeinchecker">
+							<h1>
+								<strong>www.devlieger.eu</strong><br/>
+								is already registered by a Vevida customer							</h1>
+							<form action="https://bestellen.vevida.com">
+								<input name="taal" type="hidden" value="en"/>
+								<input name="domein" type="text" class="text" placeholder="Is another domain still available?"/>
+								<input type="submit" class="check-button" value="Check"/>
+							</form>
+						</div>
+						<ul class="languages">
+							<li class="nl"><a href="?lang=nl" title="Nederlands">Nederlands</a></li>
+							<li class="en">English</li>
+						</ul>
+						<a class="vevidalogotop" href="https://vevida.com/en/"><img src="https://static.vevida.com/geregistreerd/images/vevida-logo-en-white.svg"></a>
+					</div>
+				</div>
+			</div>
+		</header>
+		<div class="wrap">
+			<h3>Are you a customer? Manage your domain via</h3>
+			<a href="https://my.vevida.com/"><img src="https://static.vevida.com/geregistreerd/images/my-vevida-logo.svg" class="myvevidalogo" alt="MyVevida"></a>
+			<div class="kolom kolom1">
+				<img src="https://static.vevida.com/geregistreerd/images/icon-vevida-flag.svg" class="icons flagicon" height="100">
+				<h2>About Vevida</h2>
+				<p>Worry-free hosting. That's us. Would you like modern, comprehensive and green hosting at a great price? Then choose domain registration, webhosting or server hosting at Vevida. Recommended by over 50.000 customers!</p>
+			</div>
+			<div class="kolom kolom-breed">
+				<img src="https://static.vevida.com/geregistreerd/images/icon-hulp.svg" class="icons hulpicon" height="100">
+				<h2>Help</h2>
+				<div class="hulpartikel artikel1">
+					<ul>
+						<li><a href="https://vevida.com/en/support/moving-a-website/">Moving a website</a></li>
+						<li><a href="https://vevida.com/en/support/using-a-subdomain/">Using a subdomain</a></li>
+						<li><a href="https://vevida.com/en/support/tips-tricks/">Tips & Tricks</a></li>
+					</ul>
+				</div>
+				<div class="hulpartikel artikel2">
+					<ul>
+						<li><a href="https://vevida.com/en/support/cms-and-blog-installation-manual-and-tips/">CMS and Blog installation Manual and Tips</a></li>
+						<li><a href="https://vevida.com/en/support/e-mailadres-aanmaken/">Create email account</a></li>
+						<li><a href="https://vevida.com/en/support/custom-error-page/">Custom error page</a></li>
+					</ul>
+				</div>
+			</div>
+			<div class="kolom kolom-breed kolom1">
+				<img src="https://static.vevida.com/geregistreerd/images/icon-extensies.svg" class="icons" height="100">
+				<h2>Popular extensions</h2>
+				<p>
+					<a href="https://vevida.com/en/domains/gtld/amsterdam-domain-extension/">.amsterdam</a>					<a href="https://vevida.com/en/domains/gtld/app-domain-extension/">.app</a>					<a href="https://vevida.com/en/domains/gtld/auto-domain-extension/">.auto</a>					<a href="https://vevida.com/en/domains/gtld/blog-domain-extension/">.blog</a>					<a href="https://vevida.com/en/domains/gtld/brussels-domain-extension/">.brussels</a>					<a href="https://vevida.com/en/domains/gtld/cars-domain-extension/">.cars</a>					<a href="https://vevida.com/en/domains/gtld/cloud-domain-extension//">.cloud</a>					<a href="https://vevida.com/en/domains/gtld/company-domain-extension/">.company</a>					<a href="https://vevida.com/en/domains/gtld/email-domain-extension/">.email</a>					<a href="https://vevida.com/en/domains/gtld/estate-domain-extension/">.estate</a>					<a href="https://vevida.com/en/domains/gtld/fun-domain-extension/">.fun</a>					<a href="https://vevida.com/en/domains/gtld/help-domain-extension/">.help</a>					<a href="https://vevida.com/en/domains/gtld/hotel-domain-extension/">.hotel</a>					<a href="https://vevida.com/en/domains/gtld/online-domain-extension/">.online</a>					<a href="https://vevida.com/en/domains/gtld/restaurant-domain-extension/">.restaurant</a>					<a href="https://vevida.com/en/domains/gtld/sex-domain-extension/">.sex</a>					<a href="https://vevida.com/en/domains/gtld/shop-domain-extension/">.shop</a>					<a href="https://vevida.com/en/domains/gtld/singles-domain-extension/">.singles</a>					<a href="https://vevida.com/en/domains/gtld/supply-domain-extension/">.supply</a>					<a href="https://vevida.com/en/domains/gtld/website/">.website</a>				</p>
+				<a class="button" href="https://vevida.com/en/domains/all-extensions/">all extensions »</a>			</div>
+			<div class="kolom">
+				<img src="https://static.vevida.com/geregistreerd/images/icon-contact.svg" class="icons" height="100">
+				<h2>Contact</h2>
+				<p>Do you have a question? Please feel free to contact us. Our customer service is available monday to friday by phone from 8.30 till 20.00.</p>
+				<div class="tel">
+					<a href="tel:+31502110100">Netherlands: +31 50 211 0100</a><br/>
+					<a href="tel:+3292185919">Belgium: +32 92 18 5919</a>
+				</div>
+			</div>
+			<footer>
+				<a class="logovevida" href="https://vevida.com/en/"><img src="https://static.vevida.com/geregistreerd/images/vevida-logo-en.svg"></a>
+			</footer>
+		</div>
+	</body>
+</html>
+
+

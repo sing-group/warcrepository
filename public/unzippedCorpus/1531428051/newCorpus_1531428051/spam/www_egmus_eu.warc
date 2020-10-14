@@ -1,0 +1,258 @@
+WARC/1.0
+WARC-Type: warcinfo
+WARC-Date: 2018-05-30T17:52:31Z
+WARC-Record-ID: <urn:uuid:9dd8713f-65f3-484a-9657-b27619a68918>
+WARC-All-Language: en
+WARC-All-Content_type: text/html, text/html; charset=utf-8
+Content-Type: application/http;msgtype=response
+Content-Length: 46
+
+WARCProcessor by SING Group www.sing-group.com
+
+WARC/1.0
+WARC-Type: response
+WARC-Record-ID: <http://www.egmus.eu>
+WARC-Date: 20180530175231
+WARC-Target-URI: http://www.egmus.eu
+WARC-Language: en
+Content-Type: application/http;msgtype=response
+Content-Length: 14221
+
+HTTP/1.1 200
+Content-Type:text/html; charset=utf-8
+
+
+<!DOCTYPE html>
+<html>
+<head><meta content="width=device-width, initial-scale=1.0" name="viewport">
+
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<!-- 
+	This website is powered by TYPO3 - inspiring people to share!
+	TYPO3 is a free open source Content Management Framework initially created by Kasper Skaarhoj and licensed under GNU/GPL.
+	TYPO3 is copyright 1998-2012 of Kasper Skaarhoj. Extensions are copyright of their respective owners.
+	Information and contribution at http://typo3.com/ and http://typo3.org/
+-->
+
+<base href="http://www.egmus.eu/">
+
+
+<meta name="generator" content="TYPO3 4.4 CMS">
+<meta name="description" content="EGMUS">
+<meta name="keywords" content="EGMUS">
+<meta name="author" content="EGMUS">
+<meta name="robots" content="index, follow">
+
+<link rel="stylesheet" type="text/css" href="typo3conf/ext/sk_fancybox/fancybox/jquery.fancybox-1.3.4.css?1349107651" media="all">
+<link rel="stylesheet" type="text/css" href="typo3temp/stylesheet_635a1de83a.css?1527551690" media="all">
+
+
+
+<script src="typo3conf/ext/sk_fancybox/fancybox/jquery-1.4.4.min.js?1349107651" type="text/javascript"></script>
+<script src="typo3conf/ext/sk_fancybox/fancybox/jquery.easing-1.3.pack.js?1349107651" type="text/javascript"></script>
+<script src="typo3conf/ext/sk_fancybox/fancybox/jquery.mousewheel-3.0.4.pack.js?1349107651" type="text/javascript"></script>
+<script src="typo3conf/ext/sk_fancybox/fancybox/jquery.fancybox-1.3.4.pack.js?1349107651" type="text/javascript"></script>
+<script type="text/javascript">
+/*<![CDATA[*/
+<!-- 
+/*_scriptCode*/
+
+		var browserName = navigator.appName;
+		var browserVer = parseInt(navigator.appVersion);
+		var version = "";
+		var msie4 = (browserName == "Microsoft Internet Explorer" && browserVer >= 4);
+		if ((browserName == "Netscape" && browserVer >= 3) || msie4 || browserName=="Konqueror" || browserName=="Opera") {version = "n3";} else {version = "n2";}
+			// Blurring links:
+		function blurLink(theObject)	{	//
+			if (msie4)	{theObject.blur();}
+		}
+		
+			// decrypt helper function
+		function decryptCharcode(n,start,end,offset)	{
+			n = n + offset;
+			if (offset > 0 && n > end)	{
+				n = start + (n - end - 1);
+			} else if (offset < 0 && n < start)	{
+				n = end - (start - n - 1);
+			}
+			return String.fromCharCode(n);
+		}
+			// decrypt string
+		function decryptString(enc,offset)	{
+			var dec = "";
+			var len = enc.length;
+			for(var i=0; i < len; i++)	{
+				var n = enc.charCodeAt(i);
+				if (n >= 0x2B && n <= 0x3A)	{
+					dec += decryptCharcode(n,0x2B,0x3A,offset);	// 0-9 . , - + / :
+				} else if (n >= 0x40 && n <= 0x5A)	{
+					dec += decryptCharcode(n,0x40,0x5A,offset);	// A-Z @
+				} else if (n >= 0x61 && n <= 0x7A)	{
+					dec += decryptCharcode(n,0x61,0x7A,offset);	// a-z
+				} else {
+					dec += enc.charAt(i);
+				}
+			}
+			return dec;
+		}
+			// decrypt spam-protected emails
+		function linkTo_UnCryptMailto(s)	{
+			location.href = decryptString(s,-2);
+		}
+		
+
+/*TS_inlineJS*/
+
+
+            jQuery(document).ready(function() {
+
+            jQuery(".fancybox").fancybox({
+            "padding": 10,
+            "margin": 20,
+            "opacity": false,
+            "modal": false,
+            "cyclic": false,
+            "scrolling": "auto",
+            "autoScale": true,
+            "autoDimensions": true,
+            "centerOnScroll": true,
+            "hideOnOverlayClick": true,
+            "hideOnContentClick": true,
+            "overlayShow": true,
+            "overlayOpacity": 0.3,
+            "overlayColor": "#666",
+            "titleShow": true,
+            "titlePosition": "over",
+            "titleFormat": null,
+            "transitionIn": "fade",
+            "transitionOut": "fade",
+            "speedIn": 300,
+            "speedOut": 300,
+            "changeSpeed": 300,
+            "changeFade": "fast",
+            "easingIn": "swing",
+            "easingOut": "swing",
+            "showCloseButton": true,
+            "showNavArrows": true,
+            "enableEscapeButton": true,
+            "titleFormat":                 function(title, currentArray, currentIndex, currentOpts) {                    if(title.length > 0 || currentArray.length > 1) {                        var preCaption = '';                        if(currentArray.length > 1) {                            preCaption = 'Image ' + (currentIndex + 1) + ' of ' + currentArray.length + (title.length ? ' : &nbsp; ' : '');                        }                        return '<span id="fancybox-title-over">' + preCaption + title + '</span>';                    }                    return false;                }
+            });
+
+            });
+
+
+// -->
+/*]]>*/
+</script>
+
+<title>EGMUS -&nbsp;Home</title>
+
+<script type="text/javascript" src="fileadmin/egmus_tmpl/script.js"></script><link href="http://fonts.googleapis.com/css?family=Bree+Serif" rel="stylesheet" type="text/css"><link rel="stylesheet" type="text/css" href="fileadmin/egmus_tmpl/css/basis_2017.css" media="all"><link rel="stylesheet" type="text/css" href="fileadmin/egmus_tmpl/css/druck.css" media="all"><script type="text/javascript" src="fileadmin/egmus_tmpl/js/js_init.js"></script>
+
+
+</head>
+<body>
+
+
+<a id="top"></a>
+<div id="allwrap"><!--###allwrap### begin -->
+  <!-- WRAPHead //-->
+  <div id="header-wrap"><!--###header-wrap### begin -->
+    <div class="logo"><!--###logo### begin --><a href="http://www.egmus.eu/"><img src="fileadmin/egmus_tmpl/templ/../pics/egmus.gif" alt="egmus" /></a><!--###logo### end --></div>
+    <div id="header-navi-wrap"><ul class="header-navi-top"><li class="header-navi-zoom"><a href="en/z/1/" target="_self" ><img src="fileadmin/egmus_tmpl/pics/a.gif" alt="a" /></a></li><li class="header-navi-zoom"><a href="en/z/2/" target="_self" ><img src="fileadmin/egmus_tmpl/pics/aa.gif" alt="a" /></a></li></ul><ul class="header-navi"><li><a href="en/" target="_self"  >Home</a></li><li class="spacer">&nbsp;</li><li><a href="en/submenu/contact/" target="_self"  >Contact</a></li><li class="spacer">&nbsp;</li><li><a href="en/submenu/imprint/" target="_self"  >Imprint</a></li><li class="spacer">&nbsp;</li><li><a href="en/submenu/sitemap/" target="_self"  >Sitemap</a></li></ul><div class="clear"></div><form action="index.php?id=43" method="post" id="suche">
+   <label for="tx_indexedsearch[sword]">Search</label>
+   <input type="hidden" name="L" value="0" />
+   <input type="hidden" name="zoom" value="0" />
+   <input name="tx_indexedsearch[sword]" value="" id="sword" type="text" />
+   <input type="submit" title="Go" value="Go" class="suchbutton" />
+</form>     <div class="toggle-nav">
+      <span class="toggle-nav-line"></span>
+      <span class="toggle-nav-line"></span>
+      <span class="toggle-nav-line"></span>
+    </div><div class="socianbookmarkwrap">
+<a href="https://www.facebook.com" target="_blank" title="facebook" class="sb-facebook">&nbsp;</a>
+<a href="https://twitter.com/" target="_blank" title="twitter" class="sb-twitter">&nbsp;</a>
+<a href="https://delicious.com/" target="_blank" title="del.icio.us" class="sb-delicious">&nbsp;</a>
+</div><div class="clear"></div></div>
+    <div class="clear"><!--###clear### begin --><!-- --><!--###clear### end --></div>
+  <!--###header-wrap### end --></div>
+  <!-- WRAPHead End //-->
+
+  <!-- WRAPBody //-->
+  <div id="content-wrap"><!--###content-wrap### begin -->
+    <!--TYPO3SEARCH_begin-->
+    <div id="content-main"><div id="breadcrump"><span class="current"><a href="en/" target="_self"  >Home</a></span><div class="clear"></div></div><div class="contentwrap-small"><div class="content-element"><div id="c239" class="csc-default" ><h2>EGMUS - The European Group on Museum Statistics</h2><p class="bodytext">The EGMUS group was established in 2002. At present 30 European countries, from within and outside the European Union, are represented in this group. The main objective of EGMUS&nbsp;is collection and publication of comparable statistical data. Available data from national museum statistics and surveys are compiled and updated and stored in the Abridged List of Key Museum Indicators (ALOKMI) table. The ALOKMI&nbsp;is the first step towards the harmonisation of museum statistics in Europe. See <a href="en/statistics/" title="Opens internal link in current window" target="_top" class="internal-link" >Statistics</a> on this website.</p>
+<p class="bodytext">Although some partial comparisons between the participating countries are already possible from the ALOKMI figures,&nbsp;more comparability will be achieved if national museum statistics apply&nbsp;common questions. See <a href="en/questionnaire/" title="Opens internal link in current window" target="_top" class="internal-link" >Standard Questionnaire</a> on this website.</p>
+<h3>Mission Statement</h3>
+<p class="bodytext">Collect and compile available statistical data on museums in Europe and promote the harmonisation of museum statistics.</p>
+<p class="bodytext">&nbsp;</p></div><div class="clear"></div></div><div class="clear"></div></div><div class="content-rand"><div class="content-element"><div id="c235" class="csc-default" ><h3>Enlarged EGMUS Conference was in November 2017</h3><p class="bodytext">The last EGMUS Plenary meeting took place in Berlin / Germany on 16th &amp; 17th November 2017.</p></div><div class="clear"></div></div><div class="content-element"><div id="c672" class="csc-default" ><h3>Standard Questionnaire</h3><p class="bodytext"><b>You are invited to use all the questions or choose those which are appropriate for your national survey</b></p>
+<p class="bodytext"><a href="fileadmin/statistics/Dokumente/Common_Questionnaire_2013/PhR_Standard_Questionnaire_2013_en.doc" title="Download" target="_blank" class="download" >Questionnaire in English <br />&nbsp; &nbsp; (DOC, 424 KB)</a></p>
+<p class="bodytext">This Standard Questionnaire was updated by the EGMUS group in November 2013.</p></div><div class="clear"></div></div><div class="content-element"><div id="c663" class="csc-default" ><h3>Did you know?</h3><div class="tx-egmusteaser-pi1">
+		<h4>Five most visited museums in 
+Switzerland
+ in 
+2013
+ (total entries)</h4>
+<div class="zahl">1.931.702</div>
+<a href="nc/en/statistics/5_most_visited_museums/show_most_visited/?yearCountry%5B%5D=27_2013" class="most-link">see complete data table</a>
+<div class="clear"></div>
+	</div>
+	</div><div class="clear"></div></div><div class="clear"></div></div></div>
+    <!--TYPO3SEARCH_end-->
+
+    <div id="content-navi"><ul><li><a href="en/about_egmus/" target="_self" onfocus="blurLink(this);"  >About EGMUS</a></li><li><a href="en/questionnaire/" target="_self" onfocus="blurLink(this);"  >Questionnaire</a></li><li><a href="en/statistics/" target="_self" onfocus="blurLink(this);"  >Statistics</a></li><li><a href="en/activities/" target="_self" onfocus="blurLink(this);"  >Activities</a></li><li><a href="en/countries/national_reports_publications/" target="_self" onfocus="blurLink(this);"  >Countries</a></li><li><a href="en/publications/national/austria/" target="_self" onfocus="blurLink(this);"  >Publications</a></li><li><a href="en/audience_research/" target="_self" onfocus="blurLink(this);"  >Audience Research</a></li><li><a href="en/cultural_policies/" target="_self" onfocus="blurLink(this);"  >Cultural Policies</a></li><li><a href="en/links/" target="_self" onfocus="blurLink(this);"  >Links</a></li></ul><div class="clear"></div><div class="login"><a href="en/login/" target="_self" >Login</a></div><div class="clear"></div></div>
+
+    <div class="clear"><!--###clear### begin --><!-- --><!--###clear### end --></div>
+  <!--###content-wrap### end --></div>
+  <!-- WRAPBody End //-->
+
+  <!-- WRAPFooter //-->
+  <div id="footer-wrap"><!--###footer-wrap### begin -->
+    <div id="footer-left"><!--###footer-left### begin -->
+      <a href="http://creativecommons.org/licenses/by-nc-sa/3.0/" title="creativecommons.org" target="_blank">
+        <img src="fileadmin/egmus_tmpl/templ/../pics/somerights20.png" alt="" />
+      </a>
+      <div class="clear"><!--###clear### begin --><!-- --><!--###clear### end --></div>
+    <!--###footer-left### end --></div>
+    <div id="footer-right"><div class="content-element"><div id="c952" class="csc-default" ><h4>Coordinated by</h4>
+<div class="csc-textpic csc-textpic-intext-right">
+<a href="http://mdc.hr/hr" target="_blank" title="EGMUS Core Group Members: http://www.mdc.hr">
+<img src="fileadmin/egmus_tmpl/pics/MDC_LOGO.JPG" alt="" title="" height="45">
+</a>
+<a href="http://www.rijksoverheid.nl/ministeries/ocw/" target="_blank" title="EGMUS Core Group Members: www.rijksoverheid.nl">
+<img src="fileadmin/egmus_tmpl/pics/rijksoverheid.gif" alt="" title="" width="171" height="45">
+</a>
+<a href="http://www.culturecommunication.gouv.fr/" target="_blank" title="EGMUS Core Group Members: www.culturecommunication">
+<img src="fileadmin/egmus_tmpl/pics/culturecommunication.gif" alt="" title="" width="175" height="45">
+</a>
+<a href="http://www.smb.museum/en/museums-and-institutions/institut-fuer-museumsforschung" target="_blank" title="EGMUS Core Group Members: www.smb.museum">
+<img src="fileadmin/egmus_tmpl/pics/institut_f_museumsforschung.gif" alt="" title="" width="175" height="45">
+</a>
+</div></div><div class="clear"></div></div></div>
+    <div class="clear"><!--###clear### begin --><!-- --><!--###clear### end --></div>
+  <!--###footer-wrap### end --></div>
+  <!-- WRAPFooter End //-->
+  <div class="clear"><!--###clear### begin --><!-- --><!--###clear### end --></div>
+<!--###allwrap### end --></div>
+
+<!-- Piwik -->
+<script type="text/javascript">
+  var pkBaseURL = (("https:" == document.location.protocol) ? "https://www.egmus.eu/stats/" : "http://www.egmus.eu/stats/");
+  document.write(unescape("%3Cscript src='" + pkBaseURL + "piwik.js' type='text/javascript'%3E%3C/script%3E"));
+</script><script type="text/javascript">
+  try {
+    var piwikTracker = Piwik.getTracker(pkBaseURL + "piwik.php", 1);
+    piwikTracker.trackPageView();
+    piwikTracker.enableLinkTracking();
+  } catch( err ) {}
+</script>
+<noscript>
+  <p><img src="http://www.egmus.eu/stats/piwik.php?idsite=1" style="border:0" alt="" /></p>
+</noscript>
+
+
+
+
+</body>
+</html>
+

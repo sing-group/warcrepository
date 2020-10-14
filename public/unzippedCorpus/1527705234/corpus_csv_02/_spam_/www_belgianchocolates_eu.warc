@@ -1,0 +1,887 @@
+WARC/1.0
+WARC-Type: warcinfo
+WARC-Date: 2018-05-30T17:52:31Z
+WARC-All-Language: en
+WARC-All-Content_type: text/html;charset=utf-8
+WARC-Record-ID: <urn:uuid:301345d8-2657-43ed-a4bd-e93f8356dc47>
+Content-Type: application/http;msgtype=response
+Content-Length: 46
+
+WARCProcessor by SING Group www.sing-group.com
+
+WARC/1.0
+WARC-Type: response
+WARC-Target-URI: http://www.belgianchocolates.eu
+WARC-Date: 20180530175231
+WARC-Language: en
+WARC-Record-ID: <http://www.belgianchocolates.eu>
+Content-Type: application/http;msgtype=response
+Content-Length: 52431
+
+HTTP/1.1 200
+Content-Type:text/html;charset=utf-8
+
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8"/>
+<!-- [START] 'blocks/head.rain' -->
+<!--
+
+  (c) 2008-2018 Lightspeed Netherlands B.V.
+  http://www.lightspeedhq.com
+  Generated: 30-05-2018 @ 19:48:35
+
+-->
+<link rel="canonical" href="http://www.belgianchocolates.eu/"/>
+<link rel="alternate" href="http://www.belgianchocolates.eu/index.rss" type="application/rss+xml" title="New products"/>
+<meta name="robots" content="noodp,noydir"/>
+<meta property="og:url" content="http://www.belgianchocolates.eu/?source=facebook"/>
+<meta property="og:site_name" content="P&amp;J Belgian Chocolates"/>
+<meta property="og:title" content="Belgian Chocolates by P&amp;J | Buy delicious chocolate products online. Belgian Chocolates sells delicious hand made Belgian Chocolates online. Order now and enjoy your favourite Belgian chocolate products delivered at home."/>
+<meta property="og:description" content="Belgian Chocolates by P&amp;J is a company that sells hand made Belgian Chocolate products and sweets online. Order now and have your delicious Belgian Chocolates d"/>
+<!--[if lt IE 9]>
+<script src="http://cdn.webshopapp.com/assets/html5shiv.js?2018-01-09"></script>
+<![endif]-->
+<!-- [END] 'blocks/head.rain' -->
+    <title>Belgian Chocolates by P&amp;J | Buy delicious chocolate products online. Belgian Chocolates sells delicious hand made Belgian Chocolates online. Order now and enjoy your favourite Belgian chocolate products delivered at home. - P&amp;J Belgian Chocolates</title>
+    <meta name="description" content="Belgian Chocolates by P&amp;J is a company that sells hand made Belgian Chocolate products and sweets online. Order now and have your delicious Belgian Chocolates d" />
+    <meta name="keywords" content="Belgian Chocolates , Belgian Chocolate, Chocolates Online , Pralines, Truffles , Sea Shells , Seashells , Chocolate Bars , Chocolate Tablets , Easter Chocolates , Christmas Chocolates , Flanders Field , Belgium, Cupcakes, Chocolate cupcakes, Chocolat" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black">
+
+    <link rel="shortcut icon" href="http://assets.webshopapp.com/p-j-belgian-chocolates/favicon.ico?19700101010000" type="image/x-icon" />
+    <link href='//fonts.googleapis.com/css?family=Oxygen:400,300,600' rel='stylesheet' type='text/css'>
+    <link href='//fonts.googleapis.com/css?family=Oxygen:400,300,600' rel='stylesheet' type='text/css'>
+    <link href='//fonts.googleapis.com/css?family=Dancing+Script:700' rel='stylesheet' type='text/css'>
+    <link href='//fonts.googleapis.com/css?family=Leckerli+One' rel='stylesheet' type='text/css'>
+    <link rel="shortcut icon" href="http://assets.webshopapp.com/p-j-belgian-chocolates/favicon.ico?19700101010000" type="image/x-icon" />
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+    <link rel="stylesheet" href="http://assets.webshopapp.com/p-j-belgian-chocolates/style.css?19700101010000" />
+    <link rel="stylesheet" href="http://assets.webshopapp.com/p-j-belgian-chocolates/settings.css?19700101010000" />
+    <link rel="stylesheet" href="http://cdn.webshopapp.com/assets/gui-2-0.css?2018-01-09" />
+    <link rel="stylesheet" href="http://cdn.webshopapp.com/assets/gui-responsive-2-0.css?2018-01-09" />
+    <link rel="stylesheet" href="http://assets.webshopapp.com/p-j-belgian-chocolates/custom.css?19700101010000" />
+    <link rel="stylesheet" href="http://assets.webshopapp.com/p-j-belgian-chocolates/pjstyle.css?19700101010000" />
+
+        <link rel="stylesheet" href="http://assets.webshopapp.com/p-j-belgian-chocolates/owlcarousel.css?19700101010000" />
+    <link rel="stylesheet" href="http://assets.webshopapp.com/p-j-belgian-chocolates/owltransitions.css?19700101010000" />
+    <link rel="stylesheet" href="http://assets.webshopapp.com/p-j-belgian-chocolates/owltheme.css?19700101010000" />
+        
+    <script src="https://code.jquery.com/jquery-1.12.4.min.js"></script>
+    <script type="text/javascript" src="http://assets.webshopapp.com/p-j-belgian-chocolates/global.js?19700101010000"></script>
+    <script type="text/javascript" src="http://cdn.webshopapp.com/assets/gui.js?2018-01-09"></script>
+    <script type="text/javascript" src="http://cdn.webshopapp.com/assets/gui-responsive-2-0.js?2018-01-09"></script>
+
+    <!--[if lt IE 9]>
+    <link rel="stylesheet" href="http://assets.webshopapp.com/p-j-belgian-chocolates/style-ie.css?19700101010000" />
+    <![endif]-->
+  
+  <!-- Facebook Pixel Code -->
+  <script>
+  !function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+  n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;
+  n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;
+  t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,
+  document,'script','https://connect.facebook.net/en_US/fbevents.js');
+  fbq('init', '1147497268631562');
+  fbq('track', 'PageView');
+  </script>
+  <noscript><img height="1" width="1" style="display:none"
+  src="https://www.facebook.com/tr?id=1147497268631562&ev=PageView&noscript=1"
+  /></noscript>
+  <!-- DO NOT MODIFY -->
+  <!-- End Facebook Pixel Code -->
+</head>
+
+<body>
+    <header>
+        <div class="topnav navbar-static-top">
+            <div class="container">
+                                <div class="left">
+                                         <div class="currencies">
+                                                <a href="http://www.belgianchocolates.eu/session/currency/eur/" class="active"  title="eur">
+                € EUR
+              </a>  /                          <a href="http://www.belgianchocolates.eu/session/currency/gbp/"  title="gbp">
+                £ GBP
+              </a>                      </div>
+                                    </div>
+                                <div class="right">
+                    <a href="http://www.belgianchocolates.eu/cart/" title="Cart" class="cart">
+                        <span class="glyphicon glyphicon-shopping-cart topnav-glyph"></span> 0 Items - €0,00
+                    </a>
+                </div>
+            </div>
+        </div>
+        <div class="navigation container navStart">
+
+            <!-- Logo + Search -->
+            <div class="row">
+                <div class="col-xs-12 hidden-md">
+                    <button type="button" class="navbar-toggle collapsed navButton" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+        <span class="glyphicon glyphicon-align-justify"></span>
+                        <span>MENU</span>
+                    </button>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-xs-12 col-md-3">
+                    <a href="http://www.belgianchocolates.eu/" title="Belgian Chocolates by P&amp;J | Buy delicious chocolate products online. Belgian Chocolates sells delicious hand made Belgian Chocolates online. Order now and enjoy your favourite Belgian chocolate products delivered at home.">
+                        <img src="http://assets.webshopapp.com/p-j-belgian-chocolates/logo.jpg?19700101010000" alt="Belgian Chocolates by P&amp;J | Buy delicious chocolate products online. Belgian Chocolates sells delicious hand made Belgian Chocolates online. Order now and enjoy your favourite Belgian chocolate products delivered at home." style="height:150px;margin-left:auto;margin-right:auto;" />
+                    </a>
+                </div>
+                <div class="col-md-5 hidden-xs hidden-sm">
+                    <div class="row">
+                        <div class="col-md-12">
+                    <div class="hidden-xs">
+                        <form action="http://www.belgianchocolates.eu/search/" method="get" id="formSearch">
+                            <div class="input-group">
+                                <input type="search" class="form-control" id="exampleInputAmount" placeholder="SEARCH..." name="q" value="">
+                                <div class="input-group-btn">
+                                  <button class="btn btn-default searchbtn " type="submit"><i class="glyphicon glyphicon-search"></i></button>
+                              </div>
+                            </div>
+                        </form>
+                        </div>
+                        </div>
+                        <div class="row">
+                        <div class="col-md-12 searchtext">
+                          Belgian Chocolates - Your gift for every reason
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-4 hidden-xs hidden-sm">
+                    <div class="row" style="margin-top:20px;">
+                        <div class="col-md-5">
+
+                        </div>
+                        <div class="col-md-7 topHelp">
+                            <h6>NEED HELP?</h6>
+                            <span class="glyphicon glyphicon-envelope"></span>
+                            <a href="mailto:info@belgianchocolates.eu" title="Email">info@belgianchocolates.eu</a>
+                        </div>
+                    </div>
+
+                    <div class="row" style="margin-top:20px;">
+                        <div clas="col-md-12">
+                            <a href="https://twitter.com/pjchocolates" class="pjtwitter" target="_blank"></a>
+                            <a href="https://www.facebook.com/BelgianChocolates.eu" class="pjfacebook" target="_blank"></a>
+                            <a href="http://www.p-j.be" class="pjhome" target="_blank"></a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </header>
+
+    <!-- Menu -->
+        <div class="menu" role="navigation">
+        <div class="container">
+            <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+                <ul class="nav navbar-nav">
+                    <li class="item home ">
+                        <a class="itemLink" href="http://www.belgianchocolates.eu/">Home</a>
+                    </li>
+                                        <li class="dropdown">
+                        <a class="dropdown-toggle disabled" data-toggle="dropdown" role="button" aria-expanded="false" href="http://www.belgianchocolates.eu/easter-chocolates/" title="Easter Chocolates">Easter Chocolates</a>                     </li>
+                                        <li class="dropdown">
+                        <a class="dropdown-toggle disabled" data-toggle="dropdown" role="button" aria-expanded="false" href="http://www.belgianchocolates.eu/gifts/" title="Gifts">Gifts<span class="caret"></span></a> 
+                        <ul class="dropdown-menu" role="menu">
+                                                        <li class="subitem"><a class="subitemLink" href="http://www.belgianchocolates.eu/gifts/gifts-for-her/" title="Gifts for Her">Gifts for Her</a>                             </li>
+                                                        <li class="subitem"><a class="subitemLink" href="http://www.belgianchocolates.eu/gifts/gifts-for-him/" title="Gifts for Him">Gifts for Him</a>                             </li>
+                                                        <li class="subitem"><a class="subitemLink" href="http://www.belgianchocolates.eu/gifts/gifts-for-kids/" title="Gifts for Kids">Gifts for Kids</a>                             </li>
+                                                        <li class="subitem"><a class="subitemLink" href="http://www.belgianchocolates.eu/gifts/chocolate-sweet-gifts/" title="Chocolate &amp; Sweet Gifts">Chocolate &amp; Sweet Gifts</a>                             </li>
+                                                        <li class="subitem"><a class="subitemLink" href="http://www.belgianchocolates.eu/gifts/gifts/" title="Gifts">Gifts</a>                             </li>
+                                                    </ul>
+                                            </li>
+                                        <li class="dropdown">
+                        <a class="dropdown-toggle disabled" data-toggle="dropdown" role="button" aria-expanded="false" href="http://www.belgianchocolates.eu/pralines/" title="Pralines">Pralines<span class="caret"></span></a> 
+                        <ul class="dropdown-menu" role="menu">
+                                                        <li class="subitem"><a class="subitemLink" href="http://www.belgianchocolates.eu/pralines/pralines/" title="Pralines">Pralines</a>                             </li>
+                                                        <li class="subitem"><a class="subitemLink" href="http://www.belgianchocolates.eu/pralines/gift-sets/" title="Gift Sets">Gift Sets</a>                             </li>
+                                                    </ul>
+                                            </li>
+                                        <li class="dropdown">
+                        <a class="dropdown-toggle disabled" data-toggle="dropdown" role="button" aria-expanded="false" href="http://www.belgianchocolates.eu/sea-shells/" title="Sea Shells">Sea Shells</a>                     </li>
+                                        <li class="dropdown">
+                        <a class="dropdown-toggle disabled" data-toggle="dropdown" role="button" aria-expanded="false" href="http://www.belgianchocolates.eu/truffles/" title="Truffles">Truffles</a>                     </li>
+                                        <li class="dropdown">
+                        <a class="dropdown-toggle disabled" data-toggle="dropdown" role="button" aria-expanded="false" href="http://www.belgianchocolates.eu/chocolates/" title="Chocolates">Chocolates<span class="caret"></span></a> 
+                        <ul class="dropdown-menu" role="menu">
+                                                        <li class="subitem"><a class="subitemLink" href="http://www.belgianchocolates.eu/chocolates/bars-tablets/" title="Bars &amp; Tablets">Bars &amp; Tablets</a>                             </li>
+                                                        <li class="subitem"><a class="subitemLink" href="http://www.belgianchocolates.eu/chocolates/fruit-nuts/" title="Fruit &amp; Nuts">Fruit &amp; Nuts</a>                             </li>
+                                                        <li class="subitem"><a class="subitemLink" href="http://www.belgianchocolates.eu/chocolates/chocolate-treats/" title="Chocolate Treats">Chocolate Treats</a>                             </li>
+                                                        <li class="subitem"><a class="subitemLink" href="http://www.belgianchocolates.eu/chocolates/figurines/" title="Figurines">Figurines</a>                             </li>
+                                                        <li class="subitem"><a class="subitemLink" href="http://www.belgianchocolates.eu/chocolates/flanders-field/" title="Flanders Field">Flanders Field</a>                             </li>
+                                                        <li class="subitem"><a class="subitemLink" href="http://www.belgianchocolates.eu/chocolates/liqueurs/" title="Liqueurs">Liqueurs</a>                             </li>
+                                                    </ul>
+                                            </li>
+                                        <li class="dropdown">
+                        <a class="dropdown-toggle disabled" data-toggle="dropdown" role="button" aria-expanded="false" href="http://www.belgianchocolates.eu/sweets/" title="Sweets">Sweets</a>                     </li>
+                                        <li class="dropdown">
+                        <a class="dropdown-toggle disabled" data-toggle="dropdown" role="button" aria-expanded="false" href="http://www.belgianchocolates.eu/sugar-free/" title="Sugar Free">Sugar Free</a>                     </li>
+                                      </ul>
+            </div>
+        </div>
+    </div>
+
+<div class="usp">
+        <div class="uspbar">
+            <div class="container">
+                <ul>
+                    <li class="col-xs-8 col-sm-4 col-md-4 hidden-xs">
+                        <span class="glyphicon glyphicon-leaf"></span> Homemade and fresh</li>
+                  
+                  <li class="col-xs-8 col-sm-4 col-md-4 hidden-xs">
+                        <span class="glyphicon glyphicon-gift"></span> Free gift with every order</li>
+
+                    <li class="col-xs-12 col-sm-4 col-md-4">
+                        <span class="glyphicon glyphicon-tag"></span> Free shipping over €50</li>
+                </ul>
+            </div>
+        </div>
+    </div>
+
+    <div class="wrapper">
+        <div class="container content">
+             <div class="owl-carousel owl-theme hidden-xs hidden-sm" id="sliderIndex">
+    <div class="item"><img src="http://assets.webshopapp.com/p-j-belgian-chocolates/slider01.jpg?19700101010000" alt="2">
+    </div>
+  <div class="item"><img src="http://assets.webshopapp.com/p-j-belgian-chocolates/slider02.jpg?19700101010000" alt="3">
+    </div>
+    <div class="item"><img src="http://assets.webshopapp.com/p-j-belgian-chocolates/slider03.jpg?19700101010000" alt="3">
+    </div>
+<div class="item"><img src="http://assets.webshopapp.com/p-j-belgian-chocolates/slider04.jpg?19700101010000" alt="3">
+    </div>
+</div>
+
+   <div class="categories row hidden-xs">
+        <div class="col-md-12">
+         <div class="category col-sm-4 col-md-4">
+  <a href="http://www.belgianchocolates.eu/gifts/">
+                <img src="http://static.webshopapp.com/shops/064451/files/174657647/380x275x1/gifts.jpg" width="380" height="275" alt="Gifts" title="Gifts" />
+              <div>
+      <span class="title">
+        Gifts
+      </span>
+            <span class="amount">
+        <span class="glyphicon glyphicon-tag"></span> 94
+      </span>
+          </div>
+  </a>
+</div>  <div class="category col-sm-4 col-md-4">
+  <a href="http://www.belgianchocolates.eu/chocolates/chocolate-treats/">
+                <img src="http://static.webshopapp.com/shops/064451/files/111784700/380x275x1/chocolate-treats.jpg" width="380" height="275" alt="Chocolate Treats" title="Chocolate Treats" />
+              <div>
+      <span class="title">
+        Chocolate Treats
+      </span>
+            <span class="amount">
+        <span class="glyphicon glyphicon-tag"></span> 59
+      </span>
+          </div>
+  </a>
+</div>  <div class="category col-sm-4 col-md-4">
+  <a href="http://www.belgianchocolates.eu/sea-shells/">
+                <img src="http://static.webshopapp.com/shops/064451/files/178219796/380x275x1/sea-shells.jpg" width="380" height="275" alt="Sea Shells" title="Sea Shells" />
+              <div>
+      <span class="title">
+        Sea Shells
+      </span>
+            <span class="amount">
+        <span class="glyphicon glyphicon-tag"></span> 9
+      </span>
+          </div>
+  </a>
+</div>     </div>
+</div>
+ 
+<div class="products row">
+      <div class="product col-xs-6 col-sm-3 col-md-3">
+  <div class="image-wrap">
+    <a href="http://www.belgianchocolates.eu/box-of-sea-shells-girl-125gr.html" title="Box of Sea Shells &quot;Girl&quot; (125gr)">
+                                                                                                                                                                               
+                            <img src="http://static.webshopapp.com/shops/064451/files/092954231/262x276x1/box-of-sea-shells-girl-125gr.jpg" width="262" height="276" alt="Box of Sea Shells &quot;Girl&quot; (125gr)" title="Box of Sea Shells &quot;Girl&quot; (125gr)" />
+                  </a>
+    
+    <div class="description text-center">
+      <a href="http://www.belgianchocolates.eu/box-of-sea-shells-girl-125gr.html" title="Box of Sea Shells &quot;Girl&quot; (125gr)">
+                <div class="text">
+                    This gift box contains 125 grams of milk and white chocolate sea shells, with soft praline filling inside.
+                  </div>
+      </a>
+      <a href="http://www.belgianchocolates.eu/cart/add/73667057/" class="cart">Add to cart</a>
+    </div>
+  </div>
+  
+  <div class="info">
+    <a href="http://www.belgianchocolates.eu/box-of-sea-shells-girl-125gr.html" title="Box of Sea Shells &quot;Girl&quot; (125gr)" class="title">
+      Box of Sea Shells &quot;Girl&quot; (125gr)
+    </a>
+    
+      
+      €2,20 
+     
+  
+      </div>
+</div>
+  <div class="product col-xs-6 col-sm-3 col-md-3">
+  <div class="image-wrap">
+    <a href="http://www.belgianchocolates.eu/gift-box-truffle-assortment-9-pieces.html" title="Gift Box Truffle Assortment (9 pieces)">
+                                                                                                                                                                               
+                            <img src="http://static.webshopapp.com/shops/064451/files/062658730/262x276x1/gift-box-truffle-assortment-9-pieces.jpg" width="262" height="276" alt="Gift Box Truffle Assortment (9 pieces)" title="Gift Box Truffle Assortment (9 pieces)" />
+                  </a>
+    
+    <div class="description text-center">
+      <a href="http://www.belgianchocolates.eu/gift-box-truffle-assortment-9-pieces.html" title="Gift Box Truffle Assortment (9 pieces)">
+                <div class="text">
+                    This gift box contains 9 pieces of P&amp;J home made truffles with three different fillings: milk butter truffle, white butter truffle and white Irish Whisky.
+                  </div>
+      </a>
+      <a href="http://www.belgianchocolates.eu/cart/add/49285392/" class="cart">Add to cart</a>
+    </div>
+  </div>
+  
+  <div class="info">
+    <a href="http://www.belgianchocolates.eu/gift-box-truffle-assortment-9-pieces.html" title="Gift Box Truffle Assortment (9 pieces)" class="title">
+      Gift Box Truffle Assortment (9 pieces)
+    </a>
+    
+      
+      €4,95 
+     
+  
+      </div>
+</div>
+<div class="clearfix visible-xs"></div>
+  <div class="product col-xs-6 col-sm-3 col-md-3">
+  <div class="image-wrap">
+    <a href="http://www.belgianchocolates.eu/bag-of-caramel-sea-salt-truffles-200gr.html" title="Bag of Caramel &amp; Sea Salt Truffles (200gr)">
+                                                                                                                                                                               
+                            <img src="http://static.webshopapp.com/shops/064451/files/062658598/262x276x1/bag-of-caramel-sea-salt-truffles-200gr.jpg" width="262" height="276" alt="Bag of Caramel &amp; Sea Salt Truffles (200gr)" title="Bag of Caramel &amp; Sea Salt Truffles (200gr)" />
+                  </a>
+    
+    <div class="description text-center">
+      <a href="http://www.belgianchocolates.eu/bag-of-caramel-sea-salt-truffles-200gr.html" title="Bag of Caramel &amp; Sea Salt Truffles (200gr)">
+                <div class="text">
+                    This bag contains 200 grams of home made truffles with caramel &amp; sea salt filling, covered in delicious P&amp;J milk chocolate.
+                  </div>
+      </a>
+      <a href="http://www.belgianchocolates.eu/cart/add/49285118/" class="cart">Add to cart</a>
+    </div>
+  </div>
+  
+  <div class="info">
+    <a href="http://www.belgianchocolates.eu/bag-of-caramel-sea-salt-truffles-200gr.html" title="Bag of Caramel &amp; Sea Salt Truffles (200gr)" class="title">
+      Bag of Caramel &amp; Sea Salt Truffles (200gr)
+    </a>
+    
+      
+      €4,18 
+     
+  
+      </div>
+</div>
+  <div class="product col-xs-6 col-sm-3 col-md-3">
+  <div class="image-wrap">
+    <a href="http://www.belgianchocolates.eu/florentines-200gr.html" title="Florentines (200gr)">
+                                                                                                                                                                               
+                            <img src="http://static.webshopapp.com/shops/064451/files/023356007/262x276x1/florentines-200gr.jpg" width="262" height="276" alt="Florentines (200gr)" title="Florentines (200gr)" />
+                  </a>
+    
+    <div class="description text-center">
+      <a href="http://www.belgianchocolates.eu/florentines-200gr.html" title="Florentines (200gr)">
+                <div class="text">
+                    This bag contains 200 grams of florentines in milk, white and dark chocolate.
+                  </div>
+      </a>
+      <a href="http://www.belgianchocolates.eu/cart/add/20334553/" class="cart">Add to cart</a>
+    </div>
+  </div>
+  
+  <div class="info">
+    <a href="http://www.belgianchocolates.eu/florentines-200gr.html" title="Florentines (200gr)" class="title">
+      Florentines (200gr)
+    </a>
+    
+      
+      €5,50 
+     
+  
+      </div>
+</div>
+<div class="clearfix"></div>
+  <div class="product col-xs-6 col-sm-3 col-md-3">
+  <div class="image-wrap">
+    <a href="http://www.belgianchocolates.eu/box-of-marzipan-chocolates.html" title="Box of Marzipan Chocolates">
+                                                                                                                                                                               
+                            <img src="http://static.webshopapp.com/shops/064451/files/092982161/262x276x1/box-of-marzipan-chocolates.jpg" width="262" height="276" alt="Box of Marzipan Chocolates" title="Box of Marzipan Chocolates" />
+                  </a>
+    
+    <div class="description text-center">
+      <a href="http://www.belgianchocolates.eu/box-of-marzipan-chocolates.html" title="Box of Marzipan Chocolates">
+                <div class="text">
+                    P&amp;J&#039;s delicious milk, white and dark chocolate pralines with soft marzipan filling inside, all wrapped up in a nice gift box. <br />
+The ultimate gift for your loved ones or just as a treat to yourself.
+                  </div>
+      </a>
+      <a href="http://www.belgianchocolates.eu/cart/add/73688843/" class="cart">Add to cart</a>
+    </div>
+  </div>
+  
+  <div class="info">
+    <a href="http://www.belgianchocolates.eu/box-of-marzipan-chocolates.html" title="Box of Marzipan Chocolates" class="title">
+      Box of Marzipan Chocolates
+    </a>
+    
+      
+      €4,95 
+     
+  
+      </div>
+</div>
+  <div class="product col-xs-6 col-sm-3 col-md-3">
+  <div class="image-wrap">
+    <a href="http://www.belgianchocolates.eu/chocolate-cupcakes.html" title="Chocolate Cupcakes">
+                                                                                                                                                                               
+                            <img src="http://static.webshopapp.com/shops/064451/files/025042717/262x276x1/chocolate-cupcakes.jpg" width="262" height="276" alt="Chocolate Cupcakes" title="Chocolate Cupcakes" />
+                  </a>
+    
+    <div class="description text-center">
+      <a href="http://www.belgianchocolates.eu/chocolate-cupcakes.html" title="Chocolate Cupcakes">
+                <div class="text">
+                    This box contains 9 chocolate cupcakes with different fillings such as chocolate praliné, strawberry ganache, salted caramel, coffee cream, lemon cheesecake, almond praliné and forest fruit ganache. <br />
+Ideal as a gift or enjoy them at home.
+                  </div>
+      </a>
+      <a href="http://www.belgianchocolates.eu/cart/add/20672007/" class="cart">Add to cart</a>
+    </div>
+  </div>
+  
+  <div class="info">
+    <a href="http://www.belgianchocolates.eu/chocolate-cupcakes.html" title="Chocolate Cupcakes" class="title">
+      Chocolate Cupcakes
+    </a>
+    
+      
+      €4,95 
+     
+  
+      </div>
+</div>
+<div class="clearfix visible-xs"></div>
+  <div class="product col-xs-6 col-sm-3 col-md-3">
+  <div class="image-wrap">
+    <a href="http://www.belgianchocolates.eu/bag-of-champagne-truffles-200gr-27529812.html" title="Bag of Champagne Truffles (200gr)">
+                                                                                                                                                                               
+                            <img src="http://static.webshopapp.com/shops/064451/files/062657258/262x276x1/bag-of-champagne-truffles-200gr.jpg" width="262" height="276" alt="Bag of Champagne Truffles (200gr)" title="Bag of Champagne Truffles (200gr)" />
+                  </a>
+    
+    <div class="description text-center">
+      <a href="http://www.belgianchocolates.eu/bag-of-champagne-truffles-200gr-27529812.html" title="Bag of Champagne Truffles (200gr)">
+                <div class="text">
+                    This bag contains 200 grams of home made Champagne truffles, covered in delicious P&amp;J white chocolate.
+                  </div>
+      </a>
+      <a href="http://www.belgianchocolates.eu/cart/add/49284286/" class="cart">Add to cart</a>
+    </div>
+  </div>
+  
+  <div class="info">
+    <a href="http://www.belgianchocolates.eu/bag-of-champagne-truffles-200gr-27529812.html" title="Bag of Champagne Truffles (200gr)" class="title">
+      Bag of Champagne Truffles (200gr)
+    </a>
+    
+      
+      €4,18 
+     
+  
+      </div>
+</div>
+  <div class="product col-xs-6 col-sm-3 col-md-3">
+  <div class="image-wrap">
+    <a href="http://www.belgianchocolates.eu/gift-box-truffle-assortment-12-pieces.html" title="Gift Box Truffle Assortment (12 pieces)">
+                                                                                                                                                                               
+                            <img src="http://static.webshopapp.com/shops/064451/files/090401126/262x276x1/gift-box-truffle-assortment-12-pieces.jpg" width="262" height="276" alt="Gift Box Truffle Assortment (12 pieces)" title="Gift Box Truffle Assortment (12 pieces)" />
+                  </a>
+    
+    <div class="description text-center">
+      <a href="http://www.belgianchocolates.eu/gift-box-truffle-assortment-12-pieces.html" title="Gift Box Truffle Assortment (12 pieces)">
+                <div class="text">
+                    This gift box contains 12 pieces of P&amp;J home made truffles with different fillings: strawberry, Bailey&#039;s, milk butter, Amaretto, orange, caramel and sea salt, lemon, rhum and Cointreau.
+                  </div>
+      </a>
+      <a href="http://www.belgianchocolates.eu/cart/add/71433185/" class="cart">Add to cart</a>
+    </div>
+  </div>
+  
+  <div class="info">
+    <a href="http://www.belgianchocolates.eu/gift-box-truffle-assortment-12-pieces.html" title="Gift Box Truffle Assortment (12 pieces)" class="title">
+      Gift Box Truffle Assortment (12 pieces)
+    </a>
+    
+      
+      €6,60 
+     
+  
+      </div>
+</div>
+<div class="clearfix"></div>
+  <div class="product col-xs-6 col-sm-3 col-md-3">
+  <div class="image-wrap">
+    <a href="http://www.belgianchocolates.eu/box-of-sea-shells-250gr.html" title="Box of Sea Shells (250gr)">
+                                                                                                                                                                               
+                            <img src="http://static.webshopapp.com/shops/064451/files/092956094/262x276x1/box-of-sea-shells-250gr.jpg" width="262" height="276" alt="Box of Sea Shells (250gr)" title="Box of Sea Shells (250gr)" />
+                  </a>
+    
+    <div class="description text-center">
+      <a href="http://www.belgianchocolates.eu/box-of-sea-shells-250gr.html" title="Box of Sea Shells (250gr)">
+                <div class="text">
+                    Spoil your senses or impress your loved ones with these delicious chocolate sea shells with hazelnut praliné filling.<br />
+<br />
+This gift box contains 250 grams of milk and white chocolate sea shells.
+                  </div>
+      </a>
+      <a href="http://www.belgianchocolates.eu/cart/add/73668980/" class="cart">Add to cart</a>
+    </div>
+  </div>
+  
+  <div class="info">
+    <a href="http://www.belgianchocolates.eu/box-of-sea-shells-250gr.html" title="Box of Sea Shells (250gr)" class="title">
+      Box of Sea Shells (250gr)
+    </a>
+    
+      
+      €3,85 
+     
+  
+      </div>
+</div>
+  <div class="product col-xs-6 col-sm-3 col-md-3">
+  <div class="image-wrap">
+    <a href="http://www.belgianchocolates.eu/bag-of-strawberry-truffles-200gr.html" title="Bag of Strawberry Truffles (200gr)">
+                                                                                                                                                                               
+                            <img src="http://static.webshopapp.com/shops/064451/files/062657614/262x276x1/bag-of-strawberry-truffles-200gr.jpg" width="262" height="276" alt="Bag of Strawberry Truffles (200gr)" title="Bag of Strawberry Truffles (200gr)" />
+                  </a>
+    
+    <div class="description text-center">
+      <a href="http://www.belgianchocolates.eu/bag-of-strawberry-truffles-200gr.html" title="Bag of Strawberry Truffles (200gr)">
+                <div class="text">
+                    This bag contains 200 grams of home made truffles with strawberry filling, covered in delicious P&amp;J white chocolate and pink sugar pearls.
+                  </div>
+      </a>
+      <a href="http://www.belgianchocolates.eu/cart/add/49284548/" class="cart">Add to cart</a>
+    </div>
+  </div>
+  
+  <div class="info">
+    <a href="http://www.belgianchocolates.eu/bag-of-strawberry-truffles-200gr.html" title="Bag of Strawberry Truffles (200gr)" class="title">
+      Bag of Strawberry Truffles (200gr)
+    </a>
+    
+      
+      €4,18 
+     
+  
+      </div>
+</div>
+<div class="clearfix visible-xs"></div>
+  <div class="product col-xs-6 col-sm-3 col-md-3">
+  <div class="image-wrap">
+    <a href="http://www.belgianchocolates.eu/mixed-chocolates-box-9-pieces.html" title="Mixed Chocolates Box (9 pieces)">
+                                                                                                                                                                               
+                            <img src="http://static.webshopapp.com/shops/064451/files/072186356/262x276x1/mixed-chocolates-box-9-pieces.jpg" width="262" height="276" alt="Mixed Chocolates Box (9 pieces)" title="Mixed Chocolates Box (9 pieces)" />
+                  </a>
+    
+    <div class="description text-center">
+      <a href="http://www.belgianchocolates.eu/mixed-chocolates-box-9-pieces.html" title="Mixed Chocolates Box (9 pieces)">
+                <div class="text">
+                    This transparant gift box contains 9 pieces of pralines, filled with orange, coffee and noisette cream.
+                  </div>
+      </a>
+      <a href="http://www.belgianchocolates.eu/cart/add/56559233/" class="cart">Add to cart</a>
+    </div>
+  </div>
+  
+  <div class="info">
+    <a href="http://www.belgianchocolates.eu/mixed-chocolates-box-9-pieces.html" title="Mixed Chocolates Box (9 pieces)" class="title">
+      Mixed Chocolates Box (9 pieces)
+    </a>
+    
+      
+      €3,85 
+     
+  
+      </div>
+</div>
+  <div class="product col-xs-6 col-sm-3 col-md-3">
+  <div class="image-wrap">
+    <a href="http://www.belgianchocolates.eu/dark-chocolate-bar-with-brownie.html" title="Dark Chocolate Bar with Brownie">
+                                                                                                                                                                               
+                            <img src="http://static.webshopapp.com/shops/064451/files/090443153/262x276x1/dark-chocolate-bar-with-brownie.jpg" width="262" height="276" alt="Dark Chocolate Bar with Brownie" title="Dark Chocolate Bar with Brownie" />
+                  </a>
+    
+    <div class="description text-center">
+      <a href="http://www.belgianchocolates.eu/dark-chocolate-bar-with-brownie.html" title="Dark Chocolate Bar with Brownie">
+                <div class="text">
+                    This home made P&amp;J chocolate bar is made from delicious dark chocolate and covered with soft chocolate brownie pieces.
+                  </div>
+      </a>
+      <a href="http://www.belgianchocolates.eu/cart/add/71450834/" class="cart">Add to cart</a>
+    </div>
+  </div>
+  
+  <div class="info">
+    <a href="http://www.belgianchocolates.eu/dark-chocolate-bar-with-brownie.html" title="Dark Chocolate Bar with Brownie" class="title">
+      Dark Chocolate Bar with Brownie
+    </a>
+    
+      
+      €3,30 
+     
+  
+      </div>
+</div>
+<div class="clearfix"></div>
+  <div class="product col-xs-6 col-sm-3 col-md-3">
+  <div class="image-wrap">
+    <a href="http://www.belgianchocolates.eu/gift-box-truffle-assortment-16-pieces.html" title="Gift Box Truffle Assortment (16 pieces)">
+                                                                                                                                                                               
+                            <img src="http://static.webshopapp.com/shops/064451/files/090403664/262x276x1/gift-box-truffle-assortment-16-pieces.jpg" width="262" height="276" alt="Gift Box Truffle Assortment (16 pieces)" title="Gift Box Truffle Assortment (16 pieces)" />
+                  </a>
+    
+    <div class="description text-center">
+      <a href="http://www.belgianchocolates.eu/gift-box-truffle-assortment-16-pieces.html" title="Gift Box Truffle Assortment (16 pieces)">
+                <div class="text">
+                    This gift box contains 16 pieces of P&amp;J home made truffles with different fillings: Bailey&#039;s, milk butter, Amaretto, whisky, rhum, Cointreau, cognac and champagne.
+                  </div>
+      </a>
+      <a href="http://www.belgianchocolates.eu/cart/add/71434187/" class="cart">Add to cart</a>
+    </div>
+  </div>
+  
+  <div class="info">
+    <a href="http://www.belgianchocolates.eu/gift-box-truffle-assortment-16-pieces.html" title="Gift Box Truffle Assortment (16 pieces)" class="title">
+      Gift Box Truffle Assortment (16 pieces)
+    </a>
+    
+      
+      €7,48 
+     
+  
+      </div>
+</div>
+  <div class="product col-xs-6 col-sm-3 col-md-3">
+  <div class="image-wrap">
+    <a href="http://www.belgianchocolates.eu/box-of-coffee-chocolates.html" title="Box of Coffee Chocolates">
+                                                                                                                                                                               
+                            <img src="http://static.webshopapp.com/shops/064451/files/092964905/262x276x1/box-of-coffee-chocolates.jpg" width="262" height="276" alt="Box of Coffee Chocolates" title="Box of Coffee Chocolates" />
+                  </a>
+    
+    <div class="description text-center">
+      <a href="http://www.belgianchocolates.eu/box-of-coffee-chocolates.html" title="Box of Coffee Chocolates">
+                <div class="text">
+                    P&amp;J&#039;s delicious milk, white and dark chocolate pralines with creamy coffee praliné and ganache filling inside, all wrapped up in a nice gift box. <br />
+The ultimate gift for your loved ones or just as a treat to yourself.
+                  </div>
+      </a>
+      <a href="http://www.belgianchocolates.eu/cart/add/73674095/" class="cart">Add to cart</a>
+    </div>
+  </div>
+  
+  <div class="info">
+    <a href="http://www.belgianchocolates.eu/box-of-coffee-chocolates.html" title="Box of Coffee Chocolates" class="title">
+      Box of Coffee Chocolates
+    </a>
+    
+      
+      €4,95 
+     
+  
+      </div>
+</div>
+<div class="clearfix visible-xs"></div>
+ </div>
+           </div>
+
+        <footer>
+            <hr class="full-width" />
+            <div class="container">
+                <div class="social row">
+                                        <div class="newsletter col-xs-12 col-sm-12 col-md-12">
+                        <span class="title">Sign up for our newsletter:</span>
+                        <form id="formNewsletter" action="https://p-j-belgian-chocolates.webshopapp.com/account/newsletter/?sid=f22050b5f22b006128a35d8caa20ecec19104e6188f0d535" method="post" style="width:260px;">
+                            <input type="hidden" name="key" value="8d95ea8ac48e79c52667fbac532d71b8" />
+                            <input type="text" name="email" id="formNewsletterEmail" value="" placeholder="E-mail" />
+                            <a class="btn glyphicon glyphicon-send" href="#" onclick="$('#formNewsletter').submit(); return false;" title="Subscribe" ><span>Subscribe</span></a>
+                        </form>
+                    </div>
+                                    </div>
+                <hr class="full-width" />
+                <div class="links row">
+                    <div class="col-xs-12 col-sm-4 col-md-3">
+                        <strong>P&amp;J Belgian Chocolates</strong> <span class="contact-description">Oostendse Baan 152<br />8470 Snaaskerke<br />Belgium<br/>BE0840409681</span>                         <div class="contact">
+                            <span class="glyphicon glyphicon-earphone"></span> +32 59 50 63 00
+                            <br />
+                            <span class="glyphicon glyphicon-earphone"></span> +32 485 22 94 21
+                        </div>
+                                                 <div class="contact">
+                            <span class="glyphicon glyphicon-envelope"></span>
+                            <a href="mailto:info@belgianchocolates.eu" title="Email">info@belgianchocolates.eu</a>
+                        </div>
+                                               </div>
+                    <div class="col-xs-6 col-md-3 hidden-xs hidden-sm">
+                        <strong>Tell us what you think !</strong>
+                        <ul>
+                            <li>Any comments, suggestions or products you would like to see in our assortment ? Let us know !</li>
+                        </ul>
+                    </div>
+                    <div class="col-xs-12 col-sm-4 col-md-3 hidden-xs">
+                        <strong>Customer service</strong>
+                        <ul>
+                                                        <li><a href="http://www.belgianchocolates.eu/service/about/" title="About Us" >About Us</a>
+                            </li>
+                                                        <li><a href="http://www.belgianchocolates.eu/service/contact-us/" title="Contact" >Contact</a>
+                            </li>
+                                                        <li><a href="http://www.belgianchocolates.eu/service/faq1/" title="FAQ" >FAQ</a>
+                            </li>
+                                                        <li><a href="http://www.belgianchocolates.eu/service/payment-methods/" title="Payment Methods" >Payment Methods</a>
+                            </li>
+                                                        <li><a href="http://www.belgianchocolates.eu/service/shipping-returns/" title="Shipping and Handling" >Shipping and Handling</a>
+                            </li>
+                                                        <li><a href="http://www.belgianchocolates.eu/service/general-terms-conditions/" title="General Terms and Conditions" >General Terms and Conditions</a>
+                            </li>
+                                                        <li><a href="http://www.belgianchocolates.eu/service/privacy-policy/" title="Privacy Policy" >Privacy Policy</a>
+                            </li>
+                                                    </ul>
+                    </div>
+                    <div class="col-xs-6 col-sm-4 col-md-3 hidden-xs">
+                        <strong>
+                                My account
+                              </strong>
+                        <ul>
+                                                        <li><a href="https://p-j-belgian-chocolates.webshopapp.com/account/?sid=f22050b5f22b006128a35d8caa20ecec19104e6188f0d535" title="Register">Register</a>
+                            </li>
+                                                        <li><a href="https://p-j-belgian-chocolates.webshopapp.com/account/orders/?sid=f22050b5f22b006128a35d8caa20ecec19104e6188f0d535" title="My orders">My orders</a>
+                            </li>
+                            <li><a href="https://p-j-belgian-chocolates.webshopapp.com/account/wishlist/?sid=f22050b5f22b006128a35d8caa20ecec19104e6188f0d535" title="My wishlist">My wishlist</a>
+                            </li>
+                                                    </ul>
+                    </div>
+
+                </div>
+                <hr class="full-width" />
+            </div>
+            <div class="copyright-payment">
+                <div class="container">
+                    <div class="row">
+                        <div class="copyright col-sm-12 col-md-5">
+                            © Copyright 2018 P&amp;J Belgian Chocolates -  Powered by                             <a href="https://www.lightspeedhq.com/" title="Lightspeed"  target="_blank" >Lightspeed</a>                           </div>
+                        <div class="payments col-sm-12 col-md-7 text-right">
+                                                        <a href="http://www.belgianchocolates.eu/service/payment-methods/" title="Payment methods">
+                                <img src="http://cdn.webshopapp.com/assets/icon-payment-ideal.png?2018-01-09" alt="iDEAL" />
+                            </a>
+                                                        <a href="http://www.belgianchocolates.eu/service/payment-methods/" title="Payment methods">
+                                <img src="http://cdn.webshopapp.com/assets/icon-payment-paypal.png?2018-01-09" alt="PayPal" />
+                            </a>
+                                                        <a href="http://www.belgianchocolates.eu/service/payment-methods/" title="Payment methods">
+                                <img src="http://cdn.webshopapp.com/assets/icon-payment-mastercard.png?2018-01-09" alt="MasterCard" />
+                            </a>
+                                                        <a href="http://www.belgianchocolates.eu/service/payment-methods/" title="Payment methods">
+                                <img src="http://cdn.webshopapp.com/assets/icon-payment-visa.png?2018-01-09" alt="Visa" />
+                            </a>
+                                                        <a href="http://www.belgianchocolates.eu/service/payment-methods/" title="Payment methods">
+                                <img src="http://cdn.webshopapp.com/assets/icon-payment-americanexpress.png?2018-01-09" alt="American Express" />
+                            </a>
+                                                        <a href="http://www.belgianchocolates.eu/service/payment-methods/" title="Payment methods">
+                                <img src="http://cdn.webshopapp.com/assets/icon-payment-banktransfer.png?2018-01-09" alt="Bank transfer" />
+                            </a>
+                                                        <a href="http://www.belgianchocolates.eu/service/payment-methods/" title="Payment methods">
+                                <img src="http://cdn.webshopapp.com/assets/icon-payment-maestro.png?2018-01-09" alt="Maestro" />
+                            </a>
+                                                        <a href="http://www.belgianchocolates.eu/service/payment-methods/" title="Payment methods">
+                                <img src="http://cdn.webshopapp.com/assets/icon-payment-mistercash.png?2018-01-09" alt="Bancontact / Mister Cash" />
+                            </a>
+                                                        <a href="http://www.belgianchocolates.eu/service/payment-methods/" title="Payment methods">
+                                <img src="http://cdn.webshopapp.com/assets/icon-payment-directebanking.png?2018-01-09" alt="SOFORT Banking" />
+                            </a>
+                                                        <a href="http://www.belgianchocolates.eu/service/payment-methods/" title="Payment methods">
+                                <img src="http://cdn.webshopapp.com/assets/icon-payment-visaelectron.png?2018-01-09" alt="Visa Electron" />
+                            </a>
+                                                        <a href="http://www.belgianchocolates.eu/service/payment-methods/" title="Payment methods">
+                                <img src="http://cdn.webshopapp.com/assets/icon-payment-bitcoin.png?2018-01-09" alt="Bitcoin" />
+                            </a>
+                                                        <a href="http://www.belgianchocolates.eu/service/payment-methods/" title="Payment methods">
+                                <img src="http://cdn.webshopapp.com/assets/icon-payment-belfius.png?2018-01-09" alt="Belfius" />
+                            </a>
+                                                        <a href="http://www.belgianchocolates.eu/service/payment-methods/" title="Payment methods">
+                                <img src="http://cdn.webshopapp.com/assets/icon-payment-kbc.png?2018-01-09" alt="KBC" />
+                            </a>
+                                                    </div>
+                    </div>
+                </div>
+            </div>
+        </footer>
+    </div>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
+  
+        <script src="http://assets.webshopapp.com/p-j-belgian-chocolates/owlcarouselmin.js?19700101010000" type="text/javascript"></script>
+    <script src="http://assets.webshopapp.com/p-j-belgian-chocolates/slider.js?19700101010000" type="text/javascript"></script>
+     <!-- [START] 'blocks/body.rain' -->
+<script>
+(function () {
+  var s = document.createElement('script');
+  s.type = 'text/javascript';
+  s.async = true;
+  s.src = 'http://www.belgianchocolates.eu/services/stats/pageview.js';
+  ( document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0] ).appendChild(s);
+})();
+</script>
+      <script>
+      if (typeof ga === 'undefined') {
+        (function (i, s, o, g, r, a, m) {
+          i['GoogleAnalyticsObject'] = r;
+          i[r] = i[r] || function () {
+            (i[r].q = i[r].q || []).push(arguments)
+          }, i[r].l = 1 * new Date();
+          a = s.createElement(o),
+            m = s.getElementsByTagName(o)[0];
+          a.async = 1;
+          a.src = g;
+          m.parentNode.insertBefore(a, m)
+        })(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
+
+        ga('create', 'UA-87683461-1', 'auto', {'allowLinker': true});
+        ga('set', 'forceSSL', true);
+        ga('require', 'linker');
+        ga('linker:autoLink', ['www.belgianchocolates.eu', 'webshopapp.com'], false, true);
+                ga('set', 'anonymizeIp', true);
+                                ga('send', 'pageview');
+                        if (typeof jQuery !== 'undefined') {
+          (function ($){
+            $().ready(function () {
+              if (window.location.href.indexOf('http://www.belgianchocolates.eu/') === 0) {
+                $('form').each(function () {
+                  var formHref = $(this).attr('action');
+                  if (formHref !== undefined && formHref.indexOf('https://p-j-belgian-chocolates.webshopapp.com/') === 0) {
+                    $(this).bind('submit', function (event) {
+                      ga('linker:decorate', event.target);
+                    });
+                  }
+                });
+              }
+            });
+          })(jQuery);
+        }
+              }
+    </script>
+  <!-- [END] 'blocks/body.rain' -->
+</body>
+
+</html>
+

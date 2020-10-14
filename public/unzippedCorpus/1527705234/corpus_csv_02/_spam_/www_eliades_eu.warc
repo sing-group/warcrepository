@@ -1,0 +1,427 @@
+WARC/1.0
+WARC-Type: warcinfo
+WARC-Date: 2018-05-30T17:52:31Z
+WARC-All-Language: fr
+WARC-All-Content_type: text/html; charset=UTF-8
+WARC-Record-ID: <urn:uuid:9819f611-4c58-47b0-a4ef-115b3b68b053>
+Content-Type: application/http;msgtype=response
+Content-Length: 46
+
+WARCProcessor by SING Group www.sing-group.com
+
+WARC/1.0
+WARC-Type: response
+WARC-Target-URI: http://www.eliades.eu
+WARC-Date: 20180530175231
+WARC-Language: fr
+WARC-Record-ID: <http://www.eliades.eu>
+Content-Type: application/http;msgtype=response
+Content-Length: 19206
+
+HTTP/1.1 200
+Content-Type:text/html; charset=UTF-8
+
+
+
+
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<META http-equiv="Content-Type" content="text/html; charset=utf-8">
+<!-- header('Expires: ' . gmdate('D, j M Y H:i:s T', time() + 7 * 24 * 60 * 60));   // time + 7 days worth of seconds -->
+
+<!--<META http-equiv="Content-Type" content="text/html; charset=ISO-8859-7"> -->
+<META NAME="Description" CONTENT="Eliades & Partners">
+<META NAME="Keywords" CONTENT="">
+<META NAME="Language" CONTENT="en">
+<META NAME="Robots" CONTENT="All">
+<style type="text/css" media="screen">@import '/upfiles/File/css/eliades.css';</style>
+<title>
+Eliades & Partners</title>
+<script src="/adminpanel/AJAXObject.js" type="text/javascript"></script>
+<script type="text/javascript" src="lightbox/js/prototype.js"></script>
+<script type="text/javascript" src="lightbox/js/scriptaculous.js?load=effects"></script>
+<script type="text/javascript" src="lightbox/js/lightbox.js"></script>
+<link rel="stylesheet" href="lightbox/css/lightbox.css" type="text/css" media="screen">
+<script type="text/javascript" src="adminpanel/js/functions.js"></script>
+<script type="text/javascript" src="adminpanel/js/columns.js"></script>
+<script type="text/javascript" src="adminpanel/js/ieupdate.js"></script>
+<script language="javascript">
+				   
+function setlanguage(lang)
+{
+	var loc = "lang/langselection.php?link=" + '/index.php' + '&language=' + lang;
+	window.location = loc;
+}
+function setcompany(company)
+{
+	var loc = "lang/compselection.php?link=" + " /index.php" + '&companyserial=' + company;
+	window.location = loc;
+}
+</script>
+
+
+<link rel="shortcut icon" href="/favicon.ico" type="image/x-icon" />
+
+<STYLE type="text/css">
+   #boxes .window {
+      position:absolute;
+      left:0;
+      top:0;
+      width:440px;
+      height:200px;
+      display:none;
+      z-index:9999;
+      padding:20px;
+
+    }
+ </STYLE>
+
+</head>
+<body>
+<script type="text/javascript" src="upfiles/File/source/js/jquery-1.4.2.min.js"></script>
+<script type="text/javascript" src="upfiles/File/source/js/jquery.cycle.lite.min.js"></script>
+
+<script language="javascript">
+$jq = jQuery.noConflict();
+
+$jq(document).ready(function(){
+   $jq('#s1').cycle({
+        fx: 'fade',
+        //pager:  '#nav',
+        timeout:       8000,
+        // callback fn that creates a thumbnail to use as pager anchor
+        pagerAnchorBuilder: function(idx, slide) {
+            return '<li><a href="#"></a></li>';
+        }
+   });
+});
+</script>
+
+<div id="globalbox">
+    <div id="topzone">
+        <div id="mainbox">
+            <div id="logobox"><a href=index.php><img src='/upfiles/Image/SetupImages/logo.png' border='0' alt='Eliades & Partners' /></a></div>
+            <div id="languagesbox">
+                <div class="flag"><a href="javascript://" onclick="setlanguage('EN');" class="lang_selected">EN</a></div>
+                <div class="flag"><a href="javascript://" onclick="setlanguage('RU');" class="lang_unselected">RU</a></div>
+            </div>
+            <div id="menubox"><script type="text/javascript" src="adminpanel/components/chrome.js"></script><ul class="menulist" id="menulist"><li><a href="index.php?link=thefirm.php" target='_self'>THE FIRM</a></li><li class="dividerPipe">|</li><li class="dividerBG">&nbsp;</li><li><a href="index.php?link=areas.php" target='_self'>EXPERTISE</a></li><li class="dividerPipe">|</li><li class="dividerBG">&nbsp;</li><li><a href="index.php?link=ourpeople.php" target='_self'>OUR PEOPLE</a></li><li class="dividerPipe">|</li><li class="dividerBG">&nbsp;</li><li><a href="index.php?link=whychoosecyprus.php" target='_self'>WHY CHOOSE CYPRUS</a></li><li class="dividerPipe">|</li><li class="dividerBG">&nbsp;</li><li><a href="index.php?link=cyprusinvestmentsectors.php" target='_self'>INVESTMENT SECTORS</a></li><li class="dividerPipe">|</li><li class="dividerBG">&nbsp;</li><li><a href="index.php?link=news.php" target='_self'>NEWS</a></li><li class="dividerPipe">|</li><li class="dividerBG">&nbsp;</li><li><a href="index.php?link=carrers.php" target='_self'>CAREERS</a></li><li class="dividerPipe">|</li><li class="dividerBG">&nbsp;</li><li><a href="index.php?link=memberships.php" target='_self'>MEMBERSHIPS</a></li><li class="dividerPipe">|</li><li class="dividerBG">&nbsp;</li><li><a href="index.php?link=contactus.php" target='_self'>CONTACT US</a></li></ul><script type="text/javascript">cssdropdown.startchrome("menulist")</script></div>
+            <div id="splashcomponentsbox">
+                <div id="splashcomponentsbox_left" name="Splash Components Left"><div id="component_generic_full">
+    <div id="component_generic_title"></div>
+    <div id="component_generic_body"><div id="splash">
+	<div class="pics" id="s1">
+		<img alt="" src="/upfiles/Image/splashimages/SCREE DESIGN 1 FINAL.jpg" /> <img alt="" src="/upfiles/Image/splashimages/screen design number 2 corrected.jpg" style="width: 486px; height: 312px;" /> <img alt="" src="/upfiles/Image/splashimages/SCREE DESIGN 3 FINAL.jpg" /> <img alt="" src="/upfiles/Image/splashimages/SCREE DESIGN 4 FINAL.jpg" /> <img alt="" src="/upfiles/Image/splashimages/SCREE DESIGN 5 FINAL.jpg" style="width: 486px; height: 312px;" /></div>
+</div></div>
+</div>
+</div>
+                <div id="splashcomponentsbox_right" name="Splash Components Right"><div id="component_generic_full">
+    <div id="component_generic_title"></div>
+    <div id="component_generic_body"><p>
+	<img alt="" src="/upfiles/Image/splashimages/map_with_40_years.jpg" style="width: 499px; height: 312px;" /></p></div>
+</div>
+</div>
+            </div>
+            <div id="bodycomponentsbox">
+                <div id="bodycomponentsbox_top"></div>
+                <div id="bodycomponentsbox_middle" name="Body Components"><div id="component_generic_full">
+    <div id="component_generic_title">WELCOME NOTE FROM DIRECTOR</div>
+    <div id="component_generic_body"><p>
+	&nbsp;</p>
+<table border="0" cellpadding="1" cellspacing="1" style="width: 100%;">
+	<tbody>
+		<tr>
+			<td colspan="2">
+				<img alt="" src="/upfiles/Image/SetupImages/supremecourthouse.jpg" style="width: 290px; height: 86px;" /></td>
+		</tr>
+		<tr>
+			<td colspan="2" style="text-align: justify;">
+				<p>
+					Ever since I started my career I felt a need to serve my fellow human beings. For many years I sought to fulfil this need to give back to the community by working in the public sector....<br />
+					&nbsp;</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="text-align: justify;">
+				&nbsp;</td>
+			<td style="text-align: right;">
+				&nbsp;</td>
+		</tr>
+		<tr>
+			<td style="text-align: justify;">
+				&nbsp;</td>
+			<td style="text-align: right;">
+				<a class="readmoreicon" href="index.php?link=welcomenote.php">Read More</a></td>
+		</tr>
+	</tbody>
+</table></div>
+</div>
+<div id="component_generic_full">
+    <div id="component_generic_title">WHY CHOOSE US</div>
+    <div id="component_generic_body"><p>
+	&nbsp;</p>
+<table border="0" cellpadding="1" cellspacing="1" style="width: 100%;">
+	<tbody>
+		<tr>
+			<td colspan="2">
+				<img alt="" src="/upfiles/Image/SetupImages/whyus-thumb.jpg" style="width: 290px; height: 86px;" /></td>
+		</tr>
+		<tr>
+			<td colspan="2" style="text-align: justify;">
+				With over 40 successful years of service to the international business community, Eliades &amp; Partners is today considered one of the most distinguished commercial law firms in Cyprus and provides a multi-disciplinary legal, tax and business......</td>
+		</tr>
+		<tr>
+			<td style="text-align: justify;">
+				&nbsp;</td>
+			<td style="text-align: right;">
+				&nbsp;</td>
+		</tr>
+		<tr>
+			<td style="text-align: justify;">
+				&nbsp;<a class="videoicon" href="http://www.eliades.eu/videowelcome" onclick="window.open(this.href, '', 'resizable=no,status=no,location=no,toolbar=no,menubar=no,fullscreen=no,scrollbars=no,dependent=no,width=740,height=560'); return false;">Watch Video</a></td>
+			<td style="text-align: right;">
+				<a class="readmoreicon" href="index.php?link=whychooseus.php">Read More</a></td>
+		</tr>
+	</tbody>
+</table></div>
+</div>
+<div id="component_generic_full">
+    <div id="component_generic_title">LATEST NEWS</div>
+    <div id="component_generic_body">
+                <div class="news_sum_box_all">
+                    <div class="news_sum_box">
+                       <div class="news_sum_box_left"><img class="news_sum_box_img" src="/upfiles/Image/news/ciarb.png"></div>
+                       <div class="news_sum_box_right">
+                         <div class="title_div">Ciarb Conference 22.10.2015</div>
+                         <div class="link_div"><a href="index.php?link=newsdetails.php&synws_serial=24&language=EN">read more</a></div>
+                         <span class="divider_div"></span>
+                       </div>
+                    </div>
+                </div>
+                <div class="news_sum_box_all">
+                    <div class="news_sum_box">
+                       <div class="news_sum_box_left"><img class="news_sum_box_img" src="/upfiles/Image/news/bank%20of%20cyprus.jpg"></div>
+                       <div class="news_sum_box_right">
+                         <div class="title_div">Bank of Cyprus announced Share Capital Increase: Placing and Open Offer</div>
+                         <div class="link_div"><a href="index.php?link=newsdetails.php&synws_serial=21&language=EN">read more</a></div>
+                         <span class="divider_div"></span>
+                       </div>
+                    </div>
+                </div></div>
+</div>
+</div>
+                <div id="bodycomponentsbox_bottom"></div>
+            </div>
+            <div id="bodysubcomponentsbox">
+                <div id="bodysubcomponentsbox_left" name="Body Subcomponents Left"><div id="component_generic_full">
+    <div id="component_generic_title">RECOMMENDED BY / LISTED ON</div>
+    <div id="component_generic_body"><p>
+	&nbsp;</p>
+<table border="0" cellpadding="1" cellspacing="1" style="width: 314px; height: 182px;">
+	<tbody>
+		<tr>
+			<td>
+				<img alt="" src="/upfiles/Image/recommended/Logo_member of GGI_bottom_bw(1).jpg" style="width: 100px; height: 26px;" /></td>
+			<td>
+				<a href="http://www.ggi.com/" target="_blank">Geneva Group</a></td>
+		</tr>
+		<tr>
+			<td>
+				<img alt="" src="http://www.eliades.eu/upfiles/Image/recommended/itpa(1).png" style="width: 102px; height: 28px;" /></td>
+			<td>
+				<a href="http://www.itpa.org/" target="_blank">International Tax Planning Association</a></td>
+		</tr>
+		<tr>
+			<td>
+				<img alt="" src="http://www.eliades.eu/upfiles/Image/recommended/logo.png" style="width: 86px; height: 54px;" /></td>
+			<td>
+				<a href="http://www.ciarb.org/" target="_blank">Chartered Institute of Arbitrators</a></td>
+		</tr>
+		<tr>
+			<td>
+				&nbsp;<img alt="" src="/upfiles/Image/recommended/legal500.jpg" style="width: 100px; height: 26px;" /></td>
+			<td>
+				<a href="http://www.legal500.com/firms/14450-m-eliades-partners-llc/offices/18857-nicosia/profile" target="_blank">Legal 500</a></td>
+		</tr>
+		<tr>
+			<td>
+				&nbsp;</td>
+			<td>
+				&nbsp;</td>
+		</tr>
+		<tr>
+			<td colspan="2">
+				&nbsp; <img alt="" src="/upfiles/Image/Icons/control_play[1].png" style="width: 16px; height: 16px;" />&nbsp; <a href="index.php?link=recommendedby.php">View All Listings</a></td>
+		</tr>
+	</tbody>
+</table></div>
+</div>
+</div>
+                <div class="subcompdiv"></div>
+                <div id="bodysubcomponentsbox_middle" name="Body Subcomponents Middle"><div id="component_generic_full">
+    <div id="component_generic_title">WHAT WE DO</div>
+    <div id="component_generic_body"><p>
+	<strong>Legal</strong></p>
+<ul>
+	<li>
+		<a href="index.php?link=companyregistration.php">Company registration</a></li>
+	<li>
+		<a href="http://www.eliades.lightblack.eu/index.php?link=fullcompanysupport.php">Full company support services</a></li>
+	<li>
+		<a href="http://www.eliades.lightblack.eu/index.php?link=corporatelaw.php">Corporate Law</a></li>
+	<li>
+		<a href="http://www.eliades.lightblack.eu/index.php?link=shippingandmaritimelaw.php">Shipping and maritime Law</a></li>
+	<li>
+		<a href="http://www.eliades.lightblack.eu/index.php?link=propertyandrealestate.php">Property Real Estate &amp; Construction Law</a></li>
+</ul>
+<p>
+	&nbsp;</p>
+<p style="text-align: right;">
+	<a href="index.php?link=areas.php">read more</a></p>
+<p>
+	<strong>&nbsp;Accounting &amp; Tax</strong></p>
+<ul>
+	<li>
+		<a href="http://www.eliades.lightblack.eu/index.php?link=accountingandbookkeeping.php">Accounting and Book Keeping</a></li>
+	<li>
+		<a href="http://www.eliades.lightblack.eu/index.php?link=corporatetaxation.php">Corporate taxation</a></li>
+	<li>
+		<a href="http://www.eliades.lightblack.eu/index.php?link=taxation.php">Taxation of Foreign Nationals</a></li>
+</ul>
+<p style="text-align: right;">
+	<a href="index.php?link=areas.php"><br />
+	read more&nbsp;</a></p></div>
+</div>
+</div>
+                <div class="subcompdiv"></div>
+                <div id="bodysubcomponentsbox_right" name="Body Subcomponents Right"><div id="component_generic_full">
+    <div id="component_generic_title">GGI ACTIVE MEMBER</div>
+    <div id="component_generic_body"><table border="0" cellpadding="1" style="width: 318px; height: 171px;">
+	<tbody>
+		<tr>
+			<td>
+				<a href="http://www.eliades.eu/video/" onclick="window.open(this.href, '', 'resizable=no,status=no,location=no,toolbar=no,menubar=no,fullscreen=no,scrollbars=no,dependent=no,width=660,height=380'); return false;"><img alt="" src="/upfiles/Image/Thums/ggi-active-member.jpg" style="border-width: 0px; border-style: solid; width: 179px; height: 100px;" /></a></td>
+			<td>
+				&nbsp;</td>
+			<td>
+				<strong>Marios Eliades</strong><br />
+				<em>Eliades&amp;Partners<br />
+				Cyprus</em></td>
+		</tr>
+		<tr>
+			<td colspan="3">
+				<p>
+					<br />
+					One of the World&#39;s Leading Organisations of Independant<br />
+					Law, Accounting, Audit and Consulting Firms<br />
+					<br />
+					&nbsp;</p>
+				<p>
+					<a href="http://www.ggi.com" target="_blank"><img alt="" src="/upfiles/Image/Icons/ggilogo.jpg" style="border-width: 0px; border-style: solid; width: 218px; height: 17px;" /></a><br />
+					<br />
+					&nbsp;</p>
+			</td>
+		</tr>
+	</tbody>
+</table></div>
+</div>
+</div>
+             </div>
+        </div>
+    </div>
+    <div id="bottomzone">
+        <div id="bottombox">
+            <div id="bottomcomponentsbox" name="Bottom Components"><div id="component_generic_full">
+    <div id="component_generic_title">about us</div>
+    <div id="component_generic_body"><p>
+	We strive to put a meaningful purpose behind what people want to achieve. For us goals are paramount. We will find the real problem and turn it into an opportunity. Meeting your goals is our primary aim. We are transparent, constructive and nonconfrontational in our dealings and are committed to upholding the highest standards of professionalism and ethics. As a result we build long-term relationships with both our clients and third parties, forging steady alliances that continuously bear fruit well into the future.</p></div>
+</div>
+<div id="component_generic_full">
+    <div id="component_generic_title">customer care</div>
+    <div id="component_generic_body"><div class='component_text'><p>
+	<em>Client-centered, people-driven </em><br />
+	&nbsp;</p>
+<p>
+	Helping people achieve their goals is at the heart of what we do. Through our work we endeavour to help you meet your goals and change your lives for the better.</p>
+<p>
+	<br />
+	<strong>Subscribe to newsletter:</strong></p></div><script language="JavaScript"; src="adminpanel/components/validator.js"></script>
+<script language=javascript>
+var a_fields = {
+		'txtnewsletter':{'l':'e-mail','r':true, 'f':'email'} 
+},
+o_config = { 
+	'to_disable' : ['Submit'], 
+	'alert' : 1
+}
+var NLv = new validator('newsletter', a_fields, o_config);
+function clearfield() {
+		var obj = document.getElementById('txtnewsletter'); 
+      if( obj.value == '- enter email here -')
+				obj.value = '';
+}
+function subMit() {
+	document.newsletter.submit();
+}</script><form name='newsletter' method='post' action='adminpanel/components/newslettersub.php' enctype='multipart/form-data' target='_blank';><div class='newsletter'><div class='newsletter_textfield'><input name='txtnewsletter' id='txtnewsletter' size='12' type='text' value='- enter email here -'; onClick='javascript:clearfield();'/></div><div class='newsletter_button'><a href='javascript: subMit()'><img src='upfiles/Image/SetupImages/submit_btn.jpg' onClick='return NLv.exec()' /></a></div>
+                                            <input type='hidden' name='formsubmitted'></div></form></div>
+</div>
+<div id="component_generic_full">
+    <div id="component_generic_title">our location</div>
+    <div id="component_generic_body"><table border="0" cellpadding="1" cellspacing="1" style="width: 100%; height: 156px;">
+	<tbody>
+		<tr>
+			<td style="width: 95px; vertical-align: top;">
+				<img alt="" src="/upfiles/Image/SetupImages/location-thumb.png" style="width: 88px; height: 58px;" /></td>
+			<td style="vertical-align: top;">
+				<p>
+					GALA TOWER, 2nd floor<br />
+					4 Menandrou Street&nbsp;<br />
+					1066 Nicosia<br />
+					Cyprus<br />
+					<br />
+					Telephone:&nbsp;+357 22 667730<br />
+					Fax:&nbsp;+357 22 667740<br />
+					Email: <a href="mailto:info@eliades.eu">info@eliades.eu</a></p>
+			</td>
+		</tr>
+	</tbody>
+</table></div>
+</div>
+</div>
+            <div id="copyright_design_box">
+                 <div id="copyright_box">Copyright © Eliades & Partners 2011 - &nbsp;<a href="index.php?link=privacy.php">Privacy Policy</a> &nbsp;/&nbsp;<a href="index.php?link=terms.php">Terms of Use</a></div>
+                 <div id="design_box">Design by: <a href="http://www.lightblack.eu" target="_blank">Lightblack.eu</a></div>
+             </div>
+        </div>
+    </div>
+</div>
+
+<div id="boxes" >
+    <div id="sharedialog" class="window">
+        <div id="modal_share_box">
+          <h2>Share</h2>
+          <div class="share_fields">
+              Your E-mail Address: <br/>
+              <input type="text" value="" onclick="this.value=''" id="share_from_address" /><br/>
+              Share With E-mail Address: <br/>
+              <input type="text" value="" onclick="this.value=''" id="share_with_address" />
+              Comments: <br/>
+              <textarea id="share_comments" name="share_comments"></textarea>
+          </div>
+          <div id="share_status"></div>
+          <div class="share_button"><input type="button" alt="Share" title="Share" value="Share"  id="share_submit_btn" ></div>
+          <div class="share_button"><input type="button" alt="Cancel" title="Cancel" value="Cancel" onclick="closeModal();" id="share_cancel_btn" ></div>
+        </div>
+<!--src="upfiles/Image/SetupImages/share_btn.jpg"-->
+<!--src="upfiles/Image/SetupImages/cancel_btn.jpg"-->
+    </div>
+
+    <!-- Mask to cover the whole screen -->
+    <div id="mask"></div>
+</div>
+
+</body>
+</html>
+

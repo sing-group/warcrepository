@@ -1,0 +1,102 @@
+WARC/1.0
+WARC-Type: warcinfo
+WARC-Date: 2018-05-30T18:18:32Z
+WARC-Record-ID: <urn:uuid:3136c43e-5770-47e4-871d-da93c30e02a6>
+WARC-All-Language: en
+WARC-All-Content_type: text/html
+Content-Type: application/http;msgtype=response
+Content-Length: 46
+
+WARCProcessor by SING Group www.sing-group.com
+
+WARC/1.0
+WARC-Type: response
+WARC-Record-ID: <http://www.van-loenen.eu>
+WARC-Date: 20180530181832
+WARC-Target-URI: http://www.van-loenen.eu
+WARC-Language: en
+Content-Type: application/http;msgtype=response
+Content-Length: 3302
+
+HTTP/1.1 200
+Content-Type:text/html
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+        "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en">
+<head>
+	
+	<title>van-loenen.eu</title>
+
+	<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+	<meta http-equiv="content-language" content="en" />
+	<meta name="description" lang="en" content="This site shows some of my favorite pictures." />
+	<meta name="keywords" content="Arjen van Loenen, photo, foto's, travel, reizen, loenie, Paris, New York, NYC, keukenhof, india, indonesia" />
+	
+	<link rel="stylesheet" href="/css/loenie.css" type="text/css" media="screen" />
+	
+	<script type="text/javascript" src="/js/jquery.js"></script>
+	<script type="text/javascript" src="/js/jquery.cycle.all.js"></script>
+
+	<script type="text/javascript">
+	$(function() {
+	    $('#s1').cycle({ 
+			fx:        'cover',
+			delay:    -2000,
+			direction: 'right', 
+			before: function(curr, next, opts) {
+					opts.animOut.opacity = 0;
+					}		});
+	});
+	</script>
+	
+</head>
+<body id="home">
+
+<div id="top">
+	<h1>Arjen van Loenen</h1><br/>
+	<h2></h2>
+</div>
+
+<div id="side">
+	<ul id="nav">
+		<li><a id="nav-home" href="/">Home</a></li>
+		<li><a id="nav-asia" href="/asia/">Asia</a></li>
+		<li><a id="nav-indonesia05" href="/indonesia/05/">Indonesia 2005</a></li>
+		<li><a id="nav-indonesia09" href="/indonesia/09/">Indonesia 2009</a></li>
+		<li><a id="nav-india" href="/india/">India</a></li>
+		<li><a id="nav-keukenhof" href="/keukenhof/">Keukenhof</a></li>
+		<li><a id="nav-paris" href="/paris/">Paris</a></li>
+		<li><a id="nav-nyc" href="/nyc/">New York</a></li>
+		<li><a id="nav-winter" href="/amsterdam/winter/">Winter</a></li>
+		<li><a id="nav-newyear" href="/amsterdam/newyear/">Chinese New Year</a></li>
+		<li><a id="nav-china" href="/china/">China</a></li>
+		<li><a id="nav-vietnam" href="/vietnam/">Vietnam</a></li>
+	</ul>
+</div>
+
+<div id="slideshow">
+	<a name="Home"></a>
+	<div id="s1" class="pics">
+		<a href="/asia/"><img src="/asia/images/image-6.jpg" width="640" height="426" /></a>
+		<a href="/indonesia/05/"><img src="/indonesia/05/images/image-10.jpg" width="640" height="400" /></a>
+		<a href="/indonesia/09/"><img src="/indonesia/09/images/image-70.jpg" width="640" height="423" /></a>
+		<a href="/india/"><img src="/india/images/image-34.jpg" width="334" height="500" /></a>
+		<a href="/keukenhof/"><img src="/keukenhof/images/image-4.jpg" width="640" height="426" /></a>
+		<a href="/paris/"><img src="/paris/images/image-15.jpg" width="640" height="427" /></a>
+		<a href="/nyc/"><img src="/nyc/images/image-10.jpg" width="330" height="500" /></a>
+		<a href="/amsterdam/winter/"><img src="/amsterdam/winter/images/image-4.jpg" width="333" height="500" class="first" /></a>
+		<a href="/amsterdam/newyear/"><img src="/amsterdam/newyear/images/image-22.jpg" width="334" height="500" /></a>
+		<a href="/china/"><img src="/china/images/image-2.jpg" width="640" height="428" /></a>
+		<a href="/vietnam/"><img src="/vietnam/images/image-22.jpg" width="640" height="428" /></a>
+	</div>
+
+</div>
+
+<div id="copyright">
+	<copy>© 2011 <a href="mailto:info@van-loenen.eu">Arjen van Loenen</a>
+
+</body>
+</html>
+

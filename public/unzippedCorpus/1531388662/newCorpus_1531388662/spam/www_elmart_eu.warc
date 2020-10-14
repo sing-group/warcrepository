@@ -1,0 +1,331 @@
+WARC/1.0
+WARC-Type: warcinfo
+WARC-Date: 2018-05-30T17:52:31Z
+WARC-Record-ID: <urn:uuid:bc05f87c-3e70-4fa1-a3bb-407f1b09549b>
+WARC-All-Language: en
+WARC-All-Content_type: text/html
+Content-Type: application/http;msgtype=response
+Content-Length: 46
+
+WARCProcessor by SING Group www.sing-group.com
+
+WARC/1.0
+WARC-Type: response
+WARC-Record-ID: <http://www.elmart.eu>
+WARC-Date: 20180530175231
+WARC-Target-URI: http://www.elmart.eu
+WARC-Language: en
+Content-Type: application/http;msgtype=response
+Content-Length: 33155
+
+HTTP/1.1 200
+Content-Type:text/html
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"	"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en">
+<head>
+	<title>elmart records - electronic music art</title>
+
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" /><meta name="Title" content="elmart, electronic music art, 4heads 1mind, News, Artists, Releases, Studio" /><meta name="Description" content="elmart records, 4heads 1mind, artists, releases, press data and further information of the Upper Austrian record label." /><meta name="keywords" lang="eng" content="elmart, electronic music art, 4heads 1mind, 4 heads 1 mind, elmart records, label, record label, faith records, Christoph Elmer, Mike Turrento, Tom Barkley, Alex Lemar, Roland Wiesinger, Studio, House, Electro, Techno music, Releases" /><meta name="robots" content="all" />	
+	<meta name="verify-v1" content="k31bfuy70VQOJJhJoqVoeuybcgAAcNRJvu+osVW077M=" />
+	<meta name="google-site-verification" content="BSUwlBt1AK26Q44N_84dCmo_LMNDUzVnjfIsYOVzbdU" />
+	
+	<link rel="alternate" type="application/rss+xml" title="RSS 2.0" href="http://www.elmart.eu/rss_podcast_elmart.xml" />
+	<link rel="Shortcut Icon" href="./pics/favicon.ico" type="image/x-icon" />
+	
+	<link rel="stylesheet" type="text/css" href="./css/mainstyles.css" media="screen"/>
+	<link rel="stylesheet" type="text/css" href="./css/zweispalten_styles.css" media="screen"/>
+	<link rel="stylesheet" type="text/css" href="./css/opactiyButton.css" media="screen"/>
+	<link rel="stylesheet" type="text/css" href="./css/trackoftheweek.css" media="screen"/>
+	<link rel="stylesheet" type="text/css" href="./css/sig.css" media="screen"/>
+	
+	<script type="text/javascript" src="./js/home.js"></script>
+	<script type="text/javascript" src="./js/mootools.js"></script>
+	<script type="text/javascript" src="./js/slimbox.js"></script><script language="javascript" type="text/javascript">var vFlash = 6;var ver = 0;var javaOn = false;var ShockMode = 0;var plug = 0;var gUserOS = OS_Check();ver = parseInt(navigator.appVersion.substring(0,1));
+function OS_Check() {var userPlat = "unknown";var navInfo = navigator.appVersion;if (navInfo.indexOf("Win") != -1)            userPlat = "Win";else if (navInfo.indexOf("Macintosh") != -1) userPlat = "PPC";else if(navInfo.indexOf("68K") != -1)        userPlat = "68K";return userPlat;}
+function checkNetscape() {if(navigator.appName == "Netscape") {for(i=0;i<navigator.plugins.length;i++) {if(navigator.plugins[i].name == "Shockwave Flash") {t = navigator.plugins[i].description;t = t.split(" ");for(z=0;z<t.length;z++) {if(parseFloat(t[z]) >= vFlash) {plug = 1;break;}}break;}}}
+else if (navigator.userAgent && navigator.userAgent.indexOf("MSIE")>=0 &&  navigator.userAgent.indexOf("Win")>=0) {document.writeln();document.write('<Scr'+'ipt lan'+'guage=VB'+'Scr'+'ipt\> \n');document.write('on error resume next \n');document.write('ShockMode = (IsObject(CreateObject("ShockwaveFlash.ShockwaveFlash.' + vFlash + '")))\n');document.write('</scr'+'ipt>');if(ShockMode) plug = 1;}}
+if(ver == 4) {if(navigator.javaEnabled()) javaOn = true;}if(ver > 2) checkNetscape();</script></head>
+<body><!-- AddThis Button BEGIN --><div class="addthis_toolbox addthis_floating_style addthis_32x32_style" style="left:-4px;top:40px;"><a class="addthis_button_facebook"></a><a class="addthis_button_twitter"></a><a class="addthis_button_google_plusone_share"></a><a class="addthis_button_email"></a><a class="addthis_button_compact"></a></div><script type="text/javascript">var addthis_config = {"data_track_addressbar":true};</script><script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=elmart"></script><!-- AddThis Button END -->	<div id="gesamteseite">
+		<div id="kopfzeile"><a href="http://www.elmart.eu" title="start"><img class="logo" src="./pics/kopfzeile_logo2.jpg" width="980" height="210" alt="header" /></a></div><div id="navigation"><ul><li><a href="http://www.elmart.eu/news/">News</a></li><li><a href="http://www.elmart.eu/artists/">Artists</a></li><li><a href="http://www.elmart.eu/releases/">Releases</a></li><li><a href="http://www.elmart.eu/shop/">Shop</a></li><li><a href="http://www.elmart.eu/podcast/">Podcast</a></li><li><a href="http://www.elmart.eu/downloads/">Download</a></li><li><a href="http://www.elmart.eu/press/">Press</a></li><li><a href="http://www.elmart.eu/links/">Links</a></li><li><a href="http://www.elmart.eu/about/">About</a></li></ul></div>		<div id="subnavigation"></div>
+		<div id="linkespalte">
+			<div id="linkespalte-abstand">
+				<div><table cellpadding="2" cellspacing="0" width="97%" border="0"><tr>
+									<td colspan="2" valign="top" class="td14">
+										<table><tr><td colspan="2"><font color="#EDE85C" size="-1"><a href="http://www.elmart.eu/releases/elma057">Sutter Cane</a></font></td></tr><tr><td width="10"><td><a class="white" href="http://www.elmart.eu/releases/elma057"><b>Don't Block The Box</b></a></td></tr></table>
+									</td><td align="right" style="padding-left:3px;" width="50px"><span class="sig"><span class="sig_cont"><span class="sig_thumb"><a href="http://www.elmart.eu/./pics/covers/ELMA057_72dpi_600x600.png" rel="lightbox.sig0" title="Navigationstipp: Sie können die Bilder umblättern, wenn Sie die Maus auf die rechte oder linke Seite des Bildes bewegen.&lt;br /&gt;&lt;br /&gt;ELMA057_72dpi_600x600.png&nbsp;&nbsp;&lt;a style=&quot;float:right;&quot; href=&quot;http://www.elmart.eu/pics/covers/ELMA057_72dpi_600x600.png&quot; target=&amp;_blank&quot;&gt;&lt;img src=&quot;http://www.elmart.eu/pics/savedisc.png&quot;&gt;&lt;/a&gt;" target="_blank"><img alt="" src="http://www.elmart.eu/pics/thumbs/thumb_ELMA057_72dpi_600x600.png" width="50" /></a></span></span><span class="sig_clr"></span></span>	</td>
+								</tr><tr>
+											<td width="100%" class="td11" valign="top" colspan="4" align="left">
+												<table width="100%" border="0" cellpadding="0" cellspacing="0" align="left">
+													<tr>
+														<td width="20" class="td10" align="left" valign="top">1:&nbsp;</td>
+														<td class="td10" align="left" valign="top">Sutter Cane - Don't Block The Box (Original Mix)</td>
+														<td class="td10" align="right" valign="middle" width="40px">
+															<SCRIPT Language="Javascript">
+																if(plug == 1) { 
+																	document.write(' <object type="application/x-shockwave-flash" data="http://flash-mp3-player.net/medias/player_mp3_maxi.swf" width="24px" height="15px" style="margin:2px 0px;">');
+																		document.write('<param name="movie" value="http://flash-mp3-player.net/medias/player_mp3_maxi.swf" />');
+																		document.write('<param name="bgcolor" value="#666666" />');
+																		document.write('<param name="FlashVars" value="mp3=http%3A//www.elmart.eu/music/tracks/ELMA057_01_Sutter_Cane_-_Dont_Block_The_Box_(Original_Mix)_PREVIEW.mp3&amp;width=24&amp;height=15&amp;showslider=0&amp;bgcolor1=666666&amp;bgcolor2=999999&amp;buttonovercolor=e85021" />');
+																	document.write('</object> ');
+																	
+																}
+																else document.write(' <a target="_blank" href="http://www.elmart.eu/music/tracks/ELMA057_01_Sutter_Cane_-_Dont_Block_The_Box_(Original_Mix)_PREVIEW.mp3"><img src="http://www.elmart.eu/pics/play_audio_btn_666666.png" border="0" width="24" height="15" onmouseover="this.src=\'http://www.elmart.eu/pics/play_audio_btn_666666_hover.png\';" onmouseout="this.src=\'http://www.elmart.eu/pics/play_audio_btn_666666.png\';" style="margin:2px 0px;"/></a>');
+															</SCRIPT> 
+															<NOSCRIPT><a target="_blank" href="http://www.elmart.eu/music/tracks/ELMA057_01_Sutter_Cane_-_Dont_Block_The_Box_(Original_Mix)_PREVIEW.mp3"><img src="http://www.elmart.eu/pics/play_audio_btn_666666.png" border="0" width="24" height="15"/></a></NOSCRIPT>																			
+														</td>
+													</tr>
+												</table>
+											</td>
+										</tr><tr>
+											<td width="100%" class="td11" valign="top" colspan="4" align="left">
+												<table width="100%" border="0" cellpadding="0" cellspacing="0" align="left">
+													<tr>
+														<td width="20" class="td10" align="left" valign="top">2:&nbsp;</td>
+														<td class="td10" align="left" valign="top">Sutter Cane - Don't Block The Box (Dub Mix)</td>
+														<td class="td10" align="right" valign="middle" width="40px">
+															<SCRIPT Language="Javascript">
+																if(plug == 1) { 
+																	document.write(' <object type="application/x-shockwave-flash" data="http://flash-mp3-player.net/medias/player_mp3_maxi.swf" width="24px" height="15px" style="margin:2px 0px;">');
+																		document.write('<param name="movie" value="http://flash-mp3-player.net/medias/player_mp3_maxi.swf" />');
+																		document.write('<param name="bgcolor" value="#666666" />');
+																		document.write('<param name="FlashVars" value="mp3=http%3A//www.elmart.eu/music/tracks/ELMA057_02_Sutter_Cane_-_Dont_Block_The_Box_(Dub_Mix)_PREVIEW.mp3&amp;width=24&amp;height=15&amp;showslider=0&amp;bgcolor1=666666&amp;bgcolor2=999999&amp;buttonovercolor=e85021" />');
+																	document.write('</object> ');
+																	
+																}
+																else document.write(' <a target="_blank" href="http://www.elmart.eu/music/tracks/ELMA057_02_Sutter_Cane_-_Dont_Block_The_Box_(Dub_Mix)_PREVIEW.mp3"><img src="http://www.elmart.eu/pics/play_audio_btn_666666.png" border="0" width="24" height="15" onmouseover="this.src=\'http://www.elmart.eu/pics/play_audio_btn_666666_hover.png\';" onmouseout="this.src=\'http://www.elmart.eu/pics/play_audio_btn_666666.png\';" style="margin:2px 0px;"/></a>');
+															</SCRIPT> 
+															<NOSCRIPT><a target="_blank" href="http://www.elmart.eu/music/tracks/ELMA057_02_Sutter_Cane_-_Dont_Block_The_Box_(Dub_Mix)_PREVIEW.mp3"><img src="http://www.elmart.eu/pics/play_audio_btn_666666.png" border="0" width="24" height="15"/></a></NOSCRIPT>																			
+														</td>
+													</tr>
+												</table>
+											</td>
+										</tr><tr><td colspan="4" height="15"></td></tr><tr><td colspan="4"><font size="-2">Download at:</font></td></tr><tr><td colspan="4" align="left"><div class="opaBtn"><a target="_blank" href="https://www.beatport.com/release/dont-block-the-box/1793899"><img src="http://www.elmart.eu/pics/shops/beatport_h15.png" border="0" height="15"/></a><a target="_blank" href="http://www.junodownload.com/products/sutter-cane-donatt-block-the-box/3124572-02/"><img src="http://www.elmart.eu/pics/shops/junodownload_h15.png" border="0" height="15"/></a><a target="_blank" href="https://www.amazon.de/Dont-Block-Box-Sutter-Cane/dp/B01GL03TJ6/ref=sr_1_3?ie=UTF8&qid=1467489570&sr=8-3&keywords=sutter+cane+-+don%27t+block+the+box"><img src="http://www.elmart.eu/pics/shops/amazon_h15.png" border="0" height="15"/></a><a target="_blank" href="https://itunes.apple.com/at/album/dont-block-the-box-single/id1119178734"><img src="http://www.elmart.eu/pics/shops/itunes_h15.png" border="0" height="15"/></a><a target="_blank" href="http://www.traxsource.com/title/636426/don-t-block-the-box"><img src="http://www.elmart.eu/pics/shops/traxsource_h15.png" border="0" height="15"/></a></div></td></tr></table>				</div>
+
+				<!--<center>
+                	<div style="margin-top:10px;">
+                    	<span class="sig"><span class="sig_cont"><span class="sig_thumb">
+                        	<a href="http://www.facebook.com/event.php?eid=188373794549124" target="_blank">
+                            	<img src="./pics/hertzschlag_plakat_w280.jpg" width="280">
+                            </a>
+                        </span></span></span>
+                    </div>
+                </center>-->
+                <br />
+                <iframe width="300" height="308" src="https://www.snogg.me/promotion/embed/bbba6a4f80464fa2b9cdd1f8a0f4416a/" scrolling="no" style="background-color:#393939;" frameborder="0" name="SNOGG.ME Promotion Plugin"></iframe>                <br /><br />
+									<!--<br />
+					<center>
+						<SCRIPT Language="Javascript">
+							if(plug == 1) { 
+								document.write(' <object classid="CLSID:D27CDB6E-AE6D-11cf-96B8-444553540000" width="300" height="100" codebase="http://active.macromedia.com/flash2/cabs/swflash.cab#version=4,0,0,0">');
+									document.write('<param name="movie" value="./ban/ELMA012_ON.swf"/>');
+									document.write('<param name="quality" value="high"/>');
+									document.write('<param name="scale" value="exactfit"/>');
+									document.write('<param name="menu" value="false"/>');
+									document.write('<embed src="./ban/ELMA012_ON.swf" quality="high" scale="exactfit" menu="false" width="300" height="100" swLiveConnect="false" type="application/x-shockwave-flash" pluginspage="http://www.macromedia.com/shockwave/download/download.cgi?P1_Prod_Version=ShockwaveFlash"></embed>');
+								document.write('</object> ');
+								
+							}
+							else document.write(' <img src="./ban/alternativpic/alt_ELMA012_ON.jpg" alt="" border="0" width="300" height="100" />');
+						</SCRIPT> 
+						<NOSCRIPT>
+							<object classid="CLSID:D27CDB6E-AE6D-11cf-96B8-444553540000" width="300" height="100" codebase="http://active.macromedia.com/flash2/cabs/swflash.cab#version=4,0,0,0">
+								<param name="movie" value="./ban/ELMA012_ON.swf"/>
+								<param name="quality" value="high"/>
+								<param name="scale" value="exactfit"/>
+								<param name="menu" value="false"/>
+								<embed src="./ban/ELMA012_ON.swf" quality="high" scale="exactfit" menu="false" width="300" height="100" swLiveConnect="false" type="application/x-shockwave-flash" pluginspage="http://www.macromedia.com/shockwave/download/download.cgi?P1_Prod_Version=ShockwaveFlash"></embed>							</object>
+						</NOSCRIPT>
+					</center>-->				
+				<br/>				
+				You wanna have the latest news about elmart and the Austrian electronic music scene? 
+				Subscribe to our monthly newsletter and fill in your e-mail address below.
+				<br/>
+				<form name="newsletter" action="http://www.elmart.eu" method="post">
+					<input type="hidden" name="act" id="act" value="" />
+					<p>
+					  <table cellpadding="2" cellspacing="0" width="97%" border="0">
+							<tr>
+								<td valign="middle"><h6>Newsletter:</h6></td>
+								<td width="200"><input type="text" size="20" name="email" id="email" value="" /></td>
+								<td><a href="javascript: check_newsletter();"><img src="pics/orange_submit.png" border="0" width="25" height="25" alt="submit newsletter email"/></a></td>
+							</tr>
+					  </table>
+					</p>
+				</form>
+  				
+				<table width="300" border="0">
+					<tr>
+						<td>
+							<!-- Facebook Badge START -->
+							<a href="http://www.facebook.com/pages/elmart-HouseArt-Records-electronic-music-art/49852265204" target="_TOP" title="elmart Records - electronic music art"><img src="http://badge.facebook.com/badge/49852265204.1930.1181898087.png" width="300px" style="border: 0px;" /></a>
+							<!-- Facebook Badge END -->
+							<br /><br />
+						</td>
+					</tr>
+        			<!--<tr>
+            			<td>
+							<h7>
+		  						If you produce your own, unique House or Techno music and are looking for a reliable and stable business partner in 
+								Austria to release your sound, feel free to send us three or four of your demo tracks and a short description of you 
+								by e-mail (info[at]elmart.eu) or mail.<br />
+          						We will, of course, reply as soon as possible!
+							<h7/>
+						</td>
+					</tr>-->
+					<tr>
+						<td>elmart Channel</td>
+					</tr>
+					<tr>
+						<td>
+							<SCRIPT Language="Javascript">
+								if(plug == 1) { 
+									document.write(' <object width="300" height="260">');
+									document.write('<param name="movie" value="http://www.youtube.com/cp/vjVQa1PpcFMXAw59_aMVavhFYCqwIwbAgE83ELyhmlg="></param>');
+									document.write('<embed src="http://www.youtube.com/cp/vjVQa1PpcFMXAw59_aMVavhFYCqwIwbAgE83ELyhmlg=" type="application/x-shockwave-flash" width="300" height="260"></embed>');
+									document.write('</object> ');
+								}
+								else document.write(' <a target="_blank" href="http://www.youtube.com/user/elmartrecords"><img src="./pics/alt_elmart_records_youtube_channel.jpg" alt="" border="0" width="300" height="260" /></a>');
+							</SCRIPT> 
+							<NOSCRIPT>
+								<object width="300" height="260">
+									<param name="movie" value="http://www.youtube.com/cp/vjVQa1PpcFMXAw59_aMVavhFYCqwIwbAgE83ELyhmlg="></param>
+									<embed src="http://www.youtube.com/cp/vjVQa1PpcFMXAw59_aMVavhFYCqwIwbAgE83ELyhmlg=" type="application/x-shockwave-flash" width="300" height="260"></embed>								</object>
+							</NOSCRIPT>
+						</td>
+					</tr>
+					<!--<tr>
+						<td><br /><br />HouseArt Channel</td>
+					</tr>
+					<tr>
+						<td>
+							<SCRIPT Language="Javascript">
+								if(plug == 1) { 
+									document.write(' <object width="300" height="260">');
+									document.write('<param name="movie" value="http://www.youtube.com/cp/vjVQa1PpcFNV9lixY4bTIgN3vBPmmR8031WstbYJfEU="></param>');
+									document.write('<embed src="http://www.youtube.com/cp/vjVQa1PpcFNV9lixY4bTIgN3vBPmmR8031WstbYJfEU=" type="application/x-shockwave-flash" width="300" height="260"></embed>');
+									document.write('</object> ');
+								}
+								else document.write(' <a target="_blank" href="http://www.youtube.com/user/HouseArtrecords"><img src="./pics/alt_houseart_records_youtube_channel.jpg" alt="" border="0" width="300" height="260" /></a>');
+							</SCRIPT> 
+							<NOSCRIPT>
+								<object width="300" height="260">
+									<param name="movie" value="http://www.youtube.com/cp/vjVQa1PpcFNV9lixY4bTIgN3vBPmmR8031WstbYJfEU="></param>
+									<embed src="http://www.youtube.com/cp/vjVQa1PpcFNV9lixY4bTIgN3vBPmmR8031WstbYJfEU=" type="application/x-shockwave-flash" width="300" height="260"></embed>								</object>
+							</NOSCRIPT>
+          				</td>
+					</tr>-->
+				</table>
+				<br/><br/>
+			</div>
+		</div>
+	
+		<div id="rechtespalte">
+			<div id="rechtespalte-abstand">
+				<table cellpadding="2" cellspacing="0" width="95%" border="0">
+					<tr>
+						<td colspan="2"><p>You wanna have the latest news in your iMail or Outlook? Subscribe to our <a href="http://www.elmart.eu/rss_podcast_elmart.xml" target="_blank">RSS Feed</a>!</p></td>
+					</tr>
+					<tr>
+						<td><h6>NEWS</h6></td>
+						<td align="right" width="80px"><a href="http://www.elmart.eu/rss_podcast_elmart.xml" target="_blank"><img src="./pics/rss_button.png" width="80" height="15" hspace="5" alt="Get the latest elmart news via RSS" /></a></td>
+					</tr>
+				</table><hr/><table width="100%" cellpadding="4" cellspacing="0" border="0">
+<tr><td colspan="3"><h3><a href="http://www.elmart.eu/news/out-now-sutter-cane-dont-block-the-box">OUT NOW: Sutter Cane - Don't Block The Box</a></h3></td></tr>
+<tr><td width="18" align="left" valign="middle"><img src="pics/elmart_logo_vert_small.png" border="0" width="13" height="94" alt="elmart news" /></td><td align="left" valign="top">Sutter Cane for the first time releasing on Elmart Records! Based in Vienna, the Austrian DJ & producer founded 'Driving Forces Recordings'. After his remix on Elmart, he strikes back on with a great track called ‚Don't Block The Box'.<br /><a style="float:right;" href="http://www.elmart.eu/news/out-now-sutter-cane-dont-block-the-box">Read more</a></td><td width="120" valign="top" ><div align="center"><span class="sig"><span class="sig_cont"><span class="sig_thumb"><a href="http://www.elmart.eu/news/out-now-sutter-cane-dont-block-the-box"><img src="pics/covers/ELMA057_72dpi_600x600.png" width="120" align="top" alt="" /></a></span></span><span class="sig_clr"></span></span></div></td></tr>
+<tr><td colspan="3" height="10"></td></tr><tr><td colspan="3"><a target="_blank" href="http://www.elmart.eu/releases/elma057">All Infos &amp; Previews</a></td></tr>
+<tr><td colspan="3" height="8"></td></tr><tr><td colspan="3"><a target="_blank" href="http://www.beatport.com/release/dont-block-the-box/1793899">Don't Block The Box </a></td></tr>
+<tr><td colspan="3" height="10"></td></tr>
+<tr><td colspan="2"><h5>written on 2016/07/02</h5></td><td><iframe src="http://www.facebook.com/plugins/like.php?href=http%3A%2F%2Fwww.elmart.eu%2Fnews%2Fout-now-sutter-cane-dont-block-the-box&amp;layout=button_count&amp;show_faces=true&amp;width=120&amp;action=like&amp;colorscheme=dark&amp;height=21" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:120px; height:21px; background-color:#666;" allowTransparency="true"></iframe></td></tr>
+</table>
+								<br/>
+								<center>
+									<SCRIPT Language="Javascript">
+										if(plug == 1) { 
+											document.write(' <object classid="CLSID:D27CDB6E-AE6D-11cf-96B8-444553540000" width="300" height="100" codebase="http://active.macromedia.com/flash2/cabs/swflash.cab#version=4,0,0,0">');
+												document.write('<param name="movie" value="./ban/ELMA012_ON.swf"/>');
+												document.write('<param name="quality" value="high"/>');
+												document.write('<param name="scale" value="exactfit"/>');
+												document.write('<param name="menu" value="false"/>');
+												document.write('<embed src="./ban/ELMA012_ON.swf" quality="high" scale="exactfit" menu="false" width="300" height="100" swLiveConnect="false" type="application/x-shockwave-flash" pluginspage="http://www.macromedia.com/shockwave/download/download.cgi?P1_Prod_Version=ShockwaveFlash"></embed>');
+											document.write('</object> ');
+											
+										}
+										else document.write(' <img src="./ban/alternativpic/alt_ELMA012_ON.jpg" alt="" border="0" width="300" height="100" />');
+									</SCRIPT> 
+									<NOSCRIPT>
+										<object classid="CLSID:D27CDB6E-AE6D-11cf-96B8-444553540000" width="300" height="100" codebase="http://active.macromedia.com/flash2/cabs/swflash.cab#version=4,0,0,0">
+											<param name="movie" value="./ban/ELMA012_ON.swf"/>
+											<param name="quality" value="high"/>
+											<param name="scale" value="exactfit"/>
+											<param name="menu" value="false"/>
+											<embed src="./ban/ELMA012_ON.swf" quality="high" scale="exactfit" menu="false" width="300" height="100" swLiveConnect="false" type="application/x-shockwave-flash" pluginspage="http://www.macromedia.com/shockwave/download/download.cgi?P1_Prod_Version=ShockwaveFlash"></embed>										</object>
+									</NOSCRIPT>
+								</center>
+								<br/><hr/><table width="100%" cellpadding="4" cellspacing="0" border="0">
+<tr><td colspan="3"><h3><a href="http://www.elmart.eu/news/release-review-worlddjsnet">Release Review @ World-Djs.net </a></h3></td></tr>
+<tr><td width="18" align="left" valign="middle"><img src="pics/elmart_logo_vert_small.png" border="0" width="13" height="94" alt="elmart news" /></td><td align="left" valign="top">The Germany based electronic music website 'World-Djs.de 'supports the Upper Austrian label 'elmart' with a record review of our upcoming Sutter Cane release called 'Don't Block The Box'. This EP will be released on 30 of June 2016. <br /><a style="float:right;" href="http://www.elmart.eu/news/release-review-worlddjsnet">Read more</a></td><td width="120" valign="top" ><div align="center"><span class="sig"><span class="sig_cont"><span class="sig_thumb"><a href="http://www.elmart.eu/news/release-review-worlddjsnet"><img src="pics/news/news_suttercane_worlddjs.png" width="120" align="top" alt="" /></a></span></span><span class="sig_clr"></span></span></div></td></tr>
+<tr><td colspan="3" height="10"></td></tr><tr><td colspan="3"><a target="_blank" href="http://www.world-djs.de/newsarchiv.php">World Djs newsarchiv </a></td></tr>
+<tr><td colspan="3" height="8"></td></tr><tr><td colspan="3"><a target="_blank" href="http://www.elmart.eu/releases/elma057">All Infos &amp; Previews</a></td></tr>
+<tr><td colspan="3" height="10"></td></tr>
+<tr><td colspan="2"><h5>written on 2016/05/29</h5></td><td><iframe src="http://www.facebook.com/plugins/like.php?href=http%3A%2F%2Fwww.elmart.eu%2Fnews%2Frelease-review-worlddjsnet&amp;layout=button_count&amp;show_faces=true&amp;width=120&amp;action=like&amp;colorscheme=dark&amp;height=21" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:120px; height:21px; background-color:#666;" allowTransparency="true"></iframe></td></tr>
+</table>
+<hr/><table width="100%" cellpadding="4" cellspacing="0" border="0">
+<tr><td colspan="3"><h3><a href="http://www.elmart.eu/news/alex-lemar-nb-records-podcast">Alex Lemar @ NB Records podcast </a></h3></td></tr>
+<tr><td width="18" align="left" valign="middle"><img src="pics/elmart_logo_vert_small.png" border="0" width="13" height="94" alt="elmart news" /></td><td align="left" valign="top">Here is the new episode of the NB Records Podcast with a very special guest mix by elmart artist <a class="gray" href="http://www.elmart.eu/artists/alexlemar">Alex Lemar</a>. Check this powerful mix and play it loud to start your weekend ;)<br /><a style="float:right;" href="http://www.elmart.eu/news/alex-lemar-nb-records-podcast">Read more</a></td><td width="120" valign="top" ><div align="center"><span class="sig"><span class="sig_cont"><span class="sig_thumb"><a href="http://www.elmart.eu/news/alex-lemar-nb-records-podcast"><img src="pics/news/news_nb_AL.png" width="120" align="top" alt="" /></a></span></span><span class="sig_clr"></span></span></div></td></tr>
+<tr><td colspan="3" height="10"></td></tr><tr><td colspan="3"><a target="_blank" href="http://itunes.apple.com/us/podcast/nb-records-podcast-by-nicolas/id495660092?mt=2&ign-mpt=uo%3D4">NB Records podcast</a></td></tr>
+<tr><td colspan="3" height="8"></td></tr><tr><td colspan="3"><a target="_blank" href="http://pro.beatport.com/artist/alex-lemar/150087">Alex Lemar @ Beatport </a></td></tr>
+<tr><td colspan="3" height="10"></td></tr>
+<tr><td colspan="2"><h5>written on 2016/04/22</h5></td><td><iframe src="http://www.facebook.com/plugins/like.php?href=http%3A%2F%2Fwww.elmart.eu%2Fnews%2Falex-lemar-nb-records-podcast&amp;layout=button_count&amp;show_faces=true&amp;width=120&amp;action=like&amp;colorscheme=dark&amp;height=21" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:120px; height:21px; background-color:#666;" allowTransparency="true"></iframe></td></tr>
+</table>
+							<br/>
+							<center>
+								<SCRIPT Language="Javascript">
+									if(plug == 1) { 
+										document.write(' <object classid="CLSID:D27CDB6E-AE6D-11cf-96B8-444553540000" width="300" height="93" codebase="http://active.macromedia.com/flash2/cabs/swflash.cab#version=4,0,0,0">');
+											document.write('<param name="movie" value="./ban/elmart_flash_logo.swf"/>');
+											document.write('<param name="quality" value="high"/>');
+											document.write('<param name="scale" value="exactfit"/>');
+											document.write('<param name="menu" value="false"/>');
+											document.write('<embed src="./ban/elmart_flash_logo.swf" quality="high" scale="exactfit" menu="false" width="300" height="93" swliveConnect="false" type="application/x-shockwave-flash" pluginspage="http://www.macromedia.com/shockwave/download/download.cgi?P1_Prod_Version=ShockwaveFlash"></embed>');
+										document.write('</object> ');
+										
+									}
+									else document.write(' <img src="./ban/alternativpic/alt_elmart_flash_logo.jpg" alt="" border="0" width="300" height="93" />');
+								</SCRIPT> 
+								<NOSCRIPT>
+									<object classid="CLSID:D27CDB6E-AE6D-11cf-96B8-444553540000" width="300" height="93" codebase="http://active.macromedia.com/flash2/cabs/swflash.cab#version=4,0,0,0">
+										<param name="movie" value="./ban/elmart_flash_logo.swf"/>
+										<param name="quality" value="high"/>
+										<param name="scale" value="exactfit"/>
+										<param name="menu" value="false"/>
+										<embed src="./ban/elmart_flash_logo.swf" quality="high" scale="exactfit" menu="false" width="300" height="93" swliveConnect="false" type="application/x-shockwave-flash" pluginspage="http://www.macromedia.com/shockwave/download/download.cgi?P1_Prod_Version=ShockwaveFlash"></embed>									</object>
+								</NOSCRIPT>
+							</center>
+							<br/><hr/><table width="100%" cellpadding="4" cellspacing="0" border="0">
+<tr><td colspan="3"><h3><a href="http://www.elmart.eu/news/out-now-diarmaid-o-meara-standing-around-looking-foxy">OUT NOW: Diarmaid O Meara - Standing Around Looking Foxy</a></h3></td></tr>
+<tr><td width="18" align="left" valign="middle"><img src="pics/elmart_logo_vert_small.png" border="0" width="13" height="94" alt="elmart news" /></td><td align="left" valign="top">One of Irelands most notable international techno acts, Diarmaid O Meara has his elmart comeback with a great three tracker called 'Standing Around Looking Foxy'. Huge support by Patrick DSP, Dave The Drummer, Joseph Capriati, GabeeN and many more! <br /><a style="float:right;" href="http://www.elmart.eu/news/out-now-diarmaid-o-meara-standing-around-looking-foxy">Read more</a></td><td width="120" valign="top" ><div align="center"><span class="sig"><span class="sig_cont"><span class="sig_thumb"><a href="http://www.elmart.eu/news/out-now-diarmaid-o-meara-standing-around-looking-foxy"><img src="pics/covers/ELMA056_DOM_72dpi_600x600.png" width="120" align="top" alt="" /></a></span></span><span class="sig_clr"></span></span></div></td></tr>
+<tr><td colspan="3" height="10"></td></tr><tr><td colspan="3"><a target="_blank" href="http://elmart.eu/dfe9">Standing Around Looking Foxy @ Beatport</a></td></tr>
+<tr><td colspan="3" height="8"></td></tr><tr><td colspan="3"><a target="_blank" href="http://www.elmart.eu/releases/elma056">All Infos &amp; Previews</a></td></tr>
+<tr><td colspan="3" height="10"></td></tr>
+<tr><td colspan="2"><h5>written on 2016/04/01</h5></td><td><iframe src="http://www.facebook.com/plugins/like.php?href=http%3A%2F%2Fwww.elmart.eu%2Fnews%2Fout-now-diarmaid-o-meara-standing-around-looking-foxy&amp;layout=button_count&amp;show_faces=true&amp;width=120&amp;action=like&amp;colorscheme=dark&amp;height=21" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:120px; height:21px; background-color:#666;" allowTransparency="true"></iframe></td></tr>
+</table>
+			</div>
+		</div><div id="fusszeile" class="fusszeile"><div id="fusszeile-abstand" class="fusszeile_abstand"><div align="left"><table border="0" align="left" cellpadding="0"><tr><td valign="top"><h5><a href="http://www.elmart.eu/pphlogger/dlcount.php?id=elmart.hp&url=http%3A%2F%2Fwww.facebook.com%2Fpages%2Felmart-HouseArt-Records-electronic-music-art%2F49852265204" target="_blank"><img src="http://www.elmart.eu/pics/logo_facebook.png" alt="Facebook site of elmart" width="17" height="17" align="middle"/></a></h5></td>
+<td valign="top"><h5><a href="http://www.elmart.eu/pphlogger/dlcount.php?id=elmart.hp&url=http%3A%2F%2Ftwitter.com%2Felmart_rec" target="_blank"><img src="http://www.elmart.eu/pics/logo_twitter.png" alt="elmart on Twitter" width="17" height="17" align="middle"/></a></h5></td>
+<td valign="top"><h5><a href="http://www.elmart.eu/pphlogger/dlcount.php?id=elmart.hp&url=http%3A%2F%2Fwww.myspace.com%2Felectronicmusicart" target="_blank"><img src="http://www.elmart.eu/pics/logo_myspace.png" alt="Myspace site of elmart" width="17" height="17" align="middle"/></a></h5></td>
+<td valign="top"><h5><a href="http://www.elmart.eu/pphlogger/dlcount.php?id=elmart.hp&url=http%3A%2F%2Fwww.elmart.eu%2Frss_podcast_elmart.xml" target="_blank"><img src="http://www.elmart.eu/pics/logo_rss_button.png" width="50" height="15" alt="Get the latest elmart news via RSS"/></a></h5></td>
+<td valign="top"><h5><a href="http://feedvalidator.org/check.cgi?url=http%3A%2F%2Fwww.elmart.eu%2Frss_podcast_elmart.xml"><img src="http://www.elmart.eu/pics/logo_valid-rss.png" width="43" height="15" alt="[Valid RSS]" title="Validate my RSS feed" /></a></h5></td>
+<td valign="top"><h5><a href="http://www.elmart.eu/contact/" class="foolink" target="_self">Contact</a></h5></td>
+<td valign="top"><h5><a href="http://www.elmart.eu/pphlogger/dlcount.php?id=elmart.hp&url=http%3A%2F%2Ffirmena-z.wko.at%2FecgInfo.asp%3FMGID%3D5D98563D5BE912BD252348690F19251F%26NOFRAME%3DJ" class="foolink" target="blank">Impressum</a></h5></td>
+<td valign="top" class="foocopy">&copy;&nbsp;elmart&nbsp;2005-2018</td>
+</tr></table></div></div></div>	</div>
+	<script language="JavaScript" type="text/javascript" src="http://www.elmart.eu/js/pphlogger.js"></script>
+	<noscript><img alt="" src="http://www.elmart.eu/pphlogger/pphlogger.php?id=elmart.hp&st=img"/></noscript>
+	<script type="text/javascript">var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));</script><script type="text/javascript">try {var pageTracker = _gat._getTracker("UA-15153538-1");pageTracker._setDomainName(".elmart.eu");pageTracker._trackPageview();} catch(err) {}</script></body>
+</html>
+
+
+
+

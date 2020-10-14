@@ -1,0 +1,156 @@
+WARC/1.0
+WARC-Type: warcinfo
+WARC-Date: 2018-05-30T17:52:30Z
+WARC-All-Language: de
+WARC-All-Content_type: text/html
+WARC-Record-ID: <urn:uuid:810c97d2-e1a2-4701-ac69-d25072dbf907>
+Content-Type: application/http;msgtype=response
+Content-Length: 46
+
+WARCProcessor by SING Group www.sing-group.com
+
+WARC/1.0
+WARC-Type: response
+WARC-Target-URI: http://www.tech-know.eu
+WARC-Date: 20180530175230
+WARC-Language: de
+WARC-Record-ID: <http://www.tech-know.eu>
+Content-Type: application/http;msgtype=response
+Content-Length: 16151
+
+HTTP/1.1 200
+Content-Type:text/html
+
+
+<!DOCTYPE html>
+<html lang="de"><head><meta charset="utf-8"/><meta content="width=device-width, initial-scale=1" name="viewport"/><title>Tech know</title><link href="http://gmpg.org/xfn/11" rel="profile"/><!--[if lt IE 9]>
+<script src="http://wp-themes.com/wp-content/themes/dk/js/html5.js" type="text/javascript"></script>
+<![endif]--><!--[if IE 7]>
+<link rel="stylesheet" href="http://wp-themes.com/wp-content/themes/dk/font-awesome/font-awesome-ie7.css">
+<![endif]--><link href="//s.w.org" rel="dns-prefetch"/><script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.2.1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.2.1\/svg\/","svgExt":".svg","source":{"concatemoji":"http:\/\/wp-themes.com\/wp\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.7.5-alpha-40547"}};
+			!function(a,b,c){function d(a){var b,c,d,e,f=String.fromCharCode;if(!k||!k.fillText)return!1;switch(k.clearRect(0,0,j.width,j.height),k.textBaseline="top",k.font="600 32px Arial",a){case"flag":return k.fillText(f(55356,56826,55356,56819),0,0),!(j.toDataURL().length<3e3)&&(k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,57331,65039,8205,55356,57096),0,0),b=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,57331,55356,57096),0,0),c=j.toDataURL(),b!==c);case"emoji4":return k.fillText(f(55357,56425,55356,57341,8205,55357,56507),0,0),d=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55357,56425,55356,57341,55357,56507),0,0),e=j.toDataURL(),d!==e}return!1}function e(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g,h,i,j=b.createElement("canvas"),k=j.getContext&&j.getContext("2d");for(i=Array("flag","emoji4"),c.supports={everything:!0,everythingExceptFlag:!0},h=0;h<i.length;h++)c.supports[i[h]]=d(i[h]),c.supports.everything=c.supports.everything&&c.supports[i[h]],"flag"!==i[h]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[i[h]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script><style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style><link href="http://www.tech-know.eu/wp-content/themes/dk/style.css?ver=4.7.5-alpha-40547" id="style-css" media="all" rel="stylesheet" type="text/css"/><link href="http://www.tech-know.eu/wp-content/themes/dk/font-awesome/font-awesome.css?ver=4.7.5-alpha-40547" id="font-awesome-css" media="all" rel="stylesheet" type="text/css"/><script src="http://www.tech-know.eu/wp-includes/js/jquery/jquery.js?ver=1.12.4" type="text/javascript"></script><script src="http://www.tech-know.eu/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1" type="text/javascript"></script><link href="http://www.tech-know.eu/xmlrpc.php?rsd" rel="EditURI" title="RSD" type="application/rsd+xml"/><meta content="WordPress 4.7.5-alpha-40547" name="generator"/><style type="text/css">.recentcomments a{display:inline !important;padding:0 !important;margin:0 !important;}</style></head><body class="post-template-default single single-post postid-1 single-format-standard"> <div class="grid site" id="page"> <header class="clearfix site-header" id="masthead" role="banner"> <hgroup> <h1 class="site-title"><a href="http://www.tech-know.eu" rel="home">Tech know</a></h1> <h2 class="site-description"></h2> </hgroup> <nav class="site-navigation main-navigation" role="navigation"> <h1 class="assistive-text">Menu</h1> <div class="assistive-text skip-link"><a href="#content" title="Skip to content">Skip to content</a></div> <div class="menu"><ul>
+                                 <li><a href="http://www.tech-know.eu/impressum">
+                                     Impressum
+                                  </a></li>
+                                <li>
+<a href="http://www.tech-know.eu/category/umwelt">Umwelt</a>
+</li>
+    </ul></div>
+</nav><!-- .site-navigation .main-navigation --> </header><!-- #masthead .site-header --> <div class="row" id="main"> <div class="c8" id="primary"> <div class="site-content" id="content" role="main"> 
+ 
+<article id="" class=" post type-post status-publish format-standard hentry">
+		<header class="entry-header">
+		<div class="entry-meta"><span class="screen-reader-text">Posted on</span> <a href="http://www.tech-know.eu/genussmittel-im-internet-gunstig-shoppen" rel="bookmark"><time class="entry-date published" datetime="2018-01-04 09:04:00+00:00">Thu 04 January 2018</time></a></div><!-- .entry-meta --><h2 class="entry-title"><a href="http://www.tech-know.eu/genussmittel-im-internet-gunstig-shoppen" rel="bookmark">Genussmittel im Internet günstig shoppen</a></h2>	</header><!-- .entry-header -->
+
+	
+	<div class="entry-content">
+		<p>In der Weihnachtszeit werden besonders viele Genussmittel konsumiert, weshalb sich die Frage stellt, wo man sie besonders günstig bekommt. Die Antwort darauf lautet: Im Internet. Denn Online-Shops haben <strong>geringere Werbungskosten </strong>als normale Läden zu tragen, sodass sie ein und dieselben Artikel zu deutlich günstigeren Preisen als jene anbieten. Doch beim Online-Shopping muss man einige Regeln beachten, um von dieser Art, einzukaufen, tatsächlich zu profitieren.</p>
+
+<h2>Was sollte man beim Kauf der Genussmittel im Internet beachten?</h2>
+
+<p><img alt="Kauf von Genussmittel" src="http://www.tech-know.eu/images/genussmittel.jpg" style="width: 321px; height: 245px; border-width: 1px; border-style: solid; margin: 20px; float: right;" />Im Internet wie auch im reellen Leben gibt es auch Betrüger. Um sich vor ihnen zu schützen, sollte man nur in solchen Online-Shops einkaufen, deren Internetauftritt Impressum enthält. Im Impressum müssen Angaben zur Adresse des Hauptsitzes des Anbieters und seine Handelsregistereintragnummer angegeben werden. Nicht weniger wichtig ist auch, dass der jeweilige Online-Shop das <strong>gewünschte Genussmittel zum geringstmöglichen Preis </strong>anbietet. Um das sicherzustellen, sollte man die Preise aller gefundenen seriösen Online-Shops miteinander vergleichen. Ein weiterer Faktor ist die Bequemlichkeit der Bezahlung. Denn zu Weihnachten und vor weiteren Festen tätigen Menschen besonders viele Einkäufe, sodass die Mittel für Genussmittel nicht immer in ausreichender Menge zur Verfügung stehen. In dem Falle ist es bequem, wenn man die Bestellung im Online-Shop auf Rechnung macht. Denn dann braucht man den fälligen Betrag nicht sofort, sondern 2-3 Wochen nach dem Empfang zu bezahlen. Daher sollte man Online-Shops bevorzugen, die diese Möglichkeit anbieten. Allerdings ist zu beachten, dass auch solche Shops die <strong>Bonität ihrer Interessenten prüfen </strong>werden. Deshalb sollte man vor der Bestellung sicherstellen, dass man keinen Schufa-Eintrag hat. Nicht zu verachten ist auch die Anforderung, dass die Wohn- und Lieferadresse identisch sein müssen. Denn Abweichungen dazwischen werten die <strong>meisten Online-Shops als Betrugsversuch </strong>und stornieren solche Bestellungen.</p>
+
+<h2>Was tun, wenn man keine Möglichkeit hat, auf Rechnung zu bestellen?</h2>
+
+<p>Man kann versuchen, einen Gutschein zu ergattern. Denn viele Shops bieten Gutscheinaktionen, in deren Rahmen alle <strong>Interessenten einen Gutschein gewinnen oder bekommen </strong>können. Als Beispiele dafür können der <a href="http://www.gewinnwelt.info/vinos-gutscheincode/">Vinos Gutschein</a> und der <a href="http://www.gewinnwelt.info/westfalia-gutscheincode/">Westfalia Gutscheincode</a> betrachtet werden, die unter der Adresse erworben werden können.</p>
+
+<h3>Methoden, Genussmittel im Internet günstig zu shoppen, im Überblick</h3>
+
+<ul>
+    <li>Online-Shops mit Impressum und stimmigen Angaben aussuchen</li>
+    <li>Preise und die Möglichkeit, dort <strong>auf Rechnung zu bestellen</strong>, miteinander vergleichen</li>
+    <li>nach eventuellen Gutscheinaktionen suchen</li>
+</ul>
+	</div><!-- .entry-content -->
+
+	
+</article>
+ 
+<article id="" class=" post type-post status-publish format-standard hentry">
+		<header class="entry-header">
+		<div class="entry-meta"><span class="screen-reader-text">Posted on</span> <a href="http://www.tech-know.eu/umwelt-schonen-jeder-sollte-seinen-beitrag-leisten" rel="bookmark"><time class="entry-date published" datetime="2017-10-09 15:14:00+00:00">Mon 09 October 2017</time></a></div><!-- .entry-meta --><h2 class="entry-title"><a href="http://www.tech-know.eu/umwelt-schonen-jeder-sollte-seinen-beitrag-leisten" rel="bookmark">Umwelt schonen - Jeder sollte seinen Beitrag leisten</a></h2>	</header><!-- .entry-header -->
+
+	
+	<div class="entry-content">
+		<p>Der Klimawandel geht alle etwas an, doch nicht jeder fühlt sich direkt dafür verantwortlich. Oftmals fühlt sich der Einzelne erdrückt davon, sich einschränken zu müssen. Doch auch kleine Schritte können bereits dazu beitragen, die CO2-Emissionen deutlich zu verringern. Was jeder Einzelne dafür machen kann, verraten wir in unserem Ratgebertext.</p>
+
+<h2>1 Der persönliche Stromverbrauch</h2>
+
+<p><strong>1.1 Die tägliche Nutzung von Smartphone und Co.</strong><br />
+<br />
+<img alt="Persönlicher Stromverbrauch" src="http://www.tech-know.eu/images/stromverbrauch.jpg" style="width: 300px; height: 200px; border-width: 1px; border-style: solid; margin: 3px; float: right;" />In der westlichen Welt wird täglich sehr viel Strom verbraucht. Dies sorgt jedoch auch für hohe CO2-Ausstöße. Beginnen tut dies bereits bei dem Aufladen des Smartphones. Immer muss das Handy voll sein und der MP3-Player und das Tablet ebenfalls. Zudem wird nicht rund um die Uhr überprüft, wann alle Geräte vollständig aufgeladen sind.<br />
+<br />
+<strong>Tipp:</strong> Zeitschaltuhren einbauen oder Geräte nicht vollständig aufladen (was dem Akku zudem gut tut), damit unnötige Ladezeiten vermieden werden können.<br />
+<br />
+Ähnlich verhält es sich mit dem Stand-By. Immer werden Geräte an der Steckdose gelassen und sorgen somit dafür, dass immer mehr Strom gezogen wird. Spitzenreiter sind die Fernseher. Hier eignen sich Verteilerboxen, welche seperat an- sowie ausgeschaltet werden können.<br />
+<br />
+<strong>1.2 Auch das Waschen will gelernt sein!</strong><br />
+<br />
+In puncto Waschen werden die Waschmaschinen häufig angesetzt, auch wenn diese nicht mal zur Hälfte befüllt wurden. Diese Phänomene sollten vermieden werden. Bei Feinwaschgängen sollte die Maschine mindestens zur Hälfte befüllt werden, bei normalen Waschgängen ist es möglich, die Maschine komplett zu füllen.<br />
+<br />
+Doch auch der Schritt nach dem Waschen sorgt für Probleme. Das Trocknen per Wäschetrockner zieht deutlich mehr Strom als ein 30-minütiger Waschdurchgang. Wärmepumpentrockner sind hier etwas sparsamer als Kondenstrockner, jedoch immer noch immense Verbraucher.<br />
+<br />
+<strong>Tipp:</strong> Einfach öfters zur klassischen Wäschespinne greifen und die Wäsche aufhängen!<br />
+<br />
+<strong>1.3 weitere Aspekte</strong><br />
+<br />
+Stromfressende Kühlschränke, weniger sparsame Glühbirnen und auch das permanente Lauflassen des Wasserhahns können einen enormen Verbrauch beschwören. Ebenso ist es effizienter, zu duschen statt ein ausgiebiges Bad zu nehmen. Hier verbraucht man in etwa 140 Liter, während <a href="https://www.saxoboard.net/wasserverbrauch-duschen.html">beim Duschen lediglich bis zu 20 Liter Wasser pro Minute</a> verwendet werden.</p>
+
+<h2>2 Die Ernährung</h2>
+
+<p><img alt="Gesunde Ernährung" src="http://www.tech-know.eu/images/ernaehrung.jpg" style="width: 300px; height: 200px; border-width: 1px; border-style: solid; margin: 3px; float: right;" />Im Endeffekt leben wir in einer Konsumgesellschaft, jedoch sollte nicht für die Tonne produziert und eingekauft werden. Aus diesem Grund ist es sinnvoller, das MHD im Auge zu behalten.<br />
+<br />
+<strong>Wissenswert:</strong> Im Durchschnitt wird bei den Deutschen jedes 8. Lebensmittel weggeworfen!<br />
+<br />
+Weiterhin eignet sich eine nachhaltige Ernährung in puncto Fleisch, Obst und Gemüse. Lange Anfahrtszeiten sollten vermieden werden. Somit eignet sich der Apfel aus der Region besser als die <a href="http://www.tanzania-experience.com/de/blog/bananen-fuer-afrika/">Banane aus Afrika</a>.<br />
+<br />
+Bei Tieren wird das Futter oftmals aus Südamerika importiert. Es ist günstig sowie auf Soja-Basis. Jedoch ist dies höchst unökologisch. Auch auf diesen Aspekt sollte beim Fleischverzehr geachtet werden.</p>
+
+<h2>3 Reisen, Geschäftsfahrten und weitere Ausflüge</h2>
+
+<p>Viele Menschen reisen im Auto allein, was sich als höchst unökonomisch erweist. Aus diesem Grund ist es ratsam, über Mitfahrgelegenheiten und Co. entweder selbst Mitfahrer zu suchen oder bei anderen mitzufahren.<br />
+<br />
+Auch ein vorausschauendes Fahren kann von Vorteil sein und kommt nicht nur dem Benzinverbrauch zu gute. Weiterhin ist es ratsam, auch mal den Fuß vom Gaspedal zu lassen.<br />
+<br />
+<strong>Tipp:</strong> In vielen Fällen eignet sich zudem die Nutzung der öffentlichen Verkehrsmittel. Hier kann die Fahrt sogar dafür genutzt werden, etwas anderes zu tun.<br />
+<br />
+Das Reisen per Flugzeug ist jedoch nach wie vor ein großes Problem. Somit muss es nicht unbedingt jedes Jahr der Urlaub in weiter Ferne sein. Die Alpen oder auch die Nordsee können ebenfalls schöne Zielorte darstellen.</p>
+
+<h2>4 Der Klamottenwahn</h2>
+
+<p>Die Kleidungsindustrie boomt! Ständig wird geshoppt, bis der Arzt kommt. Doch ist dies unbedingt notwendig? Und muss es vor allem stets der günstig hergestellte Pullover sein? Faire Marken sind sehr empfehlenswert. Weiterhin ist es ratsam, nicht immer seinen Kleiderschrank komplett zu überholen. Wer doch etwas aussortiert, sollte dies nicht in den Müll schmeißen, sondern in die nächste Kleidertonne.<br />
+<br />
+<u><strong>Fazit</strong></u><br />
+<br />
+Es gibt unzählige Möglichkeiten, um die Umwelt tagtäglich etwas schonen zu können. Jeder kann etwas dafür tun. Meist ist der Aufwand dafür gering, jedoch der Nutzen auf Dauer enorm. Jährlich wird viel zu viel für die Tonne produziert. Dank Fahrzeugen und Flugzeugen ist die CO2-Emission enorm. Etliche Tiere sterben umsonst. Schritt für Schritt kann jeder etwas dagegen tun und nachhaltig die Zukunft sichern.</p>
+	</div><!-- .entry-content -->
+
+	
+</article>
+
+<!-- #post-1 --> <!-- #nav-below --> <!-- #comments .comments-area --> </div><!-- #content .site-content --> </div><!-- #primary .content-area --> <div class="c4 end" id="secondary" role="complementary"></div><!-- #secondary .widget-area --> </div><!-- #main .site-main -->
+<div class="row" id="sidebar-footer"> <div class="c4"></div> <div class="c4"></div> <div class="c4 end"></div> </div> <div style="border-top:solid 5px;margin-bottom: 5px;"></div><!-- Garis Pembatas -->
+<div class="row">
+<footer class="c12" id="colophon" role="contentinfo"></footer></div><!-- #colophon .site-footer -->
+</div><!-- #page .hfeed .site -->
+<div id="toTop">^ Back to Top</div>
+<script src="http://www.tech-know.eu/wp-content/themes/dk/js/plugin.js?ver=20120206" type="text/javascript"></script>
+<script src="http://www.tech-know.eu/wp-content/themes/dk/js/small-menu.js?ver=20120206" type="text/javascript"></script>
+<script src="http://www.tech-know.eu/wp-includes/js/wp-embed.min.js?ver=4.7.5-alpha-40547" type="text/javascript"></script>
+</body></html>
+

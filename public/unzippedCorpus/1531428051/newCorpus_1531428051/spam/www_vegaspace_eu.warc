@@ -1,0 +1,334 @@
+WARC/1.0
+WARC-Type: warcinfo
+WARC-Date: 2018-05-30T17:52:30Z
+WARC-Record-ID: <urn:uuid:081563ba-3b61-43d7-8e70-7b2b04150611>
+WARC-All-Language: de-DE, de
+WARC-All-Content_type: text/html; charset=UTF-8, text/html
+Content-Type: application/http;msgtype=response
+Content-Length: 46
+
+WARCProcessor by SING Group www.sing-group.com
+
+WARC/1.0
+WARC-Type: response
+WARC-Record-ID: <http://www.vegaspace.eu>
+WARC-Date: 20180530175230
+WARC-Target-URI: http://www.vegaspace.eu
+WARC-Language: de-DE
+Content-Type: application/http;msgtype=response
+Content-Length: 33094
+
+HTTP/1.1 200
+Content-Type:text/html; charset=UTF-8
+
+
+<!doctype html>
+<!--[if !IE]>
+<html class="no-js non-ie" lang="de-DE"> <![endif]-->
+<!--[if IE 7 ]>
+<html class="no-js ie7" lang="de-DE"> <![endif]-->
+<!--[if IE 8 ]>
+<html class="no-js ie8" lang="de-DE"> <![endif]-->
+<!--[if IE 9 ]>
+<html class="no-js ie9" lang="de-DE"> <![endif]-->
+<!--[if gt IE 9]><!-->
+<html class="no-js" lang="de-DE"> <!--<![endif]-->
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="theme-color" content="">
+<link rel="profile" href="http://gmpg.org/xfn/11">
+
+<title>vegaspace.eu</title>
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="vegaspace.eu &raquo; Feed" href="http://www.vegaspace.eu/feed/" />
+<link rel="alternate" type="application/rss+xml" title="vegaspace.eu &raquo; Kommentar-Feed" href="http://www.vegaspace.eu/comments/feed/" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.2.1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.2.1\/svg\/","svgExt":".svg","source":{"concatemoji":"http:\/\/www.vegaspace.eu\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.7.10"}};
+			!function(a,b,c){function d(a){var b,c,d,e,f=String.fromCharCode;if(!k||!k.fillText)return!1;switch(k.clearRect(0,0,j.width,j.height),k.textBaseline="top",k.font="600 32px Arial",a){case"flag":return k.fillText(f(55356,56826,55356,56819),0,0),!(j.toDataURL().length<3e3)&&(k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,57331,65039,8205,55356,57096),0,0),b=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,57331,55356,57096),0,0),c=j.toDataURL(),b!==c);case"emoji4":return k.fillText(f(55357,56425,55356,57341,8205,55357,56507),0,0),d=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55357,56425,55356,57341,55357,56507),0,0),e=j.toDataURL(),d!==e}return!1}function e(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g,h,i,j=b.createElement("canvas"),k=j.getContext&&j.getContext("2d");for(i=Array("flag","emoji4"),c.supports={everything:!0,everythingExceptFlag:!0},h=0;h<i.length;h++)c.supports[i[h]]=d(i[h]),c.supports.everything=c.supports.everything&&c.supports[i[h]],"flag"!==i[h]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[i[h]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='sparkling-bootstrap-css'  href='http://www.vegaspace.eu/wp-content/themes/sparkling/inc/css/bootstrap.min.css?ver=4.7.10' type='text/css' media='all' />
+<link rel='stylesheet' id='sparkling-icons-css'  href='http://www.vegaspace.eu/wp-content/themes/sparkling/inc/css/font-awesome.min.css?ver=4.7.10' type='text/css' media='all' />
+<link rel='stylesheet' id='sparkling-fonts-css'  href='//fonts.googleapis.com/css?family=Open+Sans%3A400italic%2C400%2C600%2C700%7CRoboto+Slab%3A400%2C300%2C700&#038;ver=4.7.10' type='text/css' media='all' />
+<link rel='stylesheet' id='sparkling-style-css'  href='http://www.vegaspace.eu/wp-content/themes/sparkling/style.css?ver=4.7.10' type='text/css' media='all' />
+<script type='text/javascript' src='http://www.vegaspace.eu/wp-includes/js/jquery/jquery.js?ver=1.12.4'></script>
+<script type='text/javascript' src='http://www.vegaspace.eu/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
+<script type='text/javascript' src='http://www.vegaspace.eu/wp-content/themes/sparkling/inc/js/modernizr.min.js?ver=4.7.10'></script>
+<script type='text/javascript' src='http://www.vegaspace.eu/wp-content/themes/sparkling/inc/js/bootstrap.min.js?ver=4.7.10'></script>
+<script type='text/javascript' src='http://www.vegaspace.eu/wp-content/themes/sparkling/inc/js/functions.min.js?ver=4.7.10'></script>
+<link rel='https://api.w.org/' href='http://www.vegaspace.eu/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www.vegaspace.eu/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://www.vegaspace.eu/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 4.7.10" />
+<style type="text/css"></style>		<style type="text/css">.recentcomments a{display:inline !important;padding:0 !important;margin:0 !important;}</style>
+		
+</head>
+
+<body class="home blog">
+<a class="sr-only sr-only-focusable" href="#content">Skip to main content</a>
+<div id="page" class="hfeed site">
+
+	<header id="masthead" class="site-header" role="banner">
+		<nav class="navbar navbar-default " role="navigation">
+			<div class="container">
+				<div class="row">
+					<div class="site-navigation-inner col-sm-12">
+						<div class="navbar-header">
+							<button type="button" class="btn navbar-toggle" data-toggle="collapse" data-target=".navbar-ex1-collapse">
+								<span class="sr-only">Toggle navigation</span>
+								<span class="icon-bar"></span>
+								<span class="icon-bar"></span>
+								<span class="icon-bar"></span>
+							</button>
+
+							
+							<div id="logo">
+								<a href="http://www.vegaspace.eu/"><img src="http://www.vegaspace.eu/wp-content/uploads/2017/06/cropped-love-1643452_960_720.jpg"  height="243" width="960" alt="vegaspace.eu"/></a>
+							</div><!-- end of #logo -->
+
+							
+							
+						</div>
+						<div class="collapse navbar-collapse navbar-ex1-collapse"><ul id="menu-menue" class="nav navbar-nav"><li id="menu-item-39" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-39"><a title="Datenschutz" href="http://www.vegaspace.eu/datenschutz/">Datenschutz</a></li>
+<li id="menu-item-40" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-40"><a title="Impressum" href="http://www.vegaspace.eu/impressum/">Impressum</a></li>
+</ul></div>					</div>
+				</div>
+			</div>
+		</nav><!-- .site-navigation -->
+	</header><!-- #masthead -->
+
+	<div id="content" class="site-content">
+
+		<div class="top-section">
+								</div>
+
+		<div class="container main-content-area">
+            			<div class="row side-pull-left">
+				<div class="main-content-inner col-sm-12 col-md-8">
+
+	<div id="primary" class="content-area">
+		<main id="main" class="site-main" role="main">
+
+		
+<article id="post-50" class="post-50 post type-post status-publish format-standard hentry category-hilfe category-uncategorized">
+	<div class="blog-item-wrap">
+				<a href="http://www.vegaspace.eu/wer-auf-einer-online-datingboerse-ist-am-ehesten-ein-geeigneter-partner-fuer-mich/" title="Wer auf einer Online-Datingbörse ist am ehesten ein geeigneter Partner für mich?" >
+			 				</a>
+		<div class="post-inner-content">
+			<header class="entry-header page-header">
+
+				<h2 class="entry-title"><a href="http://www.vegaspace.eu/wer-auf-einer-online-datingboerse-ist-am-ehesten-ein-geeigneter-partner-fuer-mich/" rel="bookmark">Wer auf einer Online-Datingbörse ist am ehesten ein geeigneter Partner für mich?</a></h2>
+
+								<div class="entry-meta">
+					<span class="posted-on"><i class="fa fa-calendar"></i> <a href="http://www.vegaspace.eu/wer-auf-einer-online-datingboerse-ist-am-ehesten-ein-geeigneter-partner-fuer-mich/" rel="bookmark"><time class="entry-date published" datetime="2017-06-17T10:00:19+00:00">Juni 17, 2017</time><time class="updated" datetime="2017-06-17T10:00:33+00:00">Juni 17, 2017</time></a></span><span class="byline"> <i class="fa fa-user"></i> <span class="author vcard"><a class="url fn n" href="http://www.vegaspace.eu/author/vegaspace-eu/">vegaspace.eu</a></span></span>
+				
+				</div><!-- .entry-meta -->
+							</header><!-- .entry-header -->
+
+						<div class="entry-content">
+
+				<p>Wenn man sich auf einer Partnerbörse im Internet anmeldet, dann ist das ein Stück weit so, als zöge man um. Man sieht plötzlich völlig neue Menschen und findet alles aufregend – was auch für eben jene neuen Menschen gilt. Da entwickelt man schnell ein Faible für jemanden, der vielleicht beeindruckend und faszinierend erscheint, aber eigentlich gar nicht der Richtige für einen selbst ist. Wenn man diese erste Phase des Sich-Umschauens überwunden hat, ist etwas mehr Realismus gefragt. Man muss in sich gehen und überlegen, was für einen Partner man denn in Wirklichkeit will und braucht. Dann muss man mit diesem neu gewonnen realistischen Blick die Profile der bisher so aufregenden und faszinierenden Menschen kritisch durchstöbern und genau auf sein Bauchgefühl achten – Bleibt die Faszination oder weicht sie <strong>vielmehr einer Desillusionierung?</strong></p>
+<p>Worauf man achten sollte, das mag gerade den vielen Menschen noch schleierhaft sein, die relativ offen für Neues bei der Partnersuche sind. Doch die Partnersuche ist für Viele die Suche nach dem Partner fürs Leben und bevor man sein Leben mit einer Person verbringt, überlegt man sich besser zweimal, ob man dieses Abenteuer wirklich mit dieser Person wagen will. Also wird deutlich, dass es durchaus wichtig ist, bei der Partnersuche auch im Netz einen kritischen und realistischen Blick auf sich selbst wie auch auf die möglichen zukünftigen Partner zu bewahren. Aber die Frage bleibt zu klären, was denn nun an Gemeinsamkeiten wichtig ist, wenn man jemanden sucht, mit dem man sein <em>Leben</em> zusammen verbringen will.</p>
+<blockquote><p>Da wäre zunächst einmal die Frage nach der Haltung zu einem Wohnort. Wenn eine Person am liebsten an jedem Ort auf der Welt einmal leben will und die andere Person ihren Heimatort um keinen Preis verlassen will, <strong>bleibt nur eine Fernbeziehung als Option für beide übrig.</strong> Ob die Personen das wollen, müssen sie selbst wissen – ihnen entginge auf jeden Fall Vieles aus dem Leben des jeweils Anderen.</p></blockquote>
+<p>Gerade für Personen in den Zwanzigern und Dreißigern kann die Frage nach dem Kinderwunsch über die Zukunft der Beziehung entscheiden. Den kann man zwar in den allermeisten Fällen nicht aus dem Profil bei einer Datingbörse herauslesen, jedoch wird es bei den Dates oder auch in einer Beziehung früher oder später ein Gespräch über Kinder geben. Wenn zum Beispiel ein Partner unbedingt Kinder will und sogar möglichst viele und der andere Partner dem Kinderkriegen eher ablehnend gegenübersteht oder sich seiner Sache vielleicht auch schon sehr sicher ist, dann könnte es später in der Beziehung großen Streit geben,<strong> weil einer der Partner durch den anderen etwas im Leben verpasst hat, was ihm wichtig war</strong>.</p>
+<p>Am wichtigsten für das Gelingen einer Beziehung sind jedoch grundlegende Wertvorstellungen, die jeder Mensch hat. Dabei geht es weniger darum, ob man nun sein Essen bio bevorzugt oder nicht, sondern eher darum, wie man zur<em> Rolle der Frau in der Gesellschaft</em> positioniert ist. Das kann besonders in heterosexuellen Beziehungen zu einem wahren Pulverfass werden, wenn die Partner sich uneinig sind und ihre Meinung vehement verfechten.</p>
+<p><img class="aligncenter size-full wp-image-51" src="http://www.vegaspace.eu/wp-content/uploads/2017/06/mussels-1584008_960_720.jpg" alt="" width="960" height="540" srcset="http://www.vegaspace.eu/wp-content/uploads/2017/06/mussels-1584008_960_720.jpg 960w, http://www.vegaspace.eu/wp-content/uploads/2017/06/mussels-1584008_960_720-300x169.jpg 300w, http://www.vegaspace.eu/wp-content/uploads/2017/06/mussels-1584008_960_720-768x432.jpg 768w" sizes="(max-width: 960px) 100vw, 960px" /></p>
+
+							</div><!-- .entry-content -->
+					</div>
+	</div>
+</article><!-- #post-## -->
+
+<article id="post-47" class="post-47 post type-post status-publish format-standard hentry category-ratgeber">
+	<div class="blog-item-wrap">
+				<a href="http://www.vegaspace.eu/welche-partnerboerse-im-netz-ist-fuer-mich-geeignet/" title="Welche Partnerbörse im Netz ist für mich geeignet?" >
+			 				</a>
+		<div class="post-inner-content">
+			<header class="entry-header page-header">
+
+				<h2 class="entry-title"><a href="http://www.vegaspace.eu/welche-partnerboerse-im-netz-ist-fuer-mich-geeignet/" rel="bookmark">Welche Partnerbörse im Netz ist für mich geeignet?</a></h2>
+
+								<div class="entry-meta">
+					<span class="posted-on"><i class="fa fa-calendar"></i> <a href="http://www.vegaspace.eu/welche-partnerboerse-im-netz-ist-fuer-mich-geeignet/" rel="bookmark"><time class="entry-date published" datetime="2017-06-17T09:54:07+00:00">Juni 17, 2017</time></a></span><span class="byline"> <i class="fa fa-user"></i> <span class="author vcard"><a class="url fn n" href="http://www.vegaspace.eu/author/vegaspace-eu/">vegaspace.eu</a></span></span>
+				
+				</div><!-- .entry-meta -->
+							</header><!-- .entry-header -->
+
+						<div class="entry-content">
+
+				<p>Der Entscheidung, sich in <strong>Zukunft</strong> (möglicherweise auch nur unter anderem) im Internet nach einem Partner umzusehen, gehen im Bestfall lange Überlegungen voraus, was das einem persönlich bringen kann, was man sonst nicht haben kann. Man hat sich so also hoffentlich reiflich überlegt, was das <strong>Online-Dating konkret für einen bedeutet</strong> und welchen Aufwand es unter Umständen bedeuten kann. Doch auf die zunächst nur allgemeine Entscheidung für das Online-Dating an sich muss bald eine konkrete Entscheidung für eine oder mehrere Plattformen folgen, auf denen man sich dann schleunigst anmeldet, wenn man denn wirklich Erfolg haben will bei der Partnersuche im Netz. Außerdem: Sie waren lange genug alleine.</p>
+<p><img class="aligncenter size-full wp-image-48" src="http://www.vegaspace.eu/wp-content/uploads/2017/06/girl-1775035_960_720.jpg" alt="" width="960" height="595" srcset="http://www.vegaspace.eu/wp-content/uploads/2017/06/girl-1775035_960_720.jpg 960w, http://www.vegaspace.eu/wp-content/uploads/2017/06/girl-1775035_960_720-300x186.jpg 300w, http://www.vegaspace.eu/wp-content/uploads/2017/06/girl-1775035_960_720-768x476.jpg 768w" sizes="(max-width: 960px) 100vw, 960px" /></p>
+<blockquote><p>Jedoch ist zu beachten, dass es die verschiedensten Partnerbörsen im Internet gibt. Sie unterscheiden sich teilweise extrem voneinander. Die wichtigsten Kriterien bei der Auswahl einer oder mehrerer geeigneter Partnerbörsen sind zuallererst einmal die Struktur der Mitglieder, dann die preisliche Gestaltung der Dienste und nicht zuletzt die Bedienbarkeit des Portals. Nicht zu vernachlässigen ist außerdem noch die Arbeitsweise der Partnerbörse (finden Sie die beste hier: beste Dating Portale 2017 online finden) und gegebenenfalls auch der Datenschutz, wenn man darauf Wert legt.</p></blockquote>
+<p>Stellen wir also einmal die wichtigsten Partnerbörsen im Online-Dating vor. Da gibt es zunächst die Marktführer Parship und ElitePartner, welche sich beide an gebildete Besserverdiener richten. ElitePartner hat da den sehr aussagekräftigen Werbespruch „Akademiker und Singles mit Niveau“. Diese Orientierung der beiden Seiten findet sich auch in der preislichen Gestaltung der Seiten wieder, die beide eher hohe Gebühren von ihren Mitgliedern fordern. Dafür bieten sie den Mitgliedern aber auch sehr viel. Dazu zählt zum Beispiel, dass ElitePartner jedes Profil vor der Freischaltung von einem Mitarbeiter kontrollieren lässt, um zu verhindern, dass Fake-Profile erstellt werden können. Die <em>sogenannten Fake-Profile</em> gelten nämlich sonst als sehr großes Problem auf vielen Portalen zum Online-Dating &#8211; mehr Infos unter http://www.singlely.net/online-dating/ -, da sich hinter ihnen <strong>keine Menschen verbergen</strong>, die ehrlich nach einem Partner fürs Leben suchen, sondern im schlimmsten Fall sogar Betrüger, die es nur auf das Geld der ernsthaft <strong>suchenden Mitglieder abgesehen haben</strong>. Doch zurück zu den Kriterien und deren Erfüllung durch ElitePartner und Parship. Beide Portale werden häufig dafür gelobt, dass ihre Webseiten wie auch ihre Apps sehr gut zu bedienen sind und direkt auf den ersten Blick überschaubar sind, sodass auch neue Mitglieder sich schnell zurechtfinden. Gerade für ihren Datenschutz werden aber diese beiden Portale immer hervorgehoben, denn darauf legen sie großen Wert und setzen ihn auch gewissenhaft um. Sie tun sich außerdem durch sehr seriöse und transparente Verträge hervor. Aber nun noch das, was bei der Partnersuche letztlich zum Erfolg führt: die Arbeitsweise der Portale. ElitePartner wie auch Parship nutzen einen Persönlichkeitstest, dessen Ergebnisse ein Algorithmus unter den einzelnen Nutzern dann abgleicht. Nutzer, die nach der wissenschaftlich fundierten Einschätzung gut zusammenpassen, werden einander als mögliche zukünftige Partner vorgeschlagen. Diese Methode hat in der Vergangenheit bereits zu <strong>vielen Erfolgen</strong> geführt und maßgeblich zum guten Ruf der Portale beigetragen.</p>
+<p>Aber es gibt noch viele andere Portale als nur ElitePartner (ein Test dieser Plattform Elitepartner ist die beste Partnerbörse) und Parship. Diese beiden sind bloß dann am besten geeignet, wenn man über ein solides Einkommen verfügt und ernsthaft nach einem neuen Partner sucht.</p>
+
+							</div><!-- .entry-content -->
+					</div>
+	</div>
+</article><!-- #post-## -->
+
+<article id="post-45" class="post-45 post type-post status-publish format-standard hentry category-hilfe">
+	<div class="blog-item-wrap">
+				<a href="http://www.vegaspace.eu/wie-hat-man-die-besten-erfolgschancen-beim-online-dating/" title="Wie hat man die besten Erfolgschancen beim Online-Dating?" >
+			 				</a>
+		<div class="post-inner-content">
+			<header class="entry-header page-header">
+
+				<h2 class="entry-title"><a href="http://www.vegaspace.eu/wie-hat-man-die-besten-erfolgschancen-beim-online-dating/" rel="bookmark">Wie hat man die besten Erfolgschancen beim Online-Dating?</a></h2>
+
+								<div class="entry-meta">
+					<span class="posted-on"><i class="fa fa-calendar"></i> <a href="http://www.vegaspace.eu/wie-hat-man-die-besten-erfolgschancen-beim-online-dating/" rel="bookmark"><time class="entry-date published" datetime="2017-06-17T09:49:30+00:00">Juni 17, 2017</time></a></span><span class="byline"> <i class="fa fa-user"></i> <span class="author vcard"><a class="url fn n" href="http://www.vegaspace.eu/author/vegaspace-eu/">vegaspace.eu</a></span></span>
+				
+				</div><!-- .entry-meta -->
+							</header><!-- .entry-header -->
+
+						<div class="entry-content">
+
+				<p><strong>Wenn man sich erst einmal für das Online-Dating entschieden hat und sich bereits bei einer oder mehreren Plattformen angemeldet hat, weiß man hoffentlich bereits, was man sich davon genau erhofft.</strong></p>
+<blockquote><p>Im Idealfall hat man sich auch mit der Wirkung seines Profils auseinandergesetzt und sich überlegt, wie man dieses möglichst attraktiv gestalten kann. Wenn das nicht der Fall ist oder man trotz aller Bemühungen nicht den gewünschten Erfolg feiern kann, dann muss man nicht verzweifeln. Denn es gibt immer noch Rat.</p></blockquote>
+<p>Am wichtigsten ist es bei der Gestaltung des Profils, dass man alle Felder ausfüllt. Dafür sollte man sich Zeit nehmen und sich genau überlegen, wie man sich selbst darstellen will. Jeder hat schließlich verschiedene Seiten. Doch man will ja vielleicht nicht gleich beim ersten Eindruck die Leute mit einer Seite überrumpeln, die man sonst eher selten zeigt. So würde man auch einen falschen Eindruck von sich vermitteln. Nicht nur sollte man sich überlegen, was man über sich selbst schreibt, man sollte auch den Text mit möglichst viel Inhalt füllen. Das macht jeden ersten Eindruck, den andere Nutzer <strong><em>nach Ansehen des Profils von einem haben, gleich viel facettenreicher.</em></strong> Die anderen Nutzer wissen auf diese Weise schnell, ob sie wirklich Interesse an dieser Person mit all ihren Eigenschaften haben, oder ob sie sich vielleicht beim ersten Blick auf eine Eigenschaft gestürzt haben, die sie fasziniert, und die anderen, vielleicht auf sie weniger attraktiv wirkenden Eigenschaften ausgeblendet haben. Schlussendlich ermöglicht man sich selbst bessere Chancen  auf eine funktionierende Partnerschaft, wenn man viele relevante Informationen über sich selbst p<strong>reisgibt, da man so weniger böse Überraschungen</strong> erlebt. Und ebenso wenig ist zu vernachlässigen, dass jemand, der viel über sich selbst zu erzählen bereit ist, gleich viel offener wirkt, und dass Offenheit immer Sympathien weckt. Jedoch sollte man Offenheit immer mit einer Prise Zurückhaltung leben, denn es gibt auch viele Dinge, die man sagen kann, die andere Leute eher abschrecken und für die man sich später dann schämt. Deshalb ist es immer zu empfehlen, <strong>negative Bewertungen und Aussagen</strong> sowie politisch inkorrekte Einstellungen aus dem Profil herauszulassen. Am besten ist es, sich dort positiv zu präsentieren, also sich auf das zu fokussieren, was man mag, und das, was man nicht mag, außen vor zu lassen. Das fängt schon bei positiven Formulierungen an.</p>
+<p><iframe width="648" height="365" src="https://www.youtube.com/embed/C_f2GznRrU0?feature=oembed" frameborder="0" allowfullscreen></iframe></p>
+<p>Ein weiteres wichtiges Thema <em>ist das Profilbild, das man selbst einstellt,</em> um etwas über sich selbst auszusagen und auf andere sympathisch zu wirken. Auch hier ist es sehr empfehlenswert, sich immer positiv zu zeigen und sich vor allen Dingen genau zu überlegen, was das Profilbild über einen aussagt. Der lustige <strong>Schnappschusss</strong> aus dem Urlaub in Badekleidung ist also vielleicht nicht das Bild, mit dem man den ersten Eindruck eines möglichen zukünftigen Partners prägen will. Es ist auf jeden Fall empfehlenswert, ein Bild auszuwählen, auf dem man offensichtlich gut gelaunt ist, da das sehr anziehend wirkt. Aber man muss auch den Rest des Bildes und den Kontext, den es einen Betrachter ohne Vorinformationen suggeriert, bei der Auswahl beachten.</p>
+
+							</div><!-- .entry-content -->
+					</div>
+	</div>
+</article><!-- #post-## -->
+
+<article id="post-41" class="post-41 post type-post status-publish format-standard hentry category-ratgeber">
+	<div class="blog-item-wrap">
+				<a href="http://www.vegaspace.eu/41-2/" title="Den Partner fürs Leben bei ElitePartner finden – Wie sehr eignet sich die Seite dazu?" >
+			 				</a>
+		<div class="post-inner-content">
+			<header class="entry-header page-header">
+
+				<h2 class="entry-title"><a href="http://www.vegaspace.eu/41-2/" rel="bookmark">Den Partner fürs Leben bei ElitePartner finden – Wie sehr eignet sich die Seite dazu?</a></h2>
+
+								<div class="entry-meta">
+					<span class="posted-on"><i class="fa fa-calendar"></i> <a href="http://www.vegaspace.eu/41-2/" rel="bookmark"><time class="entry-date published" datetime="2017-06-17T09:44:58+00:00">Juni 17, 2017</time><time class="updated" datetime="2017-06-17T09:46:35+00:00">Juni 17, 2017</time></a></span><span class="byline"> <i class="fa fa-user"></i> <span class="author vcard"><a class="url fn n" href="http://www.vegaspace.eu/author/vegaspace-eu/">vegaspace.eu</a></span></span>
+				
+				</div><!-- .entry-meta -->
+							</header><!-- .entry-header -->
+
+						<div class="entry-content">
+
+				<p>Wer sich für die Partnersuch im Internet interessiert, kommt schnell auf die Seite ElitePartner, zumindest wenn er sich im deutschsprachigen Raum bewegt. Schließlich zählt <em>ElitePartner zu den Marktführern hier. Doch inwieweit kann <strong>ElitePartner</strong> seine Nutzer wirklich zum Erfolg führen?</em></p>
+<p>ElitePartner ist aus der Fernsehwerbung bekannt und wirbt damit, dass seine Nutzer „Akademiker und Singles mit Niveau“ seien. Das spiegelt sich in der Demographie der Nutzer insoweit wider, als 68% davon Akademiker sind und auch die restlichen einen höheren sozioökonomischen Stand haben. Mehr dazu: www.singleboersen24.com &#8211; Verliebt ins Jahr starten! Dies wird zum Teil sicher auch durch die vergleichsweise hohen Kosten beginnend bei <strong>24,90</strong>€ für ein Premium-Abo pro Monat verursacht, die tendenziell eher Menschen mit einem guten Auskommen zu stemmen bereit sind.</p>
+<p>Aber für den Preis bekommen die Nutzer von ElitePartner auch Einiges geboten, vor allem im Bereich der Seriosität und des Datenschutzes. Außerdem noch nutzt ElitePartner ein wissenschaftlich entwickeltes Matching-Verfahren, um für <strong>jeden Nutzer einen möglichst perfekten Partner zu finden.</strong> Für die Seriosität wird vor allem dadurch gesorgt, dass ElitePartner rigoros gegen Fake-Profile vorgeht. Es ist faktisch unmöglich, ein solches zu erstellen, da jedes anzumeldende Profil vor der Freischaltung von einem Mitarbeiter auf seine Echtheit hin überprüft wird. Zudem hat ElitePartner  noch strenge Vorkehrungen in Bezug auf den Datenschutz, der vor allem beim Ausfüllen des Persönlichkeitstests und des Profils von Interesse ist. Keine Sorge, denn Flirten im Internet ist 2017 ganz normal.</p>
+<p>Der Persönlichkeitstest ist ein Ankreuztest, der sich leicht in rund 15 Minuten ausfüllen lässt. Im Profil wird nach dem eigenen Geschlecht, Alter und der Größe sowie nach der Personengruppe gefragt, für die man sich interessiert. Des Weiteren soll man noch wichtige Punkte in der Partnerschaft benennen sowie Wünsche in der Beziehung angeben. Außerdem sind die eigenen Hobbys, Lieblingssportarten und die Lieblingsmusik von Interesse. Von Bedeutung können nicht zuletzt noch der Wohnort, die eigenen Werte und Lebensziele sowie der Bildungsabschluss und das Einkommen sein. <strong><em>Es ist immer empfehlenswert, alle Fragen zu beantworten,</em></strong> da man so authentischer und interessanter wirkt und eher angeschrieben wird. Zudem hat so schlicht und einfach der Matching-Algorithmus mehr Informationen und kann besser passende Partner finden. Dieser arbeitet so, dass er die Informationen der Nutzer abgleicht und nach möglichst gut zu einander passenden Menschen sucht. In einigen Kategorien sind hier Gemeinsamkeiten oder Ähnlichkeiten vorteilhaft, in anderen Kategorien dafür eher Gegensätze. Die bisher gemachten Vorschläge waren immer zufriedenstellend für die Nutzer. ElitePartner (über Singleboersen24 hier mehr&#8230;) achtet bei den Vorschlägen darauf, dass keine Nutzer auftauchen, die schon länger nicht mehr aktiv waren, damit die Partnersuche auch erfolgreich ablaufen kann.</p>
+<p><img class="aligncenter wp-image-32 size-full" src="http://www.vegaspace.eu/wp-content/uploads/2017/06/love-1643452_960_720.jpg" alt="" width="960" height="639" srcset="http://www.vegaspace.eu/wp-content/uploads/2017/06/love-1643452_960_720.jpg 960w, http://www.vegaspace.eu/wp-content/uploads/2017/06/love-1643452_960_720-300x200.jpg 300w, http://www.vegaspace.eu/wp-content/uploads/2017/06/love-1643452_960_720-768x511.jpg 768w" sizes="(max-width: 960px) 100vw, 960px" /></p>
+<p>Will man bei ElitePartner irgendwann seinen Vertrag kündigen, so sollte man sich vorher genau <strong>mit den Klauseln befassen, da die Kündigung fristgerecht und korrekt eingereicht werden muss</strong>, um wirksam zu werden. Sonst verlängert sich der Vertrag automatisch. Allerdings ist der Vertrag sehr übersichtlich und transparent gestaltet, sodass es kein Problem sein sollte, die Modalitäten für die Kündigung zu finden.</p>
+<blockquote><p>Als kurzes Fazit lässt sich festhalten, dass sich ElitePartner durchaus zu Recht als eine seriöse und aussichtsreiche Plattform zur Partnersuche für Singles mit höherem Niveau etabliert hat.</p></blockquote>
+
+							</div><!-- .entry-content -->
+					</div>
+	</div>
+</article><!-- #post-## -->
+
+		</main><!-- #main -->
+	</div><!-- #primary -->
+
+</div>
+	<div id="secondary" class="widget-area col-sm-12 col-md-4" role="complementary">
+		<div class="well">
+						<aside id="search-2" class="widget widget_search">
+<form role="search" method="get" class="form-search" action="http://www.vegaspace.eu/">
+  <div class="input-group">
+  	<label class="screen-reader-text" for="s">Suche nach:</label>
+    <input type="text" class="form-control search-query" placeholder="Suche &hellip;" value="" name="s" title="Suche nach:" />
+    <span class="input-group-btn">
+      <button type="submit" class="btn btn-default" name="submit" id="searchsubmit" value="Suche"><span class="glyphicon glyphicon-search"></span></button>
+    </span>
+  </div>
+</form></aside>		<aside id="recent-posts-2" class="widget widget_recent_entries">		<h3 class="widget-title">Neueste Beiträge</h3>		<ul>
+					<li>
+				<a href="http://www.vegaspace.eu/wer-auf-einer-online-datingboerse-ist-am-ehesten-ein-geeigneter-partner-fuer-mich/">Wer auf einer Online-Datingbörse ist am ehesten ein geeigneter Partner für mich?</a>
+						</li>
+					<li>
+				<a href="http://www.vegaspace.eu/welche-partnerboerse-im-netz-ist-fuer-mich-geeignet/">Welche Partnerbörse im Netz ist für mich geeignet?</a>
+						</li>
+					<li>
+				<a href="http://www.vegaspace.eu/wie-hat-man-die-besten-erfolgschancen-beim-online-dating/">Wie hat man die besten Erfolgschancen beim Online-Dating?</a>
+						</li>
+					<li>
+				<a href="http://www.vegaspace.eu/41-2/">Den Partner fürs Leben bei ElitePartner finden – Wie sehr eignet sich die Seite dazu?</a>
+						</li>
+				</ul>
+		</aside>		<aside id="recent-comments-2" class="widget widget_recent_comments"><h3 class="widget-title">Neueste Kommentare</h3><ul id="recentcomments"></ul></aside><aside id="archives-2" class="widget widget_archive"><h3 class="widget-title">Archive</h3>		<ul>
+			<li><a href='http://www.vegaspace.eu/2017/06/'>Juni 2017</a></li>
+		</ul>
+		</aside><aside id="categories-2" class="widget widget_categories"><h3 class="widget-title">Kategorien</h3>		<ul>
+	<li class="cat-item cat-item-4"><a href="http://www.vegaspace.eu/category/hilfe/" >Hilfe</a>
+</li>
+	<li class="cat-item cat-item-3"><a href="http://www.vegaspace.eu/category/ratgeber/" >Ratgeber</a>
+</li>
+	<li class="cat-item cat-item-1"><a href="http://www.vegaspace.eu/category/uncategorized/" >Uncategorized</a>
+</li>
+		</ul>
+</aside><aside id="meta-2" class="widget widget_meta"><h3 class="widget-title">Meta</h3>			<ul>
+						<li><a href="http://www.vegaspace.eu/wp-login.php">Anmelden</a></li>
+			<li><a href="http://www.vegaspace.eu/feed/">Beitrags-Feed (<abbr title="Really Simple Syndication">RSS</abbr>)</a></li>
+			<li><a href="http://www.vegaspace.eu/comments/feed/">Kommentare als <abbr title="Really Simple Syndication">RSS</abbr></a></li>
+			<li><a href="https://wordpress.org/" title="Powered by WordPress, state-of-the-art semantic personal publishing platform.">WordPress.org</a></li>			</ul>
+			</aside>		</div>
+	</div><!-- #secondary -->
+		</div><!-- close .row -->
+	</div><!-- close .container -->
+</div><!-- close .site-content -->
+
+	<div id="footer-area">
+		<div class="container footer-inner">
+			<div class="row">
+				
+				</div>
+		</div>
+
+		<footer id="colophon" class="site-footer" role="contentinfo">
+			<div class="site-info container">
+				<div class="row">
+										<nav role="navigation" class="col-md-6">
+											</nav>
+					<div class="copyright col-md-6">
+						sparkling						Theme von <a href="http://colorlib.com/" target="_blank">Colorlib</a> Powered by <a href="http://wordpress.org/" target="_blank">WordPress</a>					</div>
+				</div>
+			</div><!-- .site-info -->
+			<div class="scroll-to-top"><i class="fa fa-angle-up"></i></div><!-- .scroll-to-top -->
+		</footer><!-- #colophon -->
+	</div>
+</div><!-- #page -->
+
+  <script type="text/javascript">
+    jQuery( document ).ready( function( $ ){
+      if ( $( window ).width() >= 767 ){
+        $( '.navbar-nav > li.menu-item > a' ).click( function(){
+            if( $( this ).attr('target') !== '_blank' ){
+                window.location = $( this ).attr( 'href' );
+            }else{
+                var win = window.open($( this ).attr( 'href' ), '_blank');
+                win.focus();
+            }
+        });
+      }
+    });
+  </script>
+<script type='text/javascript' src='http://www.vegaspace.eu/wp-content/themes/sparkling/inc/js/skip-link-focus-fix.js?ver=20140222'></script>
+<script type='text/javascript' src='http://www.vegaspace.eu/wp-includes/js/wp-embed.min.js?ver=4.7.10'></script>
+
+</body>
+</html>
+

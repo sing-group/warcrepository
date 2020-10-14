@@ -1,0 +1,45 @@
+WARC/1.0
+WARC-Type: warcinfo
+WARC-Date: 2018-05-30T17:52:31Z
+WARC-All-Language: fr
+WARC-All-Content_type: text/html
+WARC-Record-ID: <urn:uuid:d288891c-f954-4add-90f5-f1271d83eeeb>
+Content-Type: application/http;msgtype=response
+Content-Length: 46
+
+WARCProcessor by SING Group www.sing-group.com
+
+WARC/1.0
+WARC-Type: response
+WARC-Target-URI: http://www.networksunlimited.eu
+WARC-Date: 20180530175231
+WARC-Language: fr
+WARC-Record-ID: <http://www.networksunlimited.eu>
+Content-Type: application/http;msgtype=response
+Content-Length: 814
+
+HTTP/1.1 200
+Content-Type:text/html
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Frameset//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-frameset.dtd">
+
+<html>
+<head>
+<title>Networks Unlimited</title>
+<meta name="keywords" content="ITSM, Network Management, Active Directory, ServiceDesk, SysAid, ManageEngine" />
+<meta name="description" content="Networks Unlimited are a leading provider of IT Management, IT Security and Service Management Tools" />
+<meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+</head>
+<frameset rows="100%">
+<frame src="http://www.nultd.nu/" title="Networks Unlimited" frameborder="0" noresize="noresize"/>
+<noframes>
+<body>
+<h1>Networks Unlimited</h1>
+<p><a href="http://www.nultd.nu/">http://networksunlimited.eu/</a></p>
+</body>
+</noframes>
+</frameset>
+</html>
+
+

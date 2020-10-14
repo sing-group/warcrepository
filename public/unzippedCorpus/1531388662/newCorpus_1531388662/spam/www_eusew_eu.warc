@@ -1,0 +1,595 @@
+WARC/1.0
+WARC-Type: warcinfo
+WARC-Date: 2018-05-30T17:52:31Z
+WARC-Record-ID: <urn:uuid:e41bfb4f-9ef3-48bc-a561-749b7d7ebddb>
+WARC-All-Language: en
+WARC-All-Content_type: text/html, text/html; charset=utf-8
+Content-Type: application/http;msgtype=response
+Content-Length: 46
+
+WARCProcessor by SING Group www.sing-group.com
+
+WARC/1.0
+WARC-Type: response
+WARC-Record-ID: <http://www.eusew.eu>
+WARC-Date: 20180530175231
+WARC-Target-URI: http://www.eusew.eu
+WARC-Language: en
+Content-Type: application/http;msgtype=response
+Content-Length: 48147
+
+HTTP/1.1 200
+Content-Type:text/html; charset=utf-8
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML+RDFa 1.0//EN"
+  "http://www.w3.org/MarkUp/DTD/xhtml-rdfa-1.dtd">
+<html lang="en" dir="ltr"
+  xmlns:og="http://ogp.me/ns#"
+  xmlns:article="http://ogp.me/ns/article#"
+  xmlns:book="http://ogp.me/ns/book#"
+  xmlns:profile="http://ogp.me/ns/profile#"
+  xmlns:video="http://ogp.me/ns/video#"
+  xmlns:product="http://ogp.me/ns/product#"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/terms/"
+  xmlns:foaf="http://xmlns.com/foaf/0.1/"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:sioc="http://rdfs.org/sioc/ns#"
+  xmlns:sioct="http://rdfs.org/sioc/types#"
+  xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+  xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+<head profile="http://www.w3.org/1999/xhtml/vocab">
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="google-site-verification" content="quqYYjchh0zEbeLP96_8Tazc09TnEuMHSDXkxQyfXiU" />
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="apple-touch-icon" sizes="57x57" href="/sites/default/files/favicons/apple-touch-icon-57x57.png"/>
+<link rel="apple-touch-icon" sizes="60x60" href="/sites/default/files/favicons/apple-touch-icon-60x60.png"/>
+<link rel="apple-touch-icon" sizes="72x72" href="/sites/default/files/favicons/apple-touch-icon-72x72.png"/>
+<link rel="apple-touch-icon" sizes="76x76" href="/sites/default/files/favicons/apple-touch-icon-76x76.png"/>
+<link rel="apple-touch-icon" sizes="114x114" href="/sites/default/files/favicons/apple-touch-icon-114x114.png"/>
+<link rel="apple-touch-icon" sizes="120x120" href="/sites/default/files/favicons/apple-touch-icon-120x120.png"/>
+<link rel="apple-touch-icon" sizes="144x144" href="/sites/default/files/favicons/apple-touch-icon-144x144.png"/>
+<link rel="apple-touch-icon" sizes="152x152" href="/sites/default/files/favicons/apple-touch-icon-152x152.png"/>
+<link rel="icon" type="image/png" href="/sites/default/files/favicons/favicon-32x32.png" sizes="32x32"/>
+<link rel="icon" type="image/png" href="/sites/default/files/favicons/favicon-96x96.png" sizes="96x96"/>
+<link rel="icon" type="image/png" href="/sites/default/files/favicons/favicon-16x16.png" sizes="16x16"/>
+<link rel="manifest" href="/sites/default/files/favicons/manifest.json"/>
+<meta name="msapplication-TileColor" content="#e3ebbe"/>
+<meta name="msapplication-TileImage" content="/sites/default/files/favicons/mstile-144x144.png"/>
+<meta name="theme-color" content="#ffffff"/>
+<meta name="description" content="EU Sustainable Energy Week promotes sustainable energy across Europe. Its annual conference, awards, and grassroots events connect government, citizens and organisations for a clean-energy future." />
+<meta name="robots" content="index" />
+<meta name="abstract" content="EU Sustainable Energy Week, sustainable energy, renewables, policy, policymakers, citizens, High-Level Policy Conference, Networking Village, EASME, Energy Union" />
+<meta name="keywords" content="EU Sustainable Energy Week, sustainable energy, renewables, policy, policymakers, citizens, High-Level Policy Conference, Networking Village, EASME, Energy Union" />
+<link rel="canonical" href="http://www.eusew.eu/" />
+<meta name="generator" content="Drupal 7 (http://drupal.org)" />
+<link rel="shortlink" href="http://www.eusew.eu/" />
+<meta property="og:type" content="website" />
+<meta property="og:site_name" content="EUSEW" />
+<meta property="og:url" content="http://www.eusew.eu/" />
+<meta property="og:title" content="EUSEW" />
+<meta property="og:description" content="EU Sustainable Energy Week promotes sustainable energy across Europe. Its annual conference, awards, and grassroots events connect government, citizens and organisations for a clean-energy future." />
+<meta property="og:image" content="https://eusew.eu/sites/default/files/og_cover.jpg" />
+<meta property="og:image:url" content="https://eusew.eu/sites/default/files/og_cover.jpg" />
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:url" content="http://www.eusew.eu/" />
+<meta name="twitter:title" content="EUSEW" />
+<meta name="twitter:description" content="EU Sustainable Energy Week promotes #sustainableenergy and #renewables. Events across Europe support secure #energy future. #EUenergyweek" />
+<meta name="twitter:image" content="https://eusew.eu/sites/default/files/og_cover.jpg" />
+<meta itemprop="name" content="EUSEW" />
+<meta name="dcterms.title" content="EUSEW" />
+<meta name="dcterms.type" content="Text" />
+<meta name="dcterms.identifier" content="http://www.eusew.eu/" />
+<meta name="dcterms.format" content="text/html" />
+  <title>EUSEW</title>
+  <link type="text/css" rel="stylesheet" href="http://www.eusew.eu/sites/default/files/css/css_lQaZfjVpwP_oGNqdtWCSpJT1EMqXdMiU84ekLLxQnc4.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://www.eusew.eu/sites/default/files/css/css_IrJGwZkfbsn7G8WgfmSENa5iQh3u0Uk8oz8f3NGmjFk.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://www.eusew.eu/sites/default/files/css/css_Wvx69yhFdFBmmlrnemSBfnf7QPBiSNR1Z8wpWOmbFpY.css" media="all" />
+<style>#back-top{right:40px;}#back-top span#button{background-color:#CCCCCC;}#back-top span#button:hover{opacity:1;filter:alpha(opacity = 1);background-color:#878787;}
+</style>
+<link type="text/css" rel="stylesheet" href="http://www.eusew.eu/sites/default/files/css/css_agCvJrmRMfHSZhyZMkzhSMSo8F1gmenIgVHZAj5ZS70.css" media="all" />
+<style>#sliding-popup.sliding-popup-bottom{background:#0779BF;}#sliding-popup .popup-content #popup-text h1,#sliding-popup .popup-content #popup-text h2,#sliding-popup .popup-content #popup-text h3,#sliding-popup .popup-content #popup-text p{color:#ffffff !important;}
+</style>
+<link type="text/css" rel="stylesheet" href="//netdna.bootstrapcdn.com/bootstrap/3.0.2/css/bootstrap.min.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://www.eusew.eu/sites/default/files/css/css_GmbAK4APVcUfpubIOzzUTWMV_XM21Vs9c2cXojNKLu4.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://www.eusew.eu/sites/default/files/css/css_CRxKTPDNJsBYf-NIwlCbkk4GHTNWh133HcpGgfL7Rmg.css" media="screen" />
+  <!-- HTML5 element support for IE6-8 -->
+  <!--[if lt IE 9]>
+    <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+  <![endif]-->
+  <!--[if IE 9]>
+   <link type="text/css" rel="stylesheet" href="/sites/all/themes/eusew/css/ie-9.css" media="all" />
+  <![endif]-->
+  <script src="http://www.eusew.eu/sites/default/files/js/js_xvYJgU6LChHqbcSh4y1AvdXfD5QBIwT3GVGVUeuksbM.js"></script>
+<script src="http://www.eusew.eu/sites/default/files/js/js_H7q2xORKmR9AN8Qx5spKEIBp7R_wG2apAswJoCUZY7I.js"></script>
+<script src="//netdna.bootstrapcdn.com/bootstrap/3.0.2/js/bootstrap.min.js"></script>
+<script src="http://www.eusew.eu/sites/default/files/js/js_JNbXv5aAwQ6SEVIsnOFSt-l3l-CvK7NiUwx3WdZKwjM.js"></script>
+<script src="http://www.eusew.eu/sites/default/files/js/js_qqZAApdWCNrTLZ_acNVEp-WysETfUmk2xI1nENsPBwg.js"></script>
+<script>jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"eusew","theme_token":"dFVs34JahhPUFyJr4uvFAT1PKyuWBDp_5aoXzZCTttk","js":{"sites\/all\/modules\/responsive_imagemaps\/responsive_imagemaps.js":1,"sites\/all\/modules\/eu_cookie_compliance\/js\/eu_cookie_compliance.js":1,"modules\/statistics\/statistics.js":1,"sites\/all\/themes\/bootstrap\/js\/bootstrap.js":1,"sites\/all\/modules\/jquery_update\/replace\/jquery\/1.10\/jquery.min.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"sites\/all\/modules\/jquery_update\/replace\/ui\/external\/jquery.cookie.js":1,"\/\/netdna.bootstrapcdn.com\/bootstrap\/3.0.2\/js\/bootstrap.min.js":1,"sites\/all\/modules\/tb_rss_feed\/js\/json2.js":1,"sites\/all\/modules\/tb_rss_feed\/js\/tb_rss_feed.js":1,"sites\/all\/libraries\/colorbox\/jquery.colorbox-min.js":1,"sites\/all\/modules\/colorbox\/js\/colorbox.js":1,"sites\/all\/modules\/colorbox\/styles\/default\/colorbox_style.js":1,"sites\/all\/modules\/colorbox\/js\/colorbox_load.js":1,"sites\/all\/modules\/colorbox\/js\/colorbox_inline.js":1,"sites\/all\/libraries\/responsive-imagemaps\/jquery.rwdImageMaps.min.js":1,"sites\/all\/modules\/scroll_to_top\/scroll_to_top.js":1,"sites\/all\/modules\/lazyloader\/lazyloader.js":1,"sites\/all\/libraries\/echo\/dist\/echo.min.js":1,"sites\/all\/modules\/custom\/eusew\/js\/eusew_module.js":1,"sites\/all\/libraries\/superfish\/jquery.hoverIntent.minified.js":1,"sites\/all\/libraries\/superfish\/sftouchscreen.js":1,"sites\/all\/libraries\/superfish\/sfsmallscreen.js":1,"sites\/all\/libraries\/superfish\/supposition.js":1,"sites\/all\/libraries\/superfish\/superfish.js":1,"sites\/all\/libraries\/superfish\/supersubs.js":1,"sites\/all\/modules\/superfish\/superfish.js":1},"css":{"modules\/system\/system.base.css":1,"sites\/all\/modules\/scroll_to_top\/scroll_to_top.css":1,"sites\/all\/modules\/date\/date_api\/date.css":1,"sites\/all\/modules\/date\/date_popup\/themes\/datepicker.1.7.css":1,"sites\/all\/modules\/date\/date_repeat_field\/date_repeat_field.css":1,"modules\/field\/theme\/field.css":1,"sites\/all\/modules\/tb_rss_feed\/css\/tb_rss_feed.css":1,"sites\/all\/modules\/youtube\/css\/youtube.css":1,"sites\/all\/modules\/views\/css\/views.css":1,"sites\/all\/modules\/lazyloader\/lazyloader.css":1,"sites\/all\/modules\/colorbox\/styles\/default\/colorbox_style.css":1,"sites\/all\/modules\/ctools\/css\/ctools.css":1,"0":1,"sites\/all\/modules\/eu_cookie_compliance\/css\/eu_cookie_compliance.css":1,"sites\/all\/libraries\/superfish\/css\/superfish.css":1,"sites\/all\/libraries\/superfish\/css\/superfish-smallscreen.css":1,"1":1,"\/\/netdna.bootstrapcdn.com\/bootstrap\/3.0.2\/css\/bootstrap.min.css":1,"sites\/all\/themes\/bootstrap\/css\/overrides.css":1,"sites\/all\/themes\/eusew\/css\/style.css":1,"sites\/all\/themes\/eusew\/css\/staging.css":1,"sites\/all\/themes\/eusew\/css\/menu.css":1}},"colorbox":{"opacity":"0.85","current":"{current} of {total}","previous":"\u00ab Prev","next":"Next \u00bb","close":"Close","maxWidth":"98%","maxHeight":"98%","fixed":true,"mobiledetect":true,"mobiledevicewidth":"300px"},"scroll_to_top":{"label":"Go up"},"lazyloader":{"throttle":50,"offset":250,"debounce":true,"unload":false,"icon":"\/sites\/all\/modules\/lazyloader\/loader\/loader-7.gif","offsetX":12,"offsetY":12},"better_exposed_filters":{"views":{"HomePage_Parallax":{"displays":{"block_1":{"filters":[]},"block":{"filters":[]}}},"award_videos":{"displays":{"block":{"filters":[]}}},"award_image_on_detailpage":{"displays":{"block":{"filters":[]}}},"sessions_list_on_speakers_page":{"displays":{"block":{"filters":[]},"block_1":{"filters":[]}}},"awards_more_info":{"displays":{"block":{"filters":[]}}},"call_for_action":{"displays":{"attachment_1":{"filters":[]},"block":{"filters":[]}}}}},"eu_cookie_compliance":{"popup_enabled":1,"popup_agreed_enabled":0,"popup_hide_agreed":0,"popup_clicking_confirmation":1,"popup_scrolling_confirmation":0,"popup_html_info":"\u003Cdiv\u003E\n  \u003Cdiv class =\u0022popup-content info\u0022\u003E\n    \u003Cdiv id=\u0022popup-text\u0022\u003E\n      \u003Ch2\u003EWe use cookies on this site to enhance your user experience\u003C\/h2\u003E\n\u003Cp\u003EBy clicking any link on this page you are giving your consent for us to set cookies.\u003C\/p\u003E\n    \u003C\/div\u003E\n    \u003Cdiv id=\u0022popup-buttons\u0022\u003E\n      \u003Cbutton type=\u0022button\u0022 class=\u0022agree-button\u0022\u003EOK\u003C\/button\u003E\n      \u003Cbutton type=\u0022button\u0022 class=\u0022find-more-button\u0022\u003EMore information\u003C\/button\u003E\n    \u003C\/div\u003E\n  \u003C\/div\u003E\n\u003C\/div\u003E","popup_html_agreed":"\u003Cdiv\u003E\n  \u003Cdiv class =\u0022popup-content agreed\u0022\u003E\n    \u003Cdiv id=\u0022popup-text\u0022\u003E\n      \u003Cp\u003EThank you for accepting cookiesYou can now hide this message or find out more about cookies.\u003C\/p\u003E\n    \u003C\/div\u003E\n    \u003Cdiv id=\u0022popup-buttons\u0022\u003E\n      \u003Cbutton type=\u0022button\u0022 class=\u0022hide-popup-button\u0022\u003EHide\u003C\/button\u003E\n      \u003Cbutton type=\u0022button\u0022 class=\u0022find-more-button\u0022 \u003EMore info\u003C\/button\u003E\n    \u003C\/div\u003E\n  \u003C\/div\u003E\n\u003C\/div\u003E","popup_use_bare_css":false,"popup_height":"auto","popup_width":"100%","popup_delay":1000,"popup_link":"\/cookies","popup_link_new_window":1,"popup_position":null,"popup_language":"en","better_support_for_screen_readers":0,"reload_page":0,"domain":"","popup_eu_only_js":0,"cookie_lifetime":"100","disagree_do_not_show_popup":0},"superfish":{"1":{"id":"1","sf":{"animation":{"opacity":"show","height":"show"},"speed":"fast","autoArrows":false,"dropShadows":false},"plugins":{"touchscreen":{"behaviour":"1","mode":"always_active"},"smallscreen":{"mode":"window_width","breakpoint":900,"breakpointUnit":"px","accordionButton":"0","title":"Main menu"},"supposition":true,"supersubs":true}}},"statistics":{"data":{"nid":"16"},"url":"\/modules\/statistics\/statistics.php"},"bootstrap":{"anchorsFix":1,"anchorsSmoothScrolling":1,"popoverEnabled":1,"popoverOptions":{"animation":1,"html":0,"placement":"right","selector":"","trigger":"click","title":"","content":"","delay":0,"container":"body"},"tooltipEnabled":1,"tooltipOptions":{"animation":1,"html":0,"placement":"auto left","selector":"","trigger":"hover focus","delay":0,"container":"body"}}});</script>
+
+  <script src="/sites/all/themes/eusew/js/SmoothScroll.min.js"></script>
+  <script src="/sites/all/themes/eusew/js/jarallax.js"></script>
+<!--[if IE 9]>
+    <script src="/sites/all/themes/eusew/js/jarallax-ie-9.js"></script>
+<![endif]-->
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-1860168-2', 'auto');
+  ga('send', 'pageview');
+
+</script>
+
+<!-- Facebook Pixel Code -->
+<script>
+!function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;
+n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;
+t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,
+document,'script','//connect.facebook.net/en_US/fbevents.js');
+
+fbq('init', '749077045236682');
+fbq('track', "PageView");</script>
+<noscript><img height="1" width="1" style="display:none"
+src="https://www.facebook.com/tr?id=749077045236682&amp;ev=PageView&amp;noscript=1"
+/></noscript>
+<!-- -End Facebook Pixel Code- -->
+
+<!-- analytics.twitter -->
+<script src="//platform.twitter.com/oct.js" type="text/javascript"></script>
+<script type="text/javascript">twttr.conversion.trackPid('nu5f1', { tw_sale_amount: 0, tw_order_quantity: 0 });</script>
+<noscript>
+<img height="1" width="1" style="display:none;" alt="" src="https://analytics.twitter.com/i/adsct?txn_id=nu5f1&p_id=Twitter&tw_sale_amount=0&tw_order_quantity=0" />
+<img height="1" width="1" style="display:none;" alt="" src="//t.co/i/adsct?txn_id=nu5f1&p_id=Twitter&tw_sale_amount=0&tw_order_quantity=0" />
+</noscript>
+<!-- End analytics.twitter -->
+
+<!-- Piwik --> 
+<script type="text/javascript"> 
+var _paq = _paq || []; 
+_paq.push(["setDomains", ["*.www.eusew.eu"]]); 
+_paq.push(['trackPageView']); 
+_paq.push(['enableLinkTracking']); 
+(function() 
+{ var u="https://analytics.easme-web.eu/"; _paq.push(['setTrackerUrl', u+'piwik.php']); _paq.push(['setSiteId', '6']); var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0]; g.type='text/javascript'; g.async=true; g.defer=true; g.src=u+'piwik.js'; s.parentNode.insertBefore(g,s); } 
+)(); 
+</script> 
+<noscript><p><img src="https://analytics.easme-web.eu/piwik.php?idsite=6" style="border:0;" alt="" /></p></noscript> 
+<!-- End Piwik Code --> 
+
+
+
+</head>
+<body class="html front not-logged-in no-sidebars page-node page-node- page-node-16 node-type-homepage" >
+  <div id="skip-link">
+    <a href="#main-content" class="element-invisible element-focusable">Skip to main content</a>
+  </div>
+    <header id="page_header">
+<div class="container">
+  <div class="row top-secondary-menu-wrapper">
+    <div class="top-secondary-menu">
+              <section class="col-sm-12">
+            <div class="region region-top-secondary-menu">
+    <section id="block-block-3" class="block block-block cls-top-secondary-menu clearfix">
+
+      
+  <div class="header-menu">
+                              <ul><li><a href="/about-sustainable-energy-week">About</a></li>
+                              <li><a href="/faq">FAQ</a></li>
+                              <li style="padding-right: 0px;"><a href="/contacts">Contact</a></li>
+                              <li class="user-login-btn" ><a href="/usr_account?destination=/dashboard">Login for organisers</a></li></ul></div>
+</section> <!-- /.block -->
+  </div>
+        </section>  <!-- /#top_secondary_menu -->
+          </div>
+  </div>
+
+  <div class="row logo-nav-wrapper">
+    <div class="col-md-3">
+              <a class="logo navbar-btn pull-left" href="/" title="Home">
+          <img src="http://www.eusew.eu/sites/all/themes/eusew/logo.png" alt="Home" />
+        </a>
+            </div>
+    <div class="col-md-9">
+      <div class="main-nav">
+                    <div class="region region-navigation">
+    <section id="block-superfish-1" class="block block-superfish clearfix">
+
+      
+  <ul id="superfish-1" class="menu sf-menu sf-main-menu sf-horizontal sf-style-none sf-total-items-6 sf-parent-items-5 sf-single-items-1 pull-right menu"><li id="menu-794-1" class="first odd sf-item-1 sf-depth-1 sf-total-children-7 sf-parent-children-0 sf-single-children-7 menuparent"><a href="/about-conference" class="conference sf-depth-1 menuparent">Conference</a><ul><li id="menu-1924-1" class="first odd sf-item-1 sf-depth-2 sf-no-children"><a href="/about-conference" class="sf-depth-2">ABOUT THE CONFERENCE</a></li><li id="menu-2636-1" class="middle even sf-item-2 sf-depth-2 sf-no-children"><a href="/policy-conference-2018" class="sf-depth-2">Programme and Registration</a></li><li id="menu-2666-1" class="middle odd sf-item-3 sf-depth-2 sf-no-children"><a href="/side-events" class="sf-depth-2">Side Events</a></li><li id="menu-2639-1" class="middle even sf-item-4 sf-depth-2 sf-no-children"><a href="/ambassadors" class="sf-depth-2">Ambassadors</a></li><li id="menu-2629-1" class="middle odd sf-item-5 sf-depth-2 sf-no-children"><a href="/strategic-partners" class="sf-depth-2">Strategic partners</a></li><li id="menu-2605-1" class="middle even sf-item-6 sf-depth-2 sf-no-children"><a href="/replay-sessions-2017" class="sf-depth-2">Replay sessions 2017</a></li><li id="menu-2591-1" class="last odd sf-item-7 sf-depth-2 sf-no-children"><a href="/livestreaming" class="sf-depth-2">Replay sessions 2016</a></li></ul></li><li id="menu-510-1" class="middle even sf-item-2 sf-depth-1 sf-total-children-2 sf-parent-children-0 sf-single-children-2 menuparent"><a href="/about-networking" class="networking sf-depth-1 menuparent">Networking</a><ul><li id="menu-2426-1" class="first odd sf-item-1 sf-depth-2 sf-no-children"><a href="/networking-village" class="sf-depth-2">Networking village</a></li><li id="menu-1926-1" class="last even sf-item-2 sf-depth-2 sf-no-children"><a href="/about-networking" class="sf-depth-2">ABOUT THE NETWORKING</a></li></ul></li><li id="menu-511-1" class="middle odd sf-item-3 sf-depth-1 sf-total-children-4 sf-parent-children-0 sf-single-children-4 menuparent"><a href="/awards-public-vote" class="awards-competition sf-depth-1 menuparent">Awards</a><ul><li id="menu-1663-1" class="first odd sf-item-1 sf-depth-2 sf-no-children"><a href="/about-awards-competition" class="sf-depth-2">About the awards competition</a></li><li id="menu-2638-1" class="middle even sf-item-2 sf-depth-2 sf-no-children"><a href="/awards-public-vote" class="sf-depth-2">Public vote</a></li><li id="menu-2607-1" class="middle odd sf-item-3 sf-depth-2 sf-no-children"><a href="/2017-awards-winners" class="sf-depth-2">2017 Awards Winners</a></li><li id="menu-2592-1" class="last even sf-item-4 sf-depth-2 sf-no-children"><a href="/2016-awards-winners" class="sf-depth-2">2016 Awards Winners</a></li></ul></li><li id="menu-512-1" class="middle even sf-item-4 sf-depth-1 sf-total-children-5 sf-parent-children-0 sf-single-children-5 menuparent"><a href="/about-energy-days" class="energy-days sf-depth-1 menuparent">Energy Days</a><ul><li id="menu-825-1" class="first odd sf-item-1 sf-depth-2 sf-no-children"><a href="/about-energy-days" class="sf-depth-2">About the Energy Days</a></li><li id="menu-2633-1" class="middle even sf-item-2 sf-depth-2 sf-no-children"><a href="/look-2018-energy-day" class="sf-depth-2">Look for a 2018 Energy Day</a></li><li id="menu-1792-1" class="middle odd sf-item-3 sf-depth-2 sf-no-children"><a href="/organise-energy-day" class="sf-depth-2">How to organise an Energy Day</a></li><li id="menu-2596-1" class="middle even sf-item-4 sf-depth-2 sf-no-children"><a href="/create-event" class="sf-depth-2">Register your Energy Day</a></li><li id="menu-2631-1" class="last odd sf-item-5 sf-depth-2 sf-no-children"><a href="https://www.eusew.eu/dashboard/my-energy-days " class="sf-depth-2">Manage your Energy Day</a></li></ul></li><li id="menu-513-1" class="middle odd sf-item-5 sf-depth-1 sf-total-children-4 sf-parent-children-0 sf-single-children-4 menuparent"><a href="/press" class="sf-depth-1 menuparent">Media</a><ul><li id="menu-826-1" class="first odd sf-item-1 sf-depth-2 sf-no-children"><a href="/press" class="sf-depth-2">Press</a></li><li id="menu-1064-1" class="middle even sf-item-2 sf-depth-2 sf-no-children"><a href="/photos-0" class="sf-depth-2">Photos</a></li><li id="menu-1062-1" class="middle odd sf-item-3 sf-depth-2 sf-no-children"><a href="/promotional-support" class="sf-depth-2">Promotional support</a></li><li id="menu-1929-1" class="last even sf-item-4 sf-depth-2 sf-no-children"><a href="/social-media" class="sf-depth-2">Social Media</a></li></ul></li><li id="menu-1923-1" class="last even sf-item-6 sf-depth-1 sf-no-children"><a href="/newsblog" class="sf-depth-1">News/Blog</a></li></ul>
+</section> <!-- /.block -->
+  </div>
+              </div>
+
+    </div>
+  </div>
+</div>
+</header>
+
+
+
+
+<div class="full-page-width graphics-region">
+          <section class="col-sm-12 graphics-region-inner">
+        <div class="region region-graphics-region">
+    <section id="block-views-homepage-parallax-block-1" class="block block-views clearfix">
+
+      
+  <div class="view view-HomePage-Parallax view-id-HomePage_Parallax view-display-id-block_1 cls-parallax-main-wrapper-sections view-dom-id-d37a99fe0700cd77dc7d98761d45f3aa">
+        
+  
+  
+      <div class="view-content">
+        <div>
+      
+          <section class="intro-block">
+<div class="home-intro-image-wrapper parallax-bg parallax-wrapper parallax-wrapper-1">
+     <div class="home-intro-image">
+         <img name="eusew_homeBanner" src="http://www.eusew.eu/sites/default/files/homepage-parallax/EUSEW2018_Banner1140x420-1-72dpi.jpg" border="0" id="eusew_homeBanner" usemap="#map_eusew_homeBanner" alt="" alt="" />
+     </div>
+</div>
+<div class="parallax-content-wrapper parallax-content-box-1">
+        <div class="parallax-contnet-container hidden">
+        <h1 class="title_sections"></h1>
+          <div class="content"><div class="cls-call-for-contrib-home-intro">
+  <div class="container">
+     <div class="call-for-contrib-left col-md-8" style="text-align: center;display: table;">
+                 <h2 style="vertical-align: middle;line-height:45px;"><strong>EUSEW 2017 is now over. A big thank you to everyone who made it such a great event. See you next year!</strong></h2>
+                  <h4><a href="node/2433">Videos</a></h4>
+                  <h4><a href="node/1261">Photos</a></h4>
+          <!--<h3>Missed the online registration? Come to the conference venues and register on the spot.</h3>
+                  <br><br>
+                  <div class="my-programme-btn more_btn col-md-7 col-md-offset-2"> <a href="http://eusew.eu/web-streaming-2017" >Watch live</a> </div>
+		 <h2 style="vertical-align: middle;line-height:45px;"><strong>CALLS OPEN FOR EUSEW 2017 ENERGY DAYS</strong><br /></h2>
+		  <h3>LEAD, SHARE, INSPIRE! DO YOU HAVE AN IDEA FOR AN ENERGY DAY? APPLY AT ANY TIME TO SET UP A LOCAL ENERGY DAY.</h3> -->
+      <!--<div class="call-for-contrib-left-text">
+        <p>Sign up.</p> <p>Join us.</p><p>Have your say.</p>
+      </div>-->
+      <!--<div class="more-btn-blog" style="max-width: 250px;margin: 0px 15px 0 15px;display: inline-block;">
+        <a href="/livestreaming" style="max-width: 250px;">Web Streaming</a>
+      </div>
+      <div class="more-btn-blog" style="max-width: 250px;margin: 0px 15px 0 15px;display: inline-block;">
+        <a href="/photos-0" style="max-width: 250px;">Photos</a>
+      </div>
+      <p style="margin-top:20px;margin-bottom:20px;text-align:center;font-size:22px;">So, you signed up, you joined us… and now it’s time to have your say!!</p>-->
+      <!-- BEGIN TWEETWALL EMBED -->
+<!--<div class="tweetwall"><script src="//eusew16.tweetwall.com/js/embed.js?header=true&layout=1&bgcolor=#ffffff&border=false&width=100%&height=400px" class="tweetwall-script" async></script><noscript><a href="http://eusew16.tweetwall.com/" target="_blank">View the Tweetwall</a></noscript><div style="position:absolute; z-index:1000; text-indent: -9999px;"><a href="http://tweetwall.com/twitter-widget">Moderated Twitter Widget</a> by Tweetwall</div></div>-->
+	<!-- END TWEETWALL EMBED -->
+<!--<p style="margin-top:20px;margin-bottom:20px;text-align:center;"><a style="text-align:center;font-size:18px;text-decoration:underline;" href="http://eusew16.tweetwall.com/" target="_blank">See #EUSEW16 Tweetwall</a></p>-->
+     <!-- 29-04-2016 -->
+      <!-- <h2><strong>Submissions for Energy Days are Open!</strong></h2>
+      <div class="call-for-contrib-left-text">
+        <p>Are you planning an activity that promotes energy-saving or renewables for June 2016?</p> <p>Put your event on the map!</p> <p>Register it as an Energy Day and ensure maximum visibility!</p>
+      </div>
+      <div class="more-btn-blog"><a href="/create-event">Start here!</a></div> -->
+      <!-- 29-04-2016 -->
+      <!--<div class="col-md-6">
+        <ul>
+          <li><a href="/apply-session">Apply for a session</a></li>
+          <li><a href="/apply-networking-slot">Apply for a networking slot</a></li>
+        </ul>
+      </div>
+      <div class="col-md-6">
+        <ul>
+          <li><a href="/apply-speaking-slot">Apply for a speaking slot</a></li>
+          <li><a href="/eu-sustainable-energy-awards">Apply for an EU Sustainable Energy Award</a></li>
+        </ul>
+      </div> -->
+    </div>
+    
+                  
+                 
+    <div class="home-blog-wrapper col-md-4">
+      <h2>FROM THE NEWS/BLOG</h2>
+       <ul>
+<li><spans>04/07/2017 </spans> <a href="/eusew-2017-what-week">EUSEW 2017 – what a week!</a></li>
+<li><spans>29/06/2017 </spans> <a href="/three-questions-youth-energy-workshop">Three questions on the “Youth on Energy” workshop</a></li>
+<li><spans>28/06/2017 </spans> <a href="/eusew-2017-two-tonnes-co2-offset">EUSEW 2017: two tonnes of CO2 offset</a></li>
+<!--<li><spans>27/06/2017 </spans> <a href="/last-seven-dates-2017-energy-union-tour">Last seven dates for 2017 Energy Union tour</a></li>
+<li><spans>21/06/2017 </spans> <a href="/eusew-awards-2017-and-winners-are">EUSEW Awards 2017: and the winners are …</a></li>
+<li><spans>21/06/2017 </spans> <a href="/travel-restrictions-schuman-area-22-23-june">Travel restrictions in Schuman area 22-23 June</a></li>
+<li><spans>19/06/2017 </spans> <a href="/eusew-workshop-youth-energy">EUSEW workshop – Youth on Energy</a></li>
+<li><spans>19/06/2017 </spans> <a href="/eusew-2017-competition-bag">EUSEW 2017 competition – it’s in the bag!</a></li>
+<li><spans>16/06/2017 </spans> <a href="/levels-common-language-sustainable-buildings">Level(s): a common language for sustainable buildings</a></li>
+<li><spans>16/06/2017 </spans> <a href="/three-questions-daniel-termont">Three questions to Daniël Termont</a></li>
+<li><spans>16/06/2017 </spans> <a href="/ready-eusew-2017">Ready for EUSEW 2017?</a></li>
+<li><spans>15/06/2017 </spans> <a href="/three-questions-orgalime">Three questions to Orgalime</a></li>
+<li><spans>15/06/2017 </spans> <a href="/scale-and-replication-smart-cities-what-lies-beyond-buzz">Scale-up and replication in smart cities: what lies beyond the buzz?</a></li>
+<li><spans>13/06/2017 </spans> <a href="/three-questions-cogen-europe">Three questions to COGEN Europe</a></li>
+<li><spans>13/06/2017 </spans> <a href="/what-watch-out-eusew-2017">What to watch out for at EUSEW 2017</a></li>
+<li><spans>09/06/2017 </spans> <a href="/eight-entrepreneurs-eight-innovative-products">Eight entrepreneurs, eight innovative products</a></li>
+<li><spans>08/06/2017 </spans> <a href="/eusew-2017-beat-online-deadline-and-save-time">EUSEW 2017 – beat the online deadline and save time</a></li>
+<li><spans>08/06/2017 </spans> <a href="/can-you-crack-horizon-2020-energy-challenge">Can you crack the Horizon 2020 energy challenge?</a></li>
+<li><spans>02/06/2017 </spans> <a href="/coming-your-screen-eusew-award-finalists">Coming to your screen – the EUSEW Award finalists</a></li>
+<li><spans>01/06/2017 </spans> <a href="/reaching-energy-efficiency-goals-through-standardisation">Reaching energy efficiency goals through standardisation</a></li>
+<li><spans>01/06/2017 </spans> <a href="/smarter-cleaner-lessons-learnt-nine-smart-city-projects">"Smarter is Cleaner" - Lessons learnt from nine smart city projects </a></li>
+<li><spans>29/05/2017 </spans> <a href="/three-questions-revolve-media">Three questions to Revolve Media</a></li>
+<li><spans>24/05/2017 </spans> <a href="/lead-share-inspire-your-energy-day">Lead, share, inspire at your Energy Day!</a></li>
+<li><spans>24/05/2017 </spans> <a href="/three-questions-theresa-griffin-0">Three questions to Theresa Griffin</a></li>
+<li><spans>23/05/2017 </spans> <a href="/2017-energy-union-tour-so-far">The 2017 Energy Union tour so far</a></li>
+<li><spans>18/05/2017 </spans> <a href="/three-questions-sparknews">Three questions to Sparknews</a></li>
+<li><spans>18/05/2017 </spans> <a href="/solutions-solutions-solutions">Solutions, solutions, solutions</a></li>
+<li><spans>16/05/2017 </spans> <a href="/three-questions-morten-helveg-petersen-0">Three questions to Morten Helveg Petersen</a></li>
+<li><spans>16/05/2017 </spans> <a href="/interoperability-internet-energy-high-level-meeting">Interoperability for an Internet of Energy: high-level meeting</a></li>
+<li><spans>11/05/2017 </spans> <a href="/three-questions-monique-goyens-0">Three questions to Monique Goyens</a></li>
+<li><spans>10/05/2017 </spans> <a href="/voting-open-eusew-citizens-award">Voting open for EUSEW Citizens’ Award</a></li>
+<li><spans>04/05/2017 </spans> <a href="/energy-efficiency-data-hub-discover-energy-saving-innovations">Energy Efficiency data hub: discover energy-saving innovations</a></li>
+<li><spans>04/05/2017 </spans> <a href="/driving-economic-growth-europe-energy-renovation">Driving economic growth in Europe with energy renovation</a></li>
+<li><spans>02/05/2017 </spans> <a href="/registrations-open-2017-eusew-policy-conference">Registrations open for 2017 EUSEW policy conference</a></li>
+<li><spans>27/04/2017 </spans> <a href="/seminar-energy-efficiency-policies-and-strategies-nordics">Seminar: ‘Energy efficiency policies and strategies of the Nordics</a></li>
+<li><spans>25/04/2017 </spans> <a href="/wish-covenant-mayors-could-do-more-you">Wish the Covenant of Mayors could do more for you?</a></li>
+<li><spans>20/04/2017 </spans> <a href="/three-questions-jerzy-buzek">Three questions to Jerzy Buzek</a></li>
+<li><spans>18/04/2017 </spans> <a href="/finalists-revealed-2017-eu-sustainable-energy-awards">Finalists revealed for the 2017 EU Sustainable Energy Awards</a></li>
+<li><spans>13/04/2017 </spans> <a href="/three-questions-bendt-bendtsen">Three questions to Bendt Bendtsen</a></li>
+<li><spans>11/04/2017 </spans> <a href="/european-green-capital-and-green-leaf-awards-finalists-announced">European Green Capital and Green Leaf Awards: finalists announced</a></li>
+<li><spans>06/04/2017 </spans> <a href="/%C5%A1ef%C4%8Dovi%C4%8D-and-piccard-future-clean">Šefčovič and Piccard: The future is clean</a></li>
+<li><spans>04/04/2017 </spans> <a href="/three-questions-claude-turmes-0">Three questions to Claude Turmes</a></li>
+<li><spans>30/03/2017 </spans> <a href="/three-questions-about-pokupsko-municipality">Three questions about Pokupsko municipality</a></li>
+<li><spans>28/03/2017 </spans> <a href="/are-you-track-networking-eusew17">Are you on track for networking at EUSEW17?</a></li>
+<li><spans>23/03/2017 </spans> <a href="/be-part-eu-green-week">Be part of EU Green Week</a></li>
+<li><spans>21/03/2017 </spans> <a href="/three-questions-alexander-duleba">Three questions to Alexander Duleba</a></li>
+<li><spans>16/03/2017 </spans> <a href="/three-questions-vice-president-%C5%A1ef%C4%8Dovi%C4%8D">Three questions to Vice-President Šefčovič</a></li>
+<li><spans>14/03/2017 </spans> <a href="/launch-smart-islands-declaration">Launch of Smart Islands Declaration</a></li>
+<li><spans>09/03/2017 </spans> <a href="three-questions-commissioner-cañete">Three questions to Commissioner Cañete</a></li>
+<li><spans>07/03/2017 </spans> <a href="/three-questions-green-brewery-göss">Three questions to Green Brewery Göss</a></li>
+<li><spans>02/03/2017 </spans> <a href="/deadline-extension-eusew-2017">Deadline extension for EUSEW 2017</a></li>
+<li><spans>28/02/2017 </spans> <a href="/energy-infrastructure-boost-renewables">Energy infrastructure boost for renewables</a></li>
+<li><spans>23/02/2017 </spans> <a href="/beuc-debate-clean-energy-package">BEUC debate on Clean Energy package – 9 March</a></li>
+<li><spans>21/02/2017 </spans> <a href="/call-open-eusew-2017-networking">Call open for EUSEW 2017 networking</a></li>
+<li><spans>16/02/2017 </spans> <a href="/eusew-awards-are-back"> The EUSEW Awards are back – and bigger than ever!</a></li>
+       <li><spans>14/02/2017 </spans> <a href="/clock-ticking-eusew-applications"> THE CLOCK IS TICKING FOR EUSEW APPLICATIONS</a></li>
+<li><spans>08/02/2017 </spans> <a href="/europe-target-towards-energy-union"> EUROPE ON TARGET TOWARDS THE ENERGY UNION</a></li>	     
+<li><spans>30/01/2017 </spans> <a href="/eusew-2017-calls-are-open"> EUSEW 2017 CALLS ARE OPEN!</a></li>
+       <li><span>21/06/2016</span><a href="/eusew-2016-highlights">EUSEW 2016 highlights</a></li>
+       <li><span>15/06/2016</span><a href="http://eusew.eu/eusew-awards-2016-why-europe-innovation-epicentre-sustainable-energy">EUSEW Awards 2016</a></li>-->
+      </ul>
+      <div class="more-btn-blog"><a style="max-width: 250px;" href="/newsblog">More</a></div>
+    </div>
+  </div>
+</div>
+<!-- <script id="wallsio-widget-script" src="https://walls.io/js/wallsio-widget.js" data-wallurl="https://walls.io/eusew" data-height="700" data-width="100%" data-autoheight="1" data-notscrollable="1"></script> -->
+<!-- <div class="home-intro-video">
+  <div class="embed-responsive embed-responsive-16by9"><iframe class="embed-responsive-item" src="https://www.youtube.com/embed/KK_eLkgt298?&amp;autoplay=0&amp;loop=1&amp;rel=0&amp;wmode=transparent&amp;showinfo=0&amp;autohide=1&amp;color=white&amp;iv_load_policy=3&amp;playlist=KK_eLkgt298"></iframe></div>
+</div> -->
+<!--<div class="intro-commissior-inner">
+  <div class="container">
+    <div class="intro-commissioner-row text-center">
+      <div class="commissioner-photo-box">
+        <span class="photo">
+          <img src="/sites/all/themes/eusew/images/commissioner.png" alt="Dominique Ristori - Director General for Energy">
+        </span>
+        <div class="commissioner-text">
+          <span><strong>Dominique Ristori</strong></span>
+          <span>Director General for Energy European Commission</span>
+        </div>
+      </div>
+      <div class="intro-text-box">
+        <p>The EU Sustainable Energy Week (EUSEW) is a month-long series of activities across Europe promoting secure, clean and efficient energy. It connects policymakers, stakeholders and citizens to achieve climate and energy goals for the Energy Union. Launched in 2006, EUSEW is organised by European Commission.</p>
+      </div>
+    </div>
+  </div>
+</div>--></div>
+          <div class="more-btn"><p><a href="#conference">More info</a></p></div>
+        </div>
+</div>
+</section>    </div>
+    </div>
+  
+  
+  
+  
+      <div class="view-footer">
+      <div></div>
+    </div>
+  
+  
+</div>
+</section> <!-- /.block -->
+<section id="block-views-homepage-parallax-block" class="block block-views clearfix">
+
+      
+  <div class="view view-HomePage-Parallax view-id-HomePage_Parallax view-display-id-block cls-parallax-main-wrapper view-dom-id-69cc3ed5e43159f43a40b9257b00446d">
+        
+  
+  
+      <div class="view-content">
+        <div>
+      
+          <section id="conference" class="conference cls-scroll-section" data-anchor="conference">
+<div class="jarallax parallax-bg parallax-wrapper parallax-wrapper-1">
+<div class="hidden-bg-image-name">http://www.eusew.eu/sites/default/files/homepage-parallax/conference_0.jpg</div>
+        <div class="parallax-contnet-container">
+          <div class="icon"><a href="/policy-conference-2018"><img typeof="foaf:Image" data-echo="http://www.eusew.eu/sites/default/files/homepage-parallax/icon1.png" data-icon="/sites/all/modules/lazyloader/loader/loader-7.gif" src="http://www.eusew.eu/sites/all/modules/lazyloader/image_placeholder.gif" width="300" height="300" alt="" /><noscript><img typeof="foaf:Image" src="http://www.eusew.eu/sites/default/files/homepage-parallax/icon1.png" width="300" height="300" alt="" /></noscript></a></div>
+        </div>
+</div>
+<div class="parallax-content-wrapper parallax-content-box-1">
+        <div class="parallax-contnet-container">
+        <h2 class="title_sections">Conference</h2>
+          <div class="content"><p>The high point of EUSEW is the annual <strong>Policy Conference</strong> featuring leading figures and a diverse programme of sessions and side-events aimed at discussing and shaping Europe's energy future.</p>
+<p>You can now register to the <strong>Policy Conference</strong> of EUSEW 2018. <br />Consult the programme and register now to select your preferred sessions on the registration platform.</p>
+<p>The deadline for registration is 30 May 2018, 23:59 CET.</p>
+</div>
+          <div class="more-btn"><p><a href="/policy-conference-2018">More info</a></p></div>
+        </div>
+</div>
+</section>    </div>
+  <div>
+      
+          <section id="networking" class="networking cls-scroll-section" data-anchor="networking">
+<div class="jarallax parallax-bg parallax-wrapper parallax-wrapper-2">
+<div class="hidden-bg-image-name">http://www.eusew.eu/sites/default/files/homepage-parallax/networking_0.jpg</div>
+        <div class="parallax-contnet-container">
+          <div class="icon"><a href="/about-networking"><img typeof="foaf:Image" data-echo="http://www.eusew.eu/sites/default/files/homepage-parallax/icon3.png" data-icon="/sites/all/modules/lazyloader/loader/loader-7.gif" src="http://www.eusew.eu/sites/all/modules/lazyloader/image_placeholder.gif" width="300" height="300" alt="" /><noscript><img typeof="foaf:Image" src="http://www.eusew.eu/sites/default/files/homepage-parallax/icon3.png" width="300" height="300" alt="" /></noscript></a></div>
+        </div>
+</div>
+<div class="parallax-content-wrapper parallax-content-box-2">
+        <div class="parallax-contnet-container">
+        <h2 class="title_sections">Networking</h2>
+          <div class="content"><p>The <strong>Networking Village</strong> in Residence Palace hosts many organisations at the permanent exhibition and the Energy Fair, presentations and speeches at the Energy Talks, a project pitch at the Energy Lab, and One2One matchmaking. It is a key feature of the Policy Conference – a place for the <strong>EUSEW Community</strong> to exchange ideas.</p>
+</div>
+          <div class="more-btn"><p><a href="/about-networking">More info</a></p></div>
+        </div>
+</div>
+</section>    </div>
+  <div>
+      
+          <section id="awards-competition" class="awards-competition cls-scroll-section" data-anchor="awards-competition">
+<div class="jarallax parallax-bg parallax-wrapper parallax-wrapper-3">
+<div class="hidden-bg-image-name">http://www.eusew.eu/sites/default/files/homepage-parallax/awards_0.jpg</div>
+        <div class="parallax-contnet-container">
+          <div class="icon"><a href="/how-apply-or-nominate-someone"><img typeof="foaf:Image" data-echo="http://www.eusew.eu/sites/default/files/homepage-parallax/icon2.png" data-icon="/sites/all/modules/lazyloader/loader/loader-7.gif" src="http://www.eusew.eu/sites/all/modules/lazyloader/image_placeholder.gif" width="300" height="300" alt="" /><noscript><img typeof="foaf:Image" src="http://www.eusew.eu/sites/default/files/homepage-parallax/icon2.png" width="300" height="300" alt="" /></noscript></a></div>
+        </div>
+</div>
+<div class="parallax-content-wrapper parallax-content-box-3">
+        <div class="parallax-contnet-container">
+        <h2 class="title_sections">Awards competition</h2>
+          <div class="content"><p>EU Sustainable Energy Awards are presented during the <strong>Policy Conference</strong>. The Awards recognise outstanding innovation in renewable energy and energy efficiency and provide a platform for the best European projects in the field.</p>
+</div>
+          <div class="more-btn"><p><a href="/how-apply-or-nominate-someone">More info</a></p></div>
+        </div>
+</div>
+</section>    </div>
+  <div>
+      
+          <section id="energy-days" class="energy-days cls-scroll-section" data-anchor="energy-days">
+<div class="jarallax parallax-bg parallax-wrapper parallax-wrapper-4">
+<div class="hidden-bg-image-name">http://www.eusew.eu/sites/default/files/homepage-parallax/energy-days.jpg</div>
+        <div class="parallax-contnet-container">
+          <div class="icon"><a href="/about-energy-days"><img typeof="foaf:Image" data-echo="http://www.eusew.eu/sites/default/files/homepage-parallax/icon4.png" data-icon="/sites/all/modules/lazyloader/loader/loader-7.gif" src="http://www.eusew.eu/sites/all/modules/lazyloader/image_placeholder.gif" width="300" height="300" alt="" /><noscript><img typeof="foaf:Image" src="http://www.eusew.eu/sites/default/files/homepage-parallax/icon4.png" width="300" height="300" alt="" /></noscript></a></div>
+        </div>
+</div>
+<div class="parallax-content-wrapper parallax-content-box-4">
+        <div class="parallax-contnet-container">
+        <h2 class="title_sections">Energy days</h2>
+          <div class="content"><p>Organised throughout Europe by public and private organisations, Energy Days encourage citizens and stakeholders to discover and debate the major issues driving the transition to sustainable energy.</p>
+<p>There is no official deadline. The only requirement is that your Energy Day takes place during May and June 2018 and that you submit it on time to benefit from greater visibility at the EU Sustainable Energy Week itself (4-8 June).</p>
+</div>
+          <div class="more-btn"><p><a href="/about-energy-days">More info</a></p></div>
+        </div>
+</div>
+</section>    </div>
+    </div>
+  
+  
+  
+  
+  
+  
+</div>
+</section> <!-- /.block -->
+  </div>
+    </section>  <!-- /#graphics_region -->
+  </div>
+
+
+<div class="main-container container">
+
+  <header role="banner" id="page-header">
+    
+      </header> <!-- /#page-header -->
+
+  <div class="row">
+
+             
+    <section class="col-sm-12">
+      
+      <a id="main-content"></a>
+            <div class="main-content-inner">
+                        <div class="web_tools-region">
+                  </div>
+
+
+
+                  <h1 class="page-header">Home</h1>
+                
+                                                    <div class="region region-content">
+    <section id="block-system-main" class="block block-system clearfix">
+
+      
+  <div id="node-16" class="node node-homepage clearfix" about="/home" typeof="sioc:Item foaf:Document">
+
+  
+      <span property="dc:title" content="Home" class="rdf-meta element-hidden"></span><span property="sioc:num_replies" content="0" datatype="xsd:integer" class="rdf-meta element-hidden"></span>
+  
+  <div class="content">
+      </div>
+
+  
+  
+</div>
+
+</section> <!-- /.block -->
+  </div>
+      </div>
+    </section>
+
+      </div>
+</div>
+<!--<div class="seprator-solid-horizontal"></div>-->
+<div class="full-page-width social_media">
+      <section class="col-sm-12 social_media-region-inner">
+        <div class="region region-social-media">
+    <section id="block-menu-menu-social-media" class="block block-menu social-media-floating-icons clearfix">
+
+      
+  <ul class="menu nav"><li class="first leaf"><a href="https://www.facebook.com/euenergyweek" class="facebook-link" target="_blank">Facebook</a></li>
+<li class="leaf"><a href="https://twitter.com/euenergyweek" class="twitter-link" target="_blank">Tweeter</a></li>
+<li class="leaf"><a href="https://www.linkedin.com/company/executive-agency-for-small-and-medium-sized-enterprises-easme/" class="linkedin-link" target="_blank">Linkedin</a></li>
+<li class="leaf"><a href="https://www.flickr.com/photos/131700585@N02/albums" class="flickr-link" target="_blank">Flickr</a></li>
+<li class="last leaf"><a href="https://www.youtube.com/user/euenergyweek" class="youtube-link" target="_blank">Youtube</a></li>
+</ul>
+</section> <!-- /.block -->
+  </div>
+    </section>  <!-- /#social_media -->
+  </div>
+
+<div class="footer-wrapper">
+  <footer class="footer container">
+      <div class="region region-footer">
+    <section id="block-block-4" class="block block-block clearfix">
+
+      
+  <div class="stay-in-touch-form-block"><form action="/sign-stay-touch" method="GET"><span class="stay-in-touch-text"> <input type="text" name="stayInTouch" placeholder="Enter e-mail address" /> </span> <span class="stay-in-touch-btn"> <input class="submit_newsletter" type="submit" value="Sign up to stay in touch" /> </span></form></div>
+</section> <!-- /.block -->
+<section id="block-block-1" class="block block-block clearfix">
+
+      
+  <div class="footer-logo-static-block"><span class="footer-logo"><img src="/sites/all/themes/eusew/images/footer-small-logo.png" alt="" /></span> <span class="hash-eusew"><a href="https://twitter.com/search?f=tweets&amp;vertical=default&amp;q=EUSEW17&amp;src=typd" target="_blank">#EUSEW18</a></span></div>
+
+</section> <!-- /.block -->
+<section id="block-menu-menu-footer-menu" class="block block-menu cls-footer-menu-block-section clearfix">
+
+      
+  <ul class="menu nav"><li class="first leaf"><a href="/about-sustainable-energy-week">About</a></li>
+<li class="leaf"><a href="/faq">FAQ</a></li>
+<li class="leaf"><a href="/contacts">Contact</a></li>
+<li class="leaf"><a href="/sign-stay-touch">Sign up to stay in touch</a></li>
+<li class="leaf"><a href="/legal-notice">Legal notice</a></li>
+<li class="last leaf"><a href="/sitemap">Sitemap</a></li>
+</ul>
+</section> <!-- /.block -->
+  </div>
+  </footer>
+</div>
+  <script src="http://www.eusew.eu/sites/default/files/js/js_yQgbshZGhSfEV6_cJ5QmdDiGRAmT0NxqsCBS_ddYrQM.js"></script>
+<script src="http://www.eusew.eu/sites/default/files/js/js_KbiJpCTgK94G8gOHUCeTSAbCsR7hH5jwdbQ8uMO0eKU.js"></script>
+
+  <script type="text/javascript" src="/sites/all/themes/eusew/js/custom.js"></script>
+  <script type="text/javascript">
+      /* init Jarallax */
+      //$('.jarallax').jarallax({
+          //speed: 0.5,
+          //imgWidth: 1366,
+        //  imgHeight: 768
+      //})
+  </script>
+</body>
+</html>
+
+

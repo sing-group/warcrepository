@@ -1,0 +1,669 @@
+WARC/1.0
+WARC-Type: warcinfo
+WARC-Date: 2018-05-30T18:18:32Z
+WARC-All-Language: en-gb
+WARC-All-Content_type: text/html; charset=utf-8
+WARC-Record-ID: <urn:uuid:e070e161-fc12-493d-a910-64791dee75ad>
+Content-Type: application/http;msgtype=response
+Content-Length: 46
+
+WARCProcessor by SING Group www.sing-group.com
+
+WARC/1.0
+WARC-Type: response
+WARC-Target-URI: http://www.4assist.eu
+WARC-Date: 20180530181832
+WARC-Language: en-gb
+WARC-Record-ID: <http://www.4assist.eu>
+Content-Type: application/http;msgtype=response
+Content-Length: 29323
+
+HTTP/1.1 200
+Content-Type:text/html; charset=utf-8
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html prefix="og: http://ogp.me/ns#" xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-gb" lang="en-gb" >
+<head>
+  <base href="http://www.4assist.eu/" />
+  <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+  <meta name="keywords" content="4assist,Development consulting,Economic Development,Public Financial Management,Public Administration,Agriculture and Rural Development,Social Protection,Education,Sector and General Budget Support Programmes,Sector Policy Support Programmes,Conventional Project Management approaches,Technical Assistance" />
+  <meta name="description" content="4Assist - Four Assist Limited - Development Consulting" />
+  <meta name="generator" content="Joomla! - Open Source Content Management" />
+  <title>4Assist - Four Assist Limited - Development Consulting</title>
+  <link href="/?format=feed&amp;type=rss" rel="alternate" type="application/rss+xml" title="RSS 2.0" />
+  <link href="/?format=feed&amp;type=atom" rel="alternate" type="application/atom+xml" title="Atom 1.0" />
+  <link href="/templates/businessreport/favicon.ico" rel="shortcut icon" type="image/vnd.microsoft.icon" />
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/simple-line-icons/2.4.1/css/simple-line-icons.min.css" type="text/css" />
+  <link rel="stylesheet" href="/components/com_k2/css/k2.css?v=2.8.0" type="text/css" />
+  <link rel="stylesheet" href="http://www.4assist.eu/modules/mod_yjme/css/stylesheet.css" type="text/css" />
+  <link rel="stylesheet" href="http://www.4assist.eu/modules/mod_youyork_slider/css/stylesheet.css" type="text/css" />
+  <link rel="stylesheet" href="http://www.4assist.eu/modules/mod_yjis4/css/mod_yjis4.css" type="text/css" />
+  <link rel="stylesheet" href="http://www.4assist.eu/modules/mod_yj_live_search/css/stylesheet.css" type="text/css" />
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/1.6remote/jquery.min.js" type="text/javascript"></script>
+  <script src="/media/k2/assets/js/k2.frontend.js?v=2.8.0&amp;sitepath=/" type="text/javascript"></script>
+  <script src="/media/system/js/mootools-core.js" type="text/javascript"></script>
+  <script src="/media/system/js/core.js" type="text/javascript"></script>
+  <script src="/media/system/js/caption.js" type="text/javascript"></script>
+  <script src="http://www.4assist.eu/templates/businessreport/src/yjresponsive.js" type="text/javascript"></script>
+  <script src="http://www.4assist.eu/templates/businessreport/src/styles.js" type="text/javascript"></script>
+  <script src="/media/system/js/mootools-more.js" type="text/javascript"></script>
+  <script src="http://www.4assist.eu/modules/mod_youyork_slider/src/youyork_slider12.js" type="text/javascript"></script>
+  <script src="http://www.4assist.eu/modules/mod_yjis4/src/mod_yjis4.min.js" type="text/javascript"></script>
+  <script src="http://www.4assist.eu/modules/mod_yj_live_search/script/YJLiveSearch.js" type="text/javascript"></script>
+  <script type="text/javascript">
+window.addEvent('load', function() {
+				new JCaption('img.caption');
+			});
+		  window.addEvent('load', function(){
+			  new YouYorkModuleSlider({
+				  container : 'yy_container_copy', 
+				  items :'.yy_slideitems',
+				  itemWidth : 370,
+				  visibleItems: 1,
+				  effectDuration : 500,
+				  autoSlide : 0,
+				  mouseEventSlide: 0,
+				  navigation: {
+					  'forward':'linkForward', 
+					  'back':'linkBackward',
+					  'screenNavsContainer':'yy_bottom-nav_copy',
+					  'screenNavsElem':'a.yy_nav'
+				  }
+			  });
+		  });
+		
+				  var modpath ='http://www.4assist.eu/';
+				  window.addEvent('domready', function(){
+					  new YJSlide({
+						  outerContainer : 'YJSlide_outer95',
+						  innerContainer : 'YJSlide_inner95',
+						  elements: '.YJSlide_slide',
+						  navigation: {
+							  'forward':'YJS_right95', 
+							  'back':'YJS_left95'
+						  },
+						  navigationThumb: {
+							  'forward':'thumbContainer_right95', 
+							  'back':'thumbContainer_left95',
+							  tnavHolder: 'thumbContainer95',
+							  container: 'thumbContainer_belt95',
+							  elements:'.thumbContainer_thumbLink95',
+							  outer: 'thumbContainer_outer95',
+							  visibleItems:3,
+							  showThumbs:0,
+							  thumbsOpacity:0.5,
+							  showThumbArrows:0,
+							  beltOrientation:0
+							  
+						  },
+						  slideType: 0,
+						  orientation: 0,
+						  slideTime: 6000,
+						  duration: 600,
+						  tooltips: 0,
+						  thumbTooltips:0,
+						  navTooltips: 0,
+						  autoslide: 0,
+						  navInfo: 'YJS_nav_info95',
+						  navLinks: '.YJS_navLink95',
+						  navHolder: 'navContainer95',
+						  slideWidth: '770',
+						  slideHeight:'382'
+					  });
+					  
+				  });
+
+				  if (typeof  Mediabox == 'object'){
+					  window.addEvent("domready", Mediabox.scanPage);
+				  }
+				  
+			  
+			  window.addEvent('domready', function(){
+					  new YJLiveSearch({
+					  inputId:'defaultfeedLiveSearch', 
+					  inputCopy:' defaultfeed',
+					  resultFeed:'http://www.4assist.eu/modules/mod_yj_live_search/feeds/feed.php', 
+					  noResultsMessage:'Sorry, no results for&nbsp;', 
+					  topDistance:25, 
+					  duration:500,
+					  minLenght:3,
+					  maxLenght:10,
+					  minCharTxt1:'Minimum&nbsp;',
+					  minCharTxt2:'&nbsp;characters required'
+
+				  });
+			});
+  </script>
+  <link rel="stylesheet" href="http://www.4assist.eu/templates/businessreport/css/yjresponsive.css" type="text/css" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no"/>
+  <meta name="HandheldFriendly" content="true" />
+  <meta name="apple-touch-fullscreen" content="YES" />
+  <style type="text/css">
+			.LiveSearchContainer.defaultfeed,
+			.LiveSearchResults.defaultfeed {
+			width:210px;
+			}
+		</style>
+
+		<link href="http://www.4assist.eu/templates/businessreport/css/template.css" rel="stylesheet" type="text/css" />
+		<link href="http://www.4assist.eu/templates/businessreport/css/blue.css" rel="stylesheet" type="text/css" />
+
+
+									<script type="text/javascript"> var YJSG_topmenu_font = '14px'; </script>
+			<script type="text/javascript" src="http://www.4assist.eu/templates/businessreport/src/mouseover13.js"></script>
+			<script language="javascript" type="text/javascript">	
+			window.addEvent('domready', function(){
+				new SmoothDrop({
+					'container':'horiznav',	
+					contpoz: 0,
+					horizLeftOffset: 21, // submenus, left offset
+					horizRightOffset: -21, // submenus opening into the opposite direction
+					horizTopOffset: 20, // submenus, top offset
+					verticalTopOffset:24, // main menus top offset
+					verticalLeftOffset: 10, // main menus, left offset
+					maxOutside: 50
+				});
+			});				
+			</script>	
+			<style type="text/css">
+			.horiznav li li,.horiznav ul ul a, .horiznav li ul,.YJSG_listContainer{
+			width:210px;
+		}
+			</style>
+	
+<style type="text/css">
+.horiznav li ul ul,.subul_main.group_holder ul.subul_main ul.subul_main, .subul_main.group_holder ul.subul_main ul.subul_main ul.subul_main, .subul_main.group_holder ul.subul_main ul.subul_main ul.subul_main ul.subul_main,.horiznav li li li:hover ul.dropline{
+	margin-top: -32px!important;
+	margin-left:95%!important;
+}
+</style>
+		<link rel="stylesheet" href="http://www.4assist.eu/templates/businessreport/css/custom.css" type="text/css" />
+</head>
+<body id="stylef12">
+<div id="centertop" style="font-size:14px; width:1200px;">
+	<div class="centertop_in">
+  		 <!--header-->
+  <div id="header" style="height:83px;">
+      <div id="logo" class="png" style="height:83px;width:72%;">
+           <a href="http://www.4assist.eu/" style="height:83px;"></a>
+          </div>
+    <!-- end logo -->
+   <div id="yjsgheadergrid" style="width:28%;">
+		<div id="header3" class="yjsgxhtml" style="width:100.00%;">
+		<div class="yjsquare bls">
+    <div class="yjsquare_in"><!-- http://www.Youjoomla.com  Yj Live Live Search 2.0 for Joomla 2.5 starts here -->
+<div class="yjlivecont defaultfeed">
+       <form method="get" action="http://www.4assist.eu/index.php">
+			<input type="text" name="searchword" id="defaultfeedLiveSearch" style="width:200px;" value="Type in your search..." onfocus="this.value='';" onblur="if(this.value==''){this.value='Type in your search...'};"  class="yj_inputbox"/>
+                        <input type="submit" value="search" class="button" />
+                        <input type="hidden" name="option" value="com_search" />
+			<input type="hidden" name="searchphrase" value="all" />
+            <input type="hidden" name="Itemid" value="238" />
+		</form>
+</div>
+<!-- http://www.Youjoomla.com  Yj Live Live Search 2.0  for Joomla 2.5 ends here --></div>
+</div>
+
+	</div>
+	</div>
+  </div>
+  <!-- end header -->
+  		    <!--top menu-->
+<div id="topmenu_holder">
+    <div class="top_menu" style="font-size:14px;">
+        <div id="horiznav" class="horiznav">	<ul class="menunav">
+	<li id="current" class="active item101"><span class="mymarg"><a class="yjanchor " href="/"><span class="yjm_has_none"><span class="yjm_title">Home</span></span></a></span></li><li class="item112"><span class="mymarg"><a class="yjanchor " href="/services.html"><span class="yjm_has_none"><span class="yjm_title">Services</span></span></a></span></li><li class="item234"><span class="mymarg"><a class="yjanchor " href="/references.html"><span class="yjm_has_none"><span class="yjm_title">References</span></span></a></span></li><li class="item123"><span class="mymarg"><a class="yjanchor " href="/about-us.html"><span class="yjm_has_none"><span class="yjm_title">About Us</span></span></a></span></li><li class="item235"><span class="mymarg"><a class="yjanchor " href="/upload-cv.html"><span class="yjm_has_none"><span class="yjm_title">Upload CV</span></span></a></span></li><li class="item287"><span class="mymarg"><a class="yjanchor " href="/articles.html"><span class="yjm_has_none"><span class="yjm_title">Articles</span></span></a></span></li><li class="item355"><span class="mymarg"><a class="yjanchor " href="/news.html"><span class="yjm_has_none"><span class="yjm_title">News</span></span></a></span></li><li class="item288"><span class="mymarg"><a class="yjanchor " href="/contact-en.html"><span class="yjm_has_none"><span class="yjm_title">Contact Us</span></span></a></span></li></ul></div>
+    </div>
+</div>
+    <!-- end top menu -->
+    </div>    
+</div>
+<!-- end centartop-->
+<div id="centerbottom" style="font-size:14px; width:1200px;">
+  		<div id="yjsg1">
+		<div id="top1" class="yjsgxhtml" style="width:65%;">
+		<div class="yjsquare bis">
+    <div class="yjsquare_in"><!-- http://www.Youjoomla.com  YJ Images Slider V4.0 Module for Joomla 1.6 and UP starts here -->
+<div id="YJSlide_outer95" class="slide YJIS_outer  bis" style="width:770px; height:382px;">
+	<span id="slidesinfo_95" class="yjis_slidesinfo getw_770">382</span>
+	<div id="YJSlide_inner95" class="YJIS_inner" style="width:770px;">
+			<div class="YJSlide_slide starter active YJS_slidesholder" style="width:770px; height:382px;">
+			
+
+			<img src="http://www.4assist.eu/images/upload_slides/IMG_2965.JPG"  class="yjisImg" alt="gaza no 2" />
+					
+					<div class="YJSlide_description">Gaza, Palestine</div>
+				
+				
+		</div>
+		
+			<div class="YJSlide_slide starter inactive YJS_slidesholder" style="width:770px; height:382px;">
+			
+
+			<img src="http://www.4assist.eu/images/upload_slides/Slide4.jpg"  class="yjisImg" alt="Slide 4 - Title" />
+					
+					<div class="YJSlide_description">Gaza, Palestine</div>
+				
+				
+		</div>
+		
+			<div class="YJSlide_slide starter inactive YJS_slidesholder" style="width:770px; height:382px;">
+			
+
+			<img src="http://www.4assist.eu/images/upload_slides/Zamb Pic.JPG"  class="yjisImg" alt="Slide1 - Title" />
+					
+					<div class="YJSlide_description">Lusaka, Zambia</div>
+				
+				
+		</div>
+		
+			<div class="YJSlide_slide starter inactive YJS_slidesholder" style="width:770px; height:382px;">
+			
+
+			<img src="http://www.4assist.eu/images/upload_slides/laoBudha.jpg"  class="yjisImg" alt="" />
+					
+					<div class="YJSlide_description">Vientiane, Lao PDR</div>
+				
+				
+		</div>
+		
+			<div class="YJSlide_slide starter inactive YJS_slidesholder" style="width:770px; height:382px;">
+			
+
+			<img src="http://www.4assist.eu/images/upload_slides/no panking.JPG"  class="yjisImg" alt="Slide 5 - Title" />
+					
+					<div class="YJSlide_description">Vientiane, Lao PDR</div>
+				
+				
+		</div>
+		
+			<div class="YJSlide_slide starter inactive YJS_slidesholder" style="width:770px; height:382px;">
+			
+
+			<img src="http://www.4assist.eu/images/upload_slides/IMG_5891.JPG"  class="yjisImg" alt="vietnam" />
+					
+					<div class="YJSlide_description">Hanoi, Vietnam</div>
+				
+				
+		</div>
+		
+			<div class="YJSlide_slide starter inactive YJS_slidesholder" style="width:770px; height:382px;">
+			
+
+			<img src="http://www.4assist.eu/images/upload_slides/LakeNakuruKenya.JPG"  class="yjisImg" alt="" />
+					
+					<div class="YJSlide_description">Lake Naivasha, Kenya</div>
+				
+				
+		</div>
+		
+			<div class="YJSlide_slide starter inactive YJS_slidesholder" style="width:770px; height:382px;">
+			
+
+			<img src="http://www.4assist.eu/images/upload_slides/SA Pretoria.JPG"  class="yjisImg" alt="" />
+					
+					<div class="YJSlide_description">Pretoria, South Africa</div>
+				
+				
+		</div>
+		
+			<div class="YJSlide_slide starter inactive YJS_slidesholder" style="width:770px; height:382px;">
+			
+
+			<img src="http://www.4assist.eu/images/upload_slides/Tbilisi - Copy.JPG"  class="yjisImg" alt="" />
+					
+					<div class="YJSlide_description">Tbilisi, Georgia</div>
+				
+				
+		</div>
+		
+			<div class="YJSlide_slide starter inactive YJS_slidesholder" style="width:770px; height:382px;">
+			
+
+			<img src="http://www.4assist.eu/images/upload_slides/Zambia MinistrLocalGov.JPG"  class="yjisImg" alt="" />
+					
+					<div class="YJSlide_description">Lusaka, Zambia</div>
+				
+				
+		</div>
+		
+			<div class="YJSlide_slide starter inactive YJS_slidesholder" style="width:770px; height:382px;">
+			
+
+			<img src="http://www.4assist.eu/images/upload_slides/Slide3.jpg"  class="yjisImg" alt="Slide 3 - Title" />
+					
+					<div class="YJSlide_description">Garni, Armenia</div>
+				
+				
+		</div>
+		
+			<div class="YJSlide_slide starter inactive YJS_slidesholder" style="width:770px; height:382px;">
+			
+
+			<img src="http://www.4assist.eu/images/upload_slides/IMG_5898.JPG"  class="yjisImg" alt="viet2" />
+					
+					<div class="YJSlide_description">Hanoi, Vietnam</div>
+				
+				
+		</div>
+		
+			<div class="YJSlide_slide starter inactive YJS_slidesholder" style="width:770px; height:382px;">
+			
+
+			<img src="http://www.4assist.eu/images/upload_slides/Laos Library.JPG"  class="yjisImg" alt="Cambodia" />
+					
+					<div class="YJSlide_description">Vientiane, Lao PDR</div>
+				
+				
+		</div>
+		
+			<div class="YJSlide_slide starter inactive YJS_slidesholder" style="width:770px; height:382px;">
+			
+
+			<img src="http://www.4assist.eu/images/upload_slides/Slide2.jpg"  class="yjisImg" alt="Kyrgizstan" />
+					
+					<div class="YJSlide_description">Bishkek, Kyrgyzstan</div>
+				
+				
+		</div>
+		
+	    
+	</div>
+		<a href="javascript:;" class="slidearrows slideLeft" title="previous" id="YJS_left95"></a>
+	<a href="javascript:;" class="slidearrows slideRight" title="next" id="YJS_right95"></a>
+	        
+</div>
+</div>
+</div>
+
+	</div>
+		<div id="top2" class="yjsgxhtml" style="width:35%;">
+		<div class="yjsquare yjme">
+    <h4>
+    <span>News</span>  </h4>
+    <div class="yjsquare_in"><!-- Powered by YJ Module Engine find out more at www.youjoomla.com -->
+<div class="yjme_holder">
+    <div class="yjme_item">
+    <div class="yjme_item_in yjmeitem61">
+      	        <a class="item_title" href="/news/item/61-an-historic-step-forward-for-moldova-the-first-issuance-of-a-5-year-bond.html">
+        An historic step forward for Moldova – the first issuance of a 5-year Bond      </a>
+                        <p class="item_intro">
+        
+On the 28th of March, the Government of Moldova issued its first medium-term Government Security – a 5-year Bond. This has par      </p>
+      
+          </div>
+  </div>
+    <div class="yjme_item">
+    <div class="yjme_item_in yjmeitem60">
+      	        <a class="item_title" href="/news/item/60-operational-assessment-of-the-financial-circuits-and-procedures-in-ukraine-for-dg-ecfin.html">
+        Operational Assessment of the financial circuits and procedures in Ukraine for DG ECFIN      </a>
+                        <p class="item_intro">
+        4Assist associates, together with our consortium partners BDO (UK), are preparing for another EU Operational Assessment in Ukraine      </p>
+      
+          </div>
+  </div>
+    <div class="yjme_item">
+    <div class="yjme_item_in yjmeitem59 last">
+      	        <a class="item_title" href="/news/item/59-assessment-of-budget-support-eligibility-criteria-2018-and-2019-cambodia.html">
+        Assessment of Budget Support Eligibility criteria 2018 and 2019 – Cambodia      </a>
+                        <p class="item_intro">
+        Our Associate, Sebastien Dubost, senior PFM is assigned to conduct an independent assessment of the EU Budget Support eligibility       </p>
+      
+          </div>
+  </div>
+  </div></div>
+</div>
+
+	</div>
+	</div>
+  		<div id="yjsg2">
+		<div id="adv1" class="yjsgxhtml" style="width:65%;">
+		<div class="yjsquare bme">
+    <div class="yjsquare_in"><!-- Powered by YJ Module Engine find out more at www.youjoomla.com -->
+<div class="yjme_holder">
+    <div class="yjme_item">
+    <div class="yjme_item_in yjmeitem4">
+      	        <a class="item_title" href="/profile.html">
+        Our Profile - Celebrating 10 Years 4Assist!      </a>
+                        <p class="item_intro">
+        4Assist is a network of professionals committed to the provision of quality consulting and advisory services in the field of development assistance.&nbsp;
+&nbsp;
+Recently, we proudly accomplished and celebrated 10 years of successful business across the globe.
+&nbsp; &nbsp;      </p>
+      
+          </div>
+  </div>
+    <div class="yjme_item">
+    <div class="yjme_item_in yjmeitem3">
+      	        <a class="item_title" href="/services.html">
+        Services      </a>
+                        <p class="item_intro">
+        Our advisory services cover Capacity building, Analytical work, and Development assistance mechanisms.&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;       </p>
+      
+          </div>
+  </div>
+    <div class="yjme_item">
+    <div class="yjme_item_in yjmeitem1 last">
+      	        <a class="item_title" href="/about-us.html">
+        About Us - 10 Years 4Assist!      </a>
+                        <p class="item_intro">
+        This year we celebrate 10 years of 4Assist!
+Most of our associates have had several years of experience in working together successfully in short and long-term assignments prior to the formation of 4Assist. Nevertheless, the development of the 4Assist network has enabled us t      </p>
+      
+          </div>
+  </div>
+  </div></div>
+</div>
+
+	</div>
+		<div id="adv2" class="yjsgxhtml" style="width:35%;">
+		<div class="yjsquare bym2">
+    <h4>
+    <span>Core</span> Competencies  </h4>
+    <div class="yjsquare_in"><!-- http://www.Youjoomla.com  Youyork Module Slider for Joomla 1.6 and UP starts here -->
+<div class="yy_container_out">
+    <div id="yy_container_copy" class="yy_container" style="width:370px;height:400px;">
+        <a class="linkForward"></a>
+            <div id="yy_slider_copy" class="yy_slider" style="width:370px;height:400px;">
+                                    <div class="yy_slideitems" style="width:370px;">
+                       <div class="yy_slideitems_in">
+                                  
+                            <!-- Powered by YJ Module Engine find out more at www.youjoomla.com -->
+<div class="yjme_holder">
+    <div class="yjme_item">
+    <div class="yjme_item_in yjmeitem14">
+      	        <a class="item_title" href="/economic-development.html">
+        Economic Development      </a>
+                        <p class="item_intro">
+        4Assist is involved in a broad range of themes in the field of economic development. &nbsp; &nbsp;
+      </p>
+      
+          </div>
+  </div>
+    <div class="yjme_item">
+    <div class="yjme_item_in yjmeitem13">
+      	        <a class="item_title" href="/public-financial-management.html">
+        Public Financial Management      </a>
+                        <p class="item_intro">
+        4Assist is involved in the entire spectrum of Public Financial Management (PFM). &nbsp; &nbsp; &nbsp      </p>
+      
+          </div>
+  </div>
+    <div class="yjme_item">
+    <div class="yjme_item_in yjmeitem56">
+      	        <a class="item_title" href="/component/k2/item/56-debt-management-and-financial-markets.html">
+        Debt Management and Financial Markets      </a>
+                        <p class="item_intro">
+        4Assist is increasingly involved in work in securities markets, sovereign and corporate as well as i      </p>
+      
+          </div>
+  </div>
+    <div class="yjme_item">
+    <div class="yjme_item_in yjmeitem10 last">
+      	        <a class="item_title" href="/social-protection.html">
+        Social Protection      </a>
+                        <p class="item_intro">
+        4Assist has a wide range of advisory experience in all four major fields of Social Protection. &nbsp      </p>
+      
+          </div>
+  </div>
+  </div>                
+                       </div>
+                    </div>
+                                    <div class="yy_slideitems" style="width:370px;">
+                       <div class="yy_slideitems_in">
+                                  
+                            <!-- Powered by YJ Module Engine find out more at www.youjoomla.com -->
+<div class="yjme_holder">
+    <div class="yjme_item">
+    <div class="yjme_item_in yjmeitem12">
+      	        <a class="item_title" href="/public-administration.html">
+        Public Administration      </a>
+                        <p class="item_intro">
+        4Assist has significant experience in Public Administration reform, which is a complementary theme t      </p>
+      
+          </div>
+  </div>
+    <div class="yjme_item">
+    <div class="yjme_item_in yjmeitem9">
+      	        <a class="item_title" href="/education.html">
+        Education      </a>
+                        <p class="item_intro">
+        4Assist has been involved in Education interventions in Jordan, Namibia, Kyrgyzstan, and Laos. &nbsp      </p>
+      
+          </div>
+  </div>
+    <div class="yjme_item">
+    <div class="yjme_item_in yjmeitem11 last">
+      	        <a class="item_title" href="/agriculture-and-rural-development.html">
+        Agriculture and Rural Development      </a>
+                        <p class="item_intro">
+        4Assist has experience in agricultural and rural development policy formulation and rationalisation       </p>
+      
+          </div>
+  </div>
+  </div>                
+                       </div>
+                    </div>
+                  
+            </div>
+        <a class="linkBackward"></a>
+    </div>
+        <div class="yy_bottom_nav_holder">
+    	<div class="yy_ul_left">
+          <ul id="yy_bottom-nav_copy" class="yy_bottom_navigation">
+                                      <li><a href="#" title="" class="yy_nav active"><span>1</span></a></li>
+                                      <li><a href="#" title="" class="yy_nav"><span>2</span></a></li>
+                             </ul>
+       </div>
+    </div>
+    </div></div>
+</div>
+
+	</div>
+	</div>
+  		<div id="yjsg3">
+		<div id="user1" class="yjsgxhtml" style="width:100.00%;">
+		<div class="yjsquare bme  bme2">
+    <div class="yjsquare_in"><!-- Powered by YJ Module Engine find out more at www.youjoomla.com -->
+<div class="yjme_holder">
+    <div class="yjme_item">
+    <div class="yjme_item_in yjmeitem25">
+      
+	        <a class="item_title" href="/references/item/25-public-expenditure-and-financial-accountability-pefa-assessment-update-for-moldova.html">
+        Public Expenditure and Financial Accountability (PEFA) Assessment update for Moldova.      </a>
+                        <p class="item_intro">
+        "The assignment was carried out within the Framework Service Contract ECFIN/012/2011 for Operational and PEFA Assessments. The specific objectives of the Moldova PEFA"
+      </p>
+                        <a class="item_readmore" href="/references/item/25-public-expenditure-and-financial-accountability-pefa-assessment-update-for-moldova.html">
+        <span>
+          Read more        </span>
+      </a>
+          </div>
+  </div>
+    <div class="yjme_item">
+    <div class="yjme_item_in yjmeitem52 last">
+      
+	        <a class="item_title" href="/references/item/52-support-facility-for-eu-budget-support-operations-in-lao-pdr.html">
+        Support Facility for EU Budget Support Operations in Lao PDR      </a>
+                        <p class="item_intro">
+        "4Assist provided the expert team for the EU Facility in Lao PDR supporting the on-going Budget Support (BS) Programme and the preparation of the future programme und"
+      </p>
+                        <a class="item_readmore" href="/references/item/52-support-facility-for-eu-budget-support-operations-in-lao-pdr.html">
+        <span>
+          Read more        </span>
+      </a>
+          </div>
+  </div>
+  </div></div>
+</div>
+
+	</div>
+	</div>
+                        
+</div>
+<!-- end centerbottom-->
+	            <div class="bottom_grids_footer">
+        <div id="yjsg6" style="font-size:14px; width:1200px;">
+		<div id="user17" class="yjsgxhtml" style="width:38.46%;">
+		<div class="yjsquare bcustom">
+    <div class="yjsquare_in"><h4>FOUR ASSIST DEVELOPMENT CONSULTING LIMITED</h4>
+<p>4Assist is <strong>network of professionals</strong> committed to the provision of quality consulting and advisory services in the field of development assistance.</p>
+<p><a class="breadmore" href="/profile.html">Read more</a></p></div>
+</div>
+
+	</div>
+		<div id="user18" class="yjsgxhtml" style="width:38.46%;">
+		<div class="yjsquare bcustom">
+    <div class="yjsquare_in"><p style="text-align: left;"><em>Registration number</em>: HE177947<br /><em>VAT number</em>: 10177947X</p>
+<p style="text-align: left;"><em>Registered office</em>:&nbsp;Themistokli Dervi, 41. PC: 1066, Nicosia, Cyprus<br /><em>Telephone</em>:&nbsp;+35799216320<br /><em>Fascimile</em>: +357-22768277<br /><em>E-mail</em>:&nbsp;<span id="cloak49471">This email address is being protected from spambots. You need JavaScript enabled to view it.</span><script type='text/javascript'>
+ //<!--
+ document.getElementById('cloak49471').innerHTML = '';
+ var prefix = '&#109;a' + 'i&#108;' + '&#116;o';
+ var path = 'hr' + 'ef' + '=';
+ var addy49471 = '&#105;nf&#111;' + '&#64;';
+ addy49471 = addy49471 + '4&#97;ss&#105;st' + '&#46;' + '&#101;&#117;';
+ var addy_text49471 = '&#105;nf&#111;' + '&#64;' + '4&#97;ss&#105;st' + '&#46;' + '&#101;&#117;';
+ document.getElementById('cloak49471').innerHTML += '<a ' + path + '\'' + prefix + ':' + addy49471 + '\'>'+addy_text49471+'<\/a>';
+ //-->
+ </script></p></div>
+</div>
+
+	</div>
+		<div id="user19" class="yjsgxhtml" style="width:23.08%;">
+		<div class="yjsquare blist">
+    <h4>
+    <span>Specialists</span> in:  </h4>
+    <div class="yjsquare_in"><ul class="blist">
+<li><a href="/economic-development.html">Economic Development</a></li>
+<li><a href="/public-financial-management.html">Public Financial Management</a></li>
+<li><a href="/component/k2/item/56-debt-management-and-financial-markets.html">Debt Mgmt & Financial Markets</a></li>
+<li><a href="/public-administration.html">Public Administration</a></li>
+<li><a href="/agriculture-and-rural-development.html">Agriculture and Rural Development</a></li>
+<li><a href="/social-protection.html">Social Protection</a></li>
+<li><a href="/education.html">Education</a></li>
+</ul></div>
+</div>
+
+	</div>
+	</div>
+                <!-- footer -->
+<div id="footer"  style="font-size:14px; width:1200px;">
+  <div id="youjoomla">
+    	    	<div id="cp">
+		
+<script type="text/javascript">
+
+	window.addEvent('domready', function() {
+	new SmoothScroll({duration: 500});	
+	})
+</script>
+<div class="yjsgcp">Copyright &copy; <span>4Assist </span> 2018 All rights reserved. <a href="https://tserts.eu" title="Visit Tserts.eu">Custom Design by Tserts.eu </a></div>					       </div>
+  </div>
+</div>
+<!-- end footer -->
+	        </div>     
+ 		  </body>
+</html>
+

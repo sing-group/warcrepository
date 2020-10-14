@@ -1,0 +1,953 @@
+WARC/1.0
+WARC-Type: warcinfo
+WARC-Date: 2018-05-30T17:52:30Z
+WARC-All-Language: en
+WARC-All-Content_type: text/html; charset=UTF-8
+WARC-Record-ID: <urn:uuid:cd5a4c64-2e58-4950-84db-c22e5747d4ba>
+Content-Type: application/http;msgtype=response
+Content-Length: 46
+
+WARCProcessor by SING Group www.sing-group.com
+
+WARC/1.0
+WARC-Type: response
+WARC-Target-URI: http://www.c0t0d0s0.eu
+WARC-Date: 20180530175230
+WARC-Language: en
+WARC-Record-ID: <http://www.c0t0d0s0.eu>
+Content-Type: application/http;msgtype=response
+Content-Length: 69957
+
+HTTP/1.1 200
+Content-Type:text/html; charset=UTF-8
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+           "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html>
+<head>
+    <title>c0t0d0s0.org </title>
+    <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1" />
+    <meta name="Powered-By" content="Serendipity v.2.1.1" />
+    <link rel="stylesheet" type="text/css" href="http://media.mabushi.de/css/serendipity.css" />
+    <link rel="alternate"  type="application/rss+xml" title="c0t0d0s0.org RSS feed" href="http://www.c0t0d0s0.org/feeds/index.rss2" />
+    <link rel="alternate"  type="application/x.atom+xml"  title="c0t0d0s0.org Atom feed"  href="http://www.c0t0d0s0.org/feeds/atom.xml" />
+
+    <script src="/templates/jquery.js"></script>
+    <script>jQuery.noConflict();</script>
+<meta name="verify-v1" content="fRqCRgzM5Lmj8PMaSMqa8NKYGG+CNpN4TUd6EC8tpTQ=" />
+<link rel="shortcut icon" href="http://c0t0d0s0.org/favicon.ico" >
+<link rel="image_src" href="http://www.c0t0d0s0.org/facebook.png" / >
+<meta property="og:image" content="http://www.c0t0d0s0.org/facebook.png"/>
+<meta name="description" content="c0t0d0s0.org is the sun in a lighthungry universe.A personal blog about Oracle Solaris, Servers, Networks and all the rest." />        <meta name="keywords" content="moellenkamp,solaris" />
+<link rel="pingback" href="http://www.c0t0d0s0.org/serendipity_xmlrpc.php" />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www.c0t0d0s0.org/serendipity_xmlrpc.php?xsd=true" />
+<link rel="start" href="http://www.c0t0d0s0.org/" title="c0t0d0s0.org" />
+<link rel="canonical" href="http://www.c0t0d0s0.org/" />
+
+</head>
+
+<body>
+
+<div id="serendipity_banner">
+    <h1><a class="homelink1" href="http://www.c0t0d0s0.org/">c0t0d0s0.org</a></h1>
+    <h2><a class="homelink2" href="http://www.c0t0d0s0.org/">the sun in a lighthungry universe</a></h2>
+</div>
+
+<table id="mainpane">
+    <tr>
+        <td id="serendipityLeftSideBar" valign="top">    <div class="serendipitySideBarItem container_serendipity_plugin_quicksearch">
+        <h3 class="serendipitySideBarTitle serendipity_plugin_quicksearch">Quicksearch</h3>        <div class="serendipitySideBarContent"><form id="searchform" action="/index.php" method="get">
+    <div>
+        <input type="hidden" name="serendipity[action]" value="search" />
+        <input type="hidden" name="serendipity[fullentry]" value="1" />
+        <input type="text" id="serendipityQuickSearchTermField" name="serendipity[searchTerm]" size="13" />
+        <input class="quicksearch_submit" type="submit" value="&gt;" name="serendipity[searchButton]" title="Go!" style="width: 2em;" />
+    </div>
+    <div id="LSResult" style="display: none;"><div id="LSShadow"></div></div>
+</form>
+</div>
+    </div>
+    <div class="serendipitySideBarItem container_serendipity_plugin_html_nugget">
+        <h3 class="serendipitySideBarTitle serendipity_plugin_html_nugget">Disclaimer</h3>        <div class="serendipitySideBarContent">The individual owning this blog works for Oracle  in Germany. The opinions expressed here are his own, are not necessarily reviewed in advance by anyone but the individual author, and neither Oracle nor any other party necessarily agrees with them.</div>
+    </div>
+    <div class="serendipitySideBarItem container_serendipity_plugin_html_nugget">
+        <h3 class="serendipitySideBarTitle serendipity_plugin_html_nugget">Navigation</h3>        <div class="serendipitySideBarContent"><ul>
+<li><a href="http://www.c0t0d0s0.org">Home</a></li>
+<li><a href="http://www.c0t0d0s0.org/index.php?/archives/2-Impressum.html">Impressum</a></li>
+<li><a href="http://www.c0t0d0s0.org/pages/datenschutzhinweis.html">Datenschutzhinweis</a></li>
+<li><a href="http://www.c0t0d0s0.org/index.php?/archives/3-Disclaimer.html">Disclaimer</a></li>
+<li><a href="http://www.c0t0d0s0.org/pages/archives.html">Das Archiv</a></li>
+</ul></div>
+    </div>
+</td>
+        <td id="content" valign="top"><!-- CONTENT START -->
+
+	<div class="serendipity_content_message"></div>
+
+<!-- ENTRIES START -->
+    
+
+        <div class="serendipity_Entry_Date">
+
+
+                <h4 class="serendipity_title"><a href="/archives/7765-blog.moellenkamp.org.html">blog.moellenkamp.org</a></h4>
+                        <h3 class="serendipity_date">Tuesday, May  2. 2017</h3>
+        
+        <div class="serendipity_entry serendipity_entry_author_Joerg-Moellenkamp ">
+            <!--
+            <span class="serendipity_entryIcon">
+                                                                                </span>
+-->
+            
+            <div class="serendipity_entry_body">
+                Okay, here it is , the last article in this blog.  As I made an mistake when looking at the configuration of my Feedburner RSS feed, it gone public a little bit early, however here it is: The new blog is at <a onclick="_gaq.push(['_trackPageview', '/extlink/blog.moellenkamp.org']);"  href="http://blog.moellenkamp.org">blog.moellenkamp.org</a>, a short article about the new start can be found <a onclick="_gaq.push(['_trackPageview', '/extlink/blog.moellenkamp.org/index.php?/archives/1-A-new-start.html']);"  href="http://blog.moellenkamp.org/index.php?/archives/1-A-new-start.html">here</a>.
+            </div>
+
+            
+            
+            <div class='serendipity_entryFooter'>
+                Posted by <a href="http://www.c0t0d0s0.org/authors/1-Joerg-Moellenkamp">Joerg Moellenkamp</a>
+                                   in <a href="http://www.c0t0d0s0.org/categories/41-English">English</a>, <a href="http://www.c0t0d0s0.org/categories/1-General">General</a>                
+                                    at
+                 <a href="/archives/7765-blog.moellenkamp.org.html">06:31</a>
+
+                
+                
+                
+                <div class="serendipity_freeTag">Defined tags for this entry: <a href="http://www.c0t0d0s0.org/plugin/tag/english" title="english" rel="tag">english</a>, <a href="http://www.c0t0d0s0.org/plugin/tag/general" title="general" rel="tag">general</a></div>
+            </div>
+        </div>
+        <!--
+        <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+                 xmlns:trackback="http://madskills.com/public/xml/rss/module/trackback/"
+                 xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <rdf:Description
+                 rdf:about="http://www.c0t0d0s0.org/feeds/ei_7765.rdf"
+                 trackback:ping="http://www.c0t0d0s0.org/comment.php?type=trackback&amp;entry_id=7765"
+                 dc:title="blog.moellenkamp.org"
+                 dc:identifier="http://www.c0t0d0s0.org/archives/7765-blog.moellenkamp.org.html" />
+        </rdf:RDF>
+        -->
+        <div style="text-align: center;"><!-- <rdf:RDF xmlns="http://web.resource.org/cc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"><Work rdf:about=""><license rdf:resource="http://creativecommons.org/licenses/by-sa/2.5/"/></Work><License rdf:about="http://creativecommons.org/licenses/by-sa/2.5/">  <requires rdf:resource="http://web.resource.org/cc/Attribution" />  <permits rdf:resource="http://web.resource.org/cc/Reproduction" />  <permits rdf:resource="http://web.resource.org/cc/Distribution" />  <permits rdf:resource="http://web.resource.org/cc/DerivativeWorks" />  <requires rdf:resource="http://web.resource.org/cc/ShareAlike" />  <requires rdf:resource="http://web.resource.org/cc/Notice" /></License></rdf:RDF> --></div>
+
+        
+	
+
+        
+        
+            </div>
+        <div class="serendipity_Entry_Date">
+
+
+                <h4 class="serendipity_title"><a href="/archives/7763-End-of-c0t0d0s0.org.html">End of c0t0d0s0.org</a></h4>
+                        <h3 class="serendipity_date">Monday, May  1. 2017</h3>
+        
+        <div class="serendipity_entry serendipity_entry_author_Joerg-Moellenkamp ">
+            <!--
+            <span class="serendipity_entryIcon">
+                                                                                </span>
+-->
+            
+            <div class="serendipity_entry_body">
+                From time to time it is necessary to think about all the stuff you carry around with you that holds you back or is too freighted. I decided this weekend to stop c0t0d0s0.org. To be exact ... i'm thinking about it for a while, but in the last few days i made up mind about it. There were few new articles in the last years anyway. So it's probably not that much of a change. But  the active decision to stop c0t0d0s0.org was long overdue.<br />
+<br />
+So I decided to put the whole site in the "archive" mode. Even without new articles there is still a lot of traffic on the content and i don't want it to take it away.<br />
+<br />
+However i decided to start something new as well. This is not the end of me writing things. There will be a follow-on to my old blog, almost from scratch. I still want and need a place to share things like my findings about performance problems at customers or when i find a interesting capability of Solaris. However the new site will cover my much broadened interests as well. It's a fresh start.<br />
+<br />
+On this blog will be only one new article after this one explaining where you can find my new site, perhaps afters this just articles that points to corresponding articles in  the new blog, but i'm not sure about that. I will redirect feeds and stuff like that to the new blog as soon as the new site is ready. So no action from your site nescessary.
+            </div>
+
+            
+            
+            <div class='serendipity_entryFooter'>
+                Posted by <a href="http://www.c0t0d0s0.org/authors/1-Joerg-Moellenkamp">Joerg Moellenkamp</a>
+                                   in <a href="http://www.c0t0d0s0.org/categories/41-English">English</a>, <a href="http://www.c0t0d0s0.org/categories/1-General">General</a>                
+                                    at
+                 <a href="/archives/7763-End-of-c0t0d0s0.org.html">07:26</a>
+
+                                                            | <a href="/archives/7763-End-of-c0t0d0s0.org.html#comments">Comments (2)</a>
+                                    
+                
+                
+                <div class="serendipity_freeTag">Defined tags for this entry: <a href="http://www.c0t0d0s0.org/plugin/tag/english" title="english" rel="tag">english</a>, <a href="http://www.c0t0d0s0.org/plugin/tag/general" title="general" rel="tag">general</a></div>
+            </div>
+        </div>
+        <!--
+        <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+                 xmlns:trackback="http://madskills.com/public/xml/rss/module/trackback/"
+                 xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <rdf:Description
+                 rdf:about="http://www.c0t0d0s0.org/feeds/ei_7763.rdf"
+                 trackback:ping="http://www.c0t0d0s0.org/comment.php?type=trackback&amp;entry_id=7763"
+                 dc:title="End of c0t0d0s0.org"
+                 dc:identifier="http://www.c0t0d0s0.org/archives/7763-End-of-c0t0d0s0.org.html" />
+        </rdf:RDF>
+        -->
+        <div style="text-align: center;"><!-- <rdf:RDF xmlns="http://web.resource.org/cc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"><Work rdf:about=""><license rdf:resource="http://creativecommons.org/licenses/by-sa/2.5/"/></Work><License rdf:about="http://creativecommons.org/licenses/by-sa/2.5/">  <requires rdf:resource="http://web.resource.org/cc/Attribution" />  <permits rdf:resource="http://web.resource.org/cc/Reproduction" />  <permits rdf:resource="http://web.resource.org/cc/Distribution" />  <permits rdf:resource="http://web.resource.org/cc/DerivativeWorks" />  <requires rdf:resource="http://web.resource.org/cc/ShareAlike" />  <requires rdf:resource="http://web.resource.org/cc/Notice" /></License></rdf:RDF> --></div>
+
+        
+	
+
+        
+        
+            </div>
+        <div class="serendipity_Entry_Date">
+
+
+                <h4 class="serendipity_title"><a href="/archives/7762-tar-x-and-NFS-or-The-devil-in-the-details.html">tar -x and NFS - or: The devil in the details</a></h4>
+                        <h3 class="serendipity_date">Wednesday, April 26. 2017</h3>
+        
+        <div class="serendipity_entry serendipity_entry_author_Joerg-Moellenkamp ">
+            <!--
+            <span class="serendipity_entryIcon">
+                                                                                </span>
+-->
+            
+            <div class="serendipity_entry_body">
+                Sometimes some simple question leads you down deep to basic discussions: This was something I had to solve 2 years ago. The hard part was not finding it out, that was pretty obvious at start. The problem was to it was to explain it.<br />
+<br />
+Since then I saw it reoccurring several times. Once occasion two weeks ago, thus I decided to write this down. I will just take the question of the customer �I had a SAN and my�tar -x�was running fine with a short runtime. Now you gave me a ZFSSA, I�m using NFS and the times for�tar -x�are horrible. 61 Minutes �. I�m writing about this now, because in different appearances I�ve seen this problem again and again over the last few months and I think it's time to write an article where I can just point when I�m seeing this problem again.<br />
+<br />
+To start with it: This issue is not Solaris specific ... this more or less a NFS specific problem. So maybe it's interesting to users of others operating systems as well.<br />
+
+            </div>
+
+            
+                        <br /><a href="/archives/7762-tar-x-and-NFS-or-The-devil-in-the-details.html#extended">Continue reading "tar -x and NFS - or: The devil in the details"</a><br /><br />
+            
+            <div class='serendipity_entryFooter'>
+                Posted by <a href="http://www.c0t0d0s0.org/authors/1-Joerg-Moellenkamp">Joerg Moellenkamp</a>
+                                   in <a href="http://www.c0t0d0s0.org/categories/41-English">English</a>, <a href="http://www.c0t0d0s0.org/categories/2-Solaris">Solaris</a>                
+                                    at
+                 <a href="/archives/7762-tar-x-and-NFS-or-The-devil-in-the-details.html">13:40</a>
+
+                                                            | <a href="/archives/7762-tar-x-and-NFS-or-The-devil-in-the-details.html#comments">Comments (2)</a>
+                                    
+                
+                
+                <div class="serendipity_freeTag">Defined tags for this entry: <a href="http://www.c0t0d0s0.org/plugin/tag/english" title="english" rel="tag">english</a>, <a href="http://www.c0t0d0s0.org/plugin/tag/solaris" title="solaris" rel="tag">solaris</a></div>
+            </div>
+        </div>
+        <!--
+        <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+                 xmlns:trackback="http://madskills.com/public/xml/rss/module/trackback/"
+                 xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <rdf:Description
+                 rdf:about="http://www.c0t0d0s0.org/feeds/ei_7762.rdf"
+                 trackback:ping="http://www.c0t0d0s0.org/comment.php?type=trackback&amp;entry_id=7762"
+                 dc:title="tar -x and NFS - or: The devil in the details"
+                 dc:identifier="http://www.c0t0d0s0.org/archives/7762-tar-x-and-NFS-or-The-devil-in-the-details.html" />
+        </rdf:RDF>
+        -->
+        <div style="text-align: center;"><!-- <rdf:RDF xmlns="http://web.resource.org/cc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"><Work rdf:about=""><license rdf:resource="http://creativecommons.org/licenses/by-sa/2.5/"/></Work><License rdf:about="http://creativecommons.org/licenses/by-sa/2.5/">  <requires rdf:resource="http://web.resource.org/cc/Attribution" />  <permits rdf:resource="http://web.resource.org/cc/Reproduction" />  <permits rdf:resource="http://web.resource.org/cc/Distribution" />  <permits rdf:resource="http://web.resource.org/cc/DerivativeWorks" />  <requires rdf:resource="http://web.resource.org/cc/ShareAlike" />  <requires rdf:resource="http://web.resource.org/cc/Notice" /></License></rdf:RDF> --></div>
+
+        
+	
+
+        
+        
+            </div>
+        <div class="serendipity_Entry_Date">
+
+
+                <h4 class="serendipity_title"><a href="/archives/7761-Empty-homes.html">Empty homes</a></h4>
+                        <h3 class="serendipity_date">Sunday, March  5. 2017</h3>
+        
+        <div class="serendipity_entry serendipity_entry_author_Joerg-Moellenkamp ">
+            <!--
+            <span class="serendipity_entryIcon">
+                                                                                                            </span>
+-->
+            
+            <div class="serendipity_entry_body">
+                Recently I had a performance tuning gig at a customer reporting that despite having the same number of vCPUs configured into the Logical Domain, the performance of both systems was different. A further observation was that a significant number of CPUs weren�t used on that system.
+            </div>
+
+            
+                        <br /><a href="/archives/7761-Empty-homes.html#extended">Continue reading "Empty homes"</a><br /><br />
+            
+            <div class='serendipity_entryFooter'>
+                Posted by <a href="http://www.c0t0d0s0.org/authors/1-Joerg-Moellenkamp">Joerg Moellenkamp</a>
+                                   in <a href="http://www.c0t0d0s0.org/categories/41-English">English</a>, <a href="http://www.c0t0d0s0.org/categories/2-Solaris">Solaris</a>, <a href="http://www.c0t0d0s0.org/categories/48-SPARC">SPARC</a>                
+                                    at
+                 <a href="/archives/7761-Empty-homes.html">20:42</a>
+
+                                                            | <a href="/archives/7761-Empty-homes.html#comments">Comment (1)</a>
+                                    
+                
+                
+                <div class="serendipity_freeTag">Defined tags for this entry: <a href="http://www.c0t0d0s0.org/plugin/tag/english" title="english" rel="tag">english</a>, <a href="http://www.c0t0d0s0.org/plugin/tag/solaris" title="solaris" rel="tag">solaris</a>, <a href="http://www.c0t0d0s0.org/plugin/tag/sparc" title="sparc" rel="tag">sparc</a></div>
+            </div>
+        </div>
+        <!--
+        <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+                 xmlns:trackback="http://madskills.com/public/xml/rss/module/trackback/"
+                 xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <rdf:Description
+                 rdf:about="http://www.c0t0d0s0.org/feeds/ei_7761.rdf"
+                 trackback:ping="http://www.c0t0d0s0.org/comment.php?type=trackback&amp;entry_id=7761"
+                 dc:title="Empty homes"
+                 dc:identifier="http://www.c0t0d0s0.org/archives/7761-Empty-homes.html" />
+        </rdf:RDF>
+        -->
+        <div style="text-align: center;"><!-- <rdf:RDF xmlns="http://web.resource.org/cc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"><Work rdf:about=""><license rdf:resource="http://creativecommons.org/licenses/by-sa/2.5/"/></Work><License rdf:about="http://creativecommons.org/licenses/by-sa/2.5/">  <requires rdf:resource="http://web.resource.org/cc/Attribution" />  <permits rdf:resource="http://web.resource.org/cc/Reproduction" />  <permits rdf:resource="http://web.resource.org/cc/Distribution" />  <permits rdf:resource="http://web.resource.org/cc/DerivativeWorks" />  <requires rdf:resource="http://web.resource.org/cc/ShareAlike" />  <requires rdf:resource="http://web.resource.org/cc/Notice" /></License></rdf:RDF> --></div>
+
+        
+	
+
+        
+        
+                <h4 class="serendipity_title"><a href="/archives/7760-Slapped-by-metaslabs.html">Slapped by metaslabs</a></h4>
+                        <h3 class="serendipity_date">Sunday, March  5. 2017</h3>
+        
+        <div class="serendipity_entry serendipity_entry_author_Joerg-Moellenkamp ">
+            <!--
+            <span class="serendipity_entryIcon">
+                                                                                </span>
+-->
+            
+            <div class="serendipity_entry_body">
+                I just want to share something that I've learned a few days ago by doing this. Let's assume you have a ZFS pool. 1 TB in size. You want to add some storage. By accident you grab a slice 0 that is 128MB large instead of the whole LUN. The obvious question is how do you get rid of it. You may get to the idea that you replace the 128 MB LUN with a 1 TB LUN.  We do this replacement all the time to increase of rpools. However: For the given situation this is an exceptionally bad idea.<br />
+
+            </div>
+
+            
+                        <br /><a href="/archives/7760-Slapped-by-metaslabs.html#extended">Continue reading "Slapped by metaslabs"</a><br /><br />
+            
+            <div class='serendipity_entryFooter'>
+                Posted by <a href="http://www.c0t0d0s0.org/authors/1-Joerg-Moellenkamp">Joerg Moellenkamp</a>
+                                   in <a href="http://www.c0t0d0s0.org/categories/41-English">English</a>, <a href="http://www.c0t0d0s0.org/categories/2-Solaris">Solaris</a>                
+                                    at
+                 <a href="/archives/7760-Slapped-by-metaslabs.html">16:58</a>
+
+                
+                
+                
+                <div class="serendipity_freeTag">Defined tags for this entry: <a href="http://www.c0t0d0s0.org/plugin/tag/english" title="english" rel="tag">english</a>, <a href="http://www.c0t0d0s0.org/plugin/tag/solaris" title="solaris" rel="tag">solaris</a></div>
+            </div>
+        </div>
+        <!--
+        <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+                 xmlns:trackback="http://madskills.com/public/xml/rss/module/trackback/"
+                 xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <rdf:Description
+                 rdf:about="http://www.c0t0d0s0.org/feeds/ei_7760.rdf"
+                 trackback:ping="http://www.c0t0d0s0.org/comment.php?type=trackback&amp;entry_id=7760"
+                 dc:title="Slapped by metaslabs"
+                 dc:identifier="http://www.c0t0d0s0.org/archives/7760-Slapped-by-metaslabs.html" />
+        </rdf:RDF>
+        -->
+        <div style="text-align: center;"><!-- <rdf:RDF xmlns="http://web.resource.org/cc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"><Work rdf:about=""><license rdf:resource="http://creativecommons.org/licenses/by-sa/2.5/"/></Work><License rdf:about="http://creativecommons.org/licenses/by-sa/2.5/">  <requires rdf:resource="http://web.resource.org/cc/Attribution" />  <permits rdf:resource="http://web.resource.org/cc/Reproduction" />  <permits rdf:resource="http://web.resource.org/cc/Distribution" />  <permits rdf:resource="http://web.resource.org/cc/DerivativeWorks" />  <requires rdf:resource="http://web.resource.org/cc/ShareAlike" />  <requires rdf:resource="http://web.resource.org/cc/Notice" /></License></rdf:RDF> --></div>
+
+        
+	
+
+        
+        
+            </div>
+        <div class="serendipity_Entry_Date">
+
+
+                <h4 class="serendipity_title"><a href="/archives/7759-vHBA-and-LUN-0.html">vHBA and LUN 0</a></h4>
+                        <h3 class="serendipity_date">Friday, October 14. 2016</h3>
+        
+        <div class="serendipity_entry serendipity_entry_author_Joerg-Moellenkamp ">
+            <!--
+            <span class="serendipity_entryIcon">
+                                                    </span>
+-->
+            
+            <div class="serendipity_entry_body">
+                This issue got on my table quite a number of times in the last 4 weeks.  Customer is trying to use the vHBA feature of Oracle VM for SAPRC 3.3 and newer. While configuring and testing to do so, the customer is seeing a error message like <br />
+<blockquote><code>Oct 10 00:00:00 guest1 scsi: [ID 123455 kern.warning] WARNING: scsi_enumeration_failed: vhba3 probe@w50000xxxxxxxxxxxxx,0 enumeration failed during tran_tgt_init<br />
+Oct 10 00:00:00 guest1 vhba: [ID 123456 kern.warning] WARNING: vhba_tran_tgt_init: no softstate for vt(3xxxxxxxxxxxx) lun(0) ua(w50000xxxxxxxxxxxxx,0) tgt-dip(3xxxxxxxxxxxxxx) vin(xxxxxxxxxxx)</code></blockquote>When you see something like that, the solution is quite simple. You need a LUN 0 to be visible and functional(it has to react when commands were send) on the target. Or as the documentation states:<blockquote> When configuring a virtual SAN, note that only SCSI target devices with a LUN 0 have their physical LUNs visible in the guest domain. This constraint is imposed by an Oracle Solaris OS implementation that requires a target's LUN 0 to respond to the SCSI REPORT LUNS command</blockquote>I would not call it a constraint, it's more like standard compliance as due to the definition of the SCSI-3 standard it�s the only LUN that you could always assume to be there as the SCSI-3 standard simply mandates it ... if the device is standard compliant. The SCSI-3 specification (available at  <a href=http://t10.org>t10.org</a>) states in section �4.7.2 SCSI target device�:<blockquote> A logical unit is the object to which SCSI commands are addressed. One of the logical units within the SCSI target device shall be accessed using the logical unit number zero. See 4.8 for a description of the logical unit.</blockquote>And shall is specified as:<blockquote> A keyword indicating a mandatory requirement. Designers are required to implement all such mandatory requirements to ensure interoperability with other products that conform to this standard. </blockquote>So as soon as you make a LUN 0 available on the targets you are seeing with the vHBA, you will see the LUNs. <br />
+
+            </div>
+
+            
+            
+            <div class='serendipity_entryFooter'>
+                Posted by <a href="http://www.c0t0d0s0.org/authors/1-Joerg-Moellenkamp">Joerg Moellenkamp</a>
+                                   in <a href="http://www.c0t0d0s0.org/categories/2-Solaris">Solaris</a>                
+                                    at
+                 <a href="/archives/7759-vHBA-and-LUN-0.html">14:11</a>
+
+                
+                
+                
+                <div class="serendipity_freeTag">Defined tags for this entry: <a href="http://www.c0t0d0s0.org/plugin/tag/solaris" title="solaris" rel="tag">solaris</a></div>
+            </div>
+        </div>
+        <!--
+        <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+                 xmlns:trackback="http://madskills.com/public/xml/rss/module/trackback/"
+                 xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <rdf:Description
+                 rdf:about="http://www.c0t0d0s0.org/feeds/ei_7759.rdf"
+                 trackback:ping="http://www.c0t0d0s0.org/comment.php?type=trackback&amp;entry_id=7759"
+                 dc:title="vHBA and LUN 0"
+                 dc:identifier="http://www.c0t0d0s0.org/archives/7759-vHBA-and-LUN-0.html" />
+        </rdf:RDF>
+        -->
+        <div style="text-align: center;"><!-- <rdf:RDF xmlns="http://web.resource.org/cc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"><Work rdf:about=""><license rdf:resource="http://creativecommons.org/licenses/by-sa/2.5/"/></Work><License rdf:about="http://creativecommons.org/licenses/by-sa/2.5/">  <requires rdf:resource="http://web.resource.org/cc/Attribution" />  <permits rdf:resource="http://web.resource.org/cc/Reproduction" />  <permits rdf:resource="http://web.resource.org/cc/Distribution" />  <permits rdf:resource="http://web.resource.org/cc/DerivativeWorks" />  <requires rdf:resource="http://web.resource.org/cc/ShareAlike" />  <requires rdf:resource="http://web.resource.org/cc/Notice" /></License></rdf:RDF> --></div>
+
+        
+	
+
+        
+        
+            </div>
+        <div class="serendipity_Entry_Date">
+
+
+                <h4 class="serendipity_title"><a href="/archives/7758-The-Enemy-inside-...-now-at-your-home.html">The &quot;Enemy inside&quot; ... now at your home</a></h4>
+                        <h3 class="serendipity_date">Tuesday, October  4. 2016</h3>
+        
+        <div class="serendipity_entry serendipity_entry_author_Joerg-Moellenkamp ">
+            <!--
+            <span class="serendipity_entryIcon">
+                                                                                </span>
+-->
+            
+            <div class="serendipity_entry_body">
+                Given the news about the DDoS attacks carried out by "Internet of Things devices" that were in the news last week like in <a onclick="_gaq.push(['_trackPageview', '/extlink/arstechnica.com/security/2016/10/brace-yourselves-source-code-powering-potent-iot-ddoses-just-went-public/']);"  href="http://arstechnica.com/security/2016/10/brace-yourselves-source-code-powering-potent-iot-ddoses-just-went-public/">"Brace yourselves�source code powering potent IoT DDoSes just went public"</a> i just thought: "It's finally there, the time has come". The thing i speculated about in a coffee kitchen 2005, wrote about it in  2009 in <a href="http://www.c0t0d0s0.org/archives/5411-Botnets-...-based-on-routers.html">"Botnets ... based on routers"</a> and <a href="http://www.c0t0d0s0.org/archives/5413-Botnets-...-based-on-routers-revisited.html">"Botnets ... based on routers - revisited"</a> respectively 2014 in <a href="http://www.c0t0d0s0.org/archives/7671-Enemy-inside.html">"Enemy Inside"</a>. <br />
+<br />
+We have 1.4 billion devices out there running Android all running the same OS. We have roughly 1 billion iOS devices all running a different OS, but all running the same different OS. Both with significant compute power per device. We have 10 million Raspberry Pi out there. The variant 3 is quite powerful. I don't know how many routers, TV sets, fridges, running a modified general-purpose OS. <br />
+<br />
+You could joke that we are just one really bad zero-day and enough criminal energy away from a Terminator 3-style scenario. The bright side: We are still protected by a lack of updates in technology from the full T3 scenario as described in <a onclick="_gaq.push(['_trackPageview', '/extlink/edition.cnn.com/2016/05/26/us/pentagon-floppy-disks-nuclear/']);"  href="http://edition.cnn.com/2016/05/26/us/pentagon-floppy-disks-nuclear/">"CNN: The U.S. is still using floppy disks to run its nuclear program"</a> .  By the way, this is the only case where i 'm against updates. This code and hardware did not killed us for the past decades. Keep it this way. Still bad enough: Given failing TVs, lack of Netflix and porn , no smartphone to stare at and the necessity to talk with each other ... people will go on a rampage anyway and behave like post nuclear armageddon zombies.  <img src="/templates/default/img/emoticons/wink.png" alt=";-)" class="emoticon" />
+            </div>
+
+            
+            
+            <div class='serendipity_entryFooter'>
+                Posted by <a href="http://www.c0t0d0s0.org/authors/1-Joerg-Moellenkamp">Joerg Moellenkamp</a>
+                                   in <a href="http://www.c0t0d0s0.org/categories/41-English">English</a>, <a href="http://www.c0t0d0s0.org/categories/17-Security">Security</a>                
+                                    at
+                 <a href="/archives/7758-The-Enemy-inside-...-now-at-your-home.html">20:29</a>
+
+                
+                
+                
+                <div class="serendipity_freeTag">Defined tags for this entry: <a href="http://www.c0t0d0s0.org/plugin/tag/english" title="english" rel="tag">english</a>, <a href="http://www.c0t0d0s0.org/plugin/tag/security" title="security" rel="tag">security</a></div>
+            </div>
+        </div>
+        <!--
+        <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+                 xmlns:trackback="http://madskills.com/public/xml/rss/module/trackback/"
+                 xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <rdf:Description
+                 rdf:about="http://www.c0t0d0s0.org/feeds/ei_7758.rdf"
+                 trackback:ping="http://www.c0t0d0s0.org/comment.php?type=trackback&amp;entry_id=7758"
+                 dc:title="The &quot;Enemy inside&quot; ... now at your home"
+                 dc:identifier="http://www.c0t0d0s0.org/archives/7758-The-Enemy-inside-...-now-at-your-home.html" />
+        </rdf:RDF>
+        -->
+        <div style="text-align: center;"><!-- <rdf:RDF xmlns="http://web.resource.org/cc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"><Work rdf:about=""><license rdf:resource="http://creativecommons.org/licenses/by-sa/2.5/"/></Work><License rdf:about="http://creativecommons.org/licenses/by-sa/2.5/">  <requires rdf:resource="http://web.resource.org/cc/Attribution" />  <permits rdf:resource="http://web.resource.org/cc/Reproduction" />  <permits rdf:resource="http://web.resource.org/cc/Distribution" />  <permits rdf:resource="http://web.resource.org/cc/DerivativeWorks" />  <requires rdf:resource="http://web.resource.org/cc/ShareAlike" />  <requires rdf:resource="http://web.resource.org/cc/Notice" /></License></rdf:RDF> --></div>
+
+        
+	
+
+        
+        
+            </div>
+        <div class="serendipity_Entry_Date">
+
+
+                <h4 class="serendipity_title"><a href="/archives/7757-user_reserve_hint_pct.html">user_reserve_hint_pct</a></h4>
+                        <h3 class="serendipity_date">Wednesday, September 28. 2016</h3>
+        
+        <div class="serendipity_entry serendipity_entry_author_Joerg-Moellenkamp ">
+            <!--
+            <span class="serendipity_entryIcon">
+                                                                                </span>
+-->
+            
+            <div class="serendipity_entry_body">
+                One of the usual lines in customers <code>/etc/system</code> is the line to limit the the size of the ARC. For a long time you used the <code>zfs_arc_limit</code> parameter for doing so. However with Solaris 11.2 there is a new parameter. It�s named <code>user_reserve_hint_pct</code>. It�s currently the suggested way to limit the ARC. However it works different than the old parameter.  I want to shed some light on this in this blog entry.
+            </div>
+
+            
+                        <br /><a href="/archives/7757-user_reserve_hint_pct.html#extended">Continue reading "user_reserve_hint_pct"</a><br /><br />
+            
+            <div class='serendipity_entryFooter'>
+                Posted by <a href="http://www.c0t0d0s0.org/authors/1-Joerg-Moellenkamp">Joerg Moellenkamp</a>
+                                   in <a href="http://www.c0t0d0s0.org/categories/41-English">English</a>, <a href="http://www.c0t0d0s0.org/categories/2-Solaris">Solaris</a>                
+                                    at
+                 <a href="/archives/7757-user_reserve_hint_pct.html">19:18</a>
+
+                
+                
+                
+                <div class="serendipity_freeTag">Defined tags for this entry: <a href="http://www.c0t0d0s0.org/plugin/tag/english" title="english" rel="tag">english</a>, <a href="http://www.c0t0d0s0.org/plugin/tag/solaris" title="solaris" rel="tag">solaris</a></div>
+            </div>
+        </div>
+        <!--
+        <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+                 xmlns:trackback="http://madskills.com/public/xml/rss/module/trackback/"
+                 xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <rdf:Description
+                 rdf:about="http://www.c0t0d0s0.org/feeds/ei_7757.rdf"
+                 trackback:ping="http://www.c0t0d0s0.org/comment.php?type=trackback&amp;entry_id=7757"
+                 dc:title="user_reserve_hint_pct"
+                 dc:identifier="http://www.c0t0d0s0.org/archives/7757-user_reserve_hint_pct.html" />
+        </rdf:RDF>
+        -->
+        <div style="text-align: center;"><!-- <rdf:RDF xmlns="http://web.resource.org/cc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"><Work rdf:about=""><license rdf:resource="http://creativecommons.org/licenses/by-sa/2.5/"/></Work><License rdf:about="http://creativecommons.org/licenses/by-sa/2.5/">  <requires rdf:resource="http://web.resource.org/cc/Attribution" />  <permits rdf:resource="http://web.resource.org/cc/Reproduction" />  <permits rdf:resource="http://web.resource.org/cc/Distribution" />  <permits rdf:resource="http://web.resource.org/cc/DerivativeWorks" />  <requires rdf:resource="http://web.resource.org/cc/ShareAlike" />  <requires rdf:resource="http://web.resource.org/cc/Notice" /></License></rdf:RDF> --></div>
+
+        
+	
+
+        
+        
+            </div>
+        <div class="serendipity_Entry_Date">
+
+
+                <h4 class="serendipity_title"><a href="/archives/7756-Video-Oracle-Solaris-Essentials-for-Experienced-Administrators.html">Video &quot;Oracle Solaris Essentials for Experienced Administrators&quot;</a></h4>
+                        <h3 class="serendipity_date">Friday, September 23. 2016</h3>
+        
+        <div class="serendipity_entry serendipity_entry_author_Joerg-Moellenkamp ">
+            <!--
+            <span class="serendipity_entryIcon">
+                                                                                                            </span>
+-->
+            
+            <div class="serendipity_entry_body">
+                A 6 hour kickstart for experienced UNIX administrators: <a onclick="_gaq.push(['_trackPageview', '/extlink/education.oracle.com/pls/web_prod-plq-dad/db_pages.getpage?page_id=904&amp;amp;get_params=cloudId:307,seriesId:20551']);"  href="http://education.oracle.com/pls/web_prod-plq-dad/db_pages.getpage?page_id=904&amp;get_params=cloudId:307,seriesId:20551">Oracle Solaris Essentials for Experienced Administrators</a>.  Provided by Oracle University, presented by a colleague of the Oracle Elite Engineering Exchange and it's free. Really worth a look.
+            </div>
+
+            
+            
+            <div class='serendipity_entryFooter'>
+                Posted by <a href="http://www.c0t0d0s0.org/authors/1-Joerg-Moellenkamp">Joerg Moellenkamp</a>
+                                   in <a href="http://www.c0t0d0s0.org/categories/41-English">English</a>, <a href="http://www.c0t0d0s0.org/categories/4-Oracle">Oracle</a>, <a href="http://www.c0t0d0s0.org/categories/2-Solaris">Solaris</a>                
+                                    at
+                 <a href="/archives/7756-Video-Oracle-Solaris-Essentials-for-Experienced-Administrators.html">11:39</a>
+
+                                                            | <a href="/archives/7756-Video-Oracle-Solaris-Essentials-for-Experienced-Administrators.html#comments">Comment (1)</a>
+                                    
+                
+                
+                <div class="serendipity_freeTag">Defined tags for this entry: <a href="http://www.c0t0d0s0.org/plugin/tag/english" title="english" rel="tag">english</a>, <a href="http://www.c0t0d0s0.org/plugin/tag/oracle" title="oracle" rel="tag">oracle</a>, <a href="http://www.c0t0d0s0.org/plugin/tag/solaris" title="solaris" rel="tag">solaris</a></div>
+            </div>
+        </div>
+        <!--
+        <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+                 xmlns:trackback="http://madskills.com/public/xml/rss/module/trackback/"
+                 xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <rdf:Description
+                 rdf:about="http://www.c0t0d0s0.org/feeds/ei_7756.rdf"
+                 trackback:ping="http://www.c0t0d0s0.org/comment.php?type=trackback&amp;entry_id=7756"
+                 dc:title="Video &quot;Oracle Solaris Essentials for Experienced Administrators&quot;"
+                 dc:identifier="http://www.c0t0d0s0.org/archives/7756-Video-Oracle-Solaris-Essentials-for-Experienced-Administrators.html" />
+        </rdf:RDF>
+        -->
+        <div style="text-align: center;"><!-- <rdf:RDF xmlns="http://web.resource.org/cc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"><Work rdf:about=""><license rdf:resource="http://creativecommons.org/licenses/by-sa/2.5/"/></Work><License rdf:about="http://creativecommons.org/licenses/by-sa/2.5/">  <requires rdf:resource="http://web.resource.org/cc/Attribution" />  <permits rdf:resource="http://web.resource.org/cc/Reproduction" />  <permits rdf:resource="http://web.resource.org/cc/Distribution" />  <permits rdf:resource="http://web.resource.org/cc/DerivativeWorks" />  <requires rdf:resource="http://web.resource.org/cc/ShareAlike" />  <requires rdf:resource="http://web.resource.org/cc/Notice" /></License></rdf:RDF> --></div>
+
+        
+	
+
+        
+        
+            </div>
+        <div class="serendipity_Entry_Date">
+
+
+                <h4 class="serendipity_title"><a href="/archives/7755-Business-Breakfast-in-Hamburg-am-16.-September-SPARC-S7,-Cloud-und-MiniCluster..html">Business Breakfast in Hamburg am 16. September : &quot;SPARC S7, Cloud und MiniCluster.&quot;</a></h4>
+                        <h3 class="serendipity_date">Monday, September 12. 2016</h3>
+        
+        <div class="serendipity_entry serendipity_entry_author_Joerg-Moellenkamp ">
+            <!--
+            <span class="serendipity_entryIcon">
+                                                    </span>
+-->
+            
+            <div class="serendipity_entry_body">
+                Am 16. September findet ein Oracle Business Breakfast zu den Themen SPARC S7, Cloud und MiniCluster statt.  Wenn ihr kommen m�chtet, bitte eine kurze Best�tigung an  <a href="hans-peter.hinrichs@oracle.com">meinen Kollegen</a>. Ich werde nicht vortragen, aber werde mich hinten mit rein setzen;) Ort des Geschehens ist die  Oracle Gesch�ftsstelle Hamburg, K�hneh�fe 5 , 22761 Hamburg.
+            </div>
+
+            
+            
+            <div class='serendipity_entryFooter'>
+                Posted by <a href="http://www.c0t0d0s0.org/authors/1-Joerg-Moellenkamp">Joerg Moellenkamp</a>
+                                   in <a href="http://www.c0t0d0s0.org/categories/42-German">German</a>                
+                                    at
+                 <a href="/archives/7755-Business-Breakfast-in-Hamburg-am-16.-September-SPARC-S7,-Cloud-und-MiniCluster..html">11:29</a>
+
+                
+                
+                
+                <div class="serendipity_freeTag">Defined tags for this entry: <a href="http://www.c0t0d0s0.org/plugin/tag/german" title="german" rel="tag">german</a></div>
+            </div>
+        </div>
+        <!--
+        <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+                 xmlns:trackback="http://madskills.com/public/xml/rss/module/trackback/"
+                 xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <rdf:Description
+                 rdf:about="http://www.c0t0d0s0.org/feeds/ei_7755.rdf"
+                 trackback:ping="http://www.c0t0d0s0.org/comment.php?type=trackback&amp;entry_id=7755"
+                 dc:title="Business Breakfast in Hamburg am 16. September : &quot;SPARC S7, Cloud und MiniCluster.&quot;"
+                 dc:identifier="http://www.c0t0d0s0.org/archives/7755-Business-Breakfast-in-Hamburg-am-16.-September-SPARC-S7,-Cloud-und-MiniCluster..html" />
+        </rdf:RDF>
+        -->
+        <div style="text-align: center;"><!-- <rdf:RDF xmlns="http://web.resource.org/cc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"><Work rdf:about=""><license rdf:resource="http://creativecommons.org/licenses/by-sa/2.5/"/></Work><License rdf:about="http://creativecommons.org/licenses/by-sa/2.5/">  <requires rdf:resource="http://web.resource.org/cc/Attribution" />  <permits rdf:resource="http://web.resource.org/cc/Reproduction" />  <permits rdf:resource="http://web.resource.org/cc/Distribution" />  <permits rdf:resource="http://web.resource.org/cc/DerivativeWorks" />  <requires rdf:resource="http://web.resource.org/cc/ShareAlike" />  <requires rdf:resource="http://web.resource.org/cc/Notice" /></License></rdf:RDF> --></div>
+
+        
+	
+
+        
+        
+            </div>
+        <div class="serendipity_Entry_Date">
+
+
+                <h4 class="serendipity_title"><a href="/archives/7754-24-hours-of-air-traffic-over-northern-germany..html">24 hours of air traffic over northern germany.</a></h4>
+                        <h3 class="serendipity_date">Thursday, July 21. 2016</h3>
+        
+        <div class="serendipity_entry serendipity_entry_author_Joerg-Moellenkamp ">
+            <!--
+            <span class="serendipity_entryIcon">
+                                                                                                            </span>
+-->
+            
+            <div class="serendipity_entry_body">
+                I'm playing at the moment a little bit with SDR. One of the nice things is that you can use it to receive ASD-B information. This is a system that send (beside other information) the position and altitude of an aircraft. This capability is part of future traffic control systems, just in case you are wondering why aircrafts are doing this. However: The information is unencrypted and anybody can receive it. You just need a RasPi, an antenna and a DVB-T stick with a certain chipset and a program called dump1090. <br />
+<br />
+So far i dumped this information into some internet services. Services like <a onclick="_gaq.push(['_trackPageview', '/extlink/flightradar24.com']);"  href="http://flightradar24.com">flightradar24.com</a>, <a onclick="_gaq.push(['_trackPageview', '/extlink/flightaware.com']);"  href="http://flightaware.com">flightaware.com</a> or <a onclick="_gaq.push(['_trackPageview', '/extlink/planefinder.net']);"  href="http://planefinder.net">planefinder</a> use this information to provide their services.<br />
+<br />
+However i thought "Joerg, you have access to the raw data of your own receiver. Let's play with that". And this is the result. It's 24h worth of air traffic from the 19.7.2016 17:00 to  the 21.7.2016 17:00. You can click on it to get the fullsize result.<br />
+<br />
+<center><a onclick="_gaq.push(['_trackPageview', '/extlink/www.flickr.com/photos/c0t0d0s0/28150234010/in/dateposted/']);"    href="https://www.flickr.com/photos/c0t0d0s0/28150234010/in/dateposted/" title="24 hours of air traffic over northern Germany (19.7.2016 17:00 to 20.7.2016 17:00)"><img src="https://c3.staticflickr.com/8/7680/28150234010_6328cc8aeb_z.jpg" width="640" height="508" alt="24 hours of air traffic over northern Germany (19.7.2016 17:00 to 20.7.2016 17:00)"></a></center>
+            </div>
+
+            
+            
+            <div class='serendipity_entryFooter'>
+                Posted by <a href="http://www.c0t0d0s0.org/authors/1-Joerg-Moellenkamp">Joerg Moellenkamp</a>
+                                   in <a href="http://www.c0t0d0s0.org/categories/35-Aviation">Aviation</a>, <a href="http://www.c0t0d0s0.org/categories/41-English">English</a>, <a href="http://www.c0t0d0s0.org/categories/31-Technology">Technology</a>                
+                                    at
+                 <a href="/archives/7754-24-hours-of-air-traffic-over-northern-germany..html">15:04</a>
+
+                
+                
+                
+                <div class="serendipity_freeTag">Defined tags for this entry: <a href="http://www.c0t0d0s0.org/plugin/tag/aviation" title="aviation" rel="tag">aviation</a>, <a href="http://www.c0t0d0s0.org/plugin/tag/english" title="english" rel="tag">english</a>, <a href="http://www.c0t0d0s0.org/plugin/tag/technology" title="technology" rel="tag">technology</a></div>
+            </div>
+        </div>
+        <!--
+        <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+                 xmlns:trackback="http://madskills.com/public/xml/rss/module/trackback/"
+                 xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <rdf:Description
+                 rdf:about="http://www.c0t0d0s0.org/feeds/ei_7754.rdf"
+                 trackback:ping="http://www.c0t0d0s0.org/comment.php?type=trackback&amp;entry_id=7754"
+                 dc:title="24 hours of air traffic over northern germany."
+                 dc:identifier="http://www.c0t0d0s0.org/archives/7754-24-hours-of-air-traffic-over-northern-germany..html" />
+        </rdf:RDF>
+        -->
+        <div style="text-align: center;"><!-- <rdf:RDF xmlns="http://web.resource.org/cc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"><Work rdf:about=""><license rdf:resource="http://creativecommons.org/licenses/by-sa/2.5/"/></Work><License rdf:about="http://creativecommons.org/licenses/by-sa/2.5/">  <requires rdf:resource="http://web.resource.org/cc/Attribution" />  <permits rdf:resource="http://web.resource.org/cc/Reproduction" />  <permits rdf:resource="http://web.resource.org/cc/Distribution" />  <permits rdf:resource="http://web.resource.org/cc/DerivativeWorks" />  <requires rdf:resource="http://web.resource.org/cc/ShareAlike" />  <requires rdf:resource="http://web.resource.org/cc/Notice" /></License></rdf:RDF> --></div>
+
+        
+	
+
+        
+        
+            </div>
+        <div class="serendipity_Entry_Date">
+
+
+                <h4 class="serendipity_title"><a href="/archives/7753-Ideas-for-Solaris-11-Cheatsheets.html">Ideas for Solaris 11 Cheatsheets?</a></h4>
+                        <h3 class="serendipity_date">Thursday, June  2. 2016</h3>
+        
+        <div class="serendipity_entry serendipity_entry_author_Joerg-Moellenkamp ">
+            <!--
+            <span class="serendipity_entryIcon">
+                                                                                </span>
+-->
+            
+            <div class="serendipity_entry_body">
+                Just a short question: Do you have any topics you would like to see in further versions of the Solaris 11 cheat sheet?
+            </div>
+
+            
+            
+            <div class='serendipity_entryFooter'>
+                Posted by <a href="http://www.c0t0d0s0.org/authors/1-Joerg-Moellenkamp">Joerg Moellenkamp</a>
+                                   in <a href="http://www.c0t0d0s0.org/categories/41-English">English</a>, <a href="http://www.c0t0d0s0.org/categories/2-Solaris">Solaris</a>                
+                                    at
+                 <a href="/archives/7753-Ideas-for-Solaris-11-Cheatsheets.html">21:59</a>
+
+                                                            | <a href="/archives/7753-Ideas-for-Solaris-11-Cheatsheets.html#comments">Comments (9)</a>
+                                    
+                
+                
+                <div class="serendipity_freeTag">Defined tags for this entry: <a href="http://www.c0t0d0s0.org/plugin/tag/english" title="english" rel="tag">english</a>, <a href="http://www.c0t0d0s0.org/plugin/tag/solaris" title="solaris" rel="tag">solaris</a></div>
+            </div>
+        </div>
+        <!--
+        <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+                 xmlns:trackback="http://madskills.com/public/xml/rss/module/trackback/"
+                 xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <rdf:Description
+                 rdf:about="http://www.c0t0d0s0.org/feeds/ei_7753.rdf"
+                 trackback:ping="http://www.c0t0d0s0.org/comment.php?type=trackback&amp;entry_id=7753"
+                 dc:title="Ideas for Solaris 11 Cheatsheets?"
+                 dc:identifier="http://www.c0t0d0s0.org/archives/7753-Ideas-for-Solaris-11-Cheatsheets.html" />
+        </rdf:RDF>
+        -->
+        <div style="text-align: center;"><!-- <rdf:RDF xmlns="http://web.resource.org/cc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"><Work rdf:about=""><license rdf:resource="http://creativecommons.org/licenses/by-sa/2.5/"/></Work><License rdf:about="http://creativecommons.org/licenses/by-sa/2.5/">  <requires rdf:resource="http://web.resource.org/cc/Attribution" />  <permits rdf:resource="http://web.resource.org/cc/Reproduction" />  <permits rdf:resource="http://web.resource.org/cc/Distribution" />  <permits rdf:resource="http://web.resource.org/cc/DerivativeWorks" />  <requires rdf:resource="http://web.resource.org/cc/ShareAlike" />  <requires rdf:resource="http://web.resource.org/cc/Notice" /></License></rdf:RDF> --></div>
+
+        
+	
+
+        
+        
+            </div>
+        <div class="serendipity_Entry_Date">
+
+
+                <h4 class="serendipity_title"><a href="/archives/7752-3rd-update-to-the-Solaris-11.3-cheatsheet.html">3rd update to the Solaris 11.3 cheatsheet </a></h4>
+                        <h3 class="serendipity_date">Tuesday, May 31. 2016</h3>
+        
+        <div class="serendipity_entry serendipity_entry_author_Joerg-Moellenkamp ">
+            <!--
+            <span class="serendipity_entryIcon">
+                                                                                </span>
+-->
+            
+            <div class="serendipity_entry_body">
+                Last night the 3rd update to the Solaris 11.3 cheatsheet went online. I've added live migration for kernel zones, live reconfiguration for kernel zones and non-global zones and a part about dissecting the version numbers of Solaris 11 pacakages. It's available at the <a onclick="_gaq.push(['_trackPageview', '/extlink/www.oracle.com/technetwork/server-storage/solaris11/documentation/solaris-11-cheat-sheet-1556378.pdf']);"  href="http://www.oracle.com/technetwork/server-storage/solaris11/documentation/solaris-11-cheat-sheet-1556378.pdf">usual location.</a>
+            </div>
+
+            
+            
+            <div class='serendipity_entryFooter'>
+                Posted by <a href="http://www.c0t0d0s0.org/authors/1-Joerg-Moellenkamp">Joerg Moellenkamp</a>
+                                   in <a href="http://www.c0t0d0s0.org/categories/41-English">English</a>, <a href="http://www.c0t0d0s0.org/categories/2-Solaris">Solaris</a>                
+                                    at
+                 <a href="/archives/7752-3rd-update-to-the-Solaris-11.3-cheatsheet.html">15:55</a>
+
+                
+                
+                
+                <div class="serendipity_freeTag">Defined tags for this entry: <a href="http://www.c0t0d0s0.org/plugin/tag/english" title="english" rel="tag">english</a>, <a href="http://www.c0t0d0s0.org/plugin/tag/solaris" title="solaris" rel="tag">solaris</a></div>
+            </div>
+        </div>
+        <!--
+        <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+                 xmlns:trackback="http://madskills.com/public/xml/rss/module/trackback/"
+                 xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <rdf:Description
+                 rdf:about="http://www.c0t0d0s0.org/feeds/ei_7752.rdf"
+                 trackback:ping="http://www.c0t0d0s0.org/comment.php?type=trackback&amp;entry_id=7752"
+                 dc:title="3rd update to the Solaris 11.3 cheatsheet "
+                 dc:identifier="http://www.c0t0d0s0.org/archives/7752-3rd-update-to-the-Solaris-11.3-cheatsheet.html" />
+        </rdf:RDF>
+        -->
+        <div style="text-align: center;"><!-- <rdf:RDF xmlns="http://web.resource.org/cc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"><Work rdf:about=""><license rdf:resource="http://creativecommons.org/licenses/by-sa/2.5/"/></Work><License rdf:about="http://creativecommons.org/licenses/by-sa/2.5/">  <requires rdf:resource="http://web.resource.org/cc/Attribution" />  <permits rdf:resource="http://web.resource.org/cc/Reproduction" />  <permits rdf:resource="http://web.resource.org/cc/Distribution" />  <permits rdf:resource="http://web.resource.org/cc/DerivativeWorks" />  <requires rdf:resource="http://web.resource.org/cc/ShareAlike" />  <requires rdf:resource="http://web.resource.org/cc/Notice" /></License></rdf:RDF> --></div>
+
+        
+	
+
+        
+        
+            </div>
+        <div class="serendipity_Entry_Date">
+
+
+                <h4 class="serendipity_title"><a href="/archives/7751-Yet-another-update-to-the-Solaris-11.3-cheatsheet.html">Yet another update to the Solaris 11.3 cheatsheet</a></h4>
+                        <h3 class="serendipity_date">Friday, May 20. 2016</h3>
+        
+        <div class="serendipity_entry serendipity_entry_author_Joerg-Moellenkamp ">
+            <!--
+            <span class="serendipity_entryIcon">
+                                                                                </span>
+-->
+            
+            <div class="serendipity_entry_body">
+                Some typos fixed, some clarifications included, some content added, a layout quirk removed. There is a new version of the Solaris 11.3 cheatsheet. You will find the new cheatsheet (version of 19.05.16 22:08 when you look at the last page) at the  <a onclick="_gaq.push(['_trackPageview', '/extlink/www.oracle.com/technetwork/server-storage/solaris11/documentation/solaris-11-cheat-sheet-1556378.pdf']);"  href="http://www.oracle.com/technetwork/server-storage/solaris11/documentation/solaris-11-cheat-sheet-1556378.pdf">known location</a><br />
+<br />
+PS: I just saw i forgot to update the contributions list ... dang .... will be in the next update.
+            </div>
+
+            
+            
+            <div class='serendipity_entryFooter'>
+                Posted by <a href="http://www.c0t0d0s0.org/authors/1-Joerg-Moellenkamp">Joerg Moellenkamp</a>
+                                   in <a href="http://www.c0t0d0s0.org/categories/41-English">English</a>, <a href="http://www.c0t0d0s0.org/categories/2-Solaris">Solaris</a>                
+                                    at
+                 <a href="/archives/7751-Yet-another-update-to-the-Solaris-11.3-cheatsheet.html">07:02</a>
+
+                                                            | <a href="/archives/7751-Yet-another-update-to-the-Solaris-11.3-cheatsheet.html#comments">Comments (2)</a>
+                                    
+                
+                
+                <div class="serendipity_freeTag">Defined tags for this entry: <a href="http://www.c0t0d0s0.org/plugin/tag/english" title="english" rel="tag">english</a>, <a href="http://www.c0t0d0s0.org/plugin/tag/solaris" title="solaris" rel="tag">solaris</a></div>
+            </div>
+        </div>
+        <!--
+        <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+                 xmlns:trackback="http://madskills.com/public/xml/rss/module/trackback/"
+                 xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <rdf:Description
+                 rdf:about="http://www.c0t0d0s0.org/feeds/ei_7751.rdf"
+                 trackback:ping="http://www.c0t0d0s0.org/comment.php?type=trackback&amp;entry_id=7751"
+                 dc:title="Yet another update to the Solaris 11.3 cheatsheet"
+                 dc:identifier="http://www.c0t0d0s0.org/archives/7751-Yet-another-update-to-the-Solaris-11.3-cheatsheet.html" />
+        </rdf:RDF>
+        -->
+        <div style="text-align: center;"><!-- <rdf:RDF xmlns="http://web.resource.org/cc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"><Work rdf:about=""><license rdf:resource="http://creativecommons.org/licenses/by-sa/2.5/"/></Work><License rdf:about="http://creativecommons.org/licenses/by-sa/2.5/">  <requires rdf:resource="http://web.resource.org/cc/Attribution" />  <permits rdf:resource="http://web.resource.org/cc/Reproduction" />  <permits rdf:resource="http://web.resource.org/cc/Distribution" />  <permits rdf:resource="http://web.resource.org/cc/DerivativeWorks" />  <requires rdf:resource="http://web.resource.org/cc/ShareAlike" />  <requires rdf:resource="http://web.resource.org/cc/Notice" /></License></rdf:RDF> --></div>
+
+        
+	
+
+        
+        
+            </div>
+        <div class="serendipity_Entry_Date">
+
+
+                <h4 class="serendipity_title"><a href="/archives/7750-Oracle-Solaris-11.3-Cheatsheet.html">Oracle Solaris 11.3 Cheatsheet</a></h4>
+                        <h3 class="serendipity_date">Monday, May 16. 2016</h3>
+        
+        <div class="serendipity_entry serendipity_entry_author_Joerg-Moellenkamp ">
+            <!--
+            <span class="serendipity_entryIcon">
+                                                                                                            </span>
+-->
+            
+            <div class="serendipity_entry_body">
+                Four year ago i wrote the Solaris 11 General Administration Cheat Sheet. Last year there was an vastly extended update for Solaris 11.2  and i gave it to <a onclick="_gaq.push(['_trackPageview', '/extlink/www.amazon.com/Oracle-Solaris-System-Administration-Handbook-ebook/dp/B016COUD90']);"  href="https://www.amazon.com/Oracle-Solaris-System-Administration-Handbook-ebook/dp/B016COUD90">Glynn Fosters and Harry Foxwells for their really great Solaris 11.2 Administration book</a>. Now the 11.3 update is public as an pdf for everyone. You find it at <a onclick="_gaq.push(['_trackPageview', '/extlink/www.oracle.com/technetwork/server-storage/solaris11/documentation/solaris-11-cheat-sheet-1556378.pdf']);"  href="http://www.oracle.com/technetwork/server-storage/solaris11/documentation/solaris-11-cheat-sheet-1556378.pdf">http://www.oracle.com/technetwork/server-storage/solaris11/documentation/solaris-11-cheat-sheet-1556378.pdf</a><br />
+<br />
+Hope it helps <img src="/templates/default/img/emoticons/smile.png" alt=":-)" class="emoticon" />
+            </div>
+
+            
+            
+            <div class='serendipity_entryFooter'>
+                Posted by <a href="http://www.c0t0d0s0.org/authors/1-Joerg-Moellenkamp">Joerg Moellenkamp</a>
+                                   in <a href="http://www.c0t0d0s0.org/categories/41-English">English</a>, <a href="http://www.c0t0d0s0.org/categories/4-Oracle">Oracle</a>, <a href="http://www.c0t0d0s0.org/categories/2-Solaris">Solaris</a>                
+                                    at
+                 <a href="/archives/7750-Oracle-Solaris-11.3-Cheatsheet.html">17:30</a>
+
+                
+                
+                
+                <div class="serendipity_freeTag">Defined tags for this entry: <a href="http://www.c0t0d0s0.org/plugin/tag/english" title="english" rel="tag">english</a>, <a href="http://www.c0t0d0s0.org/plugin/tag/oracle" title="oracle" rel="tag">oracle</a>, <a href="http://www.c0t0d0s0.org/plugin/tag/solaris" title="solaris" rel="tag">solaris</a></div>
+            </div>
+        </div>
+        <!--
+        <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+                 xmlns:trackback="http://madskills.com/public/xml/rss/module/trackback/"
+                 xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <rdf:Description
+                 rdf:about="http://www.c0t0d0s0.org/feeds/ei_7750.rdf"
+                 trackback:ping="http://www.c0t0d0s0.org/comment.php?type=trackback&amp;entry_id=7750"
+                 dc:title="Oracle Solaris 11.3 Cheatsheet"
+                 dc:identifier="http://www.c0t0d0s0.org/archives/7750-Oracle-Solaris-11.3-Cheatsheet.html" />
+        </rdf:RDF>
+        -->
+        <div style="text-align: center;"><!-- <rdf:RDF xmlns="http://web.resource.org/cc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"><Work rdf:about=""><license rdf:resource="http://creativecommons.org/licenses/by-sa/2.5/"/></Work><License rdf:about="http://creativecommons.org/licenses/by-sa/2.5/">  <requires rdf:resource="http://web.resource.org/cc/Attribution" />  <permits rdf:resource="http://web.resource.org/cc/Reproduction" />  <permits rdf:resource="http://web.resource.org/cc/Distribution" />  <permits rdf:resource="http://web.resource.org/cc/DerivativeWorks" />  <requires rdf:resource="http://web.resource.org/cc/ShareAlike" />  <requires rdf:resource="http://web.resource.org/cc/Notice" /></License></rdf:RDF> --></div>
+
+        
+	
+
+        
+        
+            </div>
+    
+    <div class='serendipity_entryFooter' style="text-align: center">
+    
+            (Page 1 of 446, totaling 6686 entries)
+    
+            <a href="http://www.c0t0d0s0.org/archives/P2.html">&raquo; next page</a>
+    
+    <div class="serendipity_blogpdf">View as PDF: <a href="http://www.c0t0d0s0.org/plugin/monthpdf_201805">This month</a> | <a href="http://www.c0t0d0s0.org/plugin/blogpdf">Full blog</a></div>
+    <p>
+    Competition entry by <a href="http://themes.daves.me.uk">David Cummins</a>
+     powered by <a href="http://www.s9y.org">Serendipity</a> v1.0
+    </p>
+    </div>
+<!-- ENTRIES END -->
+
+
+
+<!-- CONTENT END -->
+</td>
+        <td id="serendipityRightSideBar" valign="top">    <div class="serendipitySideBarItem container_serendipity_plugin_html_nugget">
+        <h3 class="serendipitySideBarTitle serendipity_plugin_html_nugget">Books</h3>        <div class="serendipitySideBarContent"><a href="http://www.c0t0d0s0.org/archives/6639-Recommended-SolarisSun-Books.html">Recommended Sun and Solaris Books</a></div>
+    </div>
+    <div class="serendipitySideBarItem container_serendipity_plugin_html_nugget">
+        <h3 class="serendipitySideBarTitle serendipity_plugin_html_nugget">The LKSF book</h3>        <div class="serendipitySideBarContent">The book with the consolidated Less known Solaris Tutorials is available <a href="http://www.c0t0d0s0.org/pages/lksfbook.html">for download here</a></div>
+    </div>
+    <div class="serendipitySideBarItem container_serendipity_plugin_html_nugget">
+        <h3 class="serendipitySideBarTitle serendipity_plugin_html_nugget">Web 2.0</h3>        <div class="serendipitySideBarContent"><b>Contact</b><br>
+<ul>
+<li>mail:  joerg@c0t0d0s0.org</li>
+</ul>
+<b>Identy@Web</b><br>
+<ul>
+<li><a href="http://www.c0t0d0s0.org/pages/memyselfandi3.html">Me, myself and I</a></li>
+<li><a href="http://www.openbc.com/hp/Joerg_Moellenkamp/">openBC</a></li>
+<li><a href="http://del.icio.us/c0t0d0s0">My del.icio.us</a></li>
+<li><a href="http://twitter.com/c0t0d0s0">c0t0d0s0@twitter</a></li>
+<li><a href="http://www.last.fm/user/c0t0d0s0/">c0t0d0s0@last.fm</a></li>
+<li><a href="http://wiki.c0t0d0s0.org/">wiki@c0t0d0s0</a></li>
+</ul><br>
+<b><u>Networking</u></b><br>
+<b>xing.com</b><br>
+<ul><li><a href="http://www.openbc.com/go/invite/26377">xing.com</a><br></li></ul>
+<b>LinkedIn</b><br>
+<ul><li><a href="http://www.linkedin.com/pub/dir/joerg/moellenkamp">My LinkedIn-Profile</a></li></ul>
+<b>Facebook</b><br>
+<ul><li><a href="http://de.facebook.com/people/Joerg_Moellenkamp/834541101">My Facebook-Profile</a></li></ul>
+<b><u>My photos</u></b><br>
+<ul>
+<li><a href="http://www.flickr.com/photos/c0t0d0s0/">..auf Flickr</a></li>
+</ul>
+<br>
+</div>
+    </div>
+    <div class="serendipitySideBarItem container_serendipity_plugin_comments">
+        <h3 class="serendipitySideBarTitle serendipity_plugin_comments">Comments</h3>        <div class="serendipitySideBarContent"><div class="plugin_comment_wrap"><div class="plugin_comment_subject"><span class="plugin_comment_author">Martin</span> about <a class="highlight" href="http://www.c0t0d0s0.org/archives/7763-End-of-c0t0d0s0.org.html#c298385" title="End of c0t0d0s0.org">End of c0t0d0s0.org</a></div>
+<div class="plugin_comment_date">Mon, 01.05.2017 11:21</div>
+<div class="plugin_comment_body">Thank you for many interesting
+ blog posts. Good luck with al
+l new endeavours!</div>
+
+</div><div class="plugin_comment_wrap"><div class="plugin_comment_subject"><span class="plugin_comment_author">Hosam</span> about <a class="highlight" href="http://www.c0t0d0s0.org/archives/7763-End-of-c0t0d0s0.org.html#c298234" title="End of c0t0d0s0.org">End of c0t0d0s0.org</a></div>
+<div class="plugin_comment_date">Mon, 01.05.2017 08:58</div>
+<div class="plugin_comment_body">Good luck <img src="/templates/default/img/emoticons/smile.png" alt=":-)" class="emoticon" /></div>
+
+</div><div class="plugin_comment_wrap"><div class="plugin_comment_subject"><span class="plugin_comment_author">Joerg Moellenkamp</span> about <a class="highlight" href="http://www.c0t0d0s0.org/archives/7762-tar-x-and-NFS-or-The-devil-in-the-details.html#c295658" title="tar -x and NFS - or: The devil in the details">tar -x and NFS - or: The devil in the details</a></div>
+<div class="plugin_comment_date">Fri, 28.04.2017 13:47</div>
+<div class="plugin_comment_body">At least with ZFS this isn't c
+orrect. A rmdir for example do
+esn't trigger a zil_commit, as
+ long as you don't speci [...]</div>
+
+</div><div class="plugin_comment_wrap"><div class="plugin_comment_subject"><span class="plugin_comment_author">Jose</span> about <a class="highlight" href="http://www.c0t0d0s0.org/archives/7762-tar-x-and-NFS-or-The-devil-in-the-details.html#c295657" title="tar -x and NFS - or: The devil in the details">tar -x and NFS - or: The devil in the details</a></div>
+<div class="plugin_comment_date">Thu, 27.04.2017 22:31</div>
+<div class="plugin_comment_body">You say:
+
+"The following dat
+a modifying procedures are syn
+chronous: WRITE (with stable f
+lag set to FILE_SYNC), C [...]</div>
+
+</div></div>
+    </div>
+</td>
+    </tr>
+</table>
+
+
+
+</body>
+</html>
+
+

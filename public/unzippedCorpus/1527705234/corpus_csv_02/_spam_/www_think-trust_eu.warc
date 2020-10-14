@@ -1,0 +1,246 @@
+WARC/1.0
+WARC-Type: warcinfo
+WARC-Date: 2018-05-30T17:52:30Z
+WARC-All-Language: en-US
+WARC-All-Content_type: text/html
+WARC-Record-ID: <urn:uuid:62415067-80d7-4f30-8140-6ae156561915>
+Content-Type: application/http;msgtype=response
+Content-Length: 46
+
+WARCProcessor by SING Group www.sing-group.com
+
+WARC/1.0
+WARC-Type: response
+WARC-Target-URI: http://www.think-trust.eu
+WARC-Date: 20180530175230
+WARC-Language: en-US
+WARC-Record-ID: <http://www.think-trust.eu>
+Content-Type: application/http;msgtype=response
+Content-Length: 33270
+
+HTTP/1.1 200
+Content-Type:text/html
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd" >
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en-US" >
+<head>
+<meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<link rel="profile" href="http://gmpg.org/xfn/11" />
+<link rel="pingback" href="http://www.think-trust.eu/xmlrpc.php" />
+
+<style type="text/css">
+body { background-color: #FF706C} a { color: #FF706C}.postmeta i { color: #FF706C}.sidebarwidget li a:hover, .tagcloud a  { background-color: #FF706C}
+</style>
+<title>Think Trust News &#8211; Mein Blog</title>
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="Think Trust News &raquo; Feed" href="http://www.think-trust.eu/feed/" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.2.1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.2.1\/svg\/","svgExt":".svg","source":{"concatemoji":"http:\/\/localhost\/pbn\/wp\/_overview2\/think-trust_eu\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.7.2"}};
+			!function(a,b,c){function d(a){var b,c,d,e,f=String.fromCharCode;if(!k||!k.fillText)return!1;switch(k.clearRect(0,0,j.width,j.height),k.textBaseline="top",k.font="600 32px Arial",a){case"flag":return k.fillText(f(55356,56826,55356,56819),0,0),!(j.toDataURL().length<3e3)&&(k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,57331,65039,8205,55356,57096),0,0),b=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,57331,55356,57096),0,0),c=j.toDataURL(),b!==c);case"emoji4":return k.fillText(f(55357,56425,55356,57341,8205,55357,56507),0,0),d=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55357,56425,55356,57341,55357,56507),0,0),e=j.toDataURL(),d!==e}return!1}function e(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g,h,i,j=b.createElement("canvas"),k=j.getContext&&j.getContext("2d");for(i=Array("flag","emoji4"),c.supports={everything:!0,everythingExceptFlag:!0},h=0;h<i.length;h++)c.supports[i[h]]=d(i[h]),c.supports.everything=c.supports.everything&&c.supports[i[h]],"flag"!==i[h]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[i[h]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='contact-form-7-css'  href='http://www.think-trust.eu/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=4.9' type='text/css' media='all' />
+<link rel='stylesheet' id='custom-404-pro-css'  href='http://www.think-trust.eu/wp-content/plugins/custom-404-pro/public/css/custom-404-pro-public.css?ver=1.0.0' type='text/css' media='all' />
+<link rel='stylesheet' id='themefurnace-style-css'  href='http://www.think-trust.eu/wp-content/themes/blogly-lite/style.css?ver=4.7.2' type='text/css' media='all' />
+<link rel='stylesheet' id='sccss_style-css'  href='http://www.think-trust.eu?sccss=1&#038;ver=4.7.2' type='text/css' media='all' />
+<script type='text/javascript' src='http://www.think-trust.eu/wp-includes/js/jquery/jquery.js?ver=1.12.4'></script>
+<script type='text/javascript' src='http://www.think-trust.eu/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
+<script type='text/javascript' src='http://www.think-trust.eu/wp-content/plugins/custom-404-pro/public/js/custom-404-pro-public.js?ver=1.0.0'></script>
+<link rel='https://api.w.org/' href='http://www.think-trust.eu/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www.think-trust.eu/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://www.think-trust.eu/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 4.7.2" />
+</head>
+<body class="home blog">
+<div id="container">
+
+<div id="sidebar">
+<h2 class="sitetitle"><a href='http://www.think-trust.eu/' title='Think Trust News' rel='home'>
+Think Trust News</a></h2>
+<p><span class="tagline">
+Mein Blog</span></p>
+<div class="sidebarwidget">
+<h3 class="sidebartitle">
+Menu</h3>
+<div class="menu-menu-1-container"><ul id="menu-menu-1" class="menu"><li id="menu-item-33" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item current_page_item menu-item-home menu-item-33"><a href="http://www.think-trust.eu/">Home</a></li>
+<li id="menu-item-34" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-34"><a href="http://www.think-trust.eu/impressum/">IMPRESSUM</a></li>
+<li id="menu-item-35" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-35"><a href="http://www.think-trust.eu/kontakt/">KONTAKT</a></li>
+</ul></div></div>
+
+<div class="sidebarwidget">
+<form method="get" class="search-form" action="http://www.think-trust.eu/">
+<p>
+<input type="text" class="search-field" value="" name="s" />
+</p>
+<p>
+<input type="submit" class="search-submit" value="Search" />
+</p>
+</form>
+</div>
+
+<div class="sidebarwidget">
+<h3 class="sidebartitle">Categories</h3>
+		<ul>
+	<li class="cat-item cat-item-6"><a href="http://www.think-trust.eu/category/geld-anlegen/" >Geld anlegen</a>
+</li>
+	<li class="cat-item cat-item-8"><a href="http://www.think-trust.eu/category/girokonto/" >Girokonto</a>
+</li>
+	<li class="cat-item cat-item-4"><a href="http://www.think-trust.eu/category/online-broker/" title="Online Broker">Online Broker</a>
+</li>
+	<li class="cat-item cat-item-3"><a href="http://www.think-trust.eu/category/partnerborsen/" title="Partnerbörsen">Partnerbörsen</a>
+</li>
+	<li class="cat-item cat-item-7"><a href="http://www.think-trust.eu/category/stromanbieter/" >Stromanbieter</a>
+</li>
+		</ul>
+</div>
+		
+<div class="sidebarwidget">		
+<h3 class="sidebartitle">Recent Posts</h3>
+		<ul>
+					<li>
+				<a href="http://www.think-trust.eu/bestes-konto-kriterien-und-vergleich/">Bestes Konto – Kriterien und Vergleich</a>
+						</li>
+					<li>
+				<a href="http://www.think-trust.eu/stromanbieter-vergleich-der-tarifrechner/">Stromanbieter Vergleich – der Tarifrechner</a>
+						</li>
+					<li>
+				<a href="http://www.think-trust.eu/festgeld-anlegen-und-hohe-zinsen-kassieren/">Festgeld anlegen und hohe Zinsen kassieren</a>
+						</li>
+					<li>
+				<a href="http://www.think-trust.eu/online-broker-vergleich/">Online Broker Vergleich</a>
+						</li>
+					<li>
+				<a href="http://www.think-trust.eu/partnerborsen-vergleich/">Partnerbörsen Vergleich</a>
+						</li>
+				</ul>
+		</div>
+		</div>
+<!-- End Sidebar -->
+
+<div id="main">
+
+<div id="post-897" class="post"> <a href="http://www.think-trust.eu/bestes-konto-kriterien-und-vergleich/">
+</a>
+<h2 class="posttitle"><a href="http://www.think-trust.eu/bestes-konto-kriterien-und-vergleich/" rel="bookmark">
+Bestes Konto – Kriterien und Vergleich</a></h2>
+<div class="postcontent entry-content">
+<p class="western" lang="de-DE"><img class="alignleft wp-image-899 size-medium" src="http://www.think-trust.eu/wp-content/uploads/2017/02/coins-232010_960_720-300x200.jpg" width="300" height="200" srcset="http://www.think-trust.eu/wp-content/uploads/2017/02/coins-232010_960_720-300x200.jpg 300w, http://www.think-trust.eu/wp-content/uploads/2017/02/coins-232010_960_720-768x512.jpg 768w, http://www.think-trust.eu/wp-content/uploads/2017/02/coins-232010_960_720.jpg 960w" sizes="(max-width: 300px) 100vw, 300px" />Um tatsächlich und aktiv in jeder Hinsicht am Leben teilnehmen zu können ist ein eigenes <strong>Girokonto</strong> die <strong>absolute Grundlage</strong>, denn dieses macht Geldverkehr erst möglich. Auf dem Girokonto werden die eigenen <strong>Geldeingänge</strong> verbucht, man ist mit ihm in der Lage seine laufenden Kosten zu überweisen, ohne das dies viel <strong>Aufwand</strong> bereiten oder <strong>Zeit</strong> <strong>kosten</strong> würde und noch vieles anderes mehr, das nur mit eine Konto möglich ist.</p>
+<h3 class="western" lang="de-DE">Verschiedene Angebote im Konto Vergleich</h3>
+<p class="western" lang="de-DE">Aufgrund des <strong>hohen Stellenwertes</strong>, den dieses Finanzprodukt ohne Frage einnimmt, braucht im Grunde jeder spätestens als Erwachsener ein solches Konto, steht dabei aber auch vor der<strong> Qual der Wahl</strong>, da es Konten von vielen verschiedenen Banken und Anbietern gibt, zu teilweise ganz verschiedenen <img class="alignright wp-image-900 size-medium" src="http://www.think-trust.eu/wp-content/uploads/2017/02/money-576443_1280-250x300.png" width="250" height="300" srcset="http://www.think-trust.eu/wp-content/uploads/2017/02/money-576443_1280-250x300.png 250w, http://www.think-trust.eu/wp-content/uploads/2017/02/money-576443_1280-768x920.png 768w, http://www.think-trust.eu/wp-content/uploads/2017/02/money-576443_1280-854x1024.png 854w, http://www.think-trust.eu/wp-content/uploads/2017/02/money-576443_1280.png 1068w" sizes="(max-width: 250px) 100vw, 250px" />Konditionen, die nach Möglichkeit gut zu den eigenen Wünschen und Bedürfnissen passen sollten.</p>
+<p class="western" lang="de-DE">Optimal ist für die meisten natürlich, ein <strong>kostenloses Girokonto</strong>, denn man möchte in der Regel kein Geld für ein Konto bezahlen, wenn man dies nicht unbedingt muss. Die Möglichkeit ein kostenloses Girokonto zu erhalten, hat man bei verschiedenen Anbietern und aus <strong>unterschiedlichen Gründen</strong>. Bei einigen Banken ist ein solches insbesondere für Schüler, Auszubildende und Studenten möglich, bei anderen wiederum reicht es wenn man unterhalb einer <strong>gewissen Einkommensgrenze</strong> verdient.</p>
+<p class="western" lang="de-DE">Andere Banken wiederum bieten ihren Kunden generell ein <a href="http://www.sueddeutsche.de/wirtschaft/neue-regeln-fuer-banken-kampf-ums-konto-1.3395692" target="_blank">Konto ohne Kosten</a><span style="color: #808080;"> </span>an, um so reizvoller für diese zu sein. Welches am besten zu einem selbst passt, das entscheidet man im besten Fall über <a href="http://www.dasbestekonto.net/girokonto-vergleich/" target="_blank">einen Konto Vergleich</a> bei dem man die <strong>unterschiedlichen Angebote</strong> übersichtlich und auf einen Blick dargestellt bekommt. So kann man auch als Laie in <img class="alignleft wp-image-898 size-medium" src="http://www.think-trust.eu/wp-content/uploads/2017/02/money-856035_640-300x199.jpg" width="300" height="199" srcset="http://www.think-trust.eu/wp-content/uploads/2017/02/money-856035_640-300x199.jpg 300w, http://www.think-trust.eu/wp-content/uploads/2017/02/money-856035_640.jpg 640w" sizes="(max-width: 300px) 100vw, 300px" />diesen Dingen recht gut erkennen wo die Unterschiede liegen und sich aussuchen, wo er <a href="http://www.dasbestekonto.net/girokonto/" target="_blank">sein bestes Konto</a> eröffnen will. Wichtig ist hierbei natürlich, <u>nach Möglichkeit auch langfristig zu denken</u> und zu planen, da sich die meistens Änderungen durchaus absehen lassen. Und eben nicht schon nach kurzer Zeit seinen Anbieter für ein Konto wieder wechseln möchte.</p>
+<p class="western" lang="de-DE">Dennoch kann ein Girokonto Vergleich und ein späterer Wechsel, wenn man bisher für sein Konto bezahlen muss, durchaus sinnvoll sein und <strong>eine Ersparnis</strong> mit sich bringen. Hier gilt es den Aufwand des Wechsels gegen die Ersparnis aufzuwiegen und für sich selbst zu entscheiden, was am besten zu einem selber passt und was eher nicht.</p>
+</div>
+</div>
+<div class="postmeta">
+<p><i class="fa fa-calendar"></i><a href="http://www.think-trust.eu/bestes-konto-kriterien-und-vergleich/" rel="bookmark">
+ February 28th, 2017</a> <i class="fa fa-comment"></i>
+<span>Comments Off<span class="screen-reader-text"> on Bestes Konto – Kriterien und Vergleich</span></span><i class="fa fa-folder-open"></i>
+<a href="http://www.think-trust.eu/category/girokonto/" rel="category tag">Girokonto</a><i class="fa fa-user"></i>
+<a href="http://www.think-trust.eu/bestes-konto-kriterien-und-vergleich/" class="posttype"><i class="fa format-standard"></i></a></p>
+</div>
+
+<div id="post-890" class="post"> <a href="http://www.think-trust.eu/stromanbieter-vergleich-der-tarifrechner/">
+</a>
+<h2 class="posttitle"><a href="http://www.think-trust.eu/stromanbieter-vergleich-der-tarifrechner/" rel="bookmark">
+Stromanbieter Vergleich – der Tarifrechner</a></h2>
+<div class="postcontent entry-content">
+<div>Vor allem in Bezug auf die <strong>laufenden Kosten</strong> wird uns ja immer wieder klar, wie schnell denn das Geld aus der eigenen Tasche gleiten kann. Für viele Menschen ist dies aber noch immer kein Anreiz zu sagen, dass von nun an in genau solchen <strong>Angelegenheiten</strong> sehr viel mehr gespart werden soll. Lieber wird das Wälzen von <strong>Prospekten</strong> auf der Suche nach den neuesten <strong>Sonderangeboten</strong> als das Sparen angesehen, das am Ende auch wirklich zu den gewünschten Erfolgen führt. Dabei ist es wichtig, sich das Leben selbst nicht unbedingt schwerer zu machen, was auf diese Art und Weise leider aber ganz klar geschieht.</div>
+<h3>Die wichtigsten Aspekte<img class="alignright wp-image-891 size-medium" src="http://www.think-trust.eu/wp-content/uploads/2017/02/power-poles-503935_1280-300x200.jpg" width="300" height="200" srcset="http://www.think-trust.eu/wp-content/uploads/2017/02/power-poles-503935_1280-300x200.jpg 300w, http://www.think-trust.eu/wp-content/uploads/2017/02/power-poles-503935_1280-768x512.jpg 768w, http://www.think-trust.eu/wp-content/uploads/2017/02/power-poles-503935_1280-1024x682.jpg 1024w, http://www.think-trust.eu/wp-content/uploads/2017/02/power-poles-503935_1280.jpg 1280w" sizes="(max-width: 300px) 100vw, 300px" /></h3>
+<div>Deutlich mehr sollte man deshalb darauf achten, dass von Anfang an genau die <strong>richtigen</strong> <strong>Aspekte</strong> ins Auge gefasst werden können. Denn wer einen <a href="http://www.günstige-stromanbieter.net/stromtarifrechner/" target="_blank">Tarifrechner für Strom</a> nutzt und bei den laufenden Kosten spart, der hat dabei in der Regel noch nicht einmal die gewohnten <strong>Einschränkungen</strong>, die wir uns sonst sehr gerne durch <strong>das Sparen auferlegen</strong>. Eines der besten Beispiele, welches man in genau der Hinsicht anführen kann, ist der <strong>Strom</strong>. Auf diesen sind wir nun wirklich alle angewiesen, und das sparsame <strong>Nutzen des Stroms</strong> führt zwar ebenfalls zu einer Einsparung, ist aber oft auch mit Einschränkungen verbunden.</div>
+<h3>Der Stromanbieter Vergleich für einen finanziellen Vorteil</h3>
+<div>Gerade deshalb macht es auf jeden Fall so viel Sinn, sich einmal noch etwas genauer mit dem Thema des Wechsels des <strong>Stromanbieters</strong> auseinanderzusetzen. Schnell wird nämlich in der <strong>Praxis</strong> auf genau diesem Wege klar, wie das mit dem Sparen denn nun gut und sicher gelingen kann. Beim Strom ist es aktuell so, dass wir Deutsche im <strong>Schnitt</strong> in etwa <strong>30,2 Cent pro Kwh Strom</strong> zahlen, die wir aus dem <a href="https://www.swp.de/ulm/nachrichten/wirtschaft/wie-sicher-ist-das-stromnetz-vor-dem-blackout_-14344302.html" target="_blank">Stromnetz</a> beziehen. Dies ist ohne Frage eine Menge Geld, gerade wenn man so oder so für sich in Betracht ziehen möchte, dass dieser Preis durch einen einfachen <strong>Preisvergleich der Stromanbieter</strong> in etwa um sieben Cent gesenkt werden kann.</div>
+<h4>Die mögliche Ersparnis</h4>
+<div>Dies hört sich nun nicht nach einer großen Ersparnis an, doch auf ein ganzes Jahr <strong>hochgerechnet</strong> gelangt man dann mit dem Wert von <strong>300 Euro</strong> doch an eine Zahl, an der es so leicht <strong>kein Vorbeikommen</strong> gibt. Immerhin würde das schon für ein schönes<strong> erholsames Wochenende</strong> in den Bergen für die ganze Familie, einen kurzen Urlaub zu zweit ausreichen oder das Geld auf die Seite legen und es auf ein <a href="http://www.think-trust.eu/festgeld-anlegen-und-hohe-zinsen-kassieren/">Sparkonto</a> einzahlen. Wer diese Dinge also immer in ihrem <strong>richtigen Kontext</strong> sieht, der erkennt schnell die Chancen, die sich in der Tat dann doch zu bieten scheinen. Wer sie für sich nutzt, kann sein Geld später dann für schönere Dinge als für Strom ausgeben.</div>
+</div>
+</div>
+<div class="postmeta">
+<p><i class="fa fa-calendar"></i><a href="http://www.think-trust.eu/stromanbieter-vergleich-der-tarifrechner/" rel="bookmark">
+ February 8th, 2017</a> <i class="fa fa-comment"></i>
+<span>Comments Off<span class="screen-reader-text"> on Stromanbieter Vergleich – der Tarifrechner</span></span><i class="fa fa-folder-open"></i>
+<a href="http://www.think-trust.eu/category/stromanbieter/" rel="category tag">Stromanbieter</a><i class="fa fa-user"></i>
+<a href="http://www.think-trust.eu/stromanbieter-vergleich-der-tarifrechner/" class="posttype"><i class="fa format-standard"></i></a></p>
+</div>
+
+<div id="post-885" class="post"> <a href="http://www.think-trust.eu/festgeld-anlegen-und-hohe-zinsen-kassieren/">
+</a>
+<h2 class="posttitle"><a href="http://www.think-trust.eu/festgeld-anlegen-und-hohe-zinsen-kassieren/" rel="bookmark">
+Festgeld anlegen und hohe Zinsen kassieren</a></h2>
+<div class="postcontent entry-content">
+<div><img class="alignleft wp-image-887 size-medium" src="http://www.think-trust.eu/wp-content/uploads/2017/02/money-soothes-1032647_960_720-300x199.jpg" width="300" height="199" srcset="http://www.think-trust.eu/wp-content/uploads/2017/02/money-soothes-1032647_960_720-300x199.jpg 300w, http://www.think-trust.eu/wp-content/uploads/2017/02/money-soothes-1032647_960_720-768x510.jpg 768w, http://www.think-trust.eu/wp-content/uploads/2017/02/money-soothes-1032647_960_720.jpg 960w" sizes="(max-width: 300px) 100vw, 300px" />Eine <strong>Festgeldanlage</strong> ist eigentlich eine Anlageform, bei der es keine Variablen gibt (bis auf wenige Ausnahmen). Die Konditionen bei einer Festgeldanlage sind fest verankert, die <strong>Anlagedauer</strong> ist von Anfang an festgelegt genauso wie der <strong>Zinssatz</strong> und der Anlagebetrag. Die Festgeldanlage gehört zu den Termingeldeinlagen zwischen Kunde und Bank. Die Anlagedauer bei einer Festgeldanlage kann der Kunde selber auswählen, die Bank gibt Grenzen vor an denen man sich orientieren muss. Bei einer Festgeldanlage gibt es in der Regel eine <strong>Höchstanlagedauer-</strong> und eine <strong>Mindestanlagedauer</strong>. Früher lagen die Laufzeiten zwischen einem Jahr und einem Monat. Heutzutage sind die <strong>Laufzeiten</strong> eher länger gestaltet.</div>
+<div></div>
+<div>Die Festgeldanlage dauert so lange wie man es in dem Vertrag festgehalten hat. Eine <strong>vorzeitige Kündigung</strong> der Festgeldanlage ist meistens <strong>nicht möglich</strong>, falls doch muss man auf die gesamten <strong>Zinserträge</strong> verzichten und die Anlage hat keinen <strong>Sinn</strong> ergeben. Man sollte bei einer Festgeldanlage im Voraus abschätzen ob man das angelegte Geld in der <strong>vertraglich festgehaltenen Zeit</strong> benötigt oder eben nicht. Bei der Festgeldanlage hat der Kunde den <strong>Vorteil</strong>, dass er ganz genau weiß wie viel Geld er am Ende der Laufzeit haben wird. Wie viel man in solch eine Festgeldanlage investiert kann der Kunde (Anleger) selber entscheiden, aber auch hier gibt es wieder Grenzen die die Banken setzen. Bei Festgeldern liegt <img class="alignright wp-image-886 size-medium" src="http://www.think-trust.eu/wp-content/uploads/2017/02/money-1722053_960_720-300x225.jpg" width="300" height="225" srcset="http://www.think-trust.eu/wp-content/uploads/2017/02/money-1722053_960_720-300x225.jpg 300w, http://www.think-trust.eu/wp-content/uploads/2017/02/money-1722053_960_720-768x576.jpg 768w, http://www.think-trust.eu/wp-content/uploads/2017/02/money-1722053_960_720.jpg 960w" sizes="(max-width: 300px) 100vw, 300px" />die Mindestanlagesumme circa bei 1000 Euro, der Höchstanlagebetrag ist bei jeder Bank unterschiedlich. Den <strong>Höchstanlagebetrag</strong> kann man im Normalfall auch überschreiten, der Betrag, der aber über das <strong>Maximum</strong> hinausgeht wird dann aber nicht mehr verzinst, somit macht es auch keinen Sinn über den Höchstanlagebetrag hinauszuschreiten.</div>
+<div></div>
+<div>Viele Leute entscheiden sich immer wieder für <a href="http://www.n-tv.de/ratgeber/tests/Die-besten-Festgeldangebote-article19593812.html" target="_blank">eine Festgeldanlage</a>, da diese Anlageform risikofrei ist. Die gesetzliche Einlagesicherung greift bis zu 100.000 Euro, so hat jeder Anleger bis zu diesem Betrag eine 100 Prozentige Absicherung im <strong>Verlustfall</strong>. Viele Banken schützen die Einlagen durch<img class="alignleft wp-image-888 size-medium" src="http://www.think-trust.eu/wp-content/uploads/2017/02/piggy-bank-1595992_1280-300x200.jpg" width="300" height="200" srcset="http://www.think-trust.eu/wp-content/uploads/2017/02/piggy-bank-1595992_1280-300x200.jpg 300w, http://www.think-trust.eu/wp-content/uploads/2017/02/piggy-bank-1595992_1280-768x512.jpg 768w, http://www.think-trust.eu/wp-content/uploads/2017/02/piggy-bank-1595992_1280-1024x682.jpg 1024w, http://www.think-trust.eu/wp-content/uploads/2017/02/piggy-bank-1595992_1280.jpg 1280w" sizes="(max-width: 300px) 100vw, 300px" /> zusätzliche Einlagesicherungen, somit ist diese Anlageform unglaublich sicher, da man sein Geld auf jeden Fall wieder sieht und keinerlei <strong>Abstriche</strong> machen muss. Es gibt nahezu keine Bank bei der ein Festgeldkonto nicht kostenfrei ist. Man bezahlt nichts, wenn man ein <a href="http://www.derfestgeldvergleich.net/festgeldanlage/" target="_blank">Festgeld anlegen</a> will. Auch wenn man das <strong>Festgeldkonto</strong> kündigt muss man an die Bank keine Gebühren entrichten. Je nach Bank verläuft auch die <strong>Zinsgutschrift</strong> unterschiedlich. Es gibt folgende <strong>Optionen</strong>: Jährlich, monatlich oder einmal am Ende der Laufzeit. Es gibt auch Banken die eine direkte Wiederanlage anbieten. Wenn diese <strong>Vereinbarung</strong> getroffen wurde und die <strong>Geldsumme</strong> zu einem gewissen Termin nicht gekündigt wird, wird der Betrag über die gleiche Laufzeit erneut angelegt (der Zinssatz ist natürlich anders). Wenn man die <strong>Wiedereinlage</strong> verhindern möchte, muss man <strong>Fristgerecht</strong> kündigen. Der Festgeldzins ist abhängig von dem <strong>Leitzins der EZB</strong> (Europäischen Zentralbank.</div>
+<div>Wenn man als Sparer <strong>flexibel</strong> und <strong>klug</strong> denkt, legt man sein Geld bei unterschiedlichen Banken zu unterschiedlichen <strong>Laufzeiten</strong> an. So kann man schnell auf die Beträge zugreifen und bei einem <strong>steigenden Zinssatz</strong> das Geld besser anlegen.</div>
+</div>
+</div>
+<div class="postmeta">
+<p><i class="fa fa-calendar"></i><a href="http://www.think-trust.eu/festgeld-anlegen-und-hohe-zinsen-kassieren/" rel="bookmark">
+ February 1st, 2017</a> <i class="fa fa-comment"></i>
+<span>Comments Off<span class="screen-reader-text"> on Festgeld anlegen und hohe Zinsen kassieren</span></span><i class="fa fa-folder-open"></i>
+<a href="http://www.think-trust.eu/category/geld-anlegen/" rel="category tag">Geld anlegen</a><i class="fa fa-user"></i>
+<a href="http://www.think-trust.eu/festgeld-anlegen-und-hohe-zinsen-kassieren/" class="posttype"><i class="fa format-standard"></i></a></p>
+</div>
+
+<div id="post-13" class="post"> <a href="http://www.think-trust.eu/online-broker-vergleich/">
+</a>
+<h2 class="posttitle"><a href="http://www.think-trust.eu/online-broker-vergleich/" rel="bookmark">
+Online Broker Vergleich</a></h2>
+<div class="postcontent entry-content">
+<h2>Egal ob</h2>
+<p>es sich nun um den Handel mit Aktien oder anderen <strong>Finanzprodukten </strong>handelt, so gibt es sehr vielseitige Faktoren, die in diesem Rahmen eine nicht von der Hand zu weisende und wichtige Rolle spielen. Gerade unerfahrene <strong>Anfänger</strong> sind oft der Meinung, dass es nichts weiter als etwas Glück braucht, um auf diesem Wege zu Geld zu kommen. Wer sich dagegen etwas weiter mit dem Thema <u>befasst</u> hat, der wird erkennen, dass dazu auch noch die nötigen fachlichen <strong>Kenntnisse</strong> gehören. Am Ende ist es aber vor allem auch die Wahl des richtigen Brokers, die viel zu selten hier berücksichtigt wird, dabei aber so eine wichtige Rolle spielt. Dies liegt in erster Linie vor allem daran, dass hier die <strong>Gebühren</strong> bestimmt werden, welche einen großen <u>Einfluss</u> auf die Erfolge haben.</p>
+<h2>Grundsätzlich</h2>
+<p>gliedern sich diese Kosten in <strong>unterschiedliche</strong> Bereiche. Zum einen gibt es hier natürlich die Steuern, auf die aber der Broker keinen Einfluss hat. Dann wiederum handelt es sich um die laufenden Kosten, die pro Monat, in manchen <strong>Fällen</strong> auch pro Jahr abgebucht werden. Hier handelt es sich zumeist um einen festen Betrag, der immer gezahlt werden muss. Darüber hinaus sind es aber auch die Kosten pro Trade, die darüber entscheiden können, ob man <u>langfristig</u> auf dem schmalen Grat des Erfolgs wandeln kann. Nun kommt es auch auf die Strategie an, die von Fall zu Fall für die Anlage genutzt wird. Manche mögen versuchen, mit vielen</p>
+<h2>kurzfristigen</h2>
+<p>Käufen und Verkäufen zum Geld zu kommen. Hier zeigt sich der Vorteil beim Broker darin, wenn die Gebühren pro Trade <strong>möglichst</strong> niedrig sind, während die langfristigen <u>Gebühren</u> zweitrangig sind. Auf der anderen Seite gibt es aber immer wieder auch Anleger, die versuchen, über lange Zeit auf eine bestimmte Aktien zu setzen. Dies kann zum Beispiel als Vorsorge für das Alter genutzt werden. Hier ist es wichtig, dass die <strong>laufenden</strong> Kosten nicht allzu hoch sind.</p>
+<h2>Es wird</h2>
+<p>also sehr <strong>deutlich</strong>, dass hier ganz unterschiedliche Faktoren mit im Auge behalten werden müssen. Gerade deshalb ist die <strong>Hilfestellung</strong>, die hierfür im Internet geboten wird, von so großer Bedeutung. Es handelt sich dabei um den Online Broker Vergleich, der hierfür eine große und wichtige Rolle spielt. Hier werden alle derzeit auf dem Markt verfügbaren Angebote aufgeführt, und mithilfe von einigen wichtigen <u>Stichpunkten</u> zusammengefasst. Die Nutzung der Seite selbst ist dabei <strong>vollkommen</strong> kostenlos, da sie sich nur über Werbeeinnahmen finanzieren kann. Am Ende wird auf diese Art und Weise jedem die Chance geboten, sich über die Lage zu informieren, und eine glückliche <strong>Entscheidung</strong> zu treffen.</p>
+</div>
+</div>
+<div class="postmeta">
+<p><i class="fa fa-calendar"></i><a href="http://www.think-trust.eu/online-broker-vergleich/" rel="bookmark">
+ November 17th, 2015</a> <i class="fa fa-comment"></i>
+<span>Comments Off<span class="screen-reader-text"> on Online Broker Vergleich</span></span><i class="fa fa-folder-open"></i>
+<a href="http://www.think-trust.eu/category/online-broker/" rel="category tag">Online Broker</a><i class="fa fa-user"></i>
+<a href="http://www.think-trust.eu/online-broker-vergleich/" class="posttype"><i class="fa format-standard"></i></a></p>
+</div>
+
+<div id="post-11" class="post"> <a href="http://www.think-trust.eu/partnerborsen-vergleich/">
+</a>
+<h2 class="posttitle"><a href="http://www.think-trust.eu/partnerborsen-vergleich/" rel="bookmark">
+Partnerbörsen Vergleich</a></h2>
+<div class="postcontent entry-content">
+<p><strong>Noch nie</strong> war eseinfacher neue Menschen kennenzulernen als heute. Einfach einen Account bei einer <strong>Internetplattform</strong> erstellen und schon ist man für viele Menschen aus allen Regionen zugängig. Die große Auswahl an Single- und Partnerbörsen erschweren den Kunden die <strong>Entscheidung</strong>. Für viele Partnerbörsen zahlt man <strong>monatliches</strong> Entgelt und einige sind kostenlos. Doch welche Internetseiten sind am besten, um neue Menschen und vielleicht sogar die große <strong>Liebe</strong> zu finden?</p>
+<h2>Parship:</h2>
+<p>Auf dem ersten Platz der <strong>Partnerbörse</strong>-Vergleiche befindet sich die Internetseite Parship. Diese Internetseite ist die größte <strong>Partnervermittlung</strong> in Deutschland und umfasst europaweit zirka 11 Millionen Mitglieder. Ebenso überzeugt die hohe Aktivität der Nutzer. Hier sind wöchentlich mehr als 750.000 Nutzer aktive. Auch das <u>Geschlechterverhältnis</u> der Mitglieder ist fast ausgewogen. Seit dem Jahr 2001 führt Parship Persönlichkeitstests für eine perfekte Partnerwahl durch und entwickelte sich danach zu der größten <strong>Partnerbörse</strong>. Mit einem hohen Akademikeranteil von zirka 52 Prozent gehört Parship auch zu den renommiertesten Partnerbörsen <u>Deutschlands</u>. Auch die hohe Erfolgsquote von 38 Prozent lässt die <strong>Internetseite</strong> in einem guten Licht dastehen. Die Oberfläche der Plattform ist sehr einfach zu bedienen und auch sehr übersichtlich. Alle Funktionen sind klar definiert und man kennt sich super aus. Auch für Personen, die sich nicht so gut mit dem Computer <strong>auskennen</strong> können sich hier leicht zurecht finden. Seit dem Jahr 2006 besitzt die Plattform auch das <u>TÜV-Zertifikat</u>, welches all diese <strong>Kriterien</strong> berücksichtigt. Es gibt eine kostenlose <strong>Mitgliedschaft</strong>, hierbei kann man jedoch nicht alle Features benutzen. Um die Mitglieder vor Fake-Accounts zu schützen, werden alle <em>Neuanmeldungen</em> von Administratoren kontrolliert und freigegeben.</p>
+<h2>Elite-Partner:</h2>
+<p>Die <strong>Internetplattform</strong> Elite-Partner bietet einen erstklassigen Service und auch die überzeugenden Partnervorschläge lassen kaum zu wünschen übrig. Seit dem Jahr 2004 gehört diese <strong>Internetplattform</strong> zu den beliebtesten Deutschlands. Ungefähr 3,6 Millionen Mitglieder versuchen über diese Internetseite neue Menschen kennenzulernen. Rund 54 Prozent der Mitglieder sind Frauen und 46 Prozent Männer. Elite-Partner ist auch für das hohe Niveau der <strong>Mitglieder</strong> bekannt und bietet eine Erfolgsquote von 42 Prozent. Ebenso ist hier die Bedienung und die Anmeldung zu dieser <strong>Internetseite</strong> sehr einfach und leicht zu bedienen. Diese Partnerbörse kann man nicht nur über den Computer bedienen, sondern auch über die Smartphones. Auch hier gibt es eine kostenlose und eine premium <strong>Mitgliedschaft</strong>. Ebenso wie bei Parship werden hier die Neuanmeldungen auf Echtheit überprüft und von Admins freigegeben. Bei Unklarheiten werden die <strong>Anmeldungen</strong> abgelehnt.</p>
+<h2>E-Darling:</h2>
+<p><strong>Seit dem</strong> Jahr 2009 gibt es die Internetplattform E-Darling. In Deutschland umfasst die Plattform momentan rund 2,8 Millionen Mitglieder. Täglich kommen zirka 2.500 Neuanmeldungen hinzu und wöchentlich sind ungefähr 400.000 Nutzer aktiv. Die <strong>Erfolgsquote</strong> wird von E-Darling selbst auf über 50 Prozent angegeben. Das <u>Geschlechterverhältnis </u>ist mit zirka 48 Prozent Männer und 52 Prozent Frauen ungefähr gleich verteilt. Ebenso wie bei anderen <strong>Partnerbörsen</strong> kann man diese Plattform über den Computer oder über mobile Endgeräte aufgerufen werden. Die <u>Bildschirmoberfläche</u> ist einfach strukturiert, leicht zu bedienen und übersichtlich. Auch hier kann man zwischen einer kostenlosen und einer kostenpflichtigen Mitgliedschaft wählen. Auch auf E-Darling werden die <strong>Neuanmeldungen</strong> überprüft und persönlich freigegeben. Somit versucht die Plattform ihre Nutzer vor Fake-Profilen zu schützen.</p>
+</div>
+</div>
+<div class="postmeta">
+<p><i class="fa fa-calendar"></i><a href="http://www.think-trust.eu/partnerborsen-vergleich/" rel="bookmark">
+ November 17th, 2015</a> <i class="fa fa-comment"></i>
+<span>Comments Off<span class="screen-reader-text"> on Partnerbörsen Vergleich</span></span><i class="fa fa-folder-open"></i>
+<a href="http://www.think-trust.eu/category/partnerborsen/" rel="category tag">Partnerbörsen</a><i class="fa fa-user"></i>
+<a href="http://www.think-trust.eu/partnerborsen-vergleich/" class="posttype"><i class="fa format-standard"></i></a></p>
+</div>
+
+

@@ -1,0 +1,95 @@
+WARC/1.0
+WARC-Type: warcinfo
+WARC-Date: 2018-05-30T18:18:32Z
+WARC-All-Language: en
+WARC-All-Content_type: text/html; charset=UTF-8
+WARC-Record-ID: <urn:uuid:fdd7e726-30ac-4a4f-a8f2-beeb03a96236>
+Content-Type: application/http;msgtype=response
+Content-Length: 46
+
+WARCProcessor by SING Group www.sing-group.com
+
+WARC/1.0
+WARC-Type: response
+WARC-Target-URI: http://www.dilia.eu
+WARC-Date: 20180530181832
+WARC-Language: en
+WARC-Record-ID: <http://www.dilia.eu>
+Content-Type: application/http;msgtype=response
+Content-Length: 2353
+
+HTTP/1.1 200
+Content-Type:text/html; charset=UTF-8
+
+
+
+    <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+    <html>
+        <head>
+            <meta http-equiv="content-type" content="text/html; charset=utf-8">
+            <meta name="generator" content="PSPad editor, www.pspad.com">
+            <title>Stránky ve výstavbě</title>
+
+            <link href='http://fonts.googleapis.com/css?family=Open+Sans:400,700&subset=latin,latin-ext' rel='stylesheet' type='text/css'>
+
+            <style>
+                body {
+                    font-family: 'Open Sans', sans-serif;
+                }
+                .site {
+                    width: 70%;
+                    margin: 0 auto;
+                }
+                .content {
+                    padding-top: 250px;
+                }
+                img {
+                    float: right;
+                }
+                h1 {
+                    font-weight: 700;
+                    color: rgb(50,50,50);
+                }
+
+                p {
+                    font-weight: 600;
+                    color: rgb(133,133,133);
+                }
+            </style>
+        </head>
+        <body>
+            <div class="site">
+                <div class="content">
+                    <img src="http://www.autatabor.cz/img/img.png" alt="maintenance" />
+                    <h1>Stránky ve výstavbě</h1>
+                    <p>Omlouváme se, ale stránky jsou momentálně nedostupné. Zkuste nás prosím navštívit o pár hodin později.</p>
+                    <h1>Under construction
+                    </h1>
+                    <p>Sorry, the site is temporarily unavailable. Try please visit a few hours later.</p>
+
+                    <p>Try our working website <a href='http://www.dilia.cz'>dilia.cz</a>.</p>
+
+                </div>
+            </div>
+            <br />
+            <br />
+            <br />
+            <br />
+            <br />
+            <br />
+            <br />
+            <br />
+            <br />
+            <br />
+            <br />
+            <br />
+            <br />
+            <br />
+            <br />
+            <br />
+            <br />
+            <small><a href="http://www.dilia.eu/?submitbtn=1">Registrovat</a></small>
+        </body>
+    </html>
+    
+

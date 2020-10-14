@@ -1,0 +1,46 @@
+WARC/1.0
+WARC-Type: warcinfo
+WARC-Date: 2018-05-30T19:13:40Z
+WARC-Record-ID: <urn:uuid:d232cfdf-b6f5-4506-9920-d9fcd96e6875>
+WARC-All-Language: fr
+WARC-All-Content_type: text/html, text/html; charset=UTF-8
+Content-Type: application/http;msgtype=response
+Content-Length: 46
+
+WARCProcessor by SING Group www.sing-group.com
+
+WARC/1.0
+WARC-Type: response
+WARC-Record-ID: <http://www.junglebook.eu>
+WARC-Date: 20180530191340
+WARC-Target-URI: http://www.junglebook.eu
+WARC-Language: fr
+Content-Type: application/http;msgtype=response
+Content-Length: 1205
+
+HTTP/1.1 200
+Content-Type:text/html; charset=UTF-8
+
+
+<html data-adblockkey="MFwwDQYJKoZIhvcNAQEBBQADSwAwSAJBAMLl0RJYcDS0N2xIgi01rOAcEtvCUTUq+IuNz5PA8eXYsfPLRkgnNehO+NbOZAlLoQnSpB5rXuRxRCTF+T1iU9sCAwEAAQ==_K7gU7ARDb59+MzYF8okLh3KQBqjGrw53/TC57KsE2BDOf2Lei2p7fYkU+VDQ1m2K7y2leXOMTm3fdHVaRRh8aA==" xmlns="http://www.w3.org/TR/REC-html40">
+    <head>
+	<title>junglebook.eu</title>
+	<meta name="keywords" value="beatrix potter,baby boomers,book collection,code book,book title search"/>
+	<meta name="description" content="">
+	    <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js"></script>
+	    <script type="text/javascript">
+		$(document).ready(function () {
+		    $('#main').attr('src', "/cf.php");
+		    $('#main').css('visibility', 'visible');
+		});
+
+		/* if (parent.frames.length > 0)
+		    top.location.replace(document.location); */
+	    </script>
+    </head>
+    <frameset rows="100%,*" frameborder="no" border="0" framespacing="0" id="frameset">
+	<frame id="main" src="/cf.php"></frame>
+	<frame id="sub1" src="bh.php?dm=junglebook.eu&kw=&tt=4bca0ec51eab4766ced5228c9c5a5bbb&ty=false" style="visibility: hidden;"></frame>
+    </frameset>
+</html>
+

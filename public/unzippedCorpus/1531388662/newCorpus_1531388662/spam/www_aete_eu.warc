@@ -1,0 +1,276 @@
+WARC/1.0
+WARC-Type: warcinfo
+WARC-Date: 2018-05-30T17:52:31Z
+WARC-Record-ID: <urn:uuid:08dc5695-8498-407d-b048-ec8dee2421b1>
+WARC-All-Language: en, en-gb
+WARC-All-Content_type: text/html, text/html; charset=utf-8
+Content-Type: application/http;msgtype=response
+Content-Length: 46
+
+WARCProcessor by SING Group www.sing-group.com
+
+WARC/1.0
+WARC-Type: response
+WARC-Record-ID: <http://www.aete.eu>
+WARC-Date: 20180530175231
+WARC-Target-URI: http://www.aete.eu
+WARC-Language: en-gb
+Content-Type: application/http;msgtype=response
+Content-Length: 23839
+
+HTTP/1.1 200
+Content-Type:text/html; charset=utf-8
+
+
+<!DOCTYPE HTML>
+<html lang="en-gb" dir="ltr"  data-config='{"twitter":0,"plusone":0,"facebook":0,"style":"default"}'>
+<head>
+	<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<base href="http://www.aete.eu/" />
+	<meta name="author" content="Super User" />
+	<meta name="generator" content="Joomla! - Open Source Content Management" />
+	<title>About Us</title>
+	<link href="http://www.aete.eu/index.php/component/search/?id=2&amp;Itemid=114&amp;format=opensearch" rel="search" title="Search AETE - Association Europeenne de Transfert  Embryonnaire - European Embryo Transfer Association" type="application/opensearchdescription+xml" />
+	<link href="/templates/wt_edu/favicon.ico" rel="shortcut icon" type="image/vnd.microsoft.icon" />
+	<link href="/media/com_docman/css/site.css?070afde0" rel="stylesheet" type="text/css" />
+	<link href="/media/com_acymailing/css/module_default.css?v=1510224142" rel="stylesheet" type="text/css" />
+	<script src="/media/jui/js/jquery.min.js?aa501740f5d8aca21b0f072959309aea" type="text/javascript"></script>
+	<script src="/media/jui/js/jquery-noconflict.js?aa501740f5d8aca21b0f072959309aea" type="text/javascript"></script>
+	<script src="/media/jui/js/jquery-migrate.min.js?aa501740f5d8aca21b0f072959309aea" type="text/javascript"></script>
+	<script src="http://www.aete.eu/media/system/js/core.js?v=1526967590" type="text/javascript"></script>
+	<script src="/media/com_acymailing/js/acymailing_module.js?v=581" type="text/javascript" async="async"></script>
+	<script src="/media/plg_captcha_recaptcha/js/recaptcha.min.js?aa501740f5d8aca21b0f072959309aea" type="text/javascript"></script>
+	<script src="https://www.google.com/recaptcha/api.js?onload=JoomlaInitReCaptcha2&render=explicit&hl=en-GB" type="text/javascript"></script>
+	<script type="text/javascript">
+	if(typeof acymailing == 'undefined'){
+					var acymailing = Array();
+				}
+				acymailing['NAMECAPTION'] = 'Name';
+				acymailing['NAME_MISSING'] = 'Please enter your name';
+				acymailing['EMAILCAPTION'] = 'E-mail';
+				acymailing['VALID_EMAIL'] = 'Please enter a valid e-mail address';
+				acymailing['ACCEPT_TERMS'] = 'Please check the Terms and Conditions';
+				acymailing['CAPTCHA_MISSING'] = 'The captcha is invalid, please try again';
+				acymailing['NO_LIST_SELECTED'] = 'Please select the lists you want to subscribe to';
+		
+		acymailing['level'] = 'enterprise';
+		acymailing['reqFieldsformAcymailing68691'] = Array('name','html');
+		acymailing['validFieldsformAcymailing68691'] = Array('Please enter a value for the field Name','Please enter a value for the field Receive');
+acymailing['excludeValuesformAcymailing68691'] = Array();
+acymailing['excludeValuesformAcymailing68691']['name'] = 'Name';
+acymailing['excludeValuesformAcymailing68691']['email'] = 'E-mail';
+
+	</script>
+
+<link rel="apple-touch-icon-precomposed" href="/templates/wt_edu/apple_touch_icon.png">
+<link rel="stylesheet" href="/templates/wt_edu/css/bootstrap.css">
+<link rel="stylesheet" href="/templates/wt_edu/css/theme.css">
+<link rel="stylesheet" href="/templates/wt_edu/css/custom.css">
+<link rel="stylesheet" href="/templates/wt_edu/css/leaflet.css">
+<script src="/templates/wt_edu/warp/vendor/uikit/js/uikit.js"></script>
+<script src="/templates/wt_edu/warp/vendor/uikit/js/components/autocomplete.js"></script>
+<script src="/templates/wt_edu/warp/vendor/uikit/js/components/search.js"></script>
+<script src="/templates/wt_edu/warp/vendor/uikit/js/components/tooltip.js"></script>
+<script src="/templates/wt_edu/warp/vendor/uikit/js/components/slider.js"></script>
+<script src="/templates/wt_edu/warp/vendor/uikit/js/components/slideset.js"></script>
+<script src="/templates/wt_edu/warp/js/social.js"></script>
+<script src="/templates/wt_edu/js/theme.js"></script>
+<script src="/templates/wt_edu/js/leaflet.js"></script>
+</head>
+<body class="tm-sidebar-b-right tm-sidebars-1 tm-isblog">
+				<div class="uk-clearfix uk-hidden-big">
+			<div class="uk-container uk-container-center" style="text-align:center;">
+									<a class="tm-logo" href="http://www.aete.eu">
+	<div style="width: 100%; max-width: 400px; float: left; margin-bottom: 10px;"><a href="http://www.aete.eu/" rel="alternate"><img src="/images/template/logo_AETE_600.png" alt="" width="100%" /></a></div></a>
+							</div>
+		</div>
+		<div class="tm-headerbar uk-clearfix uk-hidden-small">
+			<div class="uk-container uk-container-center">
+									<a class="tm-logo" href="http://www.aete.eu">
+	<div style="width: 100%; max-width: 400px; float: left; margin-bottom: 10px;"><a href="http://www.aete.eu/" rel="alternate"><img src="/images/template/logo_AETE_600.png" alt="" width="100%" /></a></div></a>
+								<div class="uk-panel">
+<form id="search-93" class="uk-search" action="/index.php" method="post" role="search" data-uk-search="{'source': '/index.php/component/search/?tmpl=raw&amp;type=json&amp;ordering=&amp;searchphrase=all', 'param': 'searchword', 'msgResultsHeader': 'Search Results', 'msgMoreResults': 'More Results', 'msgNoResults': 'No results found', flipDropdown: 1}">
+	<input class="uk-search-field" type="search" name="searchword" placeholder="search...">
+	<input type="hidden" name="task"   value="search">
+	<input type="hidden" name="option" value="com_search">
+	<input type="hidden" name="Itemid" value="114">
+</form></div>			</div>
+		</div>
+				<div class="tm-top-block tm-grid-block">
+							<nav class="tm-navbar uk-navbar" >
+					<div class="uk-container uk-container-center">
+																			<ul class="uk-navbar-nav uk-hidden-small"><li class="uk-parent uk-active" data-uk-dropdown="{}" aria-haspopup="true" aria-expanded="false"><a href="/index.php">About Us</a><div class="uk-dropdown uk-dropdown-navbar uk-dropdown-width-1"><div class="uk-grid uk-dropdown-grid"><div class="uk-width-1-1"><ul class="uk-nav uk-nav-navbar"><li><a href="/index.php/about-us/board-of-governors" target="_blank">Board of Governors</a></li></ul></div></div></div></li><li><a href="/index.php/upcoming-events">Upcoming events</a></li><li><a href="/index.php/meetings">Meetings</a></li><li><a href="/index.php/registrations-for-meetings">Registration to meeting</a></li><li class="uk-parent" data-uk-dropdown="{}" aria-haspopup="true" aria-expanded="false"><a href="#">Publications</a>
+<div class="uk-dropdown uk-dropdown-navbar uk-dropdown-width-1"><div class="uk-grid uk-dropdown-grid"><div class="uk-width-1-1"><ul class="uk-nav uk-nav-navbar"><li class="uk-parent"><a href="/index.php/publications-aete/proceedings">Proceedings</a><ul class="uk-nav-sub"><li><a href="/index.php/publications-aete/proceedings/2017" target="_blank">2017</a></li><li><a href="/index.php/publications-aete/proceedings/2016" target="_blank">2016</a></li><li><a href="/index.php/publications-aete/proceedings/2015" target="_blank">2015</a></li><li><a href="/index.php/publications-aete/proceedings/2014" target="_blank">2014</a></li><li><a href="/index.php/publications-aete/proceedings/2013" target="_blank">2013</a></li><li><a href="/index.php/publications-aete/proceedings/2012" target="_blank">2012</a></li><li><a href="/index.php/publications-aete/proceedings/2011" target="_blank">2011</a></li><li><a href="/index.php/publications-aete/proceedings/2010">2010</a></li><li><a href="/index.php/publications-aete/proceedings/2009" target="_blank">2009</a></li><li><a href="/index.php/publications-aete/proceedings/2008" target="_blank">2008</a></li><li><a href="/index.php/publications-aete/proceedings/2007" target="_blank">2007</a></li><li><a href="/index.php/publications-aete/proceedings/2006" target="_blank">2006</a></li><li><a href="/index.php/publications-aete/proceedings/2005" target="_blank">2005</a></li><li><a href="/index.php/publications-aete/proceedings/2004" target="_blank">2004</a></li><li><a href="/index.php/publications-aete/proceedings/2003" target="_blank">2003</a></li><li><a href="/index.php/publications-aete/proceedings/2002" target="_blank">2002</a></li><li><a href="/index.php/publications-aete/proceedings/2001" target="_blank">2001</a></li><li><a href="/index.php/publications-aete/proceedings/2000" target="_blank">2000</a></li></ul></li><li><a href="/index.php/publications-aete/newsletter-pdf">Newsletter (PDF)</a></li><li class="uk-parent"><a href="#">ANIMAL REPRODUCTION - Official journal of the Brazilian College of Animal Reproduction</a><ul class="uk-nav-sub"><li><a href="http://cbra.org.br/portal/publicacoes/ar/2017/ar2017v14n3.html" target="_blank" rel="noopener noreferrer">2017 </a></li><li><a href="http://www.cbra.org.br/portal/publicacoes/ar/2016/arjs2016.html" target="_blank" rel="noopener noreferrer">2016</a></li><li><a href="http://www.cbra.org.br/portal/publicacoes/ar/2015/arjs2015.html" target="_blank" rel="noopener noreferrer">2015</a></li></ul></li></ul></div></div></div></li><li class="uk-parent" data-uk-dropdown="{}" aria-haspopup="true" aria-expanded="false"><a href="/index.php/statistics">Statistics</a><div class="uk-dropdown uk-dropdown-navbar uk-dropdown-width-1"><div class="uk-grid uk-dropdown-grid"><div class="uk-width-1-1"><ul class="uk-nav uk-nav-navbar"><li><a href="/index.php/statistics/year-2016" target="_blank">Year 2016</a></li><li><a href="/index.php/statistics/year-2015" target="_blank">Year 2015</a></li><li><a href="/index.php/statistics/year-2014" target="_blank">Year 2014</a></li></ul></div></div></div></li><li><a href="/index.php/links">Links</a></li><li><a href="/index.php/info-from-sponsors">Info from sponsors</a></li><li><a href="/index.php/contacts">Contacts</a></li></ul>																			<a href="#offcanvas" class="uk-navbar-toggle uk-visible-small" data-uk-offcanvas></a>
+																	</div>
+				</nav>
+					</div>
+		<div class="tm-page">
+													<div class="tm-block tm-block-main">
+				<div class="uk-container uk-container-center">
+					<div class="tm-middle uk-grid" data-uk-grid-match data-uk-grid-margin>
+
+													<div class="tm-main uk-width-medium-3-4">
+
+																									<main class="tm-content">
+																				<div id="system-message-container">
+</div>
+<article class="uk-article" >
+
+	
+		<h1 class="uk-article-title">
+					About Us			</h1>
+	
+	
+	
+	
+	
+		<div>
+		
+<p>The object of the “ASSOCIATION OF EMBRYO TECHNOLOGY IN EUROPE” is to facilitate the diffusion and application of knowledge relative to embryo transfer in mammals by creating a forum for the exchange of scientific, technical and practical information at a European level and by organising regular meetings encouraging everyone to participate: teachers, scientists, practitioners, technicians and students.<br /><br />Moreover the “ASSOCIATION OF EMBRYO TECHNOLOGY IN EUROPE” aims to establish European technological solidarity, favourable to international exchange of embryos, by creating study groups and by striving to become a body to whom European veterinary and agricultural authorities may make proposals, and seek consultation.</p>
+<p>		<div class="moduletable">
+						
+	<div style="background: #B0CFF7; color: #355379; border: solid 1px #355379; padding: 8px; border-radius: 10px; font-size: 150%; text-align: center;"><b><a style="color: #355379; text-decoration: none;" href="/index.php/meetings">The 34th AETE meeting will be held in Nantes (F) from 7-8 September 2018</a></b></div>		</div>
+	 </p>
+<div><strong> <a class="doclink k-ui-namespace" href="/index.php/all-documents/various/125-by-laws" data-processed="data-processed">
+
+
+    
+<span class="k-icon-document-pdf  " aria-hidden="true"></span>
+<span class="k-visually-hidden">pdf</span>
+
+
+By Laws
+
+<span>(<!--
+-->47 KB<!--
+-->)</span>
+
+
+</a></strong><br /><strong> <a class="doclink k-ui-namespace" href="/index.php/all-documents/various/124-membership-application" data-processed="data-processed">
+
+
+    
+<span class="k-icon-document-pdf  " aria-hidden="true"></span>
+<span class="k-visually-hidden">pdf</span>
+
+
+Membership application
+
+<span>(<!--
+-->43 KB<!--
+-->)</span>
+
+
+</a></strong><br /><br /></div> 	</div>
+	
+	
+	
+	
+	
+	
+</article>									</main>
+																							</div>
+																																								<aside class="tm-sidebar-b uk-width-medium-1-4"><div class="uk-panel uk-panel-box">
+	 <a style="color: red;" class="doclink" href="http://www.fass-abstracts.org/meetinginfo.asp?image.x=111&image.y=13&meetingcode=265" target="_blank"><strong>AETE abstract submission 2018<strong></a></div>
+<div class="uk-panel uk-panel-box">
+	 <a class="doclink" href="/index.php/all-documents/meetings/156-guidelines-for-abstract-preparation-2018">Guidelines for abstract preparation 2018</a></div>
+<div class="uk-panel uk-panel-box">
+	<p> <a class="doclink" href="/index.php/all-documents/meetings/155-34th-scientific-meeting-preliminary-programme">34th SCIENTIFIC MEETING - Preliminary Programme</a></p></div>
+<div class="uk-panel uk-panel-box">
+	<a href="https://www.facebook.com/TheAETE/" target="_blank"><img src="/images/various/aete_facebook.jpg" alt="" width="100%"/></a></div>
+<div class="uk-panel uk-panel-box"><h3 class="uk-panel-title">Newsletter subscription</h3><div class="acymailing_module" id="acymailing_module_formAcymailing68691">
+	<div class="acymailing_fulldiv" id="acymailing_fulldiv_formAcymailing68691"  >
+		<form id="formAcymailing68691" action="/index.php" onsubmit="return submitacymailingform('optin','formAcymailing68691', 0)" method="post" name="formAcymailing68691"  >
+		<div class="acymailing_module_form" >
+						<table class="acymailing_form">
+				<tr>
+													<td class="acyfield_name acy_requiredField">
+								<input id="user_name_formAcymailing68691"  style="width:80%" onfocus="if(this.value == 'Name') this.value = '';" onblur="if(this.value=='') this.value='Name';" type="text" class="inputbox required" name="user[name]" value="Name" title="Name"/>								</td></tr><tr>								<td class="acyfield_email acy_requiredField">
+								<input id="user_email_formAcymailing68691"  style="width:80%" onfocus="if(this.value == 'E-mail') this.value = '';" onblur="if(this.value=='') this.value='E-mail';" type="text" class="inputbox required" name="user[email]" value="E-mail" title="E-mail"/>								</td></tr><tr>					<td class="captchakeymodule">
+					<div id="formAcymailing68691-captcha" class="g-recaptcha " data-sitekey="6LdZRg8TAAAAANIPuU6_2YSP2rZ0_K0D7d8qs40P" data-theme="light" data-size="compact"></div>					</tr><tr>
+					
+					<td  class="acysubbuttons">
+												<input class="button subbutton btn btn-primary" type="submit" value="Subscribe" name="Submit" onclick="try{ return submitacymailingform('optin','formAcymailing68691', 0); }catch(err){alert('The form could not be submitted '+err);return false;}"/>
+											</td>
+				</tr>
+			</table>
+						<input type="hidden" name="ajax" value="0" />
+			<input type="hidden" name="acy_source" value="module_97" />
+			<input type="hidden" name="ctrl" value="sub"/>
+			<input type="hidden" name="task" value="notask"/>
+			<input type="hidden" name="redirect" value="http%3A%2F%2Fwww.aete.eu%2F"/>
+			<input type="hidden" name="redirectunsub" value="http%3A%2F%2Fwww.aete.eu%2F"/>
+			<input type="hidden" name="option" value="com_acymailing"/>
+						<input type="hidden" name="hiddenlists" value="1"/>
+			<input type="hidden" name="acyformname" value="formAcymailing68691" />
+									</div>
+		</form>
+	</div>
+	</div>
+</div></aside>
+																		</div>
+				</div>
+			</div>
+							<div class="tm-block tm-block-bottom-a">
+				<div class="uk-container uk-container-center">
+					<section class="tm-bottom-a uk-grid" data-uk-grid-match="{target:'> div > .uk-panel'}" data-uk-grid-margin>
+<div class="uk-width-1-1"><div class="uk-panel uk-panel-box"><h3 class="uk-panel-title">Sponsor</h3>
+	<div style="text-align:center;">
+<table width="100%"  border="0" cellspacing="0" cellpadding="0">
+  <tr align="center">
+    <td>MAIN SPONSOR</td>
+    <td>GENERAL SPONSOR</td>
+  </tr>
+</table>
+<a href="http://www.vetoquinol.com" target="_blank"><img src="/images/sponsor/logo_vetoquinol.jpg" alt="" width="500" border="0"/></a>
+<span style="text-align: center;"><a href="https://www.imv-technologies.com/" target="_blank"><img src="/images/sponsor/logo_imv_technologies.jpg" alt="" width="180" border="0"/></a>
+<a href="https://www.cevalogistics.com/" target="_blank"><img src="/images/ceva.jpg" alt="" width="180" border="0"/></a>
+<a href="https://www.nantesmetropole.fr/" target="_blank"><img src="/images/nantes.jpg" alt="" width="180" border="0"/></a></span>
+<p>EXHIBITORS</p>
+<a href="http://www.apis-gene.com/" target="_blank"><img src="/images/apisgene.jpg" alt="" width="125" border="0"/></a>
+<a href="https://www.zoetis.com/" target="_blank"><img src="/images/zoetis.jpg" alt="" width="125" border="0"/></a>
+<a href="http://ivftech.dk/" target="_blank"><img src="/images/sponsor/logo_ivftech.jpg" alt="" width="125" border="0"/></a>
+<!--<a href="http://www.ecmscan.com/" target="_blank"><img src="/images/sponsor/logo_ecm.jpg" alt="" width="125" border="0"/></a>-->
+<a href="http://www.pets-inc.com/" target="_blank"><img src="/images/sponsor/logo_pets.jpg" alt="" width="125" border="0"/></a>
+<a href="https://www.cookmedical.com/" target="_blank"><img src="/images/cook.jpg" alt="" width="125" border="0"/></a>
+<!--<a href="https://www.bcftechnology.com/" target="_blank"><img src="/images/sponsor/logo_bcf_technology.jpg" alt="" width="125" border="0"/></a>-->
+<a href="http://www.bodinco.nl/" target="_blank"><img src="/images/sponsor/logo_bodinco.jpg" alt="" width="125" border="0"/></a>
+<a href="http://icpbiorepro.com/" target="_blank"><img src="/images/sponsor/logo_icpbio.jpg" alt="" width="125" border="0"/></a>
+<a href="http://www.eggtech.co.uk/" target="_blank"><img src="/images/eggtech.jpg" alt="" width="125" border="0"/></a>
+<a href="http://ivfbioscience.com/" target="_blank"><img src="/images/sponsor/logo_ivf_bioscience.jpg" alt="" width="125" border="0"/></a>
+<a href="http://reprobiol.be/en/" target="_blank"><img src="/images/sponsor/logo_stimufol.jpg" alt="" width="125" border="0"/></a>
+<a href="http://www.minitube.com" target="_blank"><img src="/images/sponsor/minitube.jpg" alt="" width="125" border="0"/></a>
+
+<a href="https://www.nikon.com/" target="_blank"><img src="/images/nikon.jpg" alt="" width="125" border="0"/></a>
+<a href="http://www.huvesearch.com/home-vet-fr.html" target="_blank"><img src="/images/search.jpg" alt="" width="125" border="0"/></a>
+<a href="https://www.draminski.com/" target="_blank"><img src="/images/draminski.jpg" alt="" width="125" border="0"/></a>
+<a href="http://institut.inra.fr/en" target="_blank"><img src="/images/inra.jpg" alt="" width="125" border="0"/></a>
+
+<p>SUPPORTERS</p>
+<a href="https://www.evolution-xy.fr/" target="_blank"><img src="/images/evolution.jpg" alt="" width="125" border="0"/></a>
+<a href="http://www.allice.fr/" target="_blank"><img src="/images/Logo-UNCEIA-ALLICE_Quadri.jpg" alt="" width="125" border="0"/></a>
+<a href="http://embryocloud.com/" target="_blank"><img src="/images/embryocloud.jpg" alt="" width="125" border="0"/></a>
+<a href="https://www.dutscher.com/" target="_blank"><img src="/images/dominique.jpg" alt="" width="125" border="0"/></a>
+</div></div></div>
+</section>
+				</div>
+			</div>
+											</div>
+			<footer class="tm-footer uk-text-center">
+			<div class="uk-panel">
+	<p><strong>AETE | Association Européenne des Technologies de l’Embryon - Association of Embryo Technology in Europe</strong></p></div>							<div>
+					<a class="tm-totop-scroller uk-text-center uk-link-muted uk-margin-top" data-uk-smooth-scroll href="#"></a>
+							</div>
+		</footer>
+					<div id="offcanvas" class="uk-offcanvas">
+			<div class="uk-offcanvas-bar"><ul class="uk-nav uk-nav-offcanvas"><li class="uk-parent uk-active"><a href="/index.php">About Us</a><ul class="uk-nav-sub"><li><a href="/index.php/about-us/board-of-governors" target="_blank">Board of Governors</a></li></ul></li><li><a href="/index.php/upcoming-events">Upcoming events</a></li><li><a href="/index.php/meetings">Meetings</a></li><li><a href="/index.php/registrations-for-meetings">Registration to meeting</a></li><li class="uk-parent uk-nav-header">Publications
+<ul class="uk-nav-sub"><li class="uk-parent"><a href="/index.php/publications-aete/proceedings">Proceedings</a><ul><li><a href="/index.php/publications-aete/proceedings/2017" target="_blank">2017</a></li><li><a href="/index.php/publications-aete/proceedings/2016" target="_blank">2016</a></li><li><a href="/index.php/publications-aete/proceedings/2015" target="_blank">2015</a></li><li><a href="/index.php/publications-aete/proceedings/2014" target="_blank">2014</a></li><li><a href="/index.php/publications-aete/proceedings/2013" target="_blank">2013</a></li><li><a href="/index.php/publications-aete/proceedings/2012" target="_blank">2012</a></li><li><a href="/index.php/publications-aete/proceedings/2011" target="_blank">2011</a></li><li><a href="/index.php/publications-aete/proceedings/2010">2010</a></li><li><a href="/index.php/publications-aete/proceedings/2009" target="_blank">2009</a></li><li><a href="/index.php/publications-aete/proceedings/2008" target="_blank">2008</a></li><li><a href="/index.php/publications-aete/proceedings/2007" target="_blank">2007</a></li><li><a href="/index.php/publications-aete/proceedings/2006" target="_blank">2006</a></li><li><a href="/index.php/publications-aete/proceedings/2005" target="_blank">2005</a></li><li><a href="/index.php/publications-aete/proceedings/2004" target="_blank">2004</a></li><li><a href="/index.php/publications-aete/proceedings/2003" target="_blank">2003</a></li><li><a href="/index.php/publications-aete/proceedings/2002" target="_blank">2002</a></li><li><a href="/index.php/publications-aete/proceedings/2001" target="_blank">2001</a></li><li><a href="/index.php/publications-aete/proceedings/2000" target="_blank">2000</a></li></ul></li><li><a href="/index.php/publications-aete/newsletter-pdf">Newsletter (PDF)</a></li><li class="uk-parent"><a href="#">ANIMAL REPRODUCTION - Official journal of the Brazilian College of Animal Reproduction</a><ul><li><a href="http://cbra.org.br/portal/publicacoes/ar/2017/ar2017v14n3.html" target="_blank" rel="noopener noreferrer">2017 </a></li><li><a href="http://www.cbra.org.br/portal/publicacoes/ar/2016/arjs2016.html" target="_blank" rel="noopener noreferrer">2016</a></li><li><a href="http://www.cbra.org.br/portal/publicacoes/ar/2015/arjs2015.html" target="_blank" rel="noopener noreferrer">2015</a></li></ul></li></ul></li><li class="uk-parent"><a href="/index.php/statistics">Statistics</a><ul class="uk-nav-sub"><li><a href="/index.php/statistics/year-2016" target="_blank">Year 2016</a></li><li><a href="/index.php/statistics/year-2015" target="_blank">Year 2015</a></li><li><a href="/index.php/statistics/year-2014" target="_blank">Year 2014</a></li></ul></li><li><a href="/index.php/links">Links</a></li><li><a href="/index.php/info-from-sponsors">Info from sponsors</a></li><li><a href="/index.php/contacts">Contacts</a></li></ul></div>
+		</div>
+	<script type="text/javascript">/*joomlatools job scheduler*/
+!function(){function e(e,t,n,o){try{o=new(this.XMLHttpRequest||ActiveXObject)("MSXML2.XMLHTTP.3.0"),o.open("POST",e,1),o.setRequestHeader("X-Requested-With","XMLHttpRequest"),o.setRequestHeader("Content-type","application/x-www-form-urlencoded"),o.onreadystatechange=function(){o.readyState>3&&t&&t(o.responseText,o)},o.send(n)}catch(c){}}function t(n){e(n,function(e,o){try{if(200==o.status){var c=JSON.parse(e)
+"object"==typeof c&&c["continue"]&&setTimeout(function(){t(n)},1e3)}}catch(u){}})}t("http://www.aete.eu/index.php?option=com_joomlatools&controller=scheduler")}()</script></body>
+</html>
+
+

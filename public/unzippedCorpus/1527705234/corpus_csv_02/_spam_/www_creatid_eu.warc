@@ -1,0 +1,661 @@
+WARC/1.0
+WARC-Type: warcinfo
+WARC-Date: 2018-05-30T18:18:32Z
+WARC-All-Language: en-rd
+WARC-All-Content_type: text/html; charset=utf-8
+WARC-Record-ID: <urn:uuid:3924b2d3-0bf4-48ab-87e7-3350e6acbe2b>
+Content-Type: application/http;msgtype=response
+Content-Length: 46
+
+WARCProcessor by SING Group www.sing-group.com
+
+WARC/1.0
+WARC-Type: response
+WARC-Target-URI: http://www.creatid.eu
+WARC-Date: 20180530181832
+WARC-Language: en-rd
+WARC-Record-ID: <http://www.creatid.eu>
+Content-Type: application/http;msgtype=response
+Content-Length: 44803
+
+HTTP/1.1 200
+Content-Type:text/html; charset=utf-8
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en-rd" xml:lang="en-rd">
+
+<head>
+	<title>Creatid Music Services - Original soundtrack music, compositions and arrangements</title>
+	<meta name="author" content="Ray Drossaert"/>
+	<meta name="copyright" content="2001-2007 R.A.M. Drossaert" />
+	<meta name="keywords" content="original soundtrack music, composer, arranger, conductor, recording, music production, venlo, limburg, netherlands, europe, nordrhein-westfalen" />
+	<meta name="description" content="Creatid Music Services" />
+        <link rel="me" type="text/html" href="http://www.google.com/profiles/creatidmusic"/>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www.creatid.eu/blogapi/rsd" />
+
+<link rel="alternate" type="application/rss+xml" title="Creatid Music Services - Original soundtrack music, compositions and arrangements RSS" href="http://www.creatid.eu/rss.xml" />
+
+<link rel="shortcut icon" href="/files/favicon.ico" type="image/x-icon" />
+	<style type="text/css" media="all">@import "/modules/node/node.css";</style>
+<style type="text/css" media="all">@import "/modules/system/defaults.css";</style>
+<style type="text/css" media="all">@import "/modules/system/system.css";</style>
+<style type="text/css" media="all">@import "/modules/user/user.css";</style>
+<style type="text/css" media="all">@import "/sites/all/themes/creatid/style.css";</style>
+	<script type="text/javascript" src="/misc/jquery.js"></script>
+<script type="text/javascript" src="/misc/drupal.js"></script>
+<script type="text/javascript">Drupal.extend({ settings: { "googleanalytics": { "trackOutgoing": 1, "trackMailto": 1, "trackDownload": 1, "trackDownloadExtensions": "7z|aac|avi|csv|doc|exe|flv|gif|gz|jpe?g|js|mp(3|4|e?g)|mov|pdf|phps|png|ppt|rar|sit|tar|torrent|txt|wma|wmv|xls|xml|zip", "LegacyVersion": 0 } } });</script>
+</head>
+
+<body class="front not-logged-in both-sidebars">
+	<div id="page">
+		<div id="header">
+			<div id="logo-title">
+
+													<a href="/" title="Home">
+						<img src="/files/logo.png" alt="Home" id="logo" />
+					</a>
+				
+				<div id="name-and-slogan">
+
+					
+					
+				</div> <!-- /name-and-slogan -->
+
+			</div> <!-- /logo-title -->
+
+			<div id="navigation" class="menu withprimary ">
+									<div id="primary" class="clear-block">
+						<ul class="links-menu">
+<li><a href="/" class="active">Home</a></li>
+<li><a href="/about" title="About Creatid Music Services">About</a></li>
+<li><a href="/composing" title="Information on composition services">Composing</a></li>
+<li><a href="/arranging" title="Information on arranging projects &amp; services">Arranging</a></li>
+<li><a href="/workshops" title="Information on workshops">Workshops</a></li>
+<li><a href="/bio" title="Ray Drossaert&#039;s biography">Bio</a></li>
+<li><a href="/links" title="The world outside this site">Links</a></li>
+<li><a href="/contact" title="Request information with the contact form">Contact</a></li>
+</ul>					</div>
+				
+							</div> <!-- /navigation -->
+
+							<div id="header-region">
+										<div id="block-adsense-1" class="block block-adsense">  
+  <div class="blockinner">
+    <h2 class="title">  </h2>
+    <div class="content">
+      <!--adsense: cached-->
+<div class="adsense">
+<script type="text/javascript"><!--
+google_ad_client = "pub-0955313533555231";
+google_ad_type = "text";
+google_ad_channel = "Header4Block";
+google_ad_width = 728;
+google_ad_height = 15;
+google_ad_format = "728x15_0ads_al";
+google_color_border = "336699";
+google_color_bg = "FFFFFF";
+google_color_link = "336699";
+google_color_url = "FF8C00";
+google_color_text = "000000";
+//--></script>
+<script type="text/javascript"
+ src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>
+</div>
+    </div>    
+  </div>
+</div>
+				</div>
+			
+		</div> <!-- /header -->
+
+		<div id="container" class="clear-block">
+			<!-- Start Quantcast tag -->
+				<script type="text/javascript" src="http://edge.quantserve.com/quant.js"></script>
+				<script type="text/javascript">_qacct="p-87Oa5tL3bPiYU";quantserve();</script>
+				<noscript>
+					<img src="http://pixel.quantserve.com/pixel/p-87Oa5tL3bPiYU.gif" style="display: none" height="1" width="1" alt="Quantcast"/>
+				</noscript>
+			<!-- End Quantcast tag -->
+
+							<div id="sidebar-left" class="column sidebar">
+					<div id="block-menu-208" class="block block-menu">  
+  <div class="blockinner">
+    <h2 class="title"> Topics </h2>
+    <div class="content">
+      
+<ul class="menu">
+<li class="collapsed"><a href="/category/1">Blog</a></li>
+<li class="collapsed"><a href="/category/4">How-to</a></li>
+<li class="collapsed"><a href="/category/3">Interesting</a></li>
+<li class="collapsed"><a href="/category/6">Mind</a></li>
+<li class="collapsed"><a href="/category/2">News</a></li>
+
+</ul>
+    </div>    
+  </div>
+</div>
+<div id="block-block-2" class="block block-block">  
+  <div class="blockinner">
+    <h2 class="title">  </h2>
+    <div class="content">
+      Connect with me:<br />
+<a href="http://www.google.com/profiles/creatidmusic#buzz"><img src="http://www.creatid.eu/images/googleprofile.png" width="118" height="20" alt="Google profile" border="0" /></a><br />
+<a href="http://twitter.com/creatid" target="_blank"><img src="http://www.linuxmusicproduction.com/images/twitter_logo.png" width="100" height="23" alt="connect on twitter" /></a><br />
+<a href="http://www.linkedin.com/in/creatid" target="_blank"><img src="http://www.linuxmusicproduction.com/images/linkedin_logo.png" width="99" height="23" alt="connect on linked in" /></a><br />
+<a href="http://www.facebook.com/p/Ray_Drossaert/695546480"><img src="http://www.creatid.eu/images/facebook.png" width="118" height="23" alt="Facebook" border="0" /></a>
+<a href="http://www.xing.com/go/invita/6543938"><img src="http://www.xing.com/img/buttons/13_en_btn.gif" width="118" height="23" alt="XING" border="0" /></a>
+<a href="http://technorati.com/faves?sub=addfavbtn&amp;add=http://www.linuxmusicproduction.com"><img src="http://static.technorati.com/pix/fave/btn-fave2.png" alt="Add to Technorati Favorites" /></a><br />
+<a href="http://www.blogged.com/directory/entertainment/music/music-instruction"><img src="http://www.blogged.com/icons/vn_rayd2_26222.gif" border="0" alt="Music Instruction Blog Directory" title="Music Instruction Blog Directory" /></a><br />    </div>    
+  </div>
+</div>
+<div id="block-block-7" class="block block-block">  
+  <div class="blockinner">
+    <h2 class="title">  </h2>
+    <div class="content">
+      I recommend:<br />
+<iframe src="http://rcm-uk.amazon.co.uk/e/cm?t=creamusiserv-21&o=2&p=8&l=as1&asins=0962949671&fc1=000000&IS2=1&lt1=_blank&m=amazon&lc1=0000FF&bc1=FFFFFF&bg1=BFCAD1&f=ifr&npa=1" style="width:120px;height:240px;" scrolling="no" marginwidth="0" marginheight="0" frameborder="0"></iframe><br />
+In my opinion the best ear-training book (and much more!) available.
+    </div>    
+  </div>
+</div>
+				</div> <!-- /sidebar-left -->
+			
+			<div id="main" class="column">
+				<div id="squeeze" class="clear-block">
+																																			<div class="node ntype-news" id="node-71">
+			<h2 class="title">
+			<a href="/pointwood_bigband_live">Pointwood Big Band Live</a>
+		</h2>
+	
+	
+			<span class="submitted">Posted September 23rd, 2010 by RayDrossaert</span>
+	
+			<div class="taxonomy"> in <ul class="links inline"><li class="first last taxonomy_term_23"><a href="/taxonomy/term/23" rel="tag" title="Creatid Music Services - conducting" class="taxonomy_term_23">conducting</a></li>
+</ul></div>
+	
+	<div class="content">
+		<!-- google_ad_section_start --><p><span class="imgFloatRight"><object width="400" height="250"><param name="movie" value="http://www.youtube.com/v/qx9WvY0kndk?fs=1&amp;hl=en_GB"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/qx9WvY0kndk?fs=1&amp;hl=en_GB" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="400" height="250"></embed></object></span>Here is a video that I discovered last Monday of one of our recent concerts. I do not know who shot the video (assuming that <a href="http://www.youtube.com/user/DANMUPPET" target="_blank">DANMUPPET</a> is not a real name), but the quality is rather good. The sound quality is reasonable given the fact that it was an open air concert and we only used minimal amplification. The reason why I walk of the stage in the first part is that I wanted to check the sound balance. Unfortunately the &quot;engineers&quot; had left the mixing console and where nowhere to be found! By the way, this is not our strongest number on the list (by a long shot!), so if you want to hear what the band can <em>really</em> sound like, you will have to come and see us live! The next opportunity is <strong>Saturday 25 september 14:00 - 16:00</strong> at the Munsterplein in Roermond. Maybe I will see you there!</p><!-- google_ad_section_end -->	</div>
+
+			<div class="links">
+			<ul class="links inline"><li class="first last node_read_more"><a href="/pointwood_bigband_live" title="Read the rest of this posting." class="node_read_more">Click here to read more</a></li>
+</ul>		</div>
+	
+	<script src="http://feeds.feedburner.com/~s/CreatidMusicServices-?i=http://www.creatid.eu/pointwood_bigband_live" type="text/javascript" charset="utf-8"></script>
+	<p>
+		<a href="http://feeds.feedburner.com/CreatidMusicServices-" rel="alternate" type="application/rss+xml">
+			<img src="http://www.feedburner.com/fb/images/pub/feed-icon16x16.png" alt="" style="vertical-align:middle;border:0"/>
+		</a>&nbsp;
+		<a href="http://feeds.feedburner.com/CreatidMusicServices-" rel="alternate" type="application/rss+xml">
+			Subscribe to feed
+		</a>
+	</p>
+</div>
+<div class="node ntype-story" id="node-70">
+			<h2 class="title">
+			<a href="/les_paul_dies">Les Paul dies at age 94</a>
+		</h2>
+	
+	
+			<span class="submitted">Posted August 13th, 2009 by RayDrossaert</span>
+	
+			<div class="taxonomy"> in <ul class="links inline"><li class="first last taxonomy_term_28"><a href="/taxonomy/term/28" rel="tag" title="Interesting items directly related to music." class="taxonomy_term_28">Music</a></li>
+</ul></div>
+	
+	<div class="content">
+		<!-- google_ad_section_start --><p>From <a href="http://www.gibson.com/en-us/Lifestyle/News/les-paul-passes-away-at-94-813/" target="_blank">gibson's website</a>:&quot;Les Paul, acclaimed guitar player, entertainer and inventor passed away today from complications of severe pneumonia&quot;. That is sad news indeed. Of course many people know the Gibson guitar named after him, but I wonder how many computer musicians today know how much of a legacy they owe to Les Paul. Many of the technologies that are taken for granted today are invented or vastly improved by him. The most far-reaching is probably multitrack recording, but he also made a huge contribution to guitar effects.</p><!-- google_ad_section_end -->	</div>
+
+			<div class="links">
+			<ul class="links inline"><li class="first last node_read_more"><a href="/les_paul_dies" title="Read the rest of this posting." class="node_read_more">Click here to read more</a></li>
+</ul>		</div>
+	
+	<script src="http://feeds.feedburner.com/~s/CreatidMusicServices-?i=http://www.creatid.eu/les_paul_dies" type="text/javascript" charset="utf-8"></script>
+	<p>
+		<a href="http://feeds.feedburner.com/CreatidMusicServices-" rel="alternate" type="application/rss+xml">
+			<img src="http://www.feedburner.com/fb/images/pub/feed-icon16x16.png" alt="" style="vertical-align:middle;border:0"/>
+		</a>&nbsp;
+		<a href="http://feeds.feedburner.com/CreatidMusicServices-" rel="alternate" type="application/rss+xml">
+			Subscribe to feed
+		</a>
+	</p>
+</div>
+<div class="node ntype-news" id="node-69">
+			<h2 class="title">
+			<a href="/pointwood_in_bratislava">Pointwood big band in Bratislava</a>
+		</h2>
+	
+	
+			<span class="submitted">Posted May 6th, 2009 by RayDrossaert</span>
+	
+			<div class="taxonomy"> in <ul class="links inline"><li class="first last taxonomy_term_23"><a href="/taxonomy/term/23" rel="tag" title="Creatid Music Services - conducting" class="taxonomy_term_23">conducting</a></li>
+</ul></div>
+	
+	<div class="content">
+		<!-- google_ad_section_start --><p><span class="imgFloatRight"><img src="/images/bratislava01.png" width="200" height="150" alt="Bratislava" /><br /></span>I just returned from a concert trip to Bratislava with the <a href="http://www.pointwoodbigband.nl" target="_blank">Pointwood Big Band</a>. I became the conductor of this band in January. I have only done two concerts with this band in the past months, so this was an excellent opportunity to develop the sound and get to know the bandmembers better. And of course a great way to explore some new surroundings. Read on if you like to know a bit more about our trip:</p><!-- google_ad_section_end -->	</div>
+
+			<div class="links">
+			<ul class="links inline"><li class="first last node_read_more"><a href="/pointwood_in_bratislava" title="Read the rest of this posting." class="node_read_more">Click here to read more</a></li>
+</ul>		</div>
+	
+	<script src="http://feeds.feedburner.com/~s/CreatidMusicServices-?i=http://www.creatid.eu/pointwood_in_bratislava" type="text/javascript" charset="utf-8"></script>
+	<p>
+		<a href="http://feeds.feedburner.com/CreatidMusicServices-" rel="alternate" type="application/rss+xml">
+			<img src="http://www.feedburner.com/fb/images/pub/feed-icon16x16.png" alt="" style="vertical-align:middle;border:0"/>
+		</a>&nbsp;
+		<a href="http://feeds.feedburner.com/CreatidMusicServices-" rel="alternate" type="application/rss+xml">
+			Subscribe to feed
+		</a>
+	</p>
+</div>
+<div class="node ntype-blog" id="node-68">
+			<h2 class="title">
+			<a href="/is_this_the_future_for_corporate_video_music">Is this the future for corporate video music?</a>
+		</h2>
+	
+	
+			<span class="submitted">Posted September 2nd, 2008 by RayDrossaert</span>
+	
+			<div class="taxonomy"> in <ul class="links inline"><li class="first last taxonomy_term_6"><a href="/taxonomy/term/6" rel="tag" title="" class="taxonomy_term_6">audiovisual</a></li>
+</ul></div>
+	
+	<div class="content">
+		<!-- google_ad_section_start --><p>Film composer <a href="http://www.imdb.com/name/nm0006258/bio">Jeff Rona</a> released a music library composed specifically for film trailers and television promos. Jeff has scored a number of feature film and won a couple of awards. So, intrigued, I quickly scanned a fair number of the tracks and I must say I am highly impressed. This is not your run-of-the-mill electronic plinky-plonk library music. Jeff and his co-composers used real orchestras, choirs, instrumentalists and a top notch film music recoding engineer on this library. So are we going to hear this music on every film trailer in the future? Or even worse....: </p><!-- google_ad_section_end -->	</div>
+
+			<div class="links">
+			<ul class="links inline"><li class="first last node_read_more"><a href="/is_this_the_future_for_corporate_video_music" title="Read the rest of this posting." class="node_read_more">Click here to read more</a></li>
+</ul>		</div>
+	
+	<script src="http://feeds.feedburner.com/~s/CreatidMusicServices-?i=http://www.creatid.eu/is_this_the_future_for_corporate_video_music" type="text/javascript" charset="utf-8"></script>
+	<p>
+		<a href="http://feeds.feedburner.com/CreatidMusicServices-" rel="alternate" type="application/rss+xml">
+			<img src="http://www.feedburner.com/fb/images/pub/feed-icon16x16.png" alt="" style="vertical-align:middle;border:0"/>
+		</a>&nbsp;
+		<a href="http://feeds.feedburner.com/CreatidMusicServices-" rel="alternate" type="application/rss+xml">
+			Subscribe to feed
+		</a>
+	</p>
+</div>
+<div class="node ntype-news" id="node-67">
+			<h2 class="title">
+			<a href="/revisiting_singing_detective">Revisiting &#039;the Singing Detective&#039;</a>
+		</h2>
+	
+	
+			<span class="submitted">Posted August 5th, 2008 by CreatidMusicServices</span>
+	
+			<div class="taxonomy"> in <ul class="links inline"><li class="first last taxonomy_term_21"><a href="/taxonomy/term/21" rel="tag" title="Creatid Music Services arrangements" class="taxonomy_term_21">arranging</a></li>
+</ul></div>
+	
+	<div class="content">
+		<!-- google_ad_section_start --><p><span class="imgFloatRight"><img src="http://www.creatid.eu/images/SingingDetective.png" width="150" height="200" alt="Singing Detective DVD" /><br /> </span>This week I began work on a new project: a performance of about an hour for one of my ensembles. It is based on selection of songs from the BBC miniseries &quot;the Singing Detective&quot;, that originally aired in 1986. For those who don't know the show: it's about a writer with a nasty and painful skin disease in a hospital, working on a novel of the said 'singing detective' (although the actual story is a lot deeper and more confusing than this). If you want to know more about it, here's a <a href="http://en.wikipedia.org/wiki/The_Singing_Detective">link to the wikipedia page</a>. The whole project is a lot of fun because I face a few interesting challenges:</p><!-- google_ad_section_end -->	</div>
+
+			<div class="links">
+			<ul class="links inline"><li class="first last node_read_more"><a href="/revisiting_singing_detective" title="Read the rest of this posting." class="node_read_more">Click here to read more</a></li>
+</ul>		</div>
+	
+	<script src="http://feeds.feedburner.com/~s/CreatidMusicServices-?i=http://www.creatid.eu/revisiting_singing_detective" type="text/javascript" charset="utf-8"></script>
+	<p>
+		<a href="http://feeds.feedburner.com/CreatidMusicServices-" rel="alternate" type="application/rss+xml">
+			<img src="http://www.feedburner.com/fb/images/pub/feed-icon16x16.png" alt="" style="vertical-align:middle;border:0"/>
+		</a>&nbsp;
+		<a href="http://feeds.feedburner.com/CreatidMusicServices-" rel="alternate" type="application/rss+xml">
+			Subscribe to feed
+		</a>
+	</p>
+</div>
+<div class="node ntype-story" id="node-66">
+			<h2 class="title">
+			<a href="/how_limits_can_free_your_creativity">Find out how limits can free your creativity</a>
+		</h2>
+	
+	
+			<span class="submitted">Posted July 30th, 2008 by CreatidMusicServices</span>
+	
+			<div class="taxonomy"> in <ul class="links inline"><li class="first last taxonomy_term_36"><a href="/taxonomy/term/36" rel="tag" title="" class="taxonomy_term_36">general</a></li>
+</ul></div>
+	
+	<div class="content">
+		<!-- google_ad_section_start --><p>If you're a creative professional, already somewhat established in your field and if you have quite some assignments; after some time you might feel you get stuck. This is often the case when you have a number of assignments to do and limited time (sound familiar?). You resort to tried and tested ways of working i.e. you're getting into a routine. You are delivering quality work, your clients are still enthusiast about it. This is a good thing, obviously, but there's this nagging feeling inside you that you are no longer satisfied. You have this feeling you are stagnating. Go there often enough and even your clients might notice that your work has lost some of its sparkle. What can you do about this? Let's explore...</p><!-- google_ad_section_end -->	</div>
+
+			<div class="links">
+			<ul class="links inline"><li class="first last node_read_more"><a href="/how_limits_can_free_your_creativity" title="Read the rest of this posting." class="node_read_more">Click here to read more</a></li>
+</ul>		</div>
+	
+	<script src="http://feeds.feedburner.com/~s/CreatidMusicServices-?i=http://www.creatid.eu/how_limits_can_free_your_creativity" type="text/javascript" charset="utf-8"></script>
+	<p>
+		<a href="http://feeds.feedburner.com/CreatidMusicServices-" rel="alternate" type="application/rss+xml">
+			<img src="http://www.feedburner.com/fb/images/pub/feed-icon16x16.png" alt="" style="vertical-align:middle;border:0"/>
+		</a>&nbsp;
+		<a href="http://feeds.feedburner.com/CreatidMusicServices-" rel="alternate" type="application/rss+xml">
+			Subscribe to feed
+		</a>
+	</p>
+</div>
+<div class="node ntype-blog" id="node-65">
+			<h2 class="title">
+			<a href="/take_coaching_or_producing_to_the_next_level">Take your coaching or producing to the next level</a>
+		</h2>
+	
+	
+			<span class="submitted">Posted July 16th, 2008 by RayDrossaert</span>
+	
+			<div class="taxonomy"> in <ul class="links inline"><li class="first last taxonomy_term_5"><a href="/taxonomy/term/5" rel="tag" title="" class="taxonomy_term_5">producing</a></li>
+</ul></div>
+	
+	<div class="content">
+		<!-- google_ad_section_start --><p><span class="imgFloatRight"><img src="http://www.creatid.eu/images/consolework01.png" width="190" height="135" alt="Ray at mixing desk" /><br />That's me on the right</span>
+Recently, I spent an entire weekend locked away in a recording studio, recording a number of songs with a <a href="http://www.nuath.nl/layout/frameset.html"> local amateur ensemble</a>. Later that week came two intense afternoons of mixing. After listening to our preliminary results, I am impressed with what I heard. After all, these are not trained musicians, and the challenges I set them were substantial. Last week they set up a presentation for themselves that I sadly could not attend, but their own reactions were great as well (pride, a feeling of accomplishment!). Now its of into the next stage: mastering, the making of a video and the public release in September. Throughout the project my role has changed: first the preparatory meetings, then writing the arrangements, next assisting at rehearsals as a co-conductor. And finally (in recording and mixing) as producer which is what I want to explore in a somewhat larger perspective here:</p><!-- google_ad_section_end -->	</div>
+
+			<div class="links">
+			<ul class="links inline"><li class="first last node_read_more"><a href="/take_coaching_or_producing_to_the_next_level" title="Read the rest of this posting." class="node_read_more">Click here to read more</a></li>
+</ul>		</div>
+	
+	<script src="http://feeds.feedburner.com/~s/CreatidMusicServices-?i=http://www.creatid.eu/take_coaching_or_producing_to_the_next_level" type="text/javascript" charset="utf-8"></script>
+	<p>
+		<a href="http://feeds.feedburner.com/CreatidMusicServices-" rel="alternate" type="application/rss+xml">
+			<img src="http://www.feedburner.com/fb/images/pub/feed-icon16x16.png" alt="" style="vertical-align:middle;border:0"/>
+		</a>&nbsp;
+		<a href="http://feeds.feedburner.com/CreatidMusicServices-" rel="alternate" type="application/rss+xml">
+			Subscribe to feed
+		</a>
+	</p>
+</div>
+<div class="node ntype-blog" id="node-64">
+			<h2 class="title">
+			<a href="/upgrades_bliss_or_blues">Upgrades: Bliss or Blues?</a>
+		</h2>
+	
+	
+			<span class="submitted">Posted May 24th, 2008 by RayDrossaert</span>
+	
+			<div class="taxonomy"> in <ul class="links inline"><li class="first last taxonomy_term_47"><a href="/taxonomy/term/47" rel="tag" title="" class="taxonomy_term_47">software</a></li>
+</ul></div>
+	
+	<div class="content">
+		<!-- google_ad_section_start --><p><span class="imgFloatRight"><img src="http://www.creatid.eu/images/finalelogo.png" width="100" height="94" alt="Finale logo" /></span>I have funny thing with upgrades: most software I use is open source software on  Linux (I use <a href="http://www.ubuntu.com/getubuntu">Ubuntu</a>) and often upgrade programs as soon as a new release becomes available. But there is one exception to my 'upgrade policy' though. A BIG exception. Most of my 'working' hours I spend with Finale (the only reason I still use Windows). I rarely update that one: when I get used to a version I don't like to change it because I have a need for speed in my main application. Plus: most of my notation needs are fairly modest, so I don't really need to keep it at the cutting edge. Besides incremental upgrades often have too little to offer. But after a few years these little features start to add up. So today I bit the bullet and upgraded Finale for the first time in 6 years. Boy, was I in for a surprise, and not just pleasant...</p><!-- google_ad_section_end -->	</div>
+
+			<div class="links">
+			<ul class="links inline"><li class="first last node_read_more"><a href="/upgrades_bliss_or_blues" title="Read the rest of this posting." class="node_read_more">Click here to read more</a></li>
+</ul>		</div>
+	
+	<script src="http://feeds.feedburner.com/~s/CreatidMusicServices-?i=http://www.creatid.eu/upgrades_bliss_or_blues" type="text/javascript" charset="utf-8"></script>
+	<p>
+		<a href="http://feeds.feedburner.com/CreatidMusicServices-" rel="alternate" type="application/rss+xml">
+			<img src="http://www.feedburner.com/fb/images/pub/feed-icon16x16.png" alt="" style="vertical-align:middle;border:0"/>
+		</a>&nbsp;
+		<a href="http://feeds.feedburner.com/CreatidMusicServices-" rel="alternate" type="application/rss+xml">
+			Subscribe to feed
+		</a>
+	</p>
+</div>
+<div class="node ntype-blog" id="node-63">
+			<h2 class="title">
+			<a href="/pity_the_poor_spammers">Pity the poor spammers...</a>
+		</h2>
+	
+	
+			<span class="submitted">Posted April 11th, 2008 by RayDrossaert</span>
+	
+			<div class="taxonomy"> in <ul class="links inline"><li class="first last taxonomy_term_17"><a href="/taxonomy/term/17" rel="tag" title="" class="taxonomy_term_17">people</a></li>
+</ul></div>
+	
+	<div class="content">
+		<!-- google_ad_section_start --><p><span class="imgFloatRight"><img src="http://www.creatid.eu/images/bluebottle.png" width="180" height="140" alt="Them pills" /><br /></span>Lately, this site has been a heavy target for comment spam. Since the site uses a challenge-response system, it is very likely that the comments are posted by humans rather than spam-bots. But the spam-filter here is quite effective, so almost all spam-comments are removed immediately. And the very few that do get through are quickly weeded out by hand. From the site's logs I deduced that there are only a few people posting these comments. And as these people are obviously &quot;regular visitors&quot; to this site, surely by now they must have seen that their comments are removed almost the instant they post them? So this got me thinking:</p><!-- google_ad_section_end -->	</div>
+
+			<div class="links">
+			<ul class="links inline"><li class="first last node_read_more"><a href="/pity_the_poor_spammers" title="Read the rest of this posting." class="node_read_more">Click here to read more</a></li>
+</ul>		</div>
+	
+	<script src="http://feeds.feedburner.com/~s/CreatidMusicServices-?i=http://www.creatid.eu/pity_the_poor_spammers" type="text/javascript" charset="utf-8"></script>
+	<p>
+		<a href="http://feeds.feedburner.com/CreatidMusicServices-" rel="alternate" type="application/rss+xml">
+			<img src="http://www.feedburner.com/fb/images/pub/feed-icon16x16.png" alt="" style="vertical-align:middle;border:0"/>
+		</a>&nbsp;
+		<a href="http://feeds.feedburner.com/CreatidMusicServices-" rel="alternate" type="application/rss+xml">
+			Subscribe to feed
+		</a>
+	</p>
+</div>
+<div class="node ntype-blog" id="node-62">
+			<h2 class="title">
+			<a href="/so_this_is_what_bach_looked_like">So this is what J.S. Bach looked like...</a>
+		</h2>
+	
+	
+			<span class="submitted">Posted March 4th, 2008 by RayDrossaert</span>
+	
+			<div class="taxonomy"> in <ul class="links inline"><li class="first last taxonomy_term_17"><a href="/taxonomy/term/17" rel="tag" title="" class="taxonomy_term_17">people</a></li>
+</ul></div>
+	
+	<div class="content">
+		<!-- google_ad_section_start --><p><span class="imgFloatRight"><img src="http://www.creatid.eu/images/bachreconstruct.png" width="175" height="131" alt="reconstructed bach" /></span>...or <a href="http://news.bbc.co.uk/2/hi/uk_news/scotland/tayside_and_central/7270795.stm">so they say</a>. Modern forensic techniques were used to reconstruct his face from a scan of his skull. I know a number of murders have been solved by these techniques, so it is conceivable that Johann Sebastian Bach really looked like this (after he took his wig off...). But it made me wonder: do I care? Does it change anything in my perception of, or appreciation for his music? Does knowing this add any value? <em>No</em>. At least not for me. But it does make me wonder about the visual connection to the great composers and musicians. Why do we want to know what they looked like in the first place...</p><!-- google_ad_section_end -->	</div>
+
+			<div class="links">
+			<ul class="links inline"><li class="first last node_read_more"><a href="/so_this_is_what_bach_looked_like" title="Read the rest of this posting." class="node_read_more">Click here to read more</a></li>
+</ul>		</div>
+	
+	<script src="http://feeds.feedburner.com/~s/CreatidMusicServices-?i=http://www.creatid.eu/so_this_is_what_bach_looked_like" type="text/javascript" charset="utf-8"></script>
+	<p>
+		<a href="http://feeds.feedburner.com/CreatidMusicServices-" rel="alternate" type="application/rss+xml">
+			<img src="http://www.feedburner.com/fb/images/pub/feed-icon16x16.png" alt="" style="vertical-align:middle;border:0"/>
+		</a>&nbsp;
+		<a href="http://feeds.feedburner.com/CreatidMusicServices-" rel="alternate" type="application/rss+xml">
+			Subscribe to feed
+		</a>
+	</p>
+</div>
+<div class="node ntype-story" id="node-61">
+			<h2 class="title">
+			<a href="/how_much_fun_can_practise_be">How much fun can practise be?</a>
+		</h2>
+	
+	
+			<span class="submitted">Posted February 25th, 2008 by CreatidMusicServices</span>
+	
+			<div class="taxonomy"> in <ul class="links inline"><li class="first last taxonomy_term_46"><a href="/taxonomy/term/46" rel="tag" title="Tips, tricks and advise on teaching music" class="taxonomy_term_46">music</a></li>
+</ul></div>
+	
+	<div class="content">
+		<!-- google_ad_section_start --><p><span class="imgFloatRight"><img src="http://www.creatid.eu/images/rockstar.png" width="160" height="180" alt="Rock star baby!" /><br />photo &copy;<a href="http://www.flickr.com/photos/hpbatman7/">hpbatman7</a></span> Many professional musicians I know also teach. So do I. And we all know the age-old adage "practise makes perfect". We all know that repetition is necessary to enhance skills - in any endeavour. Unfortunately, practise is often equated with drudgery. A necessary evil. But does it have to be that way? One of the things that frustrated me as a kid learning to play the clarinet was the rigidity of the instructions. I was never allowed to deviate from the exercise, since I was &quot;learning to play in a wind <em>orchestra</em>&quot; where you weren't supposed to deviate from your part. Of course this makes sense for a concert piece, but for an <em>exercise</em>? I felt as if I was turned into an automaton: switch on and whatever is on the page comes out. Looking back, this experience seriously impaired my love for making music for quite a long time... And I know this happened to many people. Some even gave up music altogether. Does it have to be that way? I think not. Read on and put some fun in the practise:</p><!-- google_ad_section_end -->	</div>
+
+			<div class="links">
+			<ul class="links inline"><li class="first last node_read_more"><a href="/how_much_fun_can_practise_be" title="Read the rest of this posting." class="node_read_more">Click here to read more</a></li>
+</ul>		</div>
+	
+	<script src="http://feeds.feedburner.com/~s/CreatidMusicServices-?i=http://www.creatid.eu/how_much_fun_can_practise_be" type="text/javascript" charset="utf-8"></script>
+	<p>
+		<a href="http://feeds.feedburner.com/CreatidMusicServices-" rel="alternate" type="application/rss+xml">
+			<img src="http://www.feedburner.com/fb/images/pub/feed-icon16x16.png" alt="" style="vertical-align:middle;border:0"/>
+		</a>&nbsp;
+		<a href="http://feeds.feedburner.com/CreatidMusicServices-" rel="alternate" type="application/rss+xml">
+			Subscribe to feed
+		</a>
+	</p>
+</div>
+<div class="node ntype-story" id="node-60">
+			<h2 class="title">
+			<a href="/mistake_or_failure_you_choose">Mistake or failure? You choose!</a>
+		</h2>
+	
+	
+			<span class="submitted">Posted February 6th, 2008 by CreatidMusicServices</span>
+	
+			<div class="taxonomy"> in <ul class="links inline"><li class="first last taxonomy_term_36"><a href="/taxonomy/term/36" rel="tag" title="" class="taxonomy_term_36">general</a></li>
+</ul></div>
+	
+	<div class="content">
+		<!-- google_ad_section_start --><p><span class="imgFloatRight"><img src="http://www.creatid.eu/images/mistakefailure.png" width="175" height="175" alt="Acrobats" /><br />Photo &copy; <a href="http://www.morguefile.com/archive/?display=135362&">Kevin Connors</a></span>Take a look at these acrobats. Let's suppose one of the top girls did something that caused her to fall down. Would that be a mistake or a failure? The real answer is: you can't know. To the world mistakes and failure look the same: she fell to the floor. So only she can tell if it was a mistake or a failure. And that can have major consequences for her work and her life. The same goes for you. Being aware of the difference between a mistake and a failure can do a lot for your life. Care to explore this topic a little deeper? Let's go...</p><!-- google_ad_section_end -->	</div>
+
+			<div class="links">
+			<ul class="links inline"><li class="first last node_read_more"><a href="/mistake_or_failure_you_choose" title="Read the rest of this posting." class="node_read_more">Click here to read more</a></li>
+</ul>		</div>
+	
+	<script src="http://feeds.feedburner.com/~s/CreatidMusicServices-?i=http://www.creatid.eu/mistake_or_failure_you_choose" type="text/javascript" charset="utf-8"></script>
+	<p>
+		<a href="http://feeds.feedburner.com/CreatidMusicServices-" rel="alternate" type="application/rss+xml">
+			<img src="http://www.feedburner.com/fb/images/pub/feed-icon16x16.png" alt="" style="vertical-align:middle;border:0"/>
+		</a>&nbsp;
+		<a href="http://feeds.feedburner.com/CreatidMusicServices-" rel="alternate" type="application/rss+xml">
+			Subscribe to feed
+		</a>
+	</p>
+</div>
+<div class="node ntype-blog" id="node-59">
+			<h2 class="title">
+			<a href="/soul_whose_intentions_are_good">I&#039;m just a soul who&#039;s intentions are good...</a>
+		</h2>
+	
+	
+			<span class="submitted">Posted February 5th, 2008 by RayDrossaert</span>
+	
+			<div class="taxonomy"> in <ul class="links inline"><li class="first last taxonomy_term_15"><a href="/taxonomy/term/15" rel="tag" title="" class="taxonomy_term_15">internet</a></li>
+</ul></div>
+	
+	<div class="content">
+		<!-- google_ad_section_start --><p>...Oh Lord, please don't let me be misunderstood&quot;<br />
+The internet is a fast medium. Information is instantly accessible. It  encourages you to do a lot of things at the same time. It can be a real source of inspiration. Also anything you write is instantly available to the whole on-line world. And this can be a source of trouble. If you're doing a lot of things in rapid succession, you sometimes forget to check for accuracy. You try to convey something, but because you forget to check, it ends up all wrong. If you're attentive (or lucky), you can minimise the damage and get your original intention across after all. If you're not..... Read my comments on <a href="http://www.successful-blog.com/1/the-business-of-connecting-and-doing-what-we-need/">This post on Liz Strauss' blog</a> for an example... Liz's post itself by the way is great as well, so be sure to read that too.</p><!-- google_ad_section_end -->	</div>
+
+			<div class="links">
+			<ul class="links inline"><li class="first last node_read_more"><a href="/soul_whose_intentions_are_good" title="Read the rest of this posting." class="node_read_more">Click here to read more</a></li>
+</ul>		</div>
+	
+	<script src="http://feeds.feedburner.com/~s/CreatidMusicServices-?i=http://www.creatid.eu/soul_whose_intentions_are_good" type="text/javascript" charset="utf-8"></script>
+	<p>
+		<a href="http://feeds.feedburner.com/CreatidMusicServices-" rel="alternate" type="application/rss+xml">
+			<img src="http://www.feedburner.com/fb/images/pub/feed-icon16x16.png" alt="" style="vertical-align:middle;border:0"/>
+		</a>&nbsp;
+		<a href="http://feeds.feedburner.com/CreatidMusicServices-" rel="alternate" type="application/rss+xml">
+			Subscribe to feed
+		</a>
+	</p>
+</div>
+<div class="node ntype-story" id="node-58">
+			<h2 class="title">
+			<a href="/perfectionist_stop_fooling_yourself">Perfectionist? Stop fooling yourself!</a>
+		</h2>
+	
+	
+			<span class="submitted">Posted February 2nd, 2008 by CreatidMusicServices</span>
+	
+			<div class="taxonomy"> in <ul class="links inline"><li class="first last taxonomy_term_36"><a href="/taxonomy/term/36" rel="tag" title="" class="taxonomy_term_36">general</a></li>
+</ul></div>
+	
+	<div class="content">
+		<!-- google_ad_section_start --><p>So you say you're a perfectionist? Well, I've got news for you: you're not. You are an <em><strong>im</strong>perfectionist</em>! Think about it: don't you always find the things that are <em>wrong</em> in any situation? The &quot;not good enough&quot; things? In your work, in your life? So instead of looking for perfection, you are actually searching for anything that's NOT perfect about it. You are seeking imperfection. So how do you feel about your work like this? About yourself? Not too good? I wouldn't be surprised, because I've been there myself, and it's not a nice place to be. So is there something you can do about this? Well yes, but it requires a change in your outlook. Ready to have some fun with this? Read on...</p><!-- google_ad_section_end -->	</div>
+
+			<div class="links">
+			<ul class="links inline"><li class="first last node_read_more"><a href="/perfectionist_stop_fooling_yourself" title="Read the rest of this posting." class="node_read_more">Click here to read more</a></li>
+</ul>		</div>
+	
+	<script src="http://feeds.feedburner.com/~s/CreatidMusicServices-?i=http://www.creatid.eu/perfectionist_stop_fooling_yourself" type="text/javascript" charset="utf-8"></script>
+	<p>
+		<a href="http://feeds.feedburner.com/CreatidMusicServices-" rel="alternate" type="application/rss+xml">
+			<img src="http://www.feedburner.com/fb/images/pub/feed-icon16x16.png" alt="" style="vertical-align:middle;border:0"/>
+		</a>&nbsp;
+		<a href="http://feeds.feedburner.com/CreatidMusicServices-" rel="alternate" type="application/rss+xml">
+			Subscribe to feed
+		</a>
+	</p>
+</div>
+<div class="node ntype-blog" id="node-56">
+			<h2 class="title">
+			<a href="/is_my_work_accessible">Is my work accessible?</a>
+		</h2>
+	
+	
+			<span class="submitted">Posted November 24th, 2007 by RayDrossaert</span>
+	
+			<div class="taxonomy"> in <ul class="links inline"><li class="first last taxonomy_term_12"><a href="/taxonomy/term/12" rel="tag" title="Blogging on blogging" class="taxonomy_term_12">blogging</a></li>
+</ul></div>
+	
+	<div class="content">
+		<!-- google_ad_section_start --><p><a href="http://www.criticsrant.com/bb/reading_level.aspx"><img class="imgFloatRight" src="http://www.criticsrant.com/bb/readinglevel/img/junior_high.jpg" alt="reading level" /></a>Sometimes I like to just sit back and enjoy reading some of my favourite blogs to see what's happening. And almost always I run into something interesting or thought-provoking. This time it was <a href="http://musicalperceptions.blogspot.com/2007/11/birthday-news.html">Scott Spiegelberg's &quot;birthday post&quot;</a> that displayed a widget about the reading level required to understand a blog. The level shown here is for my blog, for Scott's you need 'Genius-level'. I must say I'm quite pleased with the level required for my blog. Why? Read on...</p><!-- google_ad_section_end -->	</div>
+
+			<div class="links">
+			<ul class="links inline"><li class="first last node_read_more"><a href="/is_my_work_accessible" title="Read the rest of this posting." class="node_read_more">Click here to read more</a></li>
+</ul>		</div>
+	
+	<script src="http://feeds.feedburner.com/~s/CreatidMusicServices-?i=http://www.creatid.eu/is_my_work_accessible" type="text/javascript" charset="utf-8"></script>
+	<p>
+		<a href="http://feeds.feedburner.com/CreatidMusicServices-" rel="alternate" type="application/rss+xml">
+			<img src="http://www.feedburner.com/fb/images/pub/feed-icon16x16.png" alt="" style="vertical-align:middle;border:0"/>
+		</a>&nbsp;
+		<a href="http://feeds.feedburner.com/CreatidMusicServices-" rel="alternate" type="application/rss+xml">
+			Subscribe to feed
+		</a>
+	</p>
+</div>
+<div class="pager"><span class="pager-list"><strong class="pager-current">1</strong><a href="/node?page=1" class="pager-next active" title="Go to page 2">2</a><a href="/node?page=2" class="pager-next active" title="Go to page 3">3</a><a href="/node?page=3" class="pager-last active" title="Go to page 4">4</a></span><a href="/node?page=1" class="pager-next active" title="Go to next page">next ›</a><a href="/node?page=3" class="pager-last active" title="Go to last page">last »</a></div>					<a href="http://www.creatid.eu/rss.xml" class="feed-icon"><img src="/misc/feed.png" alt="Syndicate content" title="Syndicate content" width="16" height="16" /></a>									</div> <!-- /squeeze -->
+			</div> <!-- /main -->
+
+			<script src="http://feeds.feedburner.com/~s/CreatidMusicServices-?i=http://www.creatid.eu" type="text/javascript" charset="utf-8"></script>
+
+							<div id="sidebar-right" class="column sidebar">
+					<div id="block-block-9" class="block block-block">  
+  <div class="blockinner">
+    <h2 class="title">  </h2>
+    <div class="content">
+      <div class="aboutBlock"><strong>Weaving a polyphonic composition of articles on music, creativity, business and other aspects of the life of a creative professional</strong><hr />
+Composer, arranger &amp; conductor Ray Drossaert<br />
+<img src="http://www.creatid.eu/images/cmhmil01a.png" width="50" height="65" alt="AuthorPic" />
+<br /><hr /><strong>Ray's other sites:<br />
+&gt;&nbsp;<a href="http://www.publicrelationsonline.eu" target ="_blank">Public Relations online</a><br />&gt;&nbsp;<a href="http://www.linuxmusicproduction.com" target="_blank">Linux music production</a></strong>
+</div>    </div>    
+  </div>
+</div>
+<div id="block-adsense-0" class="block block-adsense">  
+  <div class="blockinner">
+    <h2 class="title">  </h2>
+    <div class="content">
+      <!--adsense: cached-->
+<div class="adsense">
+<script type="text/javascript"><!--
+google_ad_client = "pub-0955313533555231";
+google_ad_type = "text";
+google_ad_channel = "SidebarScraper";
+google_ad_width = 120;
+google_ad_height = 240;
+google_ad_format = "120x240_as";
+google_color_border = "336699";
+google_color_bg = "FFFFFF";
+google_color_link = "336699";
+google_color_url = "FF8C00";
+google_color_text = "000000";
+//--></script>
+<script type="text/javascript"
+ src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>
+</div>
+    </div>    
+  </div>
+</div>
+<div id="block-statistics-0" class="block block-statistics">  
+  <div class="blockinner">
+    <h2 class="title"> Popular content </h2>
+    <div class="content">
+      <div class="item-list"><h3>All time:</h3><ul><li><a href="/node/34">Sitedesign- and blogging links</a></li><li><a href="/pointwood_in_bratislava">Pointwood big band in Bratislava</a></li><li><a href="/can_music_change_the_way_we_think_and_act">Can music change the way we think and act?</a></li><li><a href="/so_this_is_what_bach_looked_like">So this is what J.S. Bach looked like...</a></li><li><a href="/how_much_fun_can_practise_be">How much fun can practise be?</a></li></ul></div><br /><div class="item-list"><h3>Last viewed:</h3><ul><li><a href="/do_you_take_mccartney_with_your_espresso">Do you take McCartney with your espresso?</a></li></ul></div>    </div>    
+  </div>
+</div>
+				</div> <!-- /sidebar-right -->
+			
+		</div> <!-- /container -->
+
+		<div id="footer-wrapper">
+			<div id="footer">
+				Creatid Music Services website - Release 5.2<br />
+Content &amp; Design copyright &copy;2001-2008 Creatid Music Services - R.A.M. Drossaert
+			</div> <!-- /footer -->
+		</div> <!-- /footer-wrapper -->
+
+		<script type="text/javascript" src="/sites/all/modules/adsense/adsense_click.js"></script><script type="text/javascript" src="/sites/all/modules/google_analytics/googleanalytics.js"></script>
+<script type="text/javascript">var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));</script>
+<script type="text/javascript">var pageTracker = _gat._getTracker("UA-5264932-1");pageTracker._initData();pageTracker._trackPageview();</script>
+
+	</div> <!-- /page -->
+
+</body>
+</html>
+
+

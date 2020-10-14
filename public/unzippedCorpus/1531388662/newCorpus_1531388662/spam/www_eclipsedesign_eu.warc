@@ -1,0 +1,163 @@
+WARC/1.0
+WARC-Type: warcinfo
+WARC-Date: 2018-05-30T17:52:31Z
+WARC-Record-ID: <urn:uuid:5ddf58a4-c700-4e81-aee3-89ff0a11cd91>
+WARC-All-Language: nl
+WARC-All-Content_type: text/html
+Content-Type: application/http;msgtype=response
+Content-Length: 46
+
+WARCProcessor by SING Group www.sing-group.com
+
+WARC/1.0
+WARC-Type: response
+WARC-Record-ID: <http://www.eclipsedesign.eu>
+WARC-Date: 20180530175231
+WARC-Target-URI: http://www.eclipsedesign.eu
+WARC-Language: nl
+Content-Type: application/http;msgtype=response
+Content-Length: 6195
+
+HTTP/1.1 200
+Content-Type:text/html
+
+
+<!DOCTYPE HTML>
+<html lang="nl">
+<head>
+<meta charset="utf-8">
+<meta name="language" content="nl">
+<meta name="description" content="Front-end developer & Web developer in Rotterdam, Het CV van professionele webontwikkelaar">
+<meta name="keywords" content="Front-end developer, Webdeveloper, Webontwikkelaar, CSS expert, CMS ontwikkelaar, CSS specialist, PSD naar HTML, HTML5, CSS3">
+<meta name="author" content="Kartlos Tchavelachvili">
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+<meta name="google-site-verification" content="8xirUMar5js08cMH2KNTDPSkbrtz9jo_yulk67bhzPM" />
+<meta property="og:image" content="http://www.eclipsedesign.eu/images/cv.jpg">
+<title>Front-end developer &amp; Web developer in Rotterdam | CV WEBONTWIKKELAAR</title>
+<link rel="stylesheet" href="/css/layout.css" media="screen">
+<link rel="stylesheet" href="/css/print.css" media="print">
+<link rel="shortcut icon" href="/favicon-aviable.ico?ver=1">
+<link rel="canonical" href="http://www.eclipsedesign.eu/">
+</head>
+
+<body>
+<section id="wrapper">
+ 
+ <aside>
+
+   <img id="I" src="images/profile.png" width="108" height="125" alt="Kartlos Tchavelachvili">
+
+  <header>
+   <h1>Kartlos Tchavelachvili <strong>Web Developer &amp; Creatief Strateeg</strong></h1>
+  </header>
+ 
+  <ul>
+   <li>
+   
+    <h2>PROFIEL</h2> <!--<em><a class="w" href="/cv-webontwikkelaar-rotterdam.pdf" title="Download Curriculum Vitae (PDF 670KB)">Het CV van een professionele webontwikkelaar</a></em>-->
+    <p>Creatieve, resultaatgerichte persoon met gevoel voor humor ツ Ik kan uw website gerelateerde problemen snel en effectief oplossen.</p>
+
+   </li>
+   <li>
+    
+    <h2>INTERESSES</h2>
+    <ul class="tags">
+     <li><a href="#">Gym</a></li>
+     <li><a href="#">House Music</a></li>
+     <li><a href="#">Poker</a></li>
+     <li><a href="#">Zonvakanties</a></li>
+     <li><a href="#">BBQ</a></li>
+     <li><a href="#">Tokyo</a></li>
+     <li><a href="#">New York</a></li>
+     <li><a href="#">Pizza</a></li>
+     <li><a href="#">Vrouwen</a></li>
+    </ul>
+    
+   </li>
+   <li>
+
+    <h2>VIND MIJ OOK OP</h2>
+    <a class="nw" href="http://www.linkedin.com/in/cccpgeorgia" target="_blank" title="Kartlos op LinkedIn"><img src="images/linkedin.png" width="48" height="48" alt="Kartlos op LinkedIn"></a>
+    <a class="nw" href="http://twitter.com/cccpgeorgia" target="_blank" title="Kartlos op Twitter"><img src="images/twitter.png" width="48" height="48" alt="Kartlos op Twitter"></a>
+    <a class="nw" href="https://plus.google.com/u/0/107416407411014770453/" target="_blank" title="Kartlos op Google+"><img src="images/google-plus.png" width="48" height="48" alt="Kartlos op Google+"></a>
+
+    <h3>of deel deze website met anderen.</h3>
+    <div class="fb-like" data-href="http://www.eclipsedesign.eu/" data-layout="button_count" data-action="like" data-show-faces="true" data-share="true" style="margin:10px 0;"></div>
+    <br>
+    <script type="IN/Share" data-url="http://www.eclipsedesign.eu/" data-counter="right"></script>
+
+   </li>
+ </ul>
+ 
+ </aside>
+
+ <article>
+  <ul id="content" class="cv">
+   <li id="a">
+
+    <h2>BESCHIKBAARHEID</h2>
+    <h3><img src="images/title-available.png" width="16" height="16" alt="Ik ben beschikbaar!"> Ik ben beschikbaar!</h3><br>    
+    <p>Sinds kort ben ik op zoek naar een nieuwe baan in omgeving van Rotterdam.</p>
+    <p>De reden is om mijn carri&egrave;re nieuwe impuls te geven en nieuwe uitdagingen aan te gaan.</p>
+
+   </li>
+
+   <li id="b">
+
+    <h2>CONTACT</h2>
+    <p>Ik sta open voor interessante <abbr class="s" title="Webdeveloper, Webdesigner, Front-end Developer, Interaction Designer, Online Marketeer, SEO / SEA specialist, Multimedia Vormgever, Team Manager ICT, Webapplicatie Developer, Business intelligence &hellip;">functies</abbr>, zakelijke adviezen of <a href="http://www.linkedin.com/in/cccpgeorgia" target="_blank">connecties</a>. Mocht u ge&iuml;nteresseerd zijn dan kunt u gerust contact opnemen met mij via <abbr class="s" title="info@eclipsedesign.eu">e-mail</abbr>.</p>
+
+   </li>
+
+   <li id="c">
+
+    <h2>Binnenkort nieuwe website!</h2>
+
+    <address>
+     LOCATIE: Rotterdam, Zuid-Holland, NL<br> 
+     E-MAIL: <a class="s" href="mailto:info(O)eclipsedesign(o)eu" title="Email Contact">info O eclipsedesign o eu</a><br>
+     Web: www.eclipsedesign.eu ( <small><abbr class="w" title="Voeg deze site aan uw favorieten">Ctrl + D</abbr></small> )
+    </address>
+
+   </li>
+  </ul>
+  <img id="skills" src="images/allround-webdeveloper-rotterdam.png" width="283" height="238" alt="Allround webdeveloper Rotterdam" title="Kartlos Tchavelachvili Allround webdeveloper in Rotterdam">
+ </article>
+
+ <nav>
+    <ul>
+   <li><a id="pos-1" class="e" href="/" title="HOME">HOME</a></li>
+              </ul> </nav>
+
+</section>
+<!-- Facebook plugin -->
+<div id="fb-root"></div>
+<script>
+ (function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.8";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));
+</script>
+<!--/ Facebook plugin -->
+<!-- Linkedin plugin -->
+<script src="//platform.linkedin.com/in.js" type="text/javascript">lang: en_US</script>
+<!--/ Linkedin plugin -->
+<script>
+ (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+ (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+ m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+ })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+ ga('create', 'UA-663123-3', 'eclipsedesign.eu');
+ ga('send', 'pageview');
+</script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.6.2/jquery.min.js"></script>
+<script>!window.jQuery && document.write('<script src="/js/jquery-1.6.2.min.js"><\/script>');</script>
+<script src="/js/jquery.tipsy.js"></script>
+<script src="/js/scripts.js"></script>
+</body>
+</html>
+

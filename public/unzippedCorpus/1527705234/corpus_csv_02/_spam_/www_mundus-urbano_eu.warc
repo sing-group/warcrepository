@@ -1,0 +1,89 @@
+WARC/1.0
+WARC-Type: warcinfo
+WARC-Date: 2018-05-30T18:18:32Z
+WARC-All-Language: en
+WARC-All-Content_type: text/html; charset=utf-8
+WARC-Record-ID: <urn:uuid:bf0044fd-75d2-4ba1-8c5d-f202c8b39357>
+Content-Type: application/http;msgtype=response
+Content-Length: 46
+
+WARCProcessor by SING Group www.sing-group.com
+
+WARC/1.0
+WARC-Type: response
+WARC-Target-URI: http://www.mundus-urbano.eu
+WARC-Date: 20180530181832
+WARC-Language: en
+WARC-Record-ID: <http://www.mundus-urbano.eu>
+Content-Type: application/http;msgtype=response
+Content-Length: 7661
+
+HTTP/1.1 200
+Content-Type:text/html; charset=utf-8
+
+
+<!doctype html>
+<!--[if lt IE 7 ]> <html lang="en" class="ie6"> <![endif]-->
+<!--[if IE 7 ]>    <html lang="en" class="ie7"> <![endif]-->
+<!--[if IE 8 ]>    <html lang="en" class="ie8"> <![endif]-->
+<!--[if IE 9 ]>    <html lang="en" class="ie9"> <![endif]-->
+<!--[if (gt IE 9)|!(IE)]><!-->
+<html lang="en"><!--<![endif]-->
+<head>
+	<meta charset="utf-8">
+	<!--
+	This website is powered by TYPO3 - inspiring people to share!
+	TYPO3 is a free open source Content Management Framework initially created by Kasper Skaarhoj and licensed under GNU/GPL.
+	TYPO3 is copyright 1998-2011 of Kasper Skaarhoj. Extensions are copyright of their respective owners.
+	Information and contribution at http://typo3.com/ and http://typo3.org/
+	-->
+	<base href="http://www.mundus-urbano.eu/">
+	<link rel="shortcut icon" href="http://mundus-urbano.eu/fileadmin/favicon.ico" type="image/x-icon; charset=binary">
+	<link rel="icon" href="http://mundus-urbano.eu/fileadmin/favicon.ico" type="image/x-icon; charset=binary">
+	<meta name="generator" content="TYPO3 4.5 CMS">
+	<link rel="stylesheet" type="text/css" href="typo3temp/stylesheet_fad97d0aa7.css?1330532321" media="all">
+	<link rel="stylesheet" type="text/css" href="fileadmin/templates/static/mundus-urbano.css?1330594740" media="all">
+	<script src="fileadmin/templates/static/script/modernizr.js?1330518859" type="text/javascript"></script>
+	<script src="typo3temp/javascript_a708894199.js?1330531873" type="text/javascript"></script>
+	<meta name="viewport" content="width=device-width,initial-scale=1" />
+	<meta http-equiv="imagetoolbar" content="no" />
+	<title>Mundus Urbano</title>
+</head>
+<body class="noscript">
+	<div id="container" class="l-wide">
+		<div id="header">
+			<a href="" id="logo"><img src="fileadmin/templates/static/img/mundus-urbano-logo.png" alt="" /></a>
+			<a href="" id="home" class="active">Mundus Urbano</a>
+			<div class="sitenavigation">
+				<ul class="sitenavigation-first"><li class="first"><a href="about/"  >About</a></li><li><a href="programme/"  >Programme</a></li><li><a href="consortium/"  >Consortium</a><ul class="sitenavigation-submenu"><li class="first"><a href="consortium/tud/"  >TU-Darmstadt</a></li><li><a href="consortium/universitepierremendesfrance/"  >UGA</a></li><li><a href="consortium/universitdeglistudidiroma/"  >Tor Vergata</a></li><li><a href="consortium/uic/"  >UIC</a></li></ul></li><li><a href="staff/"  >Staff</a><ul class="sitenavigation-submenu"><li class="first"><a href="staff/coordination/"  >Coordination</a></li><li><a href="staff/lecturers/"  >Lecturers</a></li></ul></li><li><a href="students/"  >Students</a></li><li><a href="testimonials/"  >Testimonials</a></li><li><a href="partners/"  >Partners</a></li></ul><ul class="sitenavigation-second"><li class="first"><a href="applications/"  >Applications</a><ul class="sitenavigation-submenu"><li class="first"><a href="applications/eligibility/"  >Eligibility</a></li><li><a href="applications/finance/"  >Finance</a></li><li><a href="applications/faq/"  >FAQ</a></li></ul></li><li><a href="contact/"  >Contact</a></li><li><a href="blog/"  >Blog</a></li></ul>
+				</div>
+			</div>
+			<div id="main"><div id="c657" class="csc-default" >
+				<div class="atmosphere">
+					<div class="atmosphere-images"><img src="uploads/tx_templavoila/Calvo_Blanca_Shanghai_01.jpg" width="1000" height="455" alt="" /><span data-image="uploads/tx_templavoila/Calvo_Blanca_Shanghai_02.jpg"></span><span data-image="uploads/tx_templavoila/Mehregan_Nazanin__A_normal_day_in_the_camp___Villa_Rosa__PAP__Haiti_Nazanin_Mehregan_2010-2012.JPG"></span><span data-image="uploads/tx_templavoila/Mehregan_Nazanin__An_urban_facade_in_Warsaw___Poland_Nazanin_Mehregan_2010-2012.JPG"></span><span data-image="uploads/tx_templavoila/Mehregan_Nazanin__Children_at_home___Karaj__Iran_Nazanin_Mehregan_2010-2012.jpg"></span><span data-image="uploads/tx_templavoila/Mehregan_Nazanin__Life_goes_on___down_town_Port_au_Prince__Haiti_Nazanin_Mehregan_2010-2012.jpg"></span><span data-image=""></span></div>
+					<div class="atmosphere-ribbon"></div>
+					<div class="atmosphere-clip">
+						<h1><p><i></i>Mundus Urbano is an advanced Master of Science programme jointly offered by four European Institutions</p></h1>
+						<a href="about/" class="atmosphere-more">More information</a>
+					</div>
+				</div>
+			</div><div id="c65" class="csc-default" ><div class="csc-textpic csc-textpic-right csc-textpic-above csc-textpic-equalheight"><div class="csc-textpic-imagewrap csc-textpic-single-image"><a href="http://eacea.ec.europa.eu/erasmus-plus_en" target="_blank" ><img src="typo3temp/pics/fb38989127.jpg" width="158" height="45" alt="" /></a></div></div><div class="csc-textpic-clear"><!-- --></div></div></div>
+			<div id="marginalia"><div id="c51" class="csc-default" >
+				<div class="news news-marginalia">
+					<h2 class="marginalia-heading">News</h2>
+					<div class="news-marginalia-item">
+						<h2></h2>
+						<ul><li><a href="news/#c1120" title="Opens internal link in current window" class="internal-link" ><b>ICUP receives AESOP Certificate of Quality</b></a></li><li><a href="news/#c1118" title="Opens internal link in current window" class="internal-link" ><b>Annual Consortium Meeting in Darmstadt</b></a></li><li><b><a href="news/#c1080" title="Opens internal link in current window" class="internal-link" >Mundus Urbano Scholarships</a></b></li></ul>
+					</div>
+				</div>
+			</div><div id="c812" class="csc-default" ><div class="csc-textpic csc-textpic-right csc-textpic-above csc-textpic-equalheight"><div class="csc-textpic-imagewrap"><div class="csc-textpic-imagecolumn" style="width:121px;"><ul><li class="csc-textpic-image csc-textpic-firstcol" style="width:121px;"><a href="consortium/uic/" title="Universitat Internacional de Catalunya (UIC)"><img src="typo3temp/pics/66cb84a558.jpg" width="121" height="56" alt="" /></a></li></ul></div><div class="csc-textpic-imagecolumn" style="width:146px;"><ul><li class="csc-textpic-image" style="width:121px;"><a href="consortium/universitdeglistudidiroma/" title="Università degli Studi di Roma "Tor Vergata""><img src="typo3temp/pics/2ba6a2acde.jpg" width="121" height="56" alt="" /></a></li></ul></div><div class="csc-textpic-imagecolumn" style="width:146px;"><ul><li class="csc-textpic-image" style="width:121px;"><a href="consortium/universitepierremendesfrance/" title="Université Grenoble Alpes"><img src="typo3temp/pics/948157849a.jpg" width="121" height="56" alt="" /></a></li></ul></div><div class="csc-textpic-imagecolumn" style="width:146px;"><ul><li class="csc-textpic-image csc-textpic-lastcol" style="width:121px;"><a href="consortium/tud/" title="Technische Universität Darmstadt"><img src="typo3temp/pics/b539e3fc18.jpg" width="121" height="56" alt="" /></a></li></ul></div></div></div><div class="csc-textpic-clear"><!-- --></div></div><div id="c1050" class="csc-default" ><div class="csc-textpic csc-textpic-right csc-textpic-above"><div class="csc-textpic-imagewrap csc-textpic-single-image"><img src="uploads/pics/Disclaimer_EC.jpg" width="460" height="30" alt="" /></div></div><div class="csc-textpic-clear"><!-- --></div></div></div>
+			<div id="footer">
+				<a href="https://twitter.com/mundus_urbano" target="_blank" id="twitter">twitter</a>
+				<a href="https://www.facebook.com/mundusurbano" target="_blank" id="facebook">Facebook</a>
+			</div>
+		</div>
+		<script src="fileadmin/templates/static/script/jquery-1.7.1.min.js?1330518854" type="text/javascript"></script>
+		<script src="fileadmin/templates/static/script/mundus-urbano.js?1330536233" type="text/javascript"></script>
+	</body>
+</html>
+

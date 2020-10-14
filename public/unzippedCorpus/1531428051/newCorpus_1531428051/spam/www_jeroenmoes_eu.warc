@@ -1,0 +1,75 @@
+WARC/1.0
+WARC-Type: warcinfo
+WARC-Date: 2018-05-30T17:52:30Z
+WARC-Record-ID: <urn:uuid:1f2db6e9-be55-44a7-87ae-f66b4abc53d0>
+WARC-All-Language: en
+WARC-All-Content_type: text/html, text/html;charset=ISO-8859-1
+Content-Type: application/http;msgtype=response
+Content-Length: 46
+
+WARCProcessor by SING Group www.sing-group.com
+
+WARC/1.0
+WARC-Type: response
+WARC-Record-ID: <http://www.jeroenmoes.eu>
+WARC-Date: 20180530175230
+WARC-Target-URI: http://www.jeroenmoes.eu
+WARC-Language: en
+Content-Type: application/http;msgtype=response
+Content-Length: 3541
+
+HTTP/1.1 200
+Content-Type:text/html;charset=ISO-8859-1
+
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2 Final//EN">
+<html>
+ <head>
+  <title>Index of /</title>
+ </head>
+ <body>
+<h1>Index of /</h1>
+<pre>      <a href="?C=N;O=D">Name</a>                    <a href="?C=M;O=A">Last modified</a>      <a href="?C=S;O=A">Size</a>  <a href="?C=D;O=A">Description</a><hr>      <a href="F2020/">F2020/</a>                  26-Nov-2012 09:21    -   
+      <a href="SpryAssets/">SpryAssets/</a>             01-Apr-2008 02:36    -   
+      <a href="Testing/">Testing/</a>                30-Nov-2012 07:08    -   
+      <a href="UCM/">UCM/</a>                    30-Sep-2013 05:27    -   
+      <a href="agenda/">agenda/</a>                 08-Feb-2018 13:53    -   
+      <a href="blog/">blog/</a>                   22-Oct-2016 04:46    -   
+      <a href="captcha/">captcha/</a>                02-May-2012 16:56    -   
+      <a href="cgi-bin/">cgi-bin/</a>                29-Sep-2010 19:39    -   
+      <a href="clickheat/">clickheat/</a>              02-May-2012 16:56    -   
+      <a href="contact/">contact/</a>                02-Jun-2010 05:05    -   
+      <a href="css/">css/</a>                    24-Aug-2013 16:16    -   
+      <a href="cv/">cv/</a>                     02-Jun-2010 05:04    -   
+      <a href="favicon.gif">favicon.gif</a>             26-Oct-2016 00:53    0   
+      <a href="favicon.ico">favicon.ico</a>             26-Oct-2016 00:53    0   
+      <a href="flickr/">flickr/</a>                 09-Nov-2011 06:23    -   
+      <a href="gallery/">gallery/</a>                02-May-2012 16:56    -   
+      <a href="images/">images/</a>                 24-Aug-2013 16:17    -   
+      <a href="img/">img/</a>                    24-Aug-2013 16:16    -   
+      <a href="includes/">includes/</a>               08-Feb-2009 12:30    -   
+      <a href="js/">js/</a>                     24-Aug-2013 16:16    -   
+      <a href="kevin/">kevin/</a>                  17-Aug-2012 12:10    -   
+      <a href="lab/">lab/</a>                    08-Dec-2011 10:15    -   
+      <a href="maps/">maps/</a>                   26-Mar-2009 07:29    -   
+      <a href="papers/">papers/</a>                 15-Jan-2008 14:56    -   
+      <a href="photo.wp.old2/">photo.wp.old2/</a>          02-May-2012 16:51    -   
+      <a href="photo/">photo/</a>                  24-Sep-2013 17:18    -   
+      <a href="proposal/">proposal/</a>               22-May-2009 02:51    -   
+      <a href="ptest/">ptest/</a>                  24-Sep-2013 17:18    -   
+      <a href="recaptcha/">recaptcha/</a>              02-May-2012 16:55    -   
+      <a href="research/">research/</a>               02-Jun-2010 05:03    -   
+      <a href="scripts/">scripts/</a>                02-May-2012 16:49    -   
+      <a href="sna/">sna/</a>                    27-Jul-2011 11:59    -   
+      <a href="stories.old/">stories.old/</a>            25-May-2008 13:33    -   
+      <a href="stories/">stories/</a>                08-May-2012 05:16    -   
+      <a href="strangers.old/">strangers.old/</a>          02-May-2012 16:49    -   
+      <a href="strangers/">strangers/</a>              08-May-2012 05:15    -   
+      <a href="surprise.old/">surprise.old/</a>           02-May-2012 16:56    -   
+      <a href="surprise/">surprise/</a>               02-May-2012 16:58    -   
+      <a href="survey/">survey/</a>                 19-Jun-2009 17:56    -   
+      <a href="various/">various/</a>                21-Nov-2010 12:41    -   
+<hr></pre>
+</body></html>
+
+

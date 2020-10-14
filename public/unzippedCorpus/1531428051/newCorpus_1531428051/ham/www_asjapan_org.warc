@@ -1,0 +1,1535 @@
+WARC/1.0
+WARC-Type: warcinfo
+WARC-Date: 2018-05-23T15:15:43Z
+WARC-Record-ID: <urn:uuid:f621dcfe-6037-49d3-9abc-21196a792596>
+WARC-All-Language: en, fr
+WARC-All-Content_type: text/html
+Content-Type: application/http;msgtype=response
+Content-Length: 46
+
+WARCProcessor by SING Group www.sing-group.com
+
+WARC/1.0
+WARC-Type: response
+WARC-Record-ID: <http://www.asjapan.org/web.php/lectures/2002/01>
+WARC-Date: 20180523151543
+WARC-Target-URI: http://www.asjapan.org/web.php/lectures/2002/01
+WARC-Language: en
+Content-Type: application/http;msgtype=response
+Content-Length: 17623
+
+HTTP/1.1 200
+Content-Type:text/html
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+ <head>
+  <title>The Asiatic Society of Japan</title>
+  <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+  <meta http-equiv="content-language" content="en">
+
+  <base href="http://www.asjapan.org/web.php/" />
+
+  <link href="/newdesign/css/screen.css" rel="stylesheet" type="text/css" media="screen" />
+  <link href="/newdesign/css/print.css" rel="stylesheet" type="text/css" media="print" />
+  <!--[if !IE 7]>
+  <link href="/newdesign/css/screen_ie.css" rel="stylesheet" type="text/css" media="screen" />
+  <![endif]-->
+  <!--[if IE 7]>
+  <link href="/newdesign/css/screen_ie7.css" rel="stylesheet" type="text/css" media="screen" />
+  <![endif]-->
+
+  <script type="text/javascript" src="/newdesign/inc/jquery-1.3.2.min.js"></script>
+  <script type="text/javascript" src="/newdesign/inc/ui.core.min.js"></script>
+  <script type="text/javascript" src="/newdesign/inc/ui.sortable.min.js"></script>
+  <script type="text/javascript" src="/newdesign/inc/jquery.metadata.js"></script>
+  <script type="text/javascript" src="/newdesign/inc/mbTabset.js"></script>
+
+  <script type="text/javascript">
+		$(function(){
+			$("#tabset1").buildMbTabset({sortable:false});
+		});
+  </script>
+
+    <script type="text/javascript">
+		$(function(){
+			$("#a").removeClass("sel");
+			$("#cont_1").hide();
+			$("#b").addClass("sel");
+			$("#cont_2").fadeIn("fast");
+			$("#linklectures").addClass("optselected");
+			$("#lecturesfor").show();
+		});
+  </script>
+
+
+
+</head>
+<body>
+
+<center><div id="main" align="left">
+
+  <div id="header" align="left">
+    <center>
+      <div><img src="/newdesign/tasoj.gif" alt="The Asiatic Society of Japan" title="The Asiatic Society of Japan"/></div>
+      <div style="height:16px; width:613px; background-color: black; margin-top:3px; padding-top:1px;"/>
+      <div style="height:15px; width:613px; background-color: white; font-family:times new roman,courier;font-size: 10px; padding-bottom:3px; padding-top:2px;">Established 1872.  Cooperative Science and Research Body of the Science Council of Japan</div>
+      </div>
+    </center>
+  </div>
+
+  <table id="menuasj" width="750" cellpadding="0" cellspacing="0" align="center">
+    <tr><td><p id="bigspacer">&nbsp;</p></td></tr>
+    <tr><td>
+      <div class="tabset" id="tabset1">
+        <a href="#" id="a" class="tab {container:'cont_1'}" onclick="return false;">About Us</a><a href="#" id="b" class="tab {container:'cont_2'}" onclick="return false;">ASJ Info Central</a><a href="#" id="c" class="tab {container:'cont_3'}" onclick="return false;">ASJ Merchandise</a><a href="#" id="d" class="tab {container:'cont_4'}" onclick="return false;">Search</a><!--<a href="#" id="e" class="tab {container:'cont_5'}" onclick="return false;">Members</a>-->
+      </div>
+      <div class="mbTabsetContainer" >
+        <span id="cont_1">
+          <a id="linkmain" href="main">Home</a> &middot; <a id="linkwelcome" href="about/welcome">Welcome</a> &middot; <a id="linkhistory" href="about/history">History</a> &middot; <a id="linkpatrons" href="about/patrons">Our Patron</a> &middot; <a id="linkcouncil" href="about/council">The Council</a> &middot; <a id="linkjoin" href="about/join">Join</a> &middot; <a id="linklinks" href="about/links">Other Asiatic Societies</a> &middot; <a id="linkcontact" href="about/contact">Contact</a> &middot; <a id="linksitemap" href="about/sitemap">Site Map</a>
+        </span>
+        <span id="cont_2">
+          <a id="linklectures" href="lectures/index">Lecture Archive</a> &middot; <a id="linkspeakers" href="speakers/index">Speaker Bios</a> &middot; <a id="linkcouncils" href="councils/index">Past Councils</a> &middot; <a id="linkreports" href="reports/index">Annual Reports</a> &middot; <a id="linkmemorial" href="memorial/index">Memorial Wall</a>
+        </span>
+        <span id="cont_3">
+          <a id="linktransactions" href="mercantile/transactions">Transactions and Offprints</a> &middot; <a id="linkpublications" href="mercantile/publications">Other ASJ Publications</a> &middot; <a id="linkgift" href="mercantile/gift">Gift Memberships</a>
+        </span>
+        <span id="cont_4">
+          <form action="/search.php" method="get" >Type your query <input type="text" name="q" size="16" style="height: 16px; font-size: 12px; padding: 1px;"/> <input type="submit" value="search!" style="font-size: 12px; padding: 1px;"/></form>
+        </span>
+<!--        <span id="cont_5">
+          <a id="linkbulletin" href="members/bulletin">Current bulletin</a> &middot; <a id="linkmemlect" href="members/lectures">2008 Lectures</a> &middot; All these options require to login
+        </span>-->
+      </div>
+    </td></tr>
+    <tr><td><p id="smallspacer">&nbsp;</p></td></tr>
+  </table>
+
+
+  <div id="content">
+
+    <div id="lecturesfor">
+
+<table width="750"  border="0" cellpadding="0" cellspacing="0" bgcolor="#05539d">
+	<tr>
+		<td valign="bottom" align="center">
+			<table  border="0" cellpadding="0" cellspacing="0" bgcolor="#05539d">
+				<tr>
+					<td align="center">
+						<!-- start horizontal menu -->
+						<table class="rootVoices" cellspacing='0' cellpadding='0' border='0'><tr>
+							<td class="rootVoice"><a id="linkarchive2007" href="lectures/2007/index">2007</a></td>
+							<td class="rootVoice"><a id="linkarchive2006" href="lectures/2006/index">2006</a></td>
+							<td class="rootVoice"><a id="linkarchive2005" href="lectures/2005/index">2005</a></td>
+							<td class="rootVoice"><a id="linkarchive2004" href="lectures/2004/index">2004</a></td>
+							<td class="rootVoice"><a id="linkarchive2003" href="lectures/2003/index">2003</a></td>
+							<td class="rootVoice"><a id="linkarchive2002" href="lectures/2002/index">2002</a></td>
+							<td class="rootVoice"><a id="linkarchive2001" href="lectures/2001/index">2001</a></td>
+							<td class="rootVoice"><a id="linkarchive2000" href="lectures/2000/index">2000</a></td>
+							<td class="rootVoice"><a id="linkarchive1999" href="lectures/1999/index">1999</a></td>
+							<td class="rootVoice"><a id="linkarchive1998" href="lectures/1998/index">1998</a></td>
+							<td class="rootVoice"><a id="linkarchive1997" href="lectures/1997/index">1997</a></td>
+							<td class="rootVoice"><a id="linkarchive1996" href="lectures/1996/index">1996</a></td>
+							<td class="rootVoice"><a id="linkarchive1995" href="lectures/1995/index">1995</a></td>
+							<td class="rootVoice"><a id="linkarchive1994" href="lectures/1994/index">1994</a></td>
+						</tr></table>
+						<!-- end horizontal menu -->
+					</td>
+				</tr>
+			</table>
+		</td>
+	</tr>
+</table>
+
+    </div>
+    <div id="text">
+
+<h3>The Tokugawa Art Collection: An Illustrated Lecture</h3>
+
+<p><b>Mr. Yoshinobu Tokugawa</b><br/>
+<b>ASJ 130th Anniversary Special Event</b></p>
+
+Lecture 2002-01-21. Annual General Meeting<br/>
+Venue: British Embassy<br/>
+
+<p>Following the Annual General Meeting came the main event, &quot;The Tokugawa Art Collection: an   Illustrated Lecture&quot; presented by Mr. Yoshinobu Tokugawa, with the aid of two slide projectors. The collection of the Tokugawa Art Museum, said Mr. Tokugawa, consisted of the works of art and craft successively handed down in the Owari branch of the Tokugawa family, the household with the closest ties to the ruling shoguns throughout the Edo period (1603-1868). The museum is unique in two respects. First, out of 260 daimyo families in Japan, this is the only family collection of treasures and records preserved almost in its entirety; and second, of nearly 500 art museums in existence with daimyo family treasures in their collections, it is the only one devoted to one family's collection. Mr. Tokugawa's late grandfather, Marquis Yoshichika Tokugawa, who was the 19th head of the Owari Tokugawa family, established the Reimeikai Foundation to which he donated almost all the household treasures, and then, under this foundation, built in 1935 the Tokugawa Art Museum in Nagoya, the old capital of the Owari territory. At the core of the collection were objects inherited from the first Tokugawa shogun Ieyasu by his ninth son Yoshinao, the founder of the Owari branch of the family. These treasures included sutras from the Nara period, pictorial hand scrolls from the Heian and Kamakura periods, paintings and art objects from the Southern Song, Yuan and Ming dynasties in China, and paintings and tea bowls from the Koryo and Yi dynasties in Korea.</p>
+
+<p>Prior to the Edo period, the daimyos had been simply military leaders; but with the establishment of the Tokugawa shogunate they were also required to be competent administrators, &quot;excelling with both the pen and the sword&quot;. To accomplish this double task, they had also to apply themselves to various scholarly and cultural pursuits, a change of approach which led to changes in the type of articles employed for daily use and the decorative objects with which they surrounded themselves, articles which now make up the museum's collection.</p>
+
+<p>The original museum, set up on the site of one of the old family villas, consists of one large gallery and two smaller galleries of no special character, though the building is roofed like and old castle. The building was extended three times in twenty years. In 1987 six new galleries were added, which Mr Tokugawa himself designed to replicate the living conditions of a typical daimyo.</p>
+
+<p>A daimyo's possessions can be divided into two main categories:  omote-dogu, articles for official use, and oku-dogu, articles for private use. The omote-dogu consist of arms and armour which reflect his status and wealth, together with other articles required for official use or formal occasions. The oku-dogu consist of articles for his personal use and his pastimes. Among the arms, swords were definitely of the first rank, and were the most precious of all the gifts exchanged between the shogun, the daimyos and their retainers. The most refined techniques were used on the scabbard and hilt, and the decorative elements were mostly poetic, representing floral motifs. On January 11th every year, the daimyo's helmet and armour would be put on display, together with the long sword and battle banner and standard, to invoke military success and peace. These articles are now on show in the first of four galleries designed to show the official life of the daimyo.</p>
+
+<p>The second gallery contains a thatched wooden hut which is a reconstruction of the 17th-century tea house in Nagoya Castle, which was destroyed in 1945 during the war. The tea ceremony, established by Sen-no-Rikyu in the latter half of the 16th century, was part of the daimyo's official functions, such as receiving a shogunal visit or entertaining distinguished visitors. The reception started at the tea house, and the daimyo himself would act as host. Of the articles in the present collection we were shown examples of a flower vase, tea caddy, tea bowl and kettle. All such articles were carefully selected for the purpose of subtly manifesting the status of the owner, and with full consideration given to their appropriateness to the season and occasion. The utensils might seem modest, even humble, but each had its traditional history, and it was part of a daimyo's education to know how to appreciate these cultural objects, either as a host or a guest.</p>
+
+<p>The third gallery is designed to reproduce the main room of the residence in Nagoya Castle, in which the tatami flooring is about five inches higher than in the adjacent rooms; here the daimyo issued orders or received guests at banquets. The lavish gilt decoration, which stands in sharp contrast to the tea house, served to enhance his status and authority. The rooms are separated by decorated wall panels or sliding doors. In the main room is a large tokonoma with three hanging scrolls. In front of the scrolls is a small table with the mitsugusoku (three traditional Buddhist ornaments), an incense burner, a flower vase and a candle stand, and on either side of the table are vases of flowers. On the left-hand side of the room there is another alcove where writing articles such as brushes, ink sticks and ink stones were kept. All the ornamentation of the room follows strict customs and rules which originated in the previous Ashikaga shogunate.</p>
+
+<p>Other rooms in this gallery are reconstructions of the kusarinoma and dokonoma rooms in Nagoya Castle, which were used to entertain guests and spend time in a relaxed mood. Here the architecture and decoration are simpler. The fourth gallery contains a reconstruction of a Noh theatre according to the original in Nagoya Castle. In the 15th and 16th centuries, Noh was patronized by warriors and daimyos, and Ieyasu adopted it as the official music-drama of the shogunate. So it became an integral part of the protocol for formal receptions, and highly ranked daimyos were required to maintain a full set of Noh accoutrements, and retain Noh actors in their employ. In addition, Noh dancing and singing were considered a desirable accomplishment for daimyos, and every year on January 2nd the shogun himself performed the first chanting of the year. The museum's collection contains examples of sumptuous and elegant Noh costumes and typical masks.</p>
+
+<p>The fifth gallery shows articles used in the daimyo's private life. (The private space might be considerable, depending on the size of the family; the 11th shogun, Ienari, had a wife, 40 concubines, 55 children and more than 500 servants.) In contrast to the many articles in Chinese taste used in the official quarters, most of the private effects and art works were of Japanese design, though their craftsmanship and decoration could still reflect the wealth and influence of their owners. Most of these articles no longer survive, and those that do formed part of the trousseaux of the ladies who married into the Owari Tokugawa family. Ostensibly functional, specially commissioned sets of articles were carefully stored and handed down as heirlooms, and most of them bear the family's aoi crest. A typical example is a set of lacquerware made by the most famous craftsman of the day, which was brought to the second Owari daimyo by his bride, who was the daughter of the third shogun, Iemitsu. All these items have been designated as National Treasures. The high level of cultural and artistic education required of a daimyo meant that he patronized leading scholars, calligraphers and painters, and high-quality examples of Japanese and Chinese calligraphy and painting had to be acquired and maintained.</p>
+
+<p>The most famous National Treasures in the Tokugawa collection are the hand scroll paintings of the Tale of Genji. Though they are now nationally known cultural objects, originally they formed part of the private effects of a daimyo. These scroll paintings are now housed in the original gallery, which is often used for special exhibitions. Other objects on show there are 11th-century examples of calligraphy, folding screens from the 17th century, paintings from the Southern Song dynasty, and a set of Ryukyuan court musical instruments.</p>
+
+<p>In conclusion, Mr. Tokugawa said he hoped he had made it clear that the fundamental governing policy of the Tokugawa shogunate was based on culture, and that the shogun and daimyos were not the barbarians depicted in the novel and TV drama &quot;Shogun&quot;!</p>
+
+<p>After a brief question time, a vote of thanks was proposed by Dr. Peter McMillan, who emphasized the uniqueness of the Tokugawa collection, and in particular the high quality of the tea objects; he also drew attention to the extensive research Mr. Tokugawa had conducted in order to reproduce faithfully the style of living of a daimyo of the period. The assembled company then proceeded to the adjacent rooms to enjoy the British embassy's hospitality, for which we would like to convey here our heartfelt appreciation to the Gomersalls (and we hope they will get some vicarious pleasure out of reading this account!). We were also treated, as usual, by Mr. Takeo Yamaoka to his gift of sake and commemorative masu, for which we are always grateful.</p>
+
+<hr/>
+
+<p>Adapted from &quot;The Asiatic Society of Japan Bulletin No. 2&quot;, February 2002, compiled by Prof. Hugh E. Wilkinson and Mrs. Doreen Simmons.</p>
+
+
+      <div align="center">
+        <p id="copyright">Copyright &copy; 1994-2018 The Asiatic Society of Japan. All rights reserved. </p>
+      </div>
+
+    </div>
+
+  </div>
+  <br/>
+
+</div></center>
+
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-4845051-1");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+</body>
+</html>
+
+<script type="text/javascript">(function (d, w) {var x = d.getElementsByTagName('SCRIPT')[0];var f = function () {var s = d.createElement('SCRIPT');s.type = 'text/javascript';s.async = true;s.src = "//np.lexity.com/embed/YW/b5372925f1d03c603696fd876a432a37?id=d241b11407f5";x.parentNode.insertBefore(s, x);};w.attachEvent ? w.attachEvent('onload',f) :w.addEventListener('load',f,false);}(document, window));</script>
+
+WARC/1.0
+WARC-Type: response
+WARC-Record-ID: <http://www.asjapan.org/web.php/lectures/2002/04>
+WARC-Date: 20180523151543
+WARC-Target-URI: http://www.asjapan.org/web.php/lectures/2002/04
+WARC-Language: en
+Content-Type: application/http;msgtype=response
+Content-Length: 18126
+
+HTTP/1.1 200
+Content-Type:text/html
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+ <head>
+  <title>The Asiatic Society of Japan</title>
+  <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+  <meta http-equiv="content-language" content="en">
+
+  <base href="http://www.asjapan.org/web.php/" />
+
+  <link href="/newdesign/css/screen.css" rel="stylesheet" type="text/css" media="screen" />
+  <link href="/newdesign/css/print.css" rel="stylesheet" type="text/css" media="print" />
+  <!--[if !IE 7]>
+  <link href="/newdesign/css/screen_ie.css" rel="stylesheet" type="text/css" media="screen" />
+  <![endif]-->
+  <!--[if IE 7]>
+  <link href="/newdesign/css/screen_ie7.css" rel="stylesheet" type="text/css" media="screen" />
+  <![endif]-->
+
+  <script type="text/javascript" src="/newdesign/inc/jquery-1.3.2.min.js"></script>
+  <script type="text/javascript" src="/newdesign/inc/ui.core.min.js"></script>
+  <script type="text/javascript" src="/newdesign/inc/ui.sortable.min.js"></script>
+  <script type="text/javascript" src="/newdesign/inc/jquery.metadata.js"></script>
+  <script type="text/javascript" src="/newdesign/inc/mbTabset.js"></script>
+
+  <script type="text/javascript">
+		$(function(){
+			$("#tabset1").buildMbTabset({sortable:false});
+		});
+  </script>
+
+    <script type="text/javascript">
+		$(function(){
+			$("#a").removeClass("sel");
+			$("#cont_1").hide();
+			$("#b").addClass("sel");
+			$("#cont_2").fadeIn("fast");
+			$("#linklectures").addClass("optselected");
+			$("#lecturesfor").show();
+		});
+  </script>
+
+
+
+</head>
+<body>
+
+<center><div id="main" align="left">
+
+  <div id="header" align="left">
+    <center>
+      <div><img src="/newdesign/tasoj.gif" alt="The Asiatic Society of Japan" title="The Asiatic Society of Japan"/></div>
+      <div style="height:16px; width:613px; background-color: black; margin-top:3px; padding-top:1px;"/>
+      <div style="height:15px; width:613px; background-color: white; font-family:times new roman,courier;font-size: 10px; padding-bottom:3px; padding-top:2px;">Established 1872.  Cooperative Science and Research Body of the Science Council of Japan</div>
+      </div>
+    </center>
+  </div>
+
+  <table id="menuasj" width="750" cellpadding="0" cellspacing="0" align="center">
+    <tr><td><p id="bigspacer">&nbsp;</p></td></tr>
+    <tr><td>
+      <div class="tabset" id="tabset1">
+        <a href="#" id="a" class="tab {container:'cont_1'}" onclick="return false;">About Us</a><a href="#" id="b" class="tab {container:'cont_2'}" onclick="return false;">ASJ Info Central</a><a href="#" id="c" class="tab {container:'cont_3'}" onclick="return false;">ASJ Merchandise</a><a href="#" id="d" class="tab {container:'cont_4'}" onclick="return false;">Search</a><!--<a href="#" id="e" class="tab {container:'cont_5'}" onclick="return false;">Members</a>-->
+      </div>
+      <div class="mbTabsetContainer" >
+        <span id="cont_1">
+          <a id="linkmain" href="main">Home</a> &middot; <a id="linkwelcome" href="about/welcome">Welcome</a> &middot; <a id="linkhistory" href="about/history">History</a> &middot; <a id="linkpatrons" href="about/patrons">Our Patron</a> &middot; <a id="linkcouncil" href="about/council">The Council</a> &middot; <a id="linkjoin" href="about/join">Join</a> &middot; <a id="linklinks" href="about/links">Other Asiatic Societies</a> &middot; <a id="linkcontact" href="about/contact">Contact</a> &middot; <a id="linksitemap" href="about/sitemap">Site Map</a>
+        </span>
+        <span id="cont_2">
+          <a id="linklectures" href="lectures/index">Lecture Archive</a> &middot; <a id="linkspeakers" href="speakers/index">Speaker Bios</a> &middot; <a id="linkcouncils" href="councils/index">Past Councils</a> &middot; <a id="linkreports" href="reports/index">Annual Reports</a> &middot; <a id="linkmemorial" href="memorial/index">Memorial Wall</a>
+        </span>
+        <span id="cont_3">
+          <a id="linktransactions" href="mercantile/transactions">Transactions and Offprints</a> &middot; <a id="linkpublications" href="mercantile/publications">Other ASJ Publications</a> &middot; <a id="linkgift" href="mercantile/gift">Gift Memberships</a>
+        </span>
+        <span id="cont_4">
+          <form action="/search.php" method="get" >Type your query <input type="text" name="q" size="16" style="height: 16px; font-size: 12px; padding: 1px;"/> <input type="submit" value="search!" style="font-size: 12px; padding: 1px;"/></form>
+        </span>
+<!--        <span id="cont_5">
+          <a id="linkbulletin" href="members/bulletin">Current bulletin</a> &middot; <a id="linkmemlect" href="members/lectures">2008 Lectures</a> &middot; All these options require to login
+        </span>-->
+      </div>
+    </td></tr>
+    <tr><td><p id="smallspacer">&nbsp;</p></td></tr>
+  </table>
+
+
+  <div id="content">
+
+    <div id="lecturesfor">
+
+<table width="750"  border="0" cellpadding="0" cellspacing="0" bgcolor="#05539d">
+	<tr>
+		<td valign="bottom" align="center">
+			<table  border="0" cellpadding="0" cellspacing="0" bgcolor="#05539d">
+				<tr>
+					<td align="center">
+						<!-- start horizontal menu -->
+						<table class="rootVoices" cellspacing='0' cellpadding='0' border='0'><tr>
+							<td class="rootVoice"><a id="linkarchive2007" href="lectures/2007/index">2007</a></td>
+							<td class="rootVoice"><a id="linkarchive2006" href="lectures/2006/index">2006</a></td>
+							<td class="rootVoice"><a id="linkarchive2005" href="lectures/2005/index">2005</a></td>
+							<td class="rootVoice"><a id="linkarchive2004" href="lectures/2004/index">2004</a></td>
+							<td class="rootVoice"><a id="linkarchive2003" href="lectures/2003/index">2003</a></td>
+							<td class="rootVoice"><a id="linkarchive2002" href="lectures/2002/index">2002</a></td>
+							<td class="rootVoice"><a id="linkarchive2001" href="lectures/2001/index">2001</a></td>
+							<td class="rootVoice"><a id="linkarchive2000" href="lectures/2000/index">2000</a></td>
+							<td class="rootVoice"><a id="linkarchive1999" href="lectures/1999/index">1999</a></td>
+							<td class="rootVoice"><a id="linkarchive1998" href="lectures/1998/index">1998</a></td>
+							<td class="rootVoice"><a id="linkarchive1997" href="lectures/1997/index">1997</a></td>
+							<td class="rootVoice"><a id="linkarchive1996" href="lectures/1996/index">1996</a></td>
+							<td class="rootVoice"><a id="linkarchive1995" href="lectures/1995/index">1995</a></td>
+							<td class="rootVoice"><a id="linkarchive1994" href="lectures/1994/index">1994</a></td>
+						</tr></table>
+						<!-- end horizontal menu -->
+					</td>
+				</tr>
+			</table>
+		</td>
+	</tr>
+</table>
+
+    </div>
+    <div id="text">
+
+<h3>Material Exchange without Human Contact: Pre-modern Japan-Southeast Asian Relations</h3>
+
+<p><b>Prof. Yoneo Ishii</b></p>
+
+Lecture 2002-04-15<br/>
+
+<p>At the April meeting, held at Seisen University when the azaleas were at their height, we were happy to have with us the former Cambodian ambassador to Japan, Mr. Truong Mealy. On his way to Japan, Mr. Mealy had called in at Chiang Mai and had a chance to meet our former President, Mr. George Sioris. Before calling upon Prof. Anesaki to introduce our speaker, Dr. Berendt gave a foretaste of upcoming events for the rest of the year, as listed above. Our speaker was Dr. Yoneo Ishii,  President of Kanda University of International Studies, and a noted expert on Southeast Asian history.  Dr. Ishii had taken as his subject &quot; Japan-Southeast Asian Relations  in Pre-modern Times: Material Exchange without Human Contact&quot;.</p>
+
+<p>The pre-modern Japanese, said Dr. Ishii, lived in a &quot;trichotomous&quot; world consisting of Japan, China (Kara) and India (Tenjiku); this last was only an imaginary locality as no Japanese had ever been there, and the Konjaku Monogatari contains a number of legends about Tenjiku. In China, the Sui and T'ang courts were the objects of missions from Japan between the years 600 and 894, which made personal contacts between Japanese and Chines people possible at different levels. Students of various disciplines (such as the monks Saich&ocirc; and K&ucirc;kai) and apprentice craftsmen were included, and undoubtedly helped to accelerate the development of the nascent Japan. There was one prince, Takaoka or Shinnyo, who attempted to visit India while studying Buddhism in China; he set out in 865 from the port of Kwang Chu, but only got as far as a country called Lo-yueh Kuo, which is believed to have been in the southern part of the Malay Peninsula. By that time, the Japanese may have known of the existence of Southeast Asia, as the music of Lin-yu or Champa in Vietnam was introduced to Nara in 736, and this music, known as Linyugaku, is still part of the repertory of bugaku at the imperial court.</p>
+
+<p>From the 14th century onward, tropical products from Southeast Asia began to be brought to Japan by Ryukyuan merchants. At the beginning of the 15th century the whole island chain was unified by the king of the central area  of Chuzan, and the official Rekidai H&ocirc;an which originated at that time record that &quot;tributary&quot; fleets began to be sent to Southeast Asia in the 1410s. There they procured tropical products such as pepper and sappanwood (one of the brazilwoods), which they exchanged in China for ceramics. Sappanwood (su&ocirc;  in Japanese) had in fact been imported into Japan from China from Asuka times. The xylem of this wood was the source of a dye in varying shades of red and purple, depending on the mordant used, which was widely used for colouring paper and cloth, as well as for wooden cabinets.</p>
+
+<p>The outbreak of the civil wars of Onin and Bunmei hindered the entrance of Ryukyuan ships, with the result that the Japanese merchants of Sakai, who had already been involved in trade with Ming China, began to enter the Ryukyu business themselves, not only visiting Ryukyuan ports but travelling as far as the Philippines and even Cambodia. The most celebrated figure is that of Naya Sukezaemon (&quot;Luzon Sukezaemon&quot;),  who procured the Ruson no tsubo or Luzon pots cherished by tea-ceremony lovers, one of which he presented to Toyotomi Hideyoshi.</p>
+
+<p>Systematic trade was started by Tokugawa Ieyasu, who in 1604 introduced the shuinsen b&ocirc;eki or vermilion ship trade with Southeast Asia. Their destinations were nineteen ports in Taiwan and Southeast Asia, such as Pattani (near the border of modern Thailand, up the coast from Kota Bahru), Malacca, Ayutthaya, and others in Annam, Champa, Cambodia and Luzon. Eventually Japanese settlements were established in such places as Ayutthaya, Batavia, Hoi An (close to Da Nang) , and ports in Cambodia, and these are known today as Nan'yo Nihonjin machi. A total of 356 vermilion ships were dispatched between 1604 and 1635, when Iemitsu's seclusion policy put an end to the trade and left the Japanese merchants stranded overseas.</p>
+
+<p>The most important of the goods carried were silk and scented woods from  Vietnam, deer hides and sappanwood from Siam and Cambodia, tin from Pattani and Malacca, cloves from the Moluccas and sugar from Manila. 250,000 deer hides were imported every year, and 250 tons of silk. The deer hides were manufactured into jinbaori, tabi, trousers, vests and bags for swords;  sharkskin was also imported to provide a firm grip for sword hilts. Along with the sappanwood, alum was also imported as it was superior to the domestically-produced mordants; a craftsman could use it to produce as many as 15 different shades of red. The cloves and sugar were used to make various popular kinds of sweets.</p>
+
+<p>The demand for such commodities still continued after 1635, and the vacuum was filled by the Dutch East India Company (V.O.C.). But a further, comparatively important role was played by Chinese junks, known to the Nagasaki port authorities as t&ocirc;sen, whose contribution has tended to be overshadowed by that of the V.O.C., in spite of the fact that their cargoes exceeded those of the V.O.C. ships in terms of quantity. The t&ocirc;sen were categorized at Nagasaki according to their provenance: the kuchibune from the area around the mouth of the Yangtze, the nakaokubune from Kwangtung and Fukien,  and the okubune from Southeast Asia. The largest junks, those from Siam, could carry 100 passengers and 300 tons of cargo; at the height of the trade, 15 junks from Southeast Asia entered Nagasaki, bringing over 4,000 tons of merchandise for the consumption of the Japanese market. (Each ship had to report its cargo and port of origin, partly to provide the Japanese with intelligence of the outside world, and 2,300 of these records  have been collected and published.)</p>
+
+<p>The Japanese populace enjoyed these goods without being aware of their provenance, but their popularity can be gauged by the fact that the names of tropical products are often found in the popular vocabulary. Various combinations of clove designs can be seen in family crests, and the clove features as an indispensable ingredient of sweets in one rakugo story.</p>
+
+<p>Japanese visitors to Southeast Asia in the first three decades of the 17th century may have numbered in the thousands, and some of them settled (an estimated 1,500 in Ayutthaya). Those who excelled in the martial  arts were organized as a Japanese volunteer army in Siam, under the direct leadership of the court, and they played an important role in suppressing revolts. The late 17th-century geographer Nishikawa Joken records a story of one rich Japanese merchant in Siam who sent a large amount of local products to his brother in his home town of Nagasaki. These were intended to cover the costs of holding a religious ceremony for his deceased parents,  and the faithful brother complied by inviting over 100 monks to come and chant the sutra for ten days.</p>
+
+<p>There was no contact with Southeast Asia after 1635, and the Japanese residing there were left without any hope of return, and were eventually absorbed into the local population. The kind of knowledge disseminated about the area in later years is typified by an illustrated encyclopedia published in Edo in 1712, the Wakan Sansai Zue. The volumes devoted to &quot;People of Foreign Countries&quot; and &quot;Outer Barbarians&quot; are based on Chinese historical sources, and are understandably anachronistic. One ridiculous illustration purports to show a Siamese as a near-naked man in a loincloth and wearing takageta!</p>
+
+<p>In summing up, Dr. Ishii emphasized that the seclusion policy in no way halted the flow of Southeast Asian goods into the Japanese market although all human contact was cut off.  The textile industry profited from the abundant use of deer hides from Siam and Cambodia coloured by sappanwood dyes, while children must have relished  the sweets made of Manila sugar and Moluccan cloves; but no one seems to have given a thought to their country of origin. Today, Japanese tourists flock to Southeast Asia, and spicy Thai cuisine is popular in Japan,  but Dr. Ishii ended with the question whether Japanese understanding of the peoples of  Southeast Asia had deepened as a result; he hoped the day would come when the answer was &quot;Yes.&quot;</p>
+
+<p>Dr. Ishii provided more information in reply to questions. The Japanese in Southeast Asia generally dealt with local Chinese traders and sold to the V.O.C. On the question of which Japanese went overseas, they fell into three categories: samurai who had lost their lords and been dispossessed after the Battle of Sekigahara; a few merchants; and persecuted Christians, who found freedom of religion in Siam. One Portuguese account said that there were 400 Christians in the Japanese settlement, or about half the total number. The Tokugawa seclusion policy did not mean the end of trade, but rather a selective trade using only Dutch or Chinese vessels. Mr. Truong asked whether Morimoto Ukondayu Kazufusa, who left an inscription at Angkor Wat (which he mistook for India), would have met the notorious adventurer Yamada Nagamasa, who was in Siam around 1620. Dr. Ishii doubted this, though both men had come from Kyushu. Unlike the Chinese, the Japanese were not given to establishing their own colonies overseas, and so had become assimilated in Siam. By contrast a Persian who arrived in Ayutthaya  in 1630 had left descendants who still proudly preserved their identity, though they were now Buddhists.</p>
+
+<p>The meeting was brought to a close with a vote of thanks proposed by Dr. Hubert Durt, who, commenting that French studies on Thailand and Cambodia were in very close agreement,  proclaimed Dr. Ishii as being absolutely international.</p>
+
+<hr/>
+
+<p>Adapted from &quot;The Asiatic Society of Japan Bulletin No. 5&quot;, May 2002, compiled by Prof. Hugh E. Wilkinson and Mrs. Doreen Simmons.</p>
+
+
+      <div align="center">
+        <p id="copyright">Copyright &copy; 1994-2018 The Asiatic Society of Japan. All rights reserved. </p>
+      </div>
+
+    </div>
+
+  </div>
+  <br/>
+
+</div></center>
+
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-4845051-1");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+</body>
+</html>
+
+<script type="text/javascript">(function (d, w) {var x = d.getElementsByTagName('SCRIPT')[0];var f = function () {var s = d.createElement('SCRIPT');s.type = 'text/javascript';s.async = true;s.src = "//np.lexity.com/embed/YW/b5372925f1d03c603696fd876a432a37?id=d241b11407f5";x.parentNode.insertBefore(s, x);};w.attachEvent ? w.attachEvent('onload',f) :w.addEventListener('load',f,false);}(document, window));</script>
+
+WARC/1.0
+WARC-Type: response
+WARC-Record-ID: <http://www.asjapan.org/web.php/lectures/2002/05>
+WARC-Date: 20180523151543
+WARC-Target-URI: http://www.asjapan.org/web.php/lectures/2002/05
+WARC-Language: en
+Content-Type: application/http;msgtype=response
+Content-Length: 16703
+
+HTTP/1.1 200
+Content-Type:text/html
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+ <head>
+  <title>The Asiatic Society of Japan</title>
+  <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+  <meta http-equiv="content-language" content="en">
+
+  <base href="http://www.asjapan.org/web.php/" />
+
+  <link href="/newdesign/css/screen.css" rel="stylesheet" type="text/css" media="screen" />
+  <link href="/newdesign/css/print.css" rel="stylesheet" type="text/css" media="print" />
+  <!--[if !IE 7]>
+  <link href="/newdesign/css/screen_ie.css" rel="stylesheet" type="text/css" media="screen" />
+  <![endif]-->
+  <!--[if IE 7]>
+  <link href="/newdesign/css/screen_ie7.css" rel="stylesheet" type="text/css" media="screen" />
+  <![endif]-->
+
+  <script type="text/javascript" src="/newdesign/inc/jquery-1.3.2.min.js"></script>
+  <script type="text/javascript" src="/newdesign/inc/ui.core.min.js"></script>
+  <script type="text/javascript" src="/newdesign/inc/ui.sortable.min.js"></script>
+  <script type="text/javascript" src="/newdesign/inc/jquery.metadata.js"></script>
+  <script type="text/javascript" src="/newdesign/inc/mbTabset.js"></script>
+
+  <script type="text/javascript">
+		$(function(){
+			$("#tabset1").buildMbTabset({sortable:false});
+		});
+  </script>
+
+    <script type="text/javascript">
+		$(function(){
+			$("#a").removeClass("sel");
+			$("#cont_1").hide();
+			$("#b").addClass("sel");
+			$("#cont_2").fadeIn("fast");
+			$("#linklectures").addClass("optselected");
+			$("#lecturesfor").show();
+		});
+  </script>
+
+
+
+</head>
+<body>
+
+<center><div id="main" align="left">
+
+  <div id="header" align="left">
+    <center>
+      <div><img src="/newdesign/tasoj.gif" alt="The Asiatic Society of Japan" title="The Asiatic Society of Japan"/></div>
+      <div style="height:16px; width:613px; background-color: black; margin-top:3px; padding-top:1px;"/>
+      <div style="height:15px; width:613px; background-color: white; font-family:times new roman,courier;font-size: 10px; padding-bottom:3px; padding-top:2px;">Established 1872.  Cooperative Science and Research Body of the Science Council of Japan</div>
+      </div>
+    </center>
+  </div>
+
+  <table id="menuasj" width="750" cellpadding="0" cellspacing="0" align="center">
+    <tr><td><p id="bigspacer">&nbsp;</p></td></tr>
+    <tr><td>
+      <div class="tabset" id="tabset1">
+        <a href="#" id="a" class="tab {container:'cont_1'}" onclick="return false;">About Us</a><a href="#" id="b" class="tab {container:'cont_2'}" onclick="return false;">ASJ Info Central</a><a href="#" id="c" class="tab {container:'cont_3'}" onclick="return false;">ASJ Merchandise</a><a href="#" id="d" class="tab {container:'cont_4'}" onclick="return false;">Search</a><!--<a href="#" id="e" class="tab {container:'cont_5'}" onclick="return false;">Members</a>-->
+      </div>
+      <div class="mbTabsetContainer" >
+        <span id="cont_1">
+          <a id="linkmain" href="main">Home</a> &middot; <a id="linkwelcome" href="about/welcome">Welcome</a> &middot; <a id="linkhistory" href="about/history">History</a> &middot; <a id="linkpatrons" href="about/patrons">Our Patron</a> &middot; <a id="linkcouncil" href="about/council">The Council</a> &middot; <a id="linkjoin" href="about/join">Join</a> &middot; <a id="linklinks" href="about/links">Other Asiatic Societies</a> &middot; <a id="linkcontact" href="about/contact">Contact</a> &middot; <a id="linksitemap" href="about/sitemap">Site Map</a>
+        </span>
+        <span id="cont_2">
+          <a id="linklectures" href="lectures/index">Lecture Archive</a> &middot; <a id="linkspeakers" href="speakers/index">Speaker Bios</a> &middot; <a id="linkcouncils" href="councils/index">Past Councils</a> &middot; <a id="linkreports" href="reports/index">Annual Reports</a> &middot; <a id="linkmemorial" href="memorial/index">Memorial Wall</a>
+        </span>
+        <span id="cont_3">
+          <a id="linktransactions" href="mercantile/transactions">Transactions and Offprints</a> &middot; <a id="linkpublications" href="mercantile/publications">Other ASJ Publications</a> &middot; <a id="linkgift" href="mercantile/gift">Gift Memberships</a>
+        </span>
+        <span id="cont_4">
+          <form action="/search.php" method="get" >Type your query <input type="text" name="q" size="16" style="height: 16px; font-size: 12px; padding: 1px;"/> <input type="submit" value="search!" style="font-size: 12px; padding: 1px;"/></form>
+        </span>
+<!--        <span id="cont_5">
+          <a id="linkbulletin" href="members/bulletin">Current bulletin</a> &middot; <a id="linkmemlect" href="members/lectures">2008 Lectures</a> &middot; All these options require to login
+        </span>-->
+      </div>
+    </td></tr>
+    <tr><td><p id="smallspacer">&nbsp;</p></td></tr>
+  </table>
+
+
+  <div id="content">
+
+    <div id="lecturesfor">
+
+<table width="750"  border="0" cellpadding="0" cellspacing="0" bgcolor="#05539d">
+	<tr>
+		<td valign="bottom" align="center">
+			<table  border="0" cellpadding="0" cellspacing="0" bgcolor="#05539d">
+				<tr>
+					<td align="center">
+						<!-- start horizontal menu -->
+						<table class="rootVoices" cellspacing='0' cellpadding='0' border='0'><tr>
+							<td class="rootVoice"><a id="linkarchive2007" href="lectures/2007/index">2007</a></td>
+							<td class="rootVoice"><a id="linkarchive2006" href="lectures/2006/index">2006</a></td>
+							<td class="rootVoice"><a id="linkarchive2005" href="lectures/2005/index">2005</a></td>
+							<td class="rootVoice"><a id="linkarchive2004" href="lectures/2004/index">2004</a></td>
+							<td class="rootVoice"><a id="linkarchive2003" href="lectures/2003/index">2003</a></td>
+							<td class="rootVoice"><a id="linkarchive2002" href="lectures/2002/index">2002</a></td>
+							<td class="rootVoice"><a id="linkarchive2001" href="lectures/2001/index">2001</a></td>
+							<td class="rootVoice"><a id="linkarchive2000" href="lectures/2000/index">2000</a></td>
+							<td class="rootVoice"><a id="linkarchive1999" href="lectures/1999/index">1999</a></td>
+							<td class="rootVoice"><a id="linkarchive1998" href="lectures/1998/index">1998</a></td>
+							<td class="rootVoice"><a id="linkarchive1997" href="lectures/1997/index">1997</a></td>
+							<td class="rootVoice"><a id="linkarchive1996" href="lectures/1996/index">1996</a></td>
+							<td class="rootVoice"><a id="linkarchive1995" href="lectures/1995/index">1995</a></td>
+							<td class="rootVoice"><a id="linkarchive1994" href="lectures/1994/index">1994</a></td>
+						</tr></table>
+						<!-- end horizontal menu -->
+					</td>
+				</tr>
+			</table>
+		</td>
+	</tr>
+</table>
+
+    </div>
+    <div id="text">
+
+<h3>Towards an Asian Christianity</h3>
+
+<p><b>Dr. William Johnston</b></p>
+
+Lecture 2002-05-20<br/>
+
+<p>Once again we had an ambassadorial presence at the meeting, as it was attended by H.E. the Irish Ambassador, Mr. Padraig Murphy, and former Cambodian ambassador Mr. Truong Mealy (not forgetting our own Council member, Mrs. Hisami Kurokochi, onetime Japanese ambassador to Finland). The meeting was chaired by Dr. Charles De Wolf,  who has returned to us after a year's sabbatical in Germany.</p>
+
+<p>The speaker was Dr. William Johnston of Sophia University, who had been called upon at short notice to replace the scheduled speaker. Dr. Johnston had taken as his subject  &quot;Towards an Asian Christianity&quot;, but he began by apologizing for the fact that upon reflection he had felt he should rather speak on &quot;Towards a Global Christianity&quot;.  In this present age when all religions had to be global, it did not do to speak of different kinds of Christianity. Differences might exist, but like yin and yang, they were meant to be complementary and form a dialogue together. It was the business of religion today to build a peaceful world. Einstein had  said that mankind must find a new way of thinking or it would be faced with disaster.   Dr. Johnston believed that it was the responsibility of religion, all religions, to create the necessary change of heart. The various religions were still very often fighting among themselves, so that was the first change that needed to take place. The first step was dialogue, as exemplified by the meeting of representatives of the leading religions at Assissi, called by Pope John Paul some years ago.  Other signs of a meeting of minds was the spread of Western thinking in Asia, and conversely of Eastern thinking in the West.</p>
+
+<p>Dr. Johnston focused principally on the writings of certain Japanese Christians. The first of these was &quot;The Bells of Nagasaki&quot; by Takashi Nagai. Nagai became a Christian when he married, as his wife belonged to one of the old Christian families in Nagasaki. She was killed in the atomic bombing, and in his book he writes of his resulting experience of change from being a strong nationalist to to becoming an internationalist. He wrote the book in 1948, when he was dying of leukaemia, and at first it was not allowed to be published.  He was a doctor, and the book gives a harrowing first-hand account of the condition of the atom bomb victims that he attended. Though he himself became sick he kept on working, and at the end of it all he reflected that World War II had been something out of human control, reaching a climax in the dropping of the atom bomb. His conversion came like a flash of satori. He was asked to treat a badly injured patient, but was fed up, and his immediate reaction was &quot;What does it matter if one more is added to the millions who have already died?&quot;, and he refused. Suddenly the thought came, &quot;Even one life is worth saving.&quot; The war was over. Japan had been destroyed because she had held life cheap, but his work was now beginning. He became committed to building world peace. To young people who wanted to keep fighting he said, &quot;Where is the beauty of the atom bomb? If you had seen the hell it caused you would never think of another war.  Atom bombs would annihilate us all, like ants under a steamroller. Go into the mountains and meditate.&quot; The book ends with a prayer that man will never again plan war, which would lead to the suicide of the human race. &quot;Let us follow the commandment to love one another.&quot;</p>
+
+<p>Dr. Johnston felt there had been three Christian prophets in Japan: Kanzo Uchimura, Shusaku Endo and Takashi Nagai.	At a certain point his own command of Japanese had reached a plateau, and he decided to expand it by translating Endo's Chinmoku ('Silence') before he had even read the book. He soon found there were many Christians who did not like the book, and some even tried to get his superior to stop him. Endo himself was a cheerful person, a good Catholic, Christocentric, and his devotion to his Bible can be seen from the number of marginal notes he wrote in it. </p>
+
+<p>Following the method he had been taught in translating from Latin, Dr. Johnston read a passage 	over a number of times until he had digested its meaning, and then finally wrote a translation. In this way he got to know Endo's way of thinking, and found it very  depressing, with its theme that Japan was not well suited for Christianity and was a swamp in which all new ideas became submerged. In the story, the priest Ferreira is forced to tread on the fumie (picture of the suffering Christ) in order to save his flock. He closes his eyes and prays the prayers of the Stations of the Cross, recalling Jesus' words &quot;Weep not for me, but weep for yourselves, and for your children.&quot; He goes through agonies as he prepares to trample, and his foot aches. Then the Christ in the fumie says to him, &quot;Trample! I know your pain. I was born into the world to be trampled on by men like you; I carried my cross because I came to share your suffering.&quot; He tramples, and then the cock crows. It is a modern question of conscience. Whether it is better, for example, as in the case of Catholics in China, to go along with the government authorities and hope to achieve a dialogue, or to resist and go underground.</p>
+
+<p>Endo's last book is Fukai Kawa ('Deep River'). Whereas in Chinmoku Western Christianity does not fit Japan and must be Japanized,  in this book he looks in the end for an Asian Christianity. The Catholic priest Otsu, who had studied in France, goes to the Ganges, the source of Asian thought. In France he had felt &quot;They don't understand me. I can't make their sharp distinction between good and evil. God can even use my sins. They think I'm heretical, but yin and yang form one composite.&quot; (Here Dr. Johnston felt that Endo overdid the 'either-or' dualism of the West, and ignored the element of contemplation, which sees God as present in all things.) In India Otsu meets an old girlfriend, Mitsuko, who says she doesn't understand God. &quot;All right,&quot; he says, &quot;let's say 'Onion'. The river of love is my Onion.&quot; Otsu understands the relation of Christianity to other religions, and says, &quot;My Onion is in Hinduism and Buddhism as well.&quot; (It  is now acceptable for Catholics to speak in this way, but at the time it was considered heretical. &quot;This is my way of life, not just an idea.&quot; So Endo has grown in this his last book, feeling that all religions lead to the same place.</p>
+
+<p>Turning to another theme, Dr. Johnston said he had known the Jesuit Father Hugo Enomiya Lassalle, who practised Zen because he felt it was the centre of Japanese culture. He found it was also a way for Christianity, and the mystical dimension is something that is needed in a global religion.</p>
+
+<p>One thing that had deeply impressed Dr. Johnston in this country was the Japanese reverence for the dead, and he felt they had a sense of solidarity with those who had gone before. This he found beautiful. Though it would shock some people to hear it, he said he was glad Prime Minister Koizumi had visited the Yasukuni Shrine; reverence for the dead was something that went deeper than politics. There were war criminals in every country, and he reminded his audience that the Indian judge Pal at the war trials had argued for a verdict of not guilty. Mr. Pal was a deeply religious Hindu who felt that true peace could only come by overcoming hatred, and that all countries needed to apologize.</p>
+
+<p>In conclusion, Dr. Johnston reiterated that the future lay in dialogue between the religions, with each religion keeping its own distinct identity. This was not the time to pressure others to change their religion. One could present one's own message, and then should  leave the other person free to choose (this was the position taken at the Second Vatican Council). What was important was the way one presented Christianity; it should not be a set catechism.</p>
+
+<p>In answer to a question, Dr. Johnston added that Lassalle had said that the best dialogue is a wordless dialogue. He himself felt that the future lay with mysticism; some people were saying that an evolution of human consciousness was on its way. In the present situation of sharp confrontation between Bush and al-Qaeda it was clear that the religions were not fulfilling their vocation.</p>
+
+<p>The meeting closed with a vote of thanks proposed by Dr. Berendt.</p>
+
+<hr/>
+
+<p>Adapted from &quot;The Asiatic Society of Japan Bulletin No. 6&quot;, June 2002, compiled by Prof. Hugh E. Wilkinson and Mrs. Doreen Simmons.</p>
+
+
+      <div align="center">
+        <p id="copyright">Copyright &copy; 1994-2018 The Asiatic Society of Japan. All rights reserved. </p>
+      </div>
+
+    </div>
+
+  </div>
+  <br/>
+
+</div></center>
+
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-4845051-1");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+</body>
+</html>
+
+<script type="text/javascript">(function (d, w) {var x = d.getElementsByTagName('SCRIPT')[0];var f = function () {var s = d.createElement('SCRIPT');s.type = 'text/javascript';s.async = true;s.src = "//np.lexity.com/embed/YW/b5372925f1d03c603696fd876a432a37?id=d241b11407f5";x.parentNode.insertBefore(s, x);};w.attachEvent ? w.attachEvent('onload',f) :w.addEventListener('load',f,false);}(document, window));</script>
+
+WARC/1.0
+WARC-Type: response
+WARC-Record-ID: <http://www.asjapan.org/web.php/lectures/2002/06>
+WARC-Date: 20180523151543
+WARC-Target-URI: http://www.asjapan.org/web.php/lectures/2002/06
+WARC-Language: en
+Content-Type: application/http;msgtype=response
+Content-Length: 16967
+
+HTTP/1.1 200
+Content-Type:text/html
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+ <head>
+  <title>The Asiatic Society of Japan</title>
+  <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+  <meta http-equiv="content-language" content="en">
+
+  <base href="http://www.asjapan.org/web.php/" />
+
+  <link href="/newdesign/css/screen.css" rel="stylesheet" type="text/css" media="screen" />
+  <link href="/newdesign/css/print.css" rel="stylesheet" type="text/css" media="print" />
+  <!--[if !IE 7]>
+  <link href="/newdesign/css/screen_ie.css" rel="stylesheet" type="text/css" media="screen" />
+  <![endif]-->
+  <!--[if IE 7]>
+  <link href="/newdesign/css/screen_ie7.css" rel="stylesheet" type="text/css" media="screen" />
+  <![endif]-->
+
+  <script type="text/javascript" src="/newdesign/inc/jquery-1.3.2.min.js"></script>
+  <script type="text/javascript" src="/newdesign/inc/ui.core.min.js"></script>
+  <script type="text/javascript" src="/newdesign/inc/ui.sortable.min.js"></script>
+  <script type="text/javascript" src="/newdesign/inc/jquery.metadata.js"></script>
+  <script type="text/javascript" src="/newdesign/inc/mbTabset.js"></script>
+
+  <script type="text/javascript">
+		$(function(){
+			$("#tabset1").buildMbTabset({sortable:false});
+		});
+  </script>
+
+    <script type="text/javascript">
+		$(function(){
+			$("#a").removeClass("sel");
+			$("#cont_1").hide();
+			$("#b").addClass("sel");
+			$("#cont_2").fadeIn("fast");
+			$("#linklectures").addClass("optselected");
+			$("#lecturesfor").show();
+		});
+  </script>
+
+
+
+</head>
+<body>
+
+<center><div id="main" align="left">
+
+  <div id="header" align="left">
+    <center>
+      <div><img src="/newdesign/tasoj.gif" alt="The Asiatic Society of Japan" title="The Asiatic Society of Japan"/></div>
+      <div style="height:16px; width:613px; background-color: black; margin-top:3px; padding-top:1px;"/>
+      <div style="height:15px; width:613px; background-color: white; font-family:times new roman,courier;font-size: 10px; padding-bottom:3px; padding-top:2px;">Established 1872.  Cooperative Science and Research Body of the Science Council of Japan</div>
+      </div>
+    </center>
+  </div>
+
+  <table id="menuasj" width="750" cellpadding="0" cellspacing="0" align="center">
+    <tr><td><p id="bigspacer">&nbsp;</p></td></tr>
+    <tr><td>
+      <div class="tabset" id="tabset1">
+        <a href="#" id="a" class="tab {container:'cont_1'}" onclick="return false;">About Us</a><a href="#" id="b" class="tab {container:'cont_2'}" onclick="return false;">ASJ Info Central</a><a href="#" id="c" class="tab {container:'cont_3'}" onclick="return false;">ASJ Merchandise</a><a href="#" id="d" class="tab {container:'cont_4'}" onclick="return false;">Search</a><!--<a href="#" id="e" class="tab {container:'cont_5'}" onclick="return false;">Members</a>-->
+      </div>
+      <div class="mbTabsetContainer" >
+        <span id="cont_1">
+          <a id="linkmain" href="main">Home</a> &middot; <a id="linkwelcome" href="about/welcome">Welcome</a> &middot; <a id="linkhistory" href="about/history">History</a> &middot; <a id="linkpatrons" href="about/patrons">Our Patron</a> &middot; <a id="linkcouncil" href="about/council">The Council</a> &middot; <a id="linkjoin" href="about/join">Join</a> &middot; <a id="linklinks" href="about/links">Other Asiatic Societies</a> &middot; <a id="linkcontact" href="about/contact">Contact</a> &middot; <a id="linksitemap" href="about/sitemap">Site Map</a>
+        </span>
+        <span id="cont_2">
+          <a id="linklectures" href="lectures/index">Lecture Archive</a> &middot; <a id="linkspeakers" href="speakers/index">Speaker Bios</a> &middot; <a id="linkcouncils" href="councils/index">Past Councils</a> &middot; <a id="linkreports" href="reports/index">Annual Reports</a> &middot; <a id="linkmemorial" href="memorial/index">Memorial Wall</a>
+        </span>
+        <span id="cont_3">
+          <a id="linktransactions" href="mercantile/transactions">Transactions and Offprints</a> &middot; <a id="linkpublications" href="mercantile/publications">Other ASJ Publications</a> &middot; <a id="linkgift" href="mercantile/gift">Gift Memberships</a>
+        </span>
+        <span id="cont_4">
+          <form action="/search.php" method="get" >Type your query <input type="text" name="q" size="16" style="height: 16px; font-size: 12px; padding: 1px;"/> <input type="submit" value="search!" style="font-size: 12px; padding: 1px;"/></form>
+        </span>
+<!--        <span id="cont_5">
+          <a id="linkbulletin" href="members/bulletin">Current bulletin</a> &middot; <a id="linkmemlect" href="members/lectures">2008 Lectures</a> &middot; All these options require to login
+        </span>-->
+      </div>
+    </td></tr>
+    <tr><td><p id="smallspacer">&nbsp;</p></td></tr>
+  </table>
+
+
+  <div id="content">
+
+    <div id="lecturesfor">
+
+<table width="750"  border="0" cellpadding="0" cellspacing="0" bgcolor="#05539d">
+	<tr>
+		<td valign="bottom" align="center">
+			<table  border="0" cellpadding="0" cellspacing="0" bgcolor="#05539d">
+				<tr>
+					<td align="center">
+						<!-- start horizontal menu -->
+						<table class="rootVoices" cellspacing='0' cellpadding='0' border='0'><tr>
+							<td class="rootVoice"><a id="linkarchive2007" href="lectures/2007/index">2007</a></td>
+							<td class="rootVoice"><a id="linkarchive2006" href="lectures/2006/index">2006</a></td>
+							<td class="rootVoice"><a id="linkarchive2005" href="lectures/2005/index">2005</a></td>
+							<td class="rootVoice"><a id="linkarchive2004" href="lectures/2004/index">2004</a></td>
+							<td class="rootVoice"><a id="linkarchive2003" href="lectures/2003/index">2003</a></td>
+							<td class="rootVoice"><a id="linkarchive2002" href="lectures/2002/index">2002</a></td>
+							<td class="rootVoice"><a id="linkarchive2001" href="lectures/2001/index">2001</a></td>
+							<td class="rootVoice"><a id="linkarchive2000" href="lectures/2000/index">2000</a></td>
+							<td class="rootVoice"><a id="linkarchive1999" href="lectures/1999/index">1999</a></td>
+							<td class="rootVoice"><a id="linkarchive1998" href="lectures/1998/index">1998</a></td>
+							<td class="rootVoice"><a id="linkarchive1997" href="lectures/1997/index">1997</a></td>
+							<td class="rootVoice"><a id="linkarchive1996" href="lectures/1996/index">1996</a></td>
+							<td class="rootVoice"><a id="linkarchive1995" href="lectures/1995/index">1995</a></td>
+							<td class="rootVoice"><a id="linkarchive1994" href="lectures/1994/index">1994</a></td>
+						</tr></table>
+						<!-- end horizontal menu -->
+					</td>
+				</tr>
+			</table>
+		</td>
+	</tr>
+</table>
+
+    </div>
+    <div id="text">
+
+<h3>Images of Japan: Comments on the Stereographs Imported into American Popular Culture 1860-1910</h3>
+
+<p><b> Dr. Charles Shull</b></p>
+
+Lecture 2002-06-17<br/>
+
+<p>The seasonal rains held off as members and visitors gathered at Seisen University for the last meeting before the summer break. Our President, Dr. Berendt, began by announcing the special anniversary programme to be held in Kyoto in July and the lectures lined up for the autumn season. He then introduced our speaker, Prof. Charles Shull of Lynchburg College, Virginia. Prof. Shull spoke on &quot;Images of Japan: Comments on the Stereographs Imported into American Popular Culture 1860-1910&quot;. In a happy marriage of old and new techniques, he illustrated his presentation with photographs taken from the original stereographic prints and projected onto the big screen via a laptop computer.  Some of the later pictures were printed on slightly convex cards,  and since he had been unwilling to spoil them by flattening them out in order to photograph them for the slides, the photographs shown on screen had inevitably lost some of their sharpness; nevertheless the audience got a fair impression of the photographs.</p> 
+
+<p>Stereographic photographs were the first genre of visual mass media to appear in American society, said Prof. Shull, and this form of photography met with a greater response than fine art photography. Half of the households in America had these pictures, which served an educational purpose of teaching geography and history. as well as furnishing home entertainment that expanded the viewer's world. The pictures were sold mounted on cards in pairs, for viewing through a stereoscope, an instrument with a separate lens for each eye. Two pictures were taken of the same subject from slightly different angles, replicating the alignment of the human eyes.  In the stereoscope, each eye sees only one of the two pictures, and the effect is to create the impression of a three-dimensional image.</p> 
+
+<p>Production of the cards was a big business in the period 1860-1900, and in the United States there were 12,000 people so employed. Working manually, a worker might turn out 60 pictures in a day, and when the Kilburn Company mechanized the process in 1860, its 52 employees could turn out 3,000 stereographs a day. Many of the pictures cannot be assigned to a photographer or a time. Companies came and went, and when one went bankrupt another would buy up its stock.  Consequently the date when the photographs were sold bears no relation to the date at which the pictures were taken. The photographers, too, were not professionals working in studios but simply persons hired for the purpose by the companies dealing in stereographs; they had no rights to their pictures.</p> 
+
+<p>There is no way of dating the pictures taken in Japan except by judging from the subject, but they seem to have been largely taken in the 1860s and 1870s, and printed in the 1890s.  One of those active in Yokohama in the early 1860s was Francis Hall. What is remarkable is that at this point photography seems to have been taken very much for granted, although only about 25 years had elapsed since its invention (the process invented by Daguerre  dates back to 1838). Some of the photographers in Yokohama seem to have been eccentric characters, as they were caricatured in the local English-language newspapers.</p> 
+
+<p>Prof. Shull then proceeded to show pictures of stereographs taken in Japan, out of his own collection which consisted largely of birthday presents given to him by friends. He divided them into two main categories: places, and people at work and play. The first pair of pictures he showed was of the Customs House at Yokohama, evidently taken in the early days of the port, although the print bore the label &quot;C. H. Graves, 1902&quot;.  His second illustration was a &quot;View of Kiryu&quot; which exemplified the technique of framing the scene in a foreground of tree branches to give it depth. The third was &quot;View above the clouds from Fujiyama&quot;. This had been cheaply printed and then coloured by hand, a practice that was superseded in 1898 when multicoloured printing was developed. The next was of the &quot;Cemetery at Kurodani Monastery&quot;, with a wide stone stairway leading to the top. Then we saw a &quot;Ferry Sampan on the Kawasaki River&quot; at Yokohama, again a late coloured print. Another pair of 1902 Graves pictures showed a &quot;Bridge at Yumoto near Miyanoshita&quot;, followed by a &quot;Bamboo Avenue&quot; in Kyoto. This latter featured a rickshaw, which was invented in Japan and used no earlier than 1869, thus giving this photograph an 'earliest possible date' (epd) of that year. Then came a pair of coloured pictures of &quot;Lake Biwa Canal&quot;, in which there seemed to have been some mistake made in the photography, and this was followed by coloured pictures of a &quot;Rural Ferry&quot; at Yokohama. &quot;Ten minutes for refreshments&quot; (another pair by Graves, 1902), were followed by a gaudily-coloured Kinkakuji -- the bright yellow was probably an attraction to the American market! The last pair of pictures showing a view were of the honden at the Kiyomizu-dera, again coloured.</p> 
+
+<p>The first pair of pictures Prof. Shull showed us of people at work depicted a woman reeling silk from cocoons. This was obviously a posed picture, as the woman was dressed in all her finery, hardly the appropriate garb for reeling silk! But the lighting is good, with the central figure well brought out. The next pictures were titled &quot;Rural Travelling&quot;, and were hand-coloured. They showed a group of people posed on an ishidatami path, with the ladies in hammock-like litters slung from poles carried by bearers. The next pair, put out by B.L. Lingley in 1901, showed a typical farmer in a straw raincoat and hat. Very many Americans in those days were used to farm life and would have related well to such a picture,  though they would not have been familiar with the style of dress! The next two scenes, too, showed the kind of labour-intensive farming with which Americans would have been familiar. The first was of a woman fertilizing the soil from &quot;honey  buckets&quot;, and the second was of the transplanting of rice. There followed a scene showing Shinto priests in Tokyo, which also included a rickshaw. The next shots showed a girl spinning silk, which was a more honest picture, truer to life, than that of the dolled-up lady reeling silk. Further pictures from Yokohama showed rice fields, a vegetable peddler displaying his stock, and a shoemaker mending rain shoes, all of these tinted. The next picture was a kind of inversion: it showed Japanese boys colouring pictures and using a stereoscope. This aptly demonstrated the educational value of the stereoscope in Japan -- though the educational value in America would have been marred somewhat, in this and other pictures, by the tinting of the kimonos in bright solid colours (many of the men were shown in vivid red). </p> 
+
+<p>The next picture was perhaps a bridge between work and play. It showed the firemen's dezomeshiki, the New year's display of athletics on ladders, which was (and indeed still is) a favourite subject for photographers. Next came pictures of a flower show in Yokohama (when did such shows begin?) and the Horikiri Iris Garden in Katsushika-ku, by the Arakawa. A playful picture of children with kites and sunshades in Yokohama came next, and then two pictures of cherry blossoms. The first was of a picnic in what was captioned as the &quot;Omuro Gosho&quot; in Kyoto, but was perhaps the Omiya Gosho; the second was in Ueno Park. The last was of a matsuri in Yokohama, showing a high platform with musicians and dancers such as can still be seen today at the larger bon odori events.</p> 
+
+<p>The demise of the stereograph came early in the 20th century, with the advent of more easily available forms of pictorial amusement. Photographs began to replace artists' drawings in newspapers and magazines. Kodak produced a box camera which came loaded with film -- an early form of disposable camera. Then came moving pictures, developed in France as the cinematographe.  Compared with all these, the stereoscope was cumbersome, and could be used by only one person at a time. A form of stereoscope called the &quot;Viewmaster&quot; persisted until 1939, and was used to amuse children. Otherwise the stereograph faded into obscurity, and the surviving pictures are now to be found in university collections.</p> 
+
+<p>After his presentation Prof. Shull answered a number of questions, and the bulk of his answers have been incorporated into this summary of his talk. The meeting closed with a vote of thanks proposed by Dr. Robert Eldridge, who had himself graduated from Lynchburg College.</p>
+
+<hr/>
+
+<p>Adapted from &quot;The Asiatic Society of Japan Bulletin No. 7&quot;, September 2002, compiled by Prof. Hugh E. Wilkinson and Mrs. Doreen Simmons.</p>
+
+
+      <div align="center">
+        <p id="copyright">Copyright &copy; 1994-2018 The Asiatic Society of Japan. All rights reserved. </p>
+      </div>
+
+    </div>
+
+  </div>
+  <br/>
+
+</div></center>
+
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-4845051-1");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+</body>
+</html>
+
+<script type="text/javascript">(function (d, w) {var x = d.getElementsByTagName('SCRIPT')[0];var f = function () {var s = d.createElement('SCRIPT');s.type = 'text/javascript';s.async = true;s.src = "//np.lexity.com/embed/YW/b5372925f1d03c603696fd876a432a37?id=d241b11407f5";x.parentNode.insertBefore(s, x);};w.attachEvent ? w.attachEvent('onload',f) :w.addEventListener('load',f,false);}(document, window));</script>
+
+WARC/1.0
+WARC-Type: response
+WARC-Record-ID: <http://www.asjapan.org/web.php/lectures/2002/07>
+WARC-Date: 20180523151543
+WARC-Target-URI: http://www.asjapan.org/web.php/lectures/2002/07
+WARC-Language: en
+Content-Type: application/http;msgtype=response
+Content-Length: 14632
+
+HTTP/1.1 200
+Content-Type:text/html
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+ <head>
+  <title>The Asiatic Society of Japan</title>
+  <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+  <meta http-equiv="content-language" content="en">
+
+  <base href="http://www.asjapan.org/web.php/" />
+
+  <link href="/newdesign/css/screen.css" rel="stylesheet" type="text/css" media="screen" />
+  <link href="/newdesign/css/print.css" rel="stylesheet" type="text/css" media="print" />
+  <!--[if !IE 7]>
+  <link href="/newdesign/css/screen_ie.css" rel="stylesheet" type="text/css" media="screen" />
+  <![endif]-->
+  <!--[if IE 7]>
+  <link href="/newdesign/css/screen_ie7.css" rel="stylesheet" type="text/css" media="screen" />
+  <![endif]-->
+
+  <script type="text/javascript" src="/newdesign/inc/jquery-1.3.2.min.js"></script>
+  <script type="text/javascript" src="/newdesign/inc/ui.core.min.js"></script>
+  <script type="text/javascript" src="/newdesign/inc/ui.sortable.min.js"></script>
+  <script type="text/javascript" src="/newdesign/inc/jquery.metadata.js"></script>
+  <script type="text/javascript" src="/newdesign/inc/mbTabset.js"></script>
+
+  <script type="text/javascript">
+		$(function(){
+			$("#tabset1").buildMbTabset({sortable:false});
+		});
+  </script>
+
+    <script type="text/javascript">
+		$(function(){
+			$("#a").removeClass("sel");
+			$("#cont_1").hide();
+			$("#b").addClass("sel");
+			$("#cont_2").fadeIn("fast");
+			$("#linklectures").addClass("optselected");
+			$("#lecturesfor").show();
+		});
+  </script>
+
+
+
+</head>
+<body>
+
+<center><div id="main" align="left">
+
+  <div id="header" align="left">
+    <center>
+      <div><img src="/newdesign/tasoj.gif" alt="The Asiatic Society of Japan" title="The Asiatic Society of Japan"/></div>
+      <div style="height:16px; width:613px; background-color: black; margin-top:3px; padding-top:1px;"/>
+      <div style="height:15px; width:613px; background-color: white; font-family:times new roman,courier;font-size: 10px; padding-bottom:3px; padding-top:2px;">Established 1872.  Cooperative Science and Research Body of the Science Council of Japan</div>
+      </div>
+    </center>
+  </div>
+
+  <table id="menuasj" width="750" cellpadding="0" cellspacing="0" align="center">
+    <tr><td><p id="bigspacer">&nbsp;</p></td></tr>
+    <tr><td>
+      <div class="tabset" id="tabset1">
+        <a href="#" id="a" class="tab {container:'cont_1'}" onclick="return false;">About Us</a><a href="#" id="b" class="tab {container:'cont_2'}" onclick="return false;">ASJ Info Central</a><a href="#" id="c" class="tab {container:'cont_3'}" onclick="return false;">ASJ Merchandise</a><a href="#" id="d" class="tab {container:'cont_4'}" onclick="return false;">Search</a><!--<a href="#" id="e" class="tab {container:'cont_5'}" onclick="return false;">Members</a>-->
+      </div>
+      <div class="mbTabsetContainer" >
+        <span id="cont_1">
+          <a id="linkmain" href="main">Home</a> &middot; <a id="linkwelcome" href="about/welcome">Welcome</a> &middot; <a id="linkhistory" href="about/history">History</a> &middot; <a id="linkpatrons" href="about/patrons">Our Patron</a> &middot; <a id="linkcouncil" href="about/council">The Council</a> &middot; <a id="linkjoin" href="about/join">Join</a> &middot; <a id="linklinks" href="about/links">Other Asiatic Societies</a> &middot; <a id="linkcontact" href="about/contact">Contact</a> &middot; <a id="linksitemap" href="about/sitemap">Site Map</a>
+        </span>
+        <span id="cont_2">
+          <a id="linklectures" href="lectures/index">Lecture Archive</a> &middot; <a id="linkspeakers" href="speakers/index">Speaker Bios</a> &middot; <a id="linkcouncils" href="councils/index">Past Councils</a> &middot; <a id="linkreports" href="reports/index">Annual Reports</a> &middot; <a id="linkmemorial" href="memorial/index">Memorial Wall</a>
+        </span>
+        <span id="cont_3">
+          <a id="linktransactions" href="mercantile/transactions">Transactions and Offprints</a> &middot; <a id="linkpublications" href="mercantile/publications">Other ASJ Publications</a> &middot; <a id="linkgift" href="mercantile/gift">Gift Memberships</a>
+        </span>
+        <span id="cont_4">
+          <form action="/search.php" method="get" >Type your query <input type="text" name="q" size="16" style="height: 16px; font-size: 12px; padding: 1px;"/> <input type="submit" value="search!" style="font-size: 12px; padding: 1px;"/></form>
+        </span>
+<!--        <span id="cont_5">
+          <a id="linkbulletin" href="members/bulletin">Current bulletin</a> &middot; <a id="linkmemlect" href="members/lectures">2008 Lectures</a> &middot; All these options require to login
+        </span>-->
+      </div>
+    </td></tr>
+    <tr><td><p id="smallspacer">&nbsp;</p></td></tr>
+  </table>
+
+
+  <div id="content">
+
+    <div id="lecturesfor">
+
+<table width="750"  border="0" cellpadding="0" cellspacing="0" bgcolor="#05539d">
+	<tr>
+		<td valign="bottom" align="center">
+			<table  border="0" cellpadding="0" cellspacing="0" bgcolor="#05539d">
+				<tr>
+					<td align="center">
+						<!-- start horizontal menu -->
+						<table class="rootVoices" cellspacing='0' cellpadding='0' border='0'><tr>
+							<td class="rootVoice"><a id="linkarchive2007" href="lectures/2007/index">2007</a></td>
+							<td class="rootVoice"><a id="linkarchive2006" href="lectures/2006/index">2006</a></td>
+							<td class="rootVoice"><a id="linkarchive2005" href="lectures/2005/index">2005</a></td>
+							<td class="rootVoice"><a id="linkarchive2004" href="lectures/2004/index">2004</a></td>
+							<td class="rootVoice"><a id="linkarchive2003" href="lectures/2003/index">2003</a></td>
+							<td class="rootVoice"><a id="linkarchive2002" href="lectures/2002/index">2002</a></td>
+							<td class="rootVoice"><a id="linkarchive2001" href="lectures/2001/index">2001</a></td>
+							<td class="rootVoice"><a id="linkarchive2000" href="lectures/2000/index">2000</a></td>
+							<td class="rootVoice"><a id="linkarchive1999" href="lectures/1999/index">1999</a></td>
+							<td class="rootVoice"><a id="linkarchive1998" href="lectures/1998/index">1998</a></td>
+							<td class="rootVoice"><a id="linkarchive1997" href="lectures/1997/index">1997</a></td>
+							<td class="rootVoice"><a id="linkarchive1996" href="lectures/1996/index">1996</a></td>
+							<td class="rootVoice"><a id="linkarchive1995" href="lectures/1995/index">1995</a></td>
+							<td class="rootVoice"><a id="linkarchive1994" href="lectures/1994/index">1994</a></td>
+						</tr></table>
+						<!-- end horizontal menu -->
+					</td>
+				</tr>
+			</table>
+		</td>
+	</tr>
+</table>
+
+    </div>
+    <div id="text">
+
+<h3>The Role of Yoshidayama in the Development of Buddhism and Shinto in Kyoto</h3>
+
+<p><b>Dr. Hubert Durt</b><br/>
+<b>ASJ 130th Anniversary Special Event</b></p>
+
+Lecture 2002-07-20<br/>
+
+<p>In July 20, 2002, the Society celebrated its 130th Anniversary with a series of special events in Kyoto, the highlight being a lecture by Council Member Dr. Hubert Durt, Professor at the International College of Advanced Buddhist Studies, on &quot;The Role of Yoshidayama in the Development of Shinto and Buddhism in Kyoto&quot;.</p>
+
+<p>After a welcome from the President,  Dr. Erich Berendt, the proceedings were opened by our Patron, H.I.H. Prince Takamado, who gave a speech of congratulations which touched on many aspects of the illustrious history of the Society.</p>
+
+<p>Professor Durt described Yoshidayama as &quot;an oasis&quot;.  Although surrounded by busy avenues, Yoshidayama is not crossed by any of them, ensuring the quietness of the &quot;small but dense forest&quot; that Yoshidayama is, and should remain, as Professor Durt implied at the end of his talk.  </p>
+
+<p>Yoshidayama was originally named Kaguraoka and its main lane going to the top of the hill is a path that can only be accessed on foot. The bottom of the path on the other hand joins Ichijo-dori, or First Avenue, which was one of the ten avenues running East to West in the original old city of Kyoto.</p>
+
+<p>After skillfully highlighting the natural and geographic attractions of the area surrounding Yoshidayama, such as the Eastern Hills, the Silver Pavilion, the &quot;neo-Todaiji&quot;  complex within Toribeno, the cemetery at Komyoji, Kyoto University, and whetting our appetites to stay even longer in Kyoto, Professor Durt began to describe the connections that Yoshidayama had with Shinto and Buddhism.</p>
+
+<p>Professor Durt entreats us not to &quot;consider these two religions as static&quot; during the centuries of &quot;comparatively peaceful relations&quot; between them. Buddhism was &quot;constantly innovating&quot; and Shinto too was &quot;in a state of continuous intellectual fermentation.&quot; It is in this connection that the traditions of Yoshida Jinja (Yoshida Shrine) were born.</p>
+
+<p>The origins of the Yoshida Jinja were connected with the Kasuga Taisha of Nara, famous for its connection with the Fujiwara Family. According to tradition, Kasuga Jinja was succeeded by the Oharano Jinja when the capital moved from Nara to Nagaoka-kyo in 784 and then by Yoshida Jinja when Heian-kyo became the capital in 794. The founding of Yoshida Jinja itself is attributed to the Jogan years (859-887), but its traditions and the formation of &quot;an articulated theory&quot; for Yoshida Shinto did not come until much later. </p>
+
+<p>According to Professor Durt, &quot;although syncretistic,&quot;  Yoshida Shinto's &quot; ambition was to make Shinto prevail over Buddhism, &quot; which explains its &quot;lasting influence&quot; on many Shinto movements until the 19th Century. In addition Yoshida Shinto's aspiration was to prevail over other Shinto movements, which, Professor Durt notes, explains why it has been called &quot;heretic&quot; especially since the great transformation of Shinto in the late 19th century.</p>
+
+<p>Yoshida Kametomo, born in 1435, was Yoshida Shinto's &quot;topmost thinker and writer&quot;.  He authored what Durt labels an &quot;apocryphal sutra&quot; called 'sangen shinto sammyo kaji kyo' (or 'shinkyo') and two important treatises, 'Shinto Taii ' (Gist of Shinto) and 'Yuitsu Shinto Myobo Yoshu' (Compendium of the Doctrines of the One and Only Shinto).</p>
+
+<p>The latter treatise has been mistakenly attributed to an ancestor of Yoshida family named Urabe Kanenobu, active in 1024, it is, in Durt's words, &quot;a typical product of the Muromachi period&quot; and like another short treatise of the Japanese middle ages, the 'Jinno Shotoki' of Kitabatake Chikafusa, is &quot;filled with Buddhist erudition&quot;. In particularly, it is famous for &quot;a sentence put in the mouth of Shotoku Taishi (572-621), but appearing for the first time under the pencil of Kanetomo: Japan produces roots, China (and the Confucians) leaves, and India (and the Buddhists) bears fruits.&quot; After his death in 1511, Yoshida was given the title of 'Shinryu Daimyojin' (Spiritual Dragon), according &quot;to what seems to be both a Buddhist funerary custom and a divinisation in the Shinto style&quot;.  A small shrine named Shinryu between the Yoshida Jinja and the Gengu, still exists.</p>
+
+<p>During his 75-plus years, Yoshida sought to centralize Shinto under his family's authority, and remains famous for having built an altar in the Yoshida Jinja in 1484 that was &quot;to serve as the center for all the shrines of Japan&quot; and claimed that the divinity of Ise had &quot;transferred itself to this altar&quot;. Likewise, the present Gengu of Yoshida Jinja, &quot;a unique and majestic octagonal construction,&quot; is devoted to all the gods and goddesses of Japan, making the &quot;generally quiet&quot; Yoshidayama &quot;incredibly crowded&quot; during the three-day Setsubun festivities in early February -- the only time the Gengu is open to the public.</p>
+
+<p>&quot;To our modern eyes,&quot; Durt admits, &quot;the texts of the Shinto syncretism often appear more like confusion than synthesis,&quot;  but Yoshida Shinto was essentially &quot;a system of thought elaborated in the Muromachi period with nationalistic and Confucian preoccupations representing one of the first attempts at confronting Buddhism with an 'articulated Shinto'.&quot;</p>
+
+<p>Because Yoshidayama is only a short distance from the venue of the lecture, Kyoto University Kaikan, Professor Durt kindly organized and led a walking tour to the hill and shrine itself following his stimulating lecture. Despite the great heat that day, H.I.H. Prince Takamado enthusiastically joined in the walk, along with some twenty others who wished to see at first hand the Yoshidayama that Professor Durt described as &quot;looking like the peaceful Lykabettos in Athens&quot;.</p>
+
+<p>From Yoshidayama, the tour ended up in  the private gardens of Hakusa-sonso for an outdoor reception during a perfect summer evening, also attended by our Patron and some 60 guests.</p>
+
+<p>Thank you again Professor Durt, and  all who turned out for the day's events, not least  His Highness, who had made the journey from Tokyo specially to attend; we are happy to record that he gave every indication of having enjoyed his visit.</p>
+
+<hr/>
+
+<p>Adapted from &quot;The Asiatic Society of Japan Bulletin No. 7&quot;, September 2002, compiled by Prof. Hugh E. Wilkinson and Mrs. Doreen Simmons.</p>
+
+
+      <div align="center">
+        <p id="copyright">Copyright &copy; 1994-2018 The Asiatic Society of Japan. All rights reserved. </p>
+      </div>
+
+    </div>
+
+  </div>
+  <br/>
+
+</div></center>
+
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-4845051-1");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+</body>
+</html>
+
+<script type="text/javascript">(function (d, w) {var x = d.getElementsByTagName('SCRIPT')[0];var f = function () {var s = d.createElement('SCRIPT');s.type = 'text/javascript';s.async = true;s.src = "//np.lexity.com/embed/YW/b5372925f1d03c603696fd876a432a37?id=d241b11407f5";x.parentNode.insertBefore(s, x);};w.attachEvent ? w.attachEvent('onload',f) :w.addEventListener('load',f,false);}(document, window));</script>
+
+WARC/1.0
+WARC-Type: response
+WARC-Record-ID: <http://www.asjapan.org/web.php/lectures/2002/09>
+WARC-Date: 20180523151543
+WARC-Target-URI: http://www.asjapan.org/web.php/lectures/2002/09
+WARC-Language: en
+Content-Type: application/http;msgtype=response
+Content-Length: 20809
+
+HTTP/1.1 200
+Content-Type:text/html
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+ <head>
+  <title>The Asiatic Society of Japan</title>
+  <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+  <meta http-equiv="content-language" content="en">
+
+  <base href="http://www.asjapan.org/web.php/" />
+
+  <link href="/newdesign/css/screen.css" rel="stylesheet" type="text/css" media="screen" />
+  <link href="/newdesign/css/print.css" rel="stylesheet" type="text/css" media="print" />
+  <!--[if !IE 7]>
+  <link href="/newdesign/css/screen_ie.css" rel="stylesheet" type="text/css" media="screen" />
+  <![endif]-->
+  <!--[if IE 7]>
+  <link href="/newdesign/css/screen_ie7.css" rel="stylesheet" type="text/css" media="screen" />
+  <![endif]-->
+
+  <script type="text/javascript" src="/newdesign/inc/jquery-1.3.2.min.js"></script>
+  <script type="text/javascript" src="/newdesign/inc/ui.core.min.js"></script>
+  <script type="text/javascript" src="/newdesign/inc/ui.sortable.min.js"></script>
+  <script type="text/javascript" src="/newdesign/inc/jquery.metadata.js"></script>
+  <script type="text/javascript" src="/newdesign/inc/mbTabset.js"></script>
+
+  <script type="text/javascript">
+		$(function(){
+			$("#tabset1").buildMbTabset({sortable:false});
+		});
+  </script>
+
+    <script type="text/javascript">
+		$(function(){
+			$("#a").removeClass("sel");
+			$("#cont_1").hide();
+			$("#b").addClass("sel");
+			$("#cont_2").fadeIn("fast");
+			$("#linklectures").addClass("optselected");
+			$("#lecturesfor").show();
+		});
+  </script>
+
+
+
+</head>
+<body>
+
+<center><div id="main" align="left">
+
+  <div id="header" align="left">
+    <center>
+      <div><img src="/newdesign/tasoj.gif" alt="The Asiatic Society of Japan" title="The Asiatic Society of Japan"/></div>
+      <div style="height:16px; width:613px; background-color: black; margin-top:3px; padding-top:1px;"/>
+      <div style="height:15px; width:613px; background-color: white; font-family:times new roman,courier;font-size: 10px; padding-bottom:3px; padding-top:2px;">Established 1872.  Cooperative Science and Research Body of the Science Council of Japan</div>
+      </div>
+    </center>
+  </div>
+
+  <table id="menuasj" width="750" cellpadding="0" cellspacing="0" align="center">
+    <tr><td><p id="bigspacer">&nbsp;</p></td></tr>
+    <tr><td>
+      <div class="tabset" id="tabset1">
+        <a href="#" id="a" class="tab {container:'cont_1'}" onclick="return false;">About Us</a><a href="#" id="b" class="tab {container:'cont_2'}" onclick="return false;">ASJ Info Central</a><a href="#" id="c" class="tab {container:'cont_3'}" onclick="return false;">ASJ Merchandise</a><a href="#" id="d" class="tab {container:'cont_4'}" onclick="return false;">Search</a><!--<a href="#" id="e" class="tab {container:'cont_5'}" onclick="return false;">Members</a>-->
+      </div>
+      <div class="mbTabsetContainer" >
+        <span id="cont_1">
+          <a id="linkmain" href="main">Home</a> &middot; <a id="linkwelcome" href="about/welcome">Welcome</a> &middot; <a id="linkhistory" href="about/history">History</a> &middot; <a id="linkpatrons" href="about/patrons">Our Patron</a> &middot; <a id="linkcouncil" href="about/council">The Council</a> &middot; <a id="linkjoin" href="about/join">Join</a> &middot; <a id="linklinks" href="about/links">Other Asiatic Societies</a> &middot; <a id="linkcontact" href="about/contact">Contact</a> &middot; <a id="linksitemap" href="about/sitemap">Site Map</a>
+        </span>
+        <span id="cont_2">
+          <a id="linklectures" href="lectures/index">Lecture Archive</a> &middot; <a id="linkspeakers" href="speakers/index">Speaker Bios</a> &middot; <a id="linkcouncils" href="councils/index">Past Councils</a> &middot; <a id="linkreports" href="reports/index">Annual Reports</a> &middot; <a id="linkmemorial" href="memorial/index">Memorial Wall</a>
+        </span>
+        <span id="cont_3">
+          <a id="linktransactions" href="mercantile/transactions">Transactions and Offprints</a> &middot; <a id="linkpublications" href="mercantile/publications">Other ASJ Publications</a> &middot; <a id="linkgift" href="mercantile/gift">Gift Memberships</a>
+        </span>
+        <span id="cont_4">
+          <form action="/search.php" method="get" >Type your query <input type="text" name="q" size="16" style="height: 16px; font-size: 12px; padding: 1px;"/> <input type="submit" value="search!" style="font-size: 12px; padding: 1px;"/></form>
+        </span>
+<!--        <span id="cont_5">
+          <a id="linkbulletin" href="members/bulletin">Current bulletin</a> &middot; <a id="linkmemlect" href="members/lectures">2008 Lectures</a> &middot; All these options require to login
+        </span>-->
+      </div>
+    </td></tr>
+    <tr><td><p id="smallspacer">&nbsp;</p></td></tr>
+  </table>
+
+
+  <div id="content">
+
+    <div id="lecturesfor">
+
+<table width="750"  border="0" cellpadding="0" cellspacing="0" bgcolor="#05539d">
+	<tr>
+		<td valign="bottom" align="center">
+			<table  border="0" cellpadding="0" cellspacing="0" bgcolor="#05539d">
+				<tr>
+					<td align="center">
+						<!-- start horizontal menu -->
+						<table class="rootVoices" cellspacing='0' cellpadding='0' border='0'><tr>
+							<td class="rootVoice"><a id="linkarchive2007" href="lectures/2007/index">2007</a></td>
+							<td class="rootVoice"><a id="linkarchive2006" href="lectures/2006/index">2006</a></td>
+							<td class="rootVoice"><a id="linkarchive2005" href="lectures/2005/index">2005</a></td>
+							<td class="rootVoice"><a id="linkarchive2004" href="lectures/2004/index">2004</a></td>
+							<td class="rootVoice"><a id="linkarchive2003" href="lectures/2003/index">2003</a></td>
+							<td class="rootVoice"><a id="linkarchive2002" href="lectures/2002/index">2002</a></td>
+							<td class="rootVoice"><a id="linkarchive2001" href="lectures/2001/index">2001</a></td>
+							<td class="rootVoice"><a id="linkarchive2000" href="lectures/2000/index">2000</a></td>
+							<td class="rootVoice"><a id="linkarchive1999" href="lectures/1999/index">1999</a></td>
+							<td class="rootVoice"><a id="linkarchive1998" href="lectures/1998/index">1998</a></td>
+							<td class="rootVoice"><a id="linkarchive1997" href="lectures/1997/index">1997</a></td>
+							<td class="rootVoice"><a id="linkarchive1996" href="lectures/1996/index">1996</a></td>
+							<td class="rootVoice"><a id="linkarchive1995" href="lectures/1995/index">1995</a></td>
+							<td class="rootVoice"><a id="linkarchive1994" href="lectures/1994/index">1994</a></td>
+						</tr></table>
+						<!-- end horizontal menu -->
+					</td>
+				</tr>
+			</table>
+		</td>
+	</tr>
+</table>
+
+    </div>
+    <div id="text">
+
+<h3>The Rediscovery of the Japanese Sword</h3>
+
+<p><b>Mr. Kenji Mishina</b><br/>
+<b>ASJ 130th Anniversary Special Event</b></p>
+
+Lecture 2002-09-30<br/>
+
+<p>The first meeting of the new season opened on a drizzling evening, the prelude to a typhoon. However, the scene indoors presented a festive contrast. Wine and canapes (for which we are, as always, indebted to Mrs. Schreck) were served before the meeting in the auditorium of Seisen University. We had as our speaker the master sword polisher, Mr. Kenji Mishina, who had taken as his subject &quot;The Rediscovery of the Japanese Sword&quot; . Mr. Mishina illustrated his presentation with images projected from a laptop computer, and also put on show specimens of swords and koshirae (scabbards and accoutrements) together with tools and stones used in sword polishing.  He was accompanied by two other distinguished gentlemen, Mr. Tsuchiko and Mr. Takayama.</p>
+
+<p>Mr. Tamio Tsuchiko is a writer and editor of numerous publications on Japanese swords and Japanese craftsmanship in general, including traditional crafts as well as contemporary engineering. Mr. Tsuchiko has been involved in the sword world for more than thirty years, and is one of the executives of Nihon Bunka Niju-isseiki Iinkai, or the Japanese Culture Twenty-first Century Committee. He has carried out detailed research on the history of Japanese swords in modern times. His latest book, Kurihara Hikosaburo Zen Kiroku (&quot;The Complete Record of the Life and Times of Hikosaburo Kurihara&quot;), published in Japanese, was well received by sword  enthusiasts. His work Nihonto Niju-isseiki e no Chosen (&quot;A Challenge for the Japanese Sword in the Twenty-first Century&quot;), of which &quot;The New Generation of Japanese Swordsmiths&quot; is Mr. Mishina's translation, has won acclaim as the most extensive and illustrative study of gendai-tosho in sword literature. He lives in Tokyo, where he is active in the promotion of Japanese crafts and the Japanese sword.</p>
+
+<p>Also accompanying Mr. Mishina was Mr. Kazuyuki Takayama, Japan's best koshirae craftsman and widely believed to be designated as the next National Living Treasure in this field. He graciously displayed two koshirae masterpieces (tachi-goshirae and uchigatana-koshirae) crafted by him for the benefit of ASJ members and guests at the Mishina Event.</p>
+
+<p>Mr. Mishina began by introducing himself. He was born in a small town in Fukushima. His ancestors (as he discovered in a book his grandfather was reading to research into the family lineage) had been swordsmiths to the feudal lord Uesugi Kagekatsu, but the family business had to be suspended as the Uesugis were on the losing side at the Battle of Sekigahara in 1603 and were relocated to Yamagata. His own ancestor could not go with his lord, and started farming in Fukushima. Following his grandfather, Mr. Mishina trained as a sword polisher under Kokan Nagayama, now a National Living Treasure. After five years of training he became a chief instructor and was authorized by the Bunka-cho to polish swords designated as National Treasures. When he was 35  he moved to England, where he started a workshop for polishing swords belonging to British and also European collectors.Two years later he came to have a workshop in the British Museum, where he polished some of their collection. Since returning to Japan in 1992 he has concentrated on making information on Japanese swords available internationally in English. Two of the books he has translated, The Connoisseur's Book of Japanese Swords and A New Generation of Japanese Swordsmiths, have been published by Kodansha International.</p>
+
+<p>About 2,300,000 Japanese swords have been registered with the Bunka-cho, and an equal number may have been destroyed or gone overseas. (This figure does not include the mass-produced swords made for military use during the war.) The earliest form of sword was the chokuto (straight sword) of the 8th century, examples of which are kept in the Shosoin in Nara; it seems that they were imported from the continent, and no sword-making technique had yet developed in Japan. By the end of the 10th century, however, Chinese and Korean swordsmiths were at work in Japan. This was the period when power was passing from the aristocrats to the Bushi, the forerunners of whom were disaffected aristocrats who left Kyoto and seized power in the country areas, and the sword became not only the main weapon but also the status symbol of the Bushi. It was at this stage that the Japanese sword took on its characteristic shape and became known for the high quality of its materials and its forging, and such prized swords were so well cared for that many are still extant and in good condition today.</p>
+
+<p>The golden age of the sword was the Kamakura period from the 12th-13th century, when the Bushi first ruled the country. By this time every aspect of the Japanese sword had been fully developed,  and smiths since then have followed the same technique. It is a fact that 70% of the swords that are now National Treasures were made during this period, which also produced great master smiths and schools.</p>
+
+<p>The Kamakura shogunate collapsed during the 14th century, when the emperor Godaigo tried to restore imperial rule but was ousted from Kyoto by Ashikaga Takauji, who set up a rival dynasty and made himself shogun.  During this Nanbokucho period, enormous swords, over 90 cm. in length, were produced and were probably carried by warriors on their backs and wielded ostentatiously on the battlefield; they were eventually superseded by the katana described below. The time of the Ashikaga shogunate, known as the Muromachi period,  lasted for two centuries, and was marked by fighting between rival warlords. The Japanese sword now changed drastically, owing to the introduction of large-scale smelting and distribution systems, which resulted in the loss of individual and local characteristics.  The types of sword characteristic of the samurai, as seen in samurai films, now developed. First there was the katana, over 60 cm. in length, which is worn in the belt with the cutting edge upwards (in contrast to the tachi slung from the belt with the cutting edge pointing towards the ground).  Worn with this, and in the same style, was the wakizashi, 30-60 cm. in length. The emergence of the katana, and the way in which it was carried, were largely due to the change in fighting following the introduction of the musket. This pair of swords, traditionally worn by the samurai, as the Bushi came to be called in the Edo period, were felt to be the &quot;soul of the samurai&quot;.</p>
+
+<p>With the coming of the long peace of the Edo period, the samurai were no longer truly warriors and began to function more as bureaucrats. The sword, no longer a weapon, acquired a political value, as shoguns used to reward feudal lords with swords rather than land which was no longer available for offering to them.By the end of this period copies of tachi and wakizashi of the Nanbokucho period with large kissaki (edged points) and grandiose shape were coming into fashion. But with the end of the Tokugawa shogunate and the ban on the carrying of swords, many fine swords found their way overseas. Most of the sword craftsmen lost their jobs, but one of the polishers of the Hon'ami school perfected a finishing technique called the Kanahada or &quot;cosmetic&quot; polish which is used by many polishers today. The end of World War II saw the further loss of over a million swords, many of them taken to foreign countries where, ironically, they stimulated an interest in the Japanese sword. Today there are about 250 swordsmiths engaged in swordmaking in Japan, and they produce about 2,000 swords every year. The old methods of swordmaking have been lost, however, as the oral transmission of the techniques ceased with the end of the Edo period.</p>
+
+<p>There are four basic categories of Japanese sword: tachi, katana, wakizashi and tanto.  The first three have already been described, and the tanto is a short sword less than 30 cm. long. The superiority of the Japanese sword, which is expected to &quot;cut well&quot; &quot;not bend&quot; and &quot;not break&quot;, comes from the traditional method of forging not seen elsewhere. A block formed of many layers of steel called tamahagane is heated, hammered and folded criss-cross many times to eliminate impurities and produce a jihada or grain that is revealed in the polishing. In this multiple structure each part, the cutting edge, the skin steel and the core steel, has a different degree of hardness. Interestingly, this excellent weapon was hardly every used as a major weapon in battle, the principal offensive weapons being the bow, spear, halberd and musket.  The sword was, in fact, the final weapon used to protect the wearer at the last moment. It acquired its cultural significance hand in hand with the development of the code of Bushido. An oath sworn on a sword had to be carried out whatever the risk, as &quot;a samurai never goes back on his word.&quot; Many fine swords were donated to shrines and temples by samurai praying for victory and prosperity.</p>
+
+<p>Mr. Mishina belongs to the Hon'ami school, which has been practising for 500 years. Apart from the &quot;cosmetic polishing&quot; innovation, their techniques have not changed basically for 300 years. The polishing process goes through 13 stages, and eight different polishing stones are used. The whole process takes about two weeks, and a lot of patience is required. A polisher must nor miss a hair's difference in the lines of the blade, and must be able to correct the lines with the minimum loss of steel. This gives the Japanese sword its beauty, in creating which the main factors are the shape, the steel and the line of the temper (hamon).It is even possible to tell the age and provenance of a blade polished in the traditional way. The pattern of the jihada (grain) depends on the folding of the layers of steel which form the raw material,  and may be straight, wavy and so on according to the different schools and smiths.The hamon, line of temper,  is the border line between the edge and the rest of the blade. Before the blade is quenched after heating it is completely coated with clay, with a much thinner coating applied to the part that becomes the cutting edge.  Variations in the pattern used in this clay coating result in differences in the hamon. Needless to say, if the sword were merely a weapon little attention would be paid to the finish. As it is, the quality of the finishing work can affect the value of the sword, apart from indicating its provenance.</p>
+
+<p>To bring out the character of the jihada, the polishing is done with paper-thin Narutaki stone, and this is the most crucial stage in the work of finishing. Another process is that of polishing with nugui,  a combination of several powders mixed with clove oil, used to make the jihada dark. &quot;Cosmetic polishing&quot; is achieved by a painstaking process which consists of whitening the inner side of the hamon with a hadori line formed by elaborately moving a small round hazuya stone along the blade. This results in a beautiful contrast of black and white between  between the jihada and the hamon. The final processes are the burnishing, to prevent rusting, and the polishing of the kissaki.</p>
+
+<p>In conclusion, Mr. Mishina said that many accounts had been handed down of the effectiveness of the Japanese sword as a cutting weapon. Nevertheless, today it is rather the beauty of a sword that strikes us, and may even lead us toward spiritual enlightenment. Along with this, one can say that the modern development of Japan after the Meiji Restoration owed much to the spirit of Bushido. But as a traditional craftsman he was concerned with the modern trend  toward commercialism which has brought with it the neglect of tradition and culture. He pledged himself to spreading the Japanese sword culture, which had won him friends in many parts of the world, and hoped that the Japanese people would renew their understanding of Japanese tradition and culture.</p>
+
+<p>A question time followed, which gave Mr. Mishina an opportunity to describe the swords he had brought with him. The meeting was brought to a conclusion with a vote of thanks proposed by Dr. Mark Lee Ford, who expressed his appreciation of the fact that Mr. Mishina had followed the original intentions of the Society, which were to acquaint non-Japanese with the basic elements of Japanese culture.  (The only article on Japanese swords in the Transactions was published in the second year of the Society!  --Ed.)</p>
+
+<hr/>
+
+<p>Adapted from &quot;The Asiatic Society of Japan Bulletin No. 8&quot;, October 2002, compiled by Prof. Hugh E. Wilkinson and Mrs. Doreen Simmons.</p>
+
+
+      <div align="center">
+        <p id="copyright">Copyright &copy; 1994-2018 The Asiatic Society of Japan. All rights reserved. </p>
+      </div>
+
+    </div>
+
+  </div>
+  <br/>
+
+</div></center>
+
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-4845051-1");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+</body>
+</html>
+
+<script type="text/javascript">(function (d, w) {var x = d.getElementsByTagName('SCRIPT')[0];var f = function () {var s = d.createElement('SCRIPT');s.type = 'text/javascript';s.async = true;s.src = "//np.lexity.com/embed/YW/b5372925f1d03c603696fd876a432a37?id=d241b11407f5";x.parentNode.insertBefore(s, x);};w.attachEvent ? w.attachEvent('onload',f) :w.addEventListener('load',f,false);}(document, window));</script>
+
+WARC/1.0
+WARC-Type: response
+WARC-Record-ID: <http://www.asjapan.org/web.php/memorial/adachi>
+WARC-Date: 20180523151543
+WARC-Target-URI: http://www.asjapan.org/web.php/memorial/adachi
+WARC-Language: fr
+Content-Type: application/http;msgtype=response
+Content-Length: 9648
+
+HTTP/1.1 200
+Content-Type:text/html
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+ <head>
+  <title>The Asiatic Society of Japan</title>
+  <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+  <meta http-equiv="content-language" content="en">
+
+  <base href="http://www.asjapan.org/web.php/" />
+
+  <link href="/newdesign/css/screen.css" rel="stylesheet" type="text/css" media="screen" />
+  <link href="/newdesign/css/print.css" rel="stylesheet" type="text/css" media="print" />
+  <!--[if !IE 7]>
+  <link href="/newdesign/css/screen_ie.css" rel="stylesheet" type="text/css" media="screen" />
+  <![endif]-->
+  <!--[if IE 7]>
+  <link href="/newdesign/css/screen_ie7.css" rel="stylesheet" type="text/css" media="screen" />
+  <![endif]-->
+
+  <script type="text/javascript" src="/newdesign/inc/jquery-1.3.2.min.js"></script>
+  <script type="text/javascript" src="/newdesign/inc/ui.core.min.js"></script>
+  <script type="text/javascript" src="/newdesign/inc/ui.sortable.min.js"></script>
+  <script type="text/javascript" src="/newdesign/inc/jquery.metadata.js"></script>
+  <script type="text/javascript" src="/newdesign/inc/mbTabset.js"></script>
+
+  <script type="text/javascript">
+		$(function(){
+			$("#tabset1").buildMbTabset({sortable:false});
+		});
+  </script>
+
+    <script type="text/javascript">
+		$(function(){
+			$("#a").removeClass("sel");
+			$("#cont_1").hide();
+			$("#b").addClass("sel");
+			$("#cont_2").fadeIn("fast");
+			$("#linkmemorial").addClass("optselected");
+		});
+  </script>
+
+
+
+</head>
+<body>
+
+<center><div id="main" align="left">
+
+  <div id="header" align="left">
+    <center>
+      <div><img src="/newdesign/tasoj.gif" alt="The Asiatic Society of Japan" title="The Asiatic Society of Japan"/></div>
+      <div style="height:16px; width:613px; background-color: black; margin-top:3px; padding-top:1px;"/>
+      <div style="height:15px; width:613px; background-color: white; font-family:times new roman,courier;font-size: 10px; padding-bottom:3px; padding-top:2px;">Established 1872.  Cooperative Science and Research Body of the Science Council of Japan</div>
+      </div>
+    </center>
+  </div>
+
+  <table id="menuasj" width="750" cellpadding="0" cellspacing="0" align="center">
+    <tr><td><p id="bigspacer">&nbsp;</p></td></tr>
+    <tr><td>
+      <div class="tabset" id="tabset1">
+        <a href="#" id="a" class="tab {container:'cont_1'}" onclick="return false;">About Us</a><a href="#" id="b" class="tab {container:'cont_2'}" onclick="return false;">ASJ Info Central</a><a href="#" id="c" class="tab {container:'cont_3'}" onclick="return false;">ASJ Merchandise</a><a href="#" id="d" class="tab {container:'cont_4'}" onclick="return false;">Search</a><!--<a href="#" id="e" class="tab {container:'cont_5'}" onclick="return false;">Members</a>-->
+      </div>
+      <div class="mbTabsetContainer" >
+        <span id="cont_1">
+          <a id="linkmain" href="main">Home</a> &middot; <a id="linkwelcome" href="about/welcome">Welcome</a> &middot; <a id="linkhistory" href="about/history">History</a> &middot; <a id="linkpatrons" href="about/patrons">Our Patron</a> &middot; <a id="linkcouncil" href="about/council">The Council</a> &middot; <a id="linkjoin" href="about/join">Join</a> &middot; <a id="linklinks" href="about/links">Other Asiatic Societies</a> &middot; <a id="linkcontact" href="about/contact">Contact</a> &middot; <a id="linksitemap" href="about/sitemap">Site Map</a>
+        </span>
+        <span id="cont_2">
+          <a id="linklectures" href="lectures/index">Lecture Archive</a> &middot; <a id="linkspeakers" href="speakers/index">Speaker Bios</a> &middot; <a id="linkcouncils" href="councils/index">Past Councils</a> &middot; <a id="linkreports" href="reports/index">Annual Reports</a> &middot; <a id="linkmemorial" href="memorial/index">Memorial Wall</a>
+        </span>
+        <span id="cont_3">
+          <a id="linktransactions" href="mercantile/transactions">Transactions and Offprints</a> &middot; <a id="linkpublications" href="mercantile/publications">Other ASJ Publications</a> &middot; <a id="linkgift" href="mercantile/gift">Gift Memberships</a>
+        </span>
+        <span id="cont_4">
+          <form action="/search.php" method="get" >Type your query <input type="text" name="q" size="16" style="height: 16px; font-size: 12px; padding: 1px;"/> <input type="submit" value="search!" style="font-size: 12px; padding: 1px;"/></form>
+        </span>
+<!--        <span id="cont_5">
+          <a id="linkbulletin" href="members/bulletin">Current bulletin</a> &middot; <a id="linkmemlect" href="members/lectures">2008 Lectures</a> &middot; All these options require to login
+        </span>-->
+      </div>
+    </td></tr>
+    <tr><td><p id="smallspacer">&nbsp;</p></td></tr>
+  </table>
+
+
+  <div id="content">
+
+    <div id="lecturesfor">
+
+<table width="750"  border="0" cellpadding="0" cellspacing="0" bgcolor="#05539d">
+	<tr>
+		<td valign="bottom" align="center">
+			<table  border="0" cellpadding="0" cellspacing="0" bgcolor="#05539d">
+				<tr>
+					<td align="center">
+						<!-- start horizontal menu -->
+						<table class="rootVoices" cellspacing='0' cellpadding='0' border='0'><tr>
+							<td class="rootVoice"><a id="linkarchive2007" href="lectures/2007/index">2007</a></td>
+							<td class="rootVoice"><a id="linkarchive2006" href="lectures/2006/index">2006</a></td>
+							<td class="rootVoice"><a id="linkarchive2005" href="lectures/2005/index">2005</a></td>
+							<td class="rootVoice"><a id="linkarchive2004" href="lectures/2004/index">2004</a></td>
+							<td class="rootVoice"><a id="linkarchive2003" href="lectures/2003/index">2003</a></td>
+							<td class="rootVoice"><a id="linkarchive2002" href="lectures/2002/index">2002</a></td>
+							<td class="rootVoice"><a id="linkarchive2001" href="lectures/2001/index">2001</a></td>
+							<td class="rootVoice"><a id="linkarchive2000" href="lectures/2000/index">2000</a></td>
+							<td class="rootVoice"><a id="linkarchive1999" href="lectures/1999/index">1999</a></td>
+							<td class="rootVoice"><a id="linkarchive1998" href="lectures/1998/index">1998</a></td>
+							<td class="rootVoice"><a id="linkarchive1997" href="lectures/1997/index">1997</a></td>
+							<td class="rootVoice"><a id="linkarchive1996" href="lectures/1996/index">1996</a></td>
+							<td class="rootVoice"><a id="linkarchive1995" href="lectures/1995/index">1995</a></td>
+							<td class="rootVoice"><a id="linkarchive1994" href="lectures/1994/index">1994</a></td>
+						</tr></table>
+						<!-- end horizontal menu -->
+					</td>
+				</tr>
+			</table>
+		</td>
+	</tr>
+</table>
+
+    </div>
+    <div id="text">
+
+<h3>In Memoriam - Barbara Curtis Adachi</h3>
+
+<p>A well-attended gathering to celebrate the life of Barbara Curtis Adachi, who died in San Francisco on February 9th, was held at the International House of Japan, Roppongi, Tokyo, in the afternoon of Sunday April 25th. It was a great pleasure to all that Barbara's daughter Cathy was able to be there.</p>
+
+<p>Barbara Adachi, whose brief obituary was reported in our March Bulletin,  had been a very active member of a number of societies as well as a caring and stimulating friend to many individuals, and there was no shortage of people who  had reminiscences to share. In the first part of the meeting, a representative from each organization mentioned Barbara's contribution;  in addition to our own Society, represented by Doreen Simmons, there were tributes from the College Women's Association, the International Ladies' Benevolent Society, the Japan-American Women's Club, the Nadeshiko Kai, Smith Alumnae, and lastly, the Society of Writers, Editors and Translators, of which Mrs. Adachi had been a founder member. A  memorial booklet had been prepared by one of the other two SWET founders, Lynne Riggs.</p>
+
+<p>After a time for chatting and looking at a rich selection of photographs,  time was given for more personal anecdotes; and before Cathy rose to  give her thanks to all those who had attended, the MC asked all the members present from each organization to stand up. Thanks to multiple memberships, the Asiatic Society was quite well represented!</p>
+
+<p>It was a happy occasion with more laughter than tears, as one person after another stood and gave a personal tribute that could be summarised: "My life was enriched by knowing Barbara Adachi."</p>
+
+<p>DS</p>
+
+
+      <div align="center">
+        <p id="copyright">Copyright &copy; 1994-2018 The Asiatic Society of Japan. All rights reserved. </p>
+      </div>
+
+    </div>
+
+  </div>
+  <br/>
+
+</div></center>
+
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-4845051-1");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+</body>
+</html>
+
+<script type="text/javascript">(function (d, w) {var x = d.getElementsByTagName('SCRIPT')[0];var f = function () {var s = d.createElement('SCRIPT');s.type = 'text/javascript';s.async = true;s.src = "//np.lexity.com/embed/YW/b5372925f1d03c603696fd876a432a37?id=d241b11407f5";x.parentNode.insertBefore(s, x);};w.attachEvent ? w.attachEvent('onload',f) :w.addEventListener('load',f,false);}(document, window));</script>
+
+WARC/1.0
+WARC-Type: response
+WARC-Record-ID: <http://www.asjapan.org/web.php/memorial/arai>
+WARC-Date: 20180523151543
+WARC-Target-URI: http://www.asjapan.org/web.php/memorial/arai
+WARC-Language: fr
+Content-Type: application/http;msgtype=response
+Content-Length: 9674
+
+HTTP/1.1 200
+Content-Type:text/html
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+ <head>
+  <title>The Asiatic Society of Japan</title>
+  <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+  <meta http-equiv="content-language" content="en">
+
+  <base href="http://www.asjapan.org/web.php/" />
+
+  <link href="/newdesign/css/screen.css" rel="stylesheet" type="text/css" media="screen" />
+  <link href="/newdesign/css/print.css" rel="stylesheet" type="text/css" media="print" />
+  <!--[if !IE 7]>
+  <link href="/newdesign/css/screen_ie.css" rel="stylesheet" type="text/css" media="screen" />
+  <![endif]-->
+  <!--[if IE 7]>
+  <link href="/newdesign/css/screen_ie7.css" rel="stylesheet" type="text/css" media="screen" />
+  <![endif]-->
+
+  <script type="text/javascript" src="/newdesign/inc/jquery-1.3.2.min.js"></script>
+  <script type="text/javascript" src="/newdesign/inc/ui.core.min.js"></script>
+  <script type="text/javascript" src="/newdesign/inc/ui.sortable.min.js"></script>
+  <script type="text/javascript" src="/newdesign/inc/jquery.metadata.js"></script>
+  <script type="text/javascript" src="/newdesign/inc/mbTabset.js"></script>
+
+  <script type="text/javascript">
+		$(function(){
+			$("#tabset1").buildMbTabset({sortable:false});
+		});
+  </script>
+
+    <script type="text/javascript">
+		$(function(){
+			$("#a").removeClass("sel");
+			$("#cont_1").hide();
+			$("#b").addClass("sel");
+			$("#cont_2").fadeIn("fast");
+			$("#linkmemorial").addClass("optselected");
+		});
+  </script>
+
+
+
+</head>
+<body>
+
+<center><div id="main" align="left">
+
+  <div id="header" align="left">
+    <center>
+      <div><img src="/newdesign/tasoj.gif" alt="The Asiatic Society of Japan" title="The Asiatic Society of Japan"/></div>
+      <div style="height:16px; width:613px; background-color: black; margin-top:3px; padding-top:1px;"/>
+      <div style="height:15px; width:613px; background-color: white; font-family:times new roman,courier;font-size: 10px; padding-bottom:3px; padding-top:2px;">Established 1872.  Cooperative Science and Research Body of the Science Council of Japan</div>
+      </div>
+    </center>
+  </div>
+
+  <table id="menuasj" width="750" cellpadding="0" cellspacing="0" align="center">
+    <tr><td><p id="bigspacer">&nbsp;</p></td></tr>
+    <tr><td>
+      <div class="tabset" id="tabset1">
+        <a href="#" id="a" class="tab {container:'cont_1'}" onclick="return false;">About Us</a><a href="#" id="b" class="tab {container:'cont_2'}" onclick="return false;">ASJ Info Central</a><a href="#" id="c" class="tab {container:'cont_3'}" onclick="return false;">ASJ Merchandise</a><a href="#" id="d" class="tab {container:'cont_4'}" onclick="return false;">Search</a><!--<a href="#" id="e" class="tab {container:'cont_5'}" onclick="return false;">Members</a>-->
+      </div>
+      <div class="mbTabsetContainer" >
+        <span id="cont_1">
+          <a id="linkmain" href="main">Home</a> &middot; <a id="linkwelcome" href="about/welcome">Welcome</a> &middot; <a id="linkhistory" href="about/history">History</a> &middot; <a id="linkpatrons" href="about/patrons">Our Patron</a> &middot; <a id="linkcouncil" href="about/council">The Council</a> &middot; <a id="linkjoin" href="about/join">Join</a> &middot; <a id="linklinks" href="about/links">Other Asiatic Societies</a> &middot; <a id="linkcontact" href="about/contact">Contact</a> &middot; <a id="linksitemap" href="about/sitemap">Site Map</a>
+        </span>
+        <span id="cont_2">
+          <a id="linklectures" href="lectures/index">Lecture Archive</a> &middot; <a id="linkspeakers" href="speakers/index">Speaker Bios</a> &middot; <a id="linkcouncils" href="councils/index">Past Councils</a> &middot; <a id="linkreports" href="reports/index">Annual Reports</a> &middot; <a id="linkmemorial" href="memorial/index">Memorial Wall</a>
+        </span>
+        <span id="cont_3">
+          <a id="linktransactions" href="mercantile/transactions">Transactions and Offprints</a> &middot; <a id="linkpublications" href="mercantile/publications">Other ASJ Publications</a> &middot; <a id="linkgift" href="mercantile/gift">Gift Memberships</a>
+        </span>
+        <span id="cont_4">
+          <form action="/search.php" method="get" >Type your query <input type="text" name="q" size="16" style="height: 16px; font-size: 12px; padding: 1px;"/> <input type="submit" value="search!" style="font-size: 12px; padding: 1px;"/></form>
+        </span>
+<!--        <span id="cont_5">
+          <a id="linkbulletin" href="members/bulletin">Current bulletin</a> &middot; <a id="linkmemlect" href="members/lectures">2008 Lectures</a> &middot; All these options require to login
+        </span>-->
+      </div>
+    </td></tr>
+    <tr><td><p id="smallspacer">&nbsp;</p></td></tr>
+  </table>
+
+
+  <div id="content">
+
+    <div id="lecturesfor">
+
+<table width="750"  border="0" cellpadding="0" cellspacing="0" bgcolor="#05539d">
+	<tr>
+		<td valign="bottom" align="center">
+			<table  border="0" cellpadding="0" cellspacing="0" bgcolor="#05539d">
+				<tr>
+					<td align="center">
+						<!-- start horizontal menu -->
+						<table class="rootVoices" cellspacing='0' cellpadding='0' border='0'><tr>
+							<td class="rootVoice"><a id="linkarchive2007" href="lectures/2007/index">2007</a></td>
+							<td class="rootVoice"><a id="linkarchive2006" href="lectures/2006/index">2006</a></td>
+							<td class="rootVoice"><a id="linkarchive2005" href="lectures/2005/index">2005</a></td>
+							<td class="rootVoice"><a id="linkarchive2004" href="lectures/2004/index">2004</a></td>
+							<td class="rootVoice"><a id="linkarchive2003" href="lectures/2003/index">2003</a></td>
+							<td class="rootVoice"><a id="linkarchive2002" href="lectures/2002/index">2002</a></td>
+							<td class="rootVoice"><a id="linkarchive2001" href="lectures/2001/index">2001</a></td>
+							<td class="rootVoice"><a id="linkarchive2000" href="lectures/2000/index">2000</a></td>
+							<td class="rootVoice"><a id="linkarchive1999" href="lectures/1999/index">1999</a></td>
+							<td class="rootVoice"><a id="linkarchive1998" href="lectures/1998/index">1998</a></td>
+							<td class="rootVoice"><a id="linkarchive1997" href="lectures/1997/index">1997</a></td>
+							<td class="rootVoice"><a id="linkarchive1996" href="lectures/1996/index">1996</a></td>
+							<td class="rootVoice"><a id="linkarchive1995" href="lectures/1995/index">1995</a></td>
+							<td class="rootVoice"><a id="linkarchive1994" href="lectures/1994/index">1994</a></td>
+						</tr></table>
+						<!-- end horizontal menu -->
+					</td>
+				</tr>
+			</table>
+		</td>
+	</tr>
+</table>
+
+    </div>
+    <div id="text">
+
+<h3>In Memoriam - Sayoko Arai</h3>
+
+<p>We regret to have to announce that Council member Mrs. Sayoko Arai passed away on December 8th of cirrhosis of the liver, at the age of 75; the funeral took place on December 13th at St. Ignatius Catholic Church, and some Council members and others from the Society attended. The chief mourner was her husband, Tadahiko. We were greatly shocked at the news of her death, as she had not shown any signs of illness.</p>
+
+<p>Mrs. Arai was a graduate of Sacred Heart University, and also studied in Paris and New York. For a short time she worked with the Japanese delegation to the United Nations. She was a pioneer in the field of simultaneous interpretation, as well as a crusader for women's volunteer activities and the author of several books. In 1988 she set up the Tokyo Women's Forum, a group of housewives who extend help to needy people at home and abroad. She also served as a vice-president of International Social Service Japan, and was on the central committee of the National Federation of UNESCO Associations in Japan.</p>
+
+<p>She joined the ASJ in 2000, and was elected as a Council member in 2002. Through her connection with Music for Youth she helped the Society greatly when we were in need of an office by arranging for us to share an office in Akasaka with Music for Youth.</p>
+
+<p>Council member Mrs. Doreen Simmons writes: I have known Sayoko Arai for many years as our paths came together many times, in matters of music, women's issues, and, more recently, as fellow-members of the Asiatic Society Council. I always admired her tremendous energy and enthusiasm; as I got to know her better, I have also come to appreciate her sound common sense and human wisdom. I shall miss her very much.</p>
+
+
+      <div align="center">
+        <p id="copyright">Copyright &copy; 1994-2018 The Asiatic Society of Japan. All rights reserved. </p>
+      </div>
+
+    </div>
+
+  </div>
+  <br/>
+
+</div></center>
+
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-4845051-1");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+</body>
+</html>
+
+<script type="text/javascript">(function (d, w) {var x = d.getElementsByTagName('SCRIPT')[0];var f = function () {var s = d.createElement('SCRIPT');s.type = 'text/javascript';s.async = true;s.src = "//np.lexity.com/embed/YW/b5372925f1d03c603696fd876a432a37?id=d241b11407f5";x.parentNode.insertBefore(s, x);};w.attachEvent ? w.attachEvent('onload',f) :w.addEventListener('load',f,false);}(document, window));</script>
+

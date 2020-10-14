@@ -1,0 +1,349 @@
+WARC/1.0
+WARC-Type: warcinfo
+WARC-Date: 2018-05-30T18:18:32Z
+WARC-All-Language: en-US
+WARC-All-Content_type: text/html; charset=UTF-8
+WARC-Record-ID: <urn:uuid:c74bc85e-f4a4-41da-951e-d57881f32ab6>
+Content-Type: application/http;msgtype=response
+Content-Length: 46
+
+WARCProcessor by SING Group www.sing-group.com
+
+WARC/1.0
+WARC-Type: response
+WARC-Target-URI: http://www.ecompetences.eu
+WARC-Date: 20180530181832
+WARC-Language: en-US
+WARC-Record-ID: <http://www.ecompetences.eu>
+Content-Type: application/http;msgtype=response
+Content-Length: 24480
+
+HTTP/1.1 200
+Content-Type:text/html; charset=UTF-8
+
+
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-3433914-15"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-3433914-15');
+</script>
+
+<link href='http://fonts.googleapis.com/css?family=Ubuntu:400,300,500,700,300italic,400italic,500italic' rel='stylesheet' type='text/css'>
+
+<!-- Mobile Specific -->
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+<!--[if lt IE 9]>
+	<script src="http://css3-mediaqueries-js.googlecode.com/svn/trunk/css3-mediaqueries.js"></script>
+<![endif]-->
+
+
+<!-- Title Tag -->
+<title> European e-Competence Framework</title>
+
+<link rel="stylesheet" href="http://www.ecompetences.eu/wp-content/plugins/sitepress-multilingual-cms/res/css/language-selector.css?v=3.0.2-a" type="text/css" media="all" />
+
+
+<link rel="stylesheet" type="text/css" href="http://www.ecompetences.eu/wp-content/themes/ecompetences/editor-style.css" media="screen" />
+<!-- Browser dependent stylesheets -->
+
+<!--[if IE]>
+	<script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+<![endif]-->
+
+
+<!--[if IE 8]>
+	<link rel="stylesheet" type="text/css" href="http://www.ecompetences.eu/wp-content/themes/Alpha/css/ie8.css" media="screen" />
+<![endif]-->
+
+<!--[if IE 7]>
+	<link rel="stylesheet" type="text/css" href="http://www.ecompetences.eu/wp-content/themes/Alpha/css/ie7.css" media="screen" />
+	<link rel="stylesheet" type="text/css" href="http://www.ecompetences.eu/wp-content/themes/Alpha/css/awesome_font_ie7.css" media="screen"/>
+<![endif]-->
+
+
+<!-- WP Head -->
+        <!-- Retina Support -->
+		<script>writeCookie();function writeCookie(){the_cookie=document.cookie;if(the_cookie){if(window.devicePixelRatio>=2){the_cookie="pixel_ratio="+window.devicePixelRatio+";"+the_cookie;document.cookie=the_cookie;location=''}}}</script>
+			<link rel='stylesheet' id='contact-form-7-css'  href='http://www.ecompetences.eu/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=3.8' type='text/css' media='all' />
+<link rel='stylesheet' id='framework-css'  href='http://www.ecompetences.eu/wp-content/themes/Alpha/framework/scripts/css/framework.css?ver=3.8.26' type='text/css' media='all' />
+<link rel='stylesheet' id='framework-responsive-css'  href='http://www.ecompetences.eu/wp-content/themes/Alpha/framework/scripts/css/framework_responsive.css?ver=3.8.26' type='text/css' media='all' />
+<link rel='stylesheet' id='style-css'  href='http://www.ecompetences.eu/wp-content/themes/ecompetences/style.css?ver=3.8.26' type='text/css' media='all' />
+<link rel='stylesheet' id='prettyphoto-css'  href='http://www.ecompetences.eu/wp-content/themes/Alpha/css/prettyphoto.css?ver=1' type='text/css' media='all' />
+<link rel='stylesheet' id='responsive-css'  href='http://www.ecompetences.eu/wp-content/themes/Alpha/css/responsive.css?ver=1' type='text/css' media='all' />
+<link rel='stylesheet' id='awesome-font-css'  href='http://www.ecompetences.eu/wp-content/themes/Alpha/css/awesome_font.css?ver=3.8.26' type='text/css' media='all' />
+<script type='text/javascript' src='http://www.ecompetences.eu/wp-includes/js/jquery/jquery.js?ver=1.10.2'></script>
+<script type='text/javascript' src='http://www.ecompetences.eu/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.2.1'></script>
+<script type='text/javascript' src='http://www.ecompetences.eu/wp-includes/js/comment-reply.min.js?ver=3.8.26'></script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www.ecompetences.eu/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://www.ecompetences.eu/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 3.8.26" />
+<link rel='shortlink' href='http://www.ecompetences.eu/?p=2' />
+<meta name="generator" content="WPML ver:3.0.2-a stt:1,3,27;0" />
+<link rel="alternate" hreflang="en-US" href="http://www.ecompetences.eu/" />
+<link rel="alternate" hreflang="de-DE" href="http://www.ecompetences.eu/de/" />
+<link rel="alternate" hreflang="it-IT" href="http://www.ecompetences.eu/it/" />
+
+<style type="text/css">                            
+</style>
+<!--[if IE]>
+	<link rel="stylesheet" type="text/css" href="http://www.ecompetences.eu/wp-content/themes/ecompetences/ie9.css" media="all" />
+<![endif]-->
+</head><!-- /end head -->
+
+<!-- Begin Body -->
+<body class="home page page-id-2 page-template page-template-template-fullwidth-php body black">
+    <div id="top-bar" class="top-bar-fixed">
+        <div id="top-bar-inner" class="outerbox clearfix">
+        	 
+                <nav id="top-navigation">                                                           
+                     <div class="menu-homepage-menu-container"><ul id="menu-homepage-menu" class="top-menu sf-menu homesingle"><li id="menu-item-57" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-2 current_page_item"><a href="http://www.ecompetences.eu/">Home</a></li>
+</ul></div>                    
+                    <div class="menu-top-menu-container"><ul id="menu-top-menu" class="top-menu sf-menu"><li id="menu-item-59" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-ancestor current-menu-parent menu-item-has-children"><a>Language</a>
+<ul class="sub-menu">
+	<li id="menu-item-60" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item current_page_item"><a href="/">English</a></li>
+	<li id="menu-item-61" class="menu-item menu-item-type-custom menu-item-object-custom"><a href="/de/">Deutsch</a></li>
+</ul>
+</li>
+<li id="menu-item-360" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children"><a href="/faq-applying-the-e-cf">FAQs</a>
+<ul class="sub-menu">
+	<li id="menu-item-87" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="http://www.ecompetences.eu/faq-applying-the-e-cf/">Applying the e-CF</a></li>
+	<li id="menu-item-367" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="http://www.ecompetences.eu/faq-competences-skills-jobs/">Competence, skills, jobs…</a></li>
+	<li id="menu-item-366" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="http://www.ecompetences.eu/faq-legal-aspects/">Legal aspects</a></li>
+</ul>
+</li>
+<li id="menu-item-1524" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children"><a>CEN ICT skills groups</a>
+<ul class="sub-menu">
+	<li id="menu-item-1500" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="http://www.ecompetences.eu/cen-tc-428/">CEN TC 428</a></li>
+	<li id="menu-item-255" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="http://www.ecompetences.eu/cen-ict-skills-workshop/">CEN ICT Skills Workshop</a></li>
+</ul>
+</li>
+<li id="menu-item-544" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="http://www.ecompetences.eu/contact/">Contact</a></li>
+</ul></div>                </nav><!-- /top-bar-nav -->
+              
+            
+                        <ul id="social">
+                            </ul><!-- /social -->
+            			        </div><!-- /top-bar-inner -->
+    </div><!-- /top-bar -->
+
+<header id="header" class="outerbox clearfix header-extra-margin">
+
+    <div id="logo">
+                    <a href="http://www.ecompetences.eu/" title="" rel="home"><img src="/wp-content/uploads/2013/12/ecompetences-logo.png" alt="" /></a>
+            </div><!-- /logo -->
+    
+    <div id="header-right">
+   		    	<div id="search-above">
+        	The what, how and why guide to the e-CF        </div><!-- /search-above -->
+        		            </div><!-- /header-right -->
+    
+</header><!-- /header -->
+
+<div id="wrap" class="outerbox clearfix">
+
+    <nav id="navigation" class="clearfix">
+        <div class="menu-main-menu-en-container"><ul id="menu-main-menu-en" class="sf-menu"><li id="menu-item-1095" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-2 current_page_item"><a href="http://www.ecompetences.eu/">Home</a></li>
+<li id="menu-item-1097" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="http://www.ecompetences.eu/e-cf-overview/">e-CF overview</a></li>
+<li id="menu-item-2051" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="http://www.ecompetences.eu/get-the-e-cf/">Get the e-CF</a></li>
+<li id="menu-item-1100" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children"><a href="http://www.ecompetences.eu/methodology/">Methodology</a>
+<ul class="sub-menu">
+	<li id="menu-item-1099" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="http://www.ecompetences.eu/e-cf-founding-principles/">e-CF Founding principles</a></li>
+	<li id="menu-item-1098" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="http://www.ecompetences.eu/version-3-0-updating-highlights/">About the e-CF standard</a></li>
+</ul>
+</li>
+<li id="menu-item-155" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="http://www.ecompetences.eu/context/">Context</a></li>
+<li id="menu-item-1320" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children"><a href="http://www.ecompetences.eu/e-cf-in-practice/">e-CF in practice</a>
+<ul class="sub-menu">
+	<li id="menu-item-1318" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="http://www.ecompetences.eu/vocational-education-and-training/">Vocational education and training</a></li>
+	<li id="menu-item-1319" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="http://www.ecompetences.eu/industry-and-hr-departments/">Industry and HR departments</a></li>
+	<li id="menu-item-1321" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="http://www.ecompetences.eu/higher-education/">Higher Education</a></li>
+	<li id="menu-item-1393" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="http://www.ecompetences.eu/private-qualification-and-certification/">Private qualification and certification</a></li>
+	<li id="menu-item-1347" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="http://www.ecompetences.eu/career-and-assessment-tools-3/">Career and assessment tools</a></li>
+	<li id="menu-item-1394" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="http://www.ecompetences.eu/e-skills-policy-and-strategy-setting/">e-Skills policy and strategy setting</a></li>
+	<li id="menu-item-1421" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="http://www.ecompetences.eu/professional-bodies-trade-unions-and-sector-associations/">Professional unions and sector associations</a></li>
+	<li id="menu-item-1428" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="http://www.ecompetences.eu/consultancy-and-research/">Research and consultancy</a></li>
+	<li id="menu-item-224" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="http://www.ecompetences.eu/case-studies/">15 Case studies</a></li>
+</ul>
+</li>
+<li id="menu-item-37" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children"><a href="http://www.ecompetences.eu/ict-professional-profiles/">ICT Profiles</a>
+<ul class="sub-menu">
+	<li id="menu-item-2105" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="http://www.ecompetences.eu/ict-profiles-update/">ICT Profiles update</a></li>
+</ul>
+</li>
+</ul></div>    </nav><!-- /navigation -->  
+    
+	<div id="main-content" class="clearfix fitvids-container">
+    
+				<div id="full-slider"><div class="flexslider-container"><div id="slider-49" class="flexslider"><ul class="slides"><li class="slide"><img src="/wp-content/uploads/2013/12/ecomp_header_final.png" alt="Slide 1" /></li></ul></div></div><script type="text/javascript">
+				jQuery(function($){
+					$(window).load(function() {
+						$("#slider-49").flexslider({
+							animation: "fade",
+							slideshow: true,
+							slideshowSpeed: 7000,
+							animationDuration: 600,
+							directionNav: true,
+							controlNav: false,
+							smoothHeight: false,
+							easing: "swing",
+							touch: true,
+							video: true,
+							slideDirection: "horizontal",
+							pauseOnAction: true,
+							pauseOnHover: true, 
+							prevText: '<span class="wpex-icon-chevron-left"></span>',
+							nextText: '<span class="wpex-icon-chevron-right"></span>',
+							randomize: false
+						}); //end flexslider
+					}); //end window load
+				}); //end function
+				</script></div><!--/full-slider -->
+		
+<div id="page-heading">
+    <h1>A common European framework for ICT Professionals in all industry sectors</h1>	
+</div><!-- /page-heading -->
+
+<div id="full-width" class="clearfix">
+
+	<article class="entry clearfix">
+                
+                
+		<h2>Welcome to the e-CF</h2>
+<p>The European e-Competence Framework (e-CF) provides a reference of 40 competences as applied at the Information and Communication Technology (ICT) workplace, using a common language for competences, skills, knowledge and proficiency levels that can be understood across Europe.</p>
+<p>In 2016, the e-CF became a European standard and was published officially as the European Norm <a href="https://standards.cen.eu/dyn/www/f?p=204:110:0::::FSP_PROJECT,FSP_ORG_ID:41798,1218399&amp;cs=17B0E0F8CABCDBDDB8066A46FA937510B" target="_blank">EN 16234-1</a>.</p>
+<p>As the first sector-specific implementation of the European Qualifications Framework (<a href="http://relaunch.ecompetences.eu/wp-content/uploads/2013/11/EQF_broch_2008_en.pdf" target="_blank">EQF</a>), the e-CF fits for application by ICT service, user and supply organisations, multinationals and SME&#8217;s, for ICT managers, HR departments and individuals, educational institutions including higher education and private certification providers, social partners, market analysts, policy makers and other organisations in public and private sectors.</p>
+<div class="one-half column-first">Test it:<br />
+<a title="e-CF 3.0 Profiling on-line tool" href="http://profiletool.ecompetences.eu" target="_blank">Create an e-CF Profile</a><br />
+</div>
+<div class="one-half column-last">Get it:<br />
+<a title="e-CF 3.0 download" href="http://www.ecompetences.eu/get-the-e-cf/">e-CF 3.0 download<br />
+EN 16234-1 sales points</a><br />
+</div>
+<h2>How the e-CF can help you</h2>
+<p>The European e-Competence Framework provides a common language to describe the competences including skills and knowledge requirements of ICT professionals, professions and organisations at five proficiency levels, and is designed to meet the needs of individuals, businesses and other organisations in public and private sectors.</p>
+<h3>Internationally efficient ICT human resources development</h3>
+<p>The e-CF version 3.0 gives clear definitions and sound orientation to support decision-making in relation to the selection and recruitment of candidates, as well as the qualification, training and assessment of ICT professionals. It enables the identification of skills and competences that may be required to successfully perform duties and fulfill responsibilities related to the ICT workplace. The widespread adoption of the e-CF by companies and organisations throughout Europe has started to increase the transparency, mobility and efficiency of ICT sector related human resources.</p>
+<h2>Framework creation context and political support</h2>
+<p>The e-CF was developed through a process of collaboration between experts and stakeholders from many different countries under the umbrella of the <a title="CEN ICT Skills Workshop" href="http://www.ecompetences.eu/cen-ict-skills-workshop/">CEN ICT Skills Workshop</a>.</p>
+<h3>From a CEN workshop agreement to a European standard</h3>
+<p>Following consultation of CEN member states, the e-CF became a European standard and was published in 2016 officially as the European Norm (EN) 16234. Identical in its structure and content to the e-CF 3.0 CWA, the new EN format provides great opportunities for further dissemination and continued adoption of the framework Europe-wide.</p>
+<p>The e-CF is a component of the <a href="http://ec.europa.eu/growth/sectors/digital-economy/e-skills_en" target="_blank">European union&#8217;s strategy for e-Skills in the 21st Century</a> supported by the European Commission and The Council of Ministers. The Framework supports key policy objectives of the <a href="https://ec.europa.eu/digital-single-market/en/digital-skills-jobs-coalition" target="_blank">Digital Skills and Jobs Coalition</a> and benefits an ever growing user community from the EU and across the world.</p>
+<p>&nbsp;</p>
+	</article><!-- /entry --> 
+    
+	     
+</div><!-- /full-width -->
+
+<div class="clear"></div>
+
+ 
+    <div id="eu-logos">
+        <img width="649" height="130" src="http://www.ecompetences.eu/wp-content/uploads/2013/11/eu-logos_3.png" class="attachment-post-thumbnail wp-post-image" alt="eu-logos_3" />         
+    </div>
+    
+</div><!-- /main-content -->
+    <footer id="footer">
+    	        <div id="footer-widgets" class="grid-container clearfix">
+            <div class="footer-box grid-3">
+            	<div class="footer-widget widget_nav_menu clearfix"><h4>Quicklinks</h4><div class="menu-quicklinks-container"><ul id="menu-quicklinks" class="menu"><li id="menu-item-132" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-2 current_page_item menu-item-132"><a href="http://www.ecompetences.eu/">Home</a></li>
+<li id="menu-item-1770" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1770"><a href="http://www.ecompetences.eu/get-the-e-cf/">Get the e-CF</a></li>
+<li id="menu-item-569" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-569"><a href="http://www.ecompetences.eu/e-cf-overview/">e-CF overview</a></li>
+<li id="menu-item-567" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-567"><a href="http://www.ecompetences.eu/e-cf-founding-principles/">e-CF Founding principles</a></li>
+<li id="menu-item-1771" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1771"><a href="http://www.ecompetences.eu/e-cf-in-practice/">e-CF in practice</a></li>
+<li id="menu-item-1772" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1772"><a href="http://www.ecompetences.eu/cen-tc-428-%e2%80%8e/">CEN ICT skills work groups</a></li>
+<li id="menu-item-570" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-570"><a href="http://www.ecompetences.eu/imprint/">Imprint</a></li>
+</ul></div></div>            </div>
+            <!-- /footer-left -->
+            <div class="footer-box grid-3">
+            	<div class="footer-widget widget_page_in_widget clearfix"><h4>Downloads</h4>
+<ul>
+<li><a href="http://www.ecompetences.eu/wp-content/uploads/2014/02/European-e-Competence-Framework-3.0_CEN_CWA_16234-1_2014.pdf">European e-Competence Framework 3.0 (EN)</a></li>
+<li><a href="http://www.ecompetences.eu/wp-content/uploads/2014/02/User-guide-for-the-application-of-the-e-CF-3.0_CEN_CWA_16234-2_2014.pdf">User guide for the application of the e-CF 3.0 (EN)</a></li>
+<li><a href="ftp://ftp.cen.eu/CEN/Sectors/List/ICT/Workshops/eCF3.0%20brochure.pdf">CEN e-CF 3.0 overview brochure</a></li>
+<li><a href="http://ecompetences.eu/wp-content/uploads/2013/11/EQF_broch_2008_en.pdf">European Qualifications Framework for lifelong learning (EN)</a></li>
+</ul>
+</div>            </div>
+            <!-- /footer-middle -->
+            <div class="footer-box grid-3">
+            	<div class="footer-widget widget_page_in_widget clearfix"></div>            </div>
+            <!-- /footer-right -->
+			<div class="footer-box grid-3">
+            	            </div>
+            <!-- /footer-right -->
+        </div>
+        <!-- /footer-widgets -->
+            </footer>
+    <!-- /footer -->
+    <div id="footer-bottom">
+    	<div class="grid-container clearfix">
+            <div id="copyright" class="grid-2 no-btm-margin">
+                The European e-Competence Framework 3.0 website is powered by CEPIS. <br>     
+
+e-CF 3.0 CWA 16234:2014 and EN 16234:2016 © CEN            </div><!-- /copyright -->
+            <div id="footer-menu" class="grid-2 no-btm-margin">
+                <div class="menu-footer-menu-container"><ul id="menu-footer-menu" class="menu"><li id="menu-item-233" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-233"><a href="http://www.ecompetences.eu/imprint/">Imprint</a></li>
+</ul></div>            </div><!-- /footer-menu -->
+    	</div><!-- /grid-container -->
+    </div><!-- /footer-bottom --> 
+</div><!-- /wrap -->
+
+
+    
+
+                <div id="lang_sel_footer">
+                    <ul>
+                        <li><a href="http://www.ecompetences.eu/" class="lang_sel_sel">English</a></li>
+                        <li><a href="http://www.ecompetences.eu/de/">Deutsch</a></li>
+                        <li><a href="http://www.ecompetences.eu/it/">Italiano</a></li>
+                    </ul>
+                </div><script type='text/javascript' src='http://www.ecompetences.eu/wp-content/plugins/contact-form-7/includes/js/jquery.form.min.js?ver=3.50.0-2014.02.05'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var _wpcf7 = {"loaderUrl":"http:\/\/www.ecompetences.eu\/wp-content\/plugins\/contact-form-7\/images\/ajax-loader.gif","sending":"Sending ..."};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://www.ecompetences.eu/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=3.8'></script>
+<script type='text/javascript' src='http://www.ecompetences.eu/wp-includes/js/jquery/ui/jquery.ui.core.min.js?ver=1.10.3'></script>
+<script type='text/javascript' src='http://www.ecompetences.eu/wp-includes/js/jquery/ui/jquery.ui.widget.min.js?ver=1.10.3'></script>
+<script type='text/javascript' src='http://www.ecompetences.eu/wp-includes/js/jquery/ui/jquery.ui.accordion.min.js?ver=1.10.3'></script>
+<script type='text/javascript' src='http://www.ecompetences.eu/wp-includes/js/jquery/ui/jquery.ui.tabs.min.js?ver=1.10.3'></script>
+<script type='text/javascript' src='http://www.ecompetences.eu/wp-content/themes/Alpha/framework/scripts/js/easing.js?ver=1.3'></script>
+<script type='text/javascript' src='http://www.ecompetences.eu/wp-includes/js/hoverIntent.min.js?ver=r7'></script>
+<script type='text/javascript' src='http://www.ecompetences.eu/wp-content/themes/Alpha/framework/scripts/js/superfish.js?ver=1.4.8'></script>
+<script type='text/javascript' src='http://www.ecompetences.eu/wp-content/themes/Alpha/framework/scripts/js/flexslider-min.js?ver=2'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var lightboxLocalize = {"theme":"pp_default","title":"true","resize":"true","slideshow":"5000","opacity":"0.8","width":"600","height":"400"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://www.ecompetences.eu/wp-content/themes/Alpha/js/prettyphoto.js?ver=3.1.4'></script>
+<script type='text/javascript' src='http://www.ecompetences.eu/wp-content/themes/Alpha/js/fitvids.js?ver=1'></script>
+<script type='text/javascript' src='http://www.ecompetences.eu/wp-content/themes/Alpha/js/uniform.js?ver=1.7.5'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var responsiveLocalize = {"text":"Go to..."};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://www.ecompetences.eu/wp-content/themes/Alpha/js/responsive.js?ver=3.8.26'></script>
+<script type='text/javascript' src='http://www.ecompetences.eu/wp-content/themes/Alpha/js/initialize.js?ver=1.0'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var icl_vars = {"current_language":"en","icl_home":"http:\/\/www.ecompetences.eu\/"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://www.ecompetences.eu/wp-content/plugins/sitepress-multilingual-cms/res/js/sitepress.js?ver=3.8.26'></script>
+
+
+</body>
+</html>
+

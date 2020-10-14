@@ -1,0 +1,99 @@
+WARC/1.0
+WARC-Type: warcinfo
+WARC-Date: 2018-05-30T18:18:32Z
+WARC-Record-ID: <urn:uuid:ba4afc43-9265-467d-ad74-4cf17608a79d>
+WARC-All-Language: fr
+WARC-All-Content_type: text/html
+Content-Type: application/http;msgtype=response
+Content-Length: 46
+
+WARCProcessor by SING Group www.sing-group.com
+
+WARC/1.0
+WARC-Type: response
+WARC-Record-ID: <http://www.mobilego.eu>
+WARC-Date: 20180530181832
+WARC-Target-URI: http://www.mobilego.eu
+WARC-Language: fr
+Content-Type: application/http;msgtype=response
+Content-Length: 3377
+
+HTTP/1.1 200
+Content-Type:text/html
+
+
+<!DOCTYPE html>
+<html >
+<head>
+  
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="generator" content="Mobirise v4.6.6, mobirise.com">
+  <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1">
+  <link rel="shortcut icon" href="assets/images/logo.png" type="image/x-icon">
+  <meta name="description" content="">
+  <title>Home</title>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Montserrat:400,700">
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Raleway:100,100i,200,200i,300,300i,400,400i,500,500i,600,600i,700,700i,800,800i,900,900i">
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Lora:400,700,400italic,700italic&subset=latin">
+  <link rel="stylesheet" href="assets/tether/tether.min.css">
+  <link rel="stylesheet" href="assets/bootstrap/css/bootstrap.min.css">
+  <link rel="stylesheet" href="assets/animate.css/animate.min.css">
+  <link rel="stylesheet" href="assets/theme/css/style.css">
+  <link rel="stylesheet" href="assets/mobirise/css/mbr-additional.css" type="text/css">
+  
+  
+  
+</head>
+<body>
+  <section class="mbr-section mbr-section-hero mbr-section-full mbr-section-with-arrow" id="header4-0" data-bg-video="https://www.youtube.com/embed/-MKapbz0GIo?rel=0&amp;amp;showinfo=0&amp;autoplay=0&amp;loop=0" data-rv-view="18">
+
+    <div class="mbr-overlay" style="opacity: 0.5; background-color: rgb(0, 0, 0);"></div>
+
+    <div class="mbr-table-cell">
+
+        <div class="container">
+            <div class="row">
+                <div class="mbr-section col-md-10 col-md-offset-2 text-xs-right">
+
+                    <h1 class="mbr-section-title display-1">MOBILEGO</h1>
+                    <p class="mbr-section-lead lead">Ecommerce across Europe</p>
+                    <div class="mbr-section-btn">   <a class="btn btn-lg btn-danger" href="https://mobilego.eu">WWW.MOBILEGO.EU</a>  </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="mbr-arrow mbr-arrow-floating" aria-hidden="true"><a href="#msg-box3-2"><i class="mbr-arrow-icon"></i></a></div>
+
+</section>
+
+<section class="engine"><a href="https://mobirise.ws/b">best site creator</a></section><section class="mbr-section article" id="msg-box3-2" data-rv-view="22" style="background-color: rgb(242, 242, 242); padding-top: 120px; padding-bottom: 120px;">
+
+    
+    <div class="container">
+        <div class="row">
+            <div class="col-md-8 col-md-offset-2 text-xs-center">
+                <h3 class="mbr-section-title display-2">CONTACT</h3>
+                <div class="lead"><p>info@mobilego.eu</p></div>
+                <div><a class="btn btn-secondary" href="index.html">MOBILEGO.EU</a></div>
+            </div>
+        </div>
+    </div>
+
+</section>
+
+
+  <script src="assets/web/assets/jquery/jquery.min.js"></script>
+  <script src="assets/tether/tether.min.js"></script>
+  <script src="assets/bootstrap/js/bootstrap.min.js"></script>
+  <script src="assets/smooth-scroll/smooth-scroll.js"></script>
+  <script src="assets/jquery-mb-ytplayer/jquery.mb.ytplayer.min.js"></script>
+  <script src="assets/viewport-checker/jquery.viewportchecker.js"></script>
+  <script src="assets/theme/js/script.js"></script>
+  
+  
+  <input name="animation" type="hidden">
+  </body>
+</html>
+

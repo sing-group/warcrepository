@@ -1,0 +1,73 @@
+WARC/1.0
+WARC-Type: warcinfo
+WARC-Date: 2018-05-30T18:18:32Z
+WARC-Record-ID: <urn:uuid:3d872ca9-6198-4e09-b6b6-09454c6dc0a2>
+WARC-All-Language: fr
+WARC-All-Content_type: text/html
+Content-Type: application/http;msgtype=response
+Content-Length: 46
+
+WARCProcessor by SING Group www.sing-group.com
+
+WARC/1.0
+WARC-Type: response
+WARC-Record-ID: <http://www.lingerie.eu>
+WARC-Date: 20180530181832
+WARC-Target-URI: http://www.lingerie.eu
+WARC-Language: fr
+Content-Type: application/http;msgtype=response
+Content-Length: 1072
+
+HTTP/1.1 200
+Content-Type:text/html
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>Lingerie.eu opent later dit jaar</title>
+<script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
+</script>
+<script type="text/javascript">
+_uacct = "UA-276809-11";
+urchinTracker();
+</script>
+<style type="text/css">
+<!--
+.text {
+	font-family: Arial, Helvetica, sans-serif;
+	font-weight: bold;
+	font-style: italic;
+	color: #B02E57;
+}
+a {
+	font-size: medium;
+	color: #b02e57;
+}
+a:link {
+	text-decoration: none;
+}
+a:visited {
+	text-decoration: none;
+}
+a:hover {
+	text-decoration: none;
+}
+a:active {
+	text-decoration: none;
+}
+-->
+</style>
+</head>
+
+<body>
+<center>
+  <p><img src="/logo.png" alt="lingerie.eu" width="354" height="298" />
+  </p>
+  <p>&nbsp;</p>
+  <p class="text"><a href="mailto:info@lingerie.eu">info@lingerie.eu</a></p>
+</center>
+</body>
+</html>
+

@@ -1,0 +1,150 @@
+WARC/1.0
+WARC-Type: warcinfo
+WARC-Date: 2018-05-30T17:52:31Z
+WARC-All-Language: en-US
+WARC-All-Content_type: text/html; charset=UTF-8
+WARC-Record-ID: <urn:uuid:88b3c345-c3e2-470a-a337-bd74f4c7ba30>
+Content-Type: application/http;msgtype=response
+Content-Length: 46
+
+WARCProcessor by SING Group www.sing-group.com
+
+WARC/1.0
+WARC-Type: response
+WARC-Target-URI: http://www.epfloor.eu
+WARC-Date: 20180530175231
+WARC-Language: en-US
+WARC-Record-ID: <http://www.epfloor.eu>
+Content-Type: application/http;msgtype=response
+Content-Length: 5410
+
+HTTP/1.1 200
+Content-Type:text/html; charset=UTF-8
+
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-US" lang="en-US">
+<head profile="http://www.w3.org/2000/08/w3c-synd/#"><meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="generator" content="www.digitalbase.be" />
+<meta name="keywords" content="epfloor, flooring, pvc, post-construction waste, eupc, european, manufacturers, floors, floor" />
+<meta name="description" content=EPFLOOR mission is to recycle increasing quantities of Post-Consumer PVC flooring waste in Western Europe. />
+
+<title>EPFLOOR - European PVC Flooring Manufacturers Group - Home</title>
+<link rel="stylesheet" type="text/css" href="/css/main.css" />
+
+</head>
+<body>
+
+<div class='centerframe'>
+	<div class='header'>
+		<img src='/images/header.png'>
+		<img src="/images/ico1.jpg" width="20" height="102" alt="contact icons" style="border-left: 1px solid white;">
+
+		<div class='linkblock'>
+			<span><a href='/'>Home</a></span>
+			<span><a href='/about'>About</a></span>
+			<span><a href='/contact'>Contact</a></span>
+		</div>
+	</div>
+
+<div class='topnavigation'>
+	<ul>
+	  <li class='first selected'><a href='/'>Home</a></li>
+	  <li  ><a href='/about'>About Us</a></li>
+	  <li ><a href='/members/all'>Members</a></li>
+	  <li ><a href='/recycling'>Recycling & Recovery</a></li>
+	  <li ><a href='/collection-initiatives'>Collection Initiatives</a></li>
+	  <li ><a href='/finances'>Finances</a></li>
+	  <li ><a href='/links'>Links</a></li>
+	  <li class='last '><a href='/contact'>Contact Us</a></li>
+	</ul>
+</div>
+<div class='boxwelcome'>
+	<img src='images/slogan.jpg'>
+
+</div>
+
+<div class='boximage'>
+			<object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,29,0" width="357" height="180">
+      <param name="movie" value="image_animation.swf">
+      <param name="quality" value="high">
+      <embed src="image_animation.swf" quality="high" pluginspage="http://www.macromedia.com/go/getflashplayer" type="application/x-shockwave-flash" width="357" height="180">
+      </embed>
+    </object>
+</div>
+
+<div class='contentleftbox'>
+
+  <a href='/recycling' title='Recycling & Recovery'><img src='/images/btn-recycling.jpg' alt='Recycling & Recovery'></a>
+
+  <div class='contentshorttext'>
+    The PVC Flooring industry has been thriving to always increase <u>efficiency</u> and <u>sustainability</u>. This results in high quality products designed for a range of different markets (vinyl floor coverings for residential and commercial markets).
+    <br />
+    <br />
+    Nearly all production waste (e.g. trimmings and off grade products) is reused in the process, this objective being achieved by the constant efforts of the industry.
+  </div>
+
+  <a href='/collection-initiatives' title='Collection Initiatives'><img src='/images/btn-collection.jpg' alt='Collection Initiatives'></a>
+
+	<div>
+		<div class='contentshorttext' style='width:315px;float:left;'>
+			Key to recycling is the set-up of a Europe wide network of collection points. Those are organised and encouraged throughout our national <b>EPFLOOR</b> schemes.
+		</div>
+		<a href='/collection-initiatives' title='Collection Initiatives'><img src='images/membersgeograficsmall.jpg' ></a>
+	</div>
+
+</div>
+
+<div class="contentrightbox" style="padding-left:417px;">
+  <a href='/about' title='About Us'><img src='/images/btn-aboutus.jpg' alt='About Us'></a>
+
+  <div class='contentshorttext'>
+    The <b>E</b>uropean <b>P</b>VC <b>Floor</b>ing Manufacturers ("<b>EPFLOOR</b>") mission is to recycle increasing quantities of Post-Consumer PVC flooring waste in Western Europe.
+    <br /><br />
+    <b>EPFLOOR</b> membership is composed of all the major Western European PVC flooring manufacturers representing  over 90% of the production. <br /><br />
+
+    <img width="134px" height="78px" src='images/vinyl.jpg' style='float:right;margin-left:20px'><br /><b>EPFLOOR</b> is part of the <b>VinylPlus</b> initiative, the PVC industry Voluntary Commitment
+  </div>
+</div>
+<div style="clear:both"></div>
+
+<div class='footerleftbox'>
+  <div class='bottomnavigation'>
+  	<ul>
+  	  <li class='first'><a href='/'>Home</a> |</li>
+  	  <li><a href='/about'>About Us</a> |</li>
+  	  <li><a href='/members/all'>Members</a> |</li>
+  	  <li><a href='/recycling'>Recycling</a> |</li>
+  	  <li><a href='/collection-initiatives'>Collection</a> |</li>
+  	  <li><a href='/links'>Links</a> |</li>
+  	  <li class='last'><a href='/'>Contact</a></li>
+  	</ul>
+  </div>
+</div>
+
+<div class='footerrightbox'>
+	<div>
+		Copyright &copy; EPFLOOR 2007<br />
+		<a href="http://www.digitalbase.eu" target="_blank" title="Webdesign Company Digital Base" class="text3">Webdesign by Digital Base</a>
+		| <a href="/disclaimer">Disclaimer</a>
+		| <a href="/sitemap">Sitemap</a>
+	</div>
+</div>
+
+</div>
+
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-11016099-7");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+
+</body>
+</html>
+
+

@@ -1,0 +1,480 @@
+WARC/1.0
+WARC-Type: warcinfo
+WARC-Date: 2018-05-30T17:52:30Z
+WARC-Record-ID: <urn:uuid:e48c2ef4-7b28-4eb8-8be7-f7b80abadc37>
+WARC-All-Language: en
+WARC-All-Content_type: text/html; charset=UTF-8, text/html
+Content-Type: application/http;msgtype=response
+Content-Length: 46
+
+WARCProcessor by SING Group www.sing-group.com
+
+WARC/1.0
+WARC-Type: response
+WARC-Record-ID: <http://www.fefpeb.eu>
+WARC-Date: 20180530175230
+WARC-Target-URI: http://www.fefpeb.eu
+WARC-Language: en
+Content-Type: application/http;msgtype=response
+Content-Length: 18806
+
+HTTP/1.1 200
+Content-Type:text/html; charset=UTF-8
+
+
+<!doctype html>
+<html>
+  <head>
+    <title>FEFPEB | Home</title>
+    <meta charset="utf-8">
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1"/>
+
+    <meta http-equiv="X-UA-Compatible" content="IE=EmulateIE1" />
+
+    <meta name="generator" value="Theo 1.2.9"/>
+    <meta name="description" value=""/>
+    <meta name="keywords" value=""/>
+    <link href="/css/main.css" rel="stylesheet"/>
+
+
+    <script type="text/javascript" src="/js/vendor/jquery/jquery.1.11.1.js"></script>
+    <script type="text/javascript" src="/js/vendor/cycle2/jcycle.js"></script>
+    <script type="text/javascript" src="/js/vendor/cycle2/swipe.js"></script>
+    <script type="text/javascript" src="/js/jquery.visible.js"></script>
+    <script type="text/javascript" src="/js/init.js"></script>
+
+
+    <!--  font inladen -->
+    <link href='https://fonts.googleapis.com/css?family=Roboto+Condensed:400,700,300' rel='stylesheet' type='text/css'>
+    <link href='https://fonts.googleapis.com/css?family=Roboto:400,700,300' rel='stylesheet' type='text/css'>
+    <link href='//fonts.googleapis.com/css?family=Open+Sans:400,600,300' rel='stylesheet' type='text/css'>
+
+    <script>
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+          (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+        m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+      })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+      ga('create', 'UA-74058464-1', 'auto');
+      ga('send', 'pageview');
+
+    </script>
+  </head>
+  <body class="home">
+
+    <header>
+
+  <div class="wrapper">
+
+    <div class="col col-1-6 m-1-10 ">
+      <a href="/" class="main-logo">
+        <img src="/img/logo.svg" alt="Fefpeb">
+      </a>
+    </div>
+    <div class="col col-hide s-show xs-show s-1-6 xs-1-6 gap-4-6"><a href="#" class="hamburger r-float" data-target="menu">&#9776;</a></div>
+
+    <div class="col col-5-6 s-1-1 xs-1-1 m-6-7 s-hide xs-hide" data-burger="menu">
+      <div class="bovenmenu">
+        
+
+        <div class="zoekinput"><form action="/search">
+        <input type="text" name="filter">
+          <button type="submit"><i class="icon search"></i></button>
+          </form></div>
+
+      </div>
+      <nav class="main-navigation" id="fullholder">
+        
+<ul>
+
+
+  <li >
+    <a href="/contact">Contact</a>
+  </li>
+
+  <li >
+    <a href="/pr-material">PR-material</a>
+    <ul>
+            <li><a href="/pr-material/packaging-from-nature">Packaging from nature</a></li>
+            <li><a href="/pr-material/video">Video</a></li>
+            <li><a href="/pr-material/factsheets-leaflets">Factsheets &amp; leaflets</a></li>
+            <li><a href="/pr-material/reports">Reports</a></li>
+          </ul>
+  </li>
+
+  <li >
+    <a href="/wooden-packaging">Wooden Packaging</a>
+    <ul>
+              <li><a href="/wooden-packaging/wooden">Wooden packaging</a></li>
+              <li><a href="/wooden-packaging/timber-pallet-price-indices">Pallet Timber price indices</a></li>
+              <li><a href="/wooden-packaging/properties-of-wood">Properties of wood</a></li>
+              <li><a href="/wooden-packaging/ispm-15">ISPM 15</a></li>
+              <li><a href="/wooden-packaging/legality">Legality</a></li>
+              <li><a href="/wooden-packaging/sustainability">Sustainability</a></li>
+          </ul>
+  </li>
+
+
+
+  <li >
+    <a href="/membership">Membership</a>
+    <ul>
+              <li><a href="/membership/membership">Membership</a></li>
+              <li><a href="/membership/become-a-member">Become a member</a></li>
+              <li><a href="/membership/fullmembers">Full members</a></li>
+              <li><a href="/membership/associatedmembers">Associated members</a></li>
+              <li><a href="/membership/palletpools">Pallet pools</a></li>
+          </ul>
+  </li>
+
+
+  <li >
+    <a href="/news">News</a>
+  </li>
+  <li >
+    <a href="/about">About</a>
+    <ul>
+              <li><a href="/about/over">About Fefpeb</a></li>
+
+
+              <li><a href="/about/agenda">Agenda</a></li>
+
+
+              <li><a href="/about/alliances">Alliances</a></li>
+
+
+              <li><a href="/about/committees-organisation">Committees &amp; Organisation</a></li>
+
+
+              <li><a href="/about/activities-services">Activities &amp; Services</a></li>
+
+
+          </ul>
+  </li>
+
+  <li class="active">
+    <a href="/">Home</a>
+  </li>
+
+
+</ul>
+      </nav>
+    </div>
+
+  </div>
+</header>
+
+        <div class="main">
+    <div class="wrapper">
+
+        <div class="col col-8-11 s-1-1 xs-1-1 homeblok">
+            <div class="feature">
+                <div class="cycle-slideshow"
+                     id="cycle-slideshow"
+                     data-cycle-timeout="10000"
+                     data-cycle-slides=".slide"
+                     data-cycle-swipe=true
+                     data-cycle-swipe-fx=scrollHorz
+                     data-cycle-prev="#prev"
+                     data-cycle-next="#next">
+
+                    <div class="cycle-pager"></div>
+                                            <div class="slide"
+                             style="background-image: url(/image/w1800|h800|fit/http://www.fefpeb.eu/cms/files/slider/euinternationalcooperation.jpg)">
+
+                            <div class="slideshow-overlay animatedSlide quoteWit">
+                                <h2>FEFPEB: Respresenting European wooden pallets and packaging manufacturers since 1946</h2>
+                                <div class="center-align">
+                                                                            <a href="/about" class="button c3">Visit website</a>
+                                    
+                                </div>
+                            </div>
+
+                        </div>
+                                            <div class="slide"
+                             style="background-image: url(/image/w1800|h800|fit/http://www.fefpeb.eu/cms/files/slider/shutterstock-49382626.jpg)">
+
+                            <div class="slideshow-overlay animatedSlide quoteWit">
+                                <h2>Packaging From Nature, FEFPEB’s pan-European campaign communicating the benefits of wooden pallets and packaging</h2>
+                                <div class="center-align">
+                                                                            <a href="/pr-material/packaging-from-nature" class="button c3">Visit website</a>
+                                    
+                                </div>
+                            </div>
+
+                        </div>
+                                            <div class="slide"
+                             style="background-image: url(/image/w1800|h800|fit/http://www.fefpeb.eu/cms/files/slider/c00w6237c.jpg)">
+
+                            <div class="slideshow-overlay animatedSlide quoteWit">
+                                <h2>Wooden pallets: The most important objects in the global economy</h2>
+                                <div class="center-align">
+                                                                            <a href="/about" class="button c3">Visit website</a>
+                                    
+                                </div>
+                            </div>
+
+                        </div>
+                                            <div class="slide"
+                             style="background-image: url(/image/w1800|h800|fit/http://www.fefpeb.eu/cms/files/slider/playground-chips-wood-carpet-la-ms.png)">
+
+                            <div class="slideshow-overlay animatedSlide quoteWit">
+                                <h2>Wood is the sustainable choice for pallets and packaging</h2>
+                                <div class="center-align">
+                                                                            <a href="/wooden-packaging/sustainability" class="button c3">Visit website</a>
+                                    
+                                </div>
+                            </div>
+
+                        </div>
+                                            <div class="slide"
+                             style="background-image: url(/image/w1800|h800|fit/http://www.fefpeb.eu/cms/files/slider/131002-131.jpg)">
+
+                            <div class="slideshow-overlay animatedSlide quoteWit">
+                                <h2>Lightweight wooden packaging: strong, sustainable and safe for use with food</h2>
+                                <div class="center-align">
+                                                                            <a href="/about" class="button c3">Visit website</a>
+                                    
+                                </div>
+                            </div>
+
+                        </div>
+                                            <div class="slide"
+                             style="background-image: url(/image/w1800|h800|fit/http://www.fefpeb.eu/cms/files/slider/warehouse-cratesb.jpg)">
+
+                            <div class="slideshow-overlay animatedSlide quoteWit">
+                                <h2>Export wooden packaging: The natural bespoke solution for transporting goods</h2>
+                                <div class="center-align">
+                                                                            <a href="/about" class="button c3">Visit website</a>
+                                    
+                                </div>
+                            </div>
+
+                        </div>
+                                            <div class="slide"
+                             style="background-image: url(/image/w1800|h800|fit/http://www.fefpeb.eu/cms/files/slider/kelat-dsc8437.jpg)">
+
+                            <div class="slideshow-overlay animatedSlide quoteWit">
+                                <h2>For handling equipment wood is the most sustainable material</h2>
+                                <div class="center-align">
+                                                                            <a href="/about" class="button c3">Visit website</a>
+                                    
+                                </div>
+                            </div>
+
+                        </div>
+                                    </div>
+            </div>
+        </div>
+        <a href="http://packagingfromnature.com/" target="_blank">
+            <div data-resize-boxes="true" id="wit"
+                 class="col col-3-12 margin homeblok wit s-1-1 xs-1-1 m-3-12 s-gap-0 xs-gap-0 r-float">
+                <img src="/img/nature.svg">
+
+                <p class="t-xlarge">
+                    <p><strong>FEFPEB’s campaign</strong></br>
+to support the most economic and environmentally friendly transport and packaging material: wood.</p></p>
+            </div>
+        </a>
+                                                                            </div>
+    <div class="grijs">
+        <div class="wrapper">
+
+            <div class="col col-8-11 margin homeblok groen s-1-1 xs-1-1 m-5-7">
+
+                <div class="col col-3-5 content s-1-1 xs-1-1" id="homegroen" data-resize-boxes="true">
+                    <h2>About fefpeb</h2>
+
+<p>FEFPEB, the European Federation of Wooden Pallet and Packaging Manufacturers was established in 1946. FEFPEB is recognized as the European representative organisation of national timber packaging associations, including: Pallets, Lightweight packaging and Industrial packaging</p>
+<a class="button b-border" href="/about">Read more about us</a>
+                </div>
+                <div class="col col-2-5 s-1-1 xs-1-1 houtstapel" id="become" data-resize-boxes="true">
+                    <a href="/membership/become-a-member">
+                        <button class="button c0">
+                            <span>Become a member</span>
+                            <i class="icon member"></i></button>
+                    </a><a href="/wooden-packaging/timber-pallet-price-indices">
+                        <button href="#" class="button c0">
+                            <span>Timber Pallet Price Index</span>
+                            <i class="icon index"></i></button>
+                    </a>
+
+                </div>
+
+
+            </div>
+            <div class="group"></div>
+        </div>
+
+
+        <div class="wrapper">
+            <div class="col col-2-3 s-1-1 xs-1-1 m-1-1 nieuws margin homeblok">
+
+                <h4 class="heading">Latest news</h4>
+
+                <ul>
+      <a href="/news/fefpeb-newsletter-april-2018">
+      <li data-slidein="slideleft">
+        <div class="img">
+          <img src="/image/w300|h300|fit/cms/files/News/newsletter.gif"/>
+        </div>
+        <div class="tekst"><h2>FEFPEB Newsletter April 2018</h2>
+          <date>30 Apr 2018</date>
+          <p>The FEFPEB Newsletter includes several topics. Open the newsletter to read the topics</p></div>
+      </li>
+    </a>
+
+      <a href="/news/interpal-fall-plant-tours-minneapolis">
+      <li data-slidein="slideleft">
+        <div class="img">
+          <img src="/image/w300|h300|fit/cms/files/2018-04/1524559975_nwpca-logo.jpg"/>
+        </div>
+        <div class="tekst"><h2>Interpal &amp; Fall Plant Tours, Minneapolis</h2>
+          <date>24 Apr 2018</date>
+          <p>Interpal is an international conference held every four years for the global wood packaging industry.</p></div>
+      </li>
+    </a>
+
+      <a href="/news/packaging-wood-price-continues-to-clim">
+      <li data-slidein="slideleft">
+        <div class="img">
+          <img src="/image/w300|h300|fit/cms/files/photos/pallets-1.gif"/>
+        </div>
+        <div class="tekst"><h2>Packaging wood price continues to climb</h2>
+          <date>25 Feb 2018</date>
+          <p>Timber prices have risen rapidly in recent months, up to 20% in some cases</p></div>
+      </li>
+    </a>
+
+  </ul>                <a href="/news" class="r-float green-link">View all news
+                    items <i class="icon next"></i></a>
+            </div>
+
+            <div class="col col-1-3 agenda s-1-1 xs-1-1 m-1-1 margin">
+                <h4 class="heading">Agenda</h4>
+
+                <div data-slidein="slideright" class="homeblok wit">
+                    <ul class="agenda">
+
+
+
+  <a href="/about/agenda/fefpeb-meetings-may-paris">
+    <li>
+
+      <date class="col col-1-6 calendar">
+       <span class="datum">24</span>
+        <span class="maand">May</span>
+        <span class="jaar">2018</span>
+      </date>
+      <div class="col content col-5-6">
+        <h2>FEFPEB meetings, May 2018, Lille (France)</h2>
+        <p>On 24 and 25 May 2018, FEFPEB will organize the following meetings:</p>
+      </div>
+      <div class="group"></div>
+    </li>
+</a>
+  <a href="/about/agenda/interpal-september-2018">
+    <li>
+
+      <date class="col col-1-6 calendar">
+       <span class="datum">18</span>
+        <span class="maand">Sep</span>
+        <span class="jaar">2018</span>
+      </date>
+      <div class="col content col-5-6">
+        <h2>Interpal,  September 2018</h2>
+        <p>18 - 20 September 2018, Interpal</p>
+      </div>
+      <div class="group"></div>
+    </li>
+</a>
+  <a href="/about/agenda/69th-fefpeb-congress">
+    <li>
+
+      <date class="col col-1-6 calendar">
+       <span class="datum"> 9</span>
+        <span class="maand">Oct</span>
+        <span class="jaar">2019</span>
+      </date>
+      <div class="col content col-5-6">
+        <h2>69th FEFPEB congress</h2>
+        <p>9 - 11 October 2019</p>
+      </div>
+      <div class="group"></div>
+    </li>
+</a>
+  
+</ul>
+                </div>
+                <div class="margin">
+                    <a href="/about/agenda" class="r-float green-link">View all upcoming events
+                        <i class="icon next"></i></a>
+                </div>
+            </div>
+
+        </div>
+    </div>
+
+    <footer>
+    <div class="wrapper">
+        <div class="col col-1-4 s-1-3 xs-1-1 m-1-3">
+            <h2>About Fefpeb</h2>
+            <ul>
+                <li><a href="/about">What is FEFPEB?</a></li>
+                <li><a href="/membership/become-a-member">Become a member</a></li>
+                <li><a href="/wooden-packaging">Wooden Packaging</a></li>
+                <li><a href="/pr-material">Packaging from Nature</a></li>
+                <li><a href="/contact">Contact</a></li>
+            </ul>
+        </div>
+        <div class="col col-1-4 s-1-3 xs-1-1 m-1-3">
+            <h2>News &amp; Activities</h2>
+            <ul>
+                <li><a href="/news">Latest news</a></li>
+                <li><a href="/about/agenda">Agenda</a></li>
+
+                <li><a href="/wooden-packaging/ispm-15">ISPM15</a></li>
+                <li><a href="/pr-material/factsheets-leaflets">Factsheets</a></li>
+                <li><a href="/wooden-packaging/timber-pallet-price-indices">Timber Pallet Price
+                        Index</a></li>
+            </ul>
+        </div>
+        <div class="col col-1-4 s-1-3 xs-1-1 m-1-3">
+            <h2>Contact</h2>
+            <ul>
+                <li><strong>FEFPEB</strong></li>
+                <li>Postbus 4076</li>
+                <li>NL-5004 JB Tilburg</li>
+                <li><i class="icon phone"></i> +31 13 59 44 802</li>
+                <li><a href="mailto:fefpeb@wispa.nl" class="mail"><i class="icon email"></i> fefpeb@wispa.nl</a></li>
+            </ul>
+        </div>
+        <div class="col col-1-4 s-1-1 xs-1-1 m-1-1">
+            <h2>Search</h2>
+            <p>Search our website</p>
+            <div class="zoekinput">
+                <form action="/search">
+                    <input type="text" name="filter">
+                    <button type="submit"><i class="icon search"></i></button>
+                </form>
+            </div>
+            <a href="https://www.facebook.com/PackagingfromNature" target="_blank"><i class="icon social facebook"></i></a>
+            <a href="https://twitter.com/PackagingNature" target="_blank"><i class="icon social twitter"></i></a>
+            <a href="https://www.linkedin.com/company/federation-europeenne-des-fabricants-de-palettes-et-emballages-en-bois-fefpeb-"
+               target="_blank"><i class="icon social linkedin"></i></a>
+            <a href="https://www.youtube.com/user/PackagingfromNature" target="_blank"><i
+                        class="icon social youtube"></i></a>
+            <a href="http://packagingfromnature.com/" target="_blank"><i class="icon social packaging"></i></a></a>
+            <p>
+                <a href="/privacy">Privacy</a>
+            </p>
+            <img src="/img/logo.svg" alt="Fefpeb" class="watermark svg" id="watermarkfooter">
+        </div>
+
+    </div>
+
+</footer>  </body>
+</html>
+
+

@@ -1,0 +1,47 @@
+WARC/1.0
+WARC-Type: warcinfo
+WARC-Date: 2018-05-30T17:52:30Z
+WARC-Record-ID: <urn:uuid:fe0162de-fdc0-4bbf-8dcd-77b28af1109e>
+WARC-All-Language: en
+WARC-All-Content_type: text/html, text/html; charset=utf-8
+Content-Type: application/http;msgtype=response
+Content-Length: 46
+
+WARCProcessor by SING Group www.sing-group.com
+
+WARC/1.0
+WARC-Type: response
+WARC-Record-ID: <http://www.ingvardsen.eu>
+WARC-Date: 20180530175230
+WARC-Target-URI: http://www.ingvardsen.eu
+WARC-Language: en
+Content-Type: application/http;msgtype=response
+Content-Length: 486
+
+HTTP/1.1 200
+Content-Type:text/html; charset=utf-8
+
+
+<!DOCTYPE html>
+<html>
+<head>
+<title>www.ingvardsen.eu</title>
+<style type="text/css">
+body {
+margin:0;
+padding:0;
+}
+iframe {
+display: block;
+border: none;
+height: 100vh;
+width: 100vw;
+}
+</style>
+</head>
+<body>
+<iframe src="https://about.me/ingvardsen"><p>Your user agent does not support iframes. However you may visit <a href="https://about.me/ingvardsen">the page that was supposed to be here</a></p></iframe>
+</body>
+</html>
+
+

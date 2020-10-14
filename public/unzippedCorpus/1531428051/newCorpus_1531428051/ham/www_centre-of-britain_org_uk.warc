@@ -1,0 +1,38 @@
+WARC/1.0
+WARC-Type: warcinfo
+WARC-Date: 2018-05-23T09:03:44Z
+WARC-Record-ID: <urn:uuid:62a0f604-7118-4738-8883-2458fa8c049a>
+WARC-All-Language: fr
+WARC-All-Content_type: text/html
+Content-Type: application/http;msgtype=response
+Content-Length: 46
+
+WARCProcessor by SING Group www.sing-group.com
+
+WARC/1.0
+WARC-Type: response
+WARC-Record-ID: <http://www.centre-of-britain.org.uk>
+WARC-Date: 20180523090344
+WARC-Target-URI: http://www.centre-of-britain.org.uk
+WARC-Language: fr
+Content-Type: application/http;msgtype=response
+Content-Length: 280
+
+HTTP/1.1 200
+Content-Type:text/html
+
+
+<html>
+<head>
+<META HTTP-EQUIV="Pragma" CONTENT="no-cache">
+<META HTTP-EQUIV="Expires" CONTENT="-1">
+
+<meta http-equiv="refresh" content="1;url=http://www.centreofbritain.co.uk">
+</head>
+<body>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+</body>
+</html>
+
+

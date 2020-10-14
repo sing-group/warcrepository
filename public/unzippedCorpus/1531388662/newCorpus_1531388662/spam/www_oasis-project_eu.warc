@@ -1,0 +1,528 @@
+WARC/1.0
+WARC-Type: warcinfo
+WARC-Date: 2018-05-30T18:18:32Z
+WARC-Record-ID: <urn:uuid:120727f3-37c1-486e-ac85-b62bf881bb1a>
+WARC-All-Language: en, en-gb
+WARC-All-Content_type: text/html, text/html; charset=utf-8
+Content-Type: application/http;msgtype=response
+Content-Length: 46
+
+WARCProcessor by SING Group www.sing-group.com
+
+WARC/1.0
+WARC-Type: response
+WARC-Record-ID: <http://www.oasis-project.eu>
+WARC-Date: 20180530181832
+WARC-Target-URI: http://www.oasis-project.eu
+WARC-Language: en-gb
+Content-Type: application/http;msgtype=response
+Content-Length: 106572
+
+HTTP/1.1 200
+Content-Type:text/html; charset=utf-8
+
+
+<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?><!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"  "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-gb"  lang="en-gb" dir="ltr" >
+<head>
+  <base href="http://www.oasis-project.eu/" />
+  <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+  <meta name="robots" content="index, follow" />
+  <meta name="keywords" content="OASIS, oasis, ontology, ontologies, project, eu, european, union, europe, elderly, quality, life" />
+  <meta name="description" content="OASIS ONTOLOGIES, QUALITY OF LIFE FOR THE ELDERLY" />
+  <meta name="generator" content="Joomla! 1.5 - Open Source Content Management" />
+  <title>Welcome to OASIS website</title>
+  <link href="/index.php/lang-en?format=feed&amp;type=rss" rel="alternate" type="application/rss+xml" title="RSS 2.0" />
+  <link href="/index.php/lang-en?format=feed&amp;type=atom" rel="alternate" type="application/atom+xml" title="Atom 1.0" />
+  <script type="text/javascript" src="/media/system/js/mootools.js"></script>
+  <script type="text/javascript" src="/media/system/js/caption.js"></script>
+
+  <base href="http://www.oasis-project.eu/" />
+  <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+  <meta name="robots" content="index, follow" />
+  <meta name="keywords" content="OASIS, oasis, ontology, ontologies, project, eu, european, union, europe, elderly, quality, life" />
+  <meta name="description" content="OASIS ONTOLOGIES, QUALITY OF LIFE FOR THE ELDERLY" />
+  <meta name="generator" content="Joomla! 1.5 - Open Source Content Management" />
+  <title>Welcome to OASIS website</title>
+  <link href="/index.php/lang-en?format=feed&amp;type=rss" rel="alternate" type="application/rss+xml" title="RSS 2.0" />
+  <link href="/index.php/lang-en?format=feed&amp;type=atom" rel="alternate" type="application/atom+xml" title="Atom 1.0" />
+  <script type="text/javascript" src="/media/system/js/mootools.js"></script>
+  <script type="text/javascript" src="/media/system/js/caption.js"></script>
+<link rel="stylesheet" href="/templates/oasis_template/css/template_css.css" type="text/css" />
+</head>
+
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-12423417-1");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+
+<body>
+<div align="center">
+	<div class="portalWidth">
+		<div class="clr"></div>
+		<div id="header_outer">
+			<div id="header_bg">
+		  		<div id="header_bg_right">
+			  		<div id="header">
+			  			<div class="header-logo">
+			  				<a href="/index.php"><img class="header_logo_img" src="/./templates/oasis_template/images/oas_logo.png" alt="OASIS logo"/></a>
+			  			</div>
+			  			<div class="header-banner">
+			  				<div class="top_qal">
+							<a name="top" ></a>
+						 	<a href="#content" tabindex="0">go to content</a>
+						 	&nbsp;&bull;&nbsp;
+						 	<a href="#menu" tabindex="0">go to menu</a>
+							 &nbsp;&bull;&nbsp;
+						 	<a href="#acc" tabindex="0">access keys</a>
+							<!--	<ul id="mainlevel-nav"><li><a href="http://www.oasis-project.eu" class="mainlevel-nav" >Home</a></li><li><a href="/index.php/lang-en/presenting-oasis-topmenu-39" class="mainlevel-nav" >About OASIS</a></li><li><a href="/index.php/lang-en/consortium-topmenu-37" class="mainlevel-nav" >Consortium</a></li><li><a href="/index.php/lang-en/dissemination-topmenu-38" class="mainlevel-nav" >Dissemination</a></li><li><a href="http://160.40.63.90/oasis/indx1.html" target="_blank" class="mainlevel-nav" >Database</a></li><li><a href="/index.php/lang-en/links-topmenu-76" class="mainlevel-nav" >Links</a></li><li><a href="/index.php/lang-en/contact-info-topmenu-18" class="mainlevel-nav" >Contact</a></li><li><a href="/index.php/lang-en/news-topmenu-19" class="mainlevel-nav" >News &amp; Events</a></li><li><a href="/index.php/lang-en/private-area" class="mainlevel-nav" >FTP</a></li><li><a href="http://twitter.com/#!/OASIS_Proj" target="_blank" class="mainlevel-nav" >OASIS Twitter page</a></li></ul>-->
+		  				</div>
+				  		<div class="header_banner_row1">
+							A Large-Scale Integrating Project co-financed by the European Commision (7th Framework Programme)
+						</div>
+						<div class="header_banner_row2">
+							QUALITY OF LIFE FOR THE ELDERLY
+						</div>
+						<div class="clr"></div><br/>
+						<div class="header_banner_row3">
+							Open architecture for Accessible Services Integration and  Standardisation
+						</div>
+					</div>
+				</div>
+			</div>
+			<div class="clr"></div>
+		</div>
+		<div class="main_content">
+			<div class="main_content_left_repeat">
+				<div class="main_content_left">
+		  			<div class="main_content_right_repeat">
+		  				<div class="main_content_right">
+							<div class="content">
+							  	<div id="buttons_outer">
+									<div id="buttons_inner">
+										<div id="buttons">
+											<!--PATH-->
+											<!--<div ></div>-->
+											<a name="menu" ></a>
+											<!--TOP MENU-->
+											<ul id="mainlevel-nav"><li><a href="http://www.oasis-project.eu" class="mainlevel-nav" >Home</a></li><li><a href="/index.php/lang-en/presenting-oasis-topmenu-39" class="mainlevel-nav" >About OASIS</a></li><li><a href="/index.php/lang-en/consortium-topmenu-37" class="mainlevel-nav" >Consortium</a></li><li><a href="/index.php/lang-en/dissemination-topmenu-38" class="mainlevel-nav" >Dissemination</a></li><li><a href="http://160.40.63.90/oasis/indx1.html" target="_blank" class="mainlevel-nav" >Database</a></li><li><a href="/index.php/lang-en/links-topmenu-76" class="mainlevel-nav" >Links</a></li><li><a href="/index.php/lang-en/contact-info-topmenu-18" class="mainlevel-nav" >Contact</a></li><li><a href="/index.php/lang-en/news-topmenu-19" class="mainlevel-nav" >News &amp; Events</a></li><li><a href="/index.php/lang-en/private-area" class="mainlevel-nav" >FTP</a></li><li><a href="http://twitter.com/#!/OASIS_Proj" target="_blank" class="mainlevel-nav" >OASIS Twitter page</a></li></ul>
+										</div>
+									</div>
+					  			</div>
+						  		<div class="clr"></div>
+								                                      <div class="content_left_col">
+										<div>
+											<a name="content" ></a>
+											<!--CONTENT-->
+                                            <table class="blog" cellpadding="0" cellspacing="0">
+<tr>
+	<td valign="top">
+					<div>
+		
+<table class="contentpaneopen">
+
+
+
+
+<tr>
+<td valign="top" colspan="2">
+<p><span class="title_green_home">OASIS video available now!</span></p>
+<div style="text-align: center">
+<div><br /> 
+<object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" width="425" height="344" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,40,0">
+<param name="width" value="425" />
+<param name="height" value="344" />
+<param name="src" value="http://www.youtube.com/v/gOme8Qa-s9U&amp;hl=en_US&amp;fs=1?rel=0" />
+<param name="allowfullscreen" value="true" />
+<param name="allowscriptaccess" value="always" /><embed type="application/x-shockwave-flash" width="425" height="344" src="http://www.youtube.com/v/gOme8Qa-s9U&amp;hl=en_US&amp;fs=1?rel=0" allowfullscreen="true" allowscriptaccess="always"></embed>
+</object>
+</div>
+</div>
+<div><br />
+<p><span class="title_green_home">What is OASIS?</span><br /> <br /> 
+<object width="560" height="315">
+<param name="movie" value="http://www.youtube.com/v/ejrAuINEPhw?version=3&amp;hl=en_US" />
+<param name="allowFullScreen" value="true" />
+<param name="allowscriptaccess" value="always" /> <embed type="application/x-shockwave-flash" width="560" height="315" src="http://www.youtube.com/v/ejrAuINEPhw?version=3&amp;hl=en_US" allowscriptaccess="always" allowfullscreen="true"></embed>
+</object>
+<br /> This video provides insight in the OASIS project's outcomes, and how the piloting was conducted. The video features an interview with the OASIS project coordinator Silvio Bonfiglio (FIMI), as well as scenes from piloting and user forums in Bulgaria, Greece, Italy and Romania.<br /> <br />OASIS is an Integrated Project with the scope to revolutionise the interoperability, quality, breadth and usability of services for all daily activities of older people.</p>
+<p>More specifically, OASIS targets to utilise ICT and other key technologies in order to provide holistic services to older people to support their physical and psychological independence, stimulate their social or psychological engagement and foster their emotional well being. In doing so, OASIS thus addresses key areas of their activities encompassing: independent living and socialising, autonomous mobility, and flexible work-ability.</p>
+<p>OASIS is the acronym of a Large Scale Integrated Project co-financed by the European Commission (7th Framework Programme, ICT and Ageing – Grant Agreement No: 215754). The full project name is: Open architecture for Accessible Services Integration and Standardization. It started on January 1, 2008 and has a length of four years. The OASIS Consortium is composed of 33 Partners from 11 countries. Large Industries, SMEs, Universities, Research Centers, Non-Profit Organizations, Public Organizations and Healthcare Centers are all represented.</p>
+<p>For in depth information about the OASIS project, <a href="/index.php/lang-en/component/content/19?task=view" title="About OASIS">click here</a>.</p>
+</div></td>
+</tr>
+
+
+
+</table>
+<span class="article_separator">&nbsp;</span>
+		</div>
+		</td>
+</tr>
+
+
+</table>
+
+										</div>
+																					<div class="login_container">
+												
+											</div>
+																			</div>
+									<div class="content_right_col">
+										<!--SEARCH-->
+					  					<div>
+											<form action="index.php" method="post">
+	<div class="search">
+		<input name="searchword" id="mod_search_searchword" maxlength="20" alt="Search" class="inputbox" type="text" size="20" value="enter search keyword"  onblur="if(this.value=='') this.value='enter search keyword';" onfocus="if(this.value=='enter search keyword') this.value='';" /><input type="submit" value="Search" class="button" onclick="this.form.searchword.focus();"/>	</div>
+	<input type="hidden" name="task"   value="search" />
+	<input type="hidden" name="option" value="com_search" />
+	<input type="hidden" name="Itemid" value="100001" />
+</form><div><br /><span class="title_green_home">OASIS Symposium at ISWC 2011</span></div>
+<p>International Semantic Web Conference<span style="font-size: x-small;"> </span><span class="title_green_home">
+<div><span style="font-size: x-small;">Bonn October 24, 2011</span></div>
+</span></p>
+<div><strong><a href="/index.php/lang-en/news-topmenu-19/20-general-news/406-oasis_symposium_at_iswc_2011_a" target="_blank" title="Link to symposium downloads">Download the program and the presentations</a></strong></div>
+<p><strong><br /></strong></p>
+<div>
+<li><strong><a href="/index.php/lang-en/news-topmenu-19/20-general-news" title="Link to OASIS Latest News">view OASIS Latest News</a></strong></li>
+<div><strong> </strong>
+<li><strong><a href="http://orate.iti.gr/" target="_blank" title="Link to ORATE">Ontology Repository for Assistive TEchnology (ORATE)</a></strong></li>
+<strong> </strong>
+<div><strong> </strong>
+<li><strong><a href="http://oasis-wiki.iti.gr/index.php/Main_Page" target="_blank" title="Link to OASIS Wiki">OASIS Wiki</a></strong></li>
+<strong><br /> _________________<span style="color: #ffffff;">______________________________</span></strong></div>
+<p><strong><strong><strong><a href="http://twitter.com/#!/OASIS_Proj" target="_blank" title="Link to Twitter page of OASIS"><img src="/images/Twitter-Logo.gif" border="0" alt="Twitter logo" title="Link to Twitter" width="64" height="64" /></a></strong></strong></strong></p>
+</div>
+</div>
+										</div>
+											                        	            						<!--Project Results-->
+											<div class="clr"></div><br/>
+											<div class="window_content_header">
+												<div class="window_content_title_full">Project Results (latest posts)</div>
+											</div>
+											<div class="window_border">
+												<div class="padding2">
+													<div class="align-left dn-each"><a href="/index.php/lang-en/component/jdownloads/?task=view.download&amp;cid=32" class="blue_link">Aging, Independence and  Technology</a></div><br/><div class="align-left dn-each"><a href="/index.php/lang-en/component/jdownloads/?task=view.download&amp;cid=31" class="blue_link">Interactive generic use case/user  scenario presentation</a></div><br/><div class="align-left dn-each"><a href="/index.php/lang-en/component/jdownloads/?task=view.download&amp;cid=30" class="blue_link">European strategy in  eInclusion and ICT for  Ageing Well</a></div><br/><div class="align-left dn-each"><a href="/index.php/lang-en/component/jdownloads/?task=view.download&amp;cid=29" class="blue_link">Web services  (and ontologies?)</a></div><br/>												</div>
+						  						<div class="window_bottom_gradient_small_links">
+					  								<div class="padding2">
+														<a href="/index.php/lang-en/component/content/133?task=view&cat=21">Deliverables</a>
+														&nbsp;&bull;&nbsp;<a href="/index.php/lang-en/component/jdownloads/?task=viewcategory&amp;catid=4">Technical Reports</a>
+														&nbsp;&bull;&nbsp;<a href="/index.php/lang-en/component/jdownloads/?task=viewcategory&amp;catid=5">Presentations</a>
+														&nbsp;&bull;&nbsp;<a href="/index.php/lang-en/component/jdownloads/?task=viewcategory&amp;catid=6">Published Papers</a>
+														&nbsp;&bull;&nbsp;<a href="/index.php/lang-en/component/jdownloads/?task=viewcategory&amp;catid=7">Prototypes (s/w)</a>
+														&nbsp;&bull;&nbsp;<a href="/index.php/lang-en/component/jdownloads/?task=viewcategory&amp;catid=8">Other </a>
+														<div class="clr"></div>
+													</div>
+												</div>
+											</div>
+											<div class="clr"></div><br/>
+											<!--NEWS-->
+											<div>
+												
+<!-- START 'Display News by BK 1.4.4' -->
+
+ <link href='http://www.oasis-project.eu/modules/mod_dn/dn/dn.css' rel='stylesheet' type='text/css'>
+ 
+<div class="window_content_header"><div class="window_content_title_full">News & Events</div></div><div class="window_border"><div class='dn-whole'>
+	<div class='dn-each' ><span class='dn-title'><a href='http://www.oasis-project.eu/index.php/lang-en/news-topmenu-19/409?task=view' class='dn-title' >Research meets end users: Beneficiaries test OASIS applications together with developers (PART 2)</a></span> <br/><br/></div>
+	<div class='dn-each' ><span class='dn-title'><a href='http://www.oasis-project.eu/index.php/lang-en/news-topmenu-19/408?task=view' class='dn-title' >Research meets end users: Beneficiaries test OASIS applications together with developers (PART 1)</a></span> <br/><br/></div>
+	<div class='dn-each' ><span class='dn-title'><a href='http://www.oasis-project.eu/index.php/lang-en/news-topmenu-19/407?task=view' class='dn-title' >OASIS Press releases</a></span> <br/><br/></div>
+	<div class='dn-each' ><span class='dn-title'><a href='http://www.oasis-project.eu/index.php/lang-en/news-topmenu-19/334?task=view' class='dn-title' >3rd International SHARE User Conference</a></span> <br/><br/></div><div class="padding2 align-center small_links"><a href="/index.php/lang-en/news-topmenu-19/18-oasis-events">OASIS and related events</a>&nbsp;&bull;&nbsp;<a href="/index.php/lang-en/news-topmenu-19/19-other-events">Other events</a>&nbsp;&bull;&nbsp;<a href="/index.php/lang-en/news-topmenu-19/20-general-news">Latest News</a>&nbsp;&bull;&nbsp;<a href="/index.php/lang-en/news-topmenu-19/27-archives">Archives</a></div></div>
+
+</div>
+<!-- END module 'Display News by BK 1.4.4' -->
+ <div class="clr"></div><br/>
+<div class="window_content_header">
+     <div class="window_content_title_full">Short presentation of the project in</div>
+</div>
+<div class="window_border">
+<div class="padding2">
+       <div class="os_td_33">
+      <ul>
+          <!--<table class="contentpaneopen">-->
+	<li>
+			<a href="/index.php/lang-en/component/content/article/24-short-presentation-project/91-english" class="contentpagetitle">
+			English</a>
+		</li>
+
+<!--
+
+<table class="contentpaneopen">
+	<tr>
+		<td valign="top" >  <h3>THE OASIS PROJECT</h3><h4>1. Introduction </h4><p>Barriers to independence are numerous. Frail physical and/or mental health, housing conditions, lack of transportation facilities, community information and communication services and low income levels are the main ones for elderly people. There exist two main trends in the 21 century: one is the rapid development of ICT which has affected all areas of life of people, the other is the trend of aging population, which has attracted attention from government as well as business firms. The profound, pervasive and enduring consequences of ageing population present enormous challenges as well as enormous opportunities for ICT. A typical example is the Internet that has become an enabler of social inclusion.</p><h4>2. Aim and main achievements</h4><p>OASIS aims at an open and innovative reference architecture, based upon ontologies and semantic services, that will allow plug and play and cost-effective interconnection of existing and new services in all domains required for the independent and autonomous living of the elderly and their Quality of Life enhancement. Both the open reference architecture and the related tools will be made available as open source.</p><p></p><p>Figure1: OASIS targeted domains </p><p>User friendliness and acceptability is a top priority for the project and a “user centred-design” approach is followed along the service & application development.</p><p>OASIS introduces an innovative system, which will enable and facilitate interoperability, seamless connectivity and sharing of content between different services and ontologies in all domains relevant to applications for the elderly and beyond. Over 12 different types of services will be connected with OASIS for the benefit of the elderly, covering user needs and wants in terms of Independent Living Applications (nutritional advisor, activity coach, brain and skills trainers, social communities platform, health monitoring and environmental control) and Autonomous Mobility and Smart Workplaces Applications (elderly-friendly transport information services, route guidance, personal mobility services, mobile devices, biometric authentication interface and multimodal dialogue mitigation and other smart workplace applications).</p><h4>3. The Sub-projects in short</h4><p>OASIS project is structured in 5 sub-projects, each one having different aims.</p><div class="bold"><u>Sub-Project 1: Open Reference Architecture, User Interface, Platform and Tools</u></div><p>Within SP1, the new innovative, open-ended reference architecture is built (called COF: Common Ontological Framework) for organising, maintaining and applying heterogeneous ontologies. This new architecture framework is aimed to achieve:</p><ul><li>Interoperability between different web services from the same or different application domains.</li><li>Sharing of contextual information between different objects and services.</li><li>Seamless connectivity between hardware, from hardware to service and from service to service.</li></ul><div class="bold"><u>Sub-Project 2: Independent Living Applications</u></div><p>Usually elderly people are involved in a process involving frailty, functional, cognitive and muscular decline and possible loss of autonomy. This process can be postponed and mitigated if some changes in daily life, as nutrition, physical activity, mental training and social relationships, are adopted, thus, based on SP1, a wide number of applications is being connected to the new reference architecture, or developed. These services to be developed are:</p><p><strong>Nutritional advisor</strong>: Ιt will deal with the personalization and adaptation of the recommendation and advices to the elder for improving his/her nutrition, so that they can easily become a part of his/her normal habits.</p><p><strong>Activity coach</strong>: Ιt will monitor, support and coach several physical activities of the elderly, e.g. to motivate him/her to perform some sport activities, aiming to reduce the age-related declines in the musculoskeletal and cardiovascular systems.</p><p><strong>Brain and skills trainer</strong>: Ιt will promote, though different exercises and simulated scenarios, the mental health of persons. A set of personalized exercises will maintain his/her memory and mental activities level.</p><p><strong>Social relation and recreation platform</strong>: This application relates to the building of a social community platform, at different levels, in order to fight the social isolation of elderly people living alone and to facilitate new collaborative experiences.</p><p><strong>Health monitoring</strong>: This application will go beyond the monitoring of the health status, allowing the management of the elderly people’s health and the assurance of their optimal health status while realising the rest of their daily lives activities.</p><p><strong>Environmental control</strong>: Domotics applications will allow the elderly to be confident in his/her house and contribute to the comfort of the person.</p><div class="bold"><u>Sub-Project 3: Autonomous Mobility and Smart Workplaces Applications</u></div><p>This SP promotes activities to “push” the elderly user out of his/her home, however guaranteeing safety, security and comfort. New functionalities will be provided, that can give the elderly users more independency and safety in their trips, by easing their driving, avoiding the exposure to risks and accelerating the emergency rescue procedures. A new route guidance prototype, incorporating elderly cognitive needs and behavioural patterns, will be developed. Appropriate mobility services will be offered to the elderly, including journey planning and support while driving (assistance navigation, extended emergency call and tele-diagnostics, driver monitoring and comfort), accessible tourism, leisure and social activities.</p><p>Furthermore, the need of older people to remain active in the business domain can be supported both while at home, or anywhere in between, as mobile users.</p><div class="bold"><u>Sub-Project 4: Integration, Pilot sites and devices</u></div><p>All the developed applications will be tested in 4 sites Europewide (UK, Germany, Italy and in a combined site in Greece, Romania and Bulgaria), by hundreds of users, their caregivers and other stakeholders, in order to evaluate the overall success and to get the required data to optimise them within the project and beyond.</p><p></p><p>Figure2: OASIS pilot sites</p><div class="bold"><u>Sub-Project 5: Horizontal activities</u></div><p>SP5 incorporates the necessary support activities to ensure proper realisation of the rest SPs, such as management, dissemination, marketing and exploitation (including business scenarios and cost-effectiveness analysis) of the project concept and results, ethical and gender issues protection, training (in order to familiarize the partners with the technology requirements) and standardisation (the OASIS platform and applications will be submitted for standardisation by the established OASIS world-wide Industrial Forum).</p></td>
+	</tr>
+	<tr>
+        <td valign="top" >
+
+       		</td>
+     </tr>
+</table>-->
+              		<span class="article_separator">&nbsp;</span>
+                          <!--<table class="contentpaneopen">-->
+	<li>
+			<a href="/index.php/lang-en/component/content/article/24-short-presentation-project/87-bulgarian" class="contentpagetitle">
+			Bulgarian</a>
+		</li>
+
+<!--
+
+<table class="contentpaneopen">
+	<tr>
+		<td valign="top" ><h3>ПРОЕКТ ОАЗИС</h3><h4>1. Въведение </h4><p>Съществуват множество бариери пред независимия начин на живот. Крехкото физическо или ментално здраве, жилищните условия, липсата на транспортни средства, обществените комуникационни и информационни услуги и ниските нива на доходите представляват основен проблем за възрастните хора. През 21 век се наблюдават две основни тенденции – едната е бързото развитие на информационните и комуникационните технологии, което засяга всички сфери на обществения живот, а другата е тенденцията към застаряване на населението, която привлича вниманоето както на правителствата, така и на бизнес-организациите. Широко-разпространените, и дълбоко залегнали последствия от застаряването на населението представляват огромно предизвикателство, както и огромна възможност за специалистите от сферата на информационните технологии. Типичен пример за това е Интернет, който се превърна в средство, улесняващо социализацията на хората. </p><h4>2. Цел и основни постижения</h4><p>ОАЗИС цели да създаде иновативна и отворена архитектура, основаваща се на онтологии и семантични услуги, които позволяват директен достъп без инсталиране и ефективна връзка съществуващи и новосъздадени услуги във всички сфери, необходими за независимия живот на възрастните хора и подобряването на качеството на живота им. Както отворената архитектура, така и свързаните с нея инструменти са достъпни като програми с отворен код. (open source). </p><p></p><p>Фиг.: Целеви области на ОАЗИС</p><p>Лесният за използване и приемлив софтуер е основен приоритет за проекта, а подходът за създаване на „дизайн, съобразен с потребителите” е следван през целия процес на създаване и прилагане на услугата.</p><p>ОАЗИС представя иновативна система, която улеснява връзката и споделянето на съдържание между потребителите на отделните услуги и онтологии във всяка от сферите на живота на възрастните хора. Над 12 различни вида услуги в полза на възрастните хора ще бъдат свързани с ОАЗИС, като покрият потребностите на потребителите и отговорят на техните желания. Иновативните решения са в сферата на Приложенията за водене на независим живот (Independent Living Applications) (Съветник за хранителния режим, Ръководител на дейностите, Треньор на умствената дейност и уменията, платформа за социална комуникация, проследяване на здравословното състояние и контрол на средата). Приложения за автономност на придвижването и Улесняване на работната среда. (информация за достъпните транспортни средства, съобразена с възможностите на възрастните хора, насоки за пътното състояние, услуги по личното придвижване, интерфейс, разпознаващ биометричните данни и др.).</p><h4>3. Под-проектите накратко</h4><p>Проектът ОАЗИС съдържа 5 под-проекта, всеки от които се стреми към различни цели. </p><div class="bold"><u>Под-проект 1: Отворени архитектурни решения, Платформа с ориентиран към потребителя интерфейс и Инструменти</u></div><p>В рамките на ПП1 се изгражда иновативна отворена архитектура (наречена Обща Онтологична Рамка) предназначена за организиране, поддръжка и прилагане на различни по естеството си онтологии. Тази иновативна архитектурна рамка сели да постигне:</p><ul><li>Взаимосвързаност между различните мрежови услуги от една и съща или различни точки на достъп.</li><li>Споделяне на контекстуална информация между отделните обекти и услуги.</li><li>Безпроблемна връзка между отделните елементи на хардуера, между хардуера и услугите и между отделните услуги.</li></ul><div class="bold"><u>Под-проект 2: Приложения в подкрепа на независимия начин на живот</u></div><p>Обикновено при възрастните хора се наблюдават процеси на уязвимост, спад в капацитета на функциите, познавателните способности и мускулната сила, както и възможна загуба на самостоятелното придвижване. Тези процеси могат да бъдат забавени или премахнати напълно ако се приложат някои промени на ежедневния начин на живот чрез въвеждане на хранителен режим, физически упражнения, упражнения за паметта и подобряване на социалните връзки чрез разработване на иновативни приложения и съответната им архитектура. Услугите, които могат да бъдат разработени са: </p><p><strong>Съветник за хранителния режим</strong>: Занимава се с персонализирането и адаптацията на предписания на възрастните хора хранителен режим. По този начин полезните хранителни практики се превръщат в естествен навик на възрастния човек. </p><p><strong>Тренажор за двигателната активност</strong>: мониторира, подкрепя и напътства физическата активност на възрастния човек, напр. мотивира го да спортува с цел намаляването на някои негавни ефекти върху мускулната сила, причинени от застаряването, подобрява оросяването на мозъка и функционирането на сърдечно-съдовата система. </p><p><strong>Тренажор на паметта и уменията</strong>: чрез различни упражнения и игри тренажорът стимулира мозъчната активност, като запазва доброто ниво на паметта на възрастните хора. </p><p><strong>Платформа за социални контакти и отмора</strong>: това приложение се отнася до изграждането на социална платформа за комуникация на различно ниво, с цел преодоляване на социалната изолация на възрастните хора, които живеят сами и подобряване на възможностите им за осъществяване на контакти с други възрастни хора. </p><p><strong>Мониторинг на здравословното състояние</strong>: това приложение отива по-далеч от обикновеното проследяване на здравния статус, като позволява на медицинския специалист, грижещ се за здравето на възрастния да проследява състоянието му през целия ден, докато самият човек се занимава с всекидневните си дейности. </p><p><strong>Контролирана среда</strong>: Приложенията за дома ще позволят на възрастните хора да бъдат уверени при самостоятелния си живот в своя дом, а освен това допринасят за удобството и комфорта на възрастния човек. </p><div class="bold"><u>Под-проект 3: Автономно придвижване и Приложения за подобряване на работните места</u></div><p>Този ПП обхваща дейности, които стимулират възрастните хора да „излязат извън домовете си” по един безопасен, сигурен и комфортен начин. Ще бъдат създадени нови функционални решения, които ще дадат на възрастните потребители повече независимост и ще им осигурят безопасност чрез улесняване на придвижването и повишаване на безопасността и реагирането в случай на спешност. Ще бъде разработен иновативен съветник за пътната обстановка, който ще взема предвид потребностите на възрастните хора и техните модели на поведение. Ще бъдат предложени подходящи услуги по придвижването, включително планиране на пътуването и подкрепа по време на шофиране (асистент-навигатор, теледиагностика, система за мониторинг и удобство на водача), достъпен туризъм, достъпни и подходящи дейности и занимания за свободното време. </p><p>Нещо повече – потребностите на възрастните хора да останат активни в своите бизнес занимания до колкото се може по-късна възраст, могат да бъдат подкрепени както за работа от дома, така и за потребители, които ще се нуждаят от придвижване. </p><div class="bold"><u>Под-проект 4: Интеграция, пилотни интернет сайтове и устройства</u></div><p>Всички разработени приложения ще бъдат пилотно тествани на 4 места в цяла Европа (Великобритания, Германия, Италия и на няколко места в Гърция, Румъния и България) от стотици потребители, лицата, които се грижат за тях, както и от други заинтересовани лица, за да могат те да оценят цялостния успех на проекта и да спомогнат за оптимизирането на постигнатите резултати. </p><p></p><p>Figure: OASIS pilot sites</p><div class="bold"><u>Под-проект 5: Хоризонтални дейности </u></div><p>ПП5 инкоропорира в себе си необходимите дейности по подкрепата и правилното реализиране на останалите под-проекти като мениджмънт, разпространение, маркетинг и експлоатация на резултатите (включващ бизнес-решения и анализ на ефективността на разходите), концепцията на проекта, спазване на нормите на етиката и отношението към възрастните хора, обучение (запознаване на партньорите с техническите изисквания) и стандартизация (платформата на ОАЗИС и нейните приложения ще бъдат подложени на процес на стандартизация от специално създаден Световен Индустриален форум – ОАЗИС). </p></td>
+	</tr>
+	<tr>
+        <td valign="top" >
+
+       		</td>
+     </tr>
+</table>-->
+              		<span class="article_separator">&nbsp;</span>
+                          <!--<table class="contentpaneopen">-->
+	<li>
+			<a href="/index.php/lang-en/component/content/article/24-short-presentation-project/88-chinese" class="contentpagetitle">
+			Chinese</a>
+		</li>
+
+<!--
+
+<table class="contentpaneopen">
+	<tr>
+		<td valign="top" ><font color="#000000">  <font face="Calibri">  <strong><span style="font-size: 20pt; line-height: 115%">OASIS</span></strong>  <strong><span style="font-size: 20pt; line-height: 115%; font-family: SimSun">项目</span></strong></font></font>     <h1 style="margin: 15pt 0cm 2pt">  <font size="5">  <font color="#000000">  <font face="Calibri">  <span>1. </span>  <span style="font-family: SimSun">简介</span>  </font>  </font>  </font>  </h1>    <p>  <font size="2"><font color="#000000"><font face="Calibri">  <span style="font-family: SimSun">  影响个人独立性的障碍多种多样。对于老年人来说，生理和（或）心理的衰退、居住条件、交通设施的匮乏、社区信息和沟通服务的短缺以及低收入水平是影响他们独立性的主要因素。二十一世纪有两大趋势，一是信息沟通技术的快速发展，这种发展对人们生活的各个领域都产生了影响；二是人口老龄化，这一点已经引起了政府机构和商业组织的注意。人口老龄化的深远、广泛和持续的影响后果对于信息沟通技术带来了巨大的挑战，也带来了巨大的机遇。因特网是这一现象的典例，现在因特网已经成为社会融合的一个重要推动器。  </span></font></font></font>  <span><font face="Calibri" size="2" color="#000000"> </font></span> </p>      <h1 style="margin: 15pt 0cm 2pt">  <font size="5">  <font color="#000000">  <font face="Calibri">  <span>2. </span>  <span style="font-family: SimSun">目标和主要成就  </span>  </font>  </font>  </font>  </h1>                    <p> <font size="2"><font color="#000000"><font face="Calibri"><span>OASIS</span><span style="font-family: SimSun">的目标是建立一个基于本体和语义服务的开放性创新型参考架构，该架构能够实现那些满足老年人独立生活需求和提高老年人生活质量的所有领域的服务（包括已有服务和新服务）的即插即拔（</span><span>Plug and Play</span><span style="font-family: SimSun">）和低成本互连。该开放性架构和相关的工具最终都会以开放源代码的形式提供给用户。  </span></font></font></font>  <font size="2"><font color="#000000"><font face="Calibri"><span><span>                </span></span>  <span style="font-family: SimSun">  用户友善度和接受程度对于这个项目至关重要，因此项目中的各个应用和服务的开发必须要遵从以用户为中心的设计思路（  </span><span>User-Centered Design</span><span style="font-family: SimSun">）。</span></font></font></font>  <font size="2"><font color="#000000"><font face="Calibri"><span><span>            </span></span></font></font></font>  </p>    <p> <font size="2"><font color="#000000"><font face="Calibri"><span>OASIS</span><span style="font-family: SimSun">  推出了一个创新型系统，该系统将推动和促进与面向老年人应用相关的所有领域中的不同服务和本体之间的互操作性、无缝连接性和内容共享水平。  </span><span>OASIS</span><span style="font-family: SimSun">  平台将会整合  </span><span>12</span><span style="font-family: SimSun">  种面向老年人的服务，这些服务将覆盖老年人对于独立生活（营养顾问、训练指导、大脑和技能培训、社区平台、健康监控和环境控制）、自主行动以及智能工作空间（适宜老年人的交通信息服务、路线导引、个人移动性服务和其它智能工作空间应用）的需求。  </span></font></font></font>   </p>          <p></p><p>图 1：OASIS 的目标领域</p>        <h1 style="margin: 15pt 0cm 2pt">  <font size="5">  <font color="#000000">  <font face="Calibri">  <span>3. </span>  <span style="font-family: SimSun">  子项目简介  </span>  </font>  </font>  </font>  </h1>    <p> <font size="2"><font color="#000000"><font face="Calibri"><span>  <span>                </span>OASIS</span>  <span style="font-family: SimSun">  项目由  </span><span>5</span>  <span style="font-family: SimSun">  个实现不同目标的子项目  （</span><span>SP</span><span style="font-family: SimSun">）  组成：  </span></font></font></font> </p>        <h2 style="margin: 12pt 0cm 4pt">  <font size="5">  <font color="#000000">  <font face="Calibri">  <span>SP1</span>  <span style="font-family: SimSun">  开放参考框架、用户界面、平台和工具  </span>  </font>  </font>  </font>  </h2>    <p> <font size="2"><font color="#000000"><font face="Calibri"><span>SP1</span>  <span style="font-family: SimSun">  的目的是建立一个开放式创新型参考架构（称为通用本体框架，</span><span> Common Ontological Framework </span><span style="font-family: SimSun">）  该架构可用于组织、维护和应用不同的本体。此参考架构旨在实现以下目标：  </span></font></font></font> </p>    <ul>    <li>  <font color="#000000"><font size="2"><font face="Calibri">  <span style="font-family: SimSun">  相同或不同应用领域中的不同网络服务之间的互操作性。  </span></font></font></font><font color="#000000">  </font>  </li>  <li>  <font color="#000000"><font size="2">  <font face="Calibri">  <span style="font-family: SimSun">  在不同物件和服务之间共享情境信息。  </span></font></font></font>    </li>    <li>  <font color="#000000"><font size="2"><font face="Calibri"><span style="font-family: SimSun">    硬件和硬件、硬件和服务以及服务和服务之间的无缝连接。  </span></font></font></font>   </li>  </ul>    <h2 style="margin: 12pt 0cm 4pt">  <font size="5">  <font color="#000000">  <font face="Calibri">  <span>SP2</span>  <span style="font-family: SimSun">  ：独立生活相关应用  </span>  </font>  </font>  </font>  </h2>    <p>  <font size="2"><font color="#000000"><font face="Calibri">  <span><span>                </span></span>  <span style="font-family: SimSun">  通常老年人会逐步衰弱，出现生理机能、认知能力和肌肉组织上的衰退，还可能面临自主性的丧失。在日常生活上采取一些措施可以推延和减轻这些衰退和变化，如补充营养、运动锻炼、脑力训练和进行社交。在  </span>  <span>SP1</span><span style="font-family: SimSun">  的基础上，  </span><span>SP2</span><span style="font-family: SimSun">  将大量的应用连接到新的参考架构上，同时开发新的应用。需要开发的新应用包括：  </span></font></font></font>  </p>    <ul>    <li>  <font color="#000000"><font size="2"><font face="Calibri">  <span style="font-family: SimSun">  营养顾问：提供个性化的和有自适应性的有利于改善老年人营养状况的营养建议和指导，使得它们易于成为老年人生活习惯的一部分。  </span></font></font></font>  </li>    <li>  <font color="#000000"><font size="2"><font face="Calibri">  <span style="font-family: SimSun">  训练指导：它将监控、支持和训练老年人进行身体锻炼，如激励老年人进行体育活动。目的是减缓由年龄的增长引起的肌肉骨骼系统和心血管系统的退化。  </span></font></font></font>  </li>    <li>  <font color="#000000"><font size="2"><font face="Calibri"><span style="font-family: SimSun">  大脑和技能培训：它将通过各种练习和模拟场景来提高人的心智健康。通过一系列个性化的练习可以维持老年人的记忆力水平和脑力活动水平。  </span></font></font></font>  </li>    <li>  <font color="#000000"><font size="2"><font face="Calibri"><span style="font-family: SimSun">  社交和娱乐平台：此应用的目的是建立不同水平的社区平台，从而减轻独居老人的社会隔绝状况，并帮助老年人拥有新的合作体验。  </span></font></font></font>  </li>    <li>  <font color="#000000"><font size="2"><font face="Calibri"><span style="font-family: SimSun">  健康监控：在监控健康状况的基础上，此应用进一步能够管理老年人的健康状况，并在不妨碍老年人其它日常活动的同时，确保老年人的最佳健康状况。  </span></font></font></font></li>    <li>  <font color="#000000"><font size="2"><font face="Calibri"><span style="font-family: SimSun">  环境控制：家庭智能应用让老年人能够自如地控制自己的家居环境并且提高他们的舒适度。  </span></font></font></font>   </li>    </ul>      <h2 style="margin: 12pt 0cm 4pt">  <font size="5">  <font color="#000000">  <font face="Calibri">  <span>SP3</span>  <span style="font-family: SimSun">  ：自主移动和智能工作空间相关应用  </span>  </font>  </font>  </font>  </h2>      <p><font size="2"><font color="#000000"><font face="Calibri"><span>SP3</span>  <span style="font-family: SimSun">  的目的是在保证老年人的安全和舒适度的情况下，将老年人“推”出家门。通过提供新功能来简化驾驶、避免险情和加速紧急救援流程，老年人的出行将会更加独立和安全。新的路线导引应用原型的开发会将老年人的认知需求和行为模式纳入考量。  </span><span>SP3</span>  <span style="font-family: SimSun">  还将提供面向老年人的移动服务，包括驾驶途中的旅途规划和支持（辅助导航、扩展紧急呼叫和电子诊断、驾驶员监控和照顾），便利的观光、休闲和社交活动等。  </span></font></font></font><font size="2"><font color="#000000"><font face="Calibri"><span><span>               </span></span></font></font></font>  </p>    <p>  <font size="2"><font color="#000000"><font face="Calibri"><span style="font-family: SimSun">  此外，  </span><span>SP3</span><span style="font-family: SimSun">  还会提供居家办公辅助和移动办公辅助，使老年人可以在事业上保持活跃。  </span></font></font></font></p><p>&nbsp;</p>      <h2 style="margin: 12pt 0cm 4pt">  <font size="5">  <font color="#000000">  <font face="Calibri">  <span>SP4</span>  <span style="font-family: SimSun">  ：系统整合、测试基地和设备  </span>  </font>  </font>  </font>  </h2>        <p></p><p>图 2：OASIS 测试基地 </p>        <p> <font size="2"><font color="#000000"><font face="Calibri"><span><span>                </span></span><span style="font-family: SimSun">  所有开发出的应用都将在欧洲的  </span><span>4</span><span style="font-family: SimSun">  个测试基地（英国基地，德国基地，意大利基地和希腊－罗马尼亚－保加利亚联合基地）进行测试，从而评价项目的整体成就和获取对这些应用进行进一步优化所需的数据。测试对象包括数以百计的老年用户、他们的看护者以及其它相关人员。  </span></font></font></font>   </p>      <h2 style="margin: 12pt 0cm 4pt">  <font size="5">  <font color="#000000">  <font face="Calibri">  <span>SP5</span>  <span style="font-family: SimSun">  ：横向活动  </span>  </font>  </font>  </font>  </h2>      <p> <font size="2"><font color="#000000">  <font face="Calibri"><span><span>                </span>SP5</span><span style="font-family: SimSun">  包含了实现其它  </span><span>SP</span><span style="font-family: SimSun">  所需要的支持性活动，包括项目的管理、项目概念和成果的市场宣传和推广（包括业务情景和成本－效益分析）、伦理和性别相关议题、培训（使用户熟悉技术需求）和标准化工作（</span><span>OASIS</span><span style="font-family: SimSun">  平台和应用将会被   </span><span>OASIS</span><span style="font-family: SimSun">  全球工业论坛提送申请立为标准）。  </span></font></font></font> </p></td>
+	</tr>
+	<tr>
+        <td valign="top" >
+
+       		</td>
+     </tr>
+</table>-->
+              		<span class="article_separator">&nbsp;</span>
+                          <!--<table class="contentpaneopen">-->
+	<li>
+			<a href="/index.php/lang-en/component/content/article/24-short-presentation-project/90-dutch" class="contentpagetitle">
+			Dutch</a>
+		</li>
+
+<!--
+
+<table class="contentpaneopen">
+	<tr>
+		<td valign="top" > </td>
+	</tr>
+	<tr>
+        <td valign="top" >
+
+       		</td>
+     </tr>
+</table>-->
+                </ul>
+       </div>
+       <div class="os_td_33">
+      <ul>
+          <!--<table class="contentpaneopen">-->
+	<li>
+			<a href="/index.php/lang-en/component/content/article/24-short-presentation-project/92-french" class="contentpagetitle">
+			French</a>
+		</li>
+
+<!--
+
+<table class="contentpaneopen">
+	<tr>
+		<td valign="top" > </td>
+	</tr>
+	<tr>
+        <td valign="top" >
+
+       		</td>
+     </tr>
+</table>-->
+              		<span class="article_separator">&nbsp;</span>
+                          <!--<table class="contentpaneopen">-->
+	<li>
+			<a href="/index.php/lang-en/component/content/article/24-short-presentation-project/96-german" class="contentpagetitle">
+			German</a>
+		</li>
+
+<!--
+
+<table class="contentpaneopen">
+	<tr>
+		<td valign="top" ><h3>DAS OASIS-PROJEKT</h3>  <h4>1. Einführung</h4> <p> Hindernisse für die Selbstständigkeit älterer Menschen gibt es viele. Körperliche bzw. geistige Gebrechen zählen ebenso dazu wie widrige Wohnbedingungen, unzureichende Mobilität oder etwa fehlende Information über Gesellschaft und Kommunikationsdienste. Auch ein geringes Einkommen ist für ältere Menschen mitunter ein großer Hemmschuh im Alltag. Zwei Trends zeichnen sich vor diesem Hintergrund im 21. Jahrhundert besonders deutlich ab: Zum einen  entwickelt sich die Informations- und Kommunikationstechnologie rasant und dringt sukzessive in nahezu sämtliche Lebensbereiche vor. Zum anderen altert die Bevölkerung zusehends; sowohl der Staat als auch privatwirtschaftliche Unternehmen haben den offenkundigen Handlungsbedarf zwischenzeitlich erkannt. Die weitreichenden und nachhaltigen Folgen des demographischen Wandels generieren eine enorme technologische Herausforderung, bieten aber zugleich ungeahnte Möglichkeiten. Als typisches Beispiel sei das Internet als Medium zur sozialen Integration zahlloser Menschen weltweit genannt.</p>  <h4>2. Ziel und angestrebte Ergebnisse</h4> <p>OASIS hat eine innovative und offene Referenzarchitektur zur kostengünstigen  Vernetzung neuer und bestehender Dienste aus allen Lebensbereichen älterer Menschen zum Ziel.  Ontologien bilden die Grundlage dieser Architektur, die semantische Dienste mit Blick auf eine eigenständige Lebensgestaltung bzw. Verbesserung der Lebensqualität umfasst. Sie wird zusammen mit den entsprechenden Softwarewerkzeugen quelloffen zur Verfügung stehen. Anwendungsfreundlichkeit und Akzeptanz haben in diesem Projekt höchste Priorität: Die gesamte Dienst- und Anwendungsentwicklung verfolgt konsequent das Konzept des nutzerzentrierten Systementwurfs.</p>  <p></p> <p>Abb.: Zieldomänen von OASIS</p>   <p>OASIS steht für ein innovatives System zur nahtlosen Vernetzung und interoperablen Nutzung von Inhalten verschiedener Dienste und Ontologien. Dabei werden mehr als ein Dutzend Servicearten mit Relevanz für ältere Menschen miteinander verknüpft.</p>  <p>Diese berücksichtigen Bedürfnisse und Wünsche aus dem Anwendungsbereich für</p>  <ul>  <li><strong>selbstständiges Leben</strong>(Ernährungsberater, Aktivitätstrainer, Gehirn- und Fähigkeitstrainer, Plattform für soziale Netzwerke, Gesundheitsüberwachung und Umgebungsüberwachung),</li> <li><strong>autonome Mobilität</strong>(seniorenfreundliche Transportinformationsdienste, Navigationssysteme, persönliche Mobilitätsdienste) sowie</li> <li><strong>intelligente Büroanwendungen</strong>(mobile Kommunikationsendgeräte, biometrische Authentifizierungsschnittstellen und multimodale Dialoge, sowie weitere intelligente Büroanwendungen).</li>  </ul>   <h4>3. Die Teilprojekte in Kürze</h4> <p>Das OASIS-Projekt ist in fünf Teilprojekte mit jeweils unterschiedlicher Zielsetzung untergliedert. </p>  <div class="bold"><u>Teilprojekt 1: Referenzarchitektur, Benutzerschnittstelle, Plattform und Werkzeuge</u></div> <p>Im Teilprojekt 1 wird eine innovative, erweiterbare Referenzarchitektur (genannt COF: Common Ontological Framework) für Organisation, Wartung und Anwendung heterogener Ontologien erstellt. Deren wesentliche Merkmale sind:</p>  <ul> <li>Interoperabilität zwischen verschiedenen (Web-)Services aus der gleichen oder aus unterschiedlichen Anwendungsdomänen.</li> <li>Gemeinsame Nutzung von kontextuellen Informationen zwischen verschiedenen Objekten und Services.</li> <li>Nahtlose Vernetzung von Hardwarekomponenten untereinander, von Hardwarekomponenten zu Services und von Services untereinander.</li> </ul>  <div class="bold"><u>Teilprojekt 2: Applikationen für selbstständiges Leben</u></div> <p>Der Prozess des Alterns geht gewöhnlich mit zunehmender Gebrechlichkeit sowie fortschreitendem funktionalen, kognitiven und körperlichen Abbau einher – mit der Folge eines möglichen Verlustes der Selbstständigkeit.  Durch Veränderungen im Alltag der Betroffenen können die negativen Begleiterscheinungen des Älterwerdens jedoch gemildert oder verlangsamt werden. Daher werden auf der Basis der Referenzarchitektur aus  Teilprojekt 1 verschiedene Anwendungen bzw. Services entwickelt. Dies sind im Einzelnen:</p>  <p><strong>Ernährungsberater</strong>: Ein „virtueller Ökotrophologe“ gibt älteren Menschen Tipps zur Verbesserung ihrer Ernährung. Die personalisierten Empfehlungen können so leichter zur täglichen Gewohnheit werden. </p>  <p><strong>Aktivitätstrainer</strong>: Diese Anwendung motiviert ältere Menschen zur sportlichen Betätigung mit dem Ziel, altersbedingte Beeinträchtigungen des Bewegungsapparats und des Herz-Kreislauf-Systems zu reduzieren. Kontrolle, Unterstützung und Anleitung zum Training verschiedener körperlicher Aktivitäten gehören zu den Aufgaben des „elektronischen Physiotherapeuten“. </p>  <p><strong>Gehirntrainer</strong>: Dieser fördert durch verschiedene Übungen und simulierte Szenarien die geistige Gesundheit. Eine Reihe personalisierter Übungen soll dem Erhalt des Gedächtnisses und der geistigen Fitness dienen.</p>  <p><strong>Soziale Netzwerke und Freizeitplattform</strong>: Diese Anwendung bezieht sich auf den Aufbau sozialer Netzwerke auf verschiedenen Ebenen, um Gemeinschaftserfahrungen zu erleichtern und der sozialen Isolation allein lebender Senioren entgegenzuwirken.</p>  <p><strong>Gesundheitskontrolle</strong>: Ein ganzheitliches Gesundheitsmanagement soll über die reine Überwachung von Vitalparametern hinaus den optimalen Gesundheitszustand älterer Menschen bei ihren täglichen Aktivitäten sicherstellen. </p>  <p><strong>Haustechnik</strong>: Haustechnikanwendungen (Domotics) sollen dafür sorgen, dass ältere Menschen zu Hause sicherer und komfortabler leben.</p>  <div class="bold"><u>Teilprojekt 3: Applikationen für autonome Mobilität und intelligente Büroanwendungen</u></div>  <p>Dieses Teilprojekt widmet sich Aktivitäten, die ältere Menschen dazu motivieren, ihre eigenen vier Wände häufiger zu verlassen. Es geht hierbei um Aufbau und Pflege gesellschaftlicher Beziehungen unter Wahrung von Sicherheit und Komfort. Innovative Funktionalitäten erleichtern beispielsweise das Autofahren, vermeiden Risiken und beschleunigen Hilfeleistungen im Notfall. Ein neuer Prototyp von Navigationsgeräten wird dabei die kognitiven Bedürfnisse und Verhaltensmuster speziell älterer Menschen berücksichtigen. Weitere zielgruppenspezifische Mobilitätsdienste wie Reiseplanung, Navigationsassistenz, erweiterter Notruf und Kfz-Ferndiagnostik sowie Fahrerüberwachung sollen angeboten werden. Die Integration dieser Aspekte im Rahmen übergreifender Konzepte wie barrierefreier Tourismus, freizeitbezogene und gesellschaftliche Aktivitäten ist in Planung. Sogar eine längere aktive Teilnahme von Seniorinnen und Senioren am Berufsleben – sei es unterwegs oder in Telearbeit – ist denkbar.</p>  <div class="bold"><u>Teilprojekt 4: Geräte, Systemintegration und Standorte von Pilotanwendungen </u></div> <p>Alle entwickelten Applikationen werden europaweit evaluiert. Standorte einzelner Pilotanwendungen befinden sich in Großbritannien, Deutschland und Italien; die Standorte in Rumänien, Griechenland und Bulgarien bilden einen Verbund. Probanden sind mehrere Hundert ältere Menschen in der Rolle des Anwenders, Pflegepersonal und weitere Beteiligten. Ziel ist es, den Gesamterfolg der Teilprojekte zu untersuchen und notwendige Daten  zur Optimierung der entwickelten Anwendungen auch über die Projektlaufzeit hinaus zu gewinnen. </p>  <p></p> <p>Abb.: Standorte der OASIS-Pilotanwendungen</p>    <div class="bold"><u>Teilprojekt 5: Vorhabensübergreifende  Aktivitäten </u></div> <p>Dieses Teilprojekt umfasst die notwendigen unterstützenden Aktivitäten, um die Realisierung der anderen Teilprojekte sicherzustellen. Hierunter fallen insbesondere Projektmanagement, Verbreitung, Marketing und Verwertung der Projektkonzepte und -ergebnisse (inkl. Geschäftsszenarien und Kosten-/Nutzenanalysen). Weiterhin sind Berücksichtigung ethischer und geschlechtsbezogener Gesichtspunkte, Schulungsmaßnahmen der Projektpartner im Bezug auf die Anforderungen der Technologie sowie Standardisierung der OASIS-Plattform und der Anwendungen durch das weltweite OASIS Industrieforum diesem Teilprojekt zuzuordnen.  </p></td>
+	</tr>
+	<tr>
+        <td valign="top" >
+
+       		</td>
+     </tr>
+</table>-->
+              		<span class="article_separator">&nbsp;</span>
+                          <!--<table class="contentpaneopen">-->
+	<li>
+			<a href="/index.php/lang-en/component/content/article/24-short-presentation-project/86-greek" class="contentpagetitle">
+			Greek</a>
+		</li>
+
+<!--
+
+<table class="contentpaneopen">
+	<tr>
+		<td valign="top" ><h3>ΤΟ ΕΡΓΟ OASIS</h3><h4>1. Εισαγωγή</h4><p>Οι φραγμοί στην ανεξαρτησία είναι πολλοί. Η εύθραυστη φυσική και/ή πνευματική υγεία, οι συνθήκες στο σπίτι, έλλειψη υπηρεσιών για τη μετακίνηση, οι υπηρεσίες πληροφόρησης και επικοινωνίας της κοινωνίας και τα χαμηλά επίπεδα μισθού είναι οι κύριοι φραγμοί για τους ηλικιωμένους. Υπάρχουν δύο βασικές τάσεις στον 21ο αιώνα: η μία είναι η ταχύτατα αναπτυσσόμενη κοινωνία της πληροφορίας, η οποία έχει επηρεάσει όλους τους τομείς της ζωής, η άλλη είναι η τάση της γήρανσης του πληθυσμού, που έχει προσελκύσει το ενδιαφέρον των κυβερνήσεων καθώς και των επιχειρήσεων. Οι βαθιές, διαβρωτικές και διαρκείς συνέπειες της γήρανσης του πληθυσμού παρουσιάζουν τεράστιες προκλήσεις καθώς και μεγάλες ευκαιρίες για την κοινωνία της πληροφορίας. Ένα τυπικό παράδειγμα είναι το Διαδίκτυο που έχει καταστήσει δυνατό τον ενεργό ρόλο της κοινωνίας. </p><h4>2. Σκοπός και κύριες επιδιώξεις</h4><p>Το πρόγραμμα OASIS αποσκοπεί σε μία ανοιχτή και καινοτόμο αρχιτεκτονική, που βασίζεται στις οντολογίες και στις εννοιολογικές υπηρεσίες, που θα επιτρέψουν τη σύνδεση, τη λειτουργία και την οικονομικά αποτελεσματική αλληλοσύνδεση των υπαρχουσών και νέων υπηρεσιών σε όλους τους τομείς που απαιτούνται για την ανεξάρτητη και αυτόνομη διαβίωση των ηλικιωμένων και την αναβάθμιση της ποιότητας της ζωής τους. Τόσο η ανοιχτή αρχιτεκτονική όσο και τα σχετικά εργαλεία θα καταστούν διαθέσιμα ως ανοιχτός κώδικας.</p><p></p><p>Εικόνα: Οι περιοχές του OASIS </p><p>Η φιλικότητα και η αποδοχή από το χρήστη είναι από τις πρωταρχικές προτεραιότητες του OASIS, ενώ θα ακολουθηθεί μία προσέγγιση βασισμένη στις απαιτήσεις και τις ανάγκες του χρήστη κατά την ανάπτυξη της υπηρεσίας και της εφαρμογής.</p><p>Το πρόγραμμα OASIS εισάγει ένα καινοτόμο σύστημα, το οποίο θα επιτρέψει και θα διευκολύνει τη διαλειτουργικότητα, δυναμική και αδιάλειπτη συνδεσιμότητα και διανομή του περιεχομένου μεταξύ των διαφορετικών υπηρεσιών και οντολογιών σε όλες τις περιοχές όπου αναπτύσσονται εφαρμογές για τους ηλικιωμένους. Πάνω από 12 διαφορετικοί τύποι υπηρεσιών θα συνδεθούν με το OASIS προς όφελος των ηλικιωμένων, καλύπτοντας τις ανάγκες και τις επιθυμίες τους σε σχέση με Εφαρμογές Ανεξάρτητης Διαβίωσης (σύμβουλος διατροφής, προπονητής δραστηριοτήτων, εκπαιδευτές εγκέφαλου και δεξιοτήτων, πλατφόρμα κοινωνικών δραστηριοτήτων, παρακολούθηση υγείας και περιβαλλοντικός έλεγχος) και Εφαρμογές Αυτόνομης Κινητικότητας και Έξυπνου Εργασιακού Περιβάλλοντος (φιλικές προς τους ηλικιωμένους υπηρεσίες πληροφόρησης για τη μεταφορά, καθοδήγηση διαδρομής, προσωπικές υπηρεσίες κινητικότητας, κινητές συσκευές, διεπιφάνεια βιομετρικής πιστοποίησης και πολυμεσική διευκόλυνση διαλόγου καθώς και άλλες εφαρμογές έξυπνου εργασιακού περιβάλλοντος).</p><h4>3. Τα υπο-έργα συνοπτικά</h4><p>Το πρόγραμμα OASIS είναι δομημένο σε 5 υποέργα, καθένα από τα οποία έχει διαφορετικούς στόχους.</p><div class="bold"><u>Υποέργο 1: Ανοικτή αρχιτεκτονική, αλληλεπίδραση με τον χρήστη, πλατφόρμα και εργαλεία</u></div><p>Στο πλαίσιο του Υποέργου 1, δημιουργείται η νέα καινοτόμος ανοιχτή αρχιτεκτονική (αποκαλούμενη ΚΟΠ: Κοινό Οντολογικό Πλαίσιο) για την οργάνωση, τη διατήρηση και την εφαρμογή των ετερογενών οντολογιών. Αυτό το νέο πλαίσιο αρχιτεκτονικής στοχεύει να επιτύχει: </p><ul><li>Διαλειτουργικότητα μεταξύ των διαφορετικών διαδικτυακών υπηρεσιών από τις ίδιες ή διαφορετικές περιοχές εφαρμογής.</li><li>Διανομή συναφών πληροφοριών μεταξύ των διαφορετικών αντικειμένων και των υπηρεσιών.</li><li>Δυναμική και αδιάλειπτη συνδεσιμότητα μεταξύ των εργαλείων, μεταξύ εργαλείων-υπηρεσιών και μεταξύ υπηρεσιών.</li></ul><div class="bold"><u>Υποέργο 2: Εφαρμογές ανεξάρτητης διαβίωσης </u></div><p>Συνήθως οι ηλικιωμένοι άνθρωποι αποτελούν μία ευπαθή ομάδα του πληθυσμού με λειτουργική, νοητική και μυϊκή εξασθένιση και πιθανή απώλεια αυτονομίας. Αυτά τα χαρακτηριστικά μπορούν να αντισταθμιστούν ή και να αργήσουν να εμφανιστούν εάν υιοθετηθούν μερικές αλλαγές στη καθημερινή ζωή, όπως η διατροφή, η σωματική άσκηση, η πνευματική εκπαίδευση και οι κοινωνικές σχέσεις. Επομένως, βάση του υποέργου 1, ένας ευρύς αριθμός εφαρμογών συνδέεται ή αναπτύσσεται στη νέα αρχιτεκτονική του OASIS. Οι υπηρεσίες που πρόκειται να αναπτυχθούν είναι οι εξής: </p><p><strong>Διατροφικός σύμβουλος</strong>: Αφορά στην εξατομίκευση, την προσαρμογή των συστάσεων και των συμβουλών στους ηλικιωμένους για τη βελτίωση της διατροφής τους, έτσι ώστε να μπορούν εύκολα να γίνουν μέρος των κανονικών συνηθειών του/της.</p><p><strong>Προπονητής δραστηριοτήτων</strong>: Θα ελέγχει, θα υποστηρίζει και θα προγυμνάζει διάφορες φυσικές δραστηριότητες των ηλικιωμένων, π.χ. για να τον/την παρακινήσει να εκτελέσει μερικές αθλητικές δραστηριότητες, στοχεύοντας να μειώσει τις σχετικές με την ηλικία εξασθενήσεις που αφορούν τα οστεο-μυικά και καρδιαγγειακά συστήματα.</p><p><strong>Εκπαιδευτής εγκεφάλου και δεξιοτήτων</strong>: Θα προωθήσει, μέσω διαφορετικών ασκήσεων και προσομοιωμένων σεναρίων, την πνευματική υγεία των ατόμων. Ένα σύνολο εξατομικευμένων ασκήσεων θα διατηρήσει τη μνήμη και το επίπεδο των πνευματικών δραστηριοτήτων του/της. </p><p><strong>Πλατφόρμα κοινωνικών σχέσεων και αναψυχής</strong>: Αυτή η εφαρμογή αφορά την οικοδόμηση μιας πλατφόρμας κοινωνικών δραστηριοτήτων, σε διαφορετικά επίπεδα, προκειμένου να αντιμετωπίσει την κοινωνική απομόνωση των ηλικιωμένων ανθρώπων που ζουν μόνοι και για να διευκολύνει νέες εμπειρίες συνεργασίας.</p><p><strong>Έλεγχος κατάστασης υγείας</strong>: Αυτή η εφαρμογή εκτός από τον έλεγχο της κατάστασης της υγείας, επιτρέπει τη διαχείριση της υγείας των ηλικιωμένων ανθρώπων και τη διαβεβαίωση της άριστης κατάστασης της υγείας τους κατά τη διάρκεια των καθημερινών δραστηριοτήτων τους. </p><p><strong>Περιβαλλοντικός έλεγχος</strong>: Οι εφαρμογές αυτοματοποιημένης διαχείρισης και ελέγχου του οικιακού περιβάλλοντος θα επιτρέψουν στους ηλικιωμένους να είναι ασφαλείς στο σπίτι του/της και θα συμβάλουν στην άνεσή τους.</p><div class="bold"><u>Υποέργο 3: Αυτόνομη κινητικότητα και έξυπνες εφαρμογές εργασιακών χώρων</u></div><p>Αυτό το υποέργο προωθεί τις δραστηριότητες για «να ωθήσει» τον ηλικιωμένο χρήστη να βγει από το σπίτι του/της, εγγυώντας την ασφάλεια, την προστασία και την άνεσή του. Θα παρασχεθούν νέες λειτουργίες, οι οποίες μπορούν να δώσουν στους ηλικιωμένους χρήστες περισσότερη ανεξαρτησία και ασφάλεια στα ταξίδια τους, διευκολύνοντας την οδήγηση, αποφεύγοντας έκθεση σε κινδύνους και επιταχύνοντας τις έκτακτες διαδικασίες διάσωσης. Θα αναπτυχθεί ένα πρωτότυπο σύστημα καθοδήγησης διαδρομών, ενσωματώνοντας τις νοητικές ανάγκες και τη συμπεριφορά των ηλικιωμένων. Θα προσφέρονται κατάλληλες υπηρεσίες κινητικότητας στους ηλικιωμένους, συμπεριλαμβάνοντας προγραμματισμό ταξιδιών και υποστήριξη κατά τη διάρκεια της οδήγησης (βοήθεια πλοήγησης, υπηρεσίες κλήσεις έκτακτης ανάγκης και τηλε-διάγνωση, έλεγχος οδηγού και άνεση), προσβάσιμος τουρισμός, διασκέδαση και κοινωνικές δραστηριότητες.</p><p>Επιπλέον, η ανάγκη των ηλικιωμένων να παραμείνουν ενεργοί στην επιχειρηματικό τομέα μπορεί να υποστηριχθεί στο σπίτι, ή οπουδήποτε αλλού, ως κινητοί χρήστες.</p><div class="bold"><u>Υποέργο 4: Διασύνδεση υπηρεσιών, πιλοτικές περιοχές και συσκευές</u></div><p>Όλες οι αναπτυγμένες εφαρμογές θα αξιολογηθούν σε 4 περιοχές σε ολόκληρη την Ευρώπη (Ην. Βασίλειο, Γερμανία, Ιταλία και σε ένα συνδυασμένο πιλότο στην Ελλάδα, τη Ρουμανία και τη Βουλγαρία), από εκατοντάδες χρήστες, τους φροντιστές τους καθώς και άλλους εμπλεκόμενους, προκειμένου να αξιολογηθεί η γενική επιτυχία και να ληφθούν σχόλια και παρατηρήσεις για την περαιτέρω βελτιστοποίηση κατά τη διάρκεια του έργου, αλλά και μετά το πέρας του. </p><p></p><p>Εικόνα: Οι πιλότοι του OASIS</p><div class="bold"><u>Υποέργο 5: Οριζόντιες δράσεις</u></div><p>Το υποέργο 5 ενσωματώνει τις απαραίτητες δραστηριότητες υποστήριξης για να εξασφαλίσει την καλή υλοποίηση των υπολοίπων υποέργων, όπως τη διαχείριση, τη διάδοση, το μάρκετινγκ και την αξιοποίηση (συμπεριλαμβανομένων των επιχειρησιακών σεναρίων και των αναλύσεων οικονομικής αποτελεσματικότητας) των στόχων και των αποτελεσμάτων του έργου, την προστασία ηθικών ζητημάτων και ζητημάτων φύλου, την εκπαίδευση (προκειμένου να εξοικειωθεί η Κοινοπραξία του έργου με τις απαιτήσεις της τεχνολογίας) και την τυποποίηση (η πλατφόρμα του OASIS και οι εφαρμογές του θα υποβληθούν για την τυποποίηση από το παγκόσμιο βιομηχανικό φόρουμ του OASIS). </p></td>
+	</tr>
+	<tr>
+        <td valign="top" >
+
+       		</td>
+     </tr>
+</table>-->
+                </ul>
+       </div>
+       <div class="os_td_33r">
+      <ul>
+          <!--<table class="contentpaneopen">-->
+	<li>
+			<a href="/index.php/lang-en/component/content/article/24-short-presentation-project/93-italian" class="contentpagetitle">
+			Italian</a>
+		</li>
+
+<!--
+
+<table class="contentpaneopen">
+	<tr>
+		<td valign="top" >  <h3>IL PROGETTO OASIS</h3><h4>1. Introduzione</h4><p>Le barriere che ostacolano un maggiore livello di indipendenza nella vita di ogni giorno degli anziani sono numerose.. La fragilità fisica e/o mentale, le barriere presenti all’interno della propria abitazione , la mancanza di strutture idonee nei servizi di trasporto, le lacune e/o la ridotta accessibilità dei servizi di comunicazione e d’informazione e i bassi livelli di reddito sono fra le principali barriere. Nel 21° secolo si possono individuare due chiare tendenze : una è rappresentata dal rapido sviluppo delle tecnologie informatiche e della comunicazione (ICT) che hanno avuto un impatto notevole in tutte le aree della nostra vita, l’ altra tendenza ha a che fare con l’ invecchiamento della popolazione, problema questo che ha richiamato l’attenzione dei Governi, dell’ industria e del mondo economico tutto. Le gravi conseguenze dell’ invecchiamento della popolazione costituiscono una sfida enorme ma al tempo stesso rappresentano una notevole opportunità per le tecnologie ICT. Un esempio tipico è Internet che ha facilitato e stimolato l’ aggregazione e l’ integrazione sociale delle persone.</p><h4>2. Scopi e obbiettivi principali del Progetto OASIS</h4><p>OASIS intende sviluppare un’ architettura di riferimento aperta, innovativa e basata su ontologie e servizi semantici, atta a consentire l’ interconnessione facile e immediata di servizi - sia già esistenti che nuovi – intesi a supportare gli anziani nel condurre una vita il più possibile indipendente e autonoma e a migliorare la qualità della loro vita. Sia l’ architettura di riferimento che i relativi strumenti verranno resi disponibili come software “open source”. </p><p></p><p>Figure1: Campi di applicazione traguardati da OASIS</p><p>La facilità d’uso e l’accettabilità da parte degli utenti rappresentano la massima priorità del Progetto e per questo motivo esso utilizzerà un approccio progettuale centrato sull’ utilizzatore (“User-centred design”).</p><p>L’ approccio innovativo di OASIS renderà possibile e facile l’ interoperabilità , la connettività e la condivisione dei contenuti fra differenti servizi e ontologie in tutte le applicazioni relative agli anziani e non solo ad esse. Già in questa fase 12 nuovi servizi saranno connessi alla piattaforma OASIS; essi saranno rispondenti ai bisogni e alle aspettative degli anziani in termini di <strong>supporto a una vita indipendente</strong> ( I suggerimenti per la dieta, L’ Istruttore ginnico, Gli esercizi per la mente e l’ apprendimento continuo, le Relazioni sociali e lo svago, Il monitoraggio della propria salute, Il controllo ambientale) e in termini di <strong>autonomia nella mobilità e di un approccio intelligente e flessibile nel lavoro</strong> ( Servizi d’ informazione sui trasporti pubblici, Guida alla pianificazione degli itinerari , Servizi per la mobilità personale e Applicazioni per il prolungamento dell’ attività lavorativa in modo flessibile e intelligente).</p><h4>3. Breve descrizione dei sotto-progetti</h4><p>Il progetto OASIS è strutturato in 5 sotto-progetti, ciascuno dei quali ha diverse finalità.</p><div class="bold"><u>1° Sotto-progetto (SP1): Architettura di Riferimento, Interfacce Utente, Piattaforma OASIS e relativi strumenti</u></div><p>Nell’ ambito di SP1, verrà sviluppata la nuova e innovativa architettura di riferimento (chiamata COF : Common Ontological Framework) idonea a integrare, mantenere e applicare varie ontologie anche eterogenee fra loro. Questa nuova architettura intende realizzare:</p><ul><li>l’ interoperabilità fra i differenti servizi web relativi allo stesso o a differenti domini di applicazione,</li><li>la condivisione delle informazioni contestuali fra i vari servizi,</li><li>la connettività fra dispositivi hardware differenti, fra questi e i servizi e fra un servizio e un altro.</li></ul><div class="bold"><u>2° Sotto-progetto (SP2) : Applicazioni per una Vita Indipendente</u></div><p>Gli anziani sono tipicamente soggetti a un processo d’ indebolimento fisico e a un continuo declino delle loro capacità cognitive che spesso causano la perdita dell’ autonomia. Questo processo può essere ritardato e mitigato modificando le abitudini quotidiane, ad esempio adottando un regime alimentare controllato, mantenendosi fisicamente attivi, esercitando costantemente la propria mente e mantenendo una vasta rete di relazioni sociali. Nel 2° sotto-progetto varie applicazioni – alcune già esistenti e altre da sviluppare ex novo - saranno integrate nella nuova architettura di riferimento sviluppata nel SP1. Specificatamente i servizi che saranno sviluppati in SP2 sono:</p><p><strong>I suggerimenti per la dieta</strong>: Verranno fornite raccomandazioni e consigli personalizzati e adattati all’ anziano in maniera tale che egli possa migliorare il proprio regime nutrizionale e abituarsi facilmente e in maniera naturale alla nuova dieta.</p><p><strong>L’ istruttore ginnico</strong>: L’ applicazione servirà a monitorare, motivare e addestrare l’ anziano nell’ esecuzione di varie attività fisiche e sportive miranti a ridurre gli effetti del declino legati all’ invecchiamento come ad esempio l’indebolimento della muscolatura o i problemi di tipo cardiaco.</p><p><strong>Gli esercizi per la mente e l’ apprendimento continuo</strong>: L’applicazione favorirà il mantenimento delle capacità mentali delle persone anziane attraverso vari esercizi e la simulazione di varie situazioni. Un insieme di esercizi personalizzati sarà finalizzato al mantenimento della memoria.</p><p><strong>Le Relazioni sociali e lo svago</strong>: l’ applicazione si prefigge di costruire e allargare a vari livelli la rete di relazioni sociali dell’ anziano in modo da sconfiggere la tendenza all’isolamento tipica delle persone che vivono sole; in questo senso saranno facilitate nuove esperienze di tipo “collaborativo”.</p><p><strong>Il monitoraggio della propria salute</strong>: lo scopo dell’ applicazione è di andare al di là del semplice monitoraggio di alcuni parametri inerenti allo stato di salute della persona anziana. La si vuole aiutare a gestire la propria salute in maniera continua durante lo svolgimento delle normali attività quotidiane e di mantenere così una condizione il più possibile ottimale della propria salute.</p><p><strong>Il controllo dell’ ambiente</strong>: Le applicazioni domotiche permetteranno all’ anziano di vivere in maniera confortevole e rassicurante nella propria casa, accrescendo il proprio benessere e superando eventuali problemi legati alla riduzione di alcune funzionalità fisiche.</p><div class="bold"><u>3° Sotto-progetto (SP3): Applicazioni per una mobilità autonoma e per un’ occupazione lavorativa intelligente e flessibile</u></div><p>Questo sotto-progetto intende creare applicazioni e servizi che spingano l’ anziano a uscire fuori dalla propria casa , garantendogli al contempo sicurezza e conforto. In questo senso saranno sviluppate nuove applicazioni e funzionalità in grado di offrire agli anziani una maggiore indipendenza e sicurezza quando viaggiano, di facilitarli quando guidano, di evitare che siano esposti a rischi e – in caso di emergenza – di rendere immediato ed efficace il loro soccorso. <br />Si svilupperà in particolare un nuovo sistema di navigazione che terrà conto delle peculiarità cognitive degli anziani e dei loro modelli comportamentali . Saranno sviluppati servizi appropriati per facilitare la mobilità di queste persone come la facile programmazione dei viaggi e l’ assistenza durante la guida ( navigazione, chiamate di emergenza, diagnostica remota, monitoraggio della guida, conforto nella guida).<br />Saranno offerti servizi che rendano il turismo accessibile all’ anziano, che gli consentano di gestire al meglio il proprio tempo libero e che al contempo arricchiscano le sue attività e i suoi impegni sociali. </p><p>Una parte dell’attività del SP3 sarà poi dedicata a favorire parecchi anziani nel loro desiderio di prolungare la loro permanenza nel mondo del lavoro; lo si farà consentendo loro di continuare a lavorare sia da casa che da qualsiasi luogo attraverso forme flessibili e intelligenti di tele-lavoro.</p><div class="bold"><u>4° Sotto-progetto (SP4): Integrazione, siti-pilota e sperimentazione</u></div><p>Tutte le applicazioni sviluppate saranno verificate in 4 siti-pilota dislocati in tutta Europa (Inghilterra, Germania, Italia e in un sito combinato distribuito fra Grecia, Romania e Bulgaria). Centinaia di utilizzatori anziani, di persone che prestano loro assistenza e di altre persone coinvolte e interessate al problema dell’ invecchiamento valuteranno le soluzioni sviluppate da OASIS. Ciò permetterà di formulare un giudizio complessivo del Progetto e di ottenere utili suggerimenti per ulteriori sviluppi e per ottimizzare le varie soluzioni sia nell’ ambito del progetto stesso che in una fase successiva.</p><p></p><p>Figure2: OASIS pilot sites</p><div class="bold"><u>5° Sotto-progetto (SP5): Attività orizzontali</u></div><p>Il sotto-progetto SP5 include tutte le attività di supporto necessarie ad assicurare un’ efficace realizzazione degli altri sotto-progetti (gestione del progetto, attività di divulgazione, marketing e facilitazione dello sfruttamento industriale e scientifico della ricerca). Vari modelli di business saranno analizzati e valutati da un punto di vista di redditività (rapporto costi-benefici). <br />Parte dell’ attività sarà anche rivolta alla definizione di line guida di tipo etico e al controllo che esse vengano scrupolosamente seguite durante tutto lo svolgimento del progetto e soprattutto nelle fasi che prevedono il coinvolgimento degli anziani. <br />Le pari opportunità fra uomini e donne saranno tenute nella dovuta considerazione sia nella composizione del team di lavoro del progetto OASIS sia nella scelta degli anziani e degli operatori che parteciperanno alla fase di sperimentazione nei siti-pilota. <br />Sarà promosso l’addestramento all’interno del Team di Progetto al fine di favorire lo scambio di conoscenze tecnologiche e una familiarizzazione da parte di tutti i Partners con le tematiche trattate. <br />Infine ampio risalto sarà dato alle attività di standardizzazione e verrà costituito un “OASIS Industrial Forum” che attraverso il sinergico contributo dei principali attori della comunità industriale avanzerà proposte per nuovi standards atti a colmare le lacune esistenti e a garantire l’ interoperabilità delle varie soluzioni di tecnologia assistiva in linea con l’approccio OASIS che verranno introdotte nel mercato; l’interoperabilità rappresenta infatti una condizione essenziale per lo sviluppo del mercato stesso.</p></td>
+	</tr>
+	<tr>
+        <td valign="top" >
+
+       		</td>
+     </tr>
+</table>-->
+              		<span class="article_separator">&nbsp;</span>
+                          <!--<table class="contentpaneopen">-->
+	<li>
+			<a href="/index.php/lang-en/component/content/article/24-short-presentation-project/94-romanian" class="contentpagetitle">
+			Romanian</a>
+		</li>
+
+<!--
+
+<table class="contentpaneopen">
+	<tr>
+		<td valign="top" ><h3>PROIECTUL OASIS</h3>  <h4>1. Introducere</h4> <p> Barierele catre o viata independenta sunt numeroase. Sanatatea fizica sau psihica, conditiile de locuit, lipsa facilitatilor de transport, a informatiei si a serviciilor de comunicatie/comunicare precum si nivelul scazut al veniturilor constituie principalele bariere pentru persoanele in varsta catre o viata independenta. In secolul 21 exista doua tendinte: una o constituie dezvoltarea rapida a tehnologiei informatiei care afecteaza toate aspectele vietii de zi cu zi, iar cealalta este tendinta de imbatranire a populatiei, care a atras atentia atat guvernelor cat si a mediului de afaceri. Aceasta tendinta de imbatranire a populatiei prezinta numeroase provocari si in acealasi timp ofera oportunitati pentru tehnologia informatiei si comunicatiilor. Un exemplu tipic este Internet-ul care a devenit un mijloc al incluziunii sociale si comunicarii. </p>  <h4>2. Scopul si principalele rezultate</h4> <p>OASIS propune o arhitectura deschisa si inovatoare, bazata pe ontologii si servicii semantice care vor permite interconectarea eficienta fara erori si la cost redus a serviciilor existente si viitoare pentru a facilita o viata independenta si autonoma persoanelor in varsta cat si pentru a imbunatati calitatea acesteia. Atat arhitectura cat si instrumentele dezvoltate vor fi disponibile ca produse Open Source.</p>  <p></p> <p>Figure: OASIS targeted domains </p>   <p>Procesul de dezvoltare al serviciilor si aplicatiilor are o abordare ce are in centrul sau utilizatorul acest lucru fiind determinat de idea de a asigura un nivel mare de acceptare si usurinta in utilizare al acestora./p&gt;  </p><p>OASIS introduce un sistem inovator care va facilita interoperabilitatea, conectarea si partajarea de continut intre diferite servicii si ontologii din toate domeniile relevante aplicatiilor dedicate persoanelor in varsta si nu numai. Mai mult de 12 servici vor fi conectate cu OASIS spre beneficiul persoanelor in varsta acoperind necesitatile utilizatorilor in domeniul aplicatiilor dedicate unei vieti independente (Mentor nutritional, Asistent pentru diverse activitati, Antrenor cognitiv, Platforme dedicate socializarii, Monitorizarea starii de sanatate) si aplicatiilor dedicate mobilitatii si locului de munca inteligent (servicii de informatii referitoare la posibilitatile de transport, ghidare, servicii de mobilitate personala, dispozitive mobile, interfete de autentificare biometrica, alte aplicatii dedicate locului de munca intelligent).</p>  <h4>3. Subproiectele. Scurta descriere</h4> <p>OASIS este structurat in 5 sub-proiecte (SP).</p>  <div class="bold"><u>SP1: Open Reference Architecture, User Interface, Platform and Tools</u></div> <p>In SP1, este dezvoltata noua arhitectura deschisa, de referinta pentru organizarea, mentinerea si aplicarea diferitelor ontologii. Aceasta arhitectura cadru are ca scop:</p>  <ul> <li>Interoperabilitatea intre diferite servicii web din acelasi domeniu de aplicare sau din domenii diferite.</li> <li>Partajarea informatiei contextuale intre diferite obiecte si servicii.</li> <li>Conectivitate hardware - hardware, hardware-servicii sau servicii - servicii fara erori si usor de realizat.</li> </ul>  <div class="bold"><u>SP 2: Independent Living Applications </u></div> <p>Persoanele in varsta pot avea probleme cognitive sau locomotorii cu posibilitatea de a-si pierde autonomia. Acest process poate fi amanat daca in modul de viata se adopta cateva schimbari referitoare la nutritie, activitatea fizica, activitatea mentala sau sociala. Astfel bazat pe SP1 vor fi conectate la noua arhitectura un numar de aplicatii existente sau aplicatii noi care vor fi dezvoltate. Aceste servicii ce vor fi dezvoltate sunt:  Mentor nutritional: care va furniza recomandari referitoare la imbunatatirea nutritiei si personalizarea si adaptarea acesteia astfel incat sa devina cat mai usor de urmat.</p>  <p>Asistent pentru diverse activitati: care va monitoriza si indruma activitatile fizice ale persoanelor in varsta, si le va motiva sa efectueze exerciti fizice pentru a reduce problemele musculare si a intarzia aparitia problemelor legate de locomotie si a celor cardio-vasculare.</p>  <p>Antrenor cognitiv: care va promova efectuarea de exercitii si scenarii pentru mentinerea sanatatii mentale. Acesta va oferi un set de exercitii personalizate pentru mentinerea memoriei si nivelului activitatii intelectuale.</p>  <p>Platforme dedicate socializarii: aceste aplicatii sunt dedicate realizarii comunicarii sociale, comunitatilor si participarii la experiente noi pentru a preveni problemele legate de izolare cu care se pot confrunta persoanele in varsta.</p>  <p>Monitorizarea starii de sanatate: aceasta aplicatie va asigura managementul starii de sanatate si echilibrului in timpul activitatilor vietii de zi cu zi..</p>  <p>Control al mediului: aceste aplicatii vor permite persoanelor in varsta sa se simta comfortabil si in siguranta in spatiul de locuit. </p>   <div class="bold"><u>SP 3: Autonomous Mobility and Smart Workplaces Applications</u></div>  <p>SP3 promoveaza activitatile care se desfasoara in afara locuintei in acelasi timp oferind securitatea, siguranta si confortul necesar. Noile functionalitati vor oferi o independenta mai mare si siguranta sporita in calatorii prin evitarea potentialelor riscuri. Se va dezvolta un prototip pentru ghidare care va lua in considerare nevoile persoanelor in varsta. Vor fi oferite servicii dedicate mobilitatii cum ar fi planificarea calatoriei si asistenta la condus, turism accesibil si activitati recreative.</p>  <p>Nevoia de a ramane activ va fi sustinuta de acasa sau de oriunde ca utilizator mobil. </p>    <div class="bold"><u>SP 4: Integration, Pilot sites and devices</u></div> <p>Toate aplicatiile dezvoltate vor fi testate in mai multe locatii din tarile participante (UK, Germania, Italia, Grecia, Romania si Bulgaria), de utilizatori finali, asistenti sociali sau persoane interesate in evaluarea rezultatelor aplicatiilor si optimizarea acestora.  </p>  <p></p> <p>Figure: OASIS pilot sites</p>    <div class="bold"><u>SP 5: Horizontal activities </u></div> <p>SP5 cuprinde toate activitatile necesare realizarii si derularii in bune conditii a proiectului, cum ar fi: managementul, diseminarea, marketingul, exploatarea rezultatelor , managementul problemelor de etica, managementul drepturilor de proprietate intelectuala, training-ul necesar partenerilor si utilizatorilor, problemele referitoare la implementarea de noi standarde (platforma OASIS si aplicatiile aferente vor fi propuse ca standard si supuse spre aprobare de catre OASIS World-Wide Industrial Forum).  </p></td>
+	</tr>
+	<tr>
+        <td valign="top" >
+
+       		</td>
+     </tr>
+</table>-->
+              		<span class="article_separator">&nbsp;</span>
+                          <!--<table class="contentpaneopen">-->
+	<li>
+			<a href="/index.php/lang-en/component/content/article/24-short-presentation-project/95-spanish" class="contentpagetitle">
+			Spanish</a>
+		</li>
+
+<!--
+
+<table class="contentpaneopen">
+	<tr>
+		<td valign="top" >  <h3>EL PROYECTO OASIS</h3><h4>1. Introducción </h4><p>Actualmente existen numerosas barreras que dificultan que las personas puedan llevar una vida independiente. En el caso de las personas mayores, los principales obstáculos son los problemas de salud, física o mental, las condiciones de vivienda, la falta de servicios de transporte, comunicación e información, y los bajos niveles de ingresos. Se dan dos tendencias en el siglo 21: la primera consiste en el rápido desarrollo de las TIC, lo que ha influido en la vida de las personas en todos los sentidos; la otra es el creciente envejecimiento de la población, que ha atraído la atención de gobiernos y empresas. Las consecuencias de este proceso de envejecimiento de la población plantean enormes retos, a la vez que oportunidades para las TIC. Un ejemplo típico es Internet, que se ha convertido en un factor clave para la inclusión social. </p><h4>2. Objetivo y principales logros</h4><p>El objetivo de OASIS es crear un arquitectura de referencia innovadora y abierta, basada en ontologías y servicios semánticos, que permita una interconexión simple y rentable de servicios nuevos o ya existentes, en todos los ámbitos necesarios para ayudar a la vida independiente y autónoma de las personas mayores, y para mejorar su calidad de vida. Tanto la arquitectura abierta de referencia como las herramientas relacionadas estarán disponibles en open source.</p><p></p><p>Ámbitos objetivo en OASIS</p><p>La aceptación por parte del usuario es una de las prioridades fundamentales del proyecto, por lo que durante el proceso de desarrollo se seguirá un método de diseño centrado en el usuario.</p><p>OASIS propone una solución innovadora, que permitirá y facilitará la interoperabilidad, la conectividad transparente al usuario y la distribución de contenidos entre diferentes servicios y ontologías en todos los ámbitos de relevancia para las personas mayores. Más de 12 tipos distintos de servicios serán conectados a través de OASIS en beneficio de los mayores, cubriendo sus necesidades mediante Aplicaciones para la Vida Independiente (asesor de nutrición, entrenamiento personal, ejercicios cognitivos, plataforma para la socialización, monitorización de la salud y control de entorno) y Aplicaciones para la Movilidad Autónoma y Ambientes de Trabajo Inteligentes (servicios de información para el transporte, guiado en ruta, servicios para la movilidad personal, dispositivos móviles, interfaces de autenticación biométrica, interfaces multimodales y otras aplicaciones para ambientes de trabajo inteligentes).</p><h4>3. Los Subproyectos en resumen</h4><p>El proyecto OASIS está estructurado en 5 subproyectos, cada uno de ellos con objetivos diferentes. </p><div class="bold"><u>Subproyecto 1: Arquitectura Abierta de Referencia, Interfaz de usuario, Plataforma y Herramientas</u></div><p>Dentro del SP1 se desarrollará una arquitectura abierta de referencia (llamada Marco Ontológico común-COF ,Common Ontological Framework en inglés-) para la organización, mantenimiento y aplicación diversas ontologías. El objetivo de esta arquitectura es conseguir:</p><ul><li>Interoperabilidad entre servicios Web dentro de uno o varios ámbitos de aplicación.</li><li>Distribución de información de contexto entre diversos objetos y servicios.</li><li>Conectividad transparente al usuario entre los sistemas de hardware, entre hardware y servicios, y entre servicios.</li></ul><div class="bold"><u>Subproyecto 2: Aplicaciones para la Vida Independiente </u></div><p>Las personas mayores suelen atravesar un proceso que implica el declive de sus capacidades funcionales, cognitivas y musculares, así como la posible pérdida de autonomía. Este proceso se puede posponer y mitigar, mediante determinados cambios en aspectos de su vida diaria, como la nutrición, la actividad física y mental, y las relaciones sociales. Así, en este subproyecto un gran número de aplicaciones se desarrollarán y/o conectarán con la nueva arquitectura de referencia desarrollada en el SP1. Los servicios a desarrollar son los siguientes:</p><p><strong>Asesor nutricional</strong>: Dedicado a la personalización y adaptación de consejos y recomendaciones para la mejora de la nutrición de las personas mayores, con el objetivo de integrarlos de manera sencilla en sus hábitos de vida.</p><p><strong>Entrenamiento personal</strong>: Un servicio de monitorización, apoyo y guiado de las actividades físicas de los mayores, como la motivación a realizar actividades deportivas para reducir sus problemas cardiovasculares, óseos o musculares derivados de la edad.</p><p><strong>Entrenamiento cognitivo</strong>: Promoverá, a través de diversos ejercicios y escenarios simulados, un estado mental saludable. Un conjunto de ejercicios personalizados servirá para mantener activas la memoria y la actividad cognitiva de los usuarios.</p><p><strong>Plataforma para relaciones sociales y recreación</strong>: Esta aplicación consistirá en una plataforma social, a diferentes niveles, que permita reducir el aislamiento social de las personas mayores que viven solas, así como facilitar nuevas experiencias colaborativas.</p><p><strong>Monitorización de la salud</strong>: Esta aplicación irá más allá en el campo de la monitorización médica, a través del control del buen estado de salud de las personas mayores mientras realizan las actividades de su vida diaria.</p><p><strong>Control de entorno</strong>: Aplicaciones domóticas que permitirán a los mayores sentirse seguros dentro de sus casas y aumentarán su confort.</p><div class="bold"><u>Subproyecto 3: Aplicaciones de Movilidad Autónoma y Ambientes de Trabajo Inteligentes </u></div><p>Este subproyecto promueve actividades para animar a las personas mayores a salir de sus casas, garantizando su seguridad y confort. Se ofrecerán nuevas funcionalidades, que proporcionen a los usuarios más independencia y seguridad en sus viajes, ayudándoles en la conducción, evitando posibles riesgos y acelerando los procesos de auxilio en situaciones de emergencia. Se desarrollará también un nuevo prototipo de guiado en ruta basado en patrones cognitivos y de comportamiento. Se ofrecerán servicios de movilidad específicos para los mayores, incluyendo planificación de viajes y apoyo a la conducción (ayuda a la navegación, soporte a emergencias y telediagnóstico , monitorización de la conducción), turismo accesible, actividades sociales y de ocio.</p><p>Además, se cubrirá la necesidad de las personas mayores de permanecer activos en el ámbito del trabajo tanto en sus casas como en cualquier otro lugar.</p><div class="bold"><u>Subproyecto 4: Integración y Pilotos</u></div><p>Todas las aplicaciones desarrolladas serán probadas en 4 pilotos en Europa (Reino Unido, Alemania, Italia, y un piloto combinado en Grecia, Rumania y Bulgaria) por centenares de usuarios, cuidadores y otras organizaciones, con el objetivo de evaluar el resultado global y obtener la información necesaria para optimizar las aplicaciones durante y tras la finalización del proyecto.</p><p></p><p>Pilotos en OASIS</p><div class="bold"><u>Subproyecto 5: Actividades Horizontales</u></div><p>Dentro del SP5 se llevan a cabo las actividades de apoyo necesarias para asegurar el correcto funcionamiento del resto de subproyectos, como gestión, diseminación, marketing y explotación (incluyendo modelo de negocio y análisis de rentabilidad) del concepto y resultados del proyecto, cuestiones éticas, formación (para familiarizar a los socios del proyecto con los requisitos técnicos) y estandarización (OASIS ha creado un foro de expertos con este propósito, llamado “OASIS world-wide Industrial Forum”).</p></td>
+	</tr>
+	<tr>
+        <td valign="top" >
+
+       		</td>
+     </tr>
+</table>-->
+                </ul>
+      </div>
+      </div>
+     <div class="padding2">
+	      <div class="clr"></div>
+     </div>
+</div>
+
+											</div>
+											<div class="clr"></div>
+																			</div>
+                                
+      								<div class="clr"></div><br/>
+							</div>
+					  	</div>
+			  		</div>
+				</div>
+			</div>
+		</div>
+		<div class="footer">
+			<div class="footer_left">
+				<div class="footer_right">
+					<div class="footer_content">
+						<div class="footer_content_l">
+							<a href="http://ec.europa.eu/information_society/einclusion" target="_blank" >
+								<img src="http://www.oasis-project.eu/templates/oasis_template/images/icons/einclusion.png" alt="eInclusion icon" title="The &quot;e-Inclusion: be part of it!&quot; campaign is organised by the European Commission. More information on this action is available at http://ec.europa.eu/information_society/einclusion.  The European Commission bears no responsibility for, nor is it involved in, the events, documents or other manifestations associated or claiming to be associated with the campaign, unless indicated otherwise." border="0" height="38" width="108" />
+							</a>
+						</div>
+						<div class="footer_content_m">
+							The &quot;e-Inclusion: be part of it!&quot; campaign is organised by the European Commission.
+							More information on this action is available at <a href="http://ec.europa.eu/information_society/einclusion" target="_blank">http://ec.europa.eu/information_society/einclusion</a>.
+							The European Commission bears no responsibility for, nor is it involved in, the events, documents or other manifestations associated or claiming to be associated with the campaign, unless indicated otherwise.
+						</div>
+						<div class="footer_content_r">
+							<a href="http://cordis.europa.eu/ist/directorate_f/7fp.htm" target="_blank" >
+								<img src="http://www.oasis-project.eu/templates/oasis_template/images/icons/sevenfp.png" alt="7FP icon" title="7FP" border="0" height="38" width="48" />
+							</a>
+						</div>
+					</div>
+					<div class="clr"></div><br/>
+				</div>
+			</div>
+		</div>
+		<div class="os_tr">
+            <div class="os_td_5">
+                 &nbsp;
+			</div>
+			<div class="os_td_25">
+				<span class="pad-left5">
+   				      Copyright © 2008, OASIS Project
+                </span>
+			</div>
+			<div class="os_td_40 align-center">
+				<span class="pad-left5">
+					<a href="http://validator.w3.org/check?uri=referer" target="_blank" >
+						<img src="http://www.oasis-project.eu/templates/oasis_template/images/icons/valid-html401.png" alt="W3C Valid Html icon" title="W3C Valid Html" border="0" height="25" width="70" />
+					</a>
+				</span>
+				<span class="pad-left5">
+					<a href="http://jigsaw.w3.org/css-validator/" target="_blank" >
+						<img src="http://www.oasis-project.eu/templates/oasis_template/images/icons/valid-css.png" alt="W3C Valid Html icon" title="W3C Valid Html" border="0" height="25" width="70" />
+					</a>
+				</span>
+				<span class="pad-left5">
+					<a href="http://www.w3.org/WAI/WCAG1AA-Conformance" target="_blank" >
+						<img src="http://www.oasis-project.eu/templates/oasis_template/images/icons/wcag1AA.gif" alt="W3C Valid Html icon" title="W3C Valid Html" border="0" height="25" width="70" />
+					</a>
+				</span>
+			</div>
+			<div class="os_td_30r">
+                 <a name="acc"></a>
+				 <ul id="mainlevel-nav"><li><a href="#top" class="mainlevel-nav" >top</a></li></ul>
+			     <!--sitemap, top -->
+			</div>
+		</div>
+		<div class="clr"></div>
+		<!--<div align="center">
+	&copy; 2018 OASIS Web Site</div>
+
+<div align="center">
+	<a href="http://www.joomla.org">Joomla!</a> is Free Software released under the GNU General Public License.</div>-->
+		</body>
+	</div>
+</div>
+</html>
+

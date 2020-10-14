@@ -1,0 +1,1126 @@
+WARC/1.0
+WARC-Type: warcinfo
+WARC-Date: 2018-05-30T17:52:31Z
+WARC-All-Language: en
+WARC-All-Content_type: text/html; charset=UTF-8
+WARC-Record-ID: <urn:uuid:81ec2992-5801-4e21-ad6a-9c2a420bd95e>
+Content-Type: application/http;msgtype=response
+Content-Length: 46
+
+WARCProcessor by SING Group www.sing-group.com
+
+WARC/1.0
+WARC-Type: response
+WARC-Target-URI: http://www.europeanfilmgateway.eu
+WARC-Date: 20180530175231
+WARC-Language: en
+WARC-Record-ID: <http://www.europeanfilmgateway.eu>
+Content-Type: application/http;msgtype=response
+Content-Length: 69113
+
+HTTP/1.1 200
+Content-Type:text/html; charset=UTF-8
+
+
+<!DOCTYPE html>
+<html lang="en" dir="ltr" prefix="content: http://purl.org/rss/1.0/modules/content/  dc: http://purl.org/dc/terms/  foaf: http://xmlns.com/foaf/0.1/  og: http://ogp.me/ns#  rdfs: http://www.w3.org/2000/01/rdf-schema#  schema: http://schema.org/  sioc: http://rdfs.org/sioc/ns#  sioct: http://rdfs.org/sioc/types#  skos: http://www.w3.org/2004/02/skos/core#  xsd: http://www.w3.org/2001/XMLSchema# ">
+  <head>
+    <meta charset="utf-8" />
+<script>(function(i,s,o,g,r,a,m){i["GoogleAnalyticsObject"]=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,"script","//www.google-analytics.com/analytics.js","ga");ga("create", "UA-4348419-4", {"cookieDomain":"auto"});ga("set", "anonymizeIp", true);ga("send", "pageview");</script>
+<meta name="title" content="| European Film Gateway" />
+<link rel="canonical" href="http://www.europeanfilmgateway.eu/" />
+<link rel="shortlink" href="http://www.europeanfilmgateway.eu/" />
+<meta name="Generator" content="Drupal 8 (https://www.drupal.org)" />
+<meta name="MobileOptimized" content="width" />
+<meta name="HandheldFriendly" content="true" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<link rel="shortcut icon" href="/themes/efg/favicon.ico" type="image/vnd.microsoft.icon" />
+<link rel="alternate" type="application/rss+xml" title="" href="http://www.europeanfilmgateway.eu/rss.xml" />
+<script>window.a2a_config=window.a2a_config||{};a2a_config.callbacks=a2a_config.callbacks||[];a2a_config.templates=a2a_config.templates||{};</script>
+
+    <title>| European Film Gateway</title>
+    <link rel="stylesheet" href="/sites/default/files/css/css_e3sic2Jv3uPtBP-aMtCjmA18hXHvwO8cxz4QMfwf1tA.css?p7lfk0" media="all" />
+<link rel="stylesheet" href="/sites/default/files/css/css_m_nBr1EmhHnO0ePrevx-xXRhwnYLp7R-9MR5vd6CpnQ.css?p7lfk0" media="all" />
+
+    
+<!--[if lte IE 8]>
+<script src="/sites/default/files/js/js_VtafjXmRvoUgAzqzYTA3Wrjkx9wcWhjP0G4ZnnqRamA.js"></script>
+<![endif]-->
+<script src="/core/assets/vendor/modernizr/modernizr.min.js?v=3.3.1"></script>
+
+  </head>
+  <body class="path-frontpage">
+    <a href="#main-content" class="visually-hidden focusable">
+      Skip to main content
+    </a>
+    
+    <div id="page-wrapper" class="clearfix">
+  <div id="page" class="clearfix header-layout with--header without--menuspreface-layout without--preface-first without--preface-second without--preface-third without--preface-fourthcore-layout with--highlightedmain-layout with--content with--sidebar-first without--sidebar-secondpostscript-layout without--postscript-first without--postscript-second without--postscript-third without--postscript-fourthfooter-layout with--footer-core-layout with--footer">
+
+    <header id="header-outer-wrapper" class="outer-wrapper clearfix without-secondary-menu" role="banner">
+      <div id="header-layout" class="header-layout with--header without--menus inner-wrapper clearfix">
+          <div class="region--header region region-header">
+    <div id="block-myefgtopmenu" data-block-plugin-id="block_content:9d7a55fa-30a0-4524-a468-3fb1d43cf989">
+  
+  <!--  -->
+  
+      
+            <div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"><div class="myefg-top-menu">My EFG</div>
+</div>
+      
+  </div>
+<div id="block-languageswitcherefgcustom" data-block-plugin-id="block_content:7f9c1098-e703-4076-bda6-c7ac2b954261">
+  
+  <!--  -->
+  
+      <div class="polyglot-language-switcher" data-grid-columns="2" data-anim-effect="slide" data-open-mode="hover">
+      <ul style="display: none">
+        <li><a href="/de/" title="German" data-lang-id="de"><img src="/themes/efg/images/flags/de.png" alt="Germany"> Deutsch</a></li>
+        <li><a href="/" title="English" data-lang-id="en"><img src="/themes/efg/images/flags/gb.png" alt="English"> English</a></li>
+        <li><a href="/cs/" title="Czech" data-lang-id="cs"><img src="/themes/efg/images/flags/cz.png" alt="Czech Republic"> Čeština</a></li>
+        <li><a href="/da/" title="Danish" data-lang-id="da"><img src="/themes/efg/images/flags/dk.png" alt="Denmark"> Dansk</a></li>
+        <li><a href="/fr/" title="French (France)" data-lang-id="fr"><img src="/themes/efg/images/flags/fr.png" alt="France"> Français</a></li>
+        <li><a href="/it/" title="Italian" data-lang-id="it"><img src="/themes/efg/images/flags/it.png" alt="Italy"> Italiano</a></li>
+        <li><a href="/lt/" title="Lithuanian" data-lang-id="lt"><img src="/themes/efg/images/flags/lt.png" alt="Lithuania"> Lietuvių</a></li>
+        <li><a href="/hu/" title="Hungarian" data-lang-id="hu"><img src="/themes/efg/images/flags/hu.png" alt="Hungary"> Magyar</a></li>
+        <li><a href="/nl/" title="Dutch" data-lang-id="nl"><img src="/themes/efg/images/flags/nl.png" alt="Netherlands"> Nederlands</a></li>
+        <li><a href="/nb/" title="Norwegian (bokmal)" data-lang-id="nb"><img src="/themes/efg/images/flags/no.png" alt="Norway"> Norsk</a></li>
+        <li><a href="/pt-pt/" title="Portuguese (Portugal)" data-lang-id="pt-pt"><img src="/themes/efg/images/flags/pg.png" alt="Portugal"> Português</a></li>
+        <li><a href="/fi/" title="Finnish" data-lang-id="fi"><img src="/themes/efg/images/flags/fi.png" alt="Finland"> Suomi</a></li>
+      </ul>
+    </div>
+    <!-- end polyglot language switcher without flags -->
+  </div>
+<div id="block-loggedinas" data-block-plugin-id="block_content:8d663390-ad5a-4e2b-9b6b-6927a9c30179">
+  
+  <!--  -->
+  
+      
+            <div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"></div>
+      
+  </div>
+<div id="block-horizontalmenu" data-block-plugin-id="responsive_menu_horizontal_menu">
+  
+    
+
+  <div>
+          <nav class="responsive-menu-block-wrapper">
+  
+              <ul id="horizontal-menu" class="horizontal-menu">
+                    <li class="menu-item menu-item--expanded">
+        <a href="/content/about-european-film-gateway" data-drupal-link-system-path="node/5">About</a>
+                                <ul class="menu sub-nav">
+                    <li class="menu-item menu-item--collapsed">
+        <a href="/about_efg/contributing_archives" data-drupal-link-system-path="about_efg/contributing_archives">Contributing archives</a>
+              </li>
+                <li class="menu-item">
+        <a href="/about_efg/partners" title="" data-drupal-link-system-path="about_efg/partners">Other Partners</a>
+              </li>
+                <li class="menu-item">
+        <a href="/content/efg1914-project" title="" data-drupal-link-system-path="node/1015">EFG1914 project</a>
+              </li>
+                <li class="menu-item menu-item--collapsed">
+        <a href="/news" title="" data-drupal-link-system-path="news">News</a>
+              </li>
+                <li class="menu-item">
+        <a href="/about_efg/contact" data-drupal-link-system-path="node/35">Contact</a>
+              </li>
+                <li class="menu-item">
+        <a href="/about_efg/contribute_content" title="" data-drupal-link-system-path="node/22">Contribute Content</a>
+              </li>
+        </ul>
+  
+              </li>
+                <li class="menu-item menu-item--expanded">
+        <a href="/about_efg/collections" title="" data-drupal-link-system-path="about_efg/collections">Collections</a>
+                                <ul class="menu sub-nav">
+                    <li class="menu-item">
+        <a href="/about_efg/EFG1914collections" title="World War One Collections" data-drupal-link-system-path="about_efg/EFG1914collections">World War One Collections</a>
+              </li>
+                <li class="menu-item">
+        <a href="/highlights" title="Project partners present selected highlights of their collections digitised in the scope of EFG1914." data-drupal-link-system-path="highlights">WWI Collection highlights</a>
+              </li>
+                <li class="menu-item">
+        <a href="/content/wwi-topics" title="" data-drupal-link-system-path="node/1421">WWI Topics</a>
+              </li>
+                <li class="menu-item">
+        <a href="/content/virtual-exhibition" data-drupal-link-system-path="node/1449">Virtual exhibition</a>
+              </li>
+        </ul>
+  
+              </li>
+                <li class="menu-item">
+        <a href="/about_efg/faq" data-drupal-link-system-path="about_efg/faq">FAQ</a>
+              </li>
+        </ul>
+  
+
+
+</nav>
+      </div>
+</div>
+
+
+
+
+
+<div id="block-efg-branding" data-block-plugin-id="system_branding_block">
+  
+    
+    
+  <div id="site-branding">
+          <div id="logo">
+        <a href="http://www.europeanfilmgateway.eu/" title="Home" rel="home" class="site-logo">
+          <img src="/sites/default/files/transparent_logo_size_0_0.png" alt="Home" />
+        </a>
+      </div>
+        
+        
+  </div>
+</div>
+<div class="efg-solr-search-block-form" data-drupal-selector="efg-solr-search-block-form" id="block-efgsolrsearchblockform" data-block-plugin-id="efg_solr_search_form_block">
+    
+        
+            <form action="/" method="post" id="efg-solr-search-block-form" accept-charset="UTF-8">
+  <div class="js-form-item form-item js-form-type-search form-type-search js-form-item-searchstring form-item-searchstring form-no-label">
+      <label for="edit-searchstring" class="visually-hidden js-form-required form-required">Search</label>
+        <input title="Enter the terms you wish to search for." data-drupal-selector="edit-searchstring" type="search" id="edit-searchstring" name="searchString" value="" size="15" maxlength="128" class="form-search required" required="required" aria-required="true" />
+
+        </div>
+<div class="js-form-item form-item js-form-type-checkbox form-type-checkbox js-form-item-searchtype form-item-searchtype">
+        <input data-drupal-selector="edit-searchtype" type="checkbox" id="edit-searchtype" name="searchType" value="exact" class="form-checkbox" />
+
+        <label for="edit-searchtype" class="option">Exact search</label>
+      </div>
+<input data-drupal-selector="edit-submit" type="submit" id="edit-submit" name="op" value="Search" class="button js-form-submit form-submit" />
+<input data-drupal-selector="form-1wfkjy506x8xigcgomrtrufgrsbofm2gwxp-l-hejae" type="hidden" name="form_build_id" value="form-1wfkJy506x8xIGCgoMRtrUFgRsboFM2gWXP-L-HEjAE" />
+<input data-drupal-selector="edit-efg-solr-search-block-form" type="hidden" name="form_id" value="efg_solr_search_block_form" />
+
+</form>
+
+    <div class="searchblockformtext">Your single access point to films, images and texts from selected collections of 38 film archives across Europe</div>
+</div><div id="block-addtoanycustom" data-block-plugin-id="block_content:4f84a4cb-f19f-49ee-897a-5594d3c7cc47">
+  
+    
+
+  <div>
+          
+            <div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"><div class="a2a_kit a2a_default_style">
+    <a class="a2a_button_facebook"></a>
+    <a class="a2a_button_twitter"></a>
+    <a class="a2a_button_google_plus"></a>
+    <a class="a2a_button_pinterest"></a>
+    <a class="a2a_dd" href="https://www.addtoany.com/share"></a>
+</div>
+
+<script async src="https://static.addtoany.com/menu/page.js"></script></div>
+      
+      </div>
+</div>
+
+
+
+
+
+
+  </div>
+
+      </div>
+    </header> <!-- /.section, /#header-->
+  
+    <section id="core-outer-wrapper" class="outer-wrapper clearfix">
+      <div id="core-layout" class="core-layout with--highlighted inner-wrapper clearfix">
+                  
+              </div>
+    </section>
+    
+    
+    <section id="content-outer-wrapper" class="outer-wrapper clearfix">
+      <div id="main-layout" class="main-layout with--content with--sidebar-first without--sidebar-second inner-wrapper clearfix">
+        
+                    <div class="region--content region region-content">
+    
+<div id="block-newonefgblock" data-block-plugin-id="efg_new_on_block">
+  
+    
+
+  <div>
+          <div>
+    
+        
+            <h2>New on EFG</h2>
+        <!-- template -->
+        <div class="ms-partialview-template" id="partial-view-1">
+            <!-- masterslider -->
+            <div class="master-slider ms-skin-default" id="masterslider">
+        <div class="ms-slide">
+                    <img src="/themes/efg/libraries/masterslider/style/blank.gif" data-src="https://i.vimeocdn.com/video/569787061_1280x960.jpeg" alt="CONMEMORACIÓN DEL XIX ANIVERSARIO DE LA REVOLUCIÓN"/>
+                    <div class="ms-info">
+                        <a href="/detail/CONMEMORACI%C3%93N%20DEL%20XIX%20ANIVERSARIO%20DE%20LA%20REVOLUCI%C3%93N/fdc%3A%3A8412c47e5fd0ff7f4e6a36511d8898be"><h3>CONMEMORACIÓN DEL XIX ANIVERSARIO DE LA REVOLUCIÓN</h3></a>
+                        
+                        <p><a
+                                    href="/detail/CONMEMORACI%C3%93N%20DEL%20XIX%20ANIVERSARIO%20DE%20LA%20REVOLUCI%C3%93N/fdc%3A%3A8412c47e5fd0ff7f4e6a36511d8898be" class="singleNewInEfgTitel">Details</span></a></p>
+                    </div>
+                </div><div class="ms-slide">
+                    <img src="/themes/efg/libraries/masterslider/style/blank.gif" data-src="https://i.vimeocdn.com/video/569786474_1280x960.jpeg" alt="REFUGEES IN CATALONIA"/>
+                    <div class="ms-info">
+                        <a href="/detail/REFUGEES%20IN%20CATALONIA/fdc%3A%3A065ea42aafd4d21b807f843c836ff7bb"><h3>REFUGEES IN CATALONIA</h3></a>
+                        
+                        <p><a
+                                    href="/detail/REFUGEES%20IN%20CATALONIA/fdc%3A%3A065ea42aafd4d21b807f843c836ff7bb" class="singleNewInEfgTitel">Details</span></a></p>
+                    </div>
+                </div><div class="ms-slide">
+                    <img src="/themes/efg/libraries/masterslider/style/blank.gif" data-src="https://i.vimeocdn.com/video/569448091_1280x960.jpeg" alt="INSAISISSABLE PICKPOCKET, L'"/>
+                    <div class="ms-info">
+                        <a href="/detail/INSAISISSABLE%20PICKPOCKET%2C%20L%27/fdc%3A%3A84c4c29ace8a215fe314d68f7a1b2577"><h3>INSAISISSABLE PICKPOCKET, L'</h3></a>
+                        <h4>(DIABOLICAL PICKPOCKET)</h4>
+                        <p><a
+                                    href="/detail/INSAISISSABLE%20PICKPOCKET%2C%20L%27/fdc%3A%3A84c4c29ace8a215fe314d68f7a1b2577" class="singleNewInEfgTitel">Details</span></a></p>
+                    </div>
+                </div><div class="ms-slide">
+                    <img src="/themes/efg/libraries/masterslider/style/blank.gif" data-src="https://i.vimeocdn.com/video/569447395_1280x960.jpeg" alt="LUNATIQUES, LES"/>
+                    <div class="ms-info">
+                        <a href="/detail/LUNATIQUES%2C%20LES/fdc%3A%3Aa25b0535d0fdc6b5165576c64d2e26fb"><h3>LUNATIQUES, LES</h3></a>
+                        
+                        <p><a
+                                    href="/detail/LUNATIQUES%2C%20LES/fdc%3A%3Aa25b0535d0fdc6b5165576c64d2e26fb" class="singleNewInEfgTitel">Details</span></a></p>
+                    </div>
+                </div><div class="ms-slide">
+                    <img src="/themes/efg/libraries/masterslider/style/blank.gif" data-src="https://i.vimeocdn.com/video/569444704_1280x960.jpeg" alt="OEUFS DE PÂQUES, LES"/>
+                    <div class="ms-info">
+                        <a href="/detail/OEUFS%20DE%20P%C3%82QUES%2C%20LES/fdc%3A%3Afd831740cad57a65fc87a1dae53c7fbd"><h3>OEUFS DE PÂQUES, LES</h3></a>
+                        
+                        <p><a
+                                    href="/detail/OEUFS%20DE%20P%C3%82QUES%2C%20LES/fdc%3A%3Afd831740cad57a65fc87a1dae53c7fbd" class="singleNewInEfgTitel">Details</span></a></p>
+                    </div>
+                </div><div class="ms-slide">
+                    <img src="/themes/efg/libraries/masterslider/style/blank.gif" data-src="https://i.vimeocdn.com/video/569450366_1280x960.jpeg" alt="THÉÂTRE ÉLECTRIQUE DE BOB, LE"/>
+                    <div class="ms-info">
+                        <a href="/detail/TH%C3%89%C3%82TRE%20%C3%89LECTRIQUE%20DE%20BOB%2C%20LE/fdc%3A%3A6182662a9384bb6f7c64c78b497f2805"><h3>THÉÂTRE ÉLECTRIQUE DE BOB, LE</h3></a>
+                        
+                        <p><a
+                                    href="/detail/TH%C3%89%C3%82TRE%20%C3%89LECTRIQUE%20DE%20BOB%2C%20LE/fdc%3A%3A6182662a9384bb6f7c64c78b497f2805" class="singleNewInEfgTitel">Details</span></a></p>
+                    </div>
+                </div><div class="ms-slide">
+                    <img src="/themes/efg/libraries/masterslider/style/blank.gif" data-src="https://i.vimeocdn.com/video/569445679_1280x960.jpeg" alt="TULIPES, LES"/>
+                    <div class="ms-info">
+                        <a href="/detail/TULIPES%2C%20LES/fdc%3A%3A737fb48cf1073766dc4e9aca420d36b6"><h3>TULIPES, LES</h3></a>
+                        
+                        <p><a
+                                    href="/detail/TULIPES%2C%20LES/fdc%3A%3A737fb48cf1073766dc4e9aca420d36b6" class="singleNewInEfgTitel">Details</span></a></p>
+                    </div>
+                </div><div class="ms-slide">
+                    <img src="/themes/efg/libraries/masterslider/style/blank.gif" data-src="https://i.vimeocdn.com/video/569442219_1280x960.jpeg" alt="PLONGEUR FANTASTIQUE"/>
+                    <div class="ms-info">
+                        <a href="/detail/PLONGEUR%20FANTASTIQUE/fdc%3A%3A8c3b8f25683839cac77dc114040081b5"><h3>PLONGEUR FANTASTIQUE</h3></a>
+                        
+                        <p><a
+                                    href="/detail/PLONGEUR%20FANTASTIQUE/fdc%3A%3A8c3b8f25683839cac77dc114040081b5" class="singleNewInEfgTitel">Details</span></a></p>
+                    </div>
+                </div><div class="ms-slide">
+                    <img src="/themes/efg/libraries/masterslider/style/blank.gif" data-src="https://i.vimeocdn.com/video/566451754_1280x960.jpeg" alt="ROI DES DOLLARS, LE"/>
+                    <div class="ms-info">
+                        <a href="/detail/ROI%20DES%20DOLLARS%2C%20LE/fdc%3A%3Adfe1bf35f501ecc9f700f3b4e7de7abd"><h3>ROI DES DOLLARS, LE</h3></a>
+                        
+                        <p><a
+                                    href="/detail/ROI%20DES%20DOLLARS%2C%20LE/fdc%3A%3Adfe1bf35f501ecc9f700f3b4e7de7abd" class="singleNewInEfgTitel">Details</span></a></p>
+                    </div>
+                </div><div class="ms-slide">
+                    <img src="/themes/efg/libraries/masterslider/style/blank.gif" data-src="https://i.vimeocdn.com/video/569442529_1280x960.jpeg" alt="AH! LA BARBE"/>
+                    <div class="ms-info">
+                        <a href="/detail/AH%21%20LA%20BARBE/fdc%3A%3Ae576ac4c4e823cae06f511e8196219c4"><h3>AH! LA BARBE</h3></a>
+                        
+                        <p><a
+                                    href="/detail/AH%21%20LA%20BARBE/fdc%3A%3Ae576ac4c4e823cae06f511e8196219c4" class="singleNewInEfgTitel">Details</span></a></p>
+                    </div>
+                </div>
+        </div>
+            <!-- end of masterslider -->
+        </div>
+        <!-- end of template -->
+
+
+
+
+
+        <div class="cf" id="metablock" style="border: 0px dashed #ff0000;">
+                             </div>
+
+    </div>
+
+      </div>
+</div>
+
+
+
+
+
+<div id="block-efg-content" data-block-plugin-id="system_main_block">
+  
+    
+
+  <div>
+          <div class="views-element-container"><div class="view view-frontpage view-id-frontpage view-display-id-page_1 js-view-dom-id-9a7ac3d96161af90f3fec9537b81bb0993a6bb5d7284a2d14fcde7511bdd7227">
+  
+    
+      
+      <div class="view-empty">
+      <p>Welcome to European Film Gateway. No front page content has been created yet.</p><p>Would you like to <a href="profiles/lightning/README.md">view the README</a>?</p>
+    </div>
+  
+              <div class="feed-icons">
+      <a href="http://www.europeanfilmgateway.eu/rss.xml" class="feed-icon">
+  Subscribe to 
+</a>
+
+    </div>
+  </div>
+</div>
+
+      </div>
+</div>
+
+
+
+
+
+<div id="block-efgpopularitemsblock" data-block-plugin-id="efg_popular_items_block">
+  
+    
+
+  <div>
+          <div>
+    
+        
+            <h2>Popular items</h2>
+
+        <!-- Popular items-->
+        <div class="efg-pi-wrapper">
+            <div class="efg-pi">
+                <!-- <div class="efg-pi-picture">&nbsp;</div>
+                <div class="efg-pi-headline">Platzhalter für popular Items</div>
+                <div class="efg-pi-infoline">&nbsp;</div> -->
+
+
+                <div id="pi-tab-container" class="pi-tab-container">
+
+                    <ul id="pi-first-tab" class='etabs'>
+                        <li class='tab'><a href="#week" class="internal">week</a></li>
+
+                        <li class='tab'><a href="#month" class="internal">month</a></li>
+
+                        <li class='tab'><a href="#alltime" class="internal">all time</a></li>
+
+                    </ul>
+                    <div class="clearfix">&nbsp;</div>
+                    <div class='panel-container'>
+                        <div id="week">
+                            <div id="pi-tab-container-week" class="pi-tab-container">
+                                <ul class='etabs'>
+                                    <li class='tab'><a href="#week-all">All</a></li>
+                                    <li class='tab'><a href="#week-videos">Videos</a></li>
+                                    <li class='tab'><a href="#week-images">Images</a></li>
+                                    <li class='tab'><a href="#week-texts">Texts</a></li>
+                                </ul>
+                                <div class='panel-container'>
+                                    <div id="week-all">
+                                        <!-- content -->
+                                        <ol type="1" class="pi-itemlist">
+                                                                                                    <li>
+                                                        <a href="/detail/Sonja/dif::f7c85750e448cdd6deb21286accd596d">Sonja</a><br>
+                                                        <span class="pi-row"><span
+                                                                    class="pi-itemtype">image</span> | 132 views</span>
+                                                    </li>
+
+                                                                                                    <li>
+                                                        <a href="/detail/Febbre/ccb::673cde55b49f9ccb7def2665fae7faa1">Febbre</a><br>
+                                                        <span class="pi-row"><span
+                                                                    class="pi-itemtype">text</span> | 94 views</span>
+                                                    </li>
+
+                                                                                                    <li>
+                                                        <a href="/detail/CONMEMORACIÓN DEL XIX ANIVERSARIO DE LA REVOLUCIÓN/fdc::8412c47e5fd0ff7f4e6a36511d8898be">CONMEMORACIÓN DEL XIX ANIVERSARIO DE LA REVOLUCIÓN</a><br>
+                                                        <span class="pi-row"><span
+                                                                    class="pi-itemtype">video</span> | 92 views</span>
+                                                    </li>
+
+                                                                                                    <li>
+                                                        <a href="/detail/REFUGEES IN CATALONIA/fdc::065ea42aafd4d21b807f843c836ff7bb">REFUGEES IN CATALONIA</a><br>
+                                                        <span class="pi-row"><span
+                                                                    class="pi-itemtype">video</span> | 90 views</span>
+                                                    </li>
+
+                                                                                                    <li>
+                                                        <a href="/detail/President Masaryk: k jubileu sedmdesátých narozenin/nfa::882405c0019c473716628d0c473aa368">President Masaryk: k jubileu sedmdesátých narozenin</a><br>
+                                                        <span class="pi-row"><span
+                                                                    class="pi-itemtype">text</span> | 77 views</span>
+                                                    </li>
+
+                                                                                        </ol>
+                                    </div>
+                                    <div id="week-videos">
+                                        <!-- content -->
+                                        <ol type="1" class="pi-itemlist">
+                                                                                            <li>
+                                                    <a href="/detail/CONMEMORACIÓN DEL XIX ANIVERSARIO DE LA REVOLUCIÓN/fdc::8412c47e5fd0ff7f4e6a36511d8898be">CONMEMORACIÓN DEL XIX ANIVERSARIO DE LA REVOLUCIÓN</a><br>
+                                                    <span class="pi-row"><span
+                                                                class="pi-itemtype">video</span> | 92 views</span>
+                                                </li>
+
+                                                                                            <li>
+                                                    <a href="/detail/REFUGEES IN CATALONIA/fdc::065ea42aafd4d21b807f843c836ff7bb">REFUGEES IN CATALONIA</a><br>
+                                                    <span class="pi-row"><span
+                                                                class="pi-itemtype">video</span> | 90 views</span>
+                                                </li>
+
+                                                                                            <li>
+                                                    <a href="/detail/INSAISISSABLE PICKPOCKET, L&#039;/fdc::84c4c29ace8a215fe314d68f7a1b2577">INSAISISSABLE PICKPOCKET, L&#039;</a><br>
+                                                    <span class="pi-row"><span
+                                                                class="pi-itemtype">video</span> | 75 views</span>
+                                                </li>
+
+                                                                                            <li>
+                                                    <a href="/detail/Die andere Seite/dk::953b82b68be8b12258eac9588f94b8f5">Die andere Seite</a><br>
+                                                    <span class="pi-row"><span
+                                                                class="pi-itemtype">video</span> | 68 views</span>
+                                                </li>
+
+                                                                                            <li>
+                                                    <a href="/detail/VANGUARD Ship No. 567/ssanls::8ee8a6d8d231a876af9135ee1a173c8c">VANGUARD Ship No. 567</a><br>
+                                                    <span class="pi-row"><span
+                                                                class="pi-itemtype">video</span> | 51 views</span>
+                                                </li>
+
+                                            
+                                        </ol>
+                                    </div>
+                                    <div id="week-images">
+                                        <!-- content -->
+                                        <ol type="1" class="pi-itemlist">
+                                                                                            <li>
+                                                    <a href="/detail/Sonja/dif::f7c85750e448cdd6deb21286accd596d">Sonja</a><br>
+                                                    <span class="pi-row"><span
+                                                                class="pi-itemtype">image</span> | 132 views</span>
+                                                </li>
+
+                                                                                            <li>
+                                                    <a href="/detail/Reprise/dif::95a961570c2671e16ea66b074d787c7a">Reprise</a><br>
+                                                    <span class="pi-row"><span
+                                                                class="pi-itemtype">image</span> | 62 views</span>
+                                                </li>
+
+                                                                                            <li>
+                                                    <a href="/detail/Reprise/dif::a491dd7b9ca03265b9eaf93ab98cce3a">Reprise</a><br>
+                                                    <span class="pi-row"><span
+                                                                class="pi-itemtype">image</span> | 58 views</span>
+                                                </li>
+
+                                                                                            <li>
+                                                    <a href="/detail/Reprise/dif::d84db0a9572e785e499165e9711195bb">Reprise</a><br>
+                                                    <span class="pi-row"><span
+                                                                class="pi-itemtype">image</span> | 58 views</span>
+                                                </li>
+
+                                                                                            <li>
+                                                    <a href="/detail/Reprise/dif::adc7aa65a0c29d3fbb57af74926a7231">Reprise</a><br>
+                                                    <span class="pi-row"><span
+                                                                class="pi-itemtype">image</span> | 58 views</span>
+                                                </li>
+
+                                            
+                                        </ol>
+                                    </div>
+                                    <div id="week-texts">
+                                        <!-- content -->
+                                        <ol type="1" class="pi-itemlist">
+                                                                                            <li>
+                                                    <a href="/detail/Febbre/ccb::673cde55b49f9ccb7def2665fae7faa1">Febbre</a><br>
+                                                    <span class="pi-row"><span
+                                                                class="pi-itemtype">text</span> | 94 views</span>
+                                                </li>
+
+                                                                                            <li>
+                                                    <a href="/detail/President Masaryk: k jubileu sedmdesátých narozenin/nfa::882405c0019c473716628d0c473aa368">President Masaryk: k jubileu sedmdesátých narozenin</a><br>
+                                                    <span class="pi-row"><span
+                                                                class="pi-itemtype">text</span> | 77 views</span>
+                                                </li>
+
+                                                                                            <li>
+                                                    <a href="/detail/Braccianti/ccb::a5a663ac45ad37666b4a635e2f6829e4">Braccianti</a><br>
+                                                    <span class="pi-row"><span
+                                                                class="pi-itemtype">text</span> | 70 views</span>
+                                                </li>
+
+                                                                                            <li>
+                                                    <a href="/detail/Aiuto/ccb::86bc9a072d0b3eaa7be75dfbcd6a8714">Aiuto</a><br>
+                                                    <span class="pi-row"><span
+                                                                class="pi-itemtype">text</span> | 59 views</span>
+                                                </li>
+
+                                                                                            <li>
+                                                    <a href="/detail/Armando/ccb::8d280eed94e3a453ee653c72383c0906">Armando</a><br>
+                                                    <span class="pi-row"><span
+                                                                class="pi-itemtype">text</span> | 52 views</span>
+                                                </li>
+
+                                            
+                                        </ol>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <!-- content -->
+                        </div>
+
+                        <div id="month">
+                            <!-- content -->
+                            <div id="pi-tab-container-month" class="pi-tab-container">
+                                <ul class='etabs'>
+                                    <li class='tab'><a href="#month-all">All</a></li>
+                                    <li class='tab'><a href="#month-videos">Videos</a></li>
+                                    <li class='tab'><a href="#month-images">Images</a></li>
+                                    <li class='tab'><a href="#month-texts">Texts</a></li>
+                                </ul>
+                                <br/>
+                                <div class='panel-container'>
+                                    <div id="month-all">
+                                        <!-- content -->
+                                        <ol type="1" class="pi-itemlist">
+                                                                                    <li>
+                                                <a href="/detail/REFUGEES IN CATALONIA/fdc::065ea42aafd4d21b807f843c836ff7bb">REFUGEES IN CATALONIA</a><br>
+                                                <span class="pi-row"><span
+                                                            class="pi-itemtype">video</span> | 2002 views</span>
+                                            </li>
+
+                                                                                    <li>
+                                                <a href="/detail/CONMEMORACIÓN DEL XIX ANIVERSARIO DE LA REVOLUCIÓN/fdc::8412c47e5fd0ff7f4e6a36511d8898be">CONMEMORACIÓN DEL XIX ANIVERSARIO DE LA REVOLUCIÓN</a><br>
+                                                <span class="pi-row"><span
+                                                            class="pi-itemtype">video</span> | 1992 views</span>
+                                            </li>
+
+                                                                                    <li>
+                                                <a href="/detail/INSAISISSABLE PICKPOCKET, L&#039;/fdc::84c4c29ace8a215fe314d68f7a1b2577">INSAISISSABLE PICKPOCKET, L&#039;</a><br>
+                                                <span class="pi-row"><span
+                                                            class="pi-itemtype">video</span> | 1482 views</span>
+                                            </li>
+
+                                                                                    <li>
+                                                <a href="/detail/BLEASDALE/ssanls::bffce76a1b377a3238c4d32cb71f17eb">BLEASDALE</a><br>
+                                                <span class="pi-row"><span
+                                                            class="pi-itemtype">video</span> | 1194 views</span>
+                                            </li>
+
+                                                                                    <li>
+                                                <a href="/detail/Ballotta/il::4a5d42782bbc98863a462e977203f3d0">Ballotta</a><br>
+                                                <span class="pi-row"><span
+                                                            class="pi-itemtype">image</span> | 1180 views</span>
+                                            </li>
+
+                                                                                </ol>
+                                    </div>
+                                    <div id="month-videos">
+                                        <!-- content -->
+                                        <ol type="1" class="pi-itemlist">
+                                                                                    <li>
+                                                <a href="/detail/REFUGEES IN CATALONIA/fdc::065ea42aafd4d21b807f843c836ff7bb">REFUGEES IN CATALONIA</a><br>
+                                                <span class="pi-row"><span
+                                                            class="pi-itemtype">video</span> | 2002 views</span>
+                                            </li>
+
+                                                                                    <li>
+                                                <a href="/detail/CONMEMORACIÓN DEL XIX ANIVERSARIO DE LA REVOLUCIÓN/fdc::8412c47e5fd0ff7f4e6a36511d8898be">CONMEMORACIÓN DEL XIX ANIVERSARIO DE LA REVOLUCIÓN</a><br>
+                                                <span class="pi-row"><span
+                                                            class="pi-itemtype">video</span> | 1992 views</span>
+                                            </li>
+
+                                                                                    <li>
+                                                <a href="/detail/INSAISISSABLE PICKPOCKET, L&#039;/fdc::84c4c29ace8a215fe314d68f7a1b2577">INSAISISSABLE PICKPOCKET, L&#039;</a><br>
+                                                <span class="pi-row"><span
+                                                            class="pi-itemtype">video</span> | 1482 views</span>
+                                            </li>
+
+                                                                                    <li>
+                                                <a href="/detail/BLEASDALE/ssanls::bffce76a1b377a3238c4d32cb71f17eb">BLEASDALE</a><br>
+                                                <span class="pi-row"><span
+                                                            class="pi-itemtype">video</span> | 1194 views</span>
+                                            </li>
+
+                                                                                    <li>
+                                                <a href="/detail/SNP CONFERENCE REPORT/ssanls::4caca776321e2e664ee5d38a40d404f2">SNP CONFERENCE REPORT</a><br>
+                                                <span class="pi-row"><span
+                                                            class="pi-itemtype">video</span> | 1084 views</span>
+                                            </li>
+
+                                                                                </ol>
+                                    </div>
+                                    <div id="month-images">
+                                        <!-- content -->
+                                        <ol type="1" class="pi-itemlist">
+                                                                                    <li>
+                                                <a href="/detail/Ballotta/il::4a5d42782bbc98863a462e977203f3d0">Ballotta</a><br>
+                                                <span class="pi-row"><span
+                                                            class="pi-itemtype">image</span> | 1180 views</span>
+                                            </li>
+
+                                                                                    <li>
+                                                <a href="/detail/Bonomi/il::ce002776006b95f70d247fffd3908d63">Bonomi</a><br>
+                                                <span class="pi-row"><span
+                                                            class="pi-itemtype">image</span> | 1151 views</span>
+                                            </li>
+
+                                                                                    <li>
+                                                <a href="/detail/Sculture/il::6d9f78470a6f69d624bafe3ce5fff6f5">Sculture</a><br>
+                                                <span class="pi-row"><span
+                                                            class="pi-itemtype">image</span> | 1076 views</span>
+                                            </li>
+
+                                                                                    <li>
+                                                <a href="/detail/Brunet wieczorową porą/fn::07c0c4d1948ffb116a0fe5a8e9c24c15">Brunet wieczorową porą</a><br>
+                                                <span class="pi-row"><span
+                                                            class="pi-itemtype">image</span> | 1005 views</span>
+                                            </li>
+
+                                                                                    <li>
+                                                <a href="/detail/Homunculus/dk::16a6d7c9a6f26ce9ed957c36404a886b">Homunculus</a><br>
+                                                <span class="pi-row"><span
+                                                            class="pi-itemtype">image</span> | 952 views</span>
+                                            </li>
+
+                                                                                </ol>
+                                    </div>
+                                    <div id="month-texts">
+                                        <!-- content -->
+                                        <ol type="1" class="pi-itemlist">
+                                                                                    <li>
+                                                <a href="/detail/Rossi/ccb::f5729f8e9758ee854a3d7b1325a63262">Rossi</a><br>
+                                                <span class="pi-row"><span
+                                                            class="pi-itemtype">text</span> | 1176 views</span>
+                                            </li>
+
+                                                                                    <li>
+                                                <a href="/detail/Valsassina/ccb::544fe1e8df239eb8d2c938e8b72cbabc">Valsassina</a><br>
+                                                <span class="pi-row"><span
+                                                            class="pi-itemtype">text</span> | 1158 views</span>
+                                            </li>
+
+                                                                                    <li>
+                                                <a href="/detail/Armando/ccb::8d280eed94e3a453ee653c72383c0906">Armando</a><br>
+                                                <span class="pi-row"><span
+                                                            class="pi-itemtype">text</span> | 1140 views</span>
+                                            </li>
+
+                                                                                    <li>
+                                                <a href="/detail/Amerikana./dif::cbb2187bd1ae3d71362db2101470d575">Amerikana.</a><br>
+                                                <span class="pi-row"><span
+                                                            class="pi-itemtype">text</span> | 1064 views</span>
+                                            </li>
+
+                                                                                    <li>
+                                                <a href="/detail/Filmen Nr. 11 - 5. AARGANG 1917 (125-132)/dfi::e24d28f873ec2b550fcf4c950f7cd5f5">Filmen Nr. 11 - 5. AARGANG 1917 (125-132)</a><br>
+                                                <span class="pi-row"><span
+                                                            class="pi-itemtype">text</span> | 844 views</span>
+                                            </li>
+
+                                                                                </ol>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div id="alltime">
+                            <!-- content -->
+                            <div id="pi-tab-container-alltime" class="pi-tab-container">
+                                <ul class='etabs'>
+                                    <li class='tab'><a href="#alltime-all">All</a></li>
+                                    <li class='tab'><a href="#alltime-videos">Videos</a></li>
+                                    <li class='tab'><a href="#alltime-images">Images</a></li>
+                                    <li class='tab'><a href="#alltime-texts">Texts</a></li>
+                                </ul>
+                                <br/>
+                                <div class='panel-container'>
+                                    <div id="alltime-all">
+                                        <!-- content -->
+                                        <ol type="1" class="pi-itemlist">
+                                                                                    <li>
+                                                <a href="/detail/BLEASDALE/ssanls::bffce76a1b377a3238c4d32cb71f17eb">BLEASDALE</a><br>
+                                                <span class="pi-row"><span
+                                                            class="pi-itemtype">video</span> | 15081 views</span>
+                                            </li>
+
+                                                                                    <li>
+                                                <a href="/detail/MR. SCOTLAND: George Younger/ssanls::27c9cd24a33487c600181c82cf59cfe5">MR. SCOTLAND: George Younger</a><br>
+                                                <span class="pi-row"><span
+                                                            class="pi-itemtype">video</span> | 13825 views</span>
+                                            </li>
+
+                                                                                    <li>
+                                                <a href="/detail/SNP CONFERENCE REPORT/ssanls::4caca776321e2e664ee5d38a40d404f2">SNP CONFERENCE REPORT</a><br>
+                                                <span class="pi-row"><span
+                                                            class="pi-itemtype">video</span> | 13677 views</span>
+                                            </li>
+
+                                                                                    <li>
+                                                <a href="/detail/President Masaryk: k jubileu sedmdesátých narozenin/nfa::882405c0019c473716628d0c473aa368">President Masaryk: k jubileu sedmdesátých narozenin</a><br>
+                                                <span class="pi-row"><span
+                                                            class="pi-itemtype">text</span> | 13654 views</span>
+                                            </li>
+
+                                                                                    <li>
+                                                <a href="/detail/VANGUARD Ship No. 567/ssanls::8ee8a6d8d231a876af9135ee1a173c8c">VANGUARD Ship No. 567</a><br>
+                                                <span class="pi-row"><span
+                                                            class="pi-itemtype">video</span> | 13160 views</span>
+                                            </li>
+
+                                                                                </ol>
+                                    </div>
+                                    <div id="alltime-videos">
+                                        <!-- content -->
+                                        <ol type="1" class="pi-itemlist">
+                                                                                    <li>
+                                                <a href="/detail/BLEASDALE/ssanls::bffce76a1b377a3238c4d32cb71f17eb">BLEASDALE</a><br>
+                                                <span class="pi-row"><span
+                                                            class="pi-itemtype">video</span> | 15081 views</span>
+                                            </li>
+
+                                                                                    <li>
+                                                <a href="/detail/MR. SCOTLAND: George Younger/ssanls::27c9cd24a33487c600181c82cf59cfe5">MR. SCOTLAND: George Younger</a><br>
+                                                <span class="pi-row"><span
+                                                            class="pi-itemtype">video</span> | 13825 views</span>
+                                            </li>
+
+                                                                                    <li>
+                                                <a href="/detail/SNP CONFERENCE REPORT/ssanls::4caca776321e2e664ee5d38a40d404f2">SNP CONFERENCE REPORT</a><br>
+                                                <span class="pi-row"><span
+                                                            class="pi-itemtype">video</span> | 13677 views</span>
+                                            </li>
+
+                                                                                    <li>
+                                                <a href="/detail/VANGUARD Ship No. 567/ssanls::8ee8a6d8d231a876af9135ee1a173c8c">VANGUARD Ship No. 567</a><br>
+                                                <span class="pi-row"><span
+                                                            class="pi-itemtype">video</span> | 13160 views</span>
+                                            </li>
+
+                                                                                    <li>
+                                                <a href="/detail/CONMEMORACIÓN DEL XIX ANIVERSARIO DE LA REVOLUCIÓN/fdc::8412c47e5fd0ff7f4e6a36511d8898be">CONMEMORACIÓN DEL XIX ANIVERSARIO DE LA REVOLUCIÓN</a><br>
+                                                <span class="pi-row"><span
+                                                            class="pi-itemtype">video</span> | 12286 views</span>
+                                            </li>
+
+                                                                                </ol>
+                                    </div>
+                                    <div id="alltime-images">
+                                        <!-- content -->
+                                        <ol type="1" class="pi-itemlist">
+                                                                                    <li>
+                                                <a href="/detail/Ballotta/il::4a5d42782bbc98863a462e977203f3d0">Ballotta</a><br>
+                                                <span class="pi-row"><span
+                                                            class="pi-itemtype">image</span> | 13045 views</span>
+                                            </li>
+
+                                                                                    <li>
+                                                <a href="/detail/Vene 23. korpuse lennusalga piloodi Marš-Maršadi alla kukkunud lennuki “Voisin” detail./efa::2535f118efb4e6d9e36b7013bd776fff">Vene 23. korpuse lennusalga piloodi Marš-Maršadi alla kukkunud lennuki “Voisin” detail.</a><br>
+                                                <span class="pi-row"><span
+                                                            class="pi-itemtype">image</span> | 11354 views</span>
+                                            </li>
+
+                                                                                    <li>
+                                                <a href="/detail/Homunculus/dk::16a6d7c9a6f26ce9ed957c36404a886b">Homunculus</a><br>
+                                                <span class="pi-row"><span
+                                                            class="pi-itemtype">image</span> | 6614 views</span>
+                                            </li>
+
+                                                                                    <li>
+                                                <a href="/detail/Der Geiger von Meißen/dif::2266e2780aa804c26b1c64719282ed33">Der Geiger von Meißen</a><br>
+                                                <span class="pi-row"><span
+                                                            class="pi-itemtype">image</span> | 3775 views</span>
+                                            </li>
+
+                                                                                    <li>
+                                                <a href="/detail/Guerre 1914-15-16. Le Président de la République, le Prince de Serbie et le Général en Chef sur le Front de Verdun/dif::67a6b6b07d93f13f275f855daeca3597">Guerre 1914-15-16. Le Président de la République, le Prince de Serbie et le Général en Chef sur le Front de Verdun</a><br>
+                                                <span class="pi-row"><span
+                                                            class="pi-itemtype">image</span> | 3646 views</span>
+                                            </li>
+
+                                                                                </ol>
+                                    </div>
+                                    <div id="alltime-texts">
+                                        <!-- content -->
+                                        <ol type="1" class="pi-itemlist">
+                                                                                    <li>
+                                                <a href="/detail/President Masaryk: k jubileu sedmdesátých narozenin/nfa::882405c0019c473716628d0c473aa368">President Masaryk: k jubileu sedmdesátých narozenin</a><br>
+                                                <span class="pi-row"><span
+                                                            class="pi-itemtype">text</span> | 13654 views</span>
+                                            </li>
+
+                                                                                    <li>
+                                                <a href="/detail/Filmen Nr. 11 - 5. AARGANG 1917 (125-132)/dfi::e24d28f873ec2b550fcf4c950f7cd5f5">Filmen Nr. 11 - 5. AARGANG 1917 (125-132)</a><br>
+                                                <span class="pi-row"><span
+                                                            class="pi-itemtype">text</span> | 4867 views</span>
+                                            </li>
+
+                                                                                    <li>
+                                                <a href="/detail/Amerikana./dif::cbb2187bd1ae3d71362db2101470d575">Amerikana.</a><br>
+                                                <span class="pi-row"><span
+                                                            class="pi-itemtype">text</span> | 3940 views</span>
+                                            </li>
+
+                                                                                    <li>
+                                                <a href="/detail/Filmprogramm./dif::291747db8d6b86869be768dbd8344f88">Filmprogramm.</a><br>
+                                                <span class="pi-row"><span
+                                                            class="pi-itemtype">text</span> | 3077 views</span>
+                                            </li>
+
+                                                                                    <li>
+                                                <a href="/detail/Werbematerial./dif::59ccfa56dcb263e8be1ff91183e417b3">Werbematerial.</a><br>
+                                                <span class="pi-row"><span
+                                                            class="pi-itemtype">text</span> | 2935 views</span>
+                                            </li>
+
+                                                                                </ol>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+
+                    </div>
+                </div>
+                <div class="clearfix">&nbsp;</div>
+            </div>
+        </div>
+
+
+
+    </div>
+
+      </div>
+</div>
+
+
+
+
+
+<div id="block-firstworldwaren" data-block-plugin-id="block_content:65a839c4-9d61-4efa-a7ee-db9348e8b02d">
+  
+    
+
+  <div>
+          
+            <div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"><div class="fww-wrapper">
+<div class="fww-content">
+<div class="fww-headline-1">Films from and about the</div>
+<div class="fww-headline-2">First World War</div>
+<div class="fww-item"><a href="/node/33/efg1914/multilingual:1/showOnly:video">» Watch films</a></div>
+<div class="fww-item"><a href="../content/wwi-topics">» Topics</a></div>
+<div class="fww-item"><a href="../content/virtual-exhibition">» Virtual exhibition</a></div>
+<div class="fww-item"><a href="./content/efg1914-project">» Find out more</a></div>
+</div>
+</div>
+</div>
+      
+      </div>
+</div>
+
+
+
+
+
+<div id="block-videoofthedayblock" data-block-plugin-id="efg_votd_block">
+  
+    
+
+  <div>
+          <div>
+    
+        
+                        <h2>Video of the day</h2>
+                <!--<div class="efgvotd-content-wrapper">
+            <a href="/detail/the%20WOMEN%27S%20LAND%20ARMY%20%5BMain%5D/iwm%3A%3A2a15c83225c9dd5a938a29c2f2a5ebf2"><img src="http://media.iwm.org.uk/iwm/mediaLib//placeholder_mid.png" alt="the WOMEN&#039;S LAND ARMY [Main]" title="the WOMEN&#039;S LAND ARMY [Main]" /></a>
+            <h3>the WOMEN&#039;S LAND ARMY [Main]</h3>
+            <div class="efgvotd-row efgvotd-row-1"> 1917</div>
+            <div class="efgvotd-row efgvotd-row-2">ProviderImperial War Museums </div>
+        </div>-->
+        <div class="efg-votd-wrapper">
+            <div class="efg-votd">
+                <div class="efg-votd-picture"><a href="/detail/the%20WOMEN%27S%20LAND%20ARMY%20%5BMain%5D/iwm%3A%3A2a15c83225c9dd5a938a29c2f2a5ebf2"><img
+                            src="http://media.iwm.org.uk/iwm/mediaLib//placeholder_mid.png"/></a>
+                </div>
+                <div class="efg-votd-headline">the WOMEN&#039;S LAND ARMY [Main]</div>
+                <div class="efg-votd-infoline">
+
+                                                                <div class="efg-votd-infoline-country"></div>                                            <div class="efg-votd-infoline-productionYear">1917</div>                                            <div class="efg-votd-infoline-provider">Imperial War Museums</div>                </div>
+
+                <div class="clearfix"></div>
+
+                <div class="efg-votd-details">
+
+                                        <div class="rss-icon"><a href="/rss/video-of-the-day/the%20WOMEN%27S%20LAND%20ARMY%20%5BMain%5D/iwm%3A%3A2a15c83225c9dd5a938a29c2f2a5ebf2" target="_blank"><img
+                                    src="/themes/efg/images/rss_icon.png" style="float: left;margin-left: 10px;"></a>
+                    </div>
+                    <a href="/detail/the%20WOMEN%27S%20LAND%20ARMY%20%5BMain%5D/iwm%3A%3A2a15c83225c9dd5a938a29c2f2a5ebf2" class="internal">Details</a>
+                </div>
+
+
+            </div>
+        </div>
+    </div>
+
+      </div>
+</div>
+
+
+
+
+
+<div id="block-efginfiguresblock" data-block-plugin-id="efg_in_figures_block">
+  
+    
+
+  <div>
+          <div>
+    
+        
+            <h2>EFG in figures</h2>
+        
+<div class="content">
+<ul class="figures">
+	<li>Videos: <span class="count">53.473</span></li>
+	<li>Images: <span class="count">604.338</span></li>
+	<li>Texts: <span class="count">54.072</span></li>
+	<li class="all">All<span class="count">711.883</span></li>
+</ul>
+</div> 
+ 
+    </div>
+
+      </div>
+</div>
+
+
+
+
+
+
+  </div>
+
+          
+    
+                    <div class="region--sidebar-first region region-sidebar-first">
+    <div id="block-customblockaboutefgportal" data-block-plugin-id="block_content:ca2f12a1-0802-40fb-841e-9dcf80baf078">
+  
+    
+
+  <div>
+          
+            <div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"><h2><a href="/content/about-european-film-gateway">About the European Film Gateway</a></h2>
+<p>The EFG Portal gives you quick access to hundreds of thousands of film historical documents as preserved in European film archives and cinémathèques: photos, posters, programmes, periodicals, censorship documents, rare feature and documentary films, newsreels and other materials. Targeted at scientific researchers and the interested public alike, the EFG offers a look at and behind the scenes of filmmaking in Europe from the early days until today.</p>
+<p><a class="internal" href="/content/about-european-film-gateway">Find out more</a></p>
+</div>
+      
+      </div>
+</div>
+
+
+
+
+
+<div class="views-element-container" id="block-views-block-news-block-1" data-block-plugin-id="views_block:news-block_1">
+  
+      <h2>News</h2>
+    
+
+  <div>
+          <div><div class="view view-news view-id-news view-display-id-block_1 js-view-dom-id-7ba886f456ff940a17bec764e02796581cc2dfdb84286365d9abecb5a53bdd9b">
+  
+    
+      
+      <div class="view-content">
+          <div class="views-row">
+    <div class="views-field views-field-created"><span class="field-content">3 April 2018</span></div><div class="views-field views-field-title"><span class="field-content"><a href="/node/1819" hreflang="en">EYE International Conference 2018 online - Programme announced</a></span></div><div class="views-field views-field-upload"><div class="field-content"></div></div><div class="views-field views-field-body"><div class="field-content"><p><img alt="EYE conference logo" data-entity-type="file" data-entity-uuid="534c4b43-4446-40b2-8752-a5627d6c149b" height="64" src="/sites/default/files/inline-images/logo_EYE_IC_news.jpg" width="140" /> "Activating the Archive. Audio-Visual Collections and Civic Engagement, Political Dissent and Societal Change." is the topic of this year's edition of the <a href="https://www.eyefilm.nl/themas/eye-international-conference-2018">EYE International Conference</a>, which will take place at EYE in Amsterdam from Saturday 26 May to Tuesday 29 May 2018.</p></div></div><div class="views-field views-field-view-node"><span class="field-content"><a href="/node/1819" hreflang="en">More ...</a></span></div>
+  </div>
+    <div class="views-row">
+    <div class="views-field views-field-created"><span class="field-content">3 April 2018</span></div><div class="views-field views-field-title"><span class="field-content"><a href="/node/1818" hreflang="en">Besides the Screen Conference 2018 - CFP deadline extended</a></span></div><div class="views-field views-field-upload"><div class="field-content"></div></div><div class="views-field views-field-body"><div class="field-content"><p>The deadline for the submission of abstracts for "Besides the Screen Conference 2018 - Vaults, Archives, Clouds and Platforms: Archiving and Preservation in the 21st Century" was extended to 12nd April 2018. The conference is taking place in two stages at King’s College in London, UK on 2nd and 3rd July 2018 and then at CIAC-ISMAI in Porto, Portugal, on 5th and 6th July 2018). Find more information on the event as well as on the requirements for the submissions of papers at <a href="http://besidesthescreen.com">besidesthescreen.com</a></p>
+</div></div><div class="views-field views-field-view-node"><span class="field-content"><a href="/node/1818" hreflang="en">More ...</a></span></div>
+  </div>
+
+    </div>
+  
+          </div>
+</div>
+
+      </div>
+</div>
+
+
+
+
+
+
+  </div>
+
+            
+            
+      </div><!-- /#main -->
+    </section><!-- /#main-outer-wrapper -->
+  
+        
+        <footer id="footer-outer-wrapper" class="outer-wrapper clearfix">
+      <div id="footer-layout" role="contentinfo" class="footer-layout with--footer inner-wrapper clearfix">
+          <div class="region--footer region region-footer">
+    <nav role="navigation" aria-labelledby="block-menu-4-menu" id="block-menu-4" data-block-plugin-id="system_menu_block:secondary-links" class="block block-menu navigation menu--secondary-links">
+            
+  <h2 class="visually-hidden" id="block-menu-4-menu">Secondary links english</h2>
+  
+
+        
+              <ul class="menu">
+                    <li class="menu-item">
+        <a href="/privacy_policy" data-drupal-link-system-path="node/89">Privacy Policy</a>
+              </li>
+                <li class="menu-item">
+        <a href="/terms_conditions" title="" data-drupal-link-system-path="node/76">Terms of Use</a>
+              </li>
+                <li class="menu-item">
+        <a href="/node/212" title="" data-drupal-link-system-path="node/212">Imprint</a>
+              </li>
+        </ul>
+  
+
+
+  </nav>
+<div id="block-footerhardcoded" data-block-plugin-id="block_content:db9e4847-25cd-47d5-9633-e049f59d3be6">
+  
+    
+
+  <div>
+          
+            <div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"><div id="eu"><img alt="European Union flag" data-entity-type="" data-entity-uuid="" height="24px" src="/themes/efg/images/eu-logo.png" width="36px" /><span>Co-funded by the European Union</span></div>
+<div id="europeana"><span>Connected to</span> <a href="http://www.europeana.eu" target="_blank" title="Links to the europeana website"> <img alt="Europeana logo" data-entity-type="" data-entity-uuid="" height="75" src="/themes/efg/images/logo-europeana.png" width="141" /></a></div>
+<div id="facebook"><span>Follow us on </span><br /><a href="http://www.facebook.com/EuropeanFilmGateway" target="_blank"><img alt="Follow us on facebook" data-entity-type="" data-entity-uuid="" height="35" src="/themes/efg/images/facebook.png" title="Follow us on facebook" width="35" /></a></div>
+</div>
+      
+      </div>
+</div>
+
+
+
+
+
+
+  </div>
+
+      </div> <!-- /#footer -->
+    </footer> <!-- /#footer-outer-wrapper -->
+    </div></div> <!-- /#page, /#page-wrapper -->
+
+    <div class="off-canvas-wrapper"><div id="off-canvas"></div></div>
+    <script type="application/json" data-drupal-selector="drupal-settings-json">{"path":{"baseUrl":"\/","scriptPath":null,"pathPrefix":"","currentPath":"node","currentPathIsAdmin":false,"isFront":true,"currentLanguage":"en"},"pluralDelimiter":"\u0003","responsive_menu":{"position":"left","theme":"theme-dark","breakpoint":"(min-width: 960px)","superfish":{"active":false,"delay":300,"speed":100,"speedOut":100},"mediaQuery":"(min-width: 960px)"},"google_analytics":{"trackOutbound":true,"trackMailto":true,"trackDownload":true,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc(x|m)?|dot(x|m)?|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt(x|m)?|pot(x|m)?|pps(x|m)?|ppam|sld(x|m)?|thmx|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls(x|m|b)?|xlt(x|m)|xlam|xml|z|zip"},"ajaxTrustedUrl":{"form_action_p_pvdeGsVG5zNF_XLGPTvYSKCf43t8qZYSwcfZl2uzM":true},"ajax":[],"user":{"uid":0,"permissionsHash":"c6173e2450d40dc1d086d0d785fec2bbba87f73b3c6c45993d8b6a19a56a63ee"}}</script>
+<script src="/sites/default/files/js/js_Z0wyDEUWGJQc_1by4gyiboirB9IJU8pS7roY9DjYIec.js"></script>
+<script src="https://static.addtoany.com/menu/page.js" async></script>
+<script src="/sites/default/files/js/js_wp_Ct1uQtjCgAPRCoebGruxysmKFBnB2IY7sAFC7bzA.js"></script>
+<script src="/core/assets/vendor/ckeditor/ckeditor.js?v=4.6.2"></script>
+<script src="/sites/default/files/js/js_Vg-5v15uj2fZLh3HO1_Y9W1TF3GX01mfPkAXjELfEjI.js"></script>
+
+  </body>
+</html>
+
+

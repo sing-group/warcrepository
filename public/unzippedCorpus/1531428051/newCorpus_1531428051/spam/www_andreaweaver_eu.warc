@@ -1,0 +1,146 @@
+WARC/1.0
+WARC-Type: warcinfo
+WARC-Date: 2018-05-30T17:52:31Z
+WARC-Record-ID: <urn:uuid:166e3d87-a599-4807-ab8e-1f11c143aaad>
+WARC-All-Language: en
+WARC-All-Content_type: text/html
+Content-Type: application/http;msgtype=response
+Content-Length: 46
+
+WARCProcessor by SING Group www.sing-group.com
+
+WARC/1.0
+WARC-Type: response
+WARC-Record-ID: <http://www.andreaweaver.eu>
+WARC-Date: 20180530175231
+WARC-Target-URI: http://www.andreaweaver.eu
+WARC-Language: en
+Content-Type: application/http;msgtype=response
+Content-Length: 7646
+
+HTTP/1.1 200
+Content-Type:text/html
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+	"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+	<META NAME="keywords" CONTENT="weaver, enzir publishing, ezoteric, spiritual, indigo child, indigo children, writer, author, authoress, my angel, parlour game, eleventh commandment, 11 commandment, xi commandment"
+	<META NAME="ROBOTS" CONTENT="INDEX, FOLLOW">
+	<META NAME="REVISIT-AFTER" CONTENT="1 DAYS">
+	<script type="text/javascript" src="mootools-1.11.js"></script>
+	<script type="text/javascript" src="imageMenu.js"></script>
+	<script type="text/javascript">
+		function loading(request) {
+			$('loadingImg').style.display = 'block';
+		};
+
+		function showResponse(request){
+			window.addEvent('domready', function() { 
+				var accordion = new Accordion('a.tab', 'div.tab', {
+					onActive: function(toggler) {
+						toggler.setStyles({
+							background: '#890202',
+							color: '#fff'
+						});
+					},
+					onBackground: function(toggler) {
+						toggler.setStyles({
+							background: '#ddd',
+							color: '#222'
+						});
+					}
+				});
+				$('loadingImg').style.display = 'none';
+			});
+		};
+	</script>
+
+	<style type="text/css">
+		#tab-accordion .tab-element{clear: both; background: #eee; padding: 5px;}
+		.tab-toggler{width: 92px; float: left; background: #eee; text-decoration: none; text-align: center; padding: 3px; display: block; color: #222; font-weight: normal;}
+		a.tab{text-decoration: none; color: #000; border: solid #fff; border-width: 0 2px 2px 0;}
+		#container2 {width: 600px; margin: auto;}
+		#containerLoading {position: relative; width: 500px; height: 20px;}
+	</style>
+
+	<link href="main.css"  rel="stylesheet" type="text/css" media="all">
+	<link href="imageMenu.css" rel="stylesheet" type="text/css" />
+<title>Andrea Weaver Hungarian Author's Official Homepage</title></head>
+
+<body>
+	<div id="container">
+		<div id="aw_language"><img src="images/flag_english.jpg" width="20" height="10" hspace="5" vspace="0">english |<a href="http://www.andreaweaver.hu/"><img src="images/flag_hungarian.jpg" width="20" height="10" hspace="5" vspace="0">magyar</a></div>
+		<div id="aw_logo"></div>
+	  <div id=imageMenu>
+			<ul>
+				<li class="about" onclick="new Ajax('about.html',{update: $('log'), onRequest: loading, onComplete: showResponse}).request();"><span>About the Author</span></li>
+				<li class="inner_castle" onclick="new Ajax('inner_castle1.html',{update: $('log'), onRequest: loading, onComplete: showResponse}).request();"><span>Inner Castle</span></li>
+				<li class="my_angel" onclick="new Ajax('my_angel1.html',{update: $('log'), onRequest: loading, onComplete: showResponse}).request();"><span>My Angel?!</span></li>
+				<li class="parlour_game" onclick="new Ajax('parlour_game1.html',{update: $('log'), onRequest: loading, onComplete: showResponse}).request();"><span>Parlour Game</span></li>
+				<li class="xi_commandment" onclick="new Ajax('11_commandment1.html',{update: $('log'), onRequest: loading, onComplete: showResponse}).request();"><span>The Eleventh Commandment</span></li>
+				<li class="contact" onclick="new Ajax('contact.html',{update: $('log'), onRequest: loading, onComplete: showResponse}).request();"><span>Contact</span></li>
+			</ul>
+	  </div>
+
+		<script type="text/javascript">
+			window.addEvent('domready', function(){
+				var myMenu = new ImageMenu($$('#imageMenu span'),{openWidth:310, border:2});
+			});
+		</script>
+
+		<div id="containerLoading"><div style="display:none" id="loadingImg">Loading...</div></div>
+
+</div>
+
+	<div id="container2">
+		<div id="log">
+	<div id="tab-accordion">
+			<a class="tab tab-toggler" href="javascript:void(0);">About</a>
+			<a class="tab tab-toggler" href="javascript:void(0);">Comments</a>
+	  <div class="tab tab-element">
+		<h2>About the Author</h2>
+			<p align="justify"><img src="images/about-weaver3.jpg" width="250" height="243" hspace="20" vspace="20" align="right" alt="Andrea Weaver" />Ms. Andrea Tak&aacute;cs is a Hungarian writer. She was born in Hungary in 1969.</p>
+	    <p align="justify">In 2004 she graduated from the Mantra College of Natural Siences in the Faculty of Parapsychology of Budapest.<br />
+        In 2009 she took a degree from Liberal Arts at the faculty of Modern Philology and Social Studies at Pannon University of Veszprém.<br />
+        In 2012 she earned her Master's from Human and Social Studies as a teacher and a teacher of Pedagogy.</p>
+	    <p align="justify">She has published 8 novels so far under the pen-name 'Andrea Weaver'.<br />
+        Her books are: The Eleventh Commandment (1995), Parlour Game (2002), My Angel?! (2005), Inner Castle (2010), The Chronicle of the Future (2012), The Tropical Rabbit's Perfect Blood Donation and Astonishing Transfiguration (2013/parody) Calumnia (2014), The Light - bringer (2016)<br />
+        The subjects of her books, which are finding our inner strength, the world shaping events and the causes and effects, are approached from psychological, philosophical, anthropological and spiritual angles.<br />
+        Andrea Weaver was recognised and respected by the famous Hungarian writer Mária Szepes.</p>
+	    <p>&nbsp;</p>
+      </div>
+
+	  <div class="tab tab-element">
+		<h2>Readers' Comments</h2>
+			<p align="justify">'Dear Andrea, <br>
+			It was happened accidently that the "My Angel?!" book felt into my hands and I read it several times and it trilled me. I believe that if the "My Angel?!" goes through to the half of the people there lives would be nicer.'</p>
+			<p align="justify"><em>'I am writing behalf of my friend. He read the "The Eleventh Commandment" and he liked so much the way how you write and your style and he appreciated your humor. He said that he could not put the book down and he read it to two days.'</em></p>
+			<p align="justify">'I would like to thank you this amazing book, "My Angel?!". After I got it I put it on the shelf and I haven't read it for half a year but when I started to read it I finished within few days. I believe that was the perfect time to me when I was ready to learn most from it. Thank you one more time! Today I ended the book but I am going to start read it again recently. I wish you could write a lot of similar book in the future.'</p>
+			<p align="justify"><em>'Firstly, I would like to thank that you are existing, secondly I would like to thank you the book, "My Angel?!". I learned a lot from it, I had known lot of things before I read it but only now I could put the pictures together totally in my-self. Thank you one more time.'</em></p>
+			<p align="justify">'I didn't have to read your book for long to feel that special feeling that I constantly felt during I read the book, I felt I arrived home. I could not express my feeling clearly but you now the best, there are feelings whereat there are not words...'</p>
+			<p>&nbsp;</p>
+	  </div>
+		<script type="text/javascript">
+			window.addEvent('domready', showResponse);
+		</script>
+
+		</div>
+	</div>
+</div>
+
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+var pageTracker = _gat._getTracker("UA-2781810-2");
+pageTracker._trackPageview();
+</script>
+
+</body>
+</html>
+

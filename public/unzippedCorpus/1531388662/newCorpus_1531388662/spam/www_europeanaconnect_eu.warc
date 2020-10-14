@@ -1,0 +1,126 @@
+WARC/1.0
+WARC-Type: warcinfo
+WARC-Date: 2018-05-30T17:52:31Z
+WARC-Record-ID: <urn:uuid:5f7c0378-6233-4db1-9446-2972304da443>
+WARC-All-Language: en
+WARC-All-Content_type: text/html
+Content-Type: application/http;msgtype=response
+Content-Length: 46
+
+WARCProcessor by SING Group www.sing-group.com
+
+WARC/1.0
+WARC-Type: response
+WARC-Record-ID: <http://www.europeanaconnect.eu>
+WARC-Date: 20180530175231
+WARC-Target-URI: http://www.europeanaconnect.eu
+WARC-Language: en
+Content-Type: application/http;msgtype=response
+Content-Length: 6550
+
+HTTP/1.1 200
+Content-Type:text/html
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>Europeana Connect</title><link href="/styles.css" rel="stylesheet" type="text/css" />
+<style type="text/css">
+<!--
+
+    #header {
+      background-image: url(/images/header-1.jpg);
+    	background-repeat: no-repeat;
+    	background-position: center top;
+    	height: 250px;
+    }
+    -->
+</style>
+<link href="http://www.europeanaconnect.eu/rss.php" rel="alternate" type="application/rss+xml" title="EuropeanaConnect News" />
+</head>
+<body>
+<div>
+  <table width="976" border="0" align="center" cellpadding="0" cellspacing="0">
+    <tr>
+      <td id="top"><a href="/members/">Members</a><a style="margin-left:643px;" href="/rss.php" class="rss">RSS</a> | <a href="/atom.php" class="atom">Atom</a></td>
+    </tr>
+  </table>
+</div>
+<div id="header">
+  <table width="976" border="0" align="center" cellpadding="0" cellspacing="0">
+    <tr>
+      <td height="250" align="right" valign="bottom"><ul><li class="active">Home</li><li><a href="/about.php">About</a></li><li><a href="/partners.php">Partners</a></li><li><a href="/workplan.php">Workplan</a></li><li><a href="/events.php">Events & EuropeanaTech Conference</a></li><li><a href="/results-and-resources.php">Results and resources</a></li><li><a href="/related-projects.php">Related projects</a></li></ul></td>
+    </tr>
+  </table>
+</div><div class="gradient">
+  <table width="976" border="0" align="center" cellpadding="0" cellspacing="0"  id="main">
+    <tr>
+      <td valign="bottom" id="right">
+        <p><a href="/europeanatech"><img alt="Europeana Tech Conference" src="images/europeanatech.gif" border="0" /></a></p>
+        <p>&nbsp;</p>
+        <p><a href="http://www.europeana.eu" target="_blank"><img src="images/partner.gif" width="79" height="133" border="0" /></a></p>
+      </td>
+      <td valign="top" id="content"><p>Europeana<em>Connect</em> (May 2009 - October 2011) is a Best Practice Network  funded by the European Commission within the area of Digital Libraries of the <a href="http://ec.europa.eu/information_society/activities/econtentplus/index_en.htm" target="_blank">eContent<em>plus</em> Programme</a>.</p>
+        <p>Its overall  objective is to deliver core components which are essential for the realisation  of <a href="http://www.europeana.eu/" target="_blank">Europeana</a>, the European Digital Library  as a truly interoperable, multilingual  and user-oriented service for all European citizens. Europeana<em>Connect</em> will also add the  music dimension to Europeana by aggregating a critical mass  of audio content.</p>
+        <p>Europeana  provides integrated access to digital resources from museums, archives,  audio-visual 
+archives and libraries of Europe. &nbsp;&nbsp;</p>
+      </p></td>
+      <td width="270" valign="top" align="right">
+  <table width="100%" cellspacing="0" cellpadding="0">
+    <tr>
+      <td id="news">
+        <h3>News</h3>
+        <p>&nbsp;</p>
+        
+            <b class="title">Photos of EuropeanaTech Conference</b><br>
+            <img vspace="5" src="/img/80_82-80-.jpg" alt="" /><br><p></p><p><a href="/news.php?area=News&pag=82">Read more</a></p>
+            <p class="separator">&nbsp;</p>
+            
+            <b class="title">EuropeanaTech: presentations and videos on-line</b><br>
+            <img vspace="5" src="/img/80_81-79-.jpg" alt="" /><br><p>All presentations and video streams of EuropeanaConnect Final  Conference are available on-line...</p><p><a href="/news.php?area=News&pag=81">Read more</a></p>
+            <p class="separator">&nbsp;</p>
+            <a href="/news.php?area=News">More news and events</a>      </td>
+    </tr>
+  </table>
+    </tr>
+  </table>
+</div>
+<div class="gradient" id="footer">
+  <table width="976" border="0" align="center" cellpadding="0" cellspacing="0">
+    <tr>
+      <td height="40" nowrap="nowrap"><p><a href="/contacts.php">Contacts</a></p></td>
+      <td width="100%" align="center" nowrap="nowrap"><table border="0" cellspacing="0" cellpadding="0">
+        <tr>
+          <td>EuropeanaConnect is coordinated by the <a href="http://www.onb.ac.at" target="_blank">Austrian National Library</a></td>
+          <td><img alt="Austrian National Library" src="/images/austrian-national-library-logo.gif" width="165" height="52" hspace="10" vspace="10" /></td>
+        </tr>
+      </table></td>
+      <td height="40" align="right" nowrap="nowrap"><img alt="Co-funded by the European Community Programme eContentplus" src="/images/eu-flag.gif" width="20" height="13" align="absmiddle" /> Co-funded by the European Community Programme <em>e</em>Content<em>plus</em></td>
+    </tr>
+  </table>
+  <p align="center">EuropeanaConnect is solely responsible for the content of this site, which does not represent the opinion of the Community.<br>
+  The Community is not responsible for any use that may be made of the information contained on this site.</p>
+	<p>
+<a style="cursor:default;" href="news.php?tag=digital+resources"><img alt="digital resources" border="0" src="/images/digital-resources.gif"></a><a style="cursor:default;" href="news.php?tag=orphan+works"><img alt="orphan works" border="0" src="/images/orphan-works.gif"></a><a style="cursor:default;" href="news.php?tag=copyright"><img alt="copyright" border="0" src="/images/copyright.gif"></a><a style="cursor:default;" href="news.php?tag=digitisation"><img alt="digitisation" border="0" src="/images/digitisation.gif"></a><a style="cursor:default;" href="news.php?tag=multilinguality"><img alt="multilinguality" border="0" src="/images/multilinguality.gif"></a><a style="cursor:default;" href="news.php?tag=information+access"><img alt="information access" border="0" src="/images/information-access.gif"></a><a style="cursor:default;" href="news.php?tag=audio"><img alt="audio" border="0" src="/images/audio.gif"></a>  </p>
+</div>
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-437709-35']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript';
+ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' :
+'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0];
+s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+</body>
+</html>
+

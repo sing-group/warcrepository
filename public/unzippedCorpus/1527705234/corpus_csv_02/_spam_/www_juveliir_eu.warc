@@ -1,0 +1,33 @@
+WARC/1.0
+WARC-Type: warcinfo
+WARC-Date: 2018-05-30T17:52:31Z
+WARC-All-Language: fr
+WARC-All-Content_type: text/html
+WARC-Record-ID: <urn:uuid:85a2d88c-ef79-43df-a248-8a99b47b9137>
+Content-Type: application/http;msgtype=response
+Content-Length: 46
+
+WARCProcessor by SING Group www.sing-group.com
+
+WARC/1.0
+WARC-Type: response
+WARC-Target-URI: http://www.juveliir.eu
+WARC-Date: 20180530175231
+WARC-Language: fr
+WARC-Record-ID: <http://www.juveliir.eu>
+Content-Type: application/http;msgtype=response
+Content-Length: 155
+
+HTTP/1.1 200
+Content-Type:text/html
+
+
+<html>
+<head>
+<meta http-equiv="refresh" content="0; url=http://www.vganton.ee/">
+</head>
+<body>
+</body>
+</html>
+
+

@@ -1,0 +1,27 @@
+WARC/1.0
+WARC-Type: warcinfo
+WARC-Date: 2018-05-30T19:12:15Z
+WARC-All-Language: it
+WARC-All-Content_type: text/html
+WARC-Record-ID: <urn:uuid:5eda4a4f-2891-4cab-b963-d9853fa7f8a4>
+Content-Type: application/http;msgtype=response
+Content-Length: 46
+
+WARCProcessor by SING Group www.sing-group.com
+
+WARC/1.0
+WARC-Type: response
+WARC-Target-URI: http://www.ta2-project.eu
+WARC-Date: 20180530191215
+WARC-Language: it
+WARC-Record-ID: <http://www.ta2-project.eu>
+Content-Type: application/http;msgtype=response
+Content-Length: 61
+
+HTTP/1.1 200
+Content-Type:text/html
+
+
+Site disconnected.
+
+

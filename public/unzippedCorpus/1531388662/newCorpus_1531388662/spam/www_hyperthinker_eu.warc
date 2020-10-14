@@ -1,0 +1,763 @@
+WARC/1.0
+WARC-Type: warcinfo
+WARC-Date: 2018-05-30T18:18:32Z
+WARC-Record-ID: <urn:uuid:82e45263-b69c-4fdb-b909-21882e0826b7>
+WARC-All-Language: en
+WARC-All-Content_type: text/html; charset=UTF-8, text/html
+Content-Type: application/http;msgtype=response
+Content-Length: 46
+
+WARCProcessor by SING Group www.sing-group.com
+
+WARC/1.0
+WARC-Type: response
+WARC-Record-ID: <http://www.hyperthinker.eu>
+WARC-Date: 20180530181832
+WARC-Target-URI: http://www.hyperthinker.eu
+WARC-Language: en
+Content-Type: application/http;msgtype=response
+Content-Length: 97856
+
+HTTP/1.1 200
+Content-Type:text/html; charset=UTF-8
+
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN"
+    "http://www.w3.org/TR/html4/strict.dtd"
+    >
+<html>
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="generator" content="WordPress 4.9.6" />
+<!--The Favicon-->
+<link rel="shortcut icon" href="http://hyperthinker.wpengine.com/wp-content/themes/icandy/images/favicon.png" type="image/x-icon" />
+<link rel="stylesheet" href="http://hyperthinker.wpengine.com/wp-content/themes/icandy/style.css" type="text/css" media="screen" />
+<link rel="stylesheet" href="http://hyperthinker.wpengine.com/wp-content/themes/icandy/dropdown.css" type="text/css" media="screen" />
+<!--[if IE]>
+<link rel="stylesheet" href="http://hyperthinker.wpengine.com/wp-content/themes/icandy/style-ie.css" type="text/css" media="screen" />
+<![endif]-->
+<style type="text/css">
+   body { background-color: #111111; }
+      /* two column categories */
+   #sidebar ul li .cat-item { float: left; width: 43%; }
+   #sidebar ul ul .cat-item .children { display: none; }
+            #sidebar { width: 270px; }
+   #container { width: 590px; }
+   </style>
+<link rel="alternate" type="application/rss+xml" title="The Hyperthinker by Philip Weiss RSS Feed" href="http://hyperthinker.wpengine.com/feed/" />
+<link rel="pingback" href="http://hyperthinker.wpengine.com/xmlrpc.php" />
+<title>The Hyperthinker by Philip Weiss | New thinking for the internet age</title>
+
+<!-- All in One SEO Pack 2.3.11 by Michael Torbert of Semper Fi Web Design[1337,1376] -->
+<meta name="description"  content="Thoughts and ideas to adapt your thinking to the internet age. Learn more about the business use of web strategy and social media." />
+
+<meta name="keywords"  content="Web strategy, Communication strategy, Hyperthinking, Hyperthinker, Philip Weiss, ZN, Brussels" />
+<link rel='next' href='http://hyperthinker.wpengine.com/page/2/' />
+
+<link rel="canonical" href="http://hyperthinker.wpengine.com/" />
+<!-- /all in one seo pack -->
+<link rel='dns-prefetch' href='//s.w.org' />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.4\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.4\/svg\/","svgExt":".svg","source":{"concatemoji":"http:\/\/hyperthinker.wpengine.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=94a967242fdd1774f03c268d7b2bfeb0"}};
+			!function(a,b,c){function d(a,b){var c=String.fromCharCode;l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,a),0,0);var d=k.toDataURL();l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,b),0,0);var e=k.toDataURL();return d===e}function e(a){var b;if(!l||!l.fillText)return!1;switch(l.textBaseline="top",l.font="600 32px Arial",a){case"flag":return!(b=d([55356,56826,55356,56819],[55356,56826,8203,55356,56819]))&&(b=d([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]),!b);case"emoji":return b=d([55357,56692,8205,9792,65039],[55357,56692,8203,9792,65039]),!b}return!1}function f(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var g,h,i,j,k=b.createElement("canvas"),l=k.getContext&&k.getContext("2d");for(j=Array("flag","emoji"),c.supports={everything:!0,everythingExceptFlag:!0},i=0;i<j.length;i++)c.supports[j[i]]=e(j[i]),c.supports.everything=c.supports.everything&&c.supports[j[i]],"flag"!==j[i]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[j[i]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(h=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",h,!1),a.addEventListener("load",h,!1)):(a.attachEvent("onload",h),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),g=c.source||{},g.concatemoji?f(g.concatemoji):g.wpemoji&&g.twemoji&&(f(g.twemoji),f(g.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<script type='text/javascript' src='http://hyperthinker.wpengine.com/wp-includes/js/jquery/jquery.js?ver=1.12.4'></script>
+<script type='text/javascript' src='http://hyperthinker.wpengine.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
+<script type='text/javascript' src='http://hyperthinker.wpengine.com/wp-content/plugins/google-analyticator/external-tracking.min.js?ver=6.5.0'></script>
+<link rel='https://api.w.org/' href='http://hyperthinker.wpengine.com/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://hyperthinker.wpengine.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://hyperthinker.wpengine.com/wp-includes/wlwmanifest.xml" /> 
+<style type="text/css">
+  #banner { background: url(http://hyperthinker.wpengine.com/wp-content/themes/icandy/images/header1.png) bottom no-repeat; height: 180px; width: 900px; }  
+  #banner h1 { color:#eee; }
+  #banner h1 a { color:#eee; }
+  #banner #description { color:#eee; }
+</style>
+<!-- Google Analytics Tracking by Google Analyticator 6.5.0: http://www.videousermanuals.com/google-analyticator/ -->
+<script type="text/javascript">
+    var analyticsFileTypes = [''];
+    var analyticsSnippet = 'disabled';
+    var analyticsEventTracking = 'enabled';
+</script>
+<script type="text/javascript">
+	(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+	(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+	m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+	})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+	ga('create', 'UA-27093938-1', 'auto');
+ 
+	ga('send', 'pageview');
+</script>
+<script type="text/javascript" src="http://hyperthinker.wpengine.com/wp-content/themes/icandy/js/dropdown.js"></script>
+<script type="text/javascript" src="http://hyperthinker.wpengine.com/wp-content/themes/icandy/js/candytheme.js"></script>
+<script type="text/javascript">
+ddsmoothmenu.init({
+ mainmenuid: "smoothmenu1", //menu DIV id
+ orientation: 'h', //Horizontal or vertical menu: Set to "h" or "v"
+ classname: 'ddsmoothmenu', //class added to menu's outer DIV
+ contentsource: "markup" //"markup" or ["container_id", "path_to_menu_file"]
+})
+</script>    </head>
+<body style="background-image: url(http://www.hyperthinker.eu/wp-content/themes/icandy/images/background.jpg); background-position: top center; background-repeat: no-repeat; text-align: center; font-family:Arial, Helvetica, sans-serif; color: #000000; font-size: 12px; background-color:#000; background-attachment:fixed;">
+<div id="wrapper">
+    <div id="searchpanel">
+    <!--<div class="feed">
+        <a href="http://hyperthinker.wpengine.com/feed/" target="_blank"><span>Feed</span></a>
+    </div>-->
+    <div class="search">
+    <form action="http://hyperthinker.wpengine.com/" method="post" id="searchform">
+            <input type="text" value="" name="s" id="s" style="position:relative; top:-6px;" />
+            <input type="image" type="button" src="http://www.hyperthinker.eu/wp-content/themes/icandy/images/search_button.jpg"  style="position:relative; left:7px;"/>
+      </form>
+    </div>
+    <div class="clear"></div>
+</div>
+
+<div style="height: 78px; z-index:50000; position:relative; width:600px;" id="siteinfo">
+ <h1><a href="http://hyperthinker.wpengine.com">The Hyperthinker by Philip Weiss</a></h1>
+    <p id="description">New thinking for the Internet age</p>
+</div>
+<div id="smoothmenu1" class="ddsmoothmenu" style="position:relative; top:-108px;">
+    <ul>
+                <li  class="current_page_item"><a href="http://hyperthinker.wpengine.com">Home</a></li>
+        <li class="page_item page-item-2"><a href="http://hyperthinker.wpengine.com/about/">About</a></li>
+            </ul>
+    <div class="clear"></div>
+</div>
+    <div id="banner" style="height:138px; overflow:hidden; position:relative; top:-108px; width:1034px; ">
+</div>
+        <div style="background-color:#FFF;position:relative; top:-108px; ">
+    <div id="container" style="width:600px;background-color:#FFF; ">
+        <ul class="posts">
+            <li>
+                <h2 class="post-title"><a href="http://hyperthinker.wpengine.com/2014/hyperthinking-in-the-healthcare-sector-day-5/">Hyperthinking in the healthcare sector: Day 5</a></h2>
+                        <div class="post-meta">
+                        <div class="meta-left">
+                <span class="postdate">Nov 21st 2014&nbsp;&nbsp;&nbsp;&nbsp;
+                <span class="postauthor">By: Philip Weiss</span></span>
+            </div>
+                        <div class="meta-right">
+                                <span class="postcomments"><a href="http://hyperthinker.wpengine.com/2014/hyperthinking-in-the-healthcare-sector-day-5/#respond">No comments</a></span>
+                                            </div>
+            <div class="clear"></div>
+        </div>
+                <div class="post-content">
+                        <p>Today I had the opportunity to talk with Goldwin McEwen, an award winning communications writer and a developer of communications and public relations strategies. He motivates and organizes groups and has successfully managed both internal and external communications in private for-profit and not-for-profit organizations, government agencies, and academia. Mr. McEwen is currently the CEO of Edit-Write Inc. and Gold Mum Publishing right here in Canada.  He also teaches at MacEwan University.  I was delighted to have the chance to meet up with him to get his insights on the Hyperthinking lecture.</p>
+<p>Discover an expert communicator’s main takeaways from my Hyperthinking lecture in our video interview below and learn why he believes Hyperthinking can aid Millennial’s with self-improvement using digital tools.</p>
+<p><iframe width="500" height="281" src="http://www.youtube.com/embed/pioVg9qB118?feature=oembed" frameborder="0" allowfullscreen></iframe></p>
+<p>We have entered into an ‘age of power’ and social media platforms are changing the way the healthcare sector communicates. Nowadays in healthcare communications, social media usage is not so much a trending tool, but a medium that instead represent a global shift in the way people within the sector communicate both internally and externally.</p>
+<p><a href="http://hyperthinker.wpengine.com/wp-content/uploads/2014/11/B28L9vPCEAAoFN0.jpg-large.jpeg"><img class="alignleft size-full wp-image-889" title="B28L9vPCEAAoFN0.jpg-large" src="http://hyperthinker.wpengine.com/wp-content/uploads/2014/11/B28L9vPCEAAoFN0.jpg-large.jpeg" alt="" width="338" height="254" srcset="http://hyperthinker.wpengine.com/wp-content/uploads/2014/11/B28L9vPCEAAoFN0.jpg-large.jpeg 1024w, http://hyperthinker.wpengine.com/wp-content/uploads/2014/11/B28L9vPCEAAoFN0.jpg-large-300x225.jpg 300w" sizes="(max-width: 338px) 100vw, 338px" /></a></p>
+<p><a href="http://hyperthinker.wpengine.com/wp-content/uploads/2014/11/B27n9nZCIAEI6V0.jpg-large.jpeg"><img class="alignleft size-full wp-image-896" title="B27n9nZCIAEI6V0.jpg-large" src="http://hyperthinker.wpengine.com/wp-content/uploads/2014/11/B27n9nZCIAEI6V0.jpg-large.jpeg" alt="" width="226" height="301" srcset="http://hyperthinker.wpengine.com/wp-content/uploads/2014/11/B27n9nZCIAEI6V0.jpg-large.jpeg 768w, http://hyperthinker.wpengine.com/wp-content/uploads/2014/11/B27n9nZCIAEI6V0.jpg-large-225x300.jpg 225w" sizes="(max-width: 226px) 100vw, 226px" /></a></p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>Here in Canada, we have reached the final day of the congregation on digital communications organized by the University of Alberta and MacEwan University. So, to mark the occasion, I took the opportunity share insights at how digital platforms have enabled an age of power by connecting people, empowering both patients and healthcare professionals.</p>
+<p><iframe src="http://new.livestream.com/accounts/1488160/events/3582866/player?width=560&amp;height=315&amp;autoPlay=true&amp;mute=false" frameborder="0" scrolling="no" width="560" height="315"></iframe></p>
+<p>Find out more on the subject based on some of my recent experiences with healthcare communications and the power of social media.</p>
+<p>Some of the conversation going on on Twitter…</p>
+<p><a href="http://hyperthinker.wpengine.com/wp-content/uploads/2014/11/Screen-Shot-2014-11-21-at-18.29.21.png"><img class="alignleft size-full wp-image-914" title="Screen Shot 2014-11-21 at 18.29.21" src="http://hyperthinker.wpengine.com/wp-content/uploads/2014/11/Screen-Shot-2014-11-21-at-18.29.21.png" alt="" width="573" height="95" srcset="http://hyperthinker.wpengine.com/wp-content/uploads/2014/11/Screen-Shot-2014-11-21-at-18.29.21.png 573w, http://hyperthinker.wpengine.com/wp-content/uploads/2014/11/Screen-Shot-2014-11-21-at-18.29.21-300x49.png 300w" sizes="(max-width: 573px) 100vw, 573px" /></a></p>
+<p><a href="http://hyperthinker.wpengine.com/wp-content/uploads/2014/11/Screen-Shot-2014-11-21-at-18.28.44.png"><img class="alignleft size-full wp-image-912" title="Screen Shot 2014-11-21 at 18.28.44" src="http://hyperthinker.wpengine.com/wp-content/uploads/2014/11/Screen-Shot-2014-11-21-at-18.28.44.png" alt="" width="576" height="94" srcset="http://hyperthinker.wpengine.com/wp-content/uploads/2014/11/Screen-Shot-2014-11-21-at-18.28.44.png 576w, http://hyperthinker.wpengine.com/wp-content/uploads/2014/11/Screen-Shot-2014-11-21-at-18.28.44-300x48.png 300w" sizes="(max-width: 576px) 100vw, 576px" /></a><a href="http://hyperthinker.wpengine.com/wp-content/uploads/2014/11/Screen-Shot-2014-11-21-at-18.28.50.png"><img class="alignleft size-full wp-image-913" title="Screen Shot 2014-11-21 at 18.28.50" src="http://hyperthinker.wpengine.com/wp-content/uploads/2014/11/Screen-Shot-2014-11-21-at-18.28.50.png" alt="" width="573" height="99" srcset="http://hyperthinker.wpengine.com/wp-content/uploads/2014/11/Screen-Shot-2014-11-21-at-18.28.50.png 573w, http://hyperthinker.wpengine.com/wp-content/uploads/2014/11/Screen-Shot-2014-11-21-at-18.28.50-300x51.png 300w" sizes="(max-width: 573px) 100vw, 573px" /></a></p>
+<p><a href="http://hyperthinker.wpengine.com/wp-content/uploads/2014/11/Screen-Shot-2014-11-21-at-18.28.37.png"><img class="alignleft size-full wp-image-911" title="Screen Shot 2014-11-21 at 18.28.37" src="http://hyperthinker.wpengine.com/wp-content/uploads/2014/11/Screen-Shot-2014-11-21-at-18.28.37.png" alt="" width="580" height="99" srcset="http://hyperthinker.wpengine.com/wp-content/uploads/2014/11/Screen-Shot-2014-11-21-at-18.28.37.png 580w, http://hyperthinker.wpengine.com/wp-content/uploads/2014/11/Screen-Shot-2014-11-21-at-18.28.37-300x51.png 300w" sizes="(max-width: 580px) 100vw, 580px" /></a></p>
+<p><a href="http://hyperthinker.wpengine.com/wp-content/uploads/2014/11/Screen-Shot-2014-11-21-at-18.28.321.png"><img class="alignleft size-full wp-image-909" title="Screen Shot 2014-11-21 at 18.28.32" src="http://hyperthinker.wpengine.com/wp-content/uploads/2014/11/Screen-Shot-2014-11-21-at-18.28.321.png" alt="" width="574" height="105" srcset="http://hyperthinker.wpengine.com/wp-content/uploads/2014/11/Screen-Shot-2014-11-21-at-18.28.321.png 574w, http://hyperthinker.wpengine.com/wp-content/uploads/2014/11/Screen-Shot-2014-11-21-at-18.28.321-300x54.png 300w" sizes="(max-width: 574px) 100vw, 574px" /></a></p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+                        <div class="clear"></div>
+        </div>
+                                <div class="post-info">
+            <div class="info-left">
+                <p class="post-category"><a href="http://hyperthinker.wpengine.com/category/events/" rel="category tag">Events</a>, <a href="http://hyperthinker.wpengine.com/category/hyperthinkers/" rel="category tag">hyperthinkers</a></p>
+            </div>
+            <div class="info-right">
+                <p class="post-tag"></p>
+            </div>
+            <div class="clear"></div>
+        </div>
+                                        </li>
+        <li>
+                <h2 class="post-title"><a href="http://hyperthinker.wpengine.com/2014/sharing-ideas-with-peter-ryan-day-4/">Sharing ideas with Peter Ryan: Day 4</a></h2>
+                        <div class="post-meta">
+                        <div class="meta-left">
+                <span class="postdate">Nov 20th 2014&nbsp;&nbsp;&nbsp;&nbsp;
+                <span class="postauthor">By: Philip Weiss</span></span>
+            </div>
+                        <div class="meta-right">
+                                <span class="postcomments"><a href="http://hyperthinker.wpengine.com/2014/sharing-ideas-with-peter-ryan-day-4/#respond">No comments</a></span>
+                                            </div>
+            <div class="clear"></div>
+        </div>
+                <div class="post-content">
+                        <p>Today was a day packed with back to back lectures, and I switched between introducing Hyperthinking to explaining digital mapping, as I did with the students of the University of Alberta on Monday.  The students worked on different research methodologies so the discussions we had after the presentation were very interesting with students investigating the role of digital research in research projects. It is interesting to find that digital research is still quite rare and not something that is taught systematically although most teachers recognize the importance.</p>
+<p><a href="http://hyperthinker.wpengine.com/wp-content/uploads/2014/11/Phil-whiteboard-1.jpg"><img class="alignleft size-large wp-image-870" title="Phil whiteboard-1" src="http://hyperthinker.wpengine.com/wp-content/uploads/2014/11/Phil-whiteboard-1-1024x778.jpg" alt="" width="614" height="467" srcset="http://hyperthinker.wpengine.com/wp-content/uploads/2014/11/Phil-whiteboard-1-1024x778.jpg 1024w, http://hyperthinker.wpengine.com/wp-content/uploads/2014/11/Phil-whiteboard-1-300x228.jpg 300w" sizes="(max-width: 614px) 100vw, 614px" /></a></p>
+<p>I had the opportunity to interview MacEwan University&#8217;s CIO and communications professor, Peter Ryan. Ryan attended a presentation on digital mapping followed by a lecture on Hyperthinking, and provided insights on bringing together different approaches with a common goal. It was very interesting to compare Peter´s academic point of view on methodologies with that of ZN Consulting on both, Hyperthinking and Digital Mapping.</p>
+<p><iframe width="500" height="281" src="http://www.youtube.com/embed/dtl_CEZRlTc?feature=oembed" frameborder="0" allowfullscreen></iframe></p>
+<p>I also launched the &#8216;Hyperthinking Club&#8217;, an initiative for students who want to continue or start Hyperthinking and share their experience of this with others.  It is a very straightforward idea: meet once a month, share ideas and experience on what works and what you picked up, and continue sharing the experience on Facebook. We will see where this takes us.</p>
+<p><img class="alignleft size-large wp-image-860" title="Classroom" src="http://hyperthinker.wpengine.com/wp-content/uploads/2014/11/Classroom-1024x768.jpg" alt="" width="614" height="461" srcset="http://hyperthinker.wpengine.com/wp-content/uploads/2014/11/Classroom-1024x768.jpg 1024w, http://hyperthinker.wpengine.com/wp-content/uploads/2014/11/Classroom-300x225.jpg 300w" sizes="(max-width: 614px) 100vw, 614px" /></p>
+<p>Thursday is a day of key public presentations with a very practical session on Hyperthinking in the healthcare I will be introducing a case study on <a href="http://www.breakdengue.org">Break Dengue</a> an initiative I co-founded over a year ago. Check back tomorrow for the latest updates from Canada and don&#8217;t forget to follow us on Twitter where you can join the discussion using the hashtag #hyperthinking.</p>
+<p>&nbsp;</p>
+<p>Some of the conversation going on on Twitter…</p>
+<p><a href="http://hyperthinker.wpengine.com/wp-content/uploads/2014/11/Screen-Shot-2014-11-20-at-15.56.41.png"><img class="alignleft size-full wp-image-880" title="Screen Shot 2014-11-20 at 15.56.41" src="http://hyperthinker.wpengine.com/wp-content/uploads/2014/11/Screen-Shot-2014-11-20-at-15.56.41.png" alt="" width="581" height="102" srcset="http://hyperthinker.wpengine.com/wp-content/uploads/2014/11/Screen-Shot-2014-11-20-at-15.56.41.png 581w, http://hyperthinker.wpengine.com/wp-content/uploads/2014/11/Screen-Shot-2014-11-20-at-15.56.41-300x52.png 300w" sizes="(max-width: 581px) 100vw, 581px" /></a></p>
+<p><a href="http://hyperthinker.wpengine.com/wp-content/uploads/2014/11/Screen-Shot-2014-11-20-at-15.56.191.png"><img class="alignleft size-full wp-image-878" title="Screen Shot 2014-11-20 at 15.56.19" src="http://hyperthinker.wpengine.com/wp-content/uploads/2014/11/Screen-Shot-2014-11-20-at-15.56.191.png" alt="" width="578" height="91" srcset="http://hyperthinker.wpengine.com/wp-content/uploads/2014/11/Screen-Shot-2014-11-20-at-15.56.191.png 578w, http://hyperthinker.wpengine.com/wp-content/uploads/2014/11/Screen-Shot-2014-11-20-at-15.56.191-300x47.png 300w" sizes="(max-width: 578px) 100vw, 578px" /></a><a href="http://hyperthinker.wpengine.com/wp-content/uploads/2014/11/Screen-Shot-2014-11-20-at-15.56.31.png"><img class="alignleft size-full wp-image-879" title="Screen Shot 2014-11-20 at 15.56.31" src="http://hyperthinker.wpengine.com/wp-content/uploads/2014/11/Screen-Shot-2014-11-20-at-15.56.31.png" alt="" width="577" height="99" srcset="http://hyperthinker.wpengine.com/wp-content/uploads/2014/11/Screen-Shot-2014-11-20-at-15.56.31.png 577w, http://hyperthinker.wpengine.com/wp-content/uploads/2014/11/Screen-Shot-2014-11-20-at-15.56.31-300x51.png 300w" sizes="(max-width: 577px) 100vw, 577px" /></a></p>
+<p>&nbsp;</p>
+                        <div class="clear"></div>
+        </div>
+                                <div class="post-info">
+            <div class="info-left">
+                <p class="post-category"><a href="http://hyperthinker.wpengine.com/category/uncategorized/" rel="category tag">Uncategorized</a></p>
+            </div>
+            <div class="info-right">
+                <p class="post-tag"></p>
+            </div>
+            <div class="clear"></div>
+        </div>
+                                        </li>
+        <li>
+                <h2 class="post-title"><a href="http://hyperthinker.wpengine.com/2014/a-digital-travel-diary-day-3/">A digital travel diary: Day 3</a></h2>
+                        <div class="post-meta">
+                        <div class="meta-left">
+                <span class="postdate">Nov 19th 2014&nbsp;&nbsp;&nbsp;&nbsp;
+                <span class="postauthor">By: admin</span></span>
+            </div>
+                        <div class="meta-right">
+                                <span class="postcomments"><a href="http://hyperthinker.wpengine.com/2014/a-digital-travel-diary-day-3/#respond">No comments</a></span>
+                                            </div>
+            <div class="clear"></div>
+        </div>
+                <div class="post-content">
+                        <p>Today I had the opportunity to give a conference to a group of students at the University of Alberta. Afterwards, I took some time to talk to a few of the students in attendance to get their impressions on the session and Hyperthinking. I found their takeaways inspiring. It&#8217;s always interesting to see which key points of Hyperthinking individuals take home and apply in their daily lives.</p>
+<p>Discover the points from Hyperthinking that hit home with the students in Canada.</p>
+<p><a href="http://hyperthinker.wpengine.com/wp-content/uploads/2014/11/IMG_6328.jpg"><img class="alignleft size-medium wp-image-847" title="IMG_6328" src="http://hyperthinker.wpengine.com/wp-content/uploads/2014/11/IMG_6328-225x300.jpg" alt="" width="183" height="243" srcset="http://hyperthinker.wpengine.com/wp-content/uploads/2014/11/IMG_6328-225x300.jpg 225w, http://hyperthinker.wpengine.com/wp-content/uploads/2014/11/IMG_6328-768x1024.jpg 768w" sizes="(max-width: 183px) 100vw, 183px" /></a><a href="http://hyperthinker.wpengine.com/wp-content/uploads/2014/11/IMG_6324.jpg"><img class="alignleft size-medium wp-image-849" title="IMG_6324" src="http://hyperthinker.wpengine.com/wp-content/uploads/2014/11/IMG_6324-225x300.jpg" alt="" width="183" height="243" srcset="http://hyperthinker.wpengine.com/wp-content/uploads/2014/11/IMG_6324-225x300.jpg 225w, http://hyperthinker.wpengine.com/wp-content/uploads/2014/11/IMG_6324-768x1024.jpg 768w" sizes="(max-width: 183px) 100vw, 183px" /></a><a href="http://hyperthinker.wpengine.com/wp-content/uploads/2014/11/IMG_6320.jpg"><img class="alignleft size-medium wp-image-850" title="IMG_6320" src="http://hyperthinker.wpengine.com/wp-content/uploads/2014/11/IMG_6320-225x300.jpg" alt="" width="183" height="243" srcset="http://hyperthinker.wpengine.com/wp-content/uploads/2014/11/IMG_6320-225x300.jpg 225w, http://hyperthinker.wpengine.com/wp-content/uploads/2014/11/IMG_6320-768x1024.jpg 768w" sizes="(max-width: 183px) 100vw, 183px" /></a></p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p><iframe width="500" height="281" src="http://www.youtube.com/embed/BOAWJn-dqB4?feature=oembed" frameborder="0" allowfullscreen></iframe></p>
+<p>&nbsp;</p>
+<p>I also had the opportunity to meet up with Peter Roccia, a communication professor in Media Theory, Media Relations and Popular Culture expert. Discover his perspectives on Hyperthinking.</p>
+<p>&nbsp;</p>
+<p><iframe width="500" height="281" src="http://www.youtube.com/embed/2rYja4O3adY?feature=oembed" frameborder="0" allowfullscreen></iframe></p>
+<p>&nbsp;</p>
+<p>Be sure to check back tomorrow as the Hyperthinker blog shares more insights from Edmonton, Canada. In the meanwhile, join the discussion on Twitter using the hashtag, #hyperthinking. Stay tuned…</p>
+<p><img class="alignleft size-full wp-image-839" title="FullSizeRender" src="http://hyperthinker.wpengine.com/wp-content/uploads/2014/11/FullSizeRender.jpg" alt="" width="587" height="440" srcset="http://hyperthinker.wpengine.com/wp-content/uploads/2014/11/FullSizeRender.jpg 1632w, http://hyperthinker.wpengine.com/wp-content/uploads/2014/11/FullSizeRender-300x225.jpg 300w, http://hyperthinker.wpengine.com/wp-content/uploads/2014/11/FullSizeRender-1024x768.jpg 1024w" sizes="(max-width: 587px) 100vw, 587px" /></p>
+<p>&nbsp;</p>
+<p>Some of the conversation going on on Twitter&#8230;</p>
+<p><a href="http://hyperthinker.wpengine.com/wp-content/uploads/2014/11/Screen-Shot-2014-11-19-at-16.28.541.png"><img class="alignleft size-full wp-image-838" title="Screen Shot 2014-11-19 at 16.28.54" src="http://hyperthinker.wpengine.com/wp-content/uploads/2014/11/Screen-Shot-2014-11-19-at-16.28.541.png" alt="" width="577" height="76" srcset="http://hyperthinker.wpengine.com/wp-content/uploads/2014/11/Screen-Shot-2014-11-19-at-16.28.541.png 577w, http://hyperthinker.wpengine.com/wp-content/uploads/2014/11/Screen-Shot-2014-11-19-at-16.28.541-300x39.png 300w" sizes="(max-width: 577px) 100vw, 577px" /></a></p>
+<p><a href="http://hyperthinker.wpengine.com/wp-content/uploads/2014/11/Screen-Shot-2014-11-19-at-16.28.381.png"><img class="alignleft size-full wp-image-836" title="Screen Shot 2014-11-19 at 16.28.38" src="http://hyperthinker.wpengine.com/wp-content/uploads/2014/11/Screen-Shot-2014-11-19-at-16.28.381.png" alt="" width="576" height="79" srcset="http://hyperthinker.wpengine.com/wp-content/uploads/2014/11/Screen-Shot-2014-11-19-at-16.28.381.png 576w, http://hyperthinker.wpengine.com/wp-content/uploads/2014/11/Screen-Shot-2014-11-19-at-16.28.381-300x41.png 300w" sizes="(max-width: 576px) 100vw, 576px" /></a><a href="http://hyperthinker.wpengine.com/wp-content/uploads/2014/11/Screen-Shot-2014-11-19-at-16.28.232.png"><img class="alignleft size-full wp-image-835" title="Screen Shot 2014-11-19 at 16.28.23" src="http://hyperthinker.wpengine.com/wp-content/uploads/2014/11/Screen-Shot-2014-11-19-at-16.28.232.png" alt="" width="576" height="79" srcset="http://hyperthinker.wpengine.com/wp-content/uploads/2014/11/Screen-Shot-2014-11-19-at-16.28.232.png 576w, http://hyperthinker.wpengine.com/wp-content/uploads/2014/11/Screen-Shot-2014-11-19-at-16.28.232-300x41.png 300w" sizes="(max-width: 576px) 100vw, 576px" /></a><a href="http://hyperthinker.wpengine.com/wp-content/uploads/2014/11/Screen-Shot-2014-11-19-at-16.28.471.png"><img class="alignleft size-full wp-image-837" title="Screen Shot 2014-11-19 at 16.28.47" src="http://hyperthinker.wpengine.com/wp-content/uploads/2014/11/Screen-Shot-2014-11-19-at-16.28.471.png" alt="" width="579" height="76" srcset="http://hyperthinker.wpengine.com/wp-content/uploads/2014/11/Screen-Shot-2014-11-19-at-16.28.471.png 579w, http://hyperthinker.wpengine.com/wp-content/uploads/2014/11/Screen-Shot-2014-11-19-at-16.28.471-300x39.png 300w" sizes="(max-width: 579px) 100vw, 579px" /></a></p>
+                        <div class="clear"></div>
+        </div>
+                                <div class="post-info">
+            <div class="info-left">
+                <p class="post-category"><a href="http://hyperthinker.wpengine.com/category/uncategorized/" rel="category tag">Uncategorized</a></p>
+            </div>
+            <div class="info-right">
+                <p class="post-tag"></p>
+            </div>
+            <div class="clear"></div>
+        </div>
+                                        </li>
+        <li>
+                <h2 class="post-title"><a href="http://hyperthinker.wpengine.com/2014/hyperthinking-in-the-great-white-north-day-2/">Hyperthinking in the Great White North: Day 2</a></h2>
+                        <div class="post-meta">
+                        <div class="meta-left">
+                <span class="postdate">Nov 18th 2014&nbsp;&nbsp;&nbsp;&nbsp;
+                <span class="postauthor">By: Philip Weiss</span></span>
+            </div>
+                        <div class="meta-right">
+                                <span class="postcomments"><a href="http://hyperthinker.wpengine.com/2014/hyperthinking-in-the-great-white-north-day-2/#respond">No comments</a></span>
+                                            </div>
+            <div class="clear"></div>
+        </div>
+                <div class="post-content">
+                        <p><iframe width="500" height="281" src="http://www.youtube.com/embed/8iZjFfKUgc4?feature=oembed" frameborder="0" allowfullscreen></iframe></p>
+<p>Today in Edmonton, the work began, and despite a busy agenda, I managed to find time to introduce some of the digital methodologies used by ZN Consulting. Digital met digitally, as I hosted a webinar with the students at the University of Alberta to explain and elaborate on the methodology behind Digital Mapping. For those of you new to the topic, it&#8217;s an effective technique we have been using at ZN Consulting for the past 15 years to help client&#8217;s better connect with their audience. Digital mapping results play an essential communications role for some of Europe’s largest companies and most influential institutions.</p>
+<p>I also had my first opportunity to share the Hyperthinking model with students at MacEwan University. We followed up the presentation with an insightful discussion on how the mindset could be applied to get better results in both, the student&#8217;s personal and professional lives.</p>
+<p>Interestingly enough, like with many of the previous groups who have taken to Hyperthinking, participants from the lecture seem to identify different value within the mindset based on their individual needs at the time. Key takeaways found this group of students during our session were, shifting paradigms and embracing our on-going learning.</p>
+<p>Get involved in the Hyperthinker discussion, join us on <a href="https://twitter.com/pweiss">Twitter</a>, using the hashtag #hyperthinking, and tell us…</p>
+<p>What is your favorite piece of takeaway from the Hyperthinking mindset?</p>
+                        <div class="clear"></div>
+        </div>
+                                <div class="post-info">
+            <div class="info-left">
+                <p class="post-category"><a href="http://hyperthinker.wpengine.com/category/uncategorized/" rel="category tag">Uncategorized</a></p>
+            </div>
+            <div class="info-right">
+                <p class="post-tag"></p>
+            </div>
+            <div class="clear"></div>
+        </div>
+                                        </li>
+        <li>
+                <h2 class="post-title"><a href="http://hyperthinker.wpengine.com/2014/hyperthoughts-from-canada-a-digital-travel-diary/">Hyperthoughts from Canada: A digital travel diary</a></h2>
+                        <div class="post-meta">
+                        <div class="meta-left">
+                <span class="postdate">Nov 17th 2014&nbsp;&nbsp;&nbsp;&nbsp;
+                <span class="postauthor">By: Philip Weiss</span></span>
+            </div>
+                        <div class="meta-right">
+                                <span class="postcomments"><a href="http://hyperthinker.wpengine.com/2014/hyperthoughts-from-canada-a-digital-travel-diary/#respond">No comments</a></span>
+                                            </div>
+            <div class="clear"></div>
+        </div>
+                <div class="post-content">
+                        <p><iframe width="500" height="281" src="http://www.youtube.com/embed/stccP-7hH5s?feature=oembed" frameborder="0" allowfullscreen></iframe></p>
+<p>This week I will be reporting from Edmonton, Canada. I arrived Saturday evening, welcomed by a Canadian cold front and snowfall. Once checked in to my hotel and getting caught up on jet-lag, I sat down at the desk and took a look at my agenda for the week. I am invited to speak at a week-long conference at MacEwan University to speak with University students on my book and the concept of Hyperthinking, a new mindset for our digital age., followed by a webinar to the students of the University of Alberta and a public event later in the week.</p>
+<p>Throughout the week, I will be meeting with students and am hoping to get their insights and documenting their experiences with digital and the concept of Hyperthinking. I will also be discussing ‘digital mapping’ a method used in digital communications by ZN Consulting to gain audience insights on an assigned topic, with students from the University of Alberta on Monday evening. In addition to taking a closer look at Hyperthinking, we will also be exploring digital’s impact on the healthcare industry and looking at a case study on Break Dengue, a project I have been actively involved in.</p>
+<p>On Sunday evening, I met my host this week, Sherrell and put some finishing touches on the planning for this week after enjoying some wonderful Canadian hospitality and dinner. Readers can also expect to see a few guest posts on the Hyperthinker blog from students participating in this week’s events. Be sure to check out my video blog entry below for a more detailed description on the happenings this week in Edmonton. Don’t forget to join in the conversation throughout the week on <a href="https://twitter.com/pweiss">Twitter</a> and <a href="https://www.facebook.com/Hyperthinking?fref=ts">Facebook</a> using the hashtag, #hyperthinker. Stay tuned…</p>
+<p>&nbsp;</p>
+                        <div class="clear"></div>
+        </div>
+                                <div class="post-info">
+            <div class="info-left">
+                <p class="post-category"><a href="http://hyperthinker.wpengine.com/category/uncategorized/" rel="category tag">Uncategorized</a></p>
+            </div>
+            <div class="info-right">
+                <p class="post-tag"></p>
+            </div>
+            <div class="clear"></div>
+        </div>
+                                        </li>
+        <li>
+                <h2 class="post-title"><a href="http://hyperthinker.wpengine.com/2014/the-hyperthinker-is-becoming-a-hypertraveler/">The Hyperthinker is becoming a Hypertraveler</a></h2>
+                        <div class="post-meta">
+                        <div class="meta-left">
+                <span class="postdate">Nov 14th 2014&nbsp;&nbsp;&nbsp;&nbsp;
+                <span class="postauthor">By: Philip Weiss</span></span>
+            </div>
+                        <div class="meta-right">
+                                <span class="postcomments"><a href="http://hyperthinker.wpengine.com/2014/the-hyperthinker-is-becoming-a-hypertraveler/#respond">No comments</a></span>
+                                            </div>
+            <div class="clear"></div>
+        </div>
+                <div class="post-content">
+                        <p style="text-align: left;">As a traveler and Hyperthinker I have recently addressed the need for a new mindset within the sector and while today’s post is about travel, my objective this week takes me to a new audience. This week, I’ll be speaking and networking with University students on my book and the concept of Hyperthinking, a mindset for our digital age. The upcoming trip marks my first return to the Canada in 15 years.<br />
+<a href="http://hyperthinker.wpengine.com/wp-content/uploads/2014/11/466376149.jpg"><img class="size-full wp-image-790 aligncenter" title="Heading Canada" src="http://hyperthinker.wpengine.com/wp-content/uploads/2014/11/466376149.jpg" alt="" width="437" height="437" srcset="http://hyperthinker.wpengine.com/wp-content/uploads/2014/11/466376149.jpg 1733w, http://hyperthinker.wpengine.com/wp-content/uploads/2014/11/466376149-150x150.jpg 150w, http://hyperthinker.wpengine.com/wp-content/uploads/2014/11/466376149-300x300.jpg 300w, http://hyperthinker.wpengine.com/wp-content/uploads/2014/11/466376149-1024x1024.jpg 1024w" sizes="(max-width: 437px) 100vw, 437px" /></a></p>
+<p>Traveling as a speaker on Hyperthinking, has taken me from one part of the globe and back. Next week my invitation to speak at MacEwan University brings me to Edmonton. I was asked to speak about adopting a new mindset to manage best in our changing world, and I have to say, I am looking forward to the adventure and the opportunity. The event takes place on November 20and my participation will run through the entire week. Hosted by MacEwan University’s Bachelor of Communication Studies in partnership with the MACT program at the University of Alberta and IABC Edmonton.</p>
+<p>The event is free, and I encourage your registration if you’re in Edmonton next week. However, if you can’t make it to Canada to catch the talks, you can still be part of the discussion by joining us on Twitter. I will be answering questions from participants throughout the week on the social network. The Hyperthinker blog will be sharing a blog post each day from the great white North, so stay tuned and remember to join in by following me on Twitter at @pweiss, and remember to use the hashtag #hyperthinker.</p>
+                        <div class="clear"></div>
+        </div>
+                                <div class="post-info">
+            <div class="info-left">
+                <p class="post-category"><a href="http://hyperthinker.wpengine.com/category/events/" rel="category tag">Events</a>, <a href="http://hyperthinker.wpengine.com/category/hyperthoughts/" rel="category tag">Hyperthoughts</a></p>
+            </div>
+            <div class="info-right">
+                <p class="post-tag"><a href="http://hyperthinker.wpengine.com/tag/canada/" rel="tag">canada</a></p>
+            </div>
+            <div class="clear"></div>
+        </div>
+                                        </li>
+        <li>
+                <h2 class="post-title"><a href="http://hyperthinker.wpengine.com/2014/hacking-it-out-in-hyderabad/">Hacking it out in Hyderabad</a></h2>
+                        <div class="post-meta">
+                        <div class="meta-left">
+                <span class="postdate">Nov 4th 2014&nbsp;&nbsp;&nbsp;&nbsp;
+                <span class="postauthor">By: Philip Weiss</span></span>
+            </div>
+                        <div class="meta-right">
+                                <span class="postcomments"><a href="http://hyperthinker.wpengine.com/2014/hacking-it-out-in-hyderabad/#respond">No comments</a></span>
+                                            </div>
+            <div class="clear"></div>
+        </div>
+                <div class="post-content">
+                        <p>Last week I was invited to speak at the <a href="http://hyderabad2014.metropolis.org">XI Metropolis World Congress 2014</a> in Hyderabad on Break Dengue. An initiative we began just over a year ago to fight one of the most economically devastating diseases around the globe, which affects populations in over 100 countries, dengue fever. We hope that Break Dengue will soon roll out a dengue prevention project in Hyderabad using mobile technology to fight the disease in Hyderabad. So, this wasn’t my first time to be in Hyderabad, but this time round I had been invited to serve as a judge and a mentor for a <a href="http://www.isb.edu/metropolis2014">hackathon</a> by Alfonso Govela.</p>
+<p><img class="size-full wp-image-735 alignleft" title="Hackathon" src="http://hyperthinker.wpengine.com/wp-content/uploads/2014/11/Hackathon.png" alt="" width="535" height="273" srcset="http://hyperthinker.wpengine.com/wp-content/uploads/2014/11/Hackathon.png 535w, http://hyperthinker.wpengine.com/wp-content/uploads/2014/11/Hackathon-300x153.png 300w" sizes="(max-width: 535px) 100vw, 535px" /></p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>A co-founder of  Digital Civics, a UN-Habitat initiative for a new citizenship in our XXI Century, which includes platforms of knowledge, ecosystems of interaction, and interfaces for governance. Alfonso wears many hats; he’s an architect, an urban planner and an educator. This was my first opportunity involved in such an event and although I had heard about the concept before, I was thrilled to see it up close in action.</p>
+<p><a href="http://hyperthinker.wpengine.com/wp-content/uploads/2014/11/Hackathon-presentation2.png"><img class="alignleft size-large wp-image-778" title="Hackathon presentation" src="http://hyperthinker.wpengine.com/wp-content/uploads/2014/11/Hackathon-presentation2-1024x698.png" alt="" width="573" height="391" srcset="http://hyperthinker.wpengine.com/wp-content/uploads/2014/11/Hackathon-presentation2-1024x698.png 1024w, http://hyperthinker.wpengine.com/wp-content/uploads/2014/11/Hackathon-presentation2-300x204.png 300w, http://hyperthinker.wpengine.com/wp-content/uploads/2014/11/Hackathon-presentation2.png 1224w" sizes="(max-width: 573px) 100vw, 573px" /></a></p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>The concept of a <a href="http://en.wikipedia.org/wiki/Hackathon">hackathon</a> is simple. You get a group of technologists and creatives together for usually about 24 &#8211; 48 hours, make them form groups, and each group needs to find a solution to a specific problem. The problem is, pre-defined by an organization, a community of people or a group of subject matter experts with extensive experience in the topic. The hackathon was initially a software dominated concept with programmers writing code to win a specific challenge, but it can also be applied to business, marketing or any other field such as governance or social impact. Although a ‘hackathon’ is a relatively new concept once owned by coders, the concept is taking off in all fields.</p>
+<p>The United States Air Force Research Laboratory recently <a href="http://www.af.mil/News/ArticleDisplay/tabid/223/Article/503494/hackathon-to-help-solve-real-world-problems.aspx">implemented</a> a hackathon to solve problems that its teams regularly see. The World Bank has also used the concept through regional engagement to tackle issues with <a href="https://speakerdeck.com/secondmuse/water-hackathon-2012-world-bank">water</a>, <a href="http://www.codeforresilience.org/">city resilience</a> and <a href="http://www.vdhackathon.org/en.html">domestic violence</a>.  <a href="http://www.wired.com/2014/06/medical-technology-hackathons-are-saving-lives-we-need-more/">Wired</a> recently recapped results from a series of hackathons organized over 18 months to save lives.</p>
+<p>In the case of the Metropolis Hackathon, the goal was to come up with the idea that would help the city, through the innovative use of technology. The solution could be possibly by building an app, a technology process or local project. The event was run by my inviter to the panel, Alfonso Govela. Involved in Cities and ICT since his early days at MIT, Alfonso has s a great deal of experience with such projects.</p>
+<p><a href="http://hyperthinker.wpengine.com/wp-content/uploads/2014/11/hackathon-meeting.jpg"><img class="size-full wp-image-738 alignleft" title="hackathon meeting" src="http://hyperthinker.wpengine.com/wp-content/uploads/2014/11/hackathon-meeting.jpg" alt="" width="576" height="384" srcset="http://hyperthinker.wpengine.com/wp-content/uploads/2014/11/hackathon-meeting.jpg 720w, http://hyperthinker.wpengine.com/wp-content/uploads/2014/11/hackathon-meeting-300x200.jpg 300w" sizes="(max-width: 576px) 100vw, 576px" /></a></p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>It was impressive to see the level of energy, creativity and detail some of the contestants brought to this event. And some of the ideas were truly ground breaking. Once finalized, the short listed candidates were quizzed by the judges, which included some city officials, experienced programmers, entrepreneurs and myself. Participating in my first hackathon opened my eyes to the potential business applications the process could have. Imagine solving those ordinary as well as extreme problems that businesses face every day.</p>
+<p>One has to admire the ‘hackathon’ mindset, which is about trying to find ‘out of the box’ solutions to common problems in a short space of time and under intense scrutiny. Having a diverse group of participants collaborate by providing very different points of view and insights to the creative process designed to find solutions is an additional value add towards innovating on some of these challenges.</p>
+<p><iframe width="500" height="281" src="http://www.youtube.com/embed/qgBVCLTeIVA?feature=oembed" frameborder="0" allowfullscreen></iframe></p>
+<p><em>(Mistake on the tag of the video pending to solve)</em></p>
+<p>Having a number of participants stuck in a room together for an extended period unlocks a certain energy, which is then transformed into a catalyst for solving real world problems. The Hackathon at the Hyderabad Metropolis Conference proved to be a creative environment that delivered engagement and respect from the experts in the software industry. I soon realized, that hosting a hackathon could be a great opportunity for any business interested in networking and meeting new problem solvers, which might prove to be valuable assets down the road. Like most hackathons outside of New York and San Francisco (where they can be found every weekend) the event was highly covered by the press, providing plenty of quality media exposure.</p>
+<p><a href="http://hyperthinker.wpengine.com/wp-content/uploads/2014/11/hackatlon-small-group1.jpg"><img class="size-full wp-image-746 alignleft" title="hackatlon small group" src="http://hyperthinker.wpengine.com/wp-content/uploads/2014/11/hackatlon-small-group1.jpg" alt="" width="576" height="384" srcset="http://hyperthinker.wpengine.com/wp-content/uploads/2014/11/hackatlon-small-group1.jpg 720w, http://hyperthinker.wpengine.com/wp-content/uploads/2014/11/hackatlon-small-group1-300x200.jpg 300w" sizes="(max-width: 576px) 100vw, 576px" /></a></p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>A hackathon is the kind of event that can be actually very productive. They even have the potential to be profitable for a company that organizes one, as long as they create the right types of follow-up mechanisms for projects to continue being worked on by the teams. Some of these projects can move on to operate as independent startups or programs while others are backed by specific institutions.</p>
+<p>In addition to hosting, the city of Hyderabad had made a strong commitment that this was not just going to be a theoretical exercise, but something they would seriously consider implementing. The Municipal Commissioner, Somesh Kumar told the short listed candidates to stay in touch even if they didn’t win.  He wanted to hear their ideas in more detail, to evaluate whether or not they could be applied in one way or the other. The winning entries were already being discussed as possible projects that the city would fund and support.  So the process is about generating ideas and putting them into practice quickly thereafter.  Out of 390 registered teams and 200 preliminary ideas, 20 projects made it to a short list, and the selected winning teams were 6:</p>
+<div>
+<ul>
+<li>245, House Numbering: Digital Numbering Systems for every house in Hyderabad.</li>
+<li>269, CyberCitizens: Intelligent Grievance &amp; Incident Response System.</li>
+<li>277, ConceptWaves: A Central Pedophile Registry.</li>
+<li>293, Parking Management: Inventory of parking spaces for personalized users.</li>
+<li>335, Tech for Senior Citizen: Voice mechanism for basic needs of senior population.</li>
+<li>419, Doc in a Box: Basic diagnosis equipment for health care of chronic diseases.</li>
+</ul>
+<p>&nbsp;</p>
+<p>More on the event and the winners <a href="http://www.isb.edu/metropolis2014">here</a>.</p>
+<p>The adaptation of the hackathon can be used in business to work out issues both big and small. Various companies and organizations are also seeing the benefits in unlocking internal talent and breaking down silos of knowledge within the organizations themselves.</p>
+<p>Our own Hyperthinking session follow a similar structure, as we identify a challenge and get a group together to look for innovative ways of solving the problems.  But a hackathon has a broader appeal as it deliberately targets a broad community of people with different talents and seeks completely new insights into solving existing challenges.</p>
+<p>At ZN, we applaud the effort the teams given in Hyderabad and the creative and collaborative approach to the problem-solving of the days event.</p>
+<p>How are you driving creative problem-solving with your team? Perhaps it is time to give it hack!</p>
+</div>
+                        <div class="clear"></div>
+        </div>
+                                <div class="post-info">
+            <div class="info-left">
+                <p class="post-category"><a href="http://hyperthinker.wpengine.com/category/uncategorized/" rel="category tag">Uncategorized</a></p>
+            </div>
+            <div class="info-right">
+                <p class="post-tag"></p>
+            </div>
+            <div class="clear"></div>
+        </div>
+                                        </li>
+        <li>
+                <h2 class="post-title"><a href="http://hyperthinker.wpengine.com/2014/the-most-fundamental-skill-schools-should-teach/">The most fundamental skill schools should teach</a></h2>
+                        <div class="post-meta">
+                        <div class="meta-left">
+                <span class="postdate">Sep 23rd 2014&nbsp;&nbsp;&nbsp;&nbsp;
+                <span class="postauthor">By: Philip Weiss</span></span>
+            </div>
+                        <div class="meta-right">
+                                <span class="postcomments"><a href="http://hyperthinker.wpengine.com/2014/the-most-fundamental-skill-schools-should-teach/#respond">No comments</a></span>
+                                            </div>
+            <div class="clear"></div>
+        </div>
+                <div class="post-content">
+                        <p>I was recently interviewed by <a href="http://www.mbain.eu/mbain/news/most-fundamental-skill-schools-should-teach">MBAin</a>, an organization which has built up a community around helping out MBA grads with career choices, all the while understanding the true value of their newly gotten education. The MBAin editorial staff wanted to know my thoughts on the topic of education in the modern-day classroom. As Hyperthinker readers know, learning is a topic often addressed on the Hyperthinker blog. This is in part due to our passions surrounding the subject, but also because of our concerns with the institutional mindset still found in many places of learning.<br />
+Next week the Hyperthinker blog will take a look at modern-day education, how it’s changing and examine what’s still missing from the picture. So, join the Hyperthinker discussion, and let’s rethink thinking. In the meanwhile, check out the interview with MBAin and let us know what you think. Which fundamental skill sets do you think schools should be teaching nowadays?</p>
+<p>&#8220;Nowadays, there are many avenues for learning out there that education experts encourage us to explore. As part of our series of talks with Education experts and advocates, we recently sat down with Philip Weiss to discuss a topic that is getting more and more traction these days, education. We spoke to Phillip Weiss, Founder and Chief Hyperthinker at ZN (a leading digital communications consultancy) and <a href="http://www.ted.com/about/programs-initiatives/tedx-program">TEDx </a>speaker to get his thoughts on a subject covered in his latest book, &#8220;Hyperthinking&#8221;. Learning.</p>
+<p><strong>We live in a world of constant change, so why is it that one of society’s most fundamental building blocks remains virtually the same?</strong></p>
+<p><img class="alignright size-full wp-image-722" title="Phil" src="http://hyperthinker.wpengine.com/wp-content/uploads/2014/09/Phil.jpg" alt="" width="259" height="194" /></p>
+<p>Hyper-learning is really the dimension that touches on learning and creativity. It’s the first and most important part of hyper-learning, the ability to self-learn. What’s interesting is that when most people reflect on their own life-learnings, we often discover that the most profound learning experiences are those which we have accomplished on our own. I think taking control of our learning already makes it much more intense and changes attitudes when we realize someone is not telling us what to think, but in fact we are deciding ourselves what exactly it is we wish to learn. So I think the first point which is really critical, is to take ownership of our learning and to start shaping it in the direction that is best for ourselves.</p>
+<p><strong>Can anybody do this?</strong></p>
+<p>Everybody does it to a certain degree. What makes it such a big deal are the level of intensity, the structure, the comprehensiveness and the energy that people put into the process. Most of the time, the traditional view of learning is that we have a place where we learn, and that place is school. Later, some go on to university and into different professional environments, but nowadays the learning has to continue, but many of us have created an idea that learning belongs to certain places and that certain people are supposed to be teachers. This belief can be a harmful conception. We must accept learning as our own responsibility. In today’s environment of rapid change, with new technology, we cannot count on other people, structures or environments to provide us with all the information we really need to be successful and able to adapt to our own evolving worlds.</p>
+<p><strong>In this case, what do schools bring as added value?</strong></p>
+<p>Well, I think if you look at the school as an institution we can say that, to a certain degree it was created to educate a workforce that was required to have a common knowledge in reading, writing, and mathematics. This was in fact so that students could go on to be able to operate in a number of working environments, mainly as factory workers. It was also a way to allow parents to work, especially once mothers joined the workforce. School as we know it appeared in a historical context that might no longer be relevant to today’s modern age. This system was designed for the industrial age where you have people sitting in a room, basically following orders from a teacher with fairly limited interaction or group discussion, research or creativity. We have come to wonder whether schools teach the most fundamental skill which is the ability to learn by yourself. Unfortunately, it doesn’t! It often creates a whole system, which creates a dependency on a teacher to tell us what to learn. We later depend on teachers again to qualify our learning. If we take learning in a straightforward manner, we might believe that it can only happen with the aid of authority figures, success and failure should be self-evident.</p>
+<p><strong>How can schools change?</strong></p>
+<p>I think schools need to change so that they start teaching skills that are much more relevant and find more innovative ways to teach today’s required skills. Of course we need to learn how to read, write and master other core skills, but we also need to learn to be creative. The second part of the hyper-learning dimension, currently not taught in a systematic way throughout most schools. A lot of people think children are naturally creative, which is true to a certain extent, but unfortunately traditional schooling systems hammer out creativity as soon as children become older. Actually what we would need to be doing is the exact opposite. We should offer creativity tools to learners of all ages, and continue developing the process, to further our creativity skills and avoid falling into the paradigm of believing that we’re either creative, or not. It’s crucial for schools to rethink the teaching, to experiment with new models, to introduce new concepts and become a laboratory for learning, bringing new ideas to the classroom and the world.</p>
+<p><strong>Does this transformation apply to business schools as well?</strong></p>
+<p>Absolutely! I think business schools are also doing very interesting things in terms of improving their materials, processes and infrastructure. They often bring forward interesting and innovative thinking. However, there had been little experimentation with new, radical changes up until the MOOCs came along, which is what we see business schools are exploring right now. I think the business school model needs to be rethought, keeping in mind the vast opportunities we now have before us in terms of learning tools. Learning is about experimentation, openness, and rethinking how we as students can best learn and adapt to the 21st century.</p>
+<p><em>Watch Phil talking about hyper-learning at TEDxULB in Brussels earlier this year. How do you adapt your learning? Let us know your answers in the comments box below.&#8221;</em></p>
+<p>&nbsp;</p>
+<p><iframe src="//www.youtube.com/embed/mgTivMHlfpc" frameborder="0" width="560" height="315"></iframe></p>
+                        <div class="clear"></div>
+        </div>
+                                <div class="post-info">
+            <div class="info-left">
+                <p class="post-category"><a href="http://hyperthinker.wpengine.com/category/uncategorized/" rel="category tag">Uncategorized</a></p>
+            </div>
+            <div class="info-right">
+                <p class="post-tag"></p>
+            </div>
+            <div class="clear"></div>
+        </div>
+                                        </li>
+        <li>
+                <h2 class="post-title"><a href="http://hyperthinker.wpengine.com/2014/seeking-a-new-mindset-for-future-tourism/">Seeking a new mindset for future tourism</a></h2>
+                        <div class="post-meta">
+                        <div class="meta-left">
+                <span class="postdate">Sep 4th 2014&nbsp;&nbsp;&nbsp;&nbsp;
+                <span class="postauthor">By: Philip Weiss</span></span>
+            </div>
+                        <div class="meta-right">
+                                <span class="postcomments"><a href="http://hyperthinker.wpengine.com/2014/seeking-a-new-mindset-for-future-tourism/#respond">No comments</a></span>
+                                            </div>
+            <div class="clear"></div>
+        </div>
+                <div class="post-content">
+                        <p>I remember as a child, my mother was an avid planner of all our trips.  She would gather books, notes and information in a large file, preparing our trips with a great deal of care and attention. Travelling then involved carrying around a great deal of papers, books and notes that would also form proof of the experience and was collected with great care. Perhaps seeing this notebook grow added to my anticipation of travel, but today my own two children don’t have a notebook to watch expand. With the advent of E-documents, e-tickets, and e-reservations, there’s hardly a need to print and collect anything into a book these days. Instead, my children like many of the 1.32 billion users, get and share their vacation excitement on Facebook and/or their other social networks. Let’s face it, the way we travel and experience travel has already changed, and our mindset is changing along with it.</p>
+<p><a href="http://hyperthinker.wpengine.com/wp-content/uploads/2014/09/Traditional_travel.jpg"><img class="size-medium wp-image-699 alignleft" title="Traditional_travel" src="http://hyperthinker.wpengine.com/wp-content/uploads/2014/09/Traditional_travel-300x200.jpg" alt="" width="300" height="200" srcset="http://hyperthinker.wpengine.com/wp-content/uploads/2014/09/Traditional_travel-300x200.jpg 300w, http://hyperthinker.wpengine.com/wp-content/uploads/2014/09/Traditional_travel-1024x682.jpg 1024w" sizes="(max-width: 300px) 100vw, 300px" /></a><a href="http://hyperthinker.wpengine.com/wp-content/uploads/2014/09/New_travel.jpg"><img class="size-medium wp-image-700 alignleft" title="New_travel" src="http://hyperthinker.wpengine.com/wp-content/uploads/2014/09/New_travel-300x225.jpg" alt="" width="270" height="203" srcset="http://hyperthinker.wpengine.com/wp-content/uploads/2014/09/New_travel-300x225.jpg 300w, http://hyperthinker.wpengine.com/wp-content/uploads/2014/09/New_travel-1024x768.jpg 1024w" sizes="(max-width: 270px) 100vw, 270px" /></a></p>
+<p>For those (rapidly diminishing few) who prefer to do things the traditional way, you can still go to the travel agent and book your holiday in a jiffy, ending up with a competitive deal. However, if you are a traveler who has already made the Hypershift in thinking towards modern-day travel, you can book you entire holiday from your device of choice without ever leaving your arm-chair, all the while taking control of your vacation. The resources offered to the traveler today are endless, and we travelers have access to some of the best rates that anyone (including travel agents) can find. Skyscanner, booking.com, tripadvisor, Airbnb, Couchsurfing.com, Lonely Planet, to name a few. We can explore the whole world from our digital devices, compare, select and choose our favorite choices and see what strangers, friends and family and have said about the places we are thinking of choosing.</p>
+<p><iframe src="http://prezi.com/embed/vbzwm4jxri1v/?bgcolor=ffffff&amp;lock_to_path=0&amp;autoplay=0&amp;autohide_ctrls=0&amp;features=undefined&amp;disabled_features=undefined&amp;html5=1" width="550" height="400" frameBorder="0" webkitAllowFullScreen mozAllowFullscreen allowfullscreen></iframe></p>
+<p>However like all good things in life, this too comes with two caveats. The first one is time: the industry has turned self service! The internet forces us to do all the work. If you consider the time and effort it now takes to plan a holiday it seems to have increased disproportionally compared to the good old days of the travel agent. This time and energy gives you a sense of power and control, but sometimes you have less control than you think. The second one is the danger of not reading the fine print – or getting something wrong.  Have you ever clicked on the booking confirmation button only to find out a few minutes later that you selected the wrong departure or arrival date?  Often this simple mistake can be very costly. Airlines have become unforgiving if you make the slightest error in filling the information on your flight.  Recently I had written the wrong name for one of my family on a ticket, when I tried to correct my mistake the airline told me I would need to purchase a new ticket (which by now had doubled in cost). It took several hours of persuasion as well as trip to the airport to get the change done free of charge.  However nowadays, a click feels like a simple way to close a transaction, but sometimes we are just too quick to click and this can cost us dearly.</p>
+<p>However regardless of where we stand, the internet has transformed travel as we know it.</p>
+<p><a href="http://hyperthinker.wpengine.com/wp-content/uploads/2014/09/490799277.jpg"><img class="alignleft size-medium wp-image-694" title="490799277" src="http://hyperthinker.wpengine.com/wp-content/uploads/2014/09/490799277-300x192.jpg" alt="" width="300" height="192" srcset="http://hyperthinker.wpengine.com/wp-content/uploads/2014/09/490799277-300x192.jpg 300w, http://hyperthinker.wpengine.com/wp-content/uploads/2014/09/490799277-1024x658.jpg 1024w" sizes="(max-width: 300px) 100vw, 300px" /></a></p>
+<p>Around the same time that the internet changed from top-down information to down to top content consumption, it pinned a tendency that people commonly understood. There are no more barriers to information, and that we as a community have all the resources we need to become our own experts by using the tools we have around us. Making a Hypershift in thinking made us realize, maybe don´t need a hotel anymore to sleep in while away. Airbnb is an example of the Hypershift in thinking. It is a simple digital service that enables you to rent out your home or spare room to travelers and make some supplementary income, and like many social platforms it is socially governed by its own experts, people like you and me.</p>
+<p>A passing fad? Don’t argue against the Oracle. Warren Buffet has recently steered his own people from Berkshire to Airbnb as a way of protecting them from price-gauging by big hotel chains during mass events. According to an Airbnb spokesperson at the last SXSW in Austin, over 11.000 attendees turned to Airbnb for lodging.  Just the other day a colleague of mine booked a stay on Airbnb, and not 5 hour after the booking was confirmed did he receive a list of things to do while abroad. One of the opportunities being a private meal cooked by a qualified award winning chef in his own home at a 70% discount to what he would expect to pay in a Parisian restaurant for the same meal. Wine included! The Chef is clearly taking advantage of the opportunity Airbnb offers, and Hyperlinked his service to the platform at hand.</p>
+<p>Hyperlinking or connecting and embracing the technology that surrounds us every day not only betters our travel experience, but is also a great way to connect with and build the travel communities around us. The Hypershift in thinking towards travel forces all travelers to be experts and make informed travel decisions that create a better experience while abroad using earned or shared expert knowledge at no or little cost. If the tourism industry wants to keep up with its tech savvy travelers – and this will soon be the majority of travelers &#8211; it had best adapt. Tourism related businesses, particularly some of the smaller hotel and travel SMEs have been in a rut for some time, losing millions of Euros to the larger hotel chains year after year. The travel industry is one of great competition, and to be successful, you need the right tools, networks and mindset to succeed.</p>
+<p><a href="http://hyperthinker.wpengine.com/wp-content/uploads/2014/09/Tourism_Conference_Phil2.jpg"><img class="alignleft size-medium wp-image-690" title="Tourism_Conference_Phil" src="http://hyperthinker.wpengine.com/wp-content/uploads/2014/09/Tourism_Conference_Phil2-300x200.jpg" alt="" width="300" height="200" srcset="http://hyperthinker.wpengine.com/wp-content/uploads/2014/09/Tourism_Conference_Phil2-300x200.jpg 300w, http://hyperthinker.wpengine.com/wp-content/uploads/2014/09/Tourism_Conference_Phil2-1024x682.jpg 1024w" sizes="(max-width: 300px) 100vw, 300px" /></a></p>
+<p>I was recently invited to be a keynote speaker at a travel related event for a European initiative called TOURISMlink. TOURISMlink is a European Commission sponsored initiative out to connect the SMEs in the digital tourism supply chain with one another in order to better share information and to expand more competitive pricing for the consumer. In a nutshell, the aim is to bring the smaller travel players in to the global arena, finally taking the digital advantage to work for them and growing their own business networks along the way. This kind of changing mindset can not only create new opportunities and business, but most importantly, make our holidays better and potentially easier on the wallet. When we Hyperthink from a business perspective, we can then realize, that if one small business lacks a resource, why not make it available and offer it from another small competitor? Hyperthinking, and “hypercompeting”.</p>
+<p><iframe width="500" height="281" src="https://www.youtube.com/embed/B-Ss4p0ISl0?feature=oembed" frameborder="0" allowfullscreen></iframe></p>
+<p><iframe width="500" height="281" src="https://www.youtube.com/embed/bruOYKDV-VE?feature=oembed" frameborder="0" allowfullscreen></iframe></p>
+<p>When my own mother booked our family holiday, she was quick to use an expert opinion, usually a travel agent. Today, you’re the expert and so are the people around you. With the tools we have and the connections we make, travelers and businesses alike can both benefit the holiday-goer together. Our shift from having been customers seeking advice to becoming customers giving advice, provides for a more informed and even safer trip abroad for you and your whole family. So, go out this year and do some research for us all, and when you get back from holiday this year, think about all you have learned while away and Hyperlink your expert opinion to your community.  Happy holidays…</p>
+                        <div class="clear"></div>
+        </div>
+                                <div class="post-info">
+            <div class="info-left">
+                <p class="post-category"><a href="http://hyperthinker.wpengine.com/category/uncategorized/" rel="category tag">Uncategorized</a></p>
+            </div>
+            <div class="info-right">
+                <p class="post-tag"></p>
+            </div>
+            <div class="clear"></div>
+        </div>
+                                        </li>
+        <li>
+                <h2 class="post-title"><a href="http://hyperthinker.wpengine.com/2014/hyperthinking-in-the-smart-city/">Hyperthinking in the Smart City</a></h2>
+                        <div class="post-meta">
+                        <div class="meta-left">
+                <span class="postdate">Jul 16th 2014&nbsp;&nbsp;&nbsp;&nbsp;
+                <span class="postauthor">By: Philip Weiss</span></span>
+            </div>
+                        <div class="meta-right">
+                                <span class="postcomments"><a href="http://hyperthinker.wpengine.com/2014/hyperthinking-in-the-smart-city/#respond">No comments</a></span>
+                                            </div>
+            <div class="clear"></div>
+        </div>
+                <div class="post-content">
+                        <p>In many places around the world, we urbanites already see the ‘city of the future’ unveiling right before our eyes a bit more every day. There are many integrated parts to a ‘Smart City’ enabling ourselves and the lives of ‘Others’ to be better connected to our surroundings. However, technology is only a part of the ‘Smart City’, and it allows us to take a look at local problems from a global perspective as we hypershift our vision and take a new look at modern problems through new lenses. How we can further use all this connectivity to improve our own well-being and the well-being of those less fortunate than ourselves?</p>
+<p>I recently took part in a round table discussion called, ‘Participative city, e-democracy, citizen expression‘, as part of ‘<a href="http://www.liveinalivingcity.com/">Live in a Living City</a>’ in Paris for the international conference on the city of the future. Author Edward T. McMahon once said of cities, “Growth is inevitable and desirable, but destruction of community character is not. The question is not whether your part of the world is going to change. The question is how.”</p>
+<p><a href="http://hyperthinker.wpengine.com/wp-content/uploads/2014/07/Living-Banner1.png"><img class="alignnone size-full wp-image-611" title="Living Banner" src="http://hyperthinker.wpengine.com/wp-content/uploads/2014/07/Living-Banner1.png" alt="dsdsa" width="568" height="222" srcset="http://hyperthinker.wpengine.com/wp-content/uploads/2014/07/Living-Banner1.png 1183w, http://hyperthinker.wpengine.com/wp-content/uploads/2014/07/Living-Banner1-300x117.png 300w, http://hyperthinker.wpengine.com/wp-content/uploads/2014/07/Living-Banner1-1024x399.png 1024w" sizes="(max-width: 568px) 100vw, 568px" /></a>Image courtesy of ‘Live in Living on a City‘</p>
+<p style="text-align: left;">A growing challenge facing cities in Asia and Latin America is a disease called Dengue. Dengue is a very painful and sometimes deadly disease which affects over 40% of the global population. Countries in South East Asia are hit particularly hard by this vector-borne disease, and with rising infection rates in India, where I am traveling at the moment.</p>
+<p><a href="http://hyperthinker.wpengine.com/wp-content/uploads/2014/07/Red-card-02.jpg"><img class="size-medium wp-image-605 alignnone" title="Red-card-02" src="http://hyperthinker.wpengine.com/wp-content/uploads/2014/07/Red-card-02-217x300.jpg" alt="" width="217" height="300" srcset="http://hyperthinker.wpengine.com/wp-content/uploads/2014/07/Red-card-02-217x300.jpg 217w, http://hyperthinker.wpengine.com/wp-content/uploads/2014/07/Red-card-02.jpg 667w" sizes="(max-width: 217px) 100vw, 217px" /></a><a href="http://hyperthinker.wpengine.com/wp-content/uploads/2014/07/Red-card-02.jpg"><img class="size-medium wp-image-606 alignnone" title="Infographics RedCard" src="http://hyperthinker.wpengine.com/wp-content/uploads/2014/07/Infographics-RedCard-217x300.jpg" alt="" width="217" height="300" srcset="http://hyperthinker.wpengine.com/wp-content/uploads/2014/07/Infographics-RedCard-217x300.jpg 217w, http://hyperthinker.wpengine.com/wp-content/uploads/2014/07/Infographics-RedCard.jpg 667w" sizes="(max-width: 217px) 100vw, 217px" /></a></p>
+<p>To face these challenges individuals and organizations are exploring how new technologies can help find new and smart solutions. <a href="http://www.breakdengue.org">Break Dengue</a> is an organization I helped co-found which is connecting people across the world, in order to work together towards a common goal, to break dengue. At the moment Break Dengue is raising awareness for this neglected disease during the World Cup with its ‘<a href="http://www.breakdengue.org/campaigns/redcard/">Red Card Dengue</a>’ campaign, but back in December of 2013, Break Dengue turned to its online community of over 250, 000 Facebook followers (link to group) for global solutions to a local problem or ‘Glocal’ solutions. I announced the “Break Dengue India Prize” during my <a href="http://www.ted.com/tedx/events/8958">TEDxGateway</a> talk in Mumbai last December of 2013, subsequently, Break Dengue launched its global contest on social media to give away $10,000 to implement a solution to dengue in some of the most affected cities of India.</p>
+<p><iframe src="//www.youtube.com/embed/-kFziFmP_-k" frameborder="0" width="560" height="315"></iframe></p>
+<p>After months of online promotion by the team and after reviewing the multiple applicants and ideas a winner was chosen by our esteemed panel of judges. The winner, <a href="http://timesofindia.indiatimes.com/city/mumbai/Soon-get-real-time-alerts-on-dengue/articleshow/33350727.cms">X-Dengue</a> proposed to adapt their digital solution &#8211; which connects the population in Singapore to a warning network using technology almost everyone already had, a mobile phone – in order to implement it in India. A ‘Glocal’ solution had been found. X-Dengue, an organization out of Singapore, used its own hyperthinking to incorporate basic, widespread technology that enables locals to take action against dengue infection rates in their own communities by implementing dengue prevention measures and surveillance.</p>
+<p><iframe src="//www.youtube.com/embed/dTCSe5xzpgY" frameborder="0" width="560" height="315"></iframe></p>
+<p>By identifying dengue clusters and reporting the updates to the urban population in real-time, X-Dengue enables measures to be taken in advance in order to control the spreading of the disease and its vector, the <a href="http://es.wikipedia.org/wiki/Aedes_aegypti">Aedes aegypti mosquito</a>. The technology is not groundbreaking, nor is it new, but it is a successful hypershift in perception as to how we can use existing technology to further our own well-being. Many are betting on ‘smart’ cities to enable for a healthier global population. In fact, the Indian government recently proposed an allocation of Rs 7,060 crore this year to develop 100 &#8216;smart cities&#8217; in the country. With ‘Smart Cities’ popping up all around us, one has to wonder if it will be the technology integrated into the ‘Smart City’ that improves our well-being or if it will be the smart people looking at these advances through new lenses and applying them to local problems. It’s not just the technology that will make our cities a better place to live, it’s what we do with it both locally and ‘Glocally’.</p>
+                        <div class="clear"></div>
+        </div>
+                                <div class="post-info">
+            <div class="info-left">
+                <p class="post-category"><a href="http://hyperthinker.wpengine.com/category/events/" rel="category tag">Events</a>, <a href="http://hyperthinker.wpengine.com/category/hyperthinkers/" rel="category tag">hyperthinkers</a></p>
+            </div>
+            <div class="info-right">
+                <p class="post-tag"><a href="http://hyperthinker.wpengine.com/tag/break-dengue/" rel="tag">Break Dengue</a>, <a href="http://hyperthinker.wpengine.com/tag/dengue/" rel="tag">Dengue</a>, <a href="http://hyperthinker.wpengine.com/tag/india-prize/" rel="tag">India Prize</a>, <a href="http://hyperthinker.wpengine.com/tag/redcarddengue/" rel="tag">RedCardDengue</a>, <a href="http://hyperthinker.wpengine.com/tag/smart-city/" rel="tag">smart city</a>, <a href="http://hyperthinker.wpengine.com/tag/x-dengue/" rel="tag">X-Dengue</a></p>
+            </div>
+            <div class="clear"></div>
+        </div>
+                                        </li>
+                <li>
+        <div class="navigation-pages">
+<ul class='page-numbers'>
+	<li><span aria-current='page' class='page-numbers current'>1</span></li>
+	<li><a class='page-numbers' href='http://hyperthinker.wpengine.com/page/2/'>2</a></li>
+	<li><a class='page-numbers' href='http://hyperthinker.wpengine.com/page/3/'>3</a></li>
+	<li><a class='page-numbers' href='http://hyperthinker.wpengine.com/page/4/'>4</a></li>
+	<li><a class="next page-numbers" href="http://hyperthinker.wpengine.com/page/2/"><strong>&gt;</strong></a></li>
+</ul>
+
+</div><div class='clear'></div>
+    </li>
+    </ul>    </div>
+        <div id="sidebar" style="width:283px; padding: 24px 44px 20px 0px;">
+
+
+
+<ul>
+    <li>			<div class="execphpwidget"><div id="sidebar_phil" style="position:relative; top:-43px; left:-18px; width:290px; font-size:11px; color:#777777" align="left">
+<img src="/wp-content/themes/icandy/images/phil_weiss.jpg" width="283" height="220" id="about_icon"/><br /><font style="font-size:12px;"><strong>Philip Weiss</strong></font><br />
+Founder, Chairman and Chief Hyperthinker of <a href="http://www.zn.be" target="_blank">ZN</a>, studied at the University of Oxford, where he read Philosophy, Politics and Economics.<br />&nbsp;<br />
+<a href="http://hyperthinker.wpengine.com/?page_id=2"><img src="/wp-content/themes/icandy/images/continute_reading.jpg" border="0"  /></a><br />&nbsp;<br />
+
+</div></div>
+		<div class="clear"></div></li><li>			<div class="execphpwidget"><div style="width:289px; height:0px; overflow:visible; position:relative; top:-50px; left:-20px; font-size:0px;">
+<a href="http://www.facebook.com/weissphil" target="_blank"><img src="/wp-content/themes/icandy/images/icon_fb.jpg"height="51" border="0"  /></a>
+<a href="http://twitter.com/pweiss" target="_blank"><img src="/wp-content/themes/icandy/images/icon_twitter.jpg" height="51" border="0"  /></a>
+<a href="https://plus.google.com/u/0/115231417404576569453/posts" target="_blank"><img src="/wp-content/themes/icandy/images/icon_google.jpg" height="51" border="0"  /></a>
+<a href="http://www.linkedin.com/in/pcweiss" target="_blank"><img src="/wp-content/themes/icandy/images/icon_linkedin.jpg" height="51" border="0"  /></a>
+<a href="http://www.youtube.com/znteam" target="_blank"><img src="/wp-content/themes/icandy/images/icon_youtube.jpg" height="51" border="0"  /></a>
+<a href="http://hyperthinker.wpengine.com/feed" target="_blank"><img src="/wp-content/themes/icandy/images/icon_rss.jpg" height="51" border="0"  /></a>
+</div></div>
+		<div class="clear"></div></li><li>			<div class="execphpwidget"><div style="position:relative; left:-19px;"><iframe width="282" height="175" src="http://www.youtube.com/embed/SumrWLBmAaI" frameborder="0" allowfullscreen></iframe></div></div>
+		<div class="clear"></div></li><li><h2>HyperThinking Book</h2>			<div class="execphpwidget"><div style="position:relative; left:-25px; top:5px;"><a href="http://www.hyperthinking.net" target="_blank"><img src="http://hyperthinking.net/images/book-thumb.jpg" border="0"></a></div></div>
+		<div class="clear"></div></li><li><h2>Archives</h2>		<label class="screen-reader-text" for="archives-dropdown-3">Archives</label>
+		<select id="archives-dropdown-3" name="archive-dropdown" onchange='document.location.href=this.options[this.selectedIndex].value;'>
+			
+			<option value="">Select Month</option>
+				<option value='http://hyperthinker.wpengine.com/2014/11/'> November 2014 </option>
+	<option value='http://hyperthinker.wpengine.com/2014/09/'> September 2014 </option>
+	<option value='http://hyperthinker.wpengine.com/2014/07/'> July 2014 </option>
+	<option value='http://hyperthinker.wpengine.com/2014/03/'> March 2014 </option>
+	<option value='http://hyperthinker.wpengine.com/2014/02/'> February 2014 </option>
+	<option value='http://hyperthinker.wpengine.com/2013/06/'> June 2013 </option>
+	<option value='http://hyperthinker.wpengine.com/2013/05/'> May 2013 </option>
+	<option value='http://hyperthinker.wpengine.com/2013/04/'> April 2013 </option>
+	<option value='http://hyperthinker.wpengine.com/2013/03/'> March 2013 </option>
+	<option value='http://hyperthinker.wpengine.com/2013/02/'> February 2013 </option>
+	<option value='http://hyperthinker.wpengine.com/2013/01/'> January 2013 </option>
+	<option value='http://hyperthinker.wpengine.com/2012/11/'> November 2012 </option>
+	<option value='http://hyperthinker.wpengine.com/2012/10/'> October 2012 </option>
+	<option value='http://hyperthinker.wpengine.com/2012/09/'> September 2012 </option>
+	<option value='http://hyperthinker.wpengine.com/2012/08/'> August 2012 </option>
+	<option value='http://hyperthinker.wpengine.com/2012/02/'> February 2012 </option>
+	<option value='http://hyperthinker.wpengine.com/2011/12/'> December 2011 </option>
+	<option value='http://hyperthinker.wpengine.com/2011/11/'> November 2011 </option>
+
+		</select>
+		<div class="clear"></div></li><li><h2>Categories</h2>		<ul>
+	<li class="cat-item cat-item-3"><a href="http://hyperthinker.wpengine.com/category/events/" >Events</a>
+</li>
+	<li class="cat-item cat-item-36"><a href="http://hyperthinker.wpengine.com/category/hyperlearning/" >hyperlearning</a>
+</li>
+	<li class="cat-item cat-item-55"><a href="http://hyperthinker.wpengine.com/category/hyperthinkers/" >hyperthinkers</a>
+</li>
+	<li class="cat-item cat-item-13"><a href="http://hyperthinker.wpengine.com/category/hyperthoughts/" >Hyperthoughts</a>
+</li>
+	<li class="cat-item cat-item-1"><a href="http://hyperthinker.wpengine.com/category/uncategorized/" >Uncategorized</a>
+</li>
+		</ul>
+<div class="clear"></div></li><li><h2>Tag Cloud</h2><div class="tagcloud"><a href="http://hyperthinker.wpengine.com/tag/association/" class="tag-cloud-link tag-link-30 tag-link-position-1" style="font-size: 8pt;" aria-label="association (1 item)">association</a>
+<a href="http://hyperthinker.wpengine.com/tag/beta/" class="tag-cloud-link tag-link-14 tag-link-position-2" style="font-size: 8pt;" aria-label="beta (1 item)">beta</a>
+<a href="http://hyperthinker.wpengine.com/tag/black-swan/" class="tag-cloud-link tag-link-50 tag-link-position-3" style="font-size: 8pt;" aria-label="black swan (1 item)">black swan</a>
+<a href="http://hyperthinker.wpengine.com/tag/brussels/" class="tag-cloud-link tag-link-24 tag-link-position-4" style="font-size: 16.6153846154pt;" aria-label="brussels (5 items)">brussels</a>
+<a href="http://hyperthinker.wpengine.com/tag/concepts/" class="tag-cloud-link tag-link-23 tag-link-position-5" style="font-size: 11.2307692308pt;" aria-label="concepts (2 items)">concepts</a>
+<a href="http://hyperthinker.wpengine.com/tag/crisis/" class="tag-cloud-link tag-link-4 tag-link-position-6" style="font-size: 8pt;" aria-label="crisis (1 item)">crisis</a>
+<a href="http://hyperthinker.wpengine.com/tag/dance/" class="tag-cloud-link tag-link-20 tag-link-position-7" style="font-size: 8pt;" aria-label="dance (1 item)">dance</a>
+<a href="http://hyperthinker.wpengine.com/tag/education/" class="tag-cloud-link tag-link-16 tag-link-position-8" style="font-size: 8pt;" aria-label="education (1 item)">education</a>
+<a href="http://hyperthinker.wpengine.com/tag/eif/" class="tag-cloud-link tag-link-39 tag-link-position-9" style="font-size: 8pt;" aria-label="EIF (1 item)">EIF</a>
+<a href="http://hyperthinker.wpengine.com/tag/entrepreneurship/" class="tag-cloud-link tag-link-34 tag-link-position-10" style="font-size: 8pt;" aria-label="entrepreneurship (1 item)">entrepreneurship</a>
+<a href="http://hyperthinker.wpengine.com/tag/eu/" class="tag-cloud-link tag-link-28 tag-link-position-11" style="font-size: 8pt;" aria-label="eu (1 item)">eu</a>
+<a href="http://hyperthinker.wpengine.com/tag/eu-elections/" class="tag-cloud-link tag-link-38 tag-link-position-12" style="font-size: 8pt;" aria-label="EU elections (1 item)">EU elections</a>
+<a href="http://hyperthinker.wpengine.com/tag/eurocomm/" class="tag-cloud-link tag-link-49 tag-link-position-13" style="font-size: 8pt;" aria-label="eurocomm (1 item)">eurocomm</a>
+<a href="http://hyperthinker.wpengine.com/tag/european-parliament/" class="tag-cloud-link tag-link-40 tag-link-position-14" style="font-size: 8pt;" aria-label="European Parliament (1 item)">European Parliament</a>
+<a href="http://hyperthinker.wpengine.com/tag/event/" class="tag-cloud-link tag-link-8 tag-link-position-15" style="font-size: 16.6153846154pt;" aria-label="Event (5 items)">Event</a>
+<a href="http://hyperthinker.wpengine.com/tag/events-2/" class="tag-cloud-link tag-link-31 tag-link-position-16" style="font-size: 13.3846153846pt;" aria-label="events (3 items)">events</a>
+<a href="http://hyperthinker.wpengine.com/tag/h1n1/" class="tag-cloud-link tag-link-10 tag-link-position-17" style="font-size: 8pt;" aria-label="h1n1 (1 item)">h1n1</a>
+<a href="http://hyperthinker.wpengine.com/tag/hyperacting/" class="tag-cloud-link tag-link-44 tag-link-position-18" style="font-size: 8pt;" aria-label="hyperacting (1 item)">hyperacting</a>
+<a href="http://hyperthinker.wpengine.com/tag/hypershifting/" class="tag-cloud-link tag-link-45 tag-link-position-19" style="font-size: 8pt;" aria-label="hypershifting (1 item)">hypershifting</a>
+<a href="http://hyperthinker.wpengine.com/tag/hyperthinker/" class="tag-cloud-link tag-link-7 tag-link-position-20" style="font-size: 16.6153846154pt;" aria-label="hyperthinker (5 items)">hyperthinker</a>
+<a href="http://hyperthinker.wpengine.com/tag/hyperthinking/" class="tag-cloud-link tag-link-18 tag-link-position-21" style="font-size: 22pt;" aria-label="hyperthinking (11 items)">hyperthinking</a>
+<a href="http://hyperthinker.wpengine.com/tag/iabc/" class="tag-cloud-link tag-link-6 tag-link-position-22" style="font-size: 13.3846153846pt;" aria-label="iabc (3 items)">iabc</a>
+<a href="http://hyperthinker.wpengine.com/tag/john-bohannon/" class="tag-cloud-link tag-link-21 tag-link-position-23" style="font-size: 8pt;" aria-label="john bohannon (1 item)">john bohannon</a>
+<a href="http://hyperthinker.wpengine.com/tag/kellen/" class="tag-cloud-link tag-link-26 tag-link-position-24" style="font-size: 8pt;" aria-label="kellen (1 item)">kellen</a>
+<a href="http://hyperthinker.wpengine.com/tag/kids/" class="tag-cloud-link tag-link-19 tag-link-position-25" style="font-size: 8pt;" aria-label="kids (1 item)">kids</a>
+<a href="http://hyperthinker.wpengine.com/tag/learn-from-failure/" class="tag-cloud-link tag-link-46 tag-link-position-26" style="font-size: 8pt;" aria-label="learn from failure (1 item)">learn from failure</a>
+<a href="http://hyperthinker.wpengine.com/tag/management/" class="tag-cloud-link tag-link-47 tag-link-position-27" style="font-size: 8pt;" aria-label="management (1 item)">management</a>
+<a href="http://hyperthinker.wpengine.com/tag/marie-curie/" class="tag-cloud-link tag-link-29 tag-link-position-28" style="font-size: 8pt;" aria-label="marie-curie (1 item)">marie-curie</a>
+<a href="http://hyperthinker.wpengine.com/tag/mep/" class="tag-cloud-link tag-link-42 tag-link-position-29" style="font-size: 8pt;" aria-label="MEP (1 item)">MEP</a>
+<a href="http://hyperthinker.wpengine.com/tag/merieux/" class="tag-cloud-link tag-link-11 tag-link-position-30" style="font-size: 8pt;" aria-label="merieux (1 item)">merieux</a>
+<a href="http://hyperthinker.wpengine.com/tag/networking/" class="tag-cloud-link tag-link-35 tag-link-position-31" style="font-size: 8pt;" aria-label="networking (1 item)">networking</a>
+<a href="http://hyperthinker.wpengine.com/tag/obama/" class="tag-cloud-link tag-link-41 tag-link-position-32" style="font-size: 8pt;" aria-label="Obama (1 item)">Obama</a>
+<a href="http://hyperthinker.wpengine.com/tag/online-campaigning/" class="tag-cloud-link tag-link-37 tag-link-position-33" style="font-size: 8pt;" aria-label="online campaigning (1 item)">online campaigning</a>
+<a href="http://hyperthinker.wpengine.com/tag/pa/" class="tag-cloud-link tag-link-25 tag-link-position-34" style="font-size: 8pt;" aria-label="pa (1 item)">pa</a>
+<a href="http://hyperthinker.wpengine.com/tag/paradigm/" class="tag-cloud-link tag-link-17 tag-link-position-35" style="font-size: 13.3846153846pt;" aria-label="paradigm (3 items)">paradigm</a>
+<a href="http://hyperthinker.wpengine.com/tag/paradigms/" class="tag-cloud-link tag-link-27 tag-link-position-36" style="font-size: 8pt;" aria-label="paradigms (1 item)">paradigms</a>
+<a href="http://hyperthinker.wpengine.com/tag/pivoting/" class="tag-cloud-link tag-link-48 tag-link-position-37" style="font-size: 8pt;" aria-label="pivoting (1 item)">pivoting</a>
+<a href="http://hyperthinker.wpengine.com/tag/socialcrm/" class="tag-cloud-link tag-link-33 tag-link-position-38" style="font-size: 8pt;" aria-label="socialcrm (1 item)">socialcrm</a>
+<a href="http://hyperthinker.wpengine.com/tag/social-media/" class="tag-cloud-link tag-link-5 tag-link-position-39" style="font-size: 15.1794871795pt;" aria-label="social media (4 items)">social media</a>
+<a href="http://hyperthinker.wpengine.com/tag/solvay/" class="tag-cloud-link tag-link-43 tag-link-position-40" style="font-size: 13.3846153846pt;" aria-label="Solvay (3 items)">Solvay</a>
+<a href="http://hyperthinker.wpengine.com/tag/tedxbrussels/" class="tag-cloud-link tag-link-22 tag-link-position-41" style="font-size: 13.3846153846pt;" aria-label="tedxbrussels (3 items)">tedxbrussels</a>
+<a href="http://hyperthinker.wpengine.com/tag/vaccines/" class="tag-cloud-link tag-link-9 tag-link-position-42" style="font-size: 8pt;" aria-label="vaccines (1 item)">vaccines</a>
+<a href="http://hyperthinker.wpengine.com/tag/vaxpolicy/" class="tag-cloud-link tag-link-12 tag-link-position-43" style="font-size: 8pt;" aria-label="vaxpolicy (1 item)">vaxpolicy</a>
+<a href="http://hyperthinker.wpengine.com/tag/visitbrussels/" class="tag-cloud-link tag-link-32 tag-link-position-44" style="font-size: 8pt;" aria-label="visitbrussels (1 item)">visitbrussels</a>
+<a href="http://hyperthinker.wpengine.com/tag/zn/" class="tag-cloud-link tag-link-15 tag-link-position-45" style="font-size: 13.3846153846pt;" aria-label="zn (3 items)">zn</a></div>
+<div class="clear"></div></li></ul>
+</div>        <div class="clear"></div>
+	</div>
+    <div id="footer" style="position:relative; top:-108px;">
+<div id="footer1">
+<div id="footer_header">More about Phil</div>
+
+<a href="http://www.facebook.com/weissphil" id="footer_link" target="_blank">Facebook</a><br />
+<a href="http://twitter.com/pweiss" id="footer_link" target="_blank">Twitter</a><br />
+<a href="https://plus.google.com/u/0/115231417404576569453/posts" id="footer_link" target="_blank">Google Plus</a><br />
+<a href="http://www.linkedin.com/in/pcweiss" id="footer_link" target="_blank">Linkedin</a><br />
+<a href="http://www.youtube.com/znteam" id="footer_link" target="_blank">Youtube</a><br />
+<a href="http://www.hyperthinker.eu/feed" id="footer_link" target="_blank">RSS</a><br />
+</div>
+
+<div id="footer2">
+<div id="footer_header">More about ZN</div>
+
+<a href="http://www.facebook.com/hyperthinker" id="footer_link" target="_blank">Facebook</a><br />
+<a href="http://www.twitter.com/hyperthinker" id="footer_link" target="_blank">Twitter</a><br />
+<a href="https://plus.google.com/115096880357203684940" id="footer_link" target="_blank">Google Plus</a><br />
+<a href="http://www.linkedin.com/company/227816" id="footer_link" target="_blank">Linkedin</a><br />
+<a href="http://www.youtube.com/znteam" id="footer_link" target="_blank">Youtube</a><br />
+<a href="http://blog.zn.be/feed" id="footer_link" target="_blank">RSS</a>
+</div>
+
+<div id="footer3">
+<div id="footer_header">&nbsp;</div>
+<a href="http://znconsulting.com/" id="footer_link" target="_blank">ZN</a><br />
+<a href="http://znconsulting.com/insights/" id="footer_link" target="_blank">ZN Blog</a><br />
+
+<p>&nbsp;</p>
+</div>
+
+<div id="footer4">
+
+
+<a href="http://www.facebook.com/hyperthinker" target="_blank"><img src="/wp-content/themes/icandy/images/footer_fb.jpg"height="41" border="0" id="footer_icons" /></a>
+<a href="http://www.twitter.com/hyperthinker" target="_blank"><img src="/wp-content/themes/icandy/images/footer_twitter.jpg" height="41" border="0" id="footer_icons" /></a>
+<a href="https://plus.google.com/115096880357203684940" target="_blank"><img src="/wp-content/themes/icandy/images/footer_google.jpg" height="41" border="0" id="footer_icons" /></a>
+<a href="http://www.linkedin.com/company/227816" target="_blank"><img src="/wp-content/themes/icandy/images/footer_linkedin.jpg" height="41" border="0" id="footer_icons" /></a>
+<a href="http://www.youtube.com/znteam" target="_blank"><img src="/wp-content/themes/icandy/images/footer_youtube.jpg" height="41" border="0"  id="footer_icons" /></a>
+<a href="http://blog.zn.be/feed" target="_blank"><img src="/wp-content/themes/icandy/images/footer_rss.jpg" height="41" border="0" id="footer_icons" /></a>
+    <div align="right">
+    <a href=""><img src="/wp-content/themes/icandy/images/footer_zn.jpg" width="52" height="25" /></a><br />&nbsp;<br />
+    &copy; 2010 ZN - Communications for global organisations 
+    </div>
+</div>
+
+
+</div>
+&nbsp;<script type='text/javascript' src='http://hyperthinker.wpengine.com/wp-includes/js/wp-embed.min.js?ver=94a967242fdd1774f03c268d7b2bfeb0'></script>
+</div>
+</body>
+</html>
+
+

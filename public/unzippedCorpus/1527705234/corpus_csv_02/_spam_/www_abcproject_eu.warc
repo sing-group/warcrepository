@@ -1,0 +1,70 @@
+WARC/1.0
+WARC-Type: warcinfo
+WARC-Date: 2018-05-30T17:52:31Z
+WARC-All-Language: en
+WARC-All-Content_type: text/html
+WARC-Record-ID: <urn:uuid:663caff7-b51b-4398-89e1-f0e2db4360de>
+Content-Type: application/http;msgtype=response
+Content-Length: 46
+
+WARCProcessor by SING Group www.sing-group.com
+
+WARC/1.0
+WARC-Type: response
+WARC-Target-URI: http://www.abcproject.eu
+WARC-Date: 20180530175231
+WARC-Language: en
+WARC-Record-ID: <http://www.abcproject.eu>
+Content-Type: application/http;msgtype=response
+Content-Length: 2716
+
+HTTP/1.1 200
+Content-Type:text/html
+
+
+<html>
+<head>
+<title>ABC - Ascertaining Barriers for Compliance</title>
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+		<meta name="Keywords" content="">
+		<meta name="Description" content="Ascertaining Barriers for Compliance: policies for safe, effective and cost-effective use of medicines in Europe.">
+		<meta http-equiv="content-language" content="en">
+		<meta name="Author" content="Logica Systemy Informatyczne">
+		<link rel="stylesheet" href="stylein.css" type="text/css">
+
+</head>
+<body bgcolor="#b0cdea">
+
+<map name="map1">
+<area shape="rect" coords="338,19,434,79" title="Polish" href="http://abcproject.eu/index.php?page=polish" alt="Poland">
+<area shape="rect" coords="143,90,240,149" title="German" href="http://abcproject.eu/index.php?page=german" alt="German">
+<area shape="rect" coords="119,221,215,271" title="English" href="http://abcproject.eu/index.php?page=english" alt="English">
+<area shape="rect" coords="143,369,239,433" title="Belgian" href="http://abcproject.eu/index.php?page=belgian" alt="Belgian">
+<area shape="rect" coords="338,458,434,554" title="Swiss" href="http://abcproject.eu/index.php?page=english" alt="Swiss">
+<area shape="rect" coords="514,369,609,433" title="French" href="http://abcproject.eu/index.php?page=french" alt="French">
+<area shape="rect" coords="534,221,630,286" title="Dutch" href="http://abcproject.eu/index.php?page=dutch" alt="Dutch">
+<area shape="rect" coords="514,91,609,150" title="Welsh" href="http://abcproject.eu/index.php?page=welsh" alt="Welsh">
+<area shape="rect" coords="249,440,508,130" title="Please click a flag" href="http://abcproject.eu/index.php?page=project" alt="Please click a flag">
+</map>
+
+
+
+
+<table width="100%" height="100%" border="0"><tr><td align="center">
+<table width="773" cellspacing="0" cellpadding="0" valign="middle">
+<tr><td><img src="/img/abcproject.jpg"  usemap="#map1" width="773" height="580" alt="ABC - Ascertaining Barriers for Compliance" border="0"></td></tr>
+</table></td></tr>
+<tr><td align="center"><table  width="773px" border="0"><tr><td align="right"><b>Please click a flag</b></td><td align="right"><a href="http://abcproject.eu/index.php?page=project">Skip intro >>&nbsp;&nbsp;</a></td></tr></table></td></tr></table>
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-9631347-1");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+</body>
+</html>
+
+

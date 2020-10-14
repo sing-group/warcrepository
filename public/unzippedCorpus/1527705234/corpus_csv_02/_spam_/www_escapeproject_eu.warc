@@ -1,0 +1,169 @@
+WARC/1.0
+WARC-Type: warcinfo
+WARC-Date: 2018-05-30T17:52:31Z
+WARC-All-Language: en
+WARC-All-Content_type: text/html
+WARC-Record-ID: <urn:uuid:471a7fec-66ff-498d-81ed-aebb7c9d198b>
+Content-Type: application/http;msgtype=response
+Content-Length: 46
+
+WARCProcessor by SING Group www.sing-group.com
+
+WARC/1.0
+WARC-Type: response
+WARC-Target-URI: http://www.escapeproject.eu
+WARC-Date: 20180530175231
+WARC-Language: en
+WARC-Record-ID: <http://www.escapeproject.eu>
+Content-Type: application/http;msgtype=response
+Content-Length: 6349
+
+HTTP/1.1 200
+Content-Type:text/html
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<title>ESCAPE Project: long-term effects on human health of exposure to air pollution in Europe</title>
+
+<script type="text/javascript" language="Javascript" src="/rsc/scr/dhtml.js"></script>
+
+<!-- default stylesheet -->
+<link rel="stylesheet" href="/rsc/css/default.css" type="text/css" media="screen, projection" />
+
+<!-- inline styles -->
+<style type="text/css">
+<!--
+
+-->
+</style>
+
+</head>
+<body>
+
+<!-- menu start -->
+<div id="menu">
+<table cellpadding="2" cellspacing="4" class="menu" border="0" summary="Hoofdmenu van deze site">
+<tr>
+    <td class="item_a" id="menuindex0" title="To homepage ESCAPE project"><a href="/index.php">ESCAPE Home</a></td>
+  </tr>
+<tr>
+    <td class="item" id="menuindex1" title="Project structure and work packages"><a href="/structure.php">Structure</a></td>
+  </tr>
+<tr>
+    <td class="item" id="menuindex2" title="Methods: Exposure assessment, Health endpoints"><a href="/methods.php">Methods</a></td>
+  </tr>
+<tr>
+    <td class="item" id="menuindex3" title="Time planning and agenda"><a href="/time.php">Planning</a></td>
+  </tr>
+<tr>
+    <td class="item" id="menuindex4" title="Links to participants"><a href="/links.php">Links</a></td>
+  </tr>
+<tr>
+    <td class="item" id="menuindex5" title="How to contact us"><a href="/contact.php">Contact</a></td>
+  </tr>
+<tr>
+    <td class="item" id="menuindex6" title="Collaborating studies in the ESCAPE study"><a href="/collaborating.php">Collaboration</a></td>
+  </tr>
+<tr>
+    <td class="item" id="menuindex7" title="ESCAPE Publications"><a href="/publications.php">Publications</a></td>
+  </tr>
+<tr>
+    <td class="item" id="menuindex8" title="ESCAPE Newsletters"><a href="/news.php">Newsletters</a></td>
+  </tr>
+<tr>
+    <td class="item" id="menuindex9" title="Escape Manuals"><a href="/manuals/index.php">Manuals</a></td>
+  </tr>
+<tr>
+    <td class="item" id="menuindex10" title="Restricted for members (requires login)"><a href="/products/products.php">Member section</a></td>
+  </tr>
+
+</table>
+</div>
+<!-- menu end -->
+
+<!-- popups -->
+<div id="tooltip" onclick="hide('tooltip')"></div>
+
+<!-- main start -->
+<div id="main">
+
+<!-- header -->
+<h1>
+ESCAPE
+<span class="acronym"> - European Study  of Cohorts for Air Pollution Effects</span>
+</h1>
+
+<!-- content start -->
+<div id="content">
+
+<img src="/rsc/frontpage.jpg" alt="Photo ESCAPE folder" align="right" width="360" height="270" border="0" style="width: 360px; height: 270px; float: right; margin: 10px 10px 10px 10px; border: solid 1px #115588;" />
+
+<h2>Home</h2>
+
+<div class="lead">
+<p>The ESCAPE study will investigate long-term effects on human health of exposure to air pollution in Europe. The background is that current estimates of the European health impact of especially fine particles in the air are large. However, available estimates are primarily based on exposure response relationships established in studies from North America. There is an urgent need to perform studies in Europe on recent and current exposures, and to use refined exposure assessment tools.</p>
+
+<p>For published or accepted papers of the ESCAPE study look under <a href="publications.php">Publications</a>.</p>
+</div>
+
+<div class="subdivision">
+<p>The overall strategy is to efficiently utilize health and confounder data from European cohort studies. To these studies, air pollution exposure assessment will be applied at the individual home address level of participants in each of these studies.</p>
+
+<p class="null">The objectives of the ESCAPE study are:</p>
+<ol>
+   <li>to develop a flexible methodology for assessment of long-term population exposure to air pollution focused primarily on fine particles, particle composition, and nitrogen oxides.</li>
+   <li>to apply the exposure assessment methodology on existing cohort studies of mortality and chronic disease in Europe that have been selected based on their potential to quantify relationships between long-term exposure and health response precisely.</li>
+   <li>specifically, to investigate exposure-response relationships and thresholds for (a) adverse perinatal health outcomes, and development of diseases such as asthma in children; (b) respiratory disease endpoints in adults; (c) cardiovascular disease endpoints in adults; (d) all-cause and cause-specific mortality, and cancer incidence.</li>
+   <li>to develop a database for quantitative estimates of the health impacts of long-term exposure to air pollution for all of these health endpoints for the European population</li>
+</ol>
+</div>
+
+<div class="subdivision">
+<p class="eu">
+ESCAPE is a project funded under the<br />
+European Union's Seventh Framework Programme Theme
+</p>
+<table cellpadding="0" cellspacing="0" width="320" border="0" align="center" summary="Logo EU and 7th framework programme">
+<tr align="left">
+   <td><img src="/rsc/eu.gif" width="134" height="94" border="0" alt="European Union" style="width: 134px; height: 94px; border: none; padding: 4px 4px 4px 4px" /></td>
+   <td><a href="http://ec.europa.eu/research/fp7/index_en.cfm" target="_blank"><img src="/rsc/FP7-logo.gif" width="116" height="96" border="0" alt="7th framework programme" style="width: 116px; height: 96px; border: none; padding: 4px 4px 4px 4px" /></a></td>
+</tr>
+</table>
+<p class="eu">
+ENV.2007.1.2.2.2. European cohort on air pollution.
+</p>
+</div>
+
+</div>
+<!-- content end -->
+
+<!-- foot start -->
+<div id="foot">
+<address>Last update: April 04 2014 08:27:15.</address><br />
+</div>
+<!-- foot end -->
+
+<!-- contactbar start -->
+<br clear="all" />
+<div id="contactbar">
+<table align="center" cellpadding="0" cellspacing="0" border="0" class="contacttabs" summary="Contactinformation ESCAPE">
+   <tr valign="middle">
+      <td class="contact"><a href="/">Home</a></td>
+      <td class="contact"><a href="/rsc/pdf/ESCAPE_brochure.pdf" target="_blank">Brochure</a></td>
+      <td class="contact"><a href="/contact.php">Contact</a></td>
+      <td class="contact"><a href="mailto:web.iras@uu.nl">Comment website</a></td>
+   </tr>
+</table>
+</div>
+<!-- contactbar end -->
+
+</div>
+<!-- main end -->
+
+</body>
+</html>
+

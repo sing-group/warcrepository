@@ -1,0 +1,46 @@
+WARC/1.0
+WARC-Type: warcinfo
+WARC-Date: 2018-05-30T19:13:40Z
+WARC-Record-ID: <urn:uuid:4a4085af-0390-45b8-b43a-c6405f9b934b>
+WARC-All-Language: fr
+WARC-All-Content_type: text/html, text/html; charset=UTF-8
+Content-Type: application/http;msgtype=response
+Content-Length: 46
+
+WARCProcessor by SING Group www.sing-group.com
+
+WARC/1.0
+WARC-Type: response
+WARC-Record-ID: <http://www.aeschylus.eu>
+WARC-Date: 20180530191340
+WARC-Target-URI: http://www.aeschylus.eu
+WARC-Language: fr
+Content-Type: application/http;msgtype=response
+Content-Length: 1190
+
+HTTP/1.1 200
+Content-Type:text/html; charset=UTF-8
+
+
+<html data-adblockkey="MFwwDQYJKoZIhvcNAQEBBQADSwAwSAJBAMLl0RJYcDS0N2xIgi01rOAcEtvCUTUq+IuNz5PA8eXYsfPLRkgnNehO+NbOZAlLoQnSpB5rXuRxRCTF+T1iU9sCAwEAAQ==_fzDq3i0Tn4BbJXntrRZT/jlcB8dBZP4EhEhfJS3QvXvHTRgrcs3i84vRSo84BafxzZxIjDcUbtJrxGPDpFfnsw==" xmlns="http://www.w3.org/TR/REC-html40">
+    <head>
+	<title>aeschylus.eu</title>
+	<meta name="keywords" value="playwrights,classic literature,playwright,contests,writers"/>
+	<meta name="description" content="">
+	    <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js"></script>
+	    <script type="text/javascript">
+		$(document).ready(function () {
+		    $('#main').attr('src', "/cf.php");
+		    $('#main').css('visibility', 'visible');
+		});
+
+		/* if (parent.frames.length > 0)
+		    top.location.replace(document.location); */
+	    </script>
+    </head>
+    <frameset rows="100%,*" frameborder="no" border="0" framespacing="0" id="frameset">
+	<frame id="main" src="/cf.php"></frame>
+	<frame id="sub1" src="bh.php?dm=aeschylus.eu&kw=&tt=c3555b18e1416511128e7303e3b91be4&ty=false" style="visibility: hidden;"></frame>
+    </frameset>
+</html>
+

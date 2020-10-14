@@ -1,0 +1,152 @@
+WARC/1.0
+WARC-Type: warcinfo
+WARC-Date: 2018-05-30T17:52:31Z
+WARC-All-Language: fr
+WARC-All-Content_type: text/html; charset=utf-8
+WARC-Record-ID: <urn:uuid:3052699c-70a7-4a07-ad25-645365de23b0>
+Content-Type: application/http;msgtype=response
+Content-Length: 46
+
+WARCProcessor by SING Group www.sing-group.com
+
+WARC/1.0
+WARC-Type: response
+WARC-Target-URI: http://www.carweekly.eu
+WARC-Date: 20180530175231
+WARC-Language: fr
+WARC-Record-ID: <http://www.carweekly.eu>
+Content-Type: application/http;msgtype=response
+Content-Length: 4932
+
+HTTP/1.1 200
+Content-Type:text/html; charset=utf-8
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html style="height:100%; width:100%;" xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+    <title>SmartDraw Document</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <script type="text/javascript" src="files/swfobject.js">//</script>
+    <script type="text/javascript" src="files/swfaddress.js">//</script>
+    <script type="text/javascript" src="files/facebook.js">//</script>
+    <script type="text/javascript">
+	  var assetsFolder = 'assets';
+	  var mobileFolder = 'mobile';
+
+ 	  var changeURL = function(){
+	  	if(document.getElementById('hrefMobile'))document.getElementById('hrefMobile').href = dir+mobileFolder+'/index.html';
+	  	if(document.getElementById('hrefSEO'))document.getElementById('hrefSEO').href = dir+assetsFolder +'/seo/toc.html';
+		delete changeURL;
+	  }
+	  if (document.addEventListener){
+    document.addEventListener("DOMContentLoaded", changeURL, false);
+  } else {
+    document.attachEvent("onDOMContentLoaded", changeURL);
+  }
+
+
+	  function afterLoad(){ 
+		checkPage(); 
+		setFocusOnFlash(); 
+          }
+
+	  function setFocusOnFlash()
+		{ 
+			var f=swfobject.getObjectById('content'); 
+      if (f) { f.tabIndex = 0; f.focus(); } 
+    }
+    function getURLParam()
+		{
+			var returnObject = {};
+      var href = window.location.href;
+      if ( href.indexOf("?") > -1 )
+      {
+				var param = href.substr(href.indexOf("?"));
+				var arrayParam = param.split("&");
+	  
+				for ( var i = 0; i < arrayParam.length; i++ )
+				{
+					var value = arrayParam[i].split("=");
+					returnObject[value[0]] = value[1];
+				}
+			}
+			returnObject['assets'] = assetsFolder;
+			return returnObject;
+		}
+
+		var dir = "./files/";
+	
+		 var getURI = function(){
+        		var URIArray = document.location.href.split('/');
+        
+       			 URIArray.length = URIArray.length-1;
+        		var URIstr = URIArray.join('/');
+        
+        		URIArray = null;
+        
+        		var URIarr = dir.split('/');
+        		URIarr[0] = URIarr[0]=='.'?'':URIarr[0];
+        		var dirStr = URIarr.join('/');
+        
+        		URIstr = URIstr+dirStr;
+
+			return URIstr;
+      		}
+
+          var swfName = "flippingbook.swf?rnd=7b94eec727fb609a482e320eda6ed438";
+
+          var ua = navigator.userAgent.toLowerCase(),
+          platform = navigator.platform.toLowerCase(),
+          UA = ua.match(/(opera|ie|firefox|chrome|version)[\s\/:]([\w\d\.]+)?.*?(safari|version[\s\/:]([\w\d\.]+)|$)/) || [null, 'unknown', 0],
+          mode = UA[1] == 'ie' && document.documentMode;
+
+          var Browser = {
+          extend: Function.prototype.extend,
+          name: (UA[1] == 'version') ? UA[3] : UA[1],
+          version: mode || parseFloat((UA[1] == 'opera' && UA[4]) ? UA[4] : UA[2]),
+          Platform: {
+          name: ua.match(/ip(?:ad|od|hone)/) ? 'ios' : (ua.match(/(?:webos|android|bada|symbian|palm|blackberry)/) || platform.match(/mac|win|linux/) || ['other'])[0]
+          },
+          Features: {
+          xpath: !!(document.evaluate),
+          air: !!(window.runtime),
+          query: !!(document.querySelector),
+          json: !!(window.JSON)
+          },
+          Plugins: {}
+          };
+		
+          var page = parseInt(window.location.hash.substring(2, window.location.hash.length-1));
+          page = page?'#'+page:'';
+          if(Browser.Platform.name == 'android' || Browser.Platform.name == 'ios') window.location = dir+mobileFolder+"/index.html"+page;
+          if(Browser.Platform.name == 'webos' || Browser.Platform.name == 'bada' || Browser.Platform.name == 'symbian' || Browser.Platform.name == 'palm' || Browser.Platform.name == 'blackberry') window.location = dir+assetsFolder+"/seo/page1.html";
+
+          var flashvars = getURLParam();
+		
+          var params = {baseURI: getURI(), base: dir, allowFullScreen: true, allowScriptAccess: "sameDomain", quality: "high", scale: "noscale",bgcolor:"FFFFFF"};
+          var attributes = {align: "middle"};
+
+          swfobject.embedSWF(dir + swfName, "content", "100%", "100%", "10.0.0", dir + "expressInstall.swf", flashvars, params, attributes);</script>
+  </head>
+  <body style="padding: 0px; margin: 0px; height:100%; width:100%;" onLoad="afterLoad()"><!--
+					ProductVersion=2.2.6--><!--
+					FBID=af96a9a53a2c352d4a207ecc5cc59c5e--><span id="content">
+      <h1>Alternative content</h1>
+      <p>
+        <a href="http://www.adobe.com/go/getflashplayer">
+          <img src="http://www.adobe.com/images/shared/download_buttons/get_flash_player.gif" alt="Get Adobe Flash player" />
+        </a>
+        <br />
+        <a id="hrefMobile" href="files/mobile/index.html">
+							Mobile version
+						</a>
+        <br />
+        <a id="hrefSEO" href="files/assets/seo/toc.html">
+							SEO version
+						</a>
+      </p>
+    </span>
+  </body>
+</html>
+

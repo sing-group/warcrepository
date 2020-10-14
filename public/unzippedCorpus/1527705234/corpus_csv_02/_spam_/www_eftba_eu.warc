@@ -1,0 +1,570 @@
+WARC/1.0
+WARC-Type: warcinfo
+WARC-Date: 2018-05-30T17:52:31Z
+WARC-All-Language: en
+WARC-All-Content_type: text/html; charset=UTF-8
+WARC-Record-ID: <urn:uuid:b16a8950-0520-4a26-a3db-ecb01d7596c2>
+Content-Type: application/http;msgtype=response
+Content-Length: 46
+
+WARCProcessor by SING Group www.sing-group.com
+
+WARC/1.0
+WARC-Type: response
+WARC-Target-URI: http://www.eftba.eu
+WARC-Date: 20180530175231
+WARC-Language: en
+WARC-Record-ID: <http://www.eftba.eu>
+Content-Type: application/http;msgtype=response
+Content-Length: 40865
+
+HTTP/1.1 200
+Content-Type:text/html; charset=UTF-8
+
+
+
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="utf-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+		<title>EFTBA: European Federation of Thoroughbred Breeders' Associations</title>
+        <meta name="description" content="EFTBA, the European Federation of Thoroughbred Breeders' Associations, was set up in 1994 to enable European breeders’ associations to be represented at a European level with a strong single voice.">
+
+		<link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
+		<!-- google fonts -->
+		<link href='http://fonts.googleapis.com/css?family=Lato:400,300italic,300,700%7CPlayfair+Display:400,700italic%7CRoboto:300%7CMontserrat:400,700%7COpen+Sans:400,300%7CLibre+Baskerville:400,400italic' rel='stylesheet' type='text/css'>
+		<!-- Bootstrap -->
+        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css">
+		<link href="assets/css/bootstrap.min.css" rel="stylesheet">
+		<link href="assets/css/bootstrap-theme.css" rel="stylesheet">
+		<link href="assets/revolution-slider/css/settings.css" rel="stylesheet">
+		<link href="assets/css/global.css" rel="stylesheet">
+		<link href="assets/css/style.css" rel="stylesheet">
+		<link href="assets/css/responsive.css" rel="stylesheet">
+		<link href="assets/css/skin.css" rel="stylesheet">
+        <link href="assets/css/custom.css" rel="stylesheet">
+        <link href="assets/css/jquery.qtip.min.css" rel="stylesheet">
+		<!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+		<!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+		<!--[if lt IE 9]>
+		<meta http-equiv="X-UA-Compatible" content="IE=edge">
+		<script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+		<script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+		<![endif]-->
+
+
+	</head>
+	<body>
+		<div id="wrapper">
+			<!--Header Section Start Here -->
+			
+<style>
+.breadcrumb-section{
+	background:	url(/assets/img/bande-int2.jpg) no-repeat center;
+	background-size: cover;
+}
+</style><header id="header" class="header-second header-third">
+				<div class="navbar navbar-default navbar-alternate" role="navigation">
+					<div class="nav-content">
+						<div class="container">
+							<a href="/" class="col-xs-12 col-sm-2 brand" title="EFTBA"><img src="/assets/img/logo.png" alt="EFTBA"></a>
+							<!-- Brand and toggle get grouped for better mobile display -->
+							<div class="navbar-header">
+								<button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+									<span class="sr-only">Toggle navigation</span>
+									<span class="icon-bar"></span>
+									<span class="icon-bar"></span>
+									<span class="icon-bar"></span>
+								</button>
+							</div>
+
+							<!-- Collect the nav links, forms, and other content for toggling -->
+							<div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+								<nav>
+							<ul class="nav navbar-nav">
+								<li class='active'>
+									<a href="/">Home</a>
+								</li>
+								<li>
+									<a href="javascript:;"  data-toggle="dropdown"  class="submenu-icon">About us<span class="glyphicon glyphicon-chevron-down"></span> <span class="glyphicon glyphicon-chevron-up"></span> </a>
+									<!-- Drop Down  -->
+
+									<div  class="dropdown-menu">
+										<ul>
+											<li>
+												<a href="/aboutus.php">Who we are</a>
+											</li>
+											<li>
+												<a href="/board.php">Board &amp; Executives</a>
+											</li>
+											<li> <a href="/members.php">Our Members </a> </li>
+										</ul>
+									</div>
+								</li>
+                                <li>
+									<a href="/our-mission.php">Our Missions</a>
+								</li>
+								<li>
+									<a href="/newslisting.php">News &amp; Docs</a>
+									
+								</li>
+								<li>
+									<a href="/links.php">Links</a>
+								</li>
+								<li>
+									<a href="/contact-us.php">contact us</a>
+								</li>
+							</ul>
+							</nav>
+
+							</div>
+						</div>
+					</div>
+				</div>
+
+			</header>
+        			<!-- Header Section End Here -->
+
+			<!-- Site Content -->
+			<div id="main">
+				<!-- banner slider Start Here -->
+				<section class="rev_slider_wrapper slider-third">
+					<div class="rev_slider banner-slider">
+						<ul>
+							<!-- SLIDE  -->
+							<li data-transition="fade" data-slotamount="7" data-masterspeed="500">
+								<!-- MAIN IMAGE -->
+								<img src="assets/img/slide-banner-04.jpg" alt="banner" data-bgfit="cover" data-bgposition="center 36%" data-bgrepeat="no-repeat">
+
+								<div
+								data-endspeed="800"
+								data-easing="easeOutCirc"
+								data-start="800"
+								data-speed="700"
+								data-y="120"
+								data-x="152"
+								class="tp-caption sfr banner-heading">
+									<h2 class=" chiffre"> 23,000 </h2>
+								</div>
+                                <div
+								data-endspeed="800"
+								data-easing="easeOutCirc"
+								data-start="1500"
+								data-speed="700"
+								data-y="260"
+								data-x="152"
+								class="tp-caption sfl banner-heading">
+									<h2> European Thoroughbred breeders, having earned international recognition.</h2>
+								</div>
+                                <!--<div
+								data-endspeed="800"
+								data-easing="easeOutCirc"
+								data-start="2000"
+								data-speed="700"
+								data-y="350"
+								data-x="152"
+								class="tp-caption sfr banner-heading">
+									<h2>having earned international recognition.  </h2>
+								</div>-->
+								<div
+								data-endspeed="1200"
+								data-easing="easeOutCirc"
+								data-start="1200"
+								data-speed="700"
+								data-y="376"
+								data-x="152"
+								class="tp-caption sft read-more-btn">
+								</div>
+							</li>
+							<li data-transition="fade" data-slotamount="7" data-masterspeed="500" >
+								<img src="assets/img/slide-banner-02.jpg" alt="banner" data-bgfit="cover" data-bgposition="center 36%" data-bgrepeat="no-repeat">
+
+						<div
+								data-endspeed="800"
+								data-easing="easeOutCirc"
+								data-start="800"
+								data-speed="700"
+								data-y="120"
+								data-x="152"
+								class="tp-caption sft banner-heading">
+									<h2 class=" chiffre"> 30,000  </h2>
+								</div>
+                                <div
+								data-endspeed="800"
+								data-easing="easeOutCirc"
+								data-start="1500"
+								data-speed="700"
+								data-y="250"
+								data-x="152"
+								class="tp-caption sfl banner-heading">
+									<h2> Foals raised every year in Europe : 22% of the world’s galop racehorses.</h2>
+								</div>
+                                <!--<div
+								data-endspeed="800"
+								data-easing="easeOutCirc"
+								data-start="2000"
+								data-speed="700"
+								data-y="340"
+								data-x="152"
+								class="tp-caption sfr banner-heading">
+									<h2>22% of the world’s galop racehorses.</h2>
+								</div>-->
+							</li>
+							<li data-transition="fade" data-slotamount="7" data-masterspeed="500" >
+								<img src="assets/img/slide-banner-01.jpg" alt="banner" data-bgfit="cover" data-bgposition="center 36%" data-bgrepeat="no-repeat">
+
+								<div
+								data-endspeed="800"
+								data-easing="easeOutCirc"
+								data-start="800"
+								data-speed="700"
+								data-y="80"
+								data-x="650"
+								class="tp-caption lft banner-heading">
+									<h2 class=" chiffre">100,000</h2>
+								</div>
+                                <div
+								data-endspeed="800"
+								data-easing="easeOutCirc"
+								data-start="1500"
+								data-speed="700"
+								data-y="200"
+								data-x="652"
+								class="tp-caption sfb banner-heading">
+									<h2>hectares of permanent grassland kept for Thoroughbred horses.</h2>
+								</div>
+                                 <!--<div
+								data-endspeed="800"
+								data-easing="easeOutCirc"
+								data-start="2000"
+								data-speed="700"
+								data-y="290"
+								data-x="652"
+								class="tp-caption sfr banner-heading">
+									<h2>kept for Thoroughbred horses.</h2>
+								</div>-->
+							</li>
+						</ul>
+					</div>
+				</section>
+                
+				<section class="help-people">
+					<div class="container">
+						<div class="row">
+							<div class="col-md-6">
+								<h2><strong>European</strong> Federation <br>of <strong>Thoroughbred Breeders</strong>' Associations</h2>
+								<p class="message"><strong>EFTBA</strong>, the European Federation of Thoroughbred Breeders’ Associations, was set up in 1994 to enable European breeders’ associations to be represented at a European level with a strong single voice. </p>
+								<p class="message"><em><strong>EFTBA</strong> represents the majority of European Thoroughbred breeding countries,   and welcomes countries currently outside the European Union</em>.</p>
+								<div class="row">
+								  <div class="col-md-6">
+									<a href="our-mission.php" class="btn btn-primary linkhp">Discover our missions</a>
+									</div>
+								  <div class="col-md-6">
+                                    <a href="aboutus.php"  class="btn btn-primary linkhp">Discover who we are</a>                                        
+									</div>
+									<div class="col-md-6 visible-map">
+                                    <a href="/members.php"  class="btn btn-primary linkhp">Discover our members</a>                                        
+									</div>
+								</div>
+							</div>
+							<div class="col-md-6 hidden-map">
+								<!-- <h2>Discover<span>Our members</span></h2> -->
+								<div align="center">
+								  <p><a href="members.php"> <img class="img-responsive center-block" src="/assets/img/carte-europehp.gif" usemap="#Map1"></a></p>
+                                    <map name="Map1">
+                                                                         <area alt="<h4 class='text-center' style='margin:0 0 15px;color:#fff;'><img valign='absmiddle' style='width:30px;'src='/upload/member/Austria.png'/> Austria</h4><light class='map-text'>Breeders:</light><strong class='map'> 16 </strong> <br><br><light class='map-text'>Broodmares:</light><strong class='map'> 20 </strong> <br><br><light class='map-text'>Stallions:</light><strong class='map'> 6 </strong> <br><br><light class='map-text'>Foals:</light><strong class='map'> 13 </strong> <br><br><a class='map-link' href='member.php?id=1'> More information </a>" shape="poly" coords="241,324,231,317,222,311,222,303,224,299,237,294,243,295,254,292,259,291,265,294,271,301,265,312,262,319,253,323,241,324" href="member.php?id=1">                               
+                                	                                   <area alt="<h4 class='text-center' style='margin:0 0 15px;color:#fff;'><img valign='absmiddle' style='width:30px;'src='/upload/member/Belgium.png'/> Belgium</h4><light class='map-text'>Broodmares:</light><strong class='map'> 10 </strong> <br><br><light class='map-text'>Stallions:</light><strong class='map'> 1 </strong> <br><br><light class='map-text'>Foals:</light><strong class='map'> 6 </strong> <br><br><a class='map-link' href='member.php?id=17'> More information </a>" shape="poly" coords=" 176,274,168,269,163,261,156,257,149,251,146,250,154,250,159,250,168,250,171,248,176,253,180,259,181,261,178,268,175,274" href="member.php?id=17">                               
+                                	                                   <area alt="<h4 class='text-center' style='margin:0 0 15px;color:#fff;'><img valign='absmiddle' style='width:30px;'src='/upload/member/Cyprus.png'/> Cyprus</h4><light class='map-text'>Broodmares:</light><strong class='map'> 258 </strong> <br><br><light class='map-text'>Stallions:</light><strong class='map'> 38 </strong> <br><br><light class='map-text'>Foals:</light><strong class='map'> 168 </strong> <br><br><a class='map-link' href='member.php?id=2'> More information </a>" shape="poly" coords="449,450,432,459,425,464,433,467,442,462,446,461,447,453" href="member.php?id=2">                               
+                                	                                   <area alt="<h4 class='text-center' style='margin:0 0 15px;color:#fff;'><img valign='absmiddle' style='width:30px;'src='/upload/member/Czech Republic.png'/> Czech Republic</h4><light class='map-text'>Breeders:</light><strong class='map'> 120 </strong> <br><br><light class='map-text'>Broodmares:</light><strong class='map'> 300 </strong> <br><br><light class='map-text'>Stallions:</light><strong class='map'> 35 </strong> <br><br><light class='map-text'>Foals:</light><strong class='map'> 160 </strong> <br><br><a class='map-link' href='member.php?id=3'> More information </a>" shape="poly" coords="242,291,250,293,255,291,261,293,269,293,277,291,282,283,313,285,313,272,265,271,255,268,251,265,247,264,242,269,235,271,233,272,231,278,238,283" href="member.php?id=3">                               
+                                	                                   <area alt="<h4 class='text-center' style='margin:0 0 15px;color:#fff;'><img valign='absmiddle' style='width:30px;'src='/upload/member/Denmark.png'/> Denmark</h4><light class='map-text'>Breeders:</light><strong class='map'> 52 </strong> <br><br><light class='map-text'>Broodmares:</light><strong class='map'> 180 </strong> <br><br><light class='map-text'>Stallions:</light><strong class='map'> 13 </strong> <br><br><light class='map-text'>Foals:</light><strong class='map'> 118 </strong> <br><br><a class='map-link' href='member.php?id=4'> More information </a>" shape="poly" coords="211,213,211,201,197,201,194,191,211,188,211,185,222,180,231,175,231,183,225,191,242,187,242,199,237,207,237,213,231,213,229,219" href="member.php?id=4">                               
+                                	                                   <area alt="<h4 class='text-center' style='margin:0 0 15px;color:#fff;'><img valign='absmiddle' style='width:30px;'src='/upload/member/Finland.png'/> Finland</h4><a class='map-link' href='member.php?id=5'> More information </a>" shape="poly" coords="342,137,361,111,353,96,352,89,348,77,345,65,341,57,342,45,335,32,330,19,325,21,323,36,314,37,302,30,297,33,310,43,312,58,317,71,323,81,324,83,313,93,305,113,304,126,306,141,314,147,323,148,339,140" href="member.php?id=5">                               
+                                	                                   <area alt="<h4 class='text-center' style='margin:0 0 15px;color:#fff;'><img valign='absmiddle' style='width:30px;'src='/upload/member/France.png'/> France</h4><light class='map-text'>Breeders:</light><strong class='map'> 4098 </strong> <br><br><light class='map-text'>Broodmares:</light><strong class='map'> 7346 </strong> <br><br><light class='map-text'>Stallions:</light><strong class='map'> 318 </strong> <br><br><light class='map-text'>Foals:</light><strong class='map'> 4811 </strong> <br><br><a class='map-link' href='member.php?id=6'> More information </a>" shape="poly" coords="106,310,109,300,103,297,101,293,105,287,100,286,100,282,89,272,85,271,87,268,85,266,95,264,99,264,103,267,107,270,113,273,114,268,113,261,112,255,118,257,119,264,126,265,133,266,129,263,137,261,140,260,143,257,146,252,151,250,157,248,164,249,164,259,166,265,169,269,176,274,184,277,197,284,193,289,189,296,189,299,189,304,180,303,179,311,179,316,178,322,178,326,178,331,175,332,176,338,176,339,178,347,176,351,171,357,162,357,157,351,154,349,148,350,142,349,137,351,138,355,137,358,132,355,122,355,120,352,117,349,111,347,109,348,103,343,96,337,95,334,104,326,102,319,107,311,108,308,106,306" href="member.php?id=6">                               
+                                	                                   <area alt="<h4 class='text-center' style='margin:0 0 15px;color:#fff;'><img valign='absmiddle' style='width:30px;'src='/upload/member/Germany.png'/> Germany</h4><light class='map-text'>Breeders:</light><strong class='map'> 415 </strong> <br><br><light class='map-text'>Broodmares:</light><strong class='map'> 1729 </strong> <br><br><light class='map-text'>Stallions:</light><strong class='map'> 36 </strong> <br><br><light class='map-text'>Foals:</light><strong class='map'> 880 </strong> <br><br><a class='map-link' href='member.php?id=19'> More information </a>" shape="poly" coords="225,225,221,216,216,211,210,210,211,218,215,227,209,223,209,227,202,224,194,224,196,233,191,239,189,245,183,247,181,251,181,257,181,265,181,269,181,273,186,279,194,283,196,283,189,291,189,297,189,303,199,304,194,297,203,302,209,304,215,304,223,304,223,306,227,304,235,297,241,293,244,291,235,283,229,280,231,273,239,270,247,265,254,259,255,244,254,231,251,221,240,221,229,222" href="member.php?id=19">                               
+                                	                                   <area alt="<h4 class='text-center' style='margin:0 0 15px;color:#fff;'><img valign='absmiddle' style='width:30px;'src='/upload/member/Great Britain.png'/> Great Britain</h4><light class='map-text'>Breeders:</light><strong class='map'> 3318 </strong> <br><br><light class='map-text'>Broodmares:</light><strong class='map'> 8945 </strong> <br><br><light class='map-text'>Stallions:</light><strong class='map'> 169 </strong> <br><br><light class='map-text'>Foals:</light><strong class='map'> 4328 </strong> <br><br><a class='map-link' href='member.php?id=18'> More information </a>" shape="poly" coords="145,206,183,204,182,191,138,193,139,181,133,178,127,175,137,172,145,163,145,159,131,154,139,147,135,143,127,139,119,151,113,163,108,168,104,174,109,178,119,169,115,180,111,185,118,188,125,187,121,191,108,191,109,203,119,204,117,211,107,207,106,213,107,216,97,217,97,225,103,225,106,230,115,231,118,231,108,235,101,233,93,237,85,241,97,242,101,245,104,240,114,243,116,245,121,244,128,245,136,248,141,247,145,239,138,241,146,237,150,233,152,222,141,221,141,214,145,211" href="member.php?id=18">                               
+                                	                                   <area alt="<h4 class='text-center' style='margin:0 0 15px;color:#fff;'><img valign='absmiddle' style='width:30px;'src='/upload/member/Holland.png'/> Holland</h4><light class='map-text'>Broodmares:</light><strong class='map'> 3 </strong> <br><br><light class='map-text'>Stallions:</light><strong class='map'> 2 </strong> <br><br><light class='map-text'>Foals:</light><strong class='map'> 2 </strong> <br><br><a class='map-link' href='member.php?id=7'> More information </a>" shape="poly" coords="" href="member.php?id=7">                               
+                                	                                   <area alt="<h4 class='text-center' style='margin:0 0 15px;color:#fff;'><img valign='absmiddle' style='width:30px;'src='/upload/member/Hungary.png'/> Hungary</h4><light class='map-text'>Broodmares:</light><strong class='map'> 185 </strong> <br><br><light class='map-text'>Stallions:</light><strong class='map'> 37 </strong> <br><br><light class='map-text'>Foals:</light><strong class='map'> 126 </strong> <br><br><a class='map-link' href='member.php?id=8'> More information </a>" shape="poly" coords="262,319,269,302,276,309,289,307,285,301,297,302,307,296,312,300,317,306,323,307,325,320,308,320,305,326,293,327,283,331,271,332,263,323" href="member.php?id=8">                               
+                                	                                   <area alt="<h4 class='text-center' style='margin:0 0 15px;color:#fff;'><img valign='absmiddle' style='width:30px;'src='/upload/member/Ireland.png'/> Ireland</h4><light class='map-text'>Breeders:</light><strong class='map'> 6239 </strong> <br><br><light class='map-text'>Broodmares:</light><strong class='map'> 12909 </strong> <br><br><light class='map-text'>Stallions:</light><strong class='map'> 216 </strong> <br><br><light class='map-text'>Foals:</light><strong class='map'> 7999 </strong> <br><br><a class='map-link' href='member.php?id=9'> More information </a>" shape="poly" coords="89,215,101,191,108,188,110,183,104,179,96,176,92,176,83,177,91,183,82,185,76,181,72,180,72,187,52,189,49,196,60,199,60,209,64,213,73,214,84,210,89,212,93,203,103,193" href="member.php?id=9">                               
+                                	                                   <area alt="<h4 class='text-center' style='margin:0 0 15px;color:#fff;'><img valign='absmiddle' style='width:30px;'src='/upload/member/Italy.png'/> Italy</h4><light class='map-text'>Breeders:</light><strong class='map'> 400 </strong> <br><br><light class='map-text'>Broodmares:</light><strong class='map'> 1200 </strong> <br><br><light class='map-text'>Stallions:</light><strong class='map'> 40 </strong> <br><br><light class='map-text'>Foals:</light><strong class='map'> 620 </strong> <br><br><a class='map-link' href='member.php?id=10'> More information </a>" shape="poly" coords="178,353,184,347,192,344,202,350,203,363,209,375,218,381,226,387,232,389,236,396,243,401,252,405,255,413,256,425,255,430,245,433,236,432,225,430,222,430,220,433,234,440,242,447,246,447,246,435,258,435,263,426,265,421,265,410,258,407,263,404,274,407,276,411,278,400,270,395,260,389,253,386,255,384,244,380,249,374,249,362,238,363,227,355,225,346,226,339,225,335,237,333,241,323,235,320,231,317,227,314,223,317,208,319,205,321,203,319,197,325,190,319,187,323,177,324,173,334,177,349" href="member.php?id=10">                               
+                                	                                   <area alt="<h4 class='text-center' style='margin:0 0 15px;color:#fff;'><img valign='absmiddle' style='width:30px;'src='/upload/member/Norway.png'/> Norway</h4><light class='map-text'>Breeders:</light><strong class='map'> 25 </strong> <br><br><light class='map-text'>Broodmares:</light><strong class='map'> 55 </strong> <br><br><light class='map-text'>Stallions:</light><strong class='map'> 5 </strong> <br><br><light class='map-text'>Foals:</light><strong class='map'> 35 </strong> <br><br><a class='map-link' href='member.php?id=11'> More information </a>" shape="poly" coords="335,29,345,21,335,15,343,10,336,9,329,7,319,9,312,11,301,21,284,29,277,45,266,55,258,66,252,81,240,93,231,105,223,107,209,111,201,118,201,128,201,134,210,135,196,148,203,162,211,167,217,164,222,156,228,153,235,162,243,149,247,135,249,122,250,108,259,97,263,83,267,71,271,64,281,49,295,43,293,38,300,33,313,35,319,34,322,23,328,21,336,28" href="member.php?id=11">                               
+                                	                                   <area alt="<h4 class='text-center' style='margin:0 0 15px;color:#fff;'><img valign='absmiddle' style='width:30px;'src='/upload/member/Poland.png'/> Poland</h4><light class='map-text'>Breeders:</light><strong class='map'> 108 </strong> <br><br><light class='map-text'>Broodmares:</light><strong class='map'> 504 </strong> <br><br><light class='map-text'>Stallions:</light><strong class='map'> 63 </strong> <br><br><light class='map-text'>Foals:</light><strong class='map'> 263 </strong> <br><br><a class='map-link' href='member.php?id=20'> More information </a>" shape="poly" coords="253,263,255,258,253,250,252,240,252,232,254,228,263,224,271,220,283,217,286,222,291,223,293,221,307,221,319,222,325,234,328,240,322,248,324,255,326,260,327,265,330,268,330,271,327,276,319,278,319,283,321,284,319,290,311,289,307,285,299,289,296,288,289,282,281,278,277,272,269,270,265,268,260,265,255,264" href="member.php?id=20">                               
+                                	                                   <area alt="<h4 class='text-center' style='margin:0 0 15px;color:#fff;'><img valign='absmiddle' style='width:30px;'src='/upload/member/Spain.png'/> Spain</h4><light class='map-text'>Broodmares:</light><strong class='map'> 284 </strong> <br><br><light class='map-text'>Stallions:</light><strong class='map'> 52 </strong> <br><br><light class='map-text'>Foals:</light><strong class='map'> 141 </strong> <br><br><a class='map-link' href='member.php?id=13'> More information </a>" shape="poly" coords="93,338,83,331,74,327,67,325,54,321,45,318,42,312,33,313,35,318,29,315,26,319,27,323,23,331,30,331,31,333,35,337,41,339,42,344,40,351,38,353,35,356,31,363,27,362,29,370,27,375,25,385,22,386,19,393,25,395,27,405,31,413,44,411,51,412,61,416,67,418,77,411,87,411,86,405,97,401,94,391,100,382,109,377,110,372,119,374,123,372,133,366,137,359,127,357,121,355,119,351,111,349,105,346,101,342,93,338,88,336" href="member.php?id=13">                               
+                                	                                   <area alt="<h4 class='text-center' style='margin:0 0 15px;color:#fff;'><img valign='absmiddle' style='width:30px;'src='/upload/member/Sweden.png'/> Sweden</h4><light class='map-text'>Broodmares:</light><strong class='map'> 220 </strong> <br><br><light class='map-text'>Stallions:</light><strong class='map'> 24 </strong> <br><br><light class='map-text'>Foals:</light><strong class='map'> 178 </strong> <br><br><a class='map-link' href='member.php?id=14'> More information </a>" shape="poly" coords=" 315,72,305,74,299,89,307,95,297,103,279,116,277,134,283,145,293,147,295,155,281,161,279,165,273,167,273,182,269,195,269,199,261,199,257,208,243,204,243,191,240,179,237,165,237,160,246,138,248,123,249,107,259,95,265,81,269,65,277,49,286,42,295,43,297,36,308,43,315,71" href="member.php?id=14">                               
+                                	                                   <area alt="<h4 class='text-center' style='margin:0 0 15px;color:#fff;'><img valign='absmiddle' style='width:30px;'src='/upload/member/Switzerland.png'/> Switzerland</h4><light class='map-text'>Breeders:</light><strong class='map'> 25 </strong> <br><br><light class='map-text'>Broodmares:</light><strong class='map'> 36 </strong> <br><br><light class='map-text'>Stallions:</light><strong class='map'> 3 </strong> <br><br><light class='map-text'>Foals:</light><strong class='map'> 8 </strong> <br><br><a class='map-link' href='member.php?id=15'> More information </a>" shape="poly" coords="223,305,206,304,201,301,197,299,197,306,191,304,181,304,180,307,177,318,180,323,186,323,193,317,197,324,198,317,203,320,213,321,219,316,223,314,224,305" href="member.php?id=15">                               
+                                	                                   <area alt="<h4 class='text-center' style='margin:0 0 15px;color:#fff;'><img valign='absmiddle' style='width:30px;'src='/upload/member/Turkey.png'/> Turkey</h4><light class='map-text'>Broodmares:</light><strong class='map'> 2200 </strong> <br><br><light class='map-text'>Stallions:</light><strong class='map'> 290 </strong> <br><br><light class='map-text'>Foals:</light><strong class='map'> 1519 </strong> <br><br><a class='map-link' href='member.php?id=16'> More information </a>" shape="poly" coords="499,359,487,369,467,375,464,373,455,373,452,373,449,369,445,371,439,369,440,365,435,366,433,372,417,373,405,385,396,387,384,388,377,385,372,381,358,381,363,387,355,393,355,395,363,399,357,407,353,411,365,411,361,417,364,425,367,429,368,435,373,442,379,446,385,447,391,451,395,453,407,447,407,442,412,441,425,445,426,448,443,445,449,441,456,435,463,433,464,443,467,433,474,429,482,424,489,426,498,423" href="member.php?id=16">                               
+                                	                                    </map>
+								</div>
+							</div>
+						</div>
+					</div>
+				</section>
+						<!--  info Section-->
+						<section class="our-causes">
+							<div class="container">
+                            <hr class="tall">
+								<div class="row">	
+									 <h2 style="margin-bottom:15px;">Thoroughbreds in Europe: <strong>Facts</strong> and <strong>key</strong> figures</h2>				
+											<!-- Article Section Srart Here -->
+										<div class="article-list progressbar">
+
+											<div class="cols-xs-12 col-sm-4">
+												<div class="zoom ">
+													<h3 class="h5"><strong>Thoroughbreds</strong> in Europe</h3>
+													<a href="/infography.php?id=1" class="img-thumb">
+														<figure>
+														<img src="assets/img/infographybt1.png" alt="" width="600" height="400">
+														</figure>
+														</a>
+													<div class="progress">
+														<div class="progress-bar" role="progressbar" aria-valuenow="70" aria-valuemin="0" aria-valuemax="100">
+															<span class="progress-value">70% </span>
+														</div>
+													</div>
+													
+													<p>
+														7 out of the 10 Leading Sires for 2014 Yearlings Worldwide Sales were bred in Europe.
+													</p>
+													<a  href="infography.php?id=1" class="btn btn-default">Learn more</a>
+                                                    <div style="clear:both;"></div>
+												</div>
+											</div>
+											<div class="cols-xs-12 col-sm-4">
+												<div class=" zoom ">
+													<h3 class="h5"><strong>People</strong> behind the Industry</h3>
+													<a href="infography.php?id=2" class="img-thumb">
+														<figure>
+														<img src="assets/img/infographybt2.png" alt="" width="600" height="400">
+														</figure>
+														</a>
+													<div class="progress">
+														<div class="progress-bar" role="progressbar" aria-valuenow="47" aria-valuemin="0" aria-valuemax="100">
+															<span class="progress-value">47% </span>
+														</div>
+													</div>
+													
+													<p>
+														The industry recruits young people: in France, 47% of employees are aged under 25.
+													</p>
+													<a href="infography.php?id=2"  class="btn btn-default">Learn more</a>
+												</div>
+											</div>
+											<div class="cols-xs-12 col-sm-4 ">
+												<div class=" zoom ">
+													<h3 class="h5">Horses in <strong>Agriculture</strong> and Rurality</h3>
+													<a href="infography.php?id=3" class="img-thumb">
+														<figure>
+														<img src="assets/img/infographybt3.png" alt="" width="600" height="400">
+														</figure>
+														</a>
+													<div class="progress">
+														<div class="progress-bar" role="progressbar" aria-valuenow="4" aria-valuemin="0" aria-valuemax="100">
+															<span class="progress-value">4% </span>
+														</div>
+													</div>
+													
+													<p>
+														4% of European agricultural land used to produce horse feed.
+													</p>
+													<a href="infography.php?id=3" class="btn btn-default">Learn more</a>
+												</div>
+											</div>
+										</div>
+								</div>
+							</div>
+						</section>
+                        <div style="clear:both;"></div>
+						<!-- info Section End-->
+
+				<!-- ---------------------------------------------news----------------------------------------------------------- -->
+                <section>
+				
+					<div class="container">
+                    	<div>
+							<div class="row">
+								<div class="col-xs-12 col-sm-8 left-block">
+                                <h2 style="margin-bottom:15px;">Latest <strong>news</strong></h2>
+                              								</div>
+							</div>
+
+							<hr class="tall">
+
+							<div class="row">
+								<div class="col-md-8">
+							                                    <article class="newslist" onClick="javascript:window.location.href='news.php?id=41';" >
+                                       
+                                            <h2><a class="news" href="news.php?id=41">EFTBA 2018 AGM <br><small><i class="fa fa-calendar font-icon"></i>Published : 2018-05-23</small></a></h2>
+                                            <p><a class='img-thumbnail pull-left' href='news.php?id=41'><img src='/upload/news/v_7973-EFTBA-2018-AGM.jpg' class='pull-left'></a> A very successful AGM of the EFTBA took place in Cologne on 21st May 2018 hosted the German Owners and Breeders Association under the stewardship of the Irish Thoroughbred Breeders' Association and Joe...</p>
+                                            <p><a href="news.php?id=41" class="btn btn-default mr-xs mb-sm pull-right">Learn more</a></p>
+                                    		<div style="clear:both;"></div>
+                                    </article>                                    
+                                    
+                                    <hr>
+                                                                    <article class="newslist" onClick="javascript:window.location.href='news.php?id=39';" >
+                                       
+                                            <h2><a class="news" href="news.php?id=39">Joe Hernon, EFTBA Chairman Meets with EU MEP's in Brussels  <br><small><i class="fa fa-calendar font-icon"></i>Published : 2018-04-25</small></a></h2>
+                                            <p><a class='img-thumbnail pull-left' href='news.php?id=39'><img src='/upload/news/v_6008-Joe-Hernon-EFTBA-Chairman-Meet.jpg' class='pull-left'></a> Joe Hernon, EFTBA Chairman meeting with EU MEP's  Mairead McGuinness and Sean Kelly in Brussels representing European breeders. along with ITBA Team, Chairman Stephen Collins, CEO Shane O'Dwyer and Des...</p>
+                                            <p><a href="news.php?id=39" class="btn btn-default mr-xs mb-sm pull-right">Learn more</a></p>
+                                    		<div style="clear:both;"></div>
+                                    </article>                                    
+                                    
+                                    <hr>
+                                                             
+							
+                                    
+                              </div>
+								<div class="col-xs-12 col-md-4 left-block ">
+									<aside class="media">
+								    <img src="assets/img/eftba-illuhome.jpg" width="360" height="513"> </aside>
+								</div>
+							</div>
+							<div class="row">
+								<div class="col-md-6">
+									<a class="twitter-timeline" data-width="100%" data-height="450" data-link-color="#666699" href="https://twitter.com/EFTBA18">Tweets by EFTBA18</a> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+								</div>
+								<div class="col-md-6">
+								<div id="fb-root"></div>
+								<script>(function(d, s, id) {
+								  var js, fjs = d.getElementsByTagName(s)[0];
+								  if (d.getElementById(id)) return;
+								  js = d.createElement(s); js.id = id;
+								  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.9";
+								  fjs.parentNode.insertBefore(js, fjs);
+								}(document, 'script', 'facebook-jssdk'));
+								</script>								
+<div class="fb-page" data-href="https://www.facebook.com/EuropeanTBA/" data-tabs="timeline" data-width="440" data-height="400" data-small-header="true" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="false"><blockquote cite="https://www.facebook.com/EuropeanTBA/" class="fb-xfbml-parse-ignore"><a href="https://www.facebook.com/EuropeanTBA/">European Federation Thoroughbred Breeders&#039; Associations</a></blockquote></div>								
+
+								</div>
+							</div>
+
+
+						</div>
+					</div>
+
+                
+                
+                </section>
+                <!-- --------------------------------------------- end news----------------------------------------------------------- -->
+				
+				
+
+			</div>
+			<footer id="footer" class="footer-third">
+				<div class="container">
+					<div class="row">
+						<div class="col-xs-12 col-sm-4 ">
+							<div class="footer-logo">
+								<a class="footer" href="aboutus.php" title="Welcome to Charity">About EFTBA</a>
+							</div>
+							<p>
+								The European Federation of Thoroughbred Breeders’ Associations (EFTBA) was set up in 1994 to enable European breeders’ associations to be represented at a European level with a strong single voice. <a class="footer" href="/aboutus.php"><br />learn more. </a>
+							</p>
+						</div>
+                        <br />
+						<div class="col-xs-12 col-sm-2">
+							<h6>Site Map</h6>
+							<ul>
+                            	<li><a class="footer" href="/">Home</a></li>
+                            	<li><a class="footer" href="/aboutus.php">About Us</a></li>
+                                <li><a class="footer" href="/our-mission.php">Our Missions</a></li>
+                                <li><a class="footer" href="/newslisting.php">News & Docs</a></li>
+                                <li><a class="footer" href="/links.php">Links</a></li>
+                                <li><a class="footer" href="/contact-us.php">Contact</a></li>
+                            </ul>
+						</div>
+                        <div class="col-xs-12 col-sm-3">
+							<h6>Our Members</h6>
+							<p>
+                            	<a class="footer" href="member.php?id=1">Austria </a>
+                                <a class="footer" href="member.php?id=17">Belgium </a>
+                                <a class="footer" href="member.php?id=2">Cyprus  </a>
+                                <a class="footer" href="member.php?id=3">Czech Republic </a>
+                                <a class="footer" href="member.php?id=4">Denmark </a>
+                                <a class="footer" href="member.php?id=5">Finland </a>
+                                <a class="footer" href="member.php?id=6">France </a>
+                                <a class="footer" href="member.php?id=19">Germany </a>
+                                <a class="footer" href="member.php?id=18">Great Britain </a>
+                                <a class="footer" href="member.php?id=8">Hungary </a>
+                                <a class="footer" href="member.php?id=9">Ireland </a>
+                                <a class="footer" href="member.php?id=10">Italy </a>
+                                <a class="footer" href="member.php?id=11">Norway </a>
+                                <a class="footer" href="member.php?id=13">Spain </a>
+                                <a class="footer" href="member.php?id=14">Sweden </a>
+                                <a class="footer" href="member.php?id=15">Switzerland </a>
+                                <a class="footer" href="member.php?id=16">Turkey </a>
+                            </p>
+						</div>
+                        <div class="col-xs-12 col-sm-3 twitter-update">
+							<h6>Get in touch</h6>
+							<address>
+                            	EFTBA<br />
+                            	ITBA HQ <br />
+                           	Greenhills <br />
+                           	Kill <br />
+                           	Co. 
+                           	Kildare <br />
+                           	Ireland <br>
+							</address>
+                            
+						</div>
+                        
+					</div>
+				</div>
+				<div class="copyright copyright-alternate">
+					<div class="container">
+						<div class="row">
+							<div class="col-xs-12"><span> &copy; Copyright 2015 <a class="footer" href="http://www.eftba.eu">EFTBA</a> - <small>Powered by <a class="footer" href="http://www.ealys.com" target="_blank">Ealys</a></small></span></div>
+						</div>
+					</div>
+				</div>
+				<script>
+                  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+                  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+                  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+                  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+                
+                  ga('create', 'UA-69424333-1', 'auto');
+                  ga('send', 'pageview');
+                </script>                
+                
+			</footer>		</div>
+		<script src="assets/js/jquery.min.js"></script>
+		<!-- Bootstrap Js--> 
+		<script src="assets/js/bootstrap.min.js"></script>
+		<script src="assets/js/jquery.easing.min.js"></script>
+        <script src="assets/js/jquery.qtip.min.js"></script>
+		<!--Main Slider Js-->
+		<script src="assets/revolution-slider/js/jquery.themepunch.plugins.min.js"></script>
+		<script src="assets/revolution-slider/js/jquery.themepunch.revolution.js"></script>
+		<!--Main Slider Js End -->
+		<script src="assets/js/jquery.flexslider.js"></script>
+		<script src="assets/js/site.js"></script>
+        <script>
+		$(document).ready(function()
+{
+    // We'll target all AREA elements with alt tags (Don't target the map element!!!)
+    $('area[alt]').qtip(
+    {
+        content: {
+            attr: 'alt', // Use the ALT attribute of the area map for the content
+        },
+        style: {
+            classes: 'qtip-dark',
+        },
+		position: {
+		adjust: {
+			screen: true
+		},
+		my: "center",
+		at: "left"
+	},
+	 hide: {
+          fixed: true,
+          delay: 500
+     }
+    });
+});
+</script>
+	</body>
+</html>
+

@@ -1,0 +1,69 @@
+WARC/1.0
+WARC-Type: warcinfo
+WARC-Date: 2018-05-30T17:52:31Z
+WARC-All-Language: fr
+WARC-All-Content_type: text/html
+WARC-Record-ID: <urn:uuid:22b7b4be-b0cb-4575-8411-6d8718f245d7>
+Content-Type: application/http;msgtype=response
+Content-Length: 46
+
+WARCProcessor by SING Group www.sing-group.com
+
+WARC/1.0
+WARC-Type: response
+WARC-Target-URI: http://www.cookex.eu
+WARC-Date: 20180530175231
+WARC-Language: fr
+WARC-Record-ID: <http://www.cookex.eu>
+Content-Type: application/http;msgtype=response
+Content-Length: 221
+
+HTTP/1.1 200
+Content-Type:text/html
+
+
+<!doctype html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Cookex</title>
+<style type="text/css">
+	body {
+		background-color: #B1DA25;
+	}
+</style>
+</head>
+<body>
+</body>
+</html>
+
+
+WARC/1.0
+WARC-Type: response
+WARC-Target-URI: http://www.cookex.eu
+WARC-Date: 20180530181832
+WARC-Language: fr
+WARC-Record-ID: <http://www.cookex.eu>
+Content-Type: application/http;msgtype=response
+Content-Length: 221
+
+HTTP/1.1 200
+Content-Type:text/html
+
+
+<!doctype html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Cookex</title>
+<style type="text/css">
+	body {
+		background-color: #B1DA25;
+	}
+</style>
+</head>
+<body>
+</body>
+</html>
+
+

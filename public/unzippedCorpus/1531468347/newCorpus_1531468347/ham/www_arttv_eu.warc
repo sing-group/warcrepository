@@ -1,0 +1,36 @@
+WARC/1.0
+WARC-Type: warcinfo
+WARC-Date: 2018-05-30T19:13:40Z
+WARC-Record-ID: <urn:uuid:2ab843ff-0add-4733-a341-127f8b1168a1>
+WARC-All-Language: fr
+WARC-All-Content_type: text/html
+Content-Type: application/http;msgtype=response
+Content-Length: 46
+
+WARCProcessor by SING Group www.sing-group.com
+
+WARC/1.0
+WARC-Type: response
+WARC-Record-ID: <http://www.arttv.eu>
+WARC-Date: 20180530191340
+WARC-Target-URI: http://www.arttv.eu
+WARC-Language: fr
+Content-Type: application/http;msgtype=response
+Content-Length: 271
+
+HTTP/1.1 200
+Content-Type:text/html
+
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+       "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+  <meta http-equiv="Refresh" content="0;url=defaultsite" />
+  <!-- UK -->
+</head>
+<body>
+</body>
+</html>
+
+

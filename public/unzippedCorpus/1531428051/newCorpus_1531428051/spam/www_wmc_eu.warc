@@ -1,0 +1,526 @@
+WARC/1.0
+WARC-Type: warcinfo
+WARC-Date: 2018-05-30T17:52:30Z
+WARC-Record-ID: <urn:uuid:b0ceee05-4986-4e99-9a25-4661b7e2d4da>
+WARC-All-Language: en
+WARC-All-Content_type: text/html; charset=UTF-8, text/html
+Content-Type: application/http;msgtype=response
+Content-Length: 46
+
+WARCProcessor by SING Group www.sing-group.com
+
+WARC/1.0
+WARC-Type: response
+WARC-Record-ID: <http://www.wmc.eu>
+WARC-Date: 20180530175231
+WARC-Target-URI: http://www.wmc.eu
+WARC-Language: en
+Content-Type: application/http;msgtype=response
+Content-Length: 18562
+
+HTTP/1.1 200
+Content-Type:text/html; charset=UTF-8
+
+
+<!doctype html>
+<!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7" lang=""> <![endif]-->
+<!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8" lang=""> <![endif]-->
+<!--[if IE 8]>         <html class="no-js lt-ie9" lang=""> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang=""> <!--<![endif]-->
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+        <title>Knowledge Centre WMC</title>
+        <meta name="description" content="">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <link rel="apple-touch-icon" href="apple-touch-icon.png">
+
+        <link rel="stylesheet" href="css/bootstrap.min.css">
+	<link rel="stylesheet" href="css/font-awesome.min.css">
+        <style>
+            body {
+                padding-top: 50px;
+                padding-bottom: 20px;
+            }
+        </style>
+        <link rel="stylesheet" href="css/bootstrap-theme.min.css">
+        <link rel="stylesheet" href="css/dataTables.bootstrap.css">
+        <link rel="stylesheet" href="css/main.css">
+        <script type="text/javascript" src="js/supertable.js"></script>
+        <script src="js/vendor/modernizr-2.8.3-respond-1.4.2.min.js"></script>
+	<script type="text/javascript" language="javascript" src="js/jquery-1.12.3.min.js"> </script>
+
+
+
+<link rel="stylesheet" type="text/css" href="css/cookieconsent.min.css" />
+<script src="js/cookieconsent.min.js"></script>
+<script>
+window.addEventListener("load", function(){
+window.cookieconsent.initialise({
+  "palette": {
+    "popup": {"background": "#003F87"},
+    "button": {"background": "#fff", "text": "#003F87"}
+  },
+onInitialise: function (status) {
+  var type = this.options.type;
+  var didConsent = this.hasConsented();
+  if (type == 'opt-in' && didConsent) {
+    // enable cookies
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-40701808-1', 'wmc.eu');
+  ga('send', 'pageview');
+  }
+  if (type == 'opt-out' && !didConsent) {
+			// disable cookies
+				clearCookie('_ga','.wmc.eu','/');
+				clearCookie('_gat_gtag_UA_40701808-1','.wmc.eu','/');
+				clearCookie('_gid','.wmc.eu','/');
+				// Get an array of cookies
+//				var arrSplit = document.cookie.split(";");
+//				for(var i = 0; i < arrSplit.length; i++)
+//				{
+//					var cookie = arrSplit[i].trim();
+//					var cookieName = cookie.split("=")[0];
+//					// If the prefix of the cookie's name matches the one specified, remove it
+//					if(cookieName.indexOf("ssupp.") === 0) {
+//						// Remove the cookie
+//						document.cookie = cookieName + "=; Max-Age=-99999999;";
+//					}
+//				}
+//			}
+//  }
+  }
+},
+ 
+onStatusChange: function(status, chosenBefore) {
+  var type = this.options.type;
+  var didConsent = this.hasConsented();
+  if (type == 'opt-in' && didConsent) {
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-40701808-1', 'wmc.eu');
+  ga('send', 'pageview');
+  }
+  if (type == 'opt-out' && !didConsent) {
+			// disable cookies
+				clearCookie('_ga','.wmc.eu','/');
+				clearCookie('_gat_gtag_UA_40701808-1','.wmc.eu','/');
+				clearCookie('_gid','.wmc.eu','/');
+				// Get an array of cookies
+				//var arrSplit = document.cookie.split(";");
+	//			for(var i = 0; i < arrSplit.length; i++)
+	//			{
+	//				var cookie = arrSplit[i].trim();
+	//				var cookieName = cookie.split("=")[0];
+	//				// If the prefix of the cookie's name matches the one specified, remove it
+	//				if(cookieName.indexOf("ssupp.") === 0) {
+	//					// Remove the cookie
+	//					document.cookie = cookieName + "=; Max-Age=-99999999;";
+	//				}
+//				}
+//			}
+  }
+},
+ 
+onRevokeChoice: function() {
+  var type = this.options.type;
+  if (type == 'opt-in') {
+    // disable cookies
+  }
+  if (type == 'opt-out') {
+    // enable cookies
+  }
+},
+
+  "type": "opt-in",
+  "content": {
+  "message": "WMC.eu uses cookies to ensure you get the best experience on our website.",
+    "dismiss": "Deny cookies",
+    "href": "privacy.php"
+  }
+})});
+</script>
+
+
+    </head>
+    <body>
+
+
+<!-- ================================================================================== -->
+
+<nav class="navbar navbar-inverse navbar-fixed-top" role="navigation">
+<div class="container">
+    <div class="navbar-header">
+      <button type="button" 
+              class="navbar-toggle collapsed" 
+              data-toggle="collapse" 
+              data-target="#wmcnavbar-content" 
+              aria-expanded="false" 
+              aria-controls="navbar">
+        <span class="sr-only">Toggle navigation</span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+      <a class="navbar-brand" href="index.php"><img src="img/wmc_logow.png" width="200"></a>
+    </div>
+    <div  id="wmcnavbar-content" class="navbar-collapse collapse">
+      <ul class="nav navbar-nav">
+        <!--<li><a href="#">Services</a></li>-->
+        <!--<li><a href="#">Products</a></li>-->
+        <!--<li><a href="#">Markets</a></li>-->
+	<!--<li><a href="#">Research</a></li>-->
+	<!--<li><a href="#">Jobs</a></li>-->
+        <!--<li><a href="#">About</a></li>-->
+        <!--<li><a href="#">News</a></li>-->
+        
+
+
+        <li class="dropdown">
+          <a href="#" 
+             class="dropdown-toggle"
+             data-toggle="dropdown">Services <b class="caret"></b>
+          </a>
+          <ul class="dropdown-menu">
+            <li><a href="material.php">Material testing</a></li>
+            <li><a href="structural_testing.php">Structural testing</a></li>
+           <li><a href="blade_testing.php">Full-scale blade testing</a></li>
+            <li><a href="inspections.php">Inspections</a></li>
+          </ul>
+        </li>
+
+        <li class="dropdown">
+          <a href="#" 
+             class="dropdown-toggle"
+             data-toggle="dropdown">Software <b class="caret"></b>
+          </a>
+          <ul class="dropdown-menu">
+            <li><a href="focus6_general.php">FOCUS6 Wind turbine design tool overview</a></li>
+            <li><a href="focus6_onshore.php">FOCUS6 Onshore wind turbine design</a></li>
+            <li><a href="focus6_offshore.php">FOCUS6 Offshore wind turbine design</a></li>
+            <li><a href="focus6_bladedesign.php">FOCUS6 Structural blade design</a></li>
+            <li><a href="focus6_bladetesting.php">FOCUS6 Blade testing</a></li>
+            <li><a href="focus6_rotordesign.php">FOCUS6 Rotor pre-design and noise emission</a></li>
+            <li><a href="focus6_tidal.php">FOCUS6 Tidal</a></li>
+            <li><a href="focus6_mainfeatures.php">FOCUS6 General features</a></li>
+            <li><a href="focus6_consultancy.php">FOCUS6 Consultancy and training services</a></li>
+            <li class=divider></li>
+            <li><a href="resellers.php">International resellers, agents and partners</a></li>
+          </ul>
+        </li>
+
+        <li class="dropdown">
+          <a href="#" 
+             class="dropdown-toggle"
+             data-toggle="dropdown">Markets <b class="caret"></b>
+          </a>
+          <ul class="dropdown-menu">
+            <li><a href="wind_energy.php">Wind energy</a></li>
+            <li><a href="oil_gas.php">Oil &amp; gas</a></li>
+            <li><a href="civil_engineering.php">Civil &amp; Infrastructure</a></li>
+           <li><a href="other.php">Other</a></li>
+          </ul>
+        </li>
+
+
+        <li class="dropdown">
+          <a href="#" 
+             class="dropdown-toggle"
+             data-toggle="dropdown">Research <b class="caret"></b>
+          </a>
+          <ul class="dropdown-menu">
+            <li><a href="research_main.php">Research topics at WMC</a></li>
+            <li><a href="research_int.php">International research programmes</a></li>
+            <li><a href="research_nat.php">National research programmes</a></li>
+          </ul>
+        </li>
+        <li class="dropdown">
+          <a href="#" 
+             class="dropdown-toggle"
+             data-toggle="dropdown">Jobs<b class="caret"></b>
+          </a>
+          <ul class="dropdown-menu">
+            <li><a href="jobs.php">Jobs</a></li>
+            <li><a href="master_projects.php">Master thesis projects</a></li>
+          </ul>
+        </li>
+
+
+        <li class="dropdown">
+          <a href="#" 
+             class="dropdown-toggle"
+             data-toggle="dropdown">About <b class="caret"></b>
+          </a>
+          <ul class="dropdown-menu">
+            <li><a href="facility.php">Facility</a></li>
+            <li><a href="history.php">History</a></li>
+            <li><a href="contact.php">Contact</a></li>
+            <li><a href="downloads.php">Document downloads</a></li>
+            <li><a href="about.php">About us</a></li>
+          </ul>
+        </li>
+
+        <li class="dropdown">
+          <a href="#" 
+             class="dropdown-toggle"
+             data-toggle="dropdown">News<b class="caret"></b>
+          </a>
+          <ul class="dropdown-menu">
+            <li><a href="news.php">News archive</a></li>
+          </ul>
+        </li>
+
+        
+            <li>
+            <a href="http://youtube.com/wmceu" target="_blank" class="btn btn-social-icon btn-youtube fa-lg">
+                <i class="fa fa-youtube"></i>
+            </a>
+            </li>
+
+<div class="pull-right col-sm-3">
+ <div style="width: 200px;">
+ <gcse:search></gcse:search> 
+</div>
+</div>
+
+
+    </ul>
+
+
+
+    
+    </div><!--/.navbar-collapse -->
+</div>
+</nav>
+
+
+<!-- ================================================================================== -->
+
+<div id="carousel-example-generic" class="carousel slide" data-ride="carousel">
+  <div class="container">
+  <!-- Indicators -->
+  <ol class="carousel-indicators">
+    <li data-target="#carousel-example-generic" data-slide-to="0" class="active"></li>
+    <li data-target="#carousel-example-generic" data-slide-to="1"></li>
+    <li data-target="#carousel-example-generic" data-slide-to="2"></li>
+    <li data-target="#carousel-example-generic" data-slide-to="3"></li>
+  </ol>
+
+  <!-- Wrapper for slides -->
+  <div class="carousel-inner" role="listbox">
+    <div class="item active">
+      <img src="img/carousel_01b.jpg" alt="">
+      <div class="carousel-caption">
+      </div>
+    </div>
+    <div class="item">
+      <img src="img/carousel_02.jpg" alt="">
+      <div class="carousel-caption">
+      </div>
+    </div>
+    <div class="item">
+      <img src="img/carousel_07b.png" alt="">
+      <div class="carousel-caption">
+      </div>
+    </div>
+    <div class="item">
+      <img src="img/carousel_04.jpg" alt="">
+      <div class="carousel-caption">
+      </div>
+    </div>
+  </div>
+
+  </div>
+</div>
+
+
+<!-- Main jumbotron for a primary marketing message or call to action -->
+<div class="jumbotron">
+    <div class="container">
+    <div class="row">
+
+<div class="col-md-12">
+        <h1>Knowledge Centre WMC</h1>
+        <p>With our technology leadership and professional approach, customers select us as their preferred supplier for all sorts of test solutions and wind turbine design tools. Our facilities include several rotor blade test stands and dedicated composite manufacturing and test laboratories. 
+<img  src="img/i_s_o.png"  class="img-rounded img-responsive pull-right mx-auto " style="width: 100px;margin-left:10px">
+Work field includes wind turbines, tidal, offshore oil & gas, marine sector, civil engineering and automotive.
+
+We understand the importance of customer focus starting with smart, cost-efficient solutions, not wasting time during the process, ending with delivering excellent results that enable our customers to develop their products further.
+        </p>
+    </div>
+
+</div>
+</div>
+</div>
+
+<!-- News -->
+<div class="container">
+
+    <div class="row">
+
+<div class="col-md-3">
+
+<h2>Offshore wind industry joins forces to reduce cable failure costs</h2>
+<div class="active item"><img src="img/jip1.png"  style="padding: 5px width: auto"></div>
+<p>				
+10-04-2018 Wieringerwerf<br>
+
+
+Power-cable failures offshore are often the main risk affecting the development and operation of offshore wind farms. Approximately 80% of insurance claims in the offshore wind industry are linked to cable failures. To reduce failure levels, DNV GL, ECN, WMC, BREM, VanderHoekPhotonics, Deltares and other partners are joining forces in a Joint Industry Project (JIP): Cables Lifetime Monitoring. 
+
+</p>
+<p>
+<a href="news20.php">Continue reading...</a>
+</p>
+<br>
+
+
+</div>
+
+
+
+
+<div class="col-md-3">
+
+<h2>TKI Match Making Day 2018</h2>
+
+<div class="active item"><img src="img/iuri_mimic_Page_07s.png"  style="padding: 5px width: auto"></div>
+
+<p>
+14-02-2018 Utrecht<br>
+On Valentine's day, in keeping with maintaining and creating relationships, WMC contributed the TKI-Matchmaking event in Utrecht, the Netherlands. This event, organised by the Topconsortium Kennis en Innovatie (Topconsortium Knowledge and Innovation) consisted of a member meeting, an innovation market, and an open afternoon session where the latest collaboration opportunities were presented. 
+Our TKI-MIMIC principal investigator, Iuri Barcelos, presented the results of his now 4-year project on 'MIcromechanics-based Modelling and condition Monitoring of rotor blade Composites (MIMIC)'.
+Besides that, participation of WMC's researchers was acknowledged in various other presentations.
+
+</p>
+<p>
+<a href="news19.php">Continue reading...</a>
+</p>	
+
+</div>
+
+
+
+<div class="col-md-3">
+
+<h2>TKI Double Slip Joint project update</h2>
+<div class="active item"><img src="img/doubleslipjoint_s.png"  style="padding: 5px width: auto"></div>
+			
+24-08-2017 Wieringerwerf<br><p>
+The Double Slip Joint is being developed by KCI to replace grouted or bolted connections between the transition piece and monopile of wind turbine foundations. Together with partners Van Oord and SIF a joint project has been set up with support from TKI-Wind op Zee. 
+A scale 1:5 prototype for an 8 MW offshore wind turbine is being tested in the laboratory of Knowledge Centre WMC.</p><p>
+The prototype diameter is 1.6 m. The longest component is about 15 m long (12 ton). The smaller main part is about 6 m long (5 ton). 
+Test plans and test results will be reviewed by DNV-GL.</p><p>
+<a href="news18.php">Continue reading...</a>
+</p>
+
+</div>
+
+
+
+
+
+<div class="col-md-3">
+
+<h2>WMC researchers in mobility visit to DTU Ris&oslash;</h2>
+<div class="active item"><img src="img/fiber_photoss.png"  style="padding: 5px width: auto"></div>
+<p>				
+12-07-2017 Wieringerwerf<br><p>Two members from the WMC materials research team, Francisco Lahuerta and Iuri Rocha, took part on the <a href="http://www.irpwind.eu/Mobility" target="_blank">IRPWind Mobility Programme</a>, aimed at fostering collaboration between research organizations involved in the IRPWind project. Two research proposals were submitted to the programme and were both approved, resulting in two visits to the DTU Ris&oslash; campus in Roskilde, in collaboration with Lars Pilgaard Mikkelsen from DTU Wind Energy.
+
+</p><p>
+
+<a href="news17.php">Continue reading...</a>
+</p>	
+
+</div>
+
+
+
+
+
+
+
+
+
+    </div>
+</div>
+
+
+<!-- drie ankeilers-->
+
+<div class="container">
+<!-- Example row of columns -->
+<div class="row">
+
+    <div class="col-md-4">
+        <h2>Full-scale blade testing</h2>
+        <a href="blade_testing.php">
+        <img src="img/activities_statictest.jpg" class="img-responsive" alt="">
+        </a>
+        <p>WMC has developed the procedures for blade tests since 1984 and has tested many blades for many of the largest blade manufacturers ever since. </p>
+        <p><a class="btn btn-default" href="blade_testing.php" role="button">View details &raquo;</a></p>
+    </div>
+    
+    <div class="col-md-4">
+        <h2>FOCUS6</h2>
+        <a href="focus6_general.php">
+        <img src="img/blademodeler.png" class="img-responsive" alt="">
+        </a>
+        <p>FOCUS6 is the integrated modular tool to design wind turbines and wind turbine components like rotor blades. For more than a decade, FOCUS6 is being used by the international wind turbine industry. </p>
+        <p><a class="btn btn-default" href="focus6_general.php" role="button">View details &raquo;</a></p>
+    </div>
+    
+    <div class="col-md-4">
+        <h2>Structural testing</h2>
+        <img src="img/WMC2_struct_test3b.jpg" class="img-responsive" alt="">
+	<p>Besides testing for the wind energy, WMC has extensive expertise and testing capacity for other structural
+ and material testing for different sectors, like the oil & gas industry and civil engineering.</p>
+<p><div class="btn-group" role="group" aria-label="">
+        <a class="btn btn-default" href="structural_testing.php" role="button">Structural testing &raquo;</a> 
+	<a class="btn btn-default" href="material.php" role="button">Material testing &raquo;</a>
+	</div>
+</p>
+    </div>
+
+
+
+</div>
+
+
+
+
+
+<!-- ================================================================================== -->
+
+<footer class="footer">
+<div class="container">
+<p class="text-center">
+Knowledge Centre WMC is an independent research foundation<br>
+&copy; WMC 2018
+<center><a href="privacy.php">Privacy policy</a></center>
+</p>
+</div>
+</footer>
+
+
+
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
+<script>window.jQuery || document.write('<script src="js/vendor/jquery-1.11.2.min.js"><\/script>')</script>
+
+<script src="js/vendor/bootstrap.min.js"></script>
+
+<script src="js/plugins.js"></script>
+<script src="js/main.js"></script>
+
+
+</body>
+</html>
+
+

@@ -1,0 +1,764 @@
+WARC/1.0
+WARC-Type: warcinfo
+WARC-Date: 2018-05-30T17:52:31Z
+WARC-Record-ID: <urn:uuid:e2847e65-8741-412a-848f-1a50156d8326>
+WARC-All-Language: en
+WARC-All-Content_type: text/html; charset=UTF-8, text/html
+Content-Type: application/http;msgtype=response
+Content-Length: 46
+
+WARCProcessor by SING Group www.sing-group.com
+
+WARC/1.0
+WARC-Type: response
+WARC-Record-ID: <http://www.guengl.eu>
+WARC-Date: 20180530175231
+WARC-Target-URI: http://www.guengl.eu
+WARC-Language: en
+Content-Type: application/http;msgtype=response
+Content-Length: 39372
+
+HTTP/1.1 200
+Content-Type:text/html; charset=UTF-8
+
+
+
+
+<!DOCTYPE html>
+<!--[if lt IE 7]> <html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="en"> <![endif]-->
+<!--[if IE 7]>    <html class="no-js lt-ie9 lt-ie8" lang="en"> <![endif]-->
+<!--[if IE 8]>    <html class="no-js lt-ie9" lang="en"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="en"> <!--<![endif]-->
+<head>
+  <meta charset="utf-8" />
+
+	<!-- Set the viewport width to device width for mobile -->
+	<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+	<meta name="keywords" content="GUE/NGL, Gauche Unitaire Européenne, European United Left, Nordic Green Left, EU Parliamentary Group"/>
+	<meta name="description" content="
+	
+	   'GUE/NGL - European United Left - Nordic Green Left - European Parliamentary Group : Another Europe is Possible! news, events and actions on European Policy'
+	 
+	">
+	<link rel="icon" href="/favicon.png" type="image/x-icon">
+	<title>                                                                                                    GUE/NGL - Another Europe is possible</title>
+
+	<!-- Included CSS Files -->
+	
+	<link rel="stylesheet" href="http://www.guengl.eu/assets/stylesheets/app.css">
+	
+
+	
+	  <script src="http://www.guengl.eu/assets/javascripts/modernizr.js"></script>
+    <script src="http://www.guengl.eu/assets/javascripts/foundation/jquery.js"></script>
+  
+  	<!-- IE Fix for HTML5 Tags -->
+  	<!--[if lt IE 9]>
+  		
+  		<script src="http://www.guengl.eu/assets/javascripts/respond.min.js"></script>
+  		<script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+  		<script src="http://www.guengl.eu/assets/javascripts/html5shiv-printshiv.js"></script>
+  		
+  	<![endif]-->
+
+</head>
+
+<body class="en">
+<div class="container">
+	<header>
+
+		<div class="tools-bar">
+			<div class="row">
+				
+				<h3 class="left margin-width">Another Europe is possible</h3>
+				<div class="mobile-only margin-width">
+					<ul class="mobile-menu">
+						<li><a href="#" class="show-menu">Menu</a></li>
+						<li><a href="#" class="show-search">Search</a></li>
+						
+					</ul>
+				</div>
+				<div class="margin-width">
+					<div class="search right">
+					<form method="post" action="http://www.guengl.eu/"  >
+<div class='hiddenFields'>
+<input type="hidden" name="ACT" value="20" />
+<input type="hidden" name="RES" value="10" />
+<input type="hidden" name="meta" value="YTo5OntzOjY6InN0YXR1cyI7czowOiIiO3M6NzoiY2hhbm5lbCI7czowOiIiO3M6ODoiY2F0ZWdvcnkiO3M6MDoiIjtzOjk6InNlYXJjaF9pbiI7czoxMDoiZXZlcnl3aGVyZSI7czo1OiJ3aGVyZSI7czowOiIiO3M6MTI6InNob3dfZXhwaXJlZCI7czowOiIiO3M6MTk6InNob3dfZnV0dXJlX2VudHJpZXMiO2I6MDtzOjExOiJyZXN1bHRfcGFnZSI7czoxMjoic2VhcmNoL2luZGV4IjtzOjE1OiJub19yZXN1bHRzX3BhZ2UiO3M6MTY6InNlYXJjaC9ub3Jlc3VsdHMiO31jMDU0MWRkZDczYmFkODQ5MGY0NjRhZTk4YjQxYTMzMA==" />
+<input type="hidden" name="site_id" value="1" />
+<input type="hidden" name="csrf_token" value="9a4f42ed3a495d2aafe02a702e4e410b05beea4f" />
+</div>
+
+
+						<input name="keywords" id="keywords" class="search-input left" type="text" placeholder="Find something" />
+						<button  type="submit" value="submit" class="submit button left"></button>
+					</form>
+					</div>
+				</div>
+			</div>
+		</div>
+
+		<div class="menu">
+			<div class="row">
+				<nav class="top-bar margin-width">
+					
+					
+					<ul>
+					<li class="selected"><a href="/">Home</a>
+							
+						</li><li class="has-dropdown"><a href="/group">The Group</a>
+							<ul class="dropdown"><li class=""><a href="/group/about">About the group</a>
+							
+						</li><li class=""><a href="/group/delegations">Delegations</a>
+							
+						</li><li class=""><a href="/group/history">History</a>
+							
+						</li><li class=""><a href="/group/contact">Contact</a>
+							
+						</li></ul>
+						</li><li class="has-dropdown"><a href="/news">Newsroom</a>
+							<ul class="dropdown"><li class=""><a href="/news/archives/category/gue-ngl-news">GUE/NGL News</a>
+							
+						</li><li class=""><a href="/news/archives/category/press-conferences">Press Conferences</a>
+							
+						</li><li class=""><a href="/news/archives/category/events">Events</a>
+							
+						</li><li class=""><a href="/plenary-focus">Plenary Focus</a>
+							
+						</li><li class=""><a href="/news/archives/">Archives</a>
+							
+						</li></ul>
+						</li><li class="has-dropdown"><a href="/people">The People</a>
+							<ul class="dropdown"><li class=""><a href="/people/presidency">The Presidency</a>
+							
+						</li><li class=""><a href="/people/bureau">Bureau</a>
+							
+						</li><li class=""><a href="/people/meps">The MEPS</a>
+							
+						</li><li class=""><a href="/people/staff">Staff</a>
+							
+						</li><li class=""><a href="/people/committees">Committees and Delegations</a>
+							
+						</li><li class=""><a href="/people/vacancies/staff-vacancies">Staff vacancies</a>
+							
+						</li></ul>
+						</li><li class="has-dropdown"><a href="/policy">Policy</a>
+							<ul class="dropdown"><li class=""><a href="/policy/resolutions">Resolutions</a>
+							
+						</li><li class=""><a href="/policy/actions">Actions</a>
+							
+						</li><li class=""><a href="/policy/publications">Publications</a>
+							
+						</li><li class=""><a href="/policy/priorities">Priorities</a>
+							
+						</li><li class=""><a href="/event-reports">Event reports</a>
+							
+						</li><li class=""><a href="/debates">Debates</a>
+							
+						</li></ul>
+						</li><li class="has-dropdown"><a href="/media-channel">Media Channel</a>
+							<ul class="dropdown"><li class=""><a href="/media-channel/videos">Videos</a>
+							
+						</li><li class=""><a href="/media-channel/galleries">Galleries</a>
+							
+						</li><li class=""><a href="/media-channel/logo">Logo</a>
+							
+						</li><li class=""><a href="http://web.guengl.streamovations.be/index.php/listpage">Conferences on VOD</a>
+							
+						</li></ul>
+						</li>
+
+					</ul>
+				</nav>
+				<div class="logo-container">
+					<div class="logo left margin-width">
+						<a href="http://www.guengl.eu/"><h1>GUE/NGL</h1></a>
+					</div>
+					<div class="baseline left margin-width">
+						<h2>European United Left/Nordic Green Left<br/> European Parliamentary Group</h2>
+					</div>
+				</div>
+			</div>
+		</div>
+
+	</header>
+<div class="action-banner  action-banner-home " data-bannerurl='http://www.guengl.eu/policy/banner/gue-ngl-whistleblower-prize-2018'>
+    <script type="text/javascript">
+    $(document).ready(function(){
+      var bannerPath = $('.action-banner').data('bannerurl');
+      // console.log(bannerPath);
+      // Do some cookie stuff here. If the 'close' cookie has not been set, load and show the banner
+      // get cookie value, store it
+      var bannerState = $.cookie('banner_active');
+      if ((bannerState === 'active') && (bannerPath != '')){
+        $.ajax({
+          url: bannerPath,
+          success: function(data) {
+            var activeBanner = $('.action-banner').append(data);
+            // console.log('Load was performed.');
+            $('a.banner-close').bind('click',function(e){
+              e.preventDefault();
+              var inactiveBanner = activeBanner.detach();
+              $.cookie('banner_active', 'inactive');
+              // console.log('cookie was disabled');
+            });
+          }
+        });
+      }
+    });
+  </script>
+</div>
+
+<div class="slider-background">
+  <div class="slider-container">
+    <div class="slider">
+      <div id="featured">
+        <div class="active">
+          <div class="image-slider-container">
+            
+              <a href="http://www.guengl.eu/news/article/gue-ngl-news/concerns-remain-over-human-rights-violations-in-colombia">
+            
+              
+              <img class='slider-image' src='/images/made/uploads/news-images/colombia40642349580_b5c20494ec_k_1024_683_70.jpg' alt='Concerns remain over human rights violations in Colombia'/>
+              
+              <span class="img-border"></span>
+              </a>
+
+          </div>
+          <div class="slider-caption">
+
+            
+              <h1><a href="http://www.guengl.eu/news/article/gue-ngl-news/concerns-remain-over-human-rights-violations-in-colombia" title="Concerns remain over human rights violations in Colombia">Concerns remain over human rights violations in Colombia</a></h1>
+            
+            <p>
+              
+            </p>
+          </div>
+        </div><div >
+          <div class="image-slider-container">
+            
+              <a href="http://www.guengl.eu/news/article/gue-ngl-news/kuciak-and-halet-awarded-inaugural-prize-for-journalists-whistleblowers-and">
+            
+              
+              <img class='slider-image' src='/images/made/uploads/news-images/ree_1024_512_70.jpg' alt='Kuciak and Halet win GUE/NGL prize for ‘Journalists, Whistleblowers and Defenders of Right to Info&#8217;'/>
+              
+              <span class="img-border"></span>
+              </a>
+
+          </div>
+          <div class="slider-caption">
+
+            
+              <h1><a href="http://www.guengl.eu/news/article/gue-ngl-news/kuciak-and-halet-awarded-inaugural-prize-for-journalists-whistleblowers-and" title="Kuciak and Halet win GUE/NGL prize for ‘Journalists, Whistleblowers and Defenders of Right to Info&#8217;">Kuciak and Halet win GUE/NGL prize for ‘Journalists, Whistleblowers and Defenders of Right to Info&#8217;</a></h1>
+            
+            <p>
+              
+            </p>
+          </div>
+        </div><div >
+          <div class="image-slider-container">
+            
+              <a href="http://www.guengl.eu/news/article/gue-ngl-news/zuckerberg-interrogated-on-misinformation-double-standards-cosy-eu-ties">
+            
+              
+              <img class='slider-image' src='/images/made/uploads/news-images/zuckyzimmerfb_1024_456_70.jpg' alt='Zuckerberg interrogated on misinformation, double-standards &amp; cosy EU ties'/>
+              
+              <span class="img-border"></span>
+              </a>
+
+          </div>
+          <div class="slider-caption">
+
+            
+              <h1><a href="http://www.guengl.eu/news/article/gue-ngl-news/zuckerberg-interrogated-on-misinformation-double-standards-cosy-eu-ties" title="Zuckerberg interrogated on misinformation, double-standards &amp; cosy EU ties">Zuckerberg interrogated on misinformation, double-standards &amp; cosy EU ties</a></h1>
+            
+            <p>
+              
+            </p>
+          </div>
+        </div><div >
+          <div class="image-slider-container">
+            
+              <a href="http://www.guengl.eu/news/article/gue-ngl-news/plans-to-redefine-smes-biased-towards-bigger-companies">
+            
+              
+              <img class='slider-image' src='/images/made/uploads/news-images/102845251_e715a378e9_z_500_333_70.jpg' alt='Plans to redefine SMEs biased towards bigger companies'/>
+              
+              <span class="img-border"></span>
+              </a>
+
+          </div>
+          <div class="slider-caption">
+
+            
+              <h1><a href="http://www.guengl.eu/news/article/gue-ngl-news/plans-to-redefine-smes-biased-towards-bigger-companies" title="Plans to redefine SMEs biased towards bigger companies">Plans to redefine SMEs biased towards bigger companies</a></h1>
+            
+            <p>
+              
+            </p>
+          </div>
+        </div><div >
+          <div class="image-slider-container">
+            
+              <a href="http://www.guengl.eu/news/article/gue-ngl-news/trumps-jerusalem-move-israels-gaza-massacre-flout-international-law-human-r">
+            
+              
+              <img class='slider-image' src='/images/made/uploads/news-images/Palestine_flag_800_600_70.jpg' alt='Trump’s Jerusalem move &amp; Israel’s Gaza massacre flout international law &amp; human rights'/>
+              
+              <span class="img-border"></span>
+              </a>
+
+          </div>
+          <div class="slider-caption">
+
+            
+              <h1><a href="http://www.guengl.eu/news/article/gue-ngl-news/trumps-jerusalem-move-israels-gaza-massacre-flout-international-law-human-r" title="Trump’s Jerusalem move &amp; Israel’s Gaza massacre flout international law &amp; human rights">Trump’s Jerusalem move &amp; Israel’s Gaza massacre flout international law &amp; human rights</a></h1>
+            
+            <p>
+              The international community must place the Palestinian people under its protection.
+            </p>
+          </div>
+        </div><div >
+          <div class="image-slider-container">
+            
+              <a href="http://www.guengl.eu/news/article/gue-ngl-news/commission-budget-plan-sacrifices-solidarity-on-the-altar-of-fortress-europ">
+            
+              
+              <img class='slider-image' src='/images/made/uploads/news-images/mff_spending_935_654_70.jpg' alt='Commission budget plan sacrifices solidarity on the altar of ‘Fortress Europe’'/>
+              
+              <span class="img-border"></span>
+              </a>
+
+          </div>
+          <div class="slider-caption">
+
+            
+              <h1><a href="http://www.guengl.eu/news/article/gue-ngl-news/commission-budget-plan-sacrifices-solidarity-on-the-altar-of-fortress-europ" title="Commission budget plan sacrifices solidarity on the altar of ‘Fortress Europe’">Commission budget plan sacrifices solidarity on the altar of ‘Fortress Europe’</a></h1>
+            
+            <p>
+              MEPs have criticised the plan’s emphasis on militarisation
+            </p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+<div class="home-social-bar">
+	<div class="row">
+		<ul class="right mobile-right margin-width">
+			<li><a href="http://www.guengl.eu/news/rss" class="social-link rss"><span></span></a></li>
+			<li><a href="http://www.youtube.com/user/GUENGL" target="_blank" class="social-link youtube"><span></span></a></li>
+			<li><a href="https://www.facebook.com/guengl" target="_blank" class="social-link facebook"><span></span></a></li>
+			<li><a href="http://twitter.com/GUENGL" target="_blank" class="social-link twitter"><span></span></a></li>
+			<li><a href="http://www.flickr.com/photos/guengl/" target="_blank" class="social-link flickr"><span></span></a></li>
+			<li><a href="#" data-reveal-id="contact-form" class="social-link mail"><span></span></a></li>
+		</ul>
+	</div>
+</div>
+<div class="row">
+  <div class="home-content content">
+    <div class="six columns">
+      <div class="block-container listing-block">
+        
+      </div>
+
+      <div class="block-content listing-block medium-blocks">
+        <div class="img-container four left">
+          
+          <a href='http://www.guengl.eu/news/article/gue-ngl-news/posting-of-workers-directive-3-things-you-need-to-know-about-the-updated-la' title="Posting of Workers Directive: 3 things you need to know about the updated law">
+            
+            
+            <img class='content-img crop-image' src='/images/made/uploads/news-images/construction-worker_600_350_70_c1_c_t.jpg' alt='Posting of Workers Directive: 3 things you need to know about the updated law' />
+            
+          </a>
+        </div>
+        <div class="padding-left left eight padding-bottom">
+          <h3><a href='http://www.guengl.eu/news/article/category//posting-of-workers-directive-3-things-you-need-to-know-about-the-updated-la' title="Posting of Workers Directive: 3 things you need to know about the updated law">Posting of Workers Directive: 3 things you need to know about the updated law</a></h3>
+          
+            <p>This week, the European Parliament approved new rules that seek to ensure fairer pay and working...</p>
+          
+        </div>
+        <a href='http://www.guengl.eu/news/article/category//posting-of-workers-directive-3-things-you-need-to-know-about-the-updated-la' title="Posting of Workers Directive: 3 things you need to know about the updated law" class="read-more">Read More<span class="corner"></span></a>
+      </div><div class="block-content listing-block medium-blocks">
+        <div class="img-container four left">
+          
+          <a href='http://www.guengl.eu/news/article/gue-ngl-news/european-parliament-calls-for-a-ban-on-bullfighting-subsidies-in-the-next-c' title="European Parliament calls for a ban on bullfighting subsidies in the next CAP">
+            
+            
+            <img class='content-img crop-image' src='/images/made/uploads/news-images/59b7565c9f00ffb7aa1c53af2ff9bb86-304468034-1301391474-4d91a872-620x348_540_300_70_c1_c_t.jpg' alt='European Parliament calls for a ban on bullfighting subsidies in the next CAP' />
+            
+          </a>
+        </div>
+        <div class="padding-left left eight padding-bottom">
+          <h3><a href='http://www.guengl.eu/news/article/category//european-parliament-calls-for-a-ban-on-bullfighting-subsidies-in-the-next-c' title="European Parliament calls for a ban on bullfighting subsidies in the next CAP">European Parliament calls for a ban on bullfighting subsidies in the next CAP</a></h3>
+          
+            <p>Today the European Parliament voted in favour of a proposal by GUE/NGL MEP Anja Hazekamp (Partij...</p>
+          
+        </div>
+        <a href='http://www.guengl.eu/news/article/category//european-parliament-calls-for-a-ban-on-bullfighting-subsidies-in-the-next-c' title="European Parliament calls for a ban on bullfighting subsidies in the next CAP" class="read-more">Read More<span class="corner"></span></a>
+      </div><div class="block-content listing-block medium-blocks">
+        <div class="img-container four left">
+          
+          <a href='http://www.guengl.eu/news/article/gue-ngl-news/concerns-remain-over-human-rights-violations-in-colombia' title="Concerns remain over human rights violations in Colombia">
+            
+            
+            <img class='content-img crop-image' src='/images/made/uploads/news-images/colombia40642349580_b5c20494ec_k_600_350_70_c1_c_t.jpg' alt='Concerns remain over human rights violations in Colombia' />
+            
+          </a>
+        </div>
+        <div class="padding-left left eight padding-bottom">
+          <h3><a href='http://www.guengl.eu/news/article/category//concerns-remain-over-human-rights-violations-in-colombia' title="Concerns remain over human rights violations in Colombia">Concerns remain over human rights violations in Colombia</a></h3>
+          
+            <p>GUE/NGL wants to draw attention to the serious breach of the peace agreement in Colombia and the...</p>
+          
+        </div>
+        <a href='http://www.guengl.eu/news/article/category//concerns-remain-over-human-rights-violations-in-colombia' title="Concerns remain over human rights violations in Colombia" class="read-more">Read More<span class="corner"></span></a>
+      </div><div class="block-content listing-block medium-blocks">
+        <div class="img-container four left">
+          
+          <a href='http://www.guengl.eu/news/article/gue-ngl-news/people-second-to-arms-companies-in-junckers-budget-proposal' title="People second to arms companies in Juncker’s budget proposal">
+            
+            
+            <img class='content-img crop-image' src='/images/made/uploads/news-images/maxresdefault_600_350_70_c1_c_t.jpg' alt='People second to arms companies in Juncker’s budget proposal' />
+            
+          </a>
+        </div>
+        <div class="padding-left left eight padding-bottom">
+          <h3><a href='http://www.guengl.eu/news/article/category//people-second-to-arms-companies-in-junckers-budget-proposal' title="People second to arms companies in Juncker’s budget proposal">People second to arms companies in Juncker’s budget proposal</a></h3>
+          
+            <p>Today the European Parliament will vote on the EU&rsquo;s long-term budget for the period of 2021-2027,...</p>
+          
+        </div>
+        <a href='http://www.guengl.eu/news/article/category//people-second-to-arms-companies-in-junckers-budget-proposal' title="People second to arms companies in Juncker’s budget proposal" class="read-more">Read More<span class="corner"></span></a>
+      </div><div class="block-content listing-block medium-blocks">
+        <div class="img-container four left">
+          
+          <a href='http://www.guengl.eu/news/article/gue-ngl-news/kuciak-and-halet-awarded-inaugural-prize-for-journalists-whistleblowers-and' title="Kuciak and Halet win GUE/NGL prize for ‘Journalists, Whistleblowers and Defenders of Right to Info&#8217;">
+            
+            
+            <img class='content-img crop-image' src='/images/made/uploads/news-images/ree_600_350_70_c1_c_t.jpg' alt='Kuciak and Halet win GUE/NGL prize for ‘Journalists, Whistleblowers and Defenders of Right to Info&#8217;' />
+            
+          </a>
+        </div>
+        <div class="padding-left left eight padding-bottom">
+          <h3><a href='http://www.guengl.eu/news/article/category//kuciak-and-halet-awarded-inaugural-prize-for-journalists-whistleblowers-and' title="Kuciak and Halet win GUE/NGL prize for ‘Journalists, Whistleblowers and Defenders of Right to Info&#8217;">Kuciak and Halet win GUE/NGL prize for ‘Journalists, Whistleblowers and Defenders of Right to Info&#8217;</a></h3>
+          
+            <p>The murdered Slovak journalist J&aacute;n Kuciak and LuxLeaks whistleblower Rapha&euml;l Halet have been named...</p>
+          
+        </div>
+        <a href='http://www.guengl.eu/news/article/category//kuciak-and-halet-awarded-inaugural-prize-for-journalists-whistleblowers-and' title="Kuciak and Halet win GUE/NGL prize for ‘Journalists, Whistleblowers and Defenders of Right to Info&#8217;" class="read-more">Read More<span class="corner"></span></a>
+      </div><div class="block-content listing-block medium-blocks">
+        <div class="img-container four left">
+          
+          <a href='http://www.guengl.eu/news/article/gue-ngl-news/gue-ngl-eurolat-statement-on-venezuelan-presidential-votes' title="GUE/NGL EuroLat statement on Venezuelan presidential votes">
+            
+            
+            <img class='content-img crop-image' src='/images/made/uploads/news-images/manar-02081290015171388829_600_350_70_c1_c_t.jpg' alt='GUE/NGL EuroLat statement on Venezuelan presidential votes' />
+            
+          </a>
+        </div>
+        <div class="padding-left left eight padding-bottom">
+          <h3><a href='http://www.guengl.eu/news/article/category//gue-ngl-eurolat-statement-on-venezuelan-presidential-votes' title="GUE/NGL EuroLat statement on Venezuelan presidential votes">GUE/NGL EuroLat statement on Venezuelan presidential votes</a></h3>
+          
+            <p>A statement on the presidential elections in the Bolivarian Republic of Venezuela by GUE/NGL...</p>
+          
+        </div>
+        <a href='http://www.guengl.eu/news/article/category//gue-ngl-eurolat-statement-on-venezuelan-presidential-votes' title="GUE/NGL EuroLat statement on Venezuelan presidential votes" class="read-more">Read More<span class="corner"></span></a>
+      </div>
+
+      <hr>
+
+      <h2 class="section-title">Events</h2>
+
+      <div class="block-content listing-block medium-blocks">
+        <div class="img-container four left">
+          
+          <a href='http://www.guengl.eu/news/article/events/2018-gue-ngl-award-for-journalists-whistleblowers-and-defenders-of-the-righ' title="2018 GUE/NGL Award for “Journalists, Whistleblowers and Defenders of the Right to Information”">
+            
+            
+            <img class='content-img crop-image' src='/images/made/uploads/news-images/32190995_1813075075417907_4662189512363868160_o_600_350_c1_c_t.png' alt='2018 GUE/NGL Award for “Journalists, Whistleblowers and Defenders of the Right to Information”' />
+            
+          </a>
+        </div>
+        <div class="padding-left left eight padding-bottom">
+          
+          <h3><a href='http://www.guengl.eu/news/article/events/2018-gue-ngl-award-for-journalists-whistleblowers-and-defenders-of-the-righ' title="2018 GUE/NGL Award for “Journalists, Whistleblowers and Defenders of the Right to Information”">2018 GUE/NGL Award for “Journalists, Whistleblowers and Defenders of the Right to Information”</a></h3>
+          
+        </div>
+        
+        <a href='http://www.guengl.eu/news/article/events/2018-gue-ngl-award-for-journalists-whistleblowers-and-defenders-of-the-righ' title="2018 GUE/NGL Award for “Journalists, Whistleblowers and Defenders of the Right to Information”" class="read-more">Read More<span class="corner"></span></a>
+        
+      </div><div class="block-content listing-block medium-blocks">
+        <div class="img-container four left">
+          
+          <a href='http://www.guengl.eu/news/article/events/gue-ngl-trade-union-conference-in-cooperation-with-tune' title="GUE/NGL Trade Union conference in cooperation with TUNE">
+            
+            
+            <img class='content-img crop-image' src='/images/made/uploads/news-images/TUNE_600_350_70_c1_c_t.jpg' alt='GUE/NGL Trade Union conference in cooperation with TUNE' />
+            
+          </a>
+        </div>
+        <div class="padding-left left eight padding-bottom">
+          
+          <h3><a href='http://www.guengl.eu/news/article/events/gue-ngl-trade-union-conference-in-cooperation-with-tune' title="GUE/NGL Trade Union conference in cooperation with TUNE">GUE/NGL Trade Union conference in cooperation with TUNE</a></h3>
+          
+        </div>
+        
+        <a href='http://www.guengl.eu/news/article/events/gue-ngl-trade-union-conference-in-cooperation-with-tune' title="GUE/NGL Trade Union conference in cooperation with TUNE" class="read-more">Read More<span class="corner"></span></a>
+        
+      </div>
+
+      <div class="block-content listing-block medium-blocks">
+        <div class="img-container four left">
+          
+          <a href='http://www.guengl.eu/news/article/press-conferences/gue-ngl-press-briefing-29-05' title="GUE/NGL Press Briefing 29/05">
+            
+            
+            <img class='content-img crop-image' src='/uploads/news-images/gue_ngl_press_briefing.png' alt='GUE/NGL Press Briefing 29/05' />
+            
+          </a>
+        </div>
+        <div class="padding-left left eight padding-bottom">
+          
+          <h3><a href='http://www.guengl.eu/news/article/press-conferences/gue-ngl-press-briefing-29-05' title="GUE/NGL Press Briefing 29/05">GUE/NGL Press Briefing 29/05</a></h3>
+          
+        </div>
+        
+        <a href='http://www.guengl.eu/news/article/press-conferences/gue-ngl-press-briefing-29-05' title="GUE/NGL Press Briefing 29/05" class="read-more">Read More<span class="corner"></span></a>
+        
+      </div><div class="block-content listing-block medium-blocks">
+        <div class="img-container four left">
+          
+          <a href='http://www.guengl.eu/news/article/press-conferences/gue-ngl-award-for-journalists-whistleblowers-and-defenders-of-the-right-to' title="GUE/NGL  Award for Journalists, Whistleblowers and Defenders of the Right to Information&#8221;">
+            
+            
+            <img class='content-img crop-image' src='/uploads/news-images/gue_ngl_press_CONFERENCE.png' alt='GUE/NGL  Award for Journalists, Whistleblowers and Defenders of the Right to Information&#8221;' />
+            
+          </a>
+        </div>
+        <div class="padding-left left eight padding-bottom">
+          
+          <h3><a href='http://www.guengl.eu/news/article/press-conferences/gue-ngl-award-for-journalists-whistleblowers-and-defenders-of-the-right-to' title="GUE/NGL  Award for Journalists, Whistleblowers and Defenders of the Right to Information&#8221;">GUE/NGL  Award for Journalists, Whistleblowers and Defenders of the Right to Information&#8221;</a></h3>
+          
+        </div>
+        
+        <a href='http://www.guengl.eu/news/article/press-conferences/gue-ngl-award-for-journalists-whistleblowers-and-defenders-of-the-right-to' title="GUE/NGL  Award for Journalists, Whistleblowers and Defenders of the Right to Information&#8221;" class="read-more">Read More<span class="corner"></span></a>
+        
+      </div>
+
+    </div>
+        
+
+        
+
+    
+
+      
+        <div class="three columns">
+          
+          <div class="block-container">
+            <a class="twitter-timeline"  href="https://twitter.com/GUENGL/lists/gue-ngl-meps-tweets" data-widget-id="487530716821872641">Tweets de https://twitter.com/GUENGL/lists/gue-ngl-meps-tweets</a>
+            <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+          </div>
+          <hr>
+          <div class="block-container">
+            <h2 class="section-title"><a href="http://www.guengl.eu/news#delegation-news">Delegation News</a></h2>
+
+            <ul class="delegations-news-list">
+              
+                <li class="delegations-news-list__item">
+                  <a href="http://international.pcf.fr/106636">Evacuation du campement du Millénaire : 4 mois de trop</a> <span class="delegation-news-origin">- PCF.FR</span>
+                </li>
+              
+                <li class="delegations-news-list__item">
+                  <a href="http://iueuropa.org/2018/05/29/javier-couso-la-ue-debe-acompanar-el-dialogo-y-condenar-toda-la-violencia-en-nicaragua-no-desestabilizar/">Javier Couso: “La UE debe acompañar el diálogo y condenar toda la violencia en Nicaragua, no desestabilizar”</a> <span class="delegation-news-origin">- Izquierda Unida en el Parlamento Europeo</span>
+                </li>
+              
+                <li class="delegations-news-list__item">
+                  <a href="http://iueuropa.org/2018/05/29/angela-vallina-hasta-donde-tiene-que-llegar-la-limpieza-etnica-en-gaza-para-que-la-ue-actue/">Ángela Vallina: “¿Hasta dónde tiene que llegar la limpieza étnica en Gaza para que la UE actúe?”</a> <span class="delegation-news-origin">- Izquierda Unida en el Parlamento Europeo</span>
+                </li>
+              
+                <li class="delegations-news-list__item">
+                  <a href="http://iueuropa.org/2018/05/29/paloma-lopez-saquear-las-arcas-del-estado-no-es-amar-a-espana/">Paloma López: “Saquear las arcas del Estado no es amar a España”</a> <span class="delegation-news-origin">- Izquierda Unida en el Parlamento Europeo</span>
+                </li>
+              
+                <li class="delegations-news-list__item">
+                  <a href="http://merjakyllonen.fi/2018/05/29/merja-tavattavissa-koti-suomessa/">Merja tavattavissa koti-Suomessa</a> <span class="delegation-news-origin">- Merja Kyllönen</span>
+                </li>
+              
+                <li class="delegations-news-list__item">
+                  <a href="http://merjakyllonen.fi/2018/05/28/viikolla-47-parlamentissa/">Viikko 22</a> <span class="delegation-news-origin">- Merja Kyllönen</span>
+                </li>
+              
+                <li class="delegations-news-list__item">
+                  <a href="http://international.pcf.fr/106580">Lettre de Pierre Laurent à Nicolas Maduro suite à sa réélection (Venezuela)</a> <span class="delegation-news-origin">- PCF.FR</span>
+                </li>
+              
+                <li class="delegations-news-list__item">
+                  <a href="http://iueuropa.org/2018/05/24/paloma-lopez-coincide-con-los-sindicatos-europeos-en-la-necesidad-de-buscar-formulas-para-proteger-a-los-trabajadores-de-los-abusos-de-empresas-como-uber-o-deliveroo/">Paloma López coincide con los sindicatos europeos en la necesidad de buscar fórmulas para proteger a los trabajadores de los abusos de empresas como UBER o Deliveroo</a> <span class="delegation-news-origin">- Izquierda Unida en el Parlamento Europeo</span>
+                </li>
+              
+            </ul>
+          </div>
+        </div>
+
+      
+
+    
+
+    <aside class="three columns">
+      <div class="block-container block-media twelve columns">
+	<h2><a href="http://www.guengl.eu/media-channel">Media Channel</a></h2>
+	<div class="block-content">
+		<h5>Latest Video</h5>
+		<a href="http://www.guengl.eu/media-channel/video/opening-of-u.s.-embassy-in-jerusalem">
+				
+		  			<img src='/uploads/videos/Screen_Shot_2018-05-16_at_16.15.32.png' alt='Opening of U.S. Embassy in Jerusalem' />
+				
+			</a>
+			<h4><a href="http://www.guengl.eu/media-channel/video/opening-of-u.s.-embassy-in-jerusalem">Opening of U.S. Embassy in Jerusalem</a></h4>
+	</div>
+	<div class="block-content">
+		<h5>Latest Photo</h5>
+		
+			<a href="http://www.guengl.eu/media-channel/gallery/return-march-action">
+				<img src='/images/made/uploads/news-images/F70A0256_700_392_70_c1_c_t.jpg' alt='Return March action' />
+			</a>
+			<h4><a href="http://www.guengl.eu/media-channel/gallery/return-march-action">Return March action</a></h4>
+		
+	</div>
+</div>
+      <div class="block-container twelve columns">
+        <div class="block-content">
+            <p><a href="http://guengl-panamapapers.eu/"><img alt="" src="/uploads/news-images/logo_3_03.jpg" style="height:80px; width:250px" /></a></p>
+
+<p><a href="http://guengl-brexit.eu/"><img alt="" src="/uploads/delegations-images/Screen_Shot_2018-01-10_at_17.42.40.png" style="height:205px; width:237px" /></a></p>
+            </div>
+        <div class="block-content">
+            <h5><a href="http://web.guengl.streamovations.be/index.php/listpage"><img alt="" src="/uploads/news-images/watch-live-stream_copy.jpg" style="height:113px; width:250px" /></a></h5>
+
+<p>&nbsp;</p>
+
+<h5><strong>29/05<a href="http://www.guengl.eu/news/article/events/2018-gue-ngl-award-for-journalists-whistleblowers-and-defenders-of-the-righ"> 2018 GUE/NGL Award for &ldquo;Journalists, Whistleblowers and Defenders of the Right to Information&rdquo;</a></strong></h5>
+
+<h5><strong>29/05</strong><a href="http://www.guengl.eu/news/article/press-conferences/gue-ngl-press-briefing-29-05"><strong> GUE/NGL Press Briefing</strong></a></h5>
+
+<h5><strong>22/05&nbsp;<a href="http://web.guengl.streamovations.be/index.php/event/stream/mark-zuckerberg-hearing-at-the-european-parliament">Mark Zuckerberg hearing at the European Parliament</a></strong></h5>
+            </div>
+      </div>
+    </aside>
+  </div>
+</div>
+
+	<footer>
+	
+		<div class="row">
+			<div class="margin-width">
+				<div class="left">
+					<p>
+						GUE/NGL 2013 © PE-EP<span class="dot">•</span>
+						
+						<a href="/legal" title="Legal">Legal</a><span class="dot">•</span>
+						
+						<a href="#" title="Contact" data-reveal-id="contact-form">Contact</a>
+					</p>
+				</div>
+				<div class="right">
+					<p>European Parliament, B-1047 Brussels, Belgium - 0032 (0)2 283 23 01 / guengl-communications@europarl.europa.eu </p>
+				</div>
+			</div>
+		</div>
+	
+	</footer>
+	
+	<div id="contact-form" class="reveal-modal large">
+	<div class="padding">
+		<form id="contact_form" method="post" action="http://www.guengl.eu/"  >
+<div class='hiddenFields'>
+<input type="hidden" name="ACT" value="22" />
+<input type="hidden" name="RET" value="" />
+<input type="hidden" name="URI" value="index" />
+<input type="hidden" name="recipients" value="R1VFTkdMLWNvbW11bmljYXRpb25zQGV1cm9wYXJsLmV1cm9wYS5ldWM4NTQ0ZmIyZDM1NGMzYzY2OTRhYzlhYjg0M2VjNTA5" />
+<input type="hidden" name="user_recipients" value="133d103f9bb6288133446adf42615f45" />
+<input type="hidden" name="charset" value="utf-8" />
+<input type="hidden" name="redirect" value="" />
+<input type="hidden" name="replyto" value="" />
+<input type="hidden" name="site_id" value="1" />
+<input type="hidden" name="csrf_token" value="9a4f42ed3a495d2aafe02a702e4e410b05beea4f" />
+</div>
+
+
+	        <h3>Contact Form</h3>
+	        <div id="ajax-message">
+	        </div>
+	        <p class="textarea">
+	                <label for="from">Your Email</label>
+	                <input type="text" id="from" name="from" size="40" maxlength="35" value="" />
+	        </p>
+	        <p class="textarea">
+	                <label for="subject">Subject</label>
+	                <input type="text" id="subject" name="subject" size="40" />
+	        </p>
+	        <p class="textarea">
+	                <label for="message">Message</label>
+	                <textarea id="message" name="message" rows="8" cols="40"></textarea>
+	        </p>
+	        <p>
+	                <input class="button primary small right" name="submit" type='submit' value='Submit' />
+	        </p>
+	    </form>
+	</div>
+	<a class="close-reveal-modal">&#215;</a>
+</div>
+	
+	</div>
+	
+	<!-- Included JS Files (Uncompressed) -->
+	<script src="http://www.guengl.eu/assets/javascripts/jquery.cookie.js"></script>
+	<script src="http://www.guengl.eu/assets/javascripts/foundation/jquery.foundation.accordion.js"></script>
+	<script src="http://www.guengl.eu/assets/javascripts/foundation/jquery.foundation.alerts.js"></script>
+	<script src="http://www.guengl.eu/assets/javascripts/foundation/jquery.foundation.buttons.js"></script>
+	<script src="http://www.guengl.eu/assets/javascripts/foundation/jquery.foundation.clearing.js"></script>
+	<script src="http://www.guengl.eu/assets/javascripts/foundation/jquery.foundation.forms.js"></script>
+	<script src="http://www.guengl.eu/assets/javascripts/foundation/jquery.foundation.mediaQueryToggle.js"></script>
+	<script src="http://www.guengl.eu/assets/javascripts/foundation/jquery.foundation.navigation.js"></script>
+	<script src="http://www.guengl.eu/assets/javascripts/foundation/jquery.foundation.orbit.js"></script>
+	<script src="http://www.guengl.eu/assets/javascripts/foundation/jquery.foundation.reveal.js"></script>
+	<script src="http://www.guengl.eu/assets/javascripts/foundation/jquery.foundation.tabs.js"></script>
+	<script src="http://www.guengl.eu/assets/javascripts/foundation/jquery.foundation.tooltips.js"></script>
+	<script src="http://www.guengl.eu/assets/javascripts/foundation/jquery.placeholder.js"></script>
+	<script src="http://www.guengl.eu/assets/javascripts/socialcount.min.js"></script>
+	<!-- Custom JS -->
+	<script src="http://www.guengl.eu/assets/javascripts/contact-form-ajax.js"></script>
+	<script src="http://www.guengl.eu/assets/javascripts/custom.js"></script>
+  	<!-- Application Javascript, safe to override -->	
+  	<script src="http://www.guengl.eu/assets/javascripts/foundation/app.js"></script>
+  	
+
+  	<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-35454068-1']);
+  _gaq.push(['_setDomainName', 'guengl.eu']);
+  _gaq.push(['_setAllowLinker', true]);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+  	<script type="text/javascript">
+	  $(document).ready(function(){
+		  $('a[data-track="share"]').click(function(){
+  		  var shareType = $(this).attr('data-track-type');
+    		_gaq.push(['_trackEvent', 'share', shareType, this.href]);
+    	});
+	  });
+	</script>
+</body>
+</html>
+

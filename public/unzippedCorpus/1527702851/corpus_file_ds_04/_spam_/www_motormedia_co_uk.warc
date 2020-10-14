@@ -1,0 +1,2504 @@
+WARC/1.0
+WARC-Type: warcinfo
+WARC-Date: 2018-05-23T10:17:34Z
+WARC-All-Language: en-GB
+WARC-All-Content_type: text/html; charset=UTF-8
+WARC-Record-ID: <urn:uuid:9b02ce71-8831-4014-b770-a6afb71c7cc4>
+Content-Type: application/http;msgtype=response
+Content-Length: 46
+
+WARCProcessor by SING Group www.sing-group.com
+
+WARC/1.0
+WARC-Type: response
+WARC-Target-URI: http://www.motormedia.co.uk
+WARC-Date: 20180523101734
+WARC-Language: en-GB
+WARC-Record-ID: <http://www.motormedia.co.uk>
+Content-Type: application/http;msgtype=response
+Content-Length: 140268
+
+HTTP/1.1 200
+Content-Type:text/html; charset=UTF-8
+
+
+
+
+<!DOCTYPE html>
+<!--[if IE 8 ]><html class="ie ie8" lang="en-GB"> <![endif]-->
+<!--[if (gte IE 9)|!(IE)]><!--><html lang="en-GB"> <!--<![endif]--><head>
+
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=1, user-scalable=no" />
+
+<link rel="profile" href="http://gmpg.org/xfn/11" />
+<link rel="pingback" href="http://www.motormedia.co.uk/xmlrpc.php" />
+
+<!-- ******************************************************************** -->
+<!-- ************************ Custom Favicon **************************** -->
+<!-- ******************************************************************** -->
+
+
+<link rel="shortcut icon" href="http://www.motormedia.co.uk/wp-content/themes/theretailer/favicon.ico" />
+
+<!-- <script type="text/javascript" src="https://maps.googleapis.com/maps/api/js"></script> -->
+
+<!-- ******************************************************************** -->
+<!-- *********************** Custom Javascript ************************** -->
+<!-- ******************************************************************** -->
+
+	<script type="text/javascript">
+					
+//JavaScript goes here
+
+</script>
+<!-- ******************************************************************** -->
+<!-- *********************** WordPress wp_head() ************************ -->
+<!-- ******************************************************************** -->
+	
+<title>Motormedia &#8211; Motoring &amp; Motor Racing Books &amp; DVD&#039;s</title>
+<link rel='dns-prefetch' href='//www.youtube.com' />
+<link rel='dns-prefetch' href='//secure-a.vimeocdn.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="Motormedia &raquo; Feed" href="https://www.motormedia.co.uk/?feed=rss2" />
+<link rel="alternate" type="application/rss+xml" title="Motormedia &raquo; Comments Feed" href="https://www.motormedia.co.uk/?feed=comments-rss2" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.4\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.4\/svg\/","svgExt":".svg","source":{"concatemoji":"http:\/\/www.motormedia.co.uk\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.9.6"}};
+			!function(a,b,c){function d(a,b){var c=String.fromCharCode;l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,a),0,0);var d=k.toDataURL();l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,b),0,0);var e=k.toDataURL();return d===e}function e(a){var b;if(!l||!l.fillText)return!1;switch(l.textBaseline="top",l.font="600 32px Arial",a){case"flag":return!(b=d([55356,56826,55356,56819],[55356,56826,8203,55356,56819]))&&(b=d([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]),!b);case"emoji":return b=d([55357,56692,8205,9792,65039],[55357,56692,8203,9792,65039]),!b}return!1}function f(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var g,h,i,j,k=b.createElement("canvas"),l=k.getContext&&k.getContext("2d");for(j=Array("flag","emoji"),c.supports={everything:!0,everythingExceptFlag:!0},i=0;i<j.length;i++)c.supports[j[i]]=e(j[i]),c.supports.everything=c.supports.everything&&c.supports[j[i]],"flag"!==j[i]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[j[i]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(h=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",h,!1),a.addEventListener("load",h,!1)):(a.attachEvent("onload",h),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),g=c.source||{},g.concatemoji?f(g.concatemoji):g.wpemoji&&g.twemoji&&(f(g.twemoji),f(g.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='woocommerce-layout-css'  href='http://www.motormedia.co.uk/wp-content/plugins/woocommerce/assets/css/woocommerce-layout.css?ver=3.2.6' type='text/css' media='all' />
+<link rel='stylesheet' id='woocommerce-smallscreen-css'  href='http://www.motormedia.co.uk/wp-content/plugins/woocommerce/assets/css/woocommerce-smallscreen.css?ver=3.2.6' type='text/css' media='only screen and (max-width: 768px)' />
+<link rel='stylesheet' id='woocommerce-general-css'  href='http://www.motormedia.co.uk/wp-content/plugins/woocommerce/assets/css/woocommerce.css?ver=3.2.6' type='text/css' media='all' />
+<link rel='stylesheet' id='js_composer_front-css'  href='http://www.motormedia.co.uk/wp-content/plugins/js_composer/assets/css/js_composer.min.css?ver=5.4.5' type='text/css' media='all' />
+<link rel='stylesheet' id='getbowtied-font-awesome-css'  href='http://www.motormedia.co.uk/wp-content/themes/theretailer/fonts/font-awesome/css/font-awesome.min.css?ver=4.6.3' type='text/css' media='all' />
+<link rel='stylesheet' id='getbowtied-fonts-css'  href='http://www.motormedia.co.uk/wp-content/themes/theretailer/fonts/getbowtied-fonts/style.css?ver=1.0' type='text/css' media='all' />
+<link rel='stylesheet' id='theme-fonts-css'  href='http://www.motormedia.co.uk/wp-content/themes/theretailer/fonts/theme-fonts/style.css?ver=1.0' type='text/css' media='all' />
+<link rel='stylesheet' id='linea-fonts-css'  href='http://www.motormedia.co.uk/wp-content/themes/theretailer/fonts/linea-fonts/styles.css?ver=1.0' type='text/css' media='all' />
+<link rel='stylesheet' id='owl-carousel-css'  href='http://www.motormedia.co.uk/wp-content/themes/theretailer/css/owl/owl.carousel.css?ver=v1.3.3' type='text/css' media='all' />
+<link rel='stylesheet' id='select2-css'  href='http://www.motormedia.co.uk/wp-content/plugins/woocommerce/assets/css/select2.css?ver=3.2.6' type='text/css' media='all' />
+<link rel='stylesheet' id='fresco-css'  href='http://www.motormedia.co.uk/wp-content/themes/theretailer/css/fresco/fresco.css?ver=1.2.7' type='text/css' media='all' />
+<link rel='stylesheet' id='swiper-slider-css'  href='http://www.motormedia.co.uk/wp-content/themes/theretailer/css/swiper.css?ver=3.3.1' type='text/css' media='all' />
+<link rel='stylesheet' id='stylesheet-css'  href='http://www.motormedia.co.uk/wp-content/themes/theretailer/style.css' type='text/css' media='all' />
+<script type='text/javascript' src='http://www.motormedia.co.uk/wp-includes/js/jquery/jquery.js?ver=1.12.4'></script>
+<script type='text/javascript' src='http://www.motormedia.co.uk/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var wc_add_to_cart_params = {"ajax_url":"\/wp-admin\/admin-ajax.php","wc_ajax_url":"https:\/\/www.motormedia.co.uk\/?wc-ajax=%%endpoint%%","i18n_view_cart":"View basket","cart_url":"https:\/\/www.motormedia.co.uk\/?page_id=5","is_cart":"","cart_redirect_after_add":"no"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://www.motormedia.co.uk/wp-content/plugins/woocommerce/assets/js/frontend/add-to-cart.min.js?ver=3.2.6'></script>
+<script type='text/javascript' src='http://www.motormedia.co.uk/wp-content/plugins/js_composer/assets/js/vendors/woocommerce-add-to-cart.js?ver=5.4.5'></script>
+<link rel='https://api.w.org/' href='https://www.motormedia.co.uk/index.php?rest_route=/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://www.motormedia.co.uk/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://www.motormedia.co.uk/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 4.9.6" />
+<meta name="generator" content="WooCommerce 3.2.6" />
+<link rel="canonical" href="https://www.motormedia.co.uk/" />
+<link rel='shortlink' href='https://www.motormedia.co.uk/' />
+<link rel="alternate" type="application/json+oembed" href="https://www.motormedia.co.uk/index.php?rest_route=%2Foembed%2F1.0%2Fembed&#038;url=https%3A%2F%2Fwww.motormedia.co.uk%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://www.motormedia.co.uk/index.php?rest_route=%2Foembed%2F1.0%2Fembed&#038;url=https%3A%2F%2Fwww.motormedia.co.uk%2F&#038;format=xml" />
+    <script type="text/javascript">
+        var theretailer_ajaxurl = '/wp-admin/admin-ajax.php';
+    </script>
+	<noscript><style>.woocommerce-product-gallery{ opacity: 1 !important; }</style></noscript>
+	<meta name="generator" content="Powered by WPBakery Page Builder - drag and drop page builder for WordPress."/>
+<!--[if lte IE 9]><link rel="stylesheet" type="text/css" href="http://www.motormedia.co.uk/wp-content/plugins/js_composer/assets/css/vc_lte_ie9.min.css" media="screen"><![endif]--><link rel="icon" href="https://www.motormedia.co.uk/wp-content/uploads/2018/01/motormedia_logo_2-150x70.png" sizes="32x32" />
+<link rel="icon" href="https://www.motormedia.co.uk/wp-content/uploads/2018/01/motormedia_logo_2.png" sizes="192x192" />
+<link rel="apple-touch-icon-precomposed" href="https://www.motormedia.co.uk/wp-content/uploads/2018/01/motormedia_logo_2.png" />
+<meta name="msapplication-TileImage" content="https://www.motormedia.co.uk/wp-content/uploads/2018/01/motormedia_logo_2.png" />
+	
+	<!-- ******************************************************************** -->
+	<!-- Custom CSS Codes -->
+	<!-- ******************************************************************** -->
+    
+    	
+		<style>
+	.product_item .star-rating,
+	.products_slider_item .star-rating {
+		display:none !important;
+	}
+	</style>
+		
+	
+	<!--woocommerce rating-->
+	
+			
+		<!--rating dashes-->
+		<style>
+			
+			.reviews_nr {
+				display:inline-block;
+				float:left;
+				font-size:13px;
+				padding:1px 10px 0 0;
+			}
+			
+			.woocommerce .product_item .star-rating,
+			.woocommerce-page .product_item .star-rating {
+				float: none;
+				height: 15px;
+				margin-top: -3px;
+			}
+			
+			.woocommerce div.product .woocommerce-product-rating
+			{
+				margin-bottom: 20px;
+			}
+			
+			.woocommerce .woocommerce-product-rating .star-rating
+			{
+				display: inline-block;
+				float: none;
+				margin: 2px 10px 2px 0;
+			}
+			
+			.star-rating {
+				/*float: right;*/
+				/*display:inline-block;*/
+				float:none;
+				display:block;
+				width: 80px !important;
+				height: 16px;
+				margin:0;
+				background: url('http://www.motormedia.co.uk/wp-content/themes/theretailer/images/star.png') repeat-x left 0 !important;
+			}
+			
+			.star-rating span {
+				background: url('http://www.motormedia.co.uk/wp-content/themes/theretailer/images/star.png') repeat-x left -32px !important;
+				height: 0;
+				padding-top: 16px;
+				overflow: hidden;
+				float: left;
+			}
+			
+			.after_title_reviews .star-rating {
+				/*float: right;*/
+				/*display:inline-block;*/
+				float:left;
+				display:block;
+				width: 80px;
+				height: 16px;
+				margin: 0;
+				background: url('http://www.motormedia.co.uk/wp-content/themes/theretailer/images/star.png') repeat-x left 0 !important;
+			}
+			
+			.woocommerce .star-rating span:before,
+			.woocommerce-page .star-rating span:before {
+				content: "" !important;
+			}
+			
+			.woocommerce .star-rating:before,
+			.woocommerce-page .star-rating:before {
+				content: "" !important;
+			}
+			
+			.widget .star-rating {
+				/*float: right;*/
+				/*display:inline-block;*/
+				float:none !important;
+				display:block !important;
+				width: 80px !important;
+				height: 16px !important;
+				margin:-4px 0 0 80px !important;
+				background: url('http://www.motormedia.co.uk/wp-content/themes/theretailer/images/star.png') repeat-x left 0 !important;
+			}
+			
+			.widget .star-rating span {
+				background: url('http://www.motormedia.co.uk/wp-content/themes/theretailer/images/star.png') repeat-x left -32px !important;
+				height: 0 !important;
+				padding-top: 16px !important;
+				overflow: hidden !important;
+				float: left !important;
+			}
+			
+			p.stars span{
+				/*width:80px !important;*/
+				/*height:5px !important;*/
+				position:relative !important;
+				/*background:url(images/star.png) repeat-x left 0px !important;*/
+				overflow:visible !important;
+				/*padding-bottom:5px !important;*/
+				margin-right: 0 !important;
+			}
+			
+			p.stars span a:hover,
+			p.stars span a:focus
+			{
+				background:url('http://www.motormedia.co.uk/wp-content/themes/theretailer/images/star.png') repeat-x left -18px !important;
+			}
+			
+			p.stars span a.active{
+				background:url('http://www.motormedia.co.uk/wp-content/themes/theretailer/images/star.png') repeat-x left -34px !important;
+			}
+			
+			.woocommerce p.stars a,
+			.woocommerce-page p.stars a {
+				margin-right: 0;
+			}
+			
+			.woocommerce p.stars:before,
+			.woocommerce-page p.stars:before,
+			.woocommerce p.stars:after,
+			.woocommerce-page p.stars:after {
+				content: "" !important;
+			}
+			
+			.woocommerce p.stars a:before,
+			.woocommerce-page p.stars a:before,
+			.woocommerce p.stars a:after,
+			.woocommerce-page p.stars a:after {
+				content: "" !important;
+			}
+			
+			.woocommerce p.stars, .woocommerce-page p.stars {
+				/*width:80px !important;*/
+			}
+			
+			.woocommerce p.stars a.star-1,
+			.woocommerce-page p.stars a.star-1 {
+				width: 16px !important;
+				border:0;
+				background:url('http://www.motormedia.co.uk/wp-content/themes/theretailer/images/star.png') repeat-x left -2px;
+				margin-right:5px;
+			}
+			
+			.woocommerce p.stars a.star-2,
+			.woocommerce-page p.stars a.star-2 {
+				width: 32px !important;
+				border:0;
+				background:url('http://www.motormedia.co.uk/wp-content/themes/theretailer/images/star.png') repeat-x left -2px;
+				margin-right:5px;
+			}
+			
+			.woocommerce p.stars a.star-3,
+			.woocommerce-page p.stars a.star-3 {
+				width: 48px !important;
+				border:0;
+				background:url('http://www.motormedia.co.uk/wp-content/themes/theretailer/images/star.png') repeat-x left -2px;
+				margin-right:5px;
+			}
+			
+			.woocommerce p.stars a.star-4,
+			.woocommerce-page p.stars a.star-4 {
+				width: 64px !important;
+				border:0;
+				background:url('http://www.motormedia.co.uk/wp-content/themes/theretailer/images/star.png') repeat-x left -2px;
+				margin-right:5px;
+			}
+			
+			.woocommerce p.stars a.star-5,
+			.woocommerce-page p.stars a.star-5 {
+				width: 80px !important;
+				border:0;
+				background:url('http://www.motormedia.co.uk/wp-content/themes/theretailer/images/star.png') repeat-x left -2px;
+				margin-right:5px;
+			}
+
+			.woocommerce .widget_rating_filter ul li .star-rating
+			{
+			    margin: -2px 0 0 0 !important;
+			    top: 0px;
+			    float: left !important;
+			}
+		</style>
+		
+		
+	
+			
+	<style>
+	
+	/***************************************************************/
+	/****************************** Body ***************************/
+	/***************************************************************/
+	
+	body {
+				background-color:#fff;
+					}
+	
+	/***************************************************************/
+	/************************** Main font **************************/
+	/***************************************************************/
+	
+	body,#respond #author,#respond #email,#respond #url,#respond #comment,.ctextfield,.cselect,.ctextarea,.ccheckbox_group label,.cradio_group label,.gbtr_light_footer_no_widgets,.gbtr_widget_footer_from_the_blog .gbtr_widget_item_title,.widget input[type=text],.widget input[type=password], .widget input[type=search], .widget select,.gbtr_tools_search_inputtext,.gbtr_second_menu,.gbtr_little_shopping_bag .overview,.gbtr_featured_section_title,h1.entry-title,h1.page-title,h1.entry-title a,h1.page-title a,em.items_found_cart,.product_item p,div.product .product_title,#content div.product .product_title,.gbtr_product_description,div.product form.cart .variations .value select,#content div.product form.cart .variations .value select,div.product div.product_meta,#content div.product div.product_meta,div.product .woocommerce_tabs .panel,#content div.product .woocommerce_tabs .panel,#content div.product div.product_meta,div.product .woocommerce-tabs .panel,#content div.product .woocommerce-tabs .panel,.coupon .input-text,.cart_totals .shipping td,.shipping_calculator h3,.checkout h3,.gbtr_checkout_method_header,.checkout .input-text,.checkout #shiptobilling label,table.shop_table tfoot .shipping td,.gbtr_checkout_login .input-text,table.my_account orders .order-number a,.myaccount_user,.order-info,.myaccount_user span, .track_order p:first-child, .order-info span,.gbtr_my_account_wrapper input,.gbtr_my_account_wrapper select,.gbtr_login_register_wrapper h2,.gbtr_login_register_wrapper input,.sf-menu li li a,div.product form.cart .variations .reset_variations,#content div.product form.cart .variations .reset_variations,.shortcode_banner_simple_inside h3,.shortcode_banner_simple_inside h3 strong,.woocommerce_message a.button,.mc_var_label,form .form-row .input-text,.shipping-calculator-form .select2-selection__rendered,
+	form .form-row textarea, form .form-row select,#icl_lang_sel_widget a,#megaMenu ul.megaMenu li li li a span, #megaMenu ul.megaMenu li li li span.um-anchoremulator span, .group_table .label a,.wpcf7 input,.wpcf7 textarea,#ship-to-different-address label,#ship-to-different-address .checkbox,
+	.wpcf7 select, .cart_list_product_title, .wpb_tabs .ui-widget, .minicart_product, table.my_account_orders td.order-total, .select2-search input
+	{
+		font-family: 'Radnika Next Alt', Arial, Helvetica, sans-serif !important;
+	}
+	
+	/********************************************************************/
+	/************************** Secondary font **************************/
+	/********************************************************************/
+	
+	.shortcode_banner_simple_inside h4, .shortcode_banner_simple_height h4, .shortcode_banner_simple_bullet,.shortcode_banner_simple_height_bullet, .main-navigation .mega-menu > ul > li > a,.cbutton,.widget h4.widget-title,.widget input[type=submit],.widget.widget_shopping_cart .total,.widget.widget_shopping_cart .total strong,ul.product_list_widget span.amount,.gbtr_tools_info,.gbtr_tools_account,.gbtr_little_shopping_bag .title,.product_item h3,.product_item .price,a.button,button.button,input.button,#respond input#submit,#content input.button,div.product .product_brand,div.product .summary span.price,div.product .summary p.price,#content div.product .summary span.price,#content div.product .summary p.price,.quantity input.qty,#content .quantity input.qty,div.product form.cart .variations .label,#content div.product form.cart .variations .label,.gbtr_product_share ul li a,div.product .woocommerce_tabs ul.tabs li a,#content div.product .woocommerce_tabs ul.tabs li a,div.product .woocommerce-tabs ul.tabs li a,#content div.product .woocommerce-tabs ul.tabs li a,table.shop_table th,table.shop_table .product-name .category,table.shop_table td.product-subtotal,.coupon .button-coupon,.cart_totals th,.cart_totals td,form .form-row label,table.shop_table td.product-quantity,table.shop_table td.product-name .product_brand,table.shop_table td.product-total,table.shop_table tfoot th,table.shop_table tfoot td,.gbtr_checkout_method_content .title,.gbtr_left_column_my_account ul.menu_my_account,table.my_account_orders td.order-total,.minicart_total_checkout,.addresses .title h3,.sf-menu a,.shortcode_featured_1 a,.shortcode_tabgroup ul.tabs li a,.shortcode_our_services a,span.onsale,.product h3,#respond label,form label,form input[type=submit],.section_title,.entry-content-aside-title,.gbtr_little_shopping_bag_wrapper_mobiles span,.grtr_product_header_mobiles .price,.gbtr_footer_widget_copyrights,.woocommerce_message,.woocommerce_error,.woocommerce_info,.woocommerce-message,.woocommerce-error,.woocommerce-info,p.product,.empty_bag_button,.from_the_blog_date,.gbtr_dark_footer_wrapper .widget_nav_menu ul li,.widget.the_retailer_recent_posts .post_date,.theretailer_product_sort,.light_button,.dark_button,.light_grey_button,.dark_grey_button,.custom_button,.style_1 .products_slider_category,.style_1 .products_slider_price,.page_archive_subtitle,.mc_var_label,.theretailer_style_intro,.wpmega-link-title,#megaMenu h2.widgettitle,.group_table .price,.shopping_bag_centered_style,.customer_details dt,#lang_sel_footer,.out_of_stock_badge_single,.out_of_stock_badge_loop,.portfolio_categories li,#load-more-portfolio-items,.portfolio_details_item_cat,.yith-wcwl-add-button,table.shop_table .amount, .woocommerce table.shop_table .amount,.yith-wcwl-share h4,.wishlist-out-of-stock,.wishlist-in-stock,
+	.orderby, .select2-container, .big-select, select.big-select, em.items_found,.select2-results, .messagebox_text, .vc_progress_bar, .wpb_heading.wpb_pie_chart_heading, .shortcode_icon_box .icon_box_read_more, .vc_btn,  ul.cart_list .empty, .gbtr_minicart_wrapper .woocommerce-mini-cart__empty-message, ul.cart_list .variation dt,  .tagcloud a, td.product-name dl.variation dt, .woocommerce td.product-name dl.variation dt, .trigger-share-list, .box-share-link, .woocommerce table.shop_table_responsive tr td:before, .woocommerce-page table.shop_table_responsive tr td:before, table.my_account_orders td.order-total .amount, .shipping-calculator-button, .gbtr_left_column_cart h3,
+	.gbtr_left_column_cart h2, .gbtr_left_column_cart_shipping h3 a ,
+	.vc_btn3,
+	.woocommerce-cart .woocommerce .cart-collaterals h2,
+	li.woocommerce-MyAccount-navigation-link a,
+	.woocommerce-MyAccount-content .woocommerce-orders-table__cell-order-number > a
+	{
+		font-family: 'HK Nova', Arial, Helvetica, sans-serif !important;
+	}
+	
+	/********************************************************************/
+	/*************************** Main Color *****************************/
+	/********************************************************************/
+	
+	a,
+	.default-slider-next i,
+	.default-slider-prev i,
+	li.product h3:hover,
+	.product_item h3 a,
+	div.product .product_brand,
+	div.product div.product_meta a:hover,
+	#content div.product div.product_meta a:hover,
+	#reviews a,
+	div.product .woocommerce_tabs .panel a,
+	#content div.product .woocommerce_tabs .panel a,
+	div.product .woocommerce-tabs .panel a,
+	#content div.product .woocommerce-tabs .panel a,
+	.product_navigation .nav-back a,
+	table.shop_table td.product-name .product_brand,
+	.woocommerce table.shop_table td.product-name .product_brand,
+	table.my_account_orders td.order-actions a:hover,
+	ul.digital-downloads li a:hover,
+	.gbtr_login_register_switch ul li,
+	.entry-meta a:hover,
+	footer.entry-meta .comments-link a,
+	#nav-below .nav-previous-single a:hover,
+	#nav-below .nav-next-single a:hover,
+	.gbtr_dark_footer_wrapper .widget_nav_menu ul li a:hover,
+	.gbtr_dark_footer_wrapper a:hover,
+	.shortcode_meet_the_team .role,
+	.accordion .accordion-title a:hover,
+	.testimonial_left_author h5,
+	.testimonial_right_author h5,
+	#comments a:hover,
+	.portfolio_item a:hover,
+	.emm-paginate a:hover span,
+	.emm-paginate a:active span,
+	.emm-paginate .emm-prev:hover,
+	.emm-paginate .emm-next:hover,
+	.mc_success_msg,
+	.page_archive_items a:hover,
+	.gbtr_product_share ul li a,
+	div.product form.cart .variations .reset_variations,
+	#content div.product form.cart .variations .reset_variations,
+	table.my_account_orders .order-number a,
+	.gbtr_dark_footer_wrapper .tagcloud a:hover,
+	table.shop_table .product-name small a,
+	.woocommerce table.shop_table .product-name small a,
+	ul.gbtr_digital-downloads li a,
+	div.product div.summary a,
+	#content div.product div.summary a,
+	.cart_list.product_list_widget .minicart_product,
+	.shopping_bag_centered_style .minicart_product,
+	.woocommerce .woocommerce-breadcrumb a,
+	.woocommerce-page .woocommerce-breadcrumb a,
+	.product_item:hover .add_to_wishlist:before,
+	.product_item .image_container .yith-wcwl-wishlistaddedbrowse a:before,
+	.product_item .image_container .yith-wcwl-wishlistexistsbrowse a:hover:before,
+	.woocommerce .star-rating span,
+	.woocommerce-page .star-rating span,
+	.star-rating span,
+	.woocommerce-page p.stars a:hover:after,
+	.woocommerce-page p.stars .active:after,
+	.woocommerce-cart .entry-content .woocommerce .actions input[type=submit],
+	.cart-collaterals .woocommerce-shipping-calculator button,
+	.woocommerce table.my_account_orders .button
+	{
+		color:#b39964;
+	}
+
+	.woocommerce nav.woocommerce-pagination ul li:not(:last-child):not(:first-child) a:focus, 
+	.woocommerce nav.woocommerce-pagination ul li:not(:last-child):not(:first-child) a:hover,
+	.woocommerce nav.woocommerce-pagination ul li a.page-numbers:focus, 
+	.woocommerce nav.woocommerce-pagination ul li a.page-numbers:hover
+	{
+		color: #b39964;
+	}
+
+	.woocommerce nav.woocommerce-pagination ul li:not(:last-child):not(:first-child) a:focus, 
+	.woocommerce nav.woocommerce-pagination ul li:not(:last-child):not(:first-child) a:hover
+	{
+		border-color: #b39964;
+	}
+	
+	.shopping_bag_centered_style:hover,
+	.sf-menu li > a:hover,
+	.accordion .accordion-title a:hover,
+	.gbtr_login_register_switch ul li,
+	.woocommerce-checkout .woocommerce-info a,
+	.main-navigation .mega-menu > ul > li > a:hover,
+	.main-navigation > ul > li:hover > a
+	{
+		color:#b39964 !important;
+	}
+	
+	.woocommerce_message, .woocommerce_error, .woocommerce_info,
+	.woocommerce-message, .woocommerce-error, .woocommerce-info,
+	form input[type=submit]:hover,
+	.widget input[type=submit]:hover,
+	.tagcloud a:hover,
+	#wp-calendar tbody td a,
+	.widget.the_retailer_recent_posts .post_date,
+	a.button:hover,button.button:hover,input.button:hover,#respond input#submit:hover,#content input.button:hover,
+	.myaccount_user,
+	.track_order p:first-child,
+	.order-info,
+	.shortcode_featured_1 a:hover,
+	.from_the_blog_date,
+	.style_1 .products_slider_images,
+	.portfolio_sep,
+	.portfolio_details_sep,
+	.gbtr_little_shopping_bag_wrapper_mobiles span,
+	#mc_signup_submit:hover,
+	.page_archive_date,
+	.shopping_bag_mobile_style .gb_cart_contents_count,
+	.shopping_bag_centered_style .items_number,
+	.audioplayer-bar-played,
+	.audioplayer-volume-adjust div div,
+	#mobile_menu_overlay li a:hover,
+	.addresses a:hover,
+	#load-more-portfolio-items a:hover,
+	.select2-container--default .select2-results__option.select2-results__option--highlighted,
+	.shortcode_icon_box .icon_box_read_more:hover,
+	#nprogress .bar,
+	.box-share-list,
+	.woocommerce-cart a.button:hover,
+	.main-navigation ul ul li a:hover
+	{
+		background: #b39964;
+	}
+	
+	.woocommerce_message,
+	.woocommerce-message,
+	.gbtr_minicart_cart_but:hover,
+	.gbtr_minicart_checkout_but:hover,
+	span.onsale,
+	.woocommerce span.onsale,
+	.product_main_infos span.onsale,
+	.quantity .minus:hover,
+	#content .quantity .minus:hover,
+	.quantity .plus:hover,
+	#content .quantity .plus:hover,
+	.single_add_to_cart_button:hover,
+	.shortcode_getbowtied_slider .button:hover,
+	.add_review .button:hover,
+	#fancybox-close:hover,
+	.shipping-calculator-form .button:hover,
+	.coupon .button-coupon:hover,
+	.gbtr_left_column_cart .update-button:hover,
+	.gbtr_left_column_cart .checkout-button:hover,
+	.button_create_account_continue:hover,
+	.button_billing_address_continue:hover,
+	.button_shipping_address_continue:hover,
+	.button_order_review_continue:hover,
+	#place_order:hover,
+	.gbtr_my_account_button input:hover,
+	.gbtr_track_order_button:hover,
+	.gbtr_login_register_wrapper .button:hover,
+	.gbtr_login_register_reg .button:hover,
+	.gbtr_login_register_log .button:hover,
+	p.product a:hover,
+	#respond #submit:hover,
+	.widget_shopping_cart .button:hover,
+	.sf-menu li li a:hover,
+	.lost_reset_password .button:hover,
+	.widget_price_filter .price_slider_amount .button:hover,
+	.gbtr_order_again_but:hover,
+	.gbtr_save_but:hover,
+	input.button:hover,#respond input#submit:hover,#content input.button:hover,
+	.wishlist_table tr td .add_to_cart:hover,
+	.vc_btn.vc_btn_xs:hover,
+	.vc_btn.vc_btn_sm:hover,
+	.vc_btn.vc_btn_md:hover,
+	.vc_btn.vc_btn_lg:hover,
+	.order-actions a:hover,
+	.widget_price_filter .ui-slider .ui-slider-range,
+	.woocommerce .widget_price_filter .ui-slider .ui-slider-range
+	{
+		background: #b39964 !important;
+	}
+	
+	.widget.the_retailer_connect a:hover,
+	.gbtr_login_register_switch .button:hover,
+	.more-link,
+	.gbtr_dark_footer_wrapper .button,
+	.light_button:hover,
+	.dark_button:hover,
+	.light_grey_button:hover,
+	.dark_grey_button:hover,
+	.gbtr_little_shopping_bag_wrapper_mobiles:hover,
+	.menu_select.customSelectHover,
+	.gbtr_tools_account.menu-hidden .topbar-menu li a:hover,
+	.woocommerce-cart .wc-proceed-to-checkout a.checkout-button
+	{
+		background-color:#b39964;
+	}
+	
+	.widget_layered_nav ul li.chosen a,
+	.widget_layered_nav_filters ul li.chosen a,
+	a.button.added::before,
+	button.button.added::before,
+	input.button.added::before,
+	#respond input#submit.added::before,
+	#content input.button.added::before,
+	.woocommerce a.button.added::before,
+	.woocommerce button.button.added::before,
+	.woocommerce input.button.added::before,
+	.woocommerce #respond input#submit.added::before,
+	.woocommerce #content input.button.added::before,
+	.custom_button:hover
+	{
+		background-color:#b39964 !important;
+	}
+	
+	.tagcloud a:hover,
+	.woocommerce-cart .entry-content .woocommerce .actions input[type=submit],
+	.cart-collaterals .woocommerce-shipping-calculator button
+	{
+		border: 1px solid #b39964 !important;
+	}
+	
+	.gbtr_tools_account.menu-hidden .topbar-menu
+	{
+		border-color: #b39964 #cccccc #cccccc;
+	}
+	
+	.tagcloud a:hover,
+	.widget_layered_nav ul li.chosen a,
+	.widget_layered_nav_filters ul li.chosen a
+	{
+		border: 1px solid #b39964 !important;
+	}
+	
+	.widget.the_retailer_connect a:hover,
+	.default-slider-next,
+	.default-slider-prev,
+	.shortcode_featured_1 a:hover,
+	.light_button:hover,
+	.dark_button:hover,
+	.light_grey_button:hover,
+	.dark_grey_button:hover,
+	.emm-paginate a:hover span,
+	.emm-paginate a:active span,
+	.shortcode_icon_box .icon_box_read_more:hover
+	{
+		border-color:#b39964;
+	}
+	
+	.custom_button:hover,
+	.vc_btn.vc_btn_xs:hover,
+	.vc_btn.vc_btn_sm:hover,
+	.vc_btn.vc_btn_md:hover,
+	.vc_btn.vc_btn_lg:hover
+	{
+		border-color:#b39964 !important;
+	}
+	
+	.product_type_simple,
+	.product_type_variable,
+	.myaccount_user:after,
+	.track_order p:first-child:after,
+	.order-info:after
+	{
+		border-bottom-color:#b39964 !important;
+	}
+	
+	.first-navigation ul ul,
+	.secondary-navigation ul ul
+	{
+		border-top-color:#b39964;
+	}
+	
+	#megaMenu ul.megaMenu > li.ss-nav-menu-mega > ul.sub-menu-1, 
+	#megaMenu ul.megaMenu li.ss-nav-menu-reg ul.sub-menu ,
+	.menu_centered_style .gbtr_minicart 
+	{
+		border-top-color:#b39964 !important;
+	}
+	
+	#nprogress .spinner-icon {
+		border-top-color: #b39964;
+		border-left-color: #b39964;
+	}
+	
+	
+	
+	/********************************************************************/
+	/************************ Secondary Color ***************************/
+	/********************************************************************/
+	
+	
+	.sf-menu a,
+	.sf-menu a:visited,
+	.sf-menu li li a,
+	.widget h4.widget-title,
+	h1.entry-title,
+	h1.page-title,
+	h1.entry-title a,
+	h1.page-title a,
+	.entry-content h1,
+	.entry-content h2,
+	.entry-content h3,
+	.entry-content h4,
+	.entry-content h5,
+	.entry-content h6,
+	.gbtr_little_shopping_bag .title a,
+	.theretailer_product_sort,
+	.shipping_calculator h3 a,
+	.shortcode_featured_1 a,
+	.shortcode_tabgroup ul.tabs li.active a,
+	ul.product_list_widget span.amount,
+	.woocommerce ul.product_list_widget span.amount
+	{
+		color:#000;
+	}
+	
+	
+	
+	/********************************************************************/
+	/****************************** Wrapper *****************************/
+	/********************************************************************/
+	
+	#global_wrapper {
+		margin:0 auto;	
+					width:100%;
+			
+	}
+	
+	/********************************************************************/
+	/****************************** Top Bar *****************************/
+	/********************************************************************/
+	
+		.gbtr_tools_wrapper {
+		background:#000;
+	}
+		
+		.gbtr_tools_wrapper,
+	.gbtr_tools_account ul li a,
+	.logout_link,
+	.gbtr_tools_search_inputbutton,
+	.top-bar-menu-trigger,
+	.top-bar-menu-trigger-mobile,
+	.gbtr_tools_search_trigger,
+	.gbtr_tools_search_trigger_mobile
+	{
+		color:#fff;
+	}
+		
+		.gbtr_tools_info,
+	.gbtr_tools_account
+	{
+		font-size:10px;
+	}
+		
+	/********************************************************************/
+	/****************************** Header ******************************/
+	/********************************************************************/
+	
+	.gbtr_header_wrapper {
+				padding-top:40px;
+				
+				padding-bottom:40px;
+				
+		background-color:#f4f4f4;
+	}
+	
+	.sf-menu a,
+	.sf-menu a:visited,
+	.shopping_bag_centered_style,
+	.main-navigation .mega-menu > ul > li > a,
+	.main-navigation .mega-menu > ul > li > a:visited
+	{
+		color: #000;
+	}
+	
+	
+	.main-navigation ul ul li a,
+	.main-navigation ul ul li a:visited,
+	.gbtr_second_menu li a {
+		color: #777;
+	}
+	
+		.sf-menu a,
+	.main-navigation .mega-menu > ul > li > a,
+	.shopping_bag_centered_style
+	{
+		font-size:12px;
+	}
+		
+		.gbtr_second_menu {
+		font-size:12px;
+	}
+		
+	/********************************************************************/
+	/************************** Light footer ****************************/
+	/********************************************************************/
+	
+	.gbtr_light_footer_wrapper,
+	.gbtr_light_footer_no_widgets {
+		background-color:#f4f4f4;
+	}
+	
+	/********************************************************************/
+	/************************** Dark footer *****************************/
+	/********************************************************************/
+	
+	.gbtr_dark_footer_wrapper,
+	.gbtr_dark_footer_wrapper .tagcloud a,
+	.gbtr_dark_footer_no_widgets {
+		background-color:#000;
+	}
+	
+	.gbtr_dark_footer_wrapper .widget h4.widget-title {
+		border-bottom:2px solid #3d3d3d;
+	}
+	
+	.gbtr_dark_footer_wrapper,
+	.gbtr_dark_footer_wrapper .widget h4.widget-title,
+	.gbtr_dark_footer_wrapper a,
+	.gbtr_dark_footer_wrapper .widget ul li,
+	.gbtr_dark_footer_wrapper .widget ul li a,
+	.gbtr_dark_footer_wrapper .textwidget,
+	.gbtr_dark_footer_wrapper #mc_subheader,
+	.gbtr_dark_footer_wrapper ul.product_list_widget span.amount,
+	.gbtr_dark_footer_wrapper .widget_calendar,
+	.gbtr_dark_footer_wrapper .mc_var_label,
+	.gbtr_dark_footer_wrapper .tagcloud a,
+	.trigger-footer-widget-area
+	{
+		color:#fff;
+	}
+	
+	.gbtr_dark_footer_wrapper ul.product_list_widget span.amount
+	{
+			color:#fff !important;
+	}
+	
+	.gbtr_dark_footer_wrapper .widget input[type=text],
+	.gbtr_dark_footer_wrapper .widget input[type=password],
+	.gbtr_dark_footer_wrapper .tagcloud a
+	{
+		border: 1px solid #3d3d3d;
+	}
+	
+	.gbtr_dark_footer_wrapper .widget ul li {
+		border-bottom: 1px dotted #3d3d3d !important;
+	}
+	
+	.gbtr_dark_footer_wrapper .widget.the_retailer_connect a {
+		border-color:#000;
+	}
+	
+	/********************************************************************/
+	/********************** Mobiles Footer ******************************/
+	/********************************************************************/
+	
+		
+	/********************************************************************/
+	/********************** Copyright footer ****************************/
+	/********************************************************************/
+	
+	.gbtr_footer_wrapper {
+		background:#000;
+	}
+	
+	.bottom_wrapper {
+		border-top:2px solid #3d3d3d;
+	}
+	
+	.gbtr_footer_widget_copyrights {
+		color:#a8a8a8;
+	}
+	
+	/********************************************************************/
+	/******************* Background sprite normal ***********************/
+	/********************************************************************/
+	
+	blockquote:before,
+	.format-status .entry-content:before,
+	.woocommerce_message::before,
+	.woocommerce_error::before,
+	.woocommerce_info::before,
+	.woocommerce-message::before,
+	.woocommerce-error::before,
+	.woocommerce-info::before,
+	.widget #searchform input[type=submit],
+	.widget .woocommerce-product-search input[type=submit],
+	.gbtr_little_shopping_bag .title,
+	ul.cart_list .empty:before,
+	.gbtr_product_sliders_header .big_arrow_right,
+	.gbtr_items_sliders_header .big_arrow_right,
+	.gbtr_product_sliders_header .big_arrow_right:hover,
+	.gbtr_items_sliders_header .big_arrow_right:hover,
+	.gbtr_product_sliders_header .big_arrow_left,
+	.gbtr_items_sliders_header .big_arrow_left,
+	.gbtr_product_sliders_header .big_arrow_left:hover,
+	.gbtr_items_sliders_header .big_arrow_left:hover,
+	.product_button a.button,
+	.product_button button.button,
+	.product_button input.button,
+	.product_button #respond input#submit,
+	.product_button #content input.button,
+	.product_button a.button:hover,
+	.product_button button.button:hover,
+	.product_button input.button:hover,
+	.product_button #respond input#submit:hover,
+	.product_button #content input.button:hover,
+	.product_type_simple,
+	.product_type_variable,
+	a.button.added::before,
+	button.button.added::before,
+	input.button.added::before,
+	#respond input#submit.added::before,
+	#content input.button.added::before,
+	.gbtr_product_share ul li a.product_share_facebook:before,
+	.gbtr_product_share ul li a.product_share_pinterest:before,
+	.gbtr_product_share ul li a.product_share_email:before,
+	.gbtr_product_share ul li a.product_share_twitter:before,
+	.product_single_slider_previous,
+	.product_single_slider_next,
+	.product_navigation .nav-previous-single a,
+	.product_navigation .nav-previous-single a:hover,
+	.product_navigation .nav-next-single a,
+	.product_navigation .nav-next-single a:hover,
+	.gbtr_left_column_cart_sep,
+	.empty_bag_icon,
+	.checkout h3:after,
+	.gbtr_checkout_method_header:after,
+	#nav-below .nav-previous-single a .meta-nav,
+	#nav-below .nav-previous-single a:hover .meta-nav,
+	#nav-below .nav-next-single a .meta-nav,
+	#nav-below .nav-next-single a:hover .meta-nav,
+	.accordion .accordion-title:before,
+	.accordion .accordion-title.active:before,
+	.testimonial_left_content div:before,
+	.testimonial_right_content div:before,
+	.slide_everything .slide_everything_previous,
+	.slide_everything .slide_everything_next,
+	.products_slider_previous,
+	.products_slider_next,
+	.gbtr_little_shopping_bag_wrapper_mobiles,
+	.menu_select,
+	.theretailer_product_sort,
+	.img_404,
+	.widget ul li.recentcomments:before,
+	#icl_lang_sel_widget a.lang_sel_sel,
+	.cart-collaterals .wc-proceed-to-checkout:before
+	{
+				background-image:url(http://www.motormedia.co.uk/wp-content/themes/theretailer/images/sprites.png) !important;
+			}
+	
+		
+	/********************************************************************/
+	/************************* Flip products ****************************/
+	/********************************************************************/
+	
+		@media only screen and (min-width: 719px) {
+	
+	/* Deprecated
+
+	.image_container a {
+		float: left;
+		-webkit-perspective: 600px;
+		-moz-perspective: 600px;
+	}
+	
+	.image_container a .front {
+		-webkit-transform: rotateX(0deg) rotateY(0deg);
+		-webkit-backface-visibility: hidden;
+	
+		-moz-transform: rotateX(0deg) rotateY(0deg);
+		-moz-backface-visibility: hidden;
+	
+		-o-transition: all .4s ease-in-out;
+		-ms-transition: all .4s ease-in-out;
+		-moz-transition: all .4s ease-in-out;
+		-webkit-transition: all .4s ease-in-out;
+		transition: all .4s ease-in-out;
+	}
+	
+	.image_container a:hover .front {
+		-webkit-transform: rotateY(180deg);
+		-moz-transform: rotateY(180deg);
+	}
+	
+	.image_container a .back {
+		-webkit-transform: rotateY(-180deg);
+		-webkit-transform-style: preserve-3d;
+		-webkit-backface-visibility: hidden;
+	
+		-moz-transform: rotateY(-180deg);
+		-moz-transform-style: preserve-3d;
+		-moz-backface-visibility: hidden;
+	
+		-o-transition: all .4s ease-in-out;
+		-ms-transition: all .4s ease-in-out;
+		-moz-transition: all .4s ease-in-out;
+		-webkit-transition: all .4s ease-in-out;
+		transition: all .4s ease-in-out;
+	}
+	
+	.image_container a:hover .back {
+		-webkit-transform: rotateX(0deg) rotateY(0deg);
+		-moz-transform: rotateX(0deg) rotateY(0deg);
+		z-index:10;
+		position:absolute;
+	}
+
+	*/
+
+	.image_container a {
+		float: left;
+		/*-webkit-transform: translate3d(0, 0, 0);
+		transform-style: preserve-3d;*/
+		perspective: 600px;
+		-webkit-perspective: 600px;
+		/*-webkit-transform-style: preserve-3d;
+		-webkit-transition: 0.1s;*/
+
+	}
+
+	.image_container a .front,
+	.image_container a .back
+	{
+		backface-visibility: hidden;
+		-webkit-backface-visibility: hidden;
+		transition: 0.6s;
+		-webkit-transition: 0.6s;
+		transform-style: preserve-3d;
+		-webkit-transform-style: preserve-3d;
+	}
+
+	.image_container a .front {
+		z-index: 2;
+		transform: rotateY(0deg);
+		-webkit-transform: rotateY(0deg);
+	}
+
+	.image_container a .back {
+		transform: rotateY(-180deg);
+		-webkit-transform: rotateY(-180deg);
+	}
+
+	.image_container a:hover .back {
+		transform: rotateY(0deg);
+		-webkit-transform: rotateY(0deg);
+	}
+	
+	.image_container a:hover .front {
+	    transform: rotateY(180deg);
+	    -webkit-transform: rotateY(180deg);
+	}
+	
+		}
+		
+		
+	
+	/********************************************************************/
+	/************************ Retina Stuff ******************************/
+	/********************************************************************/
+	
+	@media only screen and (-webkit-min-device-pixel-ratio: 2), 
+	only screen and (min-device-pixel-ratio: 2)
+	{
+		blockquote:before,
+		.woocommerce_message::before,
+		.woocommerce_error::before,
+		.woocommerce_info::before,
+		.woocommerce-message::before,
+		.woocommerce-error::before,
+		.woocommerce-info::before,
+		.widget #searchform input[type=submit],
+		.gbtr_little_shopping_bag .title,
+		/*ul.cart_list .remove,
+		ul.cart_list .empty:before,*/
+		.gbtr_product_sliders_header .big_arrow_right,
+		.gbtr_items_sliders_header .big_arrow_right,
+		.gbtr_product_sliders_header .big_arrow_right:hover,
+		.gbtr_items_sliders_header .big_arrow_right:hover,
+		.gbtr_product_sliders_header .big_arrow_left,
+		.gbtr_items_sliders_header .big_arrow_left,
+		.gbtr_product_sliders_header .big_arrow_left:hover,
+		.gbtr_items_sliders_header .big_arrow_left:hover,
+		.product_button a.button,
+		.product_button button.button,
+		.product_button input.button,
+		.product_button #respond input#submit,
+		.product_button #content input.button,
+		.product_button a.button:hover,
+		.product_button button.button:hover,
+		.product_button input.button:hover,
+		.product_button #respond input#submit:hover,
+		.product_button #content input.button:hover,
+		.product_type_simple,
+		.product_type_variable,
+		a.button.added::before,
+		button.button.added::before,
+		input.button.added::before,
+		#respond input#submit.added::before,
+		#content input.button.added::before,
+		.gbtr_product_share ul li a.product_share_facebook:before,
+		.gbtr_product_share ul li a.product_share_pinterest:before,
+		.gbtr_product_share ul li a.product_share_email:before,
+		.gbtr_product_share ul li a.product_share_twitter:before,
+		.product_single_slider_previous,
+		.product_single_slider_next,
+		.product_navigation .nav-previous-single a,
+		.product_navigation .nav-previous-single a:hover,
+		.product_navigation .nav-next-single a,
+		.product_navigation .nav-next-single a:hover,
+		/*table.shop_table a.remove,
+		table.shop_table a.remove:hover,*/
+		.gbtr_left_column_cart_sep,
+		.empty_bag_icon,
+		.checkout h3:after,
+		.gbtr_checkout_method_header:after,
+		#nav-below .nav-previous-single a .meta-nav,
+		#nav-below .nav-previous-single a:hover .meta-nav,
+		#nav-below .nav-next-single a .meta-nav,
+		#nav-below .nav-next-single a:hover .meta-nav,
+		.accordion .accordion-title:before,
+		.accordion .accordion-title.active:before,
+		.testimonial_left_content div:before,
+		.testimonial_right_content div:before,
+		.slide_everything .slide_everything_previous,
+		.slide_everything .slide_everything_next,
+		.products_slider_previous,
+		.products_slider_next,
+		.gbtr_little_shopping_bag_wrapper_mobiles,
+		.menu_select,
+		.theretailer_product_sort,
+		.img_404,
+		.widget ul li.recentcomments:before,
+		#icl_lang_sel_widget a.lang_sel_sel,
+		.trigger-footer-widget-icon
+		{
+						background-image:url(http://www.motormedia.co.uk/wp-content/themes/theretailer/images/sprites@2x.png) !important;
+						background-size:1000px 1000px !important;
+		}
+	}
+	
+	/********************************************************************/
+	/************************* Custom CSS *******************************/
+	/********************************************************************/
+	
+			.add-your-own-classes-here {
+
+}		
+		.woocommerce-breadcrumb {
+		display:none;
+	}
+		
+	</style>
+	
+	<style type="text/css" data-type="vc_shortcodes-custom-css">.vc_custom_1473249877675{margin-bottom: 70px !important;background-image: url(https://import.getbowtied.com/the-retailer-v1.2/wp-content/uploads/2015/09/retailer-product-1.jpg?id=49) !important;background-position: center !important;background-repeat: no-repeat !important;background-size: cover !important;}.vc_custom_1401702712051{margin-bottom: 50px !important;}.vc_custom_1401702717882{margin-bottom: 50px !important;}.vc_custom_1401702723091{margin-bottom: 50px !important;}.vc_custom_1473241702463{margin-bottom: 80px !important;}.vc_custom_1516205290887{padding-top: 0px !important;}.vc_custom_1516223222395{padding-top: 180px !important;padding-bottom: 180px !important;}</style><noscript><style type="text/css"> .wpb_animate_when_almost_visible { opacity: 1; }</style></noscript></head>
+
+<!-- *********************************************************************** -->
+<!-- ********************* EVERYTHING STARTS HERE ************************** -->
+<!-- *********************************************************************** -->
+
+<body class="home page-template page-template-page-full page-template-page-full-php page page-id-14 page-child parent-pageid-11 wpb-js-composer js-comp-ver-5.4.5 vc_responsive">
+
+	        
+    <div id="global_wrapper">
+    
+      
+        	<div class="gbtr_tools_wrapper">
+    <div class="container_12">
+        <div class="grid_6">
+			<div class="top_bar_left">
+				<a href="https://www.facebook.com/GetBowtied" target="_blank" class="social_media social_media_facebook"><i class="fa fa-facebook"></i></a><a href="https://twitter.com/getbowtied" target="_blank" class="social_media social_media_twitter"><i class="fa fa-twitter"></i></a><a href="https://plus.google.com/b/100388744672090997201/+Getbowtied/posts" target="_blank" class="social_media social_media_googleplus"><i class="fa fa-google-plus"></i></a>				
+				<span class="gbtr_tools_info">
+											Welcome To Motormedia - new website in progress!									</span>
+		
+			</div><!--.top_bar_left-->
+        </div>
+        <div class="grid_6">
+            <div class="gbtr_tools_search ">
+				<button class="gbtr_tools_search_trigger"><i class="fa fa-search"></i></button>
+				<button class="gbtr_tools_search_trigger_mobile"><i class="fa fa-search"></i></button>
+                <form method="get" action="https://www.motormedia.co.uk">
+                    <input class="gbtr_tools_search_inputtext" type="text" value="" name="s" id="s" />
+                    <button type="submit" class="gbtr_tools_search_inputbutton"><i class="fa fa-search"></i></button>
+                                        <input type="hidden" name="post_type" value="product">
+                                    </form>
+            </div>
+            
+					
+				<div class="gbtr_tools_account_wrapper">
+			<div class="top-bar-menu-trigger-mobile">
+				<i class="fa fa-bars"></i>
+			</div>
+			
+			<div class="top-bar-menu-trigger">
+				<i class="fa fa-bars"></i>
+			</div>
+			
+						
+			<div class="gbtr_tools_account desktop menu-hidden">
+				<ul class="topbar-menu">
+										<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-335"><a>Secondary Menu Item</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-336"><a>Help Center</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-337"><a>Special</a></li>
+					
+									</ul>
+			</div><!--.gbtr_tools_account-->
+							</div>
+			        </div><!--.grid-8-->
+    </div><!--.container-12-->
+	
+		
+		<div class="gbtr_tools_account mobile menu-hidden">
+			<ul class="topbar-menu">
+								<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-335"><a>Secondary Menu Item</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-336"><a>Help Center</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-337"><a>Special</a></li>
+				
+							</ul>
+		</div><!--.gbtr_tools_account-->
+	
+		
+</div>    
+        
+        	<div class="gbtr_header_wrapper">
+    <div class="container_12">
+        
+        <div class="grid_3">
+            <a href="https://www.motormedia.co.uk" class="gbtr_logo">
+            
+                        
+            <img src="http://www.motormedia.co.uk/wp-content/themes/theretailer/images/logo.png" alt="" />
+            </a>
+        </div>
+        
+        <script type="text/javascript">
+		//<![CDATA[
+			
+			// Set pixelRatio to 1 if the browser doesn't offer it up.
+			var pixelRatio = !!window.devicePixelRatio ? window.devicePixelRatio : 1;
+			
+			logo_image = new Image();
+			
+			(function($){
+				$(window).load(function(){
+					
+					if (pixelRatio > 1) {
+						$('.gbtr_logo img').each(function() {
+							
+							var logo_image_width = $(this).width();
+							var logo_image_height = $(this).height();
+							
+							$(this).css("width", logo_image_width);
+							$(this).css("height", logo_image_height);
+															$(this).attr('src', 'http://www.motormedia.co.uk/wp-content/themes/theretailer/images/logo@2x.png');
+													});
+					}
+				
+				})
+			})(jQuery);
+			
+		//]]>
+		</script>
+        
+        <div class="grid_9">
+        	<div class="menus_envelope">
+            <div class="menus_wrapper
+                                    menus_wrapper_shopping_bag_mobile_style
+                                                                " >
+                <div class="gbtr_first_menu">
+                    <div class="gbtr_first_menu_inside">                        
+						<nav class="main-navigation first-navigation" role="navigation">  
+                            <ul class="sf-menu">                        
+	                            	                            <li id="menu-item-43" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-14 current_page_item current-menu-ancestor current-menu-parent current_page_parent current_page_ancestor menu-item-has-children menu-item-43"><a href="https://www.motormedia.co.uk/">Home</a>
+<ul class="sub-menu">
+	<li id="menu-item-45" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-14 current_page_item menu-item-45"><a href="https://www.motormedia.co.uk/">Home V1 – eCommerce</a></li>
+	<li id="menu-item-42" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-42"><a href="https://www.motormedia.co.uk/?page_id=16">Home V2 – eCommerce</a></li>
+	<li id="menu-item-37" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-37"><a href="https://www.motormedia.co.uk/?page_id=26">Home V3 – Full Video</a></li>
+	<li id="menu-item-36" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-36"><a href="https://www.motormedia.co.uk/?page_id=28">Home V4 – eCommerce / Slider</a></li>
+	<li id="menu-item-35" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-35"><a href="https://www.motormedia.co.uk/?page_id=30">Home V5 – Parallax</a></li>
+	<li id="menu-item-351" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-351"><a target="_blank" href="https://www.motormedia.co.uk/?page_id=349">Home V6 – Splash</a></li>
+</ul>
+</li>
+<li id="menu-item-44" class="mega-menu menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-44"><a href="https://www.motormedia.co.uk/?page_id=4">Shop</a>
+<ul class="sub-menu">
+	<li id="menu-item-46" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-46"><a href="https://www.motormedia.co.uk/?page_id=4">Shop Pages</a>
+	<ul class="sub-menu">
+		<li id="menu-item-70" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-70"><a href="https://www.motormedia.co.uk/?page_id=4">Shop — Archive</a></li>
+		<li id="menu-item-375" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-375"><a href="https://www.motormedia.co.uk/?page_id=4">Shop — with Sidebar</a></li>
+		<li id="menu-item-71" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-71"><a href="https://www.motormedia.co.uk/?product_cat=mens-clothing">Shop — A Product Category</a></li>
+	</ul>
+</li>
+	<li id="menu-item-47" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-47"><a href="#">Products</a>
+	<ul class="sub-menu">
+		<li id="menu-item-75" class="menu-item menu-item-type-post_type menu-item-object-product menu-item-75"><a href="https://www.motormedia.co.uk/?product=ice-seal-humor-santiago-chinos">Product — Simple</a></li>
+		<li id="menu-item-76" class="menu-item menu-item-type-post_type menu-item-object-product menu-item-76"><a href="https://www.motormedia.co.uk/?product=heart-of-the-jolly-opiate">Product — Variable</a></li>
+		<li id="menu-item-77" class="menu-item menu-item-type-post_type menu-item-object-product menu-item-77"><a href="https://www.motormedia.co.uk/?product=grabber-grey-cardigan-button-up">Product — Grouped</a></li>
+		<li id="menu-item-79" class="menu-item menu-item-type-post_type menu-item-object-product menu-item-79"><a href="https://www.motormedia.co.uk/?product=floral-sating-top-and-brown-pants">Product — Downloadable</a></li>
+		<li id="menu-item-78" class="menu-item menu-item-type-post_type menu-item-object-product menu-item-78"><a href="https://www.motormedia.co.uk/?product=get-bowtied-limited-edition-poster">Product — Affiliate</a></li>
+		<li id="menu-item-352" class="menu-item menu-item-type-post_type menu-item-object-product menu-item-352"><a href="https://www.motormedia.co.uk/?product=blue-dress-of-the-ambush">Product — Reviews</a></li>
+	</ul>
+</li>
+	<li id="menu-item-353" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-353"><a href="#">Other Shop Pages</a>
+	<ul class="sub-menu">
+		<li id="menu-item-354" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-354"><a href="https://www.motormedia.co.uk/?page_id=5">Cart</a></li>
+		<li id="menu-item-355" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-355"><a href="https://www.motormedia.co.uk/?page_id=6">Checkout</a></li>
+		<li id="menu-item-356" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-356"><a href="https://www.motormedia.co.uk/?page_id=7">My Account</a></li>
+		<li id="menu-item-74" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-74"><a href="https://www.motormedia.co.uk/?page_id=72">Track Your Order</a></li>
+	</ul>
+</li>
+</ul>
+</li>
+<li id="menu-item-123" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-123"><a href="#">Pages</a>
+<ul class="sub-menu">
+	<li id="menu-item-147" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-147"><a href="https://www.motormedia.co.uk/?page_id=126">About V1 — Company</a></li>
+	<li id="menu-item-146" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-146"><a href="https://www.motormedia.co.uk/?page_id=128">About V2 — Personal</a></li>
+	<li id="menu-item-368" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-368"><a href="https://www.motormedia.co.uk/?page_id=361">About V3 — Niche Business</a></li>
+	<li id="menu-item-145" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-145"><a href="https://www.motormedia.co.uk/?page_id=130">Frequently Asked Questions</a></li>
+	<li id="menu-item-144" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-144"><a href="https://www.motormedia.co.uk/?page_id=132">Contact Us — Google Map</a></li>
+	<li id="menu-item-143" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-143"><a href="https://www.motormedia.co.uk/?page_id=134">Contact Us</a></li>
+	<li id="menu-item-370" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-370"><a href="/404">404 — Page Not Found</a></li>
+	<li id="menu-item-167" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-167"><a href="https://www.motormedia.co.uk/?page_id=151">Page with Sidebar</a></li>
+	<li id="menu-item-168" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-168"><a href="https://www.motormedia.co.uk/?page_id=149">Gallery in a Page — Boxed</a></li>
+	<li id="menu-item-169" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-169"><a href="https://www.motormedia.co.uk/?page_id=140">Gallery in a Page — Full WIdth</a></li>
+</ul>
+</li>
+<li id="menu-item-175" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-175"><a href="https://www.motormedia.co.uk/?page_id=173">Work</a>
+<ul class="sub-menu">
+	<li id="menu-item-252" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-252"><a href="https://www.motormedia.co.uk/?page_id=249">Portfolio 2 Columns</a></li>
+	<li id="menu-item-255" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-255"><a href="https://www.motormedia.co.uk/?page_id=253">Portfolio 3 Columns</a></li>
+	<li id="menu-item-258" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-258"><a href="https://www.motormedia.co.uk/?page_id=256">Portfolio 4 Columns</a></li>
+	<li id="menu-item-260" class="menu-item menu-item-type-post_type menu-item-object-portfolio menu-item-260"><a href="https://www.motormedia.co.uk/?portfolio=experimental-fashion-photography">Single Portfolio Item</a></li>
+</ul>
+</li>
+<li id="menu-item-176" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-176"><a href="https://www.motormedia.co.uk/?page_id=171">Blog</a></li>
+	                            							</ul>
+						</nav>
+                        <div class="clr"></div>
+                    </div>
+                </div>
+                <div class="gbtr_second_menu">
+					<nav class="secondary-navigation main-navigation" role="navigation">  
+						<ul>
+														<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-335"><a>Secondary Menu Item</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-336"><a>Help Center</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-337"><a>Special</a></li>
+													</ul>
+					</nav>
+                </div>
+            </div>
+            
+            <div class="
+             mobiles_menus_wrapper">
+                <div class="gbtr_menu_mobiles">
+                <div class="gbtr_menu_mobiles_inside
+                                ">
+                    <select>
+                        <option selected>Navigation</option>
+                        
+<option class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-14 current_page_item current-menu-ancestor current-menu-parent current_page_parent current_page_ancestor menu-item-has-children menu-item-43" value="https://www.motormedia.co.uk/">Home</option>
+	
+<option class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-14 current_page_item menu-item-45" value="https://www.motormedia.co.uk/">&#8211; Home V1 – eCommerce</option>
+	
+<option class="menu-item menu-item-type-post_type menu-item-object-page menu-item-42" value="https://www.motormedia.co.uk/?page_id=16">&#8211; Home V2 – eCommerce</option>
+	
+<option class="menu-item menu-item-type-post_type menu-item-object-page menu-item-37" value="https://www.motormedia.co.uk/?page_id=26">&#8211; Home V3 – Full Video</option>
+	
+<option class="menu-item menu-item-type-post_type menu-item-object-page menu-item-36" value="https://www.motormedia.co.uk/?page_id=28">&#8211; Home V4 – eCommerce / Slider</option>
+	
+<option class="menu-item menu-item-type-post_type menu-item-object-page menu-item-35" value="https://www.motormedia.co.uk/?page_id=30">&#8211; Home V5 – Parallax</option>
+	
+<option class="menu-item menu-item-type-post_type menu-item-object-page menu-item-351" value="https://www.motormedia.co.uk/?page_id=349">&#8211; Home V6 – Splash</option>
+
+<option class="mega-menu menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-44" value="https://www.motormedia.co.uk/?page_id=4">Shop</option>
+	
+<option class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-46" value="https://www.motormedia.co.uk/?page_id=4">&#8211; Shop Pages</option>
+		
+<option class="menu-item menu-item-type-post_type menu-item-object-page menu-item-70" value="https://www.motormedia.co.uk/?page_id=4">&#8212; Shop — Archive</option>
+		
+<option class="menu-item menu-item-type-post_type menu-item-object-page menu-item-375" value="https://www.motormedia.co.uk/?page_id=4">&#8212; Shop — with Sidebar</option>
+		
+<option class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-71" value="https://www.motormedia.co.uk/?product_cat=mens-clothing">&#8212; Shop — A Product Category</option>
+	
+<option class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-47" value="#">&#8211; Products</option>
+		
+<option class="menu-item menu-item-type-post_type menu-item-object-product menu-item-75" value="https://www.motormedia.co.uk/?product=ice-seal-humor-santiago-chinos">&#8212; Product — Simple</option>
+		
+<option class="menu-item menu-item-type-post_type menu-item-object-product menu-item-76" value="https://www.motormedia.co.uk/?product=heart-of-the-jolly-opiate">&#8212; Product — Variable</option>
+		
+<option class="menu-item menu-item-type-post_type menu-item-object-product menu-item-77" value="https://www.motormedia.co.uk/?product=grabber-grey-cardigan-button-up">&#8212; Product — Grouped</option>
+		
+<option class="menu-item menu-item-type-post_type menu-item-object-product menu-item-79" value="https://www.motormedia.co.uk/?product=floral-sating-top-and-brown-pants">&#8212; Product — Downloadable</option>
+		
+<option class="menu-item menu-item-type-post_type menu-item-object-product menu-item-78" value="https://www.motormedia.co.uk/?product=get-bowtied-limited-edition-poster">&#8212; Product — Affiliate</option>
+		
+<option class="menu-item menu-item-type-post_type menu-item-object-product menu-item-352" value="https://www.motormedia.co.uk/?product=blue-dress-of-the-ambush">&#8212; Product — Reviews</option>
+	
+<option class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-353" value="#">&#8211; Other Shop Pages</option>
+		
+<option class="menu-item menu-item-type-post_type menu-item-object-page menu-item-354" value="https://www.motormedia.co.uk/?page_id=5">&#8212; Cart</option>
+		
+<option class="menu-item menu-item-type-post_type menu-item-object-page menu-item-355" value="https://www.motormedia.co.uk/?page_id=6">&#8212; Checkout</option>
+		
+<option class="menu-item menu-item-type-post_type menu-item-object-page menu-item-356" value="https://www.motormedia.co.uk/?page_id=7">&#8212; My Account</option>
+		
+<option class="menu-item menu-item-type-post_type menu-item-object-page menu-item-74" value="https://www.motormedia.co.uk/?page_id=72">&#8212; Track Your Order</option>
+
+<option class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-123" value="#">Pages</option>
+	
+<option class="menu-item menu-item-type-post_type menu-item-object-page menu-item-147" value="https://www.motormedia.co.uk/?page_id=126">&#8211; About V1 — Company</option>
+	
+<option class="menu-item menu-item-type-post_type menu-item-object-page menu-item-146" value="https://www.motormedia.co.uk/?page_id=128">&#8211; About V2 — Personal</option>
+	
+<option class="menu-item menu-item-type-post_type menu-item-object-page menu-item-368" value="https://www.motormedia.co.uk/?page_id=361">&#8211; About V3 — Niche Business</option>
+	
+<option class="menu-item menu-item-type-post_type menu-item-object-page menu-item-145" value="https://www.motormedia.co.uk/?page_id=130">&#8211; Frequently Asked Questions</option>
+	
+<option class="menu-item menu-item-type-post_type menu-item-object-page menu-item-144" value="https://www.motormedia.co.uk/?page_id=132">&#8211; Contact Us — Google Map</option>
+	
+<option class="menu-item menu-item-type-post_type menu-item-object-page menu-item-143" value="https://www.motormedia.co.uk/?page_id=134">&#8211; Contact Us</option>
+	
+<option class="menu-item menu-item-type-custom menu-item-object-custom menu-item-370" value="/404">&#8211; 404 — Page Not Found</option>
+	
+<option class="menu-item menu-item-type-post_type menu-item-object-page menu-item-167" value="https://www.motormedia.co.uk/?page_id=151">&#8211; Page with Sidebar</option>
+	
+<option class="menu-item menu-item-type-post_type menu-item-object-page menu-item-168" value="https://www.motormedia.co.uk/?page_id=149">&#8211; Gallery in a Page — Boxed</option>
+	
+<option class="menu-item menu-item-type-post_type menu-item-object-page menu-item-169" value="https://www.motormedia.co.uk/?page_id=140">&#8211; Gallery in a Page — Full WIdth</option>
+
+<option class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-175" value="https://www.motormedia.co.uk/?page_id=173">Work</option>
+	
+<option class="menu-item menu-item-type-post_type menu-item-object-page menu-item-252" value="https://www.motormedia.co.uk/?page_id=249">&#8211; Portfolio 2 Columns</option>
+	
+<option class="menu-item menu-item-type-post_type menu-item-object-page menu-item-255" value="https://www.motormedia.co.uk/?page_id=253">&#8211; Portfolio 3 Columns</option>
+	
+<option class="menu-item menu-item-type-post_type menu-item-object-page menu-item-258" value="https://www.motormedia.co.uk/?page_id=256">&#8211; Portfolio 4 Columns</option>
+	
+<option class="menu-item menu-item-type-post_type menu-item-object-portfolio menu-item-260" value="https://www.motormedia.co.uk/?portfolio=experimental-fashion-photography">&#8211; Single Portfolio Item</option>
+
+<option class="menu-item menu-item-type-post_type menu-item-object-page menu-item-176" value="https://www.motormedia.co.uk/?page_id=171">Blog</option>
+
+<option class="menu-item menu-item-type-custom menu-item-object-custom menu-item-335">Secondary Menu Item</option>
+
+<option class="menu-item menu-item-type-custom menu-item-object-custom menu-item-336">Help Center</option>
+
+<option class="menu-item menu-item-type-custom menu-item-object-custom menu-item-337">Special</option>
+                    </select>            
+                </div>
+                
+                </div>
+                
+                                
+                                
+                                
+                <!---->
+                
+                <div class="gbtr_dynamic_shopping_bag">
+            
+                    <div class="gbtr_little_shopping_bag_wrapper 
+                                            shopping_bag_mobile_style
+                                        
+                                            shopping_bag_in_header
+                                        ">
+                        <div class="gbtr_little_shopping_bag">
+                            <div class="title"><a href="https://www.motormedia.co.uk/?page_id=5">Basket</a></div>
+                            <div class="overview"><span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">&pound;</span>0.00</span> <span class="minicart_items">/ 0 items</span></div>
+                            <div class="gb_cart_contents_count">0</div>
+                        </div>
+                        <div class="gbtr_minicart_wrapper">
+                            <div class="gbtr_minicart">
+                            	<div class="widget woocommerce widget_shopping_cart"><div class="widget_shopping_cart_content"></div></div>                            </div>
+                        </div>
+                        
+                    </div>
+                    
+                    <a href="https://www.motormedia.co.uk/?page_id=5" class="gbtr_little_shopping_bag_wrapper_mobiles"><span>0</span></a>
+                
+                </div>
+                
+                <!---->
+                
+                                
+                                
+                                
+                <div class="clr"></div>
+            
+            </div><!--/menus_wrapper-->
+            </div><!--/menus_envelope-->            
+            
+        </div><!--/grid_9-->
+        
+    </div>
+</div>			
+        
+	        
+        <div class="page_full_width">
+            <div class="entry-content">
+                <div class="">
+                    <div data-vc-parallax-image="https://www.youtube.com/watch?v=3nIQS9eOla8" data-vc-video-bg="https://www.youtube.com/watch?v=3nIQS9eOla8" class="vc_row wpb_row vc_row-fluid vc_custom_1473249877675 vc_row-has-fill vc_video-bg-container"><div data-vc-parallax-image="https://www.youtube.com/watch?v=eKspcryuUJ0" data-vc-video-bg="https://www.youtube.com/watch?v=eKspcryuUJ0" class="wpb_column vc_column_container vc_col-sm-12 vc_col-has-fill vc_video-bg-container"><div class="vc_column-inner vc_custom_1516205290887"><div class="wpb_wrapper">
+	<div  class="wpb_single_image wpb_content_element vc_align_left  wpb_animate_when_almost_visible wpb_appear appear vc_custom_1516223222395">
+		
+		<figure class="wpb_wrapper vc_figure">
+			<div class="vc_single_image-wrapper   vc_box_border_grey"><img width="150" height="150" src="https://www.motormedia.co.uk/wp-content/uploads/2015/09/v9-3-150x150.png" class="vc_single_image-img attachment-full" alt="" srcset="https://www.motormedia.co.uk/wp-content/uploads/2015/09/v9-3-150x150.png 150w, https://www.motormedia.co.uk/wp-content/uploads/2015/09/v9-3-150x150-140x140.png 140w" sizes="(max-width: 150px) 100vw, 150px" /></div>
+		</figure>
+	</div>
+</div></div></div></div><div class="boxed-row"><div class="vc_row wpb_row vc_row-fluid vc_custom_1401702712051"><div class="wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner "><div class="wpb_wrapper">
+		<div class="shortcode_banner_simple_height " onclick="location.href='http://motormedia.co.uk';">
+			<div class="shortcode_banner_simple_height_inner">
+				<div class="shortcode_banner_simple_height_bkg" style="background-color:#b39964; background-image:url()"></div>
+			
+				<div class="shortcode_banner_simple_height_inside" style="height:80px; border: 2px solid #fff">
+					<div class="shortcode_banner_simple_height_content">
+						<div><h3 style="color:#fff !important">Welcome to Motormedia </h3></div>
+						<div class="shortcode_banner_simple_height_sep" style="margin:8px auto; background-color:#fff;"></div>
+						<div><h4 style="color:#fff !important">Motoring &amp; Motor Racing Books &amp; DVD's</h4></div>
+					</div>
+				</div>
+			</div><div class="shortcode_banner_simple_height_bullet" style="background:#403624; color:"><span>No autonomous cars<strong> here!</strong></span></div></div></div></div></div></div></div><div class="boxed-row"><div class="vc_row wpb_row vc_row-fluid vc_custom_1401702717882"><div class="wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner "><div class="wpb_wrapper">    
+        
+	<script>
+	jQuery(document).ready(function($) {
+		
+		var latest_products_slider = $("#latest-products-953339894");
+		
+		if ( $(".gbtr_items_slider_id_953339894").parents('.wpb_column').hasClass('vc_span6') ) {
+			
+			latest_products_slider.owlCarousel({
+				items:2,
+				itemsDesktop : false,
+				itemsDesktopSmall :false,
+				itemsTablet: false,
+				itemsMobile : false,
+				lazyLoad : true,
+				/*autoHeight : true,*/
+		
+			});
+			
+		} else {
+		
+			latest_products_slider.owlCarousel({
+				items:4,
+				itemsDesktop : false,
+				itemsDesktopSmall :false,
+				itemsTablet: [770,3],
+				itemsMobile : [480,2],
+				lazyLoad : true,
+				/*autoHeight : true,*/
+			});
+		}
+		
+		$('.gbtr_items_slider_id_953339894').on('click','.big_arrow_left',function(){ 
+			latest_products_slider.trigger('owl.prev');
+		})
+		$('.gbtr_items_slider_id_953339894').on('click','.big_arrow_right',function(){ 
+			latest_products_slider.trigger('owl.next');
+		})
+		
+	});
+	</script>
+    
+    <div class="slider-master-wrapper latest-products-wrapper gbtr_items_slider_id_953339894 ">
+    
+        <div class="gbtr_items_sliders_header">
+            <div class="gbtr_items_sliders_title">
+                <div class="gbtr_featured_section_title"><strong>Recent Products</strong></div>
+            </div>
+            <div class="gbtr_items_sliders_nav">                        
+                <a class='big_arrow_right'></a>
+                <a class='big_arrow_left'></a>
+                <div class='clr'></div>
+            </div>
+        </div>
+    
+        <div class="gbtr_bold_sep"></div>   
+    
+        <div class="slider-wrapper">
+			<div class="slider" id="latest-products-953339894">
+                                                    
+                                            
+                            <ul>
+	<li class="product_item">
+		
+		<a href="https://www.motormedia.co.uk/?product=blue-dress-of-the-ambush" class="woocommerce-LoopProduct-link woocommerce-loop-product__link">
+		<div class="product_item_inner">
+		
+									
+					
+					
+						
+			
+		<div class="image_container">
+			<a href="https://www.motormedia.co.uk/?product=blue-dress-of-the-ambush">
+
+				<div class="loop_products_thumbnail_img_wrapper front"><img width="300" height="300" src="https://www.motormedia.co.uk/wp-content/uploads/2015/09/retailer-product-1-300x300.jpg" class="attachment-shop_catalog size-shop_catalog wp-post-image" alt="" srcset="https://www.motormedia.co.uk/wp-content/uploads/2015/09/retailer-product-1-300x300.jpg 300w, https://www.motormedia.co.uk/wp-content/uploads/2015/09/retailer-product-1-150x150.jpg 150w, https://www.motormedia.co.uk/wp-content/uploads/2015/09/retailer-product-1-480x480.jpg 480w, https://www.motormedia.co.uk/wp-content/uploads/2015/09/retailer-product-1-140x140.jpg 140w, https://www.motormedia.co.uk/wp-content/uploads/2015/09/retailer-product-1-180x180.jpg 180w" sizes="(max-width: 300px) 100vw, 300px" /></div>
+				
+								
+				<div class="loop_products_additional_img_wrapper back"><img width="300" height="300" src="https://www.motormedia.co.uk/wp-content/uploads/2015/09/retailer-product-1-300x300.jpg" class="attachment-shop_catalog size-shop_catalog" alt="" srcset="https://www.motormedia.co.uk/wp-content/uploads/2015/09/retailer-product-1-300x300.jpg 300w, https://www.motormedia.co.uk/wp-content/uploads/2015/09/retailer-product-1-150x150.jpg 150w, https://www.motormedia.co.uk/wp-content/uploads/2015/09/retailer-product-1-480x480.jpg 480w, https://www.motormedia.co.uk/wp-content/uploads/2015/09/retailer-product-1-140x140.jpg 140w, https://www.motormedia.co.uk/wp-content/uploads/2015/09/retailer-product-1-180x180.jpg 180w" sizes="(max-width: 300px) 100vw, 300px" /></div>				
+								
+			</a>
+		   
+			<div class="clr"></div>
+						<div class="product_button"></a><a rel="nofollow" href="/?add-to-cart=52" data-quantity="1" data-product_id="52" data-product_sku="" class="button product_type_simple add_to_cart_button ajax_add_to_cart">Add to basket</a></div>
+						
+						
+		</div>
+		
+				<!-- Show only the first category-->
+				<h3><a href="https://www.motormedia.co.uk/?product=blue-dress-of-the-ambush">Accessories</a></h3>
+				
+		<p class="product-title"><a href="https://www.motormedia.co.uk/?product=blue-dress-of-the-ambush">Blue Dress Of The Ambush</a></p>
+		
+		<div class="star-rating"><span style="width:100%">Rated <strong class="rating">5.00</strong> out of 5</span></div>
+	<span class="price"><span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">&pound;</span>195.00</span></span>
+		
+		</div><!--.product_item_inner-->
+	</li>
+</ul>
+                
+                                            
+                            <ul>
+	<li class="product_item">
+		
+		<a href="https://www.motormedia.co.uk/?product=ice-seal-humor-santiago-chinos" class="woocommerce-LoopProduct-link woocommerce-loop-product__link">
+		<div class="product_item_inner">
+		
+									
+					
+					
+						
+			
+		<div class="image_container">
+			<a href="https://www.motormedia.co.uk/?product=ice-seal-humor-santiago-chinos">
+
+				<div class="loop_products_thumbnail_img_wrapper front"><img width="300" height="300" src="https://www.motormedia.co.uk/wp-content/uploads/2015/09/retailer-product-2-300x300.jpg" class="attachment-shop_catalog size-shop_catalog wp-post-image" alt="" srcset="https://www.motormedia.co.uk/wp-content/uploads/2015/09/retailer-product-2-300x300.jpg 300w, https://www.motormedia.co.uk/wp-content/uploads/2015/09/retailer-product-2-150x150.jpg 150w, https://www.motormedia.co.uk/wp-content/uploads/2015/09/retailer-product-2-480x480.jpg 480w, https://www.motormedia.co.uk/wp-content/uploads/2015/09/retailer-product-2-140x140.jpg 140w, https://www.motormedia.co.uk/wp-content/uploads/2015/09/retailer-product-2-180x180.jpg 180w" sizes="(max-width: 300px) 100vw, 300px" /></div>
+				
+								
+				<div class="loop_products_additional_img_wrapper back"><img width="300" height="300" src="https://www.motormedia.co.uk/wp-content/uploads/2015/09/retailer-product-1-300x300.jpg" class="attachment-shop_catalog size-shop_catalog" alt="" srcset="https://www.motormedia.co.uk/wp-content/uploads/2015/09/retailer-product-1-300x300.jpg 300w, https://www.motormedia.co.uk/wp-content/uploads/2015/09/retailer-product-1-150x150.jpg 150w, https://www.motormedia.co.uk/wp-content/uploads/2015/09/retailer-product-1-480x480.jpg 480w, https://www.motormedia.co.uk/wp-content/uploads/2015/09/retailer-product-1-140x140.jpg 140w, https://www.motormedia.co.uk/wp-content/uploads/2015/09/retailer-product-1-180x180.jpg 180w" sizes="(max-width: 300px) 100vw, 300px" /></div>				
+								
+			</a>
+		   
+			<div class="clr"></div>
+						<div class="product_button"></a><a rel="nofollow" href="/?add-to-cart=61" data-quantity="1" data-product_id="61" data-product_sku="1051246890" class="button product_type_simple add_to_cart_button ajax_add_to_cart">Add to basket</a></div>
+						
+						
+		</div>
+		
+				<!-- Show only the first category-->
+				<h3><a href="https://www.motormedia.co.uk/?product=ice-seal-humor-santiago-chinos">Accessories</a></h3>
+				
+		<p class="product-title"><a href="https://www.motormedia.co.uk/?product=ice-seal-humor-santiago-chinos">Ice Seal Humor Santiago Chinos</a></p>
+		
+		
+	<span class="price"><span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">&pound;</span>356.00</span></span>
+		
+		</div><!--.product_item_inner-->
+	</li>
+</ul>
+                
+                                            
+                            <ul>
+	<li class="product_item">
+		
+		<a href="https://www.motormedia.co.uk/?product=heart-of-the-jolly-opiate" class="woocommerce-LoopProduct-link woocommerce-loop-product__link">
+		<div class="product_item_inner">
+		
+									
+					
+					
+						
+			
+		<div class="image_container">
+			<a href="https://www.motormedia.co.uk/?product=heart-of-the-jolly-opiate">
+
+				<div class="loop_products_thumbnail_img_wrapper front"><img width="300" height="300" src="https://www.motormedia.co.uk/wp-content/uploads/2015/09/retailer-product-1-300x300.jpg" class="attachment-shop_catalog size-shop_catalog wp-post-image" alt="" srcset="https://www.motormedia.co.uk/wp-content/uploads/2015/09/retailer-product-1-300x300.jpg 300w, https://www.motormedia.co.uk/wp-content/uploads/2015/09/retailer-product-1-150x150.jpg 150w, https://www.motormedia.co.uk/wp-content/uploads/2015/09/retailer-product-1-480x480.jpg 480w, https://www.motormedia.co.uk/wp-content/uploads/2015/09/retailer-product-1-140x140.jpg 140w, https://www.motormedia.co.uk/wp-content/uploads/2015/09/retailer-product-1-180x180.jpg 180w" sizes="(max-width: 300px) 100vw, 300px" /></div>
+				
+								
+				<div class="loop_products_additional_img_wrapper back"><img width="300" height="300" src="https://www.motormedia.co.uk/wp-content/uploads/2015/09/retailer-product-2-300x300.jpg" class="attachment-shop_catalog size-shop_catalog" alt="" srcset="https://www.motormedia.co.uk/wp-content/uploads/2015/09/retailer-product-2-300x300.jpg 300w, https://www.motormedia.co.uk/wp-content/uploads/2015/09/retailer-product-2-150x150.jpg 150w, https://www.motormedia.co.uk/wp-content/uploads/2015/09/retailer-product-2-480x480.jpg 480w, https://www.motormedia.co.uk/wp-content/uploads/2015/09/retailer-product-2-140x140.jpg 140w, https://www.motormedia.co.uk/wp-content/uploads/2015/09/retailer-product-2-180x180.jpg 180w" sizes="(max-width: 300px) 100vw, 300px" /></div>				
+								
+			</a>
+		   
+			<div class="clr"></div>
+						<div class="product_button"></a><a rel="nofollow" href="https://www.motormedia.co.uk/?product=heart-of-the-jolly-opiate" data-quantity="1" data-product_id="60" data-product_sku="105124689" class="button product_type_variable add_to_cart_button">Select options</a></div>
+						
+						
+		</div>
+		
+				<!-- Show only the first category-->
+				<h3><a href="https://www.motormedia.co.uk/?product=heart-of-the-jolly-opiate">Accessories</a></h3>
+				
+		<p class="product-title"><a href="https://www.motormedia.co.uk/?product=heart-of-the-jolly-opiate">Heart Of The Jolly Opiate</a></p>
+		
+		
+	<span class="price"><span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">&pound;</span>123.00</span> &ndash; <span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">&pound;</span>178.00</span></span>
+		
+		</div><!--.product_item_inner-->
+	</li>
+</ul>
+                
+                                            
+                            <ul>
+	<li class="product_item">
+		
+		<a href="https://www.motormedia.co.uk/?product=grabber-grey-cardigan-button-up" class="woocommerce-LoopProduct-link woocommerce-loop-product__link">
+		<div class="product_item_inner">
+		
+					
+	<span class="onsale">Sale!</span>
+				
+					
+					
+						
+			
+		<div class="image_container">
+			<a href="https://www.motormedia.co.uk/?product=grabber-grey-cardigan-button-up">
+
+				<div class="loop_products_thumbnail_img_wrapper front"><img width="300" height="300" src="https://www.motormedia.co.uk/wp-content/uploads/2015/09/retailer-product-2-300x300.jpg" class="attachment-shop_catalog size-shop_catalog wp-post-image" alt="" srcset="https://www.motormedia.co.uk/wp-content/uploads/2015/09/retailer-product-2-300x300.jpg 300w, https://www.motormedia.co.uk/wp-content/uploads/2015/09/retailer-product-2-150x150.jpg 150w, https://www.motormedia.co.uk/wp-content/uploads/2015/09/retailer-product-2-480x480.jpg 480w, https://www.motormedia.co.uk/wp-content/uploads/2015/09/retailer-product-2-140x140.jpg 140w, https://www.motormedia.co.uk/wp-content/uploads/2015/09/retailer-product-2-180x180.jpg 180w" sizes="(max-width: 300px) 100vw, 300px" /></div>
+				
+								
+				<div class="loop_products_additional_img_wrapper back"><img width="300" height="300" src="https://www.motormedia.co.uk/wp-content/uploads/2015/09/retailer-product-1-300x300.jpg" class="attachment-shop_catalog size-shop_catalog" alt="" srcset="https://www.motormedia.co.uk/wp-content/uploads/2015/09/retailer-product-1-300x300.jpg 300w, https://www.motormedia.co.uk/wp-content/uploads/2015/09/retailer-product-1-150x150.jpg 150w, https://www.motormedia.co.uk/wp-content/uploads/2015/09/retailer-product-1-480x480.jpg 480w, https://www.motormedia.co.uk/wp-content/uploads/2015/09/retailer-product-1-140x140.jpg 140w, https://www.motormedia.co.uk/wp-content/uploads/2015/09/retailer-product-1-180x180.jpg 180w" sizes="(max-width: 300px) 100vw, 300px" /></div>				
+								
+			</a>
+		   
+			<div class="clr"></div>
+						<div class="product_button"></a><a rel="nofollow" href="https://www.motormedia.co.uk/?product=grabber-grey-cardigan-button-up" data-quantity="1" data-product_id="59" data-product_sku="105124689" class="button product_type_grouped">View products</a></div>
+						
+						
+		</div>
+		
+				<!-- Show only the first category-->
+				<h3><a href="https://www.motormedia.co.uk/?product=grabber-grey-cardigan-button-up">Accessories</a></h3>
+				
+		<p class="product-title"><a href="https://www.motormedia.co.uk/?product=grabber-grey-cardigan-button-up">Grabber Grey Cardigan Button Up</a></p>
+		
+		
+	<span class="price"><span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">&pound;</span>120.00</span>&ndash;<span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">&pound;</span>1,322.00</span></span>
+		
+		</div><!--.product_item_inner-->
+	</li>
+</ul>
+                
+                                            
+                            <ul>
+	<li class="product_item">
+		
+		<a href="https://www.motormedia.co.uk/?product=get-bowtied-limited-edition-poster" class="woocommerce-LoopProduct-link woocommerce-loop-product__link">
+		<div class="product_item_inner">
+		
+									
+					
+					
+						
+			
+		<div class="image_container">
+			<a href="https://www.motormedia.co.uk/?product=get-bowtied-limited-edition-poster">
+
+				<div class="loop_products_thumbnail_img_wrapper front"><img width="300" height="300" src="https://www.motormedia.co.uk/wp-content/uploads/2015/09/retailer-product-1-300x300.jpg" class="attachment-shop_catalog size-shop_catalog wp-post-image" alt="" srcset="https://www.motormedia.co.uk/wp-content/uploads/2015/09/retailer-product-1-300x300.jpg 300w, https://www.motormedia.co.uk/wp-content/uploads/2015/09/retailer-product-1-150x150.jpg 150w, https://www.motormedia.co.uk/wp-content/uploads/2015/09/retailer-product-1-480x480.jpg 480w, https://www.motormedia.co.uk/wp-content/uploads/2015/09/retailer-product-1-140x140.jpg 140w, https://www.motormedia.co.uk/wp-content/uploads/2015/09/retailer-product-1-180x180.jpg 180w" sizes="(max-width: 300px) 100vw, 300px" /></div>
+				
+								
+				<div class="loop_products_additional_img_wrapper back"><img width="300" height="300" src="https://www.motormedia.co.uk/wp-content/uploads/2015/09/retailer-product-2-300x300.jpg" class="attachment-shop_catalog size-shop_catalog" alt="" srcset="https://www.motormedia.co.uk/wp-content/uploads/2015/09/retailer-product-2-300x300.jpg 300w, https://www.motormedia.co.uk/wp-content/uploads/2015/09/retailer-product-2-150x150.jpg 150w, https://www.motormedia.co.uk/wp-content/uploads/2015/09/retailer-product-2-480x480.jpg 480w, https://www.motormedia.co.uk/wp-content/uploads/2015/09/retailer-product-2-140x140.jpg 140w, https://www.motormedia.co.uk/wp-content/uploads/2015/09/retailer-product-2-180x180.jpg 180w" sizes="(max-width: 300px) 100vw, 300px" /></div>				
+								
+			</a>
+		   
+			<div class="clr"></div>
+						<div class="product_button"></a><a rel="nofollow" href="http://www.amazon.com" data-quantity="1" data-product_id="58" data-product_sku="10512468" class="button product_type_external">Buy on Amazon.com</a></div>
+						
+						
+		</div>
+		
+				<!-- Show only the first category-->
+				<h3><a href="https://www.motormedia.co.uk/?product=get-bowtied-limited-edition-poster">Men's Clothing</a></h3>
+				
+		<p class="product-title"><a href="https://www.motormedia.co.uk/?product=get-bowtied-limited-edition-poster">Get Bowtied: Limited Edition Poster</a></p>
+		
+		
+	<span class="price"><span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">&pound;</span>65.00</span></span>
+		
+		</div><!--.product_item_inner-->
+	</li>
+</ul>
+                
+                                            
+                            <ul>
+	<li class="product_item">
+		
+		<a href="https://www.motormedia.co.uk/?product=floral-sating-top-and-brown-pants" class="woocommerce-LoopProduct-link woocommerce-loop-product__link">
+		<div class="product_item_inner">
+		
+									
+					
+					
+						
+			
+		<div class="image_container">
+			<a href="https://www.motormedia.co.uk/?product=floral-sating-top-and-brown-pants">
+
+				<div class="loop_products_thumbnail_img_wrapper front"><img width="300" height="300" src="https://www.motormedia.co.uk/wp-content/uploads/2015/09/retailer-product-1-300x300.jpg" class="attachment-shop_catalog size-shop_catalog wp-post-image" alt="" srcset="https://www.motormedia.co.uk/wp-content/uploads/2015/09/retailer-product-1-300x300.jpg 300w, https://www.motormedia.co.uk/wp-content/uploads/2015/09/retailer-product-1-150x150.jpg 150w, https://www.motormedia.co.uk/wp-content/uploads/2015/09/retailer-product-1-480x480.jpg 480w, https://www.motormedia.co.uk/wp-content/uploads/2015/09/retailer-product-1-140x140.jpg 140w, https://www.motormedia.co.uk/wp-content/uploads/2015/09/retailer-product-1-180x180.jpg 180w" sizes="(max-width: 300px) 100vw, 300px" /></div>
+				
+								
+				<div class="loop_products_additional_img_wrapper back"><img width="300" height="300" src="https://www.motormedia.co.uk/wp-content/uploads/2015/09/retailer-product-2-300x300.jpg" class="attachment-shop_catalog size-shop_catalog" alt="" srcset="https://www.motormedia.co.uk/wp-content/uploads/2015/09/retailer-product-2-300x300.jpg 300w, https://www.motormedia.co.uk/wp-content/uploads/2015/09/retailer-product-2-150x150.jpg 150w, https://www.motormedia.co.uk/wp-content/uploads/2015/09/retailer-product-2-480x480.jpg 480w, https://www.motormedia.co.uk/wp-content/uploads/2015/09/retailer-product-2-140x140.jpg 140w, https://www.motormedia.co.uk/wp-content/uploads/2015/09/retailer-product-2-180x180.jpg 180w" sizes="(max-width: 300px) 100vw, 300px" /></div>				
+								
+			</a>
+		   
+			<div class="clr"></div>
+						<div class="product_button"></a><a rel="nofollow" href="/?add-to-cart=57" data-quantity="1" data-product_id="57" data-product_sku="1051246" class="button product_type_simple add_to_cart_button ajax_add_to_cart">Add to basket</a></div>
+						
+						
+		</div>
+		
+				<!-- Show only the first category-->
+				<h3><a href="https://www.motormedia.co.uk/?product=floral-sating-top-and-brown-pants">Hoodies</a></h3>
+				
+		<p class="product-title"><a href="https://www.motormedia.co.uk/?product=floral-sating-top-and-brown-pants">Floral Sating Top and Brown Pants</a></p>
+		
+		
+	<span class="price"><span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">&pound;</span>1,322.00</span></span>
+		
+		</div><!--.product_item_inner-->
+	</li>
+</ul>
+                
+                                            
+                            <ul>
+	<li class="product_item">
+		
+		<a href="https://www.motormedia.co.uk/?product=devious-scorpion-textured-drape-jacket" class="woocommerce-LoopProduct-link woocommerce-loop-product__link">
+		<div class="product_item_inner">
+		
+									
+					
+					
+						
+			
+		<div class="image_container">
+			<a href="https://www.motormedia.co.uk/?product=devious-scorpion-textured-drape-jacket">
+
+				<div class="loop_products_thumbnail_img_wrapper front"><img width="300" height="300" src="https://www.motormedia.co.uk/wp-content/uploads/2015/09/retailer-product-2-300x300.jpg" class="attachment-shop_catalog size-shop_catalog wp-post-image" alt="" srcset="https://www.motormedia.co.uk/wp-content/uploads/2015/09/retailer-product-2-300x300.jpg 300w, https://www.motormedia.co.uk/wp-content/uploads/2015/09/retailer-product-2-150x150.jpg 150w, https://www.motormedia.co.uk/wp-content/uploads/2015/09/retailer-product-2-480x480.jpg 480w, https://www.motormedia.co.uk/wp-content/uploads/2015/09/retailer-product-2-140x140.jpg 140w, https://www.motormedia.co.uk/wp-content/uploads/2015/09/retailer-product-2-180x180.jpg 180w" sizes="(max-width: 300px) 100vw, 300px" /></div>
+				
+								
+				<div class="loop_products_additional_img_wrapper back"><img width="300" height="300" src="https://www.motormedia.co.uk/wp-content/uploads/2015/09/retailer-product-1-300x300.jpg" class="attachment-shop_catalog size-shop_catalog" alt="" srcset="https://www.motormedia.co.uk/wp-content/uploads/2015/09/retailer-product-1-300x300.jpg 300w, https://www.motormedia.co.uk/wp-content/uploads/2015/09/retailer-product-1-150x150.jpg 150w, https://www.motormedia.co.uk/wp-content/uploads/2015/09/retailer-product-1-480x480.jpg 480w, https://www.motormedia.co.uk/wp-content/uploads/2015/09/retailer-product-1-140x140.jpg 140w, https://www.motormedia.co.uk/wp-content/uploads/2015/09/retailer-product-1-180x180.jpg 180w" sizes="(max-width: 300px) 100vw, 300px" /></div>				
+								
+			</a>
+		   
+			<div class="clr"></div>
+						<div class="product_button"></a><a rel="nofollow" href="/?add-to-cart=56" data-quantity="1" data-product_id="56" data-product_sku="1051246" class="button product_type_simple add_to_cart_button ajax_add_to_cart">Add to basket</a></div>
+						
+						
+		</div>
+		
+				<!-- Show only the first category-->
+				<h3><a href="https://www.motormedia.co.uk/?product=devious-scorpion-textured-drape-jacket">Accessories</a></h3>
+				
+		<p class="product-title"><a href="https://www.motormedia.co.uk/?product=devious-scorpion-textured-drape-jacket">Devious Scorpion Textured Drape Jacket</a></p>
+		
+		
+	<span class="price"><span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">&pound;</span>1,322.00</span></span>
+		
+		</div><!--.product_item_inner-->
+	</li>
+</ul>
+                
+                                            
+                            <ul>
+	<li class="product_item">
+		
+		<a href="https://www.motormedia.co.uk/?product=democratic-league-dark-blue-shirt" class="woocommerce-LoopProduct-link woocommerce-loop-product__link">
+		<div class="product_item_inner">
+		
+									
+					
+					
+						
+			
+		<div class="image_container">
+			<a href="https://www.motormedia.co.uk/?product=democratic-league-dark-blue-shirt">
+
+				<div class="loop_products_thumbnail_img_wrapper front"><img width="300" height="300" src="https://www.motormedia.co.uk/wp-content/uploads/2015/09/retailer-product-1-300x300.jpg" class="attachment-shop_catalog size-shop_catalog wp-post-image" alt="" srcset="https://www.motormedia.co.uk/wp-content/uploads/2015/09/retailer-product-1-300x300.jpg 300w, https://www.motormedia.co.uk/wp-content/uploads/2015/09/retailer-product-1-150x150.jpg 150w, https://www.motormedia.co.uk/wp-content/uploads/2015/09/retailer-product-1-480x480.jpg 480w, https://www.motormedia.co.uk/wp-content/uploads/2015/09/retailer-product-1-140x140.jpg 140w, https://www.motormedia.co.uk/wp-content/uploads/2015/09/retailer-product-1-180x180.jpg 180w" sizes="(max-width: 300px) 100vw, 300px" /></div>
+				
+								
+				<div class="loop_products_additional_img_wrapper back"><img width="300" height="300" src="https://www.motormedia.co.uk/wp-content/uploads/2015/09/retailer-product-2-300x300.jpg" class="attachment-shop_catalog size-shop_catalog" alt="" srcset="https://www.motormedia.co.uk/wp-content/uploads/2015/09/retailer-product-2-300x300.jpg 300w, https://www.motormedia.co.uk/wp-content/uploads/2015/09/retailer-product-2-150x150.jpg 150w, https://www.motormedia.co.uk/wp-content/uploads/2015/09/retailer-product-2-480x480.jpg 480w, https://www.motormedia.co.uk/wp-content/uploads/2015/09/retailer-product-2-140x140.jpg 140w, https://www.motormedia.co.uk/wp-content/uploads/2015/09/retailer-product-2-180x180.jpg 180w" sizes="(max-width: 300px) 100vw, 300px" /></div>				
+								
+			</a>
+		   
+			<div class="clr"></div>
+						<div class="product_button"></a><a rel="nofollow" href="/?add-to-cart=55" data-quantity="1" data-product_id="55" data-product_sku="105124" class="button product_type_simple add_to_cart_button ajax_add_to_cart">Add to basket</a></div>
+						
+						
+		</div>
+		
+				<!-- Show only the first category-->
+				<h3><a href="https://www.motormedia.co.uk/?product=democratic-league-dark-blue-shirt">Accessories</a></h3>
+				
+		<p class="product-title"><a href="https://www.motormedia.co.uk/?product=democratic-league-dark-blue-shirt">Democratic League Dark Blue Shirt</a></p>
+		
+		
+	<span class="price"><span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">&pound;</span>45.00</span></span>
+		
+		</div><!--.product_item_inner-->
+	</li>
+</ul>
+                
+                                                
+                                	</div><!--.slider-->
+		</div><!--.slider-wrapper-->
+    
+    </div>
+    
+    
+	</div></div></div></div></div><div class="boxed-row"><div class="vc_row wpb_row vc_row-fluid vc_custom_1401702723091"><div class="wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner "><div class="wpb_wrapper">    
+        
+	<script>
+	jQuery(document).ready(function($) {
+		
+		var latest_products_slider = $("#latest-products-299221261");
+		
+		if ( $(".gbtr_items_slider_id_299221261").parents('.wpb_column').hasClass('vc_span6') ) {
+			
+			latest_products_slider.owlCarousel({
+				items:2,
+				itemsDesktop : false,
+				itemsDesktopSmall :false,
+				itemsTablet: false,
+				itemsMobile : false,
+				lazyLoad : true,
+				/*autoHeight : true,*/
+		
+			});
+			
+		} else {
+		
+			latest_products_slider.owlCarousel({
+				items:4,
+				itemsDesktop : false,
+				itemsDesktopSmall :false,
+				itemsTablet: [770,3],
+				itemsMobile : [480,2],
+				lazyLoad : true,
+				/*autoHeight : true,*/
+			});
+		}
+		
+		$('.gbtr_items_slider_id_299221261').on('click','.big_arrow_left',function(){ 
+			latest_products_slider.trigger('owl.prev');
+		})
+		$('.gbtr_items_slider_id_299221261').on('click','.big_arrow_right',function(){ 
+			latest_products_slider.trigger('owl.next');
+		})
+		
+	});
+	</script>
+    
+    <div class="slider-master-wrapper latest-products-wrapper gbtr_items_slider_id_299221261 ">
+    
+        <div class="gbtr_items_sliders_header">
+            <div class="gbtr_items_sliders_title">
+                <div class="gbtr_featured_section_title"><strong>Recent Products</strong></div>
+            </div>
+            <div class="gbtr_items_sliders_nav">                        
+                <a class='big_arrow_right'></a>
+                <a class='big_arrow_left'></a>
+                <div class='clr'></div>
+            </div>
+        </div>
+    
+        <div class="gbtr_bold_sep"></div>   
+    
+        <div class="slider-wrapper">
+			<div class="slider" id="latest-products-299221261">
+                                                    
+                                            
+                            <ul>
+	<li class="product_item">
+		
+		<a href="https://www.motormedia.co.uk/?product=blue-dress-of-the-ambush" class="woocommerce-LoopProduct-link woocommerce-loop-product__link">
+		<div class="product_item_inner">
+		
+									
+					
+					
+						
+			
+		<div class="image_container">
+			<a href="https://www.motormedia.co.uk/?product=blue-dress-of-the-ambush">
+
+				<div class="loop_products_thumbnail_img_wrapper front"><img width="300" height="300" src="https://www.motormedia.co.uk/wp-content/uploads/2015/09/retailer-product-1-300x300.jpg" class="attachment-shop_catalog size-shop_catalog wp-post-image" alt="" srcset="https://www.motormedia.co.uk/wp-content/uploads/2015/09/retailer-product-1-300x300.jpg 300w, https://www.motormedia.co.uk/wp-content/uploads/2015/09/retailer-product-1-150x150.jpg 150w, https://www.motormedia.co.uk/wp-content/uploads/2015/09/retailer-product-1-480x480.jpg 480w, https://www.motormedia.co.uk/wp-content/uploads/2015/09/retailer-product-1-140x140.jpg 140w, https://www.motormedia.co.uk/wp-content/uploads/2015/09/retailer-product-1-180x180.jpg 180w" sizes="(max-width: 300px) 100vw, 300px" /></div>
+				
+								
+				<div class="loop_products_additional_img_wrapper back"><img width="300" height="300" src="https://www.motormedia.co.uk/wp-content/uploads/2015/09/retailer-product-1-300x300.jpg" class="attachment-shop_catalog size-shop_catalog" alt="" srcset="https://www.motormedia.co.uk/wp-content/uploads/2015/09/retailer-product-1-300x300.jpg 300w, https://www.motormedia.co.uk/wp-content/uploads/2015/09/retailer-product-1-150x150.jpg 150w, https://www.motormedia.co.uk/wp-content/uploads/2015/09/retailer-product-1-480x480.jpg 480w, https://www.motormedia.co.uk/wp-content/uploads/2015/09/retailer-product-1-140x140.jpg 140w, https://www.motormedia.co.uk/wp-content/uploads/2015/09/retailer-product-1-180x180.jpg 180w" sizes="(max-width: 300px) 100vw, 300px" /></div>				
+								
+			</a>
+		   
+			<div class="clr"></div>
+						<div class="product_button"></a><a rel="nofollow" href="/?add-to-cart=52" data-quantity="1" data-product_id="52" data-product_sku="" class="button product_type_simple add_to_cart_button ajax_add_to_cart">Add to basket</a></div>
+						
+						
+		</div>
+		
+				<!-- Show only the first category-->
+				<h3><a href="https://www.motormedia.co.uk/?product=blue-dress-of-the-ambush">Accessories</a></h3>
+				
+		<p class="product-title"><a href="https://www.motormedia.co.uk/?product=blue-dress-of-the-ambush">Blue Dress Of The Ambush</a></p>
+		
+		<div class="star-rating"><span style="width:100%">Rated <strong class="rating">5.00</strong> out of 5</span></div>
+	<span class="price"><span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">&pound;</span>195.00</span></span>
+		
+		</div><!--.product_item_inner-->
+	</li>
+</ul>
+                
+                                            
+                            <ul>
+	<li class="product_item">
+		
+		<a href="https://www.motormedia.co.uk/?product=ice-seal-humor-santiago-chinos" class="woocommerce-LoopProduct-link woocommerce-loop-product__link">
+		<div class="product_item_inner">
+		
+									
+					
+					
+						
+			
+		<div class="image_container">
+			<a href="https://www.motormedia.co.uk/?product=ice-seal-humor-santiago-chinos">
+
+				<div class="loop_products_thumbnail_img_wrapper front"><img width="300" height="300" src="https://www.motormedia.co.uk/wp-content/uploads/2015/09/retailer-product-2-300x300.jpg" class="attachment-shop_catalog size-shop_catalog wp-post-image" alt="" srcset="https://www.motormedia.co.uk/wp-content/uploads/2015/09/retailer-product-2-300x300.jpg 300w, https://www.motormedia.co.uk/wp-content/uploads/2015/09/retailer-product-2-150x150.jpg 150w, https://www.motormedia.co.uk/wp-content/uploads/2015/09/retailer-product-2-480x480.jpg 480w, https://www.motormedia.co.uk/wp-content/uploads/2015/09/retailer-product-2-140x140.jpg 140w, https://www.motormedia.co.uk/wp-content/uploads/2015/09/retailer-product-2-180x180.jpg 180w" sizes="(max-width: 300px) 100vw, 300px" /></div>
+				
+								
+				<div class="loop_products_additional_img_wrapper back"><img width="300" height="300" src="https://www.motormedia.co.uk/wp-content/uploads/2015/09/retailer-product-1-300x300.jpg" class="attachment-shop_catalog size-shop_catalog" alt="" srcset="https://www.motormedia.co.uk/wp-content/uploads/2015/09/retailer-product-1-300x300.jpg 300w, https://www.motormedia.co.uk/wp-content/uploads/2015/09/retailer-product-1-150x150.jpg 150w, https://www.motormedia.co.uk/wp-content/uploads/2015/09/retailer-product-1-480x480.jpg 480w, https://www.motormedia.co.uk/wp-content/uploads/2015/09/retailer-product-1-140x140.jpg 140w, https://www.motormedia.co.uk/wp-content/uploads/2015/09/retailer-product-1-180x180.jpg 180w" sizes="(max-width: 300px) 100vw, 300px" /></div>				
+								
+			</a>
+		   
+			<div class="clr"></div>
+						<div class="product_button"></a><a rel="nofollow" href="/?add-to-cart=61" data-quantity="1" data-product_id="61" data-product_sku="1051246890" class="button product_type_simple add_to_cart_button ajax_add_to_cart">Add to basket</a></div>
+						
+						
+		</div>
+		
+				<!-- Show only the first category-->
+				<h3><a href="https://www.motormedia.co.uk/?product=ice-seal-humor-santiago-chinos">Accessories</a></h3>
+				
+		<p class="product-title"><a href="https://www.motormedia.co.uk/?product=ice-seal-humor-santiago-chinos">Ice Seal Humor Santiago Chinos</a></p>
+		
+		
+	<span class="price"><span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">&pound;</span>356.00</span></span>
+		
+		</div><!--.product_item_inner-->
+	</li>
+</ul>
+                
+                                            
+                            <ul>
+	<li class="product_item">
+		
+		<a href="https://www.motormedia.co.uk/?product=heart-of-the-jolly-opiate" class="woocommerce-LoopProduct-link woocommerce-loop-product__link">
+		<div class="product_item_inner">
+		
+									
+					
+					
+						
+			
+		<div class="image_container">
+			<a href="https://www.motormedia.co.uk/?product=heart-of-the-jolly-opiate">
+
+				<div class="loop_products_thumbnail_img_wrapper front"><img width="300" height="300" src="https://www.motormedia.co.uk/wp-content/uploads/2015/09/retailer-product-1-300x300.jpg" class="attachment-shop_catalog size-shop_catalog wp-post-image" alt="" srcset="https://www.motormedia.co.uk/wp-content/uploads/2015/09/retailer-product-1-300x300.jpg 300w, https://www.motormedia.co.uk/wp-content/uploads/2015/09/retailer-product-1-150x150.jpg 150w, https://www.motormedia.co.uk/wp-content/uploads/2015/09/retailer-product-1-480x480.jpg 480w, https://www.motormedia.co.uk/wp-content/uploads/2015/09/retailer-product-1-140x140.jpg 140w, https://www.motormedia.co.uk/wp-content/uploads/2015/09/retailer-product-1-180x180.jpg 180w" sizes="(max-width: 300px) 100vw, 300px" /></div>
+				
+								
+				<div class="loop_products_additional_img_wrapper back"><img width="300" height="300" src="https://www.motormedia.co.uk/wp-content/uploads/2015/09/retailer-product-2-300x300.jpg" class="attachment-shop_catalog size-shop_catalog" alt="" srcset="https://www.motormedia.co.uk/wp-content/uploads/2015/09/retailer-product-2-300x300.jpg 300w, https://www.motormedia.co.uk/wp-content/uploads/2015/09/retailer-product-2-150x150.jpg 150w, https://www.motormedia.co.uk/wp-content/uploads/2015/09/retailer-product-2-480x480.jpg 480w, https://www.motormedia.co.uk/wp-content/uploads/2015/09/retailer-product-2-140x140.jpg 140w, https://www.motormedia.co.uk/wp-content/uploads/2015/09/retailer-product-2-180x180.jpg 180w" sizes="(max-width: 300px) 100vw, 300px" /></div>				
+								
+			</a>
+		   
+			<div class="clr"></div>
+						<div class="product_button"></a><a rel="nofollow" href="https://www.motormedia.co.uk/?product=heart-of-the-jolly-opiate" data-quantity="1" data-product_id="60" data-product_sku="105124689" class="button product_type_variable add_to_cart_button">Select options</a></div>
+						
+						
+		</div>
+		
+				<!-- Show only the first category-->
+				<h3><a href="https://www.motormedia.co.uk/?product=heart-of-the-jolly-opiate">Accessories</a></h3>
+				
+		<p class="product-title"><a href="https://www.motormedia.co.uk/?product=heart-of-the-jolly-opiate">Heart Of The Jolly Opiate</a></p>
+		
+		
+	<span class="price"><span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">&pound;</span>123.00</span> &ndash; <span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">&pound;</span>178.00</span></span>
+		
+		</div><!--.product_item_inner-->
+	</li>
+</ul>
+                
+                                            
+                            <ul>
+	<li class="product_item">
+		
+		<a href="https://www.motormedia.co.uk/?product=grabber-grey-cardigan-button-up" class="woocommerce-LoopProduct-link woocommerce-loop-product__link">
+		<div class="product_item_inner">
+		
+					
+	<span class="onsale">Sale!</span>
+				
+					
+					
+						
+			
+		<div class="image_container">
+			<a href="https://www.motormedia.co.uk/?product=grabber-grey-cardigan-button-up">
+
+				<div class="loop_products_thumbnail_img_wrapper front"><img width="300" height="300" src="https://www.motormedia.co.uk/wp-content/uploads/2015/09/retailer-product-2-300x300.jpg" class="attachment-shop_catalog size-shop_catalog wp-post-image" alt="" srcset="https://www.motormedia.co.uk/wp-content/uploads/2015/09/retailer-product-2-300x300.jpg 300w, https://www.motormedia.co.uk/wp-content/uploads/2015/09/retailer-product-2-150x150.jpg 150w, https://www.motormedia.co.uk/wp-content/uploads/2015/09/retailer-product-2-480x480.jpg 480w, https://www.motormedia.co.uk/wp-content/uploads/2015/09/retailer-product-2-140x140.jpg 140w, https://www.motormedia.co.uk/wp-content/uploads/2015/09/retailer-product-2-180x180.jpg 180w" sizes="(max-width: 300px) 100vw, 300px" /></div>
+				
+								
+				<div class="loop_products_additional_img_wrapper back"><img width="300" height="300" src="https://www.motormedia.co.uk/wp-content/uploads/2015/09/retailer-product-1-300x300.jpg" class="attachment-shop_catalog size-shop_catalog" alt="" srcset="https://www.motormedia.co.uk/wp-content/uploads/2015/09/retailer-product-1-300x300.jpg 300w, https://www.motormedia.co.uk/wp-content/uploads/2015/09/retailer-product-1-150x150.jpg 150w, https://www.motormedia.co.uk/wp-content/uploads/2015/09/retailer-product-1-480x480.jpg 480w, https://www.motormedia.co.uk/wp-content/uploads/2015/09/retailer-product-1-140x140.jpg 140w, https://www.motormedia.co.uk/wp-content/uploads/2015/09/retailer-product-1-180x180.jpg 180w" sizes="(max-width: 300px) 100vw, 300px" /></div>				
+								
+			</a>
+		   
+			<div class="clr"></div>
+						<div class="product_button"></a><a rel="nofollow" href="https://www.motormedia.co.uk/?product=grabber-grey-cardigan-button-up" data-quantity="1" data-product_id="59" data-product_sku="105124689" class="button product_type_grouped">View products</a></div>
+						
+						
+		</div>
+		
+				<!-- Show only the first category-->
+				<h3><a href="https://www.motormedia.co.uk/?product=grabber-grey-cardigan-button-up">Accessories</a></h3>
+				
+		<p class="product-title"><a href="https://www.motormedia.co.uk/?product=grabber-grey-cardigan-button-up">Grabber Grey Cardigan Button Up</a></p>
+		
+		
+	<span class="price"><span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">&pound;</span>120.00</span>&ndash;<span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">&pound;</span>1,322.00</span></span>
+		
+		</div><!--.product_item_inner-->
+	</li>
+</ul>
+                
+                                            
+                            <ul>
+	<li class="product_item">
+		
+		<a href="https://www.motormedia.co.uk/?product=get-bowtied-limited-edition-poster" class="woocommerce-LoopProduct-link woocommerce-loop-product__link">
+		<div class="product_item_inner">
+		
+									
+					
+					
+						
+			
+		<div class="image_container">
+			<a href="https://www.motormedia.co.uk/?product=get-bowtied-limited-edition-poster">
+
+				<div class="loop_products_thumbnail_img_wrapper front"><img width="300" height="300" src="https://www.motormedia.co.uk/wp-content/uploads/2015/09/retailer-product-1-300x300.jpg" class="attachment-shop_catalog size-shop_catalog wp-post-image" alt="" srcset="https://www.motormedia.co.uk/wp-content/uploads/2015/09/retailer-product-1-300x300.jpg 300w, https://www.motormedia.co.uk/wp-content/uploads/2015/09/retailer-product-1-150x150.jpg 150w, https://www.motormedia.co.uk/wp-content/uploads/2015/09/retailer-product-1-480x480.jpg 480w, https://www.motormedia.co.uk/wp-content/uploads/2015/09/retailer-product-1-140x140.jpg 140w, https://www.motormedia.co.uk/wp-content/uploads/2015/09/retailer-product-1-180x180.jpg 180w" sizes="(max-width: 300px) 100vw, 300px" /></div>
+				
+								
+				<div class="loop_products_additional_img_wrapper back"><img width="300" height="300" src="https://www.motormedia.co.uk/wp-content/uploads/2015/09/retailer-product-2-300x300.jpg" class="attachment-shop_catalog size-shop_catalog" alt="" srcset="https://www.motormedia.co.uk/wp-content/uploads/2015/09/retailer-product-2-300x300.jpg 300w, https://www.motormedia.co.uk/wp-content/uploads/2015/09/retailer-product-2-150x150.jpg 150w, https://www.motormedia.co.uk/wp-content/uploads/2015/09/retailer-product-2-480x480.jpg 480w, https://www.motormedia.co.uk/wp-content/uploads/2015/09/retailer-product-2-140x140.jpg 140w, https://www.motormedia.co.uk/wp-content/uploads/2015/09/retailer-product-2-180x180.jpg 180w" sizes="(max-width: 300px) 100vw, 300px" /></div>				
+								
+			</a>
+		   
+			<div class="clr"></div>
+						<div class="product_button"></a><a rel="nofollow" href="http://www.amazon.com" data-quantity="1" data-product_id="58" data-product_sku="10512468" class="button product_type_external">Buy on Amazon.com</a></div>
+						
+						
+		</div>
+		
+				<!-- Show only the first category-->
+				<h3><a href="https://www.motormedia.co.uk/?product=get-bowtied-limited-edition-poster">Men's Clothing</a></h3>
+				
+		<p class="product-title"><a href="https://www.motormedia.co.uk/?product=get-bowtied-limited-edition-poster">Get Bowtied: Limited Edition Poster</a></p>
+		
+		
+	<span class="price"><span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">&pound;</span>65.00</span></span>
+		
+		</div><!--.product_item_inner-->
+	</li>
+</ul>
+                
+                                            
+                            <ul>
+	<li class="product_item">
+		
+		<a href="https://www.motormedia.co.uk/?product=floral-sating-top-and-brown-pants" class="woocommerce-LoopProduct-link woocommerce-loop-product__link">
+		<div class="product_item_inner">
+		
+									
+					
+					
+						
+			
+		<div class="image_container">
+			<a href="https://www.motormedia.co.uk/?product=floral-sating-top-and-brown-pants">
+
+				<div class="loop_products_thumbnail_img_wrapper front"><img width="300" height="300" src="https://www.motormedia.co.uk/wp-content/uploads/2015/09/retailer-product-1-300x300.jpg" class="attachment-shop_catalog size-shop_catalog wp-post-image" alt="" srcset="https://www.motormedia.co.uk/wp-content/uploads/2015/09/retailer-product-1-300x300.jpg 300w, https://www.motormedia.co.uk/wp-content/uploads/2015/09/retailer-product-1-150x150.jpg 150w, https://www.motormedia.co.uk/wp-content/uploads/2015/09/retailer-product-1-480x480.jpg 480w, https://www.motormedia.co.uk/wp-content/uploads/2015/09/retailer-product-1-140x140.jpg 140w, https://www.motormedia.co.uk/wp-content/uploads/2015/09/retailer-product-1-180x180.jpg 180w" sizes="(max-width: 300px) 100vw, 300px" /></div>
+				
+								
+				<div class="loop_products_additional_img_wrapper back"><img width="300" height="300" src="https://www.motormedia.co.uk/wp-content/uploads/2015/09/retailer-product-2-300x300.jpg" class="attachment-shop_catalog size-shop_catalog" alt="" srcset="https://www.motormedia.co.uk/wp-content/uploads/2015/09/retailer-product-2-300x300.jpg 300w, https://www.motormedia.co.uk/wp-content/uploads/2015/09/retailer-product-2-150x150.jpg 150w, https://www.motormedia.co.uk/wp-content/uploads/2015/09/retailer-product-2-480x480.jpg 480w, https://www.motormedia.co.uk/wp-content/uploads/2015/09/retailer-product-2-140x140.jpg 140w, https://www.motormedia.co.uk/wp-content/uploads/2015/09/retailer-product-2-180x180.jpg 180w" sizes="(max-width: 300px) 100vw, 300px" /></div>				
+								
+			</a>
+		   
+			<div class="clr"></div>
+						<div class="product_button"></a><a rel="nofollow" href="/?add-to-cart=57" data-quantity="1" data-product_id="57" data-product_sku="1051246" class="button product_type_simple add_to_cart_button ajax_add_to_cart">Add to basket</a></div>
+						
+						
+		</div>
+		
+				<!-- Show only the first category-->
+				<h3><a href="https://www.motormedia.co.uk/?product=floral-sating-top-and-brown-pants">Hoodies</a></h3>
+				
+		<p class="product-title"><a href="https://www.motormedia.co.uk/?product=floral-sating-top-and-brown-pants">Floral Sating Top and Brown Pants</a></p>
+		
+		
+	<span class="price"><span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">&pound;</span>1,322.00</span></span>
+		
+		</div><!--.product_item_inner-->
+	</li>
+</ul>
+                
+                                            
+                            <ul>
+	<li class="product_item">
+		
+		<a href="https://www.motormedia.co.uk/?product=devious-scorpion-textured-drape-jacket" class="woocommerce-LoopProduct-link woocommerce-loop-product__link">
+		<div class="product_item_inner">
+		
+									
+					
+					
+						
+			
+		<div class="image_container">
+			<a href="https://www.motormedia.co.uk/?product=devious-scorpion-textured-drape-jacket">
+
+				<div class="loop_products_thumbnail_img_wrapper front"><img width="300" height="300" src="https://www.motormedia.co.uk/wp-content/uploads/2015/09/retailer-product-2-300x300.jpg" class="attachment-shop_catalog size-shop_catalog wp-post-image" alt="" srcset="https://www.motormedia.co.uk/wp-content/uploads/2015/09/retailer-product-2-300x300.jpg 300w, https://www.motormedia.co.uk/wp-content/uploads/2015/09/retailer-product-2-150x150.jpg 150w, https://www.motormedia.co.uk/wp-content/uploads/2015/09/retailer-product-2-480x480.jpg 480w, https://www.motormedia.co.uk/wp-content/uploads/2015/09/retailer-product-2-140x140.jpg 140w, https://www.motormedia.co.uk/wp-content/uploads/2015/09/retailer-product-2-180x180.jpg 180w" sizes="(max-width: 300px) 100vw, 300px" /></div>
+				
+								
+				<div class="loop_products_additional_img_wrapper back"><img width="300" height="300" src="https://www.motormedia.co.uk/wp-content/uploads/2015/09/retailer-product-1-300x300.jpg" class="attachment-shop_catalog size-shop_catalog" alt="" srcset="https://www.motormedia.co.uk/wp-content/uploads/2015/09/retailer-product-1-300x300.jpg 300w, https://www.motormedia.co.uk/wp-content/uploads/2015/09/retailer-product-1-150x150.jpg 150w, https://www.motormedia.co.uk/wp-content/uploads/2015/09/retailer-product-1-480x480.jpg 480w, https://www.motormedia.co.uk/wp-content/uploads/2015/09/retailer-product-1-140x140.jpg 140w, https://www.motormedia.co.uk/wp-content/uploads/2015/09/retailer-product-1-180x180.jpg 180w" sizes="(max-width: 300px) 100vw, 300px" /></div>				
+								
+			</a>
+		   
+			<div class="clr"></div>
+						<div class="product_button"></a><a rel="nofollow" href="/?add-to-cart=56" data-quantity="1" data-product_id="56" data-product_sku="1051246" class="button product_type_simple add_to_cart_button ajax_add_to_cart">Add to basket</a></div>
+						
+						
+		</div>
+		
+				<!-- Show only the first category-->
+				<h3><a href="https://www.motormedia.co.uk/?product=devious-scorpion-textured-drape-jacket">Accessories</a></h3>
+				
+		<p class="product-title"><a href="https://www.motormedia.co.uk/?product=devious-scorpion-textured-drape-jacket">Devious Scorpion Textured Drape Jacket</a></p>
+		
+		
+	<span class="price"><span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">&pound;</span>1,322.00</span></span>
+		
+		</div><!--.product_item_inner-->
+	</li>
+</ul>
+                
+                                            
+                            <ul>
+	<li class="product_item">
+		
+		<a href="https://www.motormedia.co.uk/?product=democratic-league-dark-blue-shirt" class="woocommerce-LoopProduct-link woocommerce-loop-product__link">
+		<div class="product_item_inner">
+		
+									
+					
+					
+						
+			
+		<div class="image_container">
+			<a href="https://www.motormedia.co.uk/?product=democratic-league-dark-blue-shirt">
+
+				<div class="loop_products_thumbnail_img_wrapper front"><img width="300" height="300" src="https://www.motormedia.co.uk/wp-content/uploads/2015/09/retailer-product-1-300x300.jpg" class="attachment-shop_catalog size-shop_catalog wp-post-image" alt="" srcset="https://www.motormedia.co.uk/wp-content/uploads/2015/09/retailer-product-1-300x300.jpg 300w, https://www.motormedia.co.uk/wp-content/uploads/2015/09/retailer-product-1-150x150.jpg 150w, https://www.motormedia.co.uk/wp-content/uploads/2015/09/retailer-product-1-480x480.jpg 480w, https://www.motormedia.co.uk/wp-content/uploads/2015/09/retailer-product-1-140x140.jpg 140w, https://www.motormedia.co.uk/wp-content/uploads/2015/09/retailer-product-1-180x180.jpg 180w" sizes="(max-width: 300px) 100vw, 300px" /></div>
+				
+								
+				<div class="loop_products_additional_img_wrapper back"><img width="300" height="300" src="https://www.motormedia.co.uk/wp-content/uploads/2015/09/retailer-product-2-300x300.jpg" class="attachment-shop_catalog size-shop_catalog" alt="" srcset="https://www.motormedia.co.uk/wp-content/uploads/2015/09/retailer-product-2-300x300.jpg 300w, https://www.motormedia.co.uk/wp-content/uploads/2015/09/retailer-product-2-150x150.jpg 150w, https://www.motormedia.co.uk/wp-content/uploads/2015/09/retailer-product-2-480x480.jpg 480w, https://www.motormedia.co.uk/wp-content/uploads/2015/09/retailer-product-2-140x140.jpg 140w, https://www.motormedia.co.uk/wp-content/uploads/2015/09/retailer-product-2-180x180.jpg 180w" sizes="(max-width: 300px) 100vw, 300px" /></div>				
+								
+			</a>
+		   
+			<div class="clr"></div>
+						<div class="product_button"></a><a rel="nofollow" href="/?add-to-cart=55" data-quantity="1" data-product_id="55" data-product_sku="105124" class="button product_type_simple add_to_cart_button ajax_add_to_cart">Add to basket</a></div>
+						
+						
+		</div>
+		
+				<!-- Show only the first category-->
+				<h3><a href="https://www.motormedia.co.uk/?product=democratic-league-dark-blue-shirt">Accessories</a></h3>
+				
+		<p class="product-title"><a href="https://www.motormedia.co.uk/?product=democratic-league-dark-blue-shirt">Democratic League Dark Blue Shirt</a></p>
+		
+		
+	<span class="price"><span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">&pound;</span>45.00</span></span>
+		
+		</div><!--.product_item_inner-->
+	</li>
+</ul>
+                
+                                                
+                                	</div><!--.slider-->
+		</div><!--.slider-wrapper-->
+    
+    </div>
+    
+    
+	</div></div></div></div></div><div class="boxed-row"><div class="vc_row wpb_row vc_row-fluid vc_custom_1473241702463"><div class="wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner "><div class="wpb_wrapper"> 
+    
+	<script>
+	jQuery(document).ready(function($) {
+		
+		var from_the_blog_slider = $("#from-the-blog-1850194698");
+		
+		from_the_blog_slider.owlCarousel({
+			items:2,
+			itemsDesktop : false,
+			itemsDesktopSmall :false,
+			itemsTablet: false,
+			itemsTabletSmall:false,
+			itemsMobile : [480,1],
+			lazyLoad : true,
+			/*autoHeight : true,*/
+		});
+		
+		$('.gbtr_items_slider_id_1850194698').on('click','.big_arrow_left',function(){ 
+			from_the_blog_slider.trigger('owl.prev');
+		})
+		$('.gbtr_items_slider_id_1850194698').on('click','.big_arrow_right',function(){ 
+			from_the_blog_slider.trigger('owl.next');
+		})
+		
+	});
+	</script>
+    
+    <div class="from-the-blog-section gbtr_items_slider_id_1850194698 ">
+    
+        <div class="gbtr_items_sliders_header">
+            <div class="gbtr_items_sliders_title">
+                <div class="gbtr_featured_section_title"><strong>From The Blog</strong></div>
+            </div>
+            <div class="gbtr_items_sliders_nav">                        
+                <a class='big_arrow_right'></a>
+                <a class='big_arrow_left'></a>
+                <div class='clr'></div>
+            </div>
+        </div>
+    
+        <div class="gbtr_bold_sep"></div>   
+    
+        <div class="slider-wrapper from-the-blog-wrapper">
+			<div class="slider" id="from-the-blog-1850194698">
+					
+					                                
+                                            
+                                                        
+                            <ul>
+                            <li class="from_the_blog_item  ">
+                                
+                                <a class="from_the_blog_img img_zoom_in" href="https://www.motormedia.co.uk/?p=67">
+                                                                        	<img width="480" height="480" src="https://www.motormedia.co.uk/wp-content/uploads/2015/09/retailer-blog-1-480x480.jpg" class="attachment-recent_posts_shortcode size-recent_posts_shortcode wp-post-image" alt="" srcset="https://www.motormedia.co.uk/wp-content/uploads/2015/09/retailer-blog-1-480x480.jpg 480w, https://www.motormedia.co.uk/wp-content/uploads/2015/09/retailer-blog-1-150x150.jpg 150w, https://www.motormedia.co.uk/wp-content/uploads/2015/09/retailer-blog-1-140x140.jpg 140w, https://www.motormedia.co.uk/wp-content/uploads/2015/09/retailer-blog-1-180x180.jpg 180w, https://www.motormedia.co.uk/wp-content/uploads/2015/09/retailer-blog-1-300x300.jpg 300w, https://www.motormedia.co.uk/wp-content/uploads/2015/09/retailer-blog-1-600x600.jpg 600w" sizes="(max-width: 480px) 100vw, 480px" />                                                                        <span class="from_the_blog_date">
+										<span class="from_the_blog_date_day">29</span>
+                                        <span class="from_the_blog_date_month">Sep</span>
+                                    </span>
+                                                                    </a>
+                                
+                                <div class="from_the_blog_content">
+                                
+                                                                        	<a class="from_the_blog_title" href="https://www.motormedia.co.uk/?p=67"><h3>Best Street Style Looks From...</h3></a>
+                                    	
+                                                                
+                                    <div class="from_the_blog_excerpt">
+										Stumptown aesthetic aliquip, vice +1 dolor do skateboard plaid mumblecore. VHS odd...                                    </div>
+
+                                                                        	<div class="from_the_blog_comments">
+											<a href="https://www.motormedia.co.uk/?p=67#respond">Leave a comment</a>                                        </div>
+                                                                    
+                                </div>
+                                
+                            </li>
+                            </ul>
+                
+                                            
+                                                        
+                            <ul>
+                            <li class="from_the_blog_item  ">
+                                
+                                <a class="from_the_blog_img img_zoom_in" href="https://www.motormedia.co.uk/?p=65">
+                                                                        	<img width="480" height="480" src="https://www.motormedia.co.uk/wp-content/uploads/2015/09/retailer-blog-2-480x480.jpg" class="attachment-recent_posts_shortcode size-recent_posts_shortcode wp-post-image" alt="" srcset="https://www.motormedia.co.uk/wp-content/uploads/2015/09/retailer-blog-2-480x480.jpg 480w, https://www.motormedia.co.uk/wp-content/uploads/2015/09/retailer-blog-2-150x150.jpg 150w, https://www.motormedia.co.uk/wp-content/uploads/2015/09/retailer-blog-2-140x140.jpg 140w, https://www.motormedia.co.uk/wp-content/uploads/2015/09/retailer-blog-2-180x180.jpg 180w, https://www.motormedia.co.uk/wp-content/uploads/2015/09/retailer-blog-2-300x300.jpg 300w, https://www.motormedia.co.uk/wp-content/uploads/2015/09/retailer-blog-2-600x600.jpg 600w" sizes="(max-width: 480px) 100vw, 480px" />                                                                        <span class="from_the_blog_date">
+										<span class="from_the_blog_date_day">29</span>
+                                        <span class="from_the_blog_date_month">Sep</span>
+                                    </span>
+                                                                    </a>
+                                
+                                <div class="from_the_blog_content">
+                                
+                                                                        	<a class="from_the_blog_title" href="https://www.motormedia.co.uk/?p=65"><h3>Ways to Step Up Your...</h3></a>
+                                    	
+                                                                
+                                    <div class="from_the_blog_excerpt">
+										Stumptown aesthetic aliquip, vice +1 dolor do skateboard plaid mumblecore. VHS odd...                                    </div>
+
+                                                                        	<div class="from_the_blog_comments">
+											<a href="https://www.motormedia.co.uk/?p=65#respond">Leave a comment</a>                                        </div>
+                                                                    
+                                </div>
+                                
+                            </li>
+                            </ul>
+                
+                                            
+                                                        
+                            <ul>
+                            <li class="from_the_blog_item  ">
+                                
+                                <a class="from_the_blog_img img_zoom_in" href="https://www.motormedia.co.uk/?p=376">
+                                                                        	<img width="480" height="480" src="https://www.motormedia.co.uk/wp-content/uploads/2015/09/retailer-blog-1-480x480.jpg" class="attachment-recent_posts_shortcode size-recent_posts_shortcode wp-post-image" alt="" srcset="https://www.motormedia.co.uk/wp-content/uploads/2015/09/retailer-blog-1-480x480.jpg 480w, https://www.motormedia.co.uk/wp-content/uploads/2015/09/retailer-blog-1-150x150.jpg 150w, https://www.motormedia.co.uk/wp-content/uploads/2015/09/retailer-blog-1-140x140.jpg 140w, https://www.motormedia.co.uk/wp-content/uploads/2015/09/retailer-blog-1-180x180.jpg 180w, https://www.motormedia.co.uk/wp-content/uploads/2015/09/retailer-blog-1-300x300.jpg 300w, https://www.motormedia.co.uk/wp-content/uploads/2015/09/retailer-blog-1-600x600.jpg 600w" sizes="(max-width: 480px) 100vw, 480px" />                                                                        <span class="from_the_blog_date">
+										<span class="from_the_blog_date_day">16</span>
+                                        <span class="from_the_blog_date_month">Sep</span>
+                                    </span>
+                                                                    </a>
+                                
+                                <div class="from_the_blog_content">
+                                
+                                                                        	<a class="from_the_blog_title" href="https://www.motormedia.co.uk/?p=376"><h3>What to Wear to Work...</h3></a>
+                                    	
+                                                                
+                                    <div class="from_the_blog_excerpt">
+										Stumptown aesthetic aliquip, vice +1 dolor do skateboard plaid mumblecore. VHS odd...                                    </div>
+
+                                                                        	<div class="from_the_blog_comments">
+											<a href="https://www.motormedia.co.uk/?p=376#respond">Leave a comment</a>                                        </div>
+                                                                    
+                                </div>
+                                
+                            </li>
+                            </ul>
+                
+                                                
+                                </div><!--.slider-->
+		</div><!--.slider-wrapper-->
+    
+    </div>
+
+	</div></div></div></div></div>
+    
+                </div>
+            </div><!-- .entry-content -->
+        </div>
+
+    
+
+				<div class="trigger-footer-widget-area">
+					<i class="getbowtied-icon-more-retailer"></i>
+				</div>
+
+<div class="gbtr_widgets_footer_wrapper">
+	
+
+	
+
+
+	
+
+</div><!-- .gbtr_widgets_footer_wrapper-->
+
+    
+    <div class="gbtr_footer_wrapper">
+        
+        <div class="container_12">
+            <div class="grid_12 bottom_wrapper">
+                <div class="gbtr_footer_widget_credit_cards">
+                
+					                    
+                    <img src="https://www.motormedia.co.uk/wp-content/themes/theretailer/admin/assets/images/payment_cards.png" alt="" />
+                    
+                                        
+                </div><!-- .gbtr_footer_widget_credit_cards-->
+                
+                					<div class="gbtr_footer_widget_copyrights">                
+                        © <strong>Get Bowtied</strong> - Elite ThemeForest Author					</div>
+				                
+                <div class="clr"></div>
+				
+            </div><!-- .grid_12 bottom_wrapper-->
+        </div>
+        
+    </div><!-- .gbtr_footer_wrapper-->
+    
+    </div><!-- /global_wrapper -->
+    
+    <div id="review_form_wrapper_overlay">
+    	<div id="review_form_wrapper_overlay_close"><i class="fa fa-times"></i></div>
+    </div>
+    
+    <!--
+    <div id="mobile_menu_overlay">
+    <div id="mobile_menu_overlay_inside">
+    	
+                
+        <div id="mobile_menu_overlay_close"><i class="fa fa-times"></i></div>
+    </div>
+    </div>
+    -->
+ 
+	
+	    
+    
+    <!-- ******************************************************************** -->
+    <!-- *********************** Custom Javascript ************************** -->
+    <!-- ******************************************************************** -->
+    
+    		<script type="text/javascript">
+					
+//JavaScript goes here
+
+</script>     
+	
+	
+    <!-- ******************************************************************** -->
+    <!-- ************************ WP Footer() ******************************* -->
+    <!-- ******************************************************************** -->
+	
+<link rel='stylesheet' id='animate-css-css'  href='http://www.motormedia.co.uk/wp-content/plugins/js_composer/assets/lib/bower/animate-css/animate.min.css?ver=5.4.5' type='text/css' media='all' />
+<script type='text/javascript' src='http://www.motormedia.co.uk/wp-content/plugins/woocommerce/assets/js/jquery-blockui/jquery.blockUI.min.js?ver=2.70'></script>
+<script type='text/javascript' src='http://www.motormedia.co.uk/wp-content/plugins/woocommerce/assets/js/js-cookie/js.cookie.min.js?ver=2.1.4'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var woocommerce_params = {"ajax_url":"\/wp-admin\/admin-ajax.php","wc_ajax_url":"https:\/\/www.motormedia.co.uk\/?wc-ajax=%%endpoint%%"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://www.motormedia.co.uk/wp-content/plugins/woocommerce/assets/js/frontend/woocommerce.min.js?ver=3.2.6'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var wc_cart_fragments_params = {"ajax_url":"\/wp-admin\/admin-ajax.php","wc_ajax_url":"https:\/\/www.motormedia.co.uk\/?wc-ajax=%%endpoint%%","fragment_name":"wc_fragments_5c22f6fbec1cef919ac13c2555513af9"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://www.motormedia.co.uk/wp-content/plugins/woocommerce/assets/js/frontend/cart-fragments.min.js?ver=3.2.6'></script>
+<script type='text/javascript' src='https://www.youtube.com/iframe_api'></script>
+<script type='text/javascript' src='https://secure-a.vimeocdn.com/js/froogaloop2.min.js'></script>
+<script type='text/javascript' src='http://www.motormedia.co.uk/wp-includes/js/hoverIntent.min.js?ver=1.8.1'></script>
+<script type='text/javascript' src='http://www.motormedia.co.uk/wp-content/themes/theretailer/js/footable-0.1.js?ver=0.1'></script>
+<script type='text/javascript' src='http://www.motormedia.co.uk/wp-content/themes/theretailer/js/jquery.customSelect.min.js?ver=0.3.0'></script>
+<script type='text/javascript' src='http://www.motormedia.co.uk/wp-content/themes/theretailer/js/owl.carousel.min.js?ver=v1.3.3'></script>
+<script type='text/javascript' src='http://www.motormedia.co.uk/wp-content/plugins/woocommerce/assets/js/select2/select2.full.min.js?ver=4.0.3'></script>
+<script type='text/javascript' src='http://www.motormedia.co.uk/wp-content/themes/theretailer/js/jquery.fitvids.js?ver=1.0.3'></script>
+<script type='text/javascript' src='http://www.motormedia.co.uk/wp-content/themes/theretailer/js/fresco.js?ver=1.4.11'></script>
+<script type='text/javascript' src='http://www.motormedia.co.uk/wp-content/themes/theretailer/js/jquery.mixitup.min.js?ver=2.1.1'></script>
+<script type='text/javascript' src='http://www.motormedia.co.uk/wp-content/themes/theretailer/js/jquery.stellar.min.js?ver=0.6.2'></script>
+<script type='text/javascript' src='http://www.motormedia.co.uk/wp-content/themes/theretailer/js/swiper.jquery.min.js?ver=3.3.1'></script>
+<script type='text/javascript' src='http://www.motormedia.co.uk/wp-content/themes/theretailer/js/init.js'></script>
+<script type='text/javascript' src='http://www.motormedia.co.uk/wp-includes/js/wp-embed.min.js?ver=4.9.6'></script>
+<script type='text/javascript' src='http://www.motormedia.co.uk/wp-content/plugins/js_composer/assets/js/dist/js_composer_front.min.js?ver=5.4.5'></script>
+<script type='text/javascript' src='//www.youtube.com/iframe_api?ver=5.4.5'></script>
+<script type='text/javascript' src='http://www.motormedia.co.uk/wp-content/plugins/js_composer/assets/lib/waypoints/waypoints.min.js?ver=5.4.5'></script>
+</body>
+</html>
+

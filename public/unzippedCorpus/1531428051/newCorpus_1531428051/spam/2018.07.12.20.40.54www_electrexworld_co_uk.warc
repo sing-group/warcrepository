@@ -1,0 +1,147 @@
+WARC/1.0
+WARC-Type: warcinfo
+WARC-Date: 2018-05-23T10:17:34Z
+WARC-Record-ID: <urn:uuid:f9b1f366-dfbc-4383-bd10-25fa9e1225fd>
+WARC-All-Language: fr
+WARC-All-Content_type: text/html
+Content-Type: application/http;msgtype=response
+Content-Length: 46
+
+WARCProcessor by SING Group www.sing-group.com
+
+WARC/1.0
+WARC-Type: response
+WARC-Record-ID: <http://www.electrexworld.co.uk>
+WARC-Date: 20180523101734
+WARC-Target-URI: http://www.electrexworld.co.uk
+WARC-Language: fr
+Content-Type: application/http;msgtype=response
+Content-Length: 27173
+
+HTTP/1.1 200
+Content-Type:text/html
+
+
+<!doctype html><html><head><title>Electrex World - Motorcycle electrical parts for Japanese, European & British bikes</title><meta name="viewport" content="width=device-width, initial-scale=1"><meta http-equiv="Pragma" content="no-cache"><meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" /><meta http-equiv="MSThemeCompatible" content="yes" /><meta name="keywords" content="motorcycle electrical parts for Japanese, European and British bikes" /><meta name="description" content="We manufacture 90% of our products including generators, regulator rectifiers, stator kits, ignition and lighting coils, for modern and classic motorcycles" /><link rel="canonical" href="http://www.electrexworld.co.uk/index.html"><meta property="og:url" content="http://www.electrexworld.co.uk/index.html" /><meta property="og:type" content="website" /><meta property="og:title" content="Electrex World Limited" /><meta property="og:description" content="We manufacture 90% of our products including generators, regulator rectifiers, stator kits, ignition and lighting coils, for modern and classic motorcycles" /><!--[sd.hide]<Actinic:BASEHREF VALUE="http://www.electrexworld.co.uk/" FORCED=1 /> [sd.hide]--><link href="acatalog/actinic.css" rel="stylesheet" type="text/css"><link href="acatalog/styles.css" rel="stylesheet" type="text/css"><link type="text/css" rel="stylesheet" href="acatalog/magiczoomplus.css"/><script type="text/javascript" src="acatalog/magiczoomplus.js"></script><script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.0/jquery.min.js"></script>	<script src="acatalog/tabs.js"></script><!--[if IE]><link rel="shortcut icon" href="http://www.electrexworld.co.uk/acatalog/favicon.ico"><![endif]--><link rel="shortcut icon" href="http://www.electrexworld.co.uk/acatalog/favicon.ico"><link rel="icon" href="http://www.electrexworld.co.uk/acatalog/favicon.ico"><meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=0"/><script type="text/javascript" src="acatalog/jquery-1.11.1.min.js?DAYNO=RBUC"></script><script type="text/javascript" src="acatalog/jquery.bxslider.min.js?DAYNO=RBUC"></script><link href="acatalog/jquery.bxslider.css" rel="stylesheet" type="text/css" /><script type="text/javascript" src="acatalog/actiniccore.js?DAYNO=RBUC"></script><script type="text/javascript" src="acatalog/actinicextras.js?DAYNO=RBUC"></script><script type="text/javascript" src="acatalog/actinicsearch.js?DAYNO=RBUC"></script><script type="text/javascript" src="acatalog/responsive.js?DAYNO=RBUC"></script><script type="text/javascript" src="acatalog/recentproductssupport.js?DAYNO=RBUC"></script><script type="text/javascript" src="acatalog/dynamic.js?DAYNO=RBUC"></script>	<script type="text/javascript">
+$(document).ready(function() {
+SD.Responsive.CallFunctions();
+});
+</script><script language="javascript" type="text/javascript">
+// START Configuration variables - alter with care
+var nMaxRecent			= 6;		
+var nTrimListTo		= 3;		
+var nScrollBy			= 3;		
+var bDisplayReversed	= true;		
+var nKeepRecentHours	= 12;		
+</script><!--[sd.hide]<Actinic:COOKIECHECK /> [sd.hide]--><script type="text/javascript">
+<!--
+var pg_nSectionImageMaxWidth = parseInt("0140", 10);
+var pg_nProductImageMaxWidth = parseInt("0284", 10);
+var pg_sSearchScript = "http://www.electrexworld.co.uk/cgi-bin/ss000001.pl";
+var pg_sCustomerAccountsCGIURL = 'http://www.electrexworld.co.uk/cgi-bin/bb000001.pl';
+var pg_nProductImageWidth = parseInt("080", 10);
+var pg_nProductImageHeight = parseInt("00", 10);
+var pg_bEnableFilterCount = parseInt("01", 10);
+var pg_sDefaultSortOrder = "1_3_4_0";
+var pg_sSortOrdersPrependedToProdRefs = "2,4,6,7,8";
+var pg_sSearchValidWordCharacters = 'abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ\'0123456789ÀÁÂÃÄÅÆÇÈÉÊËÌÍÎÏÐÑÒÓÔÕÖØÙÚÛÜÝÞßàáâãäåæçèéêëìíîïðñòóôõöøùúûüýþÿ-';
+saveReferrer();
+// -->
+</script><script type="text/javascript">
+var g_oConfig = {"bTaxIncl":0,"sPriceFmt":"%s / %s","arrCurrs":[{"sSym": "&#163;","nDecs": 2,"nThous": 3,"sDecSep": ".","sThouSep": ",","sRate": "1"},{"sSym": "&#128;","nDecs": 2,"nThous": 3,"sDecSep": ".","sThouSep": ",","sRate": "1.13"}],"bEstimateChoicePrices":0};
+</script><script language=JavaScript>
+<!--
+function capitalizeWords(string) {
+var tmpStr, tmpChar, preString, postString, strlen;
+tmpStr = string.toLowerCase();
+stringLen = tmpStr.length;
+if (stringLen > 0)
+{
+for (i = 0; i < stringLen; i++)
+{
+if (i == 0)
+{
+tmpChar = tmpStr.substring(0,1).toUpperCase();
+postString = tmpStr.substring(1,stringLen);
+tmpStr = tmpChar + postString;
+Advanced Users Guide - 93
+}
+else
+{
+tmpChar = tmpStr.substring(i,i+1);
+if (tmpChar == " " && i < (stringLen-1))
+{
+tmpChar = tmpStr.substring(i+1,i+2).toUpperCase();
+preString = tmpStr.substring(0,i+1);
+postString = tmpStr.substring(i+2,stringLen);
+tmpStr = preString + tmpChar + postString;
+}
+}
+}
+}
+return tmpStr;
+}
+// -->
+</script></head><body onload="PreloadImages();"><div id="wrapper"><div class="sticky-container"><ul class="sticky"><li><img src="acatalog/facebook-circle.png" width="42" height="42"><p><a href="https://www.facebook.com/electrexworld/" target="_blank">Like Us on<br>Facebook</a></p></li><li><img src="acatalog/twitter-circle.png" width="42" height="42"><p><a href="https://twitter.com/Electrexworld" target="_blank">Follow Us on<br>Twitter</a></p></li><li><img src="acatalog/youtube-circle.png" width="42" height="42"><p><a href="https://www.youtube.com/channel/UCA7djiH0ir1mzl8DWyZ8dEA" target="_blank">Subscribe on<br>YouYube</a></p></li></ul></div><div class="header-area"><div class="headerContent"><div class='logo'>			<span class='set-left'><br /><a href="index.html"><img src="acatalog/Electrex_logo.png" width="454" height="112" border="0" alt="Online Catalogue" title="Electrex World Limited Online Catalogue" class="logoimage"></a></span></div><div class="header-element set-right"><div class="cart-summary"><img src="acatalog/cart-icon.png"/><div class="cartArea"><h4>&nbsp;My Basket</h4><p>Items:&nbsp;<strong><script language="javascript" type="text/javascript">
+<!--
+document.write(getCartItem(3));
+// -->
+</script></strong> items<br/> Value:&nbsp;<strong><script language="javascript" type="text/javascript">
+<!--
+if (getCartItem(3) == 0) {
+document.write(FormatPrices(0));
+}
+if (getCartItem(3) == 1) {
+document.write(getCartItem(1));
+}
+if (getCartItem(3) > 1) {
+document.write(getCartItem(1));
+}
+// -->
+</script></strong></p></div><div class="cartAreaButtons"><a href="http://www.electrexworld.co.uk/cgi-bin/ca000001.pl?ACTION=SHOWCART" onclick="AppendParentSection(this)">VIEW BASKET</a><a href="http://www.electrexworld.co.uk/cgi-bin/os000001.pl?ACTION=Start" onclick="AppendParentSection(this)">Checkout</a></div></div></div><div class="header-element infoLinks"><span class='housekeeping'><ol class="infoPagesSecondaryBar"><li><a href="acatalog/info.html">Terms & Conditions</a></li><li><a href="http://www.electrexworld.co.uk/cgi-bin/mf000001.pl?ACTION=SHOWFORM">Contact Us</a></li><Actinic:NOTINB2B><li><a href="http://www.electrexworld.co.uk/cgi-bin/ss000001.pl?ACTION=LOGIN" onclick="AppendParentSection(this)"><u><span style='font-size: 14px;color: #999999;'>Login</span></u></a></li></Actinic:NOTINB2B></ol></span></div><div class="quick-search"><form name="simplesearch" method="get" action="http://www.electrexworld.co.uk/cgi-bin/ss000001.pl"><input type="hidden" name="page" value="search" /><input type="text" name="SS" size="18" value="Quick Search" onfocus="this.value='';" class="quick-search-text" />&nbsp;<input type="hidden" name="PR" value="-1" /><input type="hidden" name="TB" value="O" /><span class="button-wrapper quick-search-button-wrapper"><input class="button quick-search-button" type="submit" name="ACTION" value="Go!" /></span></form></div><p class="headerText"></p></div></div><div class="navigation-bar">  <div class="topContactInfoMobile"><div class="contactInfoTopCol1"><div class="contactInfoClick"><img src="acatalog/rd-telephone.png"/></div><p class="contactInfoP"><span class="displayDesktop">01491 682369</span><a class="displayMobile" href="tel:01491 682369" rel="nofollow">01491 682369</a></p></div><div class="contactInfoTopCol2"><div class="contactInfoClick"><img src="acatalog/rd-email.png"/></div><p class="contactInfoP"><a href="http://www.electrexworld.co.uk/cgi-bin/mf000001.pl?ACTION=SHOWFORM">Contact Us</a></p></div><div class="contactInfoTopCol3"><div class="contactInfoClick"><img src="acatalog/rd-address.png"/></div><p class="contactInfoP">Electrex World Limited Units 43-46 Vanalloys Business Park, Busgrove Lane, Stoke Row, Oxfordshire, <nobr>RG9 5QW</nobr>,  UNITED KINGDOM .</p></div></div><div class="nav"><div class="miniNav"> <p class="mainNav">Categories<a id="mainNav" href="#menu" onclick="$(this).text($(this).text() == 'Hide' ? 'Show' : 'Hide');">Show</a></p></div><div id="brochure-menu" class="menuFlex"><div class="page-list"><ul><li><a href="index.html" ><strong><span style='font-size: 18px;'>HOME</span></strong></a></li><li><a href="acatalog/Overseas.html" ><strong><span style='font-size: 18px;'>OVERSEAS</span></strong></a></li><li><a href="acatalog/Technical.html" ><strong><span style='font-size: 18px;'>TECHNICAL</span></strong></a></li><li><a href="acatalog/About_Us.html" ><strong><span style='font-size: 18px;'>ABOUT US</span></strong></a></li><li><a href="acatalog/Testimonials.html" ><strong><span style='font-size: 18px;'>REVIEWS</span></strong></a></li><li><a href="acatalog/Application_List.html" ><strong><span style='font-size: 18px;'>BIKE LIST</span></strong></a></li><li><a href="acatalog/NOTICE.html" ><strong><span style='font-size: 18px;'>NOTICES</span></strong></a></li>  </ul></div></div></div></div><div class="bulk-area"><div id="left-area"><div class="content-area content-minus-two"><p><Actinic:NOWSERVING/><Actinic:CURRACCOUNT/><Actinic:MYACCOUNT/><Actinic:LOGOUT_SIMPLE/></p><div class="fragment-list"><div class="fullWidthSection"><script language="javascript" type="text/javascript">
+var scripts = document.getElementsByTagName('script');
+(function()
+{
+var oThisScript = scripts[scripts.length - 1];
+$(document).ready(function(){
+var oDivBXSlider = $(oThisScript).next().children().first();
+oDivBXSlider.data('sd_BXSlider', oDivBXSlider.bxSlider({
+minSlides 	: 1,
+moveSlides  : 1,
+maxSlides   : 1,  	
+slideWidth  : 1000,
+auto 			: 1,
+autoHover 	: 1,
+pause 		: 8000,
+mode 			: 'horizontal'
+}));
+});}
+());
+</script><div class="sidebar"><div class="bxSliderBR83"><div class="Slider"><a href="acatalog/NOTICE.html"><img src="acatalog/layer_BankHoliday.jpg"/></a></div><div class="Slider"><a href="acatalog/Wiring-Harnesses.html"><img src="acatalog/layer_promo.jpg"/></a></div><div class="Slider"><a href="acatalog"><img src="acatalog/layer_postage.jpg"/></a></div><div class="Slider"><a href="acatalog/Overseans.html"><img src="acatalog/layer_international.jpg"/></a></div><div class="Slider"><a href="acatalog/info.html#warranty"><img src="acatalog/layer_warranty.jpg"/></a></div><div class="Slider"><a href="acatalog/About_Us.html"><img src="acatalog/layer_manufacturing.jpg"/></a></div></div></div></div><div class="fullWidthSection">		<em><h2>Welcome to Electrex World</h2></em><span class='fragment-text'><p>We have been manufacturing motorcycle electrical components for over 25 years.</p><p>99% of our products are manufactured by ourselves in the UK using state of the art equipment. Our products use high quality components and have proven to be very reliable.</p><p>We are proud to be Original Equipment Manufacturers for several companies and we sell to many distributors throughout the UK as well as exporting to Europe, Canada, America and Asia.</p><p>All our parts are competitively priced and many are cheaper than brand name parts.</p></span></div><div class="fullWidthSection"><h2><i>Quick Links</i></h2><br ><div class="tabs"><ul class="tab-links"><li class="active"><a href="#reviews">Reviews</a></li><li><a href="#eBay">eBay</a></li><li><a href="#youtube">YouTube</a></li><li><a href="#facebook">Facebook</a></li><li><a href="#twitter">Twitter</a></li></ul><div class="tab-content"><div id="reviews" class="jumbotron active"><h2>We value your opinion</h2><br ><p><a class="btn-primary" href="mailto:mspiers@electrexworld.co.uk" role="button">Have your say!</a></p></div><div id="eBay" class="jumbotron"><h2>We also sell on eBay</h2><br ><p><a class="btn-primary" href="http://stores.ebay.co.uk/electrexworldlimited" target="_blank" role="button">Visit our store NOW!</a></p></div><div id="youtube" class="jumbotron"><h2>Helpful hints and tips</h2><br ><p><a class="btn-primary" href="https://www.youtube.com/channel/UCA7djiH0ir1mzl8DWyZ8dEA" target="_blank" role="button">Check out our YouTube channel NOW!</a></p></div><div id="facebook" class="jumbotron"><h2>Keep upto date with our latest news</h2><br ><p><a class="btn-primary" href="https://www.facebook.com/Electrex" target="_blank" role="button">Visit our Facebook page NOW!</a></p></div><div id="twitter" class="jumbotron"><h2>#motorcyclelectricals</h2><br ><p><a class="btn-primary" href="https://twitter.com/Electrexworld" target="_blank" role="button">Visit our Twitter feed NOW!</a></p></div></div></div></div></div><div class="recent-products"><div class="recenththeader"><h2>Recently Viewed</h2><input class="recenthtbuttonright" id="scrollbackrecent" type="button" value="    Next >>" onclick="ScrollBackRecent();"><input class="recenthtbuttonleft" id="scrollforwardrecent" type="button" value="<< Previous" onclick="ScrollForwardRecent();"></div><textarea disabled id="rphtml"> **sRecentPrefix**				 **sRecentItem**				<div id="recenthtitem"><a _HREF_="_SSURL_?PRODREF=_PID_&NOLOGIN=1" ><img border="0" src="_THUMB_" width="75" alt="_NAME_" title="_NAME_"  /><p class="actxxsmall">_NAME_</p></a><p><a href="javascript:DeleteRecent('_PID_');"><img src="acatalog/xit.jpg" border="0" /></a></p></div> **sRecentSuffix**				 **sRecentEmptyList**			</textarea>						<div id="recenthtlist"><script type="text/javascript">
+
+var ssURL = 'http://www.electrexworld.co.uk/cgi-bin/ss000001.pl';
+var catalogDir = 'acatalog/';
+
+var rpbits = document.getElementById('rphtml').value.split('**');
+for ( i=1; i<rpbits.length; i+=2) eval('var ' + rpbits[i] + ' = rpbits[i+1];');
+
+DisplayRecentProducts();
+</script></div></div><div class="feefositelogo"></div><br clear="all" /></div><div id="left-sidebar"><div class="sidebar"><div id="storeSections" class="sidebar-element" style="display:block;"><h3>Store Sections</h3><div class="side-menu"><div class="section-list"><p><a href="acatalog/Ignition-Coils-p1.html" class="product_section"><span style='font-size: 16px;'>Ignition Coils</span></a>	</p><p><a href="acatalog/Lighting-Coils-p1.html" class="product_section"><span style='font-size: 16px;'>Lighting Coils</span></a>	</p><p><a href="acatalog/Online_Catalogue_Generators_200-p1.html" class="product_section"><span style='font-size: 16px;'>Generators</span></a>	</p><p><a href="acatalog/Online_Catalogue_HT_Coils_377-p1.html" class="product_section"><span style='font-size: 16px;'>HT Coils</span></a>	</p><p><a href="acatalog/Online_Catalogue_Pick_up_Coils_403-p1.html" class="product_section"><span style='font-size: 16px;'>Pick&#45;up Coils</span></a>	</p><p><a href="acatalog/Online_Catalogue_Rectifiers_425.html" class="product_section"><span style='font-size: 16px;'>Rectifiers</span></a>	</p><p><a href="acatalog/Regulators.html" class="product_section"><span style='font-size: 16px;'>Regulators</span></a>	</p><p><a href="acatalog/Online_Catalogue_Regulator_Rectifier_439-p1.html" class="product_section"><span style='font-size: 16px;'>Regulator Rectifier</span></a>	</p><p><a href="acatalog/Online_Catalogue_Rotors_659-p1.html" class="product_section"><span style='font-size: 16px;'>Rotors</span></a>	</p><p><a href="acatalog/Online_Catalogue_Pullers_685-p1.html" class="product_section"><span style='font-size: 16px;'>Pullers</span></a>	</p><p><a href="acatalog/Online_Catalogue_Starter_Motors_705-p1.html" class="product_section"><span style='font-size: 16px;'>Starter Motors</span></a>	</p><p><a href="acatalog/Online_Catalogue_Starter_Motor_Brush_Kits_720.html" class="product_section"><span style='font-size: 16px;'>Starter Motor Brush Kits</span></a>	</p><p><a href="acatalog/Online_Catalogue_Starter_Relays_726.html" class="product_section"><span style='font-size: 16px;'>Starter Relays</span></a>	</p><p><a href="acatalog/Online_Catalogue_Ignition_Stator_Assembly_731-p1.html" class="product_section"><span style='font-size: 16px;'>Ignition Stator Assembly</span></a>	</p><p><a href="acatalog/Online_Catalogue_Lighting_Stator_Assembly_787-p1.html" class="product_section"><span style='font-size: 16px;'>Lighting Stator Assembly</span></a>	</p><p><a href="acatalog/Stator_Kits-p1.html" class="product_section"><span style='font-size: 16px;'>Stator Kits</span></a>	</p><p><a href="acatalog/Race_Alternator_Systems-p1.html" class="product_section"><span style='font-size: 16px;'>Race Alternator Kits</span></a>	</p><p><a href="acatalog/Race_Ignition_Systems-p1.html" class="product_section"><span style='font-size: 16px;'>Race Ignition Kits</span></a>	</p><p><a href="acatalog/Online_Catalogue_Stator_Kit_Accessories_972.html" class="product_section"><span style='font-size: 16px;'>Stator Kit Accessories</span></a>	</p><p><a href="acatalog/Wiring-Harnesses.html" class="product_section"><span style='font-size: 16px;'>Wiring Harnesses</span></a>	</p><p><a href="acatalog/Accessories.html" class="product_section"><span style='font-size: 16px;'>Accessories</span></a>	</p></div></div></div><div id="bestSellerLeft" class="sidebar-element" style="display:block;"><div class="marketing-list"><h2>Best Sellers</h2><div class="marketing-list-entry navigateOnClick">	<p><a href="http://www.electrexworld.co.uk/cgi-bin/ss000001.pl?PRODREF=STK-010&amp;NOLOGIN=1">BSA B25&#44; B40&#44; B44&#44; B50&#44; C15&#44; C12T &#124; Matchless 350 &#124;  Royal Enfield 350 Ignition only Stator Kit &#45; &#40;STK&#45;010&#41;</a></p><p class="product-image"><a href="http://www.electrexworld.co.uk/cgi-bin/ss000001.pl?PRODREF=STK-010&amp;NOLOGIN=1"><img src="acatalog/STK-010-M-Stator-Kit.jpg" width="75" alt="BSA B25, B40, B44, B50, C15, C12T | Matchless 350 |  Royal Enfield 350 Ignition only Stator Kit - (STK-010)" title="BSA B25, B40, B44, B50, C15, C12T | Matchless 350 |  Royal Enfield 350 Ignition only Stator Kit - (STK-010)" /></a></p><p class="product-price"><Actinic:PRICES PROD_REF="STK-010" RETAIL_PRICE_PROMPT="Price (excl. vat):"><span class="product-price"><strong><strong>£186.00</strong> / <strong>210.18</strong></strong></span></Actinic:PRICES></p></div><div class="marketing-list-entry navigateOnClick">	<p><a href="http://www.electrexworld.co.uk/cgi-bin/ss000001.pl?PRODREF=RR58&amp;NOLOGIN=1">Honda CBR125&#44; NSR125&#44; VT125C&#44; XL125V&#44; CBR250R&#44; NX250&#44; TRX450EX &#40;Quad&#41; Regulator Rectifier &#45; &#40;RR58&#41;</a></p><p class="product-image"><a href="http://www.electrexworld.co.uk/cgi-bin/ss000001.pl?PRODREF=RR58&amp;NOLOGIN=1"><img src="acatalog/RR58-M-regulator-rectifier.jpg" width="75" alt="Honda CBR125, NSR125, VT125C, XL125V, CBR250R, NX250, TRX450EX (Quad) Regulator Rectifier - (RR58)" title="Honda CBR125, NSR125, VT125C, XL125V, CBR250R, NX250, TRX450EX (Quad) Regulator Rectifier - (RR58)" /></a></p><p class="product-price"><Actinic:PRICES PROD_REF="RR58" RETAIL_PRICE_PROMPT="Price (excl. vat):"><span class="product-price"><strong><strong>£78.00</strong> / <strong>88.14</strong></strong></span></Actinic:PRICES></p></div><div class="marketing-list-entry navigateOnClick">	<p><a href="http://www.electrexworld.co.uk/cgi-bin/ss000001.pl?PRODREF=STK-102D&amp;NOLOGIN=1">BSA &#124; Royal Enfield &#124; Triumph &#124; Norton Digital Lighting&#47;Ignition Alternator Kit &#45; &#40;STK&#45;102D&#41;</a></p><p class="product-image"><a href="http://www.electrexworld.co.uk/cgi-bin/ss000001.pl?PRODREF=STK-102D&amp;NOLOGIN=1"><img src="acatalog/STK-102D-M-Stator-Kit.jpg" width="75" alt="BSA | Royal Enfield | Triumph | Norton Digital Lighting/Ignition Alternator Kit - (STK-102D)" title="BSA | Royal Enfield | Triumph | Norton Digital Lighting/Ignition Alternator Kit - (STK-102D)" /></a></p><p class="product-price"><Actinic:PRICES PROD_REF="STK-102D" RETAIL_PRICE_PROMPT="Price (excl. vat):"><span class="product-price"><strong><strong>£282.00</strong> / <strong>318.66</strong></strong></span></Actinic:PRICES></p></div></div></div></div></div></div><div id="right-sidebar"><div class="sidebar"><div class="sidebar-element"><div class="marketing-list"><h2>New Products</h2><div class="marketing-list-entry navigateOnClick">             	<p><a href="http://www.electrexworld.co.uk/cgi-bin/ss000001.pl?PRODREF=WH-300&amp;NOLOGIN=1">Honda CB750K 1969 &#45; 1971 Complete Wiring Harness &#45; &#40;WH&#45;300&#41;</a></p><a href="http://www.electrexworld.co.uk/cgi-bin/ss000001.pl?PRODREF=WH-300&amp;NOLOGIN=1"><img src="acatalog/WH-300-M-Wiring-harness.jpg" width="75" alt="Honda CB750K 1969 - 1971 Complete Wiring Harness - (WH-300)" title="Honda CB750K 1969 - 1971 Complete Wiring Harness - (WH-300)" /></a><p class="product-price"><Actinic:PRICES PROD_REF="WH-300" RETAIL_PRICE_PROMPT="Price (excl. vat):"><span class="product-price"><strong><strong>£48.00</strong> / <strong>54.24</strong></strong></span></Actinic:PRICES></p></div><div class="marketing-list-entry navigateOnClick">             	<p><a href="http://www.electrexworld.co.uk/cgi-bin/ss000001.pl?PRODREF=WH-390&amp;NOLOGIN=1">Honda CB550K 1975 &#45; 1977 Complete Wiring harness &#45; &#40;WH&#45;390&#41;</a></p><a href="http://www.electrexworld.co.uk/cgi-bin/ss000001.pl?PRODREF=WH-390&amp;NOLOGIN=1"><img src="acatalog/WH-390-M-Wiring-harness.jpg" width="75" alt="Honda CB550K 1975 - 1977 Complete Wiring harness - (WH-390)" title="Honda CB550K 1975 - 1977 Complete Wiring harness - (WH-390)" /></a><p class="product-price"><Actinic:PRICES PROD_REF="WH-390" RETAIL_PRICE_PROMPT="Price (excl. vat):"><span class="product-price"><strong><strong>£24.00</strong> / <strong>27.12</strong></strong></span></Actinic:PRICES></p></div><div class="marketing-list-entry navigateOnClick">             	<p><a href="http://www.electrexworld.co.uk/cgi-bin/ss000001.pl?PRODREF=WH-341-900&amp;NOLOGIN=1">Honda CB750K 1976 Complete Wiring Harness &#45; &#40;WH&#45;341&#45;900&#41;</a></p><a href="http://www.electrexworld.co.uk/cgi-bin/ss000001.pl?PRODREF=WH-341-900&amp;NOLOGIN=1"><img src="acatalog/WH-341-900-M-Wiring-harness.jpg" width="75" alt="Honda CB750K 1976 Complete Wiring Harness - (WH-341-900)" title="Honda CB750K 1976 Complete Wiring Harness - (WH-341-900)" /></a><p class="product-price"><Actinic:PRICES PROD_REF="WH-341-900" RETAIL_PRICE_PROMPT="Price (excl. vat):"><span class="product-price"><strong><strong>£120.00</strong> / <strong>135.60</strong></strong></span></Actinic:PRICES></p></div><div class="marketing-list-entry navigateOnClick">             	<p><a href="http://www.electrexworld.co.uk/cgi-bin/ss000001.pl?PRODREF=WH-422&amp;NOLOGIN=1">Honda CBX1000 1979 &#45; 1980 Complete Wiring Harness &#45; &#40;WH&#45;422&#41;</a></p><a href="http://www.electrexworld.co.uk/cgi-bin/ss000001.pl?PRODREF=WH-422&amp;NOLOGIN=1"><img src="acatalog/WH-422-M-Wiring-harness.jpg" width="75" alt="Honda CBX1000 1979 - 1980 Complete Wiring Harness - (WH-422)" title="Honda CBX1000 1979 - 1980 Complete Wiring Harness - (WH-422)" /></a><p class="product-price"><Actinic:PRICES PROD_REF="WH-422" RETAIL_PRICE_PROMPT="Price (excl. vat):"><span class="product-price"><strong><strong>£72.00</strong> / <strong>81.36</strong></strong></span></Actinic:PRICES></p></div><div class="marketing-list-entry navigateOnClick">             	<p><a href="http://www.electrexworld.co.uk/cgi-bin/ss000001.pl?PRODREF=WH-374&amp;NOLOGIN=1">Honda CB550K 1974&#45;1975 Complete Wiring harness &#45; &#40;WH&#45;374&#41;</a></p><a href="http://www.electrexworld.co.uk/cgi-bin/ss000001.pl?PRODREF=WH-374&amp;NOLOGIN=1"><img src="acatalog/WH-374-M-Wiring-harness.jpg" width="75" alt="Honda CB550K 1974-1975 Complete Wiring harness - (WH-374)" title="Honda CB550K 1974-1975 Complete Wiring harness - (WH-374)" /></a><p class="product-price"><Actinic:PRICES PROD_REF="WH-374" RETAIL_PRICE_PROMPT="Price (excl. vat):"><span class="product-price"><strong><strong>£60.00</strong> / <strong>67.80</strong></strong></span></Actinic:PRICES></p></div><div class="marketing-list-entry navigateOnClick">             	<p><a href="http://www.electrexworld.co.uk/cgi-bin/ss000001.pl?PRODREF=WH-377&amp;NOLOGIN=1">Honda CB400F 1975 &#45; 1977 Complete Wiring Harness &#45; &#40;WH&#45;377&#41;</a></p><a href="http://www.electrexworld.co.uk/cgi-bin/ss000001.pl?PRODREF=WH-377&amp;NOLOGIN=1"><img src="acatalog/WH-377-M-Wiring-harness.jpg" width="75" alt="Honda CB400F 1975 - 1977 Complete Wiring Harness - (WH-377)" title="Honda CB400F 1975 - 1977 Complete Wiring Harness - (WH-377)" /></a><p class="product-price"><Actinic:PRICES PROD_REF="WH-377" RETAIL_PRICE_PROMPT="Price (excl. vat):"><span class="product-price"><strong><strong>£75.00</strong> / <strong>84.75</strong></strong></span></Actinic:PRICES></p></div></div></div></div></div></div><div class="footer-area"><div class="deepFooter"><div class="footerColLeft"><h3>Customer Services</h3><ul><li><a href="acatalog/About_Us.html">Contact Us</a></li></ul></div><div class="footerColMid"><h3>Website Information</h3><ul><li><a href="acatalog/info.html">Terms & Conds</a></li><li><a href="acatalog/info.html#GDPR">GDPR (General Data Protection Regulation)</a></li><li><a href="acatalog/info.html#warranty">Warranty</a> and <a href="acatalog/info.html#privacy">Returns</a></li><li><a href="acatalog/sitemap.html">Site Map</a></li></ul></div><div class="footerColRight"><h3>Client area</h3><ul><li><a href="cgi-bin/ss000107.pl?ACTION=LOGIN">Client Login</a></li><li><a href="acatalog/Technical.html">Technical Support</a></li><li><a href="http://www.electrexworld.co.uk/cgi-bin/mf000001.pl?ACTION=SHOWFORM">Email Newsletter</a></li></ul></div><br /></div><div class="miniFooter"><p></p><div class="paypal-acceptance"><img style="float:none"  src="https://www.paypalobjects.com/webstatic/en_US/i/buttons/pp-acceptance-medium.png" alt="Buy now with PayPal" /></div><p>&nbsp;&nbsp;&nbsp;&nbsp;1996 - 2018 Electrex World Limited<Actinic:EXTRAFOOTERTEXT/></p></div></div><br style="clear:both;" /></div><script>
+var acc = document.getElementsByClassName("accordion");
+var i;
+for (i = 0; i < acc.length; i++) {
+acc[i].onclick = function() {
+this.classList.toggle("active");
+var panel = this.nextElementSibling;
+if (panel.style.maxHeight){
+panel.style.maxHeight = null;
+} else {
+panel.style.maxHeight = panel.scrollHeight + "px";
+}
+}
+}
+</script><script type="text/javascript">
+var g_sAJAXScriptURL = 'http://www.electrexworld.co.uk/cgi-bin/aj000001.pl';
+AJAXCall();
+</script></body></html>
+

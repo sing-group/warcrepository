@@ -1,0 +1,344 @@
+WARC/1.0
+WARC-Type: warcinfo
+WARC-Date: 2018-05-30T17:52:31Z
+WARC-Record-ID: <urn:uuid:8413c1f8-d227-4730-a88b-c1bd705abb12>
+WARC-All-Language: en
+WARC-All-Content_type: text/html, text/html; charset=utf-8
+Content-Type: application/http;msgtype=response
+Content-Length: 46
+
+WARCProcessor by SING Group www.sing-group.com
+
+WARC/1.0
+WARC-Type: response
+WARC-Record-ID: <http://www.europeanparking.eu>
+WARC-Date: 20180530175231
+WARC-Target-URI: http://www.europeanparking.eu
+WARC-Language: en
+Content-Type: application/http;msgtype=response
+Content-Length: 18755
+
+HTTP/1.1 200
+Content-Type:text/html; charset=utf-8
+
+
+
+<!DOCTYPE html>
+<!--[if lt IE 7]>      <html lang="en" class="lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+<!--[if IE 7]>         <html lang="en" class="lt-ie9 lt-ie8"> <![endif]-->
+<!--[if IE 8]>         <html lang="en" class="lt-ie9"> <![endif]-->
+<!--[if gt IE 8]><!--> <html lang="en">
+<!--<![endif]-->
+<head>
+    <meta charset="utf-8">
+    <meta name="format-detection" content="telephone=no"/>
+    <title>Home</title>
+    <meta name="keywords" content="parking, association, European, EPA, urban, mobility, EPAawards, ESPA , EPAcongress"/>
+    <meta name="description"/>
+    <meta name="robots" content="all, follow"/>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+    <meta name="HandheldFriendly" content="true"/>
+    <meta name="viewport" content="width=1000"/>
+
+    <meta name="dcterms.creator" content="We Focus BV"/>
+    <meta name="dcterms.publisher" content="EPA"/>
+    <meta name="dcterms.date" content='2018-05-01'/>
+    <meta name="dcterms.type" content="Text"/>
+    <meta name="dcterms.format" content="text/html"/>
+    <meta name="dcterms.identifier" content="http://www.europeanparking.eu/en/"/>
+    <meta name="dcterms.coverage" content="World" lang="en"/>
+    <meta name="dcterms.title" content="Home"/>
+    <meta name="dcterms.abstract"/>
+    <meta name="dcterms.subject" content="Home"/>
+    <meta name="dcterms.description"/>
+
+    <link rel="shortcut icon" href="/favicon.ico"/>
+
+    <link rel="apple-touch-icon" href="/apple-touch-icon.png"/>
+    <link rel="apple-touch-icon" sizes="72x72" href="/apple-touch-icon-72x72.png"/>
+    <link rel="apple-touch-icon" sizes="76x76" href="/apple-touch-icon-76x76.png"/>
+    <link rel="apple-touch-icon" sizes="114x114" href="/apple-touch-icon-114x114.png"/>
+    <link rel="apple-touch-icon" sizes="120x120" href="/apple-touch-icon-120x120.png"/>
+    <link rel="apple-touch-icon" sizes="144x144" href="/apple-touch-icon-144x144.png"/>
+    <link rel="apple-touch-icon" sizes="152x152" href="/apple-touch-icon-152x152.png"/>
+    <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon-180x180.png"/>
+    <link rel="apple-touch-icon" sizes="200x200" href="/apple-touch-icon-200x200.png"/>
+
+    <link rel="stylesheet" href="/css/jquery.bxslider.css" type="text/css" media="screen"/>
+    <link rel="stylesheet" href="/css/main.css" type="text/css" media="screen"/>
+    <link rel="stylesheet" href="/css/print.css" type="text/css" media="print"/>
+
+    <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+    <script> window.jQuery || document.write('<script src="scripts/vendor/jquery-1.11.1.min.js"><\/script>') </script>
+    <script type="text/javascript" src="/scripts/html5shiv.js"></script>
+    <script type="text/javascript" src="/scripts/jquery.bxslider.min.js"></script>
+    <script type="text/javascript" src="/scripts/doubletaptogo.js"></script>
+    <script type="text/javascript" src="/scripts/main.js"></script>
+</head>
+<body id="home" class="en">
+
+<header class="headerMain clearfix">
+    <div class="topBar">
+        <div class="siteWidth">
+            <a href="/" title="Visit the home page"><img src="/images/epa-logo-l.png" class="logo"/></a>
+            <div class="search">
+
+                <input type="text" class="cleanField" placeholder="Search&#8230;" name="searchInput" id="fSearchInput"/>
+                <input type="button" class="cleanField" title="Perform search" id="fSearchSubmit">
+                    <script>
+                        $(".search input[type=button]").click(function() {
+                            document.location.href = "/en/search/?q=" + $("#fSearchInput").val();
+                        });
+                        $("#fSearchInput").keydown(function(e) {
+                            if (e.which === 13) {
+                                document.location.href = "/en/search/?q=" + $(this).val();
+                            }
+                        });
+                    </script>
+            </div>
+        </div>
+    </div>
+    <nav class="navMain clearfix" role="navigation">
+        
+<!-- * * * * * * START MAIN MENU * * * * * * -->
+<ul class="navMainList siteWidth clearfix">
+    <li class="active"><a href="/en/">Home</a></li>
+            <li class="">
+                <a href="/en/epa/">EPA</a>
+                <!-- * * * * * * START SUB MENU: Limit max number of items to ~ 12 * * * * * * -->
+                    <ul class="navMainSubList clearfix">
+                            <li class=""><a href="/en/epa/membership/">Membership</a></li>
+                            <li class=""><a href="/en/epa/full-members/">Full members</a></li>
+                            <li class=""><a href="/en/epa/associate-members/">Associate members</a></li>
+                            <li class=""><a href="/en/epa/board/">Board</a></li>
+                            <li class=""><a href="/en/epa/policy-strategy-committee/">Policy &amp; Strategy Committee</a></li>
+                            <li class=""><a href="/en/epa/statutes/">Statutes</a></li>
+                            <li class=""><a href="/en/epa/brochure/">Brochure</a></li>
+                            <li class=""><a href="/en/epa/secretariat/">Secretariat</a></li>
+                    </ul>
+            </li>
+            <li class="">
+                <a href="/en/activities/">Activities</a>
+                <!-- * * * * * * START SUB MENU: Limit max number of items to ~ 12 * * * * * * -->
+                    <ul class="navMainSubList clearfix">
+                            <li class=""><a href="/en/activities/parking-alliance/">Parking Alliance</a></li>
+                            <li class=""><a href="/en/activities/ipips/">IPIPS</a></li>
+                            <li class=""><a href="/en/activities/polis/">POLIS</a></li>
+                            <li class=""><a href="/en/activities/push-pull/">Push &amp; Pull</a></li>
+                            <li class=""><a href="/en/activities/gpals/">GPALs</a></li>
+                            <li class=""><a href="/en/activities/newsletter/">Newsletter</a></li>
+                            <li class=""><a href="/en/activities/parking-network/">Parking Network</a></li>
+                            <li class=""><a href="/en/activities/parking-events/">Parking Events</a></li>
+                            <li class=""><a href="/en/activities/academic-network/">Academic Network</a></li>
+                            <li class=""><a href="/en/activities/international-network/">International Network</a></li>
+                    </ul>
+            </li>
+            <li class="">
+                <a href="/en/awards/">Awards</a>
+                <!-- * * * * * * START SUB MENU: Limit max number of items to ~ 12 * * * * * * -->
+                    <ul class="navMainSubList clearfix">
+                            <li class=""><a href="/en/awards/epa-awards-2017/">EPA Awards 2017</a></li>
+                            <li class=""><a href="/en/awards/espa/">ESPA</a></li>
+                            <li class=""><a href="/en/awards/espa-on-street/">ESPA On-Street</a></li>
+                            <li class=""><a href="/en/awards/award-archive-2015/">Award Archive 2015</a></li>
+                            <li class=""><a href="/en/awards/award-archive-2013/">Award Archive 2013</a></li>
+                            <li class=""><a href="/en/awards/award-archive-2011/">Award Archive 2011</a></li>
+                            <li class=""><a href="/en/awards/award-archive-2003-2009/">Award Archive 2003-2009</a></li>
+                    </ul>
+            </li>
+            <li class="">
+                <a href="/en/congress/">Congress</a>
+                <!-- * * * * * * START SUB MENU: Limit max number of items to ~ 12 * * * * * * -->
+                    <ul class="navMainSubList clearfix">
+                            <li class=""><a href="/en/congress/19th-epa-congress-and-exhibition/">19th EPA Congress and Exhibition</a></li>
+                            <li class=""><a href="/en/congress/scientific-and-technical-committee/">Scientific and Technical Committee</a></li>
+                    </ul>
+            </li>
+            <li class="">
+                <a href="/en/magazine/">Magazine</a>
+                <!-- * * * * * * START SUB MENU: Limit max number of items to ~ 12 * * * * * * -->
+                    <ul class="navMainSubList clearfix">
+                            <li class=""><a href="/en/magazine/subscribe/">Subscribe</a></li>
+                    </ul>
+            </li>
+            <li class="">
+                <a href="/en/documents/">Documents</a>
+                <!-- * * * * * * START SUB MENU: Limit max number of items to ~ 12 * * * * * * -->
+                    <ul class="navMainSubList clearfix">
+                            <li class=""><a href="/en/documents/key-messages/">Key Messages</a></li>
+                            <li class=""><a href="/en/documents/data-collection/">Data Collection</a></li>
+                            <li class=""><a href="/en/documents/parking-dictionary/">Parking Dictionary</a></li>
+                    </ul>
+            </li>
+            <li class="">
+                <a href="/en/contact/">Contact</a>
+                <!-- * * * * * * START SUB MENU: Limit max number of items to ~ 12 * * * * * * -->
+            </li>
+    
+
+</ul>
+    </nav>
+</header>
+<main class="clearfix" role="main">
+    
+<div class="main">
+
+<!-- * * * * * * HOME SLIDER * * * * * * -->
+<div class="slider siteWidth">
+    <ul class="bxslider">
+                <li>
+                        <figure>
+                            <img src="/media/1429/award-winners-slider.jpg?width=1280&amp;height=434&amp;mode=crop" alt="Welcome to the EPA" />
+                                <figcaption>
+                                    <p>Welcome to the EPA</p>
+                                </figcaption>
+                        </figure>
+                </li>
+                <li>
+                        <figure>
+                            <img src="/media/1345/congratulations-to-the-italian-winner_slider-small.jpg?width=1280&amp;height=434&amp;mode=crop" alt="22 parking associations" />
+                                <figcaption>
+                                    <p>22 parking associations</p>
+                                </figcaption>
+                        </figure>
+                </li>
+                <li>
+                        <figure>
+                            <img src="/media/1282/mark_and_shola_and_apcoa_redbridge_blue-badge_slider.jpg?width=1280&amp;height=434&amp;mode=crop" alt="on- and off-street parking" />
+                                <figcaption>
+                                    <p>on- and off-street parking</p>
+                                </figcaption>
+                        </figure>
+                </li>
+                <li>
+                        <figure>
+                            <img src="/media/1428/audience-slider-1.jpg?width=1280&amp;height=434&amp;mode=crop" alt="professional exchange" />
+                                <figcaption>
+                                    <p>professional exchange</p>
+                                </figcaption>
+                        </figure>
+                </li>
+    </ul>
+</div>
+
+    <section class="mainContents siteWidth vPadded clearfix">
+        <h1>Welcome</h1>
+        <p><span class="epa-db">The European Parking Association (EPA), founded in 1983, is the umbrella organisation for European parking associations. The <a href="/en/epa/full-members/" title="Full members">national member associations</a> represent the parking sector which is consisting of private companies and public bodies that are operating and managing on- and off-street parking structures and services. </span></p>
+<p><span class="epa-db">The <a href="/en/epa/associate-members/">associate members</a> represent the supply industry that offers all related products and services concerned with parking. </span><span class="epa-db">The EPA aims to facilitate cooperation between the professional parking organisations of different European countries, the exchange and mutual support of professional experience among members and may exert influence on measures and resolutions of the European Commission and other relevant international bodies relating to parking and urban mobility.</span></p>
+    </section>
+
+    <section class="blocks siteWidth vPadded clearfix">
+        <div class="block">
+            <h3 class="title">EPA congress</h3>
+                <img class="icon" src="/media/1322/events.png" alt="EPA congress"/>
+            <div class="content">
+                <p><a href="/en/congress/19th-epa-congress-and-exhibition/" title="19th EPA Congress and Exhibition"><strong>19</strong><strong><sup>th</sup></strong><strong> EPA Congress &amp; Exhibition</strong></a></p>
+<p>together with Seminario Iberico de Aparcamientos<br />18-20 September 2019<br />Malaga, Spain</p>
+            </div>
+                <div class="buttons">
+                        <a href="/en/congress/">Read more</a>
+
+                </div>
+        </div>
+        <div class="block">
+            <h3 class="title">Parking Alliance</h3>
+                <img class="icon" src="/media/1323/keymessages.png" alt="Parking Alliance" />
+            <div class="content">
+                <p><strong>Alliance for Parking Data Standards </strong></p>
+<p>founded by EPA, BPA and BPA<br />Press release May 2, 2018<br /><br /></p>
+            </div>
+                <div class="buttons">
+                        <a href="/media/1442/epa-press-release-global-alliance-formed-to-standardize-parking-data-final.pdf" target="_blank">Download</a>
+
+                </div>
+        </div>
+        <div class="block">
+            <h3 class="title">AWARD WINNERS</h3>
+                <img class="icon" src="/media/1321/award.png" alt="AWARD WINNERS" />
+            <div class="content">
+                <p><a href="/en/awards/epa-awards-2017/" title="EPA Awards 2017"><strong>EPA Awards 2017</strong></a></p>
+<p>And the winners are<a href="/en/awards/epa-awards-2017/" title="EPA Awards 2017">...</a><br /><br /></p>
+            </div>
+                <div class="buttons">
+                        <a href="/en/awards/epa-awards-2017/">Read more</a>
+
+                </div>
+        </div>
+        <div class="block last">
+            <div class="hblock">
+                <h3 class="title">Newsletter</h3>
+                <img class="icon" src="/images/newsletter.png" alt="Newsletter"/>
+                <div class="content">
+                    Want to stay tuned?
+                </div>
+                <div class="buttons">
+                    <a href="/en/activities/newsletter/">Sign Up</a>
+                </div>
+            </div>
+            <div class="hblock last">
+                <h3 class="title">Magazine</h3>
+                <img class="icon" src="/images/magazine.png" alt="Magazine"/>
+                <div class="content">
+                    Want to read more from print?
+                </div>
+                <div class="buttons">
+                    <a href="/en/magazine/">Sign Up</a>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- * * * * * * HOME HIGHLIGHT BLOCK (variable background) * * * * * * -->
+    <div class="resume siteWidth clearfix bg-epa-yellow">
+        <p><p><a href="/en/congress/19th-epa-congress-and-exhibition/" title="19th EPA Congress and Exhibition"><strong>SAVE THE DATE!</strong></a></p>
+<p style="text-align: left;"><a href="/en/congress/19th-epa-congress-and-exhibition/" title="19th EPA Congress and Exhibition"><strong>19th EPA Congress and Exhibition together with "Seminario Iberico de Aparcamientos" hosted by ASESGA </strong></a><br /><a href="/en/congress/19th-epa-congress-and-exhibition/" title="19th EPA Congress and Exhibition"><strong>September 18-20, 2019 in Malaga, Spain</strong></a></p></p>
+    </div>
+</div>
+<footer>
+        <!-- * * * * * * KEY MESSAGE / MAGAZINE BLOCK (with PDF download) * * * * * * -->
+        <div class="keyMessage siteWidth vPadded clearfix">
+            <table border="0" style="margin-left: auto; margin-right: auto;">
+<tbody>
+<tr>
+<td><a href="/en/activities/polis/" title="POLIS"><img style="width: 154px; height: 159px;" src="/media/1096/polislogo_highresolution_rgb.jpg?width=154px&amp;height=159px" alt="POLIS"></a>   </td>
+<td>   </td>
+<td><a href="/en/activities/push-pull/" title="Push &amp; Pull"><img style="width: 364px; height: 56px;" src="/media/1281/push-and-pull_logo_1_900px_rgb.jpg?width=364px&amp;height=56px" alt=""> </a></td>
+<td>   </td>
+<td><a href="http://www.parking.org/GPALS"><img style="width: 302px; height: 171px;" src="/media/1298/2017-logo.jpg?width=302px&amp;height=171px" alt=""></a><br> </td>
+</tr>
+</tbody>
+</table>
+        </div>
+    <!-- * * * * * * PARKING NETWORK MEMBER * * * * * * -->
+    <div class="parkingMember topDots siteWidth vPadded clearfix">
+        <a href="http://www.parking-net.com" title="Parking Network Member"><img src="/images/parking-network-member.png" alt="Parking Network Member"/></a>
+        <p>EPA is a member of Parking Network: The online community for parking professionals.</p>
+        <p>Parking Network connects professionals worldwide and provides the latest news, tenders, jobs, showcases, events and more...</p>
+    </div>
+</footer>
+</main>
+<!-- * * * * * * BOTTOM BAR * * * * * * -->
+<div class="closingFooter">
+
+    <div class="siteWidth">
+            <span class="privacy"><a href="/en/privacy-disclaimer/" rel="nofollow" title="See our privacy policy and disclaimer">Privacy & Disclaimer</a></span>
+
+        <span class="copy">&copy; 2015 - 2018 EPA. All rights reserved. <a href="http://www.wefocus.com" title="Visit the website of We Focus" target="_blank">By We Focus</a></span>
+    </div>
+</div>
+
+    <script>
+        (function (i, s, o, g, r, a, m) {
+            i['GoogleAnalyticsObject'] = r; i[r] = i[r] || function () {
+                (i[r].q = i[r].q || []).push(arguments)
+            }, i[r].l = 1 * new Date(); a = s.createElement(o),
+            m = s.getElementsByTagName(o)[0]; a.async = 1; a.src = g; m.parentNode.insertBefore(a, m)
+        })(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
+
+        ga('create', 'UA-61880847-1', 'auto');
+        ga('send', 'pageview');
+
+    </script>
+</body>
+</html>
+

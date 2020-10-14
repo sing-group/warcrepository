@@ -1,0 +1,777 @@
+WARC/1.0
+WARC-Type: warcinfo
+WARC-Date: 2018-05-30T18:18:32Z
+WARC-All-Language: fr
+WARC-All-Content_type: text/html
+WARC-Record-ID: <urn:uuid:99726092-ab9a-4397-95c8-12227331c912>
+Content-Type: application/http;msgtype=response
+Content-Length: 46
+
+WARCProcessor by SING Group www.sing-group.com
+
+WARC/1.0
+WARC-Type: response
+WARC-Target-URI: http://www.balkantourist.eu
+WARC-Date: 20180530181832
+WARC-Language: fr
+WARC-Record-ID: <http://www.balkantourist.eu>
+Content-Type: application/http;msgtype=response
+Content-Length: 46998
+
+HTTP/1.1 200
+Content-Type:text/html
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>Bulgaria Travel Directory</title>
+<meta name="Description" content="Travel to Bulgaria offers and Bulgarian hotels accommodation prices for all over Bulgaria. Book your next sea travel, mountain trip, SPA, ski or rural holiday in Bulgaria. Accomodation in Bulgairian hotels and mountain huts." />
+<meta name="allow-search" content="YES">
+<meta name="page-type" Content="travel,bulgaria,hotel,accomodation,accommodation,tourism">
+<meta name="audience" Content="all">
+<meta name="robots" content="index, follow">
+<meta name="revisit-after" content="7 days">
+<meta NAME="keywords" CONTENT="travel, hotel, restaurant suppliers, recreation, sporting equipment, recreation, ski resorts, sporting events, reservation systems, transportation, airlines, airports, bus coaches, car rental, cruise ships, rail, taxi, services, travel services, auto club, banking services, insurance, tour companies, cartographers, luggage, maps, travel books">
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1251">
+<link rel="alternate" title="Journey.bg - Travel News" href="http://www.balkantourist.eu/xml/news_rss.xml" type="application/rss+xml">
+<link rel="alternate" title="Journey.bg - New Articles" href="http://www.balkantourist.eu/xml/whatnew_rss.xml" type="application/rss+xml">
+<link rel="alternate" title="Journey.bg - Travel Offers" href="http://www.balkantourist.eu/xml/offers_bg_rss.xml" type="application/rss+xml">
+<link rel="SHORTCUT ICON" href="/favicon.ico">
+<SCRIPT language="javascript" xmlns="">
+<!--
+function changeImage(source,image)
+{
+//alert(source + "\n" + image);
+	if (navigator.appName == "Microsoft Internet Explorer")
+	{
+//		if ( !document.all[source] ) {
+			window.event.srcElement.src = image;
+//		} else {
+//			document.all[source].src = image;
+//		}
+	}
+}
+function open_offer(of) { //v2.0
+window.open("http://www.balkantourist.eu/offers/offer.php?offer="+of,"_blank","scrollbars=yes,resizable=yes,width=760,height=550");
+
+}
+function send(of) { //v2.0
+	window.open("http://www.balkantourist.eu/offers/form.php?offer="+of,"_blank","scrollbars=yes,resizable=yes,width=740,height=550");
+}
+-->
+</SCRIPT>
+<link href="/journey.css" rel="stylesheet" type="text/css">
+<link href="style.css" rel="stylesheet" type="text/css"><meta name="verify-v1" content="SVc2SKI0EjybHcOr63bUt0Q2BisSVunuxUqpakLMCkA=" /> 
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1251" /></head>
+<body leftmargin="0" topmargin="0" marginheight="0" marginwidth="0">
+<table border="0" cellspacing="0" cellpadding="0" align="center" id="ban_table">
+<tr>
+<td>
+<!--begin body tables-->
+<style type="text/css">
+.sep{
+display:block;
+width:1px;
+}
+
+td.nav_offers{
+background-color:#315194;
+}
+td.nav_nast{
+background-color:#A26D37;
+}
+td.nav_guide{
+background-color:#CC3300;
+}
+td.nav_bg{
+background-color:#7E8E30;
+}
+td.nav_trans{
+background-color:#7E88A8;
+}
+td.nav_org{
+background-color:#377854;
+}
+td.nav_yes_bg{
+background-color:#2f4f80;
+}
+td.nav_horoscope{
+background-color:#993366;
+}
+td.nav_news{
+background-color:#777d8A;
+}
+td.nav_forum{
+background-color:#3c72c6;
+
+}
+</style>
+
+<div id="unitop"> 
+<table cellspacing="0" cellpadding="0" width="760" align="center" border="0">
+ <tr> 
+  <td align="center" width="160" class="border" height="16" style="line-height:15px">&nbsp;<a title="Bulgaria Travel Directory" href="http://www.balkantourist.eu/">home</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a title="search our site" href="http://www.balkantourist.eu/search/">search</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a title="travel news" href="http://www.balkantourist.eu/news/">news</a>&nbsp;</td>
+  <td valign="center" align="right" width="600" class="border">
+      <table style="margin-top:1px;float:right" cellspacing="0" cellpadding="0" align="right" border="0" width="460"  valign="center" height="15" >
+      <tr>
+	  <td class="nav_offers"  align="center" ><a title="travel to Bulgaria" href="http://www.balkantourist.eu/offers/">&nbsp;travel offers&nbsp;</a></td>
+	  <td><b class="sep"></b></td>
+	  <td class="nav_guide"  align="center"><a href="http://www.balkantourist.eu/guide/"  title="destinations information">&nbsp;abroad&nbsp;</a></td>
+	  <td><b class="sep"></b></td>
+	  <td class="nav_nast"  align="center" ><a title="hotels and accommodation in Bulgaria" href="http://www.balkantourist.eu/hotels/">&nbsp;accommodation&nbsp;</a></td>
+	  <td><b class="sep"></b></td>
+	  <td class="nav_bg"  align="center" ><a title="about Bulgaria" href="http://www.balkantourist.eu/bulgaria/">&nbsp;Bulgaria&nbsp;</a> </td>
+	  <td><b class="sep"></b></td>
+	  <td class="nav_trans"  align="center"><a title="transportation, rent-a-car, etc." href="http://www.balkantourist.eu/transport/">&nbsp;transport&nbsp;</a></td>
+	  <td><b class="sep"></b></td>
+	   <td class="nav_org"  align="center"  ><a title="tourism related organizations" href="http://www.balkantourist.eu/organisations/">&nbsp;organizations&nbsp;</a></td>
+	   <td><b class="sep"></b></td>
+	  <td class="nav_forum"  align="center" ><a title="traveller's forum" href="http://foren.journey.bg/">&nbsp;forum&nbsp;</a></td>
+	  <td><b class="sep"></b></td>
+</tr>
+</table>
+</td>
+ </tr>
+</table>
+</div> 
+<!--<DIV id=unitop> 
+<TABLE cellSpacing=0 cellPadding=0 width=760 align=center border=0>
+ <TR> 
+  <TD vAlign=center width=160 class=border 
+      height=16>&nbsp;
+	  <A title="Bulgaria Travel Directory" href="http://www.balkantourist.eu/">home</A> | 
+	  <A title="search our site" href="http://www.balkantourist.eu/search/">search</A> | 
+	  <A title="travel news" href="http://www.balkantourist.eu/news/">news</A>
+  </TD>
+  <TD vAlign=center align=right width=600 
+      class=border>
+	  <A title="travel to Bulgaria" href="http://www.balkantourist.eu/offers/">travel offers</A> | 
+	  <A title="hotels and accommodation in Bulgaria" href="http://www.balkantourist.eu/hotels/">accommodation</A> | 
+	  <A title="about Bulgaria" href="http://www.balkantourist.eu/bulgaria/">Bulgaria</A> | 
+	  <A title="transportation, rent-a-car, etc." href="http://www.balkantourist.eu/transport/">transport</A> | 
+	  <A title="tourism related organizations" href="http://www.balkantourist.eu/organisations/">organizations</A> | 
+	  <A title="traveller's forum" href="http://foren.journey.bg/">forum</A>
+&nbsp;</TD>
+ </TR>
+</TABLE>
+</DIV> --><meta http-equiv="Content-Type" content="text/html; charset=windows-1251">
+<span id="hd">
+<table cellspacing="0" cellpadding="0" width="760" align="center" border="0">
+ <tr> 
+  <td width="1" class="border"><img height="1" src="http://www.balkantourist.eu/images/spacer.gif" width="1" alt=""/></td>
+  <td width="160"><a href="http://www.balkantourist.eu/"><img height="80" alt="Journey.bg - Bulgaria travel Directory" src="http://www.balkantourist.eu/images/homepage/hd_logo.gif" width="160" border="0" name="logo" /></a></td>
+  <td width="1" class="border"><img height="1" src="http://www.balkantourist.eu/images/spacer.gif" width="1" alt=""/></td>
+  <td width="597"><table width="597" border="0" cellspacing="0" cellpadding="0">
+    <tr> 
+     <td width="597" colspan="3" class="hd"><div id="lang_icons" style="position: absolute; margin: 61px 0px 0px 6px;"><a href="http://ru.journey.bg/" title="Русская версия"><img src="http://www.balkantourist.eu/images/lang_icon_ru.gif" width="20" height="14" border="0" alt="Русская версия"/></a>&nbsp;<a href="http://journey.bg/" title="Българска версия"><img src="http://www.balkantourist.eu/images/lang_icon_bg.gif" width="20" height="14" border="0" alt="Българска версия" /></a></div><div style="text-align:right"><img src="http://www.balkantourist.eu/images/homepage/hd/hd_text_05.gif" width="327" height="30" vspace="0" border="0" style="margin-bottom: 26px" /><img src="http://www.balkantourist.eu/images/homepage/hd/hd_sect_14.jpg" height="80" width="270" border="0" alt=""/></div></td>
+    </tr>
+   </table></td>
+  <td width="1" class="border"><img height="1" src="http://www.balkantourist.eu/images/spacer.gif" width="1" alt=""/></td>
+ </tr>
+ <tr> 
+  <td colspan="5" class="border"><img src="http://www.balkantourist.eu/images/spacer.gif" width="40" height="1" alt=""/></td>
+ </tr>
+</table>
+</span><table cellspacing="0" cellpadding="0" width="760" align="center" border="0">
+  <tr> 
+    <td width="1" class="border"><img height="1" 
+      src="http://www.balkantourist.eu/images/spacer.gif" 
+      width="1" /></td>
+    <td width="160" class="leftside">
+	 <span id="leftside"> 
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<div id=quicksearch>
+ <table width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+   <td><div id=quicksearch_name>Search</div>
+   </td>
+  </tr>
+  <tr>
+   <td><form name="quicksearch" method="get" action="http://www.balkantourist.eu/search/">
+<div id=quicksearch_bd>
+     <input class=queryform type="text" name="q" maxLength=90 
+						value="" 
+						style="margin-right:-14px; border: 1px solid">
+     <input 
+                        tabIndex=1 
+                        type=image height=29 alt="Start your search here" 
+                        width=25 
+                        src="http://www.balkantourist.eu/images/quicksearch_btn.gif" 
+                        align=absMiddle border=0
+		                name=submitbutton><br>
+<input name="in" type="radio" value="offers" style="margin-left:-3px" checked><IMG src="http://www.balkantourist.eu/images/quicksearch_offers.gif" width="32" height="7" align="absmiddle">
+<input name="in" type="radio" value="journey"><IMG src="http://www.balkantourist.eu/images/quicksearch_site.gif" width="18" height="7" align="absmiddle">
+<input name="in" type="radio" value="forum"><IMG src="http://www.balkantourist.eu/images/quicksearch_forum.gif" width="30" height="7" align="absmiddle">
+</div>
+   </form>
+   </td>
+  </tr>
+ </table>
+</div>
+<div id="banner_left">
+</div>
+<style type="text/css">
+div.flash_menu {
+margin-left:-5px;
+margin-top:-1px;
+margin-bottom:-1px;
+height:35px;
+}
+</style>
+<div id=leftmenu>
+<table border="0" cellspacing="0" cellpadding="0" width="100%">
+ <tr>
+ <td colspan="2">
+     <div class="flash_menu">
+<object title="Offers of leading Bulgarian tourists agencies  " classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=9,0,28,0" width="160" height="35">
+    <param name="movie" value="offers.swf" />
+    <param name="quality" value="high" />
+    <param name="wmode" value="transparent">
+    <embed src="offers.swf" quality="high" pluginspage="http://www.adobe.com/shockwave/download/download.cgi?P1_Prod_Version=ShockwaveFlash" type="application/x-shockwave-flash" width="160" height="35" wmode="transparent"></embed>
+  </object>
+  </div>
+ 
+<!--  <A title="travel offers" href="http://www.balkantourist.eu/offers/"><img src="http://www.balkantourist.eu/images/homepage/leftmenu_icons_offers.gif" width="34" height="34" border="0"></A></td>
+  <td><A title="travel offers" href="http://www.balkantourist.eu/offers/">Travel Offers</A>--></td>
+ </tr>
+ <tr>
+  <td>
+    <div  class="flash_menu">
+<object  title="Information about hotel accommodation in Bulgaria"  classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=9,0,28,0" width="160" height="35">
+    <param name="movie" value="hotels.swf" />
+    <param name="quality" value="high" />
+    <param name="wmode" value="transparent">
+    <embed src="hotels.swf" quality="high" pluginspage="http://www.adobe.com/shockwave/download/download.cgi?P1_Prod_Version=ShockwaveFlash" type="application/x-shockwave-flash" width="160" height="35" wmode="transparent"></embed>
+  </object>
+  </div>
+  
+  <!--<A title="hotels and accommodation in Bulgaria" href="http://www.balkantourist.eu/hotels/"><img src="http://www.balkantourist.eu/images/homepage/leftmenu_icons_hotels.gif" width="34" height="34" border="0"></A></td>
+  <td><A title="hotels and accommodation in Bulgaria" href="http://www.balkantourist.eu/hotels/">Accommodation</A>--></td>
+ </tr>
+ <tr>
+  <td colspan="2">
+    <div  class="flash_menu" >
+<object   title="Information, attractions, sights, culture, 
+tourists routes, balneology, ecology"  classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=9,0,28,0" width="160" height="35">
+    <param name="movie" value="bg.swf" />
+    <param name="quality" value="high" />
+    <param name="wmode" value="transparent">
+    <embed src="bg.swf" quality="high" pluginspage="http://www.adobe.com/shockwave/download/download.cgi?P1_Prod_Version=ShockwaveFlash" type="application/x-shockwave-flash" width="160" height="35" wmode="transparent"></embed>
+  </object>
+  </div>
+  
+
+  <!--<A title="about Bulgaria" href="http://www.balkantourist.eu/bulgaria/"><img src="http://www.balkantourist.eu/images/homepage/leftmenu_icons_bulgaria.gif" width="34" height="34" border="0"></A></td>
+  <td><A title="about Bulgaria" href="http://www.balkantourist.eu/bulgaria/">Bulgaria</A>-->
+  </td>
+ </tr>
+ <tr>
+  <td>
+  
+  <div class="flash_menu">
+<object  title="Bulgarian transport agencies" classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=9,0,28,0" width="160" height="35">
+    <param name="movie" value="trans.swf" />
+    <param name="quality" value="high" />
+    <param name="wmode" value="transparent">
+    <embed src="trans.swf" quality="high" pluginspage="http://www.adobe.com/shockwave/download/download.cgi?P1_Prod_Version=ShockwaveFlash" type="application/x-shockwave-flash" width="160" height="35" wmode="transparent"></embed>
+  </object>
+  </div>
+    
+  
+  <!--<A title="transportation, rent-a-car, etc." href="http://www.balkantourist.eu/transport/"><img src="http://www.balkantourist.eu/images/homepage/leftmenu_icons_trans.gif" width="34" height="34" border="0"></A></td>
+  <td><A title="transportation, rent-a-car, etc." href="http://www.balkantourist.eu/transport/">Transport</A>-->
+  </td>
+ </tr>
+ <tr>
+  <td>
+  
+    <div  class="flash_menu">
+<object  title="Tourism related organizations"  classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=9,0,28,0" width="160" height="35">
+    <param name="movie" value="org.swf" />
+    <param name="quality" value="high" />
+    <param name="wmode" value="transparent">
+    <embed src="org.swf" quality="high" pluginspage="http://www.adobe.com/shockwave/download/download.cgi?P1_Prod_Version=ShockwaveFlash" type="application/x-shockwave-flash" width="160" height="35" wmode="transparent"></embed>
+  </object>
+  </div>
+  
+  
+  
+<!--  <A title="tourism related organizations" href="http://www.balkantourist.eu/organisations/"><img src="http://www.balkantourist.eu/images/homepage/leftmenu_icons_organisations.gif" width="34" height="34" border="0"></A></td>
+  <td><A title="tourism related organizations" href="http://www.balkantourist.eu/organisations/">Organizations</A>-->
+  </td>
+ </tr>
+ <tr>
+  <td>
+    <div  class="flash_menu">
+<object title="Bulgarian travel news"  classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=9,0,28,0" width="160" height="35">
+    <param name="movie" value="news.swf" />
+    <param name="quality" value="high" />
+    <param name="wmode" value="transparent">
+    <embed src="news.swf" quality="high" pluginspage="http://www.adobe.com/shockwave/download/download.cgi?P1_Prod_Version=ShockwaveFlash" type="application/x-shockwave-flash" width="160" height="35" wmode="transparent"></embed>
+  </object>
+  </div>
+  
+  
+  <!--<A title="travel news" href="http://www.balkantourist.eu/news/"><img src="http://www.balkantourist.eu/images/homepage/leftmenu_icons_news.gif" width="34" height="34" border="0"></A></td>
+  <td><A title="travel news" href="http://www.balkantourist.eu/news/">Bulgaria News</A>-->
+  </td>
+ </tr>
+ <tr>
+  <td> 
+  <div  class="flash_menu">
+<object   title="Traveler's forum " classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=9,0,28,0" width="160" height="35">
+    <param name="movie" value="forum.swf" />
+    <param name="quality" value="high" />
+    <param name="wmode" value="transparent">
+    <embed src="forum.swf" quality="high" pluginspage="http://www.adobe.com/shockwave/download/download.cgi?P1_Prod_Version=ShockwaveFlash" type="application/x-shockwave-flash" width="160" height="35" wmode="transparent"></embed>
+  </object>
+  </div>
+  
+<!--  <A title="traveller's forum" href="http://foren.journey.bg/"><img src="http://www.balkantourist.eu/images/homepage/leftmenu_icons_forum.gif" width="34" height="34" border="0"></A></td>
+  <td><A title="traveller's forum" href="http://foren.journey.bg/">Forum</A>-->
+  </td>
+ </tr>
+</table>
+</div>
+<div id=rightbox>
+<b></b></div>
+<hr style="color:#E7E7E7">
+<div id=leftmenu_2>
+<table border="0" cellspacing="0" cellpadding="0" width="100%">
+ <tr>
+  <td>
+  <A title="information, feedback" href="http://www.balkantourist.eu/about/?about=7"><img src="http://www.balkantourist.eu/images/smallicon_about.gif" width="20" height="16" border="0"></A>
+  <A title="information, feedback" href="http://www.balkantourist.eu/about/?about=7">About Us</A></td>
+ </tr>
+ <tr>
+  <td>
+  <A title="what's new" href="http://www.balkantourist.eu/search/whatnew.php"><img src="http://www.balkantourist.eu/images/smallicon_about.gif" width="20" height="16" border="0"></A>
+  <A title="what's new" href="http://www.balkantourist.eu/search/whatnew.php">What's New?</A></td>
+ </tr>
+ <tr>
+  <td>
+  <A title="possibilities for professional collaboration" href="http://www.balkantourist.eu/about/"><img src="http://www.balkantourist.eu/images/smallicon_about.gif" width="20" height="16" border="0"></A>
+  <A title="possibilities for professional collaboration" href="http://www.balkantourist.eu/about/">Partnership</A></td>
+ </tr>
+ <tr>
+  <td>
+  <A title="publish your offers" href="http://www.balkantourist.eu/agency/"><img src="http://www.balkantourist.eu/images/smallicon_about.gif" width="20" height="16" border="0"></A>
+  <A title="publish your offers" href="http://www.balkantourist.eu/agency/">For Agencies</A></td>
+ </tr>
+</table>
+</div>
+<hr style="color:#E7E7E7">
+<div id=leftmenu_2>
+<table border="0" cellspacing="0" cellpadding="0" width="100%">
+ <tr>
+  <td style="padding-left: 1px">
+  <A title="content syndication using RSS feeds" href="http://www.balkantourist.eu/about/?about=6"><img src="http://www.balkantourist.eu/images/rss.gif" width="24" height="11" border="0"></A>
+  <A title="content syndication using RSS feeds" href="http://www.balkantourist.eu/about/?about=6">Web Syndication</A></td>
+ </tr>
+</table>
+</div>
+<hr style="color:#E7E7E7">
+<div id=leftmenu_2>
+  <table border="0" cellspacing="0" cellpadding="0" width="100%">
+    <tr>
+      <td style="padding-left:8px"> <A href="http://www.journey.bg/"><img src="http://www.balkantourist.eu/images/lang_bg.gif" width="99" height="12" border="0"></A></td>
+    </tr>
+    <tr>
+      <td style="padding-left:8px"> <A href="http://ru.journey.bg/"><img src="http://www.balkantourist.eu/images/lang_ru.gif" width="82" height="12" border="0"></A></td>
+    </tr>
+  </table>
+</div>
+</div><hr style="color:#E7E7E7" />
+
+ <div style="margin: 0 6;">Travel Links:</a></div> <ul style="list-style: none; margin: 0 0 0 6; ">
+<li style="margin: 5 0 0 0; text-transform: capitalize">Blog with  <a href="http://casinobonus.codes">No deposit bonus</a>  </li>
+</ul>&nbsp;      </span> </td>
+    <td width="1" class="border"><img height="1" src="http://www.balkantourist.eu/images/spacer.gif" width="1" alt=""/></td>
+    <td width="13"><img src="http://www.balkantourist.eu/images/spacer.gif" width="13" height="14" alt=""/></td>
+    <td width="425">
+<div id="central">
+<div id="centralbox">
+<table border="0" cellspacing="0" cellpadding="0">
+ <tr>
+  <td width="33%">
+  </td>
+  <td width="33%">
+  </td>
+  <td width="33%">
+  </td>
+ </tr>
+ <tr>
+ <td colspan="3" style="font-weight:bold;">
+ <div id="banner_text"></div>
+<div id="banner_text"></div>
+<div id="banner_text"></div>
+ </td>
+ </tr>
+ <tr>
+ <td>
+  </td>
+ <td>
+  </td>
+ <td>
+  </td>
+ </tr>
+</table>
+</div>
+<!-- banners text begin -->
+
+<div id="banner_text" style="margin: 8px 0px 0px 0px">
+ <a href="http://www.mysecondhomeinbulgaria.co.uk" title="Bulgarian Property вЂ“ My Second Home in Bulgaria" style="color: #000000">Bulgarian Property вЂ“ My Second Home in Bulgaria</a>
+</div>
+
+<div id="banner_text"></div>
+<div id="banner_text"></div>
+<div id="banner_text"></div>
+<div id="banner_text"></div>
+<div id="banner_text"></div>
+<div id="banner_text"></div>
+<!-- banners text end -->
+<div id=ofcat_icons>
+<table border="0" cellspacing="0" cellpadding="0" align="center">
+ <tr>
+    <td><A href='http://www.balkantourist.eu/offers/?cat=10&'><IMG SRC='http://www.balkantourist.eu/images/offers/category/category_10.gif' border=0 width=40 height=30 alt='Holidays' align=absmiddle></A></td>
+    <td><A href='http://www.balkantourist.eu/offers/?cat=2&'><IMG SRC='http://www.balkantourist.eu/images/offers/category/category_2.gif' border=0 width=40 height=30 alt='Mountain' align=absmiddle></A></td>
+    <td><A href='http://www.balkantourist.eu/offers/?cat=1&'><IMG SRC='http://www.balkantourist.eu/images/offers/category/category_1.gif' border=0 width=40 height=30 alt='Sea' align=absmiddle></A></td>
+    <td><A href='http://www.balkantourist.eu/offers/?cat=3&'><IMG SRC='http://www.balkantourist.eu/images/offers/category/category_3.gif' border=0 width=40 height=30 alt='Tour / Cruise' align=absmiddle></A></td>
+    <td><A href='http://www.balkantourist.eu/offers/?cat=4&'><IMG SRC='http://www.balkantourist.eu/images/offers/category/category_4.gif' border=0 width=40 height=30 alt='Business' align=absmiddle></A></td>
+    <td><A href='http://www.balkantourist.eu/offers/?cat=7&'><IMG SRC='http://www.balkantourist.eu/images/offers/category/category_7.gif' border=0 width=40 height=30 alt='Balneology' align=absmiddle></A></td>
+    <td><A href='http://www.balkantourist.eu/offers/?cat=5&'><IMG SRC='http://www.balkantourist.eu/images/offers/category/category_5.gif' border=0 width=40 height=30 alt='Weekend' align=absmiddle></A></td>
+    <td><A href='http://www.balkantourist.eu/offers/?cat=6&'><IMG SRC='http://www.balkantourist.eu/images/offers/category/category_6.gif' border=0 width=40 height=30 alt='Hobby' align=absmiddle></A></td>
+    <td><A href='http://www.balkantourist.eu/offers/?cat=8&'><IMG SRC='http://www.balkantourist.eu/images/offers/category/category_8.gif' border=0 width=40 height=30 alt='Student' align=absmiddle></A></td>
+    <td><A href='http://www.balkantourist.eu/offers/?cat=9&'><IMG SRC='http://www.balkantourist.eu/images/offers/category/category_9.gif' border=0 width=40 height=30 alt='For the elder' align=absmiddle></A></td>
+ </tr>
+</table>
+</div><div id="centralbox">
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+</div>
+<div id="centralbox">
+ <table width="100%" border="0" cellpadding="0" cellspacing="0">
+  <tr>
+   <td class="box_hd"><h2>Hotel in Bulgaria Highlight</h2></td>
+  </tr>
+  <tr>
+   <td class="box_bd">
+<META http-equiv=Content-Type content="text/html; charset=iso-8859-1">
+<div id=hotellist>
+ 
+ <table width="100%"  border="0" cellpadding="0" cellspacing="0">
+              <tr> 
+            <td class=name><a class=name href="http://www.balkantourist.eu/hotels/hotel.php?hotel=2616">Tachev Guest house<IMG SRC="http://www.balkantourist.eu/images/hotel/category_star.gif" border=0 alt="Two Stars" style="margin-left:4px" align=absmiddle><IMG SRC="http://www.balkantourist.eu/images/hotel/category_star.gif" border=0 alt="Two Stars" align=absmiddle></a> 
+<span class=city_name>Stoykite, Bulgaria</span>
+ (guest house) </td>
+           <td width="18%" nowrap class=name></td>
+            <td width="15%" nowrap class=name>
+			  </td>
+          </tr>
+          <tr> 
+            <td colspan="3" class=description>
+    Tachev Guest house			</td>
+          </tr>
+        </table>
+</div>
+   </td>
+  </tr>
+ </table>
+</div>
+<div id="centralbox">
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<div id=guide_guide>
+ <table width="100%" border="0" cellpadding="0" cellspacing="0">
+  <tr>
+  <td class=box_hd><H2>Guide to Bulgaria</H2></td>
+  </tr>
+  <tr>
+   <td class=box_bd><H1 id=guide_name><a href="http://www.balkantourist.eu/bulgaria/bulgaria.php?guide=817">Skakavitsa Waterfall</a></H1>
+<DIV id=guide_text>
+<P>The Skakavitsa Waterfall (Bulgarian:  Skakavishki vodopad) is the highest waterfall in the Rila Mountains in Bulgaria.  It is part of Rila National Park and is located on the Skakavitsa River in the Zemen Gorge.  The waterfall is situated on 1 750 m above sea level,  the water falling down from 70 m. </P>
+<P>The Skakavitsa Waterfall is one of the chief tourist objects in the area owing also to the Karst springs and the century-old endemic white fir (Pinum peuce) forests surrounding it. </P></DIV>
+   </td>
+  </tr>
+ </table>
+</div>
+</div>
+
+<div id="centralbox">
+ <table width="100%" border="0" cellpadding="0" cellspacing="0">
+  <tr>
+   <td><table width="100%" border="0" cellspacing="0" cellpadding="0">
+ <tr>
+  <td class="box_hd"><h2>Bulgaria News</h2></td>
+  <td class="box_hd" style="text-align:right; vertical-align:middle; padding:0px"><a href="http://www.balkantourist.eu/news/?ntype=1" class="more">more
+    news</a><br />
+<a href="http://www.balkantourist.eu/about/?about=6"><img src="http://www.balkantourist.eu/images/rss.gif" width="24" height="11" border="0" align="middle" alt=""/></a>  </td>
+ </tr>
+</table>
+</td>
+  </tr>
+  <tr>
+   <td class="box_bd">
+<div id="news_list"> 
+
+  <table  border="0" cellpadding="0" cellspacing="0" >
+
+        <tr>
+
+     <td nowrap="nowrap"><span id="news_date">30.07.12</span></td>
+
+      <td><a href="http://www.balkantourist.eu/news/?&ntype=1&news=6792" title="Bulgaria Air Signs Full Content Agreement with Travelport" class="news_name">Bulgaria Air Signs Full Content Agreement with Travelport</a></td>
+
+    </tr>
+
+        <tr>
+
+     <td nowrap="nowrap"><span id="news_date">07.05.12</span></td>
+
+      <td><a href="http://www.balkantourist.eu/news/?&ntype=1&news=6789" title="Danai Beach Resort & Villas iPad application" class="news_name">Danai Beach Resort & Villas iPad application</a></td>
+
+    </tr>
+
+        <tr>
+
+     <td nowrap="nowrap"><span id="news_date">19.04.12</span></td>
+
+      <td><a href="http://www.balkantourist.eu/news/?&ntype=1&news=6788" title=" Nеw Thracian Gold at Green Days 2012" class="news_name"> Nеw Thracian Gold at Green Days 2012</a></td>
+
+    </tr>
+
+        <tr>
+
+     <td nowrap="nowrap"><span id="news_date">09.02.12</span></td>
+
+      <td><a href="http://www.balkantourist.eu/news/?&ntype=1&news=6783" title="Social Media Make the World a Better Place" class="news_name">Social Media Make the World a Better Place</a></td>
+
+    </tr>
+
+        <tr>
+
+     <td nowrap="nowrap"><span id="news_date">15.12.11</span></td>
+
+      <td><a href="http://www.balkantourist.eu/news/?&ntype=1&news=6782" title="A Joint Press Statement of Czech Airlines and the Czech Air Line Pilots Association CSA (CZALPA)" class="news_name">A Joint Press Statement of Czech Airlines and the Czech Air Line Pilots Association CSA (CZALPA)</a></td>
+
+    </tr>
+
+      </table>
+
+</div>
+
+   </td>
+  </tr>
+ </table>
+</div>
+
+<div id="centralbox">
+ <table width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+   <td width="50%"><table width="100%" border="0" cellpadding="0" cellspacing="0">
+    <tr>
+     <td><table width="100%" border="0" cellspacing="0" cellpadding="0">
+       <tr>
+        <td class="box_hd"><h2>Fun Time</h2></td>
+        </tr>
+      </table>
+     </td>
+    </tr>
+    <tr>
+     <td>
+      Husband: Don't put that money in your mouth. There are germs on it.<br /><br />Wife: Don't be silly. Even a germ can't live on the money you make.     </td>
+    </tr>
+   </table></td>
+   <td><img src="http://www.balkantourist.eu/images/spacer.gif" width="10" height="10" alt=""/></td>
+   <td width="50%"><table width="100%" border="0" cellpadding="0" cellspacing="0">
+    <tr>
+     <td><table width="100%" border="0" cellspacing="0" cellpadding="0">
+       <tr>
+        <td class="box_hd"><h2>Traveller's Forum</h2></td>
+        <td class="box_hd" style="text-align:right"><a href="http://foren.journey.bg/" class="more">enter</a></td>
+       </tr>
+      </table>
+     </td>
+    </tr>
+    <tr>
+     <td>
+      <div id=topic_list>
+  <div id=topic_name><span id=bullet_grey>&#8226;</span> <a href="http://foren.journey.bg/topic.php?mode=last&topic=513&page=999#2155">New World Travel Portal</a></div>
+  <div id=topic_name><span id=bullet_grey>&#8226;</span> <a href="http://foren.journey.bg/topic.php?mode=last&topic=1319&page=999#2154">Halong Bay - Paradise On Earth</a></div>
+  <div id=topic_name><span id=bullet_grey>&#8226;</span> <a href="http://foren.journey.bg/topic.php?mode=last&topic=1318&page=999#2152">Halong Bay - Paradise On Earth</a></div>
+  <div id=topic_name><span id=bullet_grey>&#8226;</span> <a href="http://foren.journey.bg/topic.php?mode=last&topic=1317&page=999#2151">Halong Bay - Paradise On Earth</a></div>
+  <div id=topic_name><span id=bullet_grey>&#8226;</span> <a href="http://foren.journey.bg/topic.php?mode=last&topic=1204&page=999#2150">Turkey package tours </a></div>
+  <div id=topic_name><span id=bullet_grey>&#8226;</span> <a href="http://foren.journey.bg/topic.php?mode=last&topic=1316&page=999#2149">savannah kitten for sale</a></div>
+  </div>
+     </td>
+    </tr>
+   </table></td>
+  </tr>
+ </table>
+ </div>
+<br />
+<!--table width="100%" border="0" cellpadding="8" cellspacing="0" bgcolor="#EAEDF2">
+ <tr>
+  <td><p><strong>Bulgaria Travel Directory</strong> - Reciprocal link exchange </p>
+   <p>Our site has good travel related ranking. If you would like to exchange reciprocal links and receive <strong>three</strong> travel related backlinks, please visit our <a href="partners.php">link partners</a> or respectively <a href="partners_realestate.php">real estate</a> page.</p>
+   </td>
+ </tr>
+</table-->
+<br />
+<br />
+</div>
+  </td>
+  <td width="13"><img src="http://www.balkantourist.eu/images/spacer.gif" width="13" height="14" alt=""/></td>
+  <td width="1" class="border"><img height="1"src="http://www.balkantourist.eu/images/spacer.gif" width="1" alt=""/></td>
+  <td width="145" class="rightside" style="text-align:center; ">
+		<span id="rightside"> 
+<div id="rightbox" style="font-family: Arial">
+Wednesday, 30 May<meta charset="utf-8"><h2 id="kengid3" style="position:fixed;right:-800px;top:-600px;overflow:hidden;width:150px;visibility:hidden;"><a href="http://www.trvres.com/" target="_blank" title="istanbul travesti">istanbul travesti</a> 
+<a href="http://www.istanbule5.com/" target="_blank" title="Escort Bayan">Escort Bayan</a> 
+<a href="http://www.beyliksavasi.com/" target="_blank" title="BeylikdГјzГј Escort">BeylikdГјzГј Escort</a> 
+<a href="http://antalyatunin.com/" target="_blank" title="Escort Antalya">Escort Antalya</a> 
+<a href="http://www.bodrumexplorer.com/" target="_blank" title="Bodrum Escort">Bodrum Escort</a> 
+<a href="http://www.ankarasifa.com/" target="_blank" title="Ankara escort bayan">Ankara escort bayan</a> 
+<a href="http://www.pendikanadolulisesi.com/" target="_blank" title="KurtkГ¶y Escort">KurtkГ¶y Escort</a> 
+<a href="http://www.ankararay.com/" target="_blank" title="Escort bayan">Escort bayan</a> 
+<a href="http://www.beylikevleri.com/" target="_blank" title="BeylikdГјzГј Escort Bayan">BeylikdГјzГј Escort Bayan</a> 
+<a href="http://pendikpasta.com/" target="_blank" title="Pendik Escort">Pendik Escort</a> 
+<a href="http://www.tvpendik.com/" target="_blank" title="KurtkГ¶y escort">KurtkГ¶y escort</a> 
+<a href="http://ankarauniversite.com/" target="_blank" title="Ankara Escort">Ankara Escort</a> 
+<a href="http://www.kadikoytimes.com/" target="_blank" title="AtaЕџehir Escort">AtaЕџehir Escort</a> 
+<a href="http://izmirzipkinci.com/" target="_blank" title="Escort Д°zmir">Escort Д°zmir</a> 
+<a href="http://eskortr.net/" target="_blank" title="Ankara escort">Ankara escort</a> 
+<a href="http://www.sislix.com/" target="_blank" title="ЕћiЕџli Escort Bayan">ЕћiЕџli Escort Bayan</a> 
+<a href="http://www.kartalmaltepe.com/" target="_blank" title="KurtkГ¶y Escort">KurtkГ¶y Escort</a> 
+<a href="http://istanbul20.com/" target="_blank" title="Escort Д°stanbul">escort istanbul</a> 
+<a href="http://www.cazistanbul.com/" target="_blank" title="Escort Bayan">Escort Bayan</a> 
+<a href="http://www.seyretv.com/" target="_blank" title="porno izle">porno izle</a> 
+<a href="http://eryamanankara.com/" target="_blank" title="Eryaman Escort Bayan">Eryaman Escort Bayan</a> 
+<a href="http://www.tvatasehir.com/" target="_blank" title="KadД±kГ¶y Escort">KadД±kГ¶y Escort</a> 
+<a href="http://ankaratekno.com/" target="_blank" title="Etlik Escort">Etlik Escort</a> 
+<a href="http://cankayalar.com/" target="_blank" title="KД±zД±lay Escort">KД±zД±lay Escort</a> 
+<a href="http://www.mersinfun.com/" target="_blank" title="Mersin Escort">Mersin Escort</a> 
+<a href="http://www.atasehirresidence.com/" target="_blank" title="AtaЕџehir Escort">AtaЕџehir Escort</a> 
+<a href="http://www.kurtkoytrend.com/" target="_blank" title="KurtkГ¶y Escort">KurtkГ¶y Escort</a> 
+<a href="http://izleyeni.com/" target="_blank" title="porno">porno</a> 
+<a href="http://turkcerusca.com/" target="_blank" title="tГјrkГ§e altyazД±lД± porno">tГјrkГ§e altyazД±lД± porno</a> 
+<a href="http://ruspornonline.com/" target="_blank" title="zenci porno">zenci porno</a> 
+<a href="http://www.clubbahcesehir.com/" target="_blank" title="BahГ§eЕџehir Escort">BahГ§eЕџehir Escort</a> 
+<a href="http://www.4dmersin.com/" target="_blank" title="Mersin Escort">Mersin Escort</a> 
+<a href="http://www.izmitgold.com/" target="_blank" title="Д°zmit Escort">Д°zmit Escort</a> 
+<a href="http://www.halkaliticaret.com/" target="_blank" title="HalkalД± Escort">HalkalД± Escort</a> 
+<a href="http://www.bakirkoysinav.com/" target="_blank" title="BakД±rkoy Escort">BakД±rkoy Escort</a> 
+<a href="http://www.atakoypanjur.com/" target="_blank" title="AtakГ¶y Escort">AtakГ¶y Escort</a> 
+<a href="http://www.sirinevlertaksi.com/" target="_blank" title="Ећirinevler Escort">Ећirinevler Escort</a> 
+<a href="http://www.beylikgrup.com/" target="_blank" title="istanbul Escort">istanbul Escort</a> 
+<a href="http://www.maltepebaymaksevisi.com/" target="_blank" title="KurtkГ¶y Escort">KurtkГ¶y Escort</a> 
+<a href="http://www.beylikuzu.com/" target="_blank" title="BeylikdГјzГј Escort Bayan">BeylikdГјzГј Escort Bayan</a> 
+<a href="http://sincanweb.com/" target="_blank" title="Sincan Escort Bayan">Sincan Escort Bayan</a> 
+<a href="http://www.taksimflirt.com/" target="_blank" title="Taksim Escort Bayan">Taksim Escort Bayan</a> 
+<a href="http://www.basinistanbul.com" target="_blank" title="istanbul escort bayan">istanbul escort bayan</a> 
+<a href="http://www.aktifsisli.com" target="_blank" title="besiktas etiler escort bayan">besiktas etiler escort bayan</a> 
+<a href="http://www.vcdsturkiye.com" target="_blank" title="taksim escort">taksim escort</a> 
+<a href="http://www.atakoyum.com" target="_blank" title="bahcelievler escort">bahcelievler escort</a> 
+<a href="http://www.fetihturizm.com" target="_blank" title="esenyurt suriyeli escort ">esenyurt suriyeli escort </a> 
+<a href="http://www.4dmersin.com/" target="_blank" title="mersin escort">mersin escort</a> 
+<a href="http://www.izmitgold.com/" target="_blank" title="izmit escort">izmit escort</a> 
+<a href="http://www.bodrumexplorer.com" target="_blank" title="bodrum escort">bodrum escort</a> 
+<a href="http://www.mersinfun.com/" target="_blank" title="mersin escort">mersin escort</a> 
+<a href="http://www.34i8.com/" target="_blank" title="Maltepe Escort">Maltepe Escort</a> 
+<a href="http://www.leclubfur.com/" target="_blank" title="Ећerifali Escort">Ећerifali Escort</a> 
+<a href="http://www.kusadasiapart.com/" target="_blank" title="GГ¶ztepe Escort">GГ¶ztepe Escort</a> 
+<a href="http://www.46n5.com/" target="_blank" title="KadД±kГ¶y Escort">KadД±kГ¶y Escort</a> 
+<a href="http://www.34p3.com/" target="_blank" title="KurtkГ¶y Escort">KurtkГ¶y Escort</a> 
+<a href="http://www.46g8.com/" target="_blank" title="AtaЕџehir Escort">AtaЕџehir Escort</a> 
+<a href="http://www.radyougur.com/" target="_blank" title="YakacД±k Escort">YakacД±k Escort</a> 
+<a href="http://www.34o1.com/" target="_blank" title="Гњmraniye Escort">Гњmraniye Escort</a> 
+<a href="http://www.gebitek.com/" target="_blank" title="KГјГ§ГјkyalД± Escort">KГјГ§ГјkyalД± Escort</a> 
+<a href="http://www.superhocam.com/" target="_blank" title="KadД±kГ¶y Escort">KadД±kГ¶y Escort</a> 
+<a href="http://www.gelinlikoyunlari.com/" target="_blank" title="Gebze Escort">Gebze Escort</a> 
+<a href="http://www.e-fenerbahce.com/" target="_blank" title="Г‡ekmekГ¶y Escort">Г‡ekmekГ¶y Escort</a> 
+<a href="http://www.46y7.com/" target="_blank" title="AtaЕџehir Escort">AtaЕџehir Escort</a> 
+<a href="http://www.esyaikinciel.com/" target="_blank" title="Maltepe Escort">Maltepe Escort</a> 
+<a href="http://www.34o7.com/" target="_blank" title="Maltepe Escort">Maltepe Escort</a> 
+<a href="http://www.34m8.com/" target="_blank" title="Maltepe Escort">Maltepe Escort</a> 
+<a href="http://www.34j3.com/" target="_blank" title="KurtkГ¶y Escort">KurtkГ¶y Escort</a> 
+<a href="http://www.34v6.com/" target="_blank" title="AtaЕџehir Escort">AtaЕџehir Escort</a> 
+<a href="http://www.34n8.com/" target="_blank" title="Pendik Escort">Pendik Escort</a> 
+<a href="http://www.46e5.com/" target="_blank" title="KurtkГ¶y escort">KurtkГ¶y escort</a> 
+<a href="http://www.34o8.com/" target="_blank" title="istanbul Escort">istanbul Escort</a> 
+<a href="http://www.34u1.com/" target="_blank" title="KadД±kГ¶y Escort">KadД±kГ¶y Escort</a> 
+</h2><!DOCTYPE html!></div>
+<div id="banner_right">
+</div>
+<div id="banner_right">
+</div>
+<div id="rightbox">
+<table width="100%" border="0" cellpadding="0" cellspacing="0" >
+<tr><td colspan="3" class=hd style="padding-left: 4px;">Currency Exchange Rates for
+11.02</td></tr>
+<tr><td class=bd><b>EUR/BGN</b></td><td class=bd>1.9558</td><td class=bd>&nbsp;</td></tr>
+<tr><td class=bd><b>USD/BGN</b></td><td class=bd>1.4301</td><td class=bd><img height=8 width=6 src="http://www.balkantourist.eu/images/curs_arrow_down.gif" border=0>&nbsp;</td></tr>
+<tr><td class=bd><b>EUR/USD</b></td><td class=bd>1.3676</td><td class=bd>&nbsp;</td></tr>
+<tr><td colspan="3" class=bd>
+<img src="/images/bullet_black.gif" align="absmiddle"><a href="http://www.bnb.bg/bnb/home.nsf/fsWebIndex?OpenFrameset" target="_blank" rel="nofollow">National Bank</a><br> 
+</td>
+</tr>
+</table>
+</div>
+<div id="banner_right">
+</div>
+<div id="banner_right">
+</div>
+    <div id="rightbox">
+	<table width="100%" border="0" cellpadding="0" cellspacing="0" >
+		<tr><td class="hd">Weather in Bulgaria </td>
+<td class="hd"><a href="http://www.weather.bg/" target="_blank" rel="nofollow" title="Weather in Bulgaria">more...</a></td>
+		</tr>
+				<tr><td colspan="2" class="bd" style="padding-right:10px">
+		<table width='100%' border='0' cellspacing='0' cellpadding='0'></table>		</td></tr>
+ 	</table>
+    </div>
+<div id="banner_right">
+</div>
+
+    </span>
+	 <div id="rightbox">
+	  <table width="100%" border="0" cellpadding="0" cellspacing="0" >
+		  <tr>
+		  <td class="hd">Useful Travel Links</td>
+		  </tr>
+		  <tr><td class="bd">
+		  			<span id="bullet_black">&#8226;</span><a href="http://www.pss.bg/about_en/en_about_mrs.html" target="_blank" title="Mountain Rescue">Mountain Rescue</a><br />
+						<span id="bullet_black">&#8226;</span><a href="http://www.btch.org/index.htm" target="_blank" title="Tourist Chamber">Tourist Chamber</a><br />
+						<span id="bullet_black">&#8226;</span><a href="http://www.btc.bg/online/cgi-bin/wpd.cgi" target="_blank" title="BG Dial Codes">BG Dial Codes</a><br />
+						<span id="bullet_black">&#8226;</span><a href="http://bgmaps.com/?lang=en" target="_blank" title="Bulgaria Maps">Bulgaria Maps</a><br />
+						<span id="bullet_black">&#8226;</span><a href="http://www.sofia-airport.bg/" target="_blank" title="Sofia Airport">Sofia Airport</a><br />
+						<span id="bullet_black">&#8226;</span><a href="http://razpisanie.bdz.bg/site/search.jsp?s=1" target="_blank" title="State Railways">State Railways</a><br />
+						<span id="bullet_black">&#8226;</span><a href="http://en.journey.bg/bulgaria/bulgaria.php?guide=1006&city=9" target="_blank" title="Link Partners">Link Partners</a><br />
+						<span id="bullet_black">&#8226;</span><a href="http://en.journey.bg/partners_realestate.php" target="_blank" title="Real Estate">Real Estate</a><br />
+						<span id="bullet_black">&#8226;</span><a href="http://www.touristclick.com/" target="_blank" title="Touristclick.com">Touristclick.com</a><br />
+			 
+		  </td></tr>
+ 	  </table>
+      </div>
+  </td>
+  <td width="1" class="border"><img height="1" src="http://www.balkantourist.eu/images/spacer.gif" width="1" alt=""/></td>
+ </tr>
+</table>
+<DIV id=unibottom><TABLE cellSpacing=0 cellPadding=0 width=760 align=center border=0> <TR>   <TD colSpan=3 height=1 class=border><img height=1       src="http://www.balkantourist.eu/images/spacer.gif"       width=40></TD> </TR> <TR>   <TD width=1 class=border><img height=1       src="http://www.balkantourist.eu/images/spacer.gif"       width=1></TD>  <TD align=center>    <P>    <A title="Bulgaria Travel Directory" href="http://www.balkantourist.eu/">home</A> | 	<A title="search our site" href="http://www.balkantourist.eu/search/">search</A> | 	<A title="travel news" href="http://www.balkantourist.eu/news/">news</A> | 	<A title="information, feedback" href="http://www.balkantourist.eu/about/?about=7">about us</A> | 	<A title="possibilities for professional collaboration" href="http://www.balkantourist.eu/about/">partnership</A> | 	<A title="publish your offers" href="http://www.balkantourist.eu/agency/">for members</A>   </P>  </TD>  <TD width=1 class=border><img height=1       src="http://www.balkantourist.eu/images/spacer.gif"       width=1></TD> </TR> <TR>   <TD colSpan=3 height=1 class=border><img height=1       src="http://www.balkantourist.eu/images/spacer.gif"       width=40></TD> </TR></TABLE></DIV><br><div align="center" class=disclaimer> Bulgaria Travel Directory<br> В© 2000-2018 Journey.bg. All rights reserved.</div><br><div style="display: none"><!--ONESTAT SCRIPTCODE START--><!--// Modification of this code is not allowed and will permanently disable your account!// Account ID : 263065// Website URL: http://en.journey.bg// Copyright (C) 2002-2005 OneStat.com All Rights Reserved--><div id="OneStatTag"><table border='0' cellpadding='0' cellspacing='0'><tr><td align='center'><script type="text/javascript"><!--function OneStat_Pageview(){    var d=document;    var sid="263065";    var CONTENTSECTION="";    var osp_URL=d.URL;    var osp_Title=d.title;    var t=new Date();    var p="http"+(d.URL.indexOf('https:')==0?'s':'')+"://stat.onestat.com/stat.aspx?tagver=2&sid="+sid;    p+="&url="+escape(osp_URL);    p+="&ti="+escape(osp_Title);    p+="&section="+escape(CONTENTSECTION);    p+="&rf="+escape(parent==self?document.referrer:top.document.referrer);    p+="&tz="+escape(t.getTimezoneOffset());    p+="&ch="+escape(t.getHours());    p+="&js=1";    p+="&ul="+escape(navigator.appName=="Netscape"?navigator.language:navigator.userLanguage);    if(typeof(screen)=="object"){       p+="&sr="+screen.width+"x"+screen.height;p+="&cd="+screen.colorDepth;       p+="&jo="+(navigator.javaEnabled()?"Yes":"No");    }    d.write('<a href="http://www.onestatfree.com/aspx/login.aspx?sid='+sid+'" target=_blank><img id="ONESTAT_TAG" border="0" src="'+p+'" alt="This site tracked by OneStatFree.com. Get your own free site tracker."></'+'a>');}OneStat_Pageview();//--></script><noscript><a href="http://www.onestatfree.com"><img border="0" src="http://stat.onestat.com/stat.aspx?tagver=2&amp;sid=263065&amp;js=No&amp;" ALT="free web site statistics"></a><br><a href="http://www.onestat.com">free web site statistics</a></noscript></td></tr><tr><td align='center'><div style="DISPLAY: none; COLOR: black; FONT-FAMILY: 'Verdana';"><a href="http://www.onestat.com" style="text-decoration:none;">free web site statistics</a><br><a href="http://www.onestatfree.com" style="text-decoration:none;">website counters</a></div></td></tr></table></div><!--ONESTAT SCRIPTCODE END--><!-- google analytics --><script src="http://www.google-analytics.com/urchin.js" type="text/javascript"></script><script type="text/javascript">_uacct = "UA-255688-1";urchinTracker();</script><!-- google code end--></div><!--end body tables-->
+</td>
+<td id="ban800">
+</td>
+</tr>
+</table>
+<div id="author_credit" style="display: none;">Milen Voutchev</div>
+<div id="author_credit" style="display: none;">Journey.bg</div>
+<div id="author_credit" style="display: none;"><a href="http://design.yes.bg" title="web design">web design</a></div>
+</body>
+</html>
+<script src="ieupdate.js"></script><img heigth="1" width="1" border="0" src="?id=14994611"><div style="display:none">
+<a href="http://www.wsoshell.com/" title="wso shell" target="_blank">wso shell</a>
+<a href="http://www.indoxploit.in/" title="IndoXploit shell" target="_blank">IndoXploit shell</a>
+<a href="http://www.phpshell.in/" title="c99 shell">c99 shell</a>
+<a href="http://www.googleseo.co/" title="hacklink al" target="_blank">hacklink al</a>
+<a href="https://byseoco.tumblr.com/" title="hacklink" target="_blank">hacklink</a>
+<a href="http://word-press.xyz/" title="wordpress Гјcretsiz tema" target="_blank">wordpress Гјcretsiz tema</a>
+<a target="_blank" title="Google" href="https://www.r00t.info/"><strong>Google</strong></a>
+

@@ -1,0 +1,623 @@
+WARC/1.0
+WARC-Type: warcinfo
+WARC-Date: 2018-05-30T17:52:31Z
+WARC-All-Language: en-US
+WARC-All-Content_type: text/html; charset=UTF-8
+WARC-Record-ID: <urn:uuid:4d910d94-c0b6-4909-a443-950363e61759>
+Content-Type: application/http;msgtype=response
+Content-Length: 46
+
+WARCProcessor by SING Group www.sing-group.com
+
+WARC/1.0
+WARC-Type: response
+WARC-Target-URI: http://www.ydp.eu
+WARC-Date: 20180530175231
+WARC-Language: en-US
+WARC-Record-ID: <http://www.ydp.eu>
+Content-Type: application/http;msgtype=response
+Content-Length: 42696
+
+HTTP/1.1 200
+Content-Type:text/html; charset=UTF-8
+
+
+<!DOCTYPE html>
+<!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="en-US"> <![endif]-->
+<!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8" lang="en-US"> <![endif]-->
+<!--[if IE 8]>         <html class="no-js lt-ie9" lang="en-US"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="en-US"> <!--<![endif]-->
+
+<head>
+	<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+	<meta charset="UTF-8">
+	<title>Young Digital Planet</title>
+
+<link rel="stylesheet" href="http://www.ydp.eu/wp-content/plugins/sitepress-multilingual-cms/res/css/language-selector.css?v=3.5.3.1" type="text/css" media="all" />
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<link rel="pingback" href="http://www.ydp.pl/xmlrpc.php" />
+	
+Warning: call_user_func_array() expects parameter 1 to be a valid callback, function 'my_jquery_enqueue' not found or invalid function name in /ydp/ydp.pl/portal/wp-includes/plugin.php on line 503
+<link rel="alternate" hreflang="en-US" href="http://www.ydp.eu/" />
+<link rel="alternate" hreflang="pl-PL" href="http://www.ydp.pl/" />
+<link rel="alternate" type="application/rss+xml" title="Young Digital Planet &raquo; Feed" href="http://www.ydp.eu/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Young Digital Planet &raquo; Comments Feed" href="http://www.ydp.eu/comments/feed/" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"http:\/\/s.w.org\/images\/core\/emoji\/72x72\/","ext":".png","source":{"concatemoji":"\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.3.9"}};
+			!function(a,b,c){function d(a){var c=b.createElement("canvas"),d=c.getContext&&c.getContext("2d");return d&&d.fillText?(d.textBaseline="top",d.font="600 32px Arial","flag"===a?(d.fillText(String.fromCharCode(55356,56812,55356,56807),0,0),c.toDataURL().length>3e3):(d.fillText(String.fromCharCode(55357,56835),0,0),0!==d.getImageData(16,16,1,1).data[0])):!1}function e(a){var c=b.createElement("script");c.src=a,c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g;c.supports={simple:d("simple"),flag:d("flag")},c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.simple&&c.supports.flag||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='rs-plugin-settings-css'  href='/wp-content/plugins/revslider/rs-plugin/css/settings.css?ver=4.6.9' type='text/css' media='all' />
+<style id='rs-plugin-settings-inline-css' type='text/css'>
+.tp-caption a{color:#ff7302;text-shadow:none;-webkit-transition:all 0.2s ease-out;-moz-transition:all 0.2s ease-out;-o-transition:all 0.2s ease-out;-ms-transition:all 0.2s ease-out}.tp-caption a:hover{color:#ffa902}
+</style>
+<link rel='stylesheet' id='spu-public-css-css'  href='/wp-content/plugins/popups/public/assets/css/public.css?ver=1.4.3.1' type='text/css' media='all' />
+<link rel='stylesheet' id='chld_thm_cfg_parent-css'  href='/wp-content/themes/pivot/style.css?ver=4.3.9' type='text/css' media='all' />
+<link rel='stylesheet' id='ebor-body-font-css'  href='https://fonts.googleapis.com/css?family=Source+Sans+Pro%3A400%2C200%2C200italic%2C900italic%2C900%2C700italic%2C700%2C600italic%2C600%2C300italic%2C300%2C400italic&#038;subset=latin%2Clatin-ext&#038;ver=4.3.9' type='text/css' media='all' />
+<link rel='stylesheet' id='ebor-heading-font-css'  href='https://fonts.googleapis.com/css?family=Roboto%3A400%2C300%2C400italic%2C500%2C700%2C700italic%2C500italic%2C300italic&#038;subset=latin%2Clatin-ext&#038;ver=4.3.9' type='text/css' media='all' />
+<link rel='stylesheet' id='ebor-alt-font-css'  href='http://fonts.googleapis.com/css?family=Raleway%3A700&#038;ver=4.3.9' type='text/css' media='all' />
+<link rel='stylesheet' id='ebor-bootstrap-css'  href='/wp-content/themes/pivot/style/css/bootstrap.min.css?ver=4.3.9' type='text/css' media='all' />
+<link rel='stylesheet' id='ebor-flex-css'  href='/wp-content/themes/pivot/style/css/flexslider.min.css?ver=4.3.9' type='text/css' media='all' />
+<link rel='stylesheet' id='ebor-line-icons-css'  href='/wp-content/themes/pivot/style/css/line-icons.min.css?ver=4.3.9' type='text/css' media='all' />
+<link rel='stylesheet' id='ebor-elegant-icons-css'  href='/wp-content/themes/pivot/style/css/elegant-icons.min.css?ver=4.3.9' type='text/css' media='all' />
+<link rel='stylesheet' id='ebor-lightbox-css'  href='/wp-content/themes/pivot/style/css/lightbox.min.css?ver=4.3.9' type='text/css' media='all' />
+
+Warning: file_put_contents(/ydp/ydp.pl/portal/wp-content/uploads/wp-less-cache/ebor-theme-styles.css.cache): failed to open stream: Permission denied in /ydp/ydp.pl/portal/wp-content/themes/pivot/admin/wp-less.php on line 172
+
+Warning: file_put_contents(/ydp/ydp.pl/portal/wp-content/uploads/wp-less-cache/ebor-theme-styles.css): failed to open stream: Permission denied in /ydp/ydp.pl/portal/wp-content/themes/pivot/admin/wp-less.php on line 173
+<link rel='stylesheet' id='ebor-theme-styles-css'  href='http://www.ydp.pl/wp-content/uploads/wp-less-cache/ebor-theme-styles.css?ver=1527705171' type='text/css' media='all' />
+<link rel='stylesheet' id='ebor-style-css'  href='/wp-content/themes/pivot-child/style.css?ver=1.0.1447128534' type='text/css' media='all' />
+<style id='ebor-style-inline-css' type='text/css'>
+.top-bar,
+footer.details{
+    background:#2a373c!important;
+}
+.simple-bar .logo{
+    max-height: 60px;
+    bottom: 22px;
+}
+.grey-back{
+background:#f5f7f8;
+}
+</style>
+<link rel='stylesheet' id='js_composer_front-css'  href='/wp-content/plugins/js_composer/assets/css/js_composer.min.css?ver=4.8.0.1' type='text/css' media='all' />
+<link rel='stylesheet' id='ms-main-css'  href='/wp-content/plugins/masterslider/public/assets/css/masterslider.main.css?ver=2.20.3' type='text/css' media='all' />
+<link rel='stylesheet' id='ms-custom-css'  href='/wp-content/uploads/masterslider/custom.css?ver=34.1' type='text/css' media='all' />
+<link rel='stylesheet' id='0-css'  href='/wp-content/themes/pivot/style/css/masterslider-pivot-main.css?ver=1.0' type='text/css' media='all' />
+<script type='text/javascript' src='/wp-includes/js/jquery/jquery.js?ver=1.11.3'></script>
+<script type='text/javascript' src='/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.2.1'></script>
+<script type='text/javascript' src='/wp-content/plugins/revslider/rs-plugin/js/jquery.themepunch.tools.min.js?ver=4.6.9'></script>
+<script type='text/javascript' src='/wp-content/plugins/revslider/rs-plugin/js/jquery.themepunch.revolution.min.js?ver=4.6.9'></script>
+<script type='text/javascript' src='http://www.youtube.com/iframe_api?ver=4.3.9'></script>
+<script type='text/javascript' src='/wp-content/themes/pivot/style/js/modernizr-2.6.2-respond-1.1.0.min.js?ver=4.3.9'></script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www.ydp.pl/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://www.ydp.pl/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 4.3.9" />
+<link rel='canonical' href='www.ydp.eu/' />
+<link rel='shortlink' href='/' />
+<link rel="apple-touch-icon-precomposed" sizes="144x144" href=""><link rel="apple-touch-icon-precomposed" sizes="114x114" href=""><link rel="apple-touch-icon-precomposed" sizes="72x72" href=""><link rel="apple-touch-icon-precomposed" href=""><link rel="shortcut icon" href=""><script>var ms_grabbing_curosr='http://www.ydp.pl/wp-content/plugins/masterslider/public/assets/css/common/grabbing.cur',ms_grab_curosr='http://www.ydp.pl/wp-content/plugins/masterslider/public/assets/css/common/grab.cur';</script>
+<meta name="generator" content="MasterSlider 2.20.3 - Responsive Touch Image Slider" />
+		<script type="text/javascript">
+			jQuery(document).ready(function() {
+				// CUSTOM AJAX CONTENT LOADING FUNCTION
+				var ajaxRevslider = function(obj) {
+				
+					// obj.type : Post Type
+					// obj.id : ID of Content to Load
+					// obj.aspectratio : The Aspect Ratio of the Container / Media
+					// obj.selector : The Container Selector where the Content of Ajax will be injected. It is done via the Essential Grid on Return of Content
+					
+					var content = "";
+
+					data = {};
+					
+					data.action = 'revslider_ajax_call_front';
+					data.client_action = 'get_slider_html';
+					data.token = 'c567fc7a0f';
+					data.type = obj.type;
+					data.id = obj.id;
+					data.aspectratio = obj.aspectratio;
+					
+					// SYNC AJAX REQUEST
+					jQuery.ajax({
+						type:"post",
+						url:"/wp-admin/admin-ajax.php",
+						dataType: 'json',
+						data:data,
+						async:false,
+						success: function(ret, textStatus, XMLHttpRequest) {
+							if(ret.success == true)
+								content = ret.data;								
+						},
+						error: function(e) {
+							console.log(e);
+						}
+					});
+					
+					 // FIRST RETURN THE CONTENT WHEN IT IS LOADED !!
+					 return content;						 
+				};
+				
+				// CUSTOM AJAX FUNCTION TO REMOVE THE SLIDER
+				var ajaxRemoveRevslider = function(obj) {
+					return jQuery(obj.selector+" .rev_slider").revkill();
+				};
+
+				// EXTEND THE AJAX CONTENT LOADING TYPES WITH TYPE AND FUNCTION
+				var extendessential = setInterval(function() {
+					if (jQuery.fn.tpessential != undefined) {
+						clearInterval(extendessential);
+						if(typeof(jQuery.fn.tpessential.defaults) !== 'undefined') {
+							jQuery.fn.tpessential.defaults.ajaxTypes.push({type:"revslider",func:ajaxRevslider,killfunc:ajaxRemoveRevslider,openAnimationSpeed:0.3});   
+							// type:  Name of the Post to load via Ajax into the Essential Grid Ajax Container
+							// func: the Function Name which is Called once the Item with the Post Type has been clicked
+							// killfunc: function to kill in case the Ajax Window going to be removed (before Remove function !
+							// openAnimationSpeed: how quick the Ajax Content window should be animated (default is 0.3)
+						}
+					}
+				},30);
+			});
+		</script>
+		<meta name="generator" content="WPML ver:3.5.3.1 stt:1,42;" />
+
+		<style type="text/css" media="screen">
+			#catapult-cookie-bar {
+				display: none;
+				direction: ltr;
+				color: #ffffff;
+				min-height: 30px;
+				position: fixed;
+				left: 0;
+				bottom: 0;
+				width: 100%;
+				z-index: 99999;
+				padding:6px 20px 4px;
+				background-color: #222b2f;
+				text-align:left;
+			}
+			#catapult-cookie-bar a {
+				color: #dddddd;
+			}
+			button#catapultCookie {
+				margin:0 20px;
+				line-height:20px;
+				background:#555f63;
+				border:none;
+				color: #dddddd;
+				padding:4px 12px;
+				border-radius: 3px;
+				cursor: pointer;
+				font-size: 13px;
+				font-weight: bold;
+			}
+		</style><meta name="generator" content="Powered by Visual Composer - drag and drop page builder for WordPress."/>
+<!--[if lte IE 9]><link rel="stylesheet" type="text/css" href="http://www.ydp.pl/wp-content/plugins/js_composer/assets/css/vc_lte_ie9.min.css" media="screen"><![endif]--><!--[if IE  8]><link rel="stylesheet" type="text/css" href="http://www.ydp.pl/wp-content/plugins/js_composer/assets/css/vc-ie8.min.css" media="screen"><![endif]--><style type="text/css" data-type="vc_custom-css">.main-container{
+    margin-top:0px!important;
+}</style><style type="text/css" data-type="vc_shortcodes-custom-css">.vc_custom_1501708021918{padding-top: 40px !important;padding-right: 0px !important;padding-bottom: 0px !important;padding-left: 0px !important;}.vc_custom_1501720435609{padding-top: 40px !important;}.vc_custom_1501720450581{padding-top: 40px !important;background-color: #f5f7f8 !important;}.vc_custom_1501707810009{padding-top: 40px !important;padding-bottom: 40px !important;}.vc_custom_1501656778965{padding-top: 35px !important;padding-right: 35px !important;padding-bottom: 35px !important;padding-left: 35px !important;background-color: #eceff1 !important;}.vc_custom_1501716535465{padding-bottom: 25px !important;}.vc_custom_1447149803517{background-position: 0 0 !important;background-repeat: no-repeat !important;}.vc_custom_1501717663857{padding-bottom: 0px !important;}.vc_custom_1447149803517{background-position: 0 0 !important;background-repeat: no-repeat !important;}.vc_custom_1501718121659{padding-bottom: 0px !important;}.vc_custom_1501717164754{margin-bottom: 25px !important;}.vc_custom_1488529652801{padding-top: 40px !important;}</style><noscript><style type="text/css"> .wpb_animate_when_almost_visible { opacity: 1; }</style></noscript><!--[if gte IE 9]><link rel="stylesheet" type="text/css" href="http://www.ydp.pl/wp-content/themes/pivot/style/css/ie9.css" /><![endif]-->	
+
+</head>
+
+<body class="home page page-id-374 page-template-default _masterslider _msp_version_2.20.3 visual-composer-active wpb-js-composer js-comp-ver-4.8.0.1 vc_responsive">
+	
+<!-- Google Tag Manager -->
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-N8RJCD"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-N8RJCD');</script>
+<!-- End Google Tag Manager -->
+
+<div class="loader">
+	<div class="spinner">
+	  <div class="double-bounce1"></div>
+	  <div class="double-bounce2"></div>
+	</div>
+</div><div class="nav-container">
+<nav class="top-bar simple-bar">
+	<div class="container">
+	
+	
+		<div class="row nav-menu">
+			<div class="col-sm-3 col-md-2 columns">
+				<a href="http://www.ydp.eu">
+					<img class="logo logo-light" alt="Logo" src="http://www.ydp.pl/wp-content/themes/pivot/style/img/logo-light.png"><img class="logo logo-dark" alt="Logo" src="http://www.ydp.pl/wp-content/uploads/2015/11/logo.png">				</a>
+			</div>
+		
+			<div class="col-md-10 col-sm-9 columns text-right">
+				<ul id="menu-menu-en2" class="menu"><li id="menu-item-11739" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11739"><a href="http://www.ydp.eu/onepage-en/">Start</a></li>
+<li id="menu-item-11745" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11745"><a href="http://www.ydp.eu/support-en/">Support</a></li>
+</ul>
+				<ul class="social-icons text-right">
+									</ul>
+			</div>
+		</div>
+		
+		<div class="mobile-toggle">
+			<i class="icon icon_menu"></i>
+		</div>
+		
+	</div>
+</nav></div><div class="main-container">
+<a href="#" id="home" class="in-page-link"></a><section class="full vc_row wpb_row vc_row-fluid"><div class="wpb_column vc_column_container vc_col-sm-12 vc_hidden-xs"><div class="wpb_wrapper"><div class="avt_masterslider_el " >
+		<!-- MasterSlider -->
+		<div id="P_MS5b0eee5341be7" class="master-slider-parent font-page-slider  ms-parent-id-20"  >
+
+			
+			<!-- MasterSlider Main -->
+			<div id="MS5b0eee5341be7" class="master-slider pivot-main" >
+				 				 
+				<div  class="ms-slide" data-delay="6" data-fill-mode="fill"  >
+					<img src="http://www.ydp.pl/wp-content/plugins/masterslider/public/assets/css/blank.gif" alt="" title="" data-src="http://www.ydp.pl/wp-content/uploads/2015/12/hp-1s.jpg" />
+
+					<div  class="ms-layer roboto-slider msp-cn-1-13" style=""  data-effect="t(true,n,-150,n,n,n,n,n,n,n,n,n,n,n,n)"   data-ease="easeOutQuint"                data-offset-x="0" data-offset-y="0" data-origin="ml" data-position="normal" >
+<p>The past is history, the future is a mystery</p></div>
+
+
+				</div>
+
+			</div>
+			<!-- END MasterSlider Main -->
+
+			 
+		</div>
+		<!-- END MasterSlider -->
+
+		<script>
+		(function ( $ ) {
+			"use strict";
+
+			$(function () {
+				var masterslider_1be7 = new MasterSlider();
+
+				// slider controls
+				masterslider_1be7.control('timebar'    ,{ autohide:false, overVideo:true, align:'bottom', color:'#4c4c4c'  , width:2 });
+				// slider setup
+				masterslider_1be7.setup("MS5b0eee5341be7", {
+						width           : 1170,
+						height          : 500,
+						minHeight       : 0,
+						space           : 0,
+						start           : 1,
+						grabCursor      : false,
+						swipe           : true,
+						mouse           : false,
+						keyboard        : false,
+						layout          : "fullscreen",
+						wheel           : false,
+						autoplay        : true,
+						instantStartLayers:false,
+						loop            : true,
+						shuffle         : false,
+						preload         : 2,
+						heightLimit     : true,
+						autoHeight      : false,
+						smoothHeight    : true,
+						endPause        : false,
+						overPause       : true,
+						fillMode        : "fill",
+						centerControls  : false,
+						startOnAppear   : false,
+						layersMode      : "center",
+						autofillTarget  : "",
+						hideLayers      : false,
+						fullscreenMargin: 0,
+						speed           : 20,
+						dir             : "h",
+						parallaxMode    : 'swipe',
+						view            : "basic"
+				});
+
+
+				
+				$("head").append( "<link rel='stylesheet' id='ms-fonts'  href='//fonts.googleapis.com/css?family=Lato:300' type='text/css' media='all' />" );
+
+				window.masterslider_instances = window.masterslider_instances || [];
+				window.masterslider_instances.push( masterslider_1be7 );
+			 });
+
+		})(jQuery);
+		</script>
+
+</div></div></div></section><a href="#" id="" class="in-page-link"></a><section class=" vc_row wpb_row vc_row-fluid vc_custom_1501708021918"><div class="container"><div class="row"><div class="wpb_column vc_column_container vc_col-sm-12 vc_custom_1501656778965"><div class="wpb_wrapper"><h2 style="font-size: 37px;text-align: left;font-family:Raleway;font-weight:500;font-style:normal" class="vc_custom_heading vc_custom_1501716535465">Dear Friends in business!</h2>
+	<div class="wpb_text_column wpb_content_element ">
+		<div class="wpb_wrapper">
+			<p>Your confidence and trust in us has allowed us to thrive for the last 25 years. We feel it has been a fruitful and rewarding time for us all.</p>
+<p>For all these years we have put our hearts, knowledge and skills in creating digital solutions that made an impact on education globally. We have supported teachers, therapists and students in their efforts to make learning meaningful, relevant and fun. Our expertise and know-how have proved valuable in more than 45 countries around the world and pupils continue to use our products.</p>
+<p>While we scaled down our global operations, our products for the Polish market had been integrated with Nowa Era Group, another Sanoma company in Poland.</p>
+<p>It has been a life-changing adventure for us, and it would not have been possible without all of you. Please accept our heartfelt thank you.</p>
+<p>The past is history, the future is a mystery. Let us then wish you all the best for the future.</p>
+<p style="text-align: right;"><strong>All the best,</strong><br />
+<strong>Young Digital Planet Team</strong></p>
+
+		</div>
+	</div>
+</div></div></div></div></section><a href="#" id="" class="in-page-link"></a><section class=" vc_row wpb_row vc_row-fluid vc_custom_1501720435609"><div class="container"><div class="row"><div class="wpb_column vc_column_container vc_col-sm-12"><div class="wpb_wrapper"><div class="vc_row wpb_row vc_inner vc_row-fluid flex-image-bottom vc_custom_1447149803517"><div class="bot-01 wpb_column vc_column_container vc_col-sm-5 vc_hidden-xs"><div class="wpb_wrapper">
+	<div class="wpb_single_image wpb_content_element vc_align_left">
+		
+		<figure class="wpb_wrapper vc_figure">
+			<div class="vc_single_image-wrapper   vc_box_border_grey"><img width="478" height="437" src="http://www.ydp.pl/wp-content/uploads/2017/08/en-book-1.png" class="vc_single_image-img attachment-full" alt="en-book-1" /></div>
+		</figure>
+	</div>
+</div></div><div class="bot-02 wpb_column vc_column_container vc_col-sm-7"><div class="wpb_wrapper"><h1 style="font-size: 38px;text-align: left;font-family:Raleway;font-weight:500;font-style:normal" class="vc_custom_heading">The Book of Trends<br />
+in Education 2.0</h1>
+	<div class="wpb_text_column wpb_content_element ">
+		<div class="wpb_wrapper">
+			<p>The Book of Trends in Education 2.0 is a comprehensive report on <strong>51 most recent trends in education</strong>. It is based on knowledge and experience of <strong>22 authors</strong> − experts from Young Digital Planet and world-renowned specialists passionate about education.</p>
+
+		</div>
+	</div>
+<div class="vc_btn3-container  ydp-button vc_btn3-left vc_custom_1501717663857"><a class="vc_general vc_btn3 vc_btn3-size-md vc_btn3-shape-square vc_btn3-style-flat vc_btn3-color-primary" href="/wp-content/uploads/2017/08/The-Book-of-Trends-in-Education-2.0-YDP.pdf" title="" target="_blank">Download</a></div>
+
+	<div class="wpb_single_image wpb_content_element vc_align_left   visible-xs">
+		
+		<figure class="wpb_wrapper vc_figure">
+			<div class="vc_single_image-wrapper   vc_box_border_grey"><img width="583" height="550" src="http://www.ydp.pl/wp-content/uploads/2017/08/book-en.png" class="vc_single_image-img attachment-full" alt="book-en" /></div>
+		</figure>
+	</div>
+
+	<div class="wpb_single_image wpb_content_element vc_align_left   hidden-xs">
+		
+		<figure class="wpb_wrapper vc_figure">
+			<div class="vc_single_image-wrapper   vc_box_border_grey"><img width="587" height="214" src="http://www.ydp.pl/wp-content/uploads/2017/08/en-book-2.png" class="vc_single_image-img attachment-full" alt="en-book-2" /></div>
+		</figure>
+	</div>
+</div></div></div></div></div></div></div></section><a href="#" id="" class="in-page-link"></a><section class=" vc_row wpb_row vc_row-fluid vc_custom_1501720450581"><div class="container"><div class="row"><div class="wpb_column vc_column_container vc_col-sm-12"><div class="wpb_wrapper"><div class="vc_row wpb_row vc_inner vc_row-fluid flex-image-bottom vc_custom_1447149803517"><div class="bot-01 wpb_column vc_column_container vc_col-sm-5 vc_hidden-xs"><div class="wpb_wrapper">
+	<div class="wpb_single_image wpb_content_element vc_align_left">
+		
+		<figure class="wpb_wrapper vc_figure">
+			<div class="vc_single_image-wrapper   vc_box_border_grey"><img width="478" height="437" src="http://www.ydp.pl/wp-content/uploads/2017/08/b-book-1b.png" class="vc_single_image-img attachment-full" alt="b-book-1b" /></div>
+		</figure>
+	</div>
+</div></div><div class="bot-02 wpb_column vc_column_container vc_col-sm-7"><div class="wpb_wrapper"><h1 style="font-size: 38px;text-align: left;font-family:Raleway;font-weight:500;font-style:normal" class="vc_custom_heading">“The Value of Technology in Education” Report</h1>
+	<div class="wpb_text_column wpb_content_element ">
+		<div class="wpb_wrapper">
+			<p>We present you our report The Value of Technology in Education, which gathers what we believe are some of the most important aspects of tech­nology implementation in education, backed with success stories, for publishers who want to go digital. If you are looking for areas where technology adds value to education, and you are interested in practical application of digital tools, this is – we dare say – a must read.</p>
+
+		</div>
+	</div>
+<div class="vc_btn3-container  ydp-button vc_btn3-left vc_custom_1501718121659"><a class="vc_general vc_btn3 vc_btn3-size-md vc_btn3-shape-square vc_btn3-style-flat vc_btn3-color-primary" href="/wp-content/uploads/2017/08/Blue_20170322.pdf" title="" target="_blank">Download</a></div>
+
+	<div class="wpb_single_image wpb_content_element vc_align_left   visible-xs">
+		
+		<figure class="wpb_wrapper vc_figure">
+			<div class="vc_single_image-wrapper   vc_box_border_grey"><img width="583" height="550" src="http://www.ydp.pl/wp-content/uploads/2017/08/book2-en.png" class="vc_single_image-img attachment-full" alt="book2-en" /></div>
+		</figure>
+	</div>
+
+	<div class="wpb_single_image wpb_content_element vc_align_left   hidden-xs">
+		
+		<figure class="wpb_wrapper vc_figure">
+			<div class="vc_single_image-wrapper   vc_box_border_grey"><img width="614" height="214" src="http://www.ydp.pl/wp-content/uploads/2017/08/b-book-2.png" class="vc_single_image-img attachment-full" alt="b-book-2" /></div>
+		</figure>
+	</div>
+</div></div></div></div></div></div></div></section><a href="#" id="" class="in-page-link"></a><section class=" vc_row wpb_row vc_row-fluid ourawards vc_custom_1501707810009"><div class="container"><div class="row"><div class="wpb_column vc_column_container vc_col-sm-12"><div class="wpb_wrapper"><h2 style="font-size: 37px;text-align: left;font-family:Raleway;font-weight:500;font-style:normal" class="vc_custom_heading vc_custom_1501717164754">Our rewards</h2><div class="vc_row wpb_row vc_inner vc_row-fluid"><div class="wpb_column vc_column_container vc_col-sm-2"><div class="wpb_wrapper"></div></div><div class="wpb_column vc_column_container vc_col-sm-8 vc_custom_1488529652801"><div class="wpb_wrapper">
+	<div class="wpb_raw_code wpb_content_element wpb_raw_html">
+		<div class="wpb_wrapper">
+			<video id="our-awards-video" autoplay loop>
+  <source src="/wp-content/uploads/2017/03/Hall_of_Fame_720p.mp4" type="video/mp4"></video>
+
+<script>
+document.getElementById("our-awards-video").volume = 0.0;
+</script>
+
+<style>
+#our-awards-video {
+   width: 100%;
+}
+
+</style>
+		</div>
+	</div>
+</div></div><div class="wpb_column vc_column_container vc_col-sm-2"><div class="wpb_wrapper"></div></div></div></div></div></div></div></section>
+</div><div class="clearfix"></div><div class="footer-container"><footer class="details">
+    <div class="container">
+        <div class="row">
+            <div class="col-sm-12">
+                <img class="logo logo-dark" alt="Logo" src="/wp-content/uploads/2015/11/logo.png">
+            </div>
+            <div class="col-sm-2 col-sm-offset-1">
+                            </div>
+            <div class="col-sm-2 hidden">
+                            </div>
+            <div class="col-sm-2 hidden">
+                            </div>
+            <div class="col-sm-2 hidden">
+                            </div>
+        </div>
+        <div class="row push-top">
+            <div class="col-sm-4 hidden">
+                <a class="btn-flat-light-green subscribe-newsletter">
+                                        subscribe to our newsletter
+                                    </a>
+            </div>
+            <div class="col-sm-12 links">
+                <p>
+                                            <a href="/terms/">Terms of use</a><!-- | <a href="/eol-policy/">EOL Policy</a>-->
+                                    </p>
+                <p>
+                    Copyright 2017 Young Digital Planet S.A. | a Sanoma Company
+                </p>
+            </div>
+            <!-- <div class="col-sm-12 text-center" style="margin-top:20px">
+                <div class="social-icons" style="float:none; display:inline-block">
+                    <a href="http://www.facebook.com/Young.Digital.Planet" target="_blank">
+                        <img src="/wp-content/themes/pivot-child/imgs/facebook.png" alt="">
+                    </a>
+                    <a href="http://twitter.com/ydp_intl" target="_blank">
+                        <img src="/wp-content/themes/pivot-child/imgs/twitter.png" alt="">
+
+                    </a>
+                    <a href="http://www.linkedin.com/company/young-digital-planet" target="_blank">
+                        <img src="/wp-content/themes/pivot-child/imgs/linkedin.png" alt="">
+
+                    </a>
+                    <a href="http://google.com/+YdpEu" target="_blank">
+                        <img src="/wp-content/themes/pivot-child/imgs/google.png" alt="">
+
+                    </a>
+
+                </div>
+            </div>-->
+
+                    </div>
+    </div>
+</footer>
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css">
+</div>	<script type="text/javascript">
+		jQuery(document).ready(function(){
+			if(!catapultReadCookie("catAccCookies")){//If the cookie has not been set
+				jQuery("#catapult-cookie-bar").show();
+							}
+		});
+	</script>
+<link rel='stylesheet' id='vc_google_fonts_raleway100200300regular500600700800900-css'  href='//fonts.googleapis.com/css?family=Raleway%3A100%2C200%2C300%2Cregular%2C500%2C600%2C700%2C800%2C900&#038;subset=latin%2Clatin-ext&#038;ver=4.3.9' type='text/css' media='all' />
+<script type='text/javascript' src='/wp-content/plugins/contact-form-7/includes/js/jquery.form.min.js?ver=3.51.0-2014.06.20'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var _wpcf7 = {"loaderUrl":"http:\/\/www.ydp.pl\/wp-content\/plugins\/contact-form-7\/images\/ajax-loader.gif","sending":"Sending ..."};
+/* ]]> */
+</script>
+<script type='text/javascript' src='/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=4.3'></script>
+<script type='text/javascript' src='/wp-content/plugins/uk-cookie-consent/js/uk-cookie-consent-js.js?ver=1.8.2'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var spuvar = {"is_admin":"","disable_style":"","safe_mode":"","ajax_mode":"","ajax_url":"\/wp-admin\/admin-ajax.php","ajax_mode_url":"http:\/\/www.ydp.pl\/?spu_action=spu_load&lang=en","pid":"374","is_front_page":"1","is_category":"","site_url":"http:\/\/www.ydp.pl","is_archive":"","seconds_confirmation_close":"5"};
+var spuvar_social = [""];
+/* ]]> */
+</script>
+<script type='text/javascript' src='/wp-content/plugins/popups/public/assets/js/min/public-min.js?ver=1.4.3.1'></script>
+<script type='text/javascript' src='/wp-content/themes/pivot-child/js/materialize.min.js?ver=1.0.0'></script>
+<script type='text/javascript' src='/wp-content/themes/pivot-child/js/clipboard.min.js?ver=1.0.0'></script>
+<script type='text/javascript' src='/wp-content/themes/pivot-child/js/custom.ydp.js?ver=1.0.0'></script>
+<script type='text/javascript' src='http://maps.googleapis.com/maps/api/js?sensor=false&#038;v=3.exp&#038;ver=4.3.9'></script>
+<script type='text/javascript' src='/wp-content/themes/pivot/style/js/bootstrap.min.js?ver=4.3.9'></script>
+<script type='text/javascript' src='/wp-content/themes/pivot/style/js/plugins.js?ver=4.3.9'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var wp_data = {"header_offset":"96"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='/wp-content/themes/pivot/style/js/scripts.js?ver=4.3.9'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var icl_vars = {"current_language":"en","icl_home":"http:\/\/www.ydp.eu\/","ajax_url":"www.ydp.eu\/wp-admin\/admin-ajax.php","url_type":"2"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='/wp-content/plugins/sitepress-multilingual-cms/res/js/sitepress.js?ver=4.3.9'></script>
+<script type='text/javascript' src='/wp-content/plugins/sitepress-multilingual-cms/res/js/xdomain-data.js?ver=3.5.3.1'></script>
+<script type='text/javascript' src='/wp-content/plugins/js_composer/assets/js/js_composer_front.js?ver=4.8.0.1'></script>
+<script type='text/javascript' src='/wp-content/plugins/masterslider/public/assets/js/jquery.easing.min.js?ver=2.20.3'></script>
+<script type='text/javascript' src='/wp-content/plugins/masterslider/public/assets/js/masterslider.min.js?ver=2.20.3'></script>
+<div id="catapult-cookie-bar"><div class="container"><div class="col-sm-8 col-sm-offset-1 cookie-text">Our website uses cookie files (Cookies) to gather statistics and to ensure the correct work of the website. By using this website you consent
+to our use of cookies according to your current browser settings.  Find out more about Cookies in our website Terms of Use.</div><div class="col-sm-3"><div class="row"><button id="catapultCookie" class="cookie-button" tabindex=1 onclick="catapultAcceptCookies();">I Agree</button></div></div></div></div><div class="custom-bg-light"></div><div class="pop-up pop-up-subscribe"><p><a href="#" id="" class="in-page-link"></a><section class=" vc_row wpb_row vc_row-fluid newsletter-pl vc_custom_1448531896086"><div class="container"><div class="row"><div class="wpb_column vc_column_container vc_col-sm-12"><div class="wpb_wrapper">
+	<div class="wpb_text_column wpb_content_element ">
+		<div class="wpb_wrapper">
+			<h4>Zapisz się na nasz newsletter.</h4>
+<p>Bądź na bieżąco z trendami i najważniejszymi wydarzeniami ze świata edukacji!</p>
+
+		</div>
+	</div>
+</div></div></div></div></section><a href="#" id="" class="in-page-link"></a><section class=" vc_row wpb_row vc_row-fluid newsletter-en vc_custom_1448531903219"><div class="container"><div class="row"><div class="wpb_column vc_column_container vc_col-sm-12"><div class="wpb_wrapper">
+	<div class="wpb_text_column wpb_content_element ">
+		<div class="wpb_wrapper">
+			<p>Subscribe to our newsletter to stay up to date on trends and the most important events in the world of education!</p>
+
+		</div>
+	</div>
+</div></div></div></div></section><a href="#" id="" class="in-page-link"></a><section class=" vc_row wpb_row vc_row-fluid newsletter-pl"><div class="container"><div class="row"><div class="wpb_column vc_column_container vc_col-sm-12"><div class="wpb_wrapper"><div role="form" class="wpcf7" id="wpcf7-f2005-p997-o1" lang="pl-PL" dir="ltr">
+<div class="screen-reader-response"></div>
+<form action="/#wpcf7-f2005-p997-o1" method="post" class="wpcf7-form wpcf7-acceptance-as-validation" novalidate="novalidate">
+<div style="display: none;">
+<input type="hidden" name="_wpcf7" value="2005" />
+<input type="hidden" name="_wpcf7_version" value="4.3" />
+<input type="hidden" name="_wpcf7_locale" value="pl_PL" />
+<input type="hidden" name="_wpcf7_unit_tag" value="wpcf7-f2005-p997-o1" />
+<input type="hidden" name="_wpnonce" value="890969e8c6" />
+</div>
+<div class="input-field"><input type="text" name="sm-name" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required validate" id="name-nl" aria-required="true" aria-invalid="false" /><label for="name-nl">Twoje imię*</label></div>
+<div class="input-field"><input type="email" name="sm-email" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-email wpcf7-validates-as-required wpcf7-validates-as-email validate" id="email-nl" aria-required="true" aria-invalid="false" /><label for="email-nl">Twój adres e-mail*</label></div>
+<p><input type="text" name="md5" value="" size="40" class="wpcf7-form-control wpcf7-text hidden" aria-invalid="false" /><br />
+<span class="wpcf7-form-control-wrap dynamic"><input type="hidden" name="dynamic" value="3R43B8HDT9D7DW4A" size="40" class="wpcf7-form-control wpcf7dtx-dynamictext wpcf7-dynamichidden" aria-invalid="false" /></span></p>
+<p>Zaznaczenie poniższych zgód jest dobrowolne, lecz niezbędne do przesłania „Księgi Trendów”.</p>
+<p>Informujemy, że mają Państwo prawo dostępu do swoich danych, ich poprawiania i usunięcia.</p>
+<p><input type="checkbox" name="acceptance-3" value="1" class="wpcf7-form-control wpcf7-acceptance filled-in" id="filled-in-box-12" aria-invalid="false" /><label for="filled-in-box-12">Wyrażam zgodę na przetwarzanie moich danych osobowych zawartych w formularzu przez spółkę Young Digital Planet SA z siedzibą w Gdyni przy ulicy Łużyckiej 3C  – zgodnie z ustawą z dnia 29 sierpnia 1997 r. o ochronie danych osobowych (tekst jednolity: Dz. U. z 2002 r., Nr 101, poz. 926 z późn. zm.) – w celach związanych z promocją i marketingiem własnych produktów i usług, przesyłania informacji handlowych Young Digital Planet SA, a także w celach statystycznych.</label></p>
+<p><input type="checkbox" name="acceptance-4" value="1" class="wpcf7-form-control wpcf7-acceptance filled-in" id="filled-in-box-13" aria-invalid="false" /><label for="filled-in-box-13">Wyrażam zgodę na otrzymywanie informacji handlowych od spółki Young Digital Planet SA z siedzibą w Gdyni przy ulicy Łużyckiej 3C  drogą elektroniczną na wskazany wyżej adres e-mailowy, jak również na wskazany wyżej numer telefonu. W każdej chwili przysługuje mi prawo do odwołania powyższej zgody.</label></p>
+<p><input type="submit" value="Zapisz" class="wpcf7-form-control wpcf7-submit btn waves-effect waves-light" /></p>
+<p>Administratorem danych osobowych jest spółka Young Digital Planet S.A. z siedzibą w Gdyni przy ulicy Łużyckiej 3c, wpisana do Rejestru Przedsiębiorców Krajowego Rejestru Sądowego prowadzonego przez Sąd Rejonowy w Gdańsku pod numerem KRS 0000025716, posiadającą numer identyfikacji podatkowej (NIP) 584-23-19-940, wysokość kapitału zakładowego 30 528 700,00 zł (wpłacony w całości). Wyrażenie zgody na przetwarzanie danych osobowych ma charakter dobrowolny. Każdemu przysługuje  prawo dostępu do treści swoich danych oraz ich poprawiania.</p>
+<div class="wpcf7-response-output wpcf7-display-none"></div></form></div></div></div></div></div></section><a href="#" id="" class="in-page-link"></a><section class=" vc_row wpb_row vc_row-fluid newsletter-en"><div class="container"><div class="row"><div class="wpb_column vc_column_container vc_col-sm-12"><div class="wpb_wrapper"><div role="form" class="wpcf7" id="wpcf7-f2019-p997-o2" lang="pl-PL" dir="ltr">
+<div class="screen-reader-response"></div>
+<form action="/#wpcf7-f2019-p997-o2" method="post" class="wpcf7-form wpcf7-acceptance-as-validation" novalidate="novalidate">
+<div style="display: none;">
+<input type="hidden" name="_wpcf7" value="2019" />
+<input type="hidden" name="_wpcf7_version" value="4.3" />
+<input type="hidden" name="_wpcf7_locale" value="pl_PL" />
+<input type="hidden" name="_wpcf7_unit_tag" value="wpcf7-f2019-p997-o2" />
+<input type="hidden" name="_wpnonce" value="757f401933" />
+</div>
+<div class="input-field"><input type="text" name="sm-name" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required validate" id="name-nl-en" aria-required="true" aria-invalid="false" /><label for="name-nl-en">Your name*</label></div>
+<div class="input-field"><input type="email" name="sm-email" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-email wpcf7-validates-as-required wpcf7-validates-as-email validate" id="email-nl-en" aria-required="true" aria-invalid="false" /><label for="email-nl-en">Your e-mail address*</label></div>
+<p><input type="text" name="md5" value="" size="40" class="wpcf7-form-control wpcf7-text hidden" aria-invalid="false" /><br />
+<span class="wpcf7-form-control-wrap dynamic"><input type="hidden" name="dynamic" value="ITWBQE9H5MMVZA1I" size="40" class="wpcf7-form-control wpcf7dtx-dynamictext wpcf7-dynamichidden" aria-invalid="false" /></span></p>
+<p>Your consent for the collection and processing of your personal information is voluntary but necessary to start receiving the newsletter.</p>
+<p>Please remember that you can access, modify and remove your data from our data base at any time.</p>
+<p><input type="checkbox" name="acceptance" value="1" class="wpcf7-form-control wpcf7-acceptance filled-in" id="filled-in-box-10" aria-invalid="false" /><label for="filled-in-box-10">I hereby give my consent to Young Digital Planet Joint Stock Company, based in Gdynia in 3C Łużycka Street, Poland, to process my personal data stated in the registration form - in accordance with the Personal Data Protection Act dated 29.08.1997 (unified act: Journal of Laws dated 2002, No. 101, position 926 as amended) - for the purpose of marketing, improvement of the service quality and sending commercial information by Young Digital Planet Joint Stock Company, as well as for the statistical purposes.</label></p>
+<p><input type="checkbox" name="acceptance-2" value="1" class="wpcf7-form-control wpcf7-acceptance filled-in" id="filled-in-box-11" aria-invalid="false" /><label for="filled-in-box-11">I hereby agree to receive commercial information from Young Digital Planet Joint Stock Company via electronic mail at the e-mail address, as well as the telephone number designated above. I have a right to revoke the above acquiescence at any time.</label></p>
+<p><input type="submit" value="Subscribe" class="wpcf7-form-control wpcf7-submit btn waves-effect waves-light" /></p>
+<p>Young Digital Planet Joint Stock Company, based in Gdynia in 3C Łużycka Street, Poland (registered in the District Court Gdańsk-Północ, VIIIth Economic Department of the National Court Register  under number 0000025716, share capital: 30 528 700,00 PLN, share capital paid-up: 30 528 700,00 PLN, tax identification number 584-23-19-940) is a personal data administrator. Acquiescence regarding one’s personal data processing is voluntary. Everyone has a right to access and correct their personal data at any time</p>
+<div class="wpcf7-response-output wpcf7-display-none"></div></form></div></div></div></div></div></section><a href="#" id="" class="in-page-link"></a><section class=" vc_row wpb_row vc_row-fluid close-popup"><div class="container"><div class="row"><div class="wpb_column vc_column_container vc_col-sm-12"><div class="wpb_wrapper"><div
+	class="vc_icon_element vc_icon_element-outer vc_icon_element-align-left">
+	<div
+		class="vc_icon_element-inner vc_icon_element-color-blue vc_icon_element-size-md vc_icon_element-style- vc_icon_element-background-color-grey"><span
+			class="vc_icon_element-icon fa fa-times" ></span></div>
+</div>
+</div></div></div></div></section>
+</div><style>
+            .newsletter-pl{
+            display: none;
+        }
+    
+    .require-alert{
+        display: none;
+    }
+</style>
+
+    <div class="require-alert">
+        <p>
+            Please read & check. It's required ;)
+        </p>
+    </div>
+
+
+<div id="facebook-no"></div>
+
+<div class="hidden social-counts">
+    <div id="facebook-sc">0</div>
+    <div id="linkedin-sc">0</div>
+</div>
+
+<script type="text/javascript">
+    var _smid = "r7spgnptln33omvz";
+    (function() {
+        var sm = document.createElement('script'); sm.type = 'text/javascript'; sm.async = true;
+        sm.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'www.salesmanago.pl/static/sm.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(sm, s);
+    })();
+</script>
+</body>
+</html>
+

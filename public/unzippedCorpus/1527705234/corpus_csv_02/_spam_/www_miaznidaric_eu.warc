@@ -1,0 +1,65 @@
+WARC/1.0
+WARC-Type: warcinfo
+WARC-Date: 2018-05-30T17:52:31Z
+WARC-All-Language: en
+WARC-All-Content_type: text/html
+WARC-Record-ID: <urn:uuid:9c42a03d-2139-4178-8bd7-f3686fc4eefd>
+Content-Type: application/http;msgtype=response
+Content-Length: 46
+
+WARCProcessor by SING Group www.sing-group.com
+
+WARC/1.0
+WARC-Type: response
+WARC-Target-URI: http://www.miaznidaric.eu
+WARC-Date: 20180530175231
+WARC-Language: en
+WARC-Record-ID: <http://www.miaznidaric.eu>
+Content-Type: application/http;msgtype=response
+Content-Length: 2017
+
+HTTP/1.1 200
+Content-Type:text/html
+
+
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="verify-v1" content="8qt7eMV2Cej79QgECCbx4VxX0vqHxYxIG/ivHapgHtE=" />
+<LINK REL=STYLESHEET TYPE="text/css" HREF="/includes/steve.css">
+<SCRIPT LANGUAGE="JavaScript1.2" src="/includes/steve.js">
+</script>
+</head>
+<body>
+<map name="map">
+<!-- #$-:Image Map file created by GIMP Imagemap Plugin -->
+<!-- #$-:GIMP Imagemap Plugin by Maurits Rijk -->
+<!-- #$-:Please do not edit lines starting with "#$" -->
+<!-- #$VERSION:2.0 -->
+<!-- #$AUTHOR:Edward Gill -->
+<span style='position: absolute; overflow: auto; height: 0; width: 0;'>9tel4o_u <a href="http://www.miaznidaric.eu/i-torr/index.html">All movies for free</a></span>
+<area shape="rect" coords="60,329,308,366" alt="Mia&apos;s Homepage Slovensko" href="slo/domov/index.html" />
+<area shape="rect" coords="60,368,308,400" alt="Mia&apos;s homepage in English" href="eng/home/index.html" />
+<area shape="rect" coords="59,403,307,437" alt="Mia&apos;s Homepage auf Deutsch" href="deu/home/index.html" />
+</map>
+<table border="0" width="100%" height="100%">
+<tr>
+	<td align="center" valign="middle">
+	<img src="images/HomePageMia.gif" width="800" height="533" border="0" usemap="#map" />
+	</td>
+</tr>
+</table>
+<!-- Start of StatCounter Code -->
+<script type="text/javascript" language="javascript">
+var sc_project=2051394; 
+var sc_invisible=0; 
+var sc_partition=18; 
+var sc_security="b9d48e86"; 
+</script>
+
+<script type="text/javascript" language="javascript" src="http://www.statcounter.com/counter/counter.js"></script><noscript><a href="http://www.statcounter.com/" target="_blank"><img  src="http://c19.statcounter.com/counter.php?sc_project=2051394&java=0&security=b9d48e86&invisible=0" alt="php hit counter" border="0"></a> </noscript>
+<span class="nav1">&nbsp;&nbsp;&nbsp;&nbsp;All photos on this website by Neca Falk, except where indicated.
+<!-- End of StatCounter Code -->
+</body>
+</html>                                   
+

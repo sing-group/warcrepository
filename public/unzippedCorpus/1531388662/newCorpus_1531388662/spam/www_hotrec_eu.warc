@@ -1,0 +1,1289 @@
+WARC/1.0
+WARC-Type: warcinfo
+WARC-Date: 2018-05-30T18:18:32Z
+WARC-Record-ID: <urn:uuid:696717cc-0f38-4b1e-81d4-5dd7108f423f>
+WARC-All-Language: fr
+WARC-All-Content_type: text/html, text/html; charset=utf-8
+Content-Type: application/http;msgtype=response
+Content-Length: 46
+
+WARCProcessor by SING Group www.sing-group.com
+
+WARC/1.0
+WARC-Type: response
+WARC-Record-ID: <http://www.hotrec.eu>
+WARC-Date: 20180530181832
+WARC-Target-URI: http://www.hotrec.eu
+WARC-Language: fr
+Content-Type: application/http;msgtype=response
+Content-Length: 70627
+
+HTTP/1.1 200
+Content-Type:text/html; charset=utf-8
+
+
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" >
+	<head><title>
+	HOTREC - European trade association of hotels, restaurants and cafes - Hotrec
+</title><link href='/CSS/Common.css' rel='stylesheet' type='text/css'><link href='/CSS/Slider.css' rel='stylesheet' type='text/css'><link href='/CSS/ColorBox.css' rel='stylesheet' type='text/css'><link href='/CSS/fancybox/jquery.fancybox-1.3.4.css' rel='stylesheet' type='text/css'><script type='text/javascript' src='/Scripts/Common.js'></script><script type='text/javascript' src='/Scripts/jquery.min.js'></script><script type='text/javascript' src='/Scripts/jquery-ui.js'></script><script type='text/javascript' src='/Scripts/ColorBox.js'></script><script type='text/javascript' src='/Scripts/slides.min.jquery.js'></script><script type='text/javascript' src='/Scripts/JS.js'></script><script type='text/javascript' src='/Scripts/cufon-yui.js'></script><script type='text/javascript' src='/Scripts/DIN_400-DIN_700.font.js'></script><script type='text/javascript' src='/Scripts/fancybox/jquery.mousewheel-3.0.4.pack.js'></script><script type='text/javascript' src='/Scripts/fancybox/jquery.fancybox-1.3.4.pack.js'></script><link rel='SHORTCUT ICON' href='/Favicon.ico'>
+        <script type="text/javascript">
+            Cufon.replace('h1, .cufon, .menuTop a, .mainMenu a', { hover: true });
+        </script>
+        		
+		<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-6852769-1']);
+  _gaq.push(['_setDomainName', 'none']);
+  _gaq.push(['_setAllowLinker', true]);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+    <script type="text/javascript">
+        if (!String.prototype.startsWith) {
+            String.prototype.startsWith = function(searchString, position) {
+                position = position || 0;
+                return this.indexOf(searchString, position) === position;
+            };
+        }
+        if (!window.location.href.startsWith('http://www.hotrec.eu/extranet/') && !window.location.href.startsWith('http://www.hotrec.eu/Extranet/')) {
+            window.location = "https://www.hotrec.org";
+            console.log('redirect');
+        }
+    </script><meta name="keywords" content="HOTREC, METRO, Own business day" /><meta name="description" content="HOTREC represents the hotel, restaurant and café industry at European level. " /><meta http-equiv="last-modified" content="Wed, 02 May 2018 12:37:59 GMT" /></head>
+	<body>
+	    
+		<form name="homeForm" method="post" action="/default.aspx" onsubmit="if (typeof(ValidatorOnSubmit) == 'function' && ValidatorOnSubmit() == false) return false; return true;" id="homeForm">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKMjA2Njc0MzE3Ng8WAh4FVGl0bGUFTUhPVFJFQyAtIEV1cm9wZWFuIHRyYWRlIGFzc29jaWF0aW9uIG9mIGhvdGVscywgcmVzdGF1cmFudHMgYW5kIGNhZmVzIC0gSG90cmVjFgICBQ9kFiYCCw9kFgICBQ8PFgIeC05hdmlnYXRlVXJsBRkvZG16L3Jzcy5hc3B4P0ZlZVJlZj1NRU5VZGQCDw8WBB4KRGF0YU1lbWJlcgUETWVudR4LXyFJdGVtQ291bnQCAxYGZg9kFggCAQ8PFgIeCEltYWdlVXJsBUJodHRwOi8vd3d3LmhvdHJlYy5ldS9Eb2N1bWVudHMvUGFnZS9MYXJnZS8yMDE3MDkyODE3MDYzMC1wYXN0YS5qcGdkZAIDDxYCHgRUZXh0BQRGb29kZAIFDxYCHwUFeVRoZSBob3NwaXRhbGl0eSBpbmR1c3RyeSBzZXJ2ZXMgbWlsbGlvbnMgb2YgbWVhbHMgdG8gY29uc3VtZXJzIGV2ZXJ5IGRheS4gSXQgaXMgdGhlcmVmb3JlIGEga2V5IHBsYXllciBpbiB0aGUgZm9vZCBjaGFpbi5kAgcPDxYCHwEFFi9wb2xpY3kvZm9vZC04ODIxLmFzcHhkZAIBD2QWCAIBDw8WAh8EBURodHRwOi8vd3d3LmhvdHJlYy5ldS9Eb2N1bWVudHMvUGFnZS9MYXJnZS8yMDE3MTAwMjE1NTI1OC1FQ09ET09SLmpwZ2RkAgMPFgIfBQUOU3VzdGFpbmFiaWxpdHlkAgUPFgIfBQVzVGhlIGhvc3BpdGFsaXR5IGluZHVzdHJ5IGlzIGNvbW1pdHRlZCBzaW5jZSBtYW55IHllYXJzIGluIGNvbnRyaWJ1dGluZyB0byB0aGUgc3VzdGFpbmFiaWxpdHkgb2JqZWN0aXZlcyBvZiB0aGUgRVUuIGQCBw8PFgIfAQUgL3BvbGljeS9zdXN0YWluYWJpbGl0eS04ODIyLmFzcHhkZAICD2QWCAIBDw8WAh8EBWFodHRwOi8vd3d3LmhvdHJlYy5ldS9Eb2N1bWVudHMvUGFnZS9MYXJnZS8yMDE3MTEwMjExMDY0Mi1Cb29rX2RpcmVjdF9iYW5uZXJfRW5nbGlzaF9sb2dvX29ubHkuanBnZGQCAw8WAh8FBQpCb29rRGlyZWN0ZAIFDxYCHwUFEldoeSAnQm9vayBEaXJlY3QnP2QCBw8PFgIfAQUVL2Jvb2tkaXJlY3QtODgzNi5hc3B4ZGQCEw8WAh8FBQxQYXJ0bmVyc2hpcHNkAhUPDxYCHwEFIS9jdXN0L3BsYXllcnZpZGVvZG9jdW1lbnQuYXNweD92PWQWAmYPDxYCHwRlZGQCFw8WAh8FBZIMDQoNCg0KDQoNCg0KDQoNCg0KDQoNCg0KDQoNCg0KDQoNCg0KDQoNCg0KDQoNCg0KDQoNCg0KDQoNCg0KDQoNCg0KDQoNCg0KDQoNCg0KPGRpdj4NCgkNCgkNCgkNCgkNCgkNCgkNCgkNCgkNCgkNCgkNCgkNCgkNCgkNCgkNCgkNCgkNCgkNCgkNCgkNCgkNCgkNCgkNCgkNCgkNCgkNCgkNCgkNCgkNCgkNCgkNCgkNCgkNCgkNCgkNCgkNCgkNCgkNCgkNCgk8ZGl2IHN0eWxlPSJ0ZXh0LWFsaWduOiBqdXN0aWZ5OyI+DQoJCQ0KCQkNCgkJDQoJCQ0KCQkNCgkJDQoJCQ0KCQkNCgkJDQoJCQ0KCQkNCgkJDQoJCQ0KCQkNCgkJDQoJCQ0KCQkNCgkJDQoJCQ0KCQkNCgkJDQoJCQ0KCQkNCgkJDQoJCQ0KCQkNCgkJDQoJCQ0KCQkNCgkJDQoJCQ0KCQkNCgkJDQoJCQ0KCQkNCgkJDQoJCQ0KCQkNCgkJPGRpdiBzdHlsZT0idGV4dC1hbGlnbjogY2VudGVyOyI+DQoJCQkNCgkJCQ0KCQkJDQoJCQk8dGFibGUgc3R5bGU9InRleHQtYWxpZ246IGNlbnRlcjsgYm9yZGVyLWNvbGxhcHNlOiBjb2xsYXBzZTsgd2lkdGg6IDEwMCU7Ij4NCgkJCQkNCgkJCQkNCgkJCQkNCgkJCQk8dGJvZHk+DQoJCQkJCQ0KCQkJCQkNCgkJCQkJDQoJCQkJCTx0cj4NCgkJCQkJCQ0KCQkJCQkJDQoJCQkJCQkNCgkJCQkJCTx0ZD48YnI+DQoJCQkJCQkJPGltZyBzcmM9Imh0dHA6Ly93d3cuaG90cmVjLmV1L2RvY3VtZW50cy9kb2N1bWVudC9sYXJnZS8yMDE4MDIxNDEyMTI1Mi1faGMtbG9nb19yZ2JfNTAwLnBuZyIgdGl0bGU9IiIgYWx0PSIiIHdpZHRoPSIxMzAiIGJvcmRlcj0iMCI+PC90ZD4NCgkJCQkJCQ0KCQkJCQkJDQoJCQkJCQkNCgkJCQkJCTx0ZD48YnI+DQoJCQkJCQkJDQoJCQkJCQkJDQoJCQkJCQkJPGEgaHJlZj0iaHR0cDovL21rZy1ncm91cC5jb20vbWtnLWdyb3VwLWV4cGVydC1ob3RlbGllci8iPjxpbWcgc3JjPSJodHRwOi8vd3d3LmhvdHJlYy5ldS9kb2N1bWVudHMvZG9jdW1lbnQvMjAxODAxMzAwOTMxMzktbWtnLWdyb3VwLTIwMDcucG5nIiBhbHQ9IiIgYm9yZGVyPSIwcHgiIHdpZHRoPSIxMDAiPjwvYT48L3RkPg0KCQkJCQkNCgkJCQkJDQoJCQkJCQ0KCQkJCQk8L3RyPg0KCQkJCQ0KCQkJCQ0KCQkJCQ0KCQkJCTwvdGJvZHk+DQoJCQkNCgkJCQ0KCQkJDQoJCQk8L3RhYmxlPg0KCQkJDQoJCQkNCgkJCQ0KCQkJPHRhYmxlIHN0eWxlPSJ0ZXh0LWFsaWduOiBjZW50ZXI7IGJvcmRlci1jb2xsYXBzZTogY29sbGFwc2U7IHdpZHRoOiAxMDAlOyI+DQoJCQkJDQoJCQkJDQoJCQkJDQoJCQkJPHRib2R5Pg0KCQkJCQkNCgkJCQkJDQoJCQkJCQ0KCQkJCQk8dHI+DQoJCQkJCQkNCgkJCQkJCQ0KCQkJCQkJDQoJCQkJCQk8dGQ+PGEgaHJlZj0iaHR0cDovL3d3dy5hcHB0b3VyeW91LmV1LyI+PGltZyBzcmM9Imh0dHA6Ly93d3cuaG90cmVjLmV1L2RvY3VtZW50cy9kb2N1bWVudC8yMDE4MDEzMDA5NDMyNi1jYXB0dXJlLnBuZyIgYWx0PSIiIGJvcmRlcj0iMHB4IiB3aWR0aD0iODAiPjwvYT48L3RkPg0KCQkJCQkNCgkJCQkJPC90cj4NCgkJCQkNCgkJCQk8L3Rib2R5Pg0KCQkJDQoJCQk8L3RhYmxlPg0KCQkJDQoJCQkNCgkJCQ0KCQkJPC9kaXY+PC9kaXY+PC9kaXY+ZAIZDxYCHwUFD1doYXQgaXMgSE9UUkVDP2QCGw8WAh8FBc8IDQoNCg0KDQoNCg0KDQoNCg0KDQoNCg0KPGRpdj4NCgkNCgkNCgkNCgkNCgkNCgkNCgkNCgkNCgkNCgkNCgk8ZGl2IHN0eWxlPSJ0ZXh0LWFsaWduOiBqdXN0aWZ5OyI+SE9UUkVDIGlzIHRoZSZuYnNwOzxzcGFuIHN0eWxlPSJmb250LXdlaWdodDogYm9sZDsiPlZvaWNlIG9mIEhvdGVscywgUmVzdGF1cmFudHMsIENhZiZlYWN1dGU7cyBhbmQgc2ltaWxhciBlc3RhYmxpc2htZW50cyBpbiBFdXJvcGU8L3NwYW4+LiBXZSBicmluZyB0b2dldGhlciA0MyBuYXRpb25hbCBhc3NvY2lhdGlvbnMgcmVwcmVzZW50aW5nIHRoZSBob3NwaXRhbGl0eSBzZWN0b3IgLSB3aGljaCBpcyBjb21wb3NlZCBtYWlubHkgYnkgU01FcyAtIGluIDMwIGNvdW50cmllcyBhY3Jvc3MgRXVyb3BlLjwvZGl2Pg0KCQ0KCQ0KCQ0KCQ0KCQ0KCQ0KCQ0KCQ0KCQ0KCQ0KCTxkaXYgc3R5bGU9InRleHQtYWxpZ246IGp1c3RpZnk7Ij48YnIgLz4NCgkJDQoJCQ0KCQkNCgkJDQoJCQ0KCQkNCgkJDQoJCQ0KCQkNCgkJDQoJCTwvZGl2Pg0KCQ0KCQ0KCQ0KCQ0KCQ0KCQ0KCQ0KCQ0KCQ0KCQ0KCTxkaXYgc3R5bGU9InRleHQtYWxpZ246IGp1c3RpZnk7Ij48YSBocmVmPSJodHRwOi8vd3d3LmhvdHJlYy5ldS9kb2N1bWVudHMvZG9jdW1lbnQvMjAxODA0MTExMjA4NTQtYWNjZXNzX3RoZV9tZW1iZXJzaGlwXzExXzA0LnBkZiIgdGFyZ2V0PSJfc2VsZiI+QWNjZXNzIHRoZSBNZW1iZXJzaGlwPC9hPjwvZGl2Pg0KCQ0KCQ0KCQ0KCQ0KCQ0KCQ0KCQ0KCTxkaXYgc3R5bGU9InRleHQtYWxpZ246IGp1c3RpZnk7Ij48YnIgLz4NCgkJDQoJCQ0KCQkNCgkJDQoJCQ0KCQkNCgkJDQoJCTwvZGl2Pg0KCQ0KCQ0KCQ0KCQ0KCQ0KCQ0KCQ0KCQ0KCQ0KCQ0KCTxkaXYgc3R5bGU9InRleHQtYWxpZ246IGp1c3RpZnk7Ij48YnIgLz4NCgkJDQoJCQ0KCQkNCgkJDQoJCQ0KCQkNCgkJDQoJCQ0KCQkNCgkJDQoJCTwvZGl2Pg0KCQ0KCQ0KCQ0KCQ0KCQ0KCQ0KCQ0KCQ0KCQ0KCQ0KCTxkaXYgc3R5bGU9InRleHQtYWxpZ246IGp1c3RpZnk7Ij48YSBocmVmPSIvYWJvdXQtdXMvbWVtYmVyc2hpcC04OTc1LmFzcHgiIHRhcmdldD0iX3NlbGYiPlJlYWQgbW9yZTwvYT48L2Rpdj4NCgkNCgkNCgk8L2Rpdj5kAh0PFgIfBWVkAh8PFgIfBQVEPGRpdiBzdHlsZT0idGV4dC1hbGlnbjoganVzdGlmeTsiPjxicj4NCgkNCgkNCgkNCgkNCgkNCgkNCgkNCgk8L2Rpdj5kAiMPDxYCHgdWaXNpYmxlaGRkAiUPDxYCHwEFDi9uZXdzcm9vbS5hc3B4ZGQCJw8WBB8CBQRNZW51HwMCBRYKZg9kFgoCAQ8PFgIfBQUuRXhDb20gd2VsY29tZXMgYSBuZXcgRXhDb20gTWVtYmVyIGZyb20gQmVsZ2l1bWRkAgMPFgIfBQUNMjcgQXByaWwgMjAxOGQCBQ8WAh8FZWQCBw8WAh8DAv////8PZAIJDw8WAh8BBVEvbmV3c3Jvb20vcHJlc3MtcmVsZWFzZXMtMTcxNC9leGNvbS13ZWxjb21lcy1hLW5ldy1leGNvbS1tZW1iZXItZnJvbS1iZWxnaXVtLmFzcHhkZAIBD2QWCgIBDw8WAh8FBVJDb21taXNzaW9uIHByb3Bvc2FsIGZvciBtb3JlIGNlcnRhaW50eSBpbiBidXNpbmVzcyByZWxhdGlvbnMgd2l0aCBvbmxpbmUgcGxhdGZvcm1zZGQCAw8WAh8FBQ0yNiBBcHJpbCAyMDE4ZAIFDxYCHwVlZAIHDxYCHwMCARYCZg9kFgICAQ8PFgQfBQUTT25saW5lIERpc3RyaWJ1dGlvbh8BBSAvcG9saWN5L29ubGluZS1kaXN0cmlidXRpb24uYXNweBYCHgVDYXRJRAUCNTNkAgkPDxYCHwEFdS9uZXdzcm9vbS9wcmVzcy1yZWxlYXNlcy0xNzE0L2NvbW1pc3Npb24tcHJvcG9zYWwtZm9yLW1vcmUtY2VydGFpbnR5LWluLWJ1c2luZXNzLXJlbGF0aW9ucy13aXRoLW9ubGluZS1wbGF0Zm9ybXMuYXNweGRkAgIPZBYKAgEPDxYCHwUFO0hPVFJFQyBleHBhbmRzIGl0cyBtZW1iZXJzaGlwIGluIEdlb3JnaWEsIFBvbGFuZCBhbmQgU3BhaW4hZGQCAw8WAh8FBQ0yNiBBcHJpbCAyMDE4ZAIFDxYCHwVlZAIHDxYCHwMC/////w9kAgkPDxYCHwEFXC9uZXdzcm9vbS9wcmVzcy1yZWxlYXNlcy0xNzE0L2hvdHJlYy1leHBhbmRzLWl0cy1tZW1iZXJzaGlwLWluLWdlb3JnaWEtcG9sYW5kLWFuZC1zcGFpbi5hc3B4ZGQCAw9kFgoCAQ8PFgIfBQVERnJhbnogSG9lcmwgaG9ub3VyZWQgd2l0aCB0aGUgRXVyb3BlYW4gSG9zcGl0YWxpdHkgRm91bmRhdGlvbiBBd2FyZCBkZAIDDxYCHwUFDTI2IEFwcmlsIDIwMThkAgUPFgIfBWVkAgcPFgIfAwL/////D2QCCQ8PFgIfAQVlL25ld3Nyb29tL3ByZXNzLXJlbGVhc2VzLTE3MTQvZnJhbnotaG9ybC1ob25vdXJlZC13aXRoLXRoZS1ldXJvcGVhbi1ob3NwaXRhbGl0eS1mb3VuZGF0aW9uLWF3YXJkLmFzcHhkZAIED2QWCgIBDw8WAh8FBXhUaGUgZGVwZW5kZW5jeSBvZiBob3RlbHMgdmlzLcOgLXZpcyBvbmxpbmUgcGxhdGZvcm1zIGtlZXBzIGluY3JlYXNpbmcgaW4gdGhlIGRpc3RyaWJ1dGlvbiBtYXJrZXQsIHNob3dzIGEgRXVyb3BlYW4gc3R1ZHlkZAIDDxYCHwUFDTE4IEFwcmlsIDIwMThkAgUPFgIfBWVkAgcPFgIfAwL/////D2QCCQ8PFgIfAQWZAS9uZXdzcm9vbS9wcmVzcy1yZWxlYXNlcy0xNzE0L3RoZS1kZXBlbmRlbmN5LW9mLWhvdGVscy12aXMtYS12aXMtb25saW5lLXBsYXRmb3Jtcy1rZWVwcy1pbmNyZWFzaW5nLWluLXRoZS1kaXN0cmlidXRpb24tbWFya2V0LXNob3dzLWEtZXVyb3BlYW4tc3R1ZHkuYXNweGRkAisPDxYCHwEFKy9kbXovcnNzLmFzcHg/RmVlUmVmPURPQ1VNRU5UJkZlZUZpbHRlcj0xMzlkZAItDw8WAh8BBRwvcHVibGljYXRpb25zLXBvc2l0aW9ucy5hc3B4ZGQCLw8WBB8CBQhEb2N1bWVudB8DAgMWBmYPZBYKAgEPDxYCHwQFIi9pbWFnZXMvZG9jdW1lbnQvbGFyZ2UvZG9jX3BkZi5naWZkZAIDDw8WAh8FBTNIT1RSRUMgcG9zaXRpb24gb24gYSBEaXJlY3RpdmUgb24gV29yay1MaWZlIEJhbGFuY2VkZAIFDxYCHwVlZAIHDxYCHwMCARYCZg9kFgICAQ8PFgQfBQUOU29jaWFsIGFmZmFpcnMfAQVAL3BvbGljeS9zb2NpYWwtYWZmYWlycy9ob3NwaXRhbGl0eS1za2lsbHMtcGFzc3BvcnQtLS1sYXVuY2guYXNweBYCHwcFAjM1ZAIJDw8WAh4MRGF0YVNvdXJjZUlEBQQ3MTcyZGQCAQ9kFgoCAQ8PFgIfBAUiL2ltYWdlcy9kb2N1bWVudC9sYXJnZS9kb2NfcGRmLmdpZmRkAgMPDxYCHwUFNUhPVFJFQyBwb3NpdGlvbiBwYXBlciBvbiBXcml0dGVuIFN0YXRlbWVudCBEaXJlY3RpdmUgZGQCBQ8WAh8FZWQCBw8WAh8DAgEWAmYPZBYCAgEPDxYEHwUFDlNvY2lhbCBhZmZhaXJzHwEFQC9wb2xpY3kvc29jaWFsLWFmZmFpcnMvaG9zcGl0YWxpdHktc2tpbGxzLXBhc3Nwb3J0LS0tbGF1bmNoLmFzcHgWAh8HBQIzNWQCCQ8PFgIfCAUENzE3M2RkAgIPZBYKAgEPDxYCHwQFIi9pbWFnZXMvZG9jdW1lbnQvbGFyZ2UvZG9jX3BkZi5naWZkZAIDDw8WAh8FBSVFRkZBVC1IT1RSRUMgV29yayBQcm9ncmFtbWUgMjAxOC0yMDE5ZGQCBQ8WAh8FZWQCBw8WAh8DAgEWAmYPZBYCAgEPDxYEHwUFDlNvY2lhbCBhZmZhaXJzHwEFQC9wb2xpY3kvc29jaWFsLWFmZmFpcnMvaG9zcGl0YWxpdHktc2tpbGxzLXBhc3Nwb3J0LS0tbGF1bmNoLmFzcHgWAh8HBQIzNWQCCQ8PFgIfCAUENzAwNWRkAjMPDxYCHwEFKi9kbXovcnNzLmFzcHg/RmVlUmVmPURPQ1VNRU5UJkZlZUZpbHRlcj0xMWRkAjUPDxYCHwEFIC9uZXdzcm9vbS92aWRlb3MtaW50ZXJ2aWV3cy5hc3B4ZGQCNw8PFgIfAQVYL2N1c3QvcGxheWVydmlkZW9kb2N1bWVudC5hc3B4P3Y9aHR0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" />
+
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() { Cufon.replace('.cufon, h3'); Cufon.now(); });//]]>
+</script>
+
+<script src="/ScriptResource.axd?d=g1DHQbcLqeViky1uU7JUcXMbo4zKDuLoh4Roy7_oGbPy0EJlXsHyG965h7MG_lFIWeMzR122BVBok8F4tf4a_nqA9ET6888FscMV84c7bjoMm12yHleD2yZTmBy-S26ZRhRkcL8TvhQoO5NS96jvj0v28ok1&amp;t=ffffffffbcb9b94a" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=KzBTtrg4GSfCk8j6Jh2mMJa3TVOBBYxrb49XEbFUs-9yCNmw5kofRZ05GdakFs_kykzlX-OgOASvoPskLw_vvvZ7i9x3N6NqiTDPfHlQCLWx2LErYhZrmcw1aMjJ2DRcwoFraku3zThatpU4-4-12uS0UtU1&amp;t=5f915bbd" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=vTer2z1Jdcc1wLYAhm51uj7He8ajZiWUjrfpbsRkumkrG0G4WQHxoKB7oCgTqUgGDHpSZKa3i1soX0Wzr4YatgAfN8LNwbFJdJAxKV6hlIDBvpACOk14qtYXTSex-jVIB56SNRX8YxcRf3XLwIcyG8zcz0c1&amp;t=5f915bbd" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=l8zXUEHQ_wUmj8wikQad0ZS-b0N5U7ccSE-VdS-8d3CFf0-eqkzUVz8KYdk2LzCxJoEA9nU9LrrIyq1ggDbzwgw-UCBAT0tcvVQPdAK0d66W1G4y3WeV0cDEnVpa-XkJYQaNzovIbMrGVfMwU2SHBs-wUsptdPZu5dS48MMgDZ6R1l0b0&amp;t=5f915bbd" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=ZsspPJQpU3JArpsHhX8Br5_dTBB4GOlaAO1Ct7czjLGuhKcVHN8ov585Ag75q9EpevmBcTmgfp05XA6ViDlZDoyoaJkBoVc5vcHnW1M_IWXGmD1HcEGca5icDw-aVCEMlNcRXPolCq9t3QlK9sfzvnFn_8c1&amp;t=5f915bbd" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=yvkVMq1k8ZnaJsQ9_cF0y3m4hdusg9_6Kp3rUF1RWzcimfvdBPg_WekqKHKnCVh_ADvhpmouPOt2PZEtJOibF3xoVakGg2cNN7RXAciQZteyqGEEiZDZY1-DHBqLHqJwBETUQo-u2SKRF9u4gdIV2KzQ1kA1&amp;t=5f915bbd" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=cmH-nma4nTamrIBjxbaUT-5KrzXxq2feBgm70Yhi7uBEC6U-9-EF92IYIbnPadI-gHdLHRlL-IX_F4xdi03fV9ZEulB31e3N-Th-TmYzhOrXqesW0xQRxLt3pMpmv5JpWQvCs5jIWT-yIjD6cfC8Fuf_I3cD6K8vjfN83KvxBFl6ZmK30&amp;t=5f915bbd" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=9iSDCkFe_IExOgAwpcmOg6JxC6kJWK1PT7S4FSSniynJhtzOFoomCaOd61hoqrLg7QN8cK0QaVMgXIqqZGH4h1ozErUBhCwjZ6Er4V0PwHMt2DFULsLh1PPj1mUfZpIHYBA236bK30fRnckjckhYFw6AWOB2WHdwXtA3WNTokw1zOpFH0&amp;t=5f915bbd" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=89GkIOYYFTl0ddm3K1nitVZwyxOc31q9hnlLJxssxU9vb-duHpnSzgUhd1GEEcE6WJwHNB5ixGS1HPbOVisGIrfdg7Bh6xZ4RL6KjHRVwsQk45F_6sL1ytVVPacFoKFS5_ho9EYYglGdQSFTD-0xAhV_3Kfn6lLnUKaWjtfFZqh53AWD0&amp;t=5f915bbd" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=vi2wTSIayNAYbQUVyY7S9QviKU87tI88jO7u3muvD9RmMzxgXCwg_NQfNwRPJPNRaBCSgnKnGA8_M46SkGGWv_wKCKN9HLS4SWhATdahhc9XztHav8OORvwxc42zxRkJmTIZZ2wuUzokC0eUo0pRApekGaKWQxKivuOyJVHT7OlrzmVo0&amp;t=5f915bbd" type="text/javascript"></script>
+<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="1114A9A7" />
+<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEWFwKk+dr2AgL2xc7sDgLOmeTRAwLu05/mBgLnif/0DQL2gdrgBQKugeKhDgLvv+OhCQLK4IiZDAK7sYyhCgKFuvDeCgLz0dOXBgLr/tycCQLd47fVDwK6x9qmDQLJ8Z7oDAKz696PBwLnq6+yDQKx6vyyCQKIn8KLBALrwaPYAgKG++9HAtzejv4HBFmj/q5AYNMWkwRPjJqlOWGa1vM=" />
+		
+			
+
+            <div class="container">
+
+	            <div class="wrapperContent">
+    
+                    
+
+    	            <div class="header">
+        
+                        <a id="logo" class="logo" href="/"></a>
+
+                        <h1 class="titlePrint" style="font-size: 36px;">HOTREC</h1>
+            
+                        <h1>The umbrella association of Hotels, Restaurants and Cafés in Europe</h1>
+
+       		            <div class="right">
+
+                            
+                            
+                            <ul class='menuTop'><li class='F1 P1 '><a href='/sitemap.aspx' target='_self'>Sitemap</a></li><li class='L1 P2 '><a href='/contact.aspx' target='_self'>Contact</a></li></ul>
+                
+                            
+
+                            <div>
+	
+                                
+                                <div class="boxSearch">
+                
+                	                <div class="form"><input name="searchText" type="text" id="searchText" /></div>
+                
+                                    <a id="searchButton_linkButton" class="btn_search" href="javascript:__doPostBack('searchButton$linkButton','')"></a><script type='text/javascript'>$(function () { AddClick('searchButton_linkButton'); });</script>
+	                	
+                                </div>
+
+                            
+</div>
+
+                            
+
+                            <div class="follow">
+
+                                
+
+<a href="https://www.facebook.com/hotrec.hospitalityeurope" target="_blank" class="facebook">
+    <img src="/Images/fb.png" border="0" />
+</a>
+
+<a href="https://twitter.com/HOTREC_EUROPE" target="_blank" class="twitter">
+    <img src="/Images/twitter.png" border="0" />
+</a>
+
+<a href="http://www.youtube.com/user/hotrec" target="_blank" class="youtube"></a>
+
+<a href="http://www.linkedin.com/company/2333756?trk=tyah" target="_blank" class="linkedin"></a>
+
+<a id="followUs_followRSS" class="rss" href="/dmz/rss.aspx?FeeRef=MENU"></a>
+                            
+                            </div>
+            
+                        </div>
+            
+                        <div class="clearAll"></div>
+            
+                        
+
+                        <ul class='mainMenu'><li class='F1 P1 '><a href='/about-us/mission-vision.aspx' target='_self'>About us</a><ul><li class='F2 P1 '><a href='/about-us/mission-vision.aspx' target='_self'>Mission & Vision</a></li><li class='M2 P2 '><a href='/about-us/organisation-8597.aspx' target='_self'>Organisation</a></li><li class='M2 P3 '><a href='/about-us/membership-8975.aspx' target='_self'>Membership</a></li><li class='L2 P4 '><a href='/about-us/european-hospitality-foundation-8620.aspx' target='_self'>European Hospitality Foundation</a></li></ul></li><li class='M1 P2 '><a href='/our-industry.aspx' target='_self'>our Industry </a></li><li class='M1 P3 '><a href='/policy/introduction.aspx' target='_self'>Policy</a><ul><li class='F2 P1 '><a href='/policy/introduction.aspx' target='_self'>Introduction</a></li><li class='M2 P2 '><a href='/policy/tourism-8820.aspx' target='_self'>Tourism</a></li><li class='M2 P3 '><a href='/policy/food-8821.aspx' target='_self'>Food</a></li><li class='M2 P4 '><a href='/policy/health.aspx' target='_self'>Health</a></li><li class='M2 P5 '><a href='/policy/consumer-affairs.aspx' target='_self'>Consumer affairs</a></li><li class='M2 P6 '><a href='/policy/taxation.aspx' target='_self'>Taxation </a></li><li class='M2 P7 '><a href='/policy/sustainability-8822.aspx' target='_self'>Sustainability</a></li><li class='M2 P8 '><a href='/policy/social-affairs.aspx' target='_self'>Social Affairs</a></li><li class='M2 P9 '><a href='/policy/copyright.aspx' target='_self'>Copyright</a></li><li class='M2 P10 '><a href='/policy/quality.aspx' target='_self'>Quality </a></li><li class='M2 P11 '><a href='/policy/online-distribution.aspx' target='_self'>Online distribution</a></li><li class='M2 P12 '><a href='/policy/standards.aspx' target='_self'>Standards</a></li><li class='M2 P13 '><a href='/policy/internal-market.aspx' target='_self'>Internal market</a></li><li class='M2 P14 '><a href='/policy/competition.aspx' target='_self'>Competition</a></li><li class='M2 P15 '><a href='/policy/enterprise-policy.aspx' target='_self'>Enterprise policy </a></li><li class='M2 P16 '><a href='/policy/sharing-economy.aspx' target='_self'>"Sharing" economy</a></li><li class='L2 P17 '><a href='/policy/data-protection.aspx' target='_self'>Data Protection </a></li></ul></li><li class='M1 P4 '><a href='/newsroom.aspx' target='_self'>Newsroom</a><ul><li class='F2 P1 '><a href='/newsroom/press-releases-1714.aspx' target='_self'>Press releases</a></li><li class='M2 P2 '><a href='/newsroom/events.aspx' target='_self'>Events</a></li><li class='M2 P3 '><a href='/newsroom/videos-interviews.aspx' target='_self'>Videos & interviews</a></li><li class='L2 P4 '><a href='/newsroom/hotrec-in-the-press.aspx' target='_self'>HOTREC in the Press</a></li></ul></li><li class='M1 P5 '><a href='/publications/position-papers.aspx' target='_self'>Publications </a><ul><li class='F2 P1 '><a href='/publications/position-papers.aspx' target='_self'>Position Papers </a></li><li class='M2 P2 '><a href='/publications/annual-reports.aspx' target='_self'>Annual Reports</a></li><li class='M2 P3 '><a href='/publications/policy-reports.aspx' target='_self'>Policy Reports</a></li><li class='L2 P4 '><a href='/publications/other-publications.aspx' target='_self'>Other Publications </a></li></ul></li><li class='M1 P6 '><a href='/hotel-stars-in-europe-8630.aspx' target='_self'>Hotel stars in Europe </a></li><li class='M1 P7 '><a href='/bookdirect-8836.aspx' target='_self'>BookDirect</a></li><li class='L1 P8 '><a href='http://www.hotrec.eu/extranet' target='_blank'>Members' website</a></li></ul>
+       
+                    </div>
+        
+                    
+
+		            <div class="homeSlider" id="example">
+
+			            <div id="slides">
+
+				            <div class="slides_container">
+
+                                
+                                    
+                                        <div class="slide">
+
+                                            <img id="slider_ctl00_pic" src="http://www.hotrec.eu/Documents/Page/Large/20170928170630-pasta.jpg" border="0" />
+
+						                    <div class="caption" style="bottom:0">
+
+							                    <h3 class="cufon">Food</h3>
+                            
+                                                <p>The hospitality industry serves millions of meals to consumers every day. It is therefore a key player in the food chain.</p>
+                            
+                                                <a id="slider_ctl00_more" class="btn_more_info" href="/policy/food-8821.aspx"></a>
+
+						                    </div>
+
+					                    </div>
+                                    
+                                    
+                                    
+                                        <div class="slide">
+
+                                            <img id="slider_ctl01_pic" src="http://www.hotrec.eu/Documents/Page/Large/20171002155258-ECODOOR.jpg" border="0" />
+
+						                    <div class="caption" style="bottom:0">
+
+							                    <h3 class="cufon">Sustainability</h3>
+                            
+                                                <p>The hospitality industry is committed since many years in contributing to the sustainability objectives of the EU. </p>
+                            
+                                                <a id="slider_ctl01_more" class="btn_more_info" href="/policy/sustainability-8822.aspx"></a>
+
+						                    </div>
+
+					                    </div>
+                                    
+                                    
+                                    
+                                        <div class="slide">
+
+                                            <img id="slider_ctl02_pic" src="http://www.hotrec.eu/Documents/Page/Large/20171102110642-Book_direct_banner_English_logo_only.jpg" border="0" />
+
+						                    <div class="caption" style="bottom:0">
+
+							                    <h3 class="cufon">BookDirect</h3>
+                            
+                                                <p>Why 'Book Direct'?</p>
+                            
+                                                <a id="slider_ctl02_more" class="btn_more_info" href="/bookdirect-8836.aspx"></a>
+
+						                    </div>
+
+					                    </div>
+                                    
+                                    
+
+				            </div>
+
+                            <div id="arrows">
+
+                                <a href="#" class="prev"><img src="/Images/arrow-prev.png" alt="Arrow Prev" height="43" width="24" border="0" /></a>
+
+                                <a href="#" class="next"><img src="/Images/arrow-next.png" alt="Arrow Next" height="43" width="24" border="0" /></a>
+
+                            </div>
+
+			            </div>
+
+		            </div>
+        
+                    <div class="mainContent home">
+        
+        	            <div class="column01">
+            
+                            
+
+            	            <div class="boxBlue">
+                
+                	            <div class="Top"><h2 class="cufon">Partnerships</h2></div>
+                    
+                                <div class="borderTop"></div>
+                    
+                                <div class="content">
+
+									<a id="topVideoLink" rel="videobox" href="/cust/playervideodocument.aspx?v="><img id="topVideoPic" src="" width="226" border="0" /></a>
+								
+									
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div>
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	<div style="text-align: justify;">
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		<div style="text-align: center;">
+			
+			
+			
+			<table style="text-align: center; border-collapse: collapse; width: 100%;">
+				
+				
+				
+				<tbody>
+					
+					
+					
+					<tr>
+						
+						
+						
+						<td><br>
+							<img src="http://www.hotrec.eu/documents/document/large/20180214121252-_hc-logo_rgb_500.png" title="" alt="" width="130" border="0"></td>
+						
+						
+						
+						<td><br>
+							
+							
+							<a href="http://mkg-group.com/mkg-group-expert-hotelier/"><img src="http://www.hotrec.eu/documents/document/20180130093139-mkg-group-2007.png" alt="" border="0px" width="100"></a></td>
+					
+					
+					
+					</tr>
+				
+				
+				
+				</tbody>
+			
+			
+			
+			</table>
+			
+			
+			
+			<table style="text-align: center; border-collapse: collapse; width: 100%;">
+				
+				
+				
+				<tbody>
+					
+					
+					
+					<tr>
+						
+						
+						
+						<td><a href="http://www.apptouryou.eu/"><img src="http://www.hotrec.eu/documents/document/20180130094326-capture.png" alt="" border="0px" width="80"></a></td>
+					
+					</tr>
+				
+				</tbody>
+			
+			</table>
+			
+			
+			
+			</div></div></div>
+									
+								</div>
+                    
+                                <div class="borderBottom"></div>
+                
+                            </div>
+
+                            
+                
+                            <div class="boxBlue members">
+                
+                	            <div class="Top"><h2 class="cufon">What is HOTREC?</h2></div>
+                    
+                                <div class="borderTop"></div>
+                    
+                                <div class="content">
+                    
+                    	            
+
+
+
+
+
+
+
+
+
+
+
+<div>
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	<div style="text-align: justify;">HOTREC is the&nbsp;<span style="font-weight: bold;">Voice of Hotels, Restaurants, Caf&eacute;s and similar establishments in Europe</span>. We bring together 43 national associations representing the hospitality sector - which is composed mainly by SMEs - in 30 countries across Europe.</div>
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	<div style="text-align: justify;"><br />
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		</div>
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	<div style="text-align: justify;"><a href="http://www.hotrec.eu/documents/document/20180411120854-access_the_membership_11_04.pdf" target="_self">Access the Membership</a></div>
+	
+	
+	
+	
+	
+	
+	
+	<div style="text-align: justify;"><br />
+		
+		
+		
+		
+		
+		
+		
+		</div>
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	<div style="text-align: justify;"><br />
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		</div>
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	<div style="text-align: justify;"><a href="/about-us/membership-8975.aspx" target="_self">Read more</a></div>
+	
+	
+	</div>
+                    
+                                </div>
+                    
+                                <div class="borderBottom"></div>
+                
+                            </div> 
+                
+                            
+
+                            <!--<div class="boxHome">
+                
+                	            <div class="borderTop"></div>
+                    
+                                <div class="content">
+                    
+                    	            <h2 class="cufon"></h2>
+                        
+                                    <p><div style="text-align: justify;"><br>
+	
+	
+	
+	
+	
+	
+	
+	</div></p>
+                    
+                                </div>
+                    
+                                <div class="borderBottom"></div>
+                
+                            </div>-->
+            
+                        </div>
+
+                        <div class="column02">
+
+                            
+                    
+            	            <div class="boxBlue">
+                
+                	            <div class="Top">
+                    
+                                    <h2 class="cufon">Latest press releases</h2>
+                        
+                                    
+                        
+                                    <a id="pressSeeAll" href="/newsroom.aspx">See all</a>
+                                            
+                                </div>
+                    
+                                <div class="borderTop"></div>
+                    
+                                <div class="content">
+                    
+                    	            
+
+                                            <div class="item_press">
+                        
+                                                <span id="pressReleases_ctl00_title" class="title">ExCom welcomes a new ExCom Member from Belgium</span>
+                            
+                                                <span class="date" style="margin-left: 5px">27 April 2018</span>
+                            
+                                                <p></p>
+
+												
+
+												<div class="clearAll" style="margin-bottom: 10px;"></div>
+                            
+                                                
+												
+												<a id="pressReleases_ctl00_more" class="more" href="/newsroom/press-releases-1714/excom-welcomes-a-new-excom-member-from-belgium.aspx">Read more</a>
+                         
+                                            </div>
+
+                                        
+
+                                            <div class="item_press">
+                        
+                                                <span id="pressReleases_ctl01_title" class="title">Commission proposal for more certainty in business relations with online platforms</span>
+                            
+                                                <span class="date" style="margin-left: 5px">26 April 2018</span>
+                            
+                                                <p></p>
+
+												
+                                
+														<a id="pressReleases_ctl01_themes_ctl00_link" CatID="53" href="/policy/online-distribution.aspx">Online Distribution</a>
+                                
+													
+
+												<div class="clearAll" style="margin-bottom: 10px;"></div>
+                            
+                                                
+												
+												<a id="pressReleases_ctl01_more" class="more" href="/newsroom/press-releases-1714/commission-proposal-for-more-certainty-in-business-relations-with-online-platforms.aspx">Read more</a>
+                         
+                                            </div>
+
+                                        
+
+                                            <div class="item_press">
+                        
+                                                <span id="pressReleases_ctl02_title" class="title">HOTREC expands its membership in Georgia, Poland and Spain!</span>
+                            
+                                                <span class="date" style="margin-left: 5px">26 April 2018</span>
+                            
+                                                <p></p>
+
+												
+
+												<div class="clearAll" style="margin-bottom: 10px;"></div>
+                            
+                                                
+												
+												<a id="pressReleases_ctl02_more" class="more" href="/newsroom/press-releases-1714/hotrec-expands-its-membership-in-georgia-poland-and-spain.aspx">Read more</a>
+                         
+                                            </div>
+
+                                        
+
+                                            <div class="item_press">
+                        
+                                                <span id="pressReleases_ctl03_title" class="title">Franz Hoerl honoured with the European Hospitality Foundation Award </span>
+                            
+                                                <span class="date" style="margin-left: 5px">26 April 2018</span>
+                            
+                                                <p></p>
+
+												
+
+												<div class="clearAll" style="margin-bottom: 10px;"></div>
+                            
+                                                
+												
+												<a id="pressReleases_ctl03_more" class="more" href="/newsroom/press-releases-1714/franz-horl-honoured-with-the-european-hospitality-foundation-award.aspx">Read more</a>
+                         
+                                            </div>
+
+                                        
+
+                                            <div class="item_press">
+                        
+                                                <span id="pressReleases_ctl04_title" class="title">The dependency of hotels vis-à-vis online platforms keeps increasing in the distribution market, shows a European study</span>
+                            
+                                                <span class="date" style="margin-left: 5px">18 April 2018</span>
+                            
+                                                <p></p>
+
+												
+
+												<div class="clearAll" style="margin-bottom: 10px;"></div>
+                            
+                                                
+												
+												<a id="pressReleases_ctl04_more" class="more" href="/newsroom/press-releases-1714/the-dependency-of-hotels-vis-a-vis-online-platforms-keeps-increasing-in-the-distribution-market-shows-a-european-study.aspx">Read more</a>
+                         
+                                            </div>
+
+                                        
+                    
+                                </div>
+                    
+                                <div class="borderBottom"></div>
+                
+                            </div>       
+            
+                        </div>
+            
+                        <div class="column03">
+
+                            
+            
+            	            <div class="boxBlue">
+            
+            		            <div class="Top">
+                    	            
+                                    <h2 class="cufon" style="width: 130px;">Publications & positions</h2>
+                        
+                                    <a id="publicationsRSS" class="rss" href="/dmz/rss.aspx?FeeRef=DOCUMENT&amp;FeeFilter=139"></a>
+                        
+                                    <a id="publicationsSeeAll" href="/publications-positions.aspx">See all</a>
+                    
+                                </div>
+                    
+                                <div class="borderTop"></div>
+                    
+                                <div class="content">
+
+                                    
+
+                                            <div class="item_document">
+                        
+                        	                    <div class="pics"><img id="publications_ctl00_pic" src="/images/document/large/doc_pdf.gif" border="0" /></div>
+                            
+                                                <div class="right">
+                            
+                            	                    <span id="publications_ctl00_title" class="title">HOTREC position on a Directive on Work-Life Balance</span>
+                                
+                                                    <p></p>
+
+													
+                                
+															<a id="publications_ctl00_themes_ctl00_link" CatID="35" href="/policy/social-affairs/hospitality-skills-passport---launch.aspx">Social affairs</a>
+                                
+														
+
+													<div class="clearAll" style="margin-bottom: 10px;"></div>
+                                
+                                                    <a id="publications_ctl00_download_documentLink" class="more" title="HOTREC position on a Directive on Work-Life Balance" caption="HOTREC position on a Directive on Work-Life Balance" onClick="try { _gaq.push(['_trackPageview', '/analytics/downloaddocument/7172/HOTREC position on a Directive on Work-Life Balance']); } catch(err) {} " href="/cust/documentrequest.aspx?DocID=7172" target="_blank">Download</a>
+                            
+                                                </div>
+                        
+                                            </div>
+
+                                        
+
+                                            <div class="item_document">
+                        
+                        	                    <div class="pics"><img id="publications_ctl01_pic" src="/images/document/large/doc_pdf.gif" border="0" /></div>
+                            
+                                                <div class="right">
+                            
+                            	                    <span id="publications_ctl01_title" class="title">HOTREC position paper on Written Statement Directive </span>
+                                
+                                                    <p></p>
+
+													
+                                
+															<a id="publications_ctl01_themes_ctl00_link" CatID="35" href="/policy/social-affairs/hospitality-skills-passport---launch.aspx">Social affairs</a>
+                                
+														
+
+													<div class="clearAll" style="margin-bottom: 10px;"></div>
+                                
+                                                    <a id="publications_ctl01_download_documentLink" class="more" title="HOTREC position paper on Written Statement Directive " caption="HOTREC position paper on Written Statement Directive " onClick="try { _gaq.push(['_trackPageview', '/analytics/downloaddocument/7173/HOTREC position paper on Written Statement Directive ']); } catch(err) {} " href="/cust/documentrequest.aspx?DocID=7173" target="_blank">Download</a>
+                            
+                                                </div>
+                        
+                                            </div>
+
+                                        
+
+                                            <div class="item_document">
+                        
+                        	                    <div class="pics"><img id="publications_ctl02_pic" src="/images/document/large/doc_pdf.gif" border="0" /></div>
+                            
+                                                <div class="right">
+                            
+                            	                    <span id="publications_ctl02_title" class="title">EFFAT-HOTREC Work Programme 2018-2019</span>
+                                
+                                                    <p></p>
+
+													
+                                
+															<a id="publications_ctl02_themes_ctl00_link" CatID="35" href="/policy/social-affairs/hospitality-skills-passport---launch.aspx">Social affairs</a>
+                                
+														
+
+													<div class="clearAll" style="margin-bottom: 10px;"></div>
+                                
+                                                    <a id="publications_ctl02_download_documentLink" class="more" title="EFFAT-HOTREC Work Programme 2018-2019" caption="EFFAT-HOTREC Work Programme 2018-2019" onClick="try { _gaq.push(['_trackPageview', '/analytics/downloaddocument/7005/EFFAT-HOTREC Work Programme 2018-2019']); } catch(err) {} " href="/cust/documentrequest.aspx?DocID=7005" target="_blank">Download</a>
+                            
+                                                </div>
+                        
+                                            </div>
+
+                                        
+                    
+                                </div>
+                    
+                                <div class="borderBottom"></div>
+            
+            	            </div>
+
+                            
+                
+            	            <!--<div class="boxBlue">
+                
+                	            <div class="Top">
+                    
+                    	            <h2 class="cufon">Latest video</h2>
+                    
+                    	            <a id="latestVideoRss" class="rss" href="/dmz/rss.aspx?FeeRef=DOCUMENT&amp;FeeFilter=11"></a>
+                        
+                                    <a id="latestVideoSeeAll" href="/newsroom/videos-interviews.aspx">See all</a>
+                    
+                                </div>
+                    
+                                <div class="borderTop"></div>
+                    
+                                <div class="content">
+								
+									<a id="latestVideoLink" rel="videobox" href="/cust/playervideodocument.aspx?v=http%3a%2f%2fwww.youtube.com%2fv%2fm8oGVwOS-VQ%26fs%3d1"><img id="latestVideoPic" src="http://img.youtube.com/vi/m8oGVwOS-VQ/0.jpg" width="233" border="0" /></a>
+
+									
+									
+								</div>
+                    
+                                <div class="borderBottom"></div>
+                
+                            </div>-->                
+            
+                        </div>
+            
+                        <div class="column04">
+
+                            
+
+                            
+
+
+                
+
+
+
+                
+<!---->
+                
+
+                            
+<div id="boxes_boxEvents" class="boxBlue">
+            
+    <div class="Top">
+                    
+        <h2 class="cufon">Upcoming events</h2>
+
+        <a id="boxes_eventsRss" class="rss" href="/dmz/rss.aspx?FeeRef=EVENT"></a>
+                        
+        <a id="boxes_eventsSeeAll" href="/newsroom/events.aspx">See all</a>
+                    
+    </div>
+                    
+    <div class="borderTop"></div>
+                    
+    <div class="content">
+
+        
+                                        
+                <div class="item_event">
+                        
+                    <div class="cal">
+                            
+                        <div class="month">Oct</div>
+                                
+                        <div class="day">18</div>
+                            
+                    </div>
+                            
+                    <div class="right">
+                            
+                        <span id="boxes_eventsList_ctl00_title" class="title">77th HOTREC General Assemby in Poland </span>
+                                
+                        <span class="date">18/10/2018</span>
+                                
+                        <p></p>
+                                
+                        <a id="boxes_eventsList_ctl00_more" href="/event/77th-hotrec-general-assemby-in-poland.aspx">Read more</a>
+                            
+                    </div>
+                        
+                </div>
+                                        
+            
+                    
+    </div>
+                    
+    <div class="borderBottom"></div>
+            
+</div>
+
+
+
+<a class='btn_share a2a_dd' href='http://www.addtoany.com/share_save'></a><script type='text/javascript'>a2a_linkname='HOTREC - European trade association of hotels, restaurants and cafes - Hotrec';a2a_linkurl='http://www.hotrec.eu/default.aspx';a2a_onclick=1;a2a_hide_embeds=0;</script><script type='text/javascript' src='http://static.addtoany.com/menu/page.js'></script>
+
+
+                
+<div id="boxes_boxTags" class="boxTags">
+                
+    <div class="borderTop"></div>
+                    
+    <div class="content">
+                    
+        
+        <span id="boxes_tagCloud_tagList_ctl00_tagZone" class="s01"><a id="boxes_tagCloud_tagList_ctl00_tagLink" href="/?q=about&amp;o=12">about</a></span>
+    
+        <span id="boxes_tagCloud_tagList_ctl01_tagZone" class="s02"><a id="boxes_tagCloud_tagList_ctl01_tagLink" href="/?q=alcohol&amp;o=12">alcohol</a></span>
+    
+        <span id="boxes_tagCloud_tagList_ctl02_tagZone" class="s01"><a id="boxes_tagCloud_tagList_ctl02_tagLink" href="/?q=circular economy&amp;o=12">circular economy</a></span>
+    
+        <span id="boxes_tagCloud_tagList_ctl03_tagZone" class="s01"><a id="boxes_tagCloud_tagList_ctl03_tagLink" href="/?q=classification&amp;o=12">classification</a></span>
+    
+        <span id="boxes_tagCloud_tagList_ctl04_tagZone" class="s01"><a id="boxes_tagCloud_tagList_ctl04_tagLink" href="/?q=competition&amp;o=12">competition</a></span>
+    
+        <span id="boxes_tagCloud_tagList_ctl05_tagZone" class="s05"><a id="boxes_tagCloud_tagList_ctl05_tagLink" href="/?q=consumer&amp;o=12">consumer</a></span>
+    
+        <span id="boxes_tagCloud_tagList_ctl06_tagZone" class="s01"><a id="boxes_tagCloud_tagList_ctl06_tagLink" href="/?q=consumer affairs&amp;o=12">consumer affairs</a></span>
+    
+        <span id="boxes_tagCloud_tagList_ctl07_tagZone" class="s01"><a id="boxes_tagCloud_tagList_ctl07_tagLink" href="/?q=consumer rights&amp;o=12">consumer rights</a></span>
+    
+        <span id="boxes_tagCloud_tagList_ctl08_tagZone" class="s01"><a id="boxes_tagCloud_tagList_ctl08_tagLink" href="/?q=contact&amp;o=12">contact</a></span>
+    
+        <span id="boxes_tagCloud_tagList_ctl09_tagZone" class="s04"><a id="boxes_tagCloud_tagList_ctl09_tagLink" href="/?q=copyright&amp;o=12">copyright</a></span>
+    
+        <span id="boxes_tagCloud_tagList_ctl10_tagZone" class="s01"><a id="boxes_tagCloud_tagList_ctl10_tagLink" href="/?q=dialogues&amp;o=12">dialogues</a></span>
+    
+        <span id="boxes_tagCloud_tagList_ctl11_tagZone" class="s01"><a id="boxes_tagCloud_tagList_ctl11_tagLink" href="/?q=ehq&amp;o=12">ehq</a></span>
+    
+        <span id="boxes_tagCloud_tagList_ctl12_tagZone" class="s01"><a id="boxes_tagCloud_tagList_ctl12_tagLink" href="/?q=enterprise policy&amp;o=12">enterprise policy</a></span>
+    
+        <span id="boxes_tagCloud_tagList_ctl13_tagZone" class="s02"><a id="boxes_tagCloud_tagList_ctl13_tagLink" href="/?q=fire safety&amp;o=12">fire safety</a></span>
+    
+        <span id="boxes_tagCloud_tagList_ctl14_tagZone" class="s04"><a id="boxes_tagCloud_tagList_ctl14_tagLink" href="/?q=food&amp;o=12">food</a></span>
+    
+        <span id="boxes_tagCloud_tagList_ctl15_tagZone" class="s01"><a id="boxes_tagCloud_tagList_ctl15_tagLink" href="/?q=food labelling&amp;o=12">food labelling</a></span>
+    
+        <span id="boxes_tagCloud_tagList_ctl16_tagZone" class="s01"><a id="boxes_tagCloud_tagList_ctl16_tagLink" href="/?q=food waste&amp;o=12">food waste</a></span>
+    
+        <span id="boxes_tagCloud_tagList_ctl17_tagZone" class="s01"><a id="boxes_tagCloud_tagList_ctl17_tagLink" href="/?q=franchising&amp;o=12">franchising</a></span>
+    
+        <span id="boxes_tagCloud_tagList_ctl18_tagZone" class="s03"><a id="boxes_tagCloud_tagList_ctl18_tagLink" href="/?q=health&amp;o=12">health</a></span>
+    
+        <span id="boxes_tagCloud_tagList_ctl19_tagZone" class="s02"><a id="boxes_tagCloud_tagList_ctl19_tagLink" href="/?q=hotel classification&amp;o=12">hotel classification</a></span>
+    
+        <span id="boxes_tagCloud_tagList_ctl20_tagZone" class="s02"><a id="boxes_tagCloud_tagList_ctl20_tagLink" href="/?q=hotel reviews&amp;o=12">hotel reviews</a></span>
+    
+        <span id="boxes_tagCloud_tagList_ctl21_tagZone" class="s01"><a id="boxes_tagCloud_tagList_ctl21_tagLink" href="/?q=hotelstars union&amp;o=12">hotelstars union</a></span>
+    
+        <span id="boxes_tagCloud_tagList_ctl22_tagZone" class="s01"><a id="boxes_tagCloud_tagList_ctl22_tagLink" href="/?q=interchange fees&amp;o=12">interchange fees</a></span>
+    
+        <span id="boxes_tagCloud_tagList_ctl23_tagZone" class="s01"><a id="boxes_tagCloud_tagList_ctl23_tagLink" href="/?q=internal market&amp;o=12">internal market</a></span>
+    
+        <span id="boxes_tagCloud_tagList_ctl24_tagZone" class="s01"><a id="boxes_tagCloud_tagList_ctl24_tagLink" href="/?q=labelling&amp;o=12">labelling</a></span>
+    
+        <span id="boxes_tagCloud_tagList_ctl25_tagZone" class="s01"><a id="boxes_tagCloud_tagList_ctl25_tagLink" href="/?q=membership&amp;o=12">membership</a></span>
+    
+        <span id="boxes_tagCloud_tagList_ctl26_tagZone" class="s01"><a id="boxes_tagCloud_tagList_ctl26_tagLink" href="/?q=nutrition&amp;o=12">nutrition</a></span>
+    
+        <span id="boxes_tagCloud_tagList_ctl27_tagZone" class="s01"><a id="boxes_tagCloud_tagList_ctl27_tagLink" href="/?q=ota&amp;o=12">ota</a></span>
+    
+        <span id="boxes_tagCloud_tagList_ctl28_tagZone" class="s01"><a id="boxes_tagCloud_tagList_ctl28_tagLink" href="/?q=otas&amp;o=12">otas</a></span>
+    
+        <span id="boxes_tagCloud_tagList_ctl29_tagZone" class="s01"><a id="boxes_tagCloud_tagList_ctl29_tagLink" href="/?q=package travel&amp;o=12">package travel</a></span>
+    
+        <span id="boxes_tagCloud_tagList_ctl30_tagZone" class="s01"><a id="boxes_tagCloud_tagList_ctl30_tagLink" href="/?q=payment cards&amp;o=12">payment cards</a></span>
+    
+        <span id="boxes_tagCloud_tagList_ctl31_tagZone" class="s01"><a id="boxes_tagCloud_tagList_ctl31_tagLink" href="/?q=quality&amp;o=12">quality</a></span>
+    
+        <span id="boxes_tagCloud_tagList_ctl32_tagZone" class="s01"><a id="boxes_tagCloud_tagList_ctl32_tagLink" href="/?q=review sites&amp;o=12">review sites</a></span>
+    
+        <span id="boxes_tagCloud_tagList_ctl33_tagZone" class="s01"><a id="boxes_tagCloud_tagList_ctl33_tagLink" href="/?q=smoking&amp;o=12">smoking</a></span>
+    
+        <span id="boxes_tagCloud_tagList_ctl34_tagZone" class="s01"><a id="boxes_tagCloud_tagList_ctl34_tagLink" href="/?q=social affairs&amp;o=12">social affairs</a></span>
+    
+        <span id="boxes_tagCloud_tagList_ctl35_tagZone" class="s02"><a id="boxes_tagCloud_tagList_ctl35_tagLink" href="/?q=standards&amp;o=12">standards</a></span>
+    
+        <span id="boxes_tagCloud_tagList_ctl36_tagZone" class="s01"><a id="boxes_tagCloud_tagList_ctl36_tagLink" href="/?q=taxation&amp;o=12">taxation</a></span>
+    
+        <span id="boxes_tagCloud_tagList_ctl37_tagZone" class="s02"><a id="boxes_tagCloud_tagList_ctl37_tagLink" href="/?q=tourism&amp;o=12">tourism</a></span>
+    
+        <span id="boxes_tagCloud_tagList_ctl38_tagZone" class="s01"><a id="boxes_tagCloud_tagList_ctl38_tagLink" href="/?q=vat&amp;o=12">vat</a></span>
+    
+        <span id="boxes_tagCloud_tagList_ctl39_tagZone" class="s01"><a id="boxes_tagCloud_tagList_ctl39_tagLink" href="/?q=videos&amp;o=12">videos</a></span>
+    
+                    
+    </div>
+                    
+    <div class="borderBottom"></div>
+                
+</div>
+
+
+
+<a id="boxes_popupNewsletter_fakeButton" href="javascript:__doPostBack('boxes$popupNewsletter$fakeButton','')" style="display:none"></a>
+
+<div id="boxes_popupNewsletter_popupWrapper" style="display:none">
+	
+
+    <div id="boxes_popupNewsletter_popupPanel">
+		
+
+            <div class="popup">
+
+                <div class="Top">
+    
+    	            <h2 class="cufon">'Live from brussels'</h2>
+        
+                    <a id="boxes_popupNewsletter_close" class="close" href="javascript:__doPostBack('boxes$popupNewsletter$close','')"></a>
+    
+                </div>
+
+                
+    
+                <div id="boxes_popupNewsletter_subscribeZone" class="content">
+    
+    	            <p>Please, subscribe here in order to receive HOTREC quarterly newsletter 'Live from Brussels' :</p>
+        
+                    <div id="boxes_popupNewsletter_subscribePanel">
+			
+
+                        <div class="FormItem">
+        
+        	                <div class="FormLabel">First name</div>
+            
+                            <div class="FormValue"><input name="boxes$popupNewsletter$d_Contact_FirstName" type="text" id="boxes_popupNewsletter_d_Contact_FirstName" /></div>
+        
+                        </div>
+
+                        <div class="FormItem">
+        
+        	                <div class="FormLabel">Last name</div>
+            
+                            <div class="FormValue"><input name="boxes$popupNewsletter$d_Contact_LastName" type="text" id="boxes_popupNewsletter_d_Contact_LastName" /></div>
+        
+                        </div>
+
+                        <div class="FormItem">
+        
+        	                <div class="FormLabel">Email</div>
+            
+                            <div class="FormValue"><input name="boxes$popupNewsletter$d_Contact_Email" type="text" id="boxes_popupNewsletter_d_Contact_Email" /></div>
+        
+                        </div>
+        
+                        <a id="boxes_popupNewsletter_subscribeButton_linkButton" class="btn_subscribe" href="javascript:__doPostBack('boxes$popupNewsletter$subscribeButton$linkButton','')">Subscribe</a><script type='text/javascript'>$(function () { AddClick('boxes_popupNewsletter_subscribeButton_linkButton'); });</script>
+
+                    
+		</div>
+    
+                </div>
+
+                
+
+                <div id="boxes_popupNewsletter_errorZone" class="content" style="display:none;">
+
+					<p>Please, subscribe here in order to receive HOTREC quarterly newsletter 'Live from Brussels' :</p>
+
+					<p></p>
+
+                    <a id="boxes_popupNewsletter_errorCancel" class="btn_subscribe" href="javascript:__doPostBack('boxes$popupNewsletter$errorCancel','')">Ok</a>
+
+				</div>
+
+                
+
+				<div id="boxes_popupNewsletter_messageZone" class="content" style="display:none;">
+
+					<p>Please, subscribe here in order to receive HOTREC quarterly newsletter 'Live from Brussels' :</p>
+
+					<p></p>
+
+					<a id="boxes_popupNewsletter_backToSubscribe_linkButton" class="btn_subscribe" href="javascript:__doPostBack('boxes$popupNewsletter$backToSubscribe$linkButton','')">Back</a><script type='text/javascript'>$(function () { AddClick('boxes_popupNewsletter_backToSubscribe_linkButton'); });</script>
+
+                    <a id="boxes_popupNewsletter_messageOk" class="btn_subscribe" href="javascript:__doPostBack('boxes$popupNewsletter$messageOk','')">Ok</a>
+
+				</div>
+    
+                <div class="borderBottom"></div>
+
+            </div>
+
+            <input type="hidden" name="boxes$popupNewsletter$previousZone" id="boxes_popupNewsletter_previousZone" />
+
+        
+	</div>
+
+
+</div>
+
+
+            
+                        </div>
+        
+                    </div>
+    
+                </div>
+
+            </div>
+            <div class="footer">
+
+	            <div class="content">
+
+                    <ul class='menuBottom'><li class='F1 P1 '><a href='/about-us/mission-vision.aspx' target='_self'>About us</a><ul><li class='F2 P1 '><a href='/about-us/mission-vision.aspx' target='_self'>Mission & Vision</a></li><li class='M2 P2 '><a href='/about-us/organisation-8597.aspx' target='_self'>Organisation</a><ul><li class='F3 P1 '><a href='/about-us/organisation-8597/executive-committee.aspx' target='_self'>Executive Committee</a></li><li class='M3 P2 '><a href='/about-us/organisation-8597/secretariat.aspx' target='_self'>Secretariat </a></li><li class='L3 P3 '><a href='/about-us/organisation-8597/committees-task-forces.aspx' target='_self'>Committees & Task Forces </a></li></ul></li><li class='M2 P3 '><a href='/about-us/membership-8975.aspx' target='_self'>Membership</a><ul><li class='FL3 P1 '><a href='/about-us/membership-8975/collaboration-with-other-stakeholders.aspx' target='_self'>Collaboration with other Stakeholders </a></li></ul></li><li class='L2 P4 '><a href='/about-us/european-hospitality-foundation-8620.aspx' target='_self'>European Hospitality Foundation</a></li></ul></li><li class='M1 P2 '><a href='/our-industry.aspx' target='_self'>our Industry </a></li><li class='M1 P3 '><a href='/policy/introduction.aspx' target='_self'>Policy</a><ul><li class='F2 P1 '><a href='/policy/introduction.aspx' target='_self'>Introduction</a></li><li class='M2 P2 '><a href='/policy/tourism-8820.aspx' target='_self'>Tourism</a></li><li class='M2 P3 '><a href='/policy/food-8821.aspx' target='_self'>Food</a></li><li class='M2 P4 '><a href='/policy/health.aspx' target='_self'>Health</a></li><li class='M2 P5 '><a href='/policy/consumer-affairs.aspx' target='_self'>Consumer affairs</a></li><li class='M2 P6 '><a href='/policy/taxation.aspx' target='_self'>Taxation </a></li><li class='M2 P7 '><a href='/policy/sustainability-8822.aspx' target='_self'>Sustainability</a></li><li class='M2 P8 '><a href='/policy/social-affairs.aspx' target='_self'>Social Affairs</a></li><li class='M2 P9 '><a href='/policy/copyright.aspx' target='_self'>Copyright</a></li><li class='M2 P10 '><a href='/policy/quality.aspx' target='_self'>Quality </a></li><li class='M2 P11 '><a href='/policy/online-distribution.aspx' target='_self'>Online distribution</a></li><li class='M2 P12 '><a href='/policy/standards.aspx' target='_self'>Standards</a></li><li class='M2 P13 '><a href='/policy/internal-market.aspx' target='_self'>Internal market</a></li><li class='M2 P14 '><a href='/policy/competition.aspx' target='_self'>Competition</a></li><li class='M2 P15 '><a href='/policy/enterprise-policy.aspx' target='_self'>Enterprise policy </a></li><li class='M2 P16 '><a href='/policy/sharing-economy.aspx' target='_self'>"Sharing" economy</a></li><li class='L2 P17 '><a href='/policy/data-protection.aspx' target='_self'>Data Protection </a></li></ul></li><li class='M1 P4 '><a href='/newsroom.aspx' target='_self'>Newsroom</a><ul><li class='F2 P1 '><a href='/newsroom/press-releases-1714.aspx' target='_self'>Press releases</a></li><li class='M2 P2 '><a href='/newsroom/events.aspx' target='_self'>Events</a></li><li class='M2 P3 '><a href='/newsroom/videos-interviews.aspx' target='_self'>Videos & interviews</a></li><li class='L2 P4 '><a href='/newsroom/hotrec-in-the-press.aspx' target='_self'>HOTREC in the Press</a></li></ul></li><li class='M1 P5 '><a href='/publications/position-papers.aspx' target='_self'>Publications </a><ul><li class='F2 P1 '><a href='/publications/position-papers.aspx' target='_self'>Position Papers </a></li><li class='M2 P2 '><a href='/publications/annual-reports.aspx' target='_self'>Annual Reports</a></li><li class='M2 P3 '><a href='/publications/policy-reports.aspx' target='_self'>Policy Reports</a></li><li class='L2 P4 '><a href='/publications/other-publications.aspx' target='_self'>Other Publications </a></li></ul></li><li class='M1 P6 '><a href='/hotel-stars-in-europe-8630.aspx' target='_self'>Hotel stars in Europe </a></li><li class='M1 P7 '><a href='/bookdirect-8836.aspx' target='_self'>BookDirect</a></li><li class='L1 P8 '><a href='http://www.hotrec.eu/extranet' target='_blank'>Members' website</a></li></ul>
+    
+                </div>
+
+            </div>
+            <div class="signature">
+
+	            <div class="content">
+    
+		            <div class="copyright">Copyright © Hotrec 2011</div>
+        
+                    <div class="right"><div><span>Design and <a href="http://www.idweaver.com/en-be/services-idweaver/website-idweaver/" target="_blank">Content Management System</a> by <a href="http://www.idweaver.com" target="_blank">IDWEAVER Web Agency</a> (2011)</span></div></div>
+    
+                </div>
+
+            </div>
+
+            <a id="popupNewsletter_fakeButton" href="javascript:__doPostBack('popupNewsletter$fakeButton','')" style="display:none"></a>
+
+<div id="popupNewsletter_popupWrapper" style="display:none">
+	
+
+    <div id="popupNewsletter_popupPanel">
+		
+
+            <div class="popup">
+
+                <div class="Top">
+    
+    	            <h2 class="cufon">'Live from brussels'</h2>
+        
+                    <a id="popupNewsletter_close" class="close" href="javascript:__doPostBack('popupNewsletter$close','')"></a>
+    
+                </div>
+
+                
+    
+                <div id="popupNewsletter_subscribeZone" class="content">
+    
+    	            <p>Please, subscribe here in order to receive HOTREC quarterly newsletter 'Live from Brussels' :</p>
+        
+                    <div id="popupNewsletter_subscribePanel">
+			
+
+                        <div class="FormItem">
+        
+        	                <div class="FormLabel">First name</div>
+            
+                            <div class="FormValue"><input name="popupNewsletter$d_Contact_FirstName" type="text" id="popupNewsletter_d_Contact_FirstName" /></div>
+        
+                        </div>
+
+                        <div class="FormItem">
+        
+        	                <div class="FormLabel">Last name</div>
+            
+                            <div class="FormValue"><input name="popupNewsletter$d_Contact_LastName" type="text" id="popupNewsletter_d_Contact_LastName" /></div>
+        
+                        </div>
+
+                        <div class="FormItem">
+        
+        	                <div class="FormLabel">Email</div>
+            
+                            <div class="FormValue"><input name="popupNewsletter$d_Contact_Email" type="text" id="popupNewsletter_d_Contact_Email" /></div>
+        
+                        </div>
+        
+                        <a id="popupNewsletter_subscribeButton_linkButton" class="btn_subscribe" href="javascript:__doPostBack('popupNewsletter$subscribeButton$linkButton','')">Subscribe</a><script type='text/javascript'>$(function () { AddClick('popupNewsletter_subscribeButton_linkButton'); });</script>
+
+                    
+		</div>
+    
+                </div>
+
+                
+
+                <div id="popupNewsletter_errorZone" class="content" style="display:none;">
+
+					<p>Please, subscribe here in order to receive HOTREC quarterly newsletter 'Live from Brussels' :</p>
+
+					<p></p>
+
+                    <a id="popupNewsletter_errorCancel" class="btn_subscribe" href="javascript:__doPostBack('popupNewsletter$errorCancel','')">Ok</a>
+
+				</div>
+
+                
+
+				<div id="popupNewsletter_messageZone" class="content" style="display:none;">
+
+					<p>Please, subscribe here in order to receive HOTREC quarterly newsletter 'Live from Brussels' :</p>
+
+					<p></p>
+
+					<a id="popupNewsletter_backToSubscribe_linkButton" class="btn_subscribe" href="javascript:__doPostBack('popupNewsletter$backToSubscribe$linkButton','')">Back</a><script type='text/javascript'>$(function () { AddClick('popupNewsletter_backToSubscribe_linkButton'); });</script>
+
+                    <a id="popupNewsletter_messageOk" class="btn_subscribe" href="javascript:__doPostBack('popupNewsletter$messageOk','')">Ok</a>
+
+				</div>
+    
+                <div class="borderBottom"></div>
+
+            </div>
+
+            <input type="hidden" name="popupNewsletter$previousZone" id="popupNewsletter_previousZone" />
+
+        
+	</div>
+
+
+</div>
+
+
+		
+		
+
+<script type="text/javascript">
+//<![CDATA[
+function AddClick(id) { var b = document.getElementById(id); if (b && typeof(b.click) == 'undefined') { b.click = function() { var result = true; if (b.onclick) { result = b.onclick(); } if (typeof(result) == 'undefined' || result) { eval(b.getAttribute('href')); } } } }Sys.Application.initialize();
+Sys.Application.add_init(function() {
+    $create(AjaxControlToolkit.ModalPopupBehavior, {"BackgroundCssClass":"PopupBack","PopupControlID":"boxes_popupNewsletter_popupWrapper","dynamicServicePath":"/UI/Home.aspx","id":"boxes_popupNewsletter_popup"}, null, null, $get("boxes_popupNewsletter_fakeButton"));
+});
+Sys.Application.add_init(function() {
+    $create(AjaxControlToolkit.ModalPopupBehavior, {"BackgroundCssClass":"PopupBack","PopupControlID":"popupNewsletter_popupWrapper","dynamicServicePath":"/UI/Home.aspx","id":"popupNewsletter_popup"}, null, null, $get("popupNewsletter_fakeButton"));
+});
+//]]>
+</script>
+</form>
+		
+		<script type="text/javascript">
+			$(document).ready(function()
+			{
+				$("a[rel='colorbox']").colorbox({ slideshow: true, slideshowAuto: false });
+			});
+			$("a[rel=videobox]").fancybox({
+				'transitionIn': 'none',
+				'transitionOut': 'none',
+				'titlePosition': 'over',
+				'titleFormat': function (title, currentArray, currentIndex, currentOpts) {
+					return '';
+				}
+			});
+		</script>
+
+        <script type="text/javascript">Cufon.now();</script>
+		
+	</body>
+</html>
+

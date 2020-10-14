@@ -1,0 +1,171 @@
+WARC/1.0
+WARC-Type: warcinfo
+WARC-Date: 2018-05-30T18:18:32Z
+WARC-Record-ID: <urn:uuid:1ed5457b-9ffe-43bf-ac02-c2f45f5a4e0c>
+WARC-All-Language: en
+WARC-All-Content_type: text/html; charset=UTF-8, text/html
+Content-Type: application/http;msgtype=response
+Content-Length: 46
+
+WARCProcessor by SING Group www.sing-group.com
+
+WARC/1.0
+WARC-Type: response
+WARC-Record-ID: <http://www.bridge-project.eu>
+WARC-Date: 20180530181832
+WARC-Target-URI: http://www.bridge-project.eu
+WARC-Language: en
+Content-Type: application/http;msgtype=response
+Content-Length: 10184
+
+HTTP/1.1 200
+Content-Type:text/html; charset=UTF-8
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html>
+<head>
+<title>Bridge</title>
+<style media="all" type="text/css">
+	@import url(http://bridge-project.eu/data/basic.css);
+	@import url(http://bridge-project.eu/data/bridge.css);
+	@import url(http://bridge-project.eu/data/forms.css);
+</style>
+<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1" />
+<meta name="keywords" content="GS1, workpackages, radiowaves" />
+<meta name="description" content="" />
+<meta name="copyright" content="UniWeb bvba" />
+<meta name="generator" content="UniWeb tool" />
+<meta name="revisit-after" content="" />
+<meta name="robots" content="all" />
+<meta name="language" content="en" />
+
+<link rel="home" type="text/html" href="http://bridge-project.eu/index.php/mainpage/en/" title="Bridge" />
+<link rel="index" type="text/html" href="http://bridge-project.eu/index.php/mainpage/en/" title="Bridge" />
+<link rel="alternate" type="text/html" href="http://bridge-project.eu/index.php//fr/" hreflang="fr" lang="fr" title="">
+<link rel="alternate" type="text/html" href="http://bridge-project.eu/index.php//nl/" hreflang="nl" lang="nl" title="">
+<base href="http://bridge-project.eu/index.php"></base>
+
+<script type="text/javascript" src="http://bridge-project.eu/data/scripts/unilib.js"></script>
+
+
+
+</head>
+<body>
+	<div id="wrapper">
+		<div id="mainnav">
+		<div id="logo"><a href="/"><img src="http://bridge-project.eu/data/Image/bridge_logo.gif" alt="logo bridge"/></a></div>
+<div id="members"><h2><a href="https://team.bridge-project.eu/team/default.aspx">&raquo; Members Area</a></h2></div>
+				<ul>
+		<li><a href="http://bridge-project.eu/index.php/mainpage/en/" class="menu">Home</a></li>
+		<li><a href="http://bridge-project.eu/index.php/overview-of-the-project/en/" class="menu">About Bridge</a></li>
+		<li><a href="http://bridge-project.eu/index.php/Work Packages/en/" class="menu">Work Packages</a></li>
+		<li><a href="http://bridge-project.eu/index.php/downloads-intro/en/" class="menu">Downloads</a></li>
+		<li><a href="http://bridge-project.eu/index.php/news-intro/en/" class="menu">News & Press</a></li>
+		<li><a href="http://bridge-project.eu/index.php/events-intro/en/" class="menu">Events</a></li>
+		<li><a href="http://bridge-project.eu/index.php/contact-us/en/" class="menu">Contact us</a></li>
+		</ul>
+
+
+		</div>
+		
+		<div id="containter-content">
+			<div id="newsleft" class="news">
+				<!--<ul>
+<li>
+    <h2>&raquo; Register to the <br />Bridge Newsletter</h2>
+    <br />
+		<form name="newsletter" action="http://bridge-project.eu/index.php/mainpage/en/?PHPSESSID=p2eqrg50mtrbom3crcskp3iv10" method="post">
+			<div></div>
+			<div><input type="text" name="email" value="Enter your email address" size="25"></div><br />
+			<div style="text-align:right; clear: right;"><input type="submit" value="Register" name="subscribe" class="button" /></div>
+		</form>
+</li>
+</ul>-->
+				<ul>
+    <li>
+    <h2>&raquo; Publications</h2>
+    <p><img alt="" align="absMiddle" width="6" height="13" src="http://bridge-project.eu/data/Image/bridgelist.gif" />&nbsp;<a target="_blank" href="http://bridge-project.eu/data/File/BRIDGE_Final_report.pdf">BRIDGE&nbsp;Final report</a> </p>
+    <p><img alt="" align="absMiddle" width="6" height="13" src="http://bridge-project.eu/data/Image/bridgelist.gif" />&nbsp;<a target="_blank" href="http://bridge-project.eu/data/File/GS1-Broschuere-Bridge.pdf">BRIDGE WP7 Brochure</a> </p>
+    <p><img alt="" align="absMiddle" width="6" height="13" src="http://bridge-project.eu/data/Image/bridgelist.gif" />&nbsp;<a target="_blank" href="http://bridge-project.eu/data/File/BRIDGE_Newsletter_June_2009.pdf">BRIDGE Newsletter -&nbsp;June 2009</a> </p>
+    <p><img alt="" align="absMiddle" width="6" height="13" src="http://bridge-project.eu/data/Image/bridgelist.gif" />&nbsp;<a target="_blank" href="http://bridge-project.eu/data/File/BridgesecuritypaperDL_9.pdf">WP4 Security White Paper</a> </p>
+    <p><img alt="" align="absMiddle" width="6" height="13" src="http://bridge-project.eu/data/Image/bridgelist.gif" />&nbsp;<a target="_blank" href="http://bridge-project.eu/data/File/WP6_press_release_website.pdf">Latest Press Release - WP6 website</a> </p>
+    <p><img alt="" align="absMiddle" width="6" height="13" src="http://bridge-project.eu/data/Image/bridgelist.gif" />&nbsp;<a target="_blank" href="http://www.bridge-project.eu/index.php/public-deliverables/en/">Public deliverables</a> </p>
+    <p><img alt="" align="absMiddle" width="6" height="13" src="http://bridge-project.eu/data/Image/bridgelist.gif" /> <a target="_blank" href="http://bridge-project.eu/data/File/Brochure Overview.pdf">Overview of the project</a> </p>
+    <p><img alt="" align="absMiddle" width="6" height="13" src="http://bridge-project.eu/data/Image/bridgelist.gif" /> <a target="_blank" href="http://bridge-project.eu/data/Media/Brochure The Bridge project in more details.pdf">The Bridge project in more details</a></p>
+    </li>
+</ul>
+<!--<p><a target=_blank" href="http://bridge-project.eu/data/File/BRIDGEeNEWS1.pdf"></a></p>-->
+<ul>
+    <li>
+    <h2>With the support of:</h2>
+    <p style="TEXT-ALIGN: center"><a target="_blank" href="http://ec.europa.eu/dgs/information_society/index_en.htm"><img alt="ism logo" width="107" height="56" src="http://bridge-project.eu/data/Image/ism-logo.gif" /></a><br />
+    <br />
+    <a target="_blank" href="http://ec.europa.eu/index_en.htm"><img alt="european union" width="107" height="47" src="http://bridge-project.eu/data/Image/european-union-logo.gif" /></a><br />
+    <br />
+    <a target="_blank" href="http://ec.europa.eu/research/fp6/index_en.cfm"><img alt="sixth framework programme" width="107" height="59" src="http://bridge-project.eu/data/Image/sixth-framework-programme-logo.gif" /></a></p>
+    </li>
+</ul>
+				
+			</div>
+			<div id="homeimage">
+				<img width="564" height="197" src="http://bridge-project.eu/data/Image/homeimage.jpg" alt="bridge introduction" />
+			</div>
+			<div id="newsunder">
+				<ul>
+    <li>
+    <div class="first">
+    <h2>BRIDGE: A European Project</h2>
+    </div>
+    <p><strong>BRIDGE</strong> (Building Radio Frequency IDentification for the Global Environment) is a European Union funded 3-year Integrated Project addressing ways to resolve the barriers to the implementation of <strong>RFID</strong> in Europe, based upon <a href="http://www.epcglobalinc.org/home"><strong>GS1 EPCglobal</strong></a><strong> standards</strong>. The project consists of a series of business, technical development and horizontal activities. Seven Business work packages have been set up to identify the opportunities, establish the business cases and perform trials and implementations in various sectors including&nbsp;anti-counterfeiting, pharmaceuticals, textile, manufacturing, re-usable assets,&nbsp;products in service and retail non-food items. The project includes an important research and development program in various aspects of RFID hardware, software, network and security. A series of horizontal activities will provide training and dissemination services, enabling the adoption of the technology on a large scale in Europe for the sectors addressed by BRIDGE and beyond. BRIDGE involves <a href="http://www.bridge-project.eu/index.php/partners/en/">30 partners</a> and is coordinated by <a href="http://www.gs1.org/" target="_blank">GS1</a>. </p>
+    <div>&nbsp;</div>
+    </li>
+</ul>
+<ul>
+    <li>
+    <h2>New in the BRIDGE project:</h2>
+    <br />
+    <h3>Download the BRIDGE Final report!</h3>
+    <p>To download the report, <u><strong><a href="http://bridge-project.eu/data/File/BRIDGE_Final_report.pdf" target="_blank">click here</a></strong></u></p>
+    <h3>New BRIDGE WP7 Brochure available!</h3>
+    <p>To download the German version, <a href="http://bridge-project.eu/data/File/GS1-Broschuere-Bridge.pdf" target="_blank"><u><strong>click here</strong></u></a>. An English version should soon be available</p>
+    <h3>New BRIDGE EPC Training material available! (Advanced Implementation and EPC/RFID for Senior Managers)</h3>
+    <p>For more information, <a href="http://bridge-project.eu/index.php/Training/en/"><u><strong>click here</strong></u></a></p>
+    <h3>Download the new version of the BRIDGE Portable Demonstration !</h3>
+    <p>For more information on the new features and download the Portable Demo,&nbsp;<a href="http://www.bridge-project.eu/index.php/portable-demo/en/"><u><strong>click&nbsp;here</strong></u></a></p>
+    <h3>Visit the new WP6 Dissemination website <a href="http://www.axico.com/bridge/" target="_blank">http://www.axico.com/bridge/</a> </h3>
+    <p>To learn more on the pharma traceability pilot, including videos, pictures and presentations,&nbsp;<a href="http://www.axico.com/bridge/" target="_blank"><u><strong>click here</strong></u></a></p>
+    <h3>Download the latest deliverables of the BRIDGE project&nbsp;</h3>
+    <p>For more information, <a href="http://bridge-project.eu/index.php/bridge-public-deliverables/en/"><u><strong>click here</strong></u></a></p>
+    <br />
+    <h3>&nbsp;</h3>
+    </li>
+</ul>
+			</div>
+
+		<div class="clearfix"></div>
+
+		<div id="footer">
+			Copyright 2018 BRIDGE - All rights reserved - BRIDGE is an Integrated Project supported by the 
+			<a target=_blank" href="http://ec.europa.eu/index_en.htm">European Commission</a>
+		</div>
+</div>
+<script src="http://www.bridge-project.eu/scripts/gatag.js" type="text/javascript"></script>
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+var pageTracker = _gat._getTracker("UA-217371-32");
+pageTracker._trackPageview();
+</script>
+<script src="http://www.google-analytics.com/urchin.js"
+type="text/javascript">
+</script>
+<script type="text/javascript">
+_uacct = "UA-291648-2";
+urchinTracker();
+</script>
+</body>
+</html>
+

@@ -1,0 +1,130 @@
+WARC/1.0
+WARC-Type: warcinfo
+WARC-Date: 2018-05-30T18:18:32Z
+WARC-Record-ID: <urn:uuid:7e0c10f3-ffa8-4a28-9654-47329ebb5b13>
+WARC-All-Language: en
+WARC-All-Content_type: text/html, text/html;charset=iso-8859-1
+Content-Type: application/http;msgtype=response
+Content-Length: 46
+
+WARCProcessor by SING Group www.sing-group.com
+
+WARC/1.0
+WARC-Type: response
+WARC-Record-ID: <http://www.engine-sme.eu>
+WARC-Date: 20180530181832
+WARC-Target-URI: http://www.engine-sme.eu
+WARC-Language: en
+Content-Type: application/http;msgtype=response
+Content-Length: 11410
+
+HTTP/1.1 200
+Content-Type:text/html;charset=iso-8859-1
+
+
+<!DOCTYPE html
+     PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+     "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+
+<!-- 
+	Design by U21 mediendesign Hannover - http://www.u21.de
+
+	This website is powered by TYPO3 - inspiring people to share!
+	TYPO3 is a free open source Content Management Framework initially created by Kasper Skaarhoj and licensed under GNU/GPL.
+	TYPO3 is copyright 1998-2009 of Kasper Skaarhoj. Extensions are copyright of their respective owners.
+	Information and contribution at http://typo3.com/ and http://typo3.org/
+-->
+
+	<link rel="SHORTCUT ICON" href="fileadmin/SME_template/favicon.ico" />
+	<link rel="stylesheet" type="text/css" href="typo3temp/stylesheet_0c50e502dd.css" />
+
+	
+	<link rel="stylesheet" href="fileadmin/SME_template/scripts/style.css" type="text/css" media="screen" />
+	<link rel="stylesheet" href="fileadmin/SME_template/scripts/style_extensions.css" type="text/css" media="screen" />
+	<link rel="stylesheet" href="fileadmin/SME_template/scripts/typo3-RTE.css" type="text/css" media="screen" />
+	<script language="JavaScript" type="text/javascript" src="fileadmin/SME_template/scripts/engine.js"></script>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+
+<link rel="schema.dc" href="http://purl.org/metadata/dublin_core_elements" />
+
+	<title>Home: SME ENGINE</title>
+	<meta name="generator" content="TYPO3 4.1 CMS" />
+	<meta name="page-topic" content="energy efficiency" />
+	<meta name="audience" content="all" />
+	<meta name="robots" content="index, follow" />
+	<meta name="revisit-after" content="15 days" />
+	<meta name="classification" content="SME, disemination, energy efficiency" />
+	<meta name="author" content="target GmbH" />
+	<script type="text/javascript" src="typo3temp/javascript_f52d1a094f.js"></script>
+
+
+</head>
+<body>
+
+<div id="wrapper">
+<div id="header">	
+	<div id="header_first">			
+		<div id="member_login">	<form action="32.0.html" method="post">
+	<label for="user">User:</label>
+	<input type="text" id="user" name="user" value="Username" />
+	<label for="pass">Pass:</label>
+	<input type="password" id="pass" name="pass" value="Pass" />
+	<input type="submit" name="submit" value="Login" />
+	<input type="hidden" name="logintype" value="login" />
+	<input type="hidden" name="pid" value="33" />
+	<input type="hidden" name="redirect_url" value="32.0.html" />
+	</form></div>
+		<div id="logo_top"> </div>
+	</div>
+<div id="wrapper_content">
+	<div id="pic"><img src="fileadmin/headerpics/power.jpg" width="738" height="133" border="0" alt="" title="" /></div>
+	<div id="col_left">
+		<div id="naviex"></div>
+		<div id="navi"><ul><li class="level1-act"> <a href="Home.82.0.html">Home</a> </li><li class="level1sub"> <a href="About.8.0.html">About</a> </li><li class="level1sub"> <a href="Checks.7.0.html">Checks</a> </li><li class="level1sub"> <a href="Training.6.0.html">Training</a> </li><li class="level1"> <a href="Networks.87.0.html">Networks</a> </li><li class="level1"> <a href="Knowledge-Pool.18.0.html">Knowledge Pool</a> </li><li class="level1sub"> <a href="Campaigns.5.0.html">Campaigns </a> </li></ul></div>
+		<div id="specialnavi"><ul><li><a href="Contact.4.0.html" onfocus="blurLink(this);">Contact</a></li><li><a href="Disclaimer.3.0.html" onfocus="blurLink(this);">Disclaimer</a></li></ul></div>
+		<div id="contentleft"><a id="c115"></a><img src="clear.gif" width="1" height="20" border="0" class="spacer-gif" alt="" title="" /><br /><div class="csc-header csc-header-n1"><h3 class="csc-firstHeader">Partners</h3></div><ul><li><a href="http://www.agimus.de/" title="Öffnet einen externen Link in einem neuen Fenster" target="_blank" class="external-link-new-window">AGIMUS (DE)</a></li><li><a href="http://www.ambienteitalia.it" title="Öffnet einen externen Link in einem neuen Fenster" target="_blank" class="external-link-new-window">Ambiente Italia (IT)<br /></a></li><li><a href="http://www.energon.eu/" title="Öffnet einen externen Link in einem neuen Fenster" target="_blank" class="external-link-new-window">Energon GmbH (AT)<br /></a></li><li><a href="http://www.kanenergi.se/" title="Öffnet einen externen Link in einem neuen Fenster" target="_blank" class="external-link-new-window">KanEnergi AB (SE)<br /></a></li><li><a href="http://www.energyagency.at/" title="Öffnet einen externen Link in einem neuen Fenster" target="_blank" class="external-link-new-window">Österreichische Energieagentur (AT)<br /></a></li><li><a href="http://www.swea.co.uk/" title="Öffnet einen externen Link in einem neuen Fenster" target="_blank" class="external-link-new-window">Severn Wye Energy Agency (UK)</a></li><li><a href="http://www.ivf.se" title="Öffnet einen externen Link in einem neuen Fenster" target="_blank" class="external-link-new-window">Swerea IVF AB  (SE)</a></li><li> <a href="http://www.targetgmbh.de" title="Öffnet einen externen Link in einem neuen Fenster" target="_blank" class="external-link-new-window">target GmbH (DE)</a></li></ul></div>
+		<br />
+		<br />
+		<a title="Website: Intelligent Energy Europe Programme" href="http://europa.eu.int/comm/energy/intelligent/index_en.html" target="_blank"><img src="fileadmin/SME_template/gfx/supported_by_iee.gif" alt="Intelligent Energy Europe" height="50" width="176" border="0" /></a>
+	</div>
+	<div id="col_content"><a id="c111"></a><div class="csc-textpic csc-textpic-left csc-textpic-above"><div class="csc-textpic-imagewrap"><dl class="csc-textpic-image csc-textpic-firstcol csc-textpic-lastcol" style="width:461px;"><dt><img src="uploads/pics/quote_home.gif" width="461" height="68" border="0" alt="" /></dt></dl></div></div><div class="csc-textpic-clear"><!-- --></div><img src="clear.gif" width="1" height="20" border="0" class="spacer-gif" alt="" title="" /><br /><a id="c112"></a><div class="csc-header csc-header-n2"><h2>Welcome to ENGINE online! </h2></div><p class="bodytext">Small and medium-sized enterprises (SMEs) are the engine of the European economy. In the EU 25, 23 million SMEs provide around 75 million jobs and represent 99% of all enterprises. However they seldom have the capacity to systematically exploit energy savings. </p>
+<p class="bodytext">ENGINE aimed at helping the engine of European economy become more energy efficient by offering a proper analysis of status quo by means of an <a href="Checks.7.0.html" title="Öffnet einen internen Link im aktuellen Fenster" target="_self" class="internal-link">Energy Efficiency Checks</a>, working towards regional capacity building by <a href="Training.6.0.html" title="Öffnet einen internen Link im aktuellen Fenster" target="_self" class="internal-link">training</a> auditors and creating networks. ENGINE build up an <a href="Knowledge-Pool.18.0.html" title="Öffnet einen internen Link im aktuellen Fenster" target="_self" class="internal-link">knowledge pool</a> of concepts, instruments and approaches already available and launched informational <a href="Campaigns.5.0.html" title="Öffnet einen internen Link im aktuellen Fenster" target="_self" class="internal-link">campaigns</a> to increase awareness on the issue. <br /> </p><a id="c186"></a><div class="csc-header csc-header-n3"><h3>Download Case Study Brochure </h3></div><table class="htmlarea-showtableborders"><tfoot><tr><td><h4 class="align-center">English PDF</h4></td><td><h4 class="align-center">Austrian PDF</h4></td><td><h4 class="align-center">German PDF</h4></td><td><h4 class="align-center">Italian PDF</h4></td><td><h4 class="align-center">Swedish PDF</h4></td></tr></tfoot><tbody><tr><td><p class="bodytext"><a href="fileadmin/SME-Uploads/D15/ENGINE_WP5_D15_EN.pdf" title="Startet den Datei-Download" target="_self" class="download"><img src="uploads/RTEmagicC_D15_EN_Cover_01.jpg.jpg" border="0" width="114" height="162" alt="" /></a></p></td><td><p class="bodytext"><a href="fileadmin/SME-Uploads/D15/ENGINE_WP5_D15_AT.pdf" title="Startet den Datei-Download" target="_self" class="download"><img src="uploads/RTEmagicC_D15_AT_Cover_02.jpg.jpg" border="0" width="114" height="165" alt="" /></a></p></td><td><p class="bodytext"><a href="fileadmin/SME-Uploads/D15/ENGINE_WP5_D15_DE.pdf" title="Startet den Datei-Download" target="_self" class="download"><img src="uploads/RTEmagicC_D15_DE_Cover_01.jpg.jpg" border="0" width="114" height="161" alt="" /></a></p></td><td><p class="bodytext"><a href="fileadmin/SME-Uploads/D15/ENGINE_WP5_D15_IT.pdf" title="Startet den Datei-Download" target="_self" class="download"><img src="uploads/RTEmagicC_D15_IT_cover.jpg.jpg" border="0" width="114" height="163" alt="" /></a></p></td><td><p class="bodytext"><a href="fileadmin/SME-Uploads/D15/ENGINE_WP5_D15_SE.pdf" title="Startet den Datei-Download" target="_self" class="download"><img src="uploads/RTEmagicC_D15_SE_Cover_01.jpg.jpg" border="0" width="114" height="166" alt="" /></a></p></td></tr></tbody></table><a id="c187"></a><div class="csc-header csc-header-n4"><h3>Disclaimer</h3></div><h5 class="align-left"><em>Please note that the sole responisbility for the content of the brochures lies with the authors and does not necessarily reflect the opinion of the European Commission (EC). The EC is not responsible for any use that may be made of the information contained therein.&nbsp; </em></h5></div>
+	<div id="col_special"><a id="c70"></a><div class="csc-header csc-header-n1"><h3 class="csc-firstHeader">Project News</h3></div>
+		<div class="news-latest-container">
+			
+			<div class="news-latest-item">
+				    
+				<h3><span class="news-latest-date">05-07-2010</span><a href="News-Details.84+M59d87bb4db9.0.html" title="Ready for Download: Publishable Report">Ready for Download: Publishable Report</a></h3>
+				<p class="bodytext">The project consortium has summarised the outcomes of the project in the publication &quot;Key Results&quot;,...</p>
+				<hr class="clearer" />
+				<div class="news-latest-morelink">
+					&raquo; <a href="News-Details.84+M59d87bb4db9.0.html" title="Ready for Download: Publishable Report">[more]</a></div>
+			</div>
+			
+			<div class="news-latest-item">
+				    
+				<h3><span class="news-latest-date">09-06-2010</span><a href="News-Details.84+M5ada0da4832.0.html" title="Why ENGINE Was a Success: Partners Statements">Why ENGINE Was a Success: Partners Statements </a></h3>
+				<p class="bodytext">After the end of the project, partners summarised in a statement their view of the results and...</p>
+				<hr class="clearer" />
+				<div class="news-latest-morelink">
+					&raquo; <a href="News-Details.84+M5ada0da4832.0.html" title="Why ENGINE Was a Success: Partners Statements">[more]</a></div>
+			</div>
+			
+			
+		</div>
+		<img src="clear.gif" width="1" height="20" border="0" class="spacer-gif" alt="" title="" /><br /></div>
+	<div id="pageoptions"><a class="pagetop" href="javascript:pagetop()">Top of page</a><a href="/.98.html" class="printme" target="_blank">Print this page</a></div>
+</div>
+<div id="footer">
+	<div id="disclaimer"><span><a href="http://www.u21.de" target="_blank">Typo3</a> by U21 <a href="http://www.u21.de" target="_blank">Webdesign Hannover</a></span>&copy; 2008 ENGINE - Energy efficiency in SME</a></div>
+</div>
+</div>
+
+</div>
+
+</body>
+</html>
+

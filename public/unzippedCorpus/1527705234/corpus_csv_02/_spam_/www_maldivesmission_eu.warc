@@ -1,0 +1,63 @@
+WARC/1.0
+WARC-Type: warcinfo
+WARC-Date: 2018-05-30T18:18:32Z
+WARC-All-Language: en
+WARC-All-Content_type: text/html
+WARC-Record-ID: <urn:uuid:35630e71-b6fa-4c4a-92c6-ca33b8755271>
+Content-Type: application/http;msgtype=response
+Content-Length: 46
+
+WARCProcessor by SING Group www.sing-group.com
+
+WARC/1.0
+WARC-Type: response
+WARC-Target-URI: http://www.maldivesmission.eu
+WARC-Date: 20180530181832
+WARC-Language: en
+WARC-Record-ID: <http://www.maldivesmission.eu>
+Content-Type: application/http;msgtype=response
+Content-Length: 970
+
+HTTP/1.1 200
+Content-Type:text/html
+
+
+<!doctype html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Malidives Mission</title>
+</head>
+
+<body bgcolor="#70B8D6">
+<table width="100%" height="600px" border="0">
+  <tbody>
+    <tr>
+      <td valign="middle" align="center"><table width="auto" border="0">
+  <tbody>
+    <tr>
+		<td><h1>Maldives Mission</h1>
+   		<hr />
+			<p>Our website is down for maintenance. Please come back later.</p>
+			<hr />
+			<h3>Embassy of the Republic of Maldives to Belgium<br>
+			  Mission of the Republic of Maldives to the European Union</h3>
+			<p>Rond-Point Schuman, 11, B-1040<br>
+			  Brussels, Belgium </p>
+			<p> Telephone: +32 (0)2 256 7568<br>
+			  Fax: +32 (0)2 256 7569 </p>
+			<p><a href="mailto:info@maldivesembassy.be">info@maldivesembassy.be</a><br>
+			  <a href="mailto:info@maldivesmission.eu">info@maldivesmission.eu</a></p>
+   
+        </td>
+    </tr>
+  </tbody>
+</table>
+</td>
+    </tr>
+  </tbody>
+</table>
+</body>
+</html>
+
+

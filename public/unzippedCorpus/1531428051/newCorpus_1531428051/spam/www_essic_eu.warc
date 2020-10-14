@@ -1,0 +1,325 @@
+WARC/1.0
+WARC-Type: warcinfo
+WARC-Date: 2018-05-30T17:52:30Z
+WARC-Record-ID: <urn:uuid:21291adb-deec-4183-a82b-6246e53f7503>
+WARC-All-Language: en
+WARC-All-Content_type: text/html
+Content-Type: application/http;msgtype=response
+Content-Length: 46
+
+WARCProcessor by SING Group www.sing-group.com
+
+WARC/1.0
+WARC-Type: response
+WARC-Record-ID: <http://www.essic.eu>
+WARC-Date: 20180530175230
+WARC-Target-URI: http://www.essic.eu
+WARC-Language: en
+Content-Type: application/http;msgtype=response
+Content-Length: 15862
+
+HTTP/1.1 200
+Content-Type:text/html
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<title></title>
+<link href="css/essic.css" rel="stylesheet" type="text/css" />
+</head>
+
+<body><!-- #BeginLibraryItem "/Library/kop2.lbi" -->
+<table width="1024" height="126" border="0" cellpadding="0" cellspacing="0">
+  <tr>
+    <td height="126" align="left" valign="top"><img src="logos/kop.jpg" width="1200" height="121"></td>
+  </tr>
+</table>
+<!-- #EndLibraryItem --><table width="100%" border="0" cellspacing="0">
+  
+  <tr>
+    <td width="84%" height="20" bgcolor="#FFFFFF">&nbsp;</td>
+    <td width="16%" bgcolor="#FFFFFF">&nbsp;</td>
+  </tr>
+</table>
+<table width="100%" border="0">
+  
+      
+  <tr>
+    <td width="220" rowspan="22" align="left" valign="top"><!-- #BeginLibraryItem "/Library/menu01.lbi" -->
+<link href="css/essic.css" rel="stylesheet" type="text/css" /><table height="60%" border="0" cellpadding="0" cellspacing="0">
+  <tr>
+    <td width="214" height="22" bordercolor="#f7f7f7" bgcolor="#f7f7f7"><p><a href="index.html" class="menuV">home</a></p></td>
+    <td width="10" bordercolor="#f7f7f7" bgcolor="#FFFFFF">&nbsp;</td>
+  </tr>
+  
+  <tr>
+    <td height="5%" bordercolor="#f7f7f7" bgcolor="#f7f7f7">&nbsp;</td>
+    <td bordercolor="#f7f7f7" bgcolor="#FFFFFF">&nbsp;</td>
+  </tr>
+  <tr>
+    <td height="5%" bordercolor="#f7f7f7" bgcolor="#f7f7f7"><strong class="ESSICtekst">&nbsp;&nbsp;ESSIC</strong></td>
+    <td bordercolor="#f7f7f7" bgcolor="#FFFFFF">&nbsp;</td>
+  </tr>
+  <tr>
+    <td height="6%" bordercolor="#f7f7f7" bgcolor="#f7f7f7"><p><a href="WhoAreWe.html" class="menuV"> - who are we?</a>      </p></td>
+    <td bordercolor="#f7f7f7" bgcolor="#FFFFFF">&nbsp;</td>
+  </tr>
+  <tr>
+    <td height="6%" bordercolor="#f7f7f7" bgcolor="#f7f7f7"><p><a href="membership.html" class="menuV">- membership</a>      </p></td>
+    <td bordercolor="#f7f7f7" bgcolor="#FFFFFF">&nbsp;</td>
+  </tr>
+  
+  <tr>
+    <td height="6%" bordercolor="#f7f7f7" bgcolor="#f7f7f7"><p><a href="ReportsPreviousMeetings.html" class="menuV">- meeting reports</a></p></td>
+    <td bordercolor="#f7f7f7" bgcolor="#FFFFFF">&nbsp;</td>
+  </tr>
+  
+  <tr>
+    <td height="5%" bordercolor="#f7f7f7" bgcolor="#f7f7f7">&nbsp;</td>
+    <td bordercolor="#f7f7f7" bgcolor="#FFFFFF">&nbsp;</td>
+  </tr>
+  <tr>
+    <td height="5%" bordercolor="#f7f7f7" bgcolor="#f7f7f7"><strong class="ESSICtekst">&nbsp;&nbsp;topics</strong></td>
+    <td bordercolor="#f7f7f7" bgcolor="#FFFFFF">&nbsp;</td>
+  </tr>
+  <tr>
+    <td bordercolor="#f7f7f7" bgcolor="#f7f7f7"><p><a href="pdf/ESSICconsensus2007.pdf" class="menuV">- BPS  definition  and diagnosis </a></p></td>
+    <td bordercolor="#f7f7f7" bgcolor="#FFFFFF">&nbsp;</td>
+  </tr>
+  <tr>
+    <td bordercolor="#f7f7f7" bgcolor="#f7f7f7"><a href="Hunner_lesion.html" class="menuV">- Hunner lesion</a></td>
+    <td bordercolor="#f7f7f7" bgcolor="#FFFFFF">&nbsp;</td>
+  </tr>
+  <tr>
+    <td bordercolor="#f7f7f7" bgcolor="#f7f7f7"><a href="damage_activity.html" class="menuV">- disease activity and damage</a></td>
+    <td bordercolor="#f7f7f7" bgcolor="#FFFFFF">&nbsp;</td>
+  </tr>
+  <tr>
+    <td height="5%" bordercolor="#f7f7f7" bgcolor="#f7f7f7"><a href="videomenu.html" class="menuV">- video's of cystoscopies</a></td>
+    <td bordercolor="#f7f7f7" bgcolor="#FFFFFF">&nbsp;</td>
+  </tr>
+  <tr>
+    <td height="5%" bordercolor="#f7f7f7" bgcolor="#f7f7f7">&nbsp;</td>
+    <td bordercolor="#f7f7f7" bgcolor="#FFFFFF">&nbsp;</td>
+  </tr>
+  <tr>
+    <td height="5%" bordercolor="#f7f7f7" bgcolor="#f7f7f7"><strong class="ESSICtekst">&nbsp;&nbsp;literature</strong></td>
+    <td bordercolor="#f7f7f7" bgcolor="#FFFFFF">&nbsp;</td>
+  </tr>
+  <tr>
+    <td height="6%" bordercolor="#f7f7f7" bgcolor="#f7f7f7"><p><a href="pubmed_new.html" class="menuV">- new</a></p></td>
+    <td bordercolor="#f7f7f7" bgcolor="#FFFFFF">&nbsp;</td>
+  </tr>
+  
+
+  
+  <tr>
+    <td height="6%" bordercolor="#f7f7f7" bgcolor="#f7f7f7"><p><a href="pubmed_treatment_index.html" class="menuV"> - treatment</a></p></td>
+    <td bordercolor="#f7f7f7" bgcolor="#FFFFFF">&nbsp;</td>
+  </tr>
+  
+  
+  
+  <tr>
+    <td height="6%" bordercolor="#f7f7f7" bgcolor="#f7f7f7"><a href="criteria.html" class="menuV">- diagnostic criteria</a></td>
+    <td bordercolor="#f7f7f7" bgcolor="#FFFFFF">&nbsp;</td>
+  </tr>
+  <tr>
+    <td height="6%" bordercolor="#f7f7f7" bgcolor="#f7f7f7"><a href="pubmed_Hunner_lesion.html" class="menuV">- Hunner lesion</a></td>
+    <td bordercolor="#f7f7f7" bgcolor="#FFFFFF">&nbsp;</td>
+  </tr>
+  <tr>
+    <td height="6%" bordercolor="#f7f7f7" bgcolor="#f7f7f7"><p><a href="associated_diseases.html" class="menuV">- associated diseases</a></p></td>
+    <td bordercolor="#f7f7f7" bgcolor="#FFFFFF">&nbsp;</td>
+  </tr>
+  
+  <tr>
+    <td height="6%" bordercolor="#f7f7f7" bgcolor="#f7f7f7"><a href="pubmed_confusablediseases_index.html" class="menuV">- confusable diseases</a></td>
+    <td bordercolor="#f7f7f7" bgcolor="#FFFFFF">&nbsp;</td>
+  </tr>
+  <tr>
+    <td height="6%" bordercolor="#f7f7f7" bgcolor="#f7f7f7"><p><a href="pubmed_topics_index.html" class="menuV">- selected topics &amp; books</a></p></td>
+    <td bordercolor="#f7f7f7" bgcolor="#FFFFFF">&nbsp;</td>
+  </tr>
+  <tr>
+    <td height="22" bordercolor="#f7f7f7" bgcolor="#f7f7f7"><a href="questionnaires.html" class="menuV">- symptom score questionnaires</a></td>
+    <td bordercolor="#f7f7f7" bgcolor="#FFFFFF">&nbsp;</td>
+  </tr>
+  <tr>
+    <td height="22" bordercolor="#f7f7f7" bgcolor="#f7f7f7"><p><a href="reports_others.html" class="menuV">- reports from other sources</a></p></td>
+    <td bordercolor="#f7f7f7" bgcolor="#FFFFFF">&nbsp;</td>
+  </tr>
+  <tr>
+    <td height="19" bordercolor="#f7f7f7" bgcolor="#f7f7f7">&nbsp;</td>
+    <td bordercolor="#f7f7f7" bgcolor="#FFFFFF">&nbsp;</td>
+  </tr>
+  <tr>
+    <td height="19" bordercolor="#f7f7f7" bgcolor="#f7f7f7"><strong class="ESSICtekst">&nbsp;&nbsp;various</strong></td>
+    <td bordercolor="#f7f7f7" bgcolor="#FFFFFF">&nbsp;</td>
+  </tr>
+  <tr>
+    <td height="22" bordercolor="#f7f7f7" bgcolor="#f7f7f7"><p><a href="calendar.html" class="menuV">- calendar</a></p></td>
+    <td bordercolor="#f7f7f7" bgcolor="#FFFFFF">&nbsp;</td>
+  </tr>
+  <tr>
+    <td height="22" bordercolor="#f7f7f7" bgcolor="#f7f7f7"><p><a href="useful_links.html" class="menuV">- useful links </a></p></td>
+    <td bordercolor="#f7f7f7" bgcolor="#FFFFFF">&nbsp;</td>
+  </tr>
+  <tr>
+    <td height="22" bordercolor="#f7f7f7" bgcolor="#f7f7f7"><p><a href="support_organizations.html" class="menuV">- support organizations </a></p></td>
+    <td bordercolor="#f7f7f7" bgcolor="#FFFFFF">&nbsp;</td>
+  </tr>
+  
+  <tr>
+    <td height="22" bordercolor="#f7f7f7" bgcolor="#f7f7f7"><p><a href="disclaimer.html" class="menuV">- disclaimer</a> </p></td>
+    <td bordercolor="#f7f7f7" bgcolor="#FFFFFF">&nbsp;</td>
+  </tr>
+</table>
+<!-- #EndLibraryItem --></td>
+    <td colspan="3" align="left" valign="top" class="white_on_red"><strong>WELCOME TO THE ESSIC HOME PAGE</strong></td>
+    <td width="674" rowspan="22" valign="top">&nbsp;</td>
+  </tr>
+  <tr>
+    <td colspan="3" align="left" valign="top" class="kolomljstmidden">&nbsp;</td>
+  </tr>
+  <tr>
+    <td height="120" colspan="2" align="left" valign="top" class="ESSICtekst"><p class="ipbf"><span class="ESSICtekst">ESSIC</span> is preparing  a new website, to be constructed by Defoe, a congress organization company in Italy. <br />
+      Defoe is also responsible   now  for the <em>organization</em> and  <em>registration</em> of the <span class="ESSICtekst">ESSIC Annual  Meetings</span>, as well as  for membership applications,  membership fees etc.<br />
+      During the transition period, the &quot;old&quot; ESSIC website, with  information on BPS/IC (including diagnosis, confusable and associated diseases) will still be   accessible for a limited period of time.<br />
+      <br />
+      &lt;<a href="http://www.essicmeeting.eu" class="link">click here</a>&gt; to go to the <strong>Defoe</strong> home page.<br />
+</p>
+    <p class="ipbf">&lt;<a href="index_ESSIC_orig.html" class="link">click here</a>&gt; to go to the &quot;old&quot; <span class="ESSICtekst">ESSIC website</span> or choose an item from the menu on the left.. <br />
+      <br />
+      <strong>Joop P van de Merwe</strong><br />
+      <em>former ESSIC Secretary and  webmaste</em>r<br />
+    <em>ESSIC Board Member </em></p></td>
+    <td width="1" height="120" align="left" valign="top" class="ESSICtekst">&nbsp;</td>
+  </tr>
+  <tr>
+    <td height="30" colspan="2" align="left" valign="middle" class="ESSICtekst"><p class="ipbf"> <span class="white_on_red"><strong>NEW</strong></span> <a href="pdf/2017-09_ESSIC_Budapest.pdf" class="kopzwart">Review of the ESSIC Annual Meeting, 21-23 September 2017, Budapest, Hungary by Jane Meijlink.</a></p>
+    <p class="ipbf">&nbsp;</p></td>
+    <td height="21" align="left" valign="top" class="ESSICtekst">&nbsp;</td>
+  </tr>
+  <tr>
+    <td height="21" colspan="2" align="left" valign="top" class="white_on_red"><strong> COMING EVENTS - a selection</strong></td>
+    <td height="263" rowspan="11" align="left" valign="top" class="ESSICtekst">&nbsp;</td>
+  </tr>
+  <tr>
+    <td height="21" align="left" valign="top" class="kopzwart">&nbsp;</td>
+    <td align="left" valign="top" class="ESSICtekst">&nbsp;</td>
+  </tr>
+  <tr>
+    <td width="233" height="21" align="left" valign="top" class="kopzwart">March, 16-20, 2018<br />
+      <span class="ipbf">Copenhagen, Denmark</span></td>
+    <td height="21" align="left" valign="top" class="ESSICtekst"><span class="ipbf">European  Association of Urology (EAU) 2018  16-20 March 2018, Copenhagen, Denmark  </span><a href="http://eau18.uroweb.org/" class="ipbf"><br />
+    http://eau18.uroweb.org/</a></td>
+  </tr>
+  <tr>
+    <td height="21" align="left" valign="top" class="ESSICtekst">&nbsp;</td>
+    <td height="21" align="left" valign="top" class="ESSICtekst">&nbsp;</td>
+  </tr>
+  <tr>
+    <td height="21" align="left" valign="top" class="ESSICtekst"><strong class="kopzwart">April 17-18, 2018<br />
+      <span class="ipbf">Kyoto, Japan </span><br />
+    </strong></td>
+    <td height="21" align="left" valign="top" class="ESSICtekst"><span class="ipbf">Joint Meeting of the  4th International Consultation on Interstitial Cystitis, Japan (ICICJ)  and the  Annual  Meeting of the Society of Interstitial Cystitis of Japan  (SICJ)  17-18 April, 2018, Kyoto, Japan. Abstract submission by 28 February 2018.</span><br />
+    <a href="http://www.icicj.jp/en/meeting/2018/" class="ipbf">www.icicj.jp/en/meeting/2018/  info@hainyo-net.org</a></td>
+  </tr>
+  <tr>
+    <td height="21" align="left" valign="top" class="ESSICtekst">&nbsp;</td>
+    <td height="21" align="left" valign="top" class="ESSICtekst">&nbsp;</td>
+  </tr>
+  <tr>
+    <td height="21" align="left" valign="top" class="kopzwart"><span class="ipbf"><em>Preliminary date</em></span><em><span class="ipbf">:</span></em><br />
+      November 29-December 1, 2018<br />
+      <span class="ipbf">Florence, Italy</span></td>
+    <td height="21" align="left" valign="top" class="ipbf"><span class="ESSICtekst">ESSIC Annual Meeting</span>, Florence, Italy<br />
+    <a href="http://www.essicmeeting.eu" class="link">http://www.essicmeeting.eu</a></td>
+  </tr>
+  <tr>
+    <td height="21" align="left" valign="top" class="ESSICtekst">&nbsp;</td>
+    <td height="21" align="left" valign="top" class="ESSICtekst">&nbsp;</td>
+  </tr>
+  <tr>
+    <td height="21" colspan="2" align="left" valign="top" class="white_on_red"><strong>BOOKS </strong></td>
+  </tr>
+  <tr>
+    <td height="21" align="left" valign="top" class="ESSICtekst">&nbsp;</td>
+    <td align="left" valign="top" class="ESSICtekst">&nbsp;</td>
+  </tr>
+  <tr>
+    <td height="131" align="left" valign="top" class="ESSICtekst"><img src="logos/BPS_Evolution_2017_book.jpg" width="217" height="306" /></td>
+    <td width="737" height="131" align="left" valign="top" class="ESSICtekst"><span class="white_on_red">NEW</span>       <span class="kopzwart">Bladder Pain Syndrome&ndash;          An Evolution</span><br />
+      <br />
+      <span class="ipbf">P.M. Hanno, J. Nordling, D.R. Staskin, A.J. Wein, J.J. Wyndaele (Eds.)<br />
+Current guidelines compiled from the United States, Europe and Asia will be          provided, which discuss disease management to give the reader a quick          reference guide.<br />
+<br />
+Contains chapters from members of the International Association for the 
+          Study of Bladder Pain Syndrome. 
+          Written from a global perspective.<br />
+          <br />
+This updated volume provides reflections on the original edition, as well as information on the 
+          developments that have occurred within bladder pain syndrome since the publication of the          first edition. The epidemiology, etiology, diagnosis, and management of bladder pain syndrome          are all covered. The book aims to give healthcare providers up to date guidelines and          management suggestions within a quick-reference text. This book is relevant to clinicians who          focus on bladder pain syndrome, as well as the gynaecologists, general urologists, and primary          care providers who see these patients as a part of their practice.</span><br />
+          <span class="ipbf">2nd ed. 2018, VII, 175 p. 177 illus., 108            illus. in color.</span><br />
+          <br />
+    <a href="http://www.springer.com/us/book/9783319614489" class="kopzwart">Read more...</a></td>
+  </tr>
+  <tr>
+    <td height="263" colspan="3" align="left" valign="top" class="ESSICtekst">&nbsp;</td>
+  </tr>
+  <tr>
+    <td height="263" colspan="3" align="left" valign="top" class="ESSICtekst">&nbsp;</td>
+  </tr>
+  <tr>
+    <td height="263" colspan="3" align="left" valign="top" class="ESSICtekst">&nbsp;</td>
+  </tr>
+  <tr>
+    <td colspan="3" align="left" valign="top" class="kolomljstmidden">&nbsp;</td>
+  </tr>
+  
+  <tr>
+    <td colspan="3" align="left" valign="top" class="kolomljstmidden"><p class="ipbf">&nbsp;</p></td>
+  </tr>
+  <tr>
+    <td colspan="3" align="left" valign="top" class="kolomljstmidden">&nbsp;</td>
+  </tr>
+  <tr>
+    <td colspan="3" align="left" valign="top" class="kolomljstmidden"><p>&nbsp;</p></td>
+  </tr>
+  
+  <tr>
+    <td width="220" align="left" valign="top">&nbsp;</td>
+    <td colspan="3" align="left" valign="top"><!-- #BeginLibraryItem "/Library/ESSICcopyright.lbi" -->
+      <link href="css/essic.css" rel="stylesheet" type="text/css">
+      <span class="keuzekop1">&copy; 2004-2018 <strong class="ESSICtekst"> ESSIC </strong> -<em> International  Society for the Study of Bladder Pain Syndrome</em></span><!-- #EndLibraryItem --></td>
+    <td width="674" valign="top">&nbsp;</td>
+  </tr>
+</table>
+
+<p>
+<!-- Start of StatCounter Code for Dreamweaver -->
+<script type="text/javascript">
+var sc_project=11377157; 
+var sc_invisible=0; 
+var sc_security="40c5bd69"; 
+var scJsHost = (("https:" == document.location.protocol) ?
+"https://secure." : "http://www.");
+document.write("<sc"+"ript type='text/javascript' src='" +
+scJsHost+
+"statcounter.com/counter/counter.js'></"+"script>");
+</script>
+<noscript><div class="statcounter"><a title="web stats"
+href="http://statcounter.com/" target="_blank"><img
+class="statcounter"
+src="//c.statcounter.com/11377157/0/40c5bd69/0/" alt="web
+stats"></a></div></noscript>
+<!-- End of StatCounter Code for Dreamweaver -->
+
+  
+</p>
+</body>
+</html>
+

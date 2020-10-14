@@ -1,0 +1,404 @@
+WARC/1.0
+WARC-Type: warcinfo
+WARC-Date: 2018-05-30T18:18:32Z
+WARC-Record-ID: <urn:uuid:053c3a34-7e54-4ec5-9a2a-ff31c577144d>
+WARC-All-Language: en
+WARC-All-Content_type: text/html, text/html; charset=utf-8
+Content-Type: application/http;msgtype=response
+Content-Length: 46
+
+WARCProcessor by SING Group www.sing-group.com
+
+WARC/1.0
+WARC-Type: response
+WARC-Record-ID: <http://www.nitroeurope.eu>
+WARC-Date: 20180530181832
+WARC-Target-URI: http://www.nitroeurope.eu
+WARC-Language: en
+Content-Type: application/http;msgtype=response
+Content-Length: 25368
+
+HTTP/1.1 200
+Content-Type:text/html; charset=utf-8
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML+RDFa 1.0//EN"
+  "http://www.w3.org/MarkUp/DTD/xhtml-rdfa-1.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" version="XHTML+RDFa 1.0" dir="ltr">
+
+<head profile="http://www.w3.org/1999/xhtml/vocab">
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="alternate" type="application/rss+xml" title="Front page feed" href="http://www.nitroeurope.eu/rss.xml" />
+<meta name="Generator" content="Drupal 7 (http://drupal.org)" />
+  <title>Nitro Europe | The nitrogen cycle and its influence on the European greenhouse gas balance</title>
+  <style type="text/css" media="all">
+@import url("http://www.nitroeurope.eu/modules/system/system.base.css?p8khc3");
+@import url("http://www.nitroeurope.eu/modules/system/system.menus.css?p8khc3");
+@import url("http://www.nitroeurope.eu/modules/system/system.messages.css?p8khc3");
+@import url("http://www.nitroeurope.eu/modules/system/system.theme.css?p8khc3");
+</style>
+<style type="text/css" media="all">
+@import url("http://www.nitroeurope.eu/modules/comment/comment.css?p8khc3");
+@import url("http://www.nitroeurope.eu/modules/field/theme/field.css?p8khc3");
+@import url("http://www.nitroeurope.eu/modules/node/node.css?p8khc3");
+@import url("http://www.nitroeurope.eu/modules/search/search.css?p8khc3");
+@import url("http://www.nitroeurope.eu/modules/user/user.css?p8khc3");
+@import url("http://www.nitroeurope.eu/sites/all/modules/views/css/views.css?p8khc3");
+</style>
+<style type="text/css" media="all">
+@import url("http://www.nitroeurope.eu/sites/all/modules/ctools/css/ctools.css?p8khc3");
+@import url("http://www.nitroeurope.eu/sites/nitroeurope.eu/modules/taxonomy_access/taxonomy_access.css?p8khc3");
+@import url("http://www.nitroeurope.eu/sites/nitroeurope.eu/modules/panels/css/panels.css?p8khc3");
+</style>
+<style type="text/css" media="all">
+@import url("http://www.nitroeurope.eu/sites/nitroeurope.eu/themes/garland/style.css?p8khc3");
+</style>
+<style type="text/css" media="print">
+@import url("http://www.nitroeurope.eu/sites/nitroeurope.eu/themes/garland/print.css?p8khc3");
+</style>
+
+<!--[if lt IE 7]>
+<link type="text/css" rel="stylesheet" href="http://www.nitroeurope.eu/sites/nitroeurope.eu/themes/garland/fix-ie.css?p8khc3" media="all" />
+<![endif]-->
+  <script type="text/javascript" src="http://www.nitroeurope.eu/sites/all/modules/jquery_update/replace/jquery/1.8/jquery.min.js?v=1.8.3"></script>
+<script type="text/javascript" src="http://www.nitroeurope.eu/misc/jquery.once.js?v=1.2"></script>
+<script type="text/javascript" src="http://www.nitroeurope.eu/misc/drupal.js?p8khc3"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"garland","theme_token":"DP6akuHTrH21U6xhnSgZSHZeyTwUCopXSgFvAAagym8","js":{"sites\/all\/modules\/jquery_update\/replace\/jquery\/1.8\/jquery.min.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"modules\/comment\/comment.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"modules\/search\/search.css":1,"modules\/user\/user.css":1,"sites\/all\/modules\/views\/css\/views.css":1,"sites\/all\/modules\/ctools\/css\/ctools.css":1,"sites\/nitroeurope.eu\/modules\/taxonomy_access\/taxonomy_access.css":1,"sites\/nitroeurope.eu\/modules\/panels\/css\/panels.css":1,"sites\/nitroeurope.eu\/themes\/garland\/style.css":1,"sites\/nitroeurope.eu\/themes\/garland\/print.css":1,"sites\/nitroeurope.eu\/themes\/garland\/fix-ie.css":1}},"urlIsAjaxTrusted":{"\/":true,"\/frontpage?destination=frontpage":true}});
+//--><!]]>
+</script>
+</head>
+<body class="html front not-logged-in two-sidebars page-frontpage fluid-width" >
+  <div id="skip-link">
+    <a href="#main-content" class="element-invisible element-focusable">Skip to main content</a>
+  </div>
+      
+  <div id="wrapper">
+    <div id="container" class="clearfix">
+
+      <div id="header">
+        <div id="logo-floater">
+                              <h1 id="branding"><a href="/">
+                          <img src="http://www.nitroeurope.eu/sites/nitroeurope.eu/files/logo_2.jpg" alt=" " title=" " id="logo" />
+                                    </a></h1>
+                        </div>
+
+        <div id="navlist"><h2 class="element-invisible">Main menu</h2><ul class="links inline main-menu"><li class="menu-25 active-trail first active"><a href="/frontpage" title="NitroEurope Home" class="active-trail active">Home</a></li>
+<li class="menu-26"><a href="/about" title="About NitroEurope">About</a></li>
+<li class="menu-459"><a href="http://www.nitroeurope.eu/data_ext" title="Access to the NEU Databases">NEU Databases</a></li>
+<li class="menu-27"><a href="/partners" title="Partners">Partners</a></li>
+<li class="menu-28"><a href="/committee" title="Scientific Steering Committee and External Advisory Group">SSC &amp; EAG</a></li>
+<li class="menu-29"><a href="/ysf" title="Young Scientists&#039; Forum">YSF</a></li>
+<li class="menu-30"><a href="/gender_committee" title="NitroEurope - Gender Committee">Gender Committee</a></li>
+<li class="menu-31"><a href="/dissemination" title="NitroEurope - Dissemination Activities">Dissemination</a></li>
+<li class="menu-2506"><a href="/sites_data_page" title="">Data Management</a></li>
+<li class="menu-308"><a href="http://www.nitroeurope.eu/site_map" title="Levels 1,2 and 3">NEU Sites</a></li>
+<li class="menu-32 last"><a href="/links" title="NitroEurope - Related Links">Links</a></li>
+</ul></div>
+              </div> <!-- /#header -->
+
+              <div id="sidebar-first" class="sidebar">
+            <div class="region region-sidebar-first">
+    <div id="block-block-1" class="block block-block clearfix">
+
+    
+  <div class="content">
+    <div id="mission"><span style="color:#363C8F;"><b>NitroEurope</b></span> - or NEU for short - is a project for integrated European research into the nitrogen cycle. NitroEurope is part of the EU's Sixth Framework Programme for Research and Technological Development, and will run for 5 years from February 2006 until 2011.</div>  </div>
+</div>
+<div id="block-search-form" class="block block-search clearfix">
+
+    
+  <div class="content">
+    <form action="/" method="post" id="search-block-form" accept-charset="UTF-8"><div><div class="container-inline">
+      <h2 class="element-invisible">Search form</h2>
+    <div class="form-item form-type-textfield form-item-search-block-form">
+  <label class="element-invisible" for="edit-search-block-form--2">Search </label>
+ <input title="Enter the terms you wish to search for." type="text" id="edit-search-block-form--2" name="search_block_form" value="" size="15" maxlength="128" class="form-text" />
+</div>
+<div class="form-actions form-wrapper" id="edit-actions"><input type="submit" id="edit-submit" name="op" value="Search" class="form-submit" /></div><input type="hidden" name="form_build_id" value="form-MN44qt57X34R-Z5KX4CKTQ_3j54mK2CAt_ju14TplBA" />
+<input type="hidden" name="form_id" value="search_block_form" />
+</div>
+</div></form>  </div>
+</div>
+<div id="block-user-login" class="block block-user clearfix">
+
+    <h2 class="title">User login</h2>
+  
+  <div class="content">
+    <form action="/frontpage?destination=frontpage" method="post" id="user-login-form" accept-charset="UTF-8"><div><div class="form-item form-type-textfield form-item-name">
+  <label for="edit-name">Username <span class="form-required" title="This field is required.">*</span></label>
+ <input type="text" id="edit-name" name="name" value="" size="15" maxlength="60" class="form-text required" />
+</div>
+<div class="form-item form-type-password form-item-pass">
+  <label for="edit-pass">Password <span class="form-required" title="This field is required.">*</span></label>
+ <input type="password" id="edit-pass" name="pass" size="15" maxlength="128" class="form-text required" />
+</div>
+<div class="item-list"><ul><li class="first last"><a href="/user/password" title="Request new password via e-mail.">Request new password</a></li>
+</ul></div><input type="hidden" name="form_build_id" value="form-xtHnGtK4C3tfluDy8tVTQHWccAccDobhcq_P3LUcLn4" />
+<input type="hidden" name="form_id" value="user_login_block" />
+<div class="form-actions form-wrapper" id="edit-actions--2"><input type="submit" id="edit-submit--2" name="op" value="Log in" class="form-submit" /></div></div></form>  </div>
+</div>
+  </div>
+        </div>
+      
+      <div id="center"><div id="squeeze"><div class="right-corner"><div class="left-corner">
+                    <a id="main-content"></a>
+          <div id="tabs-wrapper" class="clearfix">                                        </div>                                                  <div class="clearfix">
+              <div class="region region-content">
+    <div id="block-system-main" class="block block-system clearfix">
+
+    
+  <div class="content">
+    <div class="view view-frontpage view-id-frontpage view-display-id-page view-dom-id-4910081711b016e7b207debeb1fb12a9">
+        
+  
+  
+      <div class="view-content">
+        <div class="views-row views-row-1 views-row-odd views-row-first">
+    <div id="node-1120" class="node node-story node-promoted node-sticky node-teaser">
+
+  
+        <h2><a href="/node/1120">NitroEurope IP completed</a></h2>
+    
+      <span class="submitted">Tue, 26/02/2013 - 13:09 — <span class="username">agnieszka_eljasz</span></span>
+  
+  <div class="content clearfix">
+    <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even"><p>Dear Colleagues,</p>
+<p>this is to let you know that the NitroEurope IP has been completed. The final reporting has been accepted by the European Commission and the final payment has reached all Partners.</p>
+<p>Thank you for your cooperation over the last few years.</p>
+<p>Best regards</p>
+<p>NitroEurope Secretariat</p></div></div></div>  </div>
+
+  <div class="clearfix">
+          <div class="links"><ul class="links inline"><li class="node-readmore first last"><a href="/node/1120" rel="tag" title="NitroEurope IP completed">Read more<span class="element-invisible"> about NitroEurope IP completed</span></a></li>
+</ul></div>
+    
+      </div>
+
+</div>
+  </div>
+  <div class="views-row views-row-2 views-row-even">
+    <div id="node-1121" class="node node-story node-promoted node-teaser">
+
+  
+        <h2><a href="/node/1121">The Phil Trans B issue on ‘The global nitrogen cycle in the 21st century’ has been published</a></h2>
+    
+      <span class="submitted">Wed, 29/05/2013 - 07:12 — <span class="username">stefan_reis</span></span>
+  
+  <div class="content clearfix">
+    <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even"><div id="toc-header"><h1><span style="font-size: small;">The Phil Trans B issue on ‘<a href="http://rstb.royalsocietypublishing.org/site/2013/global_nitrogen_cycle.xhtml">The global nitrogen cycle in the 21st century</a>’ has been published online. The table of</span><span style="font-size: small;"> contents can be found <a href="http://rstb.royalsocietypublishing.org/content/368/1621.toc" target="_blank">here</a>.</span></h1></div><div id="toc-header">Discussion Meeting Issue 'The global nitrogen cycle in the twenty-first century' organised and edited by David Fowler, John A. Pyle, John A. Raven and Mark A. Sutton, <span style="font-size: 0.9em; line-height: 1.3em;">July 5, 2013; 368 (1621)</span></div><div><span style="font-size: 0.9em; line-height: 1.3em;"></div></div></div>  </div>
+
+  <div class="clearfix">
+          <div class="links"><ul class="links inline"><li class="node-readmore first last"><a href="/node/1121" rel="tag" title="The Phil Trans B issue on ‘The global nitrogen cycle in the 21st century’ has been published">Read more<span class="element-invisible"> about The Phil Trans B issue on ‘The global nitrogen cycle in the 21st century’ has been published</span></a></li>
+</ul></div>
+    
+      </div>
+
+</div>
+  </div>
+  <div class="views-row views-row-3 views-row-odd">
+    <div id="node-1117" class="node node-story node-promoted node-teaser">
+
+  
+        <h2><a href="/node/1117">AGU 2012 Session B067. The Role of Abiotic Processes in Terrestrial Greenhouse Gas Exchange </a></h2>
+    
+      <span class="submitted">Mon, 16/07/2012 - 09:15 — <span class="username">stefan_reis</span></span>
+  
+  <div class="content clearfix">
+    <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even"><p>AGU 2012 Fall Meeting, San Francisco, December 3-7</p>
+<p><a href="http://fallmeeting.agu.org/2012/session-search/single/the-role-of-abiotic-processes-in-terrestrial-greenhouse-gas-exchange/" target="_blank"><strong>B067. The Role of Abiotic Processes in Terrestrial Greenhouse Gas Exchange </strong></a></p></div></div></div>  </div>
+
+  <div class="clearfix">
+          <div class="links"><ul class="links inline"><li class="node-readmore first last"><a href="/node/1117" rel="tag" title="AGU 2012 Session B067. The Role of Abiotic Processes in Terrestrial Greenhouse Gas Exchange ">Read more<span class="element-invisible"> about AGU 2012 Session B067. The Role of Abiotic Processes in Terrestrial Greenhouse Gas Exchange </span></a></li>
+</ul></div>
+    
+      </div>
+
+</div>
+  </div>
+  <div class="views-row views-row-4 views-row-even">
+    <div id="node-1116" class="node node-story node-promoted node-teaser">
+
+  
+        <h2><a href="/node/1116">Royal Society publication  &quot;Nitrous oxide: the forgotten greenhouse gas&quot; available now</a></h2>
+    
+      <span class="submitted">Wed, 16/05/2012 - 15:23 — <span class="username">stefan_reis</span></span>
+  
+  <div class="content clearfix">
+    <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even"><p>Royal Society Publishing has just published </p>
+<p><span><strong>Nitrous oxide: the forgotten greenhouse gas</strong></span></p></div></div></div>  </div>
+
+  <div class="clearfix">
+          <div class="links"><ul class="links inline"><li class="node-readmore first last"><a href="/node/1116" rel="tag" title="Royal Society publication  &quot;Nitrous oxide: the forgotten greenhouse gas&quot; available now">Read more<span class="element-invisible"> about Royal Society publication  &quot;Nitrous oxide: the forgotten greenhouse gas&quot; available now</span></a></li>
+</ul></div>
+    
+      </div>
+
+</div>
+  </div>
+  <div class="views-row views-row-5 views-row-odd">
+    <div id="node-1110" class="node node-story node-promoted node-teaser">
+
+  
+        <h2><a href="/node/1110">NitroEurope Brochure &quot;The nitrogen cycle and its influence on the European greenhouse gas balance&quot; available online</a></h2>
+    
+      <span class="submitted">Fri, 12/08/2011 - 10:17 — <span class="username">stefan_reis</span></span>
+  
+  <div class="content clearfix">
+    <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even"><p><a href="/webfm_send/2426" target="_blank"><img src="/sites/nitroeurope.eu/files/neu_data/Dissemination-deliverables/neu_final_report_cover.png" width="200" height="281"></a></p>
+<p>A brochure summarising the key findings of NitroEurope has been produced for the Nitrogen &amp; Global Change event and a PDF version can be found <a href="/webfm_send/2426" target="_blank">here</a>. Please get in touch with the NEU IP Secretariat at <a href="mailto:neu@ceh.ac.uk" target="_blank">neu@ceh.ac.uk</a> if you would like to get a hardcopy of this brochure (subject to availability).</p></div></div></div>  </div>
+
+  <div class="clearfix">
+          <div class="links"><ul class="links inline"><li class="node-readmore first last"><a href="/node/1110" rel="tag" title="NitroEurope Brochure &quot;The nitrogen cycle and its influence on the European greenhouse gas balance&quot; available online">Read more<span class="element-invisible"> about NitroEurope Brochure &quot;The nitrogen cycle and its influence on the European greenhouse gas balance&quot; available online</span></a></li>
+</ul></div>
+    
+      </div>
+
+</div>
+  </div>
+  <div class="views-row views-row-6 views-row-even">
+    <div id="node-1108" class="node node-story node-promoted node-teaser">
+
+  
+        <h2><a href="/node/1108">NitroEurope special issue in Plant &amp; Soil published</a></h2>
+    
+      <span class="submitted">Fri, 17/06/2011 - 17:48 — <span class="username">stefan_reis</span></span>
+  
+  <div class="content clearfix">
+    <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even"><p>Dear NEU colleagues and friends, the special issue the Journal Plant &amp; Soil titled ‘Reactive nitrogen and greenhouse gas flux interactions in terrestrial ecosystems’ emerging from the Solothurn Open Science Conference in 2010 has now been published. The content is accessible for free until the end of August, if you follow the link below. </p>
+<p>You can directly access it here: <a href="http://www.springer.com/?SGWID=0-0-1500-1328503-0&amp;cm_mmc=AD-_-FTA-_-BIO14389_V1-_-0" target="_blank">http://www.springer.com/?SGWID=0-0-1500-1328503-0&amp;cm_mmc=AD-_-FTA-_-BIO14389_V1-_-0</a></p></div></div></div>  </div>
+
+  <div class="clearfix">
+          <div class="links"><ul class="links inline"><li class="node-readmore first last"><a href="/node/1108" rel="tag" title="NitroEurope special issue in Plant &amp; Soil published">Read more<span class="element-invisible"> about NitroEurope special issue in Plant &amp; Soil published</span></a></li>
+</ul></div>
+    
+      </div>
+
+</div>
+  </div>
+  <div class="views-row views-row-7 views-row-odd">
+    <div id="node-1053" class="node node-story node-promoted node-teaser">
+
+  
+        <h2><a href="/node/1053">Biogeosciences Special Issue (update)</a></h2>
+    
+      <span class="submitted">Wed, 20/04/2011 - 09:16 — <span class="username">stefan_reis</span></span>
+  
+  <div class="content clearfix">
+    <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even"><p>The special issue <strong>Nitrogen &amp; Global Change</strong> in Biogeosciences (http://www.biogeosciences.net/special_issue93.html) is coming along nicely, with 14 papers already published in BG and more in review and planned for submission. We anticipate a total volume of more than 40-50 papers once all submissions have gone through peer review and have been thoroughly evaluated. </p><p>The final deadline for this special issue is <span style="color: #ff0000;"><strong>April 30, 2012</strong></span>. After this date, we cannot accept further submissions.</p></div></div></div>  </div>
+
+  <div class="clearfix">
+          <div class="links"><ul class="links inline"><li class="node-readmore first last"><a href="/node/1053" rel="tag" title="Biogeosciences Special Issue (update)">Read more<span class="element-invisible"> about Biogeosciences Special Issue (update)</span></a></li>
+</ul></div>
+    
+      </div>
+
+</div>
+  </div>
+  <div class="views-row views-row-8 views-row-even">
+    <div id="node-1052" class="node node-story node-promoted node-teaser">
+
+  
+        <h2><a href="/node/1052">One Thousand Cranes for Japan</a></h2>
+    
+      <span class="submitted">Tue, 19/04/2011 - 15:40 — <span class="username">stefan_reis</span></span>
+  
+  <div class="content clearfix">
+    <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even"><p>Dear colleagues, we all have heard about the earthquake and Tsunami in Japan, and in the course of preparing for the Nitrogen &amp; Global Change event have been in touch with colleagues from Japan, some of them could not make it to the event due to the substantial damages caused to infrastructure and every day life. </p></div></div></div>  </div>
+
+  <div class="clearfix">
+          <div class="links"><ul class="links inline"><li class="node-readmore first last"><a href="/node/1052" rel="tag" title="One Thousand Cranes for Japan">Read more<span class="element-invisible"> about One Thousand Cranes for Japan</span></a></li>
+</ul></div>
+    
+      </div>
+
+</div>
+  </div>
+  <div class="views-row views-row-9 views-row-odd">
+    <div id="node-1051" class="node node-story node-promoted node-teaser">
+
+  
+        <h2><a href="/node/1051">OCE Postdoctoral Fellow - A rational scheme for assessing greenhouse gas emissions from irrigated agriculture, CSIRO/Australia</a></h2>
+    
+      <span class="submitted">Mon, 18/04/2011 - 12:41 — <span class="username">stefan_reis</span></span>
+  
+  <div class="content clearfix">
+    <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even"><p><strong>OCE Postdoctoral Fellow - A rational scheme for assessing greenhouse gas emissions from irrigated agriculture</strong></p></div></div></div>  </div>
+
+  <div class="clearfix">
+          <div class="links"><ul class="links inline"><li class="node-readmore first last"><a href="/node/1051" rel="tag" title="OCE Postdoctoral Fellow - A rational scheme for assessing greenhouse gas emissions from irrigated agriculture, CSIRO/Australia">Read more<span class="element-invisible"> about OCE Postdoctoral Fellow - A rational scheme for assessing greenhouse gas emissions from irrigated agriculture, CSIRO/Australia</span></a></li>
+</ul></div>
+    
+      </div>
+
+</div>
+  </div>
+  <div class="views-row views-row-10 views-row-even views-row-last">
+    <div id="node-1050" class="node node-story node-promoted node-teaser">
+
+  
+        <h2><a href="/node/1050">Edinburgh Declaration on Reactive Nitrogen</a></h2>
+    
+      <span class="submitted">Fri, 15/04/2011 - 13:19 — <span class="username">stefan_reis</span></span>
+  
+  <div class="content clearfix">
+    <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even"><p><strong>The Edinburgh Declaration on Reactive Nitrogen</strong></p>
+<p>This week over 350 scientists, policymakers, industry and NGO representatives gathered in Edinburgh, Scotland at the ‘Nitrogen and Global Change’ international conference.</p>
+<p>During the week the first European Nitrogen Assessment was published, the impact of reactive nitrogen on Europe’s wildlife and forests was discussed, and a Nitrogen footprint calculator was launched.</p></div></div></div>  </div>
+
+  <div class="clearfix">
+          <div class="links"><ul class="links inline"><li class="node-readmore first last"><a href="/node/1050" rel="tag" title="Edinburgh Declaration on Reactive Nitrogen">Read more<span class="element-invisible"> about Edinburgh Declaration on Reactive Nitrogen</span></a></li>
+</ul></div>
+    
+      </div>
+
+</div>
+  </div>
+    </div>
+  
+      <h2 class="element-invisible">Pages</h2><div class="item-list"><ul class="pager"><li class="pager-current first">1</li>
+<li class="pager-item"><a title="Go to page 2" href="/frontpage?page=1">2</a></li>
+<li class="pager-item"><a title="Go to page 3" href="/frontpage?page=2">3</a></li>
+<li class="pager-item"><a title="Go to page 4" href="/frontpage?page=3">4</a></li>
+<li class="pager-item"><a title="Go to page 5" href="/frontpage?page=4">5</a></li>
+<li class="pager-item"><a title="Go to page 6" href="/frontpage?page=5">6</a></li>
+<li class="pager-next"><a title="Go to next page" href="/frontpage?page=1">next ›</a></li>
+<li class="pager-last last"><a title="Go to last page" href="/frontpage?page=5">last »</a></li>
+</ul></div>  
+  
+  
+  
+  
+</div>  </div>
+</div>
+  </div>
+          </div>
+          <a href="http://www.nitroeurope.eu/rss.xml" class="feed-icon" title="Subscribe to Front page feed"><img src="http://www.nitroeurope.eu/misc/feed.png" width="16" height="16" alt="Subscribe to Front page feed" /></a>                </div></div></div></div></div> <!-- /.left-corner, /.right-corner, /#squeeze, /#center -->
+
+              <div id="sidebar-second" class="sidebar">
+            <div class="region region-sidebar-second">
+    <div id="block-block-3" class="block block-block clearfix">
+
+    
+  <div class="content">
+    <span style="font-size:11px;">NitroEuropeIP is coordinated by The Centre For Ecology and Hydrology.</span><br /><br /><a href="http://www.ceh.ac.uk" target="_blank"><img src="/sites/nitroeurope.eu/files/images/cehlogo200.gif" /></a>  </div>
+</div>
+<div id="block-menu-menu-neu-navigation" class="block block-menu clearfix">
+
+    <h2 class="title">NEU Navigation</h2>
+  
+  <div class="content">
+    <ul class="menu"><li class="first leaf"><a href="/node/804">Deliverables - Public</a></li>
+<li class="last leaf"><a href="/sites_data_page" title="Sites &amp; Data">Sites &amp; Data</a></li>
+</ul>  </div>
+</div>
+  </div>
+        </div>
+      
+    </div> <!-- /#container -->
+  </div> <!-- /#wrapper -->
+  </body>
+</html>
+
+

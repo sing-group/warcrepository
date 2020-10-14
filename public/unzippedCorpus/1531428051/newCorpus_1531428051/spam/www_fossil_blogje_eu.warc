@@ -1,0 +1,335 @@
+WARC/1.0
+WARC-Type: warcinfo
+WARC-Date: 2018-05-30T18:18:32Z
+WARC-Record-ID: <urn:uuid:e0532bed-fd96-4756-8643-893261da1518>
+WARC-All-Language: en
+WARC-All-Content_type: text/html
+Content-Type: application/http;msgtype=response
+Content-Length: 46
+
+WARCProcessor by SING Group www.sing-group.com
+
+WARC/1.0
+WARC-Type: response
+WARC-Record-ID: <http://www.fossil.blogje.eu>
+WARC-Date: 20180530181832
+WARC-Target-URI: http://www.fossil.blogje.eu
+WARC-Language: en
+Content-Type: application/http;msgtype=response
+Content-Length: 17528
+
+HTTP/1.1 200
+Content-Type:text/html
+
+
+
+
+
+
+ 
+ 
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+  <!--// 
+  Deze internetpagina is geopend op www.blogje.eu             
+  Open zelf ook een eigen webpagina + CMS met leuke domeinnaam, 
+  eenvoudig en snel op www.blogje.eu 
+  =========================================== 
+  Created by Universalis uw website oplossing!        
+  ===========================================   
+  //-->
+
+<title>Fossil</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<meta http-equiv="imagetoolbar" content="no"/> 
+<meta name="description" content="Fossil"/>
+<meta name="keywords" content="Fossil,fossil,unidentified fossil, fossils, fossil blogje,"/>
+<!--//stylesheet chooser by universalis //-->
+<link href="http://Fossil.blogje.eu/start/styles/blogje10.css" rel="stylesheet" type="text/css"/>
+<style type="text/css">
+
+body {
+	background-image: url(http://www.blogje.eu/start/achtergrondplaatje.jpg);
+	background-repeat: repeat;
+	background-position:center;
+	}
+</style><!--//stylesheet chooser by universalis //-->
+
+
+
+
+
+
+</head>
+<SCRIPT TYPE="text/javascript"> 
+
+<!--
+function popup(mylink, windowname)
+{
+if (! window.focus)return true;
+var href;
+if (typeof(mylink) == 'string')
+   href=mylink;
+else
+   href=mylink.href;
+window.open(href, windowname, 'width=820,height=500,scrollbars=yes');
+return false;
+}
+//-->
+</SCRIPT>
+<!--// Universalis loves uniqueness :) //-->
+<script>
+if (window!= top)
+top.location.href=location.href
+</script>
+
+<body>
+
+
+<div class="bodymidden">
+<div id="dhtmltooltip"></div>
+<script type="text/javascript">
+var offsetxpoint=-60 //Customize x offset of tooltip
+var offsetypoint=100 //Customize y offset of tooltip
+var ie=document.all
+var ns6=document.getElementById && !document.all
+var enabletip=false
+if (ie||ns6)
+var tipobj=document.all? document.all["dhtmltooltip"] : document.getElementById? document.getElementById("dhtmltooltip") : ""
+
+function ietruebody(){
+return (document.compatMode && document.compatMode!="BackCompat")? document.documentElement : document.body
+}
+
+function thlinkdesc(thetext, thecolor, thewidth){
+if (ns6||ie){
+if (typeof thewidth!="undefined") tipobj.style.width=thewidth+"px"
+if (typeof thecolor!="undefined" && thecolor!="") tipobj.style.backgroundColor=thecolor
+tipobj.innerHTML=thetext
+enabletip=true
+return false
+}
+}
+
+function positiontip(e){
+if (enabletip){
+var curX=(ns6)?e.pageX : event.clientX+ietruebody().scrollLeft;
+var curY=(ns6)?e.pageY : event.clientY+ietruebody().scrollTop;
+//Find out how close the mouse is to the corner of the window
+var rightedge=ie&&!window.opera? ietruebody().clientWidth-event.clientX-offsetxpoint : window.innerWidth-e.clientX-offsetxpoint-20
+var bottomedge=ie&&!window.opera? ietruebody().clientHeight-event.clientY-offsetypoint : window.innerHeight-e.clientY-offsetypoint-20
+
+var leftedge=(offsetxpoint<0)? offsetxpoint*(-1) : -1000
+
+//if the horizontal distance isn't enough to accomodate the width of the context menu
+if (rightedge<tipobj.offsetWidth)
+//move the horizontal position of the menu to the left by it's width
+tipobj.style.left=ie? ietruebody().scrollLeft+event.clientX-tipobj.offsetWidth+"px" : window.pageXOffset+e.clientX-tipobj.offsetWidth+"px"
+else if (curX<leftedge)
+tipobj.style.left="5px"
+else
+//position the horizontal position of the menu where the mouse is positioned
+tipobj.style.left=curX+offsetxpoint+"px"
+
+//same concept with the vertical position
+if (bottomedge<tipobj.offsetHeight)
+tipobj.style.top=ie? ietruebody().scrollTop+event.clientY-tipobj.offsetHeight-offsetypoint+"px" : window.pageYOffset+e.clientY-tipobj.offsetHeight-offsetypoint+"px"
+else
+tipobj.style.top=curY+offsetypoint+"px"
+tipobj.style.visibility="visible"
+}
+}
+
+function hidethlinkdesc(){
+if (ns6||ie){
+enabletip=false
+tipobj.style.visibility="hidden"
+tipobj.style.left="-1000px"
+tipobj.style.backgroundColor=''
+tipobj.style.width=''
+}
+}
+
+document.onmousemove=positiontip
+
+</script>
+
+
+<!--//Page downloaded at 08-10-32, 30-05-18,  3  149  from http://www.blogje.eu/ .
+Copyrighted by universalis this page may not be copied, modified ,distributed, duplicated in any way without the written permission of Universalis founder of www.blogje.eu.
+<TABLE cellSpacing=0 cellPadding=0 width=820 border=0>
+  <TBODY>
+  <TR>
+    <TD vAlign=top width=874 height=22 rowSpan=2><IMG height=22 alt="" hspace=0 src="http://www.blogje.eu/start/styles/blueline/bodytop.gif" width=874 border=0></TD>
+  </TR>
+  <TR>
+  </TR></TBODY></TABLE>
+<TABLE cellSpacing=0 cellPadding=0 width=775 border=0>
+  <TBODY>
+    <TR>
+      <TD vAlign=bottom width=22 
+    background="http://www.blogje.eu/start/styles/blueline/bodylinks.gif"><IMG 
+      height=229 alt="" hspace=0 
+      src="http://www.blogje.eu/start/styles/blueline/bodylinks.gif" 
+      width=22 border=0></TD>
+      <TD vAlign=top width=738 bgColor=#ffffff>
+        <DIV class=bodybg align=left>
+          <TABLE cellSpacing=0 cellPadding=0 width=775 border=0>
+            <TBODY>
+              <TR>//-->
+
+<div class="rounded2"><div class="rounded2div"><div class="rounded2divdiv">
+  <div class="rounded2divdivdiv">
+  <div id="container">
+	<div id="header">
+	<div class="rounded"><div class="roundeddiv"><div class="roundeddivdiv"><div class="roundeddivdivdiv">
+<h2><font size="7"><strong>Unidentified Fossil</strong></font> </h2>	
+
+</div></div></div></div>
+<br/>
+	</div>
+	<div id="content">
+		<div id="leftContent">
+			<div id="contentBox">
+				<div id="contentBoxHeader">
+				  <p align="center"><!--//Fossil content //-->
+                 </p>
+				 
+				</div>
+			  <div id="contentBoxContent">			 
+			   			
+
+<a name="Universalis top" id="Universalis top"  title="Universalis top"></a>	
+
+ <br /><p>Fossils are the preserved remains or traces of animals, plants, and other organisms from the remote past. <br />Like extant organisms, fossils vary in size from microscopic to gigantic. A fossil normally preserves only a portion of the deceased organism, usually that portion that was partially mineralized during life, such as the bones and teeth of vertebrates, or the chitinous exoskeletons of invertebrates. Preservation of soft tissues is exquisitely rare in the fossil record. Fossils may also consist of the marks left behind by the organism while it was alive, such as the footprint or feces of a reptile. These fossils are called trace fossils, as opposed to body fossils. Finally, past life leaves some markers that cannot be seen but can be detected in the form of biochemical signals; these are known as chemofossils.<br />&nbsp;</p><p>Can someone with some fossil knowledge tell what kind of fossil this could be?<br />I have limited knowledge about fossils and the creatures that can be contained in them, but i am very curious. I tend to think it&#39;s some kind of lobster like creature. Please&nbsp;leave a message&nbsp;(click on contact) if you have an idea.&nbsp;</p><p><img src="http://i526.photobucket.com/albums/cc344/fossil-blogje-eu/unidentified-Fossil.jpg" alt="Unidentified Fossil" title="Unidentified Fossil" width="600" height="450" align="middle" /></p><br />
+
+ 
+
+<br />
+    			
+
+<center></center>
+			   
+			  </div>
+			</div>
+		</div>
+		<div id="rightContent">
+			<div id="infoBox">
+				<div id="infoBoxHeader">
+				  <p align="center"><!--//Fossil Menu //--></p>
+			
+				</div>
+			
+				<div id="infoBoxContent">
+				<br />
+				<p><a href="http://Fossil.blogje.eu/"/><b>Homepage</b></a></p>
+<p>
+ <b><a href="http://Fossil.blogje.eu/start/universalis.php?ref=Fossil&dom=blogje.eu&page=" title="" onMouseover="thlinkdesc('','lightblue', 300)" onMouseout="hidethlinkdesc()"></a></b>&nbsp; 
+ &nbsp;<br />
+
+			<br /></p>
+					
+     
+				<br />			
+		
+ </div>
+		
+			  	<div id="infoBoxContent">
+				
+				
+					<br />
+		<p>
+<a href="/2se/?tHurl=" title="" target="" onMouseover="thlinkdesc('','lightblue', 300)" rel="nofollow" onMouseout="hidethlinkdesc()"></a>&nbsp;<br />
+</p>
+
+
+     
+			
+			
+			  </div>
+			  	<div id="infoBoxContent">	
+		<p><a href="http://Fossil.blogje.eu/start/contactform.php?user=Fossil&dom=blogje.eu&contact" onClick="return popup(this, 'notes')" rel="nofollow">Contact</a>&nbsp;&nbsp;</p>
+ 	
+
+				 <p><a href="http://Fossil.blogje.eu/" rel="nofollow" target="_self" onclick="this.style.behavior='url(#default#homepage)'; this.setHomePage('http://Fossil.blogje.eu/');">Maak Startpagina</a><br />
+<a href="http://Fossil.blogje.eu/" rel="nofollow" target="_self" onClick="javascript:window.external.AddFavorite('http://Fossil.blogje.eu/','Fossil.blogje.eu webpagina over fossil,unidentified fossil, fossils, fossil blogje,!')">Naar Favorieten</a><br />
+				 <br /> <a href="http://www.blogje.eu/" title="blogje" target="_blank">blogje</a> <br /><a href="http://www.blogje.eu/start/blog-directory.php" title="blogje directory" target="_blank">directory</a> 
+					</p>
+					  <p><a href="http://Fossil.linkje.eu/" title="Fossil  linkpage provided by linkje.eu your european linkpartner solution" target="_self">Fossil Linkpagina</a></p>
+					    <!--//Universalis bookmarklets for Fossil.blogje.eu //-->
+<p>		<a href="/2se/?tHurl=http://www.linkedin.com/shareArticle?url=http://Fossil.blogje.eu/" onClick="return popup(this, 'notes')" rel="nofollow" id="th_linked" title="Share This: linkedin"><img alt="Share This: linkedin" style="padding-right:15px;vertical-align:middle;" src="/2se/images/linkedinicon.gif" border="0"></a>
+		<a href="/2se/?tHurl=http://facebook.com/sharer.php?u=http://Fossil.blogje.eu/" onClick="return popup(this, 'notes')" rel="nofollow" id="th_facebook" title="Share This: facebook"><img alt="Share This: facebook" style="padding-right:15px;vertical-align:middle;" src="/2se/images/facebicon.gif" border="0"></a>
+		<a href="/2se/?tHurl=http://twitter.com/share?url=http://Fossil.blogje.eu/" onClick="return popup(this, 'notes')" rel="nofollow" id="th_twitter" title="Share This: twitter"><img alt="Share This: twitter" style="padding-right:15px;vertical-align:middle;" src="/2se/images/twiticon.gif" border="0"></a>
+		<a href="/2se/?tHurl=http://hyves-share.nl/button/tip/?body=http://Fossil.blogje.eu/" onClick="return popup(this, 'notes')" rel="nofollow" id="th_hyves" title="Share This: Hyves"><img alt="Share This: hyves" style="padding-right:15px;vertical-align:middle;" src="/2se/images/hyvicon.gif" border="0"></a>
+		<a href="/2se/?tHurl=http://myweb2.search.yahoo.com/myresults/bookmarklet?u=http://Fossil.blogje.eu/" onClick="return popup(this, 'notes')" rel="nofollow" id="th_yahoo_myweb" title="Share This: myweb2.search.yahoo.com"><img alt="Share This: myweb2.search.yahoo.com" style="padding-right:15px;vertical-align:middle;" src="/2se/images/yahoo_myweb.gif" border="0"></a>
+		<a href="/2se/?tHurl=http://www.stumbleupon.com/submit?url=http://Fossil.blogje.eu/" onClick="return popup(this, 'notes')" rel="nofollow" id="th_stumbleupon" title="Share This: www.stumbleupon.com"><img alt="Share This: www.stumbleupon.com" style="padding-right:15px;vertical-align:middle;" src="/2se/images/stumbleupon.gif" border="0"></a>
+		<a href="/2se/?tHurl=http://favorites.live.com/quickadd.aspx?marklet=1&mkt=en-us&top=1&url=http://Fossil.blogje.eu/" onClick="return popup(this, 'notes')" rel="nofollow" id="th_windows_live" title="Share This: favorites.live.com"><img alt="Share This: favorites.live.com" style="padding-right:15px;vertical-align:middle;" src="/2se/images/windows_live.gif" border="0"></a>
+		<a href="/2se/?tHurl=http://www.google.com/bookmarks/mark?op=edit&bkmk=http://Fossil.blogje.eu/" onClick="return popup(this, 'notes')" rel="nofollow" id="th_google_bmarks" title="Share This: www.google.com"><img alt="Share This: www.google.com" style="padding-right:15px;vertical-align:middle;" src="/2se/images/google_bmarks.gif" border="0"></a>
+		<a href="/2se/?tHurl=http://www.technorati.com/faves?add=http://Fossil.blogje.eu/" onClick="return popup(this, 'notes')" rel="nofollow" id="th_technorati" title="Share This: www.technorati.com"><img alt="Share This: www.technorati.com" style="padding-right:15px;vertical-align:middle;" src="/2se/images/technorati.gif" border="0"></a>
+		<a href="/2se/?tHurl=http://del.icio.us/post?url=http://Fossil.blogje.eu/" onClick="return popup(this, 'notes')" rel="nofollow" id="th_delicious" title="Share This: del.icio.us"><img alt="Share This: del.icio.us" style="padding-right:15px;vertical-align:middle;" src="/2se/images/delicious.gif" border="0"></a>
+		<a href="/2se/?tHurl=http://digg.com/submit?phase=2&url=http://Fossil.blogje.eu" onClick="return popup(this, 'notes')" rel="nofollow" id="th_digg" title="Share This: digg.com"><img alt="Share This: digg.com" style="padding-right:15px;vertical-align:middle;" src="/2se/images/digg.gif" border="0"></a>
+		<a href="/2se/?tHurl=http://furl.net/storeIt.jsp?u=http://Fossil.blogje.eu/" onClick="return popup(this, 'notes')" rel="nofollow" id="th_furl" title="Share This: furl.net"><img alt="Share This: furl.net" style="padding-right:15px;vertical-align:middle;" src="/2se/images/furl.gif" border="0"></a>
+		<a href="/2se/?tHurl=http://www.netscape.com/submit/?U=http://Fossil.blogje.eu/" onClick="return popup(this, 'notes')" rel="nofollow" id="th_netscape" title="Share This: www.netscape.com"><img alt="Share This: www.netscape.com" style="padding-right:15px;vertical-align:middle;" src="/2se/images/netscape.gif" border="0"></a>
+		<a href="/2se/?tHurl=http://blinklist.com/index.php?Action=Blink/addblink.php&Url=http://Fossil.blogje.eu/" onClick="return popup(this, 'notes')" rel="nofollow" id="th_blinklist" title="Share This: blinklist.com"><img alt="Share This: blinklist.com" style="padding-right:15px;vertical-align:middle;" src="/2se/images/blinklist.gif" border="0"></a>
+		<a href="/2se/?tHurl=http://www.newsvine.com/_wine/save?u=http://Fossil.blogje.eu/" onClick="return popup(this, 'notes')" rel="nofollow" id="th_newsvine" title="Share This: newsvine.com"><img alt="Share This: newsvine.com" style="padding-right:15px;vertical-align:middle;" src="/2se/images/newsvine.gif" border="0"></a>
+		<a href="/2se/?tHurl=http://ma.gnolia.com/bookmarklet/add?url=http://Fossil.blogje.eu/" onClick="return popup(this, 'notes')" rel="nofollow" id="th_magnolia" title="Share This: ma.gnolia.com"><img alt="Share This: ma.gnolia.com" style="padding-right:15px;vertical-align:middle;" src="/2se/images/magnolia.gif" border="0"></a>
+		<a href="/2se/?tHurl=http://reddit.com/submit?url=http://Fossil.blogje.eu/" onClick="return popup(this, 'notes')" rel="nofollow" id="th_reddit" title="Share This: reddit.com"><img alt="Share This: reddit.com" style="padding-right:15px;vertical-align:middle;" src="/2se/images/reddit.gif" border="0"></a>
+		<a href="/2se/?tHurl=http://tailrank.com/share/?link_href=http://Fossil.blogje.eu/" onClick="return popup(this, 'notes')" rel="nofollow" id="th_tailrank" title="Share This: tailrank.com"><img alt="Share This: tailrank.com" style="padding-right:15px;vertical-align:middle;" src="/2se/images/tailrank.gif" border="0"></a></p>
+ 	<iframe width="140" height="450" scrolling="no" frameborder="0" align="top" marginwidth="0" marginheight="0" src="http://www.blogje.eu/start/advertentie.php" rel="nofollow"></iframe>
+				 	 			
+				</div>
+			 <!--// <div id="infoBoxContent">
+			 Template copyrighted by www.shopje.com//-->
+			</div>
+		</div>
+	</div>
+
+	<!--//<div id="footer"></div>//-->
+  <div class="rounded"><div class="roundeddiv"><div class="roundeddivdiv"><div class="roundeddivdivdiv">
+   <p>copyright fossil.blogje.eu </p>
+   <br />
+<p align="left" class="footertext">
+<!--//http://www.blogje.eu is not responsible for any content posted here but contact us if you have any questions regarding this website.<br />
+ This webpage was opened by a member of blogje.eu, blogje.eu provides a free domain name.//-->
+Free website &amp; domain name provided by <a href="http://www.blogje.eu" title="webpage" target="_blank" class="footertext">blogje.eu</a> . C.M.S. &amp; templates &copy; <a href="http://www.universalis.biz/" title="universalis" target="_blank" > Universalis </a>. Hosted &amp; powered by <a href="http://www.shopje.com" title="shopje" target="_blank" class="footertext">Shopje</a> &copy; 2003 - 2018 .<br />  Laatst gewijzigd: 2008-08-27 
+ Hits:&nbsp;
+  
+
+  </p>
+</div>
+</div></div></div>
+</div>
+
+</div></div></div></div>
+
+
+
+
+<!--// </TR> 
+            </TBODY>
+          </TABLE>
+      </DIV></TD>
+      <TD vAlign=bottom width=22 
+    background="http://www.blogje.eu/start/styles/blueline/bodyrechts.gif"><IMG 
+      height=229 alt="" hspace=0 
+      src="http://www.blogje.eu/start/styles/blueline/bodyrechts.gif" 
+      width=22 border=0></TD>
+    </TR>
+    <TR>
+      <TD vAlign=top width=874 colSpan=3><IMG height=22 alt="" hspace=0 
+      src="http://www.blogje.eu/start/styles/blueline/bodybodem.gif" 
+      width=874 border=0></TD>
+    </TR>
+  </TBODY>
+</TABLE>//-->
+<!--//Page Hits:&nbsp;
+ downloaded at 08-10-32, 30-05-18,  3 149  from http://www.blogje.eu/ .
+Copyrighted by universalis this page may not be copied, modified ,distributed, duplicated in any way without the written permission of Universalis founder of www.blogje.eu.//-->
+</div>
+
+
+</body>
+</html>
+
+

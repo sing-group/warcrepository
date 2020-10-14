@@ -1,0 +1,309 @@
+WARC/1.0
+WARC-Type: warcinfo
+WARC-Date: 2018-05-30T18:18:32Z
+WARC-All-Language: de-DE
+WARC-All-Content_type: text/html; charset=UTF-8
+WARC-Record-ID: <urn:uuid:94efd6fb-951b-4936-9d98-8ee6bcc08c74>
+Content-Type: application/http;msgtype=response
+Content-Length: 46
+
+WARCProcessor by SING Group www.sing-group.com
+
+WARC/1.0
+WARC-Type: response
+WARC-Target-URI: http://www.driver-repository.eu
+WARC-Date: 20180530181832
+WARC-Language: de-DE
+WARC-Record-ID: <http://www.driver-repository.eu>
+Content-Type: application/http;msgtype=response
+Content-Length: 23200
+
+HTTP/1.1 200
+Content-Type:text/html; charset=UTF-8
+
+
+<!DOCTYPE html>
+<html lang="de-DE" prefix="og: http://ogp.me/ns#" prefix="og: http://ogp.me/ns#">
+<head>
+<meta charset="UTF-8" />
+<link rel="profile" href="http://gmpg.org/xfn/11" />
+<link rel="pingback" href="http://www.driver-repository.eu/xmlrpc.php" />
+<title>Günstiger Kredit Vergleich - driver-repository.eu</title>
+
+<!-- This site is optimized with the Yoast SEO plugin v5.2 - https://yoast.com/wordpress/plugins/seo/ -->
+<link rel="canonical" href="http://www.driver-repository.eu/" />
+<meta property="og:locale" content="de_DE" />
+<meta property="og:type" content="website" />
+<meta property="og:title" content="Günstiger Kredit Vergleich - driver-repository.eu" />
+<meta property="og:description" content="Schneller zum Kredit! Große finanzielle Anschaffungen oder schlichte Engpässe, durch zu hohe Ausgaben, werden heutzutage oftmals durch einen Kredit abgedeckt. Durch das stetig wachsende Angebot von Krediten kann durch gute Recherche ein günstiger Kredit gefunden werden. In diesem Zusammenhang unerlässlich ist daher ein umfassender Kreditvergleich. &nbsp; Grundwissen ist vorteilhaft Wenn die Thematik des Kredits bisher &hellip;" />
+<meta property="og:url" content="http://www.driver-repository.eu/" />
+<meta property="og:site_name" content="driver-repository.eu - Günstiger Kredit Vergleich" />
+<meta property="og:image" content="http://www.driver-repository.eu/wp-content/uploads/2017/08/Girokonto-Studenten-300x199.jpg" />
+<meta property="og:image" content="http://www.driver-repository.eu/wp-content/uploads/2017/08/girokonto-zinsen-300x200.jpg" />
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:description" content="Schneller zum Kredit! Große finanzielle Anschaffungen oder schlichte Engpässe, durch zu hohe Ausgaben, werden heutzutage oftmals durch einen Kredit abgedeckt. Durch das stetig wachsende Angebot von Krediten kann durch gute Recherche ein günstiger Kredit gefunden werden. In diesem Zusammenhang unerlässlich ist daher ein umfassender Kreditvergleich. &nbsp; Grundwissen ist vorteilhaft Wenn die Thematik des Kredits bisher &hellip;" />
+<meta name="twitter:title" content="Günstiger Kredit Vergleich - driver-repository.eu" />
+<meta name="twitter:image" content="http://www.driver-repository.eu/wp-content/uploads/2017/08/Girokonto-Studenten-300x199.jpg" />
+<script type='application/ld+json'>{"@context":"http:\/\/schema.org","@type":"WebSite","@id":"#website","url":"http:\/\/www.driver-repository.eu\/","name":"driver-repository.eu - G\u00fcnstiger Kredit Vergleich","potentialAction":{"@type":"SearchAction","target":"http:\/\/www.driver-repository.eu\/?s={search_term_string}","query-input":"required name=search_term_string"}}</script>
+<!-- / Yoast SEO plugin. -->
+
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="driver-repository.eu - Günstiger Kredit Vergleich &raquo; Feed" href="http://www.driver-repository.eu/feed/" />
+<link rel="alternate" type="application/rss+xml" title="driver-repository.eu - Günstiger Kredit Vergleich &raquo; Kommentar-Feed" href="http://www.driver-repository.eu/comments/feed/" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.4\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.4\/svg\/","svgExt":".svg","source":{"concatemoji":"http:\/\/www.driver-repository.eu\/wp-includes\/js\/wp-emoji-release.min.js"}};
+			!function(a,b,c){function d(a,b){var c=String.fromCharCode;l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,a),0,0);var d=k.toDataURL();l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,b),0,0);var e=k.toDataURL();return d===e}function e(a){var b;if(!l||!l.fillText)return!1;switch(l.textBaseline="top",l.font="600 32px Arial",a){case"flag":return!(b=d([55356,56826,55356,56819],[55356,56826,8203,55356,56819]))&&(b=d([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]),!b);case"emoji":return b=d([55357,56692,8205,9792,65039],[55357,56692,8203,9792,65039]),!b}return!1}function f(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var g,h,i,j,k=b.createElement("canvas"),l=k.getContext&&k.getContext("2d");for(j=Array("flag","emoji"),c.supports={everything:!0,everythingExceptFlag:!0},i=0;i<j.length;i++)c.supports[j[i]]=e(j[i]),c.supports.everything=c.supports.everything&&c.supports[j[i]],"flag"!==j[i]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[j[i]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(h=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",h,!1),a.addEventListener("load",h,!1)):(a.attachEvent("onload",h),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),g=c.source||{},g.concatemoji?f(g.concatemoji):g.wpemoji&&g.twemoji&&(f(g.twemoji),f(g.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='contact-form-7-css'  href='http://www.driver-repository.eu/wp-content/plugins/contact-form-7/includes/css/styles.css' type='text/css' media='all' />
+<link rel='stylesheet' id='cookie-notice-front-css'  href='http://www.driver-repository.eu/wp-content/plugins/cookie-notice/css/front.min.css' type='text/css' media='all' />
+<link rel='stylesheet' id='tie-style-css'  href='http://www.driver-repository.eu/wp-content/themes/sahifa/style.css' type='text/css' media='all' />
+<link rel='stylesheet' id='tie-ilightbox-skin-css'  href='http://www.driver-repository.eu/wp-content/themes/sahifa/css/ilightbox/dark-skin/skin.css' type='text/css' media='all' />
+<link rel='stylesheet' id='Droid+Sans-css'  href='http://fonts.googleapis.com/css?family=Droid+Sans%3Aregular%2C700' type='text/css' media='all' />
+<script type='text/javascript' src='http://www.driver-repository.eu/wp-includes/js/jquery/jquery.js'></script>
+<script type='text/javascript' src='http://www.driver-repository.eu/wp-includes/js/jquery/jquery-migrate.min.js'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var cnArgs = {"ajaxurl":"http:\/\/www.driver-repository.eu\/wp-admin\/admin-ajax.php","hideEffect":"fade","onScroll":"no","onScrollOffset":"100","cookieName":"cookie_notice_accepted","cookieValue":"TRUE","cookieTime":"2592000","cookiePath":"\/","cookieDomain":"","redirection":"","cache":""};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://www.driver-repository.eu/wp-content/plugins/cookie-notice/js/front.min.js'></script>
+<link rel='https://api.w.org/' href='http://www.driver-repository.eu/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www.driver-repository.eu/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://www.driver-repository.eu/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 4.9.6" />
+<link rel='shortlink' href='http://www.driver-repository.eu/' />
+<link rel="alternate" type="application/json+oembed" href="http://www.driver-repository.eu/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fwww.driver-repository.eu%2F" />
+<link rel="alternate" type="text/xml+oembed" href="http://www.driver-repository.eu/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fwww.driver-repository.eu%2F&#038;format=xml" />
+		<style type="text/css">
+			.comments-link {
+				display: none;
+			}
+					</style>
+		
+		<link rel="shortcut icon" href="http://www.driver-repository.eu/wp-content/themes/sahifa/favicon.ico" title="Favicon" />	
+<!--[if IE]>
+<script type="text/javascript">jQuery(document).ready(function (){ jQuery(".menu-item").has("ul").children("a").attr("aria-haspopup", "true");});</script>
+<![endif]-->	
+<!--[if lt IE 9]>
+<script src="http://www.driver-repository.eu/wp-content/themes/sahifa/js/html5.js"></script>
+<script src="http://www.driver-repository.eu/wp-content/themes/sahifa/js/selectivizr-min.js"></script>
+<![endif]-->
+<!--[if IE 9]>
+<link rel="stylesheet" type="text/css" media="all" href="http://www.driver-repository.eu/wp-content/themes/sahifa/css/ie9.css" />
+<![endif]-->
+<!--[if IE 8]>
+<link rel="stylesheet" type="text/css" media="all" href="http://www.driver-repository.eu/wp-content/themes/sahifa/css/ie8.css" />
+<![endif]-->
+<!--[if IE 7]>
+<link rel="stylesheet" type="text/css" media="all" href="http://www.driver-repository.eu/wp-content/themes/sahifa/css/ie7.css" />
+<![endif]-->
+
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+
+
+<style type="text/css" media="screen"> 
+
+
+</style> 
+
+</head>
+<body id="top" class="home page-template-default page page-id-7 lazy-enabled">
+
+<div class="wrapper-outer">
+
+	<div class="background-cover"></div>
+
+	<aside id="slide-out">
+	
+			<div class="search-mobile">
+			<form method="get" id="searchform-mobile" action="http://www.driver-repository.eu/">
+				<button class="search-button" type="submit" value="Search"><i class="fa fa-search"></i></button>	
+				<input type="text" id="s-mobile" name="s" title="Search" value="Search" onfocus="if (this.value == 'Search') {this.value = '';}" onblur="if (this.value == '') {this.value = 'Search';}"  />
+			</form>
+		</div><!-- .search-mobile /-->
+		
+			<div class="social-icons">
+		<a class="ttip-none" title="Rss" href="http://www.driver-repository.eu/feed/" target="_blank"><i class="fa fa-rss"></i></a>		
+			</div>
+
+		
+		<div id="mobile-menu" ></div>
+	</aside><!-- #slide-out /-->
+
+		<div id="wrapper" class="boxed">
+		<div class="inner-wrapper">
+
+		<header id="theme-header" class="theme-header">
+			
+		<div class="header-content">
+		
+					<a id="slide-out-open" class="slide-out-open" href="#"><span></span></a>
+				
+			<div class="logo" style=" margin-top:15px; margin-bottom:15px;">
+			<h1>				<a  href="http://www.driver-repository.eu/">driver-repository.eu &#8211; Günstiger Kredit Vergleich</a>
+				<span>driver-repository.eu</span>
+							</h1>			</div><!-- .logo /-->
+						<div class="clear"></div>
+			
+		</div>	
+													<nav id="main-nav" class="fixed-enabled">
+				<div class="container">
+				
+				
+					<div class="main-menu"><ul id="menu-mainmenu" class="menu"><li id="menu-item-25" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-7 current_page_item menu-item-25"><a href="http://www.driver-repository.eu/">DRIVER</a></li>
+<li id="menu-item-24" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-24"><a href="http://www.driver-repository.eu/driver-coar/">Onlinerechner</a></li>
+<li id="menu-item-23" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-23"><a href="http://www.driver-repository.eu/driver-about/">Kreditrechner</a></li>
+<li id="menu-item-22" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-22"><a href="http://www.driver-repository.eu/downloads/">Kredit</a></li>
+<li id="menu-item-21" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-21"><a href="http://www.driver-repository.eu/enhanced-publications/">Unterschiede bei Sofortkrediten</a></li>
+</ul></div>					
+					
+				</div>
+			</nav><!-- .main-nav /-->
+					</header><!-- #header /-->
+	
+		
+	
+	
+	<div id="main-content" class="container sidebar-right">
+	
+
+				
+		
+	<div class="content">
+
+				
+		
+			
+
+		
+				
+		<article class="post-listing post post-7 page type-page status-publish hentry"  id="the-post">
+		
+						
+			<div class="post-inner">
+			
+							<h1 class="name post-title entry-title" itemprop="itemReviewed" itemscope itemtype="http://schema.org/Thing"><span itemprop="name">DRIVER</span></h1>
+				<p class="post-meta"></p>
+				<div class="clear"></div>
+						
+				<div class="entry">
+					
+					<h3><strong>Schneller zum Kredit!</strong></h3>
+<p>Große finanzielle Anschaffungen oder schlichte Engpässe, durch zu hohe Ausgaben, werden heutzutage oftmals durch einen Kredit abgedeckt. Durch das stetig wachsende Angebot von Krediten kann durch gute Recherche ein günstiger Kredit gefunden werden. In diesem Zusammenhang unerlässlich ist daher <strong>ein umfassender Kreditvergleich.</strong></p>
+<p>&nbsp;</p>
+<h3><strong>Grundwissen ist vorteilhaft</strong></h3>
+<p><img class="size-medium wp-image-60 alignleft" src="http://www.driver-repository.eu/wp-content/uploads/2017/08/Girokonto-Studenten-300x199.jpg" alt="" width="300" height="199" srcset="http://www.driver-repository.eu/wp-content/uploads/2017/08/Girokonto-Studenten-300x199.jpg 300w, http://www.driver-repository.eu/wp-content/uploads/2017/08/Girokonto-Studenten-768x510.jpg 768w, http://www.driver-repository.eu/wp-content/uploads/2017/08/Girokonto-Studenten-310x205.jpg 310w, http://www.driver-repository.eu/wp-content/uploads/2017/08/Girokonto-Studenten.jpg 960w" sizes="(max-width: 300px) 100vw, 300px" />Wenn die Thematik des Kredits bisher <strong>mit wenig Erfahrung verbunden</strong> ist, gibt es Grundbegriffe, die zu kennen vorteilhaft sind. Ein Kredit im Allgemeinen bezeichnet die Verleihung von Geld seitens der Bank an eine Person. Die Bank ist in diesem Fall der Kreditgeber, auch Gläubiger genannt, und<strong> die Person ist der Kreditnehmer, somit Schuldner</strong>. Der Kreditnehmer verpflichtet sich, innerhalb einer im Kreditvertrag festgelegten Zeit, den Kredit, zu den vereinbarten Konditionen, zurückzuzahlen. In diesen Konditionen auch enthalten ist die Vereinbarung zur Zahlung von Zinsen.</p>
+<p>Diese Zinsen berechnen sich von der Kreditsumme und werden zusätzlich gezahlt. Je nach Höhe des Kredits müssen, auf Verlangen der Bank, <strong>vereinzelt auch Sicherheiten geboten</strong> werden. Solche Sicherheiten werden bei langfristigem Ausbleiben der Kreditzahlungen als Ersatz herangezogen. Sie dienen in der Regel als letzte Konsequenz.</p>
+<h3></h3>
+<h3><strong>Alternative zum Bankbesuch</strong></h3>
+<p>Eine attraktive Art der Kreditbeschaffung ist heutzutage<strong> der sogenannte Sofortkredit.</strong> Bei ihm steht die rasche Bearbeitung der Anträge im Vordergrund und nach erfolgter Kreditbestätigung kommt es zur unmittelbaren Auszahlung des Geldes. Bei dieser Form des Kredits wird keine <strong>umfangreiche Bonitätsprüfung durchgeführt.</strong> Unter einer Bonitätsprüfung versteht man die Prüfung der Kreditwürdigkeit des Kreditnehmers. Solch eine Prüfung soll schon im Vorfeld zeigen, ob der zukünftige Kredit in vollem Umfang zurückgezahlt werden kann. Hingegen bei einem Sofortkredit kommt es zu einer abgeschwächten Form der Prüfung. Im Vordergrund stehen <strong>vielmehr die regelmäßigen Einnahmen</strong>, die durch entsprechende Belege nachgewiesen werden. Die Beantragung eines Kredits mit Sofortauszahlung bewegt sich <strong>im kleinen bis mittleren Bereich</strong> und erlauben dadurch umso eher die etwas abgeschwächte Form der Prüfung.</p>
+<p>&nbsp;</p>
+<h3><strong>Vergleichen ist unerlässlich</strong></h3>
+<p><img class="size-medium wp-image-64 alignright" src="http://www.driver-repository.eu/wp-content/uploads/2017/08/girokonto-zinsen-300x200.jpg" alt="" width="300" height="200" srcset="http://www.driver-repository.eu/wp-content/uploads/2017/08/girokonto-zinsen-300x200.jpg 300w, http://www.driver-repository.eu/wp-content/uploads/2017/08/girokonto-zinsen.jpg 510w" sizes="(max-width: 300px) 100vw, 300px" />Um nun erste Informationen zu erhalten ist die Verwendung <strong>von einem Kreditrechner sehr stark empfohlen</strong>. Unter Angabe der gewünschten Kreditsumme, möglichen vorhandenen Eigenmitteln oder auch Laufzeit, zeigen die Suchergebnisse alle möglichen Kreditangebote. Gezeigt wird die Kreditrate, womit der vom Kreditnehmer <strong>monatlich zu zahlende Betrag</strong> gemeint ist, und die Verzinsung der Kreditsumme. Durch die oftmals umfangreiche Auflistung aller möglichen Kreditangebote wird schnell ersichtlich, dass es zu großen Unterschieden bei den Konditionen kommen kann.<br />
+Zum einen bei der Verzinsung, zum anderen <strong>bei etwaigen Bearbeitungsgebühren.</strong> Viele Angebote trumpfen jedoch mit der Tatsache, dass es eben keine Bearbeitungsgebühr gibt, wodurch die online Variante eines Kredits um vieles ansprechender erscheint, als der tatsächliche Besuch bei einer Bank. Ein umfangreiches und <strong>ausgiebiges Vergleichen</strong> aller in Betracht kommenden Angebote ist daher die ideale Vorgehensweise zum Abschluss von einem günstigen Kredit.</p>
+										
+									</div><!-- .entry /-->	
+				<span style="display:none" class="updated">2017-08-10</span>
+								<div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="http://www.driver-repository.eu/author/admin-22/" title="Beiträge von admin-22" rel="author">admin-22</a></strong></div>
+								
+								<div class="clear"></div>
+			</div><!-- .post-inner -->
+		</article><!-- .post-listing -->
+				
+				
+		<!-- Comments hidden by No Comments Plugin -->	</div><!-- .content -->
+	
+	
+
+
+<aside id="sidebar">
+	<div class="theiaStickySidebar">
+<div id="text-2" class="widget widget_text"><div class="widget-top"><h4>Info</h4><div class="stripe-line"></div></div>
+						<div class="widget-container">			<div class="textwidget">Hierbei handelt es sich nicht um die offizielle Seite der Driver Repository.</div>
+		</div></div><!-- .widget /-->	</div><!-- .theiaStickySidebar /-->
+</aside><!-- #sidebar /-->	<div class="clear"></div>
+</div><!-- .container /-->
+
+<footer id="theme-footer">
+	<div id="footer-widget-area" class="footer-3c">
+
+			<div id="footer-first" class="footer-widgets-box">
+			<div id="nav_menu-2" class="footer-widget widget_nav_menu"><div class="footer-widget-top"><h4>Seiten</h4></div>
+						<div class="footer-widget-container"><div class="menu-footer-container"><ul id="menu-footer" class="menu"><li id="menu-item-91" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-91"><a href="http://www.driver-repository.eu/was-ist-ein-onlinekredit/">Was ist ein Onlinekredit?</a></li>
+<li id="menu-item-92" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-92"><a href="http://www.driver-repository.eu/ein-onlinekredit-als-loesung/">Ein Onlinekredit als Lösung</a></li>
+<li id="menu-item-93" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-93"><a href="http://www.driver-repository.eu/online-zum-kredit-einfach-schnell-und-serioes/">Online zum Kredit: einfach, schnell und seriös</a></li>
+<li id="menu-item-94" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-94"><a href="http://www.driver-repository.eu/warum-ueberhaupt-einen-kredit/">Warum überhaupt einen Kredit?</a></li>
+<li id="menu-item-95" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-95"><a href="http://www.driver-repository.eu/kredite-werden-heute-online-geschlossen/">Kredite werden heute online geschlossen</a></li>
+<li id="menu-item-96" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-96"><a href="http://www.driver-repository.eu/online-kredit-beantragen/">ONLINE-KREDIT BEANTRAGEN</a></li>
+</ul></div></div></div><!-- .widget /-->		</div>
+	
+			<div id="footer-second" class="footer-widgets-box">
+			<div id="nav_menu-3" class="footer-widget widget_nav_menu"><div class="footer-widget-top"><h4>Sonstiges</h4></div>
+						<div class="footer-widget-container"><div class="menu-footer2-container"><ul id="menu-footer2" class="menu"><li id="menu-item-242" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-242"><a href="http://www.driver-repository.eu/kontakt/">Kontakt</a></li>
+<li id="menu-item-241" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-241"><a href="http://www.driver-repository.eu/impressum/">Impressum</a></li>
+<li id="menu-item-260" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-260"><a href="http://www.driver-repository.eu/datenschutzerklaerung/">Datenschutzerklärung</a></li>
+</ul></div></div></div><!-- .widget /-->		</div><!-- #second .widget-area -->
+	
+
+	
+		
+	</div><!-- #footer-widget-area -->
+	<div class="clear"></div>
+</footer><!-- .Footer /-->
+				
+<div class="clear"></div>
+<div class="footer-bottom">
+	<div class="container">
+		<div class="alignright">
+					</div>
+				
+		<div class="alignleft">
+			Dies ist nicht die offizielle Seite der driver-repository.eu - Alle Angaben ohne Gewähr.		</div>
+		<div class="clear"></div>
+	</div><!-- .Container -->
+</div><!-- .Footer bottom -->
+
+</div><!-- .inner-Wrapper -->
+</div><!-- #Wrapper -->
+</div><!-- .Wrapper-outer -->
+	<div id="topcontrol" class="fa fa-angle-up" title="Scroll To Top"></div>
+<div id="fb-root"></div>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var wpcf7 = {"apiSettings":{"root":"http:\/\/www.driver-repository.eu\/wp-json\/contact-form-7\/v1","namespace":"contact-form-7\/v1"},"recaptcha":{"messages":{"empty":"Bitte best\u00e4tige, dass du keine Maschine bist."}}};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://www.driver-repository.eu/wp-content/plugins/contact-form-7/includes/js/scripts.js'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var tie = {"mobile_menu_active":"true","mobile_menu_top":"","lightbox_all":"true","lightbox_gallery":"true","woocommerce_lightbox":"","lightbox_skin":"dark","lightbox_thumb":"vertical","lightbox_arrows":"","sticky_sidebar":"1","is_singular":"1","SmothScroll":"true","reading_indicator":"","lang_no_results":"No Results","lang_results_found":"Results Found"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://www.driver-repository.eu/wp-content/themes/sahifa/js/tie-scripts.js'></script>
+<script type='text/javascript' src='http://www.driver-repository.eu/wp-content/themes/sahifa/js/ilightbox.packed.js'></script>
+<script type='text/javascript' src='http://www.driver-repository.eu/wp-includes/js/wp-embed.min.js'></script>
+
+			<div id="cookie-notice" role="banner" class="cn-bottom wp-default" style="color: #fff; background-color: #000;"><div class="cookie-notice-container"><span id="cn-notice-text">Diese Website benutzt Cookies. Wenn du die Website weiter nutzt, gehen wir von deinem Einverständnis aus.</span><a href="#" id="cn-accept-cookie" data-cookie-set="accept" class="cn-set-cookie button wp-default">OK</a><a href="http://www.driver-repository.eu/datenschutzerklaerung/" target="_blank" id="cn-more-info" class="cn-more-info button wp-default">Datenschutz</a>
+				</div>
+			</div>
+
+</body>
+</html>
+

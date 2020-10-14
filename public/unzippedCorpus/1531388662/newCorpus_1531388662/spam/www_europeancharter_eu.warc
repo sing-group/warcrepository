@@ -1,0 +1,345 @@
+WARC/1.0
+WARC-Type: warcinfo
+WARC-Date: 2018-05-30T17:52:31Z
+WARC-Record-ID: <urn:uuid:40867017-27fd-40ea-9a36-dba002f651f5>
+WARC-All-Language: en, en-US
+WARC-All-Content_type: text/html; charset=UTF-8, text/html
+Content-Type: application/http;msgtype=response
+Content-Length: 46
+
+WARCProcessor by SING Group www.sing-group.com
+
+WARC/1.0
+WARC-Type: response
+WARC-Record-ID: <http://www.europeancharter.eu>
+WARC-Date: 20180530175231
+WARC-Target-URI: http://www.europeancharter.eu
+WARC-Language: en-US
+Content-Type: application/http;msgtype=response
+Content-Length: 28866
+
+HTTP/1.1 200
+Content-Type:text/html; charset=UTF-8
+
+
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+	<meta charset="UTF-8" />
+<meta name="description" content="European Charter" /><meta name="keywords" content="European Charter; Rural Communities in Europe" /><meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<link rel="pingback" href="http://www.europeancharter.eu/xmlrpc.php" />
+
+	<script type="text/javascript">
+		document.documentElement.className = 'js';
+	</script>
+
+	<script>var et_site_url='http://www.europeancharter.eu';var et_post_id='4';function et_core_page_resource_fallback(a,b){"undefined"===typeof b&&(b=a.sheet.cssRules&&0===a.sheet.cssRules.length);b&&(a.onerror=null,a.onload=null,a.href?a.href=et_site_url+"/?et_core_page_resource="+a.id+et_post_id:a.src&&(a.src=et_site_url+"/?et_core_page_resource="+a.id+et_post_id))}
+</script><title>Charter of European Rural Communities</title>
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="Charter of European Rural Communities &raquo; Feed" href="http://www.europeancharter.eu/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Charter of European Rural Communities &raquo; Comments Feed" href="http://www.europeancharter.eu/comments/feed/" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.4\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.4\/svg\/","svgExt":".svg","source":{"concatemoji":"http:\/\/www.europeancharter.eu\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.9.6"}};
+			!function(a,b,c){function d(a,b){var c=String.fromCharCode;l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,a),0,0);var d=k.toDataURL();l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,b),0,0);var e=k.toDataURL();return d===e}function e(a){var b;if(!l||!l.fillText)return!1;switch(l.textBaseline="top",l.font="600 32px Arial",a){case"flag":return!(b=d([55356,56826,55356,56819],[55356,56826,8203,55356,56819]))&&(b=d([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]),!b);case"emoji":return b=d([55357,56692,8205,9792,65039],[55357,56692,8203,9792,65039]),!b}return!1}function f(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var g,h,i,j,k=b.createElement("canvas"),l=k.getContext&&k.getContext("2d");for(j=Array("flag","emoji"),c.supports={everything:!0,everythingExceptFlag:!0},i=0;i<j.length;i++)c.supports[j[i]]=e(j[i]),c.supports.everything=c.supports.everything&&c.supports[j[i]],"flag"!==j[i]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[j[i]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(h=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",h,!1),a.addEventListener("load",h,!1)):(a.attachEvent("onload",h),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),g=c.source||{},g.concatemoji?f(g.concatemoji):g.wpemoji&&g.twemoji&&(f(g.twemoji),f(g.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<meta content="Divi v.3.3.1" name="generator"/><style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='CMA-css-css'  href='http://www.europeancharter.eu/wp-content/plugins/cm-answers/views/resources/app.css?ver=4.9.6' type='text/css' media='all' />
+<link rel='stylesheet' id='contact-form-7-css'  href='http://www.europeancharter.eu/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=5.0.2' type='text/css' media='all' />
+<link rel='stylesheet' id='ewd-feup-style-css'  href='http://www.europeancharter.eu/wp-content/plugins/front-end-only-users/css/feu-styles.css?ver=4.9.6' type='text/css' media='all' />
+<link rel='stylesheet' id='feup-yahoo-pure-css-css'  href='http://www.europeancharter.eu/wp-content/plugins/front-end-only-users/css/feup-pure.css?ver=4.9.6' type='text/css' media='all' />
+<link rel='stylesheet' id='fontawesome-css'  href='http://www.europeancharter.eu/wp-content/plugins/wp-google-maps-pro/css/font-awesome.min.css?ver=4.9.6' type='text/css' media='all' />
+<link rel='stylesheet' id='divi-fonts-css'  href='http://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800&#038;subset=latin,latin-ext' type='text/css' media='all' />
+<link rel='stylesheet' id='divi-style-css'  href='http://www.europeancharter.eu/wp-content/themes/Divi/style.css?ver=3.3.1' type='text/css' media='all' />
+<link rel='stylesheet' id='tablepress-default-css'  href='http://www.europeancharter.eu/wp-content/plugins/tablepress/css/default.min.css?ver=1.9' type='text/css' media='all' />
+<link rel='stylesheet' id='dashicons-css'  href='http://www.europeancharter.eu/wp-includes/css/dashicons.min.css?ver=4.9.6' type='text/css' media='all' />
+<script type='text/javascript' src='http://www.europeancharter.eu/wp-includes/js/jquery/jquery.js?ver=1.12.4'></script>
+<script type='text/javascript' src='http://www.europeancharter.eu/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var ewd_feup_ajax_translations = {"mismatch_label":"Mismatch","too_short_label":"Too Short","weak_label":"Weak","good_label":"Good","strong_label":"Strong"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://www.europeancharter.eu/wp-content/plugins/front-end-only-users//js/ewd-feup-check-password-strength.js?ver=4.9.6'></script>
+<script>
+				document.addEventListener( "DOMContentLoaded", function( event ) {
+					window.et_location_hash = window.location.hash;
+					if ( "" !== window.et_location_hash ) {
+						// Prevent jump to anchor - Firefox
+						window.scrollTo( 0, 0 );
+						var et_anchor_element = document.getElementById( window.et_location_hash.substring( 1 ) );
+						if( et_anchor_element === null ) {
+						    return;
+						}
+						window.et_location_hash_style = et_anchor_element.style.display;
+						// Prevent jump to anchor - Other Browsers
+						et_anchor_element.style.display = "none";
+					}
+				} );
+		</script><link rel='https://api.w.org/' href='http://www.europeancharter.eu/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www.europeancharter.eu/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://www.europeancharter.eu/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 4.9.6" />
+<link rel="canonical" href="http://www.europeancharter.eu/" />
+<link rel='shortlink' href='http://www.europeancharter.eu/' />
+<link rel="alternate" type="application/json+oembed" href="http://www.europeancharter.eu/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fwww.europeancharter.eu%2F" />
+<link rel="alternate" type="text/xml+oembed" href="http://www.europeancharter.eu/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fwww.europeancharter.eu%2F&#038;format=xml" />
+<script>var FEUP_Min_Pass = 8;
+</script><script type='text/javascript'>
+var tminusnow = '{"now":"5\/30\/2018 17:40:35"}';
+</script><meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0" /><link rel="icon" href="http://www.europeancharter.eu/wp-content/uploads/2017/07/cropped-Charter-Logo-neu-Wappen-NG-Edit-Web-1-32x32.jpg" sizes="32x32" />
+<link rel="icon" href="http://www.europeancharter.eu/wp-content/uploads/2017/07/cropped-Charter-Logo-neu-Wappen-NG-Edit-Web-1-192x192.jpg" sizes="192x192" />
+<link rel="apple-touch-icon-precomposed" href="http://www.europeancharter.eu/wp-content/uploads/2017/07/cropped-Charter-Logo-neu-Wappen-NG-Edit-Web-1-180x180.jpg" />
+<meta name="msapplication-TileImage" content="http://www.europeancharter.eu/wp-content/uploads/2017/07/cropped-Charter-Logo-neu-Wappen-NG-Edit-Web-1-270x270.jpg" />
+<link rel="stylesheet" id="et-divi-customizer-global-cached-inline-styles" href="http://www.europeancharter.eu/wp-content/cache/et/global/et-divi-customizer-global-152754462568.min.css" onerror="et_core_page_resource_fallback(this, true)" onload="et_core_page_resource_fallback(this)" /></head>
+<body class="home page-template-default page page-id-4 et_pb_button_helper_class et_fullwidth_secondary_nav et_vertical_nav et_vertical_right et_vertical_fixed et_show_nav et_cover_background et_secondary_nav_enabled et_pb_gutters4 et_primary_nav_dropdown_animation_fade et_secondary_nav_dropdown_animation_fade et_pb_footer_columns4 et_header_style_left et_pb_pagebuilder_layout et_smooth_scroll et_right_sidebar et_divi_theme et_minified_js et_minified_css">
+	<div id="page-container">
+
+					<div id="top-header">
+			<div class="container clearfix">
+
+			
+				<div id="et-secondary-menu">
+				<ul class="et-social-icons">
+
+	<li class="et-social-icon et-social-rss">
+		<a href="http://www.europeancharter.eu/feed/" class="icon">
+			<span>RSS</span>
+		</a>
+	</li>
+
+</ul>				</div> <!-- #et-secondary-menu -->
+
+			</div> <!-- .container -->
+		</div> <!-- #top-header -->
+		
+	
+			<header id="main-header" data-height-onload="66">
+			<div class="container clearfix et_menu_container">
+							<div class="logo_container">
+					<span class="logo_helper"></span>
+					<a href="http://www.europeancharter.eu/">
+						<img src="http://www.europeancharter.eu/wp-content/uploads/2018/02/Header-Logo.png" alt="Charter of European Rural Communities" id="logo" data-height-percentage="30" />
+					</a>
+				</div>
+							<div id="et-top-navigation" data-height="66" data-fixed-height="40">
+											<nav id="top-menu-nav">
+						<ul id="top-menu" class="nav et_disable_top_tier"><li id="menu-item-137" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-4 current_page_item menu-item-137"><a href="http://www.europeancharter.eu/">Home</a></li>
+<li id="menu-item-136" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-136"><a href="http://www.europeancharter.eu/about/">About</a></li>
+<li id="menu-item-2092" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2092"><a href="http://www.europeancharter.eu/zagaremeeting/">Žagarė Youth Meeting</a></li>
+<li id="menu-item-2187" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2187"><a href="http://www.europeancharter.eu/nadurmeeting/">Nadur Annual Meeting</a></li>
+<li id="menu-item-135" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-135"><a href="http://www.europeancharter.eu/organisation/">Organisation</a>
+<ul class="sub-menu">
+	<li id="menu-item-160" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-160"><a href="http://www.europeancharter.eu/ourorganisation/">Our Structure</a></li>
+	<li id="menu-item-134" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-134"><a href="http://www.europeancharter.eu/aims/">Aims of the Charter</a></li>
+	<li id="menu-item-159" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-159"><a href="http://www.europeancharter.eu/presidium-dailyboard/">Presidium / Daily Board</a></li>
+	<li id="menu-item-167" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-167"><a href="http://www.europeancharter.eu/yct/">Youth Co-ordination Team</a></li>
+	<li id="menu-item-178" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-178"><a href="http://www.europeancharter.eu/statutes/">Statutes of the Charter</a></li>
+	<li id="menu-item-188" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-188"><a href="http://www.europeancharter.eu/annual-meeting-themes/">Annual Meeting Themes</a></li>
+</ul>
+</li>
+<li id="menu-item-191" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-191"><a href="http://www.europeancharter.eu/calendar/">Calendar of Meetings</a></li>
+<li id="menu-item-1819" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1819"><a href="http://www.europeancharter.eu/calendar-of-additional-events/">Calendar of Additional Events</a></li>
+<li id="menu-item-268" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-268"><a href="http://www.europeancharter.eu/members/">Members</a>
+<ul class="sub-menu">
+	<li id="menu-item-269" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-269"><a href="http://www.europeancharter.eu/members/">Our Members</a></li>
+	<li id="menu-item-254" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-254"><a href="http://www.europeancharter.eu/chartermembers/">Charter Members</a></li>
+	<li id="menu-item-267" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-267"><a href="http://www.europeancharter.eu/friends-of-europe/">Friends of Europe</a></li>
+</ul>
+</li>
+<li id="menu-item-274" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-274"><a href="http://www.europeancharter.eu/youth/">Youth</a></li>
+<li id="menu-item-300" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-300"><a href="http://www.europeancharter.eu/media/">Media</a></li>
+<li id="menu-item-284" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-284"><a href="http://www.europeancharter.eu/contact/">Contact Information</a></li>
+<li id="menu-item-1305" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1305"><a href="http://www.europeancharter.eu/publications2018/">Publications 2018</a></li>
+<li id="menu-item-2261" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2261"><a href="http://www.europeancharter.eu/gdprform/">GDPR Form</a></li>
+</ul>						</nav>
+					
+					
+					
+										<div id="et_top_search">
+						<span id="et_search_icon"></span>
+					</div>
+					
+					<div id="et_mobile_nav_menu">
+				<div class="mobile_nav closed">
+					<span class="select_page">Select Page</span>
+					<span class="mobile_menu_bar mobile_menu_bar_toggle"></span>
+				</div>
+			</div>				</div> <!-- #et-top-navigation -->
+			</div> <!-- .container -->
+			<div class="et_search_outer">
+				<div class="container et_search_form_container">
+					<form role="search" method="get" class="et-search-form" action="http://www.europeancharter.eu/">
+					<input type="search" class="et-search-field" placeholder="Search &hellip;" value="" name="s" title="Search for:" />					</form>
+					<span class="et_close_search_field"></span>
+				</div>
+			</div>
+		</header> <!-- #main-header -->
+			<div id="et-main-area">
+	
+<div id="main-content">
+
+
+			
+				<article id="post-4" class="post-4 page type-page status-publish hentry">
+
+				
+					<div class="entry-content">
+					<div class="et_pb_section et_pb_section_0 et_pb_with_background et_pb_fullwidth_section et_section_regular">
+				
+				
+				
+				
+					<div class="et_pb_module et_pb_fullwidth_image et_pb_fullwidth_image_0 et_animated et-waypoint">
+				
+				
+				<a href="http://www.europeancharter.eu/about/"><img src="http://www.europeancharter.eu/wp-content/uploads/2017/07/europe_map_clear-perspective2logoleft-text-2.jpg" alt="" />
+			</a>
+			</div>
+				
+				
+			</div> <!-- .et_pb_section -->					</div> <!-- .entry-content -->
+
+				
+				</article> <!-- .et_pb_post -->
+
+			
+
+</div> <!-- #main-content -->
+
+
+	<span class="et_pb_scroll_top et-pb-icon"></span>
+
+
+			<footer id="main-footer">
+				
+<div class="container">
+	<div id="footer-widgets" class="clearfix">
+	<div class="footer-widget"><div id="widget_sp_image-2" class="fwidget et_pb_widget widget_sp_image"><h4 class="title">Supported by:</h4><a href="https://eacea.ec.europa.eu/sites/eacea-site/_en" target="_blank" class="widget_sp_image-image-link" title="Supported by:"><img width="1024" height="642" alt="Supported by:" class="attachment-large" style="max-width: 100%;" srcset="http://www.europeancharter.eu/wp-content/uploads/2018/03/eacea-logo-1024x642.png 1024w, http://www.europeancharter.eu/wp-content/uploads/2018/03/eacea-logo-300x188.png 300w, http://www.europeancharter.eu/wp-content/uploads/2018/03/eacea-logo-768x482.png 768w, http://www.europeancharter.eu/wp-content/uploads/2018/03/eacea-logo-400x250.png 400w, http://www.europeancharter.eu/wp-content/uploads/2018/03/eacea-logo-1080x678.png 1080w, http://www.europeancharter.eu/wp-content/uploads/2018/03/eacea-logo.png 1299w" sizes="(max-width: 1024px) 100vw, 1024px" src="http://www.europeancharter.eu/wp-content/uploads/2018/03/eacea-logo-1024x642.png" /></a></div> <!-- end .fwidget --><div id="widget_sp_image-3" class="fwidget et_pb_widget widget_sp_image"><h4 class="title">Supported by:</h4><a href="http://ec.europa.eu/education/" target="_blank" class="widget_sp_image-image-link" title="Supported by:"><img width="1024" height="274" alt="Supported by:" class="attachment-full" style="max-width: 100%;" srcset="http://www.europeancharter.eu/wp-content/uploads/2018/03/EDU_CUL_DG.png 1024w, http://www.europeancharter.eu/wp-content/uploads/2018/03/EDU_CUL_DG-300x80.png 300w, http://www.europeancharter.eu/wp-content/uploads/2018/03/EDU_CUL_DG-768x206.png 768w" sizes="(max-width: 1024px) 100vw, 1024px" src="http://www.europeancharter.eu/wp-content/uploads/2018/03/EDU_CUL_DG.png" /></a></div> <!-- end .fwidget --><div id="widget_sp_image-4" class="fwidget et_pb_widget widget_sp_image"><h4 class="title">Supported by:</h4><a href="https://ec.europa.eu/home-affairs/index_en" target="_blank" class="widget_sp_image-image-link" title="Supported by:"><img width="1129" height="254" alt="Supported by:" class="attachment-full" style="max-width: 100%;" srcset="http://www.europeancharter.eu/wp-content/uploads/2018/03/logoeuropa.png 1129w, http://www.europeancharter.eu/wp-content/uploads/2018/03/logoeuropa-300x67.png 300w, http://www.europeancharter.eu/wp-content/uploads/2018/03/logoeuropa-768x173.png 768w, http://www.europeancharter.eu/wp-content/uploads/2018/03/logoeuropa-1024x230.png 1024w, http://www.europeancharter.eu/wp-content/uploads/2018/03/logoeuropa-1080x243.png 1080w" sizes="(max-width: 1129px) 100vw, 1129px" src="http://www.europeancharter.eu/wp-content/uploads/2018/03/logoeuropa.png" /></a></div> <!-- end .fwidget --></div> <!-- end .footer-widget --><div class="footer-widget"><div id="ws_fb_like_box-8" class="fwidget et_pb_widget widget_ws_fb_like_box"><h4 class="title">People Meet People</h4><div class="fb-page ws-fb-like-box" data-href="https://www.facebook.com/181408958583269" 
+						data-tabs="" 
+						data-width="250" 
+						data-height="50"
+						data-small-header="false" 
+						data-adapt-container-width="true" 
+						data-hide-cover="false"
+						data-show-facepile="false">
+						<div class="fb-xfbml-parse-ignore">
+							<blockquote cite="https://www.facebook.com/181408958583269">
+								<a href="https://www.facebook.com/181408958583269">Facebook</a>
+							</blockquote>
+						</div>
+					 </div> <div id="fb-root"></div>
+					 <script>(function(d, s, id) {
+					  var js, fjs = d.getElementsByTagName(s)[0];
+					  if (d.getElementById(id)) return;
+					  js = d.createElement(s); js.id = id;
+					  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.6";
+					  fjs.parentNode.insertBefore(js, fjs);
+					}(document, 'script', 'facebook-jssdk'));</script></div> <!-- end .fwidget --><div id="widget_sp_image-5" class="fwidget et_pb_widget widget_sp_image"><h4 class="title">Meet Europe for Free</h4><a href="https://www.facebook.com/MeetEuropeForFree/" target="_blank" class="widget_sp_image-image-link" title="Meet Europe for Free"><img width="840" height="547" alt="Meet Europe for Free" class="attachment-full" style="max-width: 100%;" srcset="http://www.europeancharter.eu/wp-content/uploads/2018/03/Meet-Europe-for-Free-1.jpg 840w, http://www.europeancharter.eu/wp-content/uploads/2018/03/Meet-Europe-for-Free-1-300x195.jpg 300w, http://www.europeancharter.eu/wp-content/uploads/2018/03/Meet-Europe-for-Free-1-768x500.jpg 768w" sizes="(max-width: 840px) 100vw, 840px" src="http://www.europeancharter.eu/wp-content/uploads/2018/03/Meet-Europe-for-Free-1.jpg" /></a></div> <!-- end .fwidget --></div> <!-- end .footer-widget --><div class="footer-widget">
+        <aside class="widget" id="visitor-counter">
+            <h2 class="visitor-counter-heading" style="font-family:sans-serif; color:#FFFFFF;" ><a href="http://visitorcounterplugin.com">Visitor Counter</a></h2>
+        <div class="visitor-counter-content" style="color: #FFFFFF; font-family: sans-serif;" >
+            <p>Today: 345</p>
+            <p>Yesterday: 339</p>
+            <p>This Week: 992</p>
+            <p>This Month: 10754</p>
+            <p>Total: 34428</p>
+            <p>Currently Online: 101</p>
+        </div>
+        </aside>
+        
+        </div> <!-- end .footer-widget --><div class="footer-widget last"><div id="countdowntimer-2" class="fwidget et_pb_widget CountDownTimer"><h4 class="title">Countdown to Žagarė Meeting</h4><div id="countdowntimer-2-countdown" class="tminus_countdown" style="width:auto; height:auto;"><div class="carbonite-countdown "><div id="countdowntimer-2-tophtml" class="carbonite-tophtml"></div><div id="countdowntimer-2-dashboard" class="carbonite-dashboard"><div class="carbonite-dash carbonite-weeks_dash"><div class="carbonite-dash_title">weeks</div><div class="carbonite-digit">0</div><div class="carbonite-digit">0</div></div><div class="carbonite-dash carbonite-days_dash"><div class="carbonite-dash_title">days</div><div class="carbonite-digit">0</div><div class="carbonite-digit">0</div></div><div class="carbonite-dash carbonite-hours_dash"><div class="carbonite-dash_title">hours</div><div class="carbonite-digit">1</div><div class="carbonite-digit">5</div></div><div class="carbonite-dash carbonite-minutes_dash"><div class="carbonite-dash_title">minutes</div><div class="carbonite-digit">1</div><div class="carbonite-digit">9</div></div><div class="carbonite-dash carbonite-seconds_dash"><div class="carbonite-dash_title">seconds</div><div class="carbonite-digit">2</div><div class="carbonite-digit">5</div></div></div><div id="countdowntimer-2-bothtml" class="carbonite-bothtml"></div></div></div></div> <!-- end .fwidget --><div id="text-2" class="fwidget et_pb_widget widget_text"><h4 class="title">Last Updated:</h4>			<div class="textwidget"><p>10 May 2018</p>
+</div>
+		</div> <!-- end .fwidget --></div> <!-- end .footer-widget -->	</div> <!-- #footer-widgets -->
+</div>	<!-- .container -->
+
+		
+				<div id="footer-bottom">
+					<div class="container clearfix">
+				<div id="footer-info">Copyright: Charter of European Rural Communities 2017</div>					</div>	<!-- .container -->
+				</div>
+			</footer> <!-- #main-footer -->
+		</div> <!-- #et-main-area -->
+
+
+	</div> <!-- #page-container -->
+
+		<script type="text/javascript">
+		var et_animation_data = [{"class":"et_pb_fullwidth_image_0","style":"slideLeft","repeat":"once","duration":"500ms","delay":"0ms","intensity":"10%","starting_opacity":"0%","speed_curve":"ease-in-out"}];
+	</script>
+	<style type="text/css">
+#main-header .et_mobile_menu .menu-item-has-children > a { background-color: transparent; position: relative; }
+#main-header .et_mobile_menu .menu-item-has-children > a:after { font-family: 'ETmodules'; text-align: center; speak: none; font-weight: normal; font-variant: normal; text-transform: none; -webkit-font-smoothing: antialiased; position: absolute; }
+#main-header .et_mobile_menu .menu-item-has-children > a:after { font-size: 16px; content: '\4c'; top: 13px; right: 10px; }
+#main-header .et_mobile_menu .menu-item-has-children.visible > a:after { content: '\4d'; }
+#main-header .et_mobile_menu ul.sub-menu { display: none !important; visibility: hidden !important;  transition: all 1.5s ease-in-out;}
+#main-header .et_mobile_menu .visible > ul.sub-menu { display: block !important; visibility: visible !important; }
+</style><link rel='stylesheet' id='countdown-carbonite-css-css'  href='http://www.europeancharter.eu/wp-content/plugins/jquery-t-countdown-widget/css/carbonite/style.css?ver=2.0' type='text/css' media='all' />
+<script type='text/javascript' src='http://www.europeancharter.eu/wp-includes/js/jquery/ui/core.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='http://www.europeancharter.eu/wp-includes/js/jquery/ui/widget.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='http://www.europeancharter.eu/wp-includes/js/jquery/ui/mouse.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='http://www.europeancharter.eu/wp-includes/js/jquery/ui/draggable.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='http://www.europeancharter.eu/wp-includes/js/jquery/ui/droppable.min.js?ver=1.11.4'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var wpcf7 = {"apiSettings":{"root":"http:\/\/www.europeancharter.eu\/wp-json\/contact-form-7\/v1","namespace":"contact-form-7\/v1"},"recaptcha":{"messages":{"empty":"Please verify that you are not a robot."}}};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://www.europeancharter.eu/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=5.0.2'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var tCountAjax = {"ajaxurl":"http:\/\/www.europeancharter.eu\/wp-admin\/admin-ajax.php","countdownNonce":"6d3c45f5d5"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://www.europeancharter.eu/wp-content/plugins/jquery-t-countdown-widget/js/jquery.t-countdown.js?ver=2.4.0'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var DIVI = {"item_count":"%d Item","items_count":"%d Items"};
+var et_shortcodes_strings = {"previous":"Previous","next":"Next"};
+var et_pb_custom = {"ajaxurl":"http:\/\/www.europeancharter.eu\/wp-admin\/admin-ajax.php","images_uri":"http:\/\/www.europeancharter.eu\/wp-content\/themes\/Divi\/images","builder_images_uri":"http:\/\/www.europeancharter.eu\/wp-content\/themes\/Divi\/includes\/builder\/images","et_frontend_nonce":"36e1633ba2","subscription_failed":"Please, check the fields below to make sure you entered the correct information.","et_ab_log_nonce":"1ff55f5c75","fill_message":"Please, fill in the following fields:","contact_error_message":"Please, fix the following errors:","invalid":"Invalid email","captcha":"Captcha","prev":"Prev","previous":"Previous","next":"Next","wrong_captcha":"You entered the wrong number in captcha.","is_builder_plugin_used":"","ignore_waypoints":"no","is_divi_theme_used":"1","widget_search_selector":".widget_search","is_ab_testing_active":"","page_id":"4","unique_test_id":"","ab_bounce_rate":"5","is_cache_plugin_active":"no","is_shortcode_tracking":""};
+var et_pb_box_shadow_elements = [];
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://www.europeancharter.eu/wp-content/themes/Divi/js/custom.min.js?ver=3.3.1'></script>
+<script type='text/javascript' src='http://www.europeancharter.eu/wp-content/themes/Divi/core/admin/js/common.js?ver=3.3.1'></script>
+<script type='text/javascript' src='http://www.europeancharter.eu/wp-includes/js/wp-embed.min.js?ver=4.9.6'></script>
+<script type='text/javascript' src='http://www.europeancharter.eu/wp-content/plugins/easy2map/scripts/jquery.xml2json.js?ver=4.9.6'></script>
+<script type='text/javascript' src='https://maps.google.com/maps/api/js?sensor=true%2Ffalse&#038;ver=4.9.6'></script>
+<script type='text/javascript' src='http://www.europeancharter.eu/wp-content/plugins/easy2map/scripts/easy2map.js?ver=4.9.6'></script>
+<style id="et-builder-module-design-cached-inline-styles">.et_pb_section_0.et_pb_section{background-color:#3a4e87!important}@media only screen and (max-width:980px){.et_pb_section_0{padding-top:50px;padding-right:0px;padding-bottom:50px;padding-left:0px}}</style>		<script language="javascript" type="text/javascript">
+			jQuery(document).ready(function($) {
+			$('#countdowntimer-2-dashboard').tminusCountDown({
+			targetDate: {
+				'day': 	31,
+				'month': 05,
+				'year': 2018,
+				'hour': 09,
+				'min': 	00,
+				'sec': 	00,
+				'localtime': '5/30/2018 17:40:35',
+			},
+			style: 'carbonite',
+			launchtarget: 'countdown',
+			omitWeeks: 'false',
+			id: 'countdowntimer-2',
+			event_id: ''
+						});
+				});
+		</script>
+	</body>
+</html>
+
+

@@ -1,0 +1,42 @@
+WARC/1.0
+WARC-Type: warcinfo
+WARC-Date: 2018-05-30T17:52:31Z
+WARC-All-Language: en
+WARC-All-Content_type: text/html
+WARC-Record-ID: <urn:uuid:eb99640c-111a-43d1-9c76-186d9cda10fa>
+Content-Type: application/http;msgtype=response
+Content-Length: 46
+
+WARCProcessor by SING Group www.sing-group.com
+
+WARC/1.0
+WARC-Type: response
+WARC-Target-URI: http://www.em-dmkm.eu
+WARC-Date: 20180530175231
+WARC-Language: en
+WARC-Record-ID: <http://www.em-dmkm.eu>
+Content-Type: application/http;msgtype=response
+Content-Length: 608
+
+HTTP/1.1 200
+Content-Type:text/html
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Frameset//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-frameset.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+    <meta http-equiv="content-type" content="text/html; charset=iso-8859-1" />
+    <meta name="ROBOTS" content="NOINDEX, NOFOLLOW">
+    <title>www.em-dmkm.eu has been registered</title>
+</head>
+<body>
+	<p align="center">
+	<font face="Verdana, Arial, Helvetica, serif" size=2>
+	www.em-dmkm.eu was successfully registered. There is no content yet.
+	</font>
+	</p>
+</body>
+</html>
+
+

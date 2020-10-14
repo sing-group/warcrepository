@@ -1,0 +1,109 @@
+WARC/1.0
+WARC-Type: warcinfo
+WARC-Date: 2018-05-30T17:52:31Z
+WARC-Record-ID: <urn:uuid:9e7cdedf-b7c7-4141-a667-42f40dd42150>
+WARC-All-Language: en
+WARC-All-Content_type: text/html
+Content-Type: application/http;msgtype=response
+Content-Length: 46
+
+WARCProcessor by SING Group www.sing-group.com
+
+WARC/1.0
+WARC-Type: response
+WARC-Record-ID: <http://www.jonathanreeder.eu>
+WARC-Date: 20180530175231
+WARC-Target-URI: http://www.jonathanreeder.eu
+WARC-Language: en
+Content-Type: application/http;msgtype=response
+Content-Length: 3608
+
+HTTP/1.1 200
+Content-Type:text/html
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title> - Jonathan Reeder</title>
+<meta name="description" content="" />
+<meta name="keywords" content="" />
+
+<base href="http://www.jonathanreeder.eu/" />
+<style type="text/css">
+<!--
+body {
+	background-image: url(back_1.png);
+}
+.stijl1 {
+	font-family: Georgia, "Times New Roman", Times, serif;
+	color: #CCCCCC;
+	font-weight: lighter;
+}
+.stijl9 {	font-family: Georgia, "Times New Roman", Times, serif;
+	color: #FFFFFF;
+	font-weight: lighter;
+}
+.stijl8 {color: #FFFFFF; }
+a.stijl1 {	font-family: Georgia, "Times New Roman", Times, serif;
+	color: #FFFFFF;
+	font-weight: lighter;
+	font-size:12px;
+}
+a.stijl8 {	color: #FFFFFF;
+	text-decoration: none;
+}
+-->
+</style>
+</head>
+
+<body>
+<p>&nbsp;</p>
+<table width="704" border="0" align="center" cellpadding="0" cellspacing="0" style="border: 2px #666666 solid">
+  <tr>
+    <td colspan="2" bgcolor="#9A2207"><img src="top.png" width="350" height="62" /></td>
+  </tr>
+  <tr>
+    <td width="41" bgcolor="#FFFFFF"><img src="texthome.png" width="550" height="350" /></td>
+    <td width="268"><a href="index2.php"><img src="home.jpg" width="268" height="350" border="0" /></a></td>
+  </tr>
+  <tr>
+    <td height="35" colspan="2" valign="middle" bgcolor="#9A2207"><table width="481" height="22" border="0" align="center" cellpadding="0" cellspacing="0">
+      <tr valign="top">
+                 
+         
+                                     <td width="100" valign="middle" class="stijl1" nowrap="nowrap"><div align="center" class="stijl8"><a href="Home" class="stijl8">Home</a></div></td>
+                                    
+                         
+         
+                                     <td width="50" valign="middle" class="stijl1" nowrap="nowrap"><div align="center" class="stijl8"><a href="Biografie_NL" class="stijl8">NL</a></div></td>
+                                    
+                         
+         
+                                     <td width="50" valign="middle" class="stijl1" nowrap="nowrap"><div align="center" class="stijl8"><a href="Biografie_EN" class="stijl8">EN</a></div></td>
+                                    
+                         
+         
+                                     <td width="100" valign="middle" class="stijl1" nowrap="nowrap"><div align="center" class="stijl8"><a href="Muziek" class="stijl8">Muziek</a></div></td>
+                                    
+                         
+         
+                                     <td width="100" valign="middle" class="stijl1" nowrap="nowrap"><div align="center" class="stijl8"><a href="Vertalingen" class="stijl8">Vertalingen / Translations</a></div></td>
+                                    
+                         
+         
+                                     <td width="100" valign="middle" class="stijl1" nowrap="nowrap"><div align="center" class="stijl8"><a href="Contact" class="stijl8">Contact</a></div></td>
+                                    
+                         
+         
+                                     <td width="50" valign="middle" class="stijl1" nowrap="nowrap"><div align="center" class="stijl8"><a href="Pics" class="stijl8">Pics</a></div></td>
+                                    
+                       </tr>
+    </table></td>
+  </tr>
+</table>
+</body>
+</html>
+
+

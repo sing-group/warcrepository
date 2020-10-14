@@ -1,0 +1,42 @@
+WARC/1.0
+WARC-Type: warcinfo
+WARC-Date: 2018-05-30T17:52:31Z
+WARC-Record-ID: <urn:uuid:235bb8e9-1d7e-46b6-8baa-ac740ca09286>
+WARC-All-Language: en
+WARC-All-Content_type: text/html
+Content-Type: application/http;msgtype=response
+Content-Length: 46
+
+WARCProcessor by SING Group www.sing-group.com
+
+WARC/1.0
+WARC-Type: response
+WARC-Record-ID: <http://www.fraudeducation.eu>
+WARC-Date: 20180530175231
+WARC-Target-URI: http://www.fraudeducation.eu
+WARC-Language: en
+Content-Type: application/http;msgtype=response
+Content-Length: 1520
+
+HTTP/1.1 200
+Content-Type:text/html
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+		"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+<meta http-equiv="Content-Language" content="en-us">
+<title>International Fraud Training Group: Insurance Fraud Training for the Insurance Professional</title>
+<meta name="description" content="International Insurance Fraud, International Insurance Fraud Training, Insurance Fraud, Insurance Fraud Training and Education- Insurance Fraud Certification - IFC - Professional Designation ">
+<meta name="keywords" content="IFTG, International Fraud Training Group, Insurance Fraud Training, Insurance Fraud Education, Insurance Fraud, Insurance Fraud Certified, International Insurance Fraud Training, SIU Training, Private Investigator Training, Insurance fraud courses">
+<link rel="shortcut icon" href="favicon.ico" type="image/x-icon" >
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
+</body>
+<p align="center"><img src="images/iftg_multi_globe_logo.jpg" width="252" height="278" alt="IFTG" /></p>
+<p align="center"><img src="images/Indivo NATG Logo-full.jpg" alt="" width="200" height="47" /></p>
+<p align="center">Please visit our new Web Site located by <a href="http://fraudeducation.com">CLICKING HERE</a></p>
+<p align="center">OR </p>
+<p align="center">Contact us at U.S. 1-888-884-6284 or <a href="mailto:info@fraudeducation.com.com">EMAIL US</a></p>
+</html>
+

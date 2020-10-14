@@ -1,0 +1,289 @@
+WARC/1.0
+WARC-Type: warcinfo
+WARC-Date: 2018-05-30T18:18:32Z
+WARC-Record-ID: <urn:uuid:6733f79a-f84e-49fa-9b36-429dfb689664>
+WARC-All-Language: en, en-gb
+WARC-All-Content_type: text/html, text/html; charset=utf-8
+Content-Type: application/http;msgtype=response
+Content-Length: 46
+
+WARCProcessor by SING Group www.sing-group.com
+
+WARC/1.0
+WARC-Type: response
+WARC-Record-ID: <http://www.desire-his.eu>
+WARC-Date: 20180530181832
+WARC-Target-URI: http://www.desire-his.eu
+WARC-Language: en-gb
+Content-Type: application/http;msgtype=response
+Content-Length: 14835
+
+HTTP/1.1 200
+Content-Type:text/html; charset=utf-8
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-gb" lang="en-gb" >
+<head>
+  <base href="http://www.desire-his.eu/" />
+  <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+  <meta name="robots" content="index, follow" />
+  <meta name="keywords" content="DESIRE Project Harmonised Information System, desertification, sustainble-land-management, local-solutions" />
+  <meta name="description" content="DESIRE Project Harmonised Information System" />
+  <meta name="generator" content="Joomla! 1.5 - Open Source Content Management" />
+  <title>DESIRE HIS</title>
+  <link href="/index.php/en?format=feed&amp;type=rss" rel="alternate" type="application/rss+xml" title="RSS 2.0" />
+  <link href="/index.php/en?format=feed&amp;type=atom" rel="alternate" type="application/atom+xml" title="Atom 1.0" />
+  <link href="/templates/his2009/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+  <style type="text/css">
+    <!--
+span.tooltips-link { border-bottom: 1px dashed #CCCCCC; }div.tooltips-tip, div.tooltips-tip.tool-tip, div.tooltips-tip-tip { z-index: 200 }div.tooltips-tip div.tip, div.tooltips-tip-tip > div { background-color: #F6F6FF; border-color: #CCCCCC; border-width: 2px; -webkit-border-radius: 10px; -moz-border-radius: 10px; border-radius: 10px; max-width: 550px; }
+    -->
+  </style>
+  <script type="text/javascript" src="/plugins/system/mtupgrade/mootools.js"></script>
+  <script type="text/javascript" src="/media/system/js/caption.js"></script>
+  <script type="text/javascript" src="/plugins/system/tooltips/js/script.js"></script>
+  <script type="text/javascript">
+ var tooltips_fade_in_speed = 0; var tooltips_fade_out_speed = 200; var tooltips_max_width = 550; window.addEvent("domready", function() {
+	var JTooltips = new Tips($$(".tooltips-link"), { maxTitleChars: 99999, showDelay: 100, hideDelay: 3000, className: 'tooltips-tip', fixed: true, onShow: function(tip){ tooltips_show( tip ); }, onHide: function(tip){ tooltips_hide( tip ); }});
+});window.addEvent("domready", function() {
+	var JTooltips = new Tips($$(".tooltips-link-img"), { maxTitleChars: 99999, showDelay: 100, hideDelay: 3000, className: 'tooltips-img tooltips-tip', fixed: true, onShow: function(tip){ tooltips_show( tip ); }, onHide: function(tip){ tooltips_hide( tip ); }});
+});
+  </script>
+  
+
+
+<link rel="stylesheet" href="/templates/system/css/system.css" type="text/css" />
+<link rel="stylesheet" href="/templates/system/css/general.css" type="text/css" />
+<link rel="stylesheet" href="/templates/his2009/css/template.css" type="text/css" />
+<link rel="stylesheet" href="/templates/his2009/css/menu.css" type="text/css" />
+
+
+<!--[if lte IE 7]>
+	<link href="/templates/his2009/css/ie.css" rel="stylesheet" type="text/css" />
+<![endif]-->
+
+<!--[if lte IE 6]>
+	<link href="/templates/his2009/css/ie6.css" rel="stylesheet" type="text/css" />
+	<script type="text/javascript" src="/templates/his2009/js/DD_belatedPNG_0.0.7a.js"></script>
+	<script>
+	  DD_belatedPNG.fix('div, img');
+	</script>
+<![endif]-->
+
+
+<script type="text/javascript">
+  /*var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-24247126-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })(); */
+
+</script>
+
+</head>
+<body id="body" class="font-1">
+<div id="header">
+	<div class="container">
+		<div id="top-header" class="clearfix">
+			<div class="logo">
+				<a href="/">
+				<img src="/templates/his2009/images/logo2.png" alt="DESIRE Harmonised Information System - DESIRE Harmonised Information System" title="DESIRE Harmonised Information System - DESIRE Harmonised Information System" />
+				</a>
+			</div>
+			<div class="sub-menu">
+									<ul class="menu"><li class="item460"><a href="http://www.desire-project.eu" target="_blank"><span>DESIRE Home</span></a></li><li class="item461"><a href="/index.php/en/contact-us"><span>Contact us</span></a></li><li class="item463"><a href="/index.php/en/site-map"><span>Site map</span></a></li><li class="item472"><a href="/index.php/en/c-desire"><span>© DESIRE 2012</span></a></li></ul>
+							</div>
+		</div>
+		<div id="sub-header" class="clearfix">
+			<div class="menu_title">Desire project ::</div>		
+			<div class="top-menu">
+									<ul id="mainlevel-nav"><li><a href="/index.php/en/home-mainmenu-1" class="mainlevel-nav" id="active_menu-nav">Home</a></li><li><a href="/index.php/en/key-messages" class="mainlevel-nav" >Key messages</a></li><li><a href="/index.php/en/themes" class="mainlevel-nav" >Research themes</a></li><li><a href="/index.php/en/study-sites" class="mainlevel-nav" >Study sites</a></li><li><a href="/index.php/en/archive" class="mainlevel-nav" >Archive</a></li><li><a href="/index.php/en/google-search" class="mainlevel-nav" >Search</a></li></ul>
+							</div>
+			<div class="date">
+				website archived September 2016			</div>
+		</div>
+	</div>
+</div>
+
+<div id="maincontent">
+	<div class="container">
+		<div id="column-wrapper-rightActive">
+			<div id="midcol-rightActive">
+				<div class="breadcrumb">
+					
+				</div>
+				
+									<div id="ticker">
+								<div class="moduletable">
+					<span class="breadcrumbs pathway">
+Home</span>
+		</div>
+	
+					</div>
+								
+				
+				
+											<div class="moduletable">
+					
+
+
+<table class="contentpaneopen">
+	<tr>
+		<td valign="top" ><h2 style="text-align: center;">DESIRE Project<br /> Harmonised Information System:</h2>
+<h3 style="text-align: center;">providing local solutions to global sustainable land management problems</h3>
+<blockquote style="border-top: 2px dotted #cccccc; border-bottom: 2px dotted #cccccc; margin: 15px 10px; padding: 10px 20px 10px 60px; background: #ffffff url('http://desire-his.eu/j15/plugins/content/xtypo/icon/quote1.gif') no-repeat scroll left top; -moz-background-clip: -moz-initial; -moz-background-origin: -moz-initial; -moz-background-inline-policy: -moz-initial;">
+<p style="padding: 10px 30px 15px 0px; background: transparent url('http://desire-his.eu/j15/plugins/content/xtypo/icon/quote2.gif') no-repeat scroll right bottom; -moz-background-clip: -moz-initial; -moz-background-origin: -moz-initial; -moz-background-inline-policy: -moz-initial; font-size: 110%; line-height: 120%; color: #999999; font-style: italic;">This website brings together descriptions and explanations of the project's <a href="/index.php/en/themes">»research themes</a>, their application in the <a href="/en/study-sites">»study sites</a> and the <a href="/index.php/en/key-messages">»key messages</a> and practical guidlines for responsible land use that have been synthesised from the results for all those interested in combating desertification locally, nationally and internationally.</p>
+</blockquote>
+<p><em>DESIRE HIS Editors: Jane Brandt, Nichola Geeson, Giovanni Quaranta, Rosanna Salvia, MEDES, IT</em></p></td>
+	</tr>
+	<tr>
+        <td valign="top" >
+
+       		</td>
+     </tr>
+</table>
+		</div>
+	
+								
+				<table class="blog" cellpadding="0" cellspacing="0">
+
+<tr>
+	<td valign="top">
+		<table width="100%"  cellpadding="0" cellspacing="0">
+		<tr>
+										<td valign="top" width="100%" class="article_column">
+				﻿
+<table class="contentpaneopen">
+
+
+
+
+<tr>
+<td valign="top" colspan="2">
+<table>
+<tbody>
+<tr>
+<td style="width: 50%; border-color: #cccccc; border-width: 1px; border-style: solid;" valign="top">Creeping desertification around the world affects more than 250 million people. <br />The DESIRE research project worked to fight the phenomenon with new conservation strategies.&nbsp;</td>
+<td style="width: 50%; border-color: #cccccc; border-width: 1px; border-style: solid;" valign="top">Funded under the EU's Sixth Framework Programme, the international DESIRE project brought together 28 research institutes, non-governmental organisations and policy-makers from around the world. The aim of the project was to come up with alternative strategies for the use and protection of these vulnerable areas.&nbsp;</td>
+</tr>
+</tbody>
+</table>
+<p><img src="/images/stories/rsgallery/original/composite_600-1.jpg" alt="" name="imgmap201312213941" width="595" usemap="#imgmap201312213941" /></p>
+<table>
+<tbody>
+<tr>
+<td style="width: 50%; border-color: #cccccc; border-width: 1px; border-style: solid;" valign="top">The researchers identified 17 study sites from southern Europe, southern America, Africa, Russia and China, covering a wide range of problems from soil erosion by wind or water, to salinisation and droughts or flash floods. These study sites were the global laboratory for researchers to apply both tested conservation techniques and remediation measures, and find new and innovative approaches to combat desertification.</td>
+<td style="width: 50%; border-color: #cccccc; border-width: 1px; border-style: solid;" valign="top">The project began by making an inventory of local knowledge. Working with local residents, the scientists studied the methods and techniques used to prevent land degradation in that region and combined them with new scientific insights. The researchers hoped that this close collaboration of scientists with local stakeholder groups would lead to acceptable and feasible conservation techniques.</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p></td>
+</tr>
+
+
+
+</table>
+<span class="article_separator">&nbsp;</span>
+</td>
+								
+		</tr>
+		</table>
+	</td>
+</tr>
+
+</table>
+
+				
+								
+							</div>
+			
+							<div id="leftcol">
+																		<div class="moduletable">
+					<h3>Global context</h3>
+					
+<table width="100%" border="0" cellpadding="0" cellspacing="0">
+<tr ><td><a href="/index.php/en/the-bigger-picture" class="mainlevel" >The bigger picture</a></td></tr>
+<tr ><td><a href="/index.php/en/desertification-mainmenu-329" class="mainlevel" >What is desertification?</a></td></tr>
+<tr ><td><a href="/index.php/en/unccd" class="mainlevel" >UNCCD</a></td></tr>
+</table>		</div>
+			<div class="moduletable">
+					<h3>Desertification research</h3>
+					
+<table width="100%" border="0" cellpadding="0" cellspacing="0">
+<tr ><td><a href="/index.php/en/international-collaboration" class="mainlevel" >Global collaboration</a></td></tr>
+<tr ><td><a href="/index.php/en/recent-european-research" class="mainlevel" >Recent European research</a></td></tr>
+<tr ><td><a href="/index.php/en/desire-project" class="mainlevel" >DESIRE Project</a></td></tr>
+</table>		</div>
+	
+									</div>
+					</div>
+		
+		<div id="rightcol">
+												<div class="moduletable">
+					<form action="index.php" method="post">
+	<div class="search">
+		<input name="searchword" id="mod_search_searchword" maxlength="20" alt="Search" class="inputbox" type="text" size="20" value="search..."  onblur="if(this.value=='') this.value='search...';" onfocus="if(this.value=='search...') this.value='';" />	</div>
+	<input type="hidden" name="task"   value="search" />
+	<input type="hidden" name="option" value="com_search" />
+	<input type="hidden" name="Itemid" value="1" />
+</form>		</div>
+			<div class="moduletable">
+					<div align="center">
+	<img src="/images/random_images/fig10i.jpg.jpg" alt="fig10i.jpg.jpg" width="175" height="130" /></div>		</div>
+			<div class="moduletable">
+					<h3>Acknowledgement</h3>
+					<table border="0">
+<tbody>
+<tr valign="middle">
+<td valign="middle"><img src="/images/stories/icons/fp6 logo 3 50 x 43.jpg" alt="fp6 logo 3 50 x 43" width="50" height="43" /></td>
+<td valign="middle">
+<pre><span style="font-size: 7pt;"><span style="line-height: 8pt;">The DESIRE project was <br />co-funded by the <br />European Commission, <br />Global Change and <br />Ecosystem.<br /></span></span></pre>
+</td>
+</tr>
+</tbody>
+</table>
+<pre><span style="font-size: 7pt;"><span style="line-height: 8pt;">Contract no: 037046 GOCE<br /><br />DESIRE brought together the expertise of<br />26 international research institutes<br />and non-governmental organisations. <br /><br />This website does not necessarily <br />represent the opinion of the <br />European Commission. The European <br />Commission is not responsible for <br />any use that might be made of the <br />information contained herein.</span></span></pre>		</div>
+			<div class="moduletable">
+					<h3>Citing website content</h3>
+					<pre><span style="font-size: 7pt;"><span style="line-height: 8pt;">For the terms under which the content </span></span></pre>
+<pre><span style="font-size: 7pt;"><span style="line-height: 8pt;">of this website may be used see </span></span></pre>
+<pre><span style="font-size: 7pt;"><span style="line-height: 8pt;"><a href="/index.php/en/c-desire">»Disclaimer, copyright and privacy</a><br /></span></span></pre>
+<pre><span style="font-size: 7pt;"><span style="line-height: 8pt;"><br />When referenceing page contents </span></span></pre>
+<pre><span style="font-size: 7pt;"><span style="line-height: 8pt;">please cite as Brandt, C. J. (ed). </span></span></pre>
+<pre><span style="font-size: 7pt;"><span style="line-height: 8pt;">2012. "page title". DESIRE Project </span></span></pre>
+<pre><span style="font-size: 7pt;"><span style="line-height: 8pt;">Harmonised Information System.</span></span></pre>
+<pre><span style="font-size: 7pt;"><span style="line-height: 8pt;">DESIRE Consortium.  </span></span></pre>
+<pre><span style="font-size: 7pt;"><span style="line-height: 8pt;">www.desire-his.eu. <br /><br />If citing a deliverable use the authors' </span></span></pre>
+<pre><span style="font-size: 7pt;"><span style="line-height: 8pt;">names, date and title as given on the </span></span></pre>
+<pre><span style="font-size: 7pt;"><span style="line-height: 8pt;">cover page and add "available at </span></span></pre>
+<pre><span style="font-size: 7pt;"><span style="line-height: 8pt;">www.desire-his.eu".</span></span></pre>		</div>
+			<div class="moduletable">
+					<h3>Follow us</h3>
+					<a target="_blank" href="http://www.twitter.com/DESIREproject"><img src="/images/stories/rsgallery/display/twitter2.jpg.jpg" height="22" width="85" /></a>		</div>
+	
+					</div>
+	</div>
+</div>
+
+<div id="footer">
+	<div class="container">
+		<div class="footer-menu">
+					</div>
+		<div class="footer-module clearfix">
+			<!-- Please keep these links intact, if you want to remove the link please send US$10 via Paypal to andra_yogi@yahoo.com -->
+<p>site by <a href="http://www.envista.nl" target="_blank">Envista</a></p>
+		</div>
+	</div>
+</div>
+</body>
+</html>
+

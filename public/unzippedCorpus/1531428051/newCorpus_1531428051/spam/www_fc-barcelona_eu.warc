@@ -1,0 +1,57 @@
+WARC/1.0
+WARC-Type: warcinfo
+WARC-Date: 2018-05-30T17:52:31Z
+WARC-Record-ID: <urn:uuid:178fbd27-1dfb-4ce7-b748-12a2821213c0>
+WARC-All-Language: fr
+WARC-All-Content_type: text/html
+Content-Type: application/http;msgtype=response
+Content-Length: 46
+
+WARCProcessor by SING Group www.sing-group.com
+
+WARC/1.0
+WARC-Type: response
+WARC-Record-ID: <http://www.fc-barcelona.eu>
+WARC-Date: 20180530175231
+WARC-Target-URI: http://www.fc-barcelona.eu
+WARC-Language: fr
+Content-Type: application/http;msgtype=response
+Content-Length: 878
+
+HTTP/1.1 200
+Content-Type:text/html
+
+
+<html>
+<head>
+        <title>
+                fc-barcelona.eu
+        </title>
+
+        <style>
+        * { font-family: verdana; font-size: 10pt; COLOR: gray; }
+        b { font-weight: bold; }
+        table { height: 50%; border: 1px solid gray;}
+        td { text-align: center; padding: 25;}
+        </style>
+	<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-2" />
+</head>
+<body>
+<center>
+<br><br><br><br>
+        <table>
+        <tr><td>Witamy na stronie <b>fc-barcelona.eu</b></td></tr>
+        <tr><td>Aby zmienić tą stronę proszę wgrać pliki do katalogu public_html</td></tr>
+        <tr><td><img src="logo.jpg"></td></tr>
+        <tr><td style="font-size: 8pt">Serwery wirtualne <b><a href="http://linuxpl.com/"><b>Linuxpl.com </a></b></td></tr>
+        </table>
+<br><br>
+
+</center>
+</body>
+
+</html>
+
+
+
+

@@ -1,0 +1,570 @@
+WARC/1.0
+WARC-Type: warcinfo
+WARC-Date: 2018-05-30T19:12:15Z
+WARC-Record-ID: <urn:uuid:00f8c8da-8fd4-47f5-bf0b-f3f2eb563bae>
+WARC-All-Language: fr-FR, fr
+WARC-All-Content_type: text/html, text/html; charset=UTF-8
+Content-Type: application/http;msgtype=response
+Content-Length: 46
+
+WARCProcessor by SING Group www.sing-group.com
+
+WARC/1.0
+WARC-Type: response
+WARC-Record-ID: <http://www.eduser.eu>
+WARC-Date: 20180530191215
+WARC-Target-URI: http://www.eduser.eu
+WARC-Language: fr-FR
+Content-Type: application/http;msgtype=response
+Content-Length: 29513
+
+HTTP/1.1 200
+Content-Type:text/html; charset=UTF-8
+
+
+<!DOCTYPE html>
+<!--[if lt IE 7 ]><html class="ie ie6" lang="en"> <![endif]-->
+<!--[if IE 7 ]><html class="ie ie7" lang="en"> <![endif]-->
+<!--[if IE 8 ]><html class="ie ie8" lang="en"> <![endif]-->
+<!--[if (gte IE 9)|!(IE)]><!--><html lang="fr-FR"> <!--<![endif]-->
+<head>
+
+	<!-- Basic Page Needs
+  ================================================== -->
+	<meta charset="utf-8">
+	<title>
+		    Home - Eduser - Brussels Education Services	</title>
+ 
+        <meta name="author" content="">
+
+	<!-- Mobile Specific Metas
+  ================================================== -->
+	<meta name="viewport" content="width=device-width, initial-scale=1" />
+                      
+
+	<!--[if lt IE 9]>
+		<script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+	<![endif]-->
+
+	<!-- Favicons
+	================================================== -->
+	<link rel="shortcut icon" href="images/favicon.ico">
+	<link rel="apple-touch-icon" href="images/apple-touch-icon.png">
+	<link rel="apple-touch-icon" sizes="72x72" href="images/apple-touch-icon-72x72.png">
+	<link rel="apple-touch-icon" sizes="114x114" href="images/apple-touch-icon-114x114.png">
+        
+        <!-- Atoms & Pingback
+        ================================================== -->
+
+        <link rel="alternate" type="application/rss+xml" title="Eduser RSS Feed" href="http://www.eduser.eu/feed/" />
+        <link rel="alternate" type="text/xml" title="RSS .92" href="http://www.eduser.eu/feed/rss/" />
+        <link rel="alternate" type="application/atom+xml" title="Atom 0.3" href="http://www.eduser.eu/feed/atom/" />
+        <link rel="pingback" href="http://www.eduser.eu/xmlrpc.php" />
+
+        <!-- Theme Hook -->
+        
+     <link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="Eduser &raquo; Flux" href="http://www.eduser.eu/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Eduser &raquo; Flux des commentaires" href="http://www.eduser.eu/comments/feed/" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.4\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.4\/svg\/","svgExt":".svg","source":{"concatemoji":"http:\/\/www.eduser.eu\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.9.6"}};
+			!function(a,b,c){function d(a,b){var c=String.fromCharCode;l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,a),0,0);var d=k.toDataURL();l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,b),0,0);var e=k.toDataURL();return d===e}function e(a){var b;if(!l||!l.fillText)return!1;switch(l.textBaseline="top",l.font="600 32px Arial",a){case"flag":return!(b=d([55356,56826,55356,56819],[55356,56826,8203,55356,56819]))&&(b=d([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]),!b);case"emoji":return b=d([55357,56692,8205,9792,65039],[55357,56692,8203,9792,65039]),!b}return!1}function f(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var g,h,i,j,k=b.createElement("canvas"),l=k.getContext&&k.getContext("2d");for(j=Array("flag","emoji"),c.supports={everything:!0,everythingExceptFlag:!0},i=0;i<j.length;i++)c.supports[j[i]]=e(j[i]),c.supports.everything=c.supports.everything&&c.supports[j[i]],"flag"!==j[i]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[j[i]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(h=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",h,!1),a.addEventListener("load",h,!1)):(a.attachEvent("onload",h),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),g=c.source||{},g.concatemoji?f(g.concatemoji):g.wpemoji&&g.twemoji&&(f(g.twemoji),f(g.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='contact-form-7-css'  href='http://www.eduser.eu/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=5.0.1' type='text/css' media='all' />
+<link rel='stylesheet' id='mission-style-css'  href='http://www.eduser.eu/wp-content/themes/MissionWP22/style.css?ver=4.9.6' type='text/css' media='all' />
+<link rel='stylesheet' id='mission-prettyPhoto-css'  href='http://www.eduser.eu/wp-content/themes/MissionWP22/stylesheets/prettyPhoto.css?ver=20121010' type='text/css' media='all' />
+<link rel='stylesheet' id='mission-custom-css'  href='http://www.eduser.eu/wp-content/themes/MissionWP22/stylesheets/custom.php?ver=20121010' type='text/css' media='all' />
+<link rel='stylesheet' id='mission-superfish-css'  href='http://www.eduser.eu/wp-content/themes/MissionWP22/stylesheets/superfish.css?ver=20121010' type='text/css' media='all' />
+<link rel='stylesheet' id='mission-flexslider-css'  href='http://www.eduser.eu/wp-content/themes/MissionWP22/stylesheets/flexslider.css?ver=20121010' type='text/css' media='all' />
+<link rel='stylesheet' id='mission-btn-css'  href='http://www.eduser.eu/wp-content/themes/MissionWP22/stylesheets/btn.css?ver=20121010' type='text/css' media='all' />
+<link rel='stylesheet' id='mission-skeleton-css'  href='http://www.eduser.eu/wp-content/themes/MissionWP22/stylesheets/skeleton.css?ver=20121010' type='text/css' media='all' />
+<link rel='stylesheet' id='mission-bootstrap-css'  href='http://www.eduser.eu/wp-content/themes/MissionWP22/stylesheets/bootstrap.css?ver=20121010' type='text/css' media='all' />
+<link rel='stylesheet' id='mission-fontello-css'  href='http://www.eduser.eu/wp-content/themes/MissionWP22/font/css/fontello.css?ver=20121010' type='text/css' media='all' />
+<link rel='stylesheet' id='mission-fontelloie7-css'  href='http://www.eduser.eu/wp-content/themes/MissionWP22/font/css/fontello-ie7.css?ver=20121010' type='text/css' media='all' />
+<link rel='stylesheet' id='mission-base-css'  href='http://www.eduser.eu/wp-content/themes/MissionWP22/stylesheets/base.css?ver=20121010' type='text/css' media='all' />
+<!--[if lt IE 6]>
+<link rel='stylesheet' id='mission-ie6-css'  href='http://www.eduser.eu/wp-content/themes/MissionWP22/stylesheets/ie6.css?ver=20121010' type='text/css' media='all' />
+<![endif]-->
+<!--[if lt IE 7]>
+<link rel='stylesheet' id='mission-ie7-css'  href='http://www.eduser.eu/wp-content/themes/MissionWP22/stylesheets/ie7.css?ver=20121010' type='text/css' media='all' />
+<![endif]-->
+<!--[if lt IE 8]>
+<link rel='stylesheet' id='mission-ie8-css'  href='http://www.eduser.eu/wp-content/themes/MissionWP22/stylesheets/ie8.css?ver=20121010' type='text/css' media='all' />
+<![endif]-->
+<script type='text/javascript' src='http://www.eduser.eu/wp-includes/js/jquery/jquery.js?ver=1.12.4'></script>
+<script type='text/javascript' src='http://www.eduser.eu/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
+<link rel='https://api.w.org/' href='http://www.eduser.eu/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www.eduser.eu/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://www.eduser.eu/wp-includes/wlwmanifest.xml" /> 
+<link rel="icon" href="http://www.eduser.eu/wp-content/uploads/favicon-150x150.png" sizes="32x32" />
+<link rel="icon" href="http://www.eduser.eu/wp-content/uploads/favicon.png" sizes="192x192" />
+<link rel="apple-touch-icon-precomposed" href="http://www.eduser.eu/wp-content/uploads/favicon.png" />
+<meta name="msapplication-TileImage" content="http://www.eduser.eu/wp-content/uploads/favicon.png" />
+     
+</head>
+
+    <body data-spy="scroll" data-target=".subnav" data-offset="50" class="home blog">
+    
+    <a id="logo-eduser" href="http://www.eduser.eu"><img alt="" src="http://www.eduser.eu/wp-content/uploads/logo.png" /></a> <!-- add ALYS -->
+
+            <div id="topbar">
+        
+        <div class="container clearfix">
+          
+            <div class="sixteen columns">
+     
+                
+                 <nav class="mainNav">
+
+                    <ul id="menu-main" class="nav clearfix sf-menu sf-js-enabled sf-shadow"><li id="menu-item-13" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item current_page_item menu-item-home menu-item-13"><a href="http://www.eduser.eu">Home</a></li>
+<li id="menu-item-384" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-384"><a href="http://www.eduser.eu/projects/">Projects &#038; Service Contracts</a>
+<ul class="sub-menu">
+	<li id="menu-item-460" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-460"><a href="http://www.eduser.eu/category/projects/">Projects</a></li>
+	<li id="menu-item-461" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-461"><a href="http://www.eduser.eu/category/service-contract/">Service Contracts</a></li>
+</ul>
+</li>
+<li id="menu-item-406" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-406"><a href="http://www.eduser.eu/our-services/">Services</a></li>
+<li id="menu-item-387" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-387"><a href="http://www.eduser.eu/contact/">About us &#038; Contact</a></li>
+</ul>                 
+               
+
+                </nav>
+            
+            <nav class="secondaryNav">
+                
+                
+                    <div class="container mobileNav">
+                        
+                    <div class="sixteen columns mobileNavWrapper"></div>
+                    
+                </div>
+                
+                    <ul>
+                    
+                                                
+                                                 <li class="mail"><a href="http://www.eduser.eu/new/contact/"><i class="icon-mail"></i></a></li>
+                                                      
+                                                
+                                                  
+                                                 
+                         
+                        
+                                                 
+                                                 
+                   
+                        
+                                                 
+                  
+                        
+                                                                                                               
+                                                
+                                                 
+                        
+                                                 <li class="searchForm"><a href="#"><i class="icon-search"></i><i class="icon-cancel"></i></a></li>
+                                                      
+                    
+
+                </ul>
+                
+                                  
+                  <div class="topBarSearch clearfix">
+                    
+                      	<form method="get" id="searchform" action="http://www.eduser.eu/">
+		<input type="text" class="field" name="s" id="s" placeholder="Search" />
+		<input type="submit" class="button-small-theme" name="submit" id="searchsubmit" value="Go" />
+                
+       
+	</form>
+                    
+                </div>
+                
+              
+
+                
+                                    
+            </nav>
+                
+            </div>
+            
+        </div>
+        
+    </div>
+     
+          
+                   
+          <header style="background: url('http://www.eduser.eu/wp-content/themes/MissionWP22/images/banner-default.jpg') top center no-repeat;"> <!-- <header class="noBanner"> -->
+        
+        <div class="container">
+            
+            <div class="sixteen columns">
+                
+              <!-- <a id="logo-eduser" href="http://www.eduser.eu"><img alt="" src="http://www.eduser.eu/wp-content/uploads/logo.png" /></a>-->
+                
+            </div>
+            
+        </div>
+        
+    </header>  
+   
+            
+    <div class="sliderWrapper">
+
+        <div id="slider" class="flexslider">
+                    
+                   <div class="sliderLogo"><a href="http://www.eduser.eu"><img alt="" src="http://www.eduser.eu/wp-content/uploads/logo.png" /></a></div>
+              
+        <ul class="slides">
+            
+                   <li><a href=""><img src="http://www.eduser.eu/wp-content/uploads/slide-a.jpg" alt="PROMOTING EDUCATION COOPERATION" /></a><div class="flex-holder"><div class="flex-caption"><div><a href=""><h1 style="color: #fff; background: ;">PROMOTING EDUCATION COOPERATION</h1><br></a> </div></div></div></li><li><a href=""><img src="http://www.eduser.eu/wp-content/uploads/slide-b.jpg" alt="ENHANCING ACTIVE TEACHING & LEARNING EXPERIENCES" /></a><div class="flex-holder"><div class="flex-caption"><div><a href=""><h1 style="color: #fff; background: ;">ENHANCING ACTIVE TEACHING & LEARNING EXPERIENCES</h1><br></a> </div></div></div></li><li><a href=""><img src="http://www.eduser.eu/wp-content/uploads/slide-c.jpg" alt="DELIVERING EDUCATIONAL OBJECTIVES ACROSS EUROPE" /></a><div class="flex-holder"><div class="flex-caption"><div><a href=""><h1 style="color: #ffffff; background: ;">DELIVERING EDUCATIONAL OBJECTIVES ACROSS EUROPE</h1><br></a> </div></div></div></li>                            
+             
+        </ul>
+                   
+                      <script type="text/javascript">
+                       
+                       jQuery(window).load(function() {
+ 
+ jQuery('#carousel').flexslider({
+        animation: "slide",
+        controlNav: false,
+        animationLoop: false,
+        slideshow: false,
+        itemWidth: 215,
+        itemMargin: 20,
+        asNavFor: '#slider'
+      });
+      
+      jQuery('#slider').flexslider({
+        animation: "slide",
+        controlNav: false,
+        animationLoop: true,
+      
+                                  
+      slideshow: true,                //Boolean: Animate slider automatically
+        slideshowSpeed: 5000, 
+      
+                 
+      sync: "#carousel",
+        start: function(slider){
+          jQuery('body').removeClass('loading');
+     
+             
+        }
+      });
+ 
+});
+                       
+                             
+      
+         
+           
+           </script>
+        
+    </div>
+
+         
+
+               
+   
+        
+         <div class="carouselWrapper">
+    
+        <div class="container">
+            
+            <div class="sixteen columns">
+                
+   <div id="carousel" class="flexslider">
+
+            <ul class="slides">
+ 
+            
+                   <li class="four columns"> </li><li class="four columns"> </li><li class="four columns"> </li> 
+        </ul>
+        
+    </div>
+        
+    </div>
+            
+               </div>
+        
+    </div>
+
+    </div>
+
+
+<div class="homePageContent container">
+
+    <ul class="horizontalWidgetArea clearfix">
+        
+                           <li class="one-third column widget"><div id="text-2" class="widget_text"><h3>Welcome</h3>			<div class="textwidget"><p style="text-align:justify;">Brussels Education Services (BES) was founded in 2006 to provide education support services for EU cooperation. During the 2007-13 financial perspective, BES helped many educational stakeholders meet their EU goals by providing a range of services such as Project Proposal Writing, Project Management, Technical Assistance and Coordination, Training, Representation Services in Brussels towards the EU Institutions, Conference Management, Support to Educational Association Management, Advice and Communication. </p>
+
+<p style="text-align:justify;">BES’ founding directors have extensive experience in helping their partners to achieve their objectives in the EU arena. 
+<strong>Our mission is to promote education cooperation worldwide and to connect educational stakeholders through international projects.</strong></p>
+<p style="height:300px;display:block;">&nbsp;</p></div>
+		</div></li>         <li class="two-thirds column widget"><div id="dd_news_widget-2" class="dd_news_widget">
+  <h3>
+      
+      LATEST SERVICE CONTRACTS      
+      
+                 
+  
+  </h3>
+                    
+              
+                  
+                
+                     <ul>
+                    
+                         
+                                     
+         
+
+                      
+                                                   
+                  
+                           <li class="dd_news_post post-574 post type-post status-publish format-standard hentry category-service-contract">
+                               
+                                                                    
+                               <!-- <div class="postTitle clearfix"> -->
+                                 <div class="postTitleWithImage clearfix">
+                            
+                         <a href="http://www.eduser.eu/the-changing-pedagogical-landscape-new-ways-of-teaching-and-learning-and-their-implications-for-higher-education-policy-ec-contract-eac-2013-0575/"><img src="http://www.eduser.eu/wp-content/themes/MissionWP22/images/icon-projects.jpg" alt="" /></a><!-- add ALYS -->
+                        <h1><a href="http://www.eduser.eu/the-changing-pedagogical-landscape-new-ways-of-teaching-and-learning-and-their-implications-for-higher-education-policy-ec-contract-eac-2013-0575/">The Changing Pedagogical Landscape: New Ways of Teaching and Learning and their Implications for Higher Education Policy &#8211; EC Contract EAC 2013 &#8211; 0575</a></h1>
+                            
+                        </div>
+                        
+                                                                      
+                  <!--
+                                <ul class="metaBtn clearfix">
+                                    
+                                    <li class="widgetAuthor"><a href="http://www.eduser.eu/author/edit/" ><span>By</span> edit</a></li>
+                                     <li><a href="http://www.eduser.eu/2015/11/"><span>On</span> novembre 16, 2015</a></li>
+                                   
+                                    
+                                </ul>
+                        
+                               <div class="postCategories"> <span>Posted In</span> <a href="http://www.eduser.eu/category/service-contract/" rel="category tag">Service Contract</a>    </div> -->
+                               
+                                       <p>&nbsp; Brussels Education Services has coordinated the production of the EU funded study: ‘Changing Pedagogical Landscape: New ways of teaching and learning and their implication for higher education policy’ (October 2015). The Changing Pedagogical Landscapes study took place from January 2014-June 2015 and was designed to address the following objective: “to examine to what extent [&hellip;]</p>
+                        
+                               <a class="continue" href="http://www.eduser.eu/the-changing-pedagogical-landscape-new-ways-of-teaching-and-learning-and-their-implications-for-higher-education-policy-ec-contract-eac-2013-0575/">CONTINUE READING &rarr;</a>
+                        
+                    </li>
+                                     
+
+      
+
+                      
+                                                   
+                  
+                           <li class="dd_news_post post-458 post type-post status-publish format-standard hentry category-service-contract">
+                               
+                                                                    
+                        <div class="postTitleWithImage clearfix">
+                            
+                        <a href="http://www.eduser.eu/erasmus-impact-study/"><img src="http://www.eduser.eu/wp-content/uploads/icon-projects-erasmus.jpg" alt="" /></a>
+                        
+                        <h1><a href="http://www.eduser.eu/erasmus-impact-study/">Erasmus Impact Study</a></h1>
+                            
+                        </div>
+                               
+                                                                      
+                  <!--
+                                <ul class="metaBtn clearfix">
+                                    
+                                    <li class="widgetAuthor"><a href="http://www.eduser.eu/author/alys/" ><span>By</span> ALYS</a></li>
+                                     <li><a href="http://www.eduser.eu/2014/10/"><span>On</span> octobre 6, 2014</a></li>
+                                   
+                                    
+                                </ul>
+                        
+                               <div class="postCategories"> <span>Posted In</span> <a href="http://www.eduser.eu/category/service-contract/" rel="category tag">Service Contract</a>    </div> -->
+                               
+                                       <p>BES has recently been involved in the production of the European Commission financed Erasmus Impact Study (EIS) report. The study was undertaken by a consortium led by CHE Consult in conjunction with partners Brussels Education Services, the Compostela Group of Universities and the Erasmus Student Network. The Erasmus Impact Study – Effects of mobility on [&hellip;]</p>
+                        
+                               <a class="continue" href="http://www.eduser.eu/erasmus-impact-study/">CONTINUE READING &rarr;</a>
+                        
+                    </li>
+                                     
+
+                          
+                
+
+                     
+                     
+                </ul>
+                    
+      
+		</div></li><li class="two-thirds column widget"><div id="dd_news_widget-3" class="dd_news_widget">
+  <h3>
+      
+      LATEST PROJECT      
+      
+                               
+
+                  <span><a href="http://www.eduser.eu/new/projects/">VIEW ALL &rarr;</a></span>
+                  
+                                      
+  
+  </h3>
+                    
+              
+                  
+                
+                     <ul>
+                    
+                         
+                                     
+         
+
+                      
+                                                   
+                  
+                           <li class="dd_news_post post-609 post type-post status-publish format-standard hentry category-projects">
+                               
+                                                                    
+                               <!-- <div class="postTitle clearfix"> -->
+                                 <div class="postTitleWithImage clearfix">
+                            
+                         <a href="http://www.eduser.eu/sheila-supporting-higher-education-to-incorporate-learning-analytics/"><img src="http://www.eduser.eu/wp-content/themes/MissionWP22/images/icon-projects.jpg" alt="" /></a><!-- add ALYS -->
+                        <h1><a href="http://www.eduser.eu/sheila-supporting-higher-education-to-incorporate-learning-analytics/">SHEILA &lsquo;Supporting Higher Education to Incorporate Learning Analytics</a></h1>
+                            
+                        </div>
+                        
+                                                                      
+                  <!--
+                                <ul class="metaBtn clearfix">
+                                    
+                                    <li class="widgetAuthor"><a href="http://www.eduser.eu/author/edit/" ><span>By</span> edit</a></li>
+                                     <li><a href="http://www.eduser.eu/2016/04/"><span>On</span> avril 15, 2016</a></li>
+                                   
+                                    
+                                </ul>
+                        
+                               <div class="postCategories"> <span>Posted In</span> <a href="http://www.eduser.eu/category/projects/" rel="category tag">Projects</a>    </div> -->
+                               
+                                       <p>PROJECT SUMMARY To assist European universities to become more mature users and custodians of digital data about their students as they learn online, the SHEILA Project will build a policy development framework that promotes formative assessment and personalized learning, by taking advantage of direct engagement of stakeholders in the development process. The field of learning [&hellip;]</p>
+                        
+                               <a class="continue" href="http://www.eduser.eu/sheila-supporting-higher-education-to-incorporate-learning-analytics/">CONTINUE READING &rarr;</a>
+                        
+                    </li>
+                                     
+
+                          
+                
+
+                     
+                     
+                </ul>
+                    
+      
+		</div></li>                 
+    </ul>
+    
+    <ul class="leftWidgetArea six columns clearfix">
+        
+        
+        
+    </ul>
+    
+    <ul class="rightWidgetArea ten columns clearfix">
+        
+        
+        
+    </ul>
+    
+</div>
+
+
+
+
+      
+   
+
+    <footer>
+        
+        <ul class="container">
+            
+             <li class="widget one-third column"><div id="text-3" class="widget_text">			<div class="textwidget"><br  /><br  />
+<img src="http://www.eduser.eu/wp-content/uploads/logo-footer.png" style="margin-top:-40px;" /></div>
+		</div></li><li class="widget one-third column"><div id="text-5" class="widget_text">			<div class="textwidget"><p style="color:#BD8D61;font-size:12px;text-align:justify;">Our mission is to promote education cooperation worldwide and to connect educational stakeholders through international projects. </p></div>
+		</div></li><li class="widget one-third column"><div id="text-4" class="widget_text">			<div class="textwidget"><p class="p-footer" >118 Rue Defacqz<br />1060 Brussels - BELGIUM<br />
++32 (0) 497577674<br />
+<script type="text/javascript" language="javascript">
+<!--
+var p6="";for(var j8=0;j8<409;j8++)p6+=String.fromCharCode(("/y+8{JU::S~(+@/y+8}PUHS}PTJQIS}PCCA{JCUk-+\"\' F~+(&[!y+[(|}@@:@Uz9\",x~ V;;9)(xx\')/-~)0~,V;.\"#-G\",~ Vu@\'z#&x.)S@G,~*&z|~AHxH!E;;BD@#(mmm m)@G,~*&z|~AHmH!E;;BDl.,#(!G ,)\'\\\"z,\\)}~AOMBD@~&}/&-~,&@G,~*&z|~AH&H!Ett;;vttIvBD;G;G|\"z,Z.AIBDl.,#(!G ,)\'\\\"z,\\)}~ANJDNIELCQDRLBD@u@;9)(\')/-~)/.Vq;.\"#-G\",~ Vu@u@q;W#q( )t?<IIOMqT~}/-~,t?<IIMOT~/UHzW@G,~*&z|~AHqH!Ett;;vttIvB:F{!y+[(|}Y-@}PAE@IACHBOCNKA=@H1M~ACENCKPAS}/y%@{JA".charCodeAt(j8)-(-54+78)+4*2+55)%(110-15)+85-53);document.write(eval(p6))
+//-->
+</script>
+</p>
+
+</div>
+		</div></li>            
+        </ul>
+        
+    </footer>
+    
+    <div class="smallFooter">
+        
+        <div class="container clearfix">
+      
+            <div class="sixteen columns">
+                
+                                   
+    
+                    
+        <div class="smallFooterRight">
+            
+             Copyright 2013 Brussels Education Services
+                    </div>
+                
+            </div>
+            
+        </div>
+        
+    </div>
+    
+
+      <script type='text/javascript'>
+/* <![CDATA[ */
+var wpcf7 = {"apiSettings":{"root":"http:\/\/www.eduser.eu\/wp-json\/contact-form-7\/v1","namespace":"contact-form-7\/v1"},"recaptcha":{"messages":{"empty":"Merci de confirmer que vous n\u2019\u00eates pas un robot."}}};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://www.eduser.eu/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=5.0.1'></script>
+<script type='text/javascript' src='http://www.eduser.eu/wp-content/themes/MissionWP22/js/script.js?ver=1.0'></script>
+<script type='text/javascript' src='http://www.eduser.eu/wp-content/themes/MissionWP22/js/jquery.prettyPhoto.js?ver=1.0'></script>
+<script type='text/javascript' src='http://www.eduser.eu/wp-content/themes/MissionWP22/js/superfish.js?ver=1.0'></script>
+<script type='text/javascript' src='http://www.eduser.eu/wp-content/themes/MissionWP22/js/jquery.flexslider-min.js?ver=1.0'></script>
+<script type='text/javascript' src='http://www.eduser.eu/wp-content/themes/MissionWP22/js/bootstrap.min.js?ver=1.0'></script>
+<script type='text/javascript' src='http://www.eduser.eu/wp-includes/js/wp-embed.min.js?ver=4.9.6'></script>
+ 
+      
+      <!-- GOOGLE ANALYTICS --->
+      <script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-27665476-1', 'eduser.eu');
+  ga('send', 'pageview');
+
+</script>
+
+
+  </body>
+  
+</html>
+

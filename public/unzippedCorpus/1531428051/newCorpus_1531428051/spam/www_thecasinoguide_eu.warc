@@ -1,0 +1,575 @@
+WARC/1.0
+WARC-Type: warcinfo
+WARC-Date: 2018-05-30T17:52:31Z
+WARC-Record-ID: <urn:uuid:5ff76c34-4b6b-43ec-b25b-aa2b5834144f>
+WARC-All-Language: en
+WARC-All-Content_type: text/html; charset=UTF-8, text/html
+Content-Type: application/http;msgtype=response
+Content-Length: 46
+
+WARCProcessor by SING Group www.sing-group.com
+
+WARC/1.0
+WARC-Type: response
+WARC-Record-ID: <http://www.thecasinoguide.eu>
+WARC-Date: 20180530175231
+WARC-Target-URI: http://www.thecasinoguide.eu
+WARC-Language: en
+Content-Type: application/http;msgtype=response
+Content-Length: 15984
+
+HTTP/1.1 200
+Content-Type:text/html; charset=UTF-8
+
+
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>thecasinoguide.eu - The ultimate virtual casino guide</title>
+<meta name="keywords" content="casino, poker, casino guide, virtual casino, casino list, casino catalogue, casino reviews and ratings, all casinos, poker rooms, blackjack, craps, slots, baccarat, internet poker" />
+<meta name="description" content="Complete guide to the most famous online casinos with reviews and ratings. Visit the best casinos and poker rooms on the net. Free games, poker tournament schedules" />
+<meta name="google-site-verification" content="-SPtquYex2M2Gx-tLQx31jIn-ks-n_SOVZh_r0kQ57Y" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="y_key" content="f3b8143c3b73f0e3" />
+<meta name="msvalidate.01" content="D339C73D2C918F3B046D21727F68CF8B" />
+<script type="text/javascript" src="scripts/script.js"></script>
+<script type="text/javascript" src="scripts/swfobject.js"></script>
+<link rel="stylesheet" href="style.css" type="text/css" />
+<link rel="shortcut icon" href="favicon.ico" type="image/x-icon"/>
+</head>
+<body onload="show_clock()">
+<!--  google analytics -->
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-11642922-8");
+pageTracker._trackPageview();
+} catch(err) {}
+</script><table width="100%" border="0" cellspacing="0" cellpadding="0">
+   <tr>
+      <td colspan="5" nowrap="nowrap" align="left" valign="top"><table border="0" cellspacing="0" cellpadding="0" width="100%">
+            <tr>
+               <td width="600" height="140"><div id="f1"><a href="http://www.adobe.com/shockwave/download/index.cgi?P1_Prod_Version=ShockwaveFlash" title="Get Flash Player Plugin" target="_blank"><img src="images/flash logo.jpg" alt="Get Flash Player Plugin"/></a></div>
+                  <script type="text/javascript">
+		// <![CDATA[
+		var so = new SWFObject("banner.swf", "titlebanner", "600", "140", "9", "");
+		so.addParam("quality", "high");
+		so.addParam("loop", "true");
+		so.addParam("menu", "false");
+		so.useExpressInstall('expressinstall.swf');
+		so.write("f1");
+		// ]]>
+	</script>
+               </td>
+               <td><table border="0" cellspacing="0" cellpadding="0">
+                     <tr>
+                        <td height="60">&nbsp;</td>
+                     </tr>
+                     <tr>
+                        <td height="40">&nbsp;</td>
+                     </tr>
+                     <tr>
+                        <td class="title">The ultimate virtual casino guide&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://www.casinoguide.gr" title="Greek version" target="_blank" style="vertical-align:middle"><img src="images/greek.jpg" border="0" alt="Greek version"/></a></td>
+                     </tr>
+                  </table></td>
+            </tr>
+         </table></td>
+   </tr>
+   <tr>
+      <td colspan="5" bgcolor="#99CCFF"><img src="images/spacer.gif" alt="" width="1" height="2" border="0" /></td>
+   </tr>
+   <tr>
+      <td colspan="5"><img src="images/spacer.gif" alt="" width="1" height="2" border="0" /></td>
+   </tr>
+   <tr>
+      <td colspan="5" bgcolor="#99CCFF"><img src="images/spacer.gif" alt="" width="1" height="1" border="0" /></td>
+   </tr>
+   <tr>
+      <td bgcolor="#336699" width="210" valign="top" height="370">
+   		<div class="menuHeader" style="margin-top:20px;"><img src="images/cup.jpg" />&nbsp;&nbsp;&nbsp;General</div>
+        <ul id="menu">
+        	<li style="height: 26px"><a href="index.php?page=home" class="singleRowMI">Home<span></span></a></li>
+			<li style="height: 26px"><a href="index.php?page=criteria" class="singleRowMI">Evaluation Criteria<span></span></a></li>
+            <li style="height: 35px"><a href="epaysyspres.php?page=epaysys1" class="doubleRowMI">Electronic Payment Systems<span></span></a></li>
+            <li style="height: 26px"><a href="index.php?page=links" class="singleRowMI">Links<span></span></a></li>
+            <li style="height: 26px"><a href="index.php?page=contact" class="singleRowMI">Contact Us<span></span></a></li>
+        </ul>
+        <div class="menuHeader"><img src="images/spade.jpg" />&nbsp;&nbsp;&nbsp;Casino</div>
+        <ul id="menu">
+        	<li style="height: 35px"><a href="list_all.php?page=p1" class="doubleRowMI">Virtual Casino Catalogue (Aphabetical Order)<span></span></a></li>
+			<li style="height: 35px"><a href="lista_z.php?page=az1" class="doubleRowMI">Virtual Casino Reviews (Alphabetical Order)<span></span></a></li>
+            <li style="height: 35px"><a href="list_rat.php?page=rat1" class="doubleRowMI">Virtual Casino Reviews (Order By Star Rating)<span></span></a></li>
+        </ul>
+        <div class="menuHeader"><img src="images/square.jpg" />&nbsp;&nbsp;&nbsp;Poker</div>
+        <ul id="menu">
+        	<li style="height: 26px"><a href="pokertables.php?page=poker1" class="singleRowMI">Poker Tables (Α-Ζ)<span></span></a></li>
+			<li style="height: 26px"><a href="tournaments1.php" class="singleRowMI">Poker Tournaments<span></span></a></li>
+        </ul>
+        <div class="menuHeader"><img src="images/spathi.jpg" />&nbsp;&nbsp;&nbsp;Fun Stuff</div>
+        <ul id="menu">
+        	<li style="height: 26px"><a href="index.php?page=gameslist" class="singleRowMI">Free Games<span></span></a></li>
+            <li>&nbsp;</li>
+        </ul>
+      </td>
+      <td width="1" bgcolor="#99CCFF"><img src="images/spacer.gif" alt="" width="1" height="1" border="0" /></td>
+      <td bgcolor="#336699" width="40"><img src="images/spacer.gif" alt="" width="40" height="1" border="0" /></td>
+      <td bgcolor="#336699" valign="top" width="660" rowspan="2"><img src="images/spacer.gif" alt="" width="660" height="1" border="0" /><br />
+         <table border="0" cellspacing="0" cellpadding="0" width="620">
+   <tr>
+      <td width="620" height="60" class="pageName" colspan="4">Welcome to <b>thecasinoguide.eu</b></td>
+   </tr>
+   <tr>
+      <td class="bodyText" id="link16px" colspan="4">We welcome you to the most up-to-date catalogue of virtual casinos. This is a complete guide with reviews of the most famous virtual casinos and a rating system evaluating the quality of services they provide their customers. For the fans of poker, in the present guide you will also find an up to date list with the best poker rooms on the net. Feel free to browse through the catalogue and find the virtual casino or poker room that best suits your taste. <br />
+         We hope you find this guide useful and we wish you to have fun, lots of winnings and to enjoy the game.<br />
+         <br />
+         The editing team of <a href="http://www.thecasinoguide.eu" target="_self"><b><i>thecasinoguide.eu</i></b></a></td>
+   </tr>
+   <tr>
+      <td height="10" valign="middle" colspan="4"></td>
+   </tr>
+   <tr>
+      <td height="1" bgcolor="#6699CC" colspan="4"><img src="images/spacer.gif" alt="" width="1" height="1" border="0" /></td>
+   </tr>
+   <tr>
+      <td height="10" valign="middle" colspan="4"></td>
+   </tr>
+   <tr>
+      <td class="numbering" colspan="4">News (January promotions):</td>
+   </tr>
+   <tr>
+      <td height="10" valign="middle" colspan="4"></td>
+   </tr>
+   <tr>
+      <td class="bodyText" colspan="4" id="link16px">
+              <ol id="link16px">
+                 <li><a href="http://affiliatesys.interwetten.com/redirect.aspx?pid=2635&bid=5338" target="_blank"><b>Interwetten casino</b></a> offers a series of bonuses to new players, up to 200&euro;!</li>
+                 <li><a href="http://gnuf.com" onclick="this.href='http://gnuf.com/partner?track=5769b85c1b6d55802258f650b1a2f417&asset_id=65'" target="_blank"><b>GNUF Casino</b></a> offers a 100% first deposit bonus up to 1000$!</li>
+                 <li><a href="http://banner.windowscasino.com/cgi-bin/redir.cgi?casinoguidegr" target="_blank"><b>Windows Casino</b></a> offers a first deposit bonus of 250&euro;/$ to new players!</li>
+                 <li><a href="http://media.expekt.com/affiliates/redirect.aspx?pid=39414&bid=6845" target="_blank"><b>Expekt Casino</b></a> offers a 100% welcome bonus up to 200&euro; to all new players</li>
+                 <li><a href="http://partner.sbaffiliates.com/processing/clickthrgh.asp?btag=a_13750b_678" target="_blank"><b>Paradise Casino</b></a> offers a 200&euro;/&pound; welcome bonus</li>
+                 <li><a href="http://record.affiliatelounge.com/_Rh8SZSLSSdPeD2ODgvck4mNd7ZgqdRLk/1" target="_blank"><b>Betsson Poker</b></a> offers up 100% deposit bonus up to 1000&euro; or 1600$ </li>
+                 <li><a href="http://www.platinumplay.eu/btag-ad249683/" target="_blank"><b>Platinum Play Casino</b></a> offers a 200&euro;/$ registration bonus to new players</li>
+              </ol>
+       </td>
+   </tr>
+   <tr>
+      <td height="10" valign="middle" colspan="4"></td>
+   </tr>
+   <tr>
+      <td height="1" bgcolor="#6699CC" colspan="4"><img src="images/spacer.gif" alt="" width="1" height="1" border="0" /></td>
+   </tr>
+   <tr>
+      <td height="10" valign="middle" colspan="4"></td>
+   </tr>
+  
+   <tr>
+      <td class="bodyText" colspan="4"></td>
+   </tr>
+   <tr>
+      <td height="20" valign="middle" colspan="4"></td>
+   </tr>
+   
+   <tr>
+      <td align="center">
+        <table border="0" cellpadding="0" cellspacing="0" width="125">
+          <tr>
+           <td><img src="images/spacer.gif" width="125" height="1" border="0"></td>
+           <td><img src="images/spacer.gif" width="1" height="1" border="0"></td>
+          </tr>
+                                 
+          <tr>
+            <td><a href="http://banner.windowscasino.com/cgi-bin/redir.cgi?casinoguidegr" target="_blank"><img src="images/Shopping_Spree_125x89_Dark.gif" width="125" height="89" border="0"></a></td>
+           <td><img src="images/spacer.gif" width="1" height="89" border="0"></td>
+          </tr>
+          <tr>
+            <td><script src="scripts/shoppingspree.js?r=' + Math.ceil(Math.random() * 999999) + '" language="Javascript"></script></td>
+           <td><img src="images/spacer.gif" width="1" height="18" border="0"></td>
+          </tr>
+        </table>
+     </td>
+     
+     <td align="center">
+        <table border="0" cellpadding="0" cellspacing="0" width="125">
+          <tr>
+           <td><img src="images/spacer.gif" width="125" height="1" border="0"></td>
+           <td><img src="images/spacer.gif" width="1" height="1" border="0"></td>
+          </tr>           
+          <tr>
+            <td><a href="http://banner.windowscasino.com/cgi-bin/redir.cgi?casinoguidegr" target="_blank"><img src="images/Iris_3000_125x89_Dark.gif" width="125" height="90" border="0"></a></td>
+           <td><img src="images/spacer.gif" width="1" height="90" border="0"></td>
+          </tr>
+          <tr>
+           <td><script src="scripts/iris.js?r=' + Math.ceil(Math.random() * 999999) + '" language="Javascript"></script></td>
+           <td><img src="images/spacer.gif" width="1" height="18" border="0"></td>
+          </tr>
+        </table>
+      </td>
+        
+	  <td align="center">
+    	<table border="0" cellpadding="0" cellspacing="0" width="125">
+          <tr>
+           <td><img src="images/spacer.gif" width="125" height="1" border="0"></td>
+           <td><img src="images/spacer.gif" width="1" height="1" border="0"></td>
+          </tr>
+          <tr>
+            <td><a href="http://banner.windowscasino.com/cgi-bin/redir.cgi?casinoguidegr" target="_blank"><img src="images/Good_to_be_Bad_125x89_Dark.gif" width="125" height="89" border="0"></a></td>
+           <td><img src="images/spacer.gif" width="1" height="89" border="0"></td>
+          </tr>
+          <tr>
+            <td><script src="scripts/g2bbad.js?r=' + Math.ceil(Math.random() * 999999) + '" language="Javascript"></script></td>
+           <td><img src="images/spacer.gif" width="1" height="18" border="0"></td>
+          </tr>
+        </table>
+      </td>
+      
+      <td align="center">
+    	<table border="0" cellpadding="0" cellspacing="0" width="125">
+          <tr>
+           <td><img src="images/spacer.gif" width="125" height="1" border="0"></td>
+           <td><img src="images/spacer.gif" width="1" height="1" border="0"></td>
+          </tr>
+          <tr>
+            <td><a href="http://banner.windowscasino.com/cgi-bin/redir.cgi?casinoguidegr" target="_blank"><img src="images/Caribbean_Holdem_125x89_Dark.gif" width="125" height="89" border="0"></a></td>
+           <td><img src="images/spacer.gif" width="1" height="89" border="0"></td>
+          </tr>
+          <tr>
+            <td><script src="scripts/cstud.js?r=' + Math.ceil(Math.random() * 999999) + '" language="Javascript"></script></td>
+           <td><img src="images/spacer.gif" width="1" height="18" border="0"></td>
+          </tr>
+        </table>
+      </td>
+   </tr>
+</table>
+      </td>
+      <td bgcolor="#6699CC" rowspan="2" valign="middle">
+      	  <table border="0" cellspacing="0" cellpadding="0" width="200">
+	<tr>
+    	<td height="600" valign="middle" align="center">
+        <div id="f2"><a href="http://www.adobe.com/shockwave/download/index.cgi?P1_Prod_Version=ShockwaveFlash" title="Get Flash Player Plugin" target="_blank"><img src="images/flash logo.jpg" alt="Get Flash Player Plugin" border="0"/></a></div>
+			<script type="text/javascript">
+            	// <![CDATA[
+                var so2 = new SWFObject("images/120x600/vegasred120x600.swf?clickTAG=http://online.vegasred.com/promoRedirect?key=em9uZUlkPTE0Mjk5NTg2JmxhbmRpbmdQYWdlSWQ9MTM1MTAwODgmcHJvZmlsZUlkPTcwMDg5", "sidebanner", "120", "600", "9", "");
+                so2.addParam("quality", "high");
+                so2.addParam("loop", "true");
+                so2.addParam("menu", "false");
+                so2.write("f2");
+                // ]]>
+            </script>
+        </td>
+   </tr>
+</table>          
+      </td>
+   </tr>
+   <tr>
+      <td class="sidebarText" height="172" bgcolor="#336699" width="210" valign="bottom" align="center"><!--<img src="images/santa.gif" /><br />--><script type="text/javascript">dateEN();</script>
+         <script type="text/javascript" src="scripts/liveclock.js"></script></td>
+      <td bgcolor="#99CCFF" width="1"><img src="images/spacer.gif" alt="" width="1" height="1" border="0" /></td>
+      <td bgcolor="#336699" width="40"><img src="images/spacer.gif" alt="" width="40" height="1" border="0" /></td>
+   </tr>
+   <tr>
+      <td colspan="5" bgcolor="#99CCFF"><img src="images/spacer.gif" alt="" width="1" height="1" border="0" /></td>
+   </tr>
+   <tr>
+      <td colspan="5"><img src="images/spacer.gif" alt="" width="1" height="2" border="0" /></td>
+   </tr>
+   <tr>
+      <td colspan="5" bgcolor="#99CCFF"><img src="images/spacer.gif" alt="" width="1" height="2" border="0" /></td>
+   </tr>
+</table>
+<br />
+<table cellpadding="0" cellspacing="0" border="0" width="100%">
+	<tr>
+    	<td height="50" align="right"  width="45%" style="padding-right:10px;"><img src="images/nounderage.gif" border="0" alt="No under 18"/></td>
+        <td align="left" width="55%" style="color:#ffcc66; font-family:Verdana, Arial, Helvetica, sans-serif; font-size:11px; vertical-align:middle; padding-left:10px; line-height:50px">
+        	<a href="http://www.spartan-software.gr" target="_blank"><img src="images/logo_small.jpg" border="0" alt="Spartan Software" title="Custom Software, Smartphone Applications Development & Web Design" style="vertical-align:middle"/></a> &copy; 2007 - 2018        </td>
+    </tr>
+</table>
+</body>
+</html>
+
+
+WARC/1.0
+WARC-Type: response
+WARC-Record-ID: <http://www.thecasinoguide.eu>
+WARC-Date: 20180530181832
+WARC-Target-URI: http://www.thecasinoguide.eu
+WARC-Language: en
+Content-Type: application/http;msgtype=response
+Content-Length: 15984
+
+HTTP/1.1 200
+Content-Type:text/html; charset=UTF-8
+
+
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>thecasinoguide.eu - The ultimate virtual casino guide</title>
+<meta name="keywords" content="casino, poker, casino guide, virtual casino, casino list, casino catalogue, casino reviews and ratings, all casinos, poker rooms, blackjack, craps, slots, baccarat, internet poker" />
+<meta name="description" content="Complete guide to the most famous online casinos with reviews and ratings. Visit the best casinos and poker rooms on the net. Free games, poker tournament schedules" />
+<meta name="google-site-verification" content="-SPtquYex2M2Gx-tLQx31jIn-ks-n_SOVZh_r0kQ57Y" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="y_key" content="f3b8143c3b73f0e3" />
+<meta name="msvalidate.01" content="D339C73D2C918F3B046D21727F68CF8B" />
+<script type="text/javascript" src="scripts/script.js"></script>
+<script type="text/javascript" src="scripts/swfobject.js"></script>
+<link rel="stylesheet" href="style.css" type="text/css" />
+<link rel="shortcut icon" href="favicon.ico" type="image/x-icon"/>
+</head>
+<body onload="show_clock()">
+<!--  google analytics -->
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-11642922-8");
+pageTracker._trackPageview();
+} catch(err) {}
+</script><table width="100%" border="0" cellspacing="0" cellpadding="0">
+   <tr>
+      <td colspan="5" nowrap="nowrap" align="left" valign="top"><table border="0" cellspacing="0" cellpadding="0" width="100%">
+            <tr>
+               <td width="600" height="140"><div id="f1"><a href="http://www.adobe.com/shockwave/download/index.cgi?P1_Prod_Version=ShockwaveFlash" title="Get Flash Player Plugin" target="_blank"><img src="images/flash logo.jpg" alt="Get Flash Player Plugin"/></a></div>
+                  <script type="text/javascript">
+		// <![CDATA[
+		var so = new SWFObject("banner.swf", "titlebanner", "600", "140", "9", "");
+		so.addParam("quality", "high");
+		so.addParam("loop", "true");
+		so.addParam("menu", "false");
+		so.useExpressInstall('expressinstall.swf');
+		so.write("f1");
+		// ]]>
+	</script>
+               </td>
+               <td><table border="0" cellspacing="0" cellpadding="0">
+                     <tr>
+                        <td height="60">&nbsp;</td>
+                     </tr>
+                     <tr>
+                        <td height="40">&nbsp;</td>
+                     </tr>
+                     <tr>
+                        <td class="title">The ultimate virtual casino guide&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://www.casinoguide.gr" title="Greek version" target="_blank" style="vertical-align:middle"><img src="images/greek.jpg" border="0" alt="Greek version"/></a></td>
+                     </tr>
+                  </table></td>
+            </tr>
+         </table></td>
+   </tr>
+   <tr>
+      <td colspan="5" bgcolor="#99CCFF"><img src="images/spacer.gif" alt="" width="1" height="2" border="0" /></td>
+   </tr>
+   <tr>
+      <td colspan="5"><img src="images/spacer.gif" alt="" width="1" height="2" border="0" /></td>
+   </tr>
+   <tr>
+      <td colspan="5" bgcolor="#99CCFF"><img src="images/spacer.gif" alt="" width="1" height="1" border="0" /></td>
+   </tr>
+   <tr>
+      <td bgcolor="#336699" width="210" valign="top" height="370">
+   		<div class="menuHeader" style="margin-top:20px;"><img src="images/cup.jpg" />&nbsp;&nbsp;&nbsp;General</div>
+        <ul id="menu">
+        	<li style="height: 26px"><a href="index.php?page=home" class="singleRowMI">Home<span></span></a></li>
+			<li style="height: 26px"><a href="index.php?page=criteria" class="singleRowMI">Evaluation Criteria<span></span></a></li>
+            <li style="height: 35px"><a href="epaysyspres.php?page=epaysys1" class="doubleRowMI">Electronic Payment Systems<span></span></a></li>
+            <li style="height: 26px"><a href="index.php?page=links" class="singleRowMI">Links<span></span></a></li>
+            <li style="height: 26px"><a href="index.php?page=contact" class="singleRowMI">Contact Us<span></span></a></li>
+        </ul>
+        <div class="menuHeader"><img src="images/spade.jpg" />&nbsp;&nbsp;&nbsp;Casino</div>
+        <ul id="menu">
+        	<li style="height: 35px"><a href="list_all.php?page=p1" class="doubleRowMI">Virtual Casino Catalogue (Aphabetical Order)<span></span></a></li>
+			<li style="height: 35px"><a href="lista_z.php?page=az1" class="doubleRowMI">Virtual Casino Reviews (Alphabetical Order)<span></span></a></li>
+            <li style="height: 35px"><a href="list_rat.php?page=rat1" class="doubleRowMI">Virtual Casino Reviews (Order By Star Rating)<span></span></a></li>
+        </ul>
+        <div class="menuHeader"><img src="images/square.jpg" />&nbsp;&nbsp;&nbsp;Poker</div>
+        <ul id="menu">
+        	<li style="height: 26px"><a href="pokertables.php?page=poker1" class="singleRowMI">Poker Tables (Α-Ζ)<span></span></a></li>
+			<li style="height: 26px"><a href="tournaments1.php" class="singleRowMI">Poker Tournaments<span></span></a></li>
+        </ul>
+        <div class="menuHeader"><img src="images/spathi.jpg" />&nbsp;&nbsp;&nbsp;Fun Stuff</div>
+        <ul id="menu">
+        	<li style="height: 26px"><a href="index.php?page=gameslist" class="singleRowMI">Free Games<span></span></a></li>
+            <li>&nbsp;</li>
+        </ul>
+      </td>
+      <td width="1" bgcolor="#99CCFF"><img src="images/spacer.gif" alt="" width="1" height="1" border="0" /></td>
+      <td bgcolor="#336699" width="40"><img src="images/spacer.gif" alt="" width="40" height="1" border="0" /></td>
+      <td bgcolor="#336699" valign="top" width="660" rowspan="2"><img src="images/spacer.gif" alt="" width="660" height="1" border="0" /><br />
+         <table border="0" cellspacing="0" cellpadding="0" width="620">
+   <tr>
+      <td width="620" height="60" class="pageName" colspan="4">Welcome to <b>thecasinoguide.eu</b></td>
+   </tr>
+   <tr>
+      <td class="bodyText" id="link16px" colspan="4">We welcome you to the most up-to-date catalogue of virtual casinos. This is a complete guide with reviews of the most famous virtual casinos and a rating system evaluating the quality of services they provide their customers. For the fans of poker, in the present guide you will also find an up to date list with the best poker rooms on the net. Feel free to browse through the catalogue and find the virtual casino or poker room that best suits your taste. <br />
+         We hope you find this guide useful and we wish you to have fun, lots of winnings and to enjoy the game.<br />
+         <br />
+         The editing team of <a href="http://www.thecasinoguide.eu" target="_self"><b><i>thecasinoguide.eu</i></b></a></td>
+   </tr>
+   <tr>
+      <td height="10" valign="middle" colspan="4"></td>
+   </tr>
+   <tr>
+      <td height="1" bgcolor="#6699CC" colspan="4"><img src="images/spacer.gif" alt="" width="1" height="1" border="0" /></td>
+   </tr>
+   <tr>
+      <td height="10" valign="middle" colspan="4"></td>
+   </tr>
+   <tr>
+      <td class="numbering" colspan="4">News (January promotions):</td>
+   </tr>
+   <tr>
+      <td height="10" valign="middle" colspan="4"></td>
+   </tr>
+   <tr>
+      <td class="bodyText" colspan="4" id="link16px">
+              <ol id="link16px">
+                 <li><a href="http://affiliatesys.interwetten.com/redirect.aspx?pid=2635&bid=5338" target="_blank"><b>Interwetten casino</b></a> offers a series of bonuses to new players, up to 200&euro;!</li>
+                 <li><a href="http://gnuf.com" onclick="this.href='http://gnuf.com/partner?track=5769b85c1b6d55802258f650b1a2f417&asset_id=65'" target="_blank"><b>GNUF Casino</b></a> offers a 100% first deposit bonus up to 1000$!</li>
+                 <li><a href="http://banner.windowscasino.com/cgi-bin/redir.cgi?casinoguidegr" target="_blank"><b>Windows Casino</b></a> offers a first deposit bonus of 250&euro;/$ to new players!</li>
+                 <li><a href="http://media.expekt.com/affiliates/redirect.aspx?pid=39414&bid=6845" target="_blank"><b>Expekt Casino</b></a> offers a 100% welcome bonus up to 200&euro; to all new players</li>
+                 <li><a href="http://partner.sbaffiliates.com/processing/clickthrgh.asp?btag=a_13750b_678" target="_blank"><b>Paradise Casino</b></a> offers a 200&euro;/&pound; welcome bonus</li>
+                 <li><a href="http://record.affiliatelounge.com/_Rh8SZSLSSdPeD2ODgvck4mNd7ZgqdRLk/1" target="_blank"><b>Betsson Poker</b></a> offers up 100% deposit bonus up to 1000&euro; or 1600$ </li>
+                 <li><a href="http://www.platinumplay.eu/btag-ad249683/" target="_blank"><b>Platinum Play Casino</b></a> offers a 200&euro;/$ registration bonus to new players</li>
+              </ol>
+       </td>
+   </tr>
+   <tr>
+      <td height="10" valign="middle" colspan="4"></td>
+   </tr>
+   <tr>
+      <td height="1" bgcolor="#6699CC" colspan="4"><img src="images/spacer.gif" alt="" width="1" height="1" border="0" /></td>
+   </tr>
+   <tr>
+      <td height="10" valign="middle" colspan="4"></td>
+   </tr>
+  
+   <tr>
+      <td class="bodyText" colspan="4"></td>
+   </tr>
+   <tr>
+      <td height="20" valign="middle" colspan="4"></td>
+   </tr>
+   
+   <tr>
+      <td align="center">
+        <table border="0" cellpadding="0" cellspacing="0" width="125">
+          <tr>
+           <td><img src="images/spacer.gif" width="125" height="1" border="0"></td>
+           <td><img src="images/spacer.gif" width="1" height="1" border="0"></td>
+          </tr>
+                                 
+          <tr>
+            <td><a href="http://banner.windowscasino.com/cgi-bin/redir.cgi?casinoguidegr" target="_blank"><img src="images/Shopping_Spree_125x89_Dark.gif" width="125" height="89" border="0"></a></td>
+           <td><img src="images/spacer.gif" width="1" height="89" border="0"></td>
+          </tr>
+          <tr>
+            <td><script src="scripts/shoppingspree.js?r=' + Math.ceil(Math.random() * 999999) + '" language="Javascript"></script></td>
+           <td><img src="images/spacer.gif" width="1" height="18" border="0"></td>
+          </tr>
+        </table>
+     </td>
+     
+     <td align="center">
+        <table border="0" cellpadding="0" cellspacing="0" width="125">
+          <tr>
+           <td><img src="images/spacer.gif" width="125" height="1" border="0"></td>
+           <td><img src="images/spacer.gif" width="1" height="1" border="0"></td>
+          </tr>           
+          <tr>
+            <td><a href="http://banner.windowscasino.com/cgi-bin/redir.cgi?casinoguidegr" target="_blank"><img src="images/Iris_3000_125x89_Dark.gif" width="125" height="90" border="0"></a></td>
+           <td><img src="images/spacer.gif" width="1" height="90" border="0"></td>
+          </tr>
+          <tr>
+           <td><script src="scripts/iris.js?r=' + Math.ceil(Math.random() * 999999) + '" language="Javascript"></script></td>
+           <td><img src="images/spacer.gif" width="1" height="18" border="0"></td>
+          </tr>
+        </table>
+      </td>
+        
+	  <td align="center">
+    	<table border="0" cellpadding="0" cellspacing="0" width="125">
+          <tr>
+           <td><img src="images/spacer.gif" width="125" height="1" border="0"></td>
+           <td><img src="images/spacer.gif" width="1" height="1" border="0"></td>
+          </tr>
+          <tr>
+            <td><a href="http://banner.windowscasino.com/cgi-bin/redir.cgi?casinoguidegr" target="_blank"><img src="images/Good_to_be_Bad_125x89_Dark.gif" width="125" height="89" border="0"></a></td>
+           <td><img src="images/spacer.gif" width="1" height="89" border="0"></td>
+          </tr>
+          <tr>
+            <td><script src="scripts/g2bbad.js?r=' + Math.ceil(Math.random() * 999999) + '" language="Javascript"></script></td>
+           <td><img src="images/spacer.gif" width="1" height="18" border="0"></td>
+          </tr>
+        </table>
+      </td>
+      
+      <td align="center">
+    	<table border="0" cellpadding="0" cellspacing="0" width="125">
+          <tr>
+           <td><img src="images/spacer.gif" width="125" height="1" border="0"></td>
+           <td><img src="images/spacer.gif" width="1" height="1" border="0"></td>
+          </tr>
+          <tr>
+            <td><a href="http://banner.windowscasino.com/cgi-bin/redir.cgi?casinoguidegr" target="_blank"><img src="images/Caribbean_Holdem_125x89_Dark.gif" width="125" height="89" border="0"></a></td>
+           <td><img src="images/spacer.gif" width="1" height="89" border="0"></td>
+          </tr>
+          <tr>
+            <td><script src="scripts/cstud.js?r=' + Math.ceil(Math.random() * 999999) + '" language="Javascript"></script></td>
+           <td><img src="images/spacer.gif" width="1" height="18" border="0"></td>
+          </tr>
+        </table>
+      </td>
+   </tr>
+</table>
+      </td>
+      <td bgcolor="#6699CC" rowspan="2" valign="middle">
+      	  <table border="0" cellspacing="0" cellpadding="0" width="200">
+	<tr>
+    	<td height="600" valign="middle" align="center">
+        <div id="f2"><a href="http://www.adobe.com/shockwave/download/index.cgi?P1_Prod_Version=ShockwaveFlash" title="Get Flash Player Plugin" target="_blank"><img src="images/flash logo.jpg" alt="Get Flash Player Plugin" border="0"/></a></div>
+			<script type="text/javascript">
+            	// <![CDATA[
+                var so2 = new SWFObject("images/120x600/vegasred120x600.swf?clickTAG=http://online.vegasred.com/promoRedirect?key=em9uZUlkPTE0Mjk5NTg2JmxhbmRpbmdQYWdlSWQ9MTM1MTAwODgmcHJvZmlsZUlkPTcwMDg5", "sidebanner", "120", "600", "9", "");
+                so2.addParam("quality", "high");
+                so2.addParam("loop", "true");
+                so2.addParam("menu", "false");
+                so2.write("f2");
+                // ]]>
+            </script>
+        </td>
+   </tr>
+</table>          
+      </td>
+   </tr>
+   <tr>
+      <td class="sidebarText" height="172" bgcolor="#336699" width="210" valign="bottom" align="center"><!--<img src="images/santa.gif" /><br />--><script type="text/javascript">dateEN();</script>
+         <script type="text/javascript" src="scripts/liveclock.js"></script></td>
+      <td bgcolor="#99CCFF" width="1"><img src="images/spacer.gif" alt="" width="1" height="1" border="0" /></td>
+      <td bgcolor="#336699" width="40"><img src="images/spacer.gif" alt="" width="40" height="1" border="0" /></td>
+   </tr>
+   <tr>
+      <td colspan="5" bgcolor="#99CCFF"><img src="images/spacer.gif" alt="" width="1" height="1" border="0" /></td>
+   </tr>
+   <tr>
+      <td colspan="5"><img src="images/spacer.gif" alt="" width="1" height="2" border="0" /></td>
+   </tr>
+   <tr>
+      <td colspan="5" bgcolor="#99CCFF"><img src="images/spacer.gif" alt="" width="1" height="2" border="0" /></td>
+   </tr>
+</table>
+<br />
+<table cellpadding="0" cellspacing="0" border="0" width="100%">
+	<tr>
+    	<td height="50" align="right"  width="45%" style="padding-right:10px;"><img src="images/nounderage.gif" border="0" alt="No under 18"/></td>
+        <td align="left" width="55%" style="color:#ffcc66; font-family:Verdana, Arial, Helvetica, sans-serif; font-size:11px; vertical-align:middle; padding-left:10px; line-height:50px">
+        	<a href="http://www.spartan-software.gr" target="_blank"><img src="images/logo_small.jpg" border="0" alt="Spartan Software" title="Custom Software, Smartphone Applications Development & Web Design" style="vertical-align:middle"/></a> &copy; 2007 - 2018        </td>
+    </tr>
+</table>
+</body>
+</html>
+
+

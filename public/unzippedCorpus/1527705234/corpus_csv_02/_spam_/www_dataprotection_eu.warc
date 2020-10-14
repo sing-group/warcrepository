@@ -1,0 +1,610 @@
+WARC/1.0
+WARC-Type: warcinfo
+WARC-Date: 2018-05-30T18:18:32Z
+WARC-All-Language: hu
+WARC-All-Content_type: text/html; charset=UTF-8
+WARC-Record-ID: <urn:uuid:9bcbba30-4358-420d-b1bf-6648cb8dfe44>
+Content-Type: application/http;msgtype=response
+Content-Length: 46
+
+WARCProcessor by SING Group www.sing-group.com
+
+WARC/1.0
+WARC-Type: response
+WARC-Target-URI: http://www.dataprotection.eu
+WARC-Date: 20180530181832
+WARC-Language: hu
+WARC-Record-ID: <http://www.dataprotection.eu>
+Content-Type: application/http;msgtype=response
+Content-Length: 64218
+
+HTTP/1.1 200
+Content-Type:text/html; charset=UTF-8
+
+
+<!doctype html>
+<html lang="hu">
+
+	<head>
+		<meta charset="utf-8" />
+<title>Adatvédelem, GDPR - Dataprotection.eu Kft.</title>
+
+<meta name="keywords" content="adatvédelem, adatvédelmi audit, adatvédelmi felelős, data protection, GDPR" />
+<meta name="description" content="A Dataprotection.eu Kft. Dr. Jóri András volt adatvédelmi ombudsman és Dr. Soós Andrea ügyvéd tanácsadó cége, amely adatvédelmi tanácsadással és adatvédelmi audittal foglalkozik Magyarországon és egész Európában" />
+<meta http-equiv="content-language" content="hu" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+
+	<link rel="icon" href="https://www.hosteurope.de/favicon.ico" type="image/x-icon" />
+	<link rel="SHORTCUT ICON" href="https://www.hosteurope.de/favicon.ico?v=1527704087" type="image/x-icon" />
+
+<!--[if IE]>
+	<script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+<![endif]-->
+		
+	<meta property="og:url" content="http://www.dataprotection.eu/">
+	<meta property="og:title" content="Társaságunkról">
+	<meta property="og:description" content="A Dataprotection.eu Kft. Dr. Jóri András volt adatvédelmi ombudsman és Dr. Soós Andrea ügyvéd tanácsadó cége, amely adatvédelmi tanácsadással és adatvédelmi audittal foglalkozik Magyarországon és egész Európában">
+	<meta property="og:site_name" content="Dataprotection.eu Kft - a hiteles adatvédelmi partner">
+
+<meta name="generator" content="BaseKit">
+
+
+    <link rel="canonical" href="http://www.dataprotection.eu">
+
+
+            <link rel="stylesheet" href="//files.webbuilder.hosteurope.de/65/d6/65d621f2-c69e-4293-9965-59390570c5b6.css" class="js-initial-stylesheet">
+    
+<link rel="stylesheet" href="//55b558c7-resources.webbuilder.hosteurope.de/84b009373c/compiled/photo-swipe.css">
+
+
+
+
+    
+            <style
+            class="js-webfont"
+            data-woff-cache="//55b558c7-resources.webbuilder.hosteurope.de/84b009373c/seven/fonts/open_sans.woff.json"
+            data-ttf-cache="//55b558c7-resources.webbuilder.hosteurope.de/84b009373c/seven/fonts/open_sans.ttf.json"
+            data-fallback-stylesheet="https://fonts.googleapis.com/css?family=Open+Sans&amp;subset=latin,latin-ext"
+            data-name="open_sans"
+        ></style>
+    <script nonce="">
+(function () {
+    var fontCollections,
+        fontsToCache,
+        fallback = 1;
+
+    function loadFontsAsynchronously() {
+        if (!fallback) {
+            return;
+        }
+
+        for (var i = 0, j = fontCollections.length; i < j; ++i) {
+            var link = document.createElement('link'),
+                head = document.getElementsByTagName('head')[0];
+            link.rel = 'stylesheet';
+            link.href = fontCollections[i].getAttribute('data-fallback-stylesheet');
+            head.appendChild(link);
+        }
+    }
+
+    function loadFontsFromStorage() {
+        var localKey = 'published',
+            format,
+            collection,
+            cachedFont;
+
+        if (!window.localStorage) {
+            return;
+        }
+
+        format = window.localStorage.getItem('bk.webfonts.format')
+        if (!format) {
+            return;
+        }
+
+        for (var i = 0, j = fontCollections.length; i < j; ++i) {
+            collection = fontCollections[i];
+            cacheKey = 'bk.webfonts.' + localKey + '.' + format + '.' + collection.getAttribute('data-name');
+            cachedFont = window.localStorage.getItem(cacheKey);
+            if (!cachedFont) {
+                continue;
+            }
+            collection.innerHTML = cachedFont;
+            collection.setAttribute('data-cache-full', 'data-cache-full');
+        }
+    }
+
+    if (!'querySelectorAll' in window) {
+        return;
+    }
+
+    fontCollections = document.head.querySelectorAll('.js-webfont');
+    if (!'localStorage' in window || !'addEventListener' in window) {
+        loadFontsAsynchronously();
+        return;
+    }
+
+    loadFontsFromStorage();
+}());
+</script>
+
+
+
+	</head>
+
+	<body class=" swatch-1">
+
+		
+	<header class="template-header">
+		<div class="header-main container">
+	<div class="wrapper">
+			
+			<div id="page-zones__template-widgets__companyname-companyname" class="widget companyname " data-widget-type="companyname" data-uniqueid="page-zones__template-widgets__companyname-companyname">
+                                                                      
+<a href="/">
+    Dataprotection.eu Kft - a hiteles adatvédelmi partner
+</a>
+</div>
+
+
+			
+	</div>
+</div>		<div class="header-feature">
+			<div class="container">
+				<div id="page-zones__template-widgets__feature-featurewidget" class="widget feature " data-widget-type="feature" data-uniqueid="page-zones__template-widgets__feature-featurewidget">
+      
+<div class="feature-bgimg"  style="background-image: url('//55b558c7-resources.webbuilder.hosteurope.de/84b009373c/templates/specify/images/feature-bg.jpg'); background-position: center %" >
+
+	</div>
+
+<!-- this is for getting the background image naturalWidth and naturalHeight -->
+<img src="//55b558c7-resources.webbuilder.hosteurope.de/84b009373c/templates/specify/images/feature-bg.jpg" style="display:none;" class="js-image" alt="feature image"/>
+</div>
+
+
+			</div>
+		</div>
+	</header>
+
+	<div class="container page-wrap">
+
+		<section class="section main home-page">
+			<section
+    id="page-zones__main"
+    class="bk-zone column "
+    data-uniqueid="9lHDZTp7wvzFyaM"
+    data-parentuniqueid=""
+>            <div
+    id="page-zones__main-widgets__text1"
+    class="widget content"
+    data-uniqueid="7PewBIFvyf6lbpF"
+    data-parentuniqueid="9lHDZTp7wvzFyaM"
+>
+        <div class="bk-content-text js-text-content wysihtml-editor-content">
+                <p><span style="color: rgb(229, 224, 236);"></span>
+</p>
+<p><strong></strong>
+</p>
+<p style="text-align: justify;"><span style="color: rgb(0, 0, 0);"><span style="font-size: 20px;">A <span style="color: rgb(84, 141, 212);">dataprotection.eu Kft</span> <strong>Dr. Jóri András</strong>&nbsp;ügyvéd,&nbsp;volt adatvédelmi ombudsman&nbsp;és <strong>Dr. Soós Andrea</strong> ügyvéd&nbsp;cége, amely adatvédelmi oktatással és kutatással foglalkozik Magyarországon és egész Európában.&nbsp;Célunk, hogy<strong></strong> az adatvédelem területén <strong>teljeskörű szolgáltatást</strong>&nbsp;biztosítsunk&nbsp;ügyfeleink részére (képzés, adatvédelmi audit, adatvédelmi felelősi tevékenység, ügyvédi irodáinkkal együttműködve GDPR- és általában&nbsp;<a href="/gdprtanacsadas" target="_self">jogi tanácsadás</a>,&nbsp;hatósági előtti és peres képviselet), és mindezt a legmagasabb színvonalon tegyük.</span>&nbsp;&nbsp;</span>
+</p>
+<p style="text-align: justify;"><span style="color: rgb(0, 0, 0);"><br></span>
+</p>
+<p style="text-align: justify;"><span style="color: rgb(0, 0, 0);"><span style="font-size: 20px;">Mi nem a GDPR megjelenésével kezdtünk el adatvédelmi joggal foglalkozni:&nbsp;<a href="/cv" target="_self">20 éves gyakorlat</a>&nbsp;áll a hátunk mögött tanácsadóként és a legfelsőbb szintű jogalkalmazóként, Magyarországon és az EU-ban.&nbsp;</span><span style="font-size: 18px;"><span style="color: rgb(0, 0, 0);"><span style="font-size: 20px;">Mi képviseltük a felperest a tudomásunk szerint egyetlen olyan&nbsp;<a href="https://index.hu/belfold/2017/06/12/kiss_laszlo_budapest_fovaros_leveltara_informacioszabadsag_kenyeres_istvan_birosag_naih/" target="_blank">ügyben</a>, amelyben a Fővárosi és Közigazgatási és Munkaügyi Bíróság új eljárásra utasítás nélkül megsemmisítette a Nemzeti Adatvédelmi és Információszabadság Hatóság határozatát (eljárási ügyek: Dr. Soós Andrea Klára, adatvédelmi anyagi jog: Dr. Jóri András).&nbsp;</span></span></span></span>
+</p>
+<p style="text-align: justify;"><span style="color: rgb(0, 0, 0);"><span style="font-size: 18px;"><span style="color: rgb(0, 0, 0);"><span style="font-size: 20px;"><br></span></span></span></span>
+</p>
+<p style="text-align: justify;"><span style="color: rgb(0, 0, 0);"><span style="font-size: 20px;"><span style="color: rgb(0, 0, 0);"><a href="https://vm.mtmt.hu//search/slist.php?nwi=1&amp;inited=1&amp;ty_on=1&amp;url_on=1&amp;cite_type=2&amp;orderby=3D1a&amp;location=mtmt&amp;stn=1&amp;AuthorID=10017654" target="_blank">Tudományos tevékenységünk</a>&nbsp;a hazai adatvédelmi jogi&nbsp;irodalom&nbsp;élvonalában van, és Európában is jegyzett.&nbsp;</span>Érdeklik&nbsp;az adatvédelmi jog&nbsp;és a GDPR, az új adatvédelmi rendelet új szabályai? <strong>Vásárolja meg&nbsp;</strong></span><span style="font-size: 20px;"><a href="http://hvgorac.hu/A_GDPR_magyarazata" target="_blank">könyvünket</a>&nbsp;a kiadó oldalán!</span></span>
+</p>
+<p style="text-align: justify;"><span style="color: rgb(0, 0, 0);"><span style="font-size: 20px;"><br></span></span>
+</p><span style="color: rgb(0, 0, 0);"></span>
+<p><span style="color: rgb(0, 0, 0);"><span style="color: rgb(38, 38, 38);"><strong><span style="font-size: 20px;"><a href="/konferenciáink-archív" target="_self"><span style="font-size: 18px;">Konferenciáink</span></a>, vagy adatvédelmi audit, tanácsadás, képzés</span></strong><span style="font-size: 20px;"> iránt érdeklődik? Látogassa meg honlapunk e szolgáltatásainkat ismertető oldalait, és vegye fel velünk a kapcsolatot.
+	</span></span>
+	</span>
+</p>
+<p><span style="color: rgb(0, 0, 0);"><span style="color: rgb(38, 38, 38);"><span style="font-size: 20px;"><br></span></span></span>
+</p>
+<p><span style="color: rgb(0, 0, 0);"><span style="font-size: 20px;"><span style="color: rgb(0, 0, 0);">Rendszeres szakmai találkozókon venne részt, ahol bővítheti szakmai ismereteit és kapcsolatait? Érdeklődjön <strong>adatvédelmi klubunkról</strong>!</span>
+	</span>
+	</span>
+</p>
+<p><span style="color: rgb(0, 0, 0);"><span style="font-size: 20px;"><span style="color: rgb(0, 0, 0);">További információkért keresse fel <a href="https://hu.linkedin.com/in/andrasjori" target="_blank">LinkedIn</a> vagy <a href="https://www.facebook.com/dataprotectioneu" target="_blank">Facebook</a> profilunkat, kérjen ajánlatot az&nbsp;alábbi űrlapon, vagy hívjon telefonon a lenti számon. Adatai megadása előtt olvassa el figyelmesen <a href="/adatkezelesi" target="_self">adatkezelési tájékoztatónkat</a>.</span>
+	</span>
+	</span>
+</p>
+<p><span style="color: rgb(0, 0, 0);"><span style="font-size: 20px;"><span style="color: rgb(0, 0, 0);"><br></span></span></span>
+</p>
+<p><span style="color: rgb(0, 0, 0);"><span style="font-size: 20px;"><span style="color: rgb(0, 0, 0);">A GDPR iránti fokozott érdeklődésre tekintettel fontos megjegyezni, hogy társaságunk szolgáltatásait elsősorban nagyvállalatoknak és az&nbsp;adatvédelmi jognak/GDPR-nak fokozottan kitett középvállalatoknak nyújtja, illetve alapítóink ügyvédként adatkezelőket képviselnek adatvédelmi perekben. Magánszemélyek és kisvállalatok képviseletével&nbsp;általában&nbsp;nem foglalkozunk; ha ebbe a körbe tartozik, megfelelő kollega ajánlásával igyekszünk segíteni.&nbsp;</span></span></span>
+</p>
+<p><span style="color: rgb(0, 0, 0);"><span style="font-size: 20px;"><span style="color: rgb(0, 0, 0);"><br></span></span></span>
+</p><span style="color: rgb(38, 38, 38);"><span style="font-size: 20px;"><span style="color: rgb(84, 141, 212);">dataprotection.eu Ltd.&nbsp;<span style="font-family: Arial, Helvetica, Verdana, Tahoma, sans-serif; background-color: rgb(255, 255, 255);">is a&nbsp;firm founded by Dr András Jóri, former Data Protection Commissioner of Hungary, attorney and&nbsp;Andrea Soós, attorney at law.&nbsp;For more information, please visit our&nbsp;</span><a href="https://hu.linkedin.com/in/andrasjori" target="_blank">LinkedIn</a><span style="font-family: Arial, Helvetica, Verdana, Tahoma, sans-serif; background-color: rgb(255, 255, 255);">&nbsp;or&nbsp;</span><a href="https://www.facebook.com/dataprotectioneu" target="_blank">Facebook</a></span></span></span><span style="font-family: Arial, Helvetica, Verdana, Tahoma, sans-serif; font-size: 20px; background-color: rgb(255, 255, 255);"><span style="color: rgb(38, 38, 38);"><span style="font-size: 20px;"><span style="color: rgb(84, 141, 212);">&nbsp;profile. You can also write us a mail&nbsp;or call us directly. Before providing any personal data, please read our <a href="/adatkezelesi" target="_self">Privacy Policy</a>.</span></span></span></span>
+                </div>
+
+                
+</div>
+                <div
+    id="page-zones__main-widgets__contactform"
+    class="widget contactform"
+    data-uniqueid="YpfAGe1igIFQEqm"
+    data-parentuniqueid="9lHDZTp7wvzFyaM"
+>
+    
+
+<form action="" method="post" class="js-form">
+	<fieldset>
+		<div class="form-group">
+			<label for="contactform-email">Your email:</label>
+			<input type="email" class="email js-email-input" placeholder="name@email.com" name="contactform-email" id="contactform-email">
+		</div>
+		<div class="form-group">
+			<label for="contactform-message">Message:</label>
+			<textarea class="message js-message-input" name="contactform-message" id="contactform-message"></textarea>
+        </div>
+
+		<div class="form-group js-recaptcha"></div>
+
+        <div class="form-group">
+        	<button class="btn btnText js-button  " type="submit" >Send/Üzenet küldése</button>
+        </div>
+	</fieldset>
+</form>
+</div>
+                <div
+    id="page-zones__main-widgets__clicktocall1"
+    class="widget clicktocall"
+    data-uniqueid="ZDU5Or2LhFnlbbX"
+    data-parentuniqueid="9lHDZTp7wvzFyaM"
+>
+    <div class="ctc-wrap">
+<a href="tel:+36 1 700 4190" class="">
+			+36 1 700 4190
+	</a>
+</div>
+</div>
+                <div
+    id="page-zones__main-widgets__linkedinprofile"
+    class="widget linkedinprofile"
+    data-uniqueid="2TazyrUje4ozlNC"
+    data-parentuniqueid="9lHDZTp7wvzFyaM"
+>
+        <div class='linkedinprofile'>
+	<div class="profile-details">
+		<script type="IN/MemberProfile" data-id="http://www.linkedin.com/in/andrasjori" data-related="false" data-width="320" data-format="inline"></script>
+	</div>
+</div>
+</div>
+                <div
+    id="page-zones__main-widgets__responsivecolumns1"
+    class="widget responsivecolumns columns-two-50-50"
+    data-uniqueid="j75ST1etNSdpm5p"
+    data-parentuniqueid="9lHDZTp7wvzFyaM"
+>
+        
+            
+                        <section
+    id="page-zones__main-widgets__responsivecolumns1-zones__column"
+    class="bk-zone column columns-two-left"
+    data-uniqueid="ip1BBzLCgp7C7PC"
+    data-parentuniqueid="j75ST1etNSdpm5p"
+>            <div
+    id="page-zones__main-widgets__responsivecolumns1-zones__column-widgets__linkedinprofile1"
+    class="widget linkedinprofile"
+    data-uniqueid="C31BE065pzBp8jj"
+    data-parentuniqueid="ip1BBzLCgp7C7PC"
+>
+        <div class='linkedinprofile'>
+	<div class="profile-details">
+		<script type="IN/MemberProfile" data-id="http://www.linkedin.com/in/andreaklarasoos" data-related="false" data-width="320" data-format="inline"></script>
+	</div>
+</div>
+</div>
+    </section>
+                <section
+    id="page-zones__main-widgets__responsivecolumns1-zones__column1"
+    class="bk-zone column columns-two-right"
+    data-uniqueid="qhH3LAImrdlZgJi"
+    data-parentuniqueid="j75ST1etNSdpm5p"
+></section>
+             </div>
+    </section>
+
+		</section>
+
+
+			<div class="footer-wrap">
+	<footer class="container template-footer">
+		<div class="row footer-content">
+			<div class="span-6 pages">
+				
+				<div id="page-zones__template-widgets__profile-footercolumn1profilesocialicons" class="widget profile " data-widget-type="profile" data-uniqueid="page-zones__template-widgets__profile-footercolumn1profilesocialicons">
+  
+
+
+
+
+
+
+
+
+
+
+
+    
+
+
+<div class='bk-profile-socialicons'>
+    <!-- linkedIn -->
+        <span class="bk-socialicons-linkedin" >
+      <a href="https://www.linkedin.com/in/andrasjori" target="_blank">Linkedin</a>
+    </span>
+    
+    <!-- Twitter -->
+              
+    <!-- Instagram -->
+              
+    <!-- Pinterest -->
+              
+    <!-- Facebook -->
+        <span class="bk-socialicons-facebook">
+      <a href="http://www.facebook.com/dataprotectioneu" target="_blank">Facebook</a>
+    </span>
+    
+    <!-- Rss -->
+              
+      <!-- Google+ -->
+              
+    <!-- youtube -->
+              
+    
+</div>
+
+</div>
+
+
+			</div>
+			<div class="span-6 contact">
+				
+				
+			</div>
+		</div>
+	</footer>
+</div>
+		</div>
+
+
+		<script type="text/javascript">
+			!function() {
+				function supportsSVG() {
+					return !!document.createElementNS && !! document.createElementNS('http://www.w3.org/2000/svg', 'svg').createSVGRect
+				}
+				if (supportsSVG()) document.documentElement.className += ' svg'
+			}()
+		</script>
+
+		<script nonce="">
+	App = {};
+    App.i18n = {};
+	App.session = {
+		get: function(key)
+		{
+			var property = null;
+			if (this.data[key] !== null && this.data[key] !== undefined)
+			{
+				return this.data[key];
+			}
+			return property;
+		},
+		data: {
+			siteRef: 59096,
+			domain: 'webbuilder.hosteurope.de',
+            brandRef: '1',
+            assetBaseUrl: '//55b558c7-resources.webbuilder.hosteurope.de/84b009373c',
+            languageCode: 'en',
+            pageRef: 75687,
+            pageLanguage: null		}
+	}
+
+    var Brand = Brand || {};
+    Brand.googleMapsEmbedKey = "AIzaSyC8V96sGgzrasorg2xPOlrlp-cpQFPLSxM";
+</script>
+
+<script nonce="">
+window["Server"] = {"app":{"resizerDomain":"resizer.webbuilder.hosteurope.de","mode":"published","protocol":"http","maintenance":"0","deducedLocale":"en_GB"},"componentTree":{"page":{"page-zones__main":{"page-zones__main-widgets__text1":[],"page-zones__main-widgets__contactform":[],"page-zones__main-widgets__clicktocall1":[],"page-zones__main-widgets__linkedinprofile":[],"page-zones__main-widgets__responsivecolumns1":{"page-zones__main-widgets__responsivecolumns1-zones__column":{"page-zones__main-widgets__responsivecolumns1-zones__column-widgets__linkedinprofile1":[]},"page-zones__main-widgets__responsivecolumns1-zones__column1":[]}}}},"editorVersion":"seven","page":{"componentTree":{"page":{"page-zones__main":{"page-zones__main-widgets__text1":[],"page-zones__main-widgets__contactform":[],"page-zones__main-widgets__clicktocall1":[],"page-zones__main-widgets__linkedinprofile":[],"page-zones__main-widgets__responsivecolumns1":{"page-zones__main-widgets__responsivecolumns1-zones__column":{"page-zones__main-widgets__responsivecolumns1-zones__column-widgets__linkedinprofile1":[]},"page-zones__main-widgets__responsivecolumns1-zones__column1":[]}}}},"request":"home","pageTree":[{"ref":"75687","request":"home","canonicalUrl":null,"title":"T\u00e1rsas\u00e1gunkr\u00f3l","seo_title":"Adatv\u00e9delem, GDPR - Dataprotection.eu Kft.","keywords":"","description":"","display_order":"1","type":"home","template_ref":"1","menu":"1","basekit_objects_ref":null,"modified":"2018-01-20 10:59:42","redirection":null,"priority":"1","changefreq":"monthly","can_publish":"1","headScript":"","bodyScript":"","status":"active","theme_ref":"1","color_swatch_ref":"1","font_swatch_ref":"1","password":null,"do_sub_page":"0","do_default":"0","templateType":"home","hiddenFromNavigation":"0","exclude_from_sitemap":"0","excludeFromPageLimit":"0","parentId":"0","language":null},{"ref":"75691","request":"blogpost","canonicalUrl":null,"title":"blogpost","seo_title":"","keywords":null,"description":null,"display_order":"2","type":"page","template_ref":"1","menu":"1","basekit_objects_ref":null,"modified":"2016-11-16 16:37:26","redirection":null,"priority":"0","changefreq":"monthly","can_publish":"1","headScript":null,"bodyScript":null,"status":"active","theme_ref":"1","color_swatch_ref":"1","font_swatch_ref":"1","password":null,"do_sub_page":"0","do_default":"0","templateType":"blogpost","hiddenFromNavigation":"1","exclude_from_sitemap":"1","excludeFromPageLimit":"1","parentId":"0","language":null},{"ref":"75692","request":"blog","canonicalUrl":null,"title":"Blog","seo_title":"","keywords":null,"description":null,"display_order":"3","type":"page","template_ref":"1","menu":"1","basekit_objects_ref":null,"modified":"2016-11-16 16:37:26","redirection":null,"priority":"0","changefreq":"monthly","can_publish":"1","headScript":null,"bodyScript":null,"status":"active","theme_ref":"1","color_swatch_ref":"1","font_swatch_ref":"1","password":null,"do_sub_page":"0","do_default":"0","templateType":"blogpostlist","hiddenFromNavigation":"0","exclude_from_sitemap":"1","excludeFromPageLimit":"1","parentId":"0","language":null},{"ref":"75744","request":"konferencia","canonicalUrl":null,"title":"Konferencia az Adatv\u00e9delmi Rendeletr\u0151l","seo_title":"Adatv\u00e9delmi konferencia 2017","keywords":"","description":"","display_order":"4","type":"page","template_ref":"1","menu":"1","basekit_objects_ref":null,"modified":"2017-03-05 14:48:10","redirection":null,"priority":"0","changefreq":"monthly","can_publish":"1","headScript":null,"bodyScript":null,"status":"active","theme_ref":"1","color_swatch_ref":"1","font_swatch_ref":"1","password":null,"do_sub_page":"0","do_default":"0","templateType":"default","hiddenFromNavigation":"0","exclude_from_sitemap":"0","excludeFromPageLimit":"0","parentId":"0","language":null},{"ref":"75790","request":"adatkezelesi","canonicalUrl":null,"title":"Adatkezel\u00e9si t\u00e1j\u00e9koztat\u00f3 \u00e9s H\u00e1zirend","seo_title":"Adatv\u00e9delmi t\u00e1j\u00e9koztat\u00f3","keywords":"","description":"","display_order":"5","type":"page","template_ref":"1","menu":"1","basekit_objects_ref":null,"modified":"2017-03-05 14:48:23","redirection":null,"priority":"0","changefreq":"monthly","can_publish":"1","headScript":null,"bodyScript":null,"status":"active","theme_ref":"1","color_swatch_ref":"1","font_swatch_ref":"1","password":null,"do_sub_page":"0","do_default":"0","templateType":"default","hiddenFromNavigation":"0","exclude_from_sitemap":"0","excludeFromPageLimit":"0","parentId":"0","language":null},{"ref":"88003","request":"cv","canonicalUrl":null,"title":"cv","seo_title":"","keywords":"","description":"","display_order":"6","type":"page","template_ref":"1","menu":"1","basekit_objects_ref":null,"modified":"2017-03-15 20:52:10","redirection":null,"priority":"0","changefreq":"monthly","can_publish":"1","headScript":null,"bodyScript":null,"status":"active","theme_ref":"1","color_swatch_ref":"1","font_swatch_ref":"1","password":null,"do_sub_page":"0","do_default":"0","templateType":"default","hiddenFromNavigation":"0","exclude_from_sitemap":"0","excludeFromPageLimit":"0","parentId":"0","language":null},{"ref":"89873","request":"gdpr","canonicalUrl":null,"title":"GDPR-k\u00e9pz\u00e9s","seo_title":"GDPR-k\u00e9pz\u00e9s: gyakorlati, interakt\u00edv k\u00e9pz\u00e9s az \u00c1ltal\u00e1nos Adatv\u00e9delmi Rendeletr\u0151l","keywords":"GDPR,\u00c1ltal\u00e1nos Adatv\u00e9delmi Rendelet","description":"","display_order":"7","type":"page","template_ref":"1","menu":"1","basekit_objects_ref":null,"modified":"2017-04-10 15:32:20","redirection":null,"priority":"0","changefreq":"monthly","can_publish":"1","headScript":null,"bodyScript":null,"status":"active","theme_ref":"1","color_swatch_ref":"1","font_swatch_ref":"1","password":null,"do_sub_page":"0","do_default":"0","templateType":"default","hiddenFromNavigation":"0","exclude_from_sitemap":"0","excludeFromPageLimit":"0","parentId":"0","language":null},{"ref":"90408","request":"jelentkez\u00e9silap","canonicalUrl":null,"title":"Jelentkez\u00e9si lap","seo_title":"Jelentkez\u00e9si lap","keywords":"","description":"","display_order":"8","type":"page","template_ref":"1","menu":"1","basekit_objects_ref":null,"modified":"2017-04-10 09:24:40","redirection":null,"priority":"0","changefreq":"monthly","can_publish":"1","headScript":null,"bodyScript":null,"status":"active","theme_ref":"1","color_swatch_ref":"1","font_swatch_ref":"1","password":null,"do_sub_page":"0","do_default":"0","templateType":"default","hiddenFromNavigation":"0","exclude_from_sitemap":"0","excludeFromPageLimit":"0","parentId":"0","language":null},{"ref":"90418","request":"k\u00f6sz\u00f6nj\u00fck","canonicalUrl":null,"title":"K\u00f6sz\u00f6nj\u00fck!","seo_title":"","keywords":"","description":"","display_order":"9","type":"page","template_ref":"1","menu":"1","basekit_objects_ref":null,"modified":"2017-04-10 13:08:36","redirection":null,"priority":"0","changefreq":"monthly","can_publish":"1","headScript":null,"bodyScript":null,"status":"active","theme_ref":"1","color_swatch_ref":"1","font_swatch_ref":"1","password":null,"do_sub_page":"0","do_default":"0","templateType":"default","hiddenFromNavigation":"0","exclude_from_sitemap":"0","excludeFromPageLimit":"0","parentId":"0","language":null},{"ref":"92631","request":"egeszsegugyi","canonicalUrl":null,"title":"Eg\u00e9szs\u00e9g\u00fcgyi nap","seo_title":"GDPR kezd\u0151knek \u00e9s halad\u00f3knak - Eg\u00e9szsz\u00e9g\u00fcgyi nap r\u00e9szletes tematika","keywords":"","description":"","display_order":"10","type":"page","template_ref":"1","menu":"1","basekit_objects_ref":null,"modified":"2017-05-03 10:19:48","redirection":null,"priority":"0","changefreq":"monthly","can_publish":"1","headScript":null,"bodyScript":null,"status":"active","theme_ref":"1","color_swatch_ref":"1","font_swatch_ref":"1","password":null,"do_sub_page":"0","do_default":"0","templateType":"default","hiddenFromNavigation":"0","exclude_from_sitemap":"0","excludeFromPageLimit":"0","parentId":"0","language":null},{"ref":"93162","request":"penzugyi","canonicalUrl":null,"title":"P\u00e9nz\u00fcgyi nap","seo_title":"GDPR kezd\u0151knek \u00e9s halad\u00f3knak - P\u00e9nz\u00fcgyi nap","keywords":"","description":"","display_order":"11","type":"page","template_ref":"1","menu":"1","basekit_objects_ref":null,"modified":"2017-05-08 14:00:08","redirection":null,"priority":"0","changefreq":"monthly","can_publish":"1","headScript":null,"bodyScript":null,"status":"active","theme_ref":"1","color_swatch_ref":"1","font_swatch_ref":"1","password":null,"do_sub_page":"0","do_default":"0","templateType":"default","hiddenFromNavigation":"0","exclude_from_sitemap":"0","excludeFromPageLimit":"0","parentId":"0","language":null},{"ref":"93443","request":"kozszolg\u00e1lat","canonicalUrl":null,"title":"K\u00f6zszolg\u00e1lati nap","seo_title":"GDPR kezd\u0151knek \u00e9s halad\u00f3knak - k\u00f6zszolg\u00e1lati nap","keywords":"","description":"","display_order":"12","type":"page","template_ref":"1","menu":"1","basekit_objects_ref":null,"modified":"2017-05-10 16:52:35","redirection":null,"priority":"0","changefreq":"monthly","can_publish":"1","headScript":null,"bodyScript":null,"status":"active","theme_ref":"1","color_swatch_ref":"1","font_swatch_ref":"1","password":null,"do_sub_page":"0","do_default":"0","templateType":"default","hiddenFromNavigation":"0","exclude_from_sitemap":"0","excludeFromPageLimit":"0","parentId":"0","language":null},{"ref":"99754","request":"konferenci\u00e1ink-arch\u00edv","canonicalUrl":null,"title":"Konferenci\u00e1ink (Arch\u00edv)","seo_title":"","keywords":"","description":"","display_order":"13","type":"page","template_ref":"1","menu":"1","basekit_objects_ref":null,"modified":"2017-08-01 18:43:26","redirection":null,"priority":"0","changefreq":"monthly","can_publish":"1","headScript":null,"bodyScript":null,"status":"active","theme_ref":"1","color_swatch_ref":"1","font_swatch_ref":"1","password":null,"do_sub_page":"0","do_default":"0","templateType":"default","hiddenFromNavigation":"0","exclude_from_sitemap":"0","excludeFromPageLimit":"0","parentId":"0","language":null},{"ref":"99756","request":"ujgdprkepzes","canonicalUrl":null,"title":"\u00daj GDPR-k\u00e9pz\u00e9s","seo_title":"GDPR-k\u00e9pz\u00e9s: gyakorlati, interakt\u00edv k\u00e9pz\u00e9s az \u00c1ltal\u00e1nos Adatv\u00e9delmi Rendeletr\u0151l","keywords":"GDPR,\u00c1ltal\u00e1nos Adatv\u00e9delmi Rendelet","description":"","display_order":"14","type":"page","template_ref":"1","menu":"1","basekit_objects_ref":null,"modified":"2017-08-01 20:01:16","redirection":null,"priority":"0","changefreq":"monthly","can_publish":"1","headScript":null,"bodyScript":null,"status":"active","theme_ref":"1","color_swatch_ref":"1","font_swatch_ref":"1","password":null,"do_sub_page":"0","do_default":"0","templateType":"default","hiddenFromNavigation":"0","exclude_from_sitemap":"0","excludeFromPageLimit":"0","parentId":"0","language":null},{"ref":"102601","request":"az-infotv-tervezett-m\u00f3dos\u00edt\u00e1s\u00e1val-kapcsolatos-\u00e1ll\u00e1spontunk","canonicalUrl":null,"title":"Az Infotv. tervezett m\u00f3dos\u00edt\u00e1s\u00e1val kapcsolatos \u00e1ll\u00e1spontunk","seo_title":"","keywords":"","description":"","display_order":"15","type":"page","template_ref":"1","menu":"1","basekit_objects_ref":null,"modified":"2017-09-09 15:33:44","redirection":null,"priority":"0","changefreq":"monthly","can_publish":"1","headScript":null,"bodyScript":null,"status":"active","theme_ref":"1","color_swatch_ref":"1","font_swatch_ref":"1","password":null,"do_sub_page":"0","do_default":"0","templateType":"default","hiddenFromNavigation":"0","exclude_from_sitemap":"0","excludeFromPageLimit":"0","parentId":"0","language":null},{"ref":"103491","request":"archivegdpr","canonicalUrl":null,"title":"archive_gdpr","seo_title":"","keywords":"","description":"","display_order":"16","type":"page","template_ref":"1","menu":"1","basekit_objects_ref":null,"modified":"2017-09-19 14:49:50","redirection":null,"priority":"0","changefreq":"monthly","can_publish":"1","headScript":null,"bodyScript":null,"status":"active","theme_ref":"1","color_swatch_ref":"1","font_swatch_ref":"1","password":null,"do_sub_page":"0","do_default":"0","templateType":"default","hiddenFromNavigation":"0","exclude_from_sitemap":"0","excludeFromPageLimit":"0","parentId":"0","language":null},{"ref":"113307","request":"gdprtanacsadas","canonicalUrl":null,"title":"A GDPR-tan\u00e1csad\u00e1sr\u00f3l","seo_title":"","keywords":"","description":"","display_order":"17","type":"page","template_ref":"1","menu":"1","basekit_objects_ref":null,"modified":"2018-04-22 18:08:04","redirection":null,"priority":"0","changefreq":"monthly","can_publish":"1","headScript":null,"bodyScript":null,"status":"active","theme_ref":"1","color_swatch_ref":"1","font_swatch_ref":"1","password":null,"do_sub_page":"0","do_default":"0","templateType":"default","hiddenFromNavigation":"0","exclude_from_sitemap":"0","excludeFromPageLimit":"0","parentId":"0","language":null}],"backgroundClass":null,"customHead":[],"canonicalUrl":"http:\/\/www.dataprotection.eu","language":null,"ref":"75687","title":"Adatv\u00e9delem, GDPR - Dataprotection.eu Kft.","titleInNavAndWidget":"T\u00e1rsas\u00e1gunkr\u00f3l","description":"A Dataprotection.eu Kft. Dr. J\u00f3ri Andr\u00e1s volt adatv\u00e9delmi ombudsman \u00e9s Dr. So\u00f3s Andrea \u00fcgyv\u00e9d tan\u00e1csad\u00f3 c\u00e9ge, amely adatv\u00e9delmi tan\u00e1csad\u00e1ssal \u00e9s adatv\u00e9delmi audittal foglalkozik Magyarorsz\u00e1gon \u00e9s eg\u00e9sz Eur\u00f3p\u00e1ban","type":"home","keywords":"adatv\u00e9delem, adatv\u00e9delmi audit, adatv\u00e9delmi felel\u0151s, data protection, GDPR","seoLang":"hu","templateType":"home","headScript":"","bodyScript":""},"pageTree":[{"ref":"75687","request":"home","canonicalUrl":null,"title":"T\u00e1rsas\u00e1gunkr\u00f3l","seo_title":"Adatv\u00e9delem, GDPR - Dataprotection.eu Kft.","keywords":"","description":"","display_order":"1","type":"home","template_ref":"1","menu":"1","basekit_objects_ref":null,"modified":"2018-01-20 10:59:42","redirection":null,"priority":"1","changefreq":"monthly","can_publish":"1","headScript":"","bodyScript":"","status":"active","theme_ref":"1","color_swatch_ref":"1","font_swatch_ref":"1","password":null,"do_sub_page":"0","do_default":"0","templateType":"home","hiddenFromNavigation":"0","exclude_from_sitemap":"0","excludeFromPageLimit":"0","parentId":"0","language":null},{"ref":"75691","request":"blogpost","canonicalUrl":null,"title":"blogpost","seo_title":"","keywords":null,"description":null,"display_order":"2","type":"page","template_ref":"1","menu":"1","basekit_objects_ref":null,"modified":"2016-11-16 16:37:26","redirection":null,"priority":"0","changefreq":"monthly","can_publish":"1","headScript":null,"bodyScript":null,"status":"active","theme_ref":"1","color_swatch_ref":"1","font_swatch_ref":"1","password":null,"do_sub_page":"0","do_default":"0","templateType":"blogpost","hiddenFromNavigation":"1","exclude_from_sitemap":"1","excludeFromPageLimit":"1","parentId":"0","language":null},{"ref":"75692","request":"blog","canonicalUrl":null,"title":"Blog","seo_title":"","keywords":null,"description":null,"display_order":"3","type":"page","template_ref":"1","menu":"1","basekit_objects_ref":null,"modified":"2016-11-16 16:37:26","redirection":null,"priority":"0","changefreq":"monthly","can_publish":"1","headScript":null,"bodyScript":null,"status":"active","theme_ref":"1","color_swatch_ref":"1","font_swatch_ref":"1","password":null,"do_sub_page":"0","do_default":"0","templateType":"blogpostlist","hiddenFromNavigation":"0","exclude_from_sitemap":"1","excludeFromPageLimit":"1","parentId":"0","language":null},{"ref":"75744","request":"konferencia","canonicalUrl":null,"title":"Konferencia az Adatv\u00e9delmi Rendeletr\u0151l","seo_title":"Adatv\u00e9delmi konferencia 2017","keywords":"","description":"","display_order":"4","type":"page","template_ref":"1","menu":"1","basekit_objects_ref":null,"modified":"2017-03-05 14:48:10","redirection":null,"priority":"0","changefreq":"monthly","can_publish":"1","headScript":null,"bodyScript":null,"status":"active","theme_ref":"1","color_swatch_ref":"1","font_swatch_ref":"1","password":null,"do_sub_page":"0","do_default":"0","templateType":"default","hiddenFromNavigation":"0","exclude_from_sitemap":"0","excludeFromPageLimit":"0","parentId":"0","language":null},{"ref":"75790","request":"adatkezelesi","canonicalUrl":null,"title":"Adatkezel\u00e9si t\u00e1j\u00e9koztat\u00f3 \u00e9s H\u00e1zirend","seo_title":"Adatv\u00e9delmi t\u00e1j\u00e9koztat\u00f3","keywords":"","description":"","display_order":"5","type":"page","template_ref":"1","menu":"1","basekit_objects_ref":null,"modified":"2017-03-05 14:48:23","redirection":null,"priority":"0","changefreq":"monthly","can_publish":"1","headScript":null,"bodyScript":null,"status":"active","theme_ref":"1","color_swatch_ref":"1","font_swatch_ref":"1","password":null,"do_sub_page":"0","do_default":"0","templateType":"default","hiddenFromNavigation":"0","exclude_from_sitemap":"0","excludeFromPageLimit":"0","parentId":"0","language":null},{"ref":"88003","request":"cv","canonicalUrl":null,"title":"cv","seo_title":"","keywords":"","description":"","display_order":"6","type":"page","template_ref":"1","menu":"1","basekit_objects_ref":null,"modified":"2017-03-15 20:52:10","redirection":null,"priority":"0","changefreq":"monthly","can_publish":"1","headScript":null,"bodyScript":null,"status":"active","theme_ref":"1","color_swatch_ref":"1","font_swatch_ref":"1","password":null,"do_sub_page":"0","do_default":"0","templateType":"default","hiddenFromNavigation":"0","exclude_from_sitemap":"0","excludeFromPageLimit":"0","parentId":"0","language":null},{"ref":"89873","request":"gdpr","canonicalUrl":null,"title":"GDPR-k\u00e9pz\u00e9s","seo_title":"GDPR-k\u00e9pz\u00e9s: gyakorlati, interakt\u00edv k\u00e9pz\u00e9s az \u00c1ltal\u00e1nos Adatv\u00e9delmi Rendeletr\u0151l","keywords":"GDPR,\u00c1ltal\u00e1nos Adatv\u00e9delmi Rendelet","description":"","display_order":"7","type":"page","template_ref":"1","menu":"1","basekit_objects_ref":null,"modified":"2017-04-10 15:32:20","redirection":null,"priority":"0","changefreq":"monthly","can_publish":"1","headScript":null,"bodyScript":null,"status":"active","theme_ref":"1","color_swatch_ref":"1","font_swatch_ref":"1","password":null,"do_sub_page":"0","do_default":"0","templateType":"default","hiddenFromNavigation":"0","exclude_from_sitemap":"0","excludeFromPageLimit":"0","parentId":"0","language":null},{"ref":"90408","request":"jelentkez\u00e9silap","canonicalUrl":null,"title":"Jelentkez\u00e9si lap","seo_title":"Jelentkez\u00e9si lap","keywords":"","description":"","display_order":"8","type":"page","template_ref":"1","menu":"1","basekit_objects_ref":null,"modified":"2017-04-10 09:24:40","redirection":null,"priority":"0","changefreq":"monthly","can_publish":"1","headScript":null,"bodyScript":null,"status":"active","theme_ref":"1","color_swatch_ref":"1","font_swatch_ref":"1","password":null,"do_sub_page":"0","do_default":"0","templateType":"default","hiddenFromNavigation":"0","exclude_from_sitemap":"0","excludeFromPageLimit":"0","parentId":"0","language":null},{"ref":"90418","request":"k\u00f6sz\u00f6nj\u00fck","canonicalUrl":null,"title":"K\u00f6sz\u00f6nj\u00fck!","seo_title":"","keywords":"","description":"","display_order":"9","type":"page","template_ref":"1","menu":"1","basekit_objects_ref":null,"modified":"2017-04-10 13:08:36","redirection":null,"priority":"0","changefreq":"monthly","can_publish":"1","headScript":null,"bodyScript":null,"status":"active","theme_ref":"1","color_swatch_ref":"1","font_swatch_ref":"1","password":null,"do_sub_page":"0","do_default":"0","templateType":"default","hiddenFromNavigation":"0","exclude_from_sitemap":"0","excludeFromPageLimit":"0","parentId":"0","language":null},{"ref":"92631","request":"egeszsegugyi","canonicalUrl":null,"title":"Eg\u00e9szs\u00e9g\u00fcgyi nap","seo_title":"GDPR kezd\u0151knek \u00e9s halad\u00f3knak - Eg\u00e9szsz\u00e9g\u00fcgyi nap r\u00e9szletes tematika","keywords":"","description":"","display_order":"10","type":"page","template_ref":"1","menu":"1","basekit_objects_ref":null,"modified":"2017-05-03 10:19:48","redirection":null,"priority":"0","changefreq":"monthly","can_publish":"1","headScript":null,"bodyScript":null,"status":"active","theme_ref":"1","color_swatch_ref":"1","font_swatch_ref":"1","password":null,"do_sub_page":"0","do_default":"0","templateType":"default","hiddenFromNavigation":"0","exclude_from_sitemap":"0","excludeFromPageLimit":"0","parentId":"0","language":null},{"ref":"93162","request":"penzugyi","canonicalUrl":null,"title":"P\u00e9nz\u00fcgyi nap","seo_title":"GDPR kezd\u0151knek \u00e9s halad\u00f3knak - P\u00e9nz\u00fcgyi nap","keywords":"","description":"","display_order":"11","type":"page","template_ref":"1","menu":"1","basekit_objects_ref":null,"modified":"2017-05-08 14:00:08","redirection":null,"priority":"0","changefreq":"monthly","can_publish":"1","headScript":null,"bodyScript":null,"status":"active","theme_ref":"1","color_swatch_ref":"1","font_swatch_ref":"1","password":null,"do_sub_page":"0","do_default":"0","templateType":"default","hiddenFromNavigation":"0","exclude_from_sitemap":"0","excludeFromPageLimit":"0","parentId":"0","language":null},{"ref":"93443","request":"kozszolg\u00e1lat","canonicalUrl":null,"title":"K\u00f6zszolg\u00e1lati nap","seo_title":"GDPR kezd\u0151knek \u00e9s halad\u00f3knak - k\u00f6zszolg\u00e1lati nap","keywords":"","description":"","display_order":"12","type":"page","template_ref":"1","menu":"1","basekit_objects_ref":null,"modified":"2017-05-10 16:52:35","redirection":null,"priority":"0","changefreq":"monthly","can_publish":"1","headScript":null,"bodyScript":null,"status":"active","theme_ref":"1","color_swatch_ref":"1","font_swatch_ref":"1","password":null,"do_sub_page":"0","do_default":"0","templateType":"default","hiddenFromNavigation":"0","exclude_from_sitemap":"0","excludeFromPageLimit":"0","parentId":"0","language":null},{"ref":"99754","request":"konferenci\u00e1ink-arch\u00edv","canonicalUrl":null,"title":"Konferenci\u00e1ink (Arch\u00edv)","seo_title":"","keywords":"","description":"","display_order":"13","type":"page","template_ref":"1","menu":"1","basekit_objects_ref":null,"modified":"2017-08-01 18:43:26","redirection":null,"priority":"0","changefreq":"monthly","can_publish":"1","headScript":null,"bodyScript":null,"status":"active","theme_ref":"1","color_swatch_ref":"1","font_swatch_ref":"1","password":null,"do_sub_page":"0","do_default":"0","templateType":"default","hiddenFromNavigation":"0","exclude_from_sitemap":"0","excludeFromPageLimit":"0","parentId":"0","language":null},{"ref":"99756","request":"ujgdprkepzes","canonicalUrl":null,"title":"\u00daj GDPR-k\u00e9pz\u00e9s","seo_title":"GDPR-k\u00e9pz\u00e9s: gyakorlati, interakt\u00edv k\u00e9pz\u00e9s az \u00c1ltal\u00e1nos Adatv\u00e9delmi Rendeletr\u0151l","keywords":"GDPR,\u00c1ltal\u00e1nos Adatv\u00e9delmi Rendelet","description":"","display_order":"14","type":"page","template_ref":"1","menu":"1","basekit_objects_ref":null,"modified":"2017-08-01 20:01:16","redirection":null,"priority":"0","changefreq":"monthly","can_publish":"1","headScript":null,"bodyScript":null,"status":"active","theme_ref":"1","color_swatch_ref":"1","font_swatch_ref":"1","password":null,"do_sub_page":"0","do_default":"0","templateType":"default","hiddenFromNavigation":"0","exclude_from_sitemap":"0","excludeFromPageLimit":"0","parentId":"0","language":null},{"ref":"102601","request":"az-infotv-tervezett-m\u00f3dos\u00edt\u00e1s\u00e1val-kapcsolatos-\u00e1ll\u00e1spontunk","canonicalUrl":null,"title":"Az Infotv. tervezett m\u00f3dos\u00edt\u00e1s\u00e1val kapcsolatos \u00e1ll\u00e1spontunk","seo_title":"","keywords":"","description":"","display_order":"15","type":"page","template_ref":"1","menu":"1","basekit_objects_ref":null,"modified":"2017-09-09 15:33:44","redirection":null,"priority":"0","changefreq":"monthly","can_publish":"1","headScript":null,"bodyScript":null,"status":"active","theme_ref":"1","color_swatch_ref":"1","font_swatch_ref":"1","password":null,"do_sub_page":"0","do_default":"0","templateType":"default","hiddenFromNavigation":"0","exclude_from_sitemap":"0","excludeFromPageLimit":"0","parentId":"0","language":null},{"ref":"103491","request":"archivegdpr","canonicalUrl":null,"title":"archive_gdpr","seo_title":"","keywords":"","description":"","display_order":"16","type":"page","template_ref":"1","menu":"1","basekit_objects_ref":null,"modified":"2017-09-19 14:49:50","redirection":null,"priority":"0","changefreq":"monthly","can_publish":"1","headScript":null,"bodyScript":null,"status":"active","theme_ref":"1","color_swatch_ref":"1","font_swatch_ref":"1","password":null,"do_sub_page":"0","do_default":"0","templateType":"default","hiddenFromNavigation":"0","exclude_from_sitemap":"0","excludeFromPageLimit":"0","parentId":"0","language":null},{"ref":"113307","request":"gdprtanacsadas","canonicalUrl":null,"title":"A GDPR-tan\u00e1csad\u00e1sr\u00f3l","seo_title":"","keywords":"","description":"","display_order":"17","type":"page","template_ref":"1","menu":"1","basekit_objects_ref":null,"modified":"2018-04-22 18:08:04","redirection":null,"priority":"0","changefreq":"monthly","can_publish":"1","headScript":null,"bodyScript":null,"status":"active","theme_ref":"1","color_swatch_ref":"1","font_swatch_ref":"1","password":null,"do_sub_page":"0","do_default":"0","templateType":"default","hiddenFromNavigation":"0","exclude_from_sitemap":"0","excludeFromPageLimit":"0","parentId":"0","language":null}],"requestBase":"","cookieWarningUrl":"","plugins":{"assets":{"images":{"977327":{"ref":977327,"url":"http:\/\/files.webbuilder.hosteurope.de\/hosteurope59096\/image\/fullsizeoutput_12b3.jpeg","fileName":"fullsizeoutput_12b3.jpeg","fileType":"image","fileSize":2803513,"title":null,"updated":{"date":"2016-11-17 12:29:58.000000","timezone_type":3,"timezone":"Europe\/London"},"description":null,"path":"hosteurope59096\/image\/fullsizeoutput_12b3.jpeg","imageWidth":4752,"imageHeight":3168,"deleted":false,"albumRef":null,"albumTitle":null,"providerRef":null,"compression":"none","compressedUrl":null}},"albums":{"":[977327,977327]}},"blog":{"live":false,"isPostPage":false,"searchUrl":"\/blog\/search\/","directory":"blog","displayBlogHomePageLink":false,"categories":[],"tags":[],"postsPerPage":"5","totalPages":0,"currentPage":1,"pathFormat":"\/blog\/page\/"}},"desktopSite":{"protocol":"http","primaryDomain":{"domainName":"www.dataprotection.eu"}},"siteLanguages":null,"siteDefaultLanguage":null,"siteLanguageMenuSettings":null,"siteCurrentLanguage":null};
+window["Profile"] = {"profile":{"business":"Dataprotection.eu Kft - a hiteles adatv\u00e9delmi partner","headline":"","strapline":"","companydescription":"Dataprotection.eu Ltd. is the company founded by Dr Andr\u00e1s J\u00f3ri, former Data Protection Commissioner of Hungary. You are now redirected to the company's Facebook page. ","copyright":"","address":"Gy\u00f6ngyv\u00e9r u 37.","address1":"1029 Budapest","address2":"","postalcode":"","country":"Hungary","phone":"+36 30 6 285 285 ","twitter":"","linkedin":"https:\/\/www.linkedin.com\/in\/andrasjori","facebook":"http:\/\/www.facebook.com\/dataprotectioneu","googleplus":"","youtube":"","rss":"","logo":"","logowidth":"","logoheight":"","yelpbusinessid":"","featureimage":"","countryCode":"HU","instagram":"","pinterest":"","paypalbuynow_businessemail":"","paypalbuynow_currency":"AUD"}};
+</script>
+
+<script nonce="">
+    Server.components = {"page-zones__main":{"ref":"1069741","uniqueHTMLId":"page-zones__main","name":"main","fixed":false,"libraryItemRef":"0","pageRef":"75687","temporary":{},"changed":{},"type":"widget.template","data":[],"className":"template","widget":{},"uniqueId":"9lHDZTp7wvzFyaM","parentUniqueId":null},"page-zones__main-widgets__text1":{"ref":"1070615","uniqueHTMLId":"page-zones__main-widgets__text1","name":"text1","fixed":false,"libraryItemRef":"0","pageRef":"75687","temporary":{},"changed":{},"type":"widget.content","data":{"lines":"all","content":"<p><span style=\"color: rgb(229, 224, 236);\"><\/span>\n<\/p>\n<p><strong><\/strong>\n<\/p>\n<p style=\"text-align: justify;\"><span style=\"color: rgb(0, 0, 0);\"><span style=\"font-size: 20px;\">A <span style=\"color: rgb(84, 141, 212);\">dataprotection.eu Kft<\/span> <strong>Dr. J\u00f3ri Andr\u00e1s<\/strong>&nbsp;\u00fcgyv\u00e9d,&nbsp;volt adatv\u00e9delmi ombudsman&nbsp;\u00e9s <strong>Dr. So\u00f3s Andrea<\/strong> \u00fcgyv\u00e9d&nbsp;c\u00e9ge, amely adatv\u00e9delmi oktat\u00e1ssal \u00e9s kutat\u00e1ssal foglalkozik Magyarorsz\u00e1gon \u00e9s eg\u00e9sz Eur\u00f3p\u00e1ban.&nbsp;C\u00e9lunk, hogy<strong><\/strong> az adatv\u00e9delem ter\u00fclet\u00e9n <strong>teljesk\u00f6r\u0171 szolg\u00e1ltat\u00e1st<\/strong>&nbsp;biztos\u00edtsunk&nbsp;\u00fcgyfeleink r\u00e9sz\u00e9re (k\u00e9pz\u00e9s, adatv\u00e9delmi audit, adatv\u00e9delmi felel\u0151si tev\u00e9kenys\u00e9g, \u00fcgyv\u00e9di irod\u00e1inkkal egy\u00fcttm\u0171k\u00f6dve GDPR- \u00e9s \u00e1ltal\u00e1ban&nbsp;<a href=\"\/gdprtanacsadas\" target=\"_self\">jogi tan\u00e1csad\u00e1s<\/a>,&nbsp;hat\u00f3s\u00e1gi el\u0151tti \u00e9s peres k\u00e9pviselet), \u00e9s mindezt a legmagasabb sz\u00ednvonalon tegy\u00fck.<\/span>&nbsp;&nbsp;<\/span>\n<\/p>\n<p style=\"text-align: justify;\"><span style=\"color: rgb(0, 0, 0);\"><br><\/span>\n<\/p>\n<p style=\"text-align: justify;\"><span style=\"color: rgb(0, 0, 0);\"><span style=\"font-size: 20px;\">Mi nem a GDPR megjelen\u00e9s\u00e9vel kezdt\u00fcnk el adatv\u00e9delmi joggal foglalkozni:&nbsp;<a href=\"\/cv\" target=\"_self\">20 \u00e9ves gyakorlat<\/a>&nbsp;\u00e1ll a h\u00e1tunk m\u00f6g\u00f6tt tan\u00e1csad\u00f3k\u00e9nt \u00e9s a legfels\u0151bb szint\u0171 jogalkalmaz\u00f3k\u00e9nt, Magyarorsz\u00e1gon \u00e9s az EU-ban.&nbsp;<\/span><span style=\"font-size: 18px;\"><span style=\"color: rgb(0, 0, 0);\"><span style=\"font-size: 20px;\">Mi k\u00e9pviselt\u00fck a felperest a tudom\u00e1sunk szerint egyetlen olyan&nbsp;<a href=\"https:\/\/index.hu\/belfold\/2017\/06\/12\/kiss_laszlo_budapest_fovaros_leveltara_informacioszabadsag_kenyeres_istvan_birosag_naih\/\" target=\"_blank\">\u00fcgyben<\/a>, amelyben a F\u0151v\u00e1rosi \u00e9s K\u00f6zigazgat\u00e1si \u00e9s Munka\u00fcgyi B\u00edr\u00f3s\u00e1g \u00faj elj\u00e1r\u00e1sra utas\u00edt\u00e1s n\u00e9lk\u00fcl megsemmis\u00edtette a Nemzeti Adatv\u00e9delmi \u00e9s Inform\u00e1ci\u00f3szabads\u00e1g Hat\u00f3s\u00e1g hat\u00e1rozat\u00e1t (elj\u00e1r\u00e1si \u00fcgyek: Dr. So\u00f3s Andrea Kl\u00e1ra, adatv\u00e9delmi anyagi jog: Dr. J\u00f3ri Andr\u00e1s).&nbsp;<\/span><\/span><\/span><\/span>\n<\/p>\n<p style=\"text-align: justify;\"><span style=\"color: rgb(0, 0, 0);\"><span style=\"font-size: 18px;\"><span style=\"color: rgb(0, 0, 0);\"><span style=\"font-size: 20px;\"><br><\/span><\/span><\/span><\/span>\n<\/p>\n<p style=\"text-align: justify;\"><span style=\"color: rgb(0, 0, 0);\"><span style=\"font-size: 20px;\"><span style=\"color: rgb(0, 0, 0);\"><a href=\"https:\/\/vm.mtmt.hu\/\/search\/slist.php?nwi=1&amp;inited=1&amp;ty_on=1&amp;url_on=1&amp;cite_type=2&amp;orderby=3D1a&amp;location=mtmt&amp;stn=1&amp;AuthorID=10017654\" target=\"_blank\">Tudom\u00e1nyos tev\u00e9kenys\u00e9g\u00fcnk<\/a>&nbsp;a hazai adatv\u00e9delmi jogi&nbsp;irodalom&nbsp;\u00e9lvonal\u00e1ban van, \u00e9s Eur\u00f3p\u00e1ban is jegyzett.&nbsp;<\/span>\u00c9rdeklik&nbsp;az adatv\u00e9delmi jog&nbsp;\u00e9s a GDPR, az \u00faj adatv\u00e9delmi rendelet \u00faj szab\u00e1lyai? <strong>V\u00e1s\u00e1rolja meg&nbsp;<\/strong><\/span><span style=\"font-size: 20px;\"><a href=\"http:\/\/hvgorac.hu\/A_GDPR_magyarazata\" target=\"_blank\">k\u00f6nyv\u00fcnket<\/a>&nbsp;a kiad\u00f3 oldal\u00e1n!<\/span><\/span>\n<\/p>\n<p style=\"text-align: justify;\"><span style=\"color: rgb(0, 0, 0);\"><span style=\"font-size: 20px;\"><br><\/span><\/span>\n<\/p><span style=\"color: rgb(0, 0, 0);\"><\/span>\n<p><span style=\"color: rgb(0, 0, 0);\"><span style=\"color: rgb(38, 38, 38);\"><strong><span style=\"font-size: 20px;\"><a href=\"\/konferenci\u00e1ink-arch\u00edv\" target=\"_self\"><span style=\"font-size: 18px;\">Konferenci\u00e1ink<\/span><\/a>, vagy adatv\u00e9delmi audit, tan\u00e1csad\u00e1s, k\u00e9pz\u00e9s<\/span><\/strong><span style=\"font-size: 20px;\"> ir\u00e1nt \u00e9rdekl\u0151dik? L\u00e1togassa meg honlapunk e szolg\u00e1ltat\u00e1sainkat ismertet\u0151 oldalait, \u00e9s vegye fel vel\u00fcnk a kapcsolatot.\n\t<\/span><\/span>\n\t<\/span>\n<\/p>\n<p><span style=\"color: rgb(0, 0, 0);\"><span style=\"color: rgb(38, 38, 38);\"><span style=\"font-size: 20px;\"><br><\/span><\/span><\/span>\n<\/p>\n<p><span style=\"color: rgb(0, 0, 0);\"><span style=\"font-size: 20px;\"><span style=\"color: rgb(0, 0, 0);\">Rendszeres szakmai tal\u00e1lkoz\u00f3kon venne r\u00e9szt, ahol b\u0151v\u00edtheti szakmai ismereteit \u00e9s kapcsolatait? \u00c9rdekl\u0151dj\u00f6n <strong>adatv\u00e9delmi klubunkr\u00f3l<\/strong>!<\/span>\n\t<\/span>\n\t<\/span>\n<\/p>\n<p><span style=\"color: rgb(0, 0, 0);\"><span style=\"font-size: 20px;\"><span style=\"color: rgb(0, 0, 0);\">Tov\u00e1bbi inform\u00e1ci\u00f3k\u00e9rt keresse fel <a href=\"https:\/\/hu.linkedin.com\/in\/andrasjori\" target=\"_blank\">LinkedIn<\/a> vagy <a href=\"https:\/\/www.facebook.com\/dataprotectioneu\" target=\"_blank\">Facebook<\/a> profilunkat, k\u00e9rjen aj\u00e1nlatot az&nbsp;al\u00e1bbi \u0171rlapon, vagy h\u00edvjon telefonon a lenti sz\u00e1mon. Adatai megad\u00e1sa el\u0151tt olvassa el figyelmesen <a href=\"\/adatkezelesi\" target=\"_self\">adatkezel\u00e9si t\u00e1j\u00e9koztat\u00f3nkat<\/a>.<\/span>\n\t<\/span>\n\t<\/span>\n<\/p>\n<p><span style=\"color: rgb(0, 0, 0);\"><span style=\"font-size: 20px;\"><span style=\"color: rgb(0, 0, 0);\"><br><\/span><\/span><\/span>\n<\/p>\n<p><span style=\"color: rgb(0, 0, 0);\"><span style=\"font-size: 20px;\"><span style=\"color: rgb(0, 0, 0);\">A GDPR ir\u00e1nti fokozott \u00e9rdekl\u0151d\u00e9sre tekintettel fontos megjegyezni, hogy t\u00e1rsas\u00e1gunk szolg\u00e1ltat\u00e1sait els\u0151sorban nagyv\u00e1llalatoknak \u00e9s az&nbsp;adatv\u00e9delmi jognak\/GDPR-nak fokozottan kitett k\u00f6z\u00e9pv\u00e1llalatoknak ny\u00fajtja, illetve alap\u00edt\u00f3ink \u00fcgyv\u00e9dk\u00e9nt adatkezel\u0151ket k\u00e9pviselnek adatv\u00e9delmi perekben. Mag\u00e1nszem\u00e9lyek \u00e9s kisv\u00e1llalatok k\u00e9pviselet\u00e9vel&nbsp;\u00e1ltal\u00e1ban&nbsp;nem foglalkozunk; ha ebbe a k\u00f6rbe tartozik, megfelel\u0151 kollega aj\u00e1nl\u00e1s\u00e1val igyeksz\u00fcnk seg\u00edteni.&nbsp;<\/span><\/span><\/span>\n<\/p>\n<p><span style=\"color: rgb(0, 0, 0);\"><span style=\"font-size: 20px;\"><span style=\"color: rgb(0, 0, 0);\"><br><\/span><\/span><\/span>\n<\/p><span style=\"color: rgb(38, 38, 38);\"><span style=\"font-size: 20px;\"><span style=\"color: rgb(84, 141, 212);\">dataprotection.eu Ltd.&nbsp;<span style=\"font-family: Arial, Helvetica, Verdana, Tahoma, sans-serif; background-color: rgb(255, 255, 255);\">is a&nbsp;firm founded by Dr Andr\u00e1s J\u00f3ri, former Data Protection Commissioner of Hungary, attorney and&nbsp;Andrea So\u00f3s, attorney at law.&nbsp;For more information, please visit our&nbsp;<\/span><a href=\"https:\/\/hu.linkedin.com\/in\/andrasjori\" target=\"_blank\">LinkedIn<\/a><span style=\"font-family: Arial, Helvetica, Verdana, Tahoma, sans-serif; background-color: rgb(255, 255, 255);\">&nbsp;or&nbsp;<\/span><a href=\"https:\/\/www.facebook.com\/dataprotectioneu\" target=\"_blank\">Facebook<\/a><\/span><\/span><\/span><span style=\"font-family: Arial, Helvetica, Verdana, Tahoma, sans-serif; font-size: 20px; background-color: rgb(255, 255, 255);\"><span style=\"color: rgb(38, 38, 38);\"><span style=\"font-size: 20px;\"><span style=\"color: rgb(84, 141, 212);\">&nbsp;profile. You can also write us a mail&nbsp;or call us directly. Before providing any personal data, please read our <a href=\"\/adatkezelesi\" target=\"_self\">Privacy Policy<\/a>.<\/span><\/span><\/span><\/span>","type":"widget.content","localClass":"widget-content-TF9O8F"},"className":"content","widget":{},"uniqueId":"7PewBIFvyf6lbpF","parentUniqueId":"9lHDZTp7wvzFyaM"},"page-zones__main-widgets__contactform":{"ref":"1151116","uniqueHTMLId":"page-zones__main-widgets__contactform","name":"contactform","fixed":false,"libraryItemRef":"0","pageRef":"75687","temporary":{},"changed":{},"type":"widget.contactform","data":{"email":"profile","text":"Send\/\u00dczenet k\u00fcld\u00e9se","formTitle":"Kapcsolatfelv\u00e9tel","localClass":"widget-contactform-H6X8O1"},"className":"contactform","widget":{},"uniqueId":"YpfAGe1igIFQEqm","parentUniqueId":"9lHDZTp7wvzFyaM"},"page-zones__main-widgets__clicktocall1":{"ref":"1171346","uniqueHTMLId":"page-zones__main-widgets__clicktocall1","name":"clicktocall1","fixed":false,"libraryItemRef":"0","pageRef":"75687","temporary":{},"changed":{},"type":"widget.clicktocall","data":{"phone":"+36 1 700 4190","align":"","phoneText":"+36 1 700 4190","localClass":"widget-clicktocall-B23MN7"},"className":"clicktocall","widget":{},"uniqueId":"ZDU5Or2LhFnlbbX","parentUniqueId":"9lHDZTp7wvzFyaM"},"page-zones__main-widgets__linkedinprofile":{"ref":"1071054","uniqueHTMLId":"page-zones__main-widgets__linkedinprofile","name":"linkedinprofile","fixed":false,"libraryItemRef":"0","pageRef":"75687","temporary":{},"changed":{},"type":"widget.linkedinprofile","data":{"localClass":"widget-linkedinprofile-017G0A","linkedin":"http:\/\/www.linkedin.com\/in\/andrasjori"},"className":"linkedinprofile","widget":{},"uniqueId":"2TazyrUje4ozlNC","parentUniqueId":"9lHDZTp7wvzFyaM"},"page-zones__main-widgets__responsivecolumns1":{"ref":"1069743","uniqueHTMLId":"page-zones__main-widgets__responsivecolumns1","name":"responsivecolumns1","fixed":false,"libraryItemRef":"0","pageRef":"75687","temporary":{},"changed":{},"type":"widget.responsivecolumns","data":{"isEmpty":"0","columns":"2","preset":"columns-two-50-50","presetRef":"219"},"className":"responsivecolumns","widget":{},"uniqueId":"j75ST1etNSdpm5p","parentUniqueId":"9lHDZTp7wvzFyaM"},"page-zones__main-widgets__responsivecolumns1-zones__column":{"ref":"1069744","uniqueHTMLId":"page-zones__main-widgets__responsivecolumns1-zones__column","name":"column","fixed":false,"libraryItemRef":"0","pageRef":"75687","temporary":{},"changed":{},"type":"widget.columns.column","data":[],"className":"columns.column","widget":{},"uniqueId":"ip1BBzLCgp7C7PC","parentUniqueId":"j75ST1etNSdpm5p"},"page-zones__main-widgets__responsivecolumns1-zones__column-widgets__linkedinprofile1":{"ref":"1151115","uniqueHTMLId":"page-zones__main-widgets__responsivecolumns1-zones__column-widgets__linkedinprofile1","name":"linkedinprofile1","fixed":false,"libraryItemRef":"0","pageRef":"75687","temporary":{},"changed":{},"type":"widget.linkedinprofile","data":{"localClass":"widget-linkedinprofile-UE6983","linkedin":"http:\/\/www.linkedin.com\/in\/andreaklarasoos"},"className":"linkedinprofile","widget":{},"uniqueId":"C31BE065pzBp8jj","parentUniqueId":"ip1BBzLCgp7C7PC"},"page-zones__main-widgets__responsivecolumns1-zones__column1":{"ref":"1069746","uniqueHTMLId":"page-zones__main-widgets__responsivecolumns1-zones__column1","name":"column1","fixed":false,"libraryItemRef":"0","pageRef":"75687","temporary":{},"changed":{},"type":"widget.columns.column","data":[],"className":"columns.column","widget":{},"uniqueId":"qhH3LAImrdlZgJi","parentUniqueId":"j75ST1etNSdpm5p"},"page-zones__template-widgets__companyname-companyname":{"debugMode":false,"ref":null,"uniqueHTMLId":"page-zones__template-widgets__companyname-companyname","name":"companyname-companyname","fixed":true,"libraryItemRef":null,"pageRef":null,"temporary":{},"changed":{},"type":"widget.companyname","data":{"business":"profile","preset":null,"presetRef":null,"showTplWidget":"1"},"className":"companyname","widget":{},"uniqueId":null,"parentUniqueId":null},"page-zones__template-widgets__feature-featurewidget":{"debugMode":false,"ref":null,"uniqueHTMLId":"page-zones__template-widgets__feature-featurewidget","name":"feature-featurewidget","fixed":true,"libraryItemRef":null,"pageRef":null,"temporary":{},"changed":{},"type":"widget.feature","data":{"header":"profile","strapline":"profile","buttonText":"","defaultBgImg":"\/\/55b558c7-resources.webbuilder.hosteurope.de\/84b009373c\/templates\/specify\/images\/feature-bg.jpg","showBtn":"1","preset":null,"presetRef":null,"action":"internal","url":"\/ujgdprkepzes","target":"_self"},"className":"feature","widget":{},"uniqueId":null,"parentUniqueId":null},"page-zones__template-widgets__profile-footercolumn1profilesocialicons":{"debugMode":false,"ref":null,"uniqueHTMLId":"page-zones__template-widgets__profile-footercolumn1profilesocialicons","name":"profile-footercolumn1profilesocialicons","fixed":true,"libraryItemRef":null,"pageRef":null,"temporary":{},"changed":{},"type":"widget.profile","data":{"profileType":"socialicons","preset":null,"presetRef":null},"className":"profile","widget":{},"uniqueId":null,"parentUniqueId":null}};
+    Server.desktopSite.getPrimaryDomainData = function ()
+    {
+        var keys = [],
+            key = null,
+            domain = null;
+
+        if (this.primaryDomain !== null)
+        {
+            domain = this.primaryDomain.domainName;
+        }
+        else
+        {
+            bk$.each(this.domains, function(key)
+            {
+                keys.push(parseInt(key, 10));
+            });
+
+            key = Math.max.apply(null, keys);
+            domain = this.domains[key] || null;
+        }
+
+        return {
+            key : key,
+            domain: domain
+        };
+    };
+    Server.desktopSite.getPrimaryDomain = function ()
+    {
+        return this.getPrimaryDomainData().domain;
+    };
+    Server.customWidgetsDomain = '';
+    Server.customWidgetVersions = null;
+</script>
+
+<script src="//55b558c7-resources.webbuilder.hosteurope.de/8a05454/en/translations.js?sections=widgets,mobile,shared_views,shared_components,cookie"></script>
+
+    <script src="//55b558c7-resources.webbuilder.hosteurope.de/84b009373c/compiled/published-site.js"></script>
+
+
+<script src="//55b558c7-resources.webbuilder.hosteurope.de/84b009373c/compiled/twig-widget-views-v1.js"></script>
+
+    
+<script nonce="">
+(function () {
+
+    fallback = 1;
+
+    if (!'localStorage' in window ||
+        !'querySelectorAll' in window ||
+        !'addEventListener' in window
+    ) {
+        return;
+    }
+
+    function getFormat(ua) {
+        if (ua.indexOf('android') > -1 && ua.indexOf('chrome') === -1) {
+            return 'ttf';
+        }
+
+        return 'woff';
+    }
+
+    function removeObsoleteFontsFromStorage(storageKey) {
+        var prefix;
+
+        if (!window.localStorage) {
+            return;
+        }
+
+        prefix = storageKey + '.' + window.localStorage.getItem('bk.webfonts.format');
+        try {
+            for (key in window.localStorage) {
+                if (key.indexOf(storageKey) === 0) {
+                    removeStorageItem(key, prefix)
+                }
+            }
+        } catch (ex) {
+        }
+    }
+
+    function removeStorageItem(storageKey, prefix) {
+        var font,
+            remove = true,
+            fontCollections = document.head.querySelectorAll('.js-webfont');
+
+        for (var i = fontCollections.length - 1; i >= 0; --i) {
+            font = prefix + '.' + fontCollections[i].getAttribute('data-name');
+            if (storageKey.indexOf(font) === 0) {
+                remove = false;
+            }
+        }
+
+        if (remove == true) {
+            try {
+                window.localStorage.removeItem(storageKey);
+            } catch (ex) {
+            }
+        }
+    }
+
+    function loadFontAsynchronously(fontUrl) {
+        var head = document.getElementsByTagName('head')[0],
+            link = document.createElement('link');
+
+        link.rel = 'stylesheet';
+        link.href = fontUrl;
+        head.appendChild(link);
+    }
+
+    window.addEventListener('load', function () {
+        var i,
+            localKey = 'published',
+            storageKey = 'bk.webfonts.' + localKey,
+            format,
+            fontCollections,
+            collection,
+            request;
+
+        removeObsoleteFontsFromStorage(storageKey);
+
+        fontCollections = document.head.querySelectorAll('.js-webfont:not([data-cache-full="data-cache-full"])');
+        if (fontCollections.length === 0) {
+            return;
+        }
+
+        format = getFormat(navigator.userAgent);
+        try {
+            window.localStorage.setItem('bk.webfonts.format', format);
+        } catch (ex) {
+        }
+
+        for (i = fontCollections.length - 1; i >= 0; --i) {
+            fontCollection = fontCollections[i];
+            (function(collection) {
+                var json,
+                    font,
+                    content,
+                    fonts = [];
+
+                request = new XMLHttpRequest();
+                request.open('GET', collection.getAttribute('data-' + format + '-cache'), true);
+                request.onload = function () {
+                    if (this.status === 200) {
+                        try {
+
+                            json = JSON.parse(this.response);
+                            for (font = json.length - 1; font >= 0; --font) {
+                                fonts.push(json[font].css);
+                            }
+                            content = fonts.join('');
+                            collection.innerHTML = content;
+                            window.localStorage.setItem(
+                                storageKey + '.' + format + '.' + collection.getAttribute('data-name'), content
+                            );
+                            collection.setAttribute('data-cache-full', 'data-cache-full');
+                        } catch (ex) {
+                        }
+                    }
+
+                    if (fallback && this.status === 404) {
+                        loadFontAsynchronously(collection.getAttribute('data-fallback-stylesheet'));
+                    }
+                };
+                request.send();
+            })(fontCollection);
+        }
+    }, false);
+}());
+</script>
+
+<script nonce="">
+    // Initilisation for the mobile editor happens here
+    (function ()
+    {
+        jQuery.noConflict(true);
+        bk$(document).ready(function ()
+        {
+            // get the site data here
+            Site.Page.Widgets = Server.components;
+
+            
+            Site.Page.load();
+        });
+    }());
+</script>
+
+
+
+
+
+	</body>
+</html>
+

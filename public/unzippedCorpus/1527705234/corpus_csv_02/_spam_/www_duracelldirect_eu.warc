@@ -1,0 +1,732 @@
+WARC/1.0
+WARC-Type: warcinfo
+WARC-Date: 2018-05-30T18:18:32Z
+WARC-All-Language: en-GB
+WARC-All-Content_type: text/html; charset=UTF-8
+WARC-Record-ID: <urn:uuid:2b884560-0af4-4f90-9078-9d7bda2877c5>
+Content-Type: application/http;msgtype=response
+Content-Length: 46
+
+WARCProcessor by SING Group www.sing-group.com
+
+WARC/1.0
+WARC-Type: response
+WARC-Target-URI: http://www.duracelldirect.eu
+WARC-Date: 20180530181832
+WARC-Language: en-GB
+WARC-Record-ID: <http://www.duracelldirect.eu>
+Content-Type: application/http;msgtype=response
+Content-Length: 24562
+
+HTTP/1.1 200
+Content-Type:text/html; charset=UTF-8
+
+
+<!DOCTYPE html>
+<html lang="en-GB">
+	<head>
+		<title>Duracell Batteries - European Locations: UK, France, Germany, Italy, Spain, Netherlands, Denmark: DuracellDirect.eu</title>
+		<meta name="description" content="Duracell Batteries, Power Adapters and Battery Chargers at DuracellDirect. Find find European locations. Trusted Everywhere.">
+		<meta name="keywords" content="Duracell,Batteries,Europe,EU,UK,France,FR,Germany,DE,Italy,IT,Spain,ES,Netherlands,NL,Denmark,DK,buy,store,shop">
+		<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+		<meta name="ROBOTS" content="ALL">
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
+		<link rel="stylesheet" type="text/css" href="dd-min.css">
+		<link rel="shortcut icon" href="/favicon.ico" /> 
+	<style>
+		p.desc {margin-left:12px}
+		div.map-ctn {
+			float:right; margin-right:-3px
+		}
+		div.map-ctn table {display:none}
+		div.contact {
+			float:left; width:260px; margin:30px 0 0 12px;
+			background: url(/i/theme/shadow_box_260px_bg.png) 0 0 repeat-y;
+		}
+		div.contact h2 {
+			font-size:12px; line-height:22px; font-weight:bold; color:#fff; padding:0 15px; font-family:verdana;
+			background: url(/i/theme/shadow_box_260px_hd.png) 0 0 no-repeat;
+		}
+		div.contact h3 {
+			margin: 0 15px; font-size:12px;
+		}
+		#default-text {
+			font-weight:bold; margin:30px 15px 180px 15px;
+			color:#aaa; font-size:16px; line-height:24px;
+		}
+		#shop-info table {display:none; margin:20px 10px;}
+		#shop-info table th, #shop-info table td {
+			text-align:left;
+			padding:5px 2px; 
+			font-size:11px; line-height:16px; color:#555;
+		}
+		#shop-info table th.flag-country p {
+			font-size:13px; line-height:16px; font-weight:bold; color:#222;
+		}
+		#shop-info table th.flag-country img {
+			margin:-10px 8px 0 0; float:left;
+		}
+		div.box-header {
+			height:30px;
+			background: url(/i/theme/shadow_box_260px.png) 0 -0px no-repeat
+		}
+		div.box-footer {
+			height:30px;
+			background: url(/i/theme/shadow_box_260px.png) 0 -140px no-repeat
+		}
+		p.other-flag {text-align:center; margin:5px 15px 0 5px}
+		p.other-flag a:hover {text-decoration:none}
+	</style>
+	</head>
+	<body>
+		<div id="ctn">
+			<div class="page-top-bg" style="background:url(/i/theme/theme_no_footer.jpg)"></div>
+			<div class="grid-1 content-start">
+				<h1 class="home">DuracellDirect European Sites</h1>
+				<p class="desc ">Duracell Batteries, Power Adapters & Battery Chargers at DuracellDirect Europe. Trusted Everywhere. <b>Select your local site...</b></p>
+				
+				<div class="map-ctn">
+					<img class="map" src="/i/map-eu.png" width="700" height="704" alt="Duracell Batteries, Power Adapters & Battery Chargers at DuracellDirect Europe." usemap="#euromap" />
+					<map name="euromap">
+						<area class="ddgb" shape="circle" coords="170,378,26" alt="Duracell Batteries UK" href="http://www.duracelldirect.co.uk"/>
+						<area class="ddch" shape="circle" coords="277,486,26" alt="Duracell Batteries Switzerland" href="http://www.duracelldirect.ch" />
+						<area class="ddcz" shape="circle" coords="364,428,26" alt="Duracell Nabijecky Česká Republika" href="http://www.duracelldirect.cz" />
+						<area class="ddde" shape="circle" coords="311,391,26" alt="Duracell Akkus Deutschland" href="http://www.duracelldirect.de" />
+						<area class="dddk" shape="circle" coords="277,304,26" alt="Duracell Batterier Danmark" href="http://www.duracelldirect.dk" />
+						<area class="ddes" shape="circle" coords="95,599,26" alt="Duracell Baterias Espana" href="http://www.duracelldirect.es" />
+						<area class="ddfi" shape="circle" coords="461,181,26" alt="Duracell Akut Suomi" href="http://www.duracelldirect.fi" />
+						<area class="ddfr" shape="circle" coords="196,460,26" alt="Duracell Batteries France" href="http://www.duracelldirect.fr" />
+						<area class="ddie" shape="circle" coords="95,363,26" alt="Duracell Batteries Ireland" href="http://www.duracelldirect.ie" />
+						<area class="ddit" shape="circle" coords="334,571,26" alt="Duracell Batterie Italia" href="http://www.duracelldirect.it" />
+						<area class="ddnl" shape="circle" coords="236,366,26" alt="Duracell Batterijen Nederland" href="http://www.duracelldirect.nl" />
+						<area class="ddno" shape="circle" coords="289,220,26" alt="Duracell Batterier Norge" href="http://www.duracelldirect.no" />
+						<area class="ddpl" shape="circle" coords="416,377,26" alt="Duracell Baterie Polska" href="http://www.duracelldirect.pl" />
+						<area class="ddse" shape="circle" coords="355,238,26" alt="Duracell Batterier Sverige" href="http://www.duracelldirect.se" />
+						<area class="ddru" shape="circle" coords="612,266,26" alt="Батареи Duracell России" href="http://www.duracelldirect.ru" />
+						<area class="ddpt" shape="circle" coords="23,582,26" alt="Батареи Duracell Portugal" href="http://www.duracelldirect.com.pt" />
+					</map>
+				</div>
+				<div class="contact">
+					<h2>Local Contact Info</h2>
+					<div id="default-text">Please hover on a country flag to view the local contact info.</div>
+					<div id="shop-info">
+					  <table class="ddus">
+							<tr>
+								<th colspan="2" class="flag-country"><img src="/i/flag/ddus.png" width="52" height="52" alt="USA"/><p>USA</p></th>
+							</tr>
+							<tr>
+								<th>Language:</th>
+								<td>English</td>
+							</tr>
+							<tr>
+								<th>Web site:</th>
+								<td><a href="http://www.duracelldirect.com">www.DuracellDirect.com</a></td>
+							</tr>
+							<tr>
+								<th>Enquiries:</th>
+								<td><a href="mailto:enquiry@duracelldirect.com">enquiry@DuracellDirect.com</a></td>
+							</tr>
+							<tr>
+								<th>Telephone:</th>
+								<td>+1 401 214 2530</td>
+							</tr>
+							<tr>
+								<th>Fax:</th>
+								<td>..................</td>
+							</tr>
+							<tr>
+								<th>Web Store:</th>
+								<td>Online Shopping in US</td>
+							</tr>
+							<tr>
+								<th>Delivery:</th>
+								<td>Fast, Free Delivery!</td>
+							</tr>
+						</table>
+					  <table class="ddgb">
+							<tr>
+								<th colspan="2" class="flag-country"><img src="/i/flag/ddgb.png" width="52" height="52" alt="UK & N.Ireland"/><p>UK & N.Ireland</p></th>
+							</tr>
+							<tr>
+								<th>Language:</th>
+								<td>English</td>
+							</tr>
+							<tr>
+								<th>Web site:</th>
+								<td><a href="http://www.duracelldirect.co.uk">www.DuracellDirect.co.uk</a></td>
+							</tr>
+							<tr>
+								<th>Enquiries:</th>
+								<td><a href="mailto:enquiry@duracelldirect.co.uk">enquiry@DuracellDirect.co.uk</a></td>
+							</tr>
+							<tr>
+								<th>Telephone:</th>
+								<td>(0)20 8685 6305</td>
+							</tr>
+							<tr>
+								<th>Fax:</th>
+								<td>(0)20 8685 6310</td>
+							</tr>
+							<tr>
+								<th>Web Store:</th>
+								<td>Online Shopping in GBP</td>
+							</tr>
+							<tr>
+								<th>Delivery:</th>
+								<td>Free Next Working Day Delivery!</td>
+							</tr>
+						</table>
+						<table class="ddch">
+							<tr>
+								<th colspan="2" class="flag-country"><img src="/i/flag/ddch.png" width="52" height="52" alt="Switzerland"/><p>Switzerland</p></th>
+							</tr>
+							<tr>
+								<th>Language:</th>
+								<td>Deutsch, Français, Italiano</td>
+							</tr>
+							<tr>
+								<th>Web site:</th>
+								<td><a href="http://www.duracelldirect.ch">www.DuracellDirect.ch</a></td>
+							</tr>
+							<tr>
+								<th>Enquiries:</th>
+								<td><a href="mailto:anfrage@duracelldirect.ch">anfrage@DuracellDirect.ch</a></td>
+							</tr>
+							<tr>
+								<th>Telephone:</th>
+								<td>0445 80 71 80</td>
+							</tr>
+							<tr>
+								<th>Fax:</th>
+								<td>+44 (0)20 8685 6310</td>
+							</tr>
+							<tr>
+								<th>Web Store:</th>
+								<td>Online Shopping in CHF</td>
+							</tr>
+							<tr>
+								<th>Delivery:</th>
+								<td>Fast, Free Delivery!</td>
+							</tr>
+						</table>
+						<table class="ddcz">
+							<tr>
+								<th colspan="2" class="flag-country"><img src="/i/flag/ddcz.png" width="52" height="52" alt="Czech Republic, Česká Republika"/><p>Czech Republic, Česká Republika</p></th>
+							</tr>
+							<tr>
+								<th>Language:</th>
+								<td>Czech, Čeština</td>
+							</tr>
+							<tr>
+								<th>Web site:</th>
+								<td><a href="http://www.duracelldirect.cz">www.DuracellDirect.cz</a></td>
+							</tr>
+							<tr>
+								<th>Enquiries:</th>
+								<td><a href="mailto:dotaz@duracelldirect.cz">dotaz@DuracellDirect.cz</a></td>
+							</tr>
+							<tr>
+								<th>Telephone:</th>
+								<td>225 986 578</td>
+							</tr>
+							<tr>
+								<th>Fax:</th>
+								<td>+44 (0)20 8685 6310</td>
+							</tr>
+							<tr>
+								<th>Web Store:</th>
+								<td>Online Shopping in CZK</td>
+							</tr>
+							<tr>
+								<th>Delivery:</th>
+								<td>Fast, Free Delivery!</td>
+							</tr>
+						</table>
+						<table class="ddde">
+							<tr>
+								<th colspan="2" class="flag-country"><img src="/i/flag/ddde.png" width="52" height="52" alt="Germany, Deutschland"/><p>Germany, Deutschland</p></th>
+							</tr>
+							<tr>
+								<th>Language:</th>
+								<td>German, Deutsch</td>
+							</tr>
+							<tr>
+								<th>Web site:</th>
+								<td><a href="http://www.duracelldirect.de">www.DuracellDirect.de</a></td>
+							</tr>
+							<tr>
+								<th>Enquiries:</th>
+								<td><a href="mailto:anfrage@duracelldirect.de">anfrage@DuracellDirect.de</a></td>
+							</tr>
+							<tr>
+								<th>Telephone:</th>
+								<td>069 222 222 081</td>
+							</tr>
+							<tr>
+								<th>Fax:</th>
+								<td>069 222 222 082</td>
+							</tr>
+							<tr>
+								<th>Web Store:</th>
+								<td>Online Shopping in EUR</td>
+							</tr>
+							<tr>
+								<th>Delivery:</th>
+								<td>Fast, Free Delivery!</td>
+							</tr>
+						</table>
+						<table class="dddk">
+							<tr>
+								<th colspan="2" class="flag-country"><img src="/i/flag/dddk.png" width="52" height="52" alt="Denmark, Danmark"/><p>Denmark, Danmark</p></th>
+							</tr>
+							<tr>
+								<th>Language:</th>
+								<td>Danish, Dansk</td>
+							</tr>
+							<tr>
+								<th>Web site:</th>
+								<td><a href="http://www.duracelldirect.dk">www.DuracellDirect.dk</a></td>
+							</tr>
+							<tr>
+								<th>Enquiries:</th>
+								<td><a href="mailto:foresporgsel@duracelldirect.dk">foresporgsel@DuracellDirect.dk</a> (English Only)</td>
+							</tr>
+							<tr>
+								<th>Telephone:</th>
+								<td>70 14 28 97 (English Only)</td>
+							</tr>
+							<tr>
+								<th>Fax:</th>
+								<td>+44 (0)20 8685 6310</td>
+							</tr>
+							<tr>
+								<th>Web Store:</th>
+								<td>Online Shopping in DKK</td>
+							</tr>
+							<tr>
+								<th>Delivery:</th>
+								<td>Fast, Free Delivery!</td>
+							</tr>
+						</table>
+						<table class="ddes">
+							<tr>
+								<th colspan="2" class="flag-country"><img src="/i/flag/ddes.png" width="52" height="52" alt="Spain, Espa&ntilde;a"/><p>Spain, Espa&ntilde;a</p></th>
+							</tr>
+							<tr>
+								<th>Language:</th>
+								<td>Spanish, Espa&ntilde;ol</td>
+							</tr>
+							<tr>
+								<th>Web site:</th>
+								<td><a href="http://www.duracelldirect.es">www.DuracellDirect.es</a></td>
+							</tr>
+							<tr>
+								<th>Enquiries:</th>
+								<td><a href="mailto:consulta@duracelldirect.es">consulta@DuracellDirect.es</a></td>
+							</tr>
+							<tr>
+								<th>Telephone:</th>
+								<td>914 14 66 02</td>
+							</tr>
+							<tr>
+								<th>Fax:</th>
+								<td>914 14 66 05</td>
+							</tr>
+							<tr>
+								<th>Web Store:</th>
+								<td>Online Shopping in EUR</td>
+							</tr>
+							<tr>
+								<th>Delivery:</th>
+								<td>Fast, Free Delivery!</td>
+							</tr>
+						</table>
+						<table class="ddpt">
+							<tr>
+								<th colspan="2" class="flag-country"><img src="/i/flag/ddpt.png" width="52" height="52" alt="Portugal"/><p>Portugal</p></th>
+							</tr>
+							<tr>
+								<th>Language:</th>
+								<td>Portuguese, português</td>
+							</tr>
+							<tr>
+								<th>Web site:</th>
+								<td><a href="http://www.duracelldirect.com.pt">www.DuracellDirect.com.pt</a></td>
+							</tr>
+							<tr>
+								<th>Enquiries:</th>
+								<td><a href="mailto:inquerito@duracelldirect.com.pt">inquerito@duracelldirect.com.pt</a></td>
+							</tr>
+							<tr>
+								<th>Telephone:</th>
+								<td>914 14 66 02</td>
+							</tr>
+							<tr>
+								<th>Fax:</th>
+								<td>914 14 66 05</td>
+							</tr>
+							<tr>
+								<th>Web Store:</th>
+								<td>Online Shopping in EUR</td>
+							</tr>
+							<tr>
+								<th>Delivery:</th>
+								<td>Fast, Free Delivery!</td>
+							</tr>
+						</table>
+						<table class="ddfi">
+							<tr>
+								<th colspan="2" class="flag-country"><img src="/i/flag/ddfi.png" width="52" height="52" alt="Finland, Suomi"/><p>Finland, Suomi</p></th>
+							</tr>
+							<tr>
+								<th>Language:</th>
+								<td>Finnish, Suomi</td>
+							</tr>
+							<tr>
+								<th>Web site:</th>
+								<td><a href="http://www.duracelldirect.fi">www.DuracellDirect.fi</a></td>
+							</tr>
+							<tr>
+								<th>Enquiries:</th>
+								<td><a href="mailto:tiedustelu@duracelldirect.fi">tiedustelu@DuracellDirect.fi</a></td>
+							</tr>
+							<tr>
+								<th>Telephone:</th>
+								<td>09 23 19 51 90</td>
+							</tr>
+							<tr>
+								<th>Fax:</th>
+								<td>+44 (0)20 8685 6310</td>
+							</tr>
+							<tr>
+								<th>Web Store:</th>
+								<td>Online Shopping in EUR</td>
+							</tr>
+							<tr>
+								<th>Delivery:</th>
+								<td>Fast, Free Delivery!</td>
+							</tr>
+						</table>
+						<table class="ddfr">
+							<tr>
+								<th colspan="2" class="flag-country"><img src="/i/flag/ddfr.png" width="52" height="52" alt="France"/><p>France</p></th>
+							</tr>
+							<tr>
+								<th>Language:</th>
+								<td>French, Fran&ccedil;aise</td>
+							</tr>
+							<tr>
+								<th>Web site:</th>
+								<td><a href="http://www.duracelldirect.fr">www.DuracellDirect.fr</a></td>
+							</tr>
+							<tr>
+								<th>Enquiries:</th>
+								<td><a href="mailto:enquete@duracelldirect.fr">enquete@DuracellDirect.fr</a></td>
+							</tr>
+							<tr>
+								<th>Telephone:</th>
+								<td>01 70 70 96 28</td>
+							</tr>
+							<tr>
+								<th>Fax:</th>
+								<td>01 77 72 59 07</td>
+							</tr>
+							<tr>
+								<th>Web Store:</th>
+								<td>Online Shopping in EUR</td>
+							</tr>
+							<tr>
+								<th>Delivery:</th>
+								<td>Fast, Free Delivery!</td>
+							</tr>
+						</table>
+						<table class="ddie">
+							<tr>
+								<th colspan="2" class="flag-country"><img src="/i/flag/ddie.png" width="52" height="52" alt="Ireland"/><p>Ireland</p></th>
+							</tr>
+							<tr>
+								<th>Language:</th>
+								<td>English</td>
+							</tr>
+							<tr>
+								<th>Web site:</th>
+								<td><a href="http://www.duracelldirect.ie">www.DuracellDirect.ie</a></td>
+							</tr>
+							<tr>
+								<th>Enquiries:</th>
+								<td><a href="mailto:enquiry@duracelldirect.ie">enquiry@DuracellDirect.ie</a></td>
+							</tr>
+							<tr>
+								<th>Telephone:</th>
+								<td>01 69 68 402</td>
+							</tr>
+							<tr>
+								<th>Fax:</th>
+								<td>+44 (0)20 8685 6310</td>
+							</tr>
+							<tr>
+								<th>Web Store:</th>
+								<td>Online Shopping in EUR</td>
+							</tr>
+							<tr>
+								<th>Delivery:</th>
+								<td>Fast, Free Delivery!</td>
+							</tr>
+						</table>
+						<table class="ddit">
+							<tr>
+								<th colspan="2" class="flag-country"><img src="/i/flag/ddit.png" width="52" height="52" alt="Italy, Italia"/><p>Italy, Italia</p></th>
+							</tr>
+							<tr>
+								<th>Language:</th>
+								<td>Italian, Italiano</td>
+							</tr>
+							<tr>
+								<th>Web site:</th>
+								<td><a href="http://www.duracelldirect.it">www.DuracellDirect.it</a></td>
+							</tr>
+							<tr>
+								<th>Enquiries:</th>
+								<td><a href="mailto:richiesta@duracelldirect.it">richiesta@DuracellDirect.it</a></td>
+							</tr>
+							<tr>
+								<th>Telephone:</th>
+								<td>0236 04 92 13</td>
+							</tr>
+							<tr>
+								<th>Fax:</th>
+								<td>0236 04 92 16</td>
+							</tr>
+							<tr>
+								<th>Web Store:</th>
+								<td>Online Shopping in EUR</td>
+							</tr>
+							<tr>
+								<th>Delivery:</th>
+								<td>Fast, Free Delivery!</td>
+							</tr>
+						</table>
+						<table class="ddnl">
+							<tr>
+								<th colspan="2" class="flag-country"><img src="/i/flag/ddnl.png" width="52" height="52" alt="Netherlands, Nederland"/><p>Netherlands, Nederland</p></th>
+							</tr>
+							<tr>
+								<th>Language:</th>
+								<td>Dutch, Nederlands</td>
+							</tr>
+							<tr>
+								<th>Web site:</th>
+								<td><a href="http://www.duracelldirect.nl">www.DuracellDirect.nl</a></td>
+							</tr>
+							<tr>
+								<th>Enquiries:</th>
+								<td><a href="mailto:vraag@duracelldirect.eu">vraag@DuracellDirect.nl</a></td>
+							</tr>
+							<tr>
+								<th>Telephone:</th>
+								<td>020 71 68 097</td>
+							</tr>
+							<tr>
+								<th>Fax:</th>
+								<td>+44 (0)20 8685 6310</td>
+							</tr>
+							<tr>
+								<th>Web Store:</th>
+								<td>Online Shopping in EUR</td>
+							</tr>
+							<tr>
+								<th>Delivery:</th>
+								<td>Fast, Free Delivery!</td>
+							</tr>
+						</table>
+						<table class="ddno">
+							<tr>
+								<th colspan="2" class="flag-country"><img src="/i/flag/ddno.png" width="52" height="52" alt="Norway, Norge"/><p>Norway, Norge</p></th>
+							</tr>
+							<tr>
+								<th>Language:</th>
+								<td>Norwegian, Bokmal</td>
+							</tr>
+							<tr>
+								<th>Web site:</th>
+								<td><a href="http://www.duracelldirect.no">www.DuracellDirect.no</a></td>
+							</tr>
+							<tr>
+								<th>Enquiries:</th>
+								<td><a href="mailto:kundeservice@duracelldirect.no">kundeservice@DuracellDirect.no</a> (English Only)</td>
+							</tr>
+							<tr>
+								<th>Telephone:</th>
+								<td>21 03 39 97 (English Only)</td>
+							</tr>
+							<tr>
+								<th>Fax:</th>
+								<td>+44 (0)20 8685 6310</td>
+							</tr>
+							<tr>
+								<th>Web Store:</th>
+								<td>Online Shopping in NOK</td>
+							</tr>
+							<tr>
+								<th>Delivery:</th>
+								<td>Fast, Free Delivery!</td>
+							</tr>
+						</table>
+						<table class="ddpl">
+							<tr>
+								<th colspan="2" class="flag-country"><img src="/i/flag/ddpl.png" width="52" height="52" alt="Poland, Polska"/><p>Poland, Polska</p></th>
+							</tr>
+							<tr>
+								<th>Language:</th>
+								<td>Polish, Polska</td>
+							</tr>
+							<tr>
+								<th>Web site:</th>
+								<td><a href="http://www.duracelldirect.pl">www.DuracellDirect.pl</a></td>
+							</tr>
+							<tr>
+								<th>Enquiries:</th>
+								<td><a href="mailto:zapytanie@duracelldirect.pl">zapytanie@DuracellDirect.pl</a></td>
+							</tr>
+							<tr>
+								<th>Telephone:</th>
+								<td>222 953 602</td>
+							</tr>
+							<tr>
+								<th>Fax:</th>
+								<td>+44 (0)20 8685 6310</td>
+							</tr>
+							<tr>
+								<th>Web Store:</th>
+								<td>Online Shopping in PLN</td>
+							</tr>
+							<tr>
+								<th>Delivery:</th>
+								<td>Fast, Free Delivery!</td>
+							</tr>
+						</table>
+						<table class="ddse">
+							<tr>
+								<th colspan="2" class="flag-country"><img src="/i/flag/ddse.png" width="52" height="52" alt="Sweden, Sverige"/><p>Sweden, Sverige</p></th>
+							</tr>
+							<tr>
+								<th>Language:</th>
+								<td>Swedish, Svenska</td>
+							</tr>
+							<tr>
+								<th>Web site:</th>
+								<td><a href="http://www.duracelldirect.se">www.DuracellDirect.se</a></td>
+							</tr>
+							<tr>
+								<th>Enquiries:</th>
+								<td><a href="mailto:forfragan@duracelldirect.se">forfragan@DuracellDirect.se</a> (English Only)</td>
+							</tr>
+							<tr>
+								<th>Telephone:</th>
+								<td>08 50 68 54 91 (English Only)</td>
+							</tr>
+							<tr>
+								<th>Fax:</th>
+								<td>+44 (0)20 8685 6310</td>
+							</tr>
+							<tr>
+								<th>Web Store:</th>
+								<td>Online Shopping in SEK</td>
+							</tr>
+							<tr>
+								<th>Delivery:</th>
+								<td>Fast, Free Delivery!</td>
+							</tr>
+						</table>
+						<table class="ddru">
+							<tr>
+								<th colspan="2" class="flag-country"><img src="/i/flag/ddru.png" width="52" height="52" alt="Russia"/><p>Russia</p></th>
+							</tr>
+							<tr>
+								<th>Language:</th>
+								<td>Russian</td>
+							</tr>
+							<tr>
+								<th>Web site:</th>
+								<td><a href="http://www.duracelldirect.ru">www.DuracellDirect.ru</a></td>
+							</tr>
+							<tr>
+								<th>Enquiries:</th>
+								<td><a href="mailto:info@duracelldirect.eu">info@DuracellDirect.eu</a> (English Only)</td>
+							</tr>
+							<tr>
+								<th>Telephone:</th>
+								<td>+44 (0)20 8685 6305 (English Only)</td>
+							</tr>
+							<tr>
+								<th>Fax:</th>
+								<td>+44 (0)20 8685 6310 (English Only)</td>
+							</tr>
+						</table>
+					</div>
+					<div class="box-footer"></div>
+				</div>
+				
+				<div class="contact">
+					<div class="box-header">
+						<h3><a href="http://www.duracelldirect.asia/" title="View Australian &amp; Asian Sites"/>View USA & Australian &amp; Asian Sites:</a></h3>
+					</div>
+					<p class="other-flag">
+					  <a href="http://www.duracelldirect.com" title="View USA Site" >
+					        <img src="i/flag/ddus.png" title="View USA Site" id="ddus" width="52" height="52" style="border-radius:50%;"/>
+					  </a>
+					  <a href="http://www.duracelldirect.asia/" title="View Australian &amp; Asian Sites"/>
+						<img src="/i/flag/ddau.png" title="View Australian &amp; Asian Sites" width="52" height="52"/>
+						
+					</a>
+                                        
+                                        </p>
+					<div class="box-footer"></div>
+				</div>
+			</div>
+			
+			<!-- begin header -->
+			<div id="header">
+				<a class="bunny-link" href="/" title="Duracell Batteries - European Locations: UK, France, Germany, Italy, Spain, Netherlands, Denmark: DuracellDirect.eu"></a>
+				<a class="logo clearfix" href="/" title="Duracell Batteries - European Locations: UK, France, Germany, Italy, Spain, Netherlands, Denmark: DuracellDirect.eu" style="margin-top:36px">
+					<img src="/i/logo/duracelldirect-eu.png" alt="Duracell Batteries - European Locations: UK, France, Germany, Italy, Spain, Netherlands, Denmark: DuracellDirect.eu" width="242" height="64"/>
+				</a>
+			</div>
+			<!-- end header -->
+			
+			<!--  begin site footer -->
+			<div id="footer" style="background:#000 url(/i/theme/theme_no_footer.jpg) left -445px no-repeat">
+				<table class="footer-blobs" style="margin-top:10px"></table>
+				<p class="copyright">
+				 DuracellDirect.eu is operated by the Duracell licensee: PSA Parts Ltd. London, SW19 2PX, UK.<br>
+ <small>© 2018 DURACELL, Bethel, CT 06801. Duracell is a registered trademark of Duracell Batteries BVBA and Duracell U.S. Operations Inc., used under license. All rights reserved</small>		
+ 
+                        <!--	DuracellDirect.eu is operated by the Duracell licensee: PSA Parts Ltd. London, SW19 2PX, UK.<br>
+				<small>© 2006 DURACELL. DURACELL is a registered trademark of Duracell Batteries BVBA and Duracell U.S. Operations Inc., used under license.</small></p>-->
+			</div>
+			<!--  end site footer -->
+		</div>
+		<script type="text/javascript" src="/lib/js/jquery-1.4.2.min.js"></script>
+		<script>
+			$(function(){ 
+				$("area").hover(function() {  
+					$("#default-text").hide();
+					var className = $(this).attr("class");
+					$("#shop-info table").hide();
+					$("#shop-info").find("table."+className).show();
+				}, function(){  
+					
+				});  
+			        $("#ddus").hover(function() {
+			                $("#default-text").hide();
+					var idName = $(this).attr("id");
+					$("#shop-info table").hide();
+					$("#shop-info").find("table."+idName).show();
+ 			        }, function(){
+			        });
+			});
+		</script>
+	</body>
+</html>
+
+

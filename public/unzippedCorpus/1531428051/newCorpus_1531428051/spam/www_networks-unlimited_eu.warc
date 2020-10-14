@@ -1,0 +1,1126 @@
+WARC/1.0
+WARC-Type: warcinfo
+WARC-Date: 2018-05-30T17:52:31Z
+WARC-Record-ID: <urn:uuid:33edc8aa-0a53-41ce-8969-c892d41f5d7a>
+WARC-All-Language: en
+WARC-All-Content_type: text/html, text/html; charset=utf-8
+Content-Type: application/http;msgtype=response
+Content-Length: 46
+
+WARCProcessor by SING Group www.sing-group.com
+
+WARC/1.0
+WARC-Type: response
+WARC-Record-ID: <http://www.networks-unlimited.eu>
+WARC-Date: 20180530175231
+WARC-Target-URI: http://www.networks-unlimited.eu
+WARC-Language: en
+Content-Type: application/http;msgtype=response
+Content-Length: 65090
+
+HTTP/1.1 200
+Content-Type:text/html; charset=utf-8
+
+
+<!--
+--                            .                                       oooo                   
+--                          .o8                                       `888                   
+--  ooo. .oo.    .ooooo.  .o888oo oooo oooo    ooo  .ooooo.  oooo d8b  888  oooo   .oooo.o   
+--  `888P"Y88b  d88' `88b   888    `88. `88.  .8'  d88' `88b `888""8P  888 .8P'   d88(  "8   
+--   888   888  888ooo888   888     `88..]88..8'   888   888  888      888888.    `"Y88b.    
+--   888   888  888    .o   888 .    `888'`888'    888   888  888      888 `88b.  o.  )88b   
+--  o888o o888o `Y8bod8P'   "888"     `8'  `8'     `Y8bod8P' d888b    o888o o888o 8""888P'   
+--                          oooo   o8o                     o8o      .                   .o8  
+--                          `888   `"'                     `"'    .o8                  "888  
+--  oooo  oooo  ooo. .oo.    888  oooo  ooo. .oo.  .oo.   oooo  .o888oo  .ooooo.   .oooo888  
+--  `888  `888  `888P"Y88b   888  `888  `888P"Y88bP"Y88b  `888    888   d88' `88b d88' `888  
+--   888   888   888   888   888   888   888   888   888   888    888   888ooo888 888   888  
+--   888   888   888   888   888   888   888   888   888   888    888 . 888    .o 888   888  
+--   `V88V"V8P' o888o o888o o888o o888o o888o o888o o888o o888o   "888" `Y8bod8P' `Y8bod88P"
+                                                                        -->
+<!--[if lte IE 9]>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<![endif]-->
+<!--[if !IE]>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html> 
+<![endif]-->
+<!-- 101011 switched from above to accommodate slide topright banner and IE <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">  -->
+<html xmlns="http://www.w3.org/1999/xhtml">
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+	
+<head>
+			
+<title>NU :: Enterprise Security | Infrastructure Performance Management | IT Service Management :: Data Forensics</title>
+	
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+	
+<link rel="shortcut icon" href="/favicon.ico">
+<meta name="description" content="Networks Unlimited help companies both large and small reduce costs, manage risk and increase business efficiency through improved IT operations"/>
+<link href="http://www.nultd.nu/css/nu2011_content.css" rel="stylesheet" type="text/css">
+			
+<!-- Plugin styles -->
+<link rel="stylesheet" type="text/css" href="/css/sliderkit-core.css" media="screen, projection">
+<link rel="stylesheet" type="text/css" href="/css/sliderkit-demos.css" media="screen, projection">
+<link rel="stylesheet" type="text/css" href="/css/nu_index_style.css" media="screen">
+<!-- <link href="script/easyslider1.7/css/screen.css" rel="stylesheet" type="text/css" media="screen"> -->
+<link rel="stylesheet" type="text/css" href="/script/jqfancybox/fancybox/jquery.fancybox-1.3.4.css" media="screen">
+ 
+<!--[if !IE 7]>
+	
+<style type="text/css">
+		/* #wrap {display:table;height:100%; margin: 0 auto;} */
+	
+</style>
+<![endif]--> 
+<!--[if lt IE 9]>
+<script src="http://ie7-js.googlecode.com/svn/version/2.1(beta4)/IE9.js">IE7_PNG_SUFFIX=".png";
+</script>
+<![endif]-->
+<!--[if IE 6]>  
+<style>  
+body {behavior: url("csshover3.htc");}  
+#menu li .drop {background:url("images/drop.gif") no-repeat right 8px;  
+</style>  
+<![endif]-->  
+<script type="text/javascript">
+function submitform2()
+{
+    document.searchform2.submit();
+}
+</script> 
+<script type="text/javascript">
+function moresupp()
+{
+    document.moresupp.submit();
+}
+</script> 
+<script type="text/javascript">
+<!--
+function wopen(url, name, w, h)
+{
+  // Fudge factors for window decoration space.
+  // In my tests these work well on all platforms & browsers.
+  w += 32;
+  h += 96;
+  wleft = (screen.width - w) / 2;
+  wtop = (screen.height - h) / 2;
+  // IE5 and other old browsers might allow a window that is
+  // partially offscreen or wider than the screen. Fix that.
+  // (Newer browsers fix this for us, but let's be thorough.)
+  if (wleft < 0) {
+    w = screen.width;
+    wleft = 0;
+  }
+  if (wtop < 0) {
+    h = screen.height;
+    wtop = 0;
+  }
+  var win = window.open(url,
+    name,
+    'width=' + w + ', height=' + h + ', ' +
+    'left=' + wleft + ', top=' + wtop + ', ' +
+    'location=no, menubar=no, ' +
+    'status=no, toolbar=no, scrollbars=no, resizable=no');
+  // Just in case width and height are ignored
+  win.resizeTo(w, h);
+  // Just in case left and top are ignored
+  win.moveTo(wleft, wtop);
+  win.focus();
+}
+// -->
+</script>
+	
+<!-- Plugin scripts -->
+		
+<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.7/jquery.min.js">
+</script>
+		
+<script type="text/javascript" src="/script/jquery.sliderkit.1.5.1.js">
+</script>
+		
+<script type="text/javascript" src="/script/jquery.sliderkit.1.5.1.pack.js">
+</script>
+		
+<script type="text/javascript" src="/script/jquery.easing.1.3.min.js">
+</script>
+		
+<script type="text/javascript" src="/script/jquery.mousewheel.min.js">
+</script>
+		
+	
+<!-- Launch Slider Kit -->
+		
+<script type="text/javascript">
+			jQuery(window).load(function(){ //jQuery(window).load() must be used instead of jQuery(document).ready() because of Webkit compatibility				
+	
+				// News slider > Vertical
+				jQuery(".newslider-vertical").sliderkit({
+					shownavitems:4,
+					verticalnav:true,
+					navitemshover:true,
+					autospeed:6000,
+					circular:true
+				});
+				
+				// News slider > Horizontal
+				jQuery(".newslider-horizontal").sliderkit({
+					auto:false,
+					shownavitems:5,
+					panelfx:"sliding",
+					panelfxspeed:1000,
+					panelfxeasing:"easeInOutExpo", //"easeOutExpo", "easeOutCirc", etc.
+					mousewheel:true,
+					keyboard:true,
+					fastchange:false
+				});
+	
+			});	
+		
+</script>
+		
+	
+<!-- <script type="text/javascript" src="script/easyslider1.7/js/easySlider1.7.js">
+</script> -->
+	
+<!--	
+<script type="text/javascript" src="http://github.com/malsup/corner/raw/master/jquery.corner.js?v2.11">
+</script> -->
+<script type="text/javascript" src="http://www.networksunlimited.eu/script/jquery.corner.js">
+</script>
+<script language="JavaScript" type="text/javascript" src="http://www.nultd.nu/script/fstooltips.js">
+</script>
+	
+	
+		
+<script type="text/javascript">
+		!window.jQuery && document.write('
+<script src="\/script\/jqfancybox\/jquery-1.4.3.min.js"><\/script>');
+	
+</script>
+  
+<script type="text/javascript" src="/script/jqfancybox/fancybox/jquery.fancybox-1.3.4.pack.js">
+</script>
+		
+		
+<script type="text/javascript">
+/***********************************************
+* Disable Text Selection script- � Dynamic Drive DHTML code library (www.dynamicdrive.com)
+* This notice MUST stay intact for legal use
+* Visit Dynamic Drive at http://www.dynamicdrive.com/ for full source code
+***********************************************/
+function disableSelection(target){
+if (typeof target.onselectstart!="undefined") //IE route
+	target.onselectstart=function(){return false}
+else if (typeof target.style.MozUserSelect!="undefined") //Firefox route
+	target.style.MozUserSelect="none"
+else //All other route (ie: Opera)
+	target.onmousedown=function(){return false}
+target.style.cursor = "default"
+}
+//Sample usages
+//disableSelection(document.body) //Disable text selection on entire body
+//disableSelection(document.getElementById("mydiv")) //Disable text selection on element with id="mydiv"
+</script>
+<!-- end debug -->
+    
+<script type="text/javascript">
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-31244281-1']);
+  _gaq.push(['_trackPageview']);
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+</script>
+<script>
+var _prum = [['id', '5255754dabe53d117f000000'],
+             ['mark', 'firstbyte', (new Date()).getTime()]];
+(function() {
+    var s = document.getElementsByTagName('script')[0]
+      , p = document.createElement('script');
+    p.async = 'async';
+    p.src = '//rum-static.pingdom.net/prum.min.js';
+    s.parentNode.insertBefore(p, s);
+})();
+</script>
+  
+</head>
+<body style="margin-top:0">
+<!-- 
+<script type="text/javascript" src="script/cookiewarning.js">
+</script> -->
+<script type="text/javascript" id="la_x2s6df8d" src="//www.nultd.nu/liveagent/scripts/track.js">
+</script><img src="//www.nultd.nu/liveagent/scripts/pix.gif" onLoad="LiveAgentTracker.createButton('08766551', this);"/>
+<!-- 
+<div style="position:fixed; top:80px; right:2px; clear:both; margin:0; margin-top: 3px; float:right"><a href="/call_back.php?" target="popup" onClick="wopen('/call_back.php?', 'popup', 400, 600); return false;"><img src="http://www.networksunlimited.eu/images/cornercontact.gif" alt="" width="40" height="150"> </a>
+</div> -->
+<div id="showimage">
+</div>
+<div style="display: none;"><img src="http://www.networksunlimited.eu/images/any_arrows.png" alt="">
+</div>
+<table align="center">
+<tr>
+<td valign="top">
+<!-- <center> -->
+<div align="center" id="wrap">
+<!-- Start of top table --> 
+<div class="header">
+<div style="display:none">
+<img src="http://www.itsecurityworld.co.uk/images/bg.gif" alt="">
+<img src="http://www.itsecurityworld.co.uk/images/bgon.gif" alt="">
+</div>
+
+<script type="text/javascript">
+function submitform()
+{
+    document.searchform.submit();
+}
+</script>
+
+<div class="headernav" style="clear:both; margin:0; margin-right: 15px; margin-top: 10px; float:right">
+  	<div style="float: right; margin-right: 0px; clear: right; height: 30px; position: relative; bottom: 10px"><span class="fontdatewhite" style="color: whitesmoke; font-size: 17px"> enquiries: 0800 085 6661 (UK FreePhone) | +44 (0)1798 873 001 (Int'l) <!-- Wed, 30 May 2018 <!--	<?php echo date("D, j F Y" ,time()); ?>  --></span> </div>
+<!-- <span style="padding: 0px 0px 8px 12px; color: #ffffff">We're here to help. Please  &nbsp;<a class="headernav" href="http://www.nultd.nu/contact.shtml">email</a>&nbsp;or call us:&nbsp; 0800 085 6661 (UK FreePhone) | +44 (0)1798 873 001 (Int'l)</span> -->
+</div>  
+
+<div style="height: 94px; width:274px; margin: 0px; background: white url('http://www.nultd.nu/images/nulogo300112-1spinner.png') no-repeat 50% 50%; margin-top: 25px;"><div style="float: left"><img src="http://www.nultd.nu/images/tl_cornertx7.gif" width="18" height="14" border="0" alt=""></div><div style="margin: 0; float: right"><img src="http://www.nultd.nu/images/tr_cornertx7.gif" width="18" height="14" border="0" alt=""></div> 
+<div style="float: left; text-align: left; font-size: 9px; margin-top: 95px; margin-left: 75px">making networks better - since 1992</div>
+</div>
+
+<!-- <iframe style="float: right; width:180px; height:35px; margin:5px; margin-right: 15px" frameborder=0 allowtransparency=yes scrolling=no src="http://search.digitalpoint.com/iframe.php?site=www.nultd.nu&s=160&b=1&y=1"></iframe> -->
+
+	<div class="fontdatewhite" style="background-color: white; line-height: 1em; padding-right:15px">	Wed, 30 May 2018 </div>	<!--	<?php echo date("D, j F Y" ,time()); ?>  -->
+
+<ul id="navh" style="float: left; text-align: left;">	
+	
+	<li><a href="http://www.nultd.nu">Home</a></li>
+	
+	<li><a class="dropmenu" href="#">&nbsp;Products</a> <!-- Begin 1 columns Item -->
+    
+       <div class="dropdown_3columns"><!-- Begin 2 columns container -->
+         <h3>&nbsp;Partners</h3>
+            
+            <div class="col_1">
+             
+                <ul class="noind">
+				    <li class="liitem"><a href="http://netreo.nultd.nu" target="_blank" title="Netreo - Single Pane of Glass Network Monitoring">Netreo&nbsp;<img src="/images/o09new.gif" height="11" width="22" border="0" alt=""></span></a></li>  
+                    <!-- <li class="liitem"><a href="http://www.nultd.nu/samanage.html" title="Samanage IT Service Desk and Asset Management">Samanage</a></li> -->
+                    <li class="liitem"><a href="http://www.nultd.nu/Products/netwrix/netwrix.shtml" title="NetWrix">NetWrix</a></li>
+                    <li class="liitem"><a href="http://www.nultd.nu/products/newboundary/index.html" title="PwrSmart PC Power Management">New Boundary&nbsp;<img src="/images/o09new.gif" height="11" width="22" border="0" alt=""></span></a></li>
+                    <li class="liitem"><a href="http://www.nultd.nu/Products/uptime/uptime.shtml" title="up.time software">Uptime Software</a></li>
+                    <li class="liitem"><a href="http://netvizura.nultd.nu" title="NetVizura Netflow Analyzer">NetVizura</a></li>    
+                    <li class="liitem"><a href="http://www.nultd.nu/Products/manageengine/manageengine.shtml" title="ManageEngine">ManageEngine</a></li>   
+                    <li class="liitem"><a href="http://www.nultd.nu/Products/sonicwall/sonicwall.shtml" title="SonicWALL">SonicWALL</a></li>
+                </ul>   
+                 
+            </div>
+        
+               <div class="col_1">
+               
+                  <ul class="noind">
+                    <li class="liitem"><a href="http://www.nultd.nu/Products/pjtec/pjtec.shtml" title="PJ Technologies">GoverLAN</a></li>
+                    <li class="liitem"><a href="http://www.nultd.nu/Products/talariax/talariax.shtml" title="TalariaX">TalariaX</a></li>
+                    <li class="liitem"><a href="http://www.nultd.nu/Products/panorama9/panorama9.shtml" title="Panorama9 - Control your entire IT environment from a single Cloud-based dashboard">Panorama9</a></li>
+                    <li class="liitem"><a href="http://www.nultd.nu/Products/Lepide/index.shtml" target="_blank" title="Lepide Software">Lepide</a></li>
+                    <li class="liitem"><a href="http://www.nultd.nu/Products/netflow-auditor/netflow-auditor.shtml" title="IdeaData">Netflow Auditor</a></li>   
+                    <li class="liitem"><a href="http://www.nultd.nu/products/eventtracker/index.html" title="SIEM &amp; Log Management">EventTracker&nbsp;<img src="/images/o09new.gif" height="11" width="22" border="0" alt=""></span></a></li>     
+                    <li class="liitem"><a href="http://www.nultd.nu/Products/cyberoam/cyberoam.shtml" title="Cyberoam">Cyberoam</a></li>
+                </ul>   
+                 
+            </div>
+            
+                  <div class="col_1">
+             
+                <ul class="noind">
+                    <li class="liitem"><a href="http://www.nultd.nu/Products/SecurActive/securactive.shtml" title="PerformanceVision (formerly SecurActive)">PerformanceVision</a></li>
+					<li class="liitem"><a href="http://www.nultd.nu/Products/heroix/heroix.shtml" title="Heroix Longitude">Heroix</a></li>
+                    <!-- <li class="liitem"><a href="http://logfiller.nultd.nu/index.html" title="Logfiller User Experience Monitoring" target="_blank"><span style="display: block; padding-right: 5px;">Logfiller&nbsp;<img src="/images/o09new.gif" height="11" width="22" border="0" alt=""></span></a></li> -->
+                    <li class="liitem"><a href="http://www.nultd.nu/Products/sysaid/index.html" title="SysAid Help Desk, ITSM, Asset Management">SysAid ITSM</a></li>   
+                    <li class="liitem"><a href="http://www.nultd.nu/products/VXL/index.html" title="VXL Fusion Universal Device and Asset Management">VXL Fusion UDM&nbsp;<img src="/images/o09new.gif" height="11" width="22" border="0" alt=""></span></a></li>
+                    <li class="liitem"><a href="http://www.nultd.nu/Products/mutiny/mutiny.shtml">Mutiny</a></li>
+                    <li class="liitem"><a href="http://www.netbraintech.com?partner=networksunlimited" target="_blank">NetBrain</a></li>
+                    <li class="liitem"><a href="http://www.nultd.nu/Products/wildpackets/wildpackets.shtml">Savvius (formerly WildPackets)</a></li>
+                    <!-- <li class="liitem"><a href="http://www.nultd.nu/Products/norman/norman.shtml" title="Norman Data">Norman Data</a></li> -->
+                </ul>   
+                 
+            </div>
+
+            
+        </div><!-- End 2 columns container -->
+    
+    </li><!-- End 1 columns Item -->	
+	
+	
+	<li><a class="dropmenu" href="#">&nbsp;Solutions</a> <!-- was href="#" --><!-- Begin 4 columns Item -->
+    
+        <div class="dropdown_4columns"><!-- Begin 4 columns container -->
+        
+            <div class="col_4">
+                <h1>Solutions Lineup</h1>
+            </div>
+            
+            <div class="col_1">
+                <h3>&nbsp;Manage</h3>
+                <ul class="noind">
+                <li class="liitem"> <form name="formt3" action="http://www.nultd.nu/nu_category12.php" method="post" style="display: inline; margin: 0;"><a href="javascript: document.formt3.submit();">Application Performance</a><input type="hidden" name="varpv" value="Applications_Performance_Management"><input type="hidden" name="varsubcategory" value=""></form></li>
+				<!-- <li class="liitem"> <form name="form4" action="http://www.nultd.nu/nu_category12.php" method="post" style="display: inline; margin: 0;"><a href="javascript: document.form4.submit();">Performance Management &amp; Troubleshooting</a><input type="hidden" name="varpv" value="Applications_Performance_Management"><input type="hidden" name="varsubcategory" value=""></form></li> -->
+
+                <li class="liitem"> <form name="formt4" action="http://www.nultd.nu/nu_category12.php" method="post" style="display: inline; margin: 0;"><a href="javascript: document.formt4.submit();">Network Monitoring</a><input type="hidden" name="varpv" value="Network_Performance_and_Systems_Management"><input type="hidden" name="varsubcategory" value="Network_Monitoring"></form></li>
+               
+                   <!--  <li class="liitem"><a href="http://www.nultd.nu/nu_solution_m11.php?varpv=Network_Performance_and_Systems_Management">Network Monitoring</a></li> -->
+                    
+                  <li class="liitem"><a href="http://www.nultd.nu/nu_solution_m12str.php?varpv=Network_Performance_and_Systems_Management&varsubcategory=Server_Monitoring">Server Monitoring</a></li>
+                    <li class="liitem"><a href="http://www.nultd.nu/nu_solution_m12str.php?varpv=Change_Auditing_and_Management">Change Auditing &amp; Management</a></li>
+                    <li class="liitem"><a href="http://www.nultd.nu/nu_solution_m12str.php?varpv=ITSM_Service_and_Business_Process_Management">IT Service &amp; Business Process Management</a></li>
+                    <li class="liitem"><a href="http://www.nultd.nu/nu_solution_m12str.php?varsubcategory=Active_Directory_Management">Active Directory</a></li>
+					<li class="liitem"><a href="http://www.nultd.nu/nu_solution_m12str.php?varsubcategory=Asset_Management">IT Asset Management</a></li>
+					<li class="liitem"><a href="http://www.nultd.nu/Products/Lepide/index.shtml" target="_blank" title="Lepide Software">Exchange Management</a></li>
+                </ul>   
+                 
+            </div>
+    
+            <div class="col_1">
+            
+                <h3>&nbsp;Secure</h3>
+                <ul class="noind">
+                     <li class="liitem"> <a href="http://www.nultd.nu/nu_solution_m12str.php?varpv=Network_Security_and_Compliance&varsubcategory=">Network Security and Compliance</a></li>
+                    <li class="liitem"> <a href="http://www.nultd.nu/nu_category_m12str.php?varpv=Network_Security_and_Compliance&varsubcategory=Firewall/VPN_Solutions">Firewall/VPN Solutions</a></li>
+                    <li class="liitem"> <a href="http://www.nultd.nu/nu_category_m12str.php?varpv=Network_Security_and_Compliance&varsubcategory=Firewall/Server_Log_File_Analysis">Firewall/Event Log File Analysis</a></li>
+                    <li class="liitem"><a href="http://www.nultd.nu/nu_category_m12str.php?varpv=Network_Security_and_Compliance&varsubcategory=Endpoint_Security">Endpoint Security</a></li>
+                    <li class="liitem"><a href="http://www.nultd.nu/nu_category_m12str.php?varpv=Network_Security_and_Compliance&varsubcategory=Regulatory_Compliance">Regulatory Compliance</a></li>
+                    <li class="liitem"><a href="http://www.nultd.nu/nu_category_m12str.php?varpv=Network_Security_and_Compliance&varsubcategory=Identity_and_Access_Management">Identity and Access Management</a></li>
+                </ul>   
+                 
+            </div>
+    
+            <div class="col_1">
+            
+                <h3>&nbsp;Protect</h3>
+                <ul class="noind">
+                	<li class="liitem"><a href="http://www.nultd.nu/nu_category_m12str.php?varpv=Network_Security_and_Compliance&varsubcategory=Anomaly_Detection">Anomaly Detection</a></li>
+                	<li class="liitem"><a href="http://www.nultd.nu/nu_category_m12str.php?varpv=Network_Security_and_Compliance&varsubcategory=Anti-Virus">Anti-Virus</a></li>
+                	<li class="liitem"><a href="http://www.nultd.nu/nu_category_m12str.php?varpv=Network_Security_and_Compliance&varsubcategory=Anti-Spam">Anti-Spam</a></li>
+                	<li class="liitem"><a href="http://www.nultd.nu/nu_category_m12str.php?varpv=Network_Security_and_Compliance&varsubcategory=Content_Security">Content Security</a></li>
+                	<li class="liitem"><a href="http://www.nultd.nu/nu_category_m12str.php?varpv=Network_Security_and_Compliance&varsubcategory=Endpoint_Security">Endpoint Security</a></li>
+                	<li class="liitem"><a href="http://www.nultd.nu/nu_category_m12str.php?varpv=Network_Security_and_Compliance&varsubcategory=Email_Security">Email Security</a></li>
+                	<li class="liitem"><a href="http://www.nultd.nu/Products/Lepide/index.shtml" target="_blank" title="Lepide Software">Exchange Backup &amp; Recovery</a></li>
+                </ul>   
+                 
+            </div>
+    
+            <div class="col_1">
+        
+                <h3>&nbsp;Support</h3>
+                 <ul class="noind">
+                	<li class="liitem"><a href="http://www.nultd.nu/nu_solution_m12str.php?varpv=HelpDesk_and_Asset_Management&varsubcategory="">IT Service Desk</a></li>
+                	<!-- product name <li class="liitem"><a href="http://www.nultd.nu/nu_category_m12str.php?varpv=HelpDesk and Asset Management&varsubcategory="">IT Service Desk</a></li> -->
+                	<li class="liitem"><a href="http://www.nultd.nu/nu_category_m12str.php?varpv=Network_Security_and_Compliance&varsubcategory=Compliance_and_Audit">Compliance and Audit</a></li>
+                	<li class="liitem"><a href="http://www.nultd.nu/nu_category_m12str.php?varpv=HelpDesk_and_Asset_Management&varsubcategory=Customer_Support">Customer Support</a></li>
+                	
+                	<li class="liitem"><a href="http://www.nultd.nu/nu_solution_m12str.php?varpv=Network_Performance_and_Systems_Management&varsubcategory=SMS_Gateway"><span style="display:block; padding-right:5px">SMS Alerting</span></a></li>
+
+                	<li class="liitem"><a href="http://www.nultd.nu/nu_category_m12str.php?varpv=Network_Performance_and_Systems_Management&varsubcategory=Remote_Administration">Remote Administration</a></li>
+                	<li class="liitem"><a href="http://www.nultd.nu/nu_category_m12str.php?varpv=Network_Security_and_Compliance&varsubcategory=Patch_Management">Patch Management</a></li>
+                   
+                </ul>   
+                 
+            </div>
+            
+        </div><!-- End 4 columns container -->
+    
+    </li><!-- End 4 columns Item -->
+	
+
+	
+	
+	<li><a href="http://www.nultd.nu/services.shtml">&nbsp;Services</a></li>
+	<li><a href="http://www.nultd.nu/support.shtml">&nbsp;Support</a></li>
+	<li><a class="dropmenu" href="#">&nbsp;About Us</a> <!-- Begin 2 columns Item -->
+	
+	        <div class="dropdown_2columns"><!-- Begin 2 columns container -->
+        
+            
+            <div class="col_1">
+              <h3>&nbsp;Company</h3>
+                <ul class="noind">
+					<li class="liitem"><a href="http://www.nultd.nu/about.shtml">About Us</a></li>
+					<li class="liitem"><a href="http://www.nultd.nu/contact.shtml">Contact Us</a></li>
+					<li class="liitem"><a href="http://www.nultd.nu/contact.shtml#map">Map &amp; Directions</a></li>
+					<li class="liitem"><a href="http://www.nultd.nu/contact.shtml#terms">Terms of Business</a></li>
+					<li class="liitem"><a href="http://www.nultd.nu/privacy.shtml">Privacy</a></li>
+                </ul>   
+                 
+            </div>
+        
+               <div class="col_1">
+                <h3>&nbsp;Community</h3>
+                  <ul class="noind">
+            	<li class="liitem" style="float:left; background: url(http://www.nultd.nu/images/subscribe-ico.gif) no-repeat left 50%;"><a style="padding-left: 25px" href="http://www.nultd.nu/join.html" target="newWindow" onclick="window.open('http://www.nultd.nu/join.html','newWindow','directories=0,height=450,width=400,location=0,menubar=0,resizable=1,scrollbars=1,status=0,toolbar=0')">subscribe</a></li>
+            	<!--<li class="liitem"><script src="//platform.linkedin.com/in.js" type="text/javascript"></script>
+<script type="IN/FollowCompany" data-id="300620" data-counter="none"></script></li> -->
+            	<li class="liitem" style="float:left; background: url(http://www.nultd.nu/images/twitter_logo2.jpg) no-repeat 3px 50%;"><a style="padding-left: 25px" href="https://twitter.com/networksU" class="twitter-follow-button" data-show-count="false" target="_blank">Follow Us</a></li>
+            	<li class="liitem" style="float:left; background: url(http://www.nultd.nu/images/email_icon.gif) no-repeat 3px 50%;"><script type="text/javascript"><!--
+
+var SubjectLine='Thought this site might be of interest - '+top.document.title; 
+var BodyText='You can see this page at: '+top.location.href;
+
+var Message='<A style="padding-left: 25px" HREF="mailto:?SUBJECT='+escape(SubjectLine)+'&BODY='+escape(BodyText)+'" OnMouseOver="status=\'Send this page to a colleague or friend\'; return true;" TITLE="Send this page to a colleague or friend">send this page<\/A>';
+
+var MessageIE='<A style="padding-left: 25px" HREF="mailto:?SUBJECT='+(SubjectLine)+'&BODY='+(BodyText)+'" OnMouseOver="status=\'Send this page to a colleague or friend\'; return true;" TITLE="Send this page to a colleague or friend"> send this page<\/A>';
+
+if(document.all) { document.write(MessageIE); }
+
+else { document.write(Message); }
+
+//--></SCRIPT></li>
+<!-- <li class="liitem"><h3>Coming Soon...</h3></li> -->
+                </ul>   
+                 
+            </div>
+
+            
+        </div><!-- End 2 columns container -->
+	
+	
+    </li><!-- End 2 columns Item -->
+</ul>
+		
+
+<!-- 
+<div align="center" style="width:100%;margin-left:0px">
+<table width="974" border="0" cellspacing="0" cellpadding="0">
+
+				<tr bgcolor="white">
+								<td><img src="http://www.sonicwall-solutions.com/images/spacer.gif" width="1" height="1" alt="" border="0"></td>
+			</tr>
+</table>
+</div>
+-->
+
+</div>
+<!-- End of top table -->
+<!-- </center> -->
+<!-- Start MAIN Content --> 
+<div class="outer3">
+<!-- Start full width -->
+<div style="clear: both; text-align: left; width: 974px; padding-bottom: 20px;">
+<!-- start front banner -->
+<div id="page" class="inner layout-1col" style="margin-top: 5px">
+<div id="content">
+<noscript>
+<div class="noscript">jQuery plugin requires Javascript activation.
+</div>
+</noscript>
+<!-- Start newslider-vertical -->
+<div class="sliderkit newslider-vertical">
+<div class="sliderkit-nav">
+<div class="sliderkit-nav-clip">
+<div class="tools">
+<ul>
+<li>
+<span class="slidertools" style="font-size: 11px; text-align: left; line-height: 1.2em; position: absolute; top: 10px; right: 50px; width: 200px;">Network, Applications and Server Management...
+</span><a style="display: block; width: 340px;" href="http://www.nultd.nu/nu_manage_m12str.php?varpv=Network_Performance_and_Systems_Management" title="Network, Applications and Server Management">Manage<img src="images/tools24.png" alt="Manage" border="0" style="margin: 0; position: relative; top: 5px; left: 225px;"></a></li>
+<li>
+<span class="slidertools" style="font-size: 11px; text-align: left; line-height: 1.2em; position: absolute; top: 59px; right: 50px; width: 200px;">Dynamic Network Security and VPN solutions...
+</span><a style="display: block; width: 340px;" href="http://www.nultd.nu/nu_secure_m12str.php?varpv=Network_Security_and_Compliance" title="Dynamic Network Security and VPN solutions">Secure<img src="images/lock24.png" alt="Secure" border="0" style="margin: 0; position: relative; top: 5px; left: 230px;"></a></li>
+<li>
+<span class="slidertools" style="font-size: 11px; text-align: left; line-height: 1.2em; position: absolute; top: 108px; right: 50px; width: 200px;">Protect systems, desktops and users from virus, malware, spam, phishing...
+</span><a style="display: block; width: 340px;" href="http://www.nultd.nu/nu_protect_m12str.php?varpv=Network_Security_and_Compliance" title="Protect systems, desktops and users from virus, malware, spam, phishing">Protect<img src="images/security24.png" alt="Protect" border="0" style="margin: 0; position: relative; top: 5px; left: 230px;"></a></li>
+<li>
+<span class="slidertools" style="font-size: 11px; text-align: left; line-height: 1.2em; position: absolute; top: 157px; right: 50px; width: 200px;">IT Service Management, Help Desk and Remote Support...
+</span><a style="display: block; width: 340px;" href="http://www.nultd.nu/nu_support_m12str.php?varpv=HelpDesk_and_Asset_Management" title="IT Service Management, Help Desk and Remote Support">Support<img src="images/users24.png" alt="Support" border="0" style="margin: 0; position: relative; top: 5px; left: 225px;"></a></li>
+</ul>
+</div>
+</div>
+</div>
+<div align="left" class="sliderkit-panels" style="z-index:99; margin-top: 5px;">
+<div class="sliderkit-panel">
+<div class="sliderkit-news"><a href="http://www.nultd.nu/nu_manage_m12str.php?varpv=Network_Performance_and_Systems_Management" title="Manage"><img src="/images/nufront-manage11-1.jpg" alt="Manage your networks, servers and applications"></a><a class="sliderkit-news-readmore" href="http://www.nultd.nu/nu_manage_m12str.php?varpv=Network_Performance_and_Systems_Management">Learn more&nbsp;
+<span style="margin-right:3px; font-size: 1.3em;">&raquo;
+</span></a>
+</div>
+</div>
+<div class="sliderkit-panel">
+<div class="sliderkit-news"><a href="http://www.nultd.nu/nu_secure_m12str.php?varpv=Network_Security_and_Compliance" title=""><img src="/images/nufront-manage11-3.jpg" alt="Secure"></a><a class="sliderkit-news-readmore" href="http://www.nultd.nu/nu_secure_m12str.php?varpv=Network_Security_and_Compliance">Learn more&nbsp;
+<span style="margin-right:3px; font-size: 1.3em;">&raquo;
+</span></a>
+</div>
+</div>
+<div class="sliderkit-panel">
+<div class="sliderkit-news"><a href="http://www.nultd.nu/nu_protect_m12str.php?varpv=Network_Security_and_Compliance" title=""><img src="/images/nufront-manage11-4.jpg" alt="Protect"></a><a class="sliderkit-news-readmore" href="http://www.nultd.nu/nu_protect_m12str.php?varpv=Network_Security_and_Compliance">Learn more&nbsp;
+<span style="margin-right:3px; font-size: 1.3em;">&raquo;
+</span></a>
+</div>
+</div>
+<div class="sliderkit-panel">
+<div class="sliderkit-news"><a href="http://www.nultd.nu/nu_support_m12str.php?varpv=HelpDesk_and_Asset_Management" title=""><img src="/images/nufront-manage11-6.jpg" alt="Support"></a><a class="sliderkit-news-readmore" href="http://www.nultd.nu/nu_support_m12str.php?varpv=HelpDesk_and_Asset_Management">Learn more&nbsp;
+<span style="margin-right:3px; font-size: 1.3em;">&raquo;
+</span></a>
+</div>
+</div>
+</div>
+</div>
+<!-- // end of newslider-vertical -->
+</div>
+<div class="spacer">
+</div>
+</div>
+<!-- end front banner -->
+</div>
+<!-- End full width -->
+<!-- START LEFT COL -->
+<!-- END LEFT COL -->
+<!-- Start RIGHT COL -->
+<div class="rightcol3">
+<div style="padding: 15px 0px 0px 0px">
+</div>
+<div class="applemenu">
+<div class="silverheaderindex">
+<span class="h2" style="font-size: 12px; line-height: 1em; padding: 0px 0px 5px 15px; color: #000000">Get in touch...
+</span>
+</div> 
+<div align="left" style="border-left: 1px solid #E5E5E5; border-right: 1px solid #E5E5E5; border-bottom: 1px solid #E5E5E5; background: url(/images/hor_grad_10p_rev.gif) repeat-y;"> 
+<ul class="dotlist3" style="padding: 10px 5px 5px 10px; margin: 0px"> 
+<li>0800 085 6661 (Freephone)</li> 
+<li>
+<script type="text/javascript" id="la_x2s6df8d" src="http://www.nultd.nu/liveagent/scripts/track.js">
+</script><img src="http://www.nultd.nu/liveagent/scripts/pix.gif" onLoad="LiveAgentTracker.createButton('5898d13c', this);"/></li> 
+<li><a href="mailto:info@networks-unlimited.co.uk">Email</a></li> 
+<li><a href="contact.shtml">Contact form</a></li> 
+</ul> 
+</div>
+</div> 
+<div style="text-align: center; padding: 10px 0px 13px 0px"> 
+<script type="text/javascript" id="la_x2s6df8d" src="http://www.nultd.nu/liveagent/scripts/track.js">
+</script><img src="http://www.nultd.nu/liveagent/scripts/pix.gif" onLoad="LiveAgentTracker.createButton('button1', this);"/>
+</div>
+<!-- 
+<div class="applemenu">
+<div class="silverheaderindex">
+<span class="h2" style="font-size: 12px; line-height: 1em; padding: 0px 0px 5px 15px; color: #000000">I'm looking for...
+</span>
+</div> 
+<div align="left" style="border-left: 1px solid #E5E5E5; border-right: 1px solid #E5E5E5; border-bottom: 1px solid #E5E5E5; background: url(/images/hor_grad_10p_rev.gif) repeat-y;"> 
+<ul class="dotlist3" style="padding: 10px 5px 5px 10px; margin: 0px"> 
+<li><a href="">Demos</a></li> 
+<li>Data Sheets</li> 
+<li>White Papers</li> 
+<li><a href="">Videos</a></li> 
+<li>Case Studies</li> 
+</ul> 
+</div>
+</div>-->
+<div class="applemenu">
+<div class="silverheaderindex">
+<span class="h2" style="font-size: 12px; line-height: 1em; padding: 0px 0px 5px 15px; color: #000000">Featured Event...
+</span>
+</div>
+<div style="border: solid 1px #c0c0c0; padding-top:5px; padding-bottom:5px; text-align: center"><a href="/wp_roundtable.shtml"><img src="/images/omniengine7.jpg" alt="" width="179" border="0"></a>
+<div style="clear: both; text-align: center; padding-top:5px; padding-bottom:5px">
+<span class="h1" style="color: #006699; font-weight: bold; font-size: 12px">Tame Your 10Gb Networks! Roundtable Conference..
+</span>
+</div> 
+</div>
+</div> 
+<div class="applemenu" style="padding-top: 10px">
+<div class="silverheaderindex">
+<span class="h2" style="font-size: 12px; line-height: 1em; padding: 0px 0px 5px 15px; color: #000000">Featured Demo...
+</span>
+</div>
+<div style="border: solid 1px #c0c0c0; padding-top:5px; padding-bottom:5px; text-align: center"><a id="modal4" href="http://www.netflowauditor.com/quickstart.html"><img src="/images/NetFlowAuditor_demo.jpg" alt="" width="179" border="0"></a>
+<div style="clear: both; text-align: center; padding-top:5px; padding-bottom:5px">
+<span class="h1" style="color: #006699; font-weight: bold; font-size: 12px">..Every Byte, Every Packet, Every Flow, Every Minute
+</span>
+</div> 
+</div>
+</div> 
+<div style="padding: 10px 0px 0px 0px">
+</div>
+<div style="border-top: 2px solid #c0c0c0; border-bottom: 2px solid #c0c0c0; margin-bottom: 10px; margin-left:0px; width: 180px; text-align:left"><a href="http://www.nultd.nu/join.html" target="newWindow" onclick="window.open('http://www.nultd.nu/join.html','newWindow','directories=0,height=475,width=400,location=0,menubar=0,resizable=1,scrollbars=1,status=0,toolbar=0')" style="outline: 0"><img src="http://www.nultd.nu/images/newssubscribe.gif" width="160" height="29" border="0" alt=""></a>
+</div>
+<div style="padding: 5px 0px 0px 0px">
+</div>
+<div class="applemenu">
+<div class="silverheaderindex">
+<span class="h2" style="font-size: 12px; line-height: 1em; padding: 0px 0px 5px 15px; color: #000000">Latest news...
+</span>
+</div> 
+<div align="left" style="border-left: 1px solid #E5E5E5; border-right: 1px solid #E5E5E5; border-bottom: 1px solid #E5E5E5;"> 
+<!-- begin news --> 
+<div style="line-height:1.3em;margin-left:0px; margin-top:0px; width:180px" id="news1">
+
+<div style="border-top: 0px solid #c0c0c0; background: url(/images/hor_grad_10p_rev.gif) repeat-y; width:174px; padding: 10px 2px 5px 2px;"><a href="https://www.computerweekly.com/news/252442029/Business-still-not-addressing-insider-threat" class="news2">Business still not addressing insider threat</a></div> 
+
+
+<div style="border-top: 0px solid #c0c0c0; background: url(/images/hor_grad_10p_rev.gif) repeat-y; width:174px; padding: 10px 2px 5px 2px;"><a href="https://www.computerweekly.com/news/252442010/UK-security-spend-low-despite-breaches" class="news2">UK security spend low despite breaches</a></div> 
+
+
+<div style="border-top: 0px solid #c0c0c0; background: url(/images/hor_grad_10p_rev.gif) repeat-y; width:174px; padding: 10px 2px 5px 2px;"><a href="https://www.computerweekly.com/news/252441988/Max-Schremss-NOYB-initiates-GDPR-action" class="news2">Max Schrems?s NOYB initiates GDPR action</a></div> 
+
+
+<div style="border-top: 0px solid #c0c0c0; background: url(/images/hor_grad_10p_rev.gif) repeat-y; width:174px; padding: 10px 2px 5px 2px;"><a href="https://www.computerweekly.com/news/252441909/Former-Macedonian-PM-convicted-in-corruption-case-exposed-by-illegal-government-surveillance" title="Former Macedonian PM convicted in corruption case exposed by illegal government surveillance" class="news2">Former Macedonian PM convicted in corruption case exposed by illegal governme...</a></div> 
+
+
+<div style="border-top: 0px solid #c0c0c0; background: url(/images/hor_grad_10p_rev.gif) repeat-y; width:174px; padding: 10px 2px 5px 2px;"><a href="https://www.computerweekly.com/news/252441899/GDPR-puts-people-first-says-ICO" class="news2">GDPR puts people first, says ICO</a></div> 
+
+
+<div style="border-top: 0px solid #c0c0c0; background: url(/images/hor_grad_10p_rev.gif) repeat-y; width:174px; padding: 10px 2px 5px 2px;"><a href="https://www.computerweekly.com/news/252441838/Commitment-is-the-watchword-on-GDPR-D-Day" class="news2">Commitment is the watchword on GDPR D-Day</a></div> 
+
+<div style="margin-bottom:0px;padding: 20px 10px 10px 10px;text-align:right;"><img src="/images/poweredbyfeedcom.gif" border="0" alt=""> <!-- <div style="border:1px solid #c0c0c0;padding:1px 2px 2px 2px; margin-top:-1px; margin-right:5px; float:right"><a class="closebox" style="color: #315a83; font-size: 10px; line-height: 12px; font-family: Arial, sans-serif; text-decoration: none" href="http://www.networksunlimited.eu/news.shtml">Read More...</a></div> --> </div><br>
+<!-- 
+<script type="text/javascript" src="nunews_feedagg.php">
+</script> -->
+<!-- 
+<script language="javascript" type="text/javascript" src="rss_twit.php">
+</script> --> 
+</div> 
+</div>
+</div>
+<div style="display: none">
+<script type="text/javascript" src="http://feedjit.com/serve/?vv=1512&amp;tft=3&amp;dd=0&amp;wid=bf5d9b20af1a0f3d4efe7db88e13a694&amp;pid=0&amp;proid=0&amp;bc=FFFFFF&amp;tc=000000&amp;brd1=012B6B&amp;lnk=135D9E&amp;hc=FFFFFF&amp;hfc=2853A8&amp;btn=C99700&amp;ww=200&amp;wne=10&amp;srefs=0">
+</script>
+<noscript><a href="http://feedjit.com/">Live Traffic Stats</a>
+</noscript>
+</div>
+<div class="applemenu" style="padding-top: 10px">
+<div class="silverheaderindex">
+<span class="h2" style="font-size: 12px; line-height: 1em; padding: 0px 0px 50px 15px; color: #000000">Featured White Paper...
+</span>
+</div> 
+<div style="border: solid 1px #c0c0c0; padding-top:5px; padding-bottom:1px; text-align: center">
+<div align="center" style="border-left: 1px solid #E5E5E5; border-right: 1px solid #E5E5E5; border-bottom: 1px solid #E5E5E5;"> <a id="modal10" href="http://www.nultd.nu/Products/heroix/download_whitepaper.php"><img src="/images/heroixwhitepaper2.jpg" alt="Heroix White Paper" border="0"></a> 
+</div> 
+</div>
+<br>
+<br><a href="http://discovery.ariba.com/profile/AN01013802962" target="_blank">
+<div align="center"><img alt="View NU Network Products Ltd t/as Networks Unlimited profile on Ariba Discovery" border=0 src="images/aribabadge_180x55.jpg">
+</a>
+<br>
+<br>
+<br><a href='http://www.near.co.uk/computer-networking/'>
+<img alt="View NU Network Products Ltd t/as Networks Unlimited profile on Near" border=0 src="http://www.near.co.uk/Images/LinkLogos/near.gif" target="_blank">
+</a>
+</div>
+</div>
+</div>
+<!-- END RIGHT COL -->
+<!-- START MIDDLE COL -->
+<div class="middlecol3">
+<!-- start section 1 -->
+<div class="content-text" align="left">
+<!-- front banner was here -->
+<!-- dotline2 -->
+<!-- 
+<div align="left" class="cleardiv" style="width:759px; background: url(images/chocbg.gif) repeat-x left top; margin:0; padding: 6px; margin-bottom:4px; margin-left:0px;">
+<span class="headernav" style="color: #FFF"><b>Click on a logo below to see more details of our key partner solutions:</b>
+</span>
+</div> -->
+<div class="cleardiv" style="padding: 0px 0px 0px 0px; margin-top: 10px; width:763px">
+<!-- 
+<div class="content-text" style="float: right; margin-top:0px; border:1px solid #d5d5d5; width:126px; padding-top: 3px; padding-bottom: 3px; background-color: #FAFAFA;">
+<br>
+</div>--> 
+<div style="padding: 10px 0px 0px 0px">
+</div>
+<div style="background-color: #f5f5f5; float: left; width:763px; height: 230px; padding: 0px 0px 0px 3px">
+<h1 style="color:#336699; text-align: left; margin-top: 10px; font-size: 20px">Enterprise IT Management Solutions
+<br></h1><p class="content-text" style="margin: 0px; margin-right: 10px; padding: 5px 10px 0px 5px">Welcome to Networks Unlimited. Since 1992, we've been helping companies reduce costs, manage risk and increase business efficiency through improved IT operations. In addition to our long-standing and successful partner relationships, we continue to introduce innovative technologies, vendors and solutions to the UK and European markets. Our client base comprises thousands of some of the most respected end-user and partner organisations and is a clear testament to our success.</p>
+<img src="/images/NC_Finalist_2018.png)" alt="" border="0" style="width: 180px; float: right; margin: 0 0px 10px 5px;"><p class="content-text" style="margin-right: 10px; padding: 0px 10px 0px 5px">What we do. Our best-of-breed IT solutions enable clients to manage, optimize, secure and support their business-critical IT infrastructure. Some of the areas covered include: 
+<!--<a class="content-inline" href="http://www.nultd.nu/nu_solution_m12str.php?varpv=HelpDesk_and_Asset_Management&varsubcategory="">-->IT Service Desk and Assets
+<!--</a>-->, Networks and Applications, Servers and Desktops, Active Directory, NetFlow Monitoring and Analysis, Security and Threat Protection, Identity Management and much more. </p>
+</div>
+</div>
+</div> 
+<!-- end section 1 -->
+<div style="clear: both; padding: 10px 0px 5px 0px"><h1 style="color:#666666; text-align: left; margin-top: 30px; margin-left: 5px; font-size: 20px"> Key Partners:</h1>
+</div>
+<div id="readytest3"><iframe name='iframescroll' id='iframescroll' src="http://www.nultd.nu/scroller_le_ri.html" scrolling="no" frameborder="0" allowTransparency="true" style="border-style: none;width: 100%; height: 130px;"></iframe>
+<form action="http://www.nultd.nu/nu_partner12.php" method="post" name="moresupp"> 
+<div class="readmbutton50" style="float: right; position: relative; top: -15px; right: 10px"><a class="pricefrom" href="javascript:moresupp()">more</a> 
+<span style="margin-right:3px; font-size: 13px;">&raquo;
+</span>
+</div> 
+<input type="hidden" name="varpv" value="HelpDesk_and_Asset_Management">
+<input type="hidden" name="dmenu" value="tech">
+</form> 
+<!-- more 
+<span style="margin-right:3px; font-size: 14px;">&raquo;
+</span> --> 
+</div>
+<div class="cleardiv" style="text-align: left; padding-top: 15px; margin-left: 5px; width:759px"> 
+<!-- border: solid 1px red; id="mainpara" -->
+<!-- 
+<div id="readyTest4" data-corner="top 12px" style="margin-bottom: 5px; margin-top: 10px">
+<div style="line-height: 2.2em; margin-left:12px; font-size:12px; color: #FFFFFF; text-align:left"><b>Click on a logo below to see more details of our key partner solutions</b>
+</div>
+</div>-->
+<!-- 
+<div id="readytest3"><h1>Round</h1> 
+<p>$(this).corner("tr tl 12px").corner("tr dog 20px");</p>
+</div> -->
+</div> 
+<div class="content-text" style="clear: both; padding-bottom:10px; padding-top:20px;margin-right:10px">
+<div style="background-color: #f5f5f5; float: left; width:763px; height: 130px; padding: 0px 0px 0px 3px">
+<p class="content-text" style="text-align: left; margin: 0px; margin-right: 10px; padding: 5px 10px 0px 5px"><img src="/images/girl_team160.gif)" alt="" border="0" style="float: right; margin: 0 0 10px 35px;">A diverse range of Enterprise Management Solutions to help improve the efficiency of your IT infrastructure and operations. Performance, functionality, scalability and total cost of ownership are important considerations when sourcing a particular solution and we strive to ensure most, if not all of these are met with the solutions we offer.</p>
+<p class="content-text" style="text-align: left; margin: 0px; margin-right: 10px; padding: 15px 10px 0px 5px"> Please <a class="content-text" href="/contact.shtml">contact us today</a> to discuss your specific requirements.</p>
+</div> 
+<div style="clear: both; padding: 10px 0px 0px 0px">
+</div> <h1 style="color:#666666; text-align: left; margin-top: 10px; margin-left: 5px; font-size: 20px"> Solutions Matrix:</h1> 
+<br> 
+<table id="tablealt" border="0" cellspacing="2" cellpadding="2"> 
+<thead>
+<tr>
+<th align="center">Manage
+</th>
+<th align="center">Secure
+</th>
+<th align="center">Protect
+</th>
+<th align="center">Support
+</th>
+</tr></thead>
+<tr>
+<td><a class="content-text_link" href="http://www.nultd.nu/nu_solution_m12str.php?varpv=Network_Performance_and_Systems_Management">Network Performance &amp; Troubleshooting</a>
+</td>
+<td><a class="content-text_link" href="http://www.nultd.nu/nu_category_m12str.php?varpv=Network_Security_and_Compliance&varsubcategory=Firewall/VPN_Solutions">Firewall and VPN</a>
+</td>
+<td><a class="content-text_link" href="http://www.nultd.nu/nu_category_m12str.php?varpv=Network_Security_and_Compliance&varsubcategory=Anti-Virus">Anti-Virus</a>
+</td>
+<td><a class="content-text_link" href="http://www.nultd.nu/nu_solution_m12str.php?varpv=HelpDesk_and_Asset_Management">IT ServiceDesk</a>
+</td>
+</tr>
+<tr class="alt">
+<td>
+<!-- latest --><a class="content-text_link" href="http://www.nultd.nu/nu_solution_m12str.php?varpv=Network_Performance_and_Systems_Management&varsubcategory=Server_Monitoring">Server Monitoring</a>
+</td>
+<td><a class="content-text_link" href="http://www.nultd.nu/nu_category_m12str.php?varpv=Network_Security_and_Compliance&varsubcategory=Firewall/Server_Log_File_Analysis">Eventlog & Syslog Management</a>
+</td>
+<td><a class="content-text_link" href="http://www.nultd.nu/nu_category_m12str.php?varpv=Network_Security_and_Compliance&varsubcategory=Anti-Malware">Anti-Malware</a>
+</td>
+<td><a class="content-text_link" href="http://www.nultd.nu/nu_solution_m12str.php?varpv=Network_Performance_and_Systems_Management&varsubcategory=PC_Remote_Control">Remote Control</a>
+</td>
+</tr>
+<tr>
+<td><a class="content-text_link" href="http://www.nultd.nu/nu_solution_m11GET.php?varpv=Applications_Performance_Management">Applications Management</a>
+</td>
+<td><a class="content-text_link" href="http://www.nultd.nu/nu_category_m12str.php?varpv=Network_Security_and_Compliance&varsubcategory=Firewall/Server_Log_File_Analysis">Firewall/Server Log Analysis</a>
+<!-- 
+<form name="formm3" action="http://www.nultd.nu/nu_category12.php" method="post" style="display: inline; margin: 0;"><a href="javascript: document.formm3.submit();">Firewall Log Analysis</a>
+<input type="hidden" name="varpv" value="Network_Security_and_Compliance">
+<input type="hidden" name="varsubcategory" value="Firewall/Server Log File Analysis">
+</form> -->
+</td>
+<td><a class="content-text_link" href="http://www.nultd.nu/nu_category_m12str.php?varpv=Network_Security_and_Compliance&varsubcategory=Email_Security">Email Security</a>
+</td>
+<td><a class="content-text_link" href="http://www.nultd.nu/nu_category_m12str.php?varpv=HelpDesk_and_Asset_Management">Customer Support &amp; Help Desk</a>
+</td>
+</tr>
+<tr class="alt">
+<td><a class="content-text_link" href="http://www.nultd.nu/nu_solution_m12str.php?varpv=Network_Performance_and_Systems_Management&varsubcategory=Desktop_and_Device_Management">Desktop &amp; Device Management</a>
+</td>
+<td><a class="content-text_link" href="http://www.nultd.nu/nu_category_m12str.php?varpv=Network_Security_and_Compliance&varsubcategory=Endpoint_Security">Endpoint Security</a>
+</td>
+<td><a class="content-text_link" href="http://www.nultd.nu/nu_category_m12str.php?varpv=Network_Security_and_Compliance&varsubcategory=Content_Security">Content Security</a>
+</td>
+<td><a class="content-text_link" href="http://www.nultd.nu/nu_solution_m12str.php?varpv=Network_Performance_and_Systems_Management&varsubcategory=Change_Auditing_and_Compliance">Change &amp; Configuration Management</a>
+</td>
+</tr>
+<tr>
+<td><a class="content-text_link" href="http://www.nultd.nu/nu_solution_m12str.php?varpv=Network_Performance_and_Systems_Management&varsubcategory=NetFlow_Traffic_Analysis">NetFlow Analysis &amp; Monitoring</a>
+</td>
+<td><a class="content-text_link" href="http://www.nultd.nu/nu_category_m12str.php?varpv=Network_Security_and_Compliance&varsubcategory=Identity_and_Access_Management">Identity and Access Management</a>
+<!-- 
+<form name="formm4" action="http://www.nultd.nu/nu_solution_m12.php" method="post" style="display: inline; margin: 0;"><a class="content-text_link" href="javascript: document.formm4.submit();">Identity and Access Management</a>
+<input type="hidden" name="varpv" value="Network_Security_and_Compliance">
+<input type="hidden" name="varsubcategory" value="Identity_and_Access_Management">
+</form> -->
+</td>
+<td><a class="content-text_link" href="http://www.nultd.nu/nu_solution_m12str.php?varpv=Network_Security_and_Compliance&varsubcategory=Anti-Phishing">Anti-Phishing</a>
+</td>
+<td><a class="content-text_link" href="http://www.nultd.nu/nu_category_m12str.php?varpv=Network_Performance_and_Systems_Management&varsubcategory=Remote_Administration">Remote Administration</a>
+</td>
+</tr>
+<tr class="alt">
+<td><a class="content-text_link" href="http://www.nultd.nu/nu_solution_m12str.php?varpv=Network_Performance_and_Systems_Management&varsubcategory=Active_Directory_Management">Active Directory Management</a>
+</td>
+<td>
+<form name="formm6" action="http://www.nultd.nu/nu_category12.php" method="post" style="display: inline; margin: 0;"><a class="content-text_link" href="javascript: document.formm6.submit();">Two-Factor Authentication</a>
+<input type="hidden" name="varpv" value="Network_Security_and_Compliance">
+<input type="hidden" name="varsubcategory" value="Two-Factor_Authentication">
+</form>
+</td>
+<td><a class="content-text_link" href="http://www.nultd.nu/nu_category_m12str.php?varpv=Network_Security_and_Compliance&varsubcategory=Anomaly_Detection">Anomaly Detection</a>
+</td>
+<td><a class="content-text_link" href="http://www.nultd.nu/nu_solution_m12str.php?varpv=ITSM_Service_and_Business_Process_Management">Business Process Management</a>
+</td>
+</tr>
+<tr>
+<td><a class="content-text_link" href="#" Title="Coming Soon!">Software License Compliance</a>
+</td>
+<td><a class="content-text_link" href="http://www.nultd.nu/nu_solution_m12str.php?varpv=Compliance_and_Audit&varsubcategory=">Compliance &amp; Audit</a>
+</td>
+<td>
+</td>
+<td>
+<form name="formm12" action="http://www.nultd.nu/nu_solution_co_m11.php" method="post" style="display: inline; margin: 0;"><a class="content-text_link" href="javascript: document.formm12.submit();">Identity and Access Management</a>
+<input type="hidden" name="varpv" value="Network_Security_and_Compliance">
+<input type="hidden" name="varsubcategory" value="Identity_and_Access_Management">
+</form>
+</td>
+</tr>
+</table> 
+</div> 
+<!-- 
+<p style="text-align: center"> <a href="http://validator.w3.org/check?uri=referer"><img style="margin-top:400px; border:0" src="http://www.w3.org/Icons/valid-html401" alt="Valid HTML 4.01 Transitional" height="31" width="88"></a> </p>
+<p style="text-align: center"> <a href="http://jigsaw.w3.org/css-validator/check/referer"> <img style="margin-top:10px; border:0;width:88px;height:31px" src="http://jigsaw.w3.org/css-validator/images/vcss-blue" alt="Valid CSS!"> </a></p>-->
+<div class="cleardiv" style="margin-bottom: 0px">&nbsp;
+</div>
+<div style="height:30px">&nbsp;
+</div>
+<!-- other products ad -->
+<div style="padding-top:40px; padding-bottom:10px" align="center"><a href="http://www.service-desk.co/products/firewall/index.shtml"><img title="Firewall Analyzer Ad" alt="Firewall Analyzer Ad" src="http://www.nultd.nu/images/license-fwa-ad3.jpg" width="634" height="143" border="0"></a>
+<div class="dotline2" style="margin-top:15px; width:98%" align="center">&nbsp;
+</div>
+</div>
+<!-- other products ad -->
+<div style="clear: both; padding-left: 40px; padding-top: 40px">
+      <a class="twitter-timeline" href="https://twitter.com/networksU" data-widget-id="488632043937333248" data-tweet-limit="6">Tweets by @networksU</a>
+    
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");
+</script>
+      
+</div>
+</div>
+ 
+      
+      
+      
+<!-- END MIDDLE COL -->
+</div>
+<!-- End Main Content -->
+</div>
+<!-- START FOOTER -->
+<div class="footer">
+<div style="margin-left: auto; margin-right: auto; text-align: left; width: 974px; color: #666666; line-height:2.5em; font-size: 95%" class="tools">
+<!-- Footer Navigation Table -->
+<div style="background: url(http://www.nultd.nu/images/tablebg.gif) repeat-x left bottom; width: 974px; height: 260px; padding-bottom: 0px;">
+ 
+<table align="center" width="90%" border="0" cellspacing="0" cellpadding="3">
+			<tr>
+				<td valign="top" width="20%">
+				<div style="padding-bottom:4pt">
+								<span class="content_head">Products</span>
+								<div class="footer10">
+								<ul>
+								<!-- <li><form style="margin: 0" action="http://www.nultd.nu/nu_other_prod_gm11.php" method="post" name="searchform2"> <span style="display:block; padding-left: 0px"><a href="javascript:submitform()">By Vendor - View all</a></span><input type="hidden" name="varpv" value="HelpDesk_and_Asset_Management"><input type="hidden" name="dmenu" value="tech"></form></li> -->
+								<li><a href="http://www.nultd.nu/nu_manage_m12str.php?varpv=Network_Performance_and_Systems_Management" title="Manage">Manage</a></li>
+								<li><a href="http://www.nultd.nu/nu_secure_m12str.php?varpv=Network_Security_and_Compliance">Secure</a></li>
+								<li><a href="http://www.nultd.nu/nu_protect_m12str.php?varpv=Network_Security_and_Compliance">Protect</a></li>
+								<li><a href="http://www.nultd.nu/nu_support_m12str.php?varpv=HelpDesk_and_Asset_Management">Support</a></li>
+								<!-- <li><a href="#">By Solution</a></li> -->
+								</ul>
+								</div>
+							</div>
+															</td>
+				<td valign="top" width="20%">
+				<div style="padding-bottom:4pt">
+																<span class="content_head">Community</span>
+																	<div class="footer10">
+																<ul>
+																<li><a href="http://www.nultd.nu/join.html" target="newWindow" onclick="window.open('http://www.nultd.nu/join.html','newWindow','directories=0,height=450,width=400,location=0,menubar=0,resizable=1,scrollbars=1,status=0,toolbar=0')">newsletter - subscribe</a></li>
+																 <li><a class="text" href="http://www.iwestsussex.co.uk/profile/305034/Pulborough/Networks-Unlimited/" target="_blank">iWestSussex Portal</a></li>
+
+																<li style="float:left; background: url(http://www.nultd.nu/images/twitter_logo2.jpg) no-repeat left 50%">	<a style="margin-left: 25px" href="https://twitter.com/networksU" class="twitter-follow-button" data-show-count="false" target="_blank">follow us</a>
+<!-- <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="http://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script> --></li> 
+<li style="float:left; background: url(http://www.nultd.nu/images/LinkedIn_icon.jpg) no-repeat left 50%">	<a style="margin-left: 25px" href="https://www.linkedin.com/company/networks-unlimited" target="_blank">view profile</a>
+</li> 
+																<!-- <li><a href="javascript:bookmarksite('Networks Unlimited', 'http://www.nultd.nu')">bookmark us</a></li>		-->														
+																
+																<li style="float:left; background: url(http://www.nultd.nu/images/email_icon.gif) no-repeat left 50%;"><script type="text/javascript"><!--
+
+var SubjectLine='Thought this site might be of interest - '+top.document.title; 
+var BodyText='You can see this page at: '+top.location.href;
+
+var Message='<A style="margin-left: 25px" HREF="mailto:?SUBJECT='+escape(SubjectLine)+'&BODY='+escape(BodyText)+'" OnMouseOver="status=\'Send this page to a colleague or friend\'; return true;" TITLE="Send this page to a colleague or friend">send this page<\/A>';
+
+var MessageIE='<A style="margin-left: 25px" HREF="mailto:?SUBJECT='+(SubjectLine)+'&BODY='+(BodyText)+'" OnMouseOver="status=\'Send this page to a colleague or friend\'; return true;" TITLE="Send this page to a colleague or friend"> send this page<\/A>';
+
+if(document.all) { document.write(MessageIE); }
+
+else { document.write(Message); }
+
+//--></SCRIPT></li>
+
+																</ul>
+																</div>
+															</div>
+															</td>
+				<td valign="top" width="20%">
+				<div style="padding-bottom:4pt">
+																<span class="content_head">Support</span>
+																<div class="footer10">
+																<ul>
+																<li><a href="http://www.nultd.nu/support.shtml">submit query</a></li>
+																<li><a href="mailto:support@nultd.nu">email us</a></li>
+																</ul>
+																</div>
+															</div>
+															</td>
+				<td valign="top" width="20%">
+					<div style="padding-bottom:4pt">
+						<span class="content_head">Company</span>
+						<div class="footer10">
+							<ul>
+								<li><a href="http://www.nultd.nu/about.shtml">about us</a></li>
+								<li><a href="http://www.nultd.nu/contact.shtml">contact</a></li>
+								<li><a href="http://www.nultd.nu/contact.shtml#map">map &amp; directions</a></li>
+								<li><a href="http://www.nultd.nu/privacy.shtml">privacy</a></li>
+							</ul>
+						</div>
+					</div>
+				</td>
+				<td valign="top" width="20%">
+				<div style="padding-bottom:4pt">
+						<span class="content_head">Links</span>
+						<div class="footer10">
+																<ul>
+																<li><a href="http://www.nultd.nu">Home</a></li>
+																<!-- <li><a href="http://www.netunlim.com">Networks Unlimited</a></li> -->
+																<!-- <li><a href="http://www.samanage.com?utm_source=partner&utm_medium=site&utm_campaign=uk-nu&lsrc=web" target="newWindow">Samanage</a></li> -->
+																<li><a href="http://www.sonicwall.co.uk" target="newWindow">SonicWALL</a></li>
+																<!-- <li><a href="http://www.netflowauditor.co.uk" target="newWindow">NetFlow Auditor</a></li> -->
+																<li><a href="http://www.talariax.co.uk" target="newWindow">TalariaX</a></li>
+																<li><a href="http://www.service-desk.co" target="newWindow">ManageEngine</a></li>
+																<li><a href="http://netvizura.nultd.nu" target="newWindow">NetVizura</a></li>
+																<li><a href="http://www.nultd.nu/Products/sysaid/index.html" target="newWindow">SysAid</a></li>											
+																<li><a href="http://netreo.nultd.nu" target="newWindow">Netreo</a></li>																
+																<!-- <li><a href="http://www.firewall-solutions.com" target="newWindow">Cyberoam</a></li> -->
+																</ul>
+																</div>
+					</div>
+															</td>
+			</tr>
+		</table>
+</div>
+
+<div class="tools" align="center" style="width:972px; background-color: #FFFFFF; padding-bottom:3px;margin-bottom: 5px;border: solid 1px #e5e5e5;margin-top: 0px; color: #a0a0a0; font-size: 9px">Networks Unlimited is the trading name for NU Network Products Limited, Registered in England. No: 2716629. &copy;1992-<script type="text/javascript">
+  <!--- Hide from old browsers
+     today=new Date();
+    cpy=today.getFullYear();
+    document.write(cpy);
+  // end hiding --->
+</SCRIPT>, Networks Unlimited. All rights reserved. <br>Reg. office: 5 The Colonnades, London Road, Pulborough, West Sussex. RH20 1AS. VAT No. 587 8287 67. All other trademarks are acknowledged. E&OE.
+</div>
+
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-31244281-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+
+<script type="text/javascript">
+  var _paq = _paq || [];
+  _paq.push(['setDocumentTitle', document.domain + "/" + document.title]);
+  _paq.push(['trackPageView']);
+  _paq.push(['enableLinkTracking']);
+  (function() {
+    var u=(("https:" == document.location.protocol) ? "https" : "http") + "://www.nultd.nu/nu_analytics/piwik/";
+    _paq.push(['setTrackerUrl', u+'piwik.php']);
+    _paq.push(['setSiteId', 1]);
+    var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0]; g.type='text/javascript';
+    g.defer=true; g.async=true; g.src=u+'piwik.js'; s.parentNode.insertBefore(g,s);
+  })();
+</script>
+<!-- Footer Navigation Table End -->
+</div>
+</div>
+<!-- END FOOTER -->
+</td>
+<td rowspan="2" valign="top">
+<br>
+<script type="text/javascript">if (!document.layers) {document.write('<div id="divStayTopLeft" style="position:relative">');} else {document.write('<layer id="divStayTopLeft">');} 
+</script>
+<!--JavaScript Tag -->
+<script language="javascript" type="text/javascript">
+<!--
+document.write('<scr'+'ipt language="javascript1.1" src="script/200314|LepideExchange.html"><\/scri'+'pt>');
+//-->
+</script>
+<noscript>
+<div class="shadowbox3">
+<div class="shadowcontent">
+<a href="http://www.nultd.nu/Lepide">
+<img src="http://www.nultd.nu/images/Exchange_Server_120x600.jpg" border="0" width="120" height="600" alt="Lepide Exchange Auditor"></a>
+</div>
+</div>
+</noscript>
+<!-- End of JavaScript Tag -->
+<script type="text/javascript">if (!document.layers) {document.write('<\/div>');} else {document.write('<\/layer>');}var verticalpos="fromtop"; var startX = 40; var startY = 20;var ns = (navigator.appName.indexOf("Netscape") != -1); var d = document;function ml(id)
+			{
+				var el=d.getElementById?d.getElementById(id):d.all?d.all[id]:d.layers[id];
+				if(d.layers)el.style=el;
+				el.sP=function(x,y){this.style.left=x;this.style.top=y;};
+				el.x = startX;
+				if (verticalpos=="fromtop")
+				el.y = startY;
+				else{
+				el.y = ns ? pageYOffset + innerHeight : document.body.scrollTop + document.body.clientHeight;
+				el.y -= startY;
+				}
+				return el;
+			}
+			window.stayTopLeft=function()
+			{
+				if (verticalpos=="fromtop"){
+				var pY = ns ? pageYOffset : document.body.scrollTop;
+				ftlObj.y += (pY + startY - ftlObj.y)/8;
+				}
+				else{
+				var pY = ns ? pageYOffset + innerHeight : document.body.scrollTop + document.body.clientHeight;
+				ftlObj.y += (pY - startY - ftlObj.y)/8;
+				}
+				ftlObj.sP(ftlObj.x, ftlObj.y);
+				setTimeout("stayTopLeft()", 10);
+			}
+		    
+			ftlObj = ml("divStayTopLeft");
+			stayTopLeft();
+</script>
+</td>
+</tr>
+<tr>
+<td valign="top">
+</td>
+</tr>
+</table> 
+<script type="text/javascript">disableSelection(document.body) //disable text selection on entire body of page
+</script>
+<!-- Feedback button 
+<script type="text/javascript" id="la_x2s6df8d" src="//www.nultd.nu/liveagent/scripts/track.js">
+</script><img src="//www.nultd.nu/liveagent/scripts/pix.gif" onLoad="LiveAgentTracker.createButton('e52c36e0', this);"/> -->
+
+<!-- Start of our cookiesDirective Implementation> -->
+
+<!--Start Cookie Script--> <script type="text/javascript" charset="UTF-8" src="http://chs03.cookie-script.com/s/dfdbd1780a788b81365b41ea6aa2f8b9.js"></script> <!--End Cookie Script-->
+
+<!-- End of our cookiesDirective Implementation -->
+			
+<!-- <script type="text/javascript">var RumID = 1356;
+</script> -->
+<!-- <script type="text/javascript" src="https://statuscake.com/App/Workfloor/RUM/Embed.js"> -->
+			
+</script>
+			
+</body>
+			
+</html>
+

@@ -1,0 +1,682 @@
+WARC/1.0
+WARC-Type: warcinfo
+WARC-Date: 2018-05-30T17:52:31Z
+WARC-Record-ID: <urn:uuid:1248f235-c962-4180-bd67-7966174e73f7>
+WARC-All-Language: en
+WARC-All-Content_type: text/html, text/html; charset=utf-8
+Content-Type: application/http;msgtype=response
+Content-Length: 46
+
+WARCProcessor by SING Group www.sing-group.com
+
+WARC/1.0
+WARC-Type: response
+WARC-Record-ID: <http://www.nalas.eu>
+WARC-Date: 20180530175231
+WARC-Target-URI: http://www.nalas.eu
+WARC-Language: en
+Content-Type: application/http;msgtype=response
+Content-Length: 32944
+
+HTTP/1.1 200
+Content-Type:text/html; charset=utf-8
+
+
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width" />
+    <meta name="google-translate-customization" content="f34bfaa5ce671ba6-60bc0cb7fd5d0261-gfc7ec7bbe2a44665-d"></meta>
+
+    <!-- NALAS.EU -->
+    <!-- <meta name="google-translate-customization" content="2a85ef989f67eac2-4e776f3565c69db6-g6c44b5604c3dcc0c-c"></meta> -->
+
+    <title>Home Page</title>
+
+    
+
+    <!-- STYLES -->
+    <link rel='stylesheet' type='text/css' href='http://fonts.googleapis.com/css?family=Roboto+Slab:400,300,300italic,400italic,500,500italic,700&subset=latin,cyrillic' />
+    <link href='http://fonts.googleapis.com/css?family=Share+Tech:400,400italic,700' rel='stylesheet' type='text/css'>
+    <link href="/Content/vendor/bootstrap.css" rel="stylesheet"/>
+<link href="/Content/font-awesome.css" rel="stylesheet"/>
+<link href="/Content/vendor/fullcalendar.css" rel="stylesheet"/>
+<link href="/Content/vendor/owl.carousel.css" rel="stylesheet"/>
+<link href="/Content/vendor/owl.theme.default.css" rel="stylesheet"/>
+<link href="/Content/style.css" rel="stylesheet"/>
+
+
+    <!-- SCRIPTS -->
+    <script type="text/javascript" src="/Scripts/Libs/holder.js"></script>
+    <script data-pace-options='{ "ajax": false }' type="text/javascript" src="/Scripts/Libs/pace.js"></script>
+
+    <script>
+        (function () {
+            var cx = '014000455232158668197:e_ix9ggkhf4';
+            var gcse = document.createElement('script');
+            gcse.type = 'text/javascript';
+            gcse.async = true;
+            gcse.src = (document.location.protocol == 'https:' ? 'https:' : 'http:') +
+                '//www.google.com/cse/cse.js?cx=' + cx;
+            var s = document.getElementsByTagName('script')[0];
+            s.parentNode.insertBefore(gcse, s);
+        })();
+    </script>
+
+    
+
+</head>
+<body>
+    <section class="header p0">
+
+        <div class="container">
+            <div class="row">
+                <div class="col-md-2 col-xs-3">
+                    <h1 class="image">
+                        <a href="/"><img src="/Content/images/nalas_logo.png" alt="Nalas EU Logo" /></a>
+                    </h1>
+                </div>
+                <div class="col-md-7 hidden-xs">
+                    <div class="nalas-full"></div>
+                    <div class="quote notranslate"><span></span>Network of Associations of Local Authorities of South-East Europe <span></span></div>
+                </div>
+                <div class="col-md-3 col-xs-9 header-search pr0">
+                    <div class="col-md-12 col-xs-12 row text-right pr0">
+
+                        <!-- 
+                            NALAS.EU
+
+                            <div id="google_translate_element"></div><script type="text/javascript">
+                            function googleTranslateElementInit() {
+                              new google.translate.TranslateElement({pageLanguage: 'en', includedLanguages: 'bg,bs,de,en,fr,hr,mk,ro,sl,sq,sr,tr', layout: google.translate.TranslateElement.InlineLayout.SIMPLE}, 'google_translate_element');
+                            }
+                            </script><script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
+                            
+                            -->
+
+                        <div id="google_translate_element"></div>
+                        <script type="text/javascript">
+                            function googleTranslateElementInit() {
+                                new google.translate.TranslateElement({ pageLanguage: 'en', includedLanguages: 'bg,bs,de,en,fr,hr,mk,ro,sl,sq,sr,tr', layout: google.translate.TranslateElement.InlineLayout.SIMPLE }, 'google_translate_element');
+                            }
+                        </script>
+                        <script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
+                    </div>
+                    <div class="col-md-12 col-xs-12 row text-right pr0">
+                        <div class="google-search">
+                            <gcse:searchbox-only resultsurl="/search" newwindow="false"></gcse:searchbox-only>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <nav class="main-menu navbar navbar-default" role="navigation">
+    <div class="container">
+
+        <div class="navbar-header">
+            <div class="menu-title visible-xs hidden-lg hidden-md pull-left">MENU</div>
+            <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+                <span class="sr-only">Toggle navigation</span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+            </button>
+        </div>
+
+        <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+            <ul class="nav navbar-nav">
+                <li class="home active"><a href="/"><img src="/Content/images/home.png" alt="Home" /></a></li>
+                <li class="dropdown">
+                    <a href="/AboutUs" class="dropdown-toggle" data-toggle="dropdown">About <span class="caret"></span></a>
+                    <ul class="dropdown-menu" role="menu">
+                            <li><a href="/AboutUs#About-NALAS">About NALAS</a></li>
+                            <li><a href="/AboutUs#Objectives">Objectives</a></li>
+                            <li><a href="/AboutUs#Activities">Activities</a></li>
+                            <li><a href="/AboutUs#International-support">International support</a></li>
+                            <li><a href="/AboutUs#NALAS-President">NALAS President</a></li>
+                            <li><a href="/AboutUs#NALAS-Vice-Presidents">NALAS Vice-Presidents</a></li>
+                            <li><a href="/AboutUs#Previous-NALAS-Presidents">Previous NALAS Presidents</a></li>
+                            <li><a href="/AboutUs#NALAS-Secretariat">NALAS Secretariat</a></li>
+                            <li><a href="/AboutUs#NALAS-Task-Forces">NALAS Task Forces</a></li>
+                            <li><a href="/AboutUs#key_nalas_documents">Key NALAS documents</a></li>
+                    </ul>
+                </li>
+
+                <li><a href="/Members">Members</a></li>
+
+                <li class="dropdown">
+                    <a href="/knowledge-center" class="dropdown-toggle" data-toggle="dropdown">Knowledge center <span class="caret"></span></a>
+                    <ul class="dropdown-menu multi-level" role="menu">
+
+
+    <li class="dropdown-submenu">
+            <a href="/knowledge-center/Task-Forces" class="dropdown-toggle" data-toggle="dropdown" data-hover="dropdown" data-delay="1000" data-close-others="false">
+                Task Forces
+
+
+                <div class="hidden-lg hidden-md visible-xs visible-sm open-next-dropdown">+</div>
+            </a>
+            <ul class="dropdown-menu" role="menu">
+
+
+    <li class="">
+            <a href="/knowledge-center/Task-Forces/Energy-Efficiency">Energy Efficiency</a>
+    </li>
+
+
+    <li class="">
+            <a href="/knowledge-center/Task-Forces/Urban-Planning">Urban Planning</a>
+    </li>
+
+
+    <li class="">
+            <a href="/knowledge-center/Task-Forces/Sustainable-Tourism">Sustainable Tourism</a>
+    </li>
+
+
+    <li class="">
+            <a href="/knowledge-center/Task-Forces/Fiscal-Decentralization">Fiscal Decentralization</a>
+    </li>
+
+
+    <li class="">
+            <a href="/knowledge-center/Task-Forces/Soli-Waste-and-Water-Management">Solid Waste and Water Management</a>
+    </li>
+
+
+    <li class="">
+            <a href="/knowledge-center/Task-Forces/Association-Development">Association Development</a>
+    </li>
+            </ul>
+    </li>
+
+
+    <li class="">
+            <a href="/knowledge-center/Gender-and-youth">Gender and youth</a>
+    </li>
+
+
+    <li class="">
+            <a href="/knowledge-center/Policy-positions">Policy positions</a>
+    </li>
+                    </ul>
+                </li>
+
+                
+
+                    <li class="dropdown">
+                            <a href="/services" class="dropdown-toggle" data-toggle="dropdown">Services<span class="caret"></span></a>
+                            <ul class="dropdown-menu" role="menu">
+                                    <li><a href="/services/quick-responces">Quick Response</a></li>
+                                    <li><a href="/services/shadowing-program">Shadowing Program</a></li>
+                                    <li><a href="/services/peer-review">Peer Review</a></li>
+                                    <li><a href="/services/E-academy">E-Academy</a></li>
+                                                                    <li><a href="/Tools">Tools</a></li>
+                                    <li><a href="http://knowledge.nalas.eu/plugins/passwordResetPlugin/loginResetDispatcher.php" target = "_blank">Knowledge tree</a></li>
+                                
+
+                            </ul>
+                    </li>
+                    <li class="dropdown">
+                            <a href="/Publications" class="dropdown-toggle" data-toggle="dropdown">Publications<span class="caret"></span></a>
+                            <ul class="dropdown-menu" role="menu">
+                                    <li><a href="/Publications/Books">Books</a></li>
+                                    <li><a href="/Publications/Newsletter">Newsletter</a></li>
+                                    <li><a href="/Publications/digest">Digest</a></li>
+                                                                
+
+                            </ul>
+                    </li>
+                    <li class="dropdown">
+                            <a href="/Press-Centre" class="dropdown-toggle" data-toggle="dropdown">Press Centre<span class="caret"></span></a>
+                            <ul class="dropdown-menu" role="menu">
+                                    <li><a href="/Press-Centre/press-releases">Press Releases</a></li>
+                                                                                                    <li><a href="/VideoGallery">Video</a></li>
+                                    <li><a href="/Gallery">Photo</a></li>
+
+
+                            </ul>
+                    </li>
+            </ul>
+        </div><!-- /.navbar-collapse -->
+    </div><!-- /.container-fluid -->
+</nav>
+
+
+        <div class="clearfix"></div>
+    </section><!-- /header -->
+
+    <section class="content">
+        
+
+
+    <section main-carousel class="owl-carousel main p0">
+            <div>
+                    <a href="/"><img src="/Files/SliderImages/8.jpg" alt="1Slide" /></a>
+            </div>
+            <div>
+                    <a href="/"><img src="/Files/SliderImages/9.jpg" alt="slide2" /></a>
+            </div>
+            <div>
+                    <a href="/"><img src="/Files/SliderImages/10.jpg" alt="slide3" /></a>
+            </div>
+            <div>
+                    <a href="/"><img src="/Files/SliderImages/11.jpg" alt="slide4" /></a>
+            </div>
+    </section><!-- /main-carousel -->
+
+    <section class="news">
+        <div class="container">
+            <div class="col-md-12 col-sm-12">
+                <h2><a href="/News">Latest News</a></h2>
+            </div>
+                <div class="col-sm-6 col-md-4">
+                    <div class="thumbnail">
+                            <img src="/Files/Galleries//low-FD_Tir1.jpg" alt="Fiscal Decentralisation and Gender Responsive Budgeting on the agenda of NALAS Task Forces" />
+
+                        <div class="caption">
+                            <a href="/News/FD_Tirana" role="button"><h3>Fiscal Decentralisation and Gender Responsive Budgeting on the agenda of NALAS Task Forces</h3></a>
+                            <div class="date">Wednesday, 16 May 2018</div>
+                            <p>NALAS Task Force on Fiscal Decentralisation and the Gender and Youth Group meet today and tomorrow in Tirana, Albania to discuss the progress of fiscal decentralisation, NALAS annual Fiscal Decentralisation Indicators Report, gender indicators and gender responsive budgeting.</p>
+                            <a href="/News/FD_Tirana" role="button">Read more </a>
+                            <div class="clearfix"></div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-sm-6 col-md-4">
+                    <div class="thumbnail">
+                            <img src="/Files/Galleries//low-FP_mtg4.jpg" alt="RCDN Focal Points on board" />
+
+                        <div class="caption">
+                            <a href="/News/RCDN_FPs_mtg" role="button"><h3>RCDN Focal Points on board</h3></a>
+                            <div class="date">Wednesday, 16 May 2018</div>
+                            <p>An Orientation Meeting for the Focal Points of the Regional Capacity Development Network (RCDN) for water and sanitation services takes place these two days in Belgrade, Serbia. </p>
+                            <a href="/News/RCDN_FPs_mtg" role="button">Read more </a>
+                            <div class="clearfix"></div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-sm-6 col-md-4">
+                    <div class="thumbnail">
+                            <img src="/Files/Galleries//low-EmBuild_conf.jpg" alt="Register for a conference on Energy Efficient Buildings: Plan. Invest. Renovate!" />
+
+                        <div class="caption">
+                            <a href="/News/Em_Build_conference" role="button"><h3>Register for a conference on Energy Efficient Buildings: Plan. Invest. Renovate!</h3></a>
+                            <div class="date">Tuesday, 15 May 2018</div>
+                            <p>EmBuild conference will take place on 7 June 2018 in Belgrade City Hall. Joint it and learn a lot about the best renovation strategies.</p>
+                            <a href="/News/Em_Build_conference" role="button">Read more </a>
+                            <div class="clearfix"></div>
+                        </div>
+                    </div>
+                </div>
+
+        </div>
+    </section><!-- /news -->
+
+
+<section class="events">
+    <div class="container">
+
+        <div class="col-md-9">
+            <h2><a href="/Event">Upcoming Events</a></h2>
+                    <ul class="upcoming">
+                        <li class="col-md-4">
+                            <div class="col-md-2 col-xs-2 dates">
+                                <div class="main-date">18</div>
+                                <div class="main-month">Apr</div>
+                            </div>
+                            <div class="col-md-10 col-xs-10">
+                                <div class="title"><a href="/Event/Details/GA_2018">NALAS General Assemb...</a></div>
+                                <div class="location"><i class="icon icon-loc"></i> Brdo, Slovenia</div>
+                            </div>
+                            <div class="clearfix"></div>
+                        </li>
+                    </ul>
+                    <ul class="upcoming">
+                        <li class="col-md-4">
+                            <div class="col-md-2 col-xs-2 dates">
+                                <div class="main-date">17</div>
+                                <div class="main-month">Apr</div>
+                            </div>
+                            <div class="col-md-10 col-xs-10">
+                                <div class="title"><a href="/Event/Details/Conference_Sori">Regional Conference ...</a></div>
+                                <div class="location"><i class="icon icon-loc"></i> Brdo, Slovenia</div>
+                            </div>
+                            <div class="clearfix"></div>
+                        </li>
+                    </ul>
+                    <ul class="upcoming">
+                        <li class="col-md-4">
+                            <div class="col-md-2 col-xs-2 dates">
+                                <div class="main-date">14</div>
+                                <div class="main-month">Mar</div>
+                            </div>
+                            <div class="col-md-10 col-xs-10">
+                                <div class="title"><a href="/Event/Details/Migralona_regional">Migralona Regional C...</a></div>
+                                <div class="location"><i class="icon icon-loc"></i> Skopje, Macedonia</div>
+                            </div>
+                            <div class="clearfix"></div>
+                        </li>
+                    </ul>
+                    <ul class="upcoming">
+                        <li class="col-md-4">
+                            <div class="col-md-2 col-xs-2 dates">
+                                <div class="main-date">8</div>
+                                <div class="main-month">Mar</div>
+                            </div>
+                            <div class="col-md-10 col-xs-10">
+                                <div class="title"><a href="/Event/Details/ICT_Sofija">19th Conference on E...</a></div>
+                                <div class="location"><i class="icon icon-loc"></i> Sofia, Bulgaria</div>
+                            </div>
+                            <div class="clearfix"></div>
+                        </li>
+                    </ul>
+                    <ul class="upcoming">
+                        <li class="col-md-4">
+                            <div class="col-md-2 col-xs-2 dates">
+                                <div class="main-date">7</div>
+                                <div class="main-month">Mar</div>
+                            </div>
+                            <div class="col-md-10 col-xs-10">
+                                <div class="title"><a href="/Event/Details/Migralona_Belgrade">Migralona Conference...</a></div>
+                                <div class="location"><i class="icon icon-loc"></i> Belgrade, Serbia</div>
+                            </div>
+                            <div class="clearfix"></div>
+                        </li>
+                    </ul>
+                    <ul class="upcoming">
+                        <li class="col-md-4">
+                            <div class="col-md-2 col-xs-2 dates">
+                                <div class="main-date">20</div>
+                                <div class="main-month">Feb</div>
+                            </div>
+                            <div class="col-md-10 col-xs-10">
+                                <div class="title"><a href="/Event/Details/PIT_2">RCDN PIT Meeting</a></div>
+                                <div class="location"><i class="icon icon-loc"></i> Skopje, Macedonia</div>
+                            </div>
+                            <div class="clearfix"></div>
+                        </li>
+                    </ul>
+        </div>
+
+        <div class="col-md-3 sidebar-banner center-block text-center">
+           <a class="twitter-timeline" href="https://twitter.com/nalas_eu" data-widget-id="650955342701010944"></a>
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+        </div>
+       
+
+    </div>
+
+</section><!-- /events -->
+<section class="banner-1">
+            <a href="https://nalas.sharepoint.com/"><img src="/Files/BannerImages/2.jpg" alt="Banner" class="center-block" style="max-width: 100%" /></a>
+
+</section><!-- /banner-1 -->
+<section class="testimonials">
+    <div class="container">
+
+        <div class="col-md-9">
+                <h2><a href="/Testimonials">Testimonials</a></h2>
+                    <div class="col-sm-6 col-md-4">
+                        <blockquote>
+                            <p>...it is about a kind of fight against the difficulty of being alone climbing mountains… so it is about helping each other by coordinating exchanges to make things happen. And making them happen in the same or similar pace throughout the SEE Region</p>
+                            <div class="bubble-triangle"><div class="bubble-triangle-inner"></div></div>
+                            <div class="by">
+                                        <img src="/Files/TestimonialImages/3.png" alt="User Testimonial" class="col-md-3 col-xs-2" />
+
+                                <div class="col-md-9 col-xs-10 ut-info">
+                                    <div class="name">Task Force Member</div>
+                                        <div class="location">Bucharest, Romania</div>
+                                </div>
+                                <div class="clearfix"></div>
+                            </div>
+                        </blockquote>
+                    </div>
+                    <div class="col-sm-6 col-md-4">
+                        <blockquote>
+                            <p>During the period of NALAS’ last Strategic Plan 2009-2012, NALAS positioned itself as a knowledge centre for its members and as a viable representative of South-East European Local Government Аssociations and Local Governments within the European and broader international scene.</p>
+                            <div class="bubble-triangle"><div class="bubble-triangle-inner"></div></div>
+                            <div class="by">
+                                        <img src="/Files/TestimonialImages/1.png" alt="User Testimonial" class="col-md-3 col-xs-2" />
+
+                                <div class="col-md-9 col-xs-10 ut-info">
+                                    <div class="name">NALAS President</div>
+                                        <div class="location">Trzin, Slovenia</div>
+                                </div>
+                                <div class="clearfix"></div>
+                            </div>
+                        </blockquote>
+                    </div>
+                    <div class="col-sm-6 col-md-4">
+                        <blockquote>
+                            <p>We set a goal to make 100 contacts during NEXPO, but we have achieved this during the first day. We are very satisfied with NEXPO, from what it offers and the whole atmosphere, which is great.</p>
+                            <div class="bubble-triangle"><div class="bubble-triangle-inner"></div></div>
+                            <div class="by">
+                                        <img src="/Files/TestimonialImages/4.png" alt="User Testimonial" class="col-md-3 col-xs-2" />
+
+                                <div class="col-md-9 col-xs-10 ut-info">
+                                    <div class="name">A representative of a company exhibiting at NEXPO 2013</div>
+                                        <div class="location">Zagreb, Croatia</div>
+                                </div>
+                                <div class="clearfix"></div>
+                            </div>
+                        </blockquote>
+                    </div>
+        </div>
+
+        <div class="col-md-3 rss-news">
+            <h2>Local News</h2>
+            <ul class="news-list"></ul>
+        </div>
+
+    </div>
+</section><!-- /Testimonials -->
+
+<div class="modal fade" id="YouTubeModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal"><span aria-hidden="true">&times;</span><span class="sr-only">Close</span></button>
+                <h4 class="modal-title" id="exampleModalLabel">YouTube Testimonial</h4>
+            </div>
+            <div class="modal-body">
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+            </div>
+        </div>
+    </div>
+</div>
+<section class="banner-2">
+            <a href="http://www.seecities.eu/">
+                <img src="/Files/BannerImages/3.jpg" alt="Banner" class="center-block" style="max-width: 100%" />
+            </a>
+</section><!-- /banner-2 -->
+<section class="members">
+    <div class="container">
+        <h2><a href="/Members">Members</a></h2>
+
+        <div id="map-members" style="width: 100%; height: 300px;"></div>
+    </div>
+</section>
+<script id="member-infowindow" type="text/x-handlebars-template">
+    <div class="info-content">
+        {{#if marker.ImgExtension}}
+        <div class="col-md-4 col-xs-4">
+            <img src="{{marker.ImgUrlDomain}}" />
+        </div>
+        {{/if}}
+        {{#if marker.ImgExtension}}<div class="col-md-8 col-xs-4">
+            {{else}}<div class="col-md-12">
+                {{/if}}
+                <h3 id="firstHeading" class="firstHeading">{{marker.Name}}</h3>
+                <div id="bodyContent">
+                    <p>
+                        <b>Street:</b> {{marker.Address}}
+                        <br /><b>Country:</b> {{marker.Country}}
+                        <br /><b>Post code:</b> {{marker.PostCode}}
+                        <br /><b>City:</b> {{marker.City}}
+						<br /><b>Phone:</b> {{marker.Phone}}
+                        <br /><b>Email:</b> <a target="_blank" href="mailto:{{marker.Email}}">{{marker.Email}}</a>
+                        <br /><b>Web:</b> <a target="_blank" href="{{marker.WebSite}}">{{marker.WebSite}}</a>
+                    </p>
+                </div>
+            </div>
+        </div>
+</script>
+
+<script id="members-template" type="text/x-handlebars-template">
+    <div class="member">
+        <div class="member-type col-md-12 col-sm-12">
+            {{type}}
+        </div>
+
+        {{#each member}}
+        <div class="single-member">
+            <div class="col-md-6">
+                <div class="member-title"><b>{{Name}}</b></div>
+                <ul class="address-details">
+                    <li>Street: {{Address}}</li>
+                    <li>{{Country}}</li>
+                    <li>Post code: {{PostCode}}</li>
+                    <li>City: {{City}}</li>
+                    <li>Contact Person: {{ContactPerson}}</li>
+					<li>Phone: {{Phone}}</li>
+                    <li>E-mail: <a target="_blank" href="mailto:{{Email}}">{{Email}}</a></li>
+                    <li>Web: <a target="_blank" href="{{WebSite}}">{{WebSite}}</a></li>
+                </ul>
+            </div>
+            <div class="col-md-6">
+                {{#if ImgExtension}}
+                <img src="{{ImgUrlDomain}}" alt="{{Name}}" style="max-width:100px;" />
+                {{/if}}
+            </div>
+        </div>
+        {{/each}}
+
+        <div class="clearfix"></div>
+    </div>
+</script>
+
+
+    </section>
+
+    <section class="footer invert">
+
+    <div class="container">
+        <div class="row">
+            <div class="col-sm-6 col-md-2 text-center center-block">
+                <img src="/Content/images/footer_nalas_logo.png" alt="Nalas EU Logo" />
+            </div>
+            <div class="col-sm-6 col-md-3 about-us">
+                <p></p>
+                <address>
+                    NALAS Secretariat<br />
+                    Varshavska 36 A, 1000 Skopje, Macedonia <br />
+                    Phone: +389 23090818 <br />
+                    Fax: +389 23090818 <br />
+                    E-mail: info@nalas.eu
+                </address>
+            </div>
+            <div class="col-sm-6 col-md-2 quick-links">
+                <h3>Quick links</h3>
+                <ul>
+                        <li><a href="/Announcements">Announcements</a></li>
+                        <li><a href="/Home/TermsOfUse">Terms of use</a></li>
+                        <li><a href="/News">News archive</a></li>
+                        <li><a href="/Sitemap">Site map</a></li>
+                        <li><a href="/Event">Events archive</a></li>
+                        <li><a href="/knowledge-center">Knowledge center</a></li>
+                        <li><a href="/Testimonials">Testimonials</a></li>
+                        <li><a href="/Partners">Partners</a></li>
+                </ul>
+            </div>
+            <div class="col-sm-6 col-md-5 nalas-digest">
+                <h3>NALAS Digest</h3>
+                <form class="navbar-form navbar-left" role="newsletter">
+                    <div class="form-group">
+                        <input type="text" class="form-control" placeholder="Enter e-mail address" id="subscribeEmail" />
+                    </div>
+                    <button type="button" class="btn btn-default" onclick="Subscribe()"><span>NALAS</span> digest</button>
+                    <div id="subscribeStatus" style="display: none;"></div>
+                </form>
+                <div class="clearfix"></div>
+                <!--<p>If you wish to regularly receive LGA and LG updates through NALAS Digest, please sign in with your e-mail address.</p>-->
+                 <p style="font-size: 12px; margin-bottom: 15px;">If you wish to regularly receive LGA and LG updates through NALAS Digest, please sign in with your e-mail address.</p>
+                <p><img src="/Content/images/nalas_sponsors.png" alt="Nalas sponsors"></p>
+                <p style="font-size:11px;">The development of this web site was supported by the Project Institutional Strengthening of NALAS, implemented by GIZ on behalf of the government of the Federal Republic of Germany</p>
+            </div>
+        </div>
+    </div>
+</section><!-- /footer -->
+
+<section class="copyright">
+    <div class="container">
+        <div class="col-md-6 copy">
+            &copy; 2014 <b>NALAS</b>. All rights reserved. Designed by <b>4WARD</b>.
+        </div>
+        <div class="col-md-6 text-right">
+            <ul class="social-networks">
+
+
+
+                    <li>
+                        <a href="https://www.youtube.com/user/NALASCommunications" data-toggle="tooltip" data-placement="top" title="YouTube"><i class="social social-youtube"></i></a>
+                    </li>
+
+
+                    <li>
+                        <a href="/ContactUs" data-toggle="tooltip" data-placement="top" title="Mail"><i class="social social-mail"></i></a>
+                    </li>
+            </ul>
+        </div>
+    </div>
+</section>
+
+    <script src="/Scripts/Libs/jquery-1.10.2.js"></script>
+<script src="/Scripts/Libs/bootstrap.js"></script>
+<script src="/Scripts/Controllers/Shared/dropdowns.js"></script>
+<script src="/Scripts/Controllers/Shared/menu.js"></script>
+<script src="/Scripts/Libs/customFunctions.js"></script>
+
+    <script src="/Scripts/Libs/require.js"></script>
+    
+    <script type="text/javascript">
+        require( [ "/Scripts/common.js" ], function() {
+    require( [ "Controllers/Home/Index"] );
+});
+
+        $('#YouTubeModal').on('hide.bs.modal', function () { $('#YouTubeModal').find('.modal-body').empty(); });
+    </script>
+
+    <script type="text/javascript">
+        $('.social-networks').find('li').find('a').tooltip();
+        function Subscribe() {
+            $("#subscribeStatus").hide();
+
+            if (!IsEmail($("#subscribeEmail").val())) {
+                $("#subscribeStatus").html("<span style='color:red;'>Please enter valid email address</span>");
+                $("#subscribeStatus").show();
+                return;
+            }
+
+            $.get("/Home/Subscribe?email=" + $("#subscribeEmail").val(), function (data) {
+                if (data.status == "OK") {
+                    $("#subscribeStatus").html("<span style='color:green;'>" + data.message + "</span>");
+                    $("#subscribeStatus").show();
+                } else {
+                    $("#subscribeStatus").html("<span style='color:red;'>" + data.message + "</span>");
+                    $("#subscribeStatus").show();
+                }
+            });
+        }
+
+
+    </script>
+    <script src="/Scripts/GoogleAnalyticsScript.js"></script>
+</body>
+</html>
+
+

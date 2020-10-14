@@ -1,0 +1,201 @@
+WARC/1.0
+WARC-Type: warcinfo
+WARC-Date: 2018-05-30T17:52:31Z
+WARC-All-Language: en
+WARC-All-Content_type: text/html
+WARC-Record-ID: <urn:uuid:89a568c3-0df9-4be1-85c2-40edb744212a>
+Content-Type: application/http;msgtype=response
+Content-Length: 46
+
+WARCProcessor by SING Group www.sing-group.com
+
+WARC/1.0
+WARC-Type: response
+WARC-Target-URI: http://www.greekpeaches.eu
+WARC-Date: 20180530175231
+WARC-Language: en
+WARC-Record-ID: <http://www.greekpeaches.eu>
+Content-Type: application/http;msgtype=response
+Content-Length: 7838
+
+HTTP/1.1 200
+Content-Type:text/html
+
+
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html dir="ltr" xmlns="http://www.w3.org/1999/xhtml">
+
+<!-- #BeginTemplate "master.dwt" -->
+
+<head>
+<meta name="description" content="Greek peaches, an excellent fruit, a marathon runner for the Greek exports. Peach has been praised since the antiquity about its values and refreshing properties" />
+<meta name="keywords" content="greek peaches, griechische pfirsiche, greek apricots, pfirsich, momo,  peach compote, peach aseptic, aseptically packed peaches, peaches in aseptic package, emporio, e-mporio.com" />
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type" />
+<meta name="msvalidate.01" content="FC61685DFB35140278F527F7F01C291F" />
+<!-- #BeginEditable "doctitle" -->
+<title>Greek Peaches</title>
+<!-- #EndEditable -->
+<link href="styles/style.css" media="screen" rel="stylesheet" title="CSS" type="text/css" />
+<link href="styles/style_img1.css" media="screen" rel="stylesheet" title="CSS" type="text/css" />
+<link rel="shortcut icon" type="image/x-icon" href="/favicon.ico" />
+
+<style type="text/css">
+
+.auto-style1 {
+	text-align: right;
+}
+</style>
+
+</head>
+
+<body onLoad="show5()">
+<!-- Begin Container -->
+<div id="container">
+	<!-- Begin Masthead -->
+	<div id="masthead">
+	<!-- #BeginEditable "masthead" -->
+	<p style="text-align:right">fine Greek fruits<br />
+		unbeatable in taste and aroma<br />
+		tel.:+30-693-228-1185<br />
+		e-mail: <a href="mailto:info@greekpeaches.eu">info@greekpeaches.eu</a></p>
+	<!-- #EndEditable --></div>
+	<!-- End Masthead -->
+	<!-- Beginn textbar -->
+	<div id="textbar">
+	<!-- #BeginEditable "textbar" -->
+		<p class="auto-style1">Greek apricots and peaches. Available in a wide variety of quality, cuts and packages</p>
+		<!-- #EndEditable --></div>
+	<!-- End textbar -->
+	<!-- Begin plaisio -->
+		<div id="plaisio">
+		<!-- #BeginEditable "plaisio" -->
+		<iframe src="../iframe/plaisio.html" style="width:1035px" height="220px" scrolling="no" frameborder="0"></iframe>
+	<!-- #EndEditable --></div>
+	<!-- End plaisio -->
+	<!-- Begin img -->
+		<!-- #BeginEditable "img" -->
+	<div class="img" style="background-color:orange; width:201px; ">
+  		<a target="" href="http://www.greekpeaches.eu/peaches/greek_peaches.html">
+		<img alt="" src="images/img_1.jpg" width="190" height="auto" /></a>
+  		<div class="desc"><b>CANNED <br/>
+  		<a style="color: #663300" href="http://www.greekpeaches.eu/apricots/greek_apricots.html">APRICOTS -</a>
+  		<a style="color: #663300" href="http://www.greekpeaches.eu/peaches/greek_peaches.html">PEACHES</a></b></div>
+  			<div class="desc">Halves, slices, dices	or fruit cocktail in tins or jars.
+					(standard, g.standard, choice)other upon request</div>
+	</div>
+
+	<div class="img" style="background-color:orange; width:201px; ">
+  		<a target="" href="http://www.greekpeaches.eu/apricot_peach_puree.html">
+		<img alt="" src="images/img_3.jpg" width="190" height="auto" />
+  		</a>
+  		<div class="desc"><b>PUREE <br/>APRICOTS - PEACHES</b></div>
+  		  	<div class="desc">Apricot or Peach Puree packed in aseptic bags placed in conical drums. Also Kiwi Orange Pomegranate.</div>
+	</div>
+
+	<div class="img" style="background-color:orange; width:201px; ">
+  		<a target="" href="http://www.greekpeaches.eu/peaches/peach_aseptic.html">
+		<img alt="" src="images/img_4.jpg" width="190" height="auto" />
+  		</a>
+  		<div class="desc"><b>ASEPTIC <br/>APRICOTS - PEACHES</b></div>
+  		  	<div class="desc">Peach dices or slices <br/> packaged in aseptic bags placed in conical drums. Cuts refrigeration expenses.</div>
+	</div>
+
+	<div class="img" style="background-color:orange; width:201px; ">
+  		<a target="" href="http://www.greekpeaches.eu/peaches/peach_compote.html">
+		<img alt="" src="images/img_5.gif" width="190" height="auto" />
+  		</a>
+  		<div class="desc"><b>COMPOTE <br/>APRICOT - PEACH</b></div>
+  		  	<div class="desc">Fruit pieces in Fruit Puree <br/>with 85% fruit content .<br/>The healthy alternative to jam and jelly.</div>
+	</div>
+	
+	<div class="img" style="background-color:orange; width:201px; ">
+  		<a target="" href="http://www.greekpeaches.eu/other_fruits/greek_canned_fruits.html">
+		<img alt="" src="images/img_of.gif" width="190" height="auto" />
+  		</a>
+  		<div class="desc"><b>OTHER FRUITS<br/>NFC or Concentrate</b></div>
+  		  	<div class="desc">Seasonal availability of<br/>apple, grape, kiwi, orange, pomegranate and carrot concentrates.</div>
+	</div>
+		<!-- #EndEditable -->
+	<!-- End img -->
+	<!-- Begin framelogos -->
+		<div id="framelogos">
+		<a href="http://www.greekpeaches.eu/peaches/greek_peach_info.html"><img alt="" src="images/greek_peaches_info.gif" style="border:0"/></a>
+		<a href="http://www.greekpeaches.eu/peaches/peach_labels.html"><img alt="" src="images/greek_peaches_labels.gif" style="border:0"/></a>
+		<a href="http://www.greekpeaches.eu/logistics/logistics.html"><img alt="" src="images/greek_peaches_logistics.gif" style="border:0"/></a>
+		<a href="http://www.greekpeaches.eu/peaches/greek_peaches_nutrition.html"><img alt="" src="images/greek_peaches_nutrition.gif" style="border:0"/></a>
+		<a href="http://www.greekpeaches.eu/recipes/recipes.html"><img alt="" src="images/greek_peaches_recipes.gif" style="border:0"/></a>
+		</div>
+		<!-- End framelogos -->
+	<!-- Begin Footer -->
+	<div id="footer">
+		<p><a href="index.html">Home</a> | 
+		<a href="apricots/greek_apricots.html">Greek Apricots</a> | 
+		<a href="peaches/greek_peaches.html">Greek Peaches</a> |
+		<a href="other_fruits/greek_canned_fruits.html">Other fruits</a> |
+		<a href="news/greek_peaches_news.html">News</a> |
+		<a href="photo_gallery/gallery.html">Photo Gallery</a> |
+		<a href="photo_gallery/slideshow_1.html">A Great Slideshow</a> |
+		<a href="site_map/sitemap.html">Site Map</a> |
+		<a href="about/greek_peaches_about.html">About us</a> |
+		<a href="contact/greek_peaches_contact.php">Contact</a> |
+		<a href="contact/greek_peaches_tweets.html">Peach Tweets</a> |</p>
+		<center><a href="https://twitter.com/greek_peaches" class="twitter-follow-button" data-show-count="false" data-size="large">Follow @greek_peaches</a>
+				<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script></center>
+		<p>Copyright © Oxinia Co. All Rights Reserved.</p>
+	</div>
+	<!-- End Footer --></div>
+	<!-- End Container -->
+
+<span id="liveclock" style="position:absolute;left:0;top:0;">
+</span>
+
+<script language="JavaScript">
+
+<!--
+/*
+Upper Left Corner Live Clock Script- © Dynamic Drive (www.dynamicdrive.com)
+For full source code, 100's more DHTML scripts, and TOS, visit http://www.dynamicdrive.com
+*/
+
+function show5(){
+ if (!document.layers&&!document.all&&!document.getElementById)
+ return
+ var Digital=new Date()
+ var hours=Digital.getHours()
+ var minutes=Digital.getMinutes()
+ var seconds=Digital.getSeconds()
+ var dn="AM" 
+ if (hours>12){
+ dn="PM"
+ hours=hours-12
+ }
+ if (hours==0)
+ hours=12
+ if (minutes<=9)
+ minutes="0"+minutes
+ if (seconds<=9)
+ seconds="0"+seconds
+//change font size here to your desire
+myclock="<font size='3' font color='orange' face='Arial'><b><font size='1'>Current Local Time:</font></br>"+hours+":"+minutes+":"
+ +seconds+" "+dn+"</b></font>"
+if (document.layers){
+document.layers.liveclock.document.write(myclock)
+document.layers.liveclock.document.close()
+}
+else if (document.all)
+liveclock.innerHTML=myclock
+else if (document.getElementById)
+document.getElementById("liveclock").innerHTML=myclock
+setTimeout("show5()",1000)
+ }
+
+//-->
+</script>
+
+</body>
+
+<!-- #EndTemplate -->
+
+</html>
+
+

@@ -1,0 +1,226 @@
+WARC/1.0
+WARC-Type: warcinfo
+WARC-Date: 2018-05-30T19:12:14Z
+WARC-All-Language: en
+WARC-All-Content_type: text/html
+WARC-Record-ID: <urn:uuid:993eea82-18d5-4b27-941d-ac967ce9a081>
+Content-Type: application/http;msgtype=response
+Content-Length: 46
+
+WARCProcessor by SING Group www.sing-group.com
+
+WARC/1.0
+WARC-Type: response
+WARC-Target-URI: http://www.qtelnet.eu
+WARC-Date: 20180530191214
+WARC-Language: en
+WARC-Record-ID: <http://www.qtelnet.eu>
+Content-Type: application/http;msgtype=response
+Content-Length: 11350
+
+HTTP/1.1 200
+Content-Type:text/html
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1251" />
+<title>QTEL.NET :: HOME</title>
+	<script type="text/javascript" src="cxCore.js"></script>
+	<script type="text/javascript" src="cxElement.js"></script>
+	<script type="text/javascript" src="cxBrowserDetection.js"></script>
+	<script type="text/javascript" src="cxBezier.js"></script>
+
+	<script src="mootools.js" type="text/javascript" charset="utf-8"></script>
+	<script src="menu.js" type="text/javascript" charset="utf-8"></script>
+	<script type="text/javascript" src="init.js"></script>
+
+
+
+	<link href="data/bg_index.css" rel="stylesheet" type="text/css" />
+	<!--[if IE]>
+	<link rel="stylesheet" type="text/css" href="data/ie.css" />
+	<![endif]-->
+	<!--[if !IE]><!-->
+	<link rel="stylesheet" type="text/css" href="data/ff.css" />
+	<!--<![endif]-->
+</head>
+
+<body class="body">
+	<div id="loader"><img src="data/loader.gif"/></div>
+	<div id="container">
+	<div id="leftBox">
+		<div id="fadeInTop">
+			<table width="800" border="0" cellspacing="0" cellpadding="0">
+			  <tr>
+				<td width="500"><table width="100%" height="225" border="0" cellpadding="0" cellspacing="5">
+				  <tr>
+					<td><br /><img src="data/about.jpg" width="162" height="34" /></td>
+				  </tr>
+				  
+				  <tr>
+					<td valign="top"><font color="#ffffff">The <b>QTEL.NET</b> project addresses the issue of the quality of VET systems (policies and practices) as a major contribution to the progress towards the transformation, modernisation and adaptation of the European Education and Training systems, by focusing the processes of matching between training demand and training provision as one of the fundamental necessities for the successful functioning of the VET systems.<br /><br />
+					In particular, the project will explore the issue on sectoral level, focusing on the specifics in the sector of tourism, and will assure wide transfer of experience between EU member states and the accession countries.<br /><br />
+					Considering the importance of the issue, the objective of the QTEL.NET project is to analyse the relevant policies and practices in the partnering countries in the sector of tourism, distil from the information the success factors, and propose models for further networking and collaboration, based on the CQAF as a method for assessment and review, and as a measurement tool for setting reference indicators<br /><br />
+</font></td>
+				  </tr>
+				</table></td>
+				<td width="300"><img src="data/arrow.jpg" width="385" height="300" /></td>
+			  </tr>
+			</table>
+		</div>
+	</div>
+	<div id="rightBox">
+		<div id="fadeInBottom">
+			<table width="800" border="0" cellspacing="0" cellpadding="0">
+			  <tr>
+				<td width="400"><table width="100%" border="0" cellspacing="3" cellpadding="5">
+				  <tr>
+					<td colspan="2"><img src="data/approach.jpg" width="200" height="34" /></td>
+					</tr>
+				  <tr>
+					<td colspan="2">
+					<b>The main approach of the QTEL.NET project is focusing on:</b><br /><br /><br />
+					
+					<b>&raquo;</b>&nbsp;comparison of the systems in the different countries<br /><br />
+					<b>&raquo;</b>&nbsp;distilling from the information the success factors and the key criteria<br /><br />
+					<b>&raquo;</b>&nbsp;developing practical sets of reference indicators based on the success factors using the CQAF approach<br /><br />
+					<b>&raquo;</b>&nbsp;spreading the results amongst the partnering countries and other interested bodies for influencing the processes and practices on both system and provision level (via Peer Learning Activity, International conference, EU sites and virtual communities, national dissemination events)<br /><br />
+					<b>&raquo;</b>&nbsp;assuring future collaboration by providing a virtual space for exchange and keeping and enlarging the contacts through virtual network.<br />
+					<br />
+					</td>
+					</tr>
+				</table></td>
+				<td width="400" valign="top"><table width="100%" border="0" cellspacing="3" cellpadding="5">
+				  <tr>
+					<td colspan="2"><img src="data/activity.jpg" width="200" height="34" /></td>
+				  </tr>
+				  <tr>
+					<td colspan="2">
+					<b>Main activities during the project period:</b><br /><br /><br />
+
+					<b>&raquo;</b>&nbsp;Overview of the mechanisms existing in the partnering countries to enable the matching between qualification demands and training provision in the sector of tourism, taking in account the specific technological development in the sector. Capture and classify examples of good practice<br /><br />
+					<b>&raquo;</b>&nbsp;Compare & distil from the information the success factors in the various systems (summary and discussion, meeting in Greece)<br /><br />
+					<b>&raquo;</b>&nbsp;Developing practical sets of reference books (at system, social partners and provision level) and reference indicators charts based on the success factors using the CQAF approach<br /><br />
+					<b>&raquo;</b>&nbsp;Dissemination & future collaboration<br /><br />
+					<b>&raquo;</b>&nbsp;Peer learning activity & International Conference (partners & policy makers, November 2007, Scotland)<br />
+					</td>
+				  </tr>
+				</table></td>
+			  </tr>
+			</table>
+		</div>
+	</div>
+	<div id="headerBox">
+		<table width="100%" border="0" cellspacing="0" cellpadding="0">
+			<tr>
+				<td width="50%"><div id="logo"></div></td>
+				<td width="50%" valign="top">
+					<div id="fancymenu">
+						<ul>
+							<li class="current" id="menu_home"><a href="#" onClick="location='index.php'">Home</a></li>
+							<li id="menu_plantatree"><a href="#" onClick="location='partners.php'">partners</a></li>
+							<li id="menu_travel"><a href="#" onClick="location='public.php'">public area</a></li>
+							<li id="menu_rideanelephant"><a href="#" onClick="location='contact.php'">contact</a></li>
+						</ul>
+						<br/>
+						<div align="right">
+						<form id="form1" name="form1" method="post" action="index.php?action=login">
+						<input type="text" name="un" value="username" class="tf" />&nbsp;<input type="text" name="pw" value="password" class="tf" /><input type="image" src="images/login.jpg" width="64" height="25" border="0" value="Submit" alt="Login">
+						</form>
+						</div>
+
+<!-- /login -->	
+					</div>
+				</td>
+			</tr>
+			<tr>
+				<td height="100px" colspan="2"><br />
+					<p><img width="118" height="80" src="data/clip_image002.jpg" align="left" hspace="12" /><strong> </strong><br />
+                            <strong>QTEL.NET:</strong> <strong>Matching  Su</strong><strong>p</strong><strong>ply &amp; Demands &ndash; Network for Sectoral Approach to Qualifications in  Tourism at European Level</strong><br />
+                          2006 -  4064 / 001 &ndash; 001 LE2-78CQAF<strong></strong></p>
+                        <p>A Leonardo da Vinci  project within the Grant scheme DG EAC/32/2006  - Development and coordination of practical projects promoting the use of  the Common Quality Assurance Framework (CQAF) in VET</p>
+                        <ul type="disc">
+                          <li>Topic       2: Instruments enabling a better matching between qualification demand and       training provision: sectors approaches </li>
+                          <li>Sector:       Qualifications in tourism</li>
+                        </ul>
+                        <p>With the financial support of EUROPEAN COMMISSION -  Directorate-General for Education and Culture, Lifelong Learning: Education and  Training policies</p>
+                        <div>
+				</td>
+			</tr>
+		</table>
+	</div>
+	<div id="logoBox">
+	</div>
+
+	<table width="800" height="100%" border="0" align="center" cellpadding="0" cellspacing="0" bgcolor="#ffffff">
+		<tr><td height="955">&nbsp;</td></tr>
+		<tr>
+			<td>
+					<table width="100%" border="0" align="center" cellpadding="0" cellspacing="0" bgcolor="#ffffff">
+					  <tr>
+						<td width="404" bgcolor="#f67c14" valign="top">
+							<table width="100%" border="0" cellspacing="3" cellpadding="5">
+							  <tr>
+								<td colspan="2"><img src="data/news.jpg" width="350" height="34" /></td>
+								</tr>
+							  <tr>
+								<td colspan="2" valign="top" align="left"><font color="#ffffff">
+								<br /><b>
+								QTEL.NET project: Second project meeting / 10.05.2007</b><br /><br />
+								The second project meeting of the QTEL.NET project will take place on 1 – 2nd of June, 2007 in Syros – Greece.<br />
+								The meeting will be focused on overview of the practices existing in the partnering countries for assuring matching between qualification demands and training provision in tourism, and mapping the roles of the relevant bodies responsible for the training needs analysis and the social dialogue. <br />
+								A summary of the Good practices collection will be the basis for further analysis of the process of the matching, focused on key criteria, differences and success factors. <br /><br /><br />
+
+
+								<b>Good practices collection / 14.05.2007</b><br /><br />
+								The first samples of the QTEL.NET Good Practices collection will be available in the “downloads” section on 20th of May, 2007.<br />
+								</b><br />
+								<br />
+								<div align="right"><a href="news.php" class="white">more<b>&raquo;</b></a></div><br />
+								</font></td>
+								</tr>
+							</table>
+						</td>
+						<td width="11"><img src="data/white_shadow.jpg" height="100%">&nbsp;</td>
+						<td width="361" valign="bottom">
+						<table width="100%" height="100%" border="0" cellspacing="0" cellpadding="0">
+                          <tr>
+                            <td>
+								<table width="100%" border="0" cellspacing="0" cellpadding="10">
+								  <tr>
+									<td>
+									<table width="100%" border="0" cellspacing="0" cellpadding="3">
+									  <tr>
+										<td align="left">
+										<span class="disclaimer"><img src="data/eu-flag.gif" width="60" /><br /><br />This project is implemented with the financial support of European Commission - Directorate General for Education and Culture, Lifelong Learning: Education and Training policies. The contents of this handbook do not necessarily represent the opinion of the European Commission and the European Commission does not assume any liability for it.</span>
+										</td>
+									  </tr>
+									</table>
+									</td>
+								  </tr>
+								</table>
+							</td>
+                          </tr>
+                          <tr>
+                            <td><table width="100%"  border="0" cellspacing="0" cellpadding="0">
+                              <tr>
+                                <td width="90%" valign="bottom" align="right"><span class="disclaimer">QTEL.NET&nbsp;&nbsp;&nbsp;<br />
+								2006 - 4064 / 001 – 001 LE2-78CQAF&nbsp;&nbsp;&nbsp;</span></td>
+                                <td width="10%" valign="bottom"><div align="right"><a href="http://www.conquex.com" target="_blank"><img src="images/logo_cnx.jpg" border="0"></a></div></td>
+                              </tr>
+                            </table></td>
+                          </tr>
+                        </table>
+						</td>
+					  </tr>
+					</table></td>
+			</td>
+		</tr>
+	</table>
+	</div>
+</body>
+</html>
+
+

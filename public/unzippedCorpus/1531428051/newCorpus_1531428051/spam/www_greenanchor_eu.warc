@@ -1,0 +1,530 @@
+WARC/1.0
+WARC-Type: warcinfo
+WARC-Date: 2018-05-30T17:52:31Z
+WARC-Record-ID: <urn:uuid:bcfbf475-11bd-45d8-a4f3-7228d5bbfe29>
+WARC-All-Language: en, en-gb
+WARC-All-Content_type: text/html, text/html; charset=utf-8
+Content-Type: application/http;msgtype=response
+Content-Length: 46
+
+WARCProcessor by SING Group www.sing-group.com
+
+WARC/1.0
+WARC-Type: response
+WARC-Record-ID: <http://www.greenanchor.eu>
+WARC-Date: 20180530175231
+WARC-Target-URI: http://www.greenanchor.eu
+WARC-Language: en-gb
+Content-Type: application/http;msgtype=response
+Content-Length: 20299
+
+HTTP/1.1 200
+Content-Type:text/html; charset=utf-8
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-gb" lang="en-gb" >
+<head>
+  <base href="http://www.greenanchor.eu/" />
+  <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+  <meta name="robots" content="index, follow" />
+  <meta name="keywords" content="Green Anchor Group International Steel Trading" />
+  <meta name="description" content="Green Anchor Group International Steel Trading" />
+  <meta name="generator" content="Joomla! 1.5 - Open Source Content Management" />
+  <title>Green Anchor Group</title>
+  <link href="/templates/rt_firenzie_j15/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+  <link rel="stylesheet" href="/plugins/system/cdscriptegrator/libraries/highslide/css/highslide.css" type="text/css" />
+  <link rel="stylesheet" href="/modules/mod_cd_login/tmpl/css/mod_cd_login.css" type="text/css" />
+  <link rel="stylesheet" href="/modules/mod_jflanguageselection/tmpl/mod_jflanguageselection.css" type="text/css" />
+  <script type="text/javascript" src="/plugins/system/cdscriptegrator/libraries/highslide/js/highslide-full.min.js"></script>
+  <script type="text/javascript" src="/media/system/js/mootools.js"></script>
+  <script type="text/javascript" src="/media/system/js/caption.js"></script>
+  <script type="text/javascript">
+
+		<!--
+		var cdhs = hs;
+		hs.graphicsDir = '/plugins/system/cdscriptegrator/libraries/highslide/graphics/';
+    	hs.outlineType = 'rounded-white';
+    	hs.outlineWhileAnimating = true;
+    	hs.showCredits = true;
+    	hs.expandDuration = 250;
+		hs.anchor = 'auto';
+		hs.align = 'auto';
+		hs.transitions = ["expand"];
+		hs.dimmingOpacity = 0;
+		hs.lang = {
+		   loadingText :     'Loading...',
+		   loadingTitle :    'Click to cancel',
+		   focusTitle :      'Click to bring to front',
+		   fullExpandTitle : 'Expand to actual size',
+		   fullExpandText :  'Full size',
+		   creditsText :     'Powered by Highslide JS',
+		   creditsTitle :    'Go to the Highslide JS homepage',
+		   previousText :    'Previous',
+		   previousTitle :   'Previous (arrow left)',
+		   nextText :        'Next',
+		   nextTitle :       'Next (arrow right)',
+		   moveTitle :       'Move',
+		   moveText :        'Move',
+		   closeText :       'Close',
+		   closeTitle :      'Close (esc)',
+		   resizeTitle :     'Resize',
+		   playText :        'Play',
+		   playTitle :       'Play slideshow (spacebar)',
+		   pauseText :       'Pause',
+		   pauseTitle :      'Pause slideshow (spacebar)',   
+		   number :          'Image %1 of %2',
+		   restoreTitle :    'Click to close image, click and drag to move. Use arrow keys for next and previous.'
+		};
+		//-->
+		
+	hs.Expander.prototype.onAfterExpand = function () {
+		document.getElementById('modlgn_username').focus();
+	};
+	
+  </script>
+
+
+
+
+	<link rel="shortcut icon" href="/images/favicon.ico" />
+		<link href="/templates/rt_firenzie_j15/css/rokmoomenu.css" rel="stylesheet" type="text/css" />
+		<link href="/templates/rt_firenzie_j15/css/template_css.css" rel="stylesheet" type="text/css" />
+	<link href="/templates/rt_firenzie_j15/css/style6.css" rel="stylesheet" type="text/css" />
+		<link href="/templates/rt_firenzie_j15/rokzoom/rokzoom.css" rel="stylesheet" type="text/css" />
+		<link href="/templates/rt_firenzie_j15/css/rokslidestrip.css" rel="stylesheet" type="text/css" />
+	<!--[if IE 7]>
+	<link href="/templates/rt_firenzie_j15/css/template_ie7.css" rel="stylesheet" type="text/css" />
+	<![endif]-->
+	<!--[if lte IE 6]>
+	<link href="/templates/rt_firenzie_j15/css/template_ie6.css" rel="stylesheet" type="text/css" />
+	<style type="text/css">
+	img { behavior: url(templates/rt_firenzie_j15/css/iepngfix.htc); } 
+	</style>
+	<![endif]-->
+	<style type="text/css">
+		div.wrapper { margin: 0 auto; width: 990px;}
+		td.sidebar { width: 25%; }
+	</style>	
+		<script type="text/javascript" src="/templates/rt_firenzie_j15/rokzoom/rokzoom.js"></script>
+			
+	<!--[if IE]>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+
+sfHover = function() {
+	var sfEls = document.getElementById("horiznav").getElementsByTagName("LI");
+	for (var i=0; i<sfEls.length; i++) {
+		sfEls[i].onmouseover=function() {
+			this.className+=" sfHover";
+		}
+		sfEls[i].onmouseout=function() {
+			this.className=this.className.replace(new RegExp(" sfHover\\b"), "");
+		}
+	}
+}
+if (window.attachEvent) window.attachEvent("onload", sfHover);
+
+//--><!]]>
+</script>
+
+<![endif]-->
+	
+		<script type="text/javascript">
+		window.addEvent('load', function() {
+			RokZoom.init({
+				imageDir: 'templates/rt_firenzie_j15/rokzoom/images/',
+				resizeFX: {
+					duration: 700,
+					transition: Fx.Transitions.Cubic.easeOut,
+					wait: true
+				},
+				opacityFX: {
+					duration: 500,
+					wait: false	
+				}
+			});
+		});
+	</script>
+	<script type="text/javascript">
+    hs.showCredits = false;
+</script>
+	</head>
+	<body class="f-default">
+		<div id="body-b">
+			<div id="body-t">
+				<!-- start wrapper -->
+				<div class="wrapper">
+					<!-- start frame -->
+					<div id="frame-1">
+						<div id="frame-2">
+							<div id="frame-3">
+								<div id="frame-4">
+									<div id="masthead">
+										<a href="http://www.greenanchor.eu/" class="nounder"><img src="/templates/rt_firenzie_j15/images/blank.gif" style="border:0;" alt="" id="logo" /></a>
+										<div id="mod-banner">
+											<div id="jflanguageselection"><div class="rawimages"><span><a href="http://www.greenanchor.eu/it.html"><img src="/components/com_joomfish/images/flags/it.gif" alt="Italian - Italy" title="Italian - Italy" /></a></span><span><a href="http://www.greenanchor.eu/zh.html"><img src="/components/com_joomfish/images/flags/zh.gif" alt="简体中文" title="简体中文" /></a></span><span><a href="http://www.greenanchor.eu/es.html"><img src="/components/com_joomfish/images/flags/es.gif" alt="Español (Spanish)" title="Español (Spanish)" /></a></span></div></div><!--Joom!fish V2.0.4 (Lightning)-->
+<!-- &copy; 2003-2009 Think Network, released under the GPL. -->
+<!-- More information: at http://www.joomfish.net -->
+
+										</div>
+										<div id="mod-top">
+											<div class="top-padding">
+												
+
+
+
+<div class="cd_moduletitle_logo"><a href="#"
+	onclick="return hs.htmlExpand(this, { contentId: 'highslide-html-loginform', wrapperClassName: 'mod_cd_login', outlineType: 'rounded-white', align: 'auto', anchor: 'auto', dimmingOpacity: 0, slideshowGroup: 'mod_cd_login_loginform' } )"
+	title="Login">Login</a></div>
+
+	<div class="highslide-html-content" id="highslide-html-loginform">
+
+<div class="highslide-html-content-header">
+<div class="highslide-move"
+	title="Move"><a href="#"
+	onclick="return hs.close(this)" class="control"
+	title="Close">Close</a>
+</div>
+</div>
+
+<div class="highslide-body">
+
+<form action="/en.html"
+	method="post" name="cd_login_form_login" id="cd_login_form_login">
+<fieldset class="input">
+<div>
+<p id="form-login-username"><label for="modlgn_username">Username</label><br />
+<input id="modlgn_username" type="text" name="username" class="inputbox"
+	title="Username"
+	alt="username" size="18" /></p>
+<p id="form-login-password"><label for="modlgn_passwd">Password</label><br />
+<input id="modlgn_passwd" type="password" name="passwd" class="inputbox"
+	size="18"
+	title="Password"
+	alt="password" /></p>
+<p id="form-login-remember"><input id="modlgn_remember" type="checkbox"
+	name="remember" class="inputbox" value="yes"
+	title="Remember Me"
+	alt="Remember Me" /> <label
+	for="modlgn_remember">Remember Me</label></p>
+	<p id="form-login-submit"><input type="submit"
+	name="Submit" id="cd_login_loginbutton"
+	title="Login"
+	value="" /></p>
+	</div>
+	</fieldset>
+                <div style="height: 10px"></div>
+<input type="hidden" name="option" value="com_user" /> <input
+	type="hidden" name="task" value="login" /> <input type="hidden"
+	name="return" value="L2VuL3ByaXZhdGUtYXJlYS5odG1s" /> <input type="hidden" name="aa8634b50288ab280e0fbdb0006cd37b" value="1" /></form>
+</div>
+ </div>
+
+
+											</div>
+										</div>
+									</div>
+									<div id="horiz-menu" class="suckerfish">
+																					<ul class="nav" id="horiznav"><li class="active"><span class="topdaddy"><a class="topdaddy" href="/en/company.html">Company</a></span><ul>
+<li><span class="top"><a href="http://email.greenanchor.it" target="_window" >email.greenanchor.it</a>
+</span></li>
+<li><span class="top"><a href="http://mail.greenanchor.eu" target="_window" >mail.greenanchor.eu</a>
+</span></li>
+<li><span class="top"><a href="http://www.stainless.asia/site/administrator/index.php" target="_window" >Intranet</a>
+</span></li>
+<li><span class="top"><a href="/en/company/glossario.html">Glossario</a></span></li>
+<li><span class="top"><a href="/en/company/tools.html?view=convert">Tools</a></span></li>
+</ul></li>
+<li><span class="topdaddy"><a class="topdaddy" href="/en/products.html">Products</a></span><ul>
+<li><span class="top"><a href="/en/products/coils-and-strips.html">Coils and Strips</a></span></li>
+<li><span class="top"><a href="/en/products/pipes-a-fittings.html">Pipes & Fittings</a></span></li>
+<li><span class="top"><a href="/en/products/titanium-products.html">Titanium products</a></span></li>
+<li><span class="top"><a href="/en/products/stainless-steel.html">Stainless Steel</a></span></li>
+<li><span class="top"><a href="/en/products/fiber-wires-rope-mesh.html">Fiber, Wires, Mesh</a></span></li>
+<li><span class="top"><a href="/en/products/cupronickel-products.html">Cupronickel products</a></span></li>
+<li><span class="top"><a href="/en/products/mechanical-components.html">Mechanical Parts</a></span></li>
+<li><span class="top"><a href="/en/products/machines.html">Machines</a></span></li>
+<li><span class="top"><a href="/en/products/calbesupportsystems.html">Cable Support Systems</a></span></li>
+<li><span class="top"><a href="/en/products/chemical-products.html">Chemical Products</a></span></li>
+</ul></li>
+<li><span class="top"><a href="/en/services.html">Services</a></span></li>
+<li><span class="top"><a href="/en/contacts.html">Contacts</a></span></li>
+</ul>											
+										<div class="clr"></div>
+									</div>
+									<!-- start mainbody -->
+									<div id="mainbody-1">
+										<div id="mainbody-2">
+											<div id="mainbody-3">
+												<div id="mainbody-4">
+													<div id="mainbody-5">
+														<div id="mainbody-6">
+															<!-- start component area -->
+															<div id="pathway">
+																																
+																															</div>
+															<div class="mainbody-padding">
+																<table id="mainframe">
+																	<tr>
+																																				<td class="component">
+																			<div class="component-padding">
+																																																												<div class="body-padding">
+																					<table class="blog" cellpadding="0" cellspacing="0">
+<tr>
+	<td valign="top">
+					<div>
+		
+<table class="contentpaneopen">
+<tr>
+		<td class="contentheading" width="100%">
+					Company Profile			</td>
+	
+	
+	
+		</tr>
+</table>
+<table class="contentpaneopen">
+
+
+
+
+<tr>
+<td valign="top" colspan="2">
+<p style="text-align: justify;">Green Anchor Group is a business service company with offices in Asia and Europe, exclusively focused on the <strong>export from Asia of steel materials, steel components and machinery for mechanical construction and mechanical industry.</strong></p>
+<p style="text-align: justify;">Green Anchor Group is managed by European and Asian managers.</p>
+<p style="text-align: justify;">Green Anchor Group’s mission is to assist and partner with industrial companies in sourcing of steel products from Asia, establishing long-term relationships with clients and suppliers in order to guarantee quality and service.</p>
+<p style="text-align: justify;">This enables Green Anchor Group to ensure to its customers:</p>
+<ul class="triangle-2">
+<li>
+<p>best prices on the market</p>
+</li>
+<li>
+<p>top quality of its products</p>
+</li>
+<li>
+<p style="text-align: justify;">respect of delivery terms</p>
+</li>
+</ul></td>
+</tr>
+
+
+
+</table>
+<span class="article_separator">&nbsp;</span>
+		</div>
+		</td>
+</tr>
+
+
+</table>
+
+																			  </div>
+																																																																																<table class="sections">
+																					<tr>
+																																																																																								<td class="section left w99">
+																									<div class="module">
+			<div>
+				<div>
+					<div>
+													<h3>Market Trend</h3>
+											<table border="0" width="36%">
+<tbody>
+<tr>
+<td class="style1" style="text-align: center;" width="18%"><span style="font-family: Calibri;">Nickel €/ton </span><br />
+<div style="background: transparent url(http://www.BaseMetals.com/freecharts/freechart.aspx?id=4490cbb2-2f08-41b8-9732-26c69a187a66) repeat scroll 0% 0%; width: 170px; height: 170px;"><img src="/images/white.gif" border="0" width="126" height="25" style="padding-top:152px;padding-left:10px" /></div>
+</td>
+<td class="style1" style="text-align: center;" width="82%"><span style="font-family: Calibri;">Alluminium €/ton </span><br />
+<div style="background: transparent url(http://www.BaseMetals.com/freecharts/freechart.aspx?id=3733f3c7-1cfc-4174-b3bb-60fc44a1c0c7) repeat scroll 0% 0%; width: 170px; height: 170px;"><img src="/images/white.gif" border="0" width="126" height="25" style="padding-top:152px;padding-left:10px" /></div>
+</td>
+</tr>
+<tr class="style1">
+<td class="style4" colspan="2"><br /></td>
+</tr>
+<tr class="style1">
+<td class="style1" style="text-align: center;"><span class="style6"><span style="font-family: Calibri;">Copper €/ton </span></span><br />
+<div style="background: transparent url(http://www.BaseMetals.com/freecharts/freechart.aspx?id=cea3d0ac-3b02-4a74-87e9-c1c107377620) repeat scroll 0% 0%; width: 170px; height: 170px;"><img src="/images/white.gif" border="0" width="126" height="25" style="padding-top:152px;padding-left:10px" /></div>
+</td>
+<td class="style6" style="text-align: center;"><span style="font-family: Calibri;">Zinc €/ton </span><br />
+<div style="background: transparent url(http://www.BaseMetals.com/freecharts/freechart.aspx?id=975d939e-074b-4e72-9ffd-7ef4a6afacad) repeat scroll 0% 0%; width: 170px; height: 170px;"><img src="/images/white.gif" border="0" width="126" height="25" style="padding-top:152px;padding-left:10px" /></div>
+</td>
+</tr>
+<tr class="style1">
+<td class="style4" colspan="2"><br /></td>
+</tr>
+<tr class="style1">
+<td class="style6" style="text-align: center;"><span style="font-family: Calibri;">Tin €/ton </span><br />
+<div style="background: transparent url(http://www.BaseMetals.com/freecharts/freechart.aspx?id=cc9149ad-8b51-4f58-8061-ea66fa283a53) repeat scroll 0% 0%; width: 170px; height: 170px;"><img src="/images/white.gif" border="0" width="126" height="25" style="padding-top:152px;padding-left:10px" /></div>
+</td>
+<td class="style6" style="text-align: center;"><span style="font-family: Calibri;"><br /></span></td>
+</tr>
+</tbody>
+</table>					</div>
+				</div>
+			</div>
+		</div>
+	
+																						</td>
+																																											</tr>
+																				</table>
+																																							</div>
+																		</td>
+																																				<td class="sidebar right">
+																																								<div class="module">
+			<div>
+				<div>
+					<div>
+											<div style="text-align: center;">
+		<img src="http://www.greenanchor.eu//images/banners/steel pvc.jpg" border="0" width="150" height="93" alt="steel pvc.jpg" />
+	</div>					</div>
+				</div>
+			</div>
+		</div>
+			<div class="module">
+			<div>
+				<div>
+					<div>
+											<div style="text-align: center;">
+		<img src="http://www.greenanchor.eu//images/banners/direct drawing machine.jpg" border="0" width="150" height="135" alt="direct drawing machine.jpg" />
+	</div>					</div>
+				</div>
+			</div>
+		</div>
+			<div class="module">
+			<div>
+				<div>
+					<div>
+											<div style="text-align: center;">
+		<img src="http://www.greenanchor.eu//images/banners/steel-bolts.jpg" border="0" width="150" height="101" alt="steel-bolts.jpg" />
+	</div>					</div>
+				</div>
+			</div>
+		</div>
+			<div class="module">
+			<div>
+				<div>
+					<div>
+											<div style="text-align: center;">
+		<img src="http://www.greenanchor.eu//images/banners/Green-Anchor-Group-133.jpg" border="0" width="150" height="137" alt="Green-Anchor-Group-133.jpg" />
+	</div>					</div>
+				</div>
+			</div>
+		</div>
+			<div class="module">
+			<div>
+				<div>
+					<div>
+											<div style="text-align: center;">
+		<img src="http://www.greenanchor.eu//images/banners/Green-Anchor-Group-040.jpg" border="0" width="150" height="98" alt="Green-Anchor-Group-040.jpg" />
+	</div>					</div>
+				</div>
+			</div>
+		</div>
+			<div class="module">
+			<div>
+				<div>
+					<div>
+											<div style="text-align: center;">
+		<img src="http://www.greenanchor.eu//images/banners/thrust bearingball.jpg" border="0" width="150" height="150" alt="thrust bearingball.jpg" />
+	</div>					</div>
+				</div>
+			</div>
+		</div>
+			<div class="module">
+			<div>
+				<div>
+					<div>
+											<div style="text-align: center;">
+		<img src="http://www.greenanchor.eu//images/banners/trunnion-mounted-ball-valve.jpg" border="0" width="150" height="151" alt="trunnion-mounted-ball-valve.jpg" />
+	</div>					</div>
+				</div>
+			</div>
+		</div>
+			<div class="module">
+			<div>
+				<div>
+					<div>
+											<div style="text-align: center;">
+		<img src="http://www.greenanchor.eu//images/banners/windmill1.jpg" border="0" width="150" height="201" alt="windmill1.jpg" />
+	</div>					</div>
+				</div>
+			</div>
+		</div>
+			<div class="module">
+			<div>
+				<div>
+					<div>
+											<div style="text-align: center;">
+		<img src="http://www.greenanchor.eu//images/banners/Green-Anchor-Group-018.jpg" border="0" width="150" height="100" alt="Green-Anchor-Group-018.jpg" />
+	</div>					</div>
+				</div>
+			</div>
+		</div>
+			<div class="module">
+			<div>
+				<div>
+					<div>
+											<div style="text-align: center;">
+		<img src="http://www.greenanchor.eu//images/banners/Green-Anchor-Group-142.jpg" border="0" width="150" height="113" alt="Green-Anchor-Group-142.jpg" />
+	</div>					</div>
+				</div>
+			</div>
+		</div>
+	
+																		</td>
+																																			</tr>
+																</table>
+															</div>
+															<!-- end component area -->
+														</div>
+													</div>
+												</div>
+											</div>
+										</div>
+									</div>
+									<!-- end body -->
+									<!-- start footer -->
+									<div id="footer-1">
+										<div id="footer-2">
+											<div id="footer-3">
+												<div id="footer-4">
+													<div id="footer-5">
+														<div id="footer-padding">
+																																												</div>
+													</div>
+												</div>
+											</div>
+										</div>
+									</div>
+									<!-- end footer -->
+									<!-- start rocket bottom -->
+									<div id="rocket-1">
+										<div id="rocket-2">
+											<div id="rocket-3">
+												<img src="/templates/rt_firenzie_j15/images/blank.gif" alt="Green Anchor" id="rocket" />
+											</div>
+										</div>
+									</div>
+									<!-- end rocket bottom -->
+								</div>
+							</div>
+						</div>
+					</div>
+					<!-- end frame -->
+				</div>
+				<!-- end wrapper -->
+			</div>
+		</div>
+	
+			<script type="text/javascript">
+			var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+			document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+			</script>
+			<script type="text/javascript">
+			try {
+			var pageTracker = _gat._getTracker("UA-899878-1");
+			pageTracker._trackPageview();
+			} catch(err) {}</script>
+			</body>	
+</html>
+

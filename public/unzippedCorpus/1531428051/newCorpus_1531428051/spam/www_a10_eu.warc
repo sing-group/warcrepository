@@ -1,0 +1,966 @@
+WARC/1.0
+WARC-Type: warcinfo
+WARC-Date: 2018-05-30T18:18:32Z
+WARC-Record-ID: <urn:uuid:6dee1495-22bc-4255-ba27-da167a68ae4a>
+WARC-All-Language: en, en-US
+WARC-All-Content_type: text/html; charset=UTF-8, text/html
+Content-Type: application/http;msgtype=response
+Content-Length: 46
+
+WARCProcessor by SING Group www.sing-group.com
+
+WARC/1.0
+WARC-Type: response
+WARC-Record-ID: <http://www.a10.eu>
+WARC-Date: 20180530181832
+WARC-Target-URI: http://www.a10.eu
+WARC-Language: en-US
+Content-Type: application/http;msgtype=response
+Content-Length: 75195
+
+HTTP/1.1 200
+Content-Type:text/html; charset=UTF-8
+
+
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="profile" href="http://gmpg.org/xfn/11">
+<link rel="pingback" href="http://www.a10.eu/xmlrpc.php">
+
+<title>A10 new European architecture Cooperative | Platform for architecture in Europe within the context of politics, art, economy and society</title>
+
+<!-- All in One SEO Pack 2.4.5.1 by Michael Torbert of Semper Fi Web Design[245,394] -->
+<link rel='next' href='http://www.a10.eu/?paged=2' />
+
+<link rel="canonical" href="http://www.a10.eu/" />
+<!-- /all in one seo pack -->
+<link rel='dns-prefetch' href='//s0.wp.com' />
+<link rel='dns-prefetch' href='//s.gravatar.com' />
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="A10 new European architecture Cooperative &raquo; Feed" href="http://www.a10.eu/?feed=rss2" />
+<link rel="alternate" type="application/rss+xml" title="A10 new European architecture Cooperative &raquo; Comments Feed" href="http://www.a10.eu/?feed=comments-rss2" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.4\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.4\/svg\/","svgExt":".svg","source":{"concatemoji":"http:\/\/www.a10.eu\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.9.6"}};
+			!function(a,b,c){function d(a,b){var c=String.fromCharCode;l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,a),0,0);var d=k.toDataURL();l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,b),0,0);var e=k.toDataURL();return d===e}function e(a){var b;if(!l||!l.fillText)return!1;switch(l.textBaseline="top",l.font="600 32px Arial",a){case"flag":return!(b=d([55356,56826,55356,56819],[55356,56826,8203,55356,56819]))&&(b=d([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]),!b);case"emoji":return b=d([55357,56692,8205,9792,65039],[55357,56692,8203,9792,65039]),!b}return!1}function f(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var g,h,i,j,k=b.createElement("canvas"),l=k.getContext&&k.getContext("2d");for(j=Array("flag","emoji"),c.supports={everything:!0,everythingExceptFlag:!0},i=0;i<j.length;i++)c.supports[j[i]]=e(j[i]),c.supports.everything=c.supports.everything&&c.supports[j[i]],"flag"!==j[i]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[j[i]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(h=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",h,!1),a.addEventListener("load",h,!1)):(a.attachEvent("onload",h),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),g=c.source||{},g.concatemoji?f(g.concatemoji):g.wpemoji&&g.twemoji&&(f(g.twemoji),f(g.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='pique-style-css'  href='http://www.a10.eu/wp-content/themes/pique/style.css' type='text/css' media='screen' />
+<link rel='stylesheet' id='pique-fonts-css'  href='https://fonts.googleapis.com/css?family=Lora%3A400%2C700%2C400italic%2C700italic%7CKarla%3A400%2C700%2C400italic%2C700italic&#038;subset=latin%2Clatin-ext' type='text/css' media='all' />
+<link rel='stylesheet' id='fontawesome-css'  href='http://www.a10.eu/wp-content/themes/pique/fonts/font-awesome.min.css' type='text/css' media='all' />
+<link rel='stylesheet' id='genericons-css'  href='http://www.a10.eu/wp-content/plugins/jetpack/_inc/genericons/genericons/genericons.css?ver=3.1' type='text/css' media='all' />
+<link rel='stylesheet' id='jetpack_css-css'  href='http://www.a10.eu/wp-content/plugins/jetpack/css/jetpack.css?ver=5.9' type='text/css' media='all' />
+<script type='text/javascript' src='http://www.a10.eu/wp-includes/js/jquery/jquery.js?ver=1.12.4'></script>
+<script type='text/javascript' src='http://www.a10.eu/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
+<link rel='https://api.w.org/' href='http://www.a10.eu/index.php?rest_route=/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www.a10.eu/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://www.a10.eu/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 4.9.6" />
+<link rel='shortlink' href='https://wp.me/8BUkx' />
+
+<link rel='dns-prefetch' href='//v0.wordpress.com'/>
+<link rel='dns-prefetch' href='//i0.wp.com'/>
+<link rel='dns-prefetch' href='//i1.wp.com'/>
+<link rel='dns-prefetch' href='//i2.wp.com'/>
+<style type='text/css'>img#wpstats{display:none}</style>	<style type="text/css">
+				.pique-frontpage .pique-panel.pique-panel1 {
+				background-color:  #fcfcfc;
+			}
+					.pique-frontpage .pique-panel.pique-panel1 .pique-panel-background {
+				opacity:  0.25;
+			}
+					.pique-frontpage .pique-panel.pique-panel2 {
+				background-color:  #fcfcfc;
+			}
+					.pique-frontpage .pique-panel.pique-panel2 .pique-panel-background {
+				opacity:  0.25;
+			}
+					.pique-frontpage .pique-panel.pique-panel3 {
+				background-color:  #fcfcfc;
+			}
+					.pique-frontpage .pique-panel.pique-panel3 .pique-panel-background {
+				opacity:  0.25;
+			}
+					.pique-frontpage .pique-panel.pique-panel4 {
+				background-color:  #fcfcfc;
+			}
+			</style>
+			<style type="text/css">
+					#masthead .site-branding .site-title a,
+			#masthead .site-branding .site-description {
+				color: #ffffff;
+			}
+				</style>
+		<style type="text/css" id="custom-background-css">
+body.custom-background { background-image: url("http://www.a10coop.eu/beta/wp-content/uploads/2017/04/White.jpg"); background-position: left top; background-size: contain; background-repeat: no-repeat; background-attachment: fixed; }
+</style>
+
+<!-- Jetpack Open Graph Tags -->
+<meta property="og:type" content="website" />
+<meta property="og:title" content="A10 new European architecture Cooperative" />
+<meta property="og:description" content="Platform for architecture in Europe within the context of politics, art, economy and society" />
+<meta property="og:url" content="http://www.a10.eu/" />
+<meta property="og:site_name" content="A10 new European architecture Cooperative" />
+<meta property="og:image" content="https://i2.wp.com/www.a10.eu/wp-content/uploads/2017/04/cropped-logoA10red.jpg?fit=512%2C512" />
+<meta property="og:image:width" content="512" />
+<meta property="og:image:height" content="512" />
+<meta property="og:locale" content="en_US" />
+<link rel="icon" href="https://i2.wp.com/www.a10.eu/wp-content/uploads/2017/04/cropped-logoA10red.jpg?fit=32%2C32" sizes="32x32" />
+<link rel="icon" href="https://i2.wp.com/www.a10.eu/wp-content/uploads/2017/04/cropped-logoA10red.jpg?fit=192%2C192" sizes="192x192" />
+<link rel="apple-touch-icon-precomposed" href="https://i2.wp.com/www.a10.eu/wp-content/uploads/2017/04/cropped-logoA10red.jpg?fit=180%2C180" />
+<meta name="msapplication-TileImage" content="https://i2.wp.com/www.a10.eu/wp-content/uploads/2017/04/cropped-logoA10red.jpg?fit=270%2C270" />
+			<style type="text/css" id="wp-custom-css">
+				/*
+REMOVE WORDPRESS FOOTER
+.site-info {
+  display: none;
+}
+.pique-panel {
+    outline: none
+}
+.home .entry-title {display: none;}
+.textwidget p {
+    font-weight: regular;
+}
+REMOVE DROP SHADOW
+.pique-panel-content {
+    text-shadow: none;
+}
+ENLARGE LOGO HEADER
+.site-branding .site-logo-link img {
+    height: 400px;
+}
+
+CHANGE COLOUR PANEL CONTENT TYPO
+.pique-panel-content {
+    color: #000;
+}
+
+*/
+.site-info {
+  display: none;
+}
+.pique-panel {
+    outline: none
+}
+.pique-panel-content {
+    text-shadow: none;
+}
+.site-branding .site-logo-link img {
+    height: 150px;
+}
+.pique-panel-content {
+    color: #000;
+}
+.pique-hero {
+	background-color: #fff;
+}
+
+a:link {color:#FF0000;} /* unvisited link */
+a:visited {color:#000000;} /* visited link */
+a:hover {color:#000000;} /* mouse over link */
+
+.pique-panel-background::before {
+    background: rgba(0, 0, 0, 0);
+}
+.pique-panel {
+    background-color: none;
+}
+
+.blog .pique-panel-content {
+    color: #fff;
+}
+.single .entry-title {
+    display: none;
+}
+
+.display-posts-listing .listing-item {
+	clear: both;
+}
+
+.display-posts-listing img {
+	float: left;
+	margin: 0 10px 10px 0;
+}			</style>
+		</head>
+
+<body class="home blog custom-background">
+<div id="page" class="hfeed site">
+
+	<a class="skip-link screen-reader-text" href="#content">Skip to content</a>
+
+	<header id="masthead" class="site-header" role="banner">
+
+						<a class="pique-header" href="http://www.a10.eu/" rel="home">
+					<img id="pique-header-image" src="http://www.a10.eu/wp-content/uploads/2018/04/cropped-TonuTunnel.com_KOKO_BJT_TT80822.jpg" width="1400" height="554" alt="A10 new European architecture Cooperative">
+				</a>
+					
+		<div class="site-branding">
+						<h1 class="site-title"><a href="http://www.a10.eu/" title="A10 new European architecture Cooperative" rel="home">A10 new European architecture Cooperative</a></h1>
+			<p class="site-description">Platform for architecture in Europe within the context of politics, art, economy and society</p>
+		</div><!-- .site-branding -->
+
+				<div id="site-navigation-wrapper">
+			<nav id="site-navigation" class="main-navigation" role="navigation">
+				<div class="menu-menu-container"><ul id="primary-menu" class="menu"><li id="menu-item-35" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-35"><a target="_blank" href="http://www.a10.eu/?page_id=23">A10 COOP</a>
+<ul class="sub-menu">
+	<li id="menu-item-248" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-248"><a target="_blank" href="http://www.a10.eu/?page_id=245">Collaborations 2016</a></li>
+	<li id="menu-item-721" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-721"><a href="http://www.a10.eu/?page_id=718">IN Practice</a></li>
+	<li id="menu-item-779" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-779"><a href="http://www.a10.eu/?page_id=737">Radical Ruralities</a></li>
+	<li id="menu-item-1333" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1333"><a href="http://www.a10.eu/?page_id=1329">Media Architecture Prize 2017, Hungary</a></li>
+	<li id="menu-item-1677" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1677"><a href="http://www.a10.eu/?page_id=1674">Country for sale</a></li>
+	<li id="menu-item-1774" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1774"><a href="http://www.a10.eu/?page_id=1771">Renovation Revolution</a></li>
+</ul>
+</li>
+<li id="menu-item-571" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-571"><a href="http://www.a10.eu/?page_id=567">Competition Culture in Europe</a></li>
+<li id="menu-item-34" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-34"><a target="_blank" href="http://www.a10.eu/?page_id=21">Published in print</a>
+<ul class="sub-menu">
+	<li id="menu-item-232" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-232"><a target="_blank" href="http://www.a10.eu/?page_id=210">A10 Magazine</a></li>
+	<li id="menu-item-244" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-244"><a target="_blank" href="http://www.a10.eu/?page_id=240">Publications</a></li>
+	<li id="menu-item-36" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-36"><a target="_blank" href="http://www.a10.eu/?page_id=26">TOUR GUIDE</a></li>
+	<li id="menu-item-166" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-166"><a target="_blank" href="http://www.a10.eu/?page_id=154">Eurovision</a></li>
+	<li id="menu-item-717" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-717"><a href="http://www.a10.eu/?page_id=713">SPECIALS</a></li>
+</ul>
+</li>
+<li id="menu-item-37" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-37"><a target="_blank" href="http://www.a10.eu/?page_id=28">About us</a>
+<ul class="sub-menu">
+	<li id="menu-item-165" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-165"><a target="_blank" href="http://www.a10.eu/?page_id=151">Correspondents</a></li>
+</ul>
+</li>
+<li id="menu-item-1377" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1377"><a href="http://www.a10.eu/?page_id=1373">Posts Archive</a></li>
+<li id="more-menu" class="menu-item menu-item-has-children"><a href="#"><span class="screen-reader-text">More</span></a><ul class="sub-menu"></ul></li></ul></div>			</nav><!-- #site-navigation -->
+		</div>
+		
+	</header><!-- #masthead -->
+
+	<div id="content" class="site-content">
+
+<div id="primary" class="content-area">
+		<main id="main" class="site-main" role="main">
+
+		
+		
+										
+<article id="post-1792" class="post-1792 post type-post status-publish format-standard has-post-thumbnail hentry category-uncategorized pique-panel">
+			<div class="pique-panel-background" style="background-image:url(https://i0.wp.com/www.a10.eu/wp-content/uploads/2018/04/TonuTunnel.com_KOKO_BJT_TT80818.jpg?resize=1400%2C1000)"></div>
+	
+		<div class="pique-panel-content">
+				<header class="entry-header">
+			<h2 class="entry-title"><a href="http://www.a10.eu/?p=1792">MARKET HALL – KOKO ARCHITECTS &#8211; ESTONIA</a></h2>		</header><!-- .entry-header -->
+
+		<div class="entry-content">
+			<p>BALTI JAAMA TURG, generous and colourful &#8211; Tarja Nurmi (FI) Open-air market halls are hot in Europe, especially in wood they offer this comfy, low-budget, hipster feeling,&hellip; <span class="read-more"><a class="more-link" href="http://www.a10.eu/?p=1792" rel="bookmark">Read more <span class="screen-reader-text">&#8220;MARKET HALL – KOKO ARCHITECTS &#8211; ESTONIA&#8221;</span></a></span></p>
+
+			<div class="entry-meta">
+				<span class="posted-on"><a href="http://www.a10.eu/?p=1792" rel="bookmark"><time class="entry-date published updated" datetime="2018-04-19T08:01:37+00:00">April 19, 2018</time></a></span><span class="byline"> by <span class="author vcard"><a class="url fn n" href="http://www.a10.eu/?author=1">admin</a></span></span>			</div><!-- .entry-meta -->
+
+					</div><!-- .entry-content -->
+
+		<footer class="entry-footer">
+					</footer><!-- .entry-footer -->
+	</div><!-- .pique-panel-content -->
+</article><!-- #post-## -->
+
+							
+<article id="post-1752" class="post-1752 post type-post status-publish format-standard has-post-thumbnail hentry category-competition-culture-in-europe tag-andorra tag-competitions tag-democracy tag-film tag-starchitects pique-panel">
+			<div class="pique-panel-background" style="background-image:url(https://i2.wp.com/www.a10.eu/wp-content/uploads/2018/03/Angel-Borrego-Cubero-©-Simona-Rota-1.jpeg?resize=1400%2C1000)"></div>
+	
+		<div class="pique-panel-content">
+				<header class="entry-header">
+			<h2 class="entry-title"><a href="http://www.a10.eu/?p=1752">COMPETITION CULTURE – INTERVIEW WITH ANGEL BORREGO CUBERO &#8211; EUROPE</a></h2>		</header><!-- .entry-header -->
+
+		<div class="entry-content">
+			<p>“A healthy democracy will have healthy competitions” &#8211; The Competition Part 2 &#8211; Anna Yudina With its inbuilt element of suspense, an architectural competition readily lends itself&hellip; <span class="read-more"><a class="more-link" href="http://www.a10.eu/?p=1752" rel="bookmark">Read more <span class="screen-reader-text">&#8220;COMPETITION CULTURE – INTERVIEW WITH ANGEL BORREGO CUBERO &#8211; EUROPE&#8221;</span></a></span></p>
+
+			<div class="entry-meta">
+				<span class="posted-on"><a href="http://www.a10.eu/?p=1752" rel="bookmark"><time class="entry-date published" datetime="2018-03-05T13:40:42+00:00">March 5, 2018</time><time class="updated" datetime="2018-04-10T14:32:56+00:00">April 10, 2018</time></a></span><span class="byline"> by <span class="author vcard"><a class="url fn n" href="http://www.a10.eu/?author=1">admin</a></span></span>			</div><!-- .entry-meta -->
+
+					</div><!-- .entry-content -->
+
+		<footer class="entry-footer">
+					</footer><!-- .entry-footer -->
+	</div><!-- .pique-panel-content -->
+</article><!-- #post-## -->
+
+							
+<article id="post-1704" class="post-1704 post type-post status-publish format-standard has-post-thumbnail hentry category-competition-culture-in-europe tag-competitions tag-gardens tag-greece tag-landscape tag-public-space tag-urban pique-panel">
+			<div class="pique-panel-background" style="background-image:url(https://i1.wp.com/www.a10.eu/wp-content/uploads/2018/02/04_topio7-PPC-stream.jpg?resize=1400%2C1000)"></div>
+	
+		<div class="pique-panel-content">
+				<header class="entry-header">
+			<h2 class="entry-title"><a href="http://www.a10.eu/?p=1704">COMPETITION CULTURE &#8211; TOPIO7 &#8211; GREECE</a></h2>		</header><!-- .entry-header -->
+
+		<div class="entry-content">
+			<p>&#8220;Softscapers, not hardscapers!&#8221; – Interview with TOPIO7 &#8211; Olga Ioannou Topio7 was established in 2012 as a landscape and architectural design practice, and the three have been&hellip; <span class="read-more"><a class="more-link" href="http://www.a10.eu/?p=1704" rel="bookmark">Read more <span class="screen-reader-text">&#8220;COMPETITION CULTURE &#8211; TOPIO7 &#8211; GREECE&#8221;</span></a></span></p>
+
+			<div class="entry-meta">
+				<span class="posted-on"><a href="http://www.a10.eu/?p=1704" rel="bookmark"><time class="entry-date published" datetime="2018-02-14T12:21:12+00:00">February 14, 2018</time><time class="updated" datetime="2018-02-20T23:05:36+00:00">February 20, 2018</time></a></span><span class="byline"> by <span class="author vcard"><a class="url fn n" href="http://www.a10.eu/?author=1">admin</a></span></span>			</div><!-- .entry-meta -->
+
+					</div><!-- .entry-content -->
+
+		<footer class="entry-footer">
+					</footer><!-- .entry-footer -->
+	</div><!-- .pique-panel-content -->
+</article><!-- #post-## -->
+
+							
+<article id="post-1630" class="post-1630 post type-post status-publish format-standard has-post-thumbnail hentry category-architecture category-competition-culture-in-europe category-country-for-sale category-uncategorized pique-panel">
+			<div class="pique-panel-background" style="background-image:url(https://i0.wp.com/www.a10.eu/wp-content/uploads/2018/01/central-station-saarinen-2.jpg?resize=1400%2C1000)"></div>
+	
+		<div class="pique-panel-content">
+				<header class="entry-header">
+			<h2 class="entry-title"><a href="http://www.a10.eu/?p=1630">A10 COOP &#8211; OUR RESEARCH PROJECTS IN 2018 &#8211; EUROPE</a></h2>		</header><!-- .entry-header -->
+
+		<div class="entry-content">
+			<p>A10 new European architecture has been a network since 2005. The name fits our ambition to operate on an A-level and achieve 10 out of 10. NEW,&hellip; <span class="read-more"><a class="more-link" href="http://www.a10.eu/?p=1630" rel="bookmark">Read more <span class="screen-reader-text">&#8220;A10 COOP &#8211; OUR RESEARCH PROJECTS IN 2018 &#8211; EUROPE&#8221;</span></a></span></p>
+
+			<div class="entry-meta">
+				<span class="posted-on"><a href="http://www.a10.eu/?p=1630" rel="bookmark"><time class="entry-date published" datetime="2018-01-23T14:39:37+00:00">January 23, 2018</time><time class="updated" datetime="2018-01-24T09:30:36+00:00">January 24, 2018</time></a></span><span class="byline"> by <span class="author vcard"><a class="url fn n" href="http://www.a10.eu/?author=1">admin</a></span></span>			</div><!-- .entry-meta -->
+
+					</div><!-- .entry-content -->
+
+		<footer class="entry-footer">
+					</footer><!-- .entry-footer -->
+	</div><!-- .pique-panel-content -->
+</article><!-- #post-## -->
+
+							
+<article id="post-1582" class="post-1582 post type-post status-publish format-standard has-post-thumbnail hentry category-competition-culture-in-europe tag-athens tag-competitions tag-eu-funding tag-greece tag-landscape tag-public-space tag-urban pique-panel">
+			<div class="pique-panel-background" style="background-image:url(https://i1.wp.com/www.a10.eu/wp-content/uploads/2017/11/Rethink-Athens-2.jpg?resize=1400%2C1000)"></div>
+	
+		<div class="pique-panel-content">
+				<header class="entry-header">
+			<h2 class="entry-title"><a href="http://www.a10.eu/?p=1582">Competitions – Case study No. 12 – Athens City Centre – OKRA Landschapsarchitecten and Studio 75 – Greece</a></h2>		</header><!-- .entry-header -->
+
+		<div class="entry-content">
+			<p>Competition Culture in Europe 2013–2016: Rethink Athens, GR, 2010 Case study No. 12 The outcome suggests that this project will probably never materialize The A10 survey into&hellip; <span class="read-more"><a class="more-link" href="http://www.a10.eu/?p=1582" rel="bookmark">Read more <span class="screen-reader-text">&#8220;Competitions – Case study No. 12 – Athens City Centre – OKRA Landschapsarchitecten and Studio 75 – Greece&#8221;</span></a></span></p>
+
+			<div class="entry-meta">
+				<span class="posted-on"><a href="http://www.a10.eu/?p=1582" rel="bookmark"><time class="entry-date published" datetime="2017-11-28T16:05:42+00:00">November 28, 2017</time><time class="updated" datetime="2017-11-30T11:20:08+00:00">November 30, 2017</time></a></span><span class="byline"> by <span class="author vcard"><a class="url fn n" href="http://www.a10.eu/?author=1">admin</a></span></span>			</div><!-- .entry-meta -->
+
+					</div><!-- .entry-content -->
+
+		<footer class="entry-footer">
+					</footer><!-- .entry-footer -->
+	</div><!-- .pique-panel-content -->
+</article><!-- #post-## -->
+
+							
+<article id="post-1567" class="post-1567 post type-post status-publish format-standard has-post-thumbnail hentry category-competition-culture-in-europe tag-competitions tag-ireland tag-municipal tag-schools tag-urban pique-panel">
+			<div class="pique-panel-background" style="background-image:url(https://i0.wp.com/www.a10.eu/wp-content/uploads/2017/11/Entrance-1.jpg?resize=1248%2C1000)"></div>
+	
+		<div class="pique-panel-content">
+				<header class="entry-header">
+			<h2 class="entry-title"><a href="http://www.a10.eu/?p=1567">Competitions – Case study No. 11 – Primary School – Tún Architecture + Design – Ireland</a></h2>		</header><!-- .entry-header -->
+
+		<div class="entry-content">
+			<p>Competition Culture in Europe 2013–2016: Urban Primary School, IR, 2015 Case study No. 11 This competition process is challenging and time-consuming The A10 survey into Competition Culture&hellip; <span class="read-more"><a class="more-link" href="http://www.a10.eu/?p=1567" rel="bookmark">Read more <span class="screen-reader-text">&#8220;Competitions – Case study No. 11 – Primary School – Tún Architecture + Design – Ireland&#8221;</span></a></span></p>
+
+			<div class="entry-meta">
+				<span class="posted-on"><a href="http://www.a10.eu/?p=1567" rel="bookmark"><time class="entry-date published" datetime="2017-11-27T15:42:17+00:00">November 27, 2017</time><time class="updated" datetime="2017-11-30T11:16:51+00:00">November 30, 2017</time></a></span><span class="byline"> by <span class="author vcard"><a class="url fn n" href="http://www.a10.eu/?author=1">admin</a></span></span>			</div><!-- .entry-meta -->
+
+					</div><!-- .entry-content -->
+
+		<footer class="entry-footer">
+					</footer><!-- .entry-footer -->
+	</div><!-- .pique-panel-content -->
+</article><!-- #post-## -->
+
+							
+<article id="post-1553" class="post-1553 post type-post status-publish format-standard has-post-thumbnail hentry category-architecture category-hungary category-landscape category-masterplan category-prize category-uncategorized category-winner pique-panel">
+			<div class="pique-panel-background" style="background-image:url(https://i2.wp.com/www.a10.eu/wp-content/uploads/2017/10/folk2.jpg?resize=1200%2C800)"></div>
+	
+		<div class="pique-panel-content">
+				<header class="entry-header">
+			<h2 class="entry-title"><a href="http://www.a10.eu/?p=1553">Update &#8211; Winners of the Hungary Media Architecture Prize 2017 &#8211; Hungary</a></h2>		</header><!-- .entry-header -->
+
+		<div class="entry-content">
+			<p>Folk 2.0 by József Őrfi and Seurasaari Open Air Museum by Gyula Takács winners of the MAP 2017 In a fully packed &#8220;Europa&#8221;, the Donau partyboat that&hellip; <span class="read-more"><a class="more-link" href="http://www.a10.eu/?p=1553" rel="bookmark">Read more <span class="screen-reader-text">&#8220;Update &#8211; Winners of the Hungary Media Architecture Prize 2017 &#8211; Hungary&#8221;</span></a></span></p>
+
+			<div class="entry-meta">
+				<span class="posted-on"><a href="http://www.a10.eu/?p=1553" rel="bookmark"><time class="entry-date published" datetime="2017-11-20T10:57:13+00:00">November 20, 2017</time><time class="updated" datetime="2017-11-20T16:10:42+00:00">November 20, 2017</time></a></span><span class="byline"> by <span class="author vcard"><a class="url fn n" href="http://www.a10.eu/?author=1">admin</a></span></span>			</div><!-- .entry-meta -->
+
+					</div><!-- .entry-content -->
+
+		<footer class="entry-footer">
+					</footer><!-- .entry-footer -->
+	</div><!-- .pique-panel-content -->
+</article><!-- #post-## -->
+
+							
+<article id="post-1483" class="post-1483 post type-post status-publish format-standard has-post-thumbnail hentry category-architecture category-art category-athens category-documenta category-greece category-kassel category-uncategorized tag-art tag-athens tag-festivals tag-greece tag-urban pique-panel">
+			<div class="pique-panel-background" style="background-image:url(https://i0.wp.com/www.a10.eu/wp-content/uploads/2017/11/omonoia_gs.jpg?resize=1400%2C1000)"></div>
+	
+		<div class="pique-panel-content">
+				<header class="entry-header">
+			<h2 class="entry-title"><a href="http://www.a10.eu/?p=1483">ART FESTIVALS &#8211; DOCUMENTA/EPIDAURUS/FASTFORWARD &#8211; GREECE</a></h2>		</header><!-- .entry-header -->
+
+		<div class="entry-content">
+			<p>How Greek society benefits from political art (various artists) &#8211; Olga Ioannou This past year Athens has experienced unprecedented cultural activity related to contemporary art. Starting from&hellip; <span class="read-more"><a class="more-link" href="http://www.a10.eu/?p=1483" rel="bookmark">Read more <span class="screen-reader-text">&#8220;ART FESTIVALS &#8211; DOCUMENTA/EPIDAURUS/FASTFORWARD &#8211; GREECE&#8221;</span></a></span></p>
+
+			<div class="entry-meta">
+				<span class="posted-on"><a href="http://www.a10.eu/?p=1483" rel="bookmark"><time class="entry-date published" datetime="2017-11-15T09:19:15+00:00">November 15, 2017</time><time class="updated" datetime="2017-11-16T10:07:23+00:00">November 16, 2017</time></a></span><span class="byline"> by <span class="author vcard"><a class="url fn n" href="http://www.a10.eu/?author=1">admin</a></span></span>			</div><!-- .entry-meta -->
+
+					</div><!-- .entry-content -->
+
+		<footer class="entry-footer">
+					</footer><!-- .entry-footer -->
+	</div><!-- .pique-panel-content -->
+</article><!-- #post-## -->
+
+							
+<article id="post-1454" class="post-1454 post type-post status-publish format-standard has-post-thumbnail hentry category-competition-culture-in-europe tag-bauhaus tag-competitions tag-germany tag-museums tag-unesco pique-panel">
+			<div class="pique-panel-background" style="background-image:url(https://i1.wp.com/www.a10.eu/wp-content/uploads/2017/11/BMD-2.png?resize=1400%2C722)"></div>
+	
+		<div class="pique-panel-content">
+				<header class="entry-header">
+			<h2 class="entry-title"><a href="http://www.a10.eu/?p=1454">Competitions – Case study No. 10 – Bauhaus Museum – addenda architects – Spain</a></h2>		</header><!-- .entry-header -->
+
+		<div class="entry-content">
+			<p>Competition Culture in Europe 2013–2016: Bauhaus Museum, DE, 2015 Case study No. 10 How can you examine 831 entries in a reasonable way? The A10 survey into&hellip; <span class="read-more"><a class="more-link" href="http://www.a10.eu/?p=1454" rel="bookmark">Read more <span class="screen-reader-text">&#8220;Competitions – Case study No. 10 – Bauhaus Museum – addenda architects – Spain&#8221;</span></a></span></p>
+
+			<div class="entry-meta">
+				<span class="posted-on"><a href="http://www.a10.eu/?p=1454" rel="bookmark"><time class="entry-date published" datetime="2017-11-09T11:04:48+00:00">November 9, 2017</time><time class="updated" datetime="2017-11-30T11:27:28+00:00">November 30, 2017</time></a></span><span class="byline"> by <span class="author vcard"><a class="url fn n" href="http://www.a10.eu/?author=1">admin</a></span></span>			</div><!-- .entry-meta -->
+
+					</div><!-- .entry-content -->
+
+		<footer class="entry-footer">
+					</footer><!-- .entry-footer -->
+	</div><!-- .pique-panel-content -->
+</article><!-- #post-## -->
+
+							
+<article id="post-1440" class="post-1440 post type-post status-publish format-standard has-post-thumbnail hentry category-competition-culture-in-europe tag-competitions tag-housing tag-islands tag-latvia tag-masterplan tag-rivers tag-urban pique-panel">
+			<div class="pique-panel-background" style="background-image:url(https://i0.wp.com/www.a10.eu/wp-content/uploads/2017/11/RUUME-zakusala-1-copy.jpg?resize=1400%2C1000)"></div>
+	
+		<div class="pique-panel-content">
+				<header class="entry-header">
+			<h2 class="entry-title"><a href="http://www.a10.eu/?p=1440">Competitions – Case study No. 9 – Masterplan for Zakusala Island – RUUME – Latvia</a></h2>		</header><!-- .entry-header -->
+
+		<div class="entry-content">
+			<p>Competition Culture in Europe 2013–2016: Masterplan for Zakusala Island, LV, 2016 Case study No. 9 Here one can see both ‘open’ and ‘invited’ concepts The A10 survey&hellip; <span class="read-more"><a class="more-link" href="http://www.a10.eu/?p=1440" rel="bookmark">Read more <span class="screen-reader-text">&#8220;Competitions – Case study No. 9 – Masterplan for Zakusala Island – RUUME – Latvia&#8221;</span></a></span></p>
+
+			<div class="entry-meta">
+				<span class="posted-on"><a href="http://www.a10.eu/?p=1440" rel="bookmark"><time class="entry-date published" datetime="2017-11-07T19:57:56+00:00">November 7, 2017</time><time class="updated" datetime="2017-11-30T11:28:05+00:00">November 30, 2017</time></a></span><span class="byline"> by <span class="author vcard"><a class="url fn n" href="http://www.a10.eu/?author=1">admin</a></span></span>			</div><!-- .entry-meta -->
+
+					</div><!-- .entry-content -->
+
+		<footer class="entry-footer">
+					</footer><!-- .entry-footer -->
+	</div><!-- .pique-panel-content -->
+</article><!-- #post-## -->
+
+							
+<article id="post-1324" class="post-1324 post type-post status-publish format-standard has-post-thumbnail hentry category-architecture category-contest pique-panel">
+			<div class="pique-panel-background" style="background-image:url(https://i0.wp.com/www.a10.eu/wp-content/uploads/2017/10/folk3.jpg?resize=1200%2C800)"></div>
+	
+		<div class="pique-panel-content">
+				<header class="entry-header">
+			<h2 class="entry-title"><a href="http://www.a10.eu/?p=1324">JURY REPORT &#8211; Nominations for the Media Architecture Prize 2017 &#8211; Hungary</a></h2>		</header><!-- .entry-header -->
+
+		<div class="entry-content">
+			<p>INTRODUCTION to the ten nominated projects for the Media Architecture Prize 2017 Hungary &#8211; in loving memory of Erika Katalina Pásztor (1961-2017) &#8211; With 71 submitted buildings&hellip; <span class="read-more"><a class="more-link" href="http://www.a10.eu/?p=1324" rel="bookmark">Read more <span class="screen-reader-text">&#8220;JURY REPORT &#8211; Nominations for the Media Architecture Prize 2017 &#8211; Hungary&#8221;</span></a></span></p>
+
+			<div class="entry-meta">
+				<span class="posted-on"><a href="http://www.a10.eu/?p=1324" rel="bookmark"><time class="entry-date published" datetime="2017-10-31T12:33:46+00:00">October 31, 2017</time><time class="updated" datetime="2017-11-20T10:25:03+00:00">November 20, 2017</time></a></span><span class="byline"> by <span class="author vcard"><a class="url fn n" href="http://www.a10.eu/?author=1">admin</a></span></span>			</div><!-- .entry-meta -->
+
+					</div><!-- .entry-content -->
+
+		<footer class="entry-footer">
+					</footer><!-- .entry-footer -->
+	</div><!-- .pique-panel-content -->
+</article><!-- #post-## -->
+
+							
+<article id="post-1310" class="post-1310 post type-post status-publish format-standard has-post-thumbnail hentry category-competition-culture-in-europe tag-art tag-competitions tag-galleries tag-gardens tag-heritage tag-poland pique-panel">
+			<div class="pique-panel-background" style="background-image:url(https://i1.wp.com/www.a10.eu/wp-content/uploads/2017/10/Royal-Lazienki-1.jpg?resize=1400%2C1000)"></div>
+	
+		<div class="pique-panel-content">
+				<header class="entry-header">
+			<h2 class="entry-title"><a href="http://www.a10.eu/?p=1310">Competitions – Case study No. 8 – Royal Garden – Mecanoo, Michael van Gessel, DELVA Landscape Architects, Jojko+Nawrocki Architects – Poland</a></h2>		</header><!-- .entry-header -->
+
+		<div class="entry-content">
+			<p>Competition Culture in Europe 2013–2016: Concept of the 21st Century Garden with exhibition pavilion, revitalization of the Royal Łazienki Park Museum, PL, 2013 Case study No. 8 Participants&hellip; <span class="read-more"><a class="more-link" href="http://www.a10.eu/?p=1310" rel="bookmark">Read more <span class="screen-reader-text">&#8220;Competitions – Case study No. 8 – Royal Garden – Mecanoo, Michael van Gessel, DELVA Landscape Architects, Jojko+Nawrocki Architects – Poland&#8221;</span></a></span></p>
+
+			<div class="entry-meta">
+				<span class="posted-on"><a href="http://www.a10.eu/?p=1310" rel="bookmark"><time class="entry-date published" datetime="2017-10-31T06:39:01+00:00">October 31, 2017</time><time class="updated" datetime="2017-11-30T11:28:52+00:00">November 30, 2017</time></a></span><span class="byline"> by <span class="author vcard"><a class="url fn n" href="http://www.a10.eu/?author=1">admin</a></span></span>			</div><!-- .entry-meta -->
+
+					</div><!-- .entry-content -->
+
+		<footer class="entry-footer">
+					</footer><!-- .entry-footer -->
+	</div><!-- .pique-panel-content -->
+</article><!-- #post-## -->
+
+							
+<article id="post-1291" class="post-1291 post type-post status-publish format-standard has-post-thumbnail hentry category-architecture category-landscape tag-bio tag-books tag-gardens tag-green tag-landscape tag-urban pique-panel">
+			<div class="pique-panel-background" style="background-image:url(https://i0.wp.com/www.a10.eu/wp-content/uploads/2017/10/1017-Anna-Yudina-Garden-Cities-book-publication.jpg?resize=1400%2C1000)"></div>
+	
+		<div class="pique-panel-content">
+				<header class="entry-header">
+			<h2 class="entry-title"><a href="http://www.a10.eu/?p=1291">Garden City &#8211; Anna Yudina &#8211; France</a></h2>		</header><!-- .entry-header -->
+
+		<div class="entry-content">
+			<p>Garden City: Supergreen Buildings, Urban Skyscapes and the New Planted Space, A10&#8217;s French correspondent Anna Yudina&#8216;s new book, looks at new design solutions, architectural forms and spatial&hellip; <span class="read-more"><a class="more-link" href="http://www.a10.eu/?p=1291" rel="bookmark">Read more <span class="screen-reader-text">&#8220;Garden City &#8211; Anna Yudina &#8211; France&#8221;</span></a></span></p>
+
+			<div class="entry-meta">
+				<span class="posted-on"><a href="http://www.a10.eu/?p=1291" rel="bookmark"><time class="entry-date published" datetime="2017-10-30T21:50:37+00:00">October 30, 2017</time><time class="updated" datetime="2017-11-06T14:00:36+00:00">November 6, 2017</time></a></span><span class="byline"> by <span class="author vcard"><a class="url fn n" href="http://www.a10.eu/?author=1">admin</a></span></span>			</div><!-- .entry-meta -->
+
+					</div><!-- .entry-content -->
+
+		<footer class="entry-footer">
+					</footer><!-- .entry-footer -->
+	</div><!-- .pique-panel-content -->
+</article><!-- #post-## -->
+
+							
+<article id="post-1280" class="post-1280 post type-post status-publish format-standard has-post-thumbnail hentry category-competition-culture-in-europe tag-competitions tag-maritime tag-norway tag-science pique-panel">
+			<div class="pique-panel-background" style="background-image:url(https://i2.wp.com/www.a10.eu/wp-content/uploads/2017/10/Maritime-Science-Centre-1.png?resize=1400%2C770)"></div>
+	
+		<div class="pique-panel-content">
+				<header class="entry-header">
+			<h2 class="entry-title"><a href="http://www.a10.eu/?p=1280">Competitions – Case study No. 7 – Maritime Science Centre – Rørbæk and Møller Architects  – Norway</a></h2>		</header><!-- .entry-header -->
+
+		<div class="entry-content">
+			<p>Competition Culture in Europe 2013–2016: Maritime Science Centre, NO, 2014 Case study No. 7 If the documents would have been translated in English, it could possibly have&hellip; <span class="read-more"><a class="more-link" href="http://www.a10.eu/?p=1280" rel="bookmark">Read more <span class="screen-reader-text">&#8220;Competitions – Case study No. 7 – Maritime Science Centre – Rørbæk and Møller Architects  – Norway&#8221;</span></a></span></p>
+
+			<div class="entry-meta">
+				<span class="posted-on"><a href="http://www.a10.eu/?p=1280" rel="bookmark"><time class="entry-date published" datetime="2017-10-30T15:00:06+00:00">October 30, 2017</time><time class="updated" datetime="2017-11-30T11:29:26+00:00">November 30, 2017</time></a></span><span class="byline"> by <span class="author vcard"><a class="url fn n" href="http://www.a10.eu/?author=1">admin</a></span></span>			</div><!-- .entry-meta -->
+
+					</div><!-- .entry-content -->
+
+		<footer class="entry-footer">
+					</footer><!-- .entry-footer -->
+	</div><!-- .pique-panel-content -->
+</article><!-- #post-## -->
+
+							
+<article id="post-1228" class="post-1228 post type-post status-publish format-standard has-post-thumbnail hentry category-competition-culture-in-europe tag-albania tag-competitions tag-municipal tag-public-space tag-waterfronts pique-panel">
+			<div class="pique-panel-background" style="background-image:url(https://i2.wp.com/www.a10.eu/wp-content/uploads/2017/09/182_Vlora_photo_constructionsite_06_xdga_Pieter_coelis.jpg?resize=1400%2C1000)"></div>
+	
+		<div class="pique-panel-content">
+				<header class="entry-header">
+			<h2 class="entry-title"><a href="http://www.a10.eu/?p=1228">Competitions – Case study No. 6 – Waterfront – Xaveer De Geyter Architects and MetroPOLIS  – Albania</a></h2>		</header><!-- .entry-header -->
+
+		<div class="entry-content">
+			<p>Competition Culture in Europe 2013–2016: Vlora Waterfront, AL, 2014 Case study No. 6 The focus was on urban design and infrastructural solutions, as the waterfront is part&hellip; <span class="read-more"><a class="more-link" href="http://www.a10.eu/?p=1228" rel="bookmark">Read more <span class="screen-reader-text">&#8220;Competitions – Case study No. 6 – Waterfront – Xaveer De Geyter Architects and MetroPOLIS  – Albania&#8221;</span></a></span></p>
+
+			<div class="entry-meta">
+				<span class="posted-on"><a href="http://www.a10.eu/?p=1228" rel="bookmark"><time class="entry-date published" datetime="2017-09-25T11:49:52+00:00">September 25, 2017</time><time class="updated" datetime="2017-11-30T11:30:27+00:00">November 30, 2017</time></a></span><span class="byline"> by <span class="author vcard"><a class="url fn n" href="http://www.a10.eu/?author=1">admin</a></span></span>			</div><!-- .entry-meta -->
+
+					</div><!-- .entry-content -->
+
+		<footer class="entry-footer">
+					</footer><!-- .entry-footer -->
+	</div><!-- .pique-panel-content -->
+</article><!-- #post-## -->
+
+							
+<article id="post-1211" class="post-1211 post type-post status-publish format-standard has-post-thumbnail hentry category-architecture category-photography category-the-netherlands pique-panel">
+			<div class="pique-panel-background" style="background-image:url(https://i0.wp.com/www.a10.eu/wp-content/uploads/2017/09/Hungary-Országgyűlés.jpg?resize=1280%2C541)"></div>
+	
+		<div class="pique-panel-content">
+				<header class="entry-header">
+			<h2 class="entry-title"><a href="http://www.a10.eu/?p=1211">Parliaments of the European Union &#8211; Nico Bick &#8211; The Netherlands</a></h2>		</header><!-- .entry-header -->
+
+		<div class="entry-content">
+			<p>Parliamentarism &#8211; Indira van &#8216;t Klooster &#8211; Photos: Nico Bick Photographer Nico Bick offers a fascinating collection of 30 interiors of democratic representation in his project &#8216;Parliaments&hellip; <span class="read-more"><a class="more-link" href="http://www.a10.eu/?p=1211" rel="bookmark">Read more <span class="screen-reader-text">&#8220;Parliaments of the European Union &#8211; Nico Bick &#8211; The Netherlands&#8221;</span></a></span></p>
+
+			<div class="entry-meta">
+				<span class="posted-on"><a href="http://www.a10.eu/?p=1211" rel="bookmark"><time class="entry-date published" datetime="2017-09-23T10:23:32+00:00">September 23, 2017</time><time class="updated" datetime="2017-11-06T14:01:28+00:00">November 6, 2017</time></a></span><span class="byline"> by <span class="author vcard"><a class="url fn n" href="http://www.a10.eu/?author=1">admin</a></span></span>			</div><!-- .entry-meta -->
+
+					</div><!-- .entry-content -->
+
+		<footer class="entry-footer">
+					</footer><!-- .entry-footer -->
+	</div><!-- .pique-panel-content -->
+</article><!-- #post-## -->
+
+							
+<article id="post-1180" class="post-1180 post type-post status-publish format-standard has-post-thumbnail hentry category-competition-culture-in-europe tag-competitions tag-czech tag-municipal tag-office tag-post-socialist tag-renovations pique-panel">
+			<div class="pique-panel-background" style="background-image:url(https://i1.wp.com/www.a10.eu/wp-content/uploads/2017/09/10m.jpg?resize=1000%2C1000)"></div>
+	
+		<div class="pique-panel-content">
+				<header class="entry-header">
+			<h2 class="entry-title"><a href="http://www.a10.eu/?p=1180">Competitions – Case study No. 5 – Town Hall – Atelier Bod Architekti – Czech Republic</a></h2>		</header><!-- .entry-header -->
+
+		<div class="entry-content">
+			<p>Competition Culture in Europe 2013–2016: Prague 7 District New Town Hall, CZ, 2016 Case study No. 5 The question was how to use the existing structure to&hellip; <span class="read-more"><a class="more-link" href="http://www.a10.eu/?p=1180" rel="bookmark">Read more <span class="screen-reader-text">&#8220;Competitions – Case study No. 5 – Town Hall – Atelier Bod Architekti – Czech Republic&#8221;</span></a></span></p>
+
+			<div class="entry-meta">
+				<span class="posted-on"><a href="http://www.a10.eu/?p=1180" rel="bookmark"><time class="entry-date published" datetime="2017-09-21T13:05:32+00:00">September 21, 2017</time><time class="updated" datetime="2017-11-30T11:31:37+00:00">November 30, 2017</time></a></span><span class="byline"> by <span class="author vcard"><a class="url fn n" href="http://www.a10.eu/?author=1">admin</a></span></span>			</div><!-- .entry-meta -->
+
+					</div><!-- .entry-content -->
+
+		<footer class="entry-footer">
+					</footer><!-- .entry-footer -->
+	</div><!-- .pique-panel-content -->
+</article><!-- #post-## -->
+
+							
+<article id="post-1166" class="post-1166 post type-post status-publish format-standard has-post-thumbnail hentry category-competition-culture-in-europe tag-apartments tag-competitions tag-housing tag-municipal tag-residential tag-the-netherlands pique-panel">
+			<div class="pique-panel-background" style="background-image:url(https://i2.wp.com/www.a10.eu/wp-content/uploads/2017/09/03-Toren-van-Babel-gezinsappartementen-rotterdam.jpg?resize=1400%2C1000)"></div>
+	
+		<div class="pique-panel-content">
+				<header class="entry-header">
+			<h2 class="entry-title"><a href="http://www.a10.eu/?p=1166">Competitions – Case study No. 4 – Apartments – Laurens Boodt – The Netherlands</a></h2>		</header><!-- .entry-header -->
+
+		<div class="entry-content">
+			<p>Competition Culture in Europe 2013–2016: Family Apartments in Rotterdam, NL, 2015–2016 Case study No. 4 The municipality was looking for a new typology and therefore for a&hellip; <span class="read-more"><a class="more-link" href="http://www.a10.eu/?p=1166" rel="bookmark">Read more <span class="screen-reader-text">&#8220;Competitions – Case study No. 4 – Apartments – Laurens Boodt – The Netherlands&#8221;</span></a></span></p>
+
+			<div class="entry-meta">
+				<span class="posted-on"><a href="http://www.a10.eu/?p=1166" rel="bookmark"><time class="entry-date published" datetime="2017-09-21T09:37:50+00:00">September 21, 2017</time><time class="updated" datetime="2017-11-30T11:32:09+00:00">November 30, 2017</time></a></span><span class="byline"> by <span class="author vcard"><a class="url fn n" href="http://www.a10.eu/?author=1">admin</a></span></span>			</div><!-- .entry-meta -->
+
+					</div><!-- .entry-content -->
+
+		<footer class="entry-footer">
+					</footer><!-- .entry-footer -->
+	</div><!-- .pique-panel-content -->
+</article><!-- #post-## -->
+
+							
+<article id="post-1103" class="post-1103 post type-post status-publish format-standard has-post-thumbnail hentry category-competition-culture-in-europe tag-austria tag-competitions tag-municipal tag-schools tag-timber pique-panel">
+			<div class="pique-panel-background" style="background-image:url(https://i2.wp.com/www.a10.eu/wp-content/uploads/2017/09/Schule-Unterdorf-Baustelle-036-960x720.jpg?resize=960%2C720)"></div>
+	
+		<div class="pique-panel-content">
+				<header class="entry-header">
+			<h2 class="entry-title"><a href="http://www.a10.eu/?p=1103">Competitions – Case study No. 3 – School – Dietrich/Untertrifaller Architekten – Austria</a></h2>		</header><!-- .entry-header -->
+
+		<div class="entry-content">
+			<p>Competition Culture in Europe 2013–2016: Primary School in Höchst, AT, 2016–2017 Case study No. 3 The client asked for a design with both a very high ecological&hellip; <span class="read-more"><a class="more-link" href="http://www.a10.eu/?p=1103" rel="bookmark">Read more <span class="screen-reader-text">&#8220;Competitions – Case study No. 3 – School – Dietrich/Untertrifaller Architekten – Austria&#8221;</span></a></span></p>
+
+			<div class="entry-meta">
+				<span class="posted-on"><a href="http://www.a10.eu/?p=1103" rel="bookmark"><time class="entry-date published" datetime="2017-09-18T09:35:13+00:00">September 18, 2017</time><time class="updated" datetime="2017-11-30T11:32:39+00:00">November 30, 2017</time></a></span><span class="byline"> by <span class="author vcard"><a class="url fn n" href="http://www.a10.eu/?author=1">admin</a></span></span>			</div><!-- .entry-meta -->
+
+					</div><!-- .entry-content -->
+
+		<footer class="entry-footer">
+					</footer><!-- .entry-footer -->
+	</div><!-- .pique-panel-content -->
+</article><!-- #post-## -->
+
+							
+<article id="post-1088" class="post-1088 post type-post status-publish format-standard has-post-thumbnail hentry category-competition-culture-in-europe tag-bulgaria tag-competitions tag-libraries tag-municipal pique-panel">
+			<div class="pique-panel-background" style="background-image:url(https://i2.wp.com/www.a10.eu/wp-content/uploads/2017/09/Varna-library-2.jpg?resize=1400%2C1000)"></div>
+	
+		<div class="pique-panel-content">
+				<header class="entry-header">
+			<h2 class="entry-title"><a href="http://www.a10.eu/?p=1088">Competitions – Case study No. 2 – Library – Architects for Urbanity – Bulgaria</a></h2>		</header><!-- .entry-header -->
+
+		<div class="entry-content">
+			<p>Competition Culture in Europe 2013–2016: Varna Library, Bulgaria, 2015 Case study No. 2 Special attention was paid to the graphic design, fonts, photography, and layout The A10&hellip; <span class="read-more"><a class="more-link" href="http://www.a10.eu/?p=1088" rel="bookmark">Read more <span class="screen-reader-text">&#8220;Competitions – Case study No. 2 – Library – Architects for Urbanity – Bulgaria&#8221;</span></a></span></p>
+
+			<div class="entry-meta">
+				<span class="posted-on"><a href="http://www.a10.eu/?p=1088" rel="bookmark"><time class="entry-date published" datetime="2017-09-18T09:09:19+00:00">September 18, 2017</time><time class="updated" datetime="2017-11-30T11:33:26+00:00">November 30, 2017</time></a></span><span class="byline"> by <span class="author vcard"><a class="url fn n" href="http://www.a10.eu/?author=1">admin</a></span></span>			</div><!-- .entry-meta -->
+
+					</div><!-- .entry-content -->
+
+		<footer class="entry-footer">
+					</footer><!-- .entry-footer -->
+	</div><!-- .pique-panel-content -->
+</article><!-- #post-## -->
+
+							
+<article id="post-1070" class="post-1070 post type-post status-publish format-standard has-post-thumbnail hentry category-competition-culture-in-europe tag-competitions tag-corten tag-italy tag-memorials tag-steel pique-panel">
+			<div class="pique-panel-background" style="background-image:url(https://i1.wp.com/www.a10.eu/wp-content/uploads/2017/09/Set-3.jpg?resize=1400%2C1000)"></div>
+	
+		<div class="pique-panel-content">
+				<header class="entry-header">
+			<h2 class="entry-title"><a href="http://www.a10.eu/?p=1070">Competitions – Case study No. 1 – Shoah Memorial – SET Architects – Italy</a></h2>		</header><!-- .entry-header -->
+
+		<div class="entry-content">
+			<p>Competition Culture in Europe 2013–2016: Shoah Memorial in Bologna, Italy, 2014 Case study No. 1 This is a remarkable competition, just by looking at the timing. The&hellip; <span class="read-more"><a class="more-link" href="http://www.a10.eu/?p=1070" rel="bookmark">Read more <span class="screen-reader-text">&#8220;Competitions – Case study No. 1 – Shoah Memorial – SET Architects – Italy&#8221;</span></a></span></p>
+
+			<div class="entry-meta">
+				<span class="posted-on"><a href="http://www.a10.eu/?p=1070" rel="bookmark"><time class="entry-date published" datetime="2017-09-18T08:43:54+00:00">September 18, 2017</time><time class="updated" datetime="2017-11-30T11:34:05+00:00">November 30, 2017</time></a></span><span class="byline"> by <span class="author vcard"><a class="url fn n" href="http://www.a10.eu/?author=1">admin</a></span></span>			</div><!-- .entry-meta -->
+
+					</div><!-- .entry-content -->
+
+		<footer class="entry-footer">
+					</footer><!-- .entry-footer -->
+	</div><!-- .pique-panel-content -->
+</article><!-- #post-## -->
+
+							
+<article id="post-1046" class="post-1046 post type-post status-publish format-standard has-post-thumbnail hentry category-architecture tag-brick tag-czech tag-minimalist tag-provincial pique-panel">
+			<div class="pique-panel-background" style="background-image:url(https://i1.wp.com/www.a10.eu/wp-content/uploads/2017/09/Dum_v_cihlove_zahrade_09.jpg?resize=1400%2C1000)"></div>
+	
+		<div class="pique-panel-content">
+				<header class="entry-header">
+			<h2 class="entry-title"><a href="http://www.a10.eu/?p=1046">HOUSE – JAN PROKSA – CZECH REPUBLIC</a></h2>		</header><!-- .entry-header -->
+
+		<div class="entry-content">
+			<p>Extreme minimalism for maximum material expression &#8211; Anne Isopp &#8211; Images: BoysPlayNice This may look like a simple house, but it took years to build. It might have&hellip; <span class="read-more"><a class="more-link" href="http://www.a10.eu/?p=1046" rel="bookmark">Read more <span class="screen-reader-text">&#8220;HOUSE – JAN PROKSA – CZECH REPUBLIC&#8221;</span></a></span></p>
+
+			<div class="entry-meta">
+				<span class="posted-on"><a href="http://www.a10.eu/?p=1046" rel="bookmark"><time class="entry-date published" datetime="2017-09-10T16:21:47+00:00">September 10, 2017</time><time class="updated" datetime="2017-09-23T11:20:04+00:00">September 23, 2017</time></a></span><span class="byline"> by <span class="author vcard"><a class="url fn n" href="http://www.a10.eu/?author=1">admin</a></span></span>			</div><!-- .entry-meta -->
+
+					</div><!-- .entry-content -->
+
+		<footer class="entry-footer">
+					</footer><!-- .entry-footer -->
+	</div><!-- .pique-panel-content -->
+</article><!-- #post-## -->
+
+							
+<article id="post-1014" class="post-1014 post type-post status-publish format-standard has-post-thumbnail hentry category-architecture category-landscape category-the-netherlands pique-panel">
+			<div class="pique-panel-background" style="background-image:url(https://i2.wp.com/www.a10.eu/wp-content/uploads/2017/08/Nagele-BOOM-Landscape_03b.jpg?resize=1400%2C1000)"></div>
+	
+		<div class="pique-panel-content">
+				<header class="entry-header">
+			<h2 class="entry-title"><a href="http://www.a10.eu/?p=1014">Village square &#8211; BOOM Landscape &#8211; Netherlands</a></h2>		</header><!-- .entry-header -->
+
+		<div class="entry-content">
+			<p>Reviving modernism in a Dutch polder village &#8211; Indira van &#8216;t Klooster &#8211; Images: BOOM Landscape &#8216;This urban tapestry really ties the village together&#8217;, would be a&hellip; <span class="read-more"><a class="more-link" href="http://www.a10.eu/?p=1014" rel="bookmark">Read more <span class="screen-reader-text">&#8220;Village square &#8211; BOOM Landscape &#8211; Netherlands&#8221;</span></a></span></p>
+
+			<div class="entry-meta">
+				<span class="posted-on"><a href="http://www.a10.eu/?p=1014" rel="bookmark"><time class="entry-date published" datetime="2017-08-02T00:00:24+00:00">August 2, 2017</time><time class="updated" datetime="2017-08-17T10:50:45+00:00">August 17, 2017</time></a></span><span class="byline"> by <span class="author vcard"><a class="url fn n" href="http://www.a10.eu/?author=1">admin</a></span></span>			</div><!-- .entry-meta -->
+
+					</div><!-- .entry-content -->
+
+		<footer class="entry-footer">
+					</footer><!-- .entry-footer -->
+	</div><!-- .pique-panel-content -->
+</article><!-- #post-## -->
+
+							
+<article id="post-939" class="post-939 post type-post status-publish format-standard has-post-thumbnail hentry category-architecture pique-panel">
+			<div class="pique-panel-background" style="background-image:url(https://i0.wp.com/www.a10.eu/wp-content/uploads/2017/07/519L522D.jpg?resize=1254%2C836)"></div>
+	
+		<div class="pique-panel-content">
+				<header class="entry-header">
+			<h2 class="entry-title"><a href="http://www.a10.eu/?p=939">Electrical substation &#8211; Hild und K Architects &#8211; Germany</a></h2>		</header><!-- .entry-header -->
+
+		<div class="entry-content">
+			<p>Fortress of quick and brutal power &#8211; Florian Heilmeyer  (DE) &#8211; Photography: Michael Heinrich Indeed it looks like a little fortress, and maybe that even fits the&hellip; <span class="read-more"><a class="more-link" href="http://www.a10.eu/?p=939" rel="bookmark">Read more <span class="screen-reader-text">&#8220;Electrical substation &#8211; Hild und K Architects &#8211; Germany&#8221;</span></a></span></p>
+
+			<div class="entry-meta">
+				<span class="posted-on"><a href="http://www.a10.eu/?p=939" rel="bookmark"><time class="entry-date published" datetime="2017-07-18T21:25:22+00:00">July 18, 2017</time><time class="updated" datetime="2017-07-19T08:02:54+00:00">July 19, 2017</time></a></span><span class="byline"> by <span class="author vcard"><a class="url fn n" href="http://www.a10.eu/?author=1">admin</a></span></span>			</div><!-- .entry-meta -->
+
+					</div><!-- .entry-content -->
+
+		<footer class="entry-footer">
+					</footer><!-- .entry-footer -->
+	</div><!-- .pique-panel-content -->
+</article><!-- #post-## -->
+
+							
+<article id="post-750" class="post-750 post type-post status-publish format-standard has-post-thumbnail hentry category-architecture tag-barcelona tag-leed tag-low-budget tag-spain pique-panel">
+			<div class="pique-panel-background" style="background-image:url(https://i0.wp.com/www.a10.eu/wp-content/uploads/2017/06/MG_931819.jpg?resize=1400%2C600)"></div>
+	
+		<div class="pique-panel-content">
+				<header class="entry-header">
+			<h2 class="entry-title"><a href="http://www.a10.eu/?p=750">Community centre &#8211; Territori 24 &#8211; Spain</a></h2>		</header><!-- .entry-header -->
+
+		<div class="entry-content">
+			<p>Ultra-efficient civic centre in Barcelona &#8211; Sander Laudy (ES) &#8211; Photography: Adrià Goula The global carbon emissions from buildings would probably continue to increase for many years&hellip; <span class="read-more"><a class="more-link" href="http://www.a10.eu/?p=750" rel="bookmark">Read more <span class="screen-reader-text">&#8220;Community centre &#8211; Territori 24 &#8211; Spain&#8221;</span></a></span></p>
+
+			<div class="entry-meta">
+				<span class="posted-on"><a href="http://www.a10.eu/?p=750" rel="bookmark"><time class="entry-date published" datetime="2017-06-29T01:00:08+00:00">June 29, 2017</time><time class="updated" datetime="2017-07-14T12:02:49+00:00">July 14, 2017</time></a></span><span class="byline"> by <span class="author vcard"><a class="url fn n" href="http://www.a10.eu/?author=1">admin</a></span></span>			</div><!-- .entry-meta -->
+
+					</div><!-- .entry-content -->
+
+		<footer class="entry-footer">
+					</footer><!-- .entry-footer -->
+	</div><!-- .pique-panel-content -->
+</article><!-- #post-## -->
+
+							
+<article id="post-768" class="post-768 post type-post status-publish format-standard has-post-thumbnail hentry category-architecture tag-artisanal tag-extensions tag-portugal tag-renovations tag-residential tag-suburban pique-panel">
+			<div class="pique-panel-background" style="background-image:url(https://i0.wp.com/www.a10.eu/wp-content/uploads/2017/06/JM_SilverWoodHouse_003.jpg?resize=1400%2C1000)"></div>
+	
+		<div class="pique-panel-content">
+				<header class="entry-header">
+			<h2 class="entry-title"><a href="http://www.a10.eu/?p=768">House &#8211; 3r Architecture + (Re)construction (Ernesto Pereira) &#8211; Portugal</a></h2>		</header><!-- .entry-header -->
+
+		<div class="entry-content">
+			<p>House in Vila do Conde &#8211; Carlos M. Guimarães (PT) &#8211; Photography: João Morgado Renovation and retrofitting are trends that have come to stay in European architecture.&hellip; <span class="read-more"><a class="more-link" href="http://www.a10.eu/?p=768" rel="bookmark">Read more <span class="screen-reader-text">&#8220;House &#8211; 3r Architecture + (Re)construction (Ernesto Pereira) &#8211; Portugal&#8221;</span></a></span></p>
+
+			<div class="entry-meta">
+				<span class="posted-on"><a href="http://www.a10.eu/?p=768" rel="bookmark"><time class="entry-date published" datetime="2017-06-27T20:00:16+00:00">June 27, 2017</time><time class="updated" datetime="2017-07-14T12:03:12+00:00">July 14, 2017</time></a></span><span class="byline"> by <span class="author vcard"><a class="url fn n" href="http://www.a10.eu/?author=1">admin</a></span></span>			</div><!-- .entry-meta -->
+
+					</div><!-- .entry-content -->
+
+		<footer class="entry-footer">
+					</footer><!-- .entry-footer -->
+	</div><!-- .pique-panel-content -->
+</article><!-- #post-## -->
+
+							
+<article id="post-760" class="post-760 post type-post status-publish format-standard has-post-thumbnail hentry category-architecture tag-albania tag-glass tag-housing tag-post-socialist tag-residential pique-panel">
+			<div class="pique-panel-background" style="background-image:url(https://i2.wp.com/www.a10.eu/wp-content/uploads/2017/06/05-Lisiena-Dimo.jpg?resize=1400%2C1000)"></div>
+	
+		<div class="pique-panel-content">
+				<header class="entry-header">
+			<h2 class="entry-title"><a href="http://www.a10.eu/?p=760">Housing &#8211; DEA Studio &#8211; Albania</a></h2>		</header><!-- .entry-header -->
+
+		<div class="entry-content">
+			<p>Fresh urban injection in Tirana &#8211; Saimir Kristo &#8211; Photography: Joana Dhiamandi, Lisiena Dimo Albania, and in particular its capital city, Tirana, has overcome an enormous development&hellip; <span class="read-more"><a class="more-link" href="http://www.a10.eu/?p=760" rel="bookmark">Read more <span class="screen-reader-text">&#8220;Housing &#8211; DEA Studio &#8211; Albania&#8221;</span></a></span></p>
+
+			<div class="entry-meta">
+				<span class="posted-on"><a href="http://www.a10.eu/?p=760" rel="bookmark"><time class="entry-date published" datetime="2017-06-20T21:42:38+00:00">June 20, 2017</time><time class="updated" datetime="2017-08-30T08:14:41+00:00">August 30, 2017</time></a></span><span class="byline"> by <span class="author vcard"><a class="url fn n" href="http://www.a10.eu/?author=1">admin</a></span></span>			</div><!-- .entry-meta -->
+
+					</div><!-- .entry-content -->
+
+		<footer class="entry-footer">
+					</footer><!-- .entry-footer -->
+	</div><!-- .pique-panel-content -->
+</article><!-- #post-## -->
+
+							
+<article id="post-701" class="post-701 post type-post status-publish format-standard has-post-thumbnail hentry category-architecture tag-interiors tag-kosovo tag-office pique-panel">
+			<div class="pique-panel-background" style="background-image:url(https://i0.wp.com/www.a10.eu/wp-content/uploads/2017/06/Entering-hallway_Artan-Korenica-1.jpg?resize=1400%2C1000)"></div>
+	
+		<div class="pique-panel-content">
+				<header class="entry-header">
+			<h2 class="entry-title"><a href="http://www.a10.eu/?p=701">Office &#8211; Maden Group &#8211; Kosovo</a></h2>		</header><!-- .entry-header -->
+
+		<div class="entry-content">
+			<p>Exciting office spaces in Prishtina &#8211; Vjollca Limani (XK) &#8211; Photography: Artan Korenica Maden Group is a new and aspiring architecture studio established in 2009, where young&hellip; <span class="read-more"><a class="more-link" href="http://www.a10.eu/?p=701" rel="bookmark">Read more <span class="screen-reader-text">&#8220;Office &#8211; Maden Group &#8211; Kosovo&#8221;</span></a></span></p>
+
+			<div class="entry-meta">
+				<span class="posted-on"><a href="http://www.a10.eu/?p=701" rel="bookmark"><time class="entry-date published" datetime="2017-06-20T13:56:01+00:00">June 20, 2017</time><time class="updated" datetime="2017-08-30T08:18:14+00:00">August 30, 2017</time></a></span><span class="byline"> by <span class="author vcard"><a class="url fn n" href="http://www.a10.eu/?author=1">admin</a></span></span>			</div><!-- .entry-meta -->
+
+					</div><!-- .entry-content -->
+
+		<footer class="entry-footer">
+					</footer><!-- .entry-footer -->
+	</div><!-- .pique-panel-content -->
+</article><!-- #post-## -->
+
+							
+<article id="post-690" class="post-690 post type-post status-publish format-standard has-post-thumbnail hentry category-architecture tag-bookstore tag-finland tag-interiors tag-wood pique-panel">
+			<div class="pique-panel-background" style="background-image:url(https://i0.wp.com/www.a10.eu/wp-content/uploads/2017/06/9039-016.jpg?resize=1100%2C728)"></div>
+	
+		<div class="pique-panel-content">
+				<header class="entry-header">
+			<h2 class="entry-title"><a href="http://www.a10.eu/?p=690">Bookshop &#8211; Tham &#038; Videgård with Stockholm Design Lab &#8211; Sweden</a></h2>		</header><!-- .entry-header -->
+
+		<div class="entry-content">
+			<p>Revenant bookstore in Stockholm &#8211; Tarja Nurmi (FI) &#8211; Photography: Åke Eson Lindman Adlibris, established in 1997 and owned by Bonnier Books, a Swedish family company, was&hellip; <span class="read-more"><a class="more-link" href="http://www.a10.eu/?p=690" rel="bookmark">Read more <span class="screen-reader-text">&#8220;Bookshop &#8211; Tham &#038; Videgård with Stockholm Design Lab &#8211; Sweden&#8221;</span></a></span></p>
+
+			<div class="entry-meta">
+				<span class="posted-on"><a href="http://www.a10.eu/?p=690" rel="bookmark"><time class="entry-date published" datetime="2017-06-20T13:21:54+00:00">June 20, 2017</time><time class="updated" datetime="2017-08-30T08:11:49+00:00">August 30, 2017</time></a></span><span class="byline"> by <span class="author vcard"><a class="url fn n" href="http://www.a10.eu/?author=1">admin</a></span></span>			</div><!-- .entry-meta -->
+
+					</div><!-- .entry-content -->
+
+		<footer class="entry-footer">
+					</footer><!-- .entry-footer -->
+	</div><!-- .pique-panel-content -->
+</article><!-- #post-## -->
+
+							
+<article id="post-679" class="post-679 post type-post status-publish format-standard has-post-thumbnail hentry category-architecture tag-bosnia-and-herzegovina tag-hotels tag-regionalism tag-resorts tag-spa tag-vernacular pique-panel">
+			<div class="pique-panel-background" style="background-image:url(https://i2.wp.com/www.a10.eu/wp-content/uploads/2017/06/IMG_7727_R.jpg?resize=1400%2C1000)"></div>
+	
+		<div class="pique-panel-content">
+				<header class="entry-header">
+			<h2 class="entry-title"><a href="http://www.a10.eu/?p=679">Mountain lodgings &#8211; Studio Zec &#8211; Bosnia Herzegovina</a></h2>		</header><!-- .entry-header -->
+
+		<div class="entry-content">
+			<p>Interpolating nature with neo-vernacular expression in Trebević &#8211; Elša Turkušić (BA) &#8211; Photography: Damir Dautbegovic One may well say that the general revival of the once much-beloved&hellip; <span class="read-more"><a class="more-link" href="http://www.a10.eu/?p=679" rel="bookmark">Read more <span class="screen-reader-text">&#8220;Mountain lodgings &#8211; Studio Zec &#8211; Bosnia Herzegovina&#8221;</span></a></span></p>
+
+			<div class="entry-meta">
+				<span class="posted-on"><a href="http://www.a10.eu/?p=679" rel="bookmark"><time class="entry-date published" datetime="2017-06-20T13:10:11+00:00">June 20, 2017</time><time class="updated" datetime="2017-06-27T11:24:26+00:00">June 27, 2017</time></a></span><span class="byline"> by <span class="author vcard"><a class="url fn n" href="http://www.a10.eu/?author=1">admin</a></span></span>			</div><!-- .entry-meta -->
+
+					</div><!-- .entry-content -->
+
+		<footer class="entry-footer">
+					</footer><!-- .entry-footer -->
+	</div><!-- .pique-panel-content -->
+</article><!-- #post-## -->
+
+			
+			
+	<nav class="navigation posts-navigation" role="navigation">
+		<h2 class="screen-reader-text">Posts navigation</h2>
+		<div class="nav-links"><div class="nav-previous"><a href="http://www.a10.eu/?paged=2" >Older posts</a></div></div>
+	</nav>
+		
+		</main><!-- #main -->
+	</div><!-- #primary -->
+
+
+	</div><!-- #content -->
+
+	<footer id="colophon" class="site-footer" role="contentinfo" style="background-image: url('http://www.a10.eu/wp-content/uploads/2018/04/cropped-TonuTunnel.com_KOKO_BJT_TT80822.jpg')">
+
+			<div id="tertiary" class="widget-area footer-widget-area" role="complementary">
+				    <div id="widget-area-2" class="widget-area">
+		        <aside id="nav_menu-9" class="widget widget_nav_menu"><div class="menu-menu-footer-container"><ul id="menu-menu-footer" class="menu"><li id="menu-item-1378" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1378"><a href="http://www.a10.eu/?page_id=1373">Posts Archive</a></li>
+<li id="menu-item-236" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-236"><a href="http://www.a10.eu/?page_id=146">Contact Us</a></li>
+<li id="menu-item-235" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-235"><a href="http://www.a10.eu/?page_id=28">About us</a></li>
+<li id="menu-item-924" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-924"><a href="http://www.a10coop.eu">Home</a></li>
+</ul></div></aside>		    </div>
+		
+				    <div id="widget-area-3" class="widget-area">
+		        <aside id="media_image-3" class="widget widget_media_image"><img width="512" height="512" src="https://i2.wp.com/www.a10.eu/wp-content/uploads/2017/06/logoA10-4.png?fit=512%2C512" class="image wp-image-619 aligncenter attachment-full size-full" alt="" style="max-width: 100%; height: auto;" srcset="https://i2.wp.com/www.a10.eu/wp-content/uploads/2017/06/logoA10-4.png?w=512 512w, https://i2.wp.com/www.a10.eu/wp-content/uploads/2017/06/logoA10-4.png?resize=150%2C150 150w, https://i2.wp.com/www.a10.eu/wp-content/uploads/2017/06/logoA10-4.png?resize=300%2C300 300w, https://i2.wp.com/www.a10.eu/wp-content/uploads/2017/06/logoA10-4.png?resize=280%2C280 280w, https://i2.wp.com/www.a10.eu/wp-content/uploads/2017/06/logoA10-4.png?resize=100%2C100 100w, https://i2.wp.com/www.a10.eu/wp-content/uploads/2017/06/logoA10-4.png?resize=200%2C200 200w" sizes="(max-width: 512px) 100vw, 512px" data-attachment-id="619" data-permalink="http://www.a10.eu/?attachment_id=619" data-orig-file="https://i2.wp.com/www.a10.eu/wp-content/uploads/2017/06/logoA10-4.png?fit=512%2C512" data-orig-size="512,512" data-comments-opened="0" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="logoA10-4" data-image-description="" data-medium-file="https://i2.wp.com/www.a10.eu/wp-content/uploads/2017/06/logoA10-4.png?fit=300%2C300" data-large-file="https://i2.wp.com/www.a10.eu/wp-content/uploads/2017/06/logoA10-4.png?fit=512%2C512" /></aside>		    </div>
+		
+				    <div id="widget-area-4" class="widget-area">
+		        <aside id="wpcom_social_media_icons_widget-4" class="widget widget_wpcom_social_media_icons_widget"><ul><li><a href="https://www.facebook.com/a10magazine/" class="genericon genericon-facebook" target="_blank"><span class="screen-reader-text">View a10magazine&#8217;s profile on Facebook</span></a></li><li><a href="https://twitter.com/A10magazine/" class="genericon genericon-twitter" target="_blank"><span class="screen-reader-text">View A10magazine&#8217;s profile on Twitter</span></a></li></ul></aside>		    </div>
+			</div><!-- #tertiary -->
+
+		
+		<div class="site-info">
+			<a href="http://wordpress.org/">Proudly powered by WordPress</a>
+			<span class="sep"> &middot; </span>
+			Theme: Pique by <a href="http://wordpress.com/themes" rel="designer">WordPress.com</a>.    </div><!-- .site-info -->
+
+	</footer><!-- #colophon -->
+</div><!-- #page -->
+
+	<div style="display:none">
+	</div>
+<!--[if lte IE 8]>
+<link rel='stylesheet' id='jetpack-carousel-ie8fix-css'  href='http://www.a10.eu/wp-content/plugins/jetpack/modules/carousel/jetpack-carousel-ie8fix.css?ver=20121024' type='text/css' media='all' />
+<![endif]-->
+<script type='text/javascript' src='http://www.a10.eu/wp-content/plugins/jetpack/_inc/build/photon/photon.min.js?ver=20130122'></script>
+<script type='text/javascript' src='https://s0.wp.com/wp-content/js/devicepx-jetpack.js?ver=201822'></script>
+<script type='text/javascript' src='http://s.gravatar.com/js/gprofiles.js?ver=2018Mayaa'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var WPGroHo = {"my_hash":""};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://www.a10.eu/wp-content/plugins/jetpack/modules/wpgroho.js?ver=4.9.6'></script>
+<script type='text/javascript' src='http://www.a10.eu/wp-content/themes/pique/assets/js/background-fix.js?ver=20170302'></script>
+<script type='text/javascript' src='http://www.a10.eu/wp-content/themes/pique/assets/js/jquery.waypoints.min.js?ver=20150813'></script>
+<script type='text/javascript' src='http://www.a10.eu/wp-content/themes/pique/assets/js/navigation.js?ver=20120206'></script>
+<script type='text/javascript' src='http://www.a10.eu/wp-content/themes/pique/assets/js/skip-link-focus-fix.js?ver=20130115'></script>
+<script type='text/javascript' src='http://www.a10.eu/wp-content/themes/pique/assets/js/header.js?ver=20151030'></script>
+<script type='text/javascript' src='http://www.a10.eu/wp-includes/js/wp-embed.min.js?ver=4.9.6'></script>
+<script type='text/javascript' src='http://www.a10.eu/wp-content/plugins/jetpack/_inc/build/spin.min.js?ver=1.3'></script>
+<script type='text/javascript' src='http://www.a10.eu/wp-content/plugins/jetpack/_inc/build/jquery.spin.min.js?ver=1.3'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var jetpackCarouselStrings = {"widths":[370,700,1000,1200,1400,2000],"is_logged_in":"","lang":"en","ajaxurl":"http:\/\/www.a10.eu\/wp-admin\/admin-ajax.php","nonce":"54420c5cad","display_exif":"1","display_geo":"1","single_image_gallery":"1","single_image_gallery_media_file":"","background_color":"black","comment":"Comment","post_comment":"Post Comment","write_comment":"Write a Comment...","loading_comments":"Loading Comments...","download_original":"View full size <span class=\"photo-size\">{0}<span class=\"photo-size-times\">\u00d7<\/span>{1}<\/span>","no_comment_text":"Please be sure to submit some text with your comment.","no_comment_email":"Please provide an email address to comment.","no_comment_author":"Please provide your name to comment.","comment_post_error":"Sorry, but there was an error posting your comment. Please try again later.","comment_approved":"Your comment was approved.","comment_unapproved":"Your comment is in moderation.","camera":"Camera","aperture":"Aperture","shutter_speed":"Shutter Speed","focal_length":"Focal Length","copyright":"Copyright","comment_registration":"0","require_name_email":"0","login_url":"http:\/\/www.a10.eu\/wp-login.php?redirect_to=http%3A%2F%2Fwww.a10.eu%2F%3Fp%3D1752","blog_id":"1","meta_data":["camera","aperture","shutter_speed","focal_length","copyright"],"local_comments_commenting_as":"<fieldset><label for=\"email\">Email<\/label> <input type=\"text\" name=\"email\" class=\"jp-carousel-comment-form-field jp-carousel-comment-form-text-field\" id=\"jp-carousel-comment-form-email-field\" \/><\/fieldset><fieldset><label for=\"author\">Name<\/label> <input type=\"text\" name=\"author\" class=\"jp-carousel-comment-form-field jp-carousel-comment-form-text-field\" id=\"jp-carousel-comment-form-author-field\" \/><\/fieldset><fieldset><label for=\"url\">Website<\/label> <input type=\"text\" name=\"url\" class=\"jp-carousel-comment-form-field jp-carousel-comment-form-text-field\" id=\"jp-carousel-comment-form-url-field\" \/><\/fieldset>"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://www.a10.eu/wp-content/plugins/jetpack/_inc/build/carousel/jetpack-carousel.min.js?ver=20170209'></script>
+<script type='text/javascript' src='https://stats.wp.com/e-201822.js' async='async' defer='defer'></script>
+<script type='text/javascript'>
+	_stq = window._stq || [];
+	_stq.push([ 'view', {v:'ext',j:'1:5.9',blog:'127245361',post:'0',tz:'0',srv:'www.a10.eu'} ]);
+	_stq.push([ 'clickTrackerInit', '127245361', '0' ]);
+</script>
+
+</body>
+</html>
+
+

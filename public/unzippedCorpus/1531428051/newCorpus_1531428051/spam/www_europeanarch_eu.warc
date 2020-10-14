@@ -1,0 +1,302 @@
+WARC/1.0
+WARC-Type: warcinfo
+WARC-Date: 2018-05-30T17:52:32Z
+WARC-Record-ID: <urn:uuid:e717ffce-7475-41c5-9521-bc591de0d1ab>
+WARC-All-Language: en
+WARC-All-Content_type: text/html; charset=UTF-8, text/html
+Content-Type: application/http;msgtype=response
+Content-Length: 46
+
+WARCProcessor by SING Group www.sing-group.com
+
+WARC/1.0
+WARC-Type: response
+WARC-Record-ID: <http://www.europeanarch.eu>
+WARC-Date: 20180530175232
+WARC-Target-URI: http://www.europeanarch.eu
+WARC-Language: en
+Content-Type: application/http;msgtype=response
+Content-Length: 19063
+
+HTTP/1.1 200
+Content-Type:text/html; charset=UTF-8
+
+
+<!DOCTYPE HTML>
+<html lang="en">
+    <head>
+        <meta http-equiv="content-type" content="text/html; charset=utf-8">
+        <title>The European Centre | Home</title>
+		<base href="http://www.europeanarch.eu/" />
+		<meta property="og:title" content="The European Centre"/>
+		<meta property="og:image" content="http://europeanarch.eu/assets/images/frontpage/europeancentre_hover1.png"/>
+		<meta property="og:description" content="Home"/>
+		<base href="http://www.europeanarch.eu/"/>
+<link rel="stylesheet" href="assets/css/icons.css"/>
+<link rel="stylesheet" href="assets/css/style.css"/>
+<script src="assets/js/jquery-1.11.0.min.js"></script>
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-57794579-2', 'auto');
+  ga('send', 'pageview');
+
+</script>
+        <link rel="stylesheet" href="assets/css/jquery.fancybox.css"/>
+<script type="text/javascript" src="assets/js/jquery.fancybox.js"></script>
+<script type="text/javascript" src="assets/js/scripts.js"></script>
+<script type="text/javascript" src="assets/js/jquery.cycle.js"></script>
+    <link rel="stylesheet" href="/assets/components/gallery/css/web.css" type="text/css" />
+</head>
+    <body>
+		<header id="header">
+            <a href="http://www.europeanarch.eu/" id="logo">
+                <img src="assets/images/logo.png" alt="European Arch" />
+            </a>
+            <div id="topmenu">
+                <ul>
+					<li class="socialshare">
+						<a href="#"><i class="icon icon-share"></i></a>
+						<div class="socialsharecontainer">
+							<div class="socialshareouter">
+								<div class="firstline">
+									<div class="shareiconsmall">
+										<a href="https://www.facebook.com/sharer/sharer.php?u=http://www.europeanarch.eu/" target="_blank"><i class="icon icon-facebook"></i> share on facebook</a>
+										<a href="https://twitter.com/intent/tweet?text=The European Centre::Home&url=http://www.europeanarch.eu/" target="_blank"><i class="icon icon-twitter"></i> share on twitter</a>
+										<a href="https://plus.google.com/share?url=http://www.europeanarch.eu/" target="_blank"><i class="icon icon-googleplus"></i> share on google+</a>
+										<a href="https://www.linkedin.com/shareArticle?mini=true&url=http://www.europeanarch.eu/&title=The European Centre&summary=Home" target="_blank"><i class="icon icon-linkedin"></i> share on linkedin</a>
+									</div>
+									<div class="sharedeco">
+										<i class="icon icon-share"></i>
+									</div>
+								</div>
+								<div class="secondline">
+									<a href="mailto:?body=http://www.europeanarch.eu/&subject=Check out this page:The European Centre" class="shareemail"><i class="icon icon-mail"></i> share by e-mail</a>
+									<a href="https://www.youtube.com/channel/UC6-D7BCiNxqXvDFrVBD9CKA/feed" class="watchyoutube" target="_blank"><i class="icon icon-youtube"></i> watch our channel</a>
+								</div>
+							</div>
+						</div>
+					</li>
+                    <li><a href="award-applications.html" class="">Award Applications</a></li>
+<li><a href="upcoming-events.html" class="">Exhibitions</a></li>
+<li><a href="press.html" class="">Press</a></li>
+<li><a href="news.html" class="">News</a></li>
+<li><a href="interviews-european-centre.html" class="">Interviews</a></li>
+                </ul>
+            </div>
+			<ul id="socialline">
+				<li><a href="https://www.facebook.com/pages/The-European-Centre-for-Architecture-Art-Design-and-Urban-Studies/1556472997941780?ref=hl" target="_blank"><i class="icon icon-facebook"></i></a></li>
+				<li><a href="https://twitter.com/Europeanarch" target="_blank"><i class="icon icon-twitter"></i></a></li>
+				<li><a href="https://www.youtube.com/channel/UC6-D7BCiNxqXvDFrVBD9CKA/feed" target="_blank"><i class="icon icon-youtube"></i></a></li>
+				<li><a href="https://www.linkedin.com/company/the-european-centre-for-architecture-art-design-and-urban-studies" target="_blank"><i class="icon icon-linkedin"></i></a></li>
+			</ul>
+            <div id="newslettercontainer">
+                <a href="sign-up-for-e-news.html" id="nllink">Sign up for e-news</a>
+            </div>
+        </header>
+        <div id="menuwrap">
+            <div id="menu">
+                <ul>
+					<li><a href="about-us.html" class="">About Us</a></li>
+<li><a href="our-people.html" class="">Our People</a></li>
+<li><a href="award-benefits.html" class="">Award Benefits</a></li>
+<li><a href="membership.html" class="">Membership</a></li>
+<li><a href="sponsors.html" class="">Sponsors</a></li>
+<li><a href="archive.html" class="">Award Archive</a></li>
+<li><a href="contact.html" class="">Contact</a></li>
+                </ul>
+            </div>
+        </div>
+        <div id="maincontent">
+            <div id="slideshowwrap">
+                <div id="captiontext">
+					<div id="captionslides" class="cycle-slideshow" data-cycle-slides="> a">
+						<a href="http://www.europeanarch.eu/40under40/2017/winners.html">
+<span class='slidetitle'>40under40 Architecture and Design Awards 2018</span>
+<span class='slidecaption'>See all the award winning projects </span>
+</a>
+<a href="http://good-designawards.com/">
+<span class='slidetitle'>Announcing Good Design Awards 2017</span>
+<span class='slidecaption'></span>
+</a>
+<a href="http://good-designawards.com/">
+<span class='slidetitle'>Submissions Deadline, June 1st, 2018</span>
+<span class='slidecaption'>Good Design: Iconic Design</span>
+</a>
+					</div>
+				</div>
+                <div id="slideshow" class="cycle-slideshow" data-cycle-prev="#slideprev" data-cycle-next="#slidenext" data-cycle-slides="> a">
+					<a href="http://www.europeanarch.eu/40under40/2017/winners.html" data-title="Europe 40under40 Architecture and Design Award 2017-2018" data-intro="Europe 40under40 Architecture and Design Award 2017-2018">
+<img src="/assets/components/phpthumbof/cache/224.156b11cd53956bc2815ec01e76c6e9611.png" alt="Europe 40under40 Architecture and Design Award 2017-2018"/>
+</a>
+<a href="http://www.europeanarch.eu/40under40/2017/winners.html" data-title="Europe 40under40 Winners 2017" data-intro="Shaolin Flying Monks Theatre by Austris Mailitis, Latvia">
+<img src="/assets/components/phpthumbof/cache/225.156b11cd53956bc2815ec01e76c6e9611.png" alt="Europe 40under40 Winners 2017"/>
+</a>
+<a href="http://www.europeanarch.eu/40under40/2017/winners.html" data-title="Europe 40under40 Winners 2017" data-intro="Groundfall by Aristides Dallas, Greece">
+<img src="/assets/components/phpthumbof/cache/226.156b11cd53956bc2815ec01e76c6e9611.png" alt="Europe 40under40 Winners 2017"/>
+</a>
+<a href="http://www.europeanarch.eu/40under40/2017/winners.html" data-title="Europe 40under40 Winners 2017" data-intro="Vertical Village by Phillippe Rizzotti, France">
+<img src="/assets/components/phpthumbof/cache/227.156b11cd53956bc2815ec01e76c6e9611.png" alt="Europe 40under40 Winners 2017"/>
+</a>
+<a href="http://www.europeanarch.eu/40under40/2017/winners.html" data-title="Europe 40under40 Winners 2017" data-intro="Centre Social Associatif (Community Centre) byAugustin Faucheur, France">
+<img src="/assets/components/phpthumbof/cache/228.156b11cd53956bc2815ec01e76c6e9611.png" alt="Europe 40under40 Winners 2017"/>
+</a>
+<a href="http://good-designawards.com/" data-title="Good Design Award Winners 2017" data-intro="Good Design Award Winners 2017">
+<img src="/assets/components/phpthumbof/cache/220.156b11cd53956bc2815ec01e76c6e9611.png" alt="Good Design Award Winners 2017"/>
+</a>
+<a href="http://good-designawards.com/green-good-design-winners/" data-title="Green Good Design 2018" data-intro="Green Good Design 2018">
+<img src="/assets/components/phpthumbof/cache/221.156b11cd53956bc2815ec01e76c6e9611.png" alt="Green Good Design 2018"/>
+</a>
+<a href="http://internationalarchitectureawards.com/" data-title="The International Architecture Awards" data-intro="The International Architecture Awards">
+<img src="/assets/components/phpthumbof/cache/222.156b11cd53956bc2815ec01e76c6e9611.png" alt="The International Architecture Awards"/>
+</a>
+<a href="http://good-designawards.com/" data-title="Good Design Award Winners 2017" data-intro="Good Design Award Winners 2017">
+<img src="/assets/components/phpthumbof/cache/207.156b11cd53956bc2815ec01e76c6e9611.png" alt="Good Design Award Winners 2017"/>
+</a>
+<a href="http://good-designawards.com/" data-title="Good Design Award Winners 2017" data-intro="Good Design Award Winners 2017">
+<img src="/assets/components/phpthumbof/cache/204.156b11cd53956bc2815ec01e76c6e9611.png" alt="Good Design Award Winners 2017"/>
+</a>
+<a href="http://good-designawards.com/" data-title="Good Design Award Winners 2017" data-intro="Good Design Award Winners 2017">
+<img src="/assets/components/phpthumbof/cache/206.156b11cd53956bc2815ec01e76c6e9611.png" alt="Good Design Award Winners 2017"/>
+</a>
+<a href="http://good-designawards.com/" data-title="Good Design Award Winners 2017" data-intro="Good Design Award Winners 2017">
+<img src="/assets/components/phpthumbof/cache/205.156b11cd53956bc2815ec01e76c6e9611.png" alt="Good Design Award Winners 2017"/>
+</a>
+<a href="http://good-designawards.com/" data-title="Good Design Award Winners 2017" data-intro="Good Design Award Winners 2017">
+<img src="/assets/components/phpthumbof/cache/203.156b11cd53956bc2815ec01e76c6e9611.png" alt="Good Design Award Winners 2017"/>
+</a>
+<a href="http://www.europeanarch.eu/manuelle-gautrand-architecture.html" data-title="European Prize for Architecture 2017: Manuelle Gautrand" data-intro="European Prize for Architecture 2017: Manuelle Gautrand">
+<img src="/assets/components/phpthumbof/cache/199.156b11cd53956bc2815ec01e76c6e9611.png" alt="European Prize for Architecture 2017: Manuelle Gautrand"/>
+</a>
+<a href="javascript:void(0)" data-title="KAPELLE SALGENREUTE | Krumbach, Austria | 2015| Architects: architekt bernardo bader zt gmbH " data-intro="KAPELLE SALGENREUTE | Krumbach, Austria | 2015| Architects: architekt bernardo bader zt gmbH ">
+<img src="/assets/components/phpthumbof/cache/188.156b11cd53956bc2815ec01e76c6e9611.png" alt="KAPELLE SALGENREUTE | Krumbach, Austria | 2015| Architects: architekt bernardo bader zt gmbH "/>
+</a>
+<a href="javascript:void(0)" data-title="KONIECZNY'S ARK | Brenna, Poland | 2015  | Architects: Robert Konieczny, KWK Promes " data-intro="KONIECZNY'S ARK | Brenna, Poland | 2015  | Architects: Robert Konieczny, KWK Promes ">
+<img src="/assets/components/phpthumbof/cache/189.156b11cd53956bc2815ec01e76c6e9611.png" alt="KONIECZNY'S ARK | Brenna, Poland | 2015  | Architects: Robert Konieczny, KWK Promes "/>
+</a>
+<a href="javascript:void(0)" data-title="THE BAHÁ’Í TEMPLE OF SOUTH AMERICA  | Santiago, Chile | 2016  | Architects: Hariri Pontarini Archite" data-intro="THE BAHÁ’Í TEMPLE OF SOUTH AMERICA  | Santiago, Chile | 2016  | Architects: Hariri Pontarini Archite">
+<img src="/assets/components/phpthumbof/cache/193.156b11cd53956bc2815ec01e76c6e9611.png" alt="THE BAHÁ’Í TEMPLE OF SOUTH AMERICA  | Santiago, Chile | 2016  | Architects: Hariri Pontarini Archite"/>
+</a>
+<a href="javascript:void(0)" data-title="ABU DHABI INTERNATIONAL AIRPORT MIDFIELD COMPLEX | Abu Dhabi, UAE | 2017 |Architects: Kohn Pedersen" data-intro="ABU DHABI INTERNATIONAL AIRPORT MIDFIELD COMPLEX | Abu Dhabi, UAE | 2017 |Architects: Kohn Pedersen">
+<img src="/assets/components/phpthumbof/cache/195.156b11cd53956bc2815ec01e76c6e9611.png" alt="ABU DHABI INTERNATIONAL AIRPORT MIDFIELD COMPLEX | Abu Dhabi, UAE | 2017 |Architects: Kohn Pedersen"/>
+</a>
+<a href="javascript:void(0)" data-title="FUZHOU TRANS URBAN CONNECTOR | Fuzhou, China | 2016 | Architects: LOOK Architects Pte. Ltd." data-intro="FUZHOU TRANS URBAN CONNECTOR | Fuzhou, China | 2016 | Architects: LOOK Architects Pte. Ltd.">
+<img src="/assets/components/phpthumbof/cache/194.156b11cd53956bc2815ec01e76c6e9611.png" alt="FUZHOU TRANS URBAN CONNECTOR | Fuzhou, China | 2016 | Architects: LOOK Architects Pte. Ltd."/>
+</a>
+<a href="javascript:void(0)" data-title="BILL AND MELINDA GATES HALL | Ithaca, New York | 2014 | Architects: Morphosis Architects " data-intro="BILL AND MELINDA GATES HALL | Ithaca, New York | 2014 | Architects: Morphosis Architects ">
+<img src="/assets/components/phpthumbof/cache/197.156b11cd53956bc2815ec01e76c6e9611.png" alt="BILL AND MELINDA GATES HALL | Ithaca, New York | 2014 | Architects: Morphosis Architects "/>
+</a>
+                </div>
+                <div id="slideprev">Previous</div>
+                <div id="slidenext">Next</div>
+            </div>
+            <div id="collage">
+				<a href="the-european-centre.html" id="europeancentre" class="collagebox">
+                    <img src="assets/images/frontpage/europeancentre.png" alt="Learn More About The European Centre"/>
+                    <img class="hover" src="assets/images/frontpage/europeancentre_hover1.png" alt="Learn More About The European Centre"/>
+                </a>
+<a href="green-good-design-awards.html" id="greengood" class="collagebox">
+                    <img src="assets/images/frontpage/greengood.png" alt="Learn More About Green Good Design Awards"/>
+                    <img class="hover" src="assets/images/frontpage/greengood_hover_new.jpg" alt="Learn More About Green Good Design Awards"/>
+                </a>
+<a href="europe-40-under-40.html" id="under40" class="collagebox">
+                    <img src="assets/images/frontpage/40under40.png" alt="Learn More About Europe 40 under 40"/>
+                    <img class="hover" src="assets/images/frontpage/40under40_hover1.png" alt="Learn More About Europe 40 under 40"/>
+                </a>
+<a href="international-architecture-awards.html" id="intlarch" class="collagebox">
+                    <img src="assets/images/frontpage/intlarch.png" alt="Learn More About International Architecture Awards"/>
+                    <img class="hover" src="assets/images/frontpage/image.firstpage.png" alt="Learn More About International Architecture Awards"/>
+                </a>
+<a href="join-us.html" id="joinus" class="collagebox">
+                    <img src="assets/images/frontpage/joinus.png" alt="Learn More About Join Us"/>
+                    <img class="hover" src="assets/images/frontpage/joinus_hover.png" alt="Learn More About Join Us"/>
+                </a>
+<a href="good-design-awards.html" id="gooddesign" class="collagebox">
+                    <img src="assets/images/frontpage/gooddesign.png" alt="Learn More About Good Design Awards"/>
+                    <img class="hover" src="assets/images/frontpage/good_design_logo_new.jpg" alt="Learn More About Good Design Awards"/>
+                </a>
+<a href="european-prize-for-architecture.html" id="europeanarch" class="collagebox">
+                    <img src="assets/images/frontpage/europeanarch.png" alt="Learn More About European Prize for Architecture"/>
+                    <img class="hover" src="assets/images/frontpage/europeanprize_hover.jpg" alt="Learn More About European Prize for Architecture"/>
+                </a>
+            </div>
+            <div id="searchline">
+				<div id="searchbox">
+<form id="searchform" action="search-results.html" method="post">
+                    <input type="text" id="searchfield" name="search" placeholder="SEARCH" value=""/>
+                        <a href="#" class="submitbutton" id="searchbutton">Search</a>
+                </form>
+</div>
+                <ul id="searchlinks">
+					<li><a href="privacy-statement.html" class="">Privacy Statement</a></li>
+<li><a href="archives/" class="">Award Archive</a></li>
+<li><a href="applications/" class="">Applications</a></li>
+                </ul>
+                <a href="http://www.metropolitanartspress.com/" target="_blank" id="metropolitanlink">
+                    <img src="assets/images/metropolitanlink.png" alt="METROPOLITAN ARTS PRESS" />
+                </a>
+                <a href="http://www.chi-athenaeum.org" target="_blank" id="chicagologo">
+                    <img src="assets/images/chicagolink.png" alt="The Chicago Athenaeum"/>
+                </a>
+            </div>
+        </div>
+        <div id="footerwrap">
+            <footer id="footer">
+                <div class="col">
+                    <strong>IRELAND</strong>
+                    The European Centre for<BR/>
+                    Architecture Art Design<BR/>
+                    and Urban Studies<BR/><BR/>
+                    28 Butlers Court<BR/>
+                    Sir Rogerson's Quay<BR/>
+                    Dubln 2, Ireland <BR/>
+                    TEL/FAX: +353/(0)1-670 8781<BR/>
+                    Email: <a href="mailto:info@europeanarch.eu">info@europeanarch.eu</a>
+                </div>
+                <div class="col">
+                    <strong>GREECE</strong>
+                    The European Centre for<BR/>
+                    Architecture Art Design<BR/>
+                    and Urban Studies / Contemporary<BR/>
+                    Space Athens<BR/><BR/>
+                    Mitropoleos 74, GR 10563<BR/>
+                    Athens, Greece<BR/>
+                    TEL: +30 210 3428511<BR/>
+                    FAX: +30 210 3428512<BR/>
+                    Email: <a href="mailto:info@europeanarch.eu">info@europeanarch.eu</a>
+                </div>
+                <div class="col">
+                    <ul id="footermenu">
+						<li><strong>APPLICATIONS</strong></li>
+						<li><a href="green-good-design-footer.html" class="">Green Good Design Awards</a></li>
+<li><a href="europe-40-under-40-footer.html" class="">Europe 40 under 40</a></li>
+<li><a href="international-architecture-awards-footer.html" class="">International Architecture Awards</a></li>
+<li><a href="good-design-awards-footer.html" class="">Good Design Awards</a></li>
+<li><a href="european-prize-for-architecture-footer.html" class="">European Prize for Architecture</a></li>
+                    </ul>
+                </div>
+                <div class="col">
+                    Registered in Ireland Under<BR/>
+                    Company No. 433905 Charity<BR/>
+                    No. CHY 17938<BR/>
+                    Registration Office in Dublin<BR/>
+                    Ireland Copyright 2013<BR/><BR/>
+                    Registered in Greece as a<BR/>
+                    Charity No. 998619075<BR/>
+                    Registered Office in Athens<BR/>
+                    Greece<BR/>
+                    Copyright 2013
+                </div>
+            </footer>
+        </div>
+        <div id="subfooter">
+			<div class="subfootercontainer">
+            <a href="http://www.meandyou.gr/" target="_blank" id="meandyoulink"><img src="assets/images/meandyou.png" alt="ME AND YOU development"/></a><div class="copyright">&copy; The European Center 2015</div>
+			</div>
+        </div>
+    </body>
+</html>
+

@@ -1,0 +1,797 @@
+WARC/1.0
+WARC-Type: warcinfo
+WARC-Date: 2018-05-30T18:18:32Z
+WARC-All-Language: en
+WARC-All-Content_type: text/html;charset=utf-8
+WARC-Record-ID: <urn:uuid:050f15fd-50d5-4d24-9041-241e121cb042>
+Content-Type: application/http;msgtype=response
+Content-Length: 46
+
+WARCProcessor by SING Group www.sing-group.com
+
+WARC/1.0
+WARC-Type: response
+WARC-Target-URI: http://www.feria-urbanism.eu
+WARC-Date: 20180530181832
+WARC-Language: en
+WARC-Record-ID: <http://www.feria-urbanism.eu>
+Content-Type: application/http;msgtype=response
+Content-Length: 26327
+
+HTTP/1.1 200
+Content-Type:text/html;charset=utf-8
+
+
+<!doctype html>
+<!--[if lt IE 7]>      <html class="lt-ie9 lt-ie8 lt-ie7" lang="en"> <![endif]-->
+<!--[if IE 7]>         <html class="lt-ie9 lt-ie8" lang="en"> <![endif]-->
+<!--[if IE 8]>         <html class="lt-ie9" lang="en"> <![endif]-->
+<!--[if gt IE 8]><!--> <html lang="en"> <!--<![endif]-->
+    <head>
+                <title>Feria Urbanism</title>
+          <meta name="description" content="Neighbourhood Planning, Civic Design &amp; Public Realm, Urban Strategies, Training &amp; Education" />
+          <meta name="keywords" content="Neighbourhood Planning, Civic Design &amp; Public Realm, Urban Strategies, Training &amp; Education" />
+          <meta property="og:type" content="website" />
+        <meta property="og:title" content="Feria Urbanism" />
+        <meta property="og:url" content="http://feria-urbanism3.moonfruit.com" />
+            
+
+        <link rel="shortcut icon" href="/communities/3/004/012/991/013/icons/4629233072.ico" type="image/icon">
+            <link rel="icon" href="/communities/3/004/012/991/013/icons/4629233072.ico" type="image/icon">
+        <link rel="stylesheet" href="/_app/9602408/sm6/styles/styles.min.css">
+        <link rel="stylesheet" href="/_app/9602408/sm6/styles/rothko.min.css">
+        <style>
+          .footer_fAgMMVwKlJZ81aJ9n4jSs {
+  left: 735px;
+  top: 114px;
+  position: absolute;
+  height: 50px;
+  width: 50px;
+  z-index: 12;
+  display: block;
+  opacity: 1.0;
+}
+.footer_fcM11fBqi0i4qSqZ_r0mI {
+  left: 792px;
+  top: 116px;
+  position: absolute;
+  height: 46px;
+  width: 46px;
+  z-index: 10;
+  display: block;
+  opacity: 0.41;
+  zoom: 1;
+  filter: alpha(opacity=41);
+}
+.footer_fQTSkU-K51xb1oZ_eqPlX {
+  left: -138px;
+  top: 50px;
+  position: absolute;
+  height: 94px;
+  width: 94px;
+  z-index: 9;
+  display: block;
+  opacity: 0.5;
+  zoom: 1;
+  filter: alpha(opacity=50);
+}
+.footer_fctTgQoxYRjDPZ3e4aGfX {
+  left: 352px;
+  top: 39px;
+  position: absolute;
+}
+.footer_fctTgQoxYRjDPZ3e4aGfX .menuItem {
+  padding: 0 0 10px 0;
+}
+.footer_fctTgQoxYRjDPZ3e4aGfX.horizontal .menuItem {
+  padding: 0 10px 0 0;
+}
+.footer_fctTgQoxYRjDPZ3e4aGfX.horizontal .subMenu {
+
+}
+.footer_fctTgQoxYRjDPZ3e4aGfX .menuItem .menuItemDesign {
+  background-color: #f1f1f1;
+  background-color: rgba(241, 241, 241, 0.0);
+  border-style: none;
+  -webkit-border-radius: 5px;
+  -moz-border-radius: 5px;
+  -ms-border-radius: 5px;
+  -o-border-radius: 5px;
+  border-radius: 5px;
+  color: #666666;
+  font-family: Open Sans;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 22.0px;
+  text-align: left;
+  padding: 15px;
+  width: auto;
+}
+.footer_fctTgQoxYRjDPZ3e4aGfX > .menuItem:hover > .menuItemDesign, .footer_fctTgQoxYRjDPZ3e4aGfX .selected.menuItem:hover .menuItemDesign {
+  background-color: #f1f1f1;
+  background-color: rgba(241, 241, 241, 0.0);
+  border-style: none;
+  -webkit-border-radius: 5px;
+  -moz-border-radius: 5px;
+  -ms-border-radius: 5px;
+  -o-border-radius: 5px;
+  border-radius: 5px;
+  color: #cccccc;
+  font-family: Open Sans;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 22.0px;
+  text-align: left;
+}
+.footer_fctTgQoxYRjDPZ3e4aGfX .selected .menuItemDesign {
+  background-color: #f1f1f1;
+  background-color: rgba(241, 241, 241, 0.0);
+  border-style: none;
+  -webkit-border-radius: 5px;
+  -moz-border-radius: 5px;
+  -ms-border-radius: 5px;
+  -o-border-radius: 5px;
+  border-radius: 5px;
+  color: #000000;
+  font-family: Open Sans;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 22.0px;
+  text-align: left;
+}
+.footer_f0N9Z4zA97yJ5rKH8pq2R {
+  left: 844px;
+  top: 116px;
+  position: absolute;
+  height: 46px;
+  width: 46px;
+  z-index: 7;
+  display: block;
+  opacity: 0.41;
+  zoom: 1;
+  filter: alpha(opacity=41);
+}
+.footer_fT4F1AY9SyuwqLzIDULAq {
+  left: 70px;
+  top: 171px;
+  position: absolute;
+  padding: 2px;
+  width: 207px;
+  min-height: 28px;
+  font-family: Open Sans;
+  font-size: 10px;
+  font-weight: 400;
+  line-height: 14.0px;
+  text-align: left;
+  color: #000000;
+  border-style: solid;
+  z-index: 6;
+  word-wrap: break-word;
+}
+.footer_fT4F1AY9SyuwqLzIDULAq .p0 {
+  line-height: 14.0px;
+}
+.footer_fT4F1AY9SyuwqLzIDULAq .p0 .c0 {
+
+}
+.footer_fT4F1AY9SyuwqLzIDULAq .p0 .c1 {
+
+}
+.footer_fT4F1AY9SyuwqLzIDULAq .p0 .c2 {
+
+}
+.footer_fpxKdPt22Kp6EcbXiBHcM {
+  left: 728px;
+  top: 39px;
+  position: absolute;
+  padding: 2px;
+  width: 158px;
+  min-height: 62px;
+  font-family: Open Sans;
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 20.0px;
+  text-align: right;
+  color: #000000;
+  border-style: solid;
+  z-index: 5;
+  word-wrap: break-word;
+}
+.footer_fpxKdPt22Kp6EcbXiBHcM .p0 {
+  line-height: 22.0px;
+}
+.footer_fpxKdPt22Kp6EcbXiBHcM .p0 .c0 {
+
+}
+.footer_fpxKdPt22Kp6EcbXiBHcM .p1 {
+  line-height: 22.0px;
+}
+.footer_fpxKdPt22Kp6EcbXiBHcM .p1 .c0 {
+
+}
+.footer_fpxKdPt22Kp6EcbXiBHcM .p2 {
+  line-height: 22.0px;
+}
+.footer_fpxKdPt22Kp6EcbXiBHcM .p2 .c0 {
+
+}
+.footer_fBFw6XPXu_mSU0R7gsilp {
+  left: 70px;
+  top: 10px;
+  position: absolute;
+  height: 1px;
+  width: 819px;
+  z-index: 3;
+}
+.footer_f4yAeRNkvjst2ez5JoaM8 {
+  left: 70px;
+  top: 39px;
+  position: absolute;
+  padding: 2px;
+  width: 158px;
+  min-height: 104px;
+  font-family: Open Sans;
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 20.0px;
+  text-align: left;
+  color: #000000;
+  border-style: solid;
+  z-index: 2;
+  word-wrap: break-word;
+}
+.footer_f4yAeRNkvjst2ez5JoaM8 .p0 {
+  line-height: 22.0px;
+}
+.footer_f4yAeRNkvjst2ez5JoaM8 .p0 .c0 {
+
+}
+.footer_f4yAeRNkvjst2ez5JoaM8 .p1 {
+  line-height: 22.0px;
+}
+.footer_f4yAeRNkvjst2ez5JoaM8 .p1 .c0 {
+
+}
+.footer_f4yAeRNkvjst2ez5JoaM8 .p2 {
+  line-height: 22.0px;
+}
+.footer_f4yAeRNkvjst2ez5JoaM8 .p2 .c0 {
+
+}
+.footer_f4yAeRNkvjst2ez5JoaM8 .p3 {
+  line-height: 22.0px;
+}
+.footer_f4yAeRNkvjst2ez5JoaM8 .p3 .c0 {
+
+}
+.footer_f4yAeRNkvjst2ez5JoaM8 .p4 {
+  line-height: 22.0px;
+}
+.footer_f4yAeRNkvjst2ez5JoaM8 .p4 .c0 {
+
+}
+.footer_fOn59b5LNccy_Pv-MCmx4 {
+  left: 230px;
+  top: 39px;
+  position: absolute;
+  height: 94px;
+  width: 94px;
+  z-index: 1;
+  display: block;
+  opacity: 1.0;
+}
+.footer {
+  width: 960px;
+  height: 230px;
+  position: absolute;
+  left: 0px;
+  bottom: 0px;
+  z-index: 3;
+}
+.page_home_fq4iBX1RFZHGd314AIsL1 {
+  left: 70px;
+  top: 944px;
+  position: absolute;
+  padding: 2px;
+  width: 526px;
+  min-height: 153px;
+  font-family: Open Sans;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 22.0px;
+  text-align: left;
+  color: #666666;
+  border-style: solid;
+  z-index: 72;
+  word-wrap: break-word;
+}
+.page_home_fq4iBX1RFZHGd314AIsL1 .p0 {
+  line-height: 22.0px;
+}
+.page_home_fq4iBX1RFZHGd314AIsL1 .p0 .c0 {
+
+}
+.page_home_fSLKb67SJjMMAmFC6Be41 {
+  left: 527px;
+  top: 390px;
+  position: absolute;
+  padding: 2px;
+  width: 332px;
+  min-height: 147px;
+  font-family: Open Sans;
+  font-size: 24px;
+  font-weight: 400;
+  line-height: 34.0px;
+  text-align: left;
+  color: #ffffff;
+  border-style: solid;
+  z-index: 71;
+  word-wrap: break-word;
+}
+.page_home_fSLKb67SJjMMAmFC6Be41 .p0 {
+  line-height: 34.0px;
+}
+.page_home_fSLKb67SJjMMAmFC6Be41 .p0 .c0 {
+
+}
+.page_home_fSLKb67SJjMMAmFC6Be41 .p1 {
+  line-height: 34.0px;
+}
+.page_home_fSLKb67SJjMMAmFC6Be41 .p1 .c0 {
+
+}
+.page_home_fSLKb67SJjMMAmFC6Be41 .p2 {
+  line-height: 36.0px;
+}
+.page_home_fSLKb67SJjMMAmFC6Be41 .p2 .c0 {
+
+}
+.page_home_fSLKb67SJjMMAmFC6Be41 .p3 {
+  line-height: 34.0px;
+}
+.page_home_fSLKb67SJjMMAmFC6Be41 .p3 .c0 {
+
+}
+.page_home_fJwHb02GAHD84Bf7sThNW {
+  left: 640px;
+  top: 601px;
+  position: absolute;
+  height: 523px;
+  width: 250px;
+  z-index: 70;
+  border-style: solid;
+}
+.page_home_fTV058UfTNkZG0ph6fKMA {
+  left: 62px;
+  top: 130px;
+  position: absolute;
+  height: 66px;
+  width: 130px;
+  z-index: 69;
+  display: block;
+  opacity: 1.0;
+}
+.page_home_fFPF7b1wWp8WFkUT_1vIl {
+  left: 495px;
+  top: 366px;
+  position: absolute;
+  height: 193px;
+  width: 440px;
+  z-index: 68;
+}
+.page_home_fo0d5P-Klp_xU_6Wi0I7k {
+  left: 25px;
+  top: 25px;
+  position: absolute;
+  height: 206px;
+  width: 205px;
+  z-index: 67;
+}
+.page_home_fcSmGyUscifVrjX4CJHZa {
+  left: 70px;
+  top: 70px;
+  position: absolute;
+  height: 321px;
+  width: 823px;
+  z-index: 65;
+  display: block;
+  opacity: 1.0;
+}
+.page_home_fHuwavTqpw1-LN0pqtOYu {
+  left: 68px;
+  top: 601px;
+  position: absolute;
+  height: 324px;
+  width: 529px;
+  z-index: 36;
+  display: block;
+  opacity: 1.0;
+}
+.master_fc7CjWDn69nAA1vSsxsm2 {
+  left: 87px;
+  top: 416px;
+  position: absolute;
+}
+.master_fc7CjWDn69nAA1vSsxsm2 .menuItem {
+  padding: 0 0 45px 0;
+}
+.master_fc7CjWDn69nAA1vSsxsm2.horizontal .menuItem {
+  padding: 0 45px 0 0;
+}
+.master_fc7CjWDn69nAA1vSsxsm2.horizontal .subMenu {
+  padding-top: 20px;
+}
+.master_fc7CjWDn69nAA1vSsxsm2 .menuItem .menuItemDesign {
+  background-color: #f1f1f1;
+  background-color: rgba(241, 241, 241, 0.0);
+  border-style: none;
+  -webkit-border-radius: 5px;
+  -moz-border-radius: 5px;
+  -ms-border-radius: 5px;
+  -o-border-radius: 5px;
+  border-radius: 5px;
+  color: #666666;
+  font-family: Open Sans;
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 24.0px;
+  text-align: right;
+  width: auto;
+}
+.master_fc7CjWDn69nAA1vSsxsm2 > .menuItem:hover > .menuItemDesign, .master_fc7CjWDn69nAA1vSsxsm2 .selected.menuItem:hover .menuItemDesign {
+  background-color: #f1f1f1;
+  background-color: rgba(241, 241, 241, 0.0);
+  border-style: none;
+  -webkit-border-radius: 5px;
+  -moz-border-radius: 5px;
+  -ms-border-radius: 5px;
+  -o-border-radius: 5px;
+  border-radius: 5px;
+  color: #cccccc;
+  font-family: Open Sans;
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 24.0px;
+  text-align: right;
+}
+.master_fc7CjWDn69nAA1vSsxsm2 .selected .menuItemDesign {
+  background-color: #f1f1f1;
+  background-color: rgba(241, 241, 241, 0.0);
+  border-style: none;
+  -webkit-border-radius: 5px;
+  -moz-border-radius: 5px;
+  -ms-border-radius: 5px;
+  -o-border-radius: 5px;
+  border-radius: 5px;
+  color: #000000;
+  font-family: Open Sans;
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 24.0px;
+  text-align: right;
+}
+.master_fc7CjWDn69nAA1vSsxsm2 .subMenu {
+  padding: 0px;
+}
+.master_fc7CjWDn69nAA1vSsxsm2 .subMenu ul {
+  -webkit-border-radius: 0px;
+  -moz-border-radius: 0px;
+  -ms-border-radius: 0px;
+  -o-border-radius: 0px;
+  border-radius: 0px;
+  background-color: #ffffff;
+  background-color: rgba(255, 255, 255, 0.0);
+  border-style: solid;
+  overflow: hidden;
+}
+.master_fc7CjWDn69nAA1vSsxsm2 .subMenu .subMenuItem .subMenuItemDesign {
+  border: none;
+  padding: 1px;
+  background-clip: border-box;
+  color: #666666;
+  font-family: Open Sans;
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 20.0px;
+  text-align: left;
+}
+.master_fc7CjWDn69nAA1vSsxsm2 .subMenu .selected.subMenuItem .subMenuItemDesign {
+  background-color: #42abc3;
+  background-color: rgba(66, 171, 195, 0.0);
+  color: #000000;
+  font-family: Open Sans;
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 20.0px;
+  text-align: left;
+}
+.master_fc7CjWDn69nAA1vSsxsm2 .subMenu .subMenuItem:hover .subMenuItemDesign {
+  background-color: #ffffff;
+  background-color: rgba(255, 255, 255, 0.0);
+  color: #cccccc;
+  font-family: Open Sans;
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 20.0px;
+  text-align: left;
+}
+.pageContent {
+  position: relative;
+  float: left;
+  overflow: hidden;
+  width: 960px;
+  min-height: 1370px;
+  border-style: solid;
+  background-color: #ffffff;
+  background-image: url('/_app/1516288797/en/sharedmedia/2633383.swf');
+  background-repeat: repeat;
+  background-position: left top;
+}
+.pageOffset {
+  position: relative;
+  float: left;
+  width: 1px;
+  margin-bottom: 0px;
+  height: 0%;
+}
+.pagePadding {
+  width: auto;
+  min-width: 960px;
+  clear: both;
+  padding: 0px;
+}
+.pageAlignment {
+  position: relative;
+  margin: 0px auto;
+  width: 960px;
+  min-height: 1370px;
+  z-index: 0;
+}
+body {
+  background-color: #ffffff;
+  background-image: url('/communities/3/004/012/991/013//images/4634250067.jpg');
+  background-repeat: repeat;
+  background-position: center top;
+  background-attachment: fixed;
+}
+
+        </style>
+
+        <script src="/_app/9602408/sm6/scripts/main.min.js"></script>
+        <script>
+          var EXPOSE_JQUERY = true;  
+          var Rothko = { csrfToken : 'GSonpcATcoichP-UC3nr7PNA' };
+          var tref = { tok: 'GSonpcATcoichP-UC3nr7PNA' };
+        </script>
+        <script src="/_app/9602408/sm6/screenshot.js"></script>
+        
+        <script src="/_app/9602408/sm6/login/Login.js"></script>
+<link rel="stylesheet" href="/_app/9602408/sm6/fancybox/jquery.fancybox.css?v=2.1.5" />
+<link rel="stylesheet" href="/_app/9602408/sm6/fancybox/sm.custom.css" />
+<link rel="stylesheet" href="/_app/9602408/sm6/fancybox/jquery.fancybox-patch.css" />
+<link rel="stylesheet" href="http://fonts.googleapis.com/css?family=Open+Sans:400"/><script type="text/i18n" data-lang="en">{"Shop_Try_Again":"Please try again.","Shop_Add_To_Basket":"Sorry, we could not add to cart.","Shop_Action_Failed":"Sorry, the action failed.","Form_Upload_Field_Empty":"No file uploaded","Shop_Sorry_Order_Text":"Sorry, we could not display your order.","Shop_Set_Express_Checkout":"Sorry could not proceed to PayPal.","Shop_Set_Cart_Shipping_Option":"Sorry, we could not update shipping.","Shop_Error_PayPal":"Payment via PayPal failed.","Shop_Sorry_Sold_Out":"has sold out.","Shop_Item_Unavailable":"Sorry, the item","Form_Required_Message":"Required field","Shop_Remove_From_Cart":"Sorry, we could not delete item from cart.","Shop_Not_Available":"is not available.","Shop_Completed_Cart":"Invalid order. Probably another order was completed already.","Shop_Items_Unavailable":"Sorry, some of the items in your basket are no longer available.","Shop_Invalid_Order":"Invalid order. Probably another order is in process.","Form_Upload_Field_Size_Error":"File is too big","Form_Invalid_Message":"Invalid entry","Shop_Error_Payment":"Payment failed.","Shop_Recalculate_Cart":"Sorry, we could not update cart.","Shop_Sorry_Text":"Sorry, the item","Shop_No_Shipping_Chosen":"Please choose a shipping option","Shop_Review_Cart":"Please review your cart.","Preview_Exit_Button":"Exit preview","Shop_Sorry_Limited_Quantity":"has limited quantity.","Shop_Promocode_Minimum_not_Met":"You have not added enough to your basket to meet the minimum order for this promo code."}</script>
+        <script type="text/i18n" data-lang="es">{"Shop_Try_Again":"Vuelva a intentarlo.","Shop_Add_To_Basket":"Lo sentimos, pero no pudimos agregar al carro.","Shop_Action_Failed":"Lo sentimos, falló la acción.","Form_Upload_Field_Empty":"No se cargó un archivo.","Shop_Sorry_Order_Text":"Lo sentimos, no pudimos mostrar su pedido.","Shop_Set_Express_Checkout":"Lo sentimos, no se puede continuar a PayPal.","Shop_Set_Cart_Shipping_Option":"Lamentamos no poder actualizar el envío.","Shop_Error_PayPal":"Se produjo un error con el pago a través de PayPal.","Shop_Sorry_Sold_Out":"se agotó.","Shop_Item_Unavailable":"Lo sentimos, pero el elemento","Form_Required_Message":"Campo obligatorio","Shop_Remove_From_Cart":"Lamentamos no poder eliminar el elemento del carro.","Shop_Not_Available":"no está disponible.","Shop_Completed_Cart":"Orden no válida. Probablemente ya se haya completado otra orden.","Shop_Items_Unavailable":"Lo sentimos, algunos de los artículos de su canasta ya no están disponibles.","Shop_Invalid_Order":"Orden no válida. Probablemente otra orden esté en proceso.","Form_Upload_Field_Size_Error":"El archivo es demasiado grande","Form_Invalid_Message":"Entrada no válida","Shop_Error_Payment":"Se produjo un error con el pago.","Shop_Recalculate_Cart":"Lamentamos no poder actualizar el carro.","Shop_Sorry_Text":"Lo sentimos, el elemento","Shop_No_Shipping_Chosen":"Elija una opción de envío","Shop_Review_Cart":"Revise su carro.","Preview_Exit_Button":"Exit preview","Shop_Sorry_Limited_Quantity":"tiene cantidad limitada."}</script>
+        </head>
+    <body>
+        
+        
+        <div class="pageOffset"></div>
+<div class="pagePadding">
+    
+    <div id="pageAlignment" class="pageAlignment">
+      <div id="pageContent" class="pageContent">
+    <ul class="menu horizontal master_fc7CjWDn69nAA1vSsxsm2">
+    <li class="menuItem selected">
+        <a href="/home/4588038493" class="menuItemDesign"><span>Home</span></a>
+        <div class="subMenu">
+            <ul>
+                <li class="subMenuItem ">
+                        <a href="/news/4589702816" class="subMenuItemDesign"><span>News</span></a>
+                    </li>
+                </ul>
+        </div>
+        </li>
+    <li class="menuItem ">
+        <a href="/projects/4589692504" class="menuItemDesign"><span>Projects</span></a>
+        <div class="subMenu">
+            <ul>
+                <li class="subMenuItem ">
+                        <a href="/urban-strategies/4591377666" class="subMenuItemDesign"><span>Urban Strategies</span></a>
+                    </li>
+                <li class="subMenuItem ">
+                        <a href="/neighbourhood-planning/4591377535" class="subMenuItemDesign"><span>Neighbourhood Planning</span></a>
+                    </li>
+                <li class="subMenuItem ">
+                        <a href="/civic-design-public-realm/4591377715" class="subMenuItemDesign"><span>Civic Design &amp; Public Realm</span></a>
+                    </li>
+                <li class="subMenuItem ">
+                        <a href="/training-education/4591377764" class="subMenuItemDesign"><span>Training &amp; Education</span></a>
+                    </li>
+                </ul>
+        </div>
+        </li>
+    <li class="menuItem ">
+        <a href="/about/4588038495" class="menuItemDesign"><span>About</span></a>
+        <div class="subMenu">
+            <ul>
+                <li class="subMenuItem ">
+                        <a href="/richard/4589695891" class="subMenuItemDesign"><span>Richard</span></a>
+                    </li>
+                <li class="subMenuItem ">
+                        <a href="/antonia/4589691992" class="subMenuItemDesign"><span>Antonia</span></a>
+                    </li>
+                <li class="subMenuItem ">
+                        <a href="/anna/4593003879" class="subMenuItemDesign"><span>Anna</span></a>
+                    </li>
+                <li class="subMenuItem ">
+                        <a href="/technical-team/4592053495" class="subMenuItemDesign"><span>Technical Team</span></a>
+                    </li>
+                </ul>
+        </div>
+        </li>
+    <li class="menuItem ">
+        <a href="/contact/4588038496" class="menuItemDesign"><span>Contact</span></a>
+        </li>
+    </ul>
+<a href="/dorchester-master-plan/4594263311" target="_self" ><img src="/communities/3/004/012/991/013//images/4634251767_529x324.jpg" alt="Feria-Web-2016-BOX_Dorchester-TC-3" class="page_home_fHuwavTqpw1-LN0pqtOYu" />
+</a>
+<a href="/preston-housing-competition/4594264006" target="_self" ><img src="/communities/3/004/012/991/013//images/4634250043_823x321.jpg" alt="Feria-Web-2016-BANNER_Preston-Market-Street" class="page_home_fcSmGyUscifVrjX4CJHZa" />
+</a>
+<a href="/home/4588038493" target="_self"><img class="rectangle page_home_fo0d5P-Klp_xU_6Wi0I7k" src="/_imgstore/3/4012991013/page_home_fo0d5P-Klp_xU_6Wi0I7k/e-ChltUWVBdgTMLPgHT_-NGApN4.png" />
+</a>
+<a href="/projects/4589692504" target="_self"><img class="rectangle page_home_fFPF7b1wWp8WFkUT_1vIl" src="/_imgstore/3/4012991013/page_home_fFPF7b1wWp8WFkUT_1vIl/cRs6ShWnHJn09f96-iIrYapdIlo.png" />
+</a>
+<a href="/home/4588038493" target="_self" ><img src="/communities/3/004/012/991/013//images/4621681166_130x66.png" alt="Feria-Logo_WHITE_150331" class="page_home_fTV058UfTNkZG0ph6fKMA" />
+</a>
+<iframe class="page_home_fJwHb02GAHD84Bf7sThNW" frameborder="0" src="/cgi-bin/snippet.cgi?todo=as_page;instance=4588038493;num=5;community_id=4012991013" scrolling="no" allowTransparency="true"></iframe>
+<div class="page_home_fSLKb67SJjMMAmFC6Be41 body">
+<p class="p0">
+	              
+<span class="c0"><a href="/urban-strategies/4591377666" target="_self">Urban Strategies</a></span>
+	          </p>
+	      <p class="p1">
+	              
+<span class="c0"><a href="/neighbourhood-planning/4591377535" target="_self">Neighbourhood Planning</a></span>
+	          </p>
+	      <p class="p2">
+	              
+<span class="c0"><a href="/civic-design-public-realm/4591377715" target="_self">Civic Design &amp; Public Realm</a></span>
+	          </p>
+	      <p class="p3">
+	              
+<span class="c0"><a href="/training-education/4591377764" target="_self">Training &amp; Education</a></span>
+	          </p>
+	      </div>
+
+<div class="page_home_fq4iBX1RFZHGd314AIsL1 title">
+<h1 class="p0">
+	              
+<span class="c0">29.03.18 &nbsp;West Dorset District Council have appointed Feria Urbanism to prepare a master plan for Dorchester town centre. This will draw together a cohesive strategy that will maximise the potential of the town’s cultural assets, develop the health of the traditional high street and address issues affecting the public realm and pedestrian links. This vision for the future will be bespoke to Dorchester and inform potential changes to local plan policy.</span>
+	          </h1>
+	      </div>
+
+<div id="footer" class="footer">
+    <a href="http://www.theneweuropean.co.uk/home" target="_blank" ><img src="/communities/3/004/012/991/013//images/4629983620_94x94.png" alt="Euro-48" class="footer_fOn59b5LNccy_Pv-MCmx4" />
+</a>
+<div class="footer_f4yAeRNkvjst2ez5JoaM8 body">
+<p class="p0">
+	              
+<span class="c0">Feria Urbanism</span>
+	          </p>
+	      <p class="p1">
+	              
+<span class="c0">Second Floor Studio</span>
+	          </p>
+	      <p class="p2">
+	              
+<span class="c0">11 Fernside Road</span>
+	          </p>
+	      <p class="p3">
+	              
+<span class="c0">Bournemouth</span>
+	          </p>
+	      <p class="p4">
+	              
+<span class="c0">Dorset BH9 2LA &nbsp;U.K.</span>
+	          </p>
+	      </div>
+
+<img class="line footer_fBFw6XPXu_mSU0R7gsilp" src="/_imgstore/3/4012991013/footer_fBFw6XPXu_mSU0R7gsilp/y7nh9Mx2eRkDmQzjCOBN-NjdbzY.png" />
+
+<div class="footer_fpxKdPt22Kp6EcbXiBHcM body">
+<p class="p0">
+	              
+<span class="c0">+44 1202 548 676</span>
+	          </p>
+	      <p class="p1">
+	              
+<span class="c0">+44 7816 299 909</span>
+	          </p>
+	      <p class="p2">
+	              
+<span class="c0"><a href="mailto:info@feria-urbanism.eu" target="_self">info@feria-urbanism.eu</a></span>
+	          </p>
+	      </div>
+
+<div class="footer_fT4F1AY9SyuwqLzIDULAq body">
+<p class="p0">
+	              
+<span class="c0">© 2018 Feria Limited &nbsp;| &nbsp;</span><span class="c1"><a href="/privacy/4589703032" target="_self">Privacy Policy</a></span><span class="c2">&nbsp;</span>
+	          </p>
+	      </div>
+
+<a href="https://twitter.com/feria_urbanism" target="_blank" ><img src="/_app/1516288797/en/simplemedia/socialIcons/tw-square-black-large.png" alt="Twitter square black large" class="footer_f0N9Z4zA97yJ5rKH8pq2R" />
+</a>
+<ul class="menu horizontal footer_fctTgQoxYRjDPZ3e4aGfX">
+    <li class="menuItem selected">
+        <a href="/home/4588038493" class="menuItemDesign"><span>Home</span></a>
+        <div class="subMenu">
+            <ul>
+                <li class="subMenuItem ">
+                        <a href="/news/4589702816" class="subMenuItemDesign"><span>News</span></a>
+                    </li>
+                </ul>
+        </div>
+        </li>
+    <li class="menuItem ">
+        <a href="/projects/4589692504" class="menuItemDesign"><span>Projects</span></a>
+        <div class="subMenu">
+            <ul>
+                <li class="subMenuItem ">
+                        <a href="/urban-strategies/4591377666" class="subMenuItemDesign"><span>Urban Strategies</span></a>
+                    </li>
+                <li class="subMenuItem ">
+                        <a href="/neighbourhood-planning/4591377535" class="subMenuItemDesign"><span>Neighbourhood Planning</span></a>
+                    </li>
+                <li class="subMenuItem ">
+                        <a href="/civic-design-public-realm/4591377715" class="subMenuItemDesign"><span>Civic Design &amp; Public Realm</span></a>
+                    </li>
+                <li class="subMenuItem ">
+                        <a href="/training-education/4591377764" class="subMenuItemDesign"><span>Training &amp; Education</span></a>
+                    </li>
+                </ul>
+        </div>
+        </li>
+    <li class="menuItem ">
+        <a href="/about/4588038495" class="menuItemDesign"><span>About</span></a>
+        <div class="subMenu">
+            <ul>
+                <li class="subMenuItem ">
+                        <a href="/richard/4589695891" class="subMenuItemDesign"><span>Richard</span></a>
+                    </li>
+                <li class="subMenuItem ">
+                        <a href="/antonia/4589691992" class="subMenuItemDesign"><span>Antonia</span></a>
+                    </li>
+                <li class="subMenuItem ">
+                        <a href="/anna/4593003879" class="subMenuItemDesign"><span>Anna</span></a>
+                    </li>
+                <li class="subMenuItem ">
+                        <a href="/technical-team/4592053495" class="subMenuItemDesign"><span>Technical Team</span></a>
+                    </li>
+                </ul>
+        </div>
+        </li>
+    <li class="menuItem ">
+        <a href="/contact/4588038496" class="menuItemDesign"><span>Contact</span></a>
+        </li>
+    </ul>
+<a href="http://www.theneweuropean.co.uk/home" target="_blank" ><img src="/communities/3/004/012/991/013//images/4629703035_94x94.jpg" alt="Euro-48" class="footer_fQTSkU-K51xb1oZ_eqPlX" />
+</a>
+<a href="https://www.facebook.com/feriaurbanism/" target="_blank" ><img src="/_app/1516288797/en/simplemedia/socialIcons/fb-square-black-large.png" alt="Facebook square black large" class="footer_fcM11fBqi0i4qSqZ_r0mI" />
+</a>
+<a href="https://www.instagram.com/feria_urbanism/" target="_blank" ><img src="/communities/3/004/012/991/013//images/4634260133_50x50.png" alt="instagram-icon-white-on-black" class="footer_fAgMMVwKlJZ81aJ9n4jSs" />
+</a>
+</div>
+</div>
+    </div>
+</div>
+
+
+        <script>
+$(document).ready(function () { SM6.Login.init('', ''); })
+</script>
+<script src="/_app/9602408/sm6/fancybox/jquery.fancybox.pack.js?v=2.1.5"></script>
+<script src="/_app/9602408/sm6/fancybox/jquery.fancybox-init.js"></script></body>
+</html>
+
+

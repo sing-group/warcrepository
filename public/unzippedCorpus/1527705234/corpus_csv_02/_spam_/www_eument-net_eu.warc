@@ -1,0 +1,579 @@
+WARC/1.0
+WARC-Type: warcinfo
+WARC-Date: 2018-05-30T17:52:30Z
+WARC-All-Language: cs-CZ
+WARC-All-Content_type: text/html; charset=UTF-8
+WARC-Record-ID: <urn:uuid:1f992c6a-97a1-4406-a4fd-d32d0575f85f>
+Content-Type: application/http;msgtype=response
+Content-Length: 46
+
+WARCProcessor by SING Group www.sing-group.com
+
+WARC/1.0
+WARC-Type: response
+WARC-Target-URI: http://www.eument-net.eu
+WARC-Date: 20180530175230
+WARC-Language: cs-CZ
+WARC-Record-ID: <http://www.eument-net.eu>
+Content-Type: application/http;msgtype=response
+Content-Length: 34342
+
+HTTP/1.1 200
+Content-Type:text/html; charset=UTF-8
+
+
+<!DOCTYPE html>
+<!--[if IE 7]>
+<html class="ie ie7" lang="cs-CZ">
+<![endif]-->
+<!--[if IE 8]>
+<html class="ie ie8" lang="cs-CZ">
+<![endif]-->
+<!--[if !(IE 7) | !(IE 8)  ]><!-->
+<html lang="cs-CZ">
+<!--<![endif]-->
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width" />
+<title>eument-net</title>
+<link rel="profile" href="http://gmpg.org/xfn/11" />
+<link rel="pingback" href="http://www.eument-net.eu/xmlrpc.php" />
+<link rel="shortcut icon" href="http://www.eument-net.eu/wp-content/themes/twentytwelve-child/favicon.ico" />
+<link href="https://fonts.googleapis.com/css?family=Alegreya&amp;subset=latin-ext" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css?family=Roboto&amp;subset=latin-ext" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css?family=Quicksand|Raleway:400,700&amp;subset=latin-ext" rel="stylesheet">
+<!--[if lt IE 9]>
+<script src="http://www.eument-net.eu/wp-content/themes/twentytwelve/js/html5.js" type="text/javascript"></script>
+<![endif]-->
+<meta name="robots" content="index,follow" />
+<meta name="author" content="Pavel Ovesny, weby.pavelovesny.cz" />
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link href='https://fonts.gstatic.com' crossorigin rel='preconnect' />
+<link rel="alternate" type="application/rss+xml" title="eument-net &raquo; RSS zdroj" href="http://www.eument-net.eu/feed/" />
+<link rel="alternate" type="application/rss+xml" title="eument-net &raquo; RSS komentářů" href="http://www.eument-net.eu/comments/feed/" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.4\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.4\/svg\/","svgExt":".svg","source":{"concatemoji":"http:\/\/www.eument-net.eu\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.9.6"}};
+			!function(a,b,c){function d(a,b){var c=String.fromCharCode;l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,a),0,0);var d=k.toDataURL();l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,b),0,0);var e=k.toDataURL();return d===e}function e(a){var b;if(!l||!l.fillText)return!1;switch(l.textBaseline="top",l.font="600 32px Arial",a){case"flag":return!(b=d([55356,56826,55356,56819],[55356,56826,8203,55356,56819]))&&(b=d([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]),!b);case"emoji":return b=d([55357,56692,8205,9792,65039],[55357,56692,8203,9792,65039]),!b}return!1}function f(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var g,h,i,j,k=b.createElement("canvas"),l=k.getContext&&k.getContext("2d");for(j=Array("flag","emoji"),c.supports={everything:!0,everythingExceptFlag:!0},i=0;i<j.length;i++)c.supports[j[i]]=e(j[i]),c.supports.everything=c.supports.everything&&c.supports[j[i]],"flag"!==j[i]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[j[i]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(h=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",h,!1),a.addEventListener("load",h,!1)):(a.attachEvent("onload",h),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),g=c.source||{},g.concatemoji?f(g.concatemoji):g.wpemoji&&g.twemoji&&(f(g.twemoji),f(g.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='pt-cv-public-style-css'  href='http://www.eument-net.eu/wp-content/plugins/content-views-query-and-display-post-page/public/assets/css/cv.css?ver=1.9.9.6' type='text/css' media='all' />
+<link rel='stylesheet' id='hamburger.css-css'  href='http://www.eument-net.eu/wp-content/plugins/wp-responsive-menu/css/wpr-hamburger.css?ver=1.0' type='text/css' media='all' />
+<link rel='stylesheet' id='wprmenu.css-css'  href='http://www.eument-net.eu/wp-content/plugins/wp-responsive-menu/css/wprmenu.css?ver=1.0' type='text/css' media='all' />
+<link rel='stylesheet' id='wpr_icons-css'  href='http://www.eument-net.eu/wp-content/plugins/wp-responsive-menu/inc/icons/style.css?ver=1.0' type='text/css' media='all' />
+<link rel='stylesheet' id='wpfront-scroll-top-css'  href='http://www.eument-net.eu/wp-content/plugins/wpfront-scroll-top/css/wpfront-scroll-top.min.css?ver=1.6.2' type='text/css' media='all' />
+<link rel='stylesheet' id='parent-style-css'  href='http://www.eument-net.eu/wp-content/themes/twentytwelve/style.css?ver=4.9.6' type='text/css' media='all' />
+<link rel='stylesheet' id='child-style-css'  href='http://www.eument-net.eu/wp-content/themes/twentytwelve-child/style.css?ver=4.9.6' type='text/css' media='all' />
+<link rel='stylesheet' id='twentytwelve-fonts-css'  href='https://fonts.googleapis.com/css?family=Open+Sans:400italic,700italic,400,700&#038;subset=latin,latin-ext' type='text/css' media='all' />
+<link rel='stylesheet' id='twentytwelve-style-css'  href='http://www.eument-net.eu/wp-content/themes/twentytwelve-child/style.css?ver=4.9.6' type='text/css' media='all' />
+<!--[if lt IE 9]>
+<link rel='stylesheet' id='twentytwelve-ie-css'  href='http://www.eument-net.eu/wp-content/themes/twentytwelve/css/ie.css?ver=20121010' type='text/css' media='all' />
+<![endif]-->
+<link rel='stylesheet' id='mediaelement-css'  href='http://www.eument-net.eu/wp-includes/js/mediaelement/mediaelementplayer-legacy.min.css?ver=4.2.6-78496d1' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-mediaelement-css'  href='http://www.eument-net.eu/wp-includes/js/mediaelement/wp-mediaelement.min.css?ver=4.9.6' type='text/css' media='all' />
+<link rel='stylesheet' id='views-pagination-style-css'  href='http://www.eument-net.eu/wp-content/plugins/wp-views/embedded/res/css/wpv-pagination.css?ver=2.5.2' type='text/css' media='all' />
+<style id='views-pagination-style-inline-css' type='text/css'>
+.wpv-sort-list-dropdown.wpv-sort-list-dropdown-style-default > span.wpv-sort-list,.wpv-sort-list-dropdown.wpv-sort-list-dropdown-style-default .wpv-sort-list-item {border-color: #cdcdcd;}.wpv-sort-list-dropdown.wpv-sort-list-dropdown-style-default .wpv-sort-list-item a {color: #444;background-color: #fff;}.wpv-sort-list-dropdown.wpv-sort-list-dropdown-style-default a:hover,.wpv-sort-list-dropdown.wpv-sort-list-dropdown-style-default a:focus {color: #000;background-color: #eee;}.wpv-sort-list-dropdown.wpv-sort-list-dropdown-style-default .wpv-sort-list-item.wpv-sort-list-current a {color: #000;background-color: #eee;}.wpv-sort-list-dropdown.wpv-sort-list-dropdown-style-grey > span.wpv-sort-list,.wpv-sort-list-dropdown.wpv-sort-list-dropdown-style-grey .wpv-sort-list-item {border-color: #cdcdcd;}.wpv-sort-list-dropdown.wpv-sort-list-dropdown-style-grey .wpv-sort-list-item a {color: #444;background-color: #eeeeee;}.wpv-sort-list-dropdown.wpv-sort-list-dropdown-style-grey a:hover,.wpv-sort-list-dropdown.wpv-sort-list-dropdown-style-grey a:focus {color: #000;background-color: #e5e5e5;}.wpv-sort-list-dropdown.wpv-sort-list-dropdown-style-grey .wpv-sort-list-item.wpv-sort-list-current a {color: #000;background-color: #e5e5e5;}.wpv-sort-list-dropdown.wpv-sort-list-dropdown-style-blue > span.wpv-sort-list,.wpv-sort-list-dropdown.wpv-sort-list-dropdown-style-blue .wpv-sort-list-item {border-color: #0099cc;}.wpv-sort-list-dropdown.wpv-sort-list-dropdown-style-blue .wpv-sort-list-item a {color: #444;background-color: #cbddeb;}.wpv-sort-list-dropdown.wpv-sort-list-dropdown-style-blue a:hover,.wpv-sort-list-dropdown.wpv-sort-list-dropdown-style-blue a:focus {color: #000;background-color: #95bedd;}.wpv-sort-list-dropdown.wpv-sort-list-dropdown-style-blue .wpv-sort-list-item.wpv-sort-list-current a {color: #000;background-color: #95bedd;}
+</style>
+<script type='text/javascript' src='http://www.eument-net.eu/wp-includes/js/jquery/jquery.js?ver=1.12.4'></script>
+<script type='text/javascript' src='http://www.eument-net.eu/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
+<script type='text/javascript' src='http://www.eument-net.eu/wp-content/plugins/wp-responsive-menu/js/modernizr.custom.js?ver=1.0'></script>
+<script type='text/javascript' src='http://www.eument-net.eu/wp-content/plugins/wp-responsive-menu/js/jquery.touchSwipe.min.js?ver=1.0'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var wprmenu = {"zooming":"","from_width":"","push_width":"","menu_width":"","parent_click":"","swipe":""};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://www.eument-net.eu/wp-content/plugins/wp-responsive-menu/js/wprmenu.js?ver=1.0'></script>
+<script type='text/javascript'>
+var mejsL10n = {"language":"cs","strings":{"mejs.install-flash":"Pou\u017e\u00edv\u00e1te prohl\u00ed\u017ee\u010d, kter\u00fd nem\u00e1 nainstalovan\u00fd nebo povolen\u00fd Flash Player. Zapn\u011bte Flash Player nebo si st\u00e1hn\u011bte nejnov\u011bj\u0161\u00ed verzi z adresy https:\/\/get.adobe.com\/flashplayer\/","mejs.fullscreen-off":"Zru\u0161it re\u017eim cel\u00e9 obrazovky","mejs.fullscreen-on":"Cel\u00e1 obrazovka","mejs.download-video":"St\u00e1hnout video","mejs.fullscreen":"Cel\u00e1 obrazovka","mejs.time-jump-forward":["Vp\u0159ed o 1 sekundu","Vp\u0159ed o %1 sekund"],"mejs.loop":"Ovl\u00e1d\u00e1n\u00ed opakov\u00e1n\u00ed","mejs.play":"P\u0159ehr\u00e1t","mejs.pause":"Pozastavit","mejs.close":"Zav\u0159\u00edt","mejs.time-slider":"\u010casov\u00fd posuvn\u00edk","mejs.time-help-text":"Pou\u017eit\u00edm \u0161ipek vlevo\/vpravo se posunete o jednu sekundu, \u0161ipkami nahoru\/dol\u016f se posunete o deset sekund.","mejs.time-skip-back":["Zp\u011bt on 1 sekundu","Vr\u00e1tit se zp\u011bt o %1 sekund"],"mejs.captions-subtitles":"Titulky","mejs.captions-chapters":"Kapitoly","mejs.none":"\u017d\u00e1dn\u00e9","mejs.mute-toggle":"Ovl\u00e1d\u00e1n\u00ed zvuku","mejs.volume-help-text":"Pou\u017eit\u00edm \u0161ipek nahoru\/dol\u016f zv\u00fd\u0161\u00edte nebo sn\u00ed\u017e\u00edte \u00farove\u0148 hlasitosti.","mejs.unmute":"Zapnout zvuk","mejs.mute":"Ztlumit","mejs.volume-slider":"Ovl\u00e1d\u00e1n\u00ed hlasitosti","mejs.video-player":"Video p\u0159ehr\u00e1va\u010d","mejs.audio-player":"Audio p\u0159ehr\u00e1va\u010d","mejs.ad-skip":"P\u0159esko\u010dit reklamu","mejs.ad-skip-info":["P\u0159esko\u010dit na video budete moci za 1 sekundu","P\u0159esko\u010dit na video budete moci za %1 sekund"],"mejs.source-chooser":"V\u00fdb\u011br zdroje","mejs.stop":"Zastavit","mejs.speed-rate":"Rychlost","mejs.live-broadcast":"\u017div\u011b","mejs.afrikaans":"Afrik\u00e1n\u0161tina","mejs.albanian":"Alb\u00e1n\u0161tina","mejs.arabic":"Arab\u0161tina","mejs.belarusian":"B\u011bloru\u0161tina","mejs.bulgarian":"Bulhar\u0161tina","mejs.catalan":"Katal\u00e1n\u0161tina","mejs.chinese":"\u010c\u00edn\u0161tina","mejs.chinese-simplified":"\u010c\u00edn\u0161tina (zjednodu\u0161en\u00e1)","mejs.chinese-traditional":"\u010c\u00edn\u0161tina (tradi\u010dn\u00ed)","mejs.croatian":"Chorvat\u0161tina","mejs.czech":"\u010ce\u0161tina","mejs.danish":"D\u00e1n\u0161tina","mejs.dutch":"Holand\u0161tina","mejs.english":"Angli\u010dtina","mejs.estonian":"Eston\u0161tina","mejs.filipino":"Filip\u00edn\u0161tina","mejs.finnish":"Dokon\u010dit","mejs.french":"Francou\u017e\u0161tina","mejs.galician":"Galicij\u0161tina","mejs.german":"N\u011bm\u010dina","mejs.greek":"\u0158e\u010dtina","mejs.haitian-creole":"Haitsk\u00e1 kreol\u0161tina","mejs.hebrew":"Hebrej\u0161tina","mejs.hindi":"Hind\u0161tina","mejs.hungarian":"Ma\u010far\u0161tina","mejs.icelandic":"Island\u0161tina","mejs.indonesian":"Indon\u00e9\u0161tina","mejs.irish":"Ir\u0161tina","mejs.italian":"Ital\u0161tina","mejs.japanese":"Japon\u0161tina","mejs.korean":"Korej\u0161tina","mejs.latvian":"Loty\u0161tina","mejs.lithuanian":"Litev\u0161tina","mejs.macedonian":"Makedon\u0161tina","mejs.malay":"Malaj\u0161tina","mejs.maltese":"Malt\u0161tina","mejs.norwegian":"Nor\u0161tina","mejs.persian":"Per\u0161tina","mejs.polish":"Pol\u0161tina","mejs.portuguese":"Portugal\u0161tina","mejs.romanian":"Rumun\u0161tina","mejs.russian":"Ru\u0161tina","mejs.serbian":"Srb\u0161tina","mejs.slovak":"Sloven\u0161tina","mejs.slovenian":"Slovin\u0161tina","mejs.spanish":"\u0160pan\u011bl\u0161tina","mejs.swahili":"Svahil\u0161tina","mejs.swedish":"\u0160v\u00e9d\u0161tina","mejs.tagalog":"Tagal\u0161tina","mejs.thai":"Thaj\u0161tina","mejs.turkish":"Ture\u010dtina","mejs.ukrainian":"Ukrajin\u0161tina","mejs.vietnamese":"Vietnam\u0161tina","mejs.welsh":"Vel\u0161tina","mejs.yiddish":"Jidi\u0161"}};
+var mejsL10n = {"language":"cs","strings":{"mejs.install-flash":"Pou\u017e\u00edv\u00e1te prohl\u00ed\u017ee\u010d, kter\u00fd nem\u00e1 nainstalovan\u00fd nebo povolen\u00fd Flash Player. Zapn\u011bte Flash Player nebo si st\u00e1hn\u011bte nejnov\u011bj\u0161\u00ed verzi z adresy https:\/\/get.adobe.com\/flashplayer\/","mejs.fullscreen-off":"Zru\u0161it re\u017eim cel\u00e9 obrazovky","mejs.fullscreen-on":"Cel\u00e1 obrazovka","mejs.download-video":"St\u00e1hnout video","mejs.fullscreen":"Cel\u00e1 obrazovka","mejs.time-jump-forward":["Vp\u0159ed o 1 sekundu","Vp\u0159ed o %1 sekund"],"mejs.loop":"Ovl\u00e1d\u00e1n\u00ed opakov\u00e1n\u00ed","mejs.play":"P\u0159ehr\u00e1t","mejs.pause":"Pozastavit","mejs.close":"Zav\u0159\u00edt","mejs.time-slider":"\u010casov\u00fd posuvn\u00edk","mejs.time-help-text":"Pou\u017eit\u00edm \u0161ipek vlevo\/vpravo se posunete o jednu sekundu, \u0161ipkami nahoru\/dol\u016f se posunete o deset sekund.","mejs.time-skip-back":["Zp\u011bt on 1 sekundu","Vr\u00e1tit se zp\u011bt o %1 sekund"],"mejs.captions-subtitles":"Titulky","mejs.captions-chapters":"Kapitoly","mejs.none":"\u017d\u00e1dn\u00e9","mejs.mute-toggle":"Ovl\u00e1d\u00e1n\u00ed zvuku","mejs.volume-help-text":"Pou\u017eit\u00edm \u0161ipek nahoru\/dol\u016f zv\u00fd\u0161\u00edte nebo sn\u00ed\u017e\u00edte \u00farove\u0148 hlasitosti.","mejs.unmute":"Zapnout zvuk","mejs.mute":"Ztlumit","mejs.volume-slider":"Ovl\u00e1d\u00e1n\u00ed hlasitosti","mejs.video-player":"Video p\u0159ehr\u00e1va\u010d","mejs.audio-player":"Audio p\u0159ehr\u00e1va\u010d","mejs.ad-skip":"P\u0159esko\u010dit reklamu","mejs.ad-skip-info":["P\u0159esko\u010dit na video budete moci za 1 sekundu","P\u0159esko\u010dit na video budete moci za %1 sekund"],"mejs.source-chooser":"V\u00fdb\u011br zdroje","mejs.stop":"Zastavit","mejs.speed-rate":"Rychlost","mejs.live-broadcast":"\u017div\u011b","mejs.afrikaans":"Afrik\u00e1n\u0161tina","mejs.albanian":"Alb\u00e1n\u0161tina","mejs.arabic":"Arab\u0161tina","mejs.belarusian":"B\u011bloru\u0161tina","mejs.bulgarian":"Bulhar\u0161tina","mejs.catalan":"Katal\u00e1n\u0161tina","mejs.chinese":"\u010c\u00edn\u0161tina","mejs.chinese-simplified":"\u010c\u00edn\u0161tina (zjednodu\u0161en\u00e1)","mejs.chinese-traditional":"\u010c\u00edn\u0161tina (tradi\u010dn\u00ed)","mejs.croatian":"Chorvat\u0161tina","mejs.czech":"\u010ce\u0161tina","mejs.danish":"D\u00e1n\u0161tina","mejs.dutch":"Holand\u0161tina","mejs.english":"Angli\u010dtina","mejs.estonian":"Eston\u0161tina","mejs.filipino":"Filip\u00edn\u0161tina","mejs.finnish":"Dokon\u010dit","mejs.french":"Francou\u017e\u0161tina","mejs.galician":"Galicij\u0161tina","mejs.german":"N\u011bm\u010dina","mejs.greek":"\u0158e\u010dtina","mejs.haitian-creole":"Haitsk\u00e1 kreol\u0161tina","mejs.hebrew":"Hebrej\u0161tina","mejs.hindi":"Hind\u0161tina","mejs.hungarian":"Ma\u010far\u0161tina","mejs.icelandic":"Island\u0161tina","mejs.indonesian":"Indon\u00e9\u0161tina","mejs.irish":"Ir\u0161tina","mejs.italian":"Ital\u0161tina","mejs.japanese":"Japon\u0161tina","mejs.korean":"Korej\u0161tina","mejs.latvian":"Loty\u0161tina","mejs.lithuanian":"Litev\u0161tina","mejs.macedonian":"Makedon\u0161tina","mejs.malay":"Malaj\u0161tina","mejs.maltese":"Malt\u0161tina","mejs.norwegian":"Nor\u0161tina","mejs.persian":"Per\u0161tina","mejs.polish":"Pol\u0161tina","mejs.portuguese":"Portugal\u0161tina","mejs.romanian":"Rumun\u0161tina","mejs.russian":"Ru\u0161tina","mejs.serbian":"Srb\u0161tina","mejs.slovak":"Sloven\u0161tina","mejs.slovenian":"Slovin\u0161tina","mejs.spanish":"\u0160pan\u011bl\u0161tina","mejs.swahili":"Svahil\u0161tina","mejs.swedish":"\u0160v\u00e9d\u0161tina","mejs.tagalog":"Tagal\u0161tina","mejs.thai":"Thaj\u0161tina","mejs.turkish":"Ture\u010dtina","mejs.ukrainian":"Ukrajin\u0161tina","mejs.vietnamese":"Vietnam\u0161tina","mejs.welsh":"Vel\u0161tina","mejs.yiddish":"Jidi\u0161"}};
+</script>
+<script type='text/javascript' src='http://www.eument-net.eu/wp-includes/js/mediaelement/mediaelement-and-player.min.js?ver=4.2.6-78496d1'></script>
+<script type='text/javascript' src='http://www.eument-net.eu/wp-includes/js/mediaelement/mediaelement-migrate.min.js?ver=4.9.6'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var _wpmejsSettings = {"pluginPath":"\/wp-includes\/js\/mediaelement\/","classPrefix":"mejs-","stretching":"responsive"};
+var _wpmejsSettings = {"pluginPath":"\/wp-includes\/js\/mediaelement\/","classPrefix":"mejs-","stretching":"responsive"};
+/* ]]> */
+</script>
+<link rel='https://api.w.org/' href='http://www.eument-net.eu/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www.eument-net.eu/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://www.eument-net.eu/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 4.9.6" />
+<link rel="canonical" href="http://www.eument-net.eu/" />
+<link rel='shortlink' href='http://www.eument-net.eu/' />
+<link rel="alternate" type="application/json+oembed" href="http://www.eument-net.eu/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fwww.eument-net.eu%2F" />
+<link rel="alternate" type="text/xml+oembed" href="http://www.eument-net.eu/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fwww.eument-net.eu%2F&#038;format=xml" />
+</head>
+
+<body class="home page-template-default page page-id-13 page-parent cs-CZ custom-font-enabled">
+
+<div id="top-header">
+  <div class="container">
+  <a href="http://www.eument-net.eu/" title="eument-net" rel="home" class="homelogo"><img src="http://www.eument-net.eu/wp-content/uploads/2017/11/eumentnet_logo_icon.png" align="left"><span>eument-net</span> european network of mentoring programmes</a>
+	</div>
+</div>
+
+<header id="header-image">
+</header><!-- #masthead -->
+
+<nav id="site-navigation" class="main-navigation" role="navigation">
+  <div class="container">
+  <h3 class="menu-toggle">Menu</h3>
+	<a class="assistive-text" href="#content" title="Přejít k obsahu webu">Přejít k obsahu webu</a>
+	<div class="menu-menu-container"><ul id="menu-menu" class="nav-menu"><li id="menu-item-15" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-13 current_page_item menu-item-15"><a href="http://www.eument-net.eu/">Home</a></li>
+<li id="menu-item-16" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-16"><a href="http://www.eument-net.eu/home/news/">News</a></li>
+<li id="menu-item-43" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-43"><a href="http://www.eument-net.eu/documents/">Documents</a></li>
+<li id="menu-item-9" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-9"><a href="http://www.eument-net.eu/eument-net/">Eument-net</a></li>
+<li id="menu-item-40" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-40"><a href="http://www.eument-net.eu/members/">Members</a></li>
+<li id="menu-item-10" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10"><a href="http://www.eument-net.eu/contact/">Contact</a></li>
+</ul></div>  </div>
+</nav><!-- #site-navigation -->
+
+<div id="main" class="container">
+	<div id="primary" class="site-content">
+		<div id="content" role="main">
+
+							
+	<article id="post-13" class="post-13 page type-page status-publish has-post-thumbnail hentry">
+		<header class="entry-header">
+						<img width="624" height="185" src="http://www.eument-net.eu/wp-content/uploads/2017/12/mentoring_zahlavi_cb-624x185.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="home" srcset="http://www.eument-net.eu/wp-content/uploads/2017/12/mentoring_zahlavi_cb-624x185.jpg 624w, http://www.eument-net.eu/wp-content/uploads/2017/12/mentoring_zahlavi_cb-300x89.jpg 300w, http://www.eument-net.eu/wp-content/uploads/2017/12/mentoring_zahlavi_cb-768x227.jpg 768w, http://www.eument-net.eu/wp-content/uploads/2017/12/mentoring_zahlavi_cb-1024x303.jpg 1024w, http://www.eument-net.eu/wp-content/uploads/2017/12/mentoring_zahlavi_cb.jpg 1440w" sizes="(max-width: 624px) 100vw, 624px" />						<h1 class="entry-title">Home</h1>
+		</header>
+
+		<div class="entry-content">
+			<h2>eument-net &#8211; European Network of Mentoring Programmes<br />
+for the Advancement of Equal Opportunities and Cultural<br />
+and Institutional Change in Academia and Research</h2>
+<p>Since 2007, we help to develop and improve mentoring programs in academia and research. Until today we have 27 members.</p>
+<p>The website is designed especially for:</p>
+<ul>
+<li>coordinators of mentoring programs dedicated to advancement of equal opportunities in academia and research</li>
+<li>coordinators of projects of cultural and Institutional change</li>
+<li>stakeholders in science and research policy, planning to implement mentoring programs in their institution</li>
+<li>gender equality officers in universities and other research institutions.</li>
+</ul>
+<p>We are also looking forward to your questions and comments on eument-net.</p>
+<p>&nbsp;</p>
+<h2>News</h2>
+<div class="pt-cv-wrapper"><div class="pt-cv-view pt-cv-grid pt-cv-colsys" id="pt-cv-view-4c3c725u7p"><div data-id="pt-cv-page-1" class="pt-cv-page" data-cvc="3"><div class="col-md-4 col-sm-6 col-xs-12 pt-cv-content-item pt-cv-1-col" ><div class='pt-cv-ifield'><a href="http://www.eument-net.eu/10th-european-conference-on-gender-equality-in-higher-education/" class="_self pt-cv-href-thumbnail pt-cv-thumb-default" target="_self" ><img width="282" height="194" src="http://www.eument-net.eu/wp-content/uploads/2018/04/gehe.png" class="pt-cv-thumbnail" alt="" /></a>
+<h3 class="pt-cv-title"><a href="http://www.eument-net.eu/10th-european-conference-on-gender-equality-in-higher-education/" class="_self" target="_self" >10th European Conference on Gender Equality in Higher Education</a></h3>
+<div class="pt-cv-content">eument-net will have a panel Mentoring programmes - a part of ...<br /><a href="http://www.eument-net.eu/10th-european-conference-on-gender-equality-in-higher-education/" class="_self pt-cv-readmore btn btn-success" target="_self" >více »</a></div></div></div>
+<div class="col-md-4 col-sm-6 col-xs-12 pt-cv-content-item pt-cv-1-col" ><div class='pt-cv-ifield'><a href="http://www.eument-net.eu/eument-net-epws-interview-of-the-month/" class="_self pt-cv-href-thumbnail pt-cv-thumb-default" target="_self" ><img width="269" height="79" src="http://www.eument-net.eu/wp-content/uploads/2018/04/epws2.png" class="pt-cv-thumbnail" alt="" /></a>
+<h3 class="pt-cv-title"><a href="http://www.eument-net.eu/eument-net-epws-interview-of-the-month/" class="_self" target="_self" >eument-net &#8211; EPWS interview of the month</a></h3>
+<div class="pt-cv-content">In March 2018, eument-net gave an interview to EPWS as ...<br /><a href="http://www.eument-net.eu/eument-net-epws-interview-of-the-month/" class="_self pt-cv-readmore btn btn-success" target="_self" >více »</a></div></div></div>
+<div class="col-md-4 col-sm-6 col-xs-12 pt-cv-content-item pt-cv-1-col" ><div class='pt-cv-ifield'><a href="http://www.eument-net.eu/mentoring-tool-for-development-of-diversity-internationalism-and-interdisciplinarity-in-science-academia/" class="_self pt-cv-href-thumbnail pt-cv-thumb-default" target="_self" ><img width="300" height="200" src="http://www.eument-net.eu/wp-content/uploads/2018/01/mentoring_konference_23112017_44-300x200.jpg" class="pt-cv-thumbnail" alt="nkc" srcset="http://www.eument-net.eu/wp-content/uploads/2018/01/mentoring_konference_23112017_44-300x200.jpg 300w, http://www.eument-net.eu/wp-content/uploads/2018/01/mentoring_konference_23112017_44-768x512.jpg 768w, http://www.eument-net.eu/wp-content/uploads/2018/01/mentoring_konference_23112017_44-1024x683.jpg 1024w, http://www.eument-net.eu/wp-content/uploads/2018/01/mentoring_konference_23112017_44-624x416.jpg 624w, http://www.eument-net.eu/wp-content/uploads/2018/01/mentoring_konference_23112017_44-272x182.jpg 272w, http://www.eument-net.eu/wp-content/uploads/2018/01/mentoring_konference_23112017_44.jpg 1440w" sizes="(max-width: 300px) 100vw, 300px" /></a>
+<h3 class="pt-cv-title"><a href="http://www.eument-net.eu/mentoring-tool-for-development-of-diversity-internationalism-and-interdisciplinarity-in-science-academia/" class="_self" target="_self" >Mentoring – tool for development of diversity, internationalism and interdisciplinarity in science/academia</a></h3>
+<div class="pt-cv-content">A tool to develop gender equality, diversity, internationalism and interdisciplinarity ...<br /><a href="http://www.eument-net.eu/mentoring-tool-for-development-of-diversity-internationalism-and-interdisciplinarity-in-science-academia/" class="_self pt-cv-readmore btn btn-success" target="_self" >více »</a></div></div></div></div></div></div>
+					</div><!-- .entry-content -->
+		<footer class="entry-meta">
+					</footer><!-- .entry-meta -->
+	</article><!-- #post -->
+				
+<div id="comments" class="comments-area">
+
+	
+	
+	
+</div><!-- #comments .comments-area -->			
+		</div><!-- #content -->
+	</div><!-- #primary -->
+
+
+			<div id="secondary" class="widget-area" role="complementary">
+			<aside id="meta-2" class="widget widget_meta"><h3 class="widget-title">Základní informace</h3>			<ul>
+						<li><a href="http://www.eument-net.eu/prihlasit">Přihlásit se</a></li>
+			<li><a href="http://www.eument-net.eu/feed/"><abbr title="RSS zdroj (Really Simple Syndication)">RSS</abbr> (příspěvky)</a></li>
+			<li><a href="http://www.eument-net.eu/comments/feed/"><abbr title="RSS zdroj (Really Simple Syndication)">RSS</abbr> (komentáře)</a></li>
+			<li><a href="https://cs.wordpress.org/" title="Používáme WordPress (nejmodernější sémantický osobní redakční systém).">Čeština pro WordPress</a></li>			</ul>
+			</aside>		</div><!-- #secondary -->
+	</div><!-- #main .wrapper -->
+
+
+<footer id="colophon" role="contentinfo">
+    	<div id="footer-widgets" class="container">
+  		<div class="fullwidth-widgets">
+  			        <p class="copyright">© eument-net</p>
+  		</div>
+  	</div><!-- #footer-widgets -->
+  </footer><!-- #colophon -->
+
+<script type="text/html" id="tmpl-wp-playlist-current-item">
+	<# if ( data.image ) { #>
+	<img src="{{ data.thumb.src }}" alt="" />
+	<# } #>
+	<div class="wp-playlist-caption">
+		<span class="wp-playlist-item-meta wp-playlist-item-title">&#8222;{{ data.title }}&#8220;</span>
+		<# if ( data.meta.album ) { #><span class="wp-playlist-item-meta wp-playlist-item-album">{{ data.meta.album }}</span><# } #>
+		<# if ( data.meta.artist ) { #><span class="wp-playlist-item-meta wp-playlist-item-artist">{{ data.meta.artist }}</span><# } #>
+	</div>
+</script>
+<script type="text/html" id="tmpl-wp-playlist-item">
+	<div class="wp-playlist-item">
+		<a class="wp-playlist-caption" href="{{ data.src }}">
+			{{ data.index ? ( data.index + '. ' ) : '' }}
+			<# if ( data.caption ) { #>
+				{{ data.caption }}
+			<# } else { #>
+				<span class="wp-playlist-item-title">&#8222;{{{ data.title }}}&#8220;</span>
+				<# if ( data.artists && data.meta.artist ) { #>
+				<span class="wp-playlist-item-artist"> &mdash; {{ data.meta.artist }}</span>
+				<# } #>
+			<# } #>
+		</a>
+		<# if ( data.meta.length_formatted ) { #>
+		<div class="wp-playlist-item-length">{{ data.meta.length_formatted }}</div>
+		<# } #>
+	</div>
+</script>
+
+<div id="views-extra-css-ie7" style="display:none;" aria-hidden="true">
+<!--[if IE 7]><style>
+.wpv-pagination { *zoom: 1; }
+</style><![endif]-->
+</div>
+
+<script type="text/javascript">
+jQuery( document ).ready( function( $ ) {
+	var extra_css = $( "#views-extra-css" ) ? $( "#views-extra-css" ).text() : null;	if( extra_css ) {		$( 'head' ).append( '<style style="text/css" media="screen">' + extra_css + '</style>' );
+		$( "#views-extra-css" ).remove();	}
+	$( 'head' ).append( $( "#views-extra-css-ie7" ).html() );
+	$( "#views-extra-css-ie7" ).remove();});
+</script>
+
+
+
+    <div id="wpfront-scroll-top-container"><img src="http://www.eument-net.eu/wp-content/plugins/wpfront-scroll-top/images/icons/1.png" alt="" /></div>
+    <script type="text/javascript">function wpfront_scroll_top_init() {if(typeof wpfront_scroll_top == "function" && typeof jQuery !== "undefined") {wpfront_scroll_top({"scroll_offset":100,"button_width":0,"button_height":0,"button_opacity":0.8,"button_fade_duration":200,"scroll_duration":400,"location":1,"marginX":20,"marginY":20,"hide_iframe":false,"auto_hide":false,"auto_hide_after":2});} else {setTimeout(wpfront_scroll_top_init, 100);}}wpfront_scroll_top_init();</script><script type='text/javascript'>
+/* <![CDATA[ */
+var PT_CV_PUBLIC = {"_prefix":"pt-cv-","page_to_show":"5","_nonce":"8f6ff438d4","is_admin":"","is_mobile":"","ajaxurl":"http:\/\/www.eument-net.eu\/wp-admin\/admin-ajax.php","lang":"","loading_image_src":"data:image\/gif;base64,R0lGODlhDwAPALMPAMrKygwMDJOTkz09PZWVla+vr3p6euTk5M7OzuXl5TMzMwAAAJmZmWZmZszMzP\/\/\/yH\/C05FVFNDQVBFMi4wAwEAAAAh+QQFCgAPACwAAAAADwAPAAAEQvDJaZaZOIcV8iQK8VRX4iTYoAwZ4iCYoAjZ4RxejhVNoT+mRGP4cyF4Pp0N98sBGIBMEMOotl6YZ3S61Bmbkm4mAgAh+QQFCgAPACwAAAAADQANAAAENPDJSRSZeA418itN8QiK8BiLITVsFiyBBIoYqnoewAD4xPw9iY4XLGYSjkQR4UAUD45DLwIAIfkEBQoADwAsAAAAAA8ACQAABC\/wyVlamTi3nSdgwFNdhEJgTJoNyoB9ISYoQmdjiZPcj7EYCAeCF1gEDo4Dz2eIAAAh+QQFCgAPACwCAAAADQANAAAEM\/DJBxiYeLKdX3IJZT1FU0iIg2RNKx3OkZVnZ98ToRD4MyiDnkAh6BkNC0MvsAj0kMpHBAAh+QQFCgAPACwGAAAACQAPAAAEMDC59KpFDll73HkAA2wVY5KgiK5b0RRoI6MuzG6EQqCDMlSGheEhUAgqgUUAFRySIgAh+QQFCgAPACwCAAIADQANAAAEM\/DJKZNLND\/kkKaHc3xk+QAMYDKsiaqmZCxGVjSFFCxB1vwy2oOgIDxuucxAMTAJFAJNBAAh+QQFCgAPACwAAAYADwAJAAAEMNAs86q1yaWwwv2Ig0jUZx3OYa4XoRAfwADXoAwfo1+CIjyFRuEho60aSNYlOPxEAAAh+QQFCgAPACwAAAIADQANAAAENPA9s4y8+IUVcqaWJ4qEQozSoAzoIyhCK2NFU2SJk0hNnyEOhKR2AzAAj4Pj4GE4W0bkJQIAOw=="};
+var PT_CV_PAGINATION = {"first":"\u00ab","prev":"\u2039","next":"\u203a","last":"\u00bb","goto_first":"Go to first page","goto_prev":"Go to previous page","goto_next":"Go to next page","goto_last":"Go to last page","current_page":"Current page is","goto_page":"Go to page"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://www.eument-net.eu/wp-content/plugins/content-views-query-and-display-post-page/public/assets/js/cv.js?ver=1.9.9.6'></script>
+<script type='text/javascript' src='http://www.eument-net.eu/wp-content/plugins/wpfront-scroll-top/js/wpfront-scroll-top.min.js?ver=1.6.2'></script>
+<script type='text/javascript' src='http://www.eument-net.eu/wp-content/themes/twentytwelve/js/navigation.js?ver=20140711'></script>
+<script type='text/javascript' src='http://www.eument-net.eu/wp-includes/js/jquery/ui/core.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='http://www.eument-net.eu/wp-includes/js/jquery/ui/datepicker.min.js?ver=1.11.4'></script>
+<script type='text/javascript'>
+jQuery(document).ready(function(jQuery){jQuery.datepicker.setDefaults({"closeText":"Zav\u0159\u00edt","currentText":"Dnes","monthNames":["Leden","\u00danor","B\u0159ezen","Duben","Kv\u011bten","\u010cerven","\u010cervenec","Srpen","Z\u00e1\u0159\u00ed","\u0158\u00edjen","Listopad","Prosinec"],"monthNamesShort":["Led","\u00dano","B\u0159e","Dub","Kv\u011b","\u010cvn","\u010cvc","Srp","Z\u00e1\u0159","\u0158\u00edj","Lis","Pro"],"nextText":"Dal\u0161\u00ed","prevText":"P\u0159edchoz\u00ed","dayNames":["Ned\u011ble","Pond\u011bl\u00ed","\u00dater\u00fd","St\u0159eda","\u010ctvrtek","P\u00e1tek","Sobota"],"dayNamesShort":["Ne","Po","\u00dat","St","\u010ct","P\u00e1","So"],"dayNamesMin":["Ne","Po","\u00dat","St","\u010ct","P\u00e1","So"],"dateFormat":"d.mm.yy","firstDay":1,"isRTL":false});});
+</script>
+<script type='text/javascript' src='http://www.eument-net.eu/wp-includes/js/mediaelement/wp-mediaelement.min.js?ver=4.9.6'></script>
+<script type='text/javascript' src='http://www.eument-net.eu/wp-includes/js/underscore.min.js?ver=1.8.3'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var _wpUtilSettings = {"ajax":{"url":"\/wp-admin\/admin-ajax.php"}};
+var _wpUtilSettings = {"ajax":{"url":"\/wp-admin\/admin-ajax.php"}};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://www.eument-net.eu/wp-includes/js/wp-util.min.js?ver=4.9.6'></script>
+<script type='text/javascript' src='http://www.eument-net.eu/wp-includes/js/backbone.min.js?ver=1.2.3'></script>
+<script type='text/javascript' src='http://www.eument-net.eu/wp-includes/js/mediaelement/wp-playlist.min.js?ver=4.9.6'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var wpv_pagination_local = {"front_ajaxurl":"http:\/\/www.eument-net.eu\/wp-admin\/admin-ajax.php","calendar_image":"http:\/\/www.eument-net.eu\/wp-content\/plugins\/wp-views\/embedded\/res\/img\/calendar.gif","calendar_text":"Select date","datepicker_min_date":null,"datepicker_max_date":null,"resize_debounce_tolerance":"100","datepicker_style_url":"http:\/\/www.eument-net.eu\/wp-content\/plugins\/wp-views\/vendor\/toolset\/toolset-common\/toolset-forms\/css\/wpt-jquery-ui\/jquery-ui-1.11.4.custom.css"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://www.eument-net.eu/wp-content/plugins/wp-views/embedded/res/js/wpv-pagination-embedded.js?ver=2.5.2'></script>
+<script type='text/javascript' src='http://www.eument-net.eu/wp-includes/js/wp-embed.min.js?ver=4.9.6'></script>
+
+</body>
+</html>
+
+WARC/1.0
+WARC-Type: response
+WARC-Target-URI: http://www.eument-net.eu
+WARC-Date: 20180530181832
+WARC-Language: cs-CZ
+WARC-Record-ID: <http://www.eument-net.eu>
+Content-Type: application/http;msgtype=response
+Content-Length: 34342
+
+HTTP/1.1 200
+Content-Type:text/html; charset=UTF-8
+
+
+<!DOCTYPE html>
+<!--[if IE 7]>
+<html class="ie ie7" lang="cs-CZ">
+<![endif]-->
+<!--[if IE 8]>
+<html class="ie ie8" lang="cs-CZ">
+<![endif]-->
+<!--[if !(IE 7) | !(IE 8)  ]><!-->
+<html lang="cs-CZ">
+<!--<![endif]-->
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width" />
+<title>eument-net</title>
+<link rel="profile" href="http://gmpg.org/xfn/11" />
+<link rel="pingback" href="http://www.eument-net.eu/xmlrpc.php" />
+<link rel="shortcut icon" href="http://www.eument-net.eu/wp-content/themes/twentytwelve-child/favicon.ico" />
+<link href="https://fonts.googleapis.com/css?family=Alegreya&amp;subset=latin-ext" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css?family=Roboto&amp;subset=latin-ext" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css?family=Quicksand|Raleway:400,700&amp;subset=latin-ext" rel="stylesheet">
+<!--[if lt IE 9]>
+<script src="http://www.eument-net.eu/wp-content/themes/twentytwelve/js/html5.js" type="text/javascript"></script>
+<![endif]-->
+<meta name="robots" content="index,follow" />
+<meta name="author" content="Pavel Ovesny, weby.pavelovesny.cz" />
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link href='https://fonts.gstatic.com' crossorigin rel='preconnect' />
+<link rel="alternate" type="application/rss+xml" title="eument-net &raquo; RSS zdroj" href="http://www.eument-net.eu/feed/" />
+<link rel="alternate" type="application/rss+xml" title="eument-net &raquo; RSS komentářů" href="http://www.eument-net.eu/comments/feed/" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.4\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.4\/svg\/","svgExt":".svg","source":{"concatemoji":"http:\/\/www.eument-net.eu\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.9.6"}};
+			!function(a,b,c){function d(a,b){var c=String.fromCharCode;l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,a),0,0);var d=k.toDataURL();l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,b),0,0);var e=k.toDataURL();return d===e}function e(a){var b;if(!l||!l.fillText)return!1;switch(l.textBaseline="top",l.font="600 32px Arial",a){case"flag":return!(b=d([55356,56826,55356,56819],[55356,56826,8203,55356,56819]))&&(b=d([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]),!b);case"emoji":return b=d([55357,56692,8205,9792,65039],[55357,56692,8203,9792,65039]),!b}return!1}function f(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var g,h,i,j,k=b.createElement("canvas"),l=k.getContext&&k.getContext("2d");for(j=Array("flag","emoji"),c.supports={everything:!0,everythingExceptFlag:!0},i=0;i<j.length;i++)c.supports[j[i]]=e(j[i]),c.supports.everything=c.supports.everything&&c.supports[j[i]],"flag"!==j[i]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[j[i]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(h=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",h,!1),a.addEventListener("load",h,!1)):(a.attachEvent("onload",h),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),g=c.source||{},g.concatemoji?f(g.concatemoji):g.wpemoji&&g.twemoji&&(f(g.twemoji),f(g.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='pt-cv-public-style-css'  href='http://www.eument-net.eu/wp-content/plugins/content-views-query-and-display-post-page/public/assets/css/cv.css?ver=1.9.9.6' type='text/css' media='all' />
+<link rel='stylesheet' id='hamburger.css-css'  href='http://www.eument-net.eu/wp-content/plugins/wp-responsive-menu/css/wpr-hamburger.css?ver=1.0' type='text/css' media='all' />
+<link rel='stylesheet' id='wprmenu.css-css'  href='http://www.eument-net.eu/wp-content/plugins/wp-responsive-menu/css/wprmenu.css?ver=1.0' type='text/css' media='all' />
+<link rel='stylesheet' id='wpr_icons-css'  href='http://www.eument-net.eu/wp-content/plugins/wp-responsive-menu/inc/icons/style.css?ver=1.0' type='text/css' media='all' />
+<link rel='stylesheet' id='wpfront-scroll-top-css'  href='http://www.eument-net.eu/wp-content/plugins/wpfront-scroll-top/css/wpfront-scroll-top.min.css?ver=1.6.2' type='text/css' media='all' />
+<link rel='stylesheet' id='parent-style-css'  href='http://www.eument-net.eu/wp-content/themes/twentytwelve/style.css?ver=4.9.6' type='text/css' media='all' />
+<link rel='stylesheet' id='child-style-css'  href='http://www.eument-net.eu/wp-content/themes/twentytwelve-child/style.css?ver=4.9.6' type='text/css' media='all' />
+<link rel='stylesheet' id='twentytwelve-fonts-css'  href='https://fonts.googleapis.com/css?family=Open+Sans:400italic,700italic,400,700&#038;subset=latin,latin-ext' type='text/css' media='all' />
+<link rel='stylesheet' id='twentytwelve-style-css'  href='http://www.eument-net.eu/wp-content/themes/twentytwelve-child/style.css?ver=4.9.6' type='text/css' media='all' />
+<!--[if lt IE 9]>
+<link rel='stylesheet' id='twentytwelve-ie-css'  href='http://www.eument-net.eu/wp-content/themes/twentytwelve/css/ie.css?ver=20121010' type='text/css' media='all' />
+<![endif]-->
+<link rel='stylesheet' id='mediaelement-css'  href='http://www.eument-net.eu/wp-includes/js/mediaelement/mediaelementplayer-legacy.min.css?ver=4.2.6-78496d1' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-mediaelement-css'  href='http://www.eument-net.eu/wp-includes/js/mediaelement/wp-mediaelement.min.css?ver=4.9.6' type='text/css' media='all' />
+<link rel='stylesheet' id='views-pagination-style-css'  href='http://www.eument-net.eu/wp-content/plugins/wp-views/embedded/res/css/wpv-pagination.css?ver=2.5.2' type='text/css' media='all' />
+<style id='views-pagination-style-inline-css' type='text/css'>
+.wpv-sort-list-dropdown.wpv-sort-list-dropdown-style-default > span.wpv-sort-list,.wpv-sort-list-dropdown.wpv-sort-list-dropdown-style-default .wpv-sort-list-item {border-color: #cdcdcd;}.wpv-sort-list-dropdown.wpv-sort-list-dropdown-style-default .wpv-sort-list-item a {color: #444;background-color: #fff;}.wpv-sort-list-dropdown.wpv-sort-list-dropdown-style-default a:hover,.wpv-sort-list-dropdown.wpv-sort-list-dropdown-style-default a:focus {color: #000;background-color: #eee;}.wpv-sort-list-dropdown.wpv-sort-list-dropdown-style-default .wpv-sort-list-item.wpv-sort-list-current a {color: #000;background-color: #eee;}.wpv-sort-list-dropdown.wpv-sort-list-dropdown-style-grey > span.wpv-sort-list,.wpv-sort-list-dropdown.wpv-sort-list-dropdown-style-grey .wpv-sort-list-item {border-color: #cdcdcd;}.wpv-sort-list-dropdown.wpv-sort-list-dropdown-style-grey .wpv-sort-list-item a {color: #444;background-color: #eeeeee;}.wpv-sort-list-dropdown.wpv-sort-list-dropdown-style-grey a:hover,.wpv-sort-list-dropdown.wpv-sort-list-dropdown-style-grey a:focus {color: #000;background-color: #e5e5e5;}.wpv-sort-list-dropdown.wpv-sort-list-dropdown-style-grey .wpv-sort-list-item.wpv-sort-list-current a {color: #000;background-color: #e5e5e5;}.wpv-sort-list-dropdown.wpv-sort-list-dropdown-style-blue > span.wpv-sort-list,.wpv-sort-list-dropdown.wpv-sort-list-dropdown-style-blue .wpv-sort-list-item {border-color: #0099cc;}.wpv-sort-list-dropdown.wpv-sort-list-dropdown-style-blue .wpv-sort-list-item a {color: #444;background-color: #cbddeb;}.wpv-sort-list-dropdown.wpv-sort-list-dropdown-style-blue a:hover,.wpv-sort-list-dropdown.wpv-sort-list-dropdown-style-blue a:focus {color: #000;background-color: #95bedd;}.wpv-sort-list-dropdown.wpv-sort-list-dropdown-style-blue .wpv-sort-list-item.wpv-sort-list-current a {color: #000;background-color: #95bedd;}
+</style>
+<script type='text/javascript' src='http://www.eument-net.eu/wp-includes/js/jquery/jquery.js?ver=1.12.4'></script>
+<script type='text/javascript' src='http://www.eument-net.eu/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
+<script type='text/javascript' src='http://www.eument-net.eu/wp-content/plugins/wp-responsive-menu/js/modernizr.custom.js?ver=1.0'></script>
+<script type='text/javascript' src='http://www.eument-net.eu/wp-content/plugins/wp-responsive-menu/js/jquery.touchSwipe.min.js?ver=1.0'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var wprmenu = {"zooming":"","from_width":"","push_width":"","menu_width":"","parent_click":"","swipe":""};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://www.eument-net.eu/wp-content/plugins/wp-responsive-menu/js/wprmenu.js?ver=1.0'></script>
+<script type='text/javascript'>
+var mejsL10n = {"language":"cs","strings":{"mejs.install-flash":"Pou\u017e\u00edv\u00e1te prohl\u00ed\u017ee\u010d, kter\u00fd nem\u00e1 nainstalovan\u00fd nebo povolen\u00fd Flash Player. Zapn\u011bte Flash Player nebo si st\u00e1hn\u011bte nejnov\u011bj\u0161\u00ed verzi z adresy https:\/\/get.adobe.com\/flashplayer\/","mejs.fullscreen-off":"Zru\u0161it re\u017eim cel\u00e9 obrazovky","mejs.fullscreen-on":"Cel\u00e1 obrazovka","mejs.download-video":"St\u00e1hnout video","mejs.fullscreen":"Cel\u00e1 obrazovka","mejs.time-jump-forward":["Vp\u0159ed o 1 sekundu","Vp\u0159ed o %1 sekund"],"mejs.loop":"Ovl\u00e1d\u00e1n\u00ed opakov\u00e1n\u00ed","mejs.play":"P\u0159ehr\u00e1t","mejs.pause":"Pozastavit","mejs.close":"Zav\u0159\u00edt","mejs.time-slider":"\u010casov\u00fd posuvn\u00edk","mejs.time-help-text":"Pou\u017eit\u00edm \u0161ipek vlevo\/vpravo se posunete o jednu sekundu, \u0161ipkami nahoru\/dol\u016f se posunete o deset sekund.","mejs.time-skip-back":["Zp\u011bt on 1 sekundu","Vr\u00e1tit se zp\u011bt o %1 sekund"],"mejs.captions-subtitles":"Titulky","mejs.captions-chapters":"Kapitoly","mejs.none":"\u017d\u00e1dn\u00e9","mejs.mute-toggle":"Ovl\u00e1d\u00e1n\u00ed zvuku","mejs.volume-help-text":"Pou\u017eit\u00edm \u0161ipek nahoru\/dol\u016f zv\u00fd\u0161\u00edte nebo sn\u00ed\u017e\u00edte \u00farove\u0148 hlasitosti.","mejs.unmute":"Zapnout zvuk","mejs.mute":"Ztlumit","mejs.volume-slider":"Ovl\u00e1d\u00e1n\u00ed hlasitosti","mejs.video-player":"Video p\u0159ehr\u00e1va\u010d","mejs.audio-player":"Audio p\u0159ehr\u00e1va\u010d","mejs.ad-skip":"P\u0159esko\u010dit reklamu","mejs.ad-skip-info":["P\u0159esko\u010dit na video budete moci za 1 sekundu","P\u0159esko\u010dit na video budete moci za %1 sekund"],"mejs.source-chooser":"V\u00fdb\u011br zdroje","mejs.stop":"Zastavit","mejs.speed-rate":"Rychlost","mejs.live-broadcast":"\u017div\u011b","mejs.afrikaans":"Afrik\u00e1n\u0161tina","mejs.albanian":"Alb\u00e1n\u0161tina","mejs.arabic":"Arab\u0161tina","mejs.belarusian":"B\u011bloru\u0161tina","mejs.bulgarian":"Bulhar\u0161tina","mejs.catalan":"Katal\u00e1n\u0161tina","mejs.chinese":"\u010c\u00edn\u0161tina","mejs.chinese-simplified":"\u010c\u00edn\u0161tina (zjednodu\u0161en\u00e1)","mejs.chinese-traditional":"\u010c\u00edn\u0161tina (tradi\u010dn\u00ed)","mejs.croatian":"Chorvat\u0161tina","mejs.czech":"\u010ce\u0161tina","mejs.danish":"D\u00e1n\u0161tina","mejs.dutch":"Holand\u0161tina","mejs.english":"Angli\u010dtina","mejs.estonian":"Eston\u0161tina","mejs.filipino":"Filip\u00edn\u0161tina","mejs.finnish":"Dokon\u010dit","mejs.french":"Francou\u017e\u0161tina","mejs.galician":"Galicij\u0161tina","mejs.german":"N\u011bm\u010dina","mejs.greek":"\u0158e\u010dtina","mejs.haitian-creole":"Haitsk\u00e1 kreol\u0161tina","mejs.hebrew":"Hebrej\u0161tina","mejs.hindi":"Hind\u0161tina","mejs.hungarian":"Ma\u010far\u0161tina","mejs.icelandic":"Island\u0161tina","mejs.indonesian":"Indon\u00e9\u0161tina","mejs.irish":"Ir\u0161tina","mejs.italian":"Ital\u0161tina","mejs.japanese":"Japon\u0161tina","mejs.korean":"Korej\u0161tina","mejs.latvian":"Loty\u0161tina","mejs.lithuanian":"Litev\u0161tina","mejs.macedonian":"Makedon\u0161tina","mejs.malay":"Malaj\u0161tina","mejs.maltese":"Malt\u0161tina","mejs.norwegian":"Nor\u0161tina","mejs.persian":"Per\u0161tina","mejs.polish":"Pol\u0161tina","mejs.portuguese":"Portugal\u0161tina","mejs.romanian":"Rumun\u0161tina","mejs.russian":"Ru\u0161tina","mejs.serbian":"Srb\u0161tina","mejs.slovak":"Sloven\u0161tina","mejs.slovenian":"Slovin\u0161tina","mejs.spanish":"\u0160pan\u011bl\u0161tina","mejs.swahili":"Svahil\u0161tina","mejs.swedish":"\u0160v\u00e9d\u0161tina","mejs.tagalog":"Tagal\u0161tina","mejs.thai":"Thaj\u0161tina","mejs.turkish":"Ture\u010dtina","mejs.ukrainian":"Ukrajin\u0161tina","mejs.vietnamese":"Vietnam\u0161tina","mejs.welsh":"Vel\u0161tina","mejs.yiddish":"Jidi\u0161"}};
+var mejsL10n = {"language":"cs","strings":{"mejs.install-flash":"Pou\u017e\u00edv\u00e1te prohl\u00ed\u017ee\u010d, kter\u00fd nem\u00e1 nainstalovan\u00fd nebo povolen\u00fd Flash Player. Zapn\u011bte Flash Player nebo si st\u00e1hn\u011bte nejnov\u011bj\u0161\u00ed verzi z adresy https:\/\/get.adobe.com\/flashplayer\/","mejs.fullscreen-off":"Zru\u0161it re\u017eim cel\u00e9 obrazovky","mejs.fullscreen-on":"Cel\u00e1 obrazovka","mejs.download-video":"St\u00e1hnout video","mejs.fullscreen":"Cel\u00e1 obrazovka","mejs.time-jump-forward":["Vp\u0159ed o 1 sekundu","Vp\u0159ed o %1 sekund"],"mejs.loop":"Ovl\u00e1d\u00e1n\u00ed opakov\u00e1n\u00ed","mejs.play":"P\u0159ehr\u00e1t","mejs.pause":"Pozastavit","mejs.close":"Zav\u0159\u00edt","mejs.time-slider":"\u010casov\u00fd posuvn\u00edk","mejs.time-help-text":"Pou\u017eit\u00edm \u0161ipek vlevo\/vpravo se posunete o jednu sekundu, \u0161ipkami nahoru\/dol\u016f se posunete o deset sekund.","mejs.time-skip-back":["Zp\u011bt on 1 sekundu","Vr\u00e1tit se zp\u011bt o %1 sekund"],"mejs.captions-subtitles":"Titulky","mejs.captions-chapters":"Kapitoly","mejs.none":"\u017d\u00e1dn\u00e9","mejs.mute-toggle":"Ovl\u00e1d\u00e1n\u00ed zvuku","mejs.volume-help-text":"Pou\u017eit\u00edm \u0161ipek nahoru\/dol\u016f zv\u00fd\u0161\u00edte nebo sn\u00ed\u017e\u00edte \u00farove\u0148 hlasitosti.","mejs.unmute":"Zapnout zvuk","mejs.mute":"Ztlumit","mejs.volume-slider":"Ovl\u00e1d\u00e1n\u00ed hlasitosti","mejs.video-player":"Video p\u0159ehr\u00e1va\u010d","mejs.audio-player":"Audio p\u0159ehr\u00e1va\u010d","mejs.ad-skip":"P\u0159esko\u010dit reklamu","mejs.ad-skip-info":["P\u0159esko\u010dit na video budete moci za 1 sekundu","P\u0159esko\u010dit na video budete moci za %1 sekund"],"mejs.source-chooser":"V\u00fdb\u011br zdroje","mejs.stop":"Zastavit","mejs.speed-rate":"Rychlost","mejs.live-broadcast":"\u017div\u011b","mejs.afrikaans":"Afrik\u00e1n\u0161tina","mejs.albanian":"Alb\u00e1n\u0161tina","mejs.arabic":"Arab\u0161tina","mejs.belarusian":"B\u011bloru\u0161tina","mejs.bulgarian":"Bulhar\u0161tina","mejs.catalan":"Katal\u00e1n\u0161tina","mejs.chinese":"\u010c\u00edn\u0161tina","mejs.chinese-simplified":"\u010c\u00edn\u0161tina (zjednodu\u0161en\u00e1)","mejs.chinese-traditional":"\u010c\u00edn\u0161tina (tradi\u010dn\u00ed)","mejs.croatian":"Chorvat\u0161tina","mejs.czech":"\u010ce\u0161tina","mejs.danish":"D\u00e1n\u0161tina","mejs.dutch":"Holand\u0161tina","mejs.english":"Angli\u010dtina","mejs.estonian":"Eston\u0161tina","mejs.filipino":"Filip\u00edn\u0161tina","mejs.finnish":"Dokon\u010dit","mejs.french":"Francou\u017e\u0161tina","mejs.galician":"Galicij\u0161tina","mejs.german":"N\u011bm\u010dina","mejs.greek":"\u0158e\u010dtina","mejs.haitian-creole":"Haitsk\u00e1 kreol\u0161tina","mejs.hebrew":"Hebrej\u0161tina","mejs.hindi":"Hind\u0161tina","mejs.hungarian":"Ma\u010far\u0161tina","mejs.icelandic":"Island\u0161tina","mejs.indonesian":"Indon\u00e9\u0161tina","mejs.irish":"Ir\u0161tina","mejs.italian":"Ital\u0161tina","mejs.japanese":"Japon\u0161tina","mejs.korean":"Korej\u0161tina","mejs.latvian":"Loty\u0161tina","mejs.lithuanian":"Litev\u0161tina","mejs.macedonian":"Makedon\u0161tina","mejs.malay":"Malaj\u0161tina","mejs.maltese":"Malt\u0161tina","mejs.norwegian":"Nor\u0161tina","mejs.persian":"Per\u0161tina","mejs.polish":"Pol\u0161tina","mejs.portuguese":"Portugal\u0161tina","mejs.romanian":"Rumun\u0161tina","mejs.russian":"Ru\u0161tina","mejs.serbian":"Srb\u0161tina","mejs.slovak":"Sloven\u0161tina","mejs.slovenian":"Slovin\u0161tina","mejs.spanish":"\u0160pan\u011bl\u0161tina","mejs.swahili":"Svahil\u0161tina","mejs.swedish":"\u0160v\u00e9d\u0161tina","mejs.tagalog":"Tagal\u0161tina","mejs.thai":"Thaj\u0161tina","mejs.turkish":"Ture\u010dtina","mejs.ukrainian":"Ukrajin\u0161tina","mejs.vietnamese":"Vietnam\u0161tina","mejs.welsh":"Vel\u0161tina","mejs.yiddish":"Jidi\u0161"}};
+</script>
+<script type='text/javascript' src='http://www.eument-net.eu/wp-includes/js/mediaelement/mediaelement-and-player.min.js?ver=4.2.6-78496d1'></script>
+<script type='text/javascript' src='http://www.eument-net.eu/wp-includes/js/mediaelement/mediaelement-migrate.min.js?ver=4.9.6'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var _wpmejsSettings = {"pluginPath":"\/wp-includes\/js\/mediaelement\/","classPrefix":"mejs-","stretching":"responsive"};
+var _wpmejsSettings = {"pluginPath":"\/wp-includes\/js\/mediaelement\/","classPrefix":"mejs-","stretching":"responsive"};
+/* ]]> */
+</script>
+<link rel='https://api.w.org/' href='http://www.eument-net.eu/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www.eument-net.eu/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://www.eument-net.eu/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 4.9.6" />
+<link rel="canonical" href="http://www.eument-net.eu/" />
+<link rel='shortlink' href='http://www.eument-net.eu/' />
+<link rel="alternate" type="application/json+oembed" href="http://www.eument-net.eu/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fwww.eument-net.eu%2F" />
+<link rel="alternate" type="text/xml+oembed" href="http://www.eument-net.eu/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fwww.eument-net.eu%2F&#038;format=xml" />
+</head>
+
+<body class="home page-template-default page page-id-13 page-parent cs-CZ custom-font-enabled">
+
+<div id="top-header">
+  <div class="container">
+  <a href="http://www.eument-net.eu/" title="eument-net" rel="home" class="homelogo"><img src="http://www.eument-net.eu/wp-content/uploads/2017/11/eumentnet_logo_icon.png" align="left"><span>eument-net</span> european network of mentoring programmes</a>
+	</div>
+</div>
+
+<header id="header-image">
+</header><!-- #masthead -->
+
+<nav id="site-navigation" class="main-navigation" role="navigation">
+  <div class="container">
+  <h3 class="menu-toggle">Menu</h3>
+	<a class="assistive-text" href="#content" title="Přejít k obsahu webu">Přejít k obsahu webu</a>
+	<div class="menu-menu-container"><ul id="menu-menu" class="nav-menu"><li id="menu-item-15" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-13 current_page_item menu-item-15"><a href="http://www.eument-net.eu/">Home</a></li>
+<li id="menu-item-16" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-16"><a href="http://www.eument-net.eu/home/news/">News</a></li>
+<li id="menu-item-43" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-43"><a href="http://www.eument-net.eu/documents/">Documents</a></li>
+<li id="menu-item-9" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-9"><a href="http://www.eument-net.eu/eument-net/">Eument-net</a></li>
+<li id="menu-item-40" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-40"><a href="http://www.eument-net.eu/members/">Members</a></li>
+<li id="menu-item-10" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10"><a href="http://www.eument-net.eu/contact/">Contact</a></li>
+</ul></div>  </div>
+</nav><!-- #site-navigation -->
+
+<div id="main" class="container">
+	<div id="primary" class="site-content">
+		<div id="content" role="main">
+
+							
+	<article id="post-13" class="post-13 page type-page status-publish has-post-thumbnail hentry">
+		<header class="entry-header">
+						<img width="624" height="185" src="http://www.eument-net.eu/wp-content/uploads/2017/12/mentoring_zahlavi_cb-624x185.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="home" srcset="http://www.eument-net.eu/wp-content/uploads/2017/12/mentoring_zahlavi_cb-624x185.jpg 624w, http://www.eument-net.eu/wp-content/uploads/2017/12/mentoring_zahlavi_cb-300x89.jpg 300w, http://www.eument-net.eu/wp-content/uploads/2017/12/mentoring_zahlavi_cb-768x227.jpg 768w, http://www.eument-net.eu/wp-content/uploads/2017/12/mentoring_zahlavi_cb-1024x303.jpg 1024w, http://www.eument-net.eu/wp-content/uploads/2017/12/mentoring_zahlavi_cb.jpg 1440w" sizes="(max-width: 624px) 100vw, 624px" />						<h1 class="entry-title">Home</h1>
+		</header>
+
+		<div class="entry-content">
+			<h2>eument-net &#8211; European Network of Mentoring Programmes<br />
+for the Advancement of Equal Opportunities and Cultural<br />
+and Institutional Change in Academia and Research</h2>
+<p>Since 2007, we help to develop and improve mentoring programs in academia and research. Until today we have 27 members.</p>
+<p>The website is designed especially for:</p>
+<ul>
+<li>coordinators of mentoring programs dedicated to advancement of equal opportunities in academia and research</li>
+<li>coordinators of projects of cultural and Institutional change</li>
+<li>stakeholders in science and research policy, planning to implement mentoring programs in their institution</li>
+<li>gender equality officers in universities and other research institutions.</li>
+</ul>
+<p>We are also looking forward to your questions and comments on eument-net.</p>
+<p>&nbsp;</p>
+<h2>News</h2>
+<div class="pt-cv-wrapper"><div class="pt-cv-view pt-cv-grid pt-cv-colsys" id="pt-cv-view-4c3c725u7p"><div data-id="pt-cv-page-1" class="pt-cv-page" data-cvc="3"><div class="col-md-4 col-sm-6 col-xs-12 pt-cv-content-item pt-cv-1-col" ><div class='pt-cv-ifield'><a href="http://www.eument-net.eu/10th-european-conference-on-gender-equality-in-higher-education/" class="_self pt-cv-href-thumbnail pt-cv-thumb-default" target="_self" ><img width="282" height="194" src="http://www.eument-net.eu/wp-content/uploads/2018/04/gehe.png" class="pt-cv-thumbnail" alt="" /></a>
+<h3 class="pt-cv-title"><a href="http://www.eument-net.eu/10th-european-conference-on-gender-equality-in-higher-education/" class="_self" target="_self" >10th European Conference on Gender Equality in Higher Education</a></h3>
+<div class="pt-cv-content">eument-net will have a panel Mentoring programmes - a part of ...<br /><a href="http://www.eument-net.eu/10th-european-conference-on-gender-equality-in-higher-education/" class="_self pt-cv-readmore btn btn-success" target="_self" >více »</a></div></div></div>
+<div class="col-md-4 col-sm-6 col-xs-12 pt-cv-content-item pt-cv-1-col" ><div class='pt-cv-ifield'><a href="http://www.eument-net.eu/eument-net-epws-interview-of-the-month/" class="_self pt-cv-href-thumbnail pt-cv-thumb-default" target="_self" ><img width="269" height="79" src="http://www.eument-net.eu/wp-content/uploads/2018/04/epws2.png" class="pt-cv-thumbnail" alt="" /></a>
+<h3 class="pt-cv-title"><a href="http://www.eument-net.eu/eument-net-epws-interview-of-the-month/" class="_self" target="_self" >eument-net &#8211; EPWS interview of the month</a></h3>
+<div class="pt-cv-content">In March 2018, eument-net gave an interview to EPWS as ...<br /><a href="http://www.eument-net.eu/eument-net-epws-interview-of-the-month/" class="_self pt-cv-readmore btn btn-success" target="_self" >více »</a></div></div></div>
+<div class="col-md-4 col-sm-6 col-xs-12 pt-cv-content-item pt-cv-1-col" ><div class='pt-cv-ifield'><a href="http://www.eument-net.eu/mentoring-tool-for-development-of-diversity-internationalism-and-interdisciplinarity-in-science-academia/" class="_self pt-cv-href-thumbnail pt-cv-thumb-default" target="_self" ><img width="300" height="200" src="http://www.eument-net.eu/wp-content/uploads/2018/01/mentoring_konference_23112017_44-300x200.jpg" class="pt-cv-thumbnail" alt="nkc" srcset="http://www.eument-net.eu/wp-content/uploads/2018/01/mentoring_konference_23112017_44-300x200.jpg 300w, http://www.eument-net.eu/wp-content/uploads/2018/01/mentoring_konference_23112017_44-768x512.jpg 768w, http://www.eument-net.eu/wp-content/uploads/2018/01/mentoring_konference_23112017_44-1024x683.jpg 1024w, http://www.eument-net.eu/wp-content/uploads/2018/01/mentoring_konference_23112017_44-624x416.jpg 624w, http://www.eument-net.eu/wp-content/uploads/2018/01/mentoring_konference_23112017_44-272x182.jpg 272w, http://www.eument-net.eu/wp-content/uploads/2018/01/mentoring_konference_23112017_44.jpg 1440w" sizes="(max-width: 300px) 100vw, 300px" /></a>
+<h3 class="pt-cv-title"><a href="http://www.eument-net.eu/mentoring-tool-for-development-of-diversity-internationalism-and-interdisciplinarity-in-science-academia/" class="_self" target="_self" >Mentoring – tool for development of diversity, internationalism and interdisciplinarity in science/academia</a></h3>
+<div class="pt-cv-content">A tool to develop gender equality, diversity, internationalism and interdisciplinarity ...<br /><a href="http://www.eument-net.eu/mentoring-tool-for-development-of-diversity-internationalism-and-interdisciplinarity-in-science-academia/" class="_self pt-cv-readmore btn btn-success" target="_self" >více »</a></div></div></div></div></div></div>
+					</div><!-- .entry-content -->
+		<footer class="entry-meta">
+					</footer><!-- .entry-meta -->
+	</article><!-- #post -->
+				
+<div id="comments" class="comments-area">
+
+	
+	
+	
+</div><!-- #comments .comments-area -->			
+		</div><!-- #content -->
+	</div><!-- #primary -->
+
+
+			<div id="secondary" class="widget-area" role="complementary">
+			<aside id="meta-2" class="widget widget_meta"><h3 class="widget-title">Základní informace</h3>			<ul>
+						<li><a href="http://www.eument-net.eu/prihlasit">Přihlásit se</a></li>
+			<li><a href="http://www.eument-net.eu/feed/"><abbr title="RSS zdroj (Really Simple Syndication)">RSS</abbr> (příspěvky)</a></li>
+			<li><a href="http://www.eument-net.eu/comments/feed/"><abbr title="RSS zdroj (Really Simple Syndication)">RSS</abbr> (komentáře)</a></li>
+			<li><a href="https://cs.wordpress.org/" title="Používáme WordPress (nejmodernější sémantický osobní redakční systém).">Čeština pro WordPress</a></li>			</ul>
+			</aside>		</div><!-- #secondary -->
+	</div><!-- #main .wrapper -->
+
+
+<footer id="colophon" role="contentinfo">
+    	<div id="footer-widgets" class="container">
+  		<div class="fullwidth-widgets">
+  			        <p class="copyright">© eument-net</p>
+  		</div>
+  	</div><!-- #footer-widgets -->
+  </footer><!-- #colophon -->
+
+<script type="text/html" id="tmpl-wp-playlist-current-item">
+	<# if ( data.image ) { #>
+	<img src="{{ data.thumb.src }}" alt="" />
+	<# } #>
+	<div class="wp-playlist-caption">
+		<span class="wp-playlist-item-meta wp-playlist-item-title">&#8222;{{ data.title }}&#8220;</span>
+		<# if ( data.meta.album ) { #><span class="wp-playlist-item-meta wp-playlist-item-album">{{ data.meta.album }}</span><# } #>
+		<# if ( data.meta.artist ) { #><span class="wp-playlist-item-meta wp-playlist-item-artist">{{ data.meta.artist }}</span><# } #>
+	</div>
+</script>
+<script type="text/html" id="tmpl-wp-playlist-item">
+	<div class="wp-playlist-item">
+		<a class="wp-playlist-caption" href="{{ data.src }}">
+			{{ data.index ? ( data.index + '. ' ) : '' }}
+			<# if ( data.caption ) { #>
+				{{ data.caption }}
+			<# } else { #>
+				<span class="wp-playlist-item-title">&#8222;{{{ data.title }}}&#8220;</span>
+				<# if ( data.artists && data.meta.artist ) { #>
+				<span class="wp-playlist-item-artist"> &mdash; {{ data.meta.artist }}</span>
+				<# } #>
+			<# } #>
+		</a>
+		<# if ( data.meta.length_formatted ) { #>
+		<div class="wp-playlist-item-length">{{ data.meta.length_formatted }}</div>
+		<# } #>
+	</div>
+</script>
+
+<div id="views-extra-css-ie7" style="display:none;" aria-hidden="true">
+<!--[if IE 7]><style>
+.wpv-pagination { *zoom: 1; }
+</style><![endif]-->
+</div>
+
+<script type="text/javascript">
+jQuery( document ).ready( function( $ ) {
+	var extra_css = $( "#views-extra-css" ) ? $( "#views-extra-css" ).text() : null;	if( extra_css ) {		$( 'head' ).append( '<style style="text/css" media="screen">' + extra_css + '</style>' );
+		$( "#views-extra-css" ).remove();	}
+	$( 'head' ).append( $( "#views-extra-css-ie7" ).html() );
+	$( "#views-extra-css-ie7" ).remove();});
+</script>
+
+
+
+    <div id="wpfront-scroll-top-container"><img src="http://www.eument-net.eu/wp-content/plugins/wpfront-scroll-top/images/icons/1.png" alt="" /></div>
+    <script type="text/javascript">function wpfront_scroll_top_init() {if(typeof wpfront_scroll_top == "function" && typeof jQuery !== "undefined") {wpfront_scroll_top({"scroll_offset":100,"button_width":0,"button_height":0,"button_opacity":0.8,"button_fade_duration":200,"scroll_duration":400,"location":1,"marginX":20,"marginY":20,"hide_iframe":false,"auto_hide":false,"auto_hide_after":2});} else {setTimeout(wpfront_scroll_top_init, 100);}}wpfront_scroll_top_init();</script><script type='text/javascript'>
+/* <![CDATA[ */
+var PT_CV_PUBLIC = {"_prefix":"pt-cv-","page_to_show":"5","_nonce":"8f6ff438d4","is_admin":"","is_mobile":"","ajaxurl":"http:\/\/www.eument-net.eu\/wp-admin\/admin-ajax.php","lang":"","loading_image_src":"data:image\/gif;base64,R0lGODlhDwAPALMPAMrKygwMDJOTkz09PZWVla+vr3p6euTk5M7OzuXl5TMzMwAAAJmZmWZmZszMzP\/\/\/yH\/C05FVFNDQVBFMi4wAwEAAAAh+QQFCgAPACwAAAAADwAPAAAEQvDJaZaZOIcV8iQK8VRX4iTYoAwZ4iCYoAjZ4RxejhVNoT+mRGP4cyF4Pp0N98sBGIBMEMOotl6YZ3S61Bmbkm4mAgAh+QQFCgAPACwAAAAADQANAAAENPDJSRSZeA418itN8QiK8BiLITVsFiyBBIoYqnoewAD4xPw9iY4XLGYSjkQR4UAUD45DLwIAIfkEBQoADwAsAAAAAA8ACQAABC\/wyVlamTi3nSdgwFNdhEJgTJoNyoB9ISYoQmdjiZPcj7EYCAeCF1gEDo4Dz2eIAAAh+QQFCgAPACwCAAAADQANAAAEM\/DJBxiYeLKdX3IJZT1FU0iIg2RNKx3OkZVnZ98ToRD4MyiDnkAh6BkNC0MvsAj0kMpHBAAh+QQFCgAPACwGAAAACQAPAAAEMDC59KpFDll73HkAA2wVY5KgiK5b0RRoI6MuzG6EQqCDMlSGheEhUAgqgUUAFRySIgAh+QQFCgAPACwCAAIADQANAAAEM\/DJKZNLND\/kkKaHc3xk+QAMYDKsiaqmZCxGVjSFFCxB1vwy2oOgIDxuucxAMTAJFAJNBAAh+QQFCgAPACwAAAYADwAJAAAEMNAs86q1yaWwwv2Ig0jUZx3OYa4XoRAfwADXoAwfo1+CIjyFRuEho60aSNYlOPxEAAAh+QQFCgAPACwAAAIADQANAAAENPA9s4y8+IUVcqaWJ4qEQozSoAzoIyhCK2NFU2SJk0hNnyEOhKR2AzAAj4Pj4GE4W0bkJQIAOw=="};
+var PT_CV_PAGINATION = {"first":"\u00ab","prev":"\u2039","next":"\u203a","last":"\u00bb","goto_first":"Go to first page","goto_prev":"Go to previous page","goto_next":"Go to next page","goto_last":"Go to last page","current_page":"Current page is","goto_page":"Go to page"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://www.eument-net.eu/wp-content/plugins/content-views-query-and-display-post-page/public/assets/js/cv.js?ver=1.9.9.6'></script>
+<script type='text/javascript' src='http://www.eument-net.eu/wp-content/plugins/wpfront-scroll-top/js/wpfront-scroll-top.min.js?ver=1.6.2'></script>
+<script type='text/javascript' src='http://www.eument-net.eu/wp-content/themes/twentytwelve/js/navigation.js?ver=20140711'></script>
+<script type='text/javascript' src='http://www.eument-net.eu/wp-includes/js/jquery/ui/core.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='http://www.eument-net.eu/wp-includes/js/jquery/ui/datepicker.min.js?ver=1.11.4'></script>
+<script type='text/javascript'>
+jQuery(document).ready(function(jQuery){jQuery.datepicker.setDefaults({"closeText":"Zav\u0159\u00edt","currentText":"Dnes","monthNames":["Leden","\u00danor","B\u0159ezen","Duben","Kv\u011bten","\u010cerven","\u010cervenec","Srpen","Z\u00e1\u0159\u00ed","\u0158\u00edjen","Listopad","Prosinec"],"monthNamesShort":["Led","\u00dano","B\u0159e","Dub","Kv\u011b","\u010cvn","\u010cvc","Srp","Z\u00e1\u0159","\u0158\u00edj","Lis","Pro"],"nextText":"Dal\u0161\u00ed","prevText":"P\u0159edchoz\u00ed","dayNames":["Ned\u011ble","Pond\u011bl\u00ed","\u00dater\u00fd","St\u0159eda","\u010ctvrtek","P\u00e1tek","Sobota"],"dayNamesShort":["Ne","Po","\u00dat","St","\u010ct","P\u00e1","So"],"dayNamesMin":["Ne","Po","\u00dat","St","\u010ct","P\u00e1","So"],"dateFormat":"d.mm.yy","firstDay":1,"isRTL":false});});
+</script>
+<script type='text/javascript' src='http://www.eument-net.eu/wp-includes/js/mediaelement/wp-mediaelement.min.js?ver=4.9.6'></script>
+<script type='text/javascript' src='http://www.eument-net.eu/wp-includes/js/underscore.min.js?ver=1.8.3'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var _wpUtilSettings = {"ajax":{"url":"\/wp-admin\/admin-ajax.php"}};
+var _wpUtilSettings = {"ajax":{"url":"\/wp-admin\/admin-ajax.php"}};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://www.eument-net.eu/wp-includes/js/wp-util.min.js?ver=4.9.6'></script>
+<script type='text/javascript' src='http://www.eument-net.eu/wp-includes/js/backbone.min.js?ver=1.2.3'></script>
+<script type='text/javascript' src='http://www.eument-net.eu/wp-includes/js/mediaelement/wp-playlist.min.js?ver=4.9.6'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var wpv_pagination_local = {"front_ajaxurl":"http:\/\/www.eument-net.eu\/wp-admin\/admin-ajax.php","calendar_image":"http:\/\/www.eument-net.eu\/wp-content\/plugins\/wp-views\/embedded\/res\/img\/calendar.gif","calendar_text":"Select date","datepicker_min_date":null,"datepicker_max_date":null,"resize_debounce_tolerance":"100","datepicker_style_url":"http:\/\/www.eument-net.eu\/wp-content\/plugins\/wp-views\/vendor\/toolset\/toolset-common\/toolset-forms\/css\/wpt-jquery-ui\/jquery-ui-1.11.4.custom.css"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://www.eument-net.eu/wp-content/plugins/wp-views/embedded/res/js/wpv-pagination-embedded.js?ver=2.5.2'></script>
+<script type='text/javascript' src='http://www.eument-net.eu/wp-includes/js/wp-embed.min.js?ver=4.9.6'></script>
+
+</body>
+</html>
+

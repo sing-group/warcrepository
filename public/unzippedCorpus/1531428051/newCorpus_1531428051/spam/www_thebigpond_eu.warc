@@ -1,0 +1,990 @@
+WARC/1.0
+WARC-Type: warcinfo
+WARC-Date: 2018-05-30T17:52:31Z
+WARC-Record-ID: <urn:uuid:1e26a0ef-c28e-4a8d-9b7d-419e2939424e>
+WARC-All-Language: en
+WARC-All-Content_type: text/html; charset=UTF-8, text/html
+Content-Type: application/http;msgtype=response
+Content-Length: 46
+
+WARCProcessor by SING Group www.sing-group.com
+
+WARC/1.0
+WARC-Type: response
+WARC-Record-ID: <http://www.thebigpond.eu>
+WARC-Date: 20180530175231
+WARC-Target-URI: http://www.thebigpond.eu
+WARC-Language: en
+Content-Type: application/http;msgtype=response
+Content-Length: 81938
+
+HTTP/1.1 200
+Content-Type:text/html; charset=UTF-8
+
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head profile="http://gmpg.org/xfn/1">
+	<title>The Big Pond</title>
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+	<meta name="generator" content="WordPress 3.3" /> <!-- leave this for stats please -->
+	<style type="text/css" media="screen">
+		@import url( http://www.thebigpond.eu/wp-content/themes/seashore/style.css );
+	</style>
+	<link rel="alternate" type="application/rss+xml" title="RSS 2.0" href="http://www.thebigpond.eu/feed/" />
+	<link rel="alternate" type="text/xml" title="RSS .92" href="http://www.thebigpond.eu/feed/rss/" />
+	<link rel="alternate" type="application/atom+xml" title="Atom 0.3" href="http://www.thebigpond.eu/feed/atom/" />
+	<link rel="pingback" href="http://www.thebigpond.eu/xmlrpc.php" />
+    	<link rel='archives' title='April 2015' href='http://www.thebigpond.eu/2015/04/' />
+	<link rel='archives' title='October 2014' href='http://www.thebigpond.eu/2014/10/' />
+	<link rel='archives' title='January 2014' href='http://www.thebigpond.eu/2014/01/' />
+	<link rel='archives' title='September 2013' href='http://www.thebigpond.eu/2013/09/' />
+	<link rel='archives' title='July 2013' href='http://www.thebigpond.eu/2013/07/' />
+	<link rel='archives' title='April 2013' href='http://www.thebigpond.eu/2013/04/' />
+	<link rel='archives' title='February 2013' href='http://www.thebigpond.eu/2013/02/' />
+	<link rel='archives' title='January 2013' href='http://www.thebigpond.eu/2013/01/' />
+	<link rel='archives' title='December 2012' href='http://www.thebigpond.eu/2012/12/' />
+	<link rel='archives' title='November 2012' href='http://www.thebigpond.eu/2012/11/' />
+	<link rel='archives' title='September 2012' href='http://www.thebigpond.eu/2012/09/' />
+	<link rel='archives' title='August 2012' href='http://www.thebigpond.eu/2012/08/' />
+	<link rel='archives' title='July 2012' href='http://www.thebigpond.eu/2012/07/' />
+	<link rel='archives' title='June 2012' href='http://www.thebigpond.eu/2012/06/' />
+	<link rel='archives' title='May 2012' href='http://www.thebigpond.eu/2012/05/' />
+	<link rel='archives' title='April 2012' href='http://www.thebigpond.eu/2012/04/' />
+	<link rel='archives' title='March 2012' href='http://www.thebigpond.eu/2012/03/' />
+	<link rel='archives' title='February 2012' href='http://www.thebigpond.eu/2012/02/' />
+	<link rel='archives' title='January 2012' href='http://www.thebigpond.eu/2012/01/' />
+	<link rel='archives' title='December 2011' href='http://www.thebigpond.eu/2011/12/' />
+	<link rel='archives' title='October 2011' href='http://www.thebigpond.eu/2011/10/' />
+	<link rel='archives' title='September 2011' href='http://www.thebigpond.eu/2011/09/' />
+	<link rel='archives' title='August 2011' href='http://www.thebigpond.eu/2011/08/' />
+	<link rel='archives' title='July 2011' href='http://www.thebigpond.eu/2011/07/' />
+	<link rel='archives' title='June 2011' href='http://www.thebigpond.eu/2011/06/' />
+	<link rel='archives' title='May 2011' href='http://www.thebigpond.eu/2011/05/' />
+	<link rel='archives' title='April 2011' href='http://www.thebigpond.eu/2011/04/' />
+	<link rel='archives' title='March 2011' href='http://www.thebigpond.eu/2011/03/' />
+	<link rel='archives' title='January 2011' href='http://www.thebigpond.eu/2011/01/' />
+	<link rel='archives' title='December 2010' href='http://www.thebigpond.eu/2010/12/' />
+	<link rel='archives' title='November 2010' href='http://www.thebigpond.eu/2010/11/' />
+	<link rel='archives' title='October 2010' href='http://www.thebigpond.eu/2010/10/' />
+	<link rel='archives' title='September 2010' href='http://www.thebigpond.eu/2010/09/' />
+	<link rel='archives' title='July 2010' href='http://www.thebigpond.eu/2010/07/' />
+	<link rel='archives' title='June 2010' href='http://www.thebigpond.eu/2010/06/' />
+	<link rel='archives' title='May 2010' href='http://www.thebigpond.eu/2010/05/' />
+	<link rel='archives' title='April 2010' href='http://www.thebigpond.eu/2010/04/' />
+	<link rel='archives' title='March 2010' href='http://www.thebigpond.eu/2010/03/' />
+	<link rel='archives' title='February 2010' href='http://www.thebigpond.eu/2010/02/' />
+	<link rel='archives' title='January 2010' href='http://www.thebigpond.eu/2010/01/' />
+	<link rel='archives' title='December 2009' href='http://www.thebigpond.eu/2009/12/' />
+	<link rel='archives' title='November 2009' href='http://www.thebigpond.eu/2009/11/' />
+	<link rel='archives' title='October 2009' href='http://www.thebigpond.eu/2009/10/' />
+	<link rel='archives' title='September 2009' href='http://www.thebigpond.eu/2009/09/' />
+	<link rel='archives' title='July 2009' href='http://www.thebigpond.eu/2009/07/' />
+	<link rel='archives' title='June 2009' href='http://www.thebigpond.eu/2009/06/' />
+	<link rel='archives' title='May 2009' href='http://www.thebigpond.eu/2009/05/' />
+	<link rel='archives' title='April 2009' href='http://www.thebigpond.eu/2009/04/' />
+	<link rel='archives' title='March 2009' href='http://www.thebigpond.eu/2009/03/' />
+	<link rel='archives' title='February 2009' href='http://www.thebigpond.eu/2009/02/' />
+	<link rel='archives' title='January 2009' href='http://www.thebigpond.eu/2009/01/' />
+	<link rel='archives' title='December 2008' href='http://www.thebigpond.eu/2008/12/' />
+	<link rel='archives' title='November 2008' href='http://www.thebigpond.eu/2008/11/' />
+	<link rel='archives' title='October 2008' href='http://www.thebigpond.eu/2008/10/' />
+	<link rel='archives' title='September 2008' href='http://www.thebigpond.eu/2008/09/' />
+		<link rel="alternate" type="application/rss+xml" title="The Big Pond &raquo; Home Comments Feed" href="http://www.thebigpond.eu/home/feed/" />
+<link rel='stylesheet' id='shadowbox-css-css'  href='http://www.thebigpond.eu/wp-content/plugins/shadowbox-js/shadowbox/shadowbox.css?ver=3.0.3' type='text/css' media='screen' />
+<link rel='stylesheet' id='shadowbox-extras-css'  href='http://www.thebigpond.eu/wp-content/plugins/shadowbox-js/css/extras.css?ver=3.0.3' type='text/css' media='screen' />
+<script type='text/javascript' src='http://www.thebigpond.eu/wp-includes/js/jquery/jquery.js?ver=1.7.1'></script>
+<script type='text/javascript' src='http://www.thebigpond.eu/wp-content/plugins/wp-video-lightbox/js/jquery.prettyPhoto.js?ver=2.5.6'></script>
+<script type='text/javascript' src='http://www.thebigpond.eu/wp-content/plugins/google-analyticator/external-tracking.min.js?ver=6.2'></script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www.thebigpond.eu/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://www.thebigpond.eu/wp-includes/wlwmanifest.xml" /> 
+<link rel='prev' title='Jobs' href='http://www.thebigpond.eu/jobs-in-europe/' />
+<link rel='next' title='Blog' href='http://www.thebigpond.eu/blog/' />
+<meta name="generator" content="WordPress 3.3" />
+<link rel='canonical' href='http://www.thebigpond.eu/' />
+<link type="text/css" rel="stylesheet" href="http://www.thebigpond.eu/wp-content/plugins/wp-video-lightbox/css/prettyPhoto.css" /><style type="text/css">
+  #splash
+  {
+  background:url(http://www.thebigpond.eu/wp-content/thebigpond_banner.gif) no-repeat center;
+  height:180px;
+  width:900px;
+}
+</style>
+<!-- Google Analytics Tracking by Google Analyticator 6.2: http://ronaldheft.com/code/analyticator/ -->
+<script type="text/javascript">
+	var analyticsFileTypes = [''];
+	var analyticsEventTracking = 'enabled';
+</script>
+<script type="text/javascript">
+	var _gaq = _gaq || [];
+	_gaq.push(['_setAccount', 'UA-5022935-1']);
+	_gaq.push(['_trackPageview']);
+	_gaq.push(['_trackPageLoadTime']);
+
+	(function() {
+		var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+		ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+		var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+	})();
+</script>
+</head>
+<body>
+<div id="header">
+	<!-- <div id="logo">
+		<h1><a href="http://www.thebigpond.eu" title="The Big Pond">The Big Pond</a></h1>
+		<h2>South African business in Europe</h2>
+	</div> -->
+       <div id="date">
+       <p>May 30, 2018</p>
+       </div>
+	<div id="menu">
+		<ul>
+	     <li class="page_item page-item-1192 current_page_item"><a href="http://www.thebigpond.eu/">Home</a></li>
+<li class="page_item page-item-577"><a href="http://www.thebigpond.eu/jobs-in-europe/">Jobs</a></li>
+<li class="page_item page-item-3882"><a href="http://www.thebigpond.eu/press-releases/">Press releases</a></li>
+<li class="page_item page-item-2"><a href="http://www.thebigpond.eu/about/">About</a></li>
+<li class="page_item page-item-100"><a href="http://www.thebigpond.eu/advertising/">Advertise</a></li>
+<li class="page_item page-item-8"><a href="http://www.thebigpond.eu/contact/">Contact</a></li>
+		</ul>
+	</div>
+</div>
+<div id="splash">
+<div id="ad1"><a href="http://www.thebigpond.eu/?administer_redirect_15=http://www.kqzyfj.com/click-5290559-10793287?cm_mmc=CJ-_-3351819-_-5290559-_-125x125%20Logo%20Store" target="_top">
+<img src="http://www.lduhtrp.net/image-5290559-10793287" width="125" height="125" alt="99Designs.com" border="0"/></a></div> </div><div id="main">
+	<div id="content">
+             <h2 class="post-title">Top Stories</h2>
+             	        <div class="post" id="post-5475">
+                 <p class="date">
+                  <span class="month">
+                  Apr                  </span>
+                  <span class="day">
+                    26                  </span>
+                  <span class="year">
+                    2015                  </span>
+                  </p>
+                  <h2 class="title"><a href="http://www.thebigpond.eu/2015/04/26/south-africas-property-market-a-rejoinder/" rel="bookmark">South Africa&#8217;s property market &#8211; a rejoinder</a></h2>
+                  <div class="meta">
+      				      <p>Published by <a href="http://www.thebigpond.eu/author/admin/" title="Posts by admin" rel="author">admin</a>  under <a href="http://www.thebigpond.eu/category/opinion/" title="View all posts in Opinion" rel="category tag">Opinion</a>,<a href="http://www.thebigpond.eu/category/opinion/south-africa/" title="View all posts in South Africa" rel="category tag">South Africa</a>,<a href="http://www.thebigpond.eu/category/topstories/" title="View all posts in Top Stories" rel="category tag">Top Stories</a> </p>
+      			      </div>
+      			      <div class="entry">
+                    <p>Early in 2012 I wrote <a href="http://www.thebigpond.eu/2012/02/09/sas-property-bubble-another-rejoinder/">this</a> article. Now read <a href="http://www.moneyweb.co.za/moneyweb-opinion/columnists/my-long-road-to-freedom-2/" target="_blank">this </a>article dated 14 April 2015 by Magnus Heystek, investment strategist of Brenthurst Wealth in South Africa.</p>
+<p>The key numbers/phrases in Heystek&#8217;s article is &#8220;2007&#8243;, &#8220;20 percent down in real terms&#8221;. In my article it is &#8220;25 percent in real terms&#8221;.</p>
+<p>Today I think a 25-percent drop in real terms won&#8217;t be the end of the road. I&#8217;m not able to say where and when the downtrend will level out. Maybe not at all.</p>
+
+                                        <p class="post-tags">
+                                          </p>
+            			</div>
+                  <p class="comments">
+                    <a href="http://www.thebigpond.eu/2015/04/26/south-africas-property-market-a-rejoinder/#respond" title="Comment on South Africa&#8217;s property market &#8211; a rejoinder">No responses yet</a>                  </p>
+	        </div>
+           	        <div class="post" id="post-5443">
+                 <p class="date">
+                  <span class="month">
+                  Jan                  </span>
+                  <span class="day">
+                    15                  </span>
+                  <span class="year">
+                    2014                  </span>
+                  </p>
+                  <h2 class="title"><a href="http://www.thebigpond.eu/2014/01/15/how-the-elite-is-killing-off-the-west/" rel="bookmark">How the elite is killing off the West</a></h2>
+                  <div class="meta">
+      				      <p>Published by <a href="http://www.thebigpond.eu/author/admin/" title="Posts by admin" rel="author">admin</a>  under <a href="http://www.thebigpond.eu/category/opinion/" title="View all posts in Opinion" rel="category tag">Opinion</a>,<a href="http://www.thebigpond.eu/category/topstories/" title="View all posts in Top Stories" rel="category tag">Top Stories</a> </p>
+      			      </div>
+      			      <div class="entry">
+                    <p>Here is an opinion piece from the Financial Times which is so close to what I&#8217;ve been saying ever since the first day of the banking crisis, that Financial Times will forgive me for re-posting the piece here in full.</p>
+<p> <a href="http://www.thebigpond.eu/2014/01/15/how-the-elite-is-killing-off-the-west/#more-5443" class="more-link">[Read on]</a></p>
+
+                                        <p class="post-tags">
+                      Tags: <a href="http://www.thebigpond.eu/tag/banking/" rel="tag">banking</a><br/>                    </p>
+            			</div>
+                  <p class="comments">
+                    <a href="http://www.thebigpond.eu/2014/01/15/how-the-elite-is-killing-off-the-west/#respond" title="Comment on How the elite is killing off the West">No responses yet</a>                  </p>
+	        </div>
+           <a href="http://hpf1855.co.za/index.php?option=com_content&amp;view=article&amp;id=85&amp;Itemid=66"><img src="http://www.thebigpond.eu/wp-content/xmas-at-hpf24.jpg" alt="" title="xmas at hpf2" width="468" height="60" class="alignnone size-full wp-image-5002" /></a>                <div class="post" id="post-5419">
+                 <p class="date">
+                  <span class="month">
+                  Jul                  </span>
+                  <span class="day">
+                    11                  </span>
+                  <span class="year">
+                    2013                  </span>
+                  </p>
+                  <h2 class="title"><a href="http://www.thebigpond.eu/2013/07/11/of-bankers-grey-men-and-grey-suits/" rel="bookmark">Of bankers, grey men and grey suits</a></h2>
+
+                  <div class="meta">
+
+      				      <p>Published by <a href="http://www.thebigpond.eu/author/admin/" title="Posts by admin" rel="author">admin</a>  under <a href="http://www.thebigpond.eu/category/opinion/europe/" title="View all posts in Europe" rel="category tag">Europe</a>,<a href="http://www.thebigpond.eu/category/opinion/" title="View all posts in Opinion" rel="category tag">Opinion</a>,<a href="http://www.thebigpond.eu/category/topstories/" title="View all posts in Top Stories" rel="category tag">Top Stories</a> </p>
+
+      			      </div>
+
+      			      <div class="entry">
+
+                    <p>On October 6, 2008 I wrote  (<a href="http://www.thebigpond.eu/2008/10/06/cowboy-capitalism-is-dead/">here</a>) under the headline &#8220;Cowboy capitalism is dead&#8221; that we&#8217;re heading back to the 1950s and 1960s, when bankers were &#8220;grey men in grey suits&#8221;, earning little more than the local school teacher. <a href="http://www.thebigpond.eu/2013/07/11/of-bankers-grey-men-and-grey-suits/#more-5419" class="more-link">[Read on]</a></p>
+                  
+                    <p class="post-tags">
+
+                      Tags: <a href="http://www.thebigpond.eu/tag/banking/" rel="tag">banking</a><br/>
+                    </p>
+
+            			</div>
+
+                  <p class="comments">
+
+                    <a href="http://www.thebigpond.eu/2013/07/11/of-bankers-grey-men-and-grey-suits/#respond" title="Comment on Of bankers, grey men and grey suits">No responses yet</a>
+                  </p>
+
+	        </div>
+                <div class="post" id="post-5406">
+                 <p class="date">
+                  <span class="month">
+                  Apr                  </span>
+                  <span class="day">
+                    29                  </span>
+                  <span class="year">
+                    2013                  </span>
+                  </p>
+                  <h2 class="title"><a href="http://www.thebigpond.eu/2013/04/29/when-the-going-gets-tough-a-rejoinder/" rel="bookmark">When the going gets tough &#8211; a rejoinder</a></h2>
+
+                  <div class="meta">
+
+      				      <p>Published by <a href="http://www.thebigpond.eu/author/admin/" title="Posts by admin" rel="author">admin</a>  under <a href="http://www.thebigpond.eu/category/opinion/europe/" title="View all posts in Europe" rel="category tag">Europe</a>,<a href="http://www.thebigpond.eu/category/opinion/" title="View all posts in Opinion" rel="category tag">Opinion</a>,<a href="http://www.thebigpond.eu/category/people/" title="View all posts in People" rel="category tag">People</a>,<a href="http://www.thebigpond.eu/category/topstories/" title="View all posts in Top Stories" rel="category tag">Top Stories</a> </p>
+
+      			      </div>
+
+      			      <div class="entry">
+
+                    <p>Many years ago I wrote about the high regard I have for people who “get going when the going gets tough”. Then I mentioned I get goose bumps every time I observe someone “getting going” when he has to.</p>
+<p>For what I mean with “getting going when the going gets tough”, <a href="http://www.thebigpond.eu/2008/09/09/when-the-going-gets-tough/">read my first post</a>.</p>
+<p>Yesterday I had another one of those goose-bump moments. This time my 12-year old daughter was responsible. I thought I should honor her achievement by shortly relating the story.   <a href="http://www.thebigpond.eu/2013/04/29/when-the-going-gets-tough-a-rejoinder/#more-5406" class="more-link">[Read on]</a></p>
+                  
+                    <p class="post-tags">
+
+                      
+                    </p>
+
+            			</div>
+
+                  <p class="comments">
+
+                    <a href="http://www.thebigpond.eu/2013/04/29/when-the-going-gets-tough-a-rejoinder/#comments" title="Comment on When the going gets tough &#8211; a rejoinder">One response so far</a>
+                  </p>
+
+	        </div>
+                <div class="post" id="post-5402">
+                 <p class="date">
+                  <span class="month">
+                  Apr                  </span>
+                  <span class="day">
+                    24                  </span>
+                  <span class="year">
+                    2013                  </span>
+                  </p>
+                  <h2 class="title"><a href="http://www.thebigpond.eu/2013/04/24/when-good-people-are-powerless/" rel="bookmark">When good people are powerless</a></h2>
+
+                  <div class="meta">
+
+      				      <p>Published by <a href="http://www.thebigpond.eu/author/admin/" title="Posts by admin" rel="author">admin</a>  under <a href="http://www.thebigpond.eu/category/opinion/" title="View all posts in Opinion" rel="category tag">Opinion</a>,<a href="http://www.thebigpond.eu/category/opinion/south-africa/" title="View all posts in South Africa" rel="category tag">South Africa</a>,<a href="http://www.thebigpond.eu/category/topstories/" title="View all posts in Top Stories" rel="category tag">Top Stories</a> </p>
+
+      			      </div>
+
+      			      <div class="entry">
+
+                    <p>What a mess South Africa has become. What a sad, disappointing mess&#8230;.</p>
+<p>That&#8217;s all one can say after reading<a href="http://www.news24.com/SouthAfrica/News/Gumtree-ad-murder-case-postponed-20120927" target="_blank"> this report </a>(and specifically the comments of the citizens below the story).</p>
+<p>For someone sitting outside and looking in, the situation gets doubly sad when I notice how &#8220;desensitized&#8221; the good people (99% of them are good) have become after so many years of so much crime.</p>
+<p>Powerless to change anything, they do the only thing they can in their situation &#8211; look the other way&#8230;pretend nothing has happened.</p>
+<p>I cry for you, my beloved country.</p>
+<p>&nbsp;</p>
+                  
+                    <p class="post-tags">
+
+                      
+                    </p>
+
+            			</div>
+
+                  <p class="comments">
+
+                    <a href="http://www.thebigpond.eu/2013/04/24/when-good-people-are-powerless/#respond" title="Comment on When good people are powerless">No responses yet</a>
+                  </p>
+
+	        </div>
+                <div class="post" id="post-5359">
+                 <p class="date">
+                  <span class="month">
+                  Jan                  </span>
+                  <span class="day">
+                    31                  </span>
+                  <span class="year">
+                    2013                  </span>
+                  </p>
+                  <h2 class="title"><a href="http://www.thebigpond.eu/2013/01/31/who-to-lobby-to-keep-karoo-unfracked/" rel="bookmark">Who to lobby to keep the Karoo unfracked</a></h2>
+
+                  <div class="meta">
+
+      				      <p>Published by <a href="http://www.thebigpond.eu/author/admin/" title="Posts by admin" rel="author">admin</a>  under <a href="http://www.thebigpond.eu/category/opinion/" title="View all posts in Opinion" rel="category tag">Opinion</a>,<a href="http://www.thebigpond.eu/category/opinion/south-africa/" title="View all posts in South Africa" rel="category tag">South Africa</a>,<a href="http://www.thebigpond.eu/category/topstories/" title="View all posts in Top Stories" rel="category tag">Top Stories</a> </p>
+
+      			      </div>
+
+      			      <div class="entry">
+
+                    <p>Every country which gives in to the oil company lobby and the promise of cheap energy, is a step closer to a fracked-up Karoo. The latest step in that direction was taken when France turned pro-fracking a few weeks ago. Until then, France strengthened the case of anti-fracking organisations, such as the Treasure the Karoo Action Group (<a href="http://treasurethekaroo.co.za/" target="_blank">here</a>).</p>
+<p>That bulwark&#8217;s gone now and we seem to be sliding ever closer to the inevitable.   <a href="http://www.thebigpond.eu/2013/01/31/who-to-lobby-to-keep-karoo-unfracked/#more-5359" class="more-link">[Read on]</a></p>
+                  
+                    <p class="post-tags">
+
+                      Tags: <a href="http://www.thebigpond.eu/tag/karoo/" rel="tag">karoo</a><br/>
+                    </p>
+
+            			</div>
+
+                  <p class="comments">
+
+                    <a href="http://www.thebigpond.eu/2013/01/31/who-to-lobby-to-keep-karoo-unfracked/#comments" title="Comment on Who to lobby to keep the Karoo unfracked">2 responses so far</a>
+                  </p>
+
+	        </div>
+                <div class="post" id="post-5326">
+                 <p class="date">
+                  <span class="month">
+                  Dec                  </span>
+                  <span class="day">
+                    10                  </span>
+                  <span class="year">
+                    2012                  </span>
+                  </p>
+                  <h2 class="title"><a href="http://www.thebigpond.eu/2012/12/10/religions-role-in-the-new-south-africa/" rel="bookmark">Religion&#8217;s place in the new South Africa</a></h2>
+
+                  <div class="meta">
+
+      				      <p>Published by <a href="http://www.thebigpond.eu/author/admin/" title="Posts by admin" rel="author">admin</a>  under <a href="http://www.thebigpond.eu/category/opinion/" title="View all posts in Opinion" rel="category tag">Opinion</a>,<a href="http://www.thebigpond.eu/category/opinion/south-africa/" title="View all posts in South Africa" rel="category tag">South Africa</a>,<a href="http://www.thebigpond.eu/category/topstories/" title="View all posts in Top Stories" rel="category tag">Top Stories</a> </p>
+
+      			      </div>
+
+      			      <div class="entry">
+
+                    <p>As far as I know, the role religion played in the peaceful hand-over of power by the white minority in South Africa to the black majority in 1994 has never been highlighted in the media. Maybe, because the church (as an institution, with its functionaries) was in the bag of the apartheid government. And a story highlighting the positive role religion played would simply have been too contradictory to be credible. <a href="http://www.thebigpond.eu/2012/12/10/religions-role-in-the-new-south-africa/#more-5326" class="more-link">[Read on]</a></p>
+                  
+                    <p class="post-tags">
+
+                      Tags: <a href="http://www.thebigpond.eu/tag/south-africa/" rel="tag">South Africa</a><br/>
+                    </p>
+
+            			</div>
+
+                  <p class="comments">
+
+                    <a href="http://www.thebigpond.eu/2012/12/10/religions-role-in-the-new-south-africa/#comments" title="Comment on Religion&#8217;s place in the new South Africa">One response so far</a>
+                  </p>
+
+	        </div>
+                <div class="post" id="post-5312">
+                 <p class="date">
+                  <span class="month">
+                  Nov                  </span>
+                  <span class="day">
+                    22                  </span>
+                  <span class="year">
+                    2012                  </span>
+                  </p>
+                  <h2 class="title"><a href="http://www.thebigpond.eu/2012/11/22/a-career-rises-from-the-grave-a-revisit/" rel="bookmark">A career rises from the grave &#8211; a revisit</a></h2>
+
+                  <div class="meta">
+
+      				      <p>Published by <a href="http://www.thebigpond.eu/author/admin/" title="Posts by admin" rel="author">admin</a>  under <a href="http://www.thebigpond.eu/category/opinion/europe/" title="View all posts in Europe" rel="category tag">Europe</a>,<a href="http://www.thebigpond.eu/category/opinion/" title="View all posts in Opinion" rel="category tag">Opinion</a>,<a href="http://www.thebigpond.eu/category/topstories/" title="View all posts in Top Stories" rel="category tag">Top Stories</a> </p>
+
+      			      </div>
+
+      			      <div class="entry">
+
+                    <p>In Germany newspapers and news agencies are closing down now at the rate of almost one per week. Today it was the turn of Financial Times Deutschland (FTD), my favourite local business daily. As a subscriber (2002 till the end) I was convinced the FTD was a far better read than the &#8220;mother paper&#8221; Financial Times on the island.  <a href="http://www.thebigpond.eu/2012/11/22/a-career-rises-from-the-grave-a-revisit/#more-5312" class="more-link">[Read on]</a></p>
+                  
+                    <p class="post-tags">
+
+                      Tags: <a href="http://www.thebigpond.eu/tag/german-media/" rel="tag">German media</a><br/>
+                    </p>
+
+            			</div>
+
+                  <p class="comments">
+
+                    <a href="http://www.thebigpond.eu/2012/11/22/a-career-rises-from-the-grave-a-revisit/#comments" title="Comment on A career rises from the grave &#8211; a revisit">3 responses so far</a>
+                  </p>
+
+	        </div>
+                <div class="post" id="post-5246">
+                 <p class="date">
+                  <span class="month">
+                  Jul                  </span>
+                  <span class="day">
+                    25                  </span>
+                  <span class="year">
+                    2012                  </span>
+                  </p>
+                  <h2 class="title"><a href="http://www.thebigpond.eu/2012/07/25/the-big-announcement-out-of-brussels/" rel="bookmark">The big announcement out of Brussels</a></h2>
+
+                  <div class="meta">
+
+      				      <p>Published by <a href="http://www.thebigpond.eu/author/admin/" title="Posts by admin" rel="author">admin</a>  under <a href="http://www.thebigpond.eu/category/opinion/europe/" title="View all posts in Europe" rel="category tag">Europe</a>,<a href="http://www.thebigpond.eu/category/opinion/" title="View all posts in Opinion" rel="category tag">Opinion</a>,<a href="http://www.thebigpond.eu/category/topstories/" title="View all posts in Top Stories" rel="category tag">Top Stories</a> </p>
+
+      			      </div>
+
+      			      <div class="entry">
+
+                    <p>The pressure is building again around the Euro and Euroland. But, this time the response is different. This time there&#8217;s no talk of another summit and another massive &#8220;Rettungspaket&#8221; for countries and/or banks. This time a different wind is blowing around the capitals of Europe.  <a href="http://www.thebigpond.eu/2012/07/25/the-big-announcement-out-of-brussels/#more-5246" class="more-link">[Read on]</a></p>
+                  
+                    <p class="post-tags">
+
+                      
+                    </p>
+
+            			</div>
+
+                  <p class="comments">
+
+                    <a href="http://www.thebigpond.eu/2012/07/25/the-big-announcement-out-of-brussels/#comments" title="Comment on The big announcement out of Brussels">One response so far</a>
+                  </p>
+
+	        </div>
+                <div class="post" id="post-5217">
+                 <p class="date">
+                  <span class="month">
+                  Jul                  </span>
+                  <span class="day">
+                    06                  </span>
+                  <span class="year">
+                    2012                  </span>
+                  </p>
+                  <h2 class="title"><a href="http://www.thebigpond.eu/2012/07/06/notions-about-the-germans-which-are-wrong/" rel="bookmark">Incorrect notions about the Germans</a></h2>
+
+                  <div class="meta">
+
+      				      <p>Published by <a href="http://www.thebigpond.eu/author/admin/" title="Posts by admin" rel="author">admin</a>  under <a href="http://www.thebigpond.eu/category/opinion/europe/" title="View all posts in Europe" rel="category tag">Europe</a>,<a href="http://www.thebigpond.eu/category/opinion/" title="View all posts in Opinion" rel="category tag">Opinion</a>,<a href="http://www.thebigpond.eu/category/topstories/" title="View all posts in Top Stories" rel="category tag">Top Stories</a> </p>
+
+      			      </div>
+
+      			      <div class="entry">
+
+                    <p>A few incorrect notions have been making the rounds in the media &#8211; about Germany&#8217;s &#8220;financial strength&#8221; on the one hand, and its &#8220;desire to control everything and everyone in Europe&#8221; on the other.  <a href="http://www.thebigpond.eu/2012/07/06/notions-about-the-germans-which-are-wrong/#more-5217" class="more-link">[Read on]</a></p>
+                  
+                    <p class="post-tags">
+
+                      
+                    </p>
+
+            			</div>
+
+                  <p class="comments">
+
+                    <a href="http://www.thebigpond.eu/2012/07/06/notions-about-the-germans-which-are-wrong/#respond" title="Comment on Incorrect notions about the Germans">No responses yet</a>
+                  </p>
+
+	        </div>
+                  <p align="center"><a href="http://www.thebigpond.eu/posts/">Next &#187;</p>
+
+	</div>
+  <div id="sidebar1" class="sidecol">
+    <ul>
+    	   <li>
+             <h2>More News</h2>
+                <ul>
+                                            <li><a href="http://www.thebigpond.eu/2014/10/23/my-friedrichs-moment/" rel="bookmark" title="Permanent Link to My &#8220;Friedrichs moment&#8221;">My &#8220;Friedrichs moment&#8221;</a></li>
+                                            <li><a href="http://www.thebigpond.eu/2013/09/05/mail-ru-to-pay-naspers-special-dividend-later-this-year/" rel="bookmark" title="Permanent Link to Mail.ru to pay Naspers &#8220;special dividend&#8221; later this year">Mail.ru to pay Naspers &#8220;special dividend&#8221; later this year</a></li>
+                                            <li><a href="http://www.thebigpond.eu/2013/09/04/back-to-the-feudal-system/" rel="bookmark" title="Permanent Link to Back to the feudal system">Back to the feudal system</a></li>
+                                            <li><a href="http://www.thebigpond.eu/2013/02/18/im-famous/" rel="bookmark" title="Permanent Link to I&#8217;m famous&#8230;">I&#8217;m famous&#8230;</a></li>
+                                            <li><a href="http://www.thebigpond.eu/2013/01/31/a-frackin-good-idea/" rel="bookmark" title="Permanent Link to A frackin good idea">A frackin good idea</a></li>
+                                            <li><a href="http://www.thebigpond.eu/2013/01/15/5352/" rel="bookmark" title="Permanent Link to Naspers on Top 100 list">Naspers on Top 100 list</a></li>
+                                            <li><a href="http://www.thebigpond.eu/2012/11/20/hopla-good-news-for-naspers-share/" rel="bookmark" title="Permanent Link to Hopla! Good news for Naspers share">Hopla! Good news for Naspers share</a></li>
+                                            <li><a href="http://www.thebigpond.eu/2012/09/19/marikana-article-trick-or-treat/" rel="bookmark" title="Permanent Link to Marikana article: trick or treat?">Marikana article: trick or treat?</a></li>
+                                    </ul>
+             </li>
+             <li id="text-225326641" class="widget widget_text"><h2 class="widgettitle">Subscribe to RSS Feeds</h2>
+			<div class="textwidget"><ul>
+<li><a href="http://www.thebigpond.eu/feed/" title="Syndicate this site using RSS 2.0">Posts Feed</a></li>
+<li><a href="http://www.thebigpond.eu/comments/feed/" title="The latest comments to all posts in RSS">Comments Feed</a></li>
+</ul>
+</div>
+		</li>
+<li id="search-2" class="widget widget_search"><form role="search" method="get" id="searchform" action="http://www.thebigpond.eu/" >
+	<div><label class="screen-reader-text" for="s">Search for:</label>
+	<input type="text" value="" name="s" id="s" />
+	<input type="submit" id="searchsubmit" value="Search" />
+	</div>
+	</form></li>
+<li id="execphp-268727721" class="widget widget_execphp">			
+			<div class="execphpwidget"><h2>Unlisted Co's in the News</h2>
+	<ul class='xoxo blogroll'>
+<li><a href="http://www.thebigpond.eu/2008/11/08/another-reason-why-we-need-that-sponsor/" title="FirstCape is a UK/SA joint venture launched in 2002 to help SA wine farmers supply the UK market. It has five wine co-ops as shareholders and over 200 wine farms (mostly in the Breede River Valley) supply grapes to these co-ops. ">FirstCape</a></li>
+<li><a href="http://www.thebigpond.eu/2008/11/13/nimbuzz-in-big-deal-with-von-holtzbrinck/" title="Nimbuzz is an innovative Dutch IT company, co-financed by SA&#8217;s Naspers. Its app lets you call, chat, message, and send files on the go. For free. And call for free. ">Nimbuzz</a></li>
+<li><a href="http://www.thebigpond.eu/2008/10/30/ebay-for-big-boys-born-and-built-in-sa/" title="Plusto is an online auction platform built and recently launched in South Africa for global business-to-business trade (in whatever way you prefer, incl. auctions, fixed price sales, Dutch auctions etc). ">Plusto.com</a></li>
+<li><a href="http://www.thebigpond.eu/2008/11/13/hot-as-hell-redespresso/" title="A Cape Town-based company which developed a new Rooibos espresso-like product. It has already won two major international awards this year.">red espresso</a></li>
+
+	</ul>
+
+</div>
+		</li>
+<li id="ad-left-sidebar-widget" class="widget administer_widget"><script type="text/javascript">
+var uri = 'http://impde.tradedoubler.com/imp?type(js)g(18251020)a(1736470)' + new String (Math.random()).substring (2, 11);
+document.write('<sc'+'ript type="text/javascript" src="'+uri+'" charset="ISO-8859-1"></sc'+'ript>');
+</script></li>
+<li id="execphp-271948071" class="widget widget_execphp">			
+			<div class="execphpwidget"><h2>My Favourite Blogs</h2>
+	<ul class='xoxo blogroll'>
+<li><a href="http://business.timesonline.co.uk/tol/business/industry_sectors/media/article1923706.ece" title="The 50 best business blogs in the UK as selected by TimesOnline">Best Business Blogs</a></li>
+<li><a href="http://www.thebobs.com/index.php?l=en&#038;s=1219157455927351NLSJGMGJ" title="A collection of interesting blogs on all themes from all over the world">Blogopedia</a></li>
+<li><a href="http://mdw.typepad.com/" title="Mandy de Waal covers the media sector for Moneyweb and is a writer and columnist for ITWeb, Brainstorm, Brand Magazine, Marklives.com, Marketing Web as well as Mail&amp;Guardian&#8217;s Thought Leader and Tech Leader.">SA media scene</a></li>
+<li><a href="http://www.thoughtleader.co.za/" title="The busy blog space of SA weekly newspaper Mail &amp; Guardian ">Thought Leader</a></li>
+<li><a href="http://www.top100-business-blogs.de/top100/tops" title="Here are Germany&#8217;s 100 best business blogs, measured by Technorati links. The blog in the top spot (Basic Thinking) was recently sold for €45,000. ">Top 100 German business blogs</a></li>
+<li><a href="http://www.whalecottage.com/blog/" title="Tourism-related news and views written by an old hand on the SA tourism scene">Whaletales</a></li>
+
+	</ul>
+
+</div>
+		</li>
+<li id="categories-272116361" class="widget widget_categories"><h2 class="widgettitle">Categories</h2>
+		<ul>
+	<li class="cat-item cat-item-4"><a href="http://www.thebigpond.eu/category/companies/" title="View all posts filed under Companies">Companies</a>
+</li>
+	<li class="cat-item cat-item-9"><a href="http://www.thebigpond.eu/category/opinion/elsewhere/" title="View all posts filed under Elsewhere">Elsewhere</a>
+</li>
+	<li class="cat-item cat-item-7"><a href="http://www.thebigpond.eu/category/opinion/europe/" title="View all posts filed under Europe">Europe</a>
+</li>
+	<li class="cat-item cat-item-265"><a href="http://www.thebigpond.eu/category/morenews/" title="News items of lower importance. ">More News</a>
+</li>
+	<li class="cat-item cat-item-6"><a href="http://www.thebigpond.eu/category/opinion/" title="View all posts filed under Opinion">Opinion</a>
+</li>
+	<li class="cat-item cat-item-5"><a href="http://www.thebigpond.eu/category/people/" title="View all posts filed under People">People</a>
+</li>
+	<li class="cat-item cat-item-8"><a href="http://www.thebigpond.eu/category/opinion/south-africa/" title="View all posts filed under South Africa">South Africa</a>
+</li>
+	<li class="cat-item cat-item-264"><a href="http://www.thebigpond.eu/category/topstories/" title="News stories of bigger importance. ">Top Stories</a>
+</li>
+	<li class="cat-item cat-item-1"><a href="http://www.thebigpond.eu/category/uncategorized/" title="View all posts filed under Uncategorized">Uncategorized</a>
+</li>
+		</ul>
+</li>
+<li id="meta-2" class="widget widget_meta"><h2 class="widgettitle">Register/Login</h2>
+			<ul>
+						<li><a href="http://www.thebigpond.eu/wp-login.php">Log in</a></li>
+			<li><a href="http://www.thebigpond.eu/feed/" title="Syndicate this site using RSS 2.0">Entries <abbr title="Really Simple Syndication">RSS</abbr></a></li>
+			<li><a href="http://www.thebigpond.eu/comments/feed/" title="The latest comments to all posts in RSS">Comments <abbr title="Really Simple Syndication">RSS</abbr></a></li>
+			<li><a href="http://wordpress.org/" title="Powered by WordPress, state-of-the-art semantic personal publishing platform.">WordPress.org</a></li>
+						</ul>
+</li>
+<li id="archives-2" class="widget widget_archive"><h2 class="widgettitle">Archive</h2>
+		<ul>
+			<li><a href='http://www.thebigpond.eu/2015/04/' title='April 2015'>April 2015</a></li>
+	<li><a href='http://www.thebigpond.eu/2014/10/' title='October 2014'>October 2014</a></li>
+	<li><a href='http://www.thebigpond.eu/2014/01/' title='January 2014'>January 2014</a></li>
+	<li><a href='http://www.thebigpond.eu/2013/09/' title='September 2013'>September 2013</a></li>
+	<li><a href='http://www.thebigpond.eu/2013/07/' title='July 2013'>July 2013</a></li>
+	<li><a href='http://www.thebigpond.eu/2013/04/' title='April 2013'>April 2013</a></li>
+	<li><a href='http://www.thebigpond.eu/2013/02/' title='February 2013'>February 2013</a></li>
+	<li><a href='http://www.thebigpond.eu/2013/01/' title='January 2013'>January 2013</a></li>
+	<li><a href='http://www.thebigpond.eu/2012/12/' title='December 2012'>December 2012</a></li>
+	<li><a href='http://www.thebigpond.eu/2012/11/' title='November 2012'>November 2012</a></li>
+	<li><a href='http://www.thebigpond.eu/2012/09/' title='September 2012'>September 2012</a></li>
+	<li><a href='http://www.thebigpond.eu/2012/08/' title='August 2012'>August 2012</a></li>
+	<li><a href='http://www.thebigpond.eu/2012/07/' title='July 2012'>July 2012</a></li>
+	<li><a href='http://www.thebigpond.eu/2012/06/' title='June 2012'>June 2012</a></li>
+	<li><a href='http://www.thebigpond.eu/2012/05/' title='May 2012'>May 2012</a></li>
+	<li><a href='http://www.thebigpond.eu/2012/04/' title='April 2012'>April 2012</a></li>
+	<li><a href='http://www.thebigpond.eu/2012/03/' title='March 2012'>March 2012</a></li>
+	<li><a href='http://www.thebigpond.eu/2012/02/' title='February 2012'>February 2012</a></li>
+	<li><a href='http://www.thebigpond.eu/2012/01/' title='January 2012'>January 2012</a></li>
+	<li><a href='http://www.thebigpond.eu/2011/12/' title='December 2011'>December 2011</a></li>
+	<li><a href='http://www.thebigpond.eu/2011/10/' title='October 2011'>October 2011</a></li>
+	<li><a href='http://www.thebigpond.eu/2011/09/' title='September 2011'>September 2011</a></li>
+	<li><a href='http://www.thebigpond.eu/2011/08/' title='August 2011'>August 2011</a></li>
+	<li><a href='http://www.thebigpond.eu/2011/07/' title='July 2011'>July 2011</a></li>
+	<li><a href='http://www.thebigpond.eu/2011/06/' title='June 2011'>June 2011</a></li>
+	<li><a href='http://www.thebigpond.eu/2011/05/' title='May 2011'>May 2011</a></li>
+	<li><a href='http://www.thebigpond.eu/2011/04/' title='April 2011'>April 2011</a></li>
+	<li><a href='http://www.thebigpond.eu/2011/03/' title='March 2011'>March 2011</a></li>
+	<li><a href='http://www.thebigpond.eu/2011/01/' title='January 2011'>January 2011</a></li>
+	<li><a href='http://www.thebigpond.eu/2010/12/' title='December 2010'>December 2010</a></li>
+	<li><a href='http://www.thebigpond.eu/2010/11/' title='November 2010'>November 2010</a></li>
+	<li><a href='http://www.thebigpond.eu/2010/10/' title='October 2010'>October 2010</a></li>
+	<li><a href='http://www.thebigpond.eu/2010/09/' title='September 2010'>September 2010</a></li>
+	<li><a href='http://www.thebigpond.eu/2010/07/' title='July 2010'>July 2010</a></li>
+	<li><a href='http://www.thebigpond.eu/2010/06/' title='June 2010'>June 2010</a></li>
+	<li><a href='http://www.thebigpond.eu/2010/05/' title='May 2010'>May 2010</a></li>
+	<li><a href='http://www.thebigpond.eu/2010/04/' title='April 2010'>April 2010</a></li>
+	<li><a href='http://www.thebigpond.eu/2010/03/' title='March 2010'>March 2010</a></li>
+	<li><a href='http://www.thebigpond.eu/2010/02/' title='February 2010'>February 2010</a></li>
+	<li><a href='http://www.thebigpond.eu/2010/01/' title='January 2010'>January 2010</a></li>
+	<li><a href='http://www.thebigpond.eu/2009/12/' title='December 2009'>December 2009</a></li>
+	<li><a href='http://www.thebigpond.eu/2009/11/' title='November 2009'>November 2009</a></li>
+	<li><a href='http://www.thebigpond.eu/2009/10/' title='October 2009'>October 2009</a></li>
+	<li><a href='http://www.thebigpond.eu/2009/09/' title='September 2009'>September 2009</a></li>
+	<li><a href='http://www.thebigpond.eu/2009/07/' title='July 2009'>July 2009</a></li>
+	<li><a href='http://www.thebigpond.eu/2009/06/' title='June 2009'>June 2009</a></li>
+	<li><a href='http://www.thebigpond.eu/2009/05/' title='May 2009'>May 2009</a></li>
+	<li><a href='http://www.thebigpond.eu/2009/04/' title='April 2009'>April 2009</a></li>
+	<li><a href='http://www.thebigpond.eu/2009/03/' title='March 2009'>March 2009</a></li>
+	<li><a href='http://www.thebigpond.eu/2009/02/' title='February 2009'>February 2009</a></li>
+	<li><a href='http://www.thebigpond.eu/2009/01/' title='January 2009'>January 2009</a></li>
+	<li><a href='http://www.thebigpond.eu/2008/12/' title='December 2008'>December 2008</a></li>
+	<li><a href='http://www.thebigpond.eu/2008/11/' title='November 2008'>November 2008</a></li>
+	<li><a href='http://www.thebigpond.eu/2008/10/' title='October 2008'>October 2008</a></li>
+	<li><a href='http://www.thebigpond.eu/2008/09/' title='September 2008'>September 2008</a></li>
+		</ul>
+</li>
+         </ul>
+</div>
+
+<div id="sidebar2" class="sidecol">
+<ul>
+<li id="execphp-272685361" class="widget widget_execphp">			
+			<div class="execphpwidget"><h2>People in the News</h2>
+	<ul class='xoxo blogroll'>
+<li><a href="http://www.thebigpond.eu/2008/11/19/kanonkops-winemaker-is-best-in-the-world/" title="Abrie Beeslaar has been making wine at Kanonkop Estate since 2002. In November 2008 he was voted International Winemaker of the Year. He is only the second SA winemaker to win this award. ">Abrie Beeslaar</a></li>
+<li><a href="http://www.thebigpond.eu/2009/03/13/sabmiller-opens-that-wallet-in-china/" title="Graham Mackay joined The South African Breweries Limited (SAB Ltd) in 1978. In 1997 he was appointed group managing director. When SA Breweries listed on the London Stock Exchange in 1999, he was appointed chief executive. ">Graham Mackay</a></li>
+<li><a href="http://www.thebigpond.eu/2009/03/18/about-usapa-leopards-leap-and-hein/" title="Hein and his team built Leopard&#8217;s Leap into a global wine brand (exported to 30 countries) in eight short years. ">Hein Koegelenberg</a></li>
+<li><a href="http://www.thebigpond.eu/2009/03/09/johann-kriges-big-challenge/" title="A successful wine farmer and exporter and now also head of a very important organisation in the wine industry, namely WOSA. ">Johann Krige</a></li>
+<li><a href="http://www.thebigpond.eu/2009/03/10/its-back-to-school-for-old-idiot-rupert/" title="Johann Rupert, Stellenbosch-born businessman with a few fingers in a few pies, decided he still had fingers free and invested in a merchant bank. ">Johann Rupert</a></li>
+<li><a href="http://www.thebigpond.eu/2008/11/12/sa-woman-on-wall-street-journal-top-50-list/" title="Phuti Malabie (37), managing director of Shanduka Energy, a subsidiary of South Africa-based Shanduka Group, made it onto the Wall Street Journal’s (WSJ) annual list of “50 Women to Watch” around the world.">Phuti Malabie</a></li>
+<li><a href="http://www.thebigpond.eu/2009/02/19/famous-last-words/" title="Dr. Roelof Botha, SA economist, recently immortalised himself by calling the global economic crisis &#8220;a little turbulence&#8221;. ">Roelof Botha</a></li>
+<li><a href="http://www.thebigpond.eu/2009/02/17/johann-gives-vinny-more-dough/" title="Vinny is one of those rare SA internet entrepreneurs who has successfully internationalised his idea.">Vinny Lingham</a></li>
+
+	</ul>
+
+</div>
+		</li>
+<li id="execphp-268681161" class="widget widget_execphp"><h2 class="widgettitle">Tags from A to Z</h2>
+			
+			<div class="execphpwidget"><a href='http://www.thebigpond.eu/tag/absa/' class='tag-link-165' title='1 topic' style='font-size: 8pt;'>ABSA</a>
+<a href='http://www.thebigpond.eu/tag/adriaan-gie/' class='tag-link-314' title='1 topic' style='font-size: 8pt;'>Adriaan Gie</a>
+<a href='http://www.thebigpond.eu/tag/aerosud/' class='tag-link-13' title='1 topic' style='font-size: 8pt;'>Aerosud</a>
+<a href='http://www.thebigpond.eu/tag/airbus/' class='tag-link-15' title='2 topics' style='font-size: 9.6153846153846pt;'>Airbus</a>
+<a href='http://www.thebigpond.eu/tag/alcatel-lucent/' class='tag-link-284' title='1 topic' style='font-size: 8pt;'>Alcatel-Lucent</a>
+<a href='http://www.thebigpond.eu/tag/alisher-usmanov/' class='tag-link-216' title='2 topics' style='font-size: 9.6153846153846pt;'>Alisher Usmanov</a>
+<a href='http://www.thebigpond.eu/tag/allegro/' class='tag-link-260' title='2 topics' style='font-size: 9.6153846153846pt;'>Allegro</a>
+<a href='http://www.thebigpond.eu/tag/amnesty-international/' class='tag-link-340' title='1 topic' style='font-size: 8pt;'>Amnesty International</a>
+<a href='http://www.thebigpond.eu/tag/anc/' class='tag-link-110' title='5 topics' style='font-size: 12.307692307692pt;'>ANC</a>
+<a href='http://www.thebigpond.eu/tag/angela-merkel/' class='tag-link-52' title='7 topics' style='font-size: 13.384615384615pt;'>Angela Merkel</a>
+<a href='http://www.thebigpond.eu/tag/anglo-american/' class='tag-link-321' title='3 topics' style='font-size: 10.692307692308pt;'>Anglo American</a>
+<a href='http://www.thebigpond.eu/tag/anglovaal/' class='tag-link-36' title='2 topics' style='font-size: 9.6153846153846pt;'>Anglovaal</a>
+<a href='http://www.thebigpond.eu/tag/anton-rupert/' class='tag-link-242' title='3 topics' style='font-size: 10.692307692308pt;'>Anton Rupert</a>
+<a href='http://www.thebigpond.eu/tag/arabella/' class='tag-link-376' title='2 topics' style='font-size: 9.6153846153846pt;'>Arabella</a>
+<a href='http://www.thebigpond.eu/tag/aspen/' class='tag-link-369' title='1 topic' style='font-size: 8pt;'>Aspen</a>
+<a href='http://www.thebigpond.eu/tag/banking/' class='tag-link-249' title='25 topics' style='font-size: 17.961538461538pt;'>banking</a>
+<a href='http://www.thebigpond.eu/tag/banking-sector/' class='tag-link-357' title='5 topics' style='font-size: 12.307692307692pt;'>banking sector</a>
+<a href='http://www.thebigpond.eu/tag/bat/' class='tag-link-200' title='13 topics' style='font-size: 15.628205128205pt;'>BAT</a>
+<a href='http://www.thebigpond.eu/tag/bhp-billiton/' class='tag-link-317' title='1 topic' style='font-size: 8pt;'>BHP Billiton</a>
+<a href='http://www.thebigpond.eu/tag/bobs/' class='tag-link-302' title='1 topic' style='font-size: 8pt;'>BOB's</a>
+<a href='http://www.thebigpond.eu/tag/braemore-resources/' class='tag-link-359' title='1 topic' style='font-size: 8pt;'>Braemore Resources</a>
+<a href='http://www.thebigpond.eu/tag/budget/' class='tag-link-153' title='6 topics' style='font-size: 12.935897435897pt;'>Budget</a>
+<a href='http://www.thebigpond.eu/tag/buzzcity/' class='tag-link-272' title='2 topics' style='font-size: 9.6153846153846pt;'>BuzzCity</a>
+<a href='http://www.thebigpond.eu/tag/cape-wines/' class='tag-link-214' title='45 topics' style='font-size: 20.205128205128pt;'>Cape wines</a>
+<a href='http://www.thebigpond.eu/tag/car-industry/' class='tag-link-296' title='11 topics' style='font-size: 15pt;'>car industry</a>
+<a href='http://www.thebigpond.eu/tag/carl-zeiss/' class='tag-link-228' title='1 topic' style='font-size: 8pt;'>Carl Zeiss</a>
+<a href='http://www.thebigpond.eu/tag/china/' class='tag-link-131' title='4 topics' style='font-size: 11.589743589744pt;'>China</a>
+<a href='http://www.thebigpond.eu/tag/claas-daun/' class='tag-link-361' title='2 topics' style='font-size: 9.6153846153846pt;'>Claas Daun</a>
+<a href='http://www.thebigpond.eu/tag/coal-to-liquid/' class='tag-link-281' title='1 topic' style='font-size: 8pt;'>coal-to-liquid</a>
+<a href='http://www.thebigpond.eu/tag/coronation-fund-managers/' class='tag-link-178' title='1 topic' style='font-size: 8pt;'>Coronation Fund Managers</a>
+<a href='http://www.thebigpond.eu/tag/cosatu/' class='tag-link-117' title='3 topics' style='font-size: 10.692307692308pt;'>Cosatu</a>
+<a href='http://www.thebigpond.eu/tag/cowboy-capitalism/' class='tag-link-250' title='2 topics' style='font-size: 9.6153846153846pt;'>cowboy capitalism</a>
+<a href='http://www.thebigpond.eu/tag/crime-in-sa/' class='tag-link-107' title='7 topics' style='font-size: 13.384615384615pt;'>crime in SA</a>
+<a href='http://www.thebigpond.eu/tag/cyril-ramaphosa/' class='tag-link-45' title='5 topics' style='font-size: 12.307692307692pt;'>Cyril Ramaphosa</a>
+<a href='http://www.thebigpond.eu/tag/daewoo/' class='tag-link-333' title='2 topics' style='font-size: 9.6153846153846pt;'>Daewoo</a>
+<a href='http://www.thebigpond.eu/tag/daimler/' class='tag-link-49' title='2 topics' style='font-size: 9.6153846153846pt;'>Daimler</a>
+<a href='http://www.thebigpond.eu/tag/datatec/' class='tag-link-293' title='3 topics' style='font-size: 10.692307692308pt;'>Datatec</a>
+<a href='http://www.thebigpond.eu/tag/daxglobal-africa-index/' class='tag-link-204' title='1 topic' style='font-size: 8pt;'>DAXGlobal Africa Index</a>
+<a href='http://www.thebigpond.eu/tag/de-beers/' class='tag-link-307' title='4 topics' style='font-size: 11.589743589744pt;'>De Beers</a>
+<a href='http://www.thebigpond.eu/tag/denel/' class='tag-link-12' title='12 topics' style='font-size: 15.269230769231pt;'>Denel</a>
+<a href='http://www.thebigpond.eu/tag/denel-munitions/' class='tag-link-224' title='2 topics' style='font-size: 9.6153846153846pt;'>Denel Munitions</a>
+<a href='http://www.thebigpond.eu/tag/denel-saab-aerostructures/' class='tag-link-222' title='1 topic' style='font-size: 8pt;'>Denel Saab Aerostructures</a>
+<a href='http://www.thebigpond.eu/tag/denham-capital/' class='tag-link-319' title='1 topic' style='font-size: 8pt;'>Denham Capital</a>
+<a href='http://www.thebigpond.eu/tag/deon-basson/' class='tag-link-159' title='1 topic' style='font-size: 8pt;'>Deon Basson</a>
+<a href='http://www.thebigpond.eu/tag/deutsche-borse/' class='tag-link-203' title='2 topics' style='font-size: 9.6153846153846pt;'>Deutsche Börse</a>
+<a href='http://www.thebigpond.eu/tag/diamondcorp/' class='tag-link-329' title='1 topic' style='font-size: 8pt;'>DiamondCorp</a>
+<a href='http://www.thebigpond.eu/tag/diamond-industry/' class='tag-link-294' title='3 topics' style='font-size: 10.692307692308pt;'>diamond industry</a>
+<a href='http://www.thebigpond.eu/tag/digital-sky-technologies/' class='tag-link-217' title='5 topics' style='font-size: 12.307692307692pt;'>Digital Sky Technologies</a>
+<a href='http://www.thebigpond.eu/tag/dimension-data/' class='tag-link-363' title='1 topic' style='font-size: 8pt;'>Dimension Data</a>
+<a href='http://www.thebigpond.eu/tag/distell/' class='tag-link-199' title='5 topics' style='font-size: 12.307692307692pt;'>Distell</a>
+<a href='http://www.thebigpond.eu/tag/dogan-trading/' class='tag-link-342' title='1 topic' style='font-size: 8pt;'>Dogan Trading</a>
+<a href='http://www.thebigpond.eu/tag/dst/' class='tag-link-233' title='1 topic' style='font-size: 8pt;'>DST</a>
+<a href='http://www.thebigpond.eu/tag/ebay/' class='tag-link-188' title='19 topics' style='font-size: 16.974358974359pt;'>eBay</a>
+<a href='http://www.thebigpond.eu/tag/ecb/' class='tag-link-65' title='5 topics' style='font-size: 12.307692307692pt;'>ECB</a>
+<a href='http://www.thebigpond.eu/tag/economists/' class='tag-link-355' title='3 topics' style='font-size: 10.692307692308pt;'>economists</a>
+<a href='http://www.thebigpond.eu/tag/edwin-hertzog/' class='tag-link-136' title='1 topic' style='font-size: 8pt;'>Edwin Hertzog</a>
+<a href='http://www.thebigpond.eu/tag/elon-musk/' class='tag-link-370' title='2 topics' style='font-size: 9.6153846153846pt;'>Elon Musk</a>
+<a href='http://www.thebigpond.eu/tag/emigration/' class='tag-link-338' title='1 topic' style='font-size: 8pt;'>emigration</a>
+<a href='http://www.thebigpond.eu/tag/entriq/' class='tag-link-343' title='1 topic' style='font-size: 8pt;'>Entriq</a>
+<a href='http://www.thebigpond.eu/tag/eskom/' class='tag-link-142' title='2 topics' style='font-size: 9.6153846153846pt;'>Eskom</a>
+<a href='http://www.thebigpond.eu/tag/eu/' class='tag-link-67' title='9 topics' style='font-size: 14.282051282051pt;'>EU</a>
+<a href='http://www.thebigpond.eu/tag/eu-commission/' class='tag-link-103' title='5 topics' style='font-size: 12.307692307692pt;'>EU Commission</a>
+<a href='http://www.thebigpond.eu/tag/europe/' class='tag-link-7' title='5 topics' style='font-size: 12.307692307692pt;'>Europe</a>
+<a href='http://www.thebigpond.eu/tag/facebook/' class='tag-link-386' title='1 topic' style='font-size: 8pt;'>Facebook</a>
+<a href='http://www.thebigpond.eu/tag/fifa-world-cup-2010/' class='tag-link-339' title='9 topics' style='font-size: 14.282051282051pt;'>FIFA World Cup 2010</a>
+<a href='http://www.thebigpond.eu/tag/finland/' class='tag-link-360' title='1 topic' style='font-size: 8pt;'>Finland</a>
+<a href='http://www.thebigpond.eu/tag/finweek/' class='tag-link-97' title='3 topics' style='font-size: 10.692307692308pt;'>Finweek</a>
+<a href='http://www.thebigpond.eu/tag/firstcape/' class='tag-link-192' title='4 topics' style='font-size: 11.589743589744pt;'>Firstcape</a>
+<a href='http://www.thebigpond.eu/tag/firstrand/' class='tag-link-258' title='5 topics' style='font-size: 12.307692307692pt;'>FirstRand</a>
+<a href='http://www.thebigpond.eu/tag/fring/' class='tag-link-368' title='2 topics' style='font-size: 9.6153846153846pt;'>fring</a>
+<a href='http://www.thebigpond.eu/tag/ftd/' class='tag-link-69' title='9 topics' style='font-size: 14.282051282051pt;'>FTD</a>
+<a href='http://www.thebigpond.eu/tag/gap-between-rich-and-poor/' class='tag-link-378' title='1 topic' style='font-size: 8pt;'>gap between rich and poor</a>
+<a href='http://www.thebigpond.eu/tag/gear/' class='tag-link-116' title='2 topics' style='font-size: 9.6153846153846pt;'>GEAR</a>
+<a href='http://www.thebigpond.eu/tag/gem-diamonds/' class='tag-link-308' title='5 topics' style='font-size: 12.307692307692pt;'>Gem Diamonds</a>
+<a href='http://www.thebigpond.eu/tag/george-bush/' class='tag-link-57' title='2 topics' style='font-size: 9.6153846153846pt;'>George Bush</a>
+<a href='http://www.thebigpond.eu/tag/georg-von-holtzbrinck/' class='tag-link-206' title='5 topics' style='font-size: 12.307692307692pt;'>Georg von Holtzbrinck</a>
+<a href='http://www.thebigpond.eu/tag/gerhard-schroder/' class='tag-link-53' title='6 topics' style='font-size: 12.935897435897pt;'>Gerhard Schröder</a>
+<a href='http://www.thebigpond.eu/tag/german-media/' class='tag-link-98' title='1 topic' style='font-size: 8pt;'>German media</a>
+<a href='http://www.thebigpond.eu/tag/germany/' class='tag-link-298' title='34 topics' style='font-size: 19.128205128205pt;'>Germany</a>
+<a href='http://www.thebigpond.eu/tag/gillian-marcus/' class='tag-link-95' title='2 topics' style='font-size: 9.6153846153846pt;'>Gillian Marcus</a>
+<a href='http://www.thebigpond.eu/tag/glasenberg/' class='tag-link-372' title='1 topic' style='font-size: 8pt;'>Glasenberg</a>
+<a href='http://www.thebigpond.eu/tag/glencore/' class='tag-link-373' title='1 topic' style='font-size: 8pt;'>Glencore</a>
+<a href='http://www.thebigpond.eu/tag/graham-mackay/' class='tag-link-309' title='4 topics' style='font-size: 11.589743589744pt;'>Graham MacKay</a>
+<a href='http://www.thebigpond.eu/tag/graham-mckay/' class='tag-link-388' title='1 topic' style='font-size: 8pt;'>Graham Mckay</a>
+<a href='http://www.thebigpond.eu/tag/greenspan/' class='tag-link-335' title='1 topic' style='font-size: 8pt;'>Greenspan</a>
+<a href='http://www.thebigpond.eu/tag/hans-otto-schumann/' class='tag-link-240' title='1 topic' style='font-size: 8pt;'>Hans-Otto Schümann</a>
+<a href='http://www.thebigpond.eu/tag/hansgrohe/' class='tag-link-348' title='1 topic' style='font-size: 8pt;'>Hansgrohe</a>
+<a href='http://www.thebigpond.eu/tag/heiner-kroke/' class='tag-link-191' title='1 topic' style='font-size: 8pt;'>Heiner Kroke</a>
+<a href='http://www.thebigpond.eu/tag/hein-pretorius/' class='tag-link-315' title='1 topic' style='font-size: 8pt;'>Hein Pretorius</a>
+<a href='http://www.thebigpond.eu/tag/helen-zille/' class='tag-link-157' title='1 topic' style='font-size: 8pt;'>Helen Zille</a>
+<a href='http://www.thebigpond.eu/tag/hendrik-du-toit/' class='tag-link-235' title='4 topics' style='font-size: 11.589743589744pt;'>Hendrik du Toit</a>
+<a href='http://www.thebigpond.eu/tag/hirslanden/' class='tag-link-134' title='3 topics' style='font-size: 10.692307692308pt;'>Hirslanden</a>
+<a href='http://www.thebigpond.eu/tag/horst-kohler/' class='tag-link-81' title='2 topics' style='font-size: 9.6153846153846pt;'>Horst Köhler</a>
+<a href='http://www.thebigpond.eu/tag/hpf/' class='tag-link-380' title='2 topics' style='font-size: 9.6153846153846pt;'>HPF</a>
+<a href='http://www.thebigpond.eu/tag/humor/' class='tag-link-189' title='4 topics' style='font-size: 11.589743589744pt;'>humor</a>
+<a href='http://www.thebigpond.eu/tag/iam/' class='tag-link-300' title='4 topics' style='font-size: 11.589743589744pt;'>IAM</a>
+<a href='http://www.thebigpond.eu/tag/idc/' class='tag-link-111' title='1 topic' style='font-size: 8pt;'>IDC</a>
+<a href='http://www.thebigpond.eu/tag/imf/' class='tag-link-75' title='2 topics' style='font-size: 9.6153846153846pt;'>IMF</a>
+<a href='http://www.thebigpond.eu/tag/inbev/' class='tag-link-328' title='3 topics' style='font-size: 10.692307692308pt;'>InBev</a>
+<a href='http://www.thebigpond.eu/tag/internet/' class='tag-link-385' title='3 topics' style='font-size: 10.692307692308pt;'>internet</a>
+<a href='http://www.thebigpond.eu/tag/intsaki-consortium/' class='tag-link-341' title='1 topic' style='font-size: 8pt;'>Intsaki Consortium</a>
+<a href='http://www.thebigpond.eu/tag/investec/' class='tag-link-365' title='2 topics' style='font-size: 9.6153846153846pt;'>Investec</a>
+<a href='http://www.thebigpond.eu/tag/investec-asset-management/' class='tag-link-282' title='7 topics' style='font-size: 13.384615384615pt;'>Investec Asset Management</a>
+<a href='http://www.thebigpond.eu/tag/jacob-zuma/' class='tag-link-61' title='28 topics' style='font-size: 18.410256410256pt;'>Jacob Zuma</a>
+<a href='http://www.thebigpond.eu/tag/jamie-goode/' class='tag-link-27' title='3 topics' style='font-size: 10.692307692308pt;'>Jamie Goode</a>
+<a href='http://www.thebigpond.eu/tag/jan-du-plessis/' class='tag-link-201' title='6 topics' style='font-size: 12.935897435897pt;'>Jan du Plessis</a>
+<a href='http://www.thebigpond.eu/tag/johann-rupert/' class='tag-link-183' title='11 topics' style='font-size: 15pt;'>Johann Rupert</a>
+<a href='http://www.thebigpond.eu/tag/johnnic/' class='tag-link-124' title='1 topic' style='font-size: 8pt;'>Johnnic</a>
+<a href='http://www.thebigpond.eu/tag/jse/' class='tag-link-246' title='2 topics' style='font-size: 9.6153846153846pt;'>JSE</a>
+<a href='http://www.thebigpond.eu/tag/karoo/' class='tag-link-387' title='1 topic' style='font-size: 8pt;'>karoo</a>
+<a href='http://www.thebigpond.eu/tag/kiva/' class='tag-link-382' title='1 topic' style='font-size: 8pt;'>Kiva</a>
+<a href='http://www.thebigpond.eu/tag/koni-media-holdings/' class='tag-link-123' title='1 topic' style='font-size: 8pt;'>Koni Media Holdings</a>
+<a href='http://www.thebigpond.eu/tag/koos-bekker/' class='tag-link-184' title='6 topics' style='font-size: 12.935897435897pt;'>Koos Bekker</a>
+<a href='http://www.thebigpond.eu/tag/kwv/' class='tag-link-290' title='1 topic' style='font-size: 8pt;'>KWV</a>
+<a href='http://www.thebigpond.eu/tag/liv-ex-100-fine-wine-index/' class='tag-link-332' title='1 topic' style='font-size: 8pt;'>Liv-ex 100 Fine Wine Index</a>
+<a href='http://www.thebigpond.eu/tag/louis-van-pletsen/' class='tag-link-320' title='1 topic' style='font-size: 8pt;'>Louis van Pletsen</a>
+<a href='http://www.thebigpond.eu/tag/louis-vuitton/' class='tag-link-186' title='2 topics' style='font-size: 9.6153846153846pt;'>Louis Vuitton</a>
+<a href='http://www.thebigpond.eu/tag/lse/' class='tag-link-247' title='1 topic' style='font-size: 8pt;'>LSE</a>
+<a href='http://www.thebigpond.eu/tag/mailru/' class='tag-link-215' title='10 topics' style='font-size: 14.641025641026pt;'>Mail.ru</a>
+<a href='http://www.thebigpond.eu/tag/man-ferrostaal/' class='tag-link-230' title='6 topics' style='font-size: 12.935897435897pt;'>MAN Ferrostaal</a>
+<a href='http://www.thebigpond.eu/tag/marcel-golding/' class='tag-link-42' title='1 topic' style='font-size: 8pt;'>Marcel Golding</a>
+<a href='http://www.thebigpond.eu/tag/maria-ramos/' class='tag-link-60' title='3 topics' style='font-size: 10.692307692308pt;'>Maria Ramos</a>
+<a href='http://www.thebigpond.eu/tag/matthew-buckland/' class='tag-link-280' title='1 topic' style='font-size: 8pt;'>Matthew Buckland</a>
+<a href='http://www.thebigpond.eu/tag/max-du-preez/' class='tag-link-162' title='1 topic' style='font-size: 8pt;'>Max du Preez</a>
+<a href='http://www.thebigpond.eu/tag/mbeki/' class='tag-link-59' title='2 topics' style='font-size: 9.6153846153846pt;'>Mbeki</a>
+<a href='http://www.thebigpond.eu/tag/medi-clinic/' class='tag-link-135' title='4 topics' style='font-size: 11.589743589744pt;'>Medi-Clinic</a>
+<a href='http://www.thebigpond.eu/tag/media/' class='tag-link-316' title='17 topics' style='font-size: 16.615384615385pt;'>media</a>
+<a href='http://www.thebigpond.eu/tag/media24/' class='tag-link-96' title='2 topics' style='font-size: 9.6153846153846pt;'>Media24</a>
+<a href='http://www.thebigpond.eu/tag/merkur/' class='tag-link-239' title='2 topics' style='font-size: 9.6153846153846pt;'>Merkur</a>
+<a href='http://www.thebigpond.eu/tag/metorex/' class='tag-link-351' title='3 topics' style='font-size: 10.692307692308pt;'>Metorex</a>
+<a href='http://www.thebigpond.eu/tag/mih/' class='tag-link-208' title='5 topics' style='font-size: 12.307692307692pt;'>MIH</a>
+<a href='http://www.thebigpond.eu/tag/mih-internet-europe/' class='tag-link-259' title='10 topics' style='font-size: 14.641025641026pt;'>MIH Internet Europe</a>
+<a href='http://www.thebigpond.eu/tag/mobile-30/' class='tag-link-175' title='6 topics' style='font-size: 12.935897435897pt;'>Mobile 3.0</a>
+<a href='http://www.thebigpond.eu/tag/mobile-advertising/' class='tag-link-279' title='1 topic' style='font-size: 8pt;'>mobile advertising</a>
+<a href='http://www.thebigpond.eu/tag/mondi/' class='tag-link-211' title='1 topic' style='font-size: 8pt;'>Mondi</a>
+<a href='http://www.thebigpond.eu/tag/mtn/' class='tag-link-86' title='2 topics' style='font-size: 9.6153846153846pt;'>MTN</a>
+<a href='http://www.thebigpond.eu/tag/multichoice/' class='tag-link-310' title='1 topic' style='font-size: 8pt;'>MultiChoice</a>
+<a href='http://www.thebigpond.eu/tag/mundusvini/' class='tag-link-234' title='2 topics' style='font-size: 9.6153846153846pt;'>MUNDUSVini</a>
+<a href='http://www.thebigpond.eu/tag/nandos/' class='tag-link-364' title='1 topic' style='font-size: 8pt;'>Nando's</a>
+<a href='http://www.thebigpond.eu/tag/naomi-klein/' class='tag-link-132' title='1 topic' style='font-size: 8pt;'>Naomi Klein</a>
+<a href='http://www.thebigpond.eu/tag/naspers/' class='tag-link-85' title='72 topics' style='font-size: 22pt;'>Naspers</a>
+<a href='http://www.thebigpond.eu/tag/nelson-mandela/' class='tag-link-37' title='4 topics' style='font-size: 11.589743589744pt;'>Nelson Mandela</a>
+<a href='http://www.thebigpond.eu/tag/neva-media/' class='tag-link-177' title='1 topic' style='font-size: 8pt;'>Neva Media</a>
+<a href='http://www.thebigpond.eu/tag/nimbuzz/' class='tag-link-209' title='8 topics' style='font-size: 13.833333333333pt;'>Nimbuzz</a>
+<a href='http://www.thebigpond.eu/tag/novosti/' class='tag-link-286' title='1 topic' style='font-size: 8pt;'>Novosti</a>
+<a href='http://www.thebigpond.eu/tag/old-mutual/' class='tag-link-313' title='3 topics' style='font-size: 10.692307692308pt;'>Old Mutual</a>
+<a href='http://www.thebigpond.eu/tag/organic-wines/' class='tag-link-194' title='1 topic' style='font-size: 8pt;'>organic wines</a>
+<a href='http://www.thebigpond.eu/tag/origin-wines/' class='tag-link-303' title='1 topic' style='font-size: 8pt;'>Origin Wines</a>
+<a href='http://www.thebigpond.eu/tag/panerai/' class='tag-link-306' title='1 topic' style='font-size: 8pt;'>Panerai</a>
+<a href='http://www.thebigpond.eu/tag/patrice-motsepe/' class='tag-link-218' title='1 topic' style='font-size: 8pt;'>Patrice Motsepe</a>
+<a href='http://www.thebigpond.eu/tag/petra-diamonds-limited/' class='tag-link-268' title='1 topic' style='font-size: 8pt;'>Petra Diamonds Limited</a>
+<a href='http://www.thebigpond.eu/tag/phillip-dexter/' class='tag-link-145' title='2 topics' style='font-size: 9.6153846153846pt;'>Phillip Dexter</a>
+<a href='http://www.thebigpond.eu/tag/phuti-malabie/' class='tag-link-323' title='1 topic' style='font-size: 8pt;'>Phuti Malabie</a>
+<a href='http://www.thebigpond.eu/tag/pinotage/' class='tag-link-30' title='2 topics' style='font-size: 9.6153846153846pt;'>Pinotage</a>
+<a href='http://www.thebigpond.eu/tag/plustocom/' class='tag-link-305' title='1 topic' style='font-size: 8pt;'>Plusto.com</a>
+<a href='http://www.thebigpond.eu/tag/population-growth/' class='tag-link-381' title='1 topic' style='font-size: 8pt;'>population growth</a>
+<a href='http://www.thebigpond.eu/tag/porsche/' class='tag-link-100' title='2 topics' style='font-size: 9.6153846153846pt;'>Porsche</a>
+<a href='http://www.thebigpond.eu/tag/property/' class='tag-link-384' title='1 topic' style='font-size: 8pt;'>Property</a>
+<a href='http://www.thebigpond.eu/tag/qatar/' class='tag-link-352' title='1 topic' style='font-size: 8pt;'>Qatar</a>
+<a href='http://www.thebigpond.eu/tag/rainfall-in-sa/' class='tag-link-51' title='1 topic' style='font-size: 8pt;'>rainfall in SA</a>
+<a href='http://www.thebigpond.eu/tag/ralph-lauren/' class='tag-link-350' title='1 topic' style='font-size: 8pt;'>Ralph Lauren</a>
+<a href='http://www.thebigpond.eu/tag/rand/' class='tag-link-114' title='14 topics' style='font-size: 15.897435897436pt;'>rand</a>
+<a href='http://www.thebigpond.eu/tag/real-estate/' class='tag-link-337' title='1 topic' style='font-size: 8pt;'>real estate</a>
+<a href='http://www.thebigpond.eu/tag/redespresso/' class='tag-link-327' title='1 topic' style='font-size: 8pt;'>redespresso</a>
+<a href='http://www.thebigpond.eu/tag/reinet-fund/' class='tag-link-353' title='1 topic' style='font-size: 8pt;'>Reinet Fund</a>
+<a href='http://www.thebigpond.eu/tag/rheinmetall-defence/' class='tag-link-227' title='7 topics' style='font-size: 13.384615384615pt;'>Rheinmetall Defence</a>
+<a href='http://www.thebigpond.eu/tag/ricardo/' class='tag-link-185' title='9 topics' style='font-size: 14.282051282051pt;'>Ricardo</a>
+<a href='http://www.thebigpond.eu/tag/richemont/' class='tag-link-167' title='30 topics' style='font-size: 18.679487179487pt;'>Richemont</a>
+<a href='http://www.thebigpond.eu/tag/rmb/' class='tag-link-257' title='1 topic' style='font-size: 8pt;'>RMB</a>
+<a href='http://www.thebigpond.eu/tag/robert-hersov/' class='tag-link-288' title='4 topics' style='font-size: 11.589743589744pt;'>Robert Hersov</a>
+<a href='http://www.thebigpond.eu/tag/robert-mugabe/' class='tag-link-72' title='6 topics' style='font-size: 12.935897435897pt;'>Robert Mugabe</a>
+<a href='http://www.thebigpond.eu/tag/rudolf-gouws/' class='tag-link-40' title='2 topics' style='font-size: 9.6153846153846pt;'>Rudolf Gouws</a>
+<a href='http://www.thebigpond.eu/tag/russia/' class='tag-link-287' title='1 topic' style='font-size: 8pt;'>Russia</a>
+<a href='http://www.thebigpond.eu/tag/saab-group/' class='tag-link-358' title='1 topic' style='font-size: 8pt;'>Saab Group</a>
+<a href='http://www.thebigpond.eu/tag/saad-group/' class='tag-link-269' title='1 topic' style='font-size: 8pt;'>Saad Group</a>
+<a href='http://www.thebigpond.eu/tag/sabc/' class='tag-link-112' title='1 topic' style='font-size: 8pt;'>SABC</a>
+<a href='http://www.thebigpond.eu/tag/sabmiller/' class='tag-link-210' title='28 topics' style='font-size: 18.410256410256pt;'>SABMiller</a>
+<a href='http://www.thebigpond.eu/tag/sa-gems/' class='tag-link-266' title='1 topic' style='font-size: 8pt;'>SA Gems</a>
+<a href='http://www.thebigpond.eu/tag/sampie-terreblanche/' class='tag-link-38' title='1 topic' style='font-size: 8pt;'>Sampie Terreblanche</a>
+<a href='http://www.thebigpond.eu/tag/sanlam/' class='tag-link-371' title='1 topic' style='font-size: 8pt;'>Sanlam</a>
+<a href='http://www.thebigpond.eu/tag/sapinda/' class='tag-link-32' title='4 topics' style='font-size: 11.589743589744pt;'>Sapinda</a>
+<a href='http://www.thebigpond.eu/tag/sappi/' class='tag-link-289' title='4 topics' style='font-size: 11.589743589744pt;'>Sappi</a>
+<a href='http://www.thebigpond.eu/tag/sarb/' class='tag-link-129' title='1 topic' style='font-size: 8pt;'>SARB</a>
+<a href='http://www.thebigpond.eu/tag/sasol/' class='tag-link-237' title='9 topics' style='font-size: 14.282051282051pt;'>Sasol</a>
+<a href='http://www.thebigpond.eu/tag/schauble/' class='tag-link-379' title='1 topic' style='font-size: 8pt;'>Schäuble</a>
+<a href='http://www.thebigpond.eu/tag/seacom/' class='tag-link-356' title='1 topic' style='font-size: 8pt;'>Seacom</a>
+<a href='http://www.thebigpond.eu/tag/shanduka-group/' class='tag-link-324' title='1 topic' style='font-size: 8pt;'>Shanduka Group</a>
+<a href='http://www.thebigpond.eu/tag/shaun-liebenberg/' class='tag-link-220' title='3 topics' style='font-size: 10.692307692308pt;'>Shaun Liebenberg</a>
+<a href='http://www.thebigpond.eu/tag/shell/' class='tag-link-238' title='2 topics' style='font-size: 9.6153846153846pt;'>Shell</a>
+<a href='http://www.thebigpond.eu/tag/silverstreams/' class='tag-link-375' title='1 topic' style='font-size: 8pt;'>Silverstreams</a>
+<a href='http://www.thebigpond.eu/tag/sol-kerzner/' class='tag-link-243' title='4 topics' style='font-size: 11.589743589744pt;'>Sol Kerzner</a>
+<a href='http://www.thebigpond.eu/tag/south-africa/' class='tag-link-8' title='28 topics' style='font-size: 18.410256410256pt;'>South Africa</a>
+<a href='http://www.thebigpond.eu/tag/spur/' class='tag-link-362' title='1 topic' style='font-size: 8pt;'>Spur</a>
+<a href='http://www.thebigpond.eu/tag/stellar/' class='tag-link-195' title='1 topic' style='font-size: 8pt;'>Stellar</a>
+<a href='http://www.thebigpond.eu/tag/tax-havens/' class='tag-link-304' title='1 topic' style='font-size: 8pt;'>tax havens</a>
+<a href='http://www.thebigpond.eu/tag/telkom/' class='tag-link-113' title='3 topics' style='font-size: 10.692307692308pt;'>Telkom</a>
+<a href='http://www.thebigpond.eu/tag/telkom-media/' class='tag-link-312' title='1 topic' style='font-size: 8pt;'>Telkom Media</a>
+<a href='http://www.thebigpond.eu/tag/tencent/' class='tag-link-326' title='6 topics' style='font-size: 12.935897435897pt;'>Tencent</a>
+<a href='http://www.thebigpond.eu/tag/thabo-mbeki/' class='tag-link-56' title='37 topics' style='font-size: 19.487179487179pt;'>Thabo Mbeki</a>
+<a href='http://www.thebigpond.eu/tag/the-economist/' class='tag-link-50' title='5 topics' style='font-size: 12.307692307692pt;'>The Economist</a>
+<a href='http://www.thebigpond.eu/tag/tito-mboweni/' class='tag-link-128' title='9 topics' style='font-size: 14.282051282051pt;'>Tito Mboweni</a>
+<a href='http://www.thebigpond.eu/tag/tokyo-sexwale/' class='tag-link-121' title='2 topics' style='font-size: 9.6153846153846pt;'>Tokyo Sexwale</a>
+<a href='http://www.thebigpond.eu/tag/tourism/' class='tag-link-377' title='2 topics' style='font-size: 9.6153846153846pt;'>tourism</a>
+<a href='http://www.thebigpond.eu/tag/tradus/' class='tag-link-187' title='4 topics' style='font-size: 11.589743589744pt;'>Tradus</a>
+<a href='http://www.thebigpond.eu/tag/transnet/' class='tag-link-366' title='1 topic' style='font-size: 8pt;'>Transnet</a>
+<a href='http://www.thebigpond.eu/tag/trevor-manuel/' class='tag-link-46' title='32 topics' style='font-size: 18.948717948718pt;'>Trevor Manuel</a>
+<a href='http://www.thebigpond.eu/tag/tshabala-msimang/' class='tag-link-156' title='1 topic' style='font-size: 8pt;'>Tshabala-Msimang</a>
+<a href='http://www.thebigpond.eu/tag/uae/' class='tag-link-254' title='2 topics' style='font-size: 9.6153846153846pt;'>UAE</a>
+<a href='http://www.thebigpond.eu/tag/ursus/' class='tag-link-275' title='2 topics' style='font-size: 9.6153846153846pt;'>Ursus</a>
+<a href='http://www.thebigpond.eu/tag/vatera/' class='tag-link-241' title='2 topics' style='font-size: 9.6153846153846pt;'>Vatera</a>
+<a href='http://www.thebigpond.eu/tag/venfin/' class='tag-link-367' title='1 topic' style='font-size: 8pt;'>Venfin</a>
+<a href='http://www.thebigpond.eu/tag/vinny-lingham/' class='tag-link-354' title='2 topics' style='font-size: 9.6153846153846pt;'>Vinny Lingham</a>
+<a href='http://www.thebigpond.eu/tag/vodacom/' class='tag-link-283' title='1 topic' style='font-size: 8pt;'>Vodacom</a>
+<a href='http://www.thebigpond.eu/tag/windhorst/' class='tag-link-34' title='1 topic' style='font-size: 8pt;'>Windhorst</a>
+<a href='http://www.thebigpond.eu/tag/wirtschaftswoche/' class='tag-link-78' title='3 topics' style='font-size: 10.692307692308pt;'>WirtschaftsWoche</a>
+<a href='http://www.thebigpond.eu/tag/xing/' class='tag-link-334' title='2 topics' style='font-size: 9.6153846153846pt;'>Xing</a>
+<a href='http://www.thebigpond.eu/tag/zattoo/' class='tag-link-383' title='1 topic' style='font-size: 8pt;'>zattoo</a>
+<a href='http://www.thebigpond.eu/tag/zimbabwe/' class='tag-link-73' title='8 topics' style='font-size: 13.833333333333pt;'>Zimbabwe</a>
+<a href='http://www.thebigpond.eu/tag/zumanomics/' class='tag-link-144' title='4 topics' style='font-size: 11.589743589744pt;'>Zumanomics</a></div>
+		</li>
+</ul>
+</div>
+<div style="clear:both;"></div>  </div><div id="footer">
+  	<p><span><a href="http://wpthemeshop.com/free-themes/" title="Free WordPress Themes by WP Theme Shop">WordPress Theme Shop</a> | <a href="http://webhostinggeeks.com" title="Web Hosting Geeks" target="_blank">Web Hosting Geeks</a></span><strong>The Big Pond</strong> Copyright &copy; 2018 All Rights Reserved .</p>
+</div>
+      <script type="text/javascript" charset="utf-8">
+        /* <![CDATA[ */
+        jQuery(document).ready(function($) {
+          $("a[rel^='wp-video-lightbox']").prettyPhoto({
+            animationSpeed: 'normal',
+            padding: 20,
+            opacity: 0.50,
+            showTitle: true,
+            allowresize: true,
+            counter_separator_label: '/',
+            theme: 'dark_rounded',
+            wmode: 'opaque',
+            autoplay: false,
+            hideflash: false,
+            modal: false,
+            changepicturecallback: function(){},
+            callback: function(){},
+            markup: '<div class="pp_pic_holder"> \
+						<div class="pp_top"> \
+							<div class="pp_left"></div> \
+							<div class="pp_middle"></div> \
+							<div class="pp_right"></div> \
+						</div> \
+						<div class="pp_content_container"> \
+							<div class="pp_left"> \
+							<div class="pp_right"> \
+								<div class="pp_content"> \
+									<div class="pp_fade"> \
+										<a href="#" class="pp_expand" title="Expand the image">Expand</a> \
+										<div class="pp_loaderIcon"></div> \
+										<div class="pp_hoverContainer"> \
+											<a class="pp_next" href="#">next</a> \
+											<a class="pp_previous" href="#">previous</a> \
+										</div> \
+										<div id="pp_full_res"></div> \
+										<div class="pp_details clearfix"> \
+											<a class="pp_close" href="#">Close</a> \
+											<p class="pp_description"></p> \
+											<div class="pp_nav"> \
+												<a href="#" class="pp_arrow_previous">Previous</a> \
+												<p class="currentTextHolder">0/0</p> \
+												<a href="#" class="pp_arrow_next">Next</a> \
+											</div> \
+										</div> \
+									</div> \
+								</div> \
+							</div> \
+							</div> \
+						</div> \
+						<div class="pp_bottom"> \
+							<div class="pp_left"></div> \
+							<div class="pp_middle"></div> \
+							<div class="pp_right"></div> \
+						</div> \
+					</div> \
+					<div class="pp_overlay"></div> \
+					<div class="ppt"></div>',
+            image_markup: '<img id="fullResImage" src="" />',
+            flash_markup: '<object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" width="{width}" height="{height}"><param name="wmode" value="{wmode}" /><param name="allowfullscreen" value="true" /><param name="allowscriptaccess" value="always" /><param name="movie" value="{path}" /><embed src="{path}" type="application/x-shockwave-flash" allowfullscreen="true" allowscriptaccess="always" width="{width}" height="{height}" wmode="{wmode}"></embed></object>',
+            quicktime_markup: '<object classid="clsid:02BF25D5-8C17-4B23-BC80-D3488ABDDC6B" codebase="http://www.apple.com/qtactivex/qtplugin.cab" height="{height}" width="{width}"><param name="src" value="{path}"><param name="autoplay" value="{autoplay}"><param name="type" value="video/quicktime"><embed src="{path}" height="{height}" width="{width}" autoplay="{autoplay}" type="video/quicktime" pluginspage="http://www.apple.com/quicktime/download/"></embed></object>',
+            iframe_markup: '<iframe src ="{path}" width="{width}" height="{height}" frameborder="no"></iframe>',
+            inline_markup: '<div class="pp_inline clearfix">{content}</div>'
+          });
+        });
+				/* ]]> */
+      </script>
+<!-- Begin Shadowbox JS -->
+<script type="text/javascript">
+	var shadowbox_conf = {
+		animate: true,
+		animateFade: true,
+		animSequence: "sync",
+		autoDimensions: false,
+		modal: false,
+		showOverlay: true,
+		overlayColor: "#000",
+		overlayOpacity: 0.8,
+		flashBgColor: "#000000",
+		autoplayMovies: true,
+		showMovieControls: true,
+		slideshowDelay: 0,
+		resizeDuration: 0.35,
+		fadeDuration: 0.35,
+		displayNav: true,
+		continuous: false,
+		displayCounter: true,
+		counterType: "default",
+		counterLimit: 10,
+		viewportPadding: 20,
+		handleOversize: "resize",
+		handleUnsupported: "link",
+		initialHeight: 160,
+		initialWidth: 320,
+		enableKeys: true,
+		skipSetup: false,
+		flashParams: {bgcolor:"#000000", allowFullScreen:true},
+		flashVars: {},
+		flashVersion: "9.0.0"
+
+	};
+	Shadowbox.init(shadowbox_conf);
+</script>
+<!-- End Shadowbox JS -->
+
+<script type='text/javascript' src='http://www.thebigpond.eu/wp-content/shadowbox-js/bb89deb2a551c53f2f0a48efd8aff457.js?ver=3.0.3'></script>
+</body>
+</html>
+
+

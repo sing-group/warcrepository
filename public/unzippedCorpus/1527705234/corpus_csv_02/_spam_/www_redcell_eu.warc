@@ -1,0 +1,36 @@
+WARC/1.0
+WARC-Type: warcinfo
+WARC-Date: 2018-05-30T17:52:31Z
+WARC-All-Language: fr
+WARC-All-Content_type: text/html
+WARC-Record-ID: <urn:uuid:d450fb5e-ba46-4f05-8a2a-dccab4a9b409>
+Content-Type: application/http;msgtype=response
+Content-Length: 46
+
+WARCProcessor by SING Group www.sing-group.com
+
+WARC/1.0
+WARC-Type: response
+WARC-Target-URI: http://www.redcell.eu
+WARC-Date: 20180530175232
+WARC-Language: fr
+WARC-Record-ID: <http://www.redcell.eu>
+Content-Type: application/http;msgtype=response
+Content-Length: 556
+
+HTTP/1.1 200
+Content-Type:text/html
+
+
+<html>
+	<body bgcolor="#000000">
+	<link rel="icon" href="favicon.png" type="image/png">
+		<div align="center">
+			<img src="http://redcellgaming.com/wp-content/uploads/2015/08/redcell_logo_header.jpg" alt="logo"><br>
+			<br><iframe src="https://discordapp.com/widget?id=388272683349180416&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0"></iframe>
+			<br><br><a href="http://steamcommunity.com/groups/rcgaming"><img src="steam.png" alt="steam"></a>
+		</div>
+	</body>
+</html>
+
+

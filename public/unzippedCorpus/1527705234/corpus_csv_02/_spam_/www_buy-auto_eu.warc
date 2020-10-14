@@ -1,0 +1,1592 @@
+WARC/1.0
+WARC-Type: warcinfo
+WARC-Date: 2018-05-30T18:18:32Z
+WARC-All-Language: fr
+WARC-All-Content_type: text/html
+WARC-Record-ID: <urn:uuid:384b42cd-72d7-41b7-822b-5ed2bb142fe8>
+Content-Type: application/http;msgtype=response
+Content-Length: 46
+
+WARCProcessor by SING Group www.sing-group.com
+
+WARC/1.0
+WARC-Type: response
+WARC-Target-URI: http://www.buy-auto.eu
+WARC-Date: 20180530181832
+WARC-Language: fr
+WARC-Record-ID: <http://www.buy-auto.eu>
+Content-Type: application/http;msgtype=response
+Content-Length: 70897
+
+HTTP/1.1 200
+Content-Type:text/html
+
+
+
+
+
+
+
+
+<html>
+
+
+
+<head>
+
+<meta http-equiv="Content-Language" content="en">
+
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1250" />
+
+<meta name="keywords" content="buy-auto.eu,auto,autos,car,cars,automobile,automobiles,moto,motor,photo,ad,ads,advertising,advertise,online,new,used,second-hand,secondhand,demonstration,crash,crashed,motorshow ,change,exchange,shop,buy ,sale,for sale,purchase,search,leasing" />
+
+<meta name="author" content="Buy-Auto.eu" />
+
+<meta name="description" content="Private and commercial motor advertising. Find or sell your car on the Internet!" />
+
+<meta name="page-type" content="Portal" />
+
+<meta name="audience" content="all" />
+
+<meta name="robots" content="index, follow" />
+
+<meta name="revisit-after" content="2 days" />
+
+<meta name="distribution" content="global" />
+
+<meta name="rating" content="general" />
+
+<meta http-equiv="expires" content="0" />
+
+<title>Buy-Auto.eu</title>
+
+<link rel="stylesheet" type="text/css" href="css/style.css" />
+
+<link rel="stylesheet" type="text/css" href="css/formstyle.css" />
+
+
+
+<script language="JavaScript" type="text/javascript">
+
+<!--
+
+
+
+function zobraz(co)
+
+{
+
+document.all[co].style.visibility = "visible";
+
+}
+
+
+
+
+
+
+
+function skryj(co)
+
+{
+
+document.all[co].style.visibility = "hidden";
+
+
+
+}
+
+
+
+if (navigator.appVersion.substring(0,1) >= 3) {
+
+
+
+    nahoru = new Image;
+
+    nahoru.src = "images/sipkan.gif";
+
+    nahoruOver = new Image;
+
+    nahoruOver.src = "images/sipkanalt.gif";
+
+
+
+    dolu = new Image;
+
+    dolu.src = "images/sipkad.gif";
+
+    doluOver = new Image;
+
+    doluOver.src = "images/sipkadalt.gif";
+
+
+
+}
+
+
+
+function navMouseOver(imgid,imgnew) {
+
+        if (navigator.appVersion.substring(0,1) >= 3) {
+
+              document.images[imgid].src=eval(imgnew + ".src");
+
+        }
+
+}
+
+// -->
+
+</script>
+
+
+
+
+
+
+
+<script src="javascript/cookie.js" lang="javascript" async></script>
+</head>
+
+
+
+<body topmargin="5" leftmargin="0">
+
+
+
+
+
+<script language="javascript">
+
+ function oGet(name) {
+
+    if (document.getElementById) return document.getElementById(name);
+
+    else if (document.all) return document.all[name];
+
+    else return null;
+
+    }
+
+
+
+ function show(id) {
+
+
+
+   var atr = document.body.getElementsByTagName("span");
+
+
+
+      for (var i = 0; i < atr.length; i++) {
+
+         atr[i].className="zhidden";
+
+   }
+
+
+
+   var atr2 = document.body.getElementsByTagName("fieldset");
+
+
+
+      for (var i = 0; i < atr2.length; i++) {
+
+         atr2[i].className="hidden";
+
+   }
+
+
+
+  prom1 = "zahlavi_"+ id;
+
+  prom2 = "field_"+ id;
+
+
+
+  oGet(prom1).className= "zvisible";
+
+  oGet(prom2).className= "visible";
+
+
+
+  }
+
+
+
+ function check_int(id) {
+
+
+
+  var str = oGet(id).value;
+
+  var hodnota = parseInt(str);
+
+
+
+  if (str != hodnota) oGet(id).value = "";
+
+  }
+
+
+
+
+
+ function fillSelect(parent, child){
+
+
+
+                var form = document.forms.adform;
+
+                var car = eval('form.' + parent +'.options[form.' + parent +'.selectedIndex].value;');
+
+                 if (car != '-1'){
+
+                        var carArr = new Array();
+
+                        newCar = car.replace(/ /i, "_");
+
+
+
+                        carArr = eval(newCar + 'Arr');
+
+
+
+                        var formchild = eval ('form.' + child);
+
+
+
+                        formchild.disabled = false;
+
+                        formchild.options.length = 0;
+
+                        for (i=1; i<=carArr[0]; i++){
+
+                                formchild.options.length += 1;
+
+                                formchild.options[formchild.options.length-1] = newOption(carArr[i], carArr[i]);
+
+                        }
+
+                }
+
+                else {
+
+                        var formchild = eval ('form.' + child);
+
+                            formchild.options.length = 0;
+
+                            formchild.options[0] = newOption("-1", "select");
+
+                            formchild.disabled = true;
+
+                }
+
+        }
+
+
+
+function fillArr(name){
+
+                this.name = name;
+
+        }
+
+
+
+function newOption(value, text) {
+
+                var Opt                = new Option();
+
+                Opt.value        = value;
+
+                Opt.text        = text;
+
+                return Opt;
+
+        }
+
+
+
+ function fillSelectMenu(parent, child){
+
+
+
+                var form = document.forms.menuform;
+
+                var car = eval('form.' + parent +'.options[form.' + parent +'.selectedIndex].value;');
+
+                 if (car != '-1'){
+
+                        var carArr = new Array();
+
+                        newCar = car.replace(/ /i, "_");
+
+
+
+                        carArr = eval(newCar + 'Arr');
+
+
+
+                        var formchild = eval ('form.' + child);
+
+
+
+                        formchild.disabled = false;
+
+                        formchild.options.length = 0;
+
+                        for (i=1; i<=carArr[0]; i++){
+
+                                formchild.options.length += 1;
+
+                                formchild.options[formchild.options.length-1] = newOption(carArr[i], carArr[i]);
+
+                        }
+
+                }
+
+                else {
+
+                        var formchild = eval ('form.' + child);
+
+                            formchild.options.length = 0;
+
+                            formchild.options[0] = newOption("-1", "select");
+
+                            formchild.disabled = true;
+
+                }
+
+        }
+
+
+
+
+
+
+
+
+
+
+
+
+
+</script>
+
+
+
+
+
+
+<script language="javascript">
+
+var AcuraArr = new Array();
+var AlfaRomeoArr = new Array();
+var AsiaMotorsArr = new Array();
+var AstonMartinArr = new Array();
+var AudiArr = new Array();
+var AustinArr = new Array();
+var BentleyArr = new Array();
+var BMWArr = new Array();
+var BrillianceArr = new Array();
+var BugattiArr = new Array();
+var BuickArr = new Array();
+var CadillacArr = new Array();
+var CaterhamArr = new Array();
+var ChevroletArr = new Array();
+var ChryslerArr = new Array();
+var CitroenArr = new Array();
+var CorvetteArr = new Array();
+var DaciaArr = new Array();
+var DaewooArr = new Array();
+var DaihatsuArr = new Array();
+var DeTomasoArr = new Array();
+var DodgeArr = new Array();
+var FerrariArr = new Array();
+var FiatArr = new Array();
+var FordArr = new Array();
+var GMCArr = new Array();
+var HondaArr = new Array();
+var HummerArr = new Array();
+var HyundaiArr = new Array();
+var InfinitiArr = new Array();
+var IsuzuArr = new Array();
+var JaguarArr = new Array();
+var JeepArr = new Array();
+var KiaArr = new Array();
+var LadaArr = new Array();
+var LamborginiArr = new Array();
+var LanciaArr = new Array();
+var LandRoverArr = new Array();
+var LexusArr = new Array();
+var LigierArr = new Array();
+var LincolnArr = new Array();
+var LotusArr = new Array();
+var MahindraArr = new Array();
+var MaseratiArr = new Array();
+var MaybachArr = new Array();
+var MazdaArr = new Array();
+var MercedesBenzArr = new Array();
+var MGArr = new Array();
+var MiniArr = new Array();
+var MitsubishiArr = new Array();
+var MorganArr = new Array();
+var NissanArr = new Array();
+var OldsmobileArr = new Array();
+var OpelArr = new Array();
+var PeugeotArr = new Array();
+var PiaggioArr = new Array();
+var PlymouthArr = new Array();
+var PontiacArr = new Array();
+var PorscheArr = new Array();
+var ProtonArr = new Array();
+var RenaultArr = new Array();
+var RollsRoyceArr = new Array();
+var RoverArr = new Array();
+var SaabArr = new Array();
+var SeatArr = new Array();
+var SkodaArr = new Array();
+var SmartArr = new Array();
+var SsangYongArr = new Array();
+var SubaruArr = new Array();
+var SuzukiArr = new Array();
+var TalbotArr = new Array();
+var TataArr = new Array();
+var TatraArr = new Array();
+var ToyotaArr = new Array();
+var TrabantArr = new Array();
+var TriumphArr = new Array();
+var TVRArr = new Array();
+var VolkswagenArr = new Array();
+var VolvoArr = new Array();
+var WartburgArr = new Array();
+var WiesmannArr = new Array();
+
+AcuraArr[1] = ("all models");AcuraArr[2] = ("MDX");AcuraArr[3] = ("NSX");AcuraArr[4] = ("RL");AcuraArr[5] = ("RSX");AcuraArr[6] = ("TL");AcuraArr[7] = ("TSX");
+AcuraArr[0] = 7;
+
+AlfaRomeoArr[1] = ("all models");AlfaRomeoArr[2] = ("8C");AlfaRomeoArr[3] = ("33");AlfaRomeoArr[4] = ("75");AlfaRomeoArr[5] = ("90");AlfaRomeoArr[6] = ("145");AlfaRomeoArr[7] = ("146");AlfaRomeoArr[8] = ("147");AlfaRomeoArr[9] = ("149");AlfaRomeoArr[10] = ("155");AlfaRomeoArr[11] = ("156");AlfaRomeoArr[12] = ("159");AlfaRomeoArr[13] = ("164");AlfaRomeoArr[14] = ("166");AlfaRomeoArr[15] = ("Alfasud");AlfaRomeoArr[16] = ("Alfetta");AlfaRomeoArr[17] = ("Brera");AlfaRomeoArr[18] = ("Crosswagon");AlfaRomeoArr[19] = ("GT");AlfaRomeoArr[20] = ("GTV");AlfaRomeoArr[21] = ("Giulia");AlfaRomeoArr[22] = ("Giulietta");AlfaRomeoArr[23] = ("RZ/SZ");AlfaRomeoArr[24] = ("Spider");AlfaRomeoArr[25] = ("Sportwagon");AlfaRomeoArr[26] = ("Sprint");
+AlfaRomeoArr[0] = 26;
+
+AsiaMotorsArr[1] = ("all models");AsiaMotorsArr[2] = ("Rocsta");AsiaMotorsArr[3] = ("Sonstige");
+AsiaMotorsArr[0] = 3;
+
+AstonMartinArr[1] = ("all models");AstonMartinArr[2] = ("AR1");AstonMartinArr[3] = ("DB4");AstonMartinArr[4] = ("DB7");AstonMartinArr[5] = ("DB9");AstonMartinArr[6] = ("DBS");AstonMartinArr[7] = ("DBR2");AstonMartinArr[8] = ("DBR9");AstonMartinArr[9] = ("Lagonda");AstonMartinArr[10] = ("V8");AstonMartinArr[11] = ("V8 Vantage");AstonMartinArr[12] = ("Vanquish");AstonMartinArr[13] = ("Vantage");AstonMartinArr[14] = ("Virage");AstonMartinArr[15] = ("Volante");
+AstonMartinArr[0] = 15;
+
+AudiArr[1] = ("all models");AudiArr[2] = ("80");AudiArr[3] = ("90");AudiArr[4] = ("100");AudiArr[5] = ("200");AudiArr[6] = ("A2");AudiArr[7] = ("A3");AudiArr[8] = ("A4");AudiArr[9] = ("A5");AudiArr[10] = ("A6");AudiArr[11] = ("A8");AudiArr[12] = ("Allroad");AudiArr[13] = ("Cabriolet");AudiArr[14] = ("Coupé");AudiArr[15] = ("Q5");AudiArr[16] = ("Q7");AudiArr[17] = ("Quattro");AudiArr[18] = ("R8");AudiArr[19] = ("RS2");AudiArr[20] = ("RS4");AudiArr[21] = ("RS6");AudiArr[22] = ("S2");AudiArr[23] = ("S3");AudiArr[24] = ("S4");AudiArr[25] = ("S5");AudiArr[26] = ("S6");AudiArr[27] = ("S8");AudiArr[28] = ("TT");AudiArr[29] = ("V8");
+AudiArr[0] = 29;
+
+AustinArr[1] = ("all models");AustinArr[2] = ("A40");AustinArr[3] = ("Adrede");AustinArr[4] = ("Allegro");AustinArr[5] = ("Cambridge");AustinArr[6] = ("Healey");AustinArr[7] = ("London Taxi");AustinArr[8] = ("Maestro");AustinArr[9] = ("Metro");AustinArr[10] = ("Mini");AustinArr[11] = ("Montego");AustinArr[12] = ("Morris Minor 1000");AustinArr[13] = ("Morris Minor 1100");AustinArr[14] = ("Morris Minor 1800");AustinArr[15] = ("Princess");AustinArr[16] = ("Seven");
+AustinArr[0] = 16;
+
+BentleyArr[1] = ("all models");BentleyArr[2] = ("Arnage");BentleyArr[3] = ("Azure");BentleyArr[4] = ("Brooklands");BentleyArr[5] = ("Continental");BentleyArr[6] = ("Eight");BentleyArr[7] = ("Mulsanne");BentleyArr[8] = ("Turbo");
+BentleyArr[0] = 8;
+
+BMWArr[1] = ("all models");BMWArr[2] = ("1");BMWArr[3] = ("3");BMWArr[4] = ("5");BMWArr[5] = ("6");BMWArr[6] = ("7");BMWArr[7] = ("8");BMWArr[8] = ("M1");BMWArr[9] = ("M3");BMWArr[10] = ("M5");BMWArr[11] = ("M6");BMWArr[12] = ("X3");BMWArr[13] = ("X5");BMWArr[14] = ("Z1");BMWArr[15] = ("Z3");BMWArr[16] = ("Z4");BMWArr[17] = ("Z8");
+BMWArr[0] = 17;
+
+BrillianceArr[1] = ("all models");BrillianceArr[2] = ("BS6");
+BrillianceArr[0] = 2;
+
+BugattiArr[1] = ("all models");BugattiArr[2] = ("EB110");BugattiArr[3] = ("Veyron");
+BugattiArr[0] = 3;
+
+BuickArr[1] = ("all models");BuickArr[2] = ("Century");BuickArr[3] = ("Eight");BuickArr[4] = ("Electra");BuickArr[5] = ("Le Sabre");BuickArr[6] = ("Park Avenue");BuickArr[7] = ("Regal");BuickArr[8] = ("Riviera");BuickArr[9] = ("Roadmaster");BuickArr[10] = ("Skylark");BuickArr[11] = ("Super");BuickArr[12] = ("Wildcat");
+BuickArr[0] = 12;
+
+CadillacArr[1] = ("all models");CadillacArr[2] = ("Allante");CadillacArr[3] = ("BLS");CadillacArr[4] = ("CTS");CadillacArr[5] = ("Deville");CadillacArr[6] = ("Eldorado");CadillacArr[7] = ("Escalade");CadillacArr[8] = ("Fleetwood");CadillacArr[9] = ("SRX");CadillacArr[10] = ("STS");CadillacArr[11] = ("Seville");CadillacArr[12] = ("XLR");
+CadillacArr[0] = 12;
+
+CaterhamArr[1] = ("all models");CaterhamArr[2] = ("Roadsport");CaterhamArr[3] = ("Sigma");CaterhamArr[4] = ("Super");
+CaterhamArr[0] = 4;
+
+ChevroletArr[1] = ("all models");ChevroletArr[2] = ("2500");ChevroletArr[3] = ("Alero");ChevroletArr[4] = ("Astro");ChevroletArr[5] = ("Avalanche");ChevroletArr[6] = ("Aveo");ChevroletArr[7] = ("Beretta");ChevroletArr[8] = ("Blazer");ChevroletArr[9] = ("C1500");ChevroletArr[10] = ("Camaro");ChevroletArr[11] = ("Caprice");ChevroletArr[12] = ("Captiva");ChevroletArr[13] = ("Cavalier");ChevroletArr[14] = ("Chevelle");ChevroletArr[15] = ("Chevy Van");ChevroletArr[16] = ("Citation");ChevroletArr[17] = ("Colorado");ChevroletArr[18] = ("Corsica");ChevroletArr[19] = ("El Camino");ChevroletArr[20] = ("Epica");ChevroletArr[21] = ("Evanda");ChevroletArr[22] = ("G");ChevroletArr[23] = ("HHR");ChevroletArr[24] = ("Impala");ChevroletArr[25] = ("K30");ChevroletArr[26] = ("K1500");ChevroletArr[27] = ("Kalos");ChevroletArr[28] = ("Lacetti");ChevroletArr[29] = ("Lumina");ChevroletArr[30] = ("Malibu");ChevroletArr[31] = ("Matiz");ChevroletArr[32] = ("Nubira");ChevroletArr[33] = ("Rezzo");ChevroletArr[34] = ("S-10");ChevroletArr[35] = ("SSR");ChevroletArr[36] = ("Silverado");ChevroletArr[37] = ("Suburban");ChevroletArr[38] = ("Tahoe");ChevroletArr[39] = ("Trailblazer");ChevroletArr[40] = ("Trans Sport");ChevroletArr[41] = ("Venture");
+ChevroletArr[0] = 41;
+
+ChryslerArr[1] = ("all models");ChryslerArr[2] = ("300M");ChryslerArr[3] = ("300C");ChryslerArr[4] = ("Crossfire");ChryslerArr[5] = ("Daytona");ChryslerArr[6] = ("ES");ChryslerArr[7] = ("GS");ChryslerArr[8] = ("GTS");ChryslerArr[9] = ("Grand Voyager");ChryslerArr[10] = ("Le Baron");ChryslerArr[11] = ("Neon");ChryslerArr[12] = ("New Yorker");ChryslerArr[13] = ("PT Cruiser");ChryslerArr[14] = ("Pacifica");ChryslerArr[15] = ("Saratoga");ChryslerArr[16] = ("Sebring");ChryslerArr[17] = ("Stratus");ChryslerArr[18] = ("Valiant");ChryslerArr[19] = ("Viper");ChryslerArr[20] = ("Vision");ChryslerArr[21] = ("Voyager");
+ChryslerArr[0] = 21;
+
+CitroenArr[1] = ("all models");CitroenArr[2] = ("2 CV");CitroenArr[3] = ("AX");CitroenArr[4] = ("BX");CitroenArr[5] = ("Berlingo");CitroenArr[6] = ("C-Crosser");CitroenArr[7] = ("C1");CitroenArr[8] = ("C2");CitroenArr[9] = ("C3");CitroenArr[10] = ("C4");CitroenArr[11] = ("C4 Picasso");CitroenArr[12] = ("C5");CitroenArr[13] = ("C6");CitroenArr[14] = ("C8");CitroenArr[15] = ("CX");CitroenArr[16] = ("DS");CitroenArr[17] = ("Evasion");CitroenArr[18] = ("GSA");CitroenArr[19] = ("Jumpy");CitroenArr[20] = ("Saxo");CitroenArr[21] = ("SM");CitroenArr[22] = ("Visa");CitroenArr[23] = ("XM");CitroenArr[24] = ("Xantia");CitroenArr[25] = ("Xsara");CitroenArr[26] = ("Xsara Picasso");CitroenArr[27] = ("ZX");
+CitroenArr[0] = 27;
+
+CorvetteArr[1] = ("all models");CorvetteArr[2] = ("C3");CorvetteArr[3] = ("C4");CorvetteArr[4] = ("C5");CorvetteArr[5] = ("C6");
+CorvetteArr[0] = 5
+
+DaciaArr[1] = ("all models");DaciaArr[2] = ("1300");DaciaArr[3] = ("1310");DaciaArr[4] = ("1410");DaciaArr[5] = ("Logan");DaciaArr[6] = ("Solenza");DaciaArr[7] = ("Nova");
+DaciaArr[0] = 7;
+
+DaewooArr[1] = ("all models");DaewooArr[2] = ("Espero");DaewooArr[3] = ("Evanda");DaewooArr[4] = ("Kalos");DaewooArr[5] = ("Korando");DaewooArr[6] = ("Lacetti");DaewooArr[7] = ("Lanos");DaewooArr[8] = ("Leganza");DaewooArr[9] = ("Matiz");DaewooArr[10] = ("Musso");DaewooArr[11] = ("Nexia");DaewooArr[12] = ("Nubira");DaewooArr[13] = ("Rezzo");DaewooArr[14] = ("Tacuma");
+DaewooArr[0] = 14;
+
+DaihatsuArr[1] = ("all models");DaihatsuArr[2] = ("Espero");DaihatsuArr[3] = ("Evanda");DaihatsuArr[4] = ("Kalos");DaihatsuArr[5] = ("Korando");DaihatsuArr[6] = ("Lacetti");DaihatsuArr[7] = ("Lanos");DaihatsuArr[8] = ("Leganza");DaihatsuArr[9] = ("Matiz");DaihatsuArr[10] = ("Musso");DaihatsuArr[11] = ("Nexia");DaihatsuArr[12] = ("Nubira");DaihatsuArr[13] = ("Rezzo");DaihatsuArr[14] = ("Tacuma");
+DaihatsuArr[0] = 14;
+
+DeTomasoArr[1] = ("all models");DeTomasoArr[2] = ("Pantera");
+DeTomasoArr[0] = 2;
+
+DodgeArr[1] = ("all models");DodgeArr[2] = ("Avenger");DodgeArr[3] = ("Caliber");DodgeArr[4] = ("Charger");DodgeArr[5] = ("Dakota");DodgeArr[6] = ("Demon");DodgeArr[7] = ("Durango");DodgeArr[8] = ("Grand Caravan");DodgeArr[9] = ("Hornet");DodgeArr[10] = ("Magnum");DodgeArr[11] = ("Neon");DodgeArr[12] = ("Nitro");DodgeArr[13] = ("RAM");DodgeArr[14] = ("Stealth");DodgeArr[15] = ("Viper");
+DodgeArr[0] = 15;
+
+FerrariArr[1] = ("all models");FerrariArr[2] = ("208");FerrariArr[3] = ("246");FerrariArr[4] = ("250");FerrariArr[5] = ("275");FerrariArr[6] = ("288");FerrariArr[1] = ("308");FerrariArr[7] = ("328");FerrariArr[8] = ("330");FerrariArr[9] = ("348");FerrariArr[10] = ("360");FerrariArr[11] = ("365");FerrariArr[12] = ("400");FerrariArr[13] = ("412");FerrariArr[14] = ("456");FerrariArr[15] = ("512");FerrariArr[16] = ("550");FerrariArr[17] = ("575");FerrariArr[18] = ("599 GTB");FerrariArr[19] = ("612");FerrariArr[20] = ("750");FerrariArr[21] = ("Daytona");FerrariArr[22] = ("Dino");FerrariArr[23] = ("Enzo");FerrariArr[24] = ("F40");FerrariArr[25] = ("F50");FerrariArr[26] = ("F355");FerrariArr[27] = ("F430");FerrariArr[28] = ("Mondial");FerrariArr[29] = ("Superamerica");FerrariArr[30] = ("Testarossa");
+FerrariArr[0] = 30;
+
+FiatArr[1] = ("all models");FiatArr[2] = ("124");FiatArr[3] = ("126");FiatArr[4] = ("127");FiatArr[5] = ("130");FiatArr[6] = ("131");FiatArr[7] = ("500");FiatArr[8] = ("Barchetta");FiatArr[9] = ("Brava");FiatArr[10] = ("Bravo");FiatArr[11] = ("Cinquecento");FiatArr[12] = ("Coupe");FiatArr[13] = ("Croma");FiatArr[14] = ("Dino");FiatArr[15] = ("Doblo");FiatArr[16] = ("Ducato");FiatArr[17] = ("Fiorino");FiatArr[18] = ("Grande Punto");FiatArr[19] = ("Idea");FiatArr[20] = ("Linea");FiatArr[21] = ("Marea");FiatArr[22] = ("Marengo");FiatArr[23] = ("Multipla");FiatArr[24] = ("Palio");FiatArr[25] = ("Panda");FiatArr[26] = ("Punto");FiatArr[27] = ("Regata");FiatArr[28] = ("Ritmo");FiatArr[29] = ("Scudo");FiatArr[30] = ("Sedici");FiatArr[31] = ("Seicento");FiatArr[32] = ("Spider Europa");FiatArr[33] = ("Stilo");FiatArr[34] = ("Strada");FiatArr[35] = ("Tempra");FiatArr[36] = ("Tipo");FiatArr[37] = ("Ulysse");FiatArr[38] = ("Uno");FiatArr[39] = ("X 1/9");
+FiatArr[0] = 39;
+
+FordArr[1] = ("all models");FordArr[2] = ("Aerostar");FordArr[3] = ("Bronco");FordArr[4] = ("Capri");FordArr[5] = ("Cougar");FordArr[6] = ("Courier");FordArr[7] = ("Crown");FordArr[8] = ("Econoline");FordArr[9] = ("Econovan");FordArr[10] = ("Escape");FordArr[11] = ("Escort");FordArr[12] = ("Excursion");FordArr[13] = ("Expedition");FordArr[14] = ("Explorer");FordArr[15] = ("Express");FordArr[16] = ("F 150");FordArr[17] = ("F 250");FordArr[18] = ("F 350");FordArr[19] = ("Fairlane");FordArr[20] = ("Falcon");FordArr[21] = ("Fiesta");FordArr[22] = ("Focus");FordArr[23] = ("Fusion");FordArr[24] = ("GT");FordArr[25] = ("Galaxy");FordArr[26] = ("Granada");FordArr[27] = ("Ka");FordArr[28] = ("Maverick");FordArr[29] = ("Mercury");FordArr[30] = ("Mondeo");FordArr[31] = ("Mustang");FordArr[32] = ("Orion");FordArr[33] = ("Probe");FordArr[34] = ("Puma");FordArr[35] = ("Ranger");FordArr[36] = ("S-Max");FordArr[37] = ("Scorpio");FordArr[38] = ("Sierra");FordArr[39] = ("Streetka");FordArr[40] = ("Taunus");FordArr[41] = ("Taurus");FordArr[42] = ("Thunderbird");FordArr[43] = ("Tourneo");FordArr[44] = ("Transit");FordArr[45] = ("Windstar");
+FordArr[0] = 45;
+
+GMCArr[1] = ("all models");GMCArr[2] = ("Envoy");GMCArr[3] = ("Safari");GMCArr[4] = ("Savana");GMCArr[5] = ("Sierra");GMCArr[6] = ("Sonoma");GMCArr[7] = ("Syclone");GMCArr[8] = ("Typhoon");GMCArr[9] = ("Vandura");GMCArr[10] = ("Yukon");
+GMCArr[0] = 10;
+
+HondaArr[1] = ("all models");HondaArr[2] = ("Accord");HondaArr[3] = ("Aerodeck");HondaArr[4] = ("CR-V");HondaArr[5] = ("CRX");HondaArr[6] = ("Civic");HondaArr[7] = ("Concerto");HondaArr[8] = ("Element");HondaArr[9] = ("FR-V");HondaArr[10] = ("HR-V");HondaArr[11] = ("Insight");HondaArr[12] = ("Integra");HondaArr[13] = ("Jazz");HondaArr[14] = ("Legend");HondaArr[15] = ("Logo");HondaArr[16] = ("NSX");HondaArr[17] = ("Odyssey");HondaArr[18] = ("Prelude");HondaArr[19] = ("S 2000");HondaArr[20] = ("Shuttle");HondaArr[21] = ("Stream");
+HondaArr[0] = 21;
+
+HummerArr[1] = ("all models");HummerArr[2] = ("H1");HummerArr[3] = ("H2");HummerArr[4] = ("H3");
+HummerArr[0] = 4;
+
+HyundaiArr[1] = ("all models");HyundaiArr[2] = ("Accent");HyundaiArr[3] = ("Atos");HyundaiArr[4] = ("Coupe");HyundaiArr[5] = ("Elantra");HyundaiArr[6] = ("Excel");HyundaiArr[7] = ("Galloper");HyundaiArr[8] = ("Getz");HyundaiArr[9] = ("Grandeur");HyundaiArr[10] = ("H 100");HyundaiArr[11] = ("H 200");HyundaiArr[12] = ("H-1");HyundaiArr[13] = ("Lantra");HyundaiArr[14] = ("Matrix");HyundaiArr[15] = ("Pony");HyundaiArr[16] = ("S-Coupe");HyundaiArr[17] = ("Santa-Fe");HyundaiArr[18] = ("Santamo");HyundaiArr[19] = ("Sonata");HyundaiArr[20] = ("Terracan");HyundaiArr[21] = ("Trajet");HyundaiArr[22] = ("Tucson");HyundaiArr[23] = ("XG");
+HyundaiArr[0] = 23;
+
+InfinitiArr[1] = ("all models");InfinitiArr[2] = ("FX");InfinitiArr[3] = ("G35");InfinitiArr[4] = ("Q45");InfinitiArr[5] = ("QX56");
+InfinitiArr[0] = 5;
+
+IsuzuArr[1] = ("all models");IsuzuArr[2] = ("Campo");IsuzuArr[3] = ("Gemini");IsuzuArr[4] = ("Midi");IsuzuArr[5] = ("Pick-Up");IsuzuArr[6] = ("Trooper");
+IsuzuArr[0] = 6;
+
+JaguarArr[1] = ("all models");JaguarArr[2] = ("Daimler");JaguarArr[3] = ("E-Type");JaguarArr[4] = ("MK II");JaguarArr[5] = ("S-Type");JaguarArr[6] = ("X-Type");JaguarArr[7] = ("XJ");JaguarArr[8] = ("XJR");JaguarArr[9] = ("XJS");JaguarArr[10] = ("XJSC");JaguarArr[11] = ("XK");JaguarArr[12] = ("XKR");
+JaguarArr[0] = 12;
+
+JeepArr[1] = ("all models");JeepArr[2] = ("CJ");JeepArr[3] = ("Cherokee");JeepArr[4] = ("Comanche");JeepArr[5] = ("Commander");JeepArr[6] = ("Grand Cherokee");JeepArr[7] = ("Renegade");JeepArr[8] = ("Wagoneer");JeepArr[9] = ("Willys");JeepArr[10] = ("Wrangler");
+JeepArr[0] = 10;
+
+KiaArr[1] = ("all models");KiaArr[2] = ("Besta");KiaArr[3] = ("Carens");KiaArr[4] = ("Carnival");KiaArr[5] = ("Cerato");KiaArr[6] = ("Clarus");KiaArr[7] = ("Elan");KiaArr[8] = ("Joice");KiaArr[9] = ("K2500");KiaArr[10] = ("K2700");KiaArr[11] = ("Leo");KiaArr[12] = ("Magentis");KiaArr[13] = ("Mentor");KiaArr[14] = ("Opirus");KiaArr[15] = ("Picanto");KiaArr[16] = ("Pregio");KiaArr[17] = ("Pride");KiaArr[18] = ("Retona");KiaArr[19] = ("Rio");KiaArr[20] = ("Roadster");KiaArr[21] = ("Rocsta");KiaArr[22] = ("Sephia");KiaArr[23] = ("Shuma");KiaArr[24] = ("Sorento");KiaArr[25] = ("Sportage");KiaArr[26] = ("Cee'd");
+KiaArr[0] = 26;
+
+LadaArr[1] = ("all models");LadaArr[2] = ("110");LadaArr[3] = ("111");LadaArr[4] = ("112");LadaArr[5] = ("1200");LadaArr[6] = ("1500");LadaArr[7] = ("2101");LadaArr[8] = ("2102");LadaArr[9] = ("2103");LadaArr[10] = ("2104");LadaArr[11] = ("21044");LadaArr[12] = ("2105");LadaArr[13] = ("2106");LadaArr[14] = ("2107");LadaArr[15] = ("2110");LadaArr[16] = ("2111");LadaArr[17] = ("2112");LadaArr[18] = ("Aleko");LadaArr[19] = ("Forma");LadaArr[20] = ("Kalina");LadaArr[21] = ("Niva");LadaArr[22] = ("Nova");LadaArr[23] = ("Samara");
+LadaArr[0] = 23;
+
+LamborginiArr[1] = ("all models");LamborginiArr[2] = ("Countach");LamborginiArr[3] = ("Diablo");LamborginiArr[4] = ("Espada");LamborginiArr[5] = ("Gallardo");LamborginiArr[6] = ("Jalpa");LamborginiArr[7] = ("LM");LamborginiArr[8] = ("Miura");LamborginiArr[9] = ("Murciélago");LamborginiArr[10] = ("Urraco");
+LamborginiArr[0] = 10;
+
+LanciaArr[1] = ("all models");LanciaArr[2] = ("Beta");LanciaArr[3] = ("Dedra");LanciaArr[4] = ("Delta");LanciaArr[5] = ("Flaminia");LanciaArr[6] = ("Fulvia");LanciaArr[7] = ("Gamma");LanciaArr[8] = ("Kappa");LanciaArr[9] = ("Lybra");LanciaArr[10] = ("Musa");LanciaArr[11] = ("Phedra");LanciaArr[12] = ("Prisma");LanciaArr[13] = ("Stratos");LanciaArr[14] = ("Thema");LanciaArr[15] = ("Thesis");LanciaArr[16] = ("Ypsilon");LanciaArr[17] = ("Zeta");
+LanciaArr[0] = 17;
+
+LandRoverArr[1] = ("all models");LandRoverArr[2] = ("Defender");LandRoverArr[3] = ("Discovery");LandRoverArr[4] = ("Freelander");LandRoverArr[5] = ("Range Rover");LandRoverArr[6] = ("Range Rover Sport");
+LandRoverArr[0] = 6;
+
+LexusArr[1] = ("all models");LexusArr[2] = ("GS");LexusArr[3] = ("GX");LexusArr[4] = ("IS");LexusArr[5] = ("LS");LexusArr[6] = ("LX");LexusArr[7] = ("RX");LexusArr[8] = ("SC");
+LexusArr[0] = 8;
+
+LigierArr[1] = ("all models");LigierArr[2] = ("Ambra");LigierArr[3] = ("Nova");LigierArr[4] = ("Optima");LigierArr[5] = ("X-Too");
+LigierArr[0] = 5;
+
+LincolnArr[1] = ("all models");LincolnArr[2] = ("Aviator");LincolnArr[3] = ("Continental");LincolnArr[4] = ("LS");LincolnArr[5] = ("Mark");LincolnArr[6] = ("Navigator");LincolnArr[7] = ("Town Car");
+LincolnArr[0] = 7;
+
+LotusArr[1] = ("all models");LotusArr[2] = ("340 R");LotusArr[3] = ("Cortina");LotusArr[4] = ("Elan");LotusArr[5] = ("Elise");LotusArr[6] = ("Elite");LotusArr[7] = ("Esprit");LotusArr[8] = ("Europa");LotusArr[9] = ("Excel");LotusArr[10] = ("Exige");LotusArr[11] = ("Super Seven");LotusArr[12] = ("V8");
+LotusArr[0] = 12;
+
+MahindraArr[1] = ("all models");MahindraArr[2] = ("CJ");
+MahindraArr[0] = 2;
+
+MaseratiArr[1] = ("all models");MaseratiArr[2] = ("222");MaseratiArr[3] = ("224");MaseratiArr[4] = ("228");MaseratiArr[5] = ("418");MaseratiArr[6] = ("420");MaseratiArr[7] = ("422");MaseratiArr[8] = ("424");MaseratiArr[9] = ("430");MaseratiArr[10] = ("3200");MaseratiArr[11] = ("4200");MaseratiArr[12] = ("Biturbo");MaseratiArr[13] = ("Ghibli");MaseratiArr[14] = ("Gransport");MaseratiArr[15] = ("Indy");MaseratiArr[16] = ("Karif");MaseratiArr[17] = ("MC12");MaseratiArr[18] = ("Merak");MaseratiArr[19] = ("Quattroporte");MaseratiArr[20] = ("Shamal");MaseratiArr[21] = ("Spyder");
+MaseratiArr[0] = 21;
+
+MaybachArr[1] = ("all models");MaybachArr[2] = ("57");MaybachArr[3] = ("62");
+MaybachArr[0] = 3;
+
+MazdaArr[1] = ("all models");MazdaArr[2] = ("2");MazdaArr[3] = ("3");MazdaArr[4] = ("5");MazdaArr[5] = ("6");MazdaArr[6] = ("121");MazdaArr[7] = ("323");MazdaArr[8] = ("626");MazdaArr[9] = ("929");MazdaArr[10] = ("B series");MazdaArr[11] = ("BT-50");MazdaArr[12] = ("Bongo");MazdaArr[13] = ("CX-7");MazdaArr[14] = ("CX-9");MazdaArr[15] = ("Demio");MazdaArr[16] = ("E series");MazdaArr[17] = ("MPV");MazdaArr[18] = ("MX-3");MazdaArr[19] = ("MX-5");MazdaArr[20] = ("MX-6");MazdaArr[21] = ("Millenia");MazdaArr[22] = ("Premacy");MazdaArr[23] = ("Protege");MazdaArr[24] = ("RX-6");MazdaArr[25] = ("RX-7");MazdaArr[26] = ("RX-8");MazdaArr[27] = ("Tribute");MazdaArr[28] = ("Xedos 6");MazdaArr[29] = ("Xedos 9");
+MazdaArr[0] = 29;
+
+MercedesBenzArr[1] = ("all models");MercedesBenzArr[2] = ("190");MercedesBenzArr[3] = ("200");MercedesBenzArr[4] = ("220");MercedesBenzArr[5] = ("230");MercedesBenzArr[6] = ("240");MercedesBenzArr[7] = ("250");MercedesBenzArr[8] = ("260");MercedesBenzArr[9] = ("270");MercedesBenzArr[10] = ("280");MercedesBenzArr[11] = ("290");MercedesBenzArr[12] = ("300");MercedesBenzArr[13] = ("320");MercedesBenzArr[14] = ("350");MercedesBenzArr[15] = ("380");MercedesBenzArr[16] = ("400");MercedesBenzArr[17] = ("416");MercedesBenzArr[18] = ("420");MercedesBenzArr[19] = ("450");MercedesBenzArr[20] = ("500");MercedesBenzArr[21] = ("560");MercedesBenzArr[22] = ("600");MercedesBenzArr[23] = ("A");MercedesBenzArr[24] = ("B");MercedesBenzArr[25] = ("C");MercedesBenzArr[26] = ("CE");MercedesBenzArr[27] = ("CL");MercedesBenzArr[28] = ("CLK");MercedesBenzArr[29] = ("CLS");MercedesBenzArr[30] = ("E");MercedesBenzArr[31] = ("G");MercedesBenzArr[32] = ("GL");MercedesBenzArr[33] = ("MB 100");MercedesBenzArr[34] = ("ML");MercedesBenzArr[35] = ("R");MercedesBenzArr[36] = ("S");MercedesBenzArr[37] = ("SL");MercedesBenzArr[38] = ("SLK");MercedesBenzArr[39] = ("SLR");MercedesBenzArr[40] = ("Sprinter");MercedesBenzArr[41] = ("V");MercedesBenzArr[42] = ("Vaneo");MercedesBenzArr[43] = ("Vario");MercedesBenzArr[44] = ("Viano");MercedesBenzArr[45] = ("Vito");
+MercedesBenzArr[0] = 45;
+
+MGArr[1] = ("all models");MGArr[2] = ("MGA");MGArr[3] = ("MGB");MGArr[4] = ("MGF");MGArr[5] = ("Midget");MGArr[6] = ("Montego");MGArr[7] = ("TD");MGArr[8] = ("TF");MGArr[9] = ("ZR");MGArr[10] = ("ZS");MGArr[11] = ("ZT");
+MGArr[0] = 11;
+
+MiniArr[1] = ("all models");MiniArr[2] = ("1000");MiniArr[3] = ("1300");MiniArr[4] = ("Clubman");MiniArr[5] = ("Cooper");MiniArr[6] = ("One");
+MiniArr[0] = 6;
+
+MitsubishiArr[1] = ("all models");MitsubishiArr[2] = ("3000 GT");MitsubishiArr[3] = ("Canter");MitsubishiArr[4] = ("Carisma");MitsubishiArr[5] = ("Colt");MitsubishiArr[6] = ("Cordia");MitsubishiArr[7] = ("Cosmos");MitsubishiArr[8] = ("Diamante");MitsubishiArr[9] = ("Eclipse");MitsubishiArr[10] = ("Galant");MitsubishiArr[11] = ("Galloper");MitsubishiArr[12] = ("Grandis");MitsubishiArr[13] = ("L200");MitsubishiArr[14] = ("L300");MitsubishiArr[15] = ("L400");MitsubishiArr[16] = ("Lancer");MitsubishiArr[17] = ("Montero");MitsubishiArr[18] = ("Outlander");MitsubishiArr[19] = ("Pajero");MitsubishiArr[20] = ("Pajero");MitsubishiArr[21] = ("Pick-up");MitsubishiArr[22] = ("Santamo");MitsubishiArr[23] = ("Sapporo");MitsubishiArr[24] = ("Sigma");MitsubishiArr[25] = ("Space Gear");MitsubishiArr[26] = ("Space Runner");MitsubishiArr[27] = ("Space Star");MitsubishiArr[28] = ("Space Wagon");MitsubishiArr[29] = ("Starion");MitsubishiArr[30] = ("Tredia");
+MitsubishiArr[0] = 30;
+
+MorganArr[1] = ("all models");MorganArr[2] = ("Aero 8");MorganArr[3] = ("Plus 4");MorganArr[4] = ("Plus 8");MorganArr[5] = ("Roadster");
+MorganArr[0] = 5;
+
+NissanArr[1] = ("all models");NissanArr[2] = ("100 NX");NissanArr[3] = ("200 SX");NissanArr[4] = ("240 SX");NissanArr[5] = ("280 ZX");NissanArr[6] = ("300 ZX");NissanArr[7] = ("350Z");NissanArr[8] = ("Almera");NissanArr[9] = ("Almera Tino");NissanArr[10] = ("Altima");NissanArr[11] = ("Armada");NissanArr[12] = ("Bluebird");NissanArr[13] = ("Cabstar");NissanArr[14] = ("Cargo");NissanArr[15] = ("Cherry");NissanArr[16] = ("Frontier");NissanArr[17] = ("Interstar");NissanArr[18] = ("King Cab");NissanArr[19] = ("Kubistar");NissanArr[20] = ("Laurel");NissanArr[21] = ("Maxima");NissanArr[22] = ("Micra");NissanArr[23] = ("Murano");NissanArr[24] = ("Navara");NissanArr[25] = ("Note");NissanArr[26] = ("Pathfinder");NissanArr[27] = ("Patrol");NissanArr[28] = ("Prairie");NissanArr[29] = ("Primastar");NissanArr[30] = ("Primera");NissanArr[31] = ("Qashqai");NissanArr[32] = ("Quest");NissanArr[33] = ("Sentra");NissanArr[34] = ("Serena");NissanArr[35] = ("Silvia");NissanArr[36] = ("Skyline");NissanArr[37] = ("Sunny");NissanArr[38] = ("Terrano");NissanArr[39] = ("Tiida");NissanArr[40] = ("Titan");NissanArr[41] = ("Trade");NissanArr[42] = ("Urvan");NissanArr[43] = ("Vanette");NissanArr[44] = ("X-Trail");
+NissanArr[0] = 44;
+
+OldsmobileArr[1] = ("all models");OldsmobileArr[2] = ("Bravada");OldsmobileArr[3] = ("Custom Cruiser");OldsmobileArr[4] = ("Cutlass");OldsmobileArr[5] = ("Delta 88");OldsmobileArr[6] = ("Silhouette");OldsmobileArr[7] = ("Supreme");OldsmobileArr[8] = ("Toronado");
+OldsmobileArr[0] = 8;
+
+OpelArr[1] = ("all models");OpelArr[2] = ("Agila");OpelArr[3] = ("Antara");OpelArr[4] = ("Arena");OpelArr[5] = ("Ascona");OpelArr[6] = ("Astra");OpelArr[7] = ("Calibra");OpelArr[8] = ("Campo");OpelArr[9] = ("Cavalier");OpelArr[10] = ("Combo");OpelArr[11] = ("Commodore");OpelArr[12] = ("Corsa");OpelArr[13] = ("Diplomat");OpelArr[14] = ("Frontera");OpelArr[15] = ("GT");OpelArr[16] = ("Kadett");OpelArr[17] = ("Manta");OpelArr[18] = ("Meriva");OpelArr[19] = ("Monterey");OpelArr[20] = ("Monza");OpelArr[21] = ("Movano");OpelArr[22] = ("Nova");OpelArr[23] = ("Omega");OpelArr[24] = ("Pick Up Sportscap");OpelArr[25] = ("Rekord");OpelArr[26] = ("Senator");OpelArr[27] = ("Signum");OpelArr[28] = ("Sintra");OpelArr[29] = ("Speedster");OpelArr[30] = ("Tigra");OpelArr[31] = ("Vectra");OpelArr[32] = ("Vivaro");OpelArr[33] = ("Zafira");
+OpelArr[0] = 33;
+
+PeugeotArr[1] = ("all models");PeugeotArr[2] = ("104");PeugeotArr[3] = ("106");PeugeotArr[4] = ("107");PeugeotArr[5] = ("204");PeugeotArr[6] = ("205");PeugeotArr[7] = ("206");PeugeotArr[8] = ("207");PeugeotArr[9] = ("304");PeugeotArr[10] = ("305");PeugeotArr[11] = ("306");PeugeotArr[12] = ("307");PeugeotArr[13] = ("308");PeugeotArr[14] = ("309");PeugeotArr[15] = ("404");PeugeotArr[16] = ("405");PeugeotArr[17] = ("406");PeugeotArr[18] = ("407");PeugeotArr[19] = ("504");PeugeotArr[20] = ("505");PeugeotArr[21] = ("604");PeugeotArr[22] = ("605");PeugeotArr[23] = ("607");PeugeotArr[24] = ("806");PeugeotArr[25] = ("807");PeugeotArr[26] = ("1007");PeugeotArr[27] = ("4007");PeugeotArr[28] = ("Boxer");PeugeotArr[29] = ("Expert");PeugeotArr[30] = ("J5");PeugeotArr[31] = ("Partner");
+PeugeotArr[0] = 31;
+
+PiaggioArr[1] = ("all models");PiaggioArr[2] = ("Porter");
+PiaggioArr[0] = 2;
+
+PlymouthArr[1] = ("all models");PlymouthArr[2] = ("Prowler");
+PlymouthArr[0] = 2;
+
+PontiacArr[1] = ("all models");PontiacArr[2] = ("6000");PontiacArr[3] = ("Bonneville");PontiacArr[4] = ("Fiero");PontiacArr[5] = ("Firebird");PontiacArr[6] = ("G6");PontiacArr[7] = ("GTO");PontiacArr[8] = ("Grand-Am");PontiacArr[9] = ("Grand-Prix");PontiacArr[10] = ("Montana");PontiacArr[11] = ("Solstice");PontiacArr[12] = ("Sunbird");PontiacArr[13] = ("Sunfire");PontiacArr[14] = ("Targa");PontiacArr[15] = ("Trans Am");PontiacArr[16] = ("Trans Sport");PontiacArr[17] = ("Vibe");
+PontiacArr[0] = 17;
+
+PorscheArr[1] = ("all models");PorscheArr[2] = ("356");PorscheArr[3] = ("911");PorscheArr[4] = ("912");PorscheArr[5] = ("914");PorscheArr[6] = ("924");PorscheArr[7] = ("928");PorscheArr[8] = ("944");PorscheArr[9] = ("959");PorscheArr[10] = ("962");PorscheArr[11] = ("968");PorscheArr[12] = ("Boxster");PorscheArr[13] = ("Carrera GT");PorscheArr[14] = ("Cayenne");PorscheArr[15] = ("Cayman");
+PorscheArr[0] = 15;
+
+ProtonArr[1] = ("all models");ProtonArr[2] = ("300");ProtonArr[3] = ("315");ProtonArr[4] = ("400");ProtonArr[5] = ("413");ProtonArr[6] = ("415");ProtonArr[7] = ("416");ProtonArr[8] = ("418");ProtonArr[9] = ("420");ProtonArr[10] = ("Perdana");ProtonArr[11] = ("Saga");ProtonArr[12] = ("Waja");
+ProtonArr[0] = 12;
+
+RenaultArr[1] = ("all models");RenaultArr[2] = ("Alpine");RenaultArr[3] = ("Avantime");RenaultArr[4] = ("Clio");RenaultArr[5] = ("Coupe");RenaultArr[6] = ("Espace");RenaultArr[7] = ("Express");RenaultArr[8] = ("Fuego");RenaultArr[9] = ("Grand Espace");RenaultArr[10] = ("Grand Scenic");RenaultArr[11] = ("Kangoo");RenaultArr[12] = ("Koleos");RenaultArr[13] = ("Laguna");RenaultArr[14] = ("Mascott");RenaultArr[15] = ("Master");RenaultArr[16] = ("Megane");RenaultArr[17] = ("Modus");RenaultArr[18] = ("P 1400");RenaultArr[19] = ("R 4");RenaultArr[20] = ("R 5");RenaultArr[21] = ("R 6");RenaultArr[22] = ("R 9");RenaultArr[23] = ("R 11");RenaultArr[24] = ("R 14");RenaultArr[25] = ("R 18");RenaultArr[26] = ("R 19");RenaultArr[27] = ("R 20");RenaultArr[28] = ("R 21");RenaultArr[29] = ("R 25");RenaultArr[30] = ("R 30");RenaultArr[31] = ("Rapid");RenaultArr[32] = ("Safrane");RenaultArr[33] = ("Scenic");RenaultArr[34] = ("Spider");RenaultArr[35] = ("Trafic");RenaultArr[36] = ("Twingo");RenaultArr[37] = ("Vel Satis");
+RenaultArr[0] = 37;
+
+RollsRoyceArr[1] = ("all models");RollsRoyceArr[2] = ("Corniche");RollsRoyceArr[3] = ("Flying Spur");RollsRoyceArr[4] = ("Park Ward");RollsRoyceArr[5] = ("Phantom");RollsRoyceArr[6] = ("Silver Cloud");RollsRoyceArr[7] = ("Silver Dawn");RollsRoyceArr[8] = ("Silver Seraph");RollsRoyceArr[9] = ("Silver Shadow");RollsRoyceArr[10] = ("Silver Spirit");RollsRoyceArr[11] = ("Silver Spur");
+RollsRoyceArr[0] = 11;
+
+RoverArr[1] = ("all models");RoverArr[2] = ("25");RoverArr[3] = ("45");RoverArr[4] = ("75");RoverArr[5] = ("100");RoverArr[6] = ("111");RoverArr[7] = ("114");RoverArr[8] = ("115");RoverArr[9] = ("200");RoverArr[10] = ("213");RoverArr[11] = ("214");RoverArr[12] = ("216");RoverArr[13] = ("218");RoverArr[14] = ("220");RoverArr[15] = ("400");RoverArr[16] = ("414");RoverArr[17] = ("416");RoverArr[18] = ("418");RoverArr[19] = ("420");RoverArr[20] = ("600");RoverArr[21] = ("618");RoverArr[22] = ("620");RoverArr[23] = ("623");RoverArr[24] = ("800");RoverArr[25] = ("820");RoverArr[26] = ("825");RoverArr[27] = ("827");RoverArr[28] = ("City Rover");RoverArr[29] = ("Metro");RoverArr[30] = ("Montego");RoverArr[31] = ("SD");RoverArr[32] = ("Streetwise");
+RoverArr[0] = 32;
+
+SaabArr[1] = ("all models");SaabArr[2] = ("9-3");SaabArr[3] = ("9-5");SaabArr[4] = ("9-7X");SaabArr[5] = ("90");SaabArr[6] = ("96");SaabArr[7] = ("99");SaabArr[8] = ("900");SaabArr[9] = ("9000");
+SaabArr[0] = 9;
+
+SeatArr[1] = ("all models");SeatArr[2] = ("Alhambra");SeatArr[3] = ("Altea");SeatArr[4] = ("Arosa");SeatArr[5] = ("Cordoba");SeatArr[6] = ("Ibiza");SeatArr[7] = ("Inca");SeatArr[8] = ("Leon");SeatArr[9] = ("Malaga");SeatArr[10] = ("Marbella");SeatArr[11] = ("Terra");SeatArr[12] = ("Toledo");
+SeatArr[0] = 12;
+
+SkodaArr[1] = ("all models");SkodaArr[2] = ("105");SkodaArr[3] = ("120");SkodaArr[4] = ("130");SkodaArr[5] = ("135");SkodaArr[6] = ("Fabia");SkodaArr[7] = ("Favorit");SkodaArr[8] = ("Felicia");SkodaArr[9] = ("Forman");SkodaArr[10] = ("Octavia");SkodaArr[11] = ("Pick-up");SkodaArr[12] = ("Roomster");SkodaArr[13] = ("Superb");
+SkodaArr[0] = 13;
+
+SmartArr[1] = ("all models");SmartArr[2] = ("Crossblade");SmartArr[3] = ("ForFour");SmartArr[4] = ("ForTwo");SmartArr[5] = ("Roadster");
+SmartArr[0] = 5;
+
+SsangYongArr[1] = ("all models");SsangYongArr[2] = ("Actyon");SsangYongArr[3] = ("Family");SsangYongArr[4] = ("Korando");SsangYongArr[5] = ("Kyron");SsangYongArr[6] = ("Musso");SsangYongArr[7] = ("Rexton");SsangYongArr[8] = ("Rodius");
+SsangYongArr[0] = 8;
+
+SubaruArr[1] = ("all models");SubaruArr[2] = ("B9 Tribeca");SubaruArr[3] = ("Baja");SubaruArr[4] = ("Forester");SubaruArr[5] = ("Impreza");SubaruArr[6] = ("Justy");SubaruArr[7] = ("Legacy");SubaruArr[8] = ("Libero");SubaruArr[9] = ("Outback");SubaruArr[10] = ("SVX");SubaruArr[11] = ("Vivio");SubaruArr[12] = ("XT");
+SubaruArr[0] = 12;
+
+SuzukiArr[1] = ("all models");SuzukiArr[2] = ("Alto");SuzukiArr[3] = ("Baleno");SuzukiArr[4] = ("Cappuccino");SuzukiArr[5] = ("Carry");SuzukiArr[6] = ("Grand Vitara");SuzukiArr[7] = ("Ignis");SuzukiArr[8] = ("Jimny");SuzukiArr[9] = ("LJ");SuzukiArr[10] = ("Liana");SuzukiArr[11] = ("SJ");SuzukiArr[12] = ("SX4");SuzukiArr[13] = ("Super-Carry");SuzukiArr[14] = ("Swift");SuzukiArr[15] = ("Vitara");SuzukiArr[16] = ("Wagon R+");SuzukiArr[17] = ("X-90");
+SuzukiArr[0] = 17;
+
+TalbotArr[1] = ("all models");TalbotArr[2] = ("Horizon");TalbotArr[3] = ("Samba");
+TalbotArr[0] = 3;
+
+TataArr[1] = ("all models");TataArr[2] = ("Indica");TataArr[3] = ("Pick-Up");TataArr[4] = ("Safari");TataArr[5] = ("Telcosport");
+TataArr[0] = 5;
+
+TatraArr[1] = ("all models");TatraArr[2] = ("T603");TatraArr[3] = ("T613");TatraArr[4] = ("T700");
+TatraArr[0] = 4;
+
+ToyotaArr[1] = ("all models");ToyotaArr[2] = ("4-Runner");ToyotaArr[3] = ("Auris");ToyotaArr[4] = ("Avalon");ToyotaArr[5] = ("Avensis");ToyotaArr[6] = ("Aygo");ToyotaArr[7] = ("Camry");ToyotaArr[8] = ("Carina");ToyotaArr[9] = ("Celica");ToyotaArr[10] = ("Corolla");ToyotaArr[11] = ("Cressida");ToyotaArr[12] = ("Crown");ToyotaArr[13] = ("Dyna");ToyotaArr[14] = ("FJ");ToyotaArr[15] = ("Hiace");ToyotaArr[16] = ("Hilux");ToyotaArr[17] = ("Land Cruiser");ToyotaArr[18] = ("Lite-Ace");ToyotaArr[19] = ("MR 2");ToyotaArr[20] = ("Paseo");ToyotaArr[21] = ("Picnic");ToyotaArr[22] = ("Previa");ToyotaArr[23] = ("Prius");ToyotaArr[24] = ("RAV 4");ToyotaArr[25] = ("Sequoia");ToyotaArr[26] = ("Sienna");ToyotaArr[27] = ("Starlet");ToyotaArr[28] = ("Supra");ToyotaArr[29] = ("Tacoma");ToyotaArr[30] = ("Tercel");ToyotaArr[31] = ("Tundra");ToyotaArr[32] = ("Yaris");
+ToyotaArr[0] = 32;
+
+TrabantArr[1] = ("all models");TrabantArr[2] = ("601");
+TrabantArr[0] = 2;
+
+TriumphArr[1] = ("all models");TriumphArr[2] = ("Dolomite");TriumphArr[3] = ("Moss");TriumphArr[4] = ("Spitfire");TriumphArr[5] = ("TR3");TriumphArr[6] = ("TR4");TriumphArr[7] = ("TR5");TriumphArr[8] = ("TR6");TriumphArr[9] = ("TR7");TriumphArr[10] = ("TR8");
+TriumphArr[0] = 10;
+
+TVRArr[1] = ("all models");TVRArr[2] = ("Chimaera");TVRArr[3] = ("Griffith");TVRArr[4] = ("Tuscan");
+TVRArr[0] = 4;
+
+VolkswagenArr[1] = ("all models");VolkswagenArr[2] = ("181");VolkswagenArr[3] = ("Beetle");VolkswagenArr[4] = ("Bora");VolkswagenArr[5] = ("Buggy");VolkswagenArr[6] = ("Caddy");VolkswagenArr[7] = ("Caravelle");VolkswagenArr[8] = ("Corrado");VolkswagenArr[9] = ("Eos");VolkswagenArr[10] = ("Fox");VolkswagenArr[11] = ("Golf");VolkswagenArr[12] = ("Golf");VolkswagenArr[13] = ("Iltis");VolkswagenArr[14] = ("Jetta");VolkswagenArr[15] = ("Kafer");VolkswagenArr[16] = ("Karmann Ghia");VolkswagenArr[17] = ("LT");VolkswagenArr[18] = ("Lupo");VolkswagenArr[19] = ("Multivan");VolkswagenArr[20] = ("New Beetle");VolkswagenArr[21] = ("Passat");VolkswagenArr[22] = ("Phaeton");VolkswagenArr[23] = ("Polo");VolkswagenArr[24] = ("Santana");VolkswagenArr[25] = ("Scirocco");VolkswagenArr[26] = ("Sharan");VolkswagenArr[27] = ("Shuttle");VolkswagenArr[28] = ("Taro");VolkswagenArr[29] = ("Tiguan");VolkswagenArr[30] = ("Touareg");VolkswagenArr[31] = ("Touran");VolkswagenArr[32] = ("Vento");
+VolkswagenArr[0] = 32;
+
+VolvoArr[1] = ("all models");VolvoArr[2] = ("240");VolvoArr[3] = ("244");VolvoArr[4] = ("245");VolvoArr[5] = ("262");VolvoArr[6] = ("264");VolvoArr[7] = ("340");VolvoArr[8] = ("360");VolvoArr[9] = ("440");VolvoArr[10] = ("460");VolvoArr[11] = ("480");VolvoArr[12] = ("740");VolvoArr[13] = ("744");VolvoArr[14] = ("745");VolvoArr[15] = ("760");VolvoArr[16] = ("780");VolvoArr[17] = ("850");VolvoArr[18] = ("855");VolvoArr[19] = ("940");VolvoArr[20] = ("944");VolvoArr[21] = ("945");VolvoArr[22] = ("960");VolvoArr[23] = ("965");VolvoArr[24] = ("Amazon");VolvoArr[25] = ("C30");VolvoArr[26] = ("C70");VolvoArr[27] = ("Polar");VolvoArr[28] = ("S40");VolvoArr[29] = ("S60");VolvoArr[30] = ("S70");VolvoArr[31] = ("S80");VolvoArr[32] = ("S90");VolvoArr[33] = ("V40");VolvoArr[34] = ("V50");VolvoArr[35] = ("V70");VolvoArr[36] = ("V90");VolvoArr[37] = ("XC 60");VolvoArr[38] = ("XC 70");VolvoArr[39] = ("XC 90");
+VolvoArr[0] = 39;
+
+WartburgArr[1] = ("all models");WartburgArr[2] = ("311");WartburgArr[3] = ("353");
+WartburgArr[0] = 3;
+
+WiesmannArr[1] = ("all models");WiesmannArr[2] = ("MF 3");WiesmannArr[3] = ("MF 25");WiesmannArr[4] = ("MF 28");WiesmannArr[5] = ("MF 30");WiesmannArr[6] = ("MF 35");
+WiesmannArr[0] = 6;
+
+
+
+
+
+
+
+
+</script>
+
+
+
+
+<center>
+
+  <div class="ramecek">
+
+
+
+<table border="0" cellpadding="0" cellspacing="0" width="700" background="images/lista1_background.gif" height="30">
+
+  <tr>
+
+    <td align="right">
+
+    <table border="0" cellpadding="5" cellspacing="0" height="30" bgcolor="#CBCFD2">
+
+      <tr>
+
+        <td >      <a href="index.php?page=detail_search" class="malytext"><font size="1">search</font></a>
+
+            <!--   <font face="Verdana" size="1">  | </font>
+
+                   <a href="index.php?page=help" class="malytext"><font size="1">help</font></a> -->
+
+                   <font face="Verdana" size="1"> | </font>
+
+
+
+                   <a href="index.php?&langset=en"><img height="10" src="images/flags_en.gif" border="0"></a>
+
+                   <a href="index.php?&langset=de"><img height="10" src="images/flags_de.gif" border="0"></a>
+
+                   <a href="index.php?&langset=fr"><img height="10" src="images/flags_fr.gif" border="0"></a>
+
+                   <a href="index.php?&langset=it"><img height="10" src="images/flags_it.gif" border="0"></a>
+
+                   <a href="index.php?&langset=es"><img height="10" src="images/flags_es.gif" border="0"></a>
+
+                   <a href="index.php?&langset=cs"><img height="10" src="images/flags_cs.gif" border="0"></a>
+
+                   <a href="index.php?&langset=pl"><img height="10" src="images/flags_pl.gif" border="0"></a>
+
+
+
+        </td>
+
+      </tr>
+
+    </table>
+
+
+
+    </td>
+
+  </tr>
+
+</table>
+
+
+
+<table border="0" cellpadding="0" cellspacing="0" width="700" height="70">
+
+  <tr>
+
+    <td width="192" align="left">
+
+    <a href="index.php"><img border="0" alt="Buy-Auto.eu" src="images/logo5.gif" width="192" height="36"></a></td>
+
+    <td width="508" align="right">
+
+
+
+
+
+    <script type="text/javascript"><!--
+
+    google_ad_client = "pub-9392698557754444";
+
+    //auto-horní banner
+
+    google_ad_slot = "7655990586";
+
+    google_ad_width = 468;
+
+    google_ad_height = 60;
+
+    //--></script>
+
+    <script type="text/javascript"
+
+    src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+
+    </script>
+
+
+    </td>
+
+  </tr>
+
+</table>
+
+
+
+<table border="0" cellpadding="0" cellspacing="0" width="700" background="images/cara3.gif" height="13">
+
+  <tr>
+
+    <td><img border="0" src="images/cara3.gif" width="10" height="13"></td>
+
+  </tr>
+
+</table>
+
+&nbsp;&nbsp;<table border="0" cellpadding="0" cellspacing="0" width="700" >
+
+  <tr>
+
+    <td width="150" valign="top">
+
+
+
+    <!-- levé menu -->
+
+
+
+
+
+
+
+    <table border="1" cellpadding="5" cellspacing="0" class="leveokno" width="100%" bgcolor="#E5E7E8">
+
+      <tr>
+
+        <td width="100%" class="10px" bgcolor="#E5E7E8"><font class="malynadpis">
+
+        ADVERTISEMENT </font><b><br>
+
+        &nbsp;</b><table border="0" cellpadding="0" cellspacing="0" width="100%">
+
+          <tr>
+
+            <td width="100%" align="center">
+
+
+
+
+
+            <script type="text/javascript"><!--
+
+            google_ad_client = "pub-9392698557754444";
+
+            //auto-reklama do menu
+
+            google_ad_slot = "7775711602";
+
+google_ad_width = 120;
+
+google_ad_height = 90;
+
+//--></script>
+
+<script type="text/javascript"
+
+src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+
+</script></td>
+
+          </tr>
+
+          </table>
+
+        </td>
+
+      </tr>
+
+    </table>
+
+
+
+    <div style="width: 15; height: 15"></div>
+
+
+
+        <form action="index.php" method="get" name="menuform" id="menuform" style="margin-top: 0; margin-bottom: 0">
+    <input type="hidden" name="searchtype" value="fast">
+    <input type="hidden" name="page" value="search">
+    <table border="1" cellpadding="5" cellspacing="0" class="leveokno" width="100%" bgcolor="#E5E7E8">
+      <tr>
+        <td width="100%" class="10px" bgcolor="#E5E7E8"><font class="malynadpis">SEARCH A CAR</font><b><br>
+        &nbsp;</b><table border="0" cellpadding="0" cellspacing="0" width="100%">
+          <tr>
+            <td width="100%"><font class="menutext">Country of sale</font><br>
+        <select size="1" name="country" class="poleformulare">
+    <option value="-1">not decisive</option>
+    <option>Austria</option>
+    <option>Belgium</option>
+    <option>Belorussia</option>
+    <option>Bulgaria</option>
+
+    <option>Canada</option>
+    <option>Croatia</option>
+    <option>Cyprus</option>
+    <option>Czech Republic</option>
+    <option>Denmark</option>
+
+    <option>Estonia</option>
+    <option>Finland</option>
+    <option>France</option>
+    <option>Germany</option>
+
+    <option>Great Britain</option>
+    <option>Greece</option>
+    <option>Hungary</option>
+    <option>Iceland</option>
+
+    <option>Ireland</option>
+    <option>Italy</option>
+    <option>Latvia</option>
+    <option>Liechtenstein</option>
+
+    <option>Lithuania</option>
+    <option>Luxemburg</option>
+    <option>Macedonia</option>
+    <option>Malta</option>
+
+    <option>Moldavia</option>
+    <option>Monaco</option>
+    <option>Netherlands</option>
+    <option>Norway</option>
+
+    <option>Poland</option>
+    <option>Portugal</option>
+    <option>Romania</option>
+    <option>Russia</option>
+
+    <option>Slovak Republic</option>
+    <option>Slovenia</option>
+    <option>Spain</option>
+    <option>Sweden</option>
+
+    <option>Switzerland</option>
+    <option>Ukraine</option>
+    <option>USA</option>
+
+        </select></td>
+          </tr>
+          <tr>
+            <td width="100%" height="5"></td>
+          </tr>
+          <tr>
+            <td width="100%">
+        <font  class="menutext">Trademark</font><br>
+
+        <select name="makermenu" id="makermenu" onchange="fillSelectMenu('makermenu','modelmenu')" class="poleformulare">
+         <option value='-1'>not decisive</option>
+          <option value='-1'>----------------</option>
+           <option value="Acura">Acura</option>
+<option value="AlfaRomeo">Alfa Romeo</option>
+<option value="AsiaMotors">Asia Motors</option>
+<option value="AstonMartin">Aston Martin</option>
+<option value="Audi">Audi</option>
+<option value="Austin">Austin</option>
+<option value="Bentley">Bentley</option>
+<option value="BMW">BMW</option>
+<option value="Brilliance">Brilliance</option>
+<option value="Bugatti">Bugatti</option>
+<option value="Buick">Buick</option>
+<option value="Cadillac">Cadillac</option>
+<option value="Caterham">Caterham</option>
+<option value="Chevrolet">Chevrolet</option>
+<option value="Chrysler">Chrysler</option>
+<option value="Citroen">Citroen</option>
+<option value="Corvette">Corvette</option>
+<option value="Dacia">Dacia</option>
+<option value="Daewoo">Daewoo</option>
+<option value="Daihatsu">Daihatsu</option>
+<option value="DeTomaso">DeTomaso</option>
+<option value="Dodge">Dodge</option>
+<option value="Ferrari">Ferrari</option>
+<option value="Fiat">Fiat</option>
+<option value="Ford">Ford</option>
+<option value="GMC">GMC</option>
+<option value="Honda">Honda</option>
+<option value="Hummer">Hummer</option>
+<option value="Hyundai">Hyundai</option>
+<option value="Infiniti">Infiniti</option>
+<option value="Isuzu">Isuzu</option>
+<option value="Jaguar">Jaguar</option>
+<option value="Jeep">Jeep</option>
+<option value="Kia">Kia</option>
+<option value="Lada">Lada</option>
+<option value="Lamborgini">Lamborgini</option>
+<option value="Lancia">Lancia</option>
+<option value="LandRover">Land Rover</option>
+<option value="Lexus">Lexus</option>
+<option value="Ligier">Ligier</option>
+<option value="Lincoln">Lincoln</option>
+<option value="Lotus">Lotus</option>
+<option value="Mahindra">Mahindra</option>
+<option value="Maserati">Maserati</option>
+<option value="Maybach">Maybach</option>
+<option value="Mazda">Mazda</option>
+<option value="MercedesBenz">Mercedes-Benz</option>
+<option value="MG">MG</option>
+<option value="Mini">Mini</option>
+<option value="Mitsubishi">Mitsubishi</option>
+<option value="Morgan">Morgan</option>
+<option value="Nissan">Nissan</option>
+<option value="Oldsmobile">Oldsmobile</option>
+<option value="Opel">Opel</option>
+<option value="Peugeot">Peugeot</option>
+<option value="Piaggio">Piaggio</option>
+<option value="Plymouth">Plymouth</option>
+<option value="Pontiac">Pontiac</option>
+<option value="Porsche">Porsche</option>
+<option value="Proton">Proton</option>
+<option value="Renault">Renault</option>
+<option value="RollsRoyce">Rolls Royce</option>
+<option value="Rover">Rover</option>
+<option value="Saab">Saab</option>
+<option value="Seat">Seat</option>
+<option value="Skoda">Skoda</option>
+<option value="Smart">Smart</option>
+<option value="SsangYong">SsangYong</option>
+<option value="Subaru">Subaru</option>
+<option value="Suzuki">Suzuki</option>
+<option value="Talbot">Talbot</option>
+<option value="Tata">Tata</option>
+<option value="Tatra">Tatra</option>
+<option value="Toyota">Toyota</option>
+<option value="Trabant">Trabant</option>
+<option value="Triumph">Triumph</option>
+<option value="TVR">TVR</option>
+<option value="Volkswagen">Volkswagen</option>
+<option value="Volvo">Volvo</option>
+<option value="Wartburg">Wartburg</option>
+<option value="Wiesmann">Wiesmann</option>
+
+
+
+
+
+              </select>
+
+
+        </td>
+          </tr>
+          <tr>
+            <td width="100%" height="5"></td>
+          </tr>
+          <tr>
+            <td width="100%">
+        <font  class="menutext">Model</font><br>
+        <select name="modelmenu" id="modelmenu" disabled="disabled" class="poleformulare"></select></td>
+          </tr>
+          <tr>
+            <td width="100%" height="5"></td>
+          </tr>
+          <tr>
+            <td width="100%">
+        <font class="menutext">Body</font><br>
+        <select size="1" name="body" class="poleformulare">
+
+   <option value="-1">not decisive</option>
+   <option value="1">economy-size car</option>
+   <option value="2">hatchback</option>
+   <option value="3">sedan, limousine</option>
+   <option value="4">kombi</option>
+   <option value="5">van</option>
+   <option value="6">coupi</option>
+   <option value="7">cabriolet</option>
+   <option value="8">off-road</option>
+   <option value="9">commercial car</option>
+
+        </select></td>
+          </tr>
+          <tr>
+            <td width="100%" height="5"></td>
+          </tr>
+          <tr>
+            <td width="100%">
+        <font  class="menutext">Fuel</font><br>
+        <select size="1" name="fuel" class="poleformulare">
+        <option value="-1">not decisive</option>
+            <option value="1">petrol</option>
+    <option value="2">diesel</option>
+    <option value="3">LPG</option>
+    <option value="4">hybrid</option>
+        </select></td>
+          </tr>
+          <tr>
+            <td width="100%" height="5"></td>
+          </tr>
+          <tr>
+            <td width="100%">
+        <font  class="menutext">Category</font><br>
+        <select size="1" name="category" class="poleformulare">
+        <option value="-1">not decisive</option>
+            <option value="1">new car</option>
+    <option value="2">demonstration car</option>
+    <option value="3">second-hand car</option>
+    <option value="4">crashed car</option>
+        </select></td>
+          </tr>
+          <tr>
+            <td width="100%" height="5"></td>
+          </tr>
+          <tr>
+            <td width="100%">
+        <font  class="menutext">Transmission</font><br>
+        <select size="1" name="gearbox" class="poleformulare">
+        <option value="-1">not decisive</option>
+            <option value="1">manual</option>
+    <option value="2">automatic</option>
+
+        </select></td>
+          </tr>
+          <tr>
+            <td width="100%" height="5"></td>
+          </tr>
+
+         <tr>
+            <td width="100%">
+        <font  class="menutext">Price up to</font><table border="0" cellpadding="0" cellspacing="0" width="100%">
+          <tr>
+            <td width="60%">
+        <input type="text" name="priceto" class="poleformulare" size="20"></td>
+            <td width="40%">
+        <select size="1" name="priceto_c" class="poleformulare">
+            <option selected value="EUR">EUR</value>
+
+    <option value="DKK">DKK</value>
+    <option value="CZK">CZK</value>
+    <option value="CHF">CHF</value>
+    <option value="GBP">GBP</value>
+    <option value="HRK">HRK</value>
+    <option value="HUF">HUF</value>
+    <option value="NOK">NOK</value>
+    <option value="NZD">NZD</value>
+    <option value="PLN">PLN</value>
+    <option value="SKK">SKK</value>
+    <option value="SEK">SEK</value>
+    <option value="USD">USD</value>
+
+        </select></td>
+          </tr>
+        </table>
+            </td>
+          </tr>
+          <tr>
+            <td width="100%" height="5"></td>
+          </tr>
+
+
+         <tr>
+            <td width="100%">
+        <font  class="menutext">Km/Mi up to</font><table border="0" cellpadding="0" cellspacing="0" width="100%">
+          <tr>
+            <td width="60%">
+        <input type="text" name="milageto" class="poleformulare" size="20"></td>
+            <td width="40%">
+        <select size="1" name="milageto_c" class="poleformulare">
+        <option value="km">km</option>
+        <option value="mi">mi</option>
+        </select></td>
+          </tr>
+        </table>
+            </td>
+          </tr>
+          <tr>
+            <td width="100%" height="5"></td>
+          </tr>
+
+
+
+
+
+                    <tr>
+            <td width="100%">
+        <font  class="menutext">Made from</font><br>
+        <input type="text" class="poleformulare" size="20" name="yearfrom"></td>
+          </tr>
+          <tr>
+            <td width="100%" height="5"></td>
+          </tr>
+          <tr>
+            <td width="100%">
+        <input type="submit" value="Search the car" class="poleformulare" name="B1"></td>
+          </tr>
+          <tr>
+            <td width="100%" height="5"></td>
+          </tr>
+          <tr>
+            <td width="100%">
+            <input type="button" value="Detailed search" class="poleformulare" onClick="parent.location='index.php?page=detail_search'">
+        </td>
+          </tr>
+          </table>
+        </td>
+      </tr>
+    </table>
+    </form>
+
+
+
+    <div style="width: 15; height: 15"></div>
+
+    <form action="index.php?page=login" method="post" style="margin-top: 0; margin-bottom: 0">
+    <table border="1" cellpadding="5" cellspacing="0" class="leveokno" width="100%" bgcolor="#E5E7E8">
+      <tr>
+        <td width="100%" class="10px" bgcolor="#E5E7E8"><font class="malynadpis">
+        LOGIN </font><b><br>
+        &nbsp;</b><table border="0" cellpadding="0" cellspacing="0" width="100%">
+          <tr>
+            <td width="100%"><font  class="menutext">Registration name </font><br>
+            <input type="text" name="log" class="poleformulare" size="20"></td>
+          </tr>
+          <tr>
+            <td width="100%" height="5"></td>
+          </tr>
+          <tr>
+            <td width="100%">
+        <font  class="menutext">Password </font><br>
+            <input type="password" name="pas" class="poleformulare" size="20"></td>
+          </tr>
+          <tr>
+            <td width="100%" height="5"></td>
+          </tr>
+          <tr>
+            <td width="100%">
+        <input type="submit" value="Log in " class="poleformulare" name="B1"></td>
+          </tr>
+                    <tr>
+            <td width="100%" height="5"></td>
+          </tr>
+          <tr>
+            <td width="100%">
+        <p align="right"><font class="menutext"><a href="index.php?page=create_account" class="cervenylink">create the account... </a></font><br>
+                         <font class="menutext"><a href="index.php?page=reset_password" class="cervenylink">forgotten password... </a></font></td>
+          </tr>
+          </table>
+        </td>
+      </tr>
+    </table>
+    </form>
+
+
+    <!-- konec levého menu  -->
+
+
+
+    </td>
+
+    <td width="17" valign="top">
+
+    &nbsp;</td>
+
+    <td width="503" valign="top">
+
+    <table border="0" cellpadding="5" cellspacing="0" width="503">
+
+      <tr>
+
+        <td width="100%">
+
+
+
+        <!-- začátek obsahové části -->
+
+
+
+             <table width="100%" >
+       <tr>
+         <td width="50%">
+
+
+
+
+
+    <table border="1" cellpadding="20" cellspacing="0" style="border:1px solid #CBCFD2; border-collapse: collapse; " width="220" height="180">
+      <tr>
+        <td align="center" onmouseover="this.className ='expand';" onmouseout="this.className = '';">
+            <p>
+                <a class="homelink" href="index.php?page=detail_search">I WANT TO FIND A CAR</a></p>
+                <p>
+                <a style="color: #525252" href="index.php?page=detail_search">Our detailed search will enable you to set exact parameters of the car searched, including required equipment.</a>
+                </p>
+        </td>
+      </tr>
+    </table>
+
+         </td>
+         <td width="50%" align="right">
+
+    <table border="1" cellpadding="20" cellspacing="0" style="border:1px solid #CBCFD2; border-collapse: collapse; " width="220" height="180">
+      <tr>
+        <td align="center" onmouseover="this.className ='expand';" onmouseout="this.className = '';">
+            <p>
+                <a class="homelink" href="index.php?page=create_account">I WANT TO ADVERTISE</a></p>
+                <p>
+                <a style="color: #525252" href="index.php?page=create_account">Creating the account and advertising is absolutely free of charge. Utilize our server and offer your car to Europe!</a>
+                </p>
+        </td>
+      </tr>
+    </table>
+
+         </td>
+       </tr>
+
+       <tr><td colspan="2" height="40"></td></tr>
+              <tr>
+         <td width="50%">
+
+
+
+    <table border="1" cellpadding="20" cellspacing="0" style="border:1px solid #CBCFD2; border-collapse: collapse; " width="220" height="180">
+      <tr>
+        <td align="center" onmouseover="this.className ='expand';" onmouseout="this.className = '';">
+            <p>
+                <a class="homelink" href="index.php?page=set_language">I WANT TO SET LANGUAGE</a></p>
+                <p>
+                <a style="color: #525252" href="index.php?page=set_language">Buy-Auto.eu offers 7 language alternations. Select the language, with which you are familiar most of all.</a>&nbsp;</p>
+        </td>
+      </tr>
+    </table>
+
+         </td>
+         <td width="50%" align="right">
+
+
+
+    <table border="1" cellpadding="20" cellspacing="0" style="border:1px solid #CBCFD2; border-collapse: collapse; " width="220" height="180">
+      <tr>
+        <td align="center" onmouseover="this.className ='expand';" onmouseout="this.className = '';">
+            <p>
+                <a class="homelink" href="index.php?page=help">I WANT ADVICE</a></p>
+                <p>
+                <a style="color: #525252" href="index.php?page=help">You do not know how some function of this server is controlled? Have a look at frequent pictures.</a>
+                </p>
+        </td>
+      </tr>
+    </table>
+
+         </td>
+       </tr>
+    </table>
+
+
+
+    <div style="height:40"></div>
+    <center><div style="width:486; border:1px solid #CBCFD2; border-collapse: collapse">
+    <table border="0" cellpadding="5" cellspacing="0" width="486" style="text-align: center; border-collapse: collapse">
+      <tr>
+        <td onmouseover="this.className ='expand';" onmouseout="this.className = '';" width="20%">
+                    <a class="tiplink" href="index.php?page=ad_detail&showprice=EUR&ad=46"><img border="0" class="ikona" alt="Opel Astra 1.6 Twinport" src="photos/0/46/1-2.jpg" width="80" height="60"></a><br>
+                    <a class="tiplink" href="index.php?page=ad_detail&showprice=EUR&ad=46">Opel</a><br>
+                    <a class="tiplink" style="font-size: 9px" href="index.php?page=ad_detail&showprice=EUR&ad=46">11719 EUR</a></font></td>
+        <td onmouseover="this.className ='expand';" onmouseout="this.className = '';" width="20%">
+                    <a class="tiplink" href="index.php?page=ad_detail&showprice=EUR&ad=76"><img border="0" class="ikona" alt="Fiat Brava  1.4i 12V SX" src="photos/0/76/1-2.jpg" width="80" height="60"></a><br>
+                    <a class="tiplink" href="index.php?page=ad_detail&showprice=EUR&ad=76">Fiat</a><br>
+                    <a class="tiplink" style="font-size: 9px" href="index.php?page=ad_detail&showprice=EUR&ad=76">2430 EUR</a></font></td>
+        <td onmouseover="this.className ='expand';" onmouseout="this.className = '';" width="20%">
+                    <a class="tiplink" href="index.php?page=ad_detail&showprice=EUR&ad=28"><img border="0" class="ikona" alt="Fiat Marea Wekend 1.9 TD 100 ELX" src="photos/0/28/1-2.jpg" width="80" height="60"></a><br>
+                    <a class="tiplink" href="index.php?page=ad_detail&showprice=EUR&ad=28">Fiat</a><br>
+                    <a class="tiplink" style="font-size: 9px" href="index.php?page=ad_detail&showprice=EUR&ad=28">2822 EUR</a></font></td>
+        <td onmouseover="this.className ='expand';" onmouseout="this.className = '';" width="20%">
+                    <a class="tiplink" href="index.php?page=ad_detail&showprice=EUR&ad=152"><img border="0" class="ikona" alt="Ford Mondeo 2.0i" src="photos/0/152/1-2.jpg" width="80" height="60"></a><br>
+                    <a class="tiplink" href="index.php?page=ad_detail&showprice=EUR&ad=152">Ford</a><br>
+                    <a class="tiplink" style="font-size: 9px" href="index.php?page=ad_detail&showprice=EUR&ad=152">2465 EUR</a></font></td>
+        <td onmouseover="this.className ='expand';" onmouseout="this.className = '';" width="20%">
+                    <a class="tiplink" href="index.php?page=ad_detail&showprice=EUR&ad=204"><img border="0" class="ikona" alt="Citroen Berlingo 1.9 D SX" src="photos/0/204/1-2.jpg" width="80" height="60"></a><br>
+                    <a class="tiplink" href="index.php?page=ad_detail&showprice=EUR&ad=204">Citroen</a><br>
+                    <a class="tiplink" style="font-size: 9px" href="index.php?page=ad_detail&showprice=EUR&ad=204">4823 EUR</a></font></td>
+
+      </tr>
+      <tr>
+        <td onmouseover="this.className ='expand';" onmouseout="this.className = '';" width="20%">
+                    <a class="tiplink" href="index.php?page=ad_detail&showprice=EUR&ad=84"><img border="0" class="ikona" alt="Ford Mustang 4.0 V6" src="photos/0/84/1-2.jpg" width="80" height="60"></a><br>
+                    <a class="tiplink" href="index.php?page=ad_detail&showprice=EUR&ad=84">Ford</a><br>
+                    <a class="tiplink" style="font-size: 9px" href="index.php?page=ad_detail&showprice=EUR&ad=84">24511 EUR</a></font></td>
+        <td onmouseover="this.className ='expand';" onmouseout="this.className = '';" width="20%">
+                    <a class="tiplink" href="index.php?page=ad_detail&showprice=EUR&ad=270"><img border="0" class="ikona" alt="Ford Ka " src="photos/0/270/1-2.jpg" width="80" height="60"></a><br>
+                    <a class="tiplink" href="index.php?page=ad_detail&showprice=EUR&ad=270">Ford</a><br>
+                    <a class="tiplink" style="font-size: 9px" href="index.php?page=ad_detail&showprice=EUR&ad=270">2394 EUR</a></font></td>
+        <td onmouseover="this.className ='expand';" onmouseout="this.className = '';" width="20%">
+                    <a class="tiplink" href="index.php?page=ad_detail&showprice=EUR&ad=69"><img border="0" class="ikona" alt="BMW Z3 3.0i coupe" src="photos/0/69/1-2.jpg" width="80" height="60"></a><br>
+                    <a class="tiplink" href="index.php?page=ad_detail&showprice=EUR&ad=69">BMW</a><br>
+                    <a class="tiplink" style="font-size: 9px" href="index.php?page=ad_detail&showprice=EUR&ad=69">15864 EUR</a></font></td>
+        <td onmouseover="this.className ='expand';" onmouseout="this.className = '';" width="20%">
+                    <a class="tiplink" href="index.php?page=ad_detail&showprice=EUR&ad=251"><img border="0" class="ikona" alt="Volkswagen Sharan 1.9 TDI" src="photos/0/251/1-2.jpg" width="80" height="60"></a><br>
+                    <a class="tiplink" href="index.php?page=ad_detail&showprice=EUR&ad=251">Volkswagen</a><br>
+                    <a class="tiplink" style="font-size: 9px" href="index.php?page=ad_detail&showprice=EUR&ad=251">16400 EUR</a></font></td>
+        <td onmouseover="this.className ='expand';" onmouseout="this.className = '';" width="20%">
+                    <a class="tiplink" href="index.php?page=ad_detail&showprice=EUR&ad=11"><img border="0" class="ikona" alt="Citroen Jumpy  1.6" src="photos/0/11/1-2.jpg" width="80" height="60"></a><br>
+                    <a class="tiplink" href="index.php?page=ad_detail&showprice=EUR&ad=11">Citroen</a><br>
+                    <a class="tiplink" style="font-size: 9px" href="index.php?page=ad_detail&showprice=EUR&ad=11">6039 EUR</a></font></td>
+      </tr>
+    </table>
+    </div></center>
+
+    <div style="height:40"></div> 
+
+
+
+
+
+
+        <center><div align="left" style="width: 336">
+
+        <img border="0" src="images/sipkadw.gif" width="9" height="6"> <font size="1">sponsored references</font><br>
+
+        
+
+        <script type="text/javascript"><!--
+
+google_ad_client = "pub-9392698557754444";
+
+// auto-Dolní obdelník
+
+google_ad_slot = "5894111596";
+
+google_ad_width = 336;
+
+google_ad_height = 280;
+
+//--></script>
+
+<script type="text/javascript"
+
+src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+
+</script></div></center>
+
+
+
+        <!-- konec obsahové části -->
+
+
+
+        </td>
+
+      </tr>
+
+    </table>
+
+    </td>
+
+  </tr>
+
+</table>
+
+<div align="center">
+
+  <center>
+
+  <table border="0" cellpadding="0" cellspacing="0" width="700">
+
+    <tr>
+
+      <td colspan="2" width="700">&nbsp;</td>
+
+    </tr>
+
+    <tr>
+
+      <td colspan="2" background="images/cara3.gif" width="700"><img border="0" src="images/cara3.gif" width="10" height="13"></td>
+
+    </tr>
+
+    <tr>
+
+      <td width="234" align="center"><font class="menutext" style="font-size: 7pt">Copyright © 2006-2018<br>
+
+      Buy-auto.eu</font></td>
+
+      <td width="466">
+
+      <p align="center"><b><font size="1">
+
+      <a href="index.php?page=about_us" class="cervenylink">about us</a> |
+
+      <a href="index.php?page=set_language" class="cervenylink">set the language</a> |
+
+      <a href="index.php?page=prices" class="cervenylink">prices</a> |
+
+      <a href="index.php?page=help" class="cervenylink">help</a> |
+
+      <a href="index.php?page=create_account" class="cervenylink">create the account & advertise</a> |
+      <a href="index.php?page=contact_us" class="cervenylink">write in</a></font></b>
+
+
+
+
+
+      </td>
+
+    </tr>
+
+    <tr>
+
+      <td width="234" align="center">&nbsp;</td>
+
+      <td width="466">
+
+      &nbsp;</td>
+
+    </tr>
+
+  </table>
+
+  </center>
+
+</div>
+
+    </div>
+
+    <table>
+
+  <tr>
+
+    <td></td>
+
+  </tr>
+
+</table>
+
+</center>
+<center>
+<font size="1">
+<a href="http://www.linkon.cz/" class="cervenylink">Zkrátit odkaz</a> | <a href="http://www.onlinehryzdarma.cz/" class="cervenylink">
+Online Hry Zdarma</a>
+</font>
+</center>
+
+<a href="http://www.toplist.cz/"><script language="JavaScript" type="text/javascript">
+
+<!--
+
+document.write ('<img src="http://toplist.cz/dot.asp?id=511039&http='+escape(document.referrer)+'" width="1" height="1" border=0 alt="TOPlist" />');
+
+//--></script><noscript><img src="http://toplist.cz/dot.asp?id=511039" border="0"
+
+alt="TOPlist" width="1" height="1" /></noscript></a>
+
+
+
+<a href="http://www.pagerank.cz/optimalizace.php?kod=buy.auto.eu">
+
+<img border="0" src="http://www.pagerank.cz/ikona/ikona-4.gif" alt="optimalizace PageRank.cz">
+
+</a>
+
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-5537012-5', 'buy-auto.eu');
+  ga('send', 'pageview');
+
+</script>
+</body>
+
+
+
+</html>
+
+
+
+
+

@@ -1,0 +1,2834 @@
+WARC/1.0
+WARC-Type: warcinfo
+WARC-Date: 2018-05-30T17:52:30Z
+WARC-All-Language: ru
+WARC-All-Content_type: text/html
+WARC-Record-ID: <urn:uuid:a15f59c2-8f15-4d64-829f-a4e838cdc310>
+Content-Type: application/http;msgtype=response
+Content-Length: 46
+
+WARCProcessor by SING Group www.sing-group.com
+
+WARC/1.0
+WARC-Type: response
+WARC-Target-URI: http://www.balletandopera.eu
+WARC-Date: 20180530175230
+WARC-Language: ru
+WARC-Record-ID: <http://www.balletandopera.eu>
+Content-Type: application/http;msgtype=response
+Content-Length: 196484
+
+HTTP/1.1 200
+Content-Type:text/html
+
+
+<!DOCTYPE html>
+<html lang='ru'>
+<head>
+	<title>Schedule & tickets for all theatres in St. Petersburg, Russia for 01 June 2018 - 30 June 2018 - BalletAndOpera.eu</title>
+		<meta name='viewport' id='viewport' content='width=device-width, initial-scale=0.52'>
+		<link rel='icon' href='/favicon.ico' type='image/x-icon'>
+	        <link rel='shortcut icon' href='/favicon.ico' type='image/x-icon'>
+		<link href='/favicon_apple.png' rel='apple-touch-icon' type='image/png'>
+
+<link rel='stylesheet' type='text/css' href='/css_mob2/style.css?123456711'>
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-20284306-2', 'auto');
+  ga('send', 'pageview');
+
+</script>
+	
+</head>
+
+<body> 
+<div id="main">
+
+<div id="top">
+	<div id="t1"><img src="/img_mob2/menu_ico.png" id="menu_bt"></div>
+	<div id="t2" title="BalletAndOpera.com home page. St. Petersburg, Russia - ballet, opera, concert and show tickets."><a href="/?sid=A3e16S1G0t7G7B2K5E1c&play_date_from=01-Jun-2018&play_date_to=30-Jun-2018"><div id="logo">BalletAndOpera.Com</div><div id="logo2">St. Petersburg, Russia</div></a></div>
+	<div id="t3" title="View shopping cart"><a href="/?sid=A3e16S1G0t7G7B2K5E1c&bag=show&page=tmp&play_date_from=01-Jun-2018&play_date_to=30-Jun-2018"><img src="/img_mob2/basket.png" id="basket_bt"></a></div>
+	<div id="t4" title="Change currency">&euro;</div>
+</div>
+
+<div id="menu">
+<ul>
+<li class="signin">
+<a href="/?sid=A3e16S1G0t7G7B2K5E1c&page=auth&signin=1&play_date_from=01-Jun-2018&play_date_to=30-Jun-2018">Sign In</a>
+<li><a href="/?sid=A3e16S1G0t7G7B2K5E1c&color=006699&play_date_from=01-Jun-2018&play_date_to=30-Jun-2018">Schedule</a>
+<li><a href="/news/sid=A3e16S1G0t7G7B2K5E1c&play_date_from=01-Jun-2018&play_date_to=30-Jun-2018">News</a>
+<li><a href="/festivals/sid=A3e16S1G0t7G7B2K5E1c&play_date_from=01-Jun-2018&play_date_to=30-Jun-2018">Festivals</a>
+
+	<li><a href="/theatre/mariinsky-theatre/info/sid=A3e16S1G0t7G7B2K5E1c&play_date_from=01-Jun-2018&play_date_to=30-Jun-2018">Mariinsky  Ballet & Opera</a>
+	
+	<li><a href="/theatre/mariinsky-new-theatre/info/sid=A3e16S1G0t7G7B2K5E1c&play_date_from=01-Jun-2018&play_date_to=30-Jun-2018">Mariinsky II  New Theatre</a>
+	
+<li><a href="/help/sid=A3e16S1G0t7G7B2K5E1c&play_date_from=01-Jun-2018&play_date_to=30-Jun-2018">Help</a>
+<li class="seemore"><a href="/morestages/?sid=A3e16S1G0t7G7B2K5E1c&play_date_from=01-Jun-2018&play_date_to=30-Jun-2018">See more stages</a>
+
+<li><a href='https://www.operaandballet.com/' target=_blank>See Bolshoi Moscow tickets</a>
+
+</ul>
+
+<div id="country_phone">Toll&nbsp;Free&nbsp;(888)&nbsp;885&nbsp;7909</div>
+<div class="styled-select">
+<select id="country_p1" style="background: transparent;background-color: rgba(0,0,0,0);" onchange="document.getElementById('country_phone').innerHTML=this.value;document.getElementById('country_phone_set').innerHTML=str1+this.value+str2">
+<option value='+44&nbsp;(20)&nbsp;8144&nbsp;0848' >UK</option>
+<option value='Toll&nbsp;Free&nbsp;(888)&nbsp;885&nbsp;7909' >US and Canada</option>
+<option value='Toll&nbsp;Free&nbsp;0800&nbsp;011&nbsp;2105' >United Kingdom</option>
+<option value='+61&nbsp;(0)2&nbsp;8011&nbsp;3085' >Australia</option>
+<option value='+43&nbsp;(0)1&nbsp;253&nbsp;084&nbsp;0584' >Austria</option>
+<option value='+55&nbsp;(0)&nbsp;11&nbsp;3042&nbsp;9734&nbsp;' >Brazil</option>
+<option value='+45&nbsp;36&nbsp;99&nbsp;6889' >Denmark</option>
+<option value='+358&nbsp;(0)&nbsp;9&nbsp;2316&nbsp;3353&nbsp;' >Finland</option>
+<option value='+33&nbsp;(0)9&nbsp;7044&nbsp;8424&nbsp;' >France</option>
+<option value='+49&nbsp;22&nbsp;130&nbsp;079&nbsp;323' >Germany</option>
+<option value='+353&nbsp;1&nbsp;443&nbsp;4493' >Ireland</option>
+<option value='+39&nbsp;069&nbsp;165&nbsp;7838' >Italy</option>
+<option value='+81&nbsp;(0)&nbsp;50&nbsp;5539&nbsp;5512&nbsp;' >Japan</option>
+<option value='+52&nbsp;55&nbsp;8421&nbsp;9559' >Mexico</option>
+<option value='+31&nbsp;(20)&nbsp;893&nbsp;4120' >Netherlands</option>
+<option value='+64&nbsp;9&nbsp;889&nbsp;3009' >New Zealand</option>
+<option value='+7&nbsp;(812)&nbsp;336&nbsp;6344' >Russia</option>
+<option value='+27&nbsp;(0)&nbsp;11&nbsp;083&nbsp;5112' >South Africa</option>
+<option value='+46&nbsp;(0)&nbsp;8&nbsp;559&nbsp;25&nbsp;294&nbsp;' >Sweden</option>
+<option value='+41&nbsp;(0)&nbsp;22&nbsp;548&nbsp;0586&nbsp;' >Switzerland</option>
+<option value='+1&nbsp;(888)&nbsp;885&nbsp;7909' >USA</option>
+
+</select>
+</div>
+<br><br>
+</div>
+
+<div id="changeCur">
+<h3>Select preferred currency:</h3>
+<ul>
+<li><a href=/change_cur_new.php?sid=A3e16S1G0t7G7B2K5E1c&cur=10&small_name=USD>US Dollar (US$)</a>
+<li class="userCur"><a href=/change_cur_new.php?sid=A3e16S1G0t7G7B2K5E1c&cur=3&small_name=EUR>Euro (&euro;)</a>
+<li><a href=/change_cur_new.php?sid=A3e16S1G0t7G7B2K5E1c&cur=6&small_name=GBP>Pound Sterling (&pound;)</a>
+</ul><hr size=1 color=black width=600 align=left><ul>
+<li><a href=/change_cur_new.php?sid=A3e16S1G0t7G7B2K5E1c&cur=1&small_name=AUD>Australian Dollar (AU$)</a>
+<li><a href=/change_cur_new.php?sid=A3e16S1G0t7G7B2K5E1c&cur=2&small_name=CAD>Canadian Dollar (CA$)</a>
+<li><a href=/change_cur_new.php?sid=A3e16S1G0t7G7B2K5E1c&cur=12&small_name=DKK>Danish Krone (DKK)</a>
+<li><a href=/change_cur_new.php?sid=A3e16S1G0t7G7B2K5E1c&cur=4&small_name=JPY>Japanese Yen (&yen;)</a>
+<li><a href=/change_cur_new.php?sid=A3e16S1G0t7G7B2K5E1c&cur=5&small_name=NOK>Norwegian Krone (NOK)</a>
+<li><a href=/change_cur_new.php?sid=A3e16S1G0t7G7B2K5E1c&cur=8&small_name=SEK>Swedish Krona (SEK)</a>
+<li><a href=/change_cur_new.php?sid=A3e16S1G0t7G7B2K5E1c&cur=9&small_name=CHF>Swiss Franc (CHF)</a>
+
+
+	</ul>
+</div>
+
+
+<a name=mo1></a>
+<div id="datas">
+<form action="/index.html#play" method="get" onsubmit="if (compareDates(document.getElementById('play_date_from').value,'dd-NNN-yyyy',document.getElementById('play_date_to').value,'dd-NNN-yyyy')>0) {alert('ERROR: The end date must occur after the start date. Please change the date.');return false;}">
+
+<div id="dataw">
+<div id="setmonth">June 2018<br>
+
+<div id="setmonth0" style="display: none;">
+<a href="/month/2018-may/?sid=A3e16S1G0t7G7B2K5E1c&play_date_from=01-May-2018&play_date_to=31-May-2018#mo1">May 2018</a><br><a href="/month/2018-june/?sid=A3e16S1G0t7G7B2K5E1c&play_date_from=01-Jun-2018&play_date_to=30-Jun-2018#mo1" style="font-weight: bold;">June 2018</a><br><a href="/month/2018-july/?sid=A3e16S1G0t7G7B2K5E1c&play_date_from=01-Jul-2018&play_date_to=31-Jul-2018#mo1">July 2018</a><br><a href="/month/2018-august/?sid=A3e16S1G0t7G7B2K5E1c&play_date_from=01-Aug-2018&play_date_to=31-Aug-2018#mo1">August 2018</a><br><a href="/month/2018-september/?sid=A3e16S1G0t7G7B2K5E1c&play_date_from=01-Sep-2018&play_date_to=30-Sep-2018#mo1">September 2018</a><br><a href="/month/2018-october/?sid=A3e16S1G0t7G7B2K5E1c&play_date_from=01-Oct-2018&play_date_to=31-Oct-2018#mo1">October 2018</a><br><div id="setmonth0_more" style="display: none;"><a href="/month/2018-november/?sid=A3e16S1G0t7G7B2K5E1c&play_date_from=01-Nov-2018&play_date_to=30-Nov-2018#mo1">November 2018</a><br><a href="/month/2018-december/?sid=A3e16S1G0t7G7B2K5E1c&play_date_from=01-Dec-2018&play_date_to=31-Dec-2018#mo1">December 2018</a><br><a href="/month/2019-january/?sid=A3e16S1G0t7G7B2K5E1c&play_date_from=01-Jan-2019&play_date_to=31-Jan-2019#mo1">January 2019</a><br><a href="/month/2019-february/?sid=A3e16S1G0t7G7B2K5E1c&play_date_from=01-Feb-2019&play_date_to=28-Feb-2019#mo1">February 2019</a><br><a href="/month/2019-march/?sid=A3e16S1G0t7G7B2K5E1c&play_date_from=01-Mar-2019&play_date_to=31-Mar-2019#mo1">March 2019</a><br><a href="/month/2019-april/?sid=A3e16S1G0t7G7B2K5E1c&play_date_from=01-Apr-2019&play_date_to=30-Apr-2019#mo1">April 2019</a><br><a href="/month/2019-may/?sid=A3e16S1G0t7G7B2K5E1c&play_date_from=01-May-2019&play_date_to=31-May-2019#mo1">May 2019</a><br><a href="/month/2019-june/?sid=A3e16S1G0t7G7B2K5E1c&play_date_from=01-Jun-2019&play_date_to=30-Jun-2019#mo1">June 2019</a><br><a href="/month/2019-july/?sid=A3e16S1G0t7G7B2K5E1c&play_date_from=01-Jul-2019&play_date_to=31-Jul-2019#mo1">July 2019</a><br></div>
+</div>
+</div>
+<div id="setmonth1_more" style="display: none;">More</div>
+
+
+
+<div id="setdelim"></div>
+<div id="settype">All events
+<div id="settype0" style="display: none;">
+<a href="/?sid=A3e16S1G0t7G7B2K5E1c&play_date_from=01-Jun-2018&play_date_to=30-Jun-2018&play_theatre=#mo1" style="font-weight: bold;"> All events</b></font></a>
+<br><a href="/type/ballet/?sid=A3e16S1G0t7G7B2K5E1c&play_date_from=01-Jun-2018&play_date_to=30-Jun-2018&play_theatre=#mo1" style="">Ballet</b></font></a>
+<br><a href="/type/opera/?sid=A3e16S1G0t7G7B2K5E1c&play_date_from=01-Jun-2018&play_date_to=30-Jun-2018&play_theatre=#mo1" style="">Opera</b></font></a>
+<br><a href="/type/concert/?sid=A3e16S1G0t7G7B2K5E1c&play_date_from=01-Jun-2018&play_date_to=30-Jun-2018&play_theatre=#mo1" style="">Concert</b></font></a>
+<br><a href="/type/show/?sid=A3e16S1G0t7G7B2K5E1c&play_date_from=01-Jun-2018&play_date_to=30-Jun-2018&play_theatre=#mo1" style=""></b></font></a>
+</div>
+
+</div>
+</div>
+
+<div id="dataw">
+<div>Date from<input type="text" name="play_date_from" id="play_date_from" value="01-Jun-2018" onclick="ShowCalendar(this,this,DE(this),CalS,CalE);" onblur="UpdDt(this);"></div>
+<div>To<input type="text" name="play_date_to" id="play_date_to" value="30-Jun-2018" onclick="ShowCalendar(this,this,DE(this),CalS,CalE);"></div>
+</div>
+<input type="Hidden" name="sid" value="A3e16S1G0t7G7B2K5E1c">
+<input type="Hidden" name="play_theatre" value="">
+<input type="Hidden" name="play_festival" value="">
+<input type="Hidden" name="play_perfomance" value="">
+
+<INPUT type="Submit"  VALUE="Find tickets" class="bt_big_y bt_ar_b">
+</form>
+
+</div>
+
+<div id="hightlight">
+<div class="perfnav"><div class="perfnav_l"><a href="/?sid=A3e16S1G0t7G7B2K5E1c&lang=eng&play_theatre=&month=2018-05#play">< May 2018</a></div><div class="perfnav_c">01 - 30 June 2018</div><div class="perfnav_r"><a href="/?sid=A3e16S1G0t7G7B2K5E1c&lang=eng&month=&play_theatre=&month=2018-07#play">July 2018 ></a></div></div>
+<div class="event" style="";>
+<a name="ev60623"></a><a href="/classical_ballet/sleeping-mar/info/sid=A3e16S1G0t7G7B2K5E1c&play_date_from=01-Jun-2018&play_date_to=30-Jun-2018&playbills=60623">
+<div class="epic" style="background-image: url('/photos_info/perfomance/sleeping-mar/bigm/1524842463_1454325291.2242.jpg');">
+<div class="edatef"><div class="edate">1</div><div class="emonth">June<div class="etime">19:00</div></div></div></div></a>
+<a href="/theatre/mariinsky-theatre/info/sid=A3e16S1G0t7G7B2K5E1c&play_date_from=01-Jun-2018&play_date_to=30-Jun-2018" class="etha">Mariinsky Theatre - Main Stage</a>
+<h2><font face=arial size=2 color=red><i>The Stars of the White Nights 2018</i></font><br><font color=red><i>Stars of the Stars</i></font>&nbsp;  <a href="/classical_ballet/sleeping-mar/info/sid=A3e16S1G0t7G7B2K5E1c&play_date_from=01-Jun-2018&play_date_to=30-Jun-2018&playbills=60623" target="_blank">Peter Tchaikovsky &quot;Sleeping Beauty&quot; (ballet-fierie in three acts with a prologue and apotheosis)</a></h2>
+<h3>Classical Ballet</h3>
+<div class="eprice">
+<div class="ep1" style="width: 340px;"><span style="color:#ff0000; font-size: 40px;">All seats sold out</span></div>
+<div class="ep2" style="display: none;"> &euro;</div>
+<div class="ep3" style="display: none;">save up to</div> 
+<div class="ep4" style="display: none;">%</div>
+</div>
+
+<div class="ebt">
+
+
+<a href="/?sid=A3e16S1G0t7G7B2K5E1c&id_playbill=60623&usluga=book&b_time=19:00&b_date_full=2018-06-01&b_date=01%20June#an1"><div class="bt_sm_y bt_ar_b bt_sold_out">View tickets</div></a>
+<a href="/?sid=A3e16S1G0t7G7B2K5E1c&id_playbill=60623&usluga=book&b_time=19:00&b_date_full=2018-06-01&b_date=01%20June#an1"><div class="bt_sm_w">Hall plan</div></a>
+
+</div>
+</div>
+
+<div class="event" style="";>
+<a name="ev61427"></a><a href="/opera/Peter_Tchaikovsky__Iolanta__/info/sid=A3e16S1G0t7G7B2K5E1c&play_date_from=01-Jun-2018&play_date_to=30-Jun-2018&playbills=61427">
+<div class="epic" style="background-image: url('/photos_info/perfomance/Peter_Tchaikovsky__Iolanta__/big/1454329588.8773.jpg');">
+<div class="edatef"><div class="edate">1</div><div class="emonth">June<div class="etime">20:00</div></div></div></div></a>
+<a href="/theatre/mariinsky-new-theatre/info/sid=A3e16S1G0t7G7B2K5E1c&play_date_from=01-Jun-2018&play_date_to=30-Jun-2018" class="etha">Mariinsky II - New Stage</a>
+<h2><font face=arial size=2 color=red><i>The Stars of the White Nights 2018</i></font><br><font color=red><i>Stars of the Stars</i></font>&nbsp;  <a href="/opera/Peter_Tchaikovsky__Iolanta__/info/sid=A3e16S1G0t7G7B2K5E1c&play_date_from=01-Jun-2018&play_date_to=30-Jun-2018&playbills=61427" target="_blank">Peter Tchaikovsky &quot;Iolanta&quot; one act opera</a></h2>
+<h3>Opera</h3>
+<div class="eprice">
+<div class="ep1">prices start from</div>
+<div class="ep2">93 &euro;</div>
+<div class="ep3" style="display: none;">save up to</div> 
+<div class="ep4" style="display: none;">0%</div>
+</div>
+<div class="promo_mob"><b><div class="block_perf_info__right"><div class="block-message-market"><div class='block-message-market__item temp_short_message'><p><span style='color: red'>Very popular!</span></p></div></div></div></b><br></div>
+<div class="ebt">
+
+
+<a href="/?sid=A3e16S1G0t7G7B2K5E1c&id_playbill=61427&usluga=book&b_time=20:00&b_date_full=2018-06-01&b_date=01%20June#an1"><div class="bt_sm_y bt_ar_b ">View tickets</div></a>
+<a href="/?sid=A3e16S1G0t7G7B2K5E1c&id_playbill=61427&usluga=book&b_time=20:00&b_date_full=2018-06-01&b_date=01%20June#an1"><div class="bt_sm_w">Hall plan</div></a>
+
+</div>
+</div>
+
+<div class="event" style="";>
+<a name="ev61382"></a>
+<div class="epic" style="background-image: url('/photos_info/perfomance/Puccini__Beethoven__Shostakovich__Perfor/bigm/1525092021_new_06_09_17.jpg');">
+<div class="edatef"><div class="edate">1</div><div class="emonth">June<div class="etime">20:00</div></div></div></div>
+<a href="/theatre/philharmonia/info/sid=A3e16S1G0t7G7B2K5E1c&play_date_from=01-Jun-2018&play_date_to=30-Jun-2018" class="etha">Grand Philharmonic Hall</a>
+<h2> Puccini. Beethoven. Shostakovich. Performed by St.Petersburg Symphony Orchestra. Conductor - Kerem Hasan</h2>
+<h3>Concert</h3>
+<div class="eprice">
+<div class="ep1" style="width: 340px;"><span style="color:#ff0000; font-size: 40px;">All seats sold out</span></div>
+<div class="ep2" style="display: none;"> &euro;</div>
+<div class="ep3" style="display: none;">save up to</div> 
+<div class="ep4" style="display: none;">%</div>
+</div>
+
+<div class="ebt">
+
+
+<a href="/?sid=A3e16S1G0t7G7B2K5E1c&id_playbill=61382&usluga=book&b_time=20:00&b_date_full=2018-06-01&b_date=01%20June#an1"><div class="bt_sm_y bt_ar_b bt_sold_out">View tickets</div></a>
+<a href="/?sid=A3e16S1G0t7G7B2K5E1c&id_playbill=61382&usluga=book&b_time=20:00&b_date_full=2018-06-01&b_date=01%20June#an1"><div class="bt_sm_w">Hall plan</div></a>
+
+</div>
+</div>
+
+<div class="event" style="";>
+<a name="ev59391"></a><a href="/folk_show/phil_gh_2010-02-19/info/sid=A3e16S1G0t7G7B2K5E1c&play_date_from=01-Jun-2018&play_date_to=30-Jun-2018&playbills=59391">
+<div class="epic" style="background-image: url('/photos_info/perfomance/phil_gh_2010-02-19/bigm/1524839317_nko.jpg');">
+<div class="edatef"><div class="edate">1</div><div class="emonth">June<div class="etime">20:00</div></div></div></div></a>
+<a href="/theatre/folk_show_officer_assembly/info/sid=A3e16S1G0t7G7B2K5E1c&play_date_from=01-Jun-2018&play_date_to=30-Jun-2018" class="etha">Russian Army Folk show</a>
+<h2> <a href="/folk_show/phil_gh_2010-02-19/info/sid=A3e16S1G0t7G7B2K5E1c&play_date_from=01-Jun-2018&play_date_to=30-Jun-2018&playbills=59391" target="_blank">State Song and Dance Ensemble of the Western Military District - Folk Show at the House of Officers</a></h2>
+<h3>Show</h3>
+<div class="eprice">
+<div class="ep1" style="width: 340px;"><span style="color:#ff0000; font-size: 40px;">All seats sold out</span></div>
+<div class="ep2" style="display: none;"> &euro;</div>
+<div class="ep3" style="display: none;">save up to</div> 
+<div class="ep4" style="display: none;">%</div>
+</div>
+
+<div class="ebt">
+
+
+<a href="/?sid=A3e16S1G0t7G7B2K5E1c&id_playbill=59391&usluga=book&b_time=20:00&b_date_full=2018-06-01&b_date=01%20June#an1"><div class="bt_sm_y bt_ar_b bt_sold_out">View tickets</div></a>
+<a href="/?sid=A3e16S1G0t7G7B2K5E1c&id_playbill=59391&usluga=book&b_time=20:00&b_date_full=2018-06-01&b_date=01%20June#an1"><div class="bt_sm_w">Hall plan</div></a>
+
+</div>
+</div>
+
+<div class="event" style="";>
+<a name="ev59379"></a><a href="/folk_show/Bagatitsa_the_cossackshow/info/sid=A3e16S1G0t7G7B2K5E1c&play_date_from=01-Jun-2018&play_date_to=30-Jun-2018&playbills=59379">
+<div class="epic" style="background-image: url('/photos_info/perfomance/Bagatitsa_the_cossackshow/bigm/1524854794_1454329834.5451.jpg');">
+<div class="edatef"><div class="edate">1</div><div class="emonth">June<div class="etime">20:00</div></div></div></div></a>
+<a href="/theatre/Palace_Panina/info/sid=A3e16S1G0t7G7B2K5E1c&play_date_from=01-Jun-2018&play_date_to=30-Jun-2018" class="etha">Cossack Folk Show</a>
+<h2> <a href="/folk_show/Bagatitsa_the_cossackshow/info/sid=A3e16S1G0t7G7B2K5E1c&play_date_from=01-Jun-2018&play_date_to=30-Jun-2018&playbills=59379" target="_blank">Unique Russian Cossack Folk Show &quot;Bagatitsa&quot; - Brilliant example of Russian Cossack Dancing, Music, and Singing</a></h2>
+<h3>Show</h3>
+<div class="eprice">
+<div class="ep1">prices start from</div>
+<div class="ep2">85 &euro;</div>
+<div class="ep3" style="display: none;">save up to</div> 
+<div class="ep4" style="display: none;">0%</div>
+</div>
+
+<div class="ebt">
+
+
+<a href="/?sid=A3e16S1G0t7G7B2K5E1c&id_playbill=59379&usluga=book&b_time=20:00&b_date_full=2018-06-01&b_date=01%20June#an1"><div class="bt_sm_y bt_ar_b ">View tickets</div></a>
+<a href="/?sid=A3e16S1G0t7G7B2K5E1c&id_playbill=59379&usluga=book&b_time=20:00&b_date_full=2018-06-01&b_date=01%20June#an1"><div class="bt_sm_w">Hall plan</div></a>
+
+</div>
+</div>
+
+<div class="event" style="";>
+<a name="ev60624"></a><a href="/classical_ballet/sleeping-mar/info/sid=A3e16S1G0t7G7B2K5E1c&play_date_from=01-Jun-2018&play_date_to=30-Jun-2018&playbills=60624">
+<div class="epic" style="background-image: url('/photos_info/perfomance/sleeping-mar/bigm/1524842463_1454325291.2242.jpg');">
+<div class="edatef"><div class="edate">2</div><div class="emonth">June<div class="etime">19:00</div></div></div></div></a>
+<a href="/theatre/mariinsky-theatre/info/sid=A3e16S1G0t7G7B2K5E1c&play_date_from=01-Jun-2018&play_date_to=30-Jun-2018" class="etha">Mariinsky Theatre - Main Stage</a>
+<h2><font face=arial size=2 color=red><i>The Stars of the White Nights 2018</i></font><br><font color=red><i>Stars of the Stars</i></font>&nbsp;  <a href="/classical_ballet/sleeping-mar/info/sid=A3e16S1G0t7G7B2K5E1c&play_date_from=01-Jun-2018&play_date_to=30-Jun-2018&playbills=60624" target="_blank">Peter Tchaikovsky &quot;Sleeping Beauty&quot; (ballet-fierie in three acts with a prologue and apotheosis)</a></h2>
+<h3>Classical Ballet</h3>
+<div class="eprice">
+<div class="ep1">prices start from</div>
+<div class="ep2">249 &euro;</div>
+<div class="ep3" style="display: none;">save up to</div> 
+<div class="ep4" style="display: none;">0%</div>
+</div>
+<div class="promo_mob"><b><div class="block_perf_info__right"><div class="block-message-market"><div class='block-message-market__item temp_short_message'><p><span style='color: red'>Very popular!</span></p></div></div></div></b><br><b><span style="color: red;">17 people are looking at this moment</span></b><br></div>
+<div class="ebt">
+
+
+<a href="/?sid=A3e16S1G0t7G7B2K5E1c&id_playbill=60624&usluga=book&b_time=19:00&b_date_full=2018-06-02&b_date=02%20June#an1"><div class="bt_sm_y bt_ar_b ">View tickets</div></a>
+<a href="/?sid=A3e16S1G0t7G7B2K5E1c&id_playbill=60624&usluga=book&b_time=19:00&b_date_full=2018-06-02&b_date=02%20June#an1"><div class="bt_sm_w">Hall plan</div></a>
+
+</div>
+</div>
+
+<div class="event" style="";>
+<a name="ev61429"></a><a href="/opera/The_Lefthander/info/sid=A3e16S1G0t7G7B2K5E1c&play_date_from=01-Jun-2018&play_date_to=30-Jun-2018&playbills=61429">
+<div class="epic" style="background-image: url('/photos_info/perfomance/The_Lefthander/big/1520098785_13080427.JPG');">
+<div class="edatef"><div class="edate">2</div><div class="emonth">June<div class="etime">19:30</div></div></div></div></a>
+<a href="/theatre/mariinsky-new-theatre/info/sid=A3e16S1G0t7G7B2K5E1c&play_date_from=01-Jun-2018&play_date_to=30-Jun-2018" class="etha">Mariinsky II - New Stage</a>
+<h2><font face=arial size=2 color=red><i>The Stars of the White Nights 2018</i></font><br> <font color=red><i>Conducted by Maestro Gergiev. Stars of the Stars</i></font>  <a href="/opera/The_Lefthander/info/sid=A3e16S1G0t7G7B2K5E1c&play_date_from=01-Jun-2018&play_date_to=30-Jun-2018&playbills=61429" target="_blank">The Lefthander (opera in two acts)</a></h2>
+<h3>Opera</h3>
+<div class="eprice">
+<div class="ep1">prices start from</div>
+<div class="ep2">93 &euro;</div>
+<div class="ep3" style="display: none;">save up to</div> 
+<div class="ep4" style="display: none;">0%</div>
+</div>
+<div class="promo_mob"><b><div class="block_perf_info__right"><div class="block-message-market"><div class='block-message-market__item temp_short_message'><p><span style='color: red'>In high demand!</span></p></div></div></div></b><br><b><span style="color: red;">30 people are looking at this moment</span></b><br></div>
+<div class="ebt">
+
+
+<a href="/?sid=A3e16S1G0t7G7B2K5E1c&id_playbill=61429&usluga=book&b_time=19:30&b_date_full=2018-06-02&b_date=02%20June#an1"><div class="bt_sm_y bt_ar_b ">View tickets</div></a>
+<a href="/?sid=A3e16S1G0t7G7B2K5E1c&id_playbill=61429&usluga=book&b_time=19:30&b_date_full=2018-06-02&b_date=02%20June#an1"><div class="bt_sm_w">Hall plan</div></a>
+
+</div>
+</div>
+
+<div class="event" style="";>
+<a name="ev60512"></a><a href="/classical_ballet/Sergei_Prokofiev__Cinderella__ballet_in_/info/sid=A3e16S1G0t7G7B2K5E1c&play_date_from=01-Jun-2018&play_date_to=30-Jun-2018&playbills=60512">
+<div class="epic" style="background-image: url('/photos_info/perfomance/Sergei_Prokofiev__Cinderella__ballet_in_/big/1518773849_cinderella_13.jpg');">
+<div class="edatef"><div class="edate">2</div><div class="emonth">June<div class="etime">19:30</div></div></div></div></a>
+<a href="/theatre/mikhailovsky/info/sid=A3e16S1G0t7G7B2K5E1c&play_date_from=01-Jun-2018&play_date_to=30-Jun-2018" class="etha">Mikhailovsky Theatre</a>
+<h2> <a href="/classical_ballet/Sergei_Prokofiev__Cinderella__ballet_in_/info/sid=A3e16S1G0t7G7B2K5E1c&play_date_from=01-Jun-2018&play_date_to=30-Jun-2018&playbills=60512" target="_blank">Sergei Prokofiev &quot;Cinderella&quot; ballet in three acts</a></h2>
+<h3>Classical Ballet</h3>
+<div class="eprice">
+<div class="ep1" style="width: 340px;"><span style="color:#ff0000; font-size: 40px;">All seats sold out</span></div>
+<div class="ep2" style="display: none;"> &euro;</div>
+<div class="ep3" style="display: none;">save up to</div> 
+<div class="ep4" style="display: none;">%</div>
+</div>
+
+<div class="ebt">
+
+
+<a href="/?sid=A3e16S1G0t7G7B2K5E1c&id_playbill=60512&usluga=book&b_time=19:30&b_date_full=2018-06-02&b_date=02%20June#an1"><div class="bt_sm_y bt_ar_b bt_sold_out">View tickets</div></a>
+<a href="/?sid=A3e16S1G0t7G7B2K5E1c&id_playbill=60512&usluga=book&b_time=19:30&b_date_full=2018-06-02&b_date=02%20June#an1"><div class="bt_sm_w">Hall plan</div></a>
+
+</div>
+</div>
+
+<div class="event" style="";>
+<a name="ev59386"></a><a href="/folk_show/phil_gh_2010-02-19/info/sid=A3e16S1G0t7G7B2K5E1c&play_date_from=01-Jun-2018&play_date_to=30-Jun-2018&playbills=59386">
+<div class="epic" style="background-image: url('/photos_info/perfomance/phil_gh_2010-02-19/bigm/1524839317_nko.jpg');">
+<div class="edatef"><div class="edate">2</div><div class="emonth">June<div class="etime">20:00</div></div></div></div></a>
+<a href="/theatre/folk_show_officer_assembly/info/sid=A3e16S1G0t7G7B2K5E1c&play_date_from=01-Jun-2018&play_date_to=30-Jun-2018" class="etha">Russian Army Folk show</a>
+<h2> <a href="/folk_show/phil_gh_2010-02-19/info/sid=A3e16S1G0t7G7B2K5E1c&play_date_from=01-Jun-2018&play_date_to=30-Jun-2018&playbills=59386" target="_blank">State Song and Dance Ensemble of the Western Military District - Folk Show at the House of Officers</a></h2>
+<h3>Show</h3>
+<div class="eprice">
+<div class="ep1">prices start from</div>
+<div class="ep2">83 &euro;</div>
+<div class="ep3" style="display: none;">save up to</div> 
+<div class="ep4" style="display: none;">0%</div>
+</div>
+
+<div class="ebt">
+
+
+<a href="/?sid=A3e16S1G0t7G7B2K5E1c&id_playbill=59386&usluga=book&b_time=20:00&b_date_full=2018-06-02&b_date=02%20June#an1"><div class="bt_sm_y bt_ar_b ">View tickets</div></a>
+<a href="/?sid=A3e16S1G0t7G7B2K5E1c&id_playbill=59386&usluga=book&b_time=20:00&b_date_full=2018-06-02&b_date=02%20June#an1"><div class="bt_sm_w">Hall plan</div></a>
+
+</div>
+</div>
+
+<div class="event" style="";>
+<a name="ev60625"></a><a href="/classical_ballet/sleeping-mar/info/sid=A3e16S1G0t7G7B2K5E1c&play_date_from=01-Jun-2018&play_date_to=30-Jun-2018&playbills=60625">
+<div class="epic" style="background-image: url('/photos_info/perfomance/sleeping-mar/bigm/1524842463_1454325291.2242.jpg');">
+<div class="edatef"><div class="edate">3</div><div class="emonth">June<div class="etime">19:00</div></div></div></div></a>
+<a href="/theatre/mariinsky-theatre/info/sid=A3e16S1G0t7G7B2K5E1c&play_date_from=01-Jun-2018&play_date_to=30-Jun-2018" class="etha">Mariinsky Theatre - Main Stage</a>
+<h2><font face=arial size=2 color=red><i>The Stars of the White Nights 2018</i></font><br><font color=red><i>Stars of the Stars</i></font>&nbsp;  <a href="/classical_ballet/sleeping-mar/info/sid=A3e16S1G0t7G7B2K5E1c&play_date_from=01-Jun-2018&play_date_to=30-Jun-2018&playbills=60625" target="_blank">Peter Tchaikovsky &quot;Sleeping Beauty&quot; (ballet-fierie in three acts with a prologue and apotheosis)</a></h2>
+<h3>Classical Ballet</h3>
+<div class="eprice">
+<div class="ep1">prices start from</div>
+<div class="ep2">249 &euro;</div>
+<div class="ep3" style="display: none;">save up to</div> 
+<div class="ep4" style="display: none;">0%</div>
+</div>
+<div class="promo_mob"><b><div class="block_perf_info__right"><div class="block-message-market"><div class='block-message-market__item temp_short_message'><p><span style='color: red'>Very popular!</span></p></div></div></div></b><br></div>
+<div class="ebt">
+
+
+<a href="/?sid=A3e16S1G0t7G7B2K5E1c&id_playbill=60625&usluga=book&b_time=19:00&b_date_full=2018-06-03&b_date=03%20June#an1"><div class="bt_sm_y bt_ar_b ">View tickets</div></a>
+<a href="/?sid=A3e16S1G0t7G7B2K5E1c&id_playbill=60625&usluga=book&b_time=19:00&b_date_full=2018-06-03&b_date=03%20June#an1"><div class="bt_sm_w">Hall plan</div></a>
+
+</div>
+</div>
+
+<div class="event" style="";>
+<a name="ev61435"></a><a href="/opera/The_Gambler__Opera_in_Four_Acts_/info/sid=A3e16S1G0t7G7B2K5E1c&play_date_from=01-Jun-2018&play_date_to=30-Jun-2018&playbills=61435">
+<div class="epic" style="background-image: url('/photos_info/perfomance/The_Gambler__Opera_in_Four_Acts_/big/1454329535.0374.jpg');">
+<div class="edatef"><div class="edate">3</div><div class="emonth">June<div class="etime">20:00</div></div></div></div></a>
+<a href="/theatre/mariinsky-new-theatre/info/sid=A3e16S1G0t7G7B2K5E1c&play_date_from=01-Jun-2018&play_date_to=30-Jun-2018" class="etha">Mariinsky II - New Stage</a>
+<h2><font face=arial size=2 color=red><i>The Stars of the White Nights 2018</i></font><br><font color=red><i>Stars of the Stars</i></font>&nbsp;<font color=red><i>Conducted by Maestro Gergiev</i></font>  <a href="/opera/The_Gambler__Opera_in_Four_Acts_/info/sid=A3e16S1G0t7G7B2K5E1c&play_date_from=01-Jun-2018&play_date_to=30-Jun-2018&playbills=61435" target="_blank">The Gambler (opera in four acts and six scenes) by Sergei Prokofiev</a></h2>
+<h3>Opera</h3>
+<div class="eprice">
+<div class="ep1">prices start from</div>
+<div class="ep2">154 &euro;</div>
+<div class="ep3" style="display: none;">save up to</div> 
+<div class="ep4" style="display: none;">0%</div>
+</div>
+<div class="promo_mob"><b><div class="block_perf_info__right"><div class="block-message-market"><div class='block-message-market__item temp_short_message'><p><span style='color: red'>In high demand!</span></p></div></div></div></b><br><b><span style="color: red;">Booked 24 times today</span></b><br></div>
+<div class="ebt">
+
+
+<a href="/?sid=A3e16S1G0t7G7B2K5E1c&id_playbill=61435&usluga=book&b_time=20:00&b_date_full=2018-06-03&b_date=03%20June#an1"><div class="bt_sm_y bt_ar_b ">View tickets</div></a>
+<a href="/?sid=A3e16S1G0t7G7B2K5E1c&id_playbill=61435&usluga=book&b_time=20:00&b_date_full=2018-06-03&b_date=03%20June#an1"><div class="bt_sm_w">Hall plan</div></a>
+
+</div>
+</div>
+
+<div class="event" style="";>
+<a name="ev59384"></a><a href="/folk_show/Bagatitsa_the_cossackshow/info/sid=A3e16S1G0t7G7B2K5E1c&play_date_from=01-Jun-2018&play_date_to=30-Jun-2018&playbills=59384">
+<div class="epic" style="background-image: url('/photos_info/perfomance/Bagatitsa_the_cossackshow/bigm/1524854794_1454329834.5451.jpg');">
+<div class="edatef"><div class="edate">3</div><div class="emonth">June<div class="etime">20:00</div></div></div></div></a>
+<a href="/theatre/Palace_Panina/info/sid=A3e16S1G0t7G7B2K5E1c&play_date_from=01-Jun-2018&play_date_to=30-Jun-2018" class="etha">Cossack Folk Show</a>
+<h2> <a href="/folk_show/Bagatitsa_the_cossackshow/info/sid=A3e16S1G0t7G7B2K5E1c&play_date_from=01-Jun-2018&play_date_to=30-Jun-2018&playbills=59384" target="_blank">Unique Russian Cossack Folk Show &quot;Bagatitsa&quot; - Brilliant example of Russian Cossack Dancing, Music, and Singing</a></h2>
+<h3>Show</h3>
+<div class="eprice">
+<div class="ep1">prices start from</div>
+<div class="ep2">85 &euro;</div>
+<div class="ep3" style="display: none;">save up to</div> 
+<div class="ep4" style="display: none;">0%</div>
+</div>
+
+<div class="ebt">
+
+
+<a href="/?sid=A3e16S1G0t7G7B2K5E1c&id_playbill=59384&usluga=book&b_time=20:00&b_date_full=2018-06-03&b_date=03%20June#an1"><div class="bt_sm_y bt_ar_b ">View tickets</div></a>
+<a href="/?sid=A3e16S1G0t7G7B2K5E1c&id_playbill=59384&usluga=book&b_time=20:00&b_date_full=2018-06-03&b_date=03%20June#an1"><div class="bt_sm_w">Hall plan</div></a>
+
+</div>
+</div>
+
+<div class="event" style="";>
+<a name="ev60626"></a><a href="/opera/mazepa-mar/info/sid=A3e16S1G0t7G7B2K5E1c&play_date_from=01-Jun-2018&play_date_to=30-Jun-2018&playbills=60626">
+<div class="epic" style="background-image: url('/photos_info/perfomance/mazepa-mar/bigm/1524852097_1455882292_Mazepa.jpg');">
+<div class="edatef"><div class="edate">4</div><div class="emonth">June<div class="etime">19:00</div></div></div></div></a>
+<a href="/theatre/mariinsky-theatre/info/sid=A3e16S1G0t7G7B2K5E1c&play_date_from=01-Jun-2018&play_date_to=30-Jun-2018" class="etha">Mariinsky Theatre - Main Stage</a>
+<h2><font face=arial size=2 color=red><i>The Stars of the White Nights 2018</i></font><br><font color=red><i>Stars of the Stars</i></font>&nbsp;  <a href="/opera/mazepa-mar/info/sid=A3e16S1G0t7G7B2K5E1c&play_date_from=01-Jun-2018&play_date_to=30-Jun-2018&playbills=60626" target="_blank">Peter Tchaikovsky &quot;Mazepa&quot; (opera in three acts, six scenes)</a></h2>
+<h3>Opera</h3>
+<div class="eprice">
+<div class="ep1">prices start from</div>
+<div class="ep2">94 &euro;</div>
+<div class="ep3" style="display: none;">save up to</div> 
+<div class="ep4" style="display: none;">0%</div>
+</div>
+<div class="promo_mob"><b><div class="block_perf_info__right"><div class="block-message-market"><div class='block-message-market__item temp_short_message'><p><span style='color: red'>In high demand!</span></p></div></div></div></b><br><b><span style="color: red;">32 people are looking at this moment</span></b><br></div>
+<div class="ebt">
+
+
+<a href="/?sid=A3e16S1G0t7G7B2K5E1c&id_playbill=60626&usluga=book&b_time=19:00&b_date_full=2018-06-04&b_date=04%20June#an1"><div class="bt_sm_y bt_ar_b ">View tickets</div></a>
+<a href="/?sid=A3e16S1G0t7G7B2K5E1c&id_playbill=60626&usluga=book&b_time=19:00&b_date_full=2018-06-04&b_date=04%20June#an1"><div class="bt_sm_w">Hall plan</div></a>
+
+</div>
+</div>
+
+<div class="event" style="";>
+<a name="ev59389"></a><a href="/classical_ballet/alex_swan/info/sid=A3e16S1G0t7G7B2K5E1c&play_date_from=01-Jun-2018&play_date_to=30-Jun-2018&playbills=59389">
+<div class="epic" style="background-image: url('/photos_info/perfomance/alex_swan/bigm/1524838947_swa.jpg');">
+<div class="edatef"><div class="edate">4</div><div class="emonth">June<div class="etime">20:00</div></div></div></div></a>
+<a href="/theatre/alexandrinsky/info/sid=A3e16S1G0t7G7B2K5E1c&play_date_from=01-Jun-2018&play_date_to=30-Jun-2018" class="etha">Alexandrinsky Imperial Ballet Theatre</a>
+<h2> <a href="/classical_ballet/alex_swan/info/sid=A3e16S1G0t7G7B2K5E1c&play_date_from=01-Jun-2018&play_date_to=30-Jun-2018&playbills=59389" target="_blank">Peter Tchaikovsky &quot;Swan Lake&quot; (Ballet in 3 Acts)</a></h2>
+<h3>Classical Ballet</h3>
+<div class="eprice">
+<div class="ep1">prices start from</div>
+<div class="ep2">207 &euro;</div>
+<div class="ep3" style="display: none;">save up to</div> 
+<div class="ep4" style="display: none;">0%</div>
+</div>
+
+<div class="ebt">
+
+
+<a href="/?sid=A3e16S1G0t7G7B2K5E1c&id_playbill=59389&usluga=book&b_time=20:00&b_date_full=2018-06-04&b_date=04%20June#an1"><div class="bt_sm_y bt_ar_b ">View tickets</div></a>
+<a href="/?sid=A3e16S1G0t7G7B2K5E1c&id_playbill=59389&usluga=book&b_time=20:00&b_date_full=2018-06-04&b_date=04%20June#an1"><div class="bt_sm_w">Hall plan</div></a>
+
+</div>
+</div>
+
+<div class="event" style="";>
+<a name="ev60513"></a><a href="/opera/mus_gueen_spades/info/sid=A3e16S1G0t7G7B2K5E1c&play_date_from=01-Jun-2018&play_date_to=30-Jun-2018&playbills=60513">
+<div class="epic" style="background-image: url('/photos_info/perfomance/mus_gueen_spades/big/1454325248.1767.jpg');">
+<div class="edatef"><div class="edate">4</div><div class="emonth">June<div class="etime">19:00</div></div></div></div></a>
+<a href="/theatre/mikhailovsky/info/sid=A3e16S1G0t7G7B2K5E1c&play_date_from=01-Jun-2018&play_date_to=30-Jun-2018" class="etha">Mikhailovsky Theatre</a>
+<h2> <a href="/opera/mus_gueen_spades/info/sid=A3e16S1G0t7G7B2K5E1c&play_date_from=01-Jun-2018&play_date_to=30-Jun-2018&playbills=60513" target="_blank">Peter Tchaikovsky &quot;The Queen of Spades&quot; (Opera in three acts, seven scenes)</a></h2>
+<h3>Opera</h3>
+<div class="eprice">
+<div class="ep1">prices start from</div>
+<div class="ep2">134 &euro;</div>
+<div class="ep3" style="display: none;">save up to</div> 
+<div class="ep4" style="display: none;">0%</div>
+</div>
+
+<div class="ebt">
+
+
+<a href="/?sid=A3e16S1G0t7G7B2K5E1c&id_playbill=60513&usluga=book&b_time=19:00&b_date_full=2018-06-04&b_date=04%20June#an1"><div class="bt_sm_y bt_ar_b ">View tickets</div></a>
+<a href="/?sid=A3e16S1G0t7G7B2K5E1c&id_playbill=60513&usluga=book&b_time=19:00&b_date_full=2018-06-04&b_date=04%20June#an1"><div class="bt_sm_w">Hall plan</div></a>
+
+</div>
+</div>
+
+<div class="event" style="";>
+<a name="ev61385"></a>
+<div class="epic" style="background-image: url('/photos_info/perfomance/Rachmaninoff__Performed_by__Ivan_Alexand/bigm/1525100989_alexandrov_092016_520px.jpg');">
+<div class="edatef"><div class="edate">4</div><div class="emonth">June<div class="etime">17:00</div></div></div></div>
+<a href="/theatre/philharmonia/info/sid=A3e16S1G0t7G7B2K5E1c&play_date_from=01-Jun-2018&play_date_to=30-Jun-2018" class="etha">Grand Philharmonic Hall</a>
+<h2> Rachmaninoff. Performed by  Ivan Alexandrov (piano),  Mikhail Benediktov (piano), Oleg Weinstein (piano).</h2>
+<h3>Concert</h3>
+<div class="eprice">
+<div class="ep1" style="width: 340px;"><span style="color:#ff0000; font-size: 40px;">All seats sold out</span></div>
+<div class="ep2" style="display: none;"> &euro;</div>
+<div class="ep3" style="display: none;">save up to</div> 
+<div class="ep4" style="display: none;">%</div>
+</div>
+
+<div class="ebt">
+
+
+<a href="/?sid=A3e16S1G0t7G7B2K5E1c&id_playbill=61385&usluga=book&b_time=17:00&b_date_full=2018-06-04&b_date=04%20June#an1"><div class="bt_sm_y bt_ar_b bt_sold_out">View tickets</div></a>
+<a href="/?sid=A3e16S1G0t7G7B2K5E1c&id_playbill=61385&usluga=book&b_time=17:00&b_date_full=2018-06-04&b_date=04%20June#an1"><div class="bt_sm_w">Hall plan</div></a>
+
+</div>
+</div>
+
+<div class="event" style="";>
+<a name="ev61417"></a><a href="/folk_show/phil_gh_2010-02-19/info/sid=A3e16S1G0t7G7B2K5E1c&play_date_from=01-Jun-2018&play_date_to=30-Jun-2018&playbills=61417">
+<div class="epic" style="background-image: url('/photos_info/perfomance/phil_gh_2010-02-19/bigm/1524839317_nko.jpg');">
+<div class="edatef"><div class="edate">4</div><div class="emonth">June<div class="etime">20:00</div></div></div></div></a>
+<a href="/theatre/folk_show_officer_assembly/info/sid=A3e16S1G0t7G7B2K5E1c&play_date_from=01-Jun-2018&play_date_to=30-Jun-2018" class="etha">Russian Army Folk show</a>
+<h2> <a href="/folk_show/phil_gh_2010-02-19/info/sid=A3e16S1G0t7G7B2K5E1c&play_date_from=01-Jun-2018&play_date_to=30-Jun-2018&playbills=61417" target="_blank">State Song and Dance Ensemble of the Western Military District - Folk Show at the House of Officers</a></h2>
+<h3>Show</h3>
+<div class="eprice">
+<div class="ep1">prices start from</div>
+<div class="ep2">83 &euro;</div>
+<div class="ep3" style="display: none;">save up to</div> 
+<div class="ep4" style="display: none;">0%</div>
+</div>
+
+<div class="ebt">
+
+
+<a href="/?sid=A3e16S1G0t7G7B2K5E1c&id_playbill=61417&usluga=book&b_time=20:00&b_date_full=2018-06-04&b_date=04%20June#an1"><div class="bt_sm_y bt_ar_b ">View tickets</div></a>
+<a href="/?sid=A3e16S1G0t7G7B2K5E1c&id_playbill=61417&usluga=book&b_time=20:00&b_date_full=2018-06-04&b_date=04%20June#an1"><div class="bt_sm_w">Hall plan</div></a>
+
+</div>
+</div>
+
+<div class="event" style="";>
+<a name="ev60627"></a><a href="/classical_ballet/mar_la_bayadere/info/sid=A3e16S1G0t7G7B2K5E1c&play_date_from=01-Jun-2018&play_date_to=30-Jun-2018&playbills=60627">
+<div class="epic" style="background-image: url('/photos_info/perfomance/mar_la_bayadere/big/1454325259.9998.jpg');">
+<div class="edatef"><div class="edate">5</div><div class="emonth">June<div class="etime">19:00</div></div></div></div></a>
+<a href="/theatre/mariinsky-theatre/info/sid=A3e16S1G0t7G7B2K5E1c&play_date_from=01-Jun-2018&play_date_to=30-Jun-2018" class="etha">Mariinsky Theatre - Main Stage</a>
+<h2><font face=arial size=2 color=red><i>The Stars of the White Nights 2018</i></font><br><font color=red><i>Stars of the Stars</i></font>&nbsp;  <a href="/classical_ballet/mar_la_bayadere/info/sid=A3e16S1G0t7G7B2K5E1c&play_date_from=01-Jun-2018&play_date_to=30-Jun-2018&playbills=60627" target="_blank">Ludwig Minkus &quot;La Bayadere&quot; (ballet in 3 acts)</a></h2>
+<h3>Classical Ballet</h3>
+<div class="eprice">
+<div class="ep1">prices start from</div>
+<div class="ep2">249 &euro;</div>
+<div class="ep3" style="display: none;">save up to</div> 
+<div class="ep4" style="display: none;">0%</div>
+</div>
+<div class="promo_mob"><b><div class="block_perf_info__right"><div class="block-message-market"><div class='block-message-market__item temp_short_message'><p><span style='color: red'>In high demand!</span></p></div></div></div></b><br><b><span style="color: red;">Latest booking: 37 minutes ago</span></b><br></div>
+<div class="ebt">
+
+
+<a href="/?sid=A3e16S1G0t7G7B2K5E1c&id_playbill=60627&usluga=book&b_time=19:00&b_date_full=2018-06-05&b_date=05%20June#an1"><div class="bt_sm_y bt_ar_b ">View tickets</div></a>
+<a href="/?sid=A3e16S1G0t7G7B2K5E1c&id_playbill=60627&usluga=book&b_time=19:00&b_date_full=2018-06-05&b_date=05%20June#an1"><div class="bt_sm_w">Hall plan</div></a>
+
+</div>
+</div>
+
+<div class="event" style="";>
+<a name="ev61552"></a><a href="/concert/Chamber_music_by_Beethoven__Mahler_and_S/info/sid=A3e16S1G0t7G7B2K5E1c&play_date_from=01-Jun-2018&play_date_to=30-Jun-2018&playbills=61552">
+<div class="epic" style="background-image: url('/photos_info/perfomance/Chamber_music_by_Beethoven__Mahler_and_S/bigm/1527662118_sendets.JPG');">
+<div class="edatef"><div class="edate">5</div><div class="emonth">June<div class="etime">19:00</div></div></div></div></a>
+<a href="/theatre/mariinsky-concert-hall/info/sid=A3e16S1G0t7G7B2K5E1c&play_date_from=01-Jun-2018&play_date_to=30-Jun-2018" class="etha">Mariinsky Concert Hall</a>
+<h2><font face=arial size=2 color=red><i>The Stars of the White Nights 2018</i></font><br><font color=red><i>Stars of the Stars</i></font>&nbsp;  <a href="/concert/Chamber_music_by_Beethoven__Mahler_and_S/info/sid=A3e16S1G0t7G7B2K5E1c&play_date_from=01-Jun-2018&play_date_to=30-Jun-2018&playbills=61552" target="_blank">Chamber music by Beethoven, Mahler and Schubert</a></h2>
+<h3>Concert</h3>
+<div class="eprice">
+<div class="ep1">prices start from</div>
+<div class="ep2">126 &euro;</div>
+<div class="ep3" style="display: none;">save up to</div> 
+<div class="ep4" style="display: none;">0%</div>
+</div>
+
+<div class="ebt">
+
+
+<a href="/?sid=A3e16S1G0t7G7B2K5E1c&id_playbill=61552&usluga=book&b_time=19:00&b_date_full=2018-06-05&b_date=05%20June#an1"><div class="bt_sm_y bt_ar_b ">View tickets</div></a>
+<a href="/?sid=A3e16S1G0t7G7B2K5E1c&id_playbill=61552&usluga=book&b_time=19:00&b_date_full=2018-06-05&b_date=05%20June#an1"><div class="bt_sm_w">Hall plan</div></a>
+
+</div>
+</div>
+
+<div class="event" style="";>
+<a name="ev61418"></a><a href="/folk_show/phil_gh_2010-02-19/info/sid=A3e16S1G0t7G7B2K5E1c&play_date_from=01-Jun-2018&play_date_to=30-Jun-2018&playbills=61418">
+<div class="epic" style="background-image: url('/photos_info/perfomance/phil_gh_2010-02-19/bigm/1524839317_nko.jpg');">
+<div class="edatef"><div class="edate">5</div><div class="emonth">June<div class="etime">20:00</div></div></div></div></a>
+<a href="/theatre/folk_show_officer_assembly/info/sid=A3e16S1G0t7G7B2K5E1c&play_date_from=01-Jun-2018&play_date_to=30-Jun-2018" class="etha">Russian Army Folk show</a>
+<h2> <a href="/folk_show/phil_gh_2010-02-19/info/sid=A3e16S1G0t7G7B2K5E1c&play_date_from=01-Jun-2018&play_date_to=30-Jun-2018&playbills=61418" target="_blank">State Song and Dance Ensemble of the Western Military District - Folk Show at the House of Officers</a></h2>
+<h3>Show</h3>
+<div class="eprice">
+<div class="ep1">prices start from</div>
+<div class="ep2">83 &euro;</div>
+<div class="ep3" style="display: none;">save up to</div> 
+<div class="ep4" style="display: none;">0%</div>
+</div>
+
+<div class="ebt">
+
+
+<a href="/?sid=A3e16S1G0t7G7B2K5E1c&id_playbill=61418&usluga=book&b_time=20:00&b_date_full=2018-06-05&b_date=05%20June#an1"><div class="bt_sm_y bt_ar_b ">View tickets</div></a>
+<a href="/?sid=A3e16S1G0t7G7B2K5E1c&id_playbill=61418&usluga=book&b_time=20:00&b_date_full=2018-06-05&b_date=05%20June#an1"><div class="bt_sm_w">Hall plan</div></a>
+
+</div>
+</div>
+
+<div class="event" style="";>
+<a name="ev60628"></a><a href="/classical_ballet/mar_la_bayadere/info/sid=A3e16S1G0t7G7B2K5E1c&play_date_from=01-Jun-2018&play_date_to=30-Jun-2018&playbills=60628">
+<div class="epic" style="background-image: url('/photos_info/perfomance/mar_la_bayadere/big/1454325259.9998.jpg');">
+<div class="edatef"><div class="edate">6</div><div class="emonth">June<div class="etime">19:00</div></div></div></div></a>
+<a href="/theatre/mariinsky-theatre/info/sid=A3e16S1G0t7G7B2K5E1c&play_date_from=01-Jun-2018&play_date_to=30-Jun-2018" class="etha">Mariinsky Theatre - Main Stage</a>
+<h2><font face=arial size=2 color=red><i>The Stars of the White Nights 2018</i></font><br><font color=red><i>Stars of the Stars</i></font>&nbsp;  <a href="/classical_ballet/mar_la_bayadere/info/sid=A3e16S1G0t7G7B2K5E1c&play_date_from=01-Jun-2018&play_date_to=30-Jun-2018&playbills=60628" target="_blank">Ludwig Minkus &quot;La Bayadere&quot; (ballet in 3 acts)</a></h2>
+<h3>Classical Ballet</h3>
+<div class="eprice">
+<div class="ep1">prices start from</div>
+<div class="ep2">249 &euro;</div>
+<div class="ep3" style="display: none;">save up to</div> 
+<div class="ep4" style="display: none;">0%</div>
+</div>
+<div class="promo_mob"><b><div class="block_perf_info__right"><div class="block-message-market"><div class='block-message-market__item temp_short_message'><p><span style='color: red'>In high demand!</span></p></div></div></div></b><br></div>
+<div class="ebt">
+
+
+<a href="/?sid=A3e16S1G0t7G7B2K5E1c&id_playbill=60628&usluga=book&b_time=19:00&b_date_full=2018-06-06&b_date=06%20June#an1"><div class="bt_sm_y bt_ar_b ">View tickets</div></a>
+<a href="/?sid=A3e16S1G0t7G7B2K5E1c&id_playbill=60628&usluga=book&b_time=19:00&b_date_full=2018-06-06&b_date=06%20June#an1"><div class="bt_sm_w">Hall plan</div></a>
+
+</div>
+</div>
+
+<div class="event" style="";>
+<a name="ev61432"></a><a href="/opera/Eugene_Onegin_lyric_opera_in_3_acts/info/sid=A3e16S1G0t7G7B2K5E1c&play_date_from=01-Jun-2018&play_date_to=30-Jun-2018&playbills=61432">
+<div class="epic" style="background-image: url('/photos_info/perfomance/Eugene_Onegin_lyric_opera_in_3_acts/big/1520090984_d63c24fc3b190be0f3d096d8c37c7756.jpg');">
+<div class="edatef"><div class="edate">6</div><div class="emonth">June<div class="etime">19:00</div></div></div></div></a>
+<a href="/theatre/mariinsky-new-theatre/info/sid=A3e16S1G0t7G7B2K5E1c&play_date_from=01-Jun-2018&play_date_to=30-Jun-2018" class="etha">Mariinsky II - New Stage</a>
+<h2><font face=arial size=2 color=red><i>The Stars of the White Nights 2018</i></font><br><font color=red><i>Stars of the Stars</i></font>&nbsp;  <a href="/opera/Eugene_Onegin_lyric_opera_in_3_acts/info/sid=A3e16S1G0t7G7B2K5E1c&play_date_from=01-Jun-2018&play_date_to=30-Jun-2018&playbills=61432" target="_blank">Tchaikovsky &quot;Eugene Onegin&quot; lyric opera in 3 acts. Co-production with the National Center for the Performing Arts (Beijing)</a></h2>
+<h3>Opera</h3>
+<div class="eprice">
+<div class="ep1">prices start from</div>
+<div class="ep2">154 &euro;</div>
+<div class="ep3" style="display: none;">save up to</div> 
+<div class="ep4" style="display: none;">0%</div>
+</div>
+<div class="promo_mob"><b><div class="block_perf_info__right"><div class="block-message-market"><div class='block-message-market__item temp_short_message'><p><span style='color: red'>In high demand!</span></p></div></div></div></b><br><b><span style="color: red;">Latest booking: 38 minutes ago</span></b><br></div>
+<div class="ebt">
+
+
+<a href="/?sid=A3e16S1G0t7G7B2K5E1c&id_playbill=61432&usluga=book&b_time=19:00&b_date_full=2018-06-06&b_date=06%20June#an1"><div class="bt_sm_y bt_ar_b ">View tickets</div></a>
+<a href="/?sid=A3e16S1G0t7G7B2K5E1c&id_playbill=61432&usluga=book&b_time=19:00&b_date_full=2018-06-06&b_date=06%20June#an1"><div class="bt_sm_w">Hall plan</div></a>
+
+</div>
+</div>
+
+<div class="event" style="";>
+<a name="ev61419"></a><a href="/folk_show/phil_gh_2010-02-19/info/sid=A3e16S1G0t7G7B2K5E1c&play_date_from=01-Jun-2018&play_date_to=30-Jun-2018&playbills=61419">
+<div class="epic" style="background-image: url('/photos_info/perfomance/phil_gh_2010-02-19/bigm/1524839317_nko.jpg');">
+<div class="edatef"><div class="edate">6</div><div class="emonth">June<div class="etime">20:00</div></div></div></div></a>
+<a href="/theatre/folk_show_officer_assembly/info/sid=A3e16S1G0t7G7B2K5E1c&play_date_from=01-Jun-2018&play_date_to=30-Jun-2018" class="etha">Russian Army Folk show</a>
+<h2> <a href="/folk_show/phil_gh_2010-02-19/info/sid=A3e16S1G0t7G7B2K5E1c&play_date_from=01-Jun-2018&play_date_to=30-Jun-2018&playbills=61419" target="_blank">State Song and Dance Ensemble of the Western Military District - Folk Show at the House of Officers</a></h2>
+<h3>Show</h3>
+<div class="eprice">
+<div class="ep1">prices start from</div>
+<div class="ep2">83 &euro;</div>
+<div class="ep3" style="display: none;">save up to</div> 
+<div class="ep4" style="display: none;">0%</div>
+</div>
+
+<div class="ebt">
+
+
+<a href="/?sid=A3e16S1G0t7G7B2K5E1c&id_playbill=61419&usluga=book&b_time=20:00&b_date_full=2018-06-06&b_date=06%20June#an1"><div class="bt_sm_y bt_ar_b ">View tickets</div></a>
+<a href="/?sid=A3e16S1G0t7G7B2K5E1c&id_playbill=61419&usluga=book&b_time=20:00&b_date_full=2018-06-06&b_date=06%20June#an1"><div class="bt_sm_w">Hall plan</div></a>
+
+</div>
+</div>
+
+<div class="event" style="";>
+<a name="ev60629"></a><a href="/classical_ballet/mar_la_bayadere/info/sid=A3e16S1G0t7G7B2K5E1c&play_date_from=01-Jun-2018&play_date_to=30-Jun-2018&playbills=60629">
+<div class="epic" style="background-image: url('/photos_info/perfomance/mar_la_bayadere/big/1454325259.9998.jpg');">
+<div class="edatef"><div class="edate">7</div><div class="emonth">June<div class="etime">19:00</div></div></div></div></a>
+<a href="/theatre/mariinsky-theatre/info/sid=A3e16S1G0t7G7B2K5E1c&play_date_from=01-Jun-2018&play_date_to=30-Jun-2018" class="etha">Mariinsky Theatre - Main Stage</a>
+<h2><font face=arial size=2 color=red><i>The Stars of the White Nights 2018</i></font><br><font color=red><i>Stars of the Stars</i></font>&nbsp;  <a href="/classical_ballet/mar_la_bayadere/info/sid=A3e16S1G0t7G7B2K5E1c&play_date_from=01-Jun-2018&play_date_to=30-Jun-2018&playbills=60629" target="_blank">Ludwig Minkus &quot;La Bayadere&quot; (ballet in 3 acts)</a></h2>
+<h3>Classical Ballet</h3>
+<div class="eprice">
+<div class="ep1">prices start from</div>
+<div class="ep2">249 &euro;</div>
+<div class="ep3" style="display: none;">save up to</div> 
+<div class="ep4" style="display: none;">0%</div>
+</div>
+<div class="promo_mob"><b><div class="block_perf_info__right"><div class="block-message-market"><div class='block-message-market__item temp_short_message'><p><span style='color: red'>Less than 16 of 1600 tickets left!</span></p></div></div></div></b><br><b><span style="color: red;">21 people are looking at this moment</span></b><br></div>
+<div class="ebt">
+
+
+<a href="/?sid=A3e16S1G0t7G7B2K5E1c&id_playbill=60629&usluga=book&b_time=19:00&b_date_full=2018-06-07&b_date=07%20June#an1"><div class="bt_sm_y bt_ar_b ">View tickets</div></a>
+<a href="/?sid=A3e16S1G0t7G7B2K5E1c&id_playbill=60629&usluga=book&b_time=19:00&b_date_full=2018-06-07&b_date=07%20June#an1"><div class="bt_sm_w">Hall plan</div></a>
+
+</div>
+</div>
+
+<div class="event" style="";>
+<a name="ev61433"></a><a href="/opera/Eugene_Onegin_lyric_opera_in_3_acts/info/sid=A3e16S1G0t7G7B2K5E1c&play_date_from=01-Jun-2018&play_date_to=30-Jun-2018&playbills=61433">
+<div class="epic" style="background-image: url('/photos_info/perfomance/Eugene_Onegin_lyric_opera_in_3_acts/big/1520090984_d63c24fc3b190be0f3d096d8c37c7756.jpg');">
+<div class="edatef"><div class="edate">7</div><div class="emonth">June<div class="etime">19:00</div></div></div></div></a>
+<a href="/theatre/mariinsky-new-theatre/info/sid=A3e16S1G0t7G7B2K5E1c&play_date_from=01-Jun-2018&play_date_to=30-Jun-2018" class="etha">Mariinsky II - New Stage</a>
+<h2><font face=arial size=2 color=red><i>The Stars of the White Nights 2018</i></font><br><font color=red><i>Stars of the Stars</i></font>&nbsp;  <a href="/opera/Eugene_Onegin_lyric_opera_in_3_acts/info/sid=A3e16S1G0t7G7B2K5E1c&play_date_from=01-Jun-2018&play_date_to=30-Jun-2018&playbills=61433" target="_blank">Tchaikovsky &quot;Eugene Onegin&quot; lyric opera in 3 acts. Co-production with the National Center for the Performing Arts (Beijing)</a></h2>
+<h3>Opera</h3>
+<div class="eprice">
+<div class="ep1">prices start from</div>
+<div class="ep2">154 &euro;</div>
+<div class="ep3" style="display: none;">save up to</div> 
+<div class="ep4" style="display: none;">0%</div>
+</div>
+<div class="promo_mob"><b><div class="block_perf_info__right"><div class="block-message-market"><div class='block-message-market__item temp_short_message'><p><span style='color: red'>Less than 17 of 2200 tickets left!</span></p></div></div></div></b><br></div>
+<div class="ebt">
+
+
+<a href="/?sid=A3e16S1G0t7G7B2K5E1c&id_playbill=61433&usluga=book&b_time=19:00&b_date_full=2018-06-07&b_date=07%20June#an1"><div class="bt_sm_y bt_ar_b ">View tickets</div></a>
+<a href="/?sid=A3e16S1G0t7G7B2K5E1c&id_playbill=61433&usluga=book&b_time=19:00&b_date_full=2018-06-07&b_date=07%20June#an1"><div class="bt_sm_w">Hall plan</div></a>
+
+</div>
+</div>
+
+<div class="event" style="";>
+<a name="ev59406"></a><a href="/folk_show/phil_gh_2010-02-19/info/sid=A3e16S1G0t7G7B2K5E1c&play_date_from=01-Jun-2018&play_date_to=30-Jun-2018&playbills=59406">
+<div class="epic" style="background-image: url('/photos_info/perfomance/phil_gh_2010-02-19/bigm/1524839317_nko.jpg');">
+<div class="edatef"><div class="edate">7</div><div class="emonth">June<div class="etime">20:00</div></div></div></div></a>
+<a href="/theatre/folk_show_officer_assembly/info/sid=A3e16S1G0t7G7B2K5E1c&play_date_from=01-Jun-2018&play_date_to=30-Jun-2018" class="etha">Russian Army Folk show</a>
+<h2> <a href="/folk_show/phil_gh_2010-02-19/info/sid=A3e16S1G0t7G7B2K5E1c&play_date_from=01-Jun-2018&play_date_to=30-Jun-2018&playbills=59406" target="_blank">State Song and Dance Ensemble of the Western Military District - Folk Show at the House of Officers</a></h2>
+<h3>Show</h3>
+<div class="eprice">
+<div class="ep1">prices start from</div>
+<div class="ep2">83 &euro;</div>
+<div class="ep3" style="display: none;">save up to</div> 
+<div class="ep4" style="display: none;">0%</div>
+</div>
+
+<div class="ebt">
+
+
+<a href="/?sid=A3e16S1G0t7G7B2K5E1c&id_playbill=59406&usluga=book&b_time=20:00&b_date_full=2018-06-07&b_date=07%20June#an1"><div class="bt_sm_y bt_ar_b ">View tickets</div></a>
+<a href="/?sid=A3e16S1G0t7G7B2K5E1c&id_playbill=59406&usluga=book&b_time=20:00&b_date_full=2018-06-07&b_date=07%20June#an1"><div class="bt_sm_w">Hall plan</div></a>
+
+</div>
+</div>
+
+<div class="event" style="";>
+<a name="ev60630"></a><a href="/opera/mch_aida/info/sid=A3e16S1G0t7G7B2K5E1c&play_date_from=01-Jun-2018&play_date_to=30-Jun-2018&playbills=60630">
+<div class="epic" style="background-image: url('/photos_info/perfomance/mch_aida/big/1449694552_967130833.jpg');">
+<div class="edatef"><div class="edate">8</div><div class="emonth">June<div class="etime">19:00</div></div></div></div></a>
+<a href="/theatre/mariinsky-theatre/info/sid=A3e16S1G0t7G7B2K5E1c&play_date_from=01-Jun-2018&play_date_to=30-Jun-2018" class="etha">Mariinsky Theatre - Main Stage</a>
+<h2><font face=arial size=2 color=red><i>The Stars of the White Nights 2018</i></font><br><font color=red><i>Stars of the Stars</i></font>&nbsp;  <a href="/opera/mch_aida/info/sid=A3e16S1G0t7G7B2K5E1c&play_date_from=01-Jun-2018&play_date_to=30-Jun-2018&playbills=60630" target="_blank">Giuseppe Verdi &quot;Aida&quot; (opera in four acts)</a></h2>
+<h3>Opera</h3>
+<div class="eprice">
+<div class="ep1">prices start from</div>
+<div class="ep2">145 &euro;</div>
+<div class="ep3" style="display: none;">save up to</div> 
+<div class="ep4" style="display: none;">0%</div>
+</div>
+<div class="promo_mob"><b><div class="block_perf_info__right"><div class="block-message-market"><div class='block-message-market__item temp_short_message'><p><span style='color: red'>In high demand – less than 20 of 1600 tickets left!</span></p></div></div></div></b><br><b><span style="color: red;">Latest booking: 30 minutes ago</span></b><br></div>
+<div class="ebt">
+
+
+<a href="/?sid=A3e16S1G0t7G7B2K5E1c&id_playbill=60630&usluga=book&b_time=19:00&b_date_full=2018-06-08&b_date=08%20June#an1"><div class="bt_sm_y bt_ar_b ">View tickets</div></a>
+<a href="/?sid=A3e16S1G0t7G7B2K5E1c&id_playbill=60630&usluga=book&b_time=19:00&b_date_full=2018-06-08&b_date=08%20June#an1"><div class="bt_sm_w">Hall plan</div></a>
+
+</div>
+</div>
+
+<div class="event" style="";>
+<a name="ev56502"></a><a href="/classical_ballet/Anna_Karenina__ballet_in_two_acts_after_/info/sid=A3e16S1G0t7G7B2K5E1c&play_date_from=01-Jun-2018&play_date_to=30-Jun-2018&playbills=56502">
+<div class="epic" style="background-image: url('/photos_info/perfomance/Anna_Karenina__ballet_in_two_acts_after_/bigm/1524836357_kar.jpg');">
+<div class="edatef"><div class="edate">8</div><div class="emonth">June<div class="etime">19:30</div></div></div></div></a>
+<a href="/theatre/mariinsky-new-theatre/info/sid=A3e16S1G0t7G7B2K5E1c&play_date_from=01-Jun-2018&play_date_to=30-Jun-2018" class="etha">Mariinsky II - New Stage</a>
+<h2><font face=arial size=2 color=red><i>The Stars of the White Nights 2018</i></font><br><font color=red><i>Stars of the Stars</i></font>&nbsp;  <a href="/classical_ballet/Anna_Karenina__ballet_in_two_acts_after_/info/sid=A3e16S1G0t7G7B2K5E1c&play_date_from=01-Jun-2018&play_date_to=30-Jun-2018&playbills=56502" target="_blank">Anna Karenina (ballet in two acts after the novel by Leo Tolstoy)</a></h2>
+<h3>Classical Ballet</h3>
+<div class="eprice">
+<div class="ep1">prices start from</div>
+<div class="ep2">380 &euro;</div>
+<div class="ep3" style="display: none;">save up to</div> 
+<div class="ep4" style="display: none;">0%</div>
+</div>
+<div class="promo_mob"><b><div class="block_perf_info__right"><div class="block-message-market"><div class='block-message-market__item temp_short_message'><p><span style='color: red'>Very popular!</span></p></div></div></div></b><br><b><span style="color: red;">21 people are looking at this moment</span></b><br></div>
+<div class="ebt">
+
+
+<a href="/?sid=A3e16S1G0t7G7B2K5E1c&id_playbill=56502&usluga=book&b_time=19:30&b_date_full=2018-06-08&b_date=08%20June#an1"><div class="bt_sm_y bt_ar_b ">View tickets</div></a>
+<a href="/?sid=A3e16S1G0t7G7B2K5E1c&id_playbill=56502&usluga=book&b_time=19:30&b_date_full=2018-06-08&b_date=08%20June#an1"><div class="bt_sm_w">Hall plan</div></a>
+
+</div>
+</div>
+
+<div class="event" style="";>
+<a name="ev59411"></a><a href="/folk_show/phil_gh_2010-02-19/info/sid=A3e16S1G0t7G7B2K5E1c&play_date_from=01-Jun-2018&play_date_to=30-Jun-2018&playbills=59411">
+<div class="epic" style="background-image: url('/photos_info/perfomance/phil_gh_2010-02-19/bigm/1524839317_nko.jpg');">
+<div class="edatef"><div class="edate">8</div><div class="emonth">June<div class="etime">20:00</div></div></div></div></a>
+<a href="/theatre/folk_show_officer_assembly/info/sid=A3e16S1G0t7G7B2K5E1c&play_date_from=01-Jun-2018&play_date_to=30-Jun-2018" class="etha">Russian Army Folk show</a>
+<h2> <a href="/folk_show/phil_gh_2010-02-19/info/sid=A3e16S1G0t7G7B2K5E1c&play_date_from=01-Jun-2018&play_date_to=30-Jun-2018&playbills=59411" target="_blank">State Song and Dance Ensemble of the Western Military District - Folk Show at the House of Officers</a></h2>
+<h3>Show</h3>
+<div class="eprice">
+<div class="ep1">prices start from</div>
+<div class="ep2">83 &euro;</div>
+<div class="ep3" style="display: none;">save up to</div> 
+<div class="ep4" style="display: none;">0%</div>
+</div>
+
+<div class="ebt">
+
+
+<a href="/?sid=A3e16S1G0t7G7B2K5E1c&id_playbill=59411&usluga=book&b_time=20:00&b_date_full=2018-06-08&b_date=08%20June#an1"><div class="bt_sm_y bt_ar_b ">View tickets</div></a>
+<a href="/?sid=A3e16S1G0t7G7B2K5E1c&id_playbill=59411&usluga=book&b_time=20:00&b_date_full=2018-06-08&b_date=08%20June#an1"><div class="bt_sm_w">Hall plan</div></a>
+
+</div>
+</div>
+
+<div class="event" style="";>
+<a name="ev60631"></a><a href="/opera/mar_pagliacci/info/sid=A3e16S1G0t7G7B2K5E1c&play_date_from=01-Jun-2018&play_date_to=30-Jun-2018&playbills=60631">
+<div class="epic" style="background-image: url('/photos_info/perfomance/mar_pagliacci/bigm/1524860374_1457532060_dsc_1541_izmenenie_razmera.jpg');">
+<div class="edatef"><div class="edate">9</div><div class="emonth">June<div class="etime">20:00</div></div></div></div></a>
+<a href="/theatre/mariinsky-theatre/info/sid=A3e16S1G0t7G7B2K5E1c&play_date_from=01-Jun-2018&play_date_to=30-Jun-2018" class="etha">Mariinsky Theatre - Main Stage</a>
+<h2><font face=arial size=2 color=red><i>The Stars of the White Nights 2018</i></font><br><font color=red><i>Stars of the Stars</i></font>&nbsp;  <a href="/opera/mar_pagliacci/info/sid=A3e16S1G0t7G7B2K5E1c&play_date_from=01-Jun-2018&play_date_to=30-Jun-2018&playbills=60631" target="_blank">Ruggero Leoncavallo &quot;Pagliacci&quot; (opera in two acts and a prologue)</a></h2>
+<h3>Opera</h3>
+<div class="eprice">
+<div class="ep1">prices start from</div>
+<div class="ep2">124 &euro;</div>
+<div class="ep3" style="display: none;">save up to</div> 
+<div class="ep4" style="display: none;">0%</div>
+</div>
+<div class="promo_mob"><b><div class="block_perf_info__right"><div class="block-message-market"><div class='block-message-market__item temp_short_message'><p><span style='color: red'>In high demand – less than 19 of 1600 tickets left!</span></p></div></div></div></b><br><b><span style="color: red;">Latest booking: 22 minutes ago</span></b><br></div>
+<div class="ebt">
+
+
+<a href="/?sid=A3e16S1G0t7G7B2K5E1c&id_playbill=60631&usluga=book&b_time=20:00&b_date_full=2018-06-09&b_date=09%20June#an1"><div class="bt_sm_y bt_ar_b ">View tickets</div></a>
+<a href="/?sid=A3e16S1G0t7G7B2K5E1c&id_playbill=60631&usluga=book&b_time=20:00&b_date_full=2018-06-09&b_date=09%20June#an1"><div class="bt_sm_w">Hall plan</div></a>
+
+</div>
+</div>
+
+<div class="event" style="";>
+<a name="ev61430"></a><a href="/classical_ballet/Anna_Karenina__ballet_in_two_acts_after_/info/sid=A3e16S1G0t7G7B2K5E1c&play_date_from=01-Jun-2018&play_date_to=30-Jun-2018&playbills=61430">
+<div class="epic" style="background-image: url('/photos_info/perfomance/Anna_Karenina__ballet_in_two_acts_after_/bigm/1524836357_kar.jpg');">
+<div class="edatef"><div class="edate">9</div><div class="emonth">June<div class="etime">19:00</div></div></div></div></a>
+<a href="/theatre/mariinsky-new-theatre/info/sid=A3e16S1G0t7G7B2K5E1c&play_date_from=01-Jun-2018&play_date_to=30-Jun-2018" class="etha">Mariinsky II - New Stage</a>
+<h2><font face=arial size=2 color=red><i>The Stars of the White Nights 2018</i></font><br> <a href="/classical_ballet/Anna_Karenina__ballet_in_two_acts_after_/info/sid=A3e16S1G0t7G7B2K5E1c&play_date_from=01-Jun-2018&play_date_to=30-Jun-2018&playbills=61430" target="_blank">Anna Karenina (ballet in two acts after the novel by Leo Tolstoy)</a></h2>
+<h3>Classical Ballet</h3>
+<div class="eprice">
+<div class="ep1">prices start from</div>
+<div class="ep2">154 &euro;</div>
+<div class="ep3" style="display: none;">save up to</div> 
+<div class="ep4" style="display: none;">0%</div>
+</div>
+<div class="promo_mob"><b><div class="block_perf_info__right"><div class="block-message-market"><div class='block-message-market__item temp_short_message'><p><span style='color: red'>Less than 20 of 2200 tickets left!</span></p></div></div></div></b><br><b><span style="color: red;">Booked 10 times today</span></b><br></div>
+<div class="ebt">
+
+
+<a href="/?sid=A3e16S1G0t7G7B2K5E1c&id_playbill=61430&usluga=book&b_time=19:00&b_date_full=2018-06-09&b_date=09%20June#an1"><div class="bt_sm_y bt_ar_b ">View tickets</div></a>
+<a href="/?sid=A3e16S1G0t7G7B2K5E1c&id_playbill=61430&usluga=book&b_time=19:00&b_date_full=2018-06-09&b_date=09%20June#an1"><div class="bt_sm_w">Hall plan</div></a>
+
+</div>
+</div>
+
+<div class="event" style="";>
+<a name="ev59416"></a><a href="/folk_show/phil_gh_2010-02-19/info/sid=A3e16S1G0t7G7B2K5E1c&play_date_from=01-Jun-2018&play_date_to=30-Jun-2018&playbills=59416">
+<div class="epic" style="background-image: url('/photos_info/perfomance/phil_gh_2010-02-19/bigm/1524839317_nko.jpg');">
+<div class="edatef"><div class="edate">9</div><div class="emonth">June<div class="etime">20:00</div></div></div></div></a>
+<a href="/theatre/folk_show_officer_assembly/info/sid=A3e16S1G0t7G7B2K5E1c&play_date_from=01-Jun-2018&play_date_to=30-Jun-2018" class="etha">Russian Army Folk show</a>
+<h2> <a href="/folk_show/phil_gh_2010-02-19/info/sid=A3e16S1G0t7G7B2K5E1c&play_date_from=01-Jun-2018&play_date_to=30-Jun-2018&playbills=59416" target="_blank">State Song and Dance Ensemble of the Western Military District - Folk Show at the House of Officers</a></h2>
+<h3>Show</h3>
+<div class="eprice">
+<div class="ep1">prices start from</div>
+<div class="ep2">83 &euro;</div>
+<div class="ep3" style="display: none;">save up to</div> 
+<div class="ep4" style="display: none;">0%</div>
+</div>
+
+<div class="ebt">
+
+
+<a href="/?sid=A3e16S1G0t7G7B2K5E1c&id_playbill=59416&usluga=book&b_time=20:00&b_date_full=2018-06-09&b_date=09%20June#an1"><div class="bt_sm_y bt_ar_b ">View tickets</div></a>
+<a href="/?sid=A3e16S1G0t7G7B2K5E1c&id_playbill=59416&usluga=book&b_time=20:00&b_date_full=2018-06-09&b_date=09%20June#an1"><div class="bt_sm_w">Hall plan</div></a>
+
+</div>
+</div>
+
+<div class="event" style="";>
+<a name="ev60632"></a><a href="/opera/mar_la_boheme/info/sid=A3e16S1G0t7G7B2K5E1c&play_date_from=01-Jun-2018&play_date_to=30-Jun-2018&playbills=60632">
+<div class="epic" style="background-image: url('/photos_info/perfomance/mar_la_boheme/bigm/1524834853_1.jpg');">
+<div class="edatef"><div class="edate">10</div><div class="emonth">June<div class="etime">19:00</div></div></div></div></a>
+<a href="/theatre/mariinsky-theatre/info/sid=A3e16S1G0t7G7B2K5E1c&play_date_from=01-Jun-2018&play_date_to=30-Jun-2018" class="etha">Mariinsky Theatre - Main Stage</a>
+<h2><font face=arial size=2 color=red><i>The Stars of the White Nights 2018</i></font><br> <a href="/opera/mar_la_boheme/info/sid=A3e16S1G0t7G7B2K5E1c&play_date_from=01-Jun-2018&play_date_to=30-Jun-2018&playbills=60632" target="_blank">Giacomo Puccini &quot;La Boheme&quot; (opera in four acts)</a></h2>
+<h3>Opera</h3>
+<div class="eprice">
+<div class="ep1">prices start from</div>
+<div class="ep2">124 &euro;</div>
+<div class="ep3" style="display: none;">save up to</div> 
+<div class="ep4" style="display: none;">0%</div>
+</div>
+<div class="promo_mob"><b><div class="block_perf_info__right"><div class="block-message-market"><div class='block-message-market__item temp_short_message'><p><span style='color: red'>In high demand!</span></p></div></div></div></b><br></div>
+<div class="ebt">
+
+
+<a href="/?sid=A3e16S1G0t7G7B2K5E1c&id_playbill=60632&usluga=book&b_time=19:00&b_date_full=2018-06-10&b_date=10%20June#an1"><div class="bt_sm_y bt_ar_b ">View tickets</div></a>
+<a href="/?sid=A3e16S1G0t7G7B2K5E1c&id_playbill=60632&usluga=book&b_time=19:00&b_date_full=2018-06-10&b_date=10%20June#an1"><div class="bt_sm_w">Hall plan</div></a>
+
+</div>
+</div>
+
+<div class="event" style="";>
+<a name="ev61431"></a><a href="/classical_ballet/New_Stage_Mariinsky___Jewels/info/sid=A3e16S1G0t7G7B2K5E1c&play_date_from=01-Jun-2018&play_date_to=30-Jun-2018&playbills=61431">
+<div class="epic" style="background-image: url('/photos_info/perfomance/New_Stage_Mariinsky___Jewels/bigm/1524858621_1520105974_a69d8b8d7d23946ab5e9d73df50e0c86bd4b972b.jpg');">
+<div class="edatef"><div class="edate">10</div><div class="emonth">June<div class="etime">19:30</div></div></div></div></a>
+<a href="/theatre/mariinsky-new-theatre/info/sid=A3e16S1G0t7G7B2K5E1c&play_date_from=01-Jun-2018&play_date_to=30-Jun-2018" class="etha">Mariinsky II - New Stage</a>
+<h2><font face=arial size=2 color=red><i>The Stars of the White Nights 2018</i></font><br><font color=red><i>Stars of the Stars</i></font>&nbsp;  <a href="/classical_ballet/New_Stage_Mariinsky___Jewels/info/sid=A3e16S1G0t7G7B2K5E1c&play_date_from=01-Jun-2018&play_date_to=30-Jun-2018&playbills=61431" target="_blank">George Balanchine &quot;Jewels&quot; (ballet in three parts)</a></h2>
+<h3>Classical Ballet</h3>
+<div class="eprice">
+<div class="ep1">prices start from</div>
+<div class="ep2">380 &euro;</div>
+<div class="ep3" style="display: none;">save up to</div> 
+<div class="ep4" style="display: none;">0%</div>
+</div>
+<div class="promo_mob"><b><div class="block_perf_info__right"><div class="block-message-market"><div class='block-message-market__item temp_short_message'><p><span style='color: red'>In high demand!</span></p></div></div></div></b><br></div>
+<div class="ebt">
+
+
+<a href="/?sid=A3e16S1G0t7G7B2K5E1c&id_playbill=61431&usluga=book&b_time=19:30&b_date_full=2018-06-10&b_date=10%20June#an1"><div class="bt_sm_y bt_ar_b ">View tickets</div></a>
+<a href="/?sid=A3e16S1G0t7G7B2K5E1c&id_playbill=61431&usluga=book&b_time=19:30&b_date_full=2018-06-10&b_date=10%20June#an1"><div class="bt_sm_w">Hall plan</div></a>
+
+</div>
+</div>
+
+<div class="event" style="";>
+<a name="ev59422"></a><a href="/folk_show/phil_gh_2010-02-19/info/sid=A3e16S1G0t7G7B2K5E1c&play_date_from=01-Jun-2018&play_date_to=30-Jun-2018&playbills=59422">
+<div class="epic" style="background-image: url('/photos_info/perfomance/phil_gh_2010-02-19/bigm/1524839317_nko.jpg');">
+<div class="edatef"><div class="edate">10</div><div class="emonth">June<div class="etime">20:00</div></div></div></div></a>
+<a href="/theatre/folk_show_officer_assembly/info/sid=A3e16S1G0t7G7B2K5E1c&play_date_from=01-Jun-2018&play_date_to=30-Jun-2018" class="etha">Russian Army Folk show</a>
+<h2> <a href="/folk_show/phil_gh_2010-02-19/info/sid=A3e16S1G0t7G7B2K5E1c&play_date_from=01-Jun-2018&play_date_to=30-Jun-2018&playbills=59422" target="_blank">State Song and Dance Ensemble of the Western Military District - Folk Show at the House of Officers</a></h2>
+<h3>Show</h3>
+<div class="eprice">
+<div class="ep1">prices start from</div>
+<div class="ep2">83 &euro;</div>
+<div class="ep3" style="display: none;">save up to</div> 
+<div class="ep4" style="display: none;">0%</div>
+</div>
+
+<div class="ebt">
+
+
+<a href="/?sid=A3e16S1G0t7G7B2K5E1c&id_playbill=59422&usluga=book&b_time=20:00&b_date_full=2018-06-10&b_date=10%20June#an1"><div class="bt_sm_y bt_ar_b ">View tickets</div></a>
+<a href="/?sid=A3e16S1G0t7G7B2K5E1c&id_playbill=59422&usluga=book&b_time=20:00&b_date_full=2018-06-10&b_date=10%20June#an1"><div class="bt_sm_w">Hall plan</div></a>
+
+</div>
+</div>
+
+<div class="event" style="";>
+<a name="ev60633"></a><a href="/opera/mar_ch_don_quix_massenet/info/sid=A3e16S1G0t7G7B2K5E1c&play_date_from=01-Jun-2018&play_date_to=30-Jun-2018&playbills=60633">
+<div class="epic" style="background-image: url('/photos_info/perfomance/mar_ch_don_quix_massenet/bigm/1524854866_1520104647_146047_or.jpg');">
+<div class="edatef"><div class="edate">11</div><div class="emonth">June<div class="etime">19:00</div></div></div></div></a>
+<a href="/theatre/mariinsky-theatre/info/sid=A3e16S1G0t7G7B2K5E1c&play_date_from=01-Jun-2018&play_date_to=30-Jun-2018" class="etha">Mariinsky Theatre - Main Stage</a>
+<h2><font face=arial size=2 color=red><i>The Stars of the White Nights 2018</i></font><br><font color=red><i>Stars of the Stars</i></font>&nbsp;  <a href="/opera/mar_ch_don_quix_massenet/info/sid=A3e16S1G0t7G7B2K5E1c&play_date_from=01-Jun-2018&play_date_to=30-Jun-2018&playbills=60633" target="_blank">Jules Massenet &quot;Don Quichotte&quot; (opera in five acts)</a></h2>
+<h3>Opera</h3>
+<div class="eprice">
+<div class="ep1">prices start from</div>
+<div class="ep2">82 &euro;</div>
+<div class="ep3" style="display: none;">save up to</div> 
+<div class="ep4" style="display: none;">0%</div>
+</div>
+<div class="promo_mob"><b><div class="block_perf_info__right"><div class="block-message-market"><div class='block-message-market__item temp_short_message'><p><span style='color: red'>In high demand!</span></p></div></div></div></b><br><b><span style="color: red;">Booked 27 times today</span></b><br></div>
+<div class="ebt">
+
+
+<a href="/?sid=A3e16S1G0t7G7B2K5E1c&id_playbill=60633&usluga=book&b_time=19:00&b_date_full=2018-06-11&b_date=11%20June#an1"><div class="bt_sm_y bt_ar_b ">View tickets</div></a>
+<a href="/?sid=A3e16S1G0t7G7B2K5E1c&id_playbill=60633&usluga=book&b_time=19:00&b_date_full=2018-06-11&b_date=11%20June#an1"><div class="bt_sm_w">Hall plan</div></a>
+
+</div>
+</div>
+
+<div class="event" style="";>
+<a name="ev61434"></a><a href="/classical_ballet/New_Stage_Mariinsky___Jewels/info/sid=A3e16S1G0t7G7B2K5E1c&play_date_from=01-Jun-2018&play_date_to=30-Jun-2018&playbills=61434">
+<div class="epic" style="background-image: url('/photos_info/perfomance/New_Stage_Mariinsky___Jewels/bigm/1524858621_1520105974_a69d8b8d7d23946ab5e9d73df50e0c86bd4b972b.jpg');">
+<div class="edatef"><div class="edate">11</div><div class="emonth">June<div class="etime">19:30</div></div></div></div></a>
+<a href="/theatre/mariinsky-new-theatre/info/sid=A3e16S1G0t7G7B2K5E1c&play_date_from=01-Jun-2018&play_date_to=30-Jun-2018" class="etha">Mariinsky II - New Stage</a>
+<h2><font face=arial size=2 color=red><i>The Stars of the White Nights 2018</i></font><br> <a href="/classical_ballet/New_Stage_Mariinsky___Jewels/info/sid=A3e16S1G0t7G7B2K5E1c&play_date_from=01-Jun-2018&play_date_to=30-Jun-2018&playbills=61434" target="_blank">George Balanchine &quot;Jewels&quot; (ballet in three parts)</a></h2>
+<h3>Classical Ballet</h3>
+<div class="eprice">
+<div class="ep1">prices start from</div>
+<div class="ep2">380 &euro;</div>
+<div class="ep3" style="display: none;">save up to</div> 
+<div class="ep4" style="display: none;">0%</div>
+</div>
+<div class="promo_mob"><b><div class="block_perf_info__right"><div class="block-message-market"><div class='block-message-market__item temp_short_message'><p><span style='color: red'>In high demand!</span></p></div></div></div></b><br><b><span style="color: red;">Booked 25 times today</span></b><br></div>
+<div class="ebt">
+
+
+<a href="/?sid=A3e16S1G0t7G7B2K5E1c&id_playbill=61434&usluga=book&b_time=19:30&b_date_full=2018-06-11&b_date=11%20June#an1"><div class="bt_sm_y bt_ar_b ">View tickets</div></a>
+<a href="/?sid=A3e16S1G0t7G7B2K5E1c&id_playbill=61434&usluga=book&b_time=19:30&b_date_full=2018-06-11&b_date=11%20June#an1"><div class="bt_sm_w">Hall plan</div></a>
+
+</div>
+</div>
+
+<div class="event" style="";>
+<a name="ev61388"></a><a href="/concert/Concert_performed_by_Andreyev_State_Russ/info/sid=A3e16S1G0t7G7B2K5E1c&play_date_from=01-Jun-2018&play_date_to=30-Jun-2018&playbills=61388">
+<div class="epic" style="background-image: url('/photos_info/perfomance/Concert_performed_by_Andreyev_State_Russ/bigm/1525081549_01fd60e4fedbf0a6daf7cbf3d8b4a946.jpg');">
+<div class="edatef"><div class="edate">11</div><div class="emonth">June<div class="etime">20:00</div></div></div></div></a>
+<a href="/theatre/philharmonia/info/sid=A3e16S1G0t7G7B2K5E1c&play_date_from=01-Jun-2018&play_date_to=30-Jun-2018" class="etha">Grand Philharmonic Hall</a>
+<h2><font color=red><i>Stars of the Stars</i></font>&nbsp;  <a href="/concert/Concert_performed_by_Andreyev_State_Russ/info/sid=A3e16S1G0t7G7B2K5E1c&play_date_from=01-Jun-2018&play_date_to=30-Jun-2018&playbills=61388" target="_blank">Concert performed by Andreyev State Russian Orchestra. Conductor - Dmitry Khokhlov</a></h2>
+<h3>Concert</h3>
+<div class="eprice">
+<div class="ep1" style="width: 340px;"><span style="color:#ff0000; font-size: 40px;">All seats sold out</span></div>
+<div class="ep2" style="display: none;"> &euro;</div>
+<div class="ep3" style="display: none;">save up to</div> 
+<div class="ep4" style="display: none;">%</div>
+</div>
+
+<div class="ebt">
+
+
+<a href="/?sid=A3e16S1G0t7G7B2K5E1c&id_playbill=61388&usluga=book&b_time=20:00&b_date_full=2018-06-11&b_date=11%20June#an1"><div class="bt_sm_y bt_ar_b bt_sold_out">View tickets</div></a>
+<a href="/?sid=A3e16S1G0t7G7B2K5E1c&id_playbill=61388&usluga=book&b_time=20:00&b_date_full=2018-06-11&b_date=11%20June#an1"><div class="bt_sm_w">Hall plan</div></a>
+
+</div>
+</div>
+
+<div class="event" style="";>
+<a name="ev59426"></a><a href="/folk_show/phil_gh_2010-02-19/info/sid=A3e16S1G0t7G7B2K5E1c&play_date_from=01-Jun-2018&play_date_to=30-Jun-2018&playbills=59426">
+<div class="epic" style="background-image: url('/photos_info/perfomance/phil_gh_2010-02-19/bigm/1524839317_nko.jpg');">
+<div class="edatef"><div class="edate">11</div><div class="emonth">June<div class="etime">20:00</div></div></div></div></a>
+<a href="/theatre/folk_show_officer_assembly/info/sid=A3e16S1G0t7G7B2K5E1c&play_date_from=01-Jun-2018&play_date_to=30-Jun-2018" class="etha">Russian Army Folk show</a>
+<h2> <a href="/folk_show/phil_gh_2010-02-19/info/sid=A3e16S1G0t7G7B2K5E1c&play_date_from=01-Jun-2018&play_date_to=30-Jun-2018&playbills=59426" target="_blank">State Song and Dance Ensemble of the Western Military District - Folk Show at the House of Officers</a></h2>
+<h3>Show</h3>
+<div class="eprice">
+<div class="ep1">prices start from</div>
+<div class="ep2">83 &euro;</div>
+<div class="ep3" style="display: none;">save up to</div> 
+<div class="ep4" style="display: none;">0%</div>
+</div>
+
+<div class="ebt">
+
+
+<a href="/?sid=A3e16S1G0t7G7B2K5E1c&id_playbill=59426&usluga=book&b_time=20:00&b_date_full=2018-06-11&b_date=11%20June#an1"><div class="bt_sm_y bt_ar_b ">View tickets</div></a>
+<a href="/?sid=A3e16S1G0t7G7B2K5E1c&id_playbill=59426&usluga=book&b_time=20:00&b_date_full=2018-06-11&b_date=11%20June#an1"><div class="bt_sm_w">Hall plan</div></a>
+
+</div>
+</div>
+
+<div class="event" style="";>
+<a name="ev60634"></a><a href="/classical_ballet/mar_ex_vaganov/info/sid=A3e16S1G0t7G7B2K5E1c&play_date_from=01-Jun-2018&play_date_to=30-Jun-2018&playbills=60634">
+<div class="epic" style="background-image: url('/photos_info/perfomance/mar_ex_vaganov/big/1458201333_vagan.jpg');">
+<div class="edatef"><div class="edate">12</div><div class="emonth">June<div class="etime">19:00</div></div></div><div class="ecomment" style="">Tickets available only at BalletAndOpera.com</div></div></a>
+<a href="/theatre/mariinsky-theatre/info/sid=A3e16S1G0t7G7B2K5E1c&play_date_from=01-Jun-2018&play_date_to=30-Jun-2018" class="etha">Mariinsky Theatre - Main Stage</a>
+<h2><font face=arial size=2 color=red><i>The Stars of the White Nights 2018</i></font><br> <a href="/classical_ballet/mar_ex_vaganov/info/sid=A3e16S1G0t7G7B2K5E1c&play_date_from=01-Jun-2018&play_date_to=30-Jun-2018&playbills=60634" target="_blank">Graduation performance of the Vaganova Russian Ballet Academy</a></h2>
+<h3>Classical Ballet</h3>
+<div class="eprice">
+<div class="ep1">prices start from</div>
+<div class="ep2">123 &euro;</div>
+<div class="ep3" style="display: none;">save up to</div> 
+<div class="ep4" style="display: none;">0%</div>
+</div>
+<div class="promo_mob"><b><div class="block_perf_info__right"><div class="block-message-market"><div class='block-message-market__item temp_short_message'><p><span style='color: red'>Less than 16 of 1600 tickets left!</span></p></div></div></div></b><br><b><span style="color: red;">Booked 22 times today</span></b><br></div>
+<div class="ebt">
+
+
+<a href="/?sid=A3e16S1G0t7G7B2K5E1c&id_playbill=60634&usluga=book&b_time=19:00&b_date_full=2018-06-12&b_date=12%20June#an1"><div class="bt_sm_y bt_ar_b ">View tickets</div></a>
+<a href="/?sid=A3e16S1G0t7G7B2K5E1c&id_playbill=60634&usluga=book&b_time=19:00&b_date_full=2018-06-12&b_date=12%20June#an1"><div class="bt_sm_w">Hall plan</div></a>
+
+</div>
+</div>
+
+<div class="event" style="";>
+<a name="ev61436"></a><a href="/opera/marnew_falstaff/info/sid=A3e16S1G0t7G7B2K5E1c&play_date_from=01-Jun-2018&play_date_to=30-Jun-2018&playbills=61436">
+<div class="epic" style="background-image: url('/photos_info/perfomance/marnew_falstaff/bigm/1524861121_1454329539.6275.jpg');">
+<div class="edatef"><div class="edate">12</div><div class="emonth">June<div class="etime">19:30</div></div></div></div></a>
+<a href="/theatre/mariinsky-new-theatre/info/sid=A3e16S1G0t7G7B2K5E1c&play_date_from=01-Jun-2018&play_date_to=30-Jun-2018" class="etha">Mariinsky II - New Stage</a>
+<h2><font face=arial size=2 color=red><i>The Stars of the White Nights 2018</i></font><br><font color=#FF0000><b><nobr>! PREMIERE !</nobr></b></font>  <a href="/opera/marnew_falstaff/info/sid=A3e16S1G0t7G7B2K5E1c&play_date_from=01-Jun-2018&play_date_to=30-Jun-2018&playbills=61436" target="_blank">Falstaff (opera in three acts and six scenes)</a></h2>
+<h3>Opera</h3>
+<div class="eprice">
+<div class="ep1">prices start from</div>
+<div class="ep2">126 &euro;</div>
+<div class="ep3" style="display: none;">save up to</div> 
+<div class="ep4" style="display: none;">0%</div>
+</div>
+<div class="promo_mob"><b><div class="block_perf_info__right"><div class="block-message-market"><div class='block-message-market__item temp_short_message'><p><span style='color: red'>In high demand!</span></p></div></div></div></b><br></div>
+<div class="ebt">
+
+
+<a href="/?sid=A3e16S1G0t7G7B2K5E1c&id_playbill=61436&usluga=book&b_time=19:30&b_date_full=2018-06-12&b_date=12%20June#an1"><div class="bt_sm_y bt_ar_b ">View tickets</div></a>
+<a href="/?sid=A3e16S1G0t7G7B2K5E1c&id_playbill=61436&usluga=book&b_time=19:30&b_date_full=2018-06-12&b_date=12%20June#an1"><div class="bt_sm_w">Hall plan</div></a>
+
+</div>
+</div>
+
+<div class="event" style="";>
+<a name="ev59435"></a><a href="/folk_show/phil_gh_2010-02-19/info/sid=A3e16S1G0t7G7B2K5E1c&play_date_from=01-Jun-2018&play_date_to=30-Jun-2018&playbills=59435">
+<div class="epic" style="background-image: url('/photos_info/perfomance/phil_gh_2010-02-19/bigm/1524839317_nko.jpg');">
+<div class="edatef"><div class="edate">12</div><div class="emonth">June<div class="etime">20:00</div></div></div></div></a>
+<a href="/theatre/folk_show_officer_assembly/info/sid=A3e16S1G0t7G7B2K5E1c&play_date_from=01-Jun-2018&play_date_to=30-Jun-2018" class="etha">Russian Army Folk show</a>
+<h2> <a href="/folk_show/phil_gh_2010-02-19/info/sid=A3e16S1G0t7G7B2K5E1c&play_date_from=01-Jun-2018&play_date_to=30-Jun-2018&playbills=59435" target="_blank">State Song and Dance Ensemble of the Western Military District - Folk Show at the House of Officers</a></h2>
+<h3>Show</h3>
+<div class="eprice">
+<div class="ep1">prices start from</div>
+<div class="ep2">83 &euro;</div>
+<div class="ep3" style="display: none;">save up to</div> 
+<div class="ep4" style="display: none;">0%</div>
+</div>
+
+<div class="ebt">
+
+
+<a href="/?sid=A3e16S1G0t7G7B2K5E1c&id_playbill=59435&usluga=book&b_time=20:00&b_date_full=2018-06-12&b_date=12%20June#an1"><div class="bt_sm_y bt_ar_b ">View tickets</div></a>
+<a href="/?sid=A3e16S1G0t7G7B2K5E1c&id_playbill=59435&usluga=book&b_time=20:00&b_date_full=2018-06-12&b_date=12%20June#an1"><div class="bt_sm_w">Hall plan</div></a>
+
+</div>
+</div>
+
+<div class="event" style="";>
+<a name="ev60635"></a><a href="/classical_ballet/romeo-mar/info/sid=A3e16S1G0t7G7B2K5E1c&play_date_from=01-Jun-2018&play_date_to=30-Jun-2018&playbills=60635">
+<div class="epic" style="background-image: url('/photos_info/perfomance/romeo-mar/big/1462057611_romeo_20at_20juliets_20tomb.jpg');">
+<div class="edatef"><div class="edate">13</div><div class="emonth">June<div class="etime">19:00</div></div></div><div class="ecomment" style="">Tickets available only at BalletAndOpera.com</div></div></a>
+<a href="/theatre/mariinsky-theatre/info/sid=A3e16S1G0t7G7B2K5E1c&play_date_from=01-Jun-2018&play_date_to=30-Jun-2018" class="etha">Mariinsky Theatre - Main Stage</a>
+<h2><font face=arial size=2 color=red><i>The Stars of the White Nights 2018</i></font><br><font color=red><i>Stars of the Stars</i></font>&nbsp;  <a href="/classical_ballet/romeo-mar/info/sid=A3e16S1G0t7G7B2K5E1c&play_date_from=01-Jun-2018&play_date_to=30-Jun-2018&playbills=60635" target="_blank">Sergei Prokofiev &quot;Romeo and Juliet&quot; (ballet in three acts (thirteen scenes))</a></h2>
+<h3>Classical Ballet</h3>
+<div class="eprice">
+<div class="ep1">prices start from</div>
+<div class="ep2">249 &euro;</div>
+<div class="ep3"">save up to</div> 
+<div class="ep4"">7%</div>
+</div>
+<div class="promo_mob"><b><div class="block_perf_info__right"><div class="block-message-market"><div class='block-message-market__item temp_short_message'><p><span style='color: red'>Less than 20 of 1600 tickets left!</span></p></div></div></div></b><br><b><span style="color: red;">Booked 13 times today</span></b><br></div>
+<div class="ebt">
+
+
+<a href="/?sid=A3e16S1G0t7G7B2K5E1c&id_playbill=60635&usluga=book&b_time=19:00&b_date_full=2018-06-13&b_date=13%20June#an1"><div class="bt_sm_y bt_ar_b ">View tickets</div></a>
+<a href="/?sid=A3e16S1G0t7G7B2K5E1c&id_playbill=60635&usluga=book&b_time=19:00&b_date_full=2018-06-13&b_date=13%20June#an1"><div class="bt_sm_w">Hall plan</div></a>
+
+</div>
+</div>
+
+<div class="event" style="";>
+<a name="ev61437"></a><a href="/opera/Georges_Bizet__Carmen___Opera_in_2_Acts_/info/sid=A3e16S1G0t7G7B2K5E1c&play_date_from=01-Jun-2018&play_date_to=30-Jun-2018&playbills=61437">
+<div class="epic" style="background-image: url('/photos_info/perfomance/Georges_Bizet__Carmen___Opera_in_2_Acts_/big/1520091581_car-001.jpg');">
+<div class="edatef"><div class="edate">13</div><div class="emonth">June<div class="etime">19:30</div></div></div></div></a>
+<a href="/theatre/mariinsky-new-theatre/info/sid=A3e16S1G0t7G7B2K5E1c&play_date_from=01-Jun-2018&play_date_to=30-Jun-2018" class="etha">Mariinsky II - New Stage</a>
+<h2><font face=arial size=2 color=red><i>The Stars of the White Nights 2018</i></font><br> <a href="/opera/Georges_Bizet__Carmen___Opera_in_2_Acts_/info/sid=A3e16S1G0t7G7B2K5E1c&play_date_from=01-Jun-2018&play_date_to=30-Jun-2018&playbills=61437" target="_blank">Georges Bizet &quot;Carmen&quot; (Opera in 4 Acts)</a></h2>
+<h3>Opera</h3>
+<div class="eprice">
+<div class="ep1">prices start from</div>
+<div class="ep2">169 &euro;</div>
+<div class="ep3"">save up to</div> 
+<div class="ep4"">7%</div>
+</div>
+<div class="promo_mob"><b><div class="block_perf_info__right"><div class="block-message-market"><div class='block-message-market__item temp_short_message'><p><span style='color: red'>In high demand – less than 18 of 2200 tickets left!</span></p></div></div></div></b><br><b><span style="color: red;">5 people are looking at this moment</span></b><br></div>
+<div class="ebt">
+
+
+<a href="/?sid=A3e16S1G0t7G7B2K5E1c&id_playbill=61437&usluga=book&b_time=19:30&b_date_full=2018-06-13&b_date=13%20June#an1"><div class="bt_sm_y bt_ar_b ">View tickets</div></a>
+<a href="/?sid=A3e16S1G0t7G7B2K5E1c&id_playbill=61437&usluga=book&b_time=19:30&b_date_full=2018-06-13&b_date=13%20June#an1"><div class="bt_sm_w">Hall plan</div></a>
+
+</div>
+</div>
+
+<div class="event" style="";>
+<a name="ev61092"></a><a href="/classical_ballet/alex_swan/info/sid=A3e16S1G0t7G7B2K5E1c&play_date_from=01-Jun-2018&play_date_to=30-Jun-2018&playbills=61092">
+<div class="epic" style="background-image: url('/photos_info/perfomance/alex_swan/bigm/1524838947_swa.jpg');">
+<div class="edatef"><div class="edate">13</div><div class="emonth">June<div class="etime">21:00</div></div></div></div></a>
+<a href="/theatre/alexandrinsky/info/sid=A3e16S1G0t7G7B2K5E1c&play_date_from=01-Jun-2018&play_date_to=30-Jun-2018" class="etha">Alexandrinsky Imperial Ballet Theatre</a>
+<h2> <a href="/classical_ballet/alex_swan/info/sid=A3e16S1G0t7G7B2K5E1c&play_date_from=01-Jun-2018&play_date_to=30-Jun-2018&playbills=61092" target="_blank">Peter Tchaikovsky &quot;Swan Lake&quot; (Ballet in 3 Acts)</a></h2>
+<h3>Classical Ballet</h3>
+<div class="eprice">
+<div class="ep1" style="width: 340px;"><span style="color:#ff0000; font-size: 40px;">All seats sold out</span></div>
+<div class="ep2" style="display: none;"> &euro;</div>
+<div class="ep3" style="display: none;">save up to</div> 
+<div class="ep4" style="display: none;">%</div>
+</div>
+
+<div class="ebt">
+
+
+<a href="/?sid=A3e16S1G0t7G7B2K5E1c&id_playbill=61092&usluga=book&b_time=21:00&b_date_full=2018-06-13&b_date=13%20June#an1"><div class="bt_sm_y bt_ar_b bt_sold_out">View tickets</div></a>
+<a href="/?sid=A3e16S1G0t7G7B2K5E1c&id_playbill=61092&usluga=book&b_time=21:00&b_date_full=2018-06-13&b_date=13%20June#an1"><div class="bt_sm_w">Hall plan</div></a>
+
+</div>
+</div>
+
+<div class="event" style="";>
+<a name="ev60520"></a><a href="/classical_ballet/giselle-mus/info/sid=A3e16S1G0t7G7B2K5E1c&play_date_from=01-Jun-2018&play_date_to=30-Jun-2018&playbills=60520">
+<div class="epic" style="background-image: url('/photos_info/perfomance/giselle-mus/bigm/1524856663_1454325298.4227.jpg');">
+<div class="edatef"><div class="edate">13</div><div class="emonth">June<div class="etime">19:30</div></div></div></div></a>
+<a href="/theatre/mikhailovsky/info/sid=A3e16S1G0t7G7B2K5E1c&play_date_from=01-Jun-2018&play_date_to=30-Jun-2018" class="etha">Mikhailovsky Theatre</a>
+<h2> <a href="/classical_ballet/giselle-mus/info/sid=A3e16S1G0t7G7B2K5E1c&play_date_from=01-Jun-2018&play_date_to=30-Jun-2018&playbills=60520" target="_blank">Adolphe Adam &quot;Giselle (Les Wilis)&quot; (Ballet in 2 Acts)</a></h2>
+<h3>Classical Ballet</h3>
+<div class="eprice">
+<div class="ep1">prices start from</div>
+<div class="ep2">245 &euro;</div>
+<div class="ep3"">save up to</div> 
+<div class="ep4"">7%</div>
+</div>
+
+<div class="ebt">
+
+
+<a href="/?sid=A3e16S1G0t7G7B2K5E1c&id_playbill=60520&usluga=book&b_time=19:30&b_date_full=2018-06-13&b_date=13%20June#an1"><div class="bt_sm_y bt_ar_b ">View tickets</div></a>
+<a href="/?sid=A3e16S1G0t7G7B2K5E1c&id_playbill=60520&usluga=book&b_time=19:30&b_date_full=2018-06-13&b_date=13%20June#an1"><div class="bt_sm_w">Hall plan</div></a>
+
+</div>
+</div>
+
+<div class="event" style="";>
+<a name="ev59431"></a><a href="/folk_show/Bagatitsa_the_cossackshow/info/sid=A3e16S1G0t7G7B2K5E1c&play_date_from=01-Jun-2018&play_date_to=30-Jun-2018&playbills=59431">
+<div class="epic" style="background-image: url('/photos_info/perfomance/Bagatitsa_the_cossackshow/bigm/1524854794_1454329834.5451.jpg');">
+<div class="edatef"><div class="edate">13</div><div class="emonth">June<div class="etime">20:00</div></div></div></div></a>
+<a href="/theatre/Palace_Panina/info/sid=A3e16S1G0t7G7B2K5E1c&play_date_from=01-Jun-2018&play_date_to=30-Jun-2018" class="etha">Cossack Folk Show</a>
+<h2> <a href="/folk_show/Bagatitsa_the_cossackshow/info/sid=A3e16S1G0t7G7B2K5E1c&play_date_from=01-Jun-2018&play_date_to=30-Jun-2018&playbills=59431" target="_blank">Unique Russian Cossack Folk Show &quot;Bagatitsa&quot; - Brilliant example of Russian Cossack Dancing, Music, and Singing</a></h2>
+<h3>Show</h3>
+<div class="eprice">
+<div class="ep1">prices start from</div>
+<div class="ep2">85 &euro;</div>
+<div class="ep3"">save up to</div> 
+<div class="ep4"">7%</div>
+</div>
+
+<div class="ebt">
+
+
+<a href="/?sid=A3e16S1G0t7G7B2K5E1c&id_playbill=59431&usluga=book&b_time=20:00&b_date_full=2018-06-13&b_date=13%20June#an1"><div class="bt_sm_y bt_ar_b ">View tickets</div></a>
+<a href="/?sid=A3e16S1G0t7G7B2K5E1c&id_playbill=59431&usluga=book&b_time=20:00&b_date_full=2018-06-13&b_date=13%20June#an1"><div class="bt_sm_w">Hall plan</div></a>
+
+</div>
+</div>
+
+<div class="event" style="";>
+<a name="ev60636"></a><a href="/classical_ballet/mar_ex_vaganov/info/sid=A3e16S1G0t7G7B2K5E1c&play_date_from=01-Jun-2018&play_date_to=30-Jun-2018&playbills=60636">
+<div class="epic" style="background-image: url('/photos_info/perfomance/mar_ex_vaganov/big/1458201333_vagan.jpg');">
+<div class="edatef"><div class="edate">14</div><div class="emonth">June<div class="etime">19:00</div></div></div></div></a>
+<a href="/theatre/mariinsky-theatre/info/sid=A3e16S1G0t7G7B2K5E1c&play_date_from=01-Jun-2018&play_date_to=30-Jun-2018" class="etha">Mariinsky Theatre - Main Stage</a>
+<h2><font face=arial size=2 color=red><i>The Stars of the White Nights 2018</i></font><br> <a href="/classical_ballet/mar_ex_vaganov/info/sid=A3e16S1G0t7G7B2K5E1c&play_date_from=01-Jun-2018&play_date_to=30-Jun-2018&playbills=60636" target="_blank">Graduation performance of the Vaganova Russian Ballet Academy</a></h2>
+<h3>Classical Ballet</h3>
+<div class="eprice">
+<div class="ep1">prices start from</div>
+<div class="ep2">123 &euro;</div>
+<div class="ep3"">save up to</div> 
+<div class="ep4"">7%</div>
+</div>
+<div class="promo_mob"><b><div class="block_perf_info__right"><div class="block-message-market"><div class='block-message-market__item temp_short_message'><p><span style='color: red'>In high demand – less than 19 of 1600 tickets left!</span></p></div></div></div></b><br><b><span style="color: red;">Booked 10 times today</span></b><br></div>
+<div class="ebt">
+
+
+<a href="/?sid=A3e16S1G0t7G7B2K5E1c&id_playbill=60636&usluga=book&b_time=19:00&b_date_full=2018-06-14&b_date=14%20June#an1"><div class="bt_sm_y bt_ar_b ">View tickets</div></a>
+<a href="/?sid=A3e16S1G0t7G7B2K5E1c&id_playbill=60636&usluga=book&b_time=19:00&b_date_full=2018-06-14&b_date=14%20June#an1"><div class="bt_sm_w">Hall plan</div></a>
+
+</div>
+</div>
+
+<div class="event" style="";>
+<a name="ev61497"></a><a href="/opera/Simon_Boccanegra/info/sid=A3e16S1G0t7G7B2K5E1c&play_date_from=01-Jun-2018&play_date_to=30-Jun-2018&playbills=61497">
+<div class="epic" style="background-image: url('/photos_info/perfomance/Simon_Boccanegra/big/1524680835_ba08421e-7719-49e6-8827-fd0555d7fe8d_b.jpg');">
+<div class="edatef"><div class="edate">14</div><div class="emonth">June<div class="etime">20:00</div></div></div></div></a>
+<a href="/theatre/mariinsky-new-theatre/info/sid=A3e16S1G0t7G7B2K5E1c&play_date_from=01-Jun-2018&play_date_to=30-Jun-2018" class="etha">Mariinsky II - New Stage</a>
+<h2><font face=arial size=2 color=red><i>The Stars of the White Nights 2018</i></font><br><font color=red><i>Stars of the Stars</i></font>&nbsp;  <a href="/opera/Simon_Boccanegra/info/sid=A3e16S1G0t7G7B2K5E1c&play_date_from=01-Jun-2018&play_date_to=30-Jun-2018&playbills=61497" target="_blank">Giuseppe Verdi &quot;Simon Boccanegra&quot; (opera with a prologue and three acts ). Co-produced by La Fenice Opera House and Carlo Felice Theater of Genoa</a></h2>
+<h3>Opera</h3>
+<div class="eprice">
+<div class="ep1">prices start from</div>
+<div class="ep2">120 &euro;</div>
+<div class="ep3"">save up to</div> 
+<div class="ep4"">7%</div>
+</div>
+<div class="promo_mob"><b><div class="block_perf_info__right"><div class="block-message-market"><div class='block-message-market__item temp_short_message'><p><span style='color: red'>Less than 18 of 2200 tickets left!</span></p></div></div></div></b><br><b><span style="color: red;">21 people are looking at this moment</span></b><br></div>
+<div class="ebt">
+
+
+<a href="/?sid=A3e16S1G0t7G7B2K5E1c&id_playbill=61497&usluga=book&b_time=20:00&b_date_full=2018-06-14&b_date=14%20June#an1"><div class="bt_sm_y bt_ar_b ">View tickets</div></a>
+<a href="/?sid=A3e16S1G0t7G7B2K5E1c&id_playbill=61497&usluga=book&b_time=20:00&b_date_full=2018-06-14&b_date=14%20June#an1"><div class="bt_sm_w">Hall plan</div></a>
+
+</div>
+</div>
+
+<div class="event" style="";>
+<a name="ev59439"></a><a href="/folk_show/Bagatitsa_the_cossackshow/info/sid=A3e16S1G0t7G7B2K5E1c&play_date_from=01-Jun-2018&play_date_to=30-Jun-2018&playbills=59439">
+<div class="epic" style="background-image: url('/photos_info/perfomance/Bagatitsa_the_cossackshow/bigm/1524854794_1454329834.5451.jpg');">
+<div class="edatef"><div class="edate">14</div><div class="emonth">June<div class="etime">20:00</div></div></div></div></a>
+<a href="/theatre/Palace_Panina/info/sid=A3e16S1G0t7G7B2K5E1c&play_date_from=01-Jun-2018&play_date_to=30-Jun-2018" class="etha">Cossack Folk Show</a>
+<h2> <a href="/folk_show/Bagatitsa_the_cossackshow/info/sid=A3e16S1G0t7G7B2K5E1c&play_date_from=01-Jun-2018&play_date_to=30-Jun-2018&playbills=59439" target="_blank">Unique Russian Cossack Folk Show &quot;Bagatitsa&quot; - Brilliant example of Russian Cossack Dancing, Music, and Singing</a></h2>
+<h3>Show</h3>
+<div class="eprice">
+<div class="ep1">prices start from</div>
+<div class="ep2">85 &euro;</div>
+<div class="ep3"">save up to</div> 
+<div class="ep4"">7%</div>
+</div>
+
+<div class="ebt">
+
+
+<a href="/?sid=A3e16S1G0t7G7B2K5E1c&id_playbill=59439&usluga=book&b_time=20:00&b_date_full=2018-06-14&b_date=14%20June#an1"><div class="bt_sm_y bt_ar_b ">View tickets</div></a>
+<a href="/?sid=A3e16S1G0t7G7B2K5E1c&id_playbill=59439&usluga=book&b_time=20:00&b_date_full=2018-06-14&b_date=14%20June#an1"><div class="bt_sm_w">Hall plan</div></a>
+
+</div>
+</div>
+
+<div class="event" style="";>
+<a name="ev60637"></a><a href="/opera/mar_macbeth/info/sid=A3e16S1G0t7G7B2K5E1c&play_date_from=01-Jun-2018&play_date_to=30-Jun-2018&playbills=60637">
+<div class="epic" style="background-image: url('/photos_info/perfomance/mar_macbeth/bigm/1524843923_mac.jpg');">
+<div class="edatef"><div class="edate">15</div><div class="emonth">June<div class="etime">19:30</div></div></div></div></a>
+<a href="/theatre/mariinsky-theatre/info/sid=A3e16S1G0t7G7B2K5E1c&play_date_from=01-Jun-2018&play_date_to=30-Jun-2018" class="etha">Mariinsky Theatre - Main Stage</a>
+<h2><font face=arial size=2 color=red><i>The Stars of the White Nights 2018</i></font><br><font color=red><i>Stars of the Stars</i></font>&nbsp;<font color=red><i><b>World Opera Star Anna Netrebko</b></i></font>  <a href="/opera/mar_macbeth/info/sid=A3e16S1G0t7G7B2K5E1c&play_date_from=01-Jun-2018&play_date_to=30-Jun-2018&playbills=60637" target="_blank">Giuseppe Verdi &quot;Macbeth&quot; (opera in four acts)</a>  <font color=red><i>Conducted by Maestro Gergiev. Stars of the Stars</i></font></h2>
+<h3>Opera</h3>
+<div class="eprice">
+<div class="ep1">prices start from</div>
+<div class="ep2">539 &euro;</div>
+<div class="ep3"">save up to</div> 
+<div class="ep4"">7%</div>
+</div>
+<div class="promo_mob"><b><div class="block_perf_info__right"><div class="block-message-market"><div class='block-message-market__item temp_short_message'><p><span style='color: red'>In high demand – less than 18 of 1600 tickets left!</span></p></div></div></div></b><br><b><span style="color: red;">10 people are looking at this moment</span></b><br></div>
+<div class="ebt">
+
+
+<a href="/?sid=A3e16S1G0t7G7B2K5E1c&id_playbill=60637&usluga=book&b_time=19:30&b_date_full=2018-06-15&b_date=15%20June#an1"><div class="bt_sm_y bt_ar_b ">View tickets</div></a>
+<a href="/?sid=A3e16S1G0t7G7B2K5E1c&id_playbill=60637&usluga=book&b_time=19:30&b_date_full=2018-06-15&b_date=15%20June#an1"><div class="bt_sm_w">Hall plan</div></a>
+
+</div>
+</div>
+
+<div class="event" style="";>
+<a name="ev61439"></a><a href="/modern_dance/Evening_of_one_act_ballets__Symphony_in_/info/sid=A3e16S1G0t7G7B2K5E1c&play_date_from=01-Jun-2018&play_date_to=30-Jun-2018&playbills=61439">
+<div class="epic" style="background-image: url('/photos_info/perfomance/Evening_of_one_act_ballets__Symphony_in_/bigm/1527087388_noc.jpg');">
+<div class="edatef"><div class="edate">15</div><div class="emonth">June<div class="etime">19:00</div></div></div></div></a>
+<a href="/theatre/mariinsky-new-theatre/info/sid=A3e16S1G0t7G7B2K5E1c&play_date_from=01-Jun-2018&play_date_to=30-Jun-2018" class="etha">Mariinsky II - New Stage</a>
+<h2><font face=arial size=2 color=red><i>The Stars of the White Nights 2018</i></font><br> <a href="/modern_dance/Evening_of_one_act_ballets__Symphony_in_/info/sid=A3e16S1G0t7G7B2K5E1c&play_date_from=01-Jun-2018&play_date_to=30-Jun-2018&playbills=61439" target="_blank">Evening of one-act ballets: Les Noces. Symphony in Three Movements. Concerto DSCH</a></h2>
+<h3>Modern Ballet</h3>
+<div class="eprice">
+<div class="ep1">prices start from</div>
+<div class="ep2">169 &euro;</div>
+<div class="ep3"">save up to</div> 
+<div class="ep4"">7%</div>
+</div>
+<div class="promo_mob"><b><div class="block_perf_info__right"><div class="block-message-market"><div class='block-message-market__item temp_short_message'><p><span style='color: red'>In high demand!</span></p></div></div></div></b><br></div>
+<div class="ebt">
+
+
+<a href="/?sid=A3e16S1G0t7G7B2K5E1c&id_playbill=61439&usluga=book&b_time=19:00&b_date_full=2018-06-15&b_date=15%20June#an1"><div class="bt_sm_y bt_ar_b ">View tickets</div></a>
+<a href="/?sid=A3e16S1G0t7G7B2K5E1c&id_playbill=61439&usluga=book&b_time=19:00&b_date_full=2018-06-15&b_date=15%20June#an1"><div class="bt_sm_w">Hall plan</div></a>
+
+</div>
+</div>
+
+<div class="event" style="";>
+<a name="ev60522"></a><a href="/classical_ballet/mikhail_swan_new/info/sid=A3e16S1G0t7G7B2K5E1c&play_date_from=01-Jun-2018&play_date_to=30-Jun-2018&playbills=60522">
+<div class="epic" style="background-image: url('/photos_info/perfomance/mikhail_swan_new/bigm/1524858156_1454326625.7625.jpg');">
+<div class="edatef"><div class="edate">15</div><div class="emonth">June<div class="etime">19:30</div></div></div></div></a>
+<a href="/theatre/mikhailovsky/info/sid=A3e16S1G0t7G7B2K5E1c&play_date_from=01-Jun-2018&play_date_to=30-Jun-2018" class="etha">Mikhailovsky Theatre</a>
+<h2> <a href="/classical_ballet/mikhail_swan_new/info/sid=A3e16S1G0t7G7B2K5E1c&play_date_from=01-Jun-2018&play_date_to=30-Jun-2018&playbills=60522" target="_blank">&quot;Swan Lake&quot; (ballet in four acts)</a></h2>
+<h3>Classical Ballet</h3>
+<div class="eprice">
+<div class="ep1">prices start from</div>
+<div class="ep2">253 &euro;</div>
+<div class="ep3"">save up to</div> 
+<div class="ep4"">7%</div>
+</div>
+
+<div class="ebt">
+
+
+<a href="/?sid=A3e16S1G0t7G7B2K5E1c&id_playbill=60522&usluga=book&b_time=19:30&b_date_full=2018-06-15&b_date=15%20June#an1"><div class="bt_sm_y bt_ar_b ">View tickets</div></a>
+<a href="/?sid=A3e16S1G0t7G7B2K5E1c&id_playbill=60522&usluga=book&b_time=19:30&b_date_full=2018-06-15&b_date=15%20June#an1"><div class="bt_sm_w">Hall plan</div></a>
+
+</div>
+</div>
+
+<div class="event" style="";>
+<a name="ev59446"></a><a href="/folk_show/phil_gh_2010-02-19/info/sid=A3e16S1G0t7G7B2K5E1c&play_date_from=01-Jun-2018&play_date_to=30-Jun-2018&playbills=59446">
+<div class="epic" style="background-image: url('/photos_info/perfomance/phil_gh_2010-02-19/bigm/1524839317_nko.jpg');">
+<div class="edatef"><div class="edate">15</div><div class="emonth">June<div class="etime">20:00</div></div></div></div></a>
+<a href="/theatre/folk_show_officer_assembly/info/sid=A3e16S1G0t7G7B2K5E1c&play_date_from=01-Jun-2018&play_date_to=30-Jun-2018" class="etha">Russian Army Folk show</a>
+<h2> <a href="/folk_show/phil_gh_2010-02-19/info/sid=A3e16S1G0t7G7B2K5E1c&play_date_from=01-Jun-2018&play_date_to=30-Jun-2018&playbills=59446" target="_blank">State Song and Dance Ensemble of the Western Military District - Folk Show at the House of Officers</a></h2>
+<h3>Show</h3>
+<div class="eprice">
+<div class="ep1">prices start from</div>
+<div class="ep2">83 &euro;</div>
+<div class="ep3"">save up to</div> 
+<div class="ep4"">7%</div>
+</div>
+
+<div class="ebt">
+
+
+<a href="/?sid=A3e16S1G0t7G7B2K5E1c&id_playbill=59446&usluga=book&b_time=20:00&b_date_full=2018-06-15&b_date=15%20June#an1"><div class="bt_sm_y bt_ar_b ">View tickets</div></a>
+<a href="/?sid=A3e16S1G0t7G7B2K5E1c&id_playbill=59446&usluga=book&b_time=20:00&b_date_full=2018-06-15&b_date=15%20June#an1"><div class="bt_sm_w">Hall plan</div></a>
+
+</div>
+</div>
+
+<div class="event" style="";>
+<a name="ev60638"></a><a href="/classical_ballet/mariinsky_midsummer__Mendelssohn/info/sid=A3e16S1G0t7G7B2K5E1c&play_date_from=01-Jun-2018&play_date_to=30-Jun-2018&playbills=60638">
+<div class="epic" style="background-image: url('/photos_info/perfomance/mariinsky_midsummer__Mendelssohn/bigm/1524857782_1449694712_666799192.jpg');">
+<div class="edatef"><div class="edate">16</div><div class="emonth">June<div class="etime">19:00</div></div></div><div class="ecomment" style="">Tickets available only at BalletAndOpera.com</div></div></a>
+<a href="/theatre/mariinsky-theatre/info/sid=A3e16S1G0t7G7B2K5E1c&play_date_from=01-Jun-2018&play_date_to=30-Jun-2018" class="etha">Mariinsky Theatre - Main Stage</a>
+<h2><font face=arial size=2 color=red><i>The Stars of the White Nights 2018</i></font><br> <a href="/classical_ballet/mariinsky_midsummer__Mendelssohn/info/sid=A3e16S1G0t7G7B2K5E1c&play_date_from=01-Jun-2018&play_date_to=30-Jun-2018&playbills=60638" target="_blank">Felix Mendelssohn -Bartholdy &quot;A midsummer night`s dream&quot; (ballet in 2 acts)</a></h2>
+<h3>Classical Ballet</h3>
+<div class="eprice">
+<div class="ep1">prices start from</div>
+<div class="ep2">163 &euro;</div>
+<div class="ep3"">save up to</div> 
+<div class="ep4"">7%</div>
+</div>
+<div class="promo_mob"><b><div class="block_perf_info__right"><div class="block-message-market"><div class='block-message-market__item temp_short_message'><p><span style='color: red'>In high demand – less than 17 of 1600 tickets left!</span></p></div></div></div></b><br><b><span style="color: red;">Booked 24 times today</span></b><br></div>
+<div class="ebt">
+
+
+<a href="/?sid=A3e16S1G0t7G7B2K5E1c&id_playbill=60638&usluga=book&b_time=19:00&b_date_full=2018-06-16&b_date=16%20June#an1"><div class="bt_sm_y bt_ar_b ">View tickets</div></a>
+<a href="/?sid=A3e16S1G0t7G7B2K5E1c&id_playbill=60638&usluga=book&b_time=19:00&b_date_full=2018-06-16&b_date=16%20June#an1"><div class="bt_sm_w">Hall plan</div></a>
+
+</div>
+</div>
+
+<div class="event" style="";>
+<a name="ev61498"></a><a href="/opera/New_Stage_Mariinsky_Un_ballo_in_maschera/info/sid=A3e16S1G0t7G7B2K5E1c&play_date_from=01-Jun-2018&play_date_to=30-Jun-2018&playbills=61498">
+<div class="epic" style="background-image: url('/photos_info/perfomance/New_Stage_Mariinsky_Un_ballo_in_maschera/big/1520092660_mascarad2.jpg');">
+<div class="edatef"><div class="edate">16</div><div class="emonth">June<div class="etime">19:00</div></div></div></div></a>
+<a href="/theatre/mariinsky-new-theatre/info/sid=A3e16S1G0t7G7B2K5E1c&play_date_from=01-Jun-2018&play_date_to=30-Jun-2018" class="etha">Mariinsky II - New Stage</a>
+<h2><font face=arial size=2 color=red><i>The Stars of the White Nights 2018</i></font><br><font color=red><i>Stars of the Stars</i></font>&nbsp;  <a href="/opera/New_Stage_Mariinsky_Un_ballo_in_maschera/info/sid=A3e16S1G0t7G7B2K5E1c&play_date_from=01-Jun-2018&play_date_to=30-Jun-2018&playbills=61498" target="_blank">Un ballo in maschera (Masquerade) (melodrama in three acts)</a></h2>
+<h3>Opera</h3>
+<div class="eprice">
+<div class="ep1">prices start from</div>
+<div class="ep2">154 &euro;</div>
+<div class="ep3"">save up to</div> 
+<div class="ep4"">7%</div>
+</div>
+<div class="promo_mob"><b><div class="block_perf_info__right"><div class="block-message-market"><div class='block-message-market__item temp_short_message'><p><span style='color: red'>In high demand – less than 17 of 2200 tickets left!</span></p></div></div></div></b><br><b><span style="color: red;">27 people are looking at this moment</span></b><br></div>
+<div class="ebt">
+
+
+<a href="/?sid=A3e16S1G0t7G7B2K5E1c&id_playbill=61498&usluga=book&b_time=19:00&b_date_full=2018-06-16&b_date=16%20June#an1"><div class="bt_sm_y bt_ar_b ">View tickets</div></a>
+<a href="/?sid=A3e16S1G0t7G7B2K5E1c&id_playbill=61498&usluga=book&b_time=19:00&b_date_full=2018-06-16&b_date=16%20June#an1"><div class="bt_sm_w">Hall plan</div></a>
+
+</div>
+</div>
+
+<div class="event" style="";>
+<a name="ev59454"></a><a href="/folk_show/Bagatitsa_the_cossackshow/info/sid=A3e16S1G0t7G7B2K5E1c&play_date_from=01-Jun-2018&play_date_to=30-Jun-2018&playbills=59454">
+<div class="epic" style="background-image: url('/photos_info/perfomance/Bagatitsa_the_cossackshow/bigm/1524854794_1454329834.5451.jpg');">
+<div class="edatef"><div class="edate">16</div><div class="emonth">June<div class="etime">20:00</div></div></div></div></a>
+<a href="/theatre/Palace_Panina/info/sid=A3e16S1G0t7G7B2K5E1c&play_date_from=01-Jun-2018&play_date_to=30-Jun-2018" class="etha">Cossack Folk Show</a>
+<h2> <a href="/folk_show/Bagatitsa_the_cossackshow/info/sid=A3e16S1G0t7G7B2K5E1c&play_date_from=01-Jun-2018&play_date_to=30-Jun-2018&playbills=59454" target="_blank">Unique Russian Cossack Folk Show &quot;Bagatitsa&quot; - Brilliant example of Russian Cossack Dancing, Music, and Singing</a></h2>
+<h3>Show</h3>
+<div class="eprice">
+<div class="ep1">prices start from</div>
+<div class="ep2">85 &euro;</div>
+<div class="ep3"">save up to</div> 
+<div class="ep4"">7%</div>
+</div>
+
+<div class="ebt">
+
+
+<a href="/?sid=A3e16S1G0t7G7B2K5E1c&id_playbill=59454&usluga=book&b_time=20:00&b_date_full=2018-06-16&b_date=16%20June#an1"><div class="bt_sm_y bt_ar_b ">View tickets</div></a>
+<a href="/?sid=A3e16S1G0t7G7B2K5E1c&id_playbill=59454&usluga=book&b_time=20:00&b_date_full=2018-06-16&b_date=16%20June#an1"><div class="bt_sm_w">Hall plan</div></a>
+
+</div>
+</div>
+
+<div class="event" style="";>
+<a name="ev60639"></a><a href="/classical_ballet/mariinsky_midsummer__Mendelssohn/info/sid=A3e16S1G0t7G7B2K5E1c&play_date_from=01-Jun-2018&play_date_to=30-Jun-2018&playbills=60639">
+<div class="epic" style="background-image: url('/photos_info/perfomance/mariinsky_midsummer__Mendelssohn/bigm/1524857782_1449694712_666799192.jpg');">
+<div class="edatef"><div class="edate">17</div><div class="emonth">June<div class="etime">19:00</div></div></div><div class="ecomment" style="">Tickets available only at BalletAndOpera.com</div></div></a>
+<a href="/theatre/mariinsky-theatre/info/sid=A3e16S1G0t7G7B2K5E1c&play_date_from=01-Jun-2018&play_date_to=30-Jun-2018" class="etha">Mariinsky Theatre - Main Stage</a>
+<h2><font face=arial size=2 color=red><i>The Stars of the White Nights 2018</i></font><br> <a href="/classical_ballet/mariinsky_midsummer__Mendelssohn/info/sid=A3e16S1G0t7G7B2K5E1c&play_date_from=01-Jun-2018&play_date_to=30-Jun-2018&playbills=60639" target="_blank">Felix Mendelssohn -Bartholdy &quot;A midsummer night`s dream&quot; (ballet in 2 acts)</a></h2>
+<h3>Classical Ballet</h3>
+<div class="eprice">
+<div class="ep1">prices start from</div>
+<div class="ep2">163 &euro;</div>
+<div class="ep3"">save up to</div> 
+<div class="ep4"">7%</div>
+</div>
+<div class="promo_mob"><b><div class="block_perf_info__right"><div class="block-message-market"><div class='block-message-market__item temp_short_message'><p><span style='color: red'>Very popular!</span></p></div></div></div></b><br><b><span style="color: red;">Latest booking: 26 minutes ago</span></b><br></div>
+<div class="ebt">
+
+
+<a href="/?sid=A3e16S1G0t7G7B2K5E1c&id_playbill=60639&usluga=book&b_time=19:00&b_date_full=2018-06-17&b_date=17%20June#an1"><div class="bt_sm_y bt_ar_b ">View tickets</div></a>
+<a href="/?sid=A3e16S1G0t7G7B2K5E1c&id_playbill=60639&usluga=book&b_time=19:00&b_date_full=2018-06-17&b_date=17%20June#an1"><div class="bt_sm_w">Hall plan</div></a>
+
+</div>
+</div>
+
+<div class="event" style="";>
+<a name="ev61499"></a><a href="/opera/Candide/info/sid=A3e16S1G0t7G7B2K5E1c&play_date_from=01-Jun-2018&play_date_to=30-Jun-2018&playbills=61499">
+<div class="epic" style="background-image: url('/photos_info/perfomance/Candide/bigm/1527086132_Leonard-Bernstein.jpg');">
+<div class="edatef"><div class="edate">17</div><div class="emonth">June<div class="etime">18:00</div></div></div></div></a>
+<a href="/theatre/mariinsky-new-theatre/info/sid=A3e16S1G0t7G7B2K5E1c&play_date_from=01-Jun-2018&play_date_to=30-Jun-2018" class="etha">Mariinsky II - New Stage</a>
+<h2><font face=arial size=2 color=red><i>The Stars of the White Nights 2018</i></font><br> <a href="/opera/Candide/info/sid=A3e16S1G0t7G7B2K5E1c&play_date_from=01-Jun-2018&play_date_to=30-Jun-2018&playbills=61499" target="_blank">Music by Leonard Bernstein &quot;Candide&quot; operetta in two acts (concert performance)</a></h2>
+<h3>Opera</h3>
+<div class="eprice">
+<div class="ep1">prices start from</div>
+<div class="ep2">93 &euro;</div>
+<div class="ep3"">save up to</div> 
+<div class="ep4"">7%</div>
+</div>
+<div class="promo_mob"><b><div class="block_perf_info__right"><div class="block-message-market"><div class='block-message-market__item temp_short_message'><p><span style='color: red'>Very popular!</span></p></div></div></div></b><br></div>
+<div class="ebt">
+
+
+<a href="/?sid=A3e16S1G0t7G7B2K5E1c&id_playbill=61499&usluga=book&b_time=18:00&b_date_full=2018-06-17&b_date=17%20June#an1"><div class="bt_sm_y bt_ar_b ">View tickets</div></a>
+<a href="/?sid=A3e16S1G0t7G7B2K5E1c&id_playbill=61499&usluga=book&b_time=18:00&b_date_full=2018-06-17&b_date=17%20June#an1"><div class="bt_sm_w">Hall plan</div></a>
+
+</div>
+</div>
+
+<div class="event" style="";>
+<a name="ev59456"></a><a href="/folk_show/phil_gh_2010-02-19/info/sid=A3e16S1G0t7G7B2K5E1c&play_date_from=01-Jun-2018&play_date_to=30-Jun-2018&playbills=59456">
+<div class="epic" style="background-image: url('/photos_info/perfomance/phil_gh_2010-02-19/bigm/1524839317_nko.jpg');">
+<div class="edatef"><div class="edate">17</div><div class="emonth">June<div class="etime">20:00</div></div></div></div></a>
+<a href="/theatre/folk_show_officer_assembly/info/sid=A3e16S1G0t7G7B2K5E1c&play_date_from=01-Jun-2018&play_date_to=30-Jun-2018" class="etha">Russian Army Folk show</a>
+<h2> <a href="/folk_show/phil_gh_2010-02-19/info/sid=A3e16S1G0t7G7B2K5E1c&play_date_from=01-Jun-2018&play_date_to=30-Jun-2018&playbills=59456" target="_blank">State Song and Dance Ensemble of the Western Military District - Folk Show at the House of Officers</a></h2>
+<h3>Show</h3>
+<div class="eprice">
+<div class="ep1">prices start from</div>
+<div class="ep2">83 &euro;</div>
+<div class="ep3"">save up to</div> 
+<div class="ep4"">7%</div>
+</div>
+
+<div class="ebt">
+
+
+<a href="/?sid=A3e16S1G0t7G7B2K5E1c&id_playbill=59456&usluga=book&b_time=20:00&b_date_full=2018-06-17&b_date=17%20June#an1"><div class="bt_sm_y bt_ar_b ">View tickets</div></a>
+<a href="/?sid=A3e16S1G0t7G7B2K5E1c&id_playbill=59456&usluga=book&b_time=20:00&b_date_full=2018-06-17&b_date=17%20June#an1"><div class="bt_sm_w">Hall plan</div></a>
+
+</div>
+</div>
+
+<div class="event" style="";>
+<a name="ev61511"></a>
+<div class="epic" style="background-image: url('//big/');">
+<div class="edatef"><div class="edate">18</div><div class="emonth">June<div class="etime">19:01</div></div></div></div>
+<a href="/theatre/mariinsky-theatre/info/sid=A3e16S1G0t7G7B2K5E1c&play_date_from=01-Jun-2018&play_date_to=30-Jun-2018" class="etha">Mariinsky Theatre - Main Stage</a>
+<h2><font color=red><i>Sorry, there are no available tickets for this date</i></font>  We regret that there are no available tickets for this date  <font color=red><i>Please visit Mariinsky II (New Theatre)</i></font></h2>
+<h3></h3>
+<div class="eprice">
+<div class="ep1" style="width: 220px;"></div>
+<div class="ep2" style="display: none;">0 &euro;</div>
+<div class="ep3" style="display: none;">save up to</div> 
+<div class="ep4" style="display: none;">7%</div>
+</div>
+
+<div class="ebt">
+
+</div>
+</div>
+
+<div class="event" style="";>
+<a name="ev61500"></a><a href="/concert/New_Stage_Mariinsky_Carmina_Burana/info/sid=A3e16S1G0t7G7B2K5E1c&play_date_from=01-Jun-2018&play_date_to=30-Jun-2018&playbills=61500">
+<div class="epic" style="background-image: url('/photos_info/perfomance/New_Stage_Mariinsky_Carmina_Burana/big/1454329471.5795.jpg');">
+<div class="edatef"><div class="edate">18</div><div class="emonth">June<div class="etime">19:30</div></div></div></div></a>
+<a href="/theatre/mariinsky-new-theatre/info/sid=A3e16S1G0t7G7B2K5E1c&play_date_from=01-Jun-2018&play_date_to=30-Jun-2018" class="etha">Mariinsky II - New Stage</a>
+<h2><font face=arial size=2 color=red><i>The Stars of the White Nights 2018</i></font><br> <a href="/concert/New_Stage_Mariinsky_Carmina_Burana/info/sid=A3e16S1G0t7G7B2K5E1c&play_date_from=01-Jun-2018&play_date_to=30-Jun-2018&playbills=61500" target="_blank">Carl Orff &quot;Carmina Burana&quot; (Stage cantata)</a></h2>
+<h3>Concert</h3>
+<div class="eprice">
+<div class="ep1">prices start from</div>
+<div class="ep2">93 &euro;</div>
+<div class="ep3"">save up to</div> 
+<div class="ep4"">7%</div>
+</div>
+<div class="promo_mob"><b><div class="block_perf_info__right"><div class="block-message-market"><div class='block-message-market__item temp_short_message'><p><span style='color: red'>In high demand – less than 20 of 2200 tickets left!</span></p></div></div></div></b><br></div>
+<div class="ebt">
+
+
+<a href="/?sid=A3e16S1G0t7G7B2K5E1c&id_playbill=61500&usluga=book&b_time=19:30&b_date_full=2018-06-18&b_date=18%20June#an1"><div class="bt_sm_y bt_ar_b ">View tickets</div></a>
+<a href="/?sid=A3e16S1G0t7G7B2K5E1c&id_playbill=61500&usluga=book&b_time=19:30&b_date_full=2018-06-18&b_date=18%20June#an1"><div class="bt_sm_w">Hall plan</div></a>
+
+</div>
+</div>
+
+<div class="event" style="";>
+<a name="ev59460"></a><a href="/classical_ballet/alex_swan/info/sid=A3e16S1G0t7G7B2K5E1c&play_date_from=01-Jun-2018&play_date_to=30-Jun-2018&playbills=59460">
+<div class="epic" style="background-image: url('/photos_info/perfomance/alex_swan/bigm/1524838947_swa.jpg');">
+<div class="edatef"><div class="edate">18</div><div class="emonth">June<div class="etime">20:00</div></div></div></div></a>
+<a href="/theatre/alexandrinsky/info/sid=A3e16S1G0t7G7B2K5E1c&play_date_from=01-Jun-2018&play_date_to=30-Jun-2018" class="etha">Alexandrinsky Imperial Ballet Theatre</a>
+<h2> <a href="/classical_ballet/alex_swan/info/sid=A3e16S1G0t7G7B2K5E1c&play_date_from=01-Jun-2018&play_date_to=30-Jun-2018&playbills=59460" target="_blank">Peter Tchaikovsky &quot;Swan Lake&quot; (Ballet in 3 Acts)</a></h2>
+<h3>Classical Ballet</h3>
+<div class="eprice">
+<div class="ep1">prices start from</div>
+<div class="ep2">207 &euro;</div>
+<div class="ep3"">save up to</div> 
+<div class="ep4"">7%</div>
+</div>
+
+<div class="ebt">
+
+
+<a href="/?sid=A3e16S1G0t7G7B2K5E1c&id_playbill=59460&usluga=book&b_time=20:00&b_date_full=2018-06-18&b_date=18%20June#an1"><div class="bt_sm_y bt_ar_b ">View tickets</div></a>
+<a href="/?sid=A3e16S1G0t7G7B2K5E1c&id_playbill=59460&usluga=book&b_time=20:00&b_date_full=2018-06-18&b_date=18%20June#an1"><div class="bt_sm_w">Hall plan</div></a>
+
+</div>
+</div>
+
+<div class="event" style="";>
+<a name="ev59461"></a><a href="/folk_show/Bagatitsa_the_cossackshow/info/sid=A3e16S1G0t7G7B2K5E1c&play_date_from=01-Jun-2018&play_date_to=30-Jun-2018&playbills=59461">
+<div class="epic" style="background-image: url('/photos_info/perfomance/Bagatitsa_the_cossackshow/bigm/1524854794_1454329834.5451.jpg');">
+<div class="edatef"><div class="edate">18</div><div class="emonth">June<div class="etime">20:00</div></div></div></div></a>
+<a href="/theatre/Palace_Panina/info/sid=A3e16S1G0t7G7B2K5E1c&play_date_from=01-Jun-2018&play_date_to=30-Jun-2018" class="etha">Cossack Folk Show</a>
+<h2> <a href="/folk_show/Bagatitsa_the_cossackshow/info/sid=A3e16S1G0t7G7B2K5E1c&play_date_from=01-Jun-2018&play_date_to=30-Jun-2018&playbills=59461" target="_blank">Unique Russian Cossack Folk Show &quot;Bagatitsa&quot; - Brilliant example of Russian Cossack Dancing, Music, and Singing</a></h2>
+<h3>Show</h3>
+<div class="eprice">
+<div class="ep1">prices start from</div>
+<div class="ep2">85 &euro;</div>
+<div class="ep3"">save up to</div> 
+<div class="ep4"">7%</div>
+</div>
+
+<div class="ebt">
+
+
+<a href="/?sid=A3e16S1G0t7G7B2K5E1c&id_playbill=59461&usluga=book&b_time=20:00&b_date_full=2018-06-18&b_date=18%20June#an1"><div class="bt_sm_y bt_ar_b ">View tickets</div></a>
+<a href="/?sid=A3e16S1G0t7G7B2K5E1c&id_playbill=59461&usluga=book&b_time=20:00&b_date_full=2018-06-18&b_date=18%20June#an1"><div class="bt_sm_w">Hall plan</div></a>
+
+</div>
+</div>
+
+<div class="event" style="";>
+<a name="ev60641"></a><a href="/opera/mar_bert/info/sid=A3e16S1G0t7G7B2K5E1c&play_date_from=01-Jun-2018&play_date_to=30-Jun-2018&playbills=60641">
+<div class="epic" style="background-image: url('/photos_info/perfomance/mar_bert/bigm/1524855597_1457700130_80f24787939d4042d3ba29ab5e26b14f.png');">
+<div class="edatef"><div class="edate">19</div><div class="emonth">June<div class="etime">19:00</div></div></div></div></a>
+<a href="/theatre/mariinsky-theatre/info/sid=A3e16S1G0t7G7B2K5E1c&play_date_from=01-Jun-2018&play_date_to=30-Jun-2018" class="etha">Mariinsky Theatre - Main Stage</a>
+<h2><font face=arial size=2 color=red><i>The Stars of the White Nights 2018</i></font><br> <a href="/opera/mar_bert/info/sid=A3e16S1G0t7G7B2K5E1c&play_date_from=01-Jun-2018&play_date_to=30-Jun-2018&playbills=60641" target="_blank">Sergei Prokofiev &quot;Betrothal in a Monastery&quot; (lyrical comic opera in four acts, nine scenes)</a></h2>
+<h3>Opera</h3>
+<div class="eprice">
+<div class="ep1">prices start from</div>
+<div class="ep2">82 &euro;</div>
+<div class="ep3"">save up to</div> 
+<div class="ep4"">7%</div>
+</div>
+<div class="promo_mob"><b><div class="block_perf_info__right"><div class="block-message-market"><div class='block-message-market__item temp_short_message'><p><span style='color: red'>In high demand – less than 19 of 1600 tickets left!</span></p></div></div></div></b><br><b><span style="color: red;">Booked 19 times today</span></b><br></div>
+<div class="ebt">
+
+
+<a href="/?sid=A3e16S1G0t7G7B2K5E1c&id_playbill=60641&usluga=book&b_time=19:00&b_date_full=2018-06-19&b_date=19%20June#an1"><div class="bt_sm_y bt_ar_b ">View tickets</div></a>
+<a href="/?sid=A3e16S1G0t7G7B2K5E1c&id_playbill=60641&usluga=book&b_time=19:00&b_date_full=2018-06-19&b_date=19%20June#an1"><div class="bt_sm_w">Hall plan</div></a>
+
+</div>
+</div>
+
+<div class="event" style="";>
+<a name="ev59465"></a><a href="/classical_ballet/alex_swan/info/sid=A3e16S1G0t7G7B2K5E1c&play_date_from=01-Jun-2018&play_date_to=30-Jun-2018&playbills=59465">
+<div class="epic" style="background-image: url('/photos_info/perfomance/alex_swan/bigm/1524838947_swa.jpg');">
+<div class="edatef"><div class="edate">19</div><div class="emonth">June<div class="etime">20:00</div></div></div></div></a>
+<a href="/theatre/alexandrinsky/info/sid=A3e16S1G0t7G7B2K5E1c&play_date_from=01-Jun-2018&play_date_to=30-Jun-2018" class="etha">Alexandrinsky Imperial Ballet Theatre</a>
+<h2> <a href="/classical_ballet/alex_swan/info/sid=A3e16S1G0t7G7B2K5E1c&play_date_from=01-Jun-2018&play_date_to=30-Jun-2018&playbills=59465" target="_blank">Peter Tchaikovsky &quot;Swan Lake&quot; (Ballet in 3 Acts)</a></h2>
+<h3>Classical Ballet</h3>
+<div class="eprice">
+<div class="ep1">prices start from</div>
+<div class="ep2">207 &euro;</div>
+<div class="ep3"">save up to</div> 
+<div class="ep4"">7%</div>
+</div>
+
+<div class="ebt">
+
+
+<a href="/?sid=A3e16S1G0t7G7B2K5E1c&id_playbill=59465&usluga=book&b_time=20:00&b_date_full=2018-06-19&b_date=19%20June#an1"><div class="bt_sm_y bt_ar_b ">View tickets</div></a>
+<a href="/?sid=A3e16S1G0t7G7B2K5E1c&id_playbill=59465&usluga=book&b_time=20:00&b_date_full=2018-06-19&b_date=19%20June#an1"><div class="bt_sm_w">Hall plan</div></a>
+
+</div>
+</div>
+
+<div class="event" style="";>
+<a name="ev59466"></a><a href="/folk_show/Bagatitsa_the_cossackshow/info/sid=A3e16S1G0t7G7B2K5E1c&play_date_from=01-Jun-2018&play_date_to=30-Jun-2018&playbills=59466">
+<div class="epic" style="background-image: url('/photos_info/perfomance/Bagatitsa_the_cossackshow/bigm/1524854794_1454329834.5451.jpg');">
+<div class="edatef"><div class="edate">19</div><div class="emonth">June<div class="etime">20:00</div></div></div></div></a>
+<a href="/theatre/Palace_Panina/info/sid=A3e16S1G0t7G7B2K5E1c&play_date_from=01-Jun-2018&play_date_to=30-Jun-2018" class="etha">Cossack Folk Show</a>
+<h2> <a href="/folk_show/Bagatitsa_the_cossackshow/info/sid=A3e16S1G0t7G7B2K5E1c&play_date_from=01-Jun-2018&play_date_to=30-Jun-2018&playbills=59466" target="_blank">Unique Russian Cossack Folk Show &quot;Bagatitsa&quot; - Brilliant example of Russian Cossack Dancing, Music, and Singing</a></h2>
+<h3>Show</h3>
+<div class="eprice">
+<div class="ep1">prices start from</div>
+<div class="ep2">85 &euro;</div>
+<div class="ep3"">save up to</div> 
+<div class="ep4"">7%</div>
+</div>
+
+<div class="ebt">
+
+
+<a href="/?sid=A3e16S1G0t7G7B2K5E1c&id_playbill=59466&usluga=book&b_time=20:00&b_date_full=2018-06-19&b_date=19%20June#an1"><div class="bt_sm_y bt_ar_b ">View tickets</div></a>
+<a href="/?sid=A3e16S1G0t7G7B2K5E1c&id_playbill=59466&usluga=book&b_time=20:00&b_date_full=2018-06-19&b_date=19%20June#an1"><div class="bt_sm_w">Hall plan</div></a>
+
+</div>
+</div>
+
+<div class="event" style="";>
+<a name="ev60642"></a><a href="/classical_ballet/mar_quixote/info/sid=A3e16S1G0t7G7B2K5E1c&play_date_from=01-Jun-2018&play_date_to=30-Jun-2018&playbills=60642">
+<div class="epic" style="background-image: url('/photos_info/perfomance/mar_quixote/big/1520092494_167.jpg');">
+<div class="edatef"><div class="edate">20</div><div class="emonth">June<div class="etime">19:00</div></div></div></div></a>
+<a href="/theatre/mariinsky-theatre/info/sid=A3e16S1G0t7G7B2K5E1c&play_date_from=01-Jun-2018&play_date_to=30-Jun-2018" class="etha">Mariinsky Theatre - Main Stage</a>
+<h2><font face=arial size=2 color=red><i>The Stars of the White Nights 2018</i></font><br> <a href="/classical_ballet/mar_quixote/info/sid=A3e16S1G0t7G7B2K5E1c&play_date_from=01-Jun-2018&play_date_to=30-Jun-2018&playbills=60642" target="_blank">Ludwig Minkus &quot;Don Quixote&quot; (ballet in three acts (six scenes))</a></h2>
+<h3>Classical Ballet</h3>
+<div class="eprice">
+<div class="ep1">prices start from</div>
+<div class="ep2">266 &euro;</div>
+<div class="ep3"">save up to</div> 
+<div class="ep4"">7%</div>
+</div>
+<div class="promo_mob"><b><div class="block_perf_info__right"><div class="block-message-market"><div class='block-message-market__item temp_short_message'><p><span style='color: red'>In high demand – less than 18 of 1600 tickets left!</span></p></div></div></div></b><br><b><span style="color: red;">Booked 4 times today</span></b><br></div>
+<div class="ebt">
+
+
+<a href="/?sid=A3e16S1G0t7G7B2K5E1c&id_playbill=60642&usluga=book&b_time=19:00&b_date_full=2018-06-20&b_date=20%20June#an1"><div class="bt_sm_y bt_ar_b ">View tickets</div></a>
+<a href="/?sid=A3e16S1G0t7G7B2K5E1c&id_playbill=60642&usluga=book&b_time=19:00&b_date_full=2018-06-20&b_date=20%20June#an1"><div class="bt_sm_w">Hall plan</div></a>
+
+</div>
+</div>
+
+<div class="event" style="";>
+<a name="ev61576"></a><a href="/concert/Nobuyuki_Tsujii__piano__and_Valery_Gergi/info/sid=A3e16S1G0t7G7B2K5E1c&play_date_from=01-Jun-2018&play_date_to=30-Jun-2018&playbills=61576">
+<div class="epic" style="background-image: url('/photos_info/perfomance/Nobuyuki_Tsujii__piano__and_Valery_Gergi/bigm/1527324911_nobuyuki-tsujii-2.jpg');">
+<div class="edatef"><div class="edate">20</div><div class="emonth">June<div class="etime">20:00</div></div></div></div></a>
+<a href="/theatre/mariinsky-new-theatre/info/sid=A3e16S1G0t7G7B2K5E1c&play_date_from=01-Jun-2018&play_date_to=30-Jun-2018" class="etha">Mariinsky II - New Stage</a>
+<h2><font face=arial size=2 color=red><i>The Stars of the White Nights 2018</i></font><br><font color=red><i>Stars of the Stars</i></font>&nbsp;<font color=red><i>Conducted by Maestro Gergiev</i></font>  <a href="/concert/Nobuyuki_Tsujii__piano__and_Valery_Gergi/info/sid=A3e16S1G0t7G7B2K5E1c&play_date_from=01-Jun-2018&play_date_to=30-Jun-2018&playbills=61576" target="_blank">Nobuyuki Tsujii (piano) and Valery Gergiev</a></h2>
+<h3>Concert</h3>
+<div class="eprice">
+<div class="ep1">prices start from</div>
+<div class="ep2">99 &euro;</div>
+<div class="ep3"">save up to</div> 
+<div class="ep4"">7%</div>
+</div>
+<div class="promo_mob"><b><div class="block_perf_info__right"><div class="block-message-market"><div class='block-message-market__item temp_short_message'><p><span style='color: red'>Less than 19 of 2200 tickets left!</span></p></div></div></div></b><br><b><span style="color: red;">30 people are looking at this moment</span></b><br></div>
+<div class="ebt">
+
+
+<a href="/?sid=A3e16S1G0t7G7B2K5E1c&id_playbill=61576&usluga=book&b_time=20:00&b_date_full=2018-06-20&b_date=20%20June#an1"><div class="bt_sm_y bt_ar_b ">View tickets</div></a>
+<a href="/?sid=A3e16S1G0t7G7B2K5E1c&id_playbill=61576&usluga=book&b_time=20:00&b_date_full=2018-06-20&b_date=20%20June#an1"><div class="bt_sm_w">Hall plan</div></a>
+
+</div>
+</div>
+
+<div class="event" style="";>
+<a name="ev61392"></a><a href="/concert/An_evening_of_organ_music__Arno_Hartmann/info/sid=A3e16S1G0t7G7B2K5E1c&play_date_from=01-Jun-2018&play_date_to=30-Jun-2018&playbills=61392">
+<div class="epic" style="background-image: url('/photos_info/perfomance/An_evening_of_organ_music__Arno_Hartmann/bigm/1525098192_arnohartmann.jpeg');">
+<div class="edatef"><div class="edate">20</div><div class="emonth">June<div class="etime">20:00</div></div></div></div></a>
+<a href="/theatre/philharmonia/info/sid=A3e16S1G0t7G7B2K5E1c&play_date_from=01-Jun-2018&play_date_to=30-Jun-2018" class="etha">Grand Philharmonic Hall</a>
+<h2> <a href="/concert/An_evening_of_organ_music__Arno_Hartmann/info/sid=A3e16S1G0t7G7B2K5E1c&play_date_from=01-Jun-2018&play_date_to=30-Jun-2018&playbills=61392" target="_blank">An evening of organ music. Arno Hartmann recital.</a></h2>
+<h3>Concert</h3>
+<div class="eprice">
+<div class="ep1" style="width: 340px;"><span style="color:#ff0000; font-size: 40px;">All seats sold out</span></div>
+<div class="ep2" style="display: none;"> &euro;</div>
+<div class="ep3" style="display: none;">save up to</div> 
+<div class="ep4" style="display: none;">%</div>
+</div>
+
+<div class="ebt">
+
+
+<a href="/?sid=A3e16S1G0t7G7B2K5E1c&id_playbill=61392&usluga=book&b_time=20:00&b_date_full=2018-06-20&b_date=20%20June#an1"><div class="bt_sm_y bt_ar_b bt_sold_out">View tickets</div></a>
+<a href="/?sid=A3e16S1G0t7G7B2K5E1c&id_playbill=61392&usluga=book&b_time=20:00&b_date_full=2018-06-20&b_date=20%20June#an1"><div class="bt_sm_w">Hall plan</div></a>
+
+</div>
+</div>
+
+<div class="event" style="";>
+<a name="ev59474"></a><a href="/folk_show/phil_gh_2010-02-19/info/sid=A3e16S1G0t7G7B2K5E1c&play_date_from=01-Jun-2018&play_date_to=30-Jun-2018&playbills=59474">
+<div class="epic" style="background-image: url('/photos_info/perfomance/phil_gh_2010-02-19/bigm/1524839317_nko.jpg');">
+<div class="edatef"><div class="edate">20</div><div class="emonth">June<div class="etime">20:00</div></div></div></div></a>
+<a href="/theatre/folk_show_officer_assembly/info/sid=A3e16S1G0t7G7B2K5E1c&play_date_from=01-Jun-2018&play_date_to=30-Jun-2018" class="etha">Russian Army Folk show</a>
+<h2> <a href="/folk_show/phil_gh_2010-02-19/info/sid=A3e16S1G0t7G7B2K5E1c&play_date_from=01-Jun-2018&play_date_to=30-Jun-2018&playbills=59474" target="_blank">State Song and Dance Ensemble of the Western Military District - Folk Show at the House of Officers</a></h2>
+<h3>Show</h3>
+<div class="eprice">
+<div class="ep1">prices start from</div>
+<div class="ep2">83 &euro;</div>
+<div class="ep3"">save up to</div> 
+<div class="ep4"">7%</div>
+</div>
+
+<div class="ebt">
+
+
+<a href="/?sid=A3e16S1G0t7G7B2K5E1c&id_playbill=59474&usluga=book&b_time=20:00&b_date_full=2018-06-20&b_date=20%20June#an1"><div class="bt_sm_y bt_ar_b ">View tickets</div></a>
+<a href="/?sid=A3e16S1G0t7G7B2K5E1c&id_playbill=59474&usluga=book&b_time=20:00&b_date_full=2018-06-20&b_date=20%20June#an1"><div class="bt_sm_w">Hall plan</div></a>
+
+</div>
+</div>
+
+<div class="event" style="";>
+<a name="ev60643"></a><a href="/classical_ballet/mar_quixote/info/sid=A3e16S1G0t7G7B2K5E1c&play_date_from=01-Jun-2018&play_date_to=30-Jun-2018&playbills=60643">
+<div class="epic" style="background-image: url('/photos_info/perfomance/mar_quixote/big/1520092494_167.jpg');">
+<div class="edatef"><div class="edate">21</div><div class="emonth">June<div class="etime">19:30</div></div></div></div></a>
+<a href="/theatre/mariinsky-theatre/info/sid=A3e16S1G0t7G7B2K5E1c&play_date_from=01-Jun-2018&play_date_to=30-Jun-2018" class="etha">Mariinsky Theatre - Main Stage</a>
+<h2><font face=arial size=2 color=red><i>The Stars of the White Nights 2018</i></font><br> <a href="/classical_ballet/mar_quixote/info/sid=A3e16S1G0t7G7B2K5E1c&play_date_from=01-Jun-2018&play_date_to=30-Jun-2018&playbills=60643" target="_blank">Ludwig Minkus &quot;Don Quixote&quot; (ballet in three acts (six scenes))</a></h2>
+<h3>Classical Ballet</h3>
+<div class="eprice">
+<div class="ep1">prices start from</div>
+<div class="ep2">266 &euro;</div>
+<div class="ep3"">save up to</div> 
+<div class="ep4"">7%</div>
+</div>
+<div class="promo_mob"><b><div class="block_perf_info__right"><div class="block-message-market"><div class='block-message-market__item temp_short_message'><p><span style='color: red'>Less than 17 of 1600 tickets left!</span></p></div></div></div></b><br><b><span style="color: red;">15 people are looking at this moment</span></b><br></div>
+<div class="ebt">
+
+
+<a href="/?sid=A3e16S1G0t7G7B2K5E1c&id_playbill=60643&usluga=book&b_time=19:30&b_date_full=2018-06-21&b_date=21%20June#an1"><div class="bt_sm_y bt_ar_b ">View tickets</div></a>
+<a href="/?sid=A3e16S1G0t7G7B2K5E1c&id_playbill=60643&usluga=book&b_time=19:30&b_date_full=2018-06-21&b_date=21%20June#an1"><div class="bt_sm_w">Hall plan</div></a>
+
+</div>
+</div>
+
+<div class="event" style="";>
+<a name="ev61442"></a><a href="/opera/Nikolai_Rimsky_Korsakov__The_Tsar_s_Brid/info/sid=A3e16S1G0t7G7B2K5E1c&play_date_from=01-Jun-2018&play_date_to=30-Jun-2018&playbills=61442">
+<div class="epic" style="background-image: url('/photos_info/perfomance/Nikolai_Rimsky_Korsakov__The_Tsar_s_Brid/bigm/1527004242_13.jpg');">
+<div class="edatef"><div class="edate">21</div><div class="emonth">June<div class="etime">19:00</div></div></div></div></a>
+<a href="/theatre/mariinsky-new-theatre/info/sid=A3e16S1G0t7G7B2K5E1c&play_date_from=01-Jun-2018&play_date_to=30-Jun-2018" class="etha">Mariinsky II - New Stage</a>
+<h2><font face=arial size=2 color=red><i>The Stars of the White Nights 2018</i></font><br><font color=red><i>Conducted by Maestro Gergiev</i></font> <font color=#FF0000><b><nobr>! PREMIERE !</nobr></b></font>  <a href="/opera/Nikolai_Rimsky_Korsakov__The_Tsar_s_Brid/info/sid=A3e16S1G0t7G7B2K5E1c&play_date_from=01-Jun-2018&play_date_to=30-Jun-2018&playbills=61442" target="_blank">Nikolai Rimsky-Korsakov &quot;The Tsar’s Bride&quot; Opera in four acts</a></h2>
+<h3>Opera</h3>
+<div class="eprice">
+<div class="ep1">prices start from</div>
+<div class="ep2">164 &euro;</div>
+<div class="ep3"">save up to</div> 
+<div class="ep4"">7%</div>
+</div>
+<div class="promo_mob"><b><div class="block_perf_info__right"><div class="block-message-market"><div class='block-message-market__item temp_short_message'><p><span style='color: red'>Very popular!</span></p></div></div></div></b><br><b><span style="color: red;">Latest booking: 26 minutes ago</span></b><br></div>
+<div class="ebt">
+
+
+<a href="/?sid=A3e16S1G0t7G7B2K5E1c&id_playbill=61442&usluga=book&b_time=19:00&b_date_full=2018-06-21&b_date=21%20June#an1"><div class="bt_sm_y bt_ar_b ">View tickets</div></a>
+<a href="/?sid=A3e16S1G0t7G7B2K5E1c&id_playbill=61442&usluga=book&b_time=19:00&b_date_full=2018-06-21&b_date=21%20June#an1"><div class="bt_sm_w">Hall plan</div></a>
+
+</div>
+</div>
+
+<div class="event" style="";>
+<a name="ev59476"></a><a href="/classical_ballet/swanlake-herm/info/sid=A3e16S1G0t7G7B2K5E1c&play_date_from=01-Jun-2018&play_date_to=30-Jun-2018&playbills=59476">
+<div class="epic" style="background-image: url('/photos_info/perfomance/swanlake-herm/bigm/1524851740_1464509202_swanlake2.jpg');">
+<div class="edatef"><div class="edate">21</div><div class="emonth">June<div class="etime">20:00</div></div></div></div></a>
+<a href="/theatre/hermitage-theatre/info/sid=A3e16S1G0t7G7B2K5E1c&play_date_from=01-Jun-2018&play_date_to=30-Jun-2018" class="etha">Hermitage Theatre</a>
+<h2> <a href="/classical_ballet/swanlake-herm/info/sid=A3e16S1G0t7G7B2K5E1c&play_date_from=01-Jun-2018&play_date_to=30-Jun-2018&playbills=59476" target="_blank">Peter Tchaikovsky &quot;Swan Lake&quot; (Fantasy ballet in three acts and four scenes)</a></h2>
+<h3>Classical Ballet</h3>
+<div class="eprice">
+<div class="ep1">prices start from</div>
+<div class="ep2">142 &euro;</div>
+<div class="ep3"">save up to</div> 
+<div class="ep4"">7%</div>
+</div>
+
+<div class="ebt">
+
+
+<a href="/?sid=A3e16S1G0t7G7B2K5E1c&id_playbill=59476&usluga=book&b_time=20:00&b_date_full=2018-06-21&b_date=21%20June#an1"><div class="bt_sm_y bt_ar_b ">View tickets</div></a>
+<a href="/?sid=A3e16S1G0t7G7B2K5E1c&id_playbill=59476&usluga=book&b_time=20:00&b_date_full=2018-06-21&b_date=21%20June#an1"><div class="bt_sm_w">Hall plan</div></a>
+
+</div>
+</div>
+
+<div class="event" style="";>
+<a name="ev59479"></a><a href="/folk_show/phil_gh_2010-02-19/info/sid=A3e16S1G0t7G7B2K5E1c&play_date_from=01-Jun-2018&play_date_to=30-Jun-2018&playbills=59479">
+<div class="epic" style="background-image: url('/photos_info/perfomance/phil_gh_2010-02-19/bigm/1524839317_nko.jpg');">
+<div class="edatef"><div class="edate">21</div><div class="emonth">June<div class="etime">20:00</div></div></div></div></a>
+<a href="/theatre/folk_show_officer_assembly/info/sid=A3e16S1G0t7G7B2K5E1c&play_date_from=01-Jun-2018&play_date_to=30-Jun-2018" class="etha">Russian Army Folk show</a>
+<h2> <a href="/folk_show/phil_gh_2010-02-19/info/sid=A3e16S1G0t7G7B2K5E1c&play_date_from=01-Jun-2018&play_date_to=30-Jun-2018&playbills=59479" target="_blank">State Song and Dance Ensemble of the Western Military District - Folk Show at the House of Officers</a></h2>
+<h3>Show</h3>
+<div class="eprice">
+<div class="ep1">prices start from</div>
+<div class="ep2">83 &euro;</div>
+<div class="ep3"">save up to</div> 
+<div class="ep4"">7%</div>
+</div>
+
+<div class="ebt">
+
+
+<a href="/?sid=A3e16S1G0t7G7B2K5E1c&id_playbill=59479&usluga=book&b_time=20:00&b_date_full=2018-06-21&b_date=21%20June#an1"><div class="bt_sm_y bt_ar_b ">View tickets</div></a>
+<a href="/?sid=A3e16S1G0t7G7B2K5E1c&id_playbill=59479&usluga=book&b_time=20:00&b_date_full=2018-06-21&b_date=21%20June#an1"><div class="bt_sm_w">Hall plan</div></a>
+
+</div>
+</div>
+
+<div class="event" style="";>
+<a name="ev60644"></a><a href="/opera/mar_rigoletto/info/sid=A3e16S1G0t7G7B2K5E1c&play_date_from=01-Jun-2018&play_date_to=30-Jun-2018&playbills=60644">
+<div class="epic" style="background-image: url('/photos_info/perfomance/mar_rigoletto/big/1454325291.7807.jpg');">
+<div class="edatef"><div class="edate">22</div><div class="emonth">June<div class="etime">20:00</div></div></div></div></a>
+<a href="/theatre/mariinsky-theatre/info/sid=A3e16S1G0t7G7B2K5E1c&play_date_from=01-Jun-2018&play_date_to=30-Jun-2018" class="etha">Mariinsky Theatre - Main Stage</a>
+<h2><font face=arial size=2 color=red><i>The Stars of the White Nights 2018</i></font><br> <a href="/opera/mar_rigoletto/info/sid=A3e16S1G0t7G7B2K5E1c&play_date_from=01-Jun-2018&play_date_to=30-Jun-2018&playbills=60644" target="_blank">Giuseppe Verdi &quot;Rigoletto&quot; (melodramma in three acts)</a></h2>
+<h3>Opera</h3>
+<div class="eprice">
+<div class="ep1">prices start from</div>
+<div class="ep2">87 &euro;</div>
+<div class="ep3"">save up to</div> 
+<div class="ep4"">7%</div>
+</div>
+<div class="promo_mob"><b><span style="color: red;">Booked 19 times today</span></b><br></div>
+<div class="ebt">
+
+
+<a href="/?sid=A3e16S1G0t7G7B2K5E1c&id_playbill=60644&usluga=book&b_time=20:00&b_date_full=2018-06-22&b_date=22%20June#an1"><div class="bt_sm_y bt_ar_b ">View tickets</div></a>
+<a href="/?sid=A3e16S1G0t7G7B2K5E1c&id_playbill=60644&usluga=book&b_time=20:00&b_date_full=2018-06-22&b_date=22%20June#an1"><div class="bt_sm_w">Hall plan</div></a>
+
+</div>
+</div>
+
+<div class="event" style="";>
+<a name="ev61446"></a><a href="/classical_ballet/mar2_hooligan_len_sym_sho/info/sid=A3e16S1G0t7G7B2K5E1c&play_date_from=01-Jun-2018&play_date_to=30-Jun-2018&playbills=61446">
+<div class="epic" style="background-image: url('/photos_info/perfomance/mar2_hooligan_len_sym_sho/big/1470398473_0_034_0071.jpg');">
+<div class="edatef"><div class="edate">22</div><div class="emonth">June<div class="etime">19:30</div></div></div></div></a>
+<a href="/theatre/mariinsky-new-theatre/info/sid=A3e16S1G0t7G7B2K5E1c&play_date_from=01-Jun-2018&play_date_to=30-Jun-2018" class="etha">Mariinsky II - New Stage</a>
+<h2><font face=arial size=2 color=red><i>The Stars of the White Nights 2018</i></font><br> <a href="/classical_ballet/mar2_hooligan_len_sym_sho/info/sid=A3e16S1G0t7G7B2K5E1c&play_date_from=01-Jun-2018&play_date_to=30-Jun-2018&playbills=61446" target="_blank">Evening of one-act ballets by Dmitry Shostakovich: &quot;The Young Lady and the Hooligan. Leningrad Symphony&quot;</a></h2>
+<h3>Classical Ballet</h3>
+<div class="eprice">
+<div class="ep1">prices start from</div>
+<div class="ep2">180 &euro;</div>
+<div class="ep3"">save up to</div> 
+<div class="ep4"">7%</div>
+</div>
+<div class="promo_mob"><b><span style="color: red;">Booked 14 times today</span></b><br></div>
+<div class="ebt">
+
+
+<a href="/?sid=A3e16S1G0t7G7B2K5E1c&id_playbill=61446&usluga=book&b_time=19:30&b_date_full=2018-06-22&b_date=22%20June#an1"><div class="bt_sm_y bt_ar_b ">View tickets</div></a>
+<a href="/?sid=A3e16S1G0t7G7B2K5E1c&id_playbill=61446&usluga=book&b_time=19:30&b_date_full=2018-06-22&b_date=22%20June#an1"><div class="bt_sm_w">Hall plan</div></a>
+
+</div>
+</div>
+
+<div class="event" style="";>
+<a name="ev61530"></a><a href="/concert/The_Mariinsky_Orchestra/info/sid=A3e16S1G0t7G7B2K5E1c&play_date_from=01-Jun-2018&play_date_to=30-Jun-2018&playbills=61530">
+<div class="epic" style="background-image: url('/photos_info/perfomance/The_Mariinsky_Orchestra/big/1469790230_gergie.jpg');">
+<div class="edatef"><div class="edate">22</div><div class="emonth">June<div class="etime">19:00</div></div></div></div></a>
+<a href="/theatre/mariinsky-concert-hall/info/sid=A3e16S1G0t7G7B2K5E1c&play_date_from=01-Jun-2018&play_date_to=30-Jun-2018" class="etha">Mariinsky Concert Hall</a>
+<h2><font face=arial size=2 color=red><i>The Stars of the White Nights 2018</i></font><br> <a href="/concert/The_Mariinsky_Orchestra/info/sid=A3e16S1G0t7G7B2K5E1c&play_date_from=01-Jun-2018&play_date_to=30-Jun-2018&playbills=61530" target="_blank">The Mariinsky Orchestra</a></h2>
+<h3>Concert</h3>
+<div class="eprice">
+<div class="ep1">prices start from</div>
+<div class="ep2">92 &euro;</div>
+<div class="ep3"">save up to</div> 
+<div class="ep4"">7%</div>
+</div>
+
+<div class="ebt">
+
+
+<a href="/?sid=A3e16S1G0t7G7B2K5E1c&id_playbill=61530&usluga=book&b_time=19:00&b_date_full=2018-06-22&b_date=22%20June#an1"><div class="bt_sm_y bt_ar_b ">View tickets</div></a>
+<a href="/?sid=A3e16S1G0t7G7B2K5E1c&id_playbill=61530&usluga=book&b_time=19:00&b_date_full=2018-06-22&b_date=22%20June#an1"><div class="bt_sm_w">Hall plan</div></a>
+
+</div>
+</div>
+
+<div class="event" style="";>
+<a name="ev60436"></a><a href="/concert/Beethoven__Slonimsky__Performed_by_St_Pe/info/sid=A3e16S1G0t7G7B2K5E1c&play_date_from=01-Jun-2018&play_date_to=30-Jun-2018&playbills=60436">
+<div class="epic" style="background-image: url('/photos_info/perfomance/Beethoven__Slonimsky__Performed_by_St_Pe/big/1520168000_efc28111452f494ab2cb627d6ef9.jpg');">
+<div class="edatef"><div class="edate">22</div><div class="emonth">June<div class="etime">20:00</div></div></div></div></a>
+<a href="/theatre/philharmonia/info/sid=A3e16S1G0t7G7B2K5E1c&play_date_from=01-Jun-2018&play_date_to=30-Jun-2018" class="etha">Grand Philharmonic Hall</a>
+<h2><font color=red><i>Stars of the Stars</i></font>&nbsp;  <a href="/concert/Beethoven__Slonimsky__Performed_by_St_Pe/info/sid=A3e16S1G0t7G7B2K5E1c&play_date_from=01-Jun-2018&play_date_to=30-Jun-2018&playbills=60436" target="_blank">Beethoven. Slonimsky. Performed by St.Petersburg Symphony Orchestra. Conductor - Vladimir Altschuler.</a></h2>
+<h3>Concert</h3>
+<div class="eprice">
+<div class="ep1">prices start from</div>
+<div class="ep2">92 &euro;</div>
+<div class="ep3"">save up to</div> 
+<div class="ep4"">7%</div>
+</div>
+
+<div class="ebt">
+
+
+<a href="/?sid=A3e16S1G0t7G7B2K5E1c&id_playbill=60436&usluga=book&b_time=20:00&b_date_full=2018-06-22&b_date=22%20June#an1"><div class="bt_sm_y bt_ar_b ">View tickets</div></a>
+<a href="/?sid=A3e16S1G0t7G7B2K5E1c&id_playbill=60436&usluga=book&b_time=20:00&b_date_full=2018-06-22&b_date=22%20June#an1"><div class="bt_sm_w">Hall plan</div></a>
+
+</div>
+</div>
+
+<div class="event" style="";>
+<a name="ev59483"></a><a href="/folk_show/phil_gh_2010-02-19/info/sid=A3e16S1G0t7G7B2K5E1c&play_date_from=01-Jun-2018&play_date_to=30-Jun-2018&playbills=59483">
+<div class="epic" style="background-image: url('/photos_info/perfomance/phil_gh_2010-02-19/bigm/1524839317_nko.jpg');">
+<div class="edatef"><div class="edate">22</div><div class="emonth">June<div class="etime">20:00</div></div></div></div></a>
+<a href="/theatre/folk_show_officer_assembly/info/sid=A3e16S1G0t7G7B2K5E1c&play_date_from=01-Jun-2018&play_date_to=30-Jun-2018" class="etha">Russian Army Folk show</a>
+<h2> <a href="/folk_show/phil_gh_2010-02-19/info/sid=A3e16S1G0t7G7B2K5E1c&play_date_from=01-Jun-2018&play_date_to=30-Jun-2018&playbills=59483" target="_blank">State Song and Dance Ensemble of the Western Military District - Folk Show at the House of Officers</a></h2>
+<h3>Show</h3>
+<div class="eprice">
+<div class="ep1">prices start from</div>
+<div class="ep2">83 &euro;</div>
+<div class="ep3"">save up to</div> 
+<div class="ep4"">7%</div>
+</div>
+
+<div class="ebt">
+
+
+<a href="/?sid=A3e16S1G0t7G7B2K5E1c&id_playbill=59483&usluga=book&b_time=20:00&b_date_full=2018-06-22&b_date=22%20June#an1"><div class="bt_sm_y bt_ar_b ">View tickets</div></a>
+<a href="/?sid=A3e16S1G0t7G7B2K5E1c&id_playbill=59483&usluga=book&b_time=20:00&b_date_full=2018-06-22&b_date=22%20June#an1"><div class="bt_sm_w">Hall plan</div></a>
+
+</div>
+</div>
+
+<div class="event" style="";>
+<a name="ev60645"></a><a href="/classical_ballet/Edouard_Deldevez__Ludwig_Minkus_and_Ricc/info/sid=A3e16S1G0t7G7B2K5E1c&play_date_from=01-Jun-2018&play_date_to=30-Jun-2018&playbills=60645">
+<div class="epic" style="background-image: url('/photos_info/perfomance/Edouard_Deldevez__Ludwig_Minkus_and_Ricc/big/1490953363_pahit.jpg');">
+<div class="edatef"><div class="edate">23</div><div class="emonth">June<div class="etime">19:00</div></div></div></div></a>
+<a href="/theatre/mariinsky-theatre/info/sid=A3e16S1G0t7G7B2K5E1c&play_date_from=01-Jun-2018&play_date_to=30-Jun-2018" class="etha">Mariinsky Theatre - Main Stage</a>
+<h2><font face=arial size=2 color=red><i>The Stars of the White Nights 2018</i></font><br> <a href="/classical_ballet/Edouard_Deldevez__Ludwig_Minkus_and_Ricc/info/sid=A3e16S1G0t7G7B2K5E1c&play_date_from=01-Jun-2018&play_date_to=30-Jun-2018&playbills=60645" target="_blank">Edouard Deldevez, Ludwig Minkus and Riccardo Drigo &quot;Paquita&quot; ballet in three acts</a></h2>
+<h3>Classical Ballet</h3>
+<div class="eprice">
+<div class="ep1">prices start from</div>
+<div class="ep2">174 &euro;</div>
+<div class="ep3"">save up to</div> 
+<div class="ep4"">7%</div>
+</div>
+<div class="promo_mob"></div>
+<div class="ebt">
+
+
+<a href="/?sid=A3e16S1G0t7G7B2K5E1c&id_playbill=60645&usluga=book&b_time=19:00&b_date_full=2018-06-23&b_date=23%20June#an1"><div class="bt_sm_y bt_ar_b ">View tickets</div></a>
+<a href="/?sid=A3e16S1G0t7G7B2K5E1c&id_playbill=60645&usluga=book&b_time=19:00&b_date_full=2018-06-23&b_date=23%20June#an1"><div class="bt_sm_w">Hall plan</div></a>
+
+</div>
+</div>
+
+<div class="event" style="";>
+<a name="ev61451"></a><a href="/opera/New_Stage_Mariinsky_Il_trovatore/info/sid=A3e16S1G0t7G7B2K5E1c&play_date_from=01-Jun-2018&play_date_to=30-Jun-2018&playbills=61451">
+<div class="epic" style="background-image: url('/photos_info/perfomance/New_Stage_Mariinsky_Il_trovatore/big/1524678619__dsc4701_ece414c7.jpg');">
+<div class="edatef"><div class="edate">23</div><div class="emonth">June<div class="etime">18:00</div></div></div></div></a>
+<a href="/theatre/mariinsky-new-theatre/info/sid=A3e16S1G0t7G7B2K5E1c&play_date_from=01-Jun-2018&play_date_to=30-Jun-2018" class="etha">Mariinsky II - New Stage</a>
+<h2><font face=arial size=2 color=red><i>The Stars of the White Nights 2018</i></font><br><font color=red><i>Stars of the Stars</i></font>&nbsp; <font color=red><i>Conducted by Maestro Gergiev</i></font>  <a href="/opera/New_Stage_Mariinsky_Il_trovatore/info/sid=A3e16S1G0t7G7B2K5E1c&play_date_from=01-Jun-2018&play_date_to=30-Jun-2018&playbills=61451" target="_blank">Giuseppe Verdi &quot;Il trovatore&quot; (opera in four acts )</a></h2>
+<h3>Opera</h3>
+<div class="eprice">
+<div class="ep1">prices start from</div>
+<div class="ep2">164 &euro;</div>
+<div class="ep3"">save up to</div> 
+<div class="ep4"">7%</div>
+</div>
+<div class="promo_mob"><b><span style="color: red;">Latest booking: 18 minutes ago</span></b><br></div>
+<div class="ebt">
+
+
+<a href="/?sid=A3e16S1G0t7G7B2K5E1c&id_playbill=61451&usluga=book&b_time=18:00&b_date_full=2018-06-23&b_date=23%20June#an1"><div class="bt_sm_y bt_ar_b ">View tickets</div></a>
+<a href="/?sid=A3e16S1G0t7G7B2K5E1c&id_playbill=61451&usluga=book&b_time=18:00&b_date_full=2018-06-23&b_date=23%20June#an1"><div class="bt_sm_w">Hall plan</div></a>
+
+</div>
+</div>
+
+<div class="event" style="";>
+<a name="ev60528"></a><a href="/classical_ballet/mussorgsky_Nutcracker_nacho/info/sid=A3e16S1G0t7G7B2K5E1c&play_date_from=01-Jun-2018&play_date_to=30-Jun-2018&playbills=60528">
+<div class="epic" style="background-image: url('/photos_info/perfomance/mussorgsky_Nutcracker_nacho/big/1454329571.5163.jpg');">
+<div class="edatef"><div class="edate">23</div><div class="emonth">June<div class="etime">19:30</div></div></div></div></a>
+<a href="/theatre/mikhailovsky/info/sid=A3e16S1G0t7G7B2K5E1c&play_date_from=01-Jun-2018&play_date_to=30-Jun-2018" class="etha">Mikhailovsky Theatre</a>
+<h2> <a href="/classical_ballet/mussorgsky_Nutcracker_nacho/info/sid=A3e16S1G0t7G7B2K5E1c&play_date_from=01-Jun-2018&play_date_to=30-Jun-2018&playbills=60528" target="_blank">Peter Tchaikovsky &quot;The Nutcracker&quot; (Ballet in 2 Acts).Choreography by Nacho Duato</a></h2>
+<h3>Classical Ballet</h3>
+<div class="eprice">
+<div class="ep1">prices start from</div>
+<div class="ep2">238 &euro;</div>
+<div class="ep3"">save up to</div> 
+<div class="ep4"">7%</div>
+</div>
+
+<div class="ebt">
+
+
+<a href="/?sid=A3e16S1G0t7G7B2K5E1c&id_playbill=60528&usluga=book&b_time=19:30&b_date_full=2018-06-23&b_date=23%20June#an1"><div class="bt_sm_y bt_ar_b ">View tickets</div></a>
+<a href="/?sid=A3e16S1G0t7G7B2K5E1c&id_playbill=60528&usluga=book&b_time=19:30&b_date_full=2018-06-23&b_date=23%20June#an1"><div class="bt_sm_w">Hall plan</div></a>
+
+</div>
+</div>
+
+<div class="event" style="";>
+<a name="ev61566"></a><a href="/concert/mar_ch_brahms_german_requiem/info/sid=A3e16S1G0t7G7B2K5E1c&play_date_from=01-Jun-2018&play_date_to=30-Jun-2018&playbills=61566">
+<div class="epic" style="background-image: url('/photos_info/perfomance/mar_ch_brahms_german_requiem/big/1454326874.534.jpg');">
+<div class="edatef"><div class="edate">23</div><div class="emonth">June<div class="etime">20:00</div></div></div></div></a>
+<a href="/theatre/mariinsky-concert-hall/info/sid=A3e16S1G0t7G7B2K5E1c&play_date_from=01-Jun-2018&play_date_to=30-Jun-2018" class="etha">Mariinsky Concert Hall</a>
+<h2><font face=arial size=2 color=red><i>The Stars of the White Nights 2018</i></font><br> <a href="/concert/mar_ch_brahms_german_requiem/info/sid=A3e16S1G0t7G7B2K5E1c&play_date_from=01-Jun-2018&play_date_to=30-Jun-2018&playbills=61566" target="_blank">Brahms - German Requiem.</a></h2>
+<h3>Concert</h3>
+<div class="eprice">
+<div class="ep1">prices start from</div>
+<div class="ep2">178 &euro;</div>
+<div class="ep3"">save up to</div> 
+<div class="ep4"">7%</div>
+</div>
+
+<div class="ebt">
+
+
+<a href="/?sid=A3e16S1G0t7G7B2K5E1c&id_playbill=61566&usluga=book&b_time=20:00&b_date_full=2018-06-23&b_date=23%20June#an1"><div class="bt_sm_y bt_ar_b ">View tickets</div></a>
+<a href="/?sid=A3e16S1G0t7G7B2K5E1c&id_playbill=61566&usluga=book&b_time=20:00&b_date_full=2018-06-23&b_date=23%20June#an1"><div class="bt_sm_w">Hall plan</div></a>
+
+</div>
+</div>
+
+<div class="event" style="";>
+<a name="ev58524"></a><a href="/folk_show/feel_russian/info/sid=A3e16S1G0t7G7B2K5E1c&play_date_from=01-Jun-2018&play_date_to=30-Jun-2018&playbills=58524">
+<div class="epic" style="background-image: url('/photos_info/perfomance/feel_russian/bigm/1524836826_1111.jpg');">
+<div class="edatef"><div class="edate">23</div><div class="emonth">June<div class="etime">19:00</div></div></div></div></a>
+<a href="/theatre/folkdance/info/sid=A3e16S1G0t7G7B2K5E1c&play_date_from=01-Jun-2018&play_date_to=30-Jun-2018" class="etha">Folk Show</a>
+<h2> <a href="/folk_show/feel_russian/info/sid=A3e16S1G0t7G7B2K5E1c&play_date_from=01-Jun-2018&play_date_to=30-Jun-2018&playbills=58524" target="_blank">Unique Folk Programm Feel Yourself Russian at Nikolaevsky Palace</a></h2>
+<h3>Show</h3>
+<div class="eprice">
+<div class="ep1">prices start from</div>
+<div class="ep2">79 &euro;</div>
+<div class="ep3"">save up to</div> 
+<div class="ep4"">7%</div>
+</div>
+
+<div class="ebt">
+
+
+<a href="/?sid=A3e16S1G0t7G7B2K5E1c&id_playbill=58524&usluga=book&b_time=19:00&b_date_full=2018-06-23&b_date=23%20June#an1"><div class="bt_sm_y bt_ar_b ">View tickets</div></a>
+<a href="/?sid=A3e16S1G0t7G7B2K5E1c&id_playbill=58524&usluga=book&b_time=19:00&b_date_full=2018-06-23&b_date=23%20June#an1"><div class="bt_sm_w">Hall plan</div></a>
+
+</div>
+</div>
+
+<div class="event" style="";>
+<a name="ev60646"></a><a href="/classical_ballet/Edouard_Deldevez__Ludwig_Minkus_and_Ricc/info/sid=A3e16S1G0t7G7B2K5E1c&play_date_from=01-Jun-2018&play_date_to=30-Jun-2018&playbills=60646">
+<div class="epic" style="background-image: url('/photos_info/perfomance/Edouard_Deldevez__Ludwig_Minkus_and_Ricc/big/1490953363_pahit.jpg');">
+<div class="edatef"><div class="edate">24</div><div class="emonth">June<div class="etime">19:00</div></div></div><div class="ecomment" style="">Tickets available only at BalletAndOpera.com</div></div></a>
+<a href="/theatre/mariinsky-theatre/info/sid=A3e16S1G0t7G7B2K5E1c&play_date_from=01-Jun-2018&play_date_to=30-Jun-2018" class="etha">Mariinsky Theatre - Main Stage</a>
+<h2><font face=arial size=2 color=red><i>The Stars of the White Nights 2018</i></font><br> <a href="/classical_ballet/Edouard_Deldevez__Ludwig_Minkus_and_Ricc/info/sid=A3e16S1G0t7G7B2K5E1c&play_date_from=01-Jun-2018&play_date_to=30-Jun-2018&playbills=60646" target="_blank">Edouard Deldevez, Ludwig Minkus and Riccardo Drigo &quot;Paquita&quot; ballet in three acts</a></h2>
+<h3>Classical Ballet</h3>
+<div class="eprice">
+<div class="ep1">prices start from</div>
+<div class="ep2">174 &euro;</div>
+<div class="ep3"">save up to</div> 
+<div class="ep4"">7%</div>
+</div>
+<div class="promo_mob"><b><span style="color: red;">Latest booking: 26 minutes ago</span></b><br></div>
+<div class="ebt">
+
+
+<a href="/?sid=A3e16S1G0t7G7B2K5E1c&id_playbill=60646&usluga=book&b_time=19:00&b_date_full=2018-06-24&b_date=24%20June#an1"><div class="bt_sm_y bt_ar_b ">View tickets</div></a>
+<a href="/?sid=A3e16S1G0t7G7B2K5E1c&id_playbill=60646&usluga=book&b_time=19:00&b_date_full=2018-06-24&b_date=24%20June#an1"><div class="bt_sm_w">Hall plan</div></a>
+
+</div>
+</div>
+
+<div class="event" style="";>
+<a name="ev61443"></a><a href="/opera/Nikolai_Rimsky_Korsakov__The_Tsar_s_Brid/info/sid=A3e16S1G0t7G7B2K5E1c&play_date_from=01-Jun-2018&play_date_to=30-Jun-2018&playbills=61443">
+<div class="epic" style="background-image: url('/photos_info/perfomance/Nikolai_Rimsky_Korsakov__The_Tsar_s_Brid/bigm/1527004242_13.jpg');">
+<div class="edatef"><div class="edate">24</div><div class="emonth">June<div class="etime">19:00</div></div></div></div></a>
+<a href="/theatre/mariinsky-new-theatre/info/sid=A3e16S1G0t7G7B2K5E1c&play_date_from=01-Jun-2018&play_date_to=30-Jun-2018" class="etha">Mariinsky II - New Stage</a>
+<h2><font face=arial size=2 color=red><i>The Stars of the White Nights 2018</i></font><br><font color=red><i>Conducted by Maestro Gergiev</i></font> <font color=#FF0000><b><nobr>! PREMIERE !</nobr></b></font>  <a href="/opera/Nikolai_Rimsky_Korsakov__The_Tsar_s_Brid/info/sid=A3e16S1G0t7G7B2K5E1c&play_date_from=01-Jun-2018&play_date_to=30-Jun-2018&playbills=61443" target="_blank">Nikolai Rimsky-Korsakov &quot;The Tsar’s Bride&quot; Opera in four acts</a></h2>
+<h3>Opera</h3>
+<div class="eprice">
+<div class="ep1">prices start from</div>
+<div class="ep2">164 &euro;</div>
+<div class="ep3"">save up to</div> 
+<div class="ep4"">7%</div>
+</div>
+<div class="promo_mob"></div>
+<div class="ebt">
+
+
+<a href="/?sid=A3e16S1G0t7G7B2K5E1c&id_playbill=61443&usluga=book&b_time=19:00&b_date_full=2018-06-24&b_date=24%20June#an1"><div class="bt_sm_y bt_ar_b ">View tickets</div></a>
+<a href="/?sid=A3e16S1G0t7G7B2K5E1c&id_playbill=61443&usluga=book&b_time=19:00&b_date_full=2018-06-24&b_date=24%20June#an1"><div class="bt_sm_w">Hall plan</div></a>
+
+</div>
+</div>
+
+<div class="event" style="";>
+<a name="ev61568"></a><a href="/concert/mch_2012__07__10/info/sid=A3e16S1G0t7G7B2K5E1c&play_date_from=01-Jun-2018&play_date_to=30-Jun-2018&playbills=61568">
+<div class="epic" style="background-image: url('/photos_info/perfomance/mch_2012__07__10/big/1454328659.2235.jpg');">
+<div class="edatef"><div class="edate">24</div><div class="emonth">June<div class="etime">20:00</div></div></div></div></a>
+<a href="/theatre/mariinsky-concert-hall/info/sid=A3e16S1G0t7G7B2K5E1c&play_date_from=01-Jun-2018&play_date_to=30-Jun-2018" class="etha">Mariinsky Concert Hall</a>
+<h2><font face=arial size=2 color=red><i>The Stars of the White Nights 2018</i></font><br> <a href="/concert/mch_2012__07__10/info/sid=A3e16S1G0t7G7B2K5E1c&play_date_from=01-Jun-2018&play_date_to=30-Jun-2018&playbills=61568" target="_blank">Piano Recital. Nobuyuki Tsujii (Japan).</a></h2>
+<h3>Concert</h3>
+<div class="eprice">
+<div class="ep1">prices start from</div>
+<div class="ep2">139 &euro;</div>
+<div class="ep3"">save up to</div> 
+<div class="ep4"">7%</div>
+</div>
+
+<div class="ebt">
+
+
+<a href="/?sid=A3e16S1G0t7G7B2K5E1c&id_playbill=61568&usluga=book&b_time=20:00&b_date_full=2018-06-24&b_date=24%20June#an1"><div class="bt_sm_y bt_ar_b ">View tickets</div></a>
+<a href="/?sid=A3e16S1G0t7G7B2K5E1c&id_playbill=61568&usluga=book&b_time=20:00&b_date_full=2018-06-24&b_date=24%20June#an1"><div class="bt_sm_w">Hall plan</div></a>
+
+</div>
+</div>
+
+<div class="event" style="";>
+<a name="ev59492"></a><a href="/folk_show/phil_gh_2010-02-19/info/sid=A3e16S1G0t7G7B2K5E1c&play_date_from=01-Jun-2018&play_date_to=30-Jun-2018&playbills=59492">
+<div class="epic" style="background-image: url('/photos_info/perfomance/phil_gh_2010-02-19/bigm/1524839317_nko.jpg');">
+<div class="edatef"><div class="edate">24</div><div class="emonth">June<div class="etime">20:00</div></div></div></div></a>
+<a href="/theatre/folk_show_officer_assembly/info/sid=A3e16S1G0t7G7B2K5E1c&play_date_from=01-Jun-2018&play_date_to=30-Jun-2018" class="etha">Russian Army Folk show</a>
+<h2> <a href="/folk_show/phil_gh_2010-02-19/info/sid=A3e16S1G0t7G7B2K5E1c&play_date_from=01-Jun-2018&play_date_to=30-Jun-2018&playbills=59492" target="_blank">State Song and Dance Ensemble of the Western Military District - Folk Show at the House of Officers</a></h2>
+<h3>Show</h3>
+<div class="eprice">
+<div class="ep1">prices start from</div>
+<div class="ep2">83 &euro;</div>
+<div class="ep3"">save up to</div> 
+<div class="ep4"">7%</div>
+</div>
+
+<div class="ebt">
+
+
+<a href="/?sid=A3e16S1G0t7G7B2K5E1c&id_playbill=59492&usluga=book&b_time=20:00&b_date_full=2018-06-24&b_date=24%20June#an1"><div class="bt_sm_y bt_ar_b ">View tickets</div></a>
+<a href="/?sid=A3e16S1G0t7G7B2K5E1c&id_playbill=59492&usluga=book&b_time=20:00&b_date_full=2018-06-24&b_date=24%20June#an1"><div class="bt_sm_w">Hall plan</div></a>
+
+</div>
+</div>
+
+<div class="event" style="";>
+<a name="ev60647"></a><a href="/classical_ballet/Edouard_Deldevez__Ludwig_Minkus_and_Ricc/info/sid=A3e16S1G0t7G7B2K5E1c&play_date_from=01-Jun-2018&play_date_to=30-Jun-2018&playbills=60647">
+<div class="epic" style="background-image: url('/photos_info/perfomance/Edouard_Deldevez__Ludwig_Minkus_and_Ricc/big/1490953363_pahit.jpg');">
+<div class="edatef"><div class="edate">25</div><div class="emonth">June<div class="etime">19:00</div></div></div><div class="ecomment" style="">Tickets available only at BalletAndOpera.com</div></div></a>
+<a href="/theatre/mariinsky-theatre/info/sid=A3e16S1G0t7G7B2K5E1c&play_date_from=01-Jun-2018&play_date_to=30-Jun-2018" class="etha">Mariinsky Theatre - Main Stage</a>
+<h2><font face=arial size=2 color=red><i>The Stars of the White Nights 2018</i></font><br> <a href="/classical_ballet/Edouard_Deldevez__Ludwig_Minkus_and_Ricc/info/sid=A3e16S1G0t7G7B2K5E1c&play_date_from=01-Jun-2018&play_date_to=30-Jun-2018&playbills=60647" target="_blank">Edouard Deldevez, Ludwig Minkus and Riccardo Drigo &quot;Paquita&quot; ballet in three acts</a></h2>
+<h3>Classical Ballet</h3>
+<div class="eprice">
+<div class="ep1">prices start from</div>
+<div class="ep2">174 &euro;</div>
+<div class="ep3"">save up to</div> 
+<div class="ep4"">7%</div>
+</div>
+<div class="promo_mob"></div>
+<div class="ebt">
+
+
+<a href="/?sid=A3e16S1G0t7G7B2K5E1c&id_playbill=60647&usluga=book&b_time=19:00&b_date_full=2018-06-25&b_date=25%20June#an1"><div class="bt_sm_y bt_ar_b ">View tickets</div></a>
+<a href="/?sid=A3e16S1G0t7G7B2K5E1c&id_playbill=60647&usluga=book&b_time=19:00&b_date_full=2018-06-25&b_date=25%20June#an1"><div class="bt_sm_w">Hall plan</div></a>
+
+</div>
+</div>
+
+<div class="event" style="";>
+<a name="ev61447"></a><a href="/opera/Nikolay_Rimsky_Korsakov__The_Snow_Maiden/info/sid=A3e16S1G0t7G7B2K5E1c&play_date_from=01-Jun-2018&play_date_to=30-Jun-2018&playbills=61447">
+<div class="epic" style="background-image: url('/photos_info/perfomance/Nikolay_Rimsky_Korsakov__The_Snow_Maiden/big/1454329529.9638.jpg');">
+<div class="edatef"><div class="edate">25</div><div class="emonth">June<div class="etime">19:00</div></div></div></div></a>
+<a href="/theatre/mariinsky-new-theatre/info/sid=A3e16S1G0t7G7B2K5E1c&play_date_from=01-Jun-2018&play_date_to=30-Jun-2018" class="etha">Mariinsky II - New Stage</a>
+<h2><font face=arial size=2 color=red><i>The Stars of the White Nights 2018</i></font><br><font color=red><i>Stars of the Stars</i></font>&nbsp; <font color=red><i>Conducted by Maestro Gergiev</i></font>  <a href="/opera/Nikolay_Rimsky_Korsakov__The_Snow_Maiden/info/sid=A3e16S1G0t7G7B2K5E1c&play_date_from=01-Jun-2018&play_date_to=30-Jun-2018&playbills=61447" target="_blank">Nikolay Rimsky-Korsakov &quot;The Snow Maiden&quot; (springtime tale in a prologue and four acts)</a></h2>
+<h3>Opera</h3>
+<div class="eprice">
+<div class="ep1">prices start from</div>
+<div class="ep2">164 &euro;</div>
+<div class="ep3"">save up to</div> 
+<div class="ep4"">7%</div>
+</div>
+<div class="promo_mob"><b><span style="color: red;">13 people are looking at this moment</span></b><br></div>
+<div class="ebt">
+
+
+<a href="/?sid=A3e16S1G0t7G7B2K5E1c&id_playbill=61447&usluga=book&b_time=19:00&b_date_full=2018-06-25&b_date=25%20June#an1"><div class="bt_sm_y bt_ar_b ">View tickets</div></a>
+<a href="/?sid=A3e16S1G0t7G7B2K5E1c&id_playbill=61447&usluga=book&b_time=19:00&b_date_full=2018-06-25&b_date=25%20June#an1"><div class="bt_sm_w">Hall plan</div></a>
+
+</div>
+</div>
+
+<div class="event" style="";>
+<a name="ev58526"></a><a href="/folk_show/feel_russian/info/sid=A3e16S1G0t7G7B2K5E1c&play_date_from=01-Jun-2018&play_date_to=30-Jun-2018&playbills=58526">
+<div class="epic" style="background-image: url('/photos_info/perfomance/feel_russian/bigm/1524836826_1111.jpg');">
+<div class="edatef"><div class="edate">25</div><div class="emonth">June<div class="etime">19:00</div></div></div></div></a>
+<a href="/theatre/folkdance/info/sid=A3e16S1G0t7G7B2K5E1c&play_date_from=01-Jun-2018&play_date_to=30-Jun-2018" class="etha">Folk Show</a>
+<h2> <a href="/folk_show/feel_russian/info/sid=A3e16S1G0t7G7B2K5E1c&play_date_from=01-Jun-2018&play_date_to=30-Jun-2018&playbills=58526" target="_blank">Unique Folk Programm Feel Yourself Russian at Nikolaevsky Palace</a></h2>
+<h3>Show</h3>
+<div class="eprice">
+<div class="ep1">prices start from</div>
+<div class="ep2">79 &euro;</div>
+<div class="ep3"">save up to</div> 
+<div class="ep4"">7%</div>
+</div>
+
+<div class="ebt">
+
+
+<a href="/?sid=A3e16S1G0t7G7B2K5E1c&id_playbill=58526&usluga=book&b_time=19:00&b_date_full=2018-06-25&b_date=25%20June#an1"><div class="bt_sm_y bt_ar_b ">View tickets</div></a>
+<a href="/?sid=A3e16S1G0t7G7B2K5E1c&id_playbill=58526&usluga=book&b_time=19:00&b_date_full=2018-06-25&b_date=25%20June#an1"><div class="bt_sm_w">Hall plan</div></a>
+
+</div>
+</div>
+
+<div class="event" style="";>
+<a name="ev61494"></a><a href="/opera/mar_khovanshchina/info/sid=A3e16S1G0t7G7B2K5E1c&play_date_from=01-Jun-2018&play_date_to=30-Jun-2018&playbills=61494">
+<div class="epic" style="background-image: url('/photos_info/perfomance/mar_khovanshchina/big/1474298226_13552.jpg');">
+<div class="edatef"><div class="edate">26</div><div class="emonth">June<div class="etime">18:00</div></div></div></div></a>
+<a href="/theatre/mariinsky-theatre/info/sid=A3e16S1G0t7G7B2K5E1c&play_date_from=01-Jun-2018&play_date_to=30-Jun-2018" class="etha">Mariinsky Theatre - Main Stage</a>
+<h2><font face=arial size=2 color=red><i>The Stars of the White Nights 2018</i></font><br> <a href="/opera/mar_khovanshchina/info/sid=A3e16S1G0t7G7B2K5E1c&play_date_from=01-Jun-2018&play_date_to=30-Jun-2018&playbills=61494" target="_blank">Modest Musorgsky &quot;Khovanshchina&quot; (folk musical drama in five acts, six scenes).</a></h2>
+<h3>Opera</h3>
+<div class="eprice">
+<div class="ep1">prices start from</div>
+<div class="ep2">100 &euro;</div>
+<div class="ep3"">save up to</div> 
+<div class="ep4"">7%</div>
+</div>
+<div class="promo_mob"><b><span style="color: red;">Booked 4 times today</span></b><br></div>
+<div class="ebt">
+
+
+<a href="/?sid=A3e16S1G0t7G7B2K5E1c&id_playbill=61494&usluga=book&b_time=18:00&b_date_full=2018-06-26&b_date=26%20June#an1"><div class="bt_sm_y bt_ar_b ">View tickets</div></a>
+<a href="/?sid=A3e16S1G0t7G7B2K5E1c&id_playbill=61494&usluga=book&b_time=18:00&b_date_full=2018-06-26&b_date=26%20June#an1"><div class="bt_sm_w">Hall plan</div></a>
+
+</div>
+</div>
+
+<div class="event" style="";>
+<a name="ev59496"></a><a href="/classical_ballet/alex_swan/info/sid=A3e16S1G0t7G7B2K5E1c&play_date_from=01-Jun-2018&play_date_to=30-Jun-2018&playbills=59496">
+<div class="epic" style="background-image: url('/photos_info/perfomance/alex_swan/bigm/1524838947_swa.jpg');">
+<div class="edatef"><div class="edate">26</div><div class="emonth">June<div class="etime">20:00</div></div></div></div></a>
+<a href="/theatre/alexandrinsky/info/sid=A3e16S1G0t7G7B2K5E1c&play_date_from=01-Jun-2018&play_date_to=30-Jun-2018" class="etha">Alexandrinsky Imperial Ballet Theatre</a>
+<h2> <a href="/classical_ballet/alex_swan/info/sid=A3e16S1G0t7G7B2K5E1c&play_date_from=01-Jun-2018&play_date_to=30-Jun-2018&playbills=59496" target="_blank">Peter Tchaikovsky &quot;Swan Lake&quot; (Ballet in 3 Acts)</a></h2>
+<h3>Classical Ballet</h3>
+<div class="eprice">
+<div class="ep1">prices start from</div>
+<div class="ep2">207 &euro;</div>
+<div class="ep3"">save up to</div> 
+<div class="ep4"">7%</div>
+</div>
+
+<div class="ebt">
+
+
+<a href="/?sid=A3e16S1G0t7G7B2K5E1c&id_playbill=59496&usluga=book&b_time=20:00&b_date_full=2018-06-26&b_date=26%20June#an1"><div class="bt_sm_y bt_ar_b ">View tickets</div></a>
+<a href="/?sid=A3e16S1G0t7G7B2K5E1c&id_playbill=59496&usluga=book&b_time=20:00&b_date_full=2018-06-26&b_date=26%20June#an1"><div class="bt_sm_w">Hall plan</div></a>
+
+</div>
+</div>
+
+<div class="event" style="";>
+<a name="ev60530"></a><a href="/classical_ballet/mus_don_quixote/info/sid=A3e16S1G0t7G7B2K5E1c&play_date_from=01-Jun-2018&play_date_to=30-Jun-2018&playbills=60530">
+<div class="epic" style="background-image: url('/photos_info/perfomance/mus_don_quixote/big/1468948562_don_quixote_2.jpg');">
+<div class="edatef"><div class="edate">26</div><div class="emonth">June<div class="etime">19:30</div></div></div></div></a>
+<a href="/theatre/mikhailovsky/info/sid=A3e16S1G0t7G7B2K5E1c&play_date_from=01-Jun-2018&play_date_to=30-Jun-2018" class="etha">Mikhailovsky Theatre</a>
+<h2> <font color=red><i>World-famous Ballet Star Ivan Vasiliev</i></font>  <a href="/classical_ballet/mus_don_quixote/info/sid=A3e16S1G0t7G7B2K5E1c&play_date_from=01-Jun-2018&play_date_to=30-Jun-2018&playbills=60530" target="_blank">Ludwig Minkus &quot;Don Quixote&quot; (Ballet in 3 acts)</a></h2>
+<h3>Classical Ballet</h3>
+<div class="eprice">
+<div class="ep1">prices start from</div>
+<div class="ep2">387 &euro;</div>
+<div class="ep3"">save up to</div> 
+<div class="ep4"">7%</div>
+</div>
+
+<div class="ebt">
+
+
+<a href="/?sid=A3e16S1G0t7G7B2K5E1c&id_playbill=60530&usluga=book&b_time=19:30&b_date_full=2018-06-26&b_date=26%20June#an1"><div class="bt_sm_y bt_ar_b ">View tickets</div></a>
+<a href="/?sid=A3e16S1G0t7G7B2K5E1c&id_playbill=60530&usluga=book&b_time=19:30&b_date_full=2018-06-26&b_date=26%20June#an1"><div class="bt_sm_w">Hall plan</div></a>
+
+</div>
+</div>
+
+<div class="event" style="";>
+<a name="ev59502"></a><a href="/folk_show/phil_gh_2010-02-19/info/sid=A3e16S1G0t7G7B2K5E1c&play_date_from=01-Jun-2018&play_date_to=30-Jun-2018&playbills=59502">
+<div class="epic" style="background-image: url('/photos_info/perfomance/phil_gh_2010-02-19/bigm/1524839317_nko.jpg');">
+<div class="edatef"><div class="edate">26</div><div class="emonth">June<div class="etime">20:00</div></div></div></div></a>
+<a href="/theatre/folk_show_officer_assembly/info/sid=A3e16S1G0t7G7B2K5E1c&play_date_from=01-Jun-2018&play_date_to=30-Jun-2018" class="etha">Russian Army Folk show</a>
+<h2> <a href="/folk_show/phil_gh_2010-02-19/info/sid=A3e16S1G0t7G7B2K5E1c&play_date_from=01-Jun-2018&play_date_to=30-Jun-2018&playbills=59502" target="_blank">State Song and Dance Ensemble of the Western Military District - Folk Show at the House of Officers</a></h2>
+<h3>Show</h3>
+<div class="eprice">
+<div class="ep1">prices start from</div>
+<div class="ep2">83 &euro;</div>
+<div class="ep3"">save up to</div> 
+<div class="ep4"">7%</div>
+</div>
+
+<div class="ebt">
+
+
+<a href="/?sid=A3e16S1G0t7G7B2K5E1c&id_playbill=59502&usluga=book&b_time=20:00&b_date_full=2018-06-26&b_date=26%20June#an1"><div class="bt_sm_y bt_ar_b ">View tickets</div></a>
+<a href="/?sid=A3e16S1G0t7G7B2K5E1c&id_playbill=59502&usluga=book&b_time=20:00&b_date_full=2018-06-26&b_date=26%20June#an1"><div class="bt_sm_w">Hall plan</div></a>
+
+</div>
+</div>
+
+<div class="event" style="";>
+<a name="ev60649"></a><a href="/classical_ballet/mar_chop_rose_swan_Schhrazade/info/sid=A3e16S1G0t7G7B2K5E1c&play_date_from=01-Jun-2018&play_date_to=30-Jun-2018&playbills=60649">
+<div class="epic" style="background-image: url('/photos_info/perfomance/mar_chop_rose_swan_Schhrazade/bigm/1524856303_1520105171_TASS_545908-pic668-668x444-11916.jpg');">
+<div class="edatef"><div class="edate">27</div><div class="emonth">June<div class="etime">19:30</div></div></div></div></a>
+<a href="/theatre/mariinsky-theatre/info/sid=A3e16S1G0t7G7B2K5E1c&play_date_from=01-Jun-2018&play_date_to=30-Jun-2018" class="etha">Mariinsky Theatre - Main Stage</a>
+<h2><font face=arial size=2 color=red><i>The Stars of the White Nights 2018</i></font><br> <a href="/classical_ballet/mar_chop_rose_swan_Schhrazade/info/sid=A3e16S1G0t7G7B2K5E1c&play_date_from=01-Jun-2018&play_date_to=30-Jun-2018&playbills=60649" target="_blank">Evening of one-act ballets by Michel Fokine: Chopiniana. Le Spectre de la Rose. The Swan. Shakhrazade</a></h2>
+<h3>Classical Ballet</h3>
+<div class="eprice">
+<div class="ep1">prices start from</div>
+<div class="ep2">174 &euro;</div>
+<div class="ep3"">save up to</div> 
+<div class="ep4"">7%</div>
+</div>
+<div class="promo_mob"><b><span style="color: red;">Latest booking: 19 minutes ago</span></b><br></div>
+<div class="ebt">
+
+
+<a href="/?sid=A3e16S1G0t7G7B2K5E1c&id_playbill=60649&usluga=book&b_time=19:30&b_date_full=2018-06-27&b_date=27%20June#an1"><div class="bt_sm_y bt_ar_b ">View tickets</div></a>
+<a href="/?sid=A3e16S1G0t7G7B2K5E1c&id_playbill=60649&usluga=book&b_time=19:30&b_date_full=2018-06-27&b_date=27%20June#an1"><div class="bt_sm_w">Hall plan</div></a>
+
+</div>
+</div>
+
+<div class="event" style="";>
+<a name="ev61438"></a><a href="/opera/Pyotr_Tchaikovsky_The_Queen_of_Spades_op/info/sid=A3e16S1G0t7G7B2K5E1c&play_date_from=01-Jun-2018&play_date_to=30-Jun-2018&playbills=61438">
+<div class="epic" style="background-image: url('/photos_info/perfomance/Pyotr_Tchaikovsky_The_Queen_of_Spades_op/bigm/1524857112_1449863332_15060107.jpg');">
+<div class="edatef"><div class="edate">27</div><div class="emonth">June<div class="etime">19:00</div></div></div></div></a>
+<a href="/theatre/mariinsky-new-theatre/info/sid=A3e16S1G0t7G7B2K5E1c&play_date_from=01-Jun-2018&play_date_to=30-Jun-2018" class="etha">Mariinsky II - New Stage</a>
+<h2><font face=arial size=2 color=red><i>The Stars of the White Nights 2018</i></font><br><font color=red><i>Conducted by Maestro Gergiev</i></font>  <a href="/opera/Pyotr_Tchaikovsky_The_Queen_of_Spades_op/info/sid=A3e16S1G0t7G7B2K5E1c&play_date_from=01-Jun-2018&play_date_to=30-Jun-2018&playbills=61438" target="_blank">Pyotr Tchaikovsky &quot;The Queen of Spades&quot; opera in 3 acts</a></h2>
+<h3>Opera</h3>
+<div class="eprice">
+<div class="ep1">prices start from</div>
+<div class="ep2">164 &euro;</div>
+<div class="ep3"">save up to</div> 
+<div class="ep4"">7%</div>
+</div>
+<div class="promo_mob"><b><span style="color: red;">22 people are looking at this moment</span></b><br></div>
+<div class="ebt">
+
+
+<a href="/?sid=A3e16S1G0t7G7B2K5E1c&id_playbill=61438&usluga=book&b_time=19:00&b_date_full=2018-06-27&b_date=27%20June#an1"><div class="bt_sm_y bt_ar_b ">View tickets</div></a>
+<a href="/?sid=A3e16S1G0t7G7B2K5E1c&id_playbill=61438&usluga=book&b_time=19:00&b_date_full=2018-06-27&b_date=27%20June#an1"><div class="bt_sm_w">Hall plan</div></a>
+
+</div>
+</div>
+
+<div class="event" style="";>
+<a name="ev58528"></a><a href="/folk_show/feel_russian/info/sid=A3e16S1G0t7G7B2K5E1c&play_date_from=01-Jun-2018&play_date_to=30-Jun-2018&playbills=58528">
+<div class="epic" style="background-image: url('/photos_info/perfomance/feel_russian/bigm/1524836826_1111.jpg');">
+<div class="edatef"><div class="edate">27</div><div class="emonth">June<div class="etime">19:00</div></div></div></div></a>
+<a href="/theatre/folkdance/info/sid=A3e16S1G0t7G7B2K5E1c&play_date_from=01-Jun-2018&play_date_to=30-Jun-2018" class="etha">Folk Show</a>
+<h2> <a href="/folk_show/feel_russian/info/sid=A3e16S1G0t7G7B2K5E1c&play_date_from=01-Jun-2018&play_date_to=30-Jun-2018&playbills=58528" target="_blank">Unique Folk Programm Feel Yourself Russian at Nikolaevsky Palace</a></h2>
+<h3>Show</h3>
+<div class="eprice">
+<div class="ep1">prices start from</div>
+<div class="ep2">79 &euro;</div>
+<div class="ep3"">save up to</div> 
+<div class="ep4"">7%</div>
+</div>
+
+<div class="ebt">
+
+
+<a href="/?sid=A3e16S1G0t7G7B2K5E1c&id_playbill=58528&usluga=book&b_time=19:00&b_date_full=2018-06-27&b_date=27%20June#an1"><div class="bt_sm_y bt_ar_b ">View tickets</div></a>
+<a href="/?sid=A3e16S1G0t7G7B2K5E1c&id_playbill=58528&usluga=book&b_time=19:00&b_date_full=2018-06-27&b_date=27%20June#an1"><div class="bt_sm_w">Hall plan</div></a>
+
+</div>
+</div>
+
+<div class="event" style="";>
+<a name="ev60650"></a><a href="/opera/turandot-mar/info/sid=A3e16S1G0t7G7B2K5E1c&play_date_from=01-Jun-2018&play_date_to=30-Jun-2018&playbills=60650">
+<div class="epic" style="background-image: url('/photos_info/perfomance/turandot-mar/big/1520094681_4af80541afc90717b7792897425271f8.jpg');">
+<div class="edatef"><div class="edate">28</div><div class="emonth">June<div class="etime">19:00</div></div></div><div class="ecomment" style="">Tickets available only at BalletAndOpera.com</div></div></a>
+<a href="/theatre/mariinsky-theatre/info/sid=A3e16S1G0t7G7B2K5E1c&play_date_from=01-Jun-2018&play_date_to=30-Jun-2018" class="etha">Mariinsky Theatre - Main Stage</a>
+<h2><font face=arial size=2 color=red><i>The Stars of the White Nights 2018</i></font><br> <a href="/opera/turandot-mar/info/sid=A3e16S1G0t7G7B2K5E1c&play_date_from=01-Jun-2018&play_date_to=30-Jun-2018&playbills=60650" target="_blank">Giacomo Puccini &quot;Turandot&quot; (lyric drama in three acts and five scenes)</a></h2>
+<h3>Opera</h3>
+<div class="eprice">
+<div class="ep1">prices start from</div>
+<div class="ep2">132 &euro;</div>
+<div class="ep3"">save up to</div> 
+<div class="ep4"">7%</div>
+</div>
+<div class="promo_mob"><b><span style="color: red;">Booked 28 times today</span></b><br></div>
+<div class="ebt">
+
+
+<a href="/?sid=A3e16S1G0t7G7B2K5E1c&id_playbill=60650&usluga=book&b_time=19:00&b_date_full=2018-06-28&b_date=28%20June#an1"><div class="bt_sm_y bt_ar_b ">View tickets</div></a>
+<a href="/?sid=A3e16S1G0t7G7B2K5E1c&id_playbill=60650&usluga=book&b_time=19:00&b_date_full=2018-06-28&b_date=28%20June#an1"><div class="bt_sm_w">Hall plan</div></a>
+
+</div>
+</div>
+
+<div class="event" style="";>
+<a name="ev61501"></a><a href="/classical_ballet/marnew__Carmen_Suite_jeune_homme/info/sid=A3e16S1G0t7G7B2K5E1c&play_date_from=01-Jun-2018&play_date_to=30-Jun-2018&playbills=61501">
+<div class="epic" style="background-image: url('/photos_info/perfomance/marnew__Carmen_Suite_jeune_homme/big/1454329674.9542.jpg');">
+<div class="edatef"><div class="edate">28</div><div class="emonth">June<div class="etime">19:30</div></div></div></div></a>
+<a href="/theatre/mariinsky-new-theatre/info/sid=A3e16S1G0t7G7B2K5E1c&play_date_from=01-Jun-2018&play_date_to=30-Jun-2018" class="etha">Mariinsky II - New Stage</a>
+<h2><font face=arial size=2 color=red><i>The Stars of the White Nights 2018</i></font><br> <a href="/classical_ballet/marnew__Carmen_Suite_jeune_homme/info/sid=A3e16S1G0t7G7B2K5E1c&play_date_from=01-Jun-2018&play_date_to=30-Jun-2018&playbills=61501" target="_blank">Evening of one-act ballets. Carmen Suite. Le Jeune Homme et la Mort. Concerto DSCH</a></h2>
+<h3>Classical Ballet</h3>
+<div class="eprice">
+<div class="ep1">prices start from</div>
+<div class="ep2">221 &euro;</div>
+<div class="ep3"">save up to</div> 
+<div class="ep4"">7%</div>
+</div>
+<div class="promo_mob"><b><span style="color: red;">Latest booking: 21 minutes ago</span></b><br></div>
+<div class="ebt">
+
+
+<a href="/?sid=A3e16S1G0t7G7B2K5E1c&id_playbill=61501&usluga=book&b_time=19:30&b_date_full=2018-06-28&b_date=28%20June#an1"><div class="bt_sm_y bt_ar_b ">View tickets</div></a>
+<a href="/?sid=A3e16S1G0t7G7B2K5E1c&id_playbill=61501&usluga=book&b_time=19:30&b_date_full=2018-06-28&b_date=28%20June#an1"><div class="bt_sm_w">Hall plan</div></a>
+
+</div>
+</div>
+
+<div class="event" style="";>
+<a name="ev61573"></a><a href="/opera/Eclipse_/info/sid=A3e16S1G0t7G7B2K5E1c&play_date_from=01-Jun-2018&play_date_to=30-Jun-2018&playbills=61573">
+<div class="epic" style="background-image: url('//big/');">
+<div class="edatef"><div class="edate">28</div><div class="emonth">June<div class="etime">20:00</div></div></div></div></a>
+<a href="/theatre/mariinsky-concert-hall/info/sid=A3e16S1G0t7G7B2K5E1c&play_date_from=01-Jun-2018&play_date_to=30-Jun-2018" class="etha">Mariinsky Concert Hall</a>
+<h2><font face=arial size=2 color=red><i>The Stars of the White Nights 2018</i></font><br> <a href="/opera/Eclipse_/info/sid=A3e16S1G0t7G7B2K5E1c&play_date_from=01-Jun-2018&play_date_to=30-Jun-2018&playbills=61573" target="_blank">Alexander Raskatov &quot; Eclipse&quot; opera in two acts</a></h2>
+<h3>Opera</h3>
+<div class="eprice">
+<div class="ep1">prices start from</div>
+<div class="ep2">158 &euro;</div>
+<div class="ep3"">save up to</div> 
+<div class="ep4"">7%</div>
+</div>
+
+<div class="ebt">
+
+
+<a href="/?sid=A3e16S1G0t7G7B2K5E1c&id_playbill=61573&usluga=book&b_time=20:00&b_date_full=2018-06-28&b_date=28%20June#an1"><div class="bt_sm_y bt_ar_b ">View tickets</div></a>
+<a href="/?sid=A3e16S1G0t7G7B2K5E1c&id_playbill=61573&usluga=book&b_time=20:00&b_date_full=2018-06-28&b_date=28%20June#an1"><div class="bt_sm_w">Hall plan</div></a>
+
+</div>
+</div>
+
+<div class="event" style="";>
+<a name="ev59509"></a><a href="/folk_show/phil_gh_2010-02-19/info/sid=A3e16S1G0t7G7B2K5E1c&play_date_from=01-Jun-2018&play_date_to=30-Jun-2018&playbills=59509">
+<div class="epic" style="background-image: url('/photos_info/perfomance/phil_gh_2010-02-19/bigm/1524839317_nko.jpg');">
+<div class="edatef"><div class="edate">28</div><div class="emonth">June<div class="etime">20:00</div></div></div></div></a>
+<a href="/theatre/folk_show_officer_assembly/info/sid=A3e16S1G0t7G7B2K5E1c&play_date_from=01-Jun-2018&play_date_to=30-Jun-2018" class="etha">Russian Army Folk show</a>
+<h2> <a href="/folk_show/phil_gh_2010-02-19/info/sid=A3e16S1G0t7G7B2K5E1c&play_date_from=01-Jun-2018&play_date_to=30-Jun-2018&playbills=59509" target="_blank">State Song and Dance Ensemble of the Western Military District - Folk Show at the House of Officers</a></h2>
+<h3>Show</h3>
+<div class="eprice">
+<div class="ep1">prices start from</div>
+<div class="ep2">83 &euro;</div>
+<div class="ep3"">save up to</div> 
+<div class="ep4"">7%</div>
+</div>
+
+<div class="ebt">
+
+
+<a href="/?sid=A3e16S1G0t7G7B2K5E1c&id_playbill=59509&usluga=book&b_time=20:00&b_date_full=2018-06-28&b_date=28%20June#an1"><div class="bt_sm_y bt_ar_b ">View tickets</div></a>
+<a href="/?sid=A3e16S1G0t7G7B2K5E1c&id_playbill=59509&usluga=book&b_time=20:00&b_date_full=2018-06-28&b_date=28%20June#an1"><div class="bt_sm_w">Hall plan</div></a>
+
+</div>
+</div>
+
+<div class="event" style="";>
+<a name="ev60651"></a><a href="/opera/figaro-mar/info/sid=A3e16S1G0t7G7B2K5E1c&play_date_from=01-Jun-2018&play_date_to=30-Jun-2018&playbills=60651">
+<div class="epic" style="background-image: url('/photos_info/perfomance/figaro-mar/big/1456088683_le_nozze_di_figaro.jpg');">
+<div class="edatef"><div class="edate">29</div><div class="emonth">June<div class="etime">19:00</div></div></div></div></a>
+<a href="/theatre/mariinsky-theatre/info/sid=A3e16S1G0t7G7B2K5E1c&play_date_from=01-Jun-2018&play_date_to=30-Jun-2018" class="etha">Mariinsky Theatre - Main Stage</a>
+<h2><font face=arial size=2 color=red><i>The Stars of the White Nights 2018</i></font><br> <a href="/opera/figaro-mar/info/sid=A3e16S1G0t7G7B2K5E1c&play_date_from=01-Jun-2018&play_date_to=30-Jun-2018&playbills=60651" target="_blank">Wolfgang Amadeus Mozart &quot;Le Nozze di Figaro&quot; (&quot;The Marriage of Figaro&quot;) opera buffa in four acts</a></h2>
+<h3>Opera</h3>
+<div class="eprice">
+<div class="ep1">prices start from</div>
+<div class="ep2">110 &euro;</div>
+<div class="ep3"">save up to</div> 
+<div class="ep4"">7%</div>
+</div>
+<div class="promo_mob"><b><span style="color: red;">Booked 28 times today</span></b><br></div>
+<div class="ebt">
+
+
+<a href="/?sid=A3e16S1G0t7G7B2K5E1c&id_playbill=60651&usluga=book&b_time=19:00&b_date_full=2018-06-29&b_date=29%20June#an1"><div class="bt_sm_y bt_ar_b ">View tickets</div></a>
+<a href="/?sid=A3e16S1G0t7G7B2K5E1c&id_playbill=60651&usluga=book&b_time=19:00&b_date_full=2018-06-29&b_date=29%20June#an1"><div class="bt_sm_w">Hall plan</div></a>
+
+</div>
+</div>
+
+<div class="event" style="";>
+<a name="ev61448"></a><a href="/classical_ballet/The_Bronze_Horseman_/info/sid=A3e16S1G0t7G7B2K5E1c&play_date_from=01-Jun-2018&play_date_to=30-Jun-2018&playbills=61448">
+<div class="epic" style="background-image: url('/photos_info/perfomance/The_Bronze_Horseman_/big/1452689988_bronze_horse.jpg');">
+<div class="edatef"><div class="edate">29</div><div class="emonth">June<div class="etime">19:30</div></div></div></div></a>
+<a href="/theatre/mariinsky-new-theatre/info/sid=A3e16S1G0t7G7B2K5E1c&play_date_from=01-Jun-2018&play_date_to=30-Jun-2018" class="etha">Mariinsky II - New Stage</a>
+<h2><font face=arial size=2 color=red><i>The Stars of the White Nights 2018</i></font><br> <a href="/classical_ballet/The_Bronze_Horseman_/info/sid=A3e16S1G0t7G7B2K5E1c&play_date_from=01-Jun-2018&play_date_to=30-Jun-2018&playbills=61448" target="_blank">Reinhold Gliere &quot;The Bronze Horseman&quot; (ballet in three acts)</a></h2>
+<h3>Classical Ballet</h3>
+<div class="eprice">
+<div class="ep1">prices start from</div>
+<div class="ep2">296 &euro;</div>
+<div class="ep3"">save up to</div> 
+<div class="ep4"">7%</div>
+</div>
+<div class="promo_mob"></div>
+<div class="ebt">
+
+
+<a href="/?sid=A3e16S1G0t7G7B2K5E1c&id_playbill=61448&usluga=book&b_time=19:30&b_date_full=2018-06-29&b_date=29%20June#an1"><div class="bt_sm_y bt_ar_b ">View tickets</div></a>
+<a href="/?sid=A3e16S1G0t7G7B2K5E1c&id_playbill=61448&usluga=book&b_time=19:30&b_date_full=2018-06-29&b_date=29%20June#an1"><div class="bt_sm_w">Hall plan</div></a>
+
+</div>
+</div>
+
+<div class="event" style="";>
+<a name="ev59513"></a><a href="/folk_show/phil_gh_2010-02-19/info/sid=A3e16S1G0t7G7B2K5E1c&play_date_from=01-Jun-2018&play_date_to=30-Jun-2018&playbills=59513">
+<div class="epic" style="background-image: url('/photos_info/perfomance/phil_gh_2010-02-19/bigm/1524839317_nko.jpg');">
+<div class="edatef"><div class="edate">29</div><div class="emonth">June<div class="etime">20:00</div></div></div></div></a>
+<a href="/theatre/folk_show_officer_assembly/info/sid=A3e16S1G0t7G7B2K5E1c&play_date_from=01-Jun-2018&play_date_to=30-Jun-2018" class="etha">Russian Army Folk show</a>
+<h2> <a href="/folk_show/phil_gh_2010-02-19/info/sid=A3e16S1G0t7G7B2K5E1c&play_date_from=01-Jun-2018&play_date_to=30-Jun-2018&playbills=59513" target="_blank">State Song and Dance Ensemble of the Western Military District - Folk Show at the House of Officers</a></h2>
+<h3>Show</h3>
+<div class="eprice">
+<div class="ep1">prices start from</div>
+<div class="ep2">83 &euro;</div>
+<div class="ep3"">save up to</div> 
+<div class="ep4"">7%</div>
+</div>
+
+<div class="ebt">
+
+
+<a href="/?sid=A3e16S1G0t7G7B2K5E1c&id_playbill=59513&usluga=book&b_time=20:00&b_date_full=2018-06-29&b_date=29%20June#an1"><div class="bt_sm_y bt_ar_b ">View tickets</div></a>
+<a href="/?sid=A3e16S1G0t7G7B2K5E1c&id_playbill=59513&usluga=book&b_time=20:00&b_date_full=2018-06-29&b_date=29%20June#an1"><div class="bt_sm_w">Hall plan</div></a>
+
+</div>
+</div>
+
+<div class="event" style="";>
+<a name="ev60652"></a><a href="/opera/mariinsky_Faust/info/sid=A3e16S1G0t7G7B2K5E1c&play_date_from=01-Jun-2018&play_date_to=30-Jun-2018&playbills=60652">
+<div class="epic" style="background-image: url('/photos_info/perfomance/mariinsky_Faust/big/1449690265_faust.jpg');">
+<div class="edatef"><div class="edate">30</div><div class="emonth">June<div class="etime">19:00</div></div></div></div></a>
+<a href="/theatre/mariinsky-theatre/info/sid=A3e16S1G0t7G7B2K5E1c&play_date_from=01-Jun-2018&play_date_to=30-Jun-2018" class="etha">Mariinsky Theatre - Main Stage</a>
+<h2><font face=arial size=2 color=red><i>The Stars of the White Nights 2018</i></font><br> <a href="/opera/mariinsky_Faust/info/sid=A3e16S1G0t7G7B2K5E1c&play_date_from=01-Jun-2018&play_date_to=30-Jun-2018&playbills=60652" target="_blank">Charles Gounod &quot;Faust&quot; (opera in five acts)</a></h2>
+<h3>Opera</h3>
+<div class="eprice">
+<div class="ep1">prices start from</div>
+<div class="ep2">88 &euro;</div>
+<div class="ep3"">save up to</div> 
+<div class="ep4"">8%</div>
+</div>
+<div class="promo_mob"><b><span style="color: red;">Latest booking: 46 minutes ago</span></b><br></div>
+<div class="ebt">
+
+
+<a href="/?sid=A3e16S1G0t7G7B2K5E1c&id_playbill=60652&usluga=book&b_time=19:00&b_date_full=2018-06-30&b_date=30%20June#an1"><div class="bt_sm_y bt_ar_b ">View tickets</div></a>
+<a href="/?sid=A3e16S1G0t7G7B2K5E1c&id_playbill=60652&usluga=book&b_time=19:00&b_date_full=2018-06-30&b_date=30%20June#an1"><div class="bt_sm_w">Hall plan</div></a>
+
+</div>
+</div>
+
+<div class="event" style="";>
+<a name="ev61449"></a><a href="/classical_ballet/The_Bronze_Horseman_/info/sid=A3e16S1G0t7G7B2K5E1c&play_date_from=01-Jun-2018&play_date_to=30-Jun-2018&playbills=61449">
+<div class="epic" style="background-image: url('/photos_info/perfomance/The_Bronze_Horseman_/big/1452689988_bronze_horse.jpg');">
+<div class="edatef"><div class="edate">30</div><div class="emonth">June<div class="etime">19:30</div></div></div></div></a>
+<a href="/theatre/mariinsky-new-theatre/info/sid=A3e16S1G0t7G7B2K5E1c&play_date_from=01-Jun-2018&play_date_to=30-Jun-2018" class="etha">Mariinsky II - New Stage</a>
+<h2><font face=arial size=2 color=red><i>The Stars of the White Nights 2018</i></font><br> <a href="/classical_ballet/The_Bronze_Horseman_/info/sid=A3e16S1G0t7G7B2K5E1c&play_date_from=01-Jun-2018&play_date_to=30-Jun-2018&playbills=61449" target="_blank">Reinhold Gliere &quot;The Bronze Horseman&quot; (ballet in three acts)</a></h2>
+<h3>Classical Ballet</h3>
+<div class="eprice">
+<div class="ep1">prices start from</div>
+<div class="ep2">299 &euro;</div>
+<div class="ep3"">save up to</div> 
+<div class="ep4"">8%</div>
+</div>
+<div class="promo_mob"><b><span style="color: red;">Booked 2 times today</span></b><br></div>
+<div class="ebt">
+
+
+<a href="/?sid=A3e16S1G0t7G7B2K5E1c&id_playbill=61449&usluga=book&b_time=19:30&b_date_full=2018-06-30&b_date=30%20June#an1"><div class="bt_sm_y bt_ar_b ">View tickets</div></a>
+<a href="/?sid=A3e16S1G0t7G7B2K5E1c&id_playbill=61449&usluga=book&b_time=19:30&b_date_full=2018-06-30&b_date=30%20June#an1"><div class="bt_sm_w">Hall plan</div></a>
+
+</div>
+</div>
+
+<div class="event" style="";>
+<a name="ev59497"></a><a href="/folk_show/phil_gh_2010-02-19/info/sid=A3e16S1G0t7G7B2K5E1c&play_date_from=01-Jun-2018&play_date_to=30-Jun-2018&playbills=59497">
+<div class="epic" style="background-image: url('/photos_info/perfomance/phil_gh_2010-02-19/bigm/1524839317_nko.jpg');">
+<div class="edatef"><div class="edate">30</div><div class="emonth">June<div class="etime">20:00</div></div></div></div></a>
+<a href="/theatre/folk_show_officer_assembly/info/sid=A3e16S1G0t7G7B2K5E1c&play_date_from=01-Jun-2018&play_date_to=30-Jun-2018" class="etha">Russian Army Folk show</a>
+<h2> <a href="/folk_show/phil_gh_2010-02-19/info/sid=A3e16S1G0t7G7B2K5E1c&play_date_from=01-Jun-2018&play_date_to=30-Jun-2018&playbills=59497" target="_blank">State Song and Dance Ensemble of the Western Military District - Folk Show at the House of Officers</a></h2>
+<h3>Show</h3>
+<div class="eprice">
+<div class="ep1">prices start from</div>
+<div class="ep2">83 &euro;</div>
+<div class="ep3"">save up to</div> 
+<div class="ep4"">8%</div>
+</div>
+
+<div class="ebt">
+
+
+<a href="/?sid=A3e16S1G0t7G7B2K5E1c&id_playbill=59497&usluga=book&b_time=20:00&b_date_full=2018-06-30&b_date=30%20June#an1"><div class="bt_sm_y bt_ar_b ">View tickets</div></a>
+<a href="/?sid=A3e16S1G0t7G7B2K5E1c&id_playbill=59497&usluga=book&b_time=20:00&b_date_full=2018-06-30&b_date=30%20June#an1"><div class="bt_sm_w">Hall plan</div></a>
+
+</div>
+</div>
+<div class="perfnav"><div class="perfnav_l"><a href="/?sid=A3e16S1G0t7G7B2K5E1c&lang=eng&play_theatre=&month=2018-05#play">< May 2018</a></div><div class="perfnav_c">01 - 30 June 2018</div><div class="perfnav_r"><a href="/?sid=A3e16S1G0t7G7B2K5E1c&lang=eng&month=&play_theatre=&month=2018-07#play">July 2018 ></a></div></div><div style="height: 35px;"></div>
+</div>
+
+<div id="theatres">
+<h2>Theatres of Saint Petersburg</h2>
+
+<a href=""><div class="bt_big_w">See all stages</div></a>
+
+		<div id='slider-w'>
+		<div class='slider2'>
+		<div class='sliderContent'>
+
+<div class="theatr item">
+<div class="thpic" style="background-image: url(/photos_info/theatre/mariinsky/mariinsky.jpg);"></div>
+<h3><a href="/theatre/mariinsky-theatre/info/sid=A3e16S1G0t7G7B2K5E1c">World famous Mariinsky Ballet and Opera - <font color=red>established 1783</font></a></h3>
+<div class="price">Address: Teatralnaya (Theatre) square, 1</div>
+<a href="/theatre/mariinsky-theatre/sid=A3e16S1G0t7G7B2K5E1c#play"><div class="bt_big_y bt_ar_b bt_big_y2">See tickets</div></a>
+</div>
+
+<div class="theatr item">
+<div class="thpic" style="background-image: url(/photos_info/theatre/New_Stage_Mariinsky/New_Stage_Mariinsky.jpg);"></div>
+<h3><a href="/theatre/mariinsky-new-theatre/info/sid=A3e16S1G0t7G7B2K5E1c">World famous Mariinsky Ballet and Opera - <font color=red>Mariinsky II (New Theatre)</font></a></h3>
+<div class="price">Address: Dekabristov str. 34</div>
+<a href="/theatre/mariinsky-new-theatre/sid=A3e16S1G0t7G7B2K5E1c#play"><div class="bt_big_y bt_ar_b bt_big_y2">See tickets</div></a>
+</div>
+
+<div class="theatr item">
+<div class="thpic" style="background-image: url(/photos_info/theatre/alexandrinsky/alexandrinsky.jpg);"></div>
+<h3><a href="/theatre/alexandrinsky/info/sid=A3e16S1G0t7G7B2K5E1c">Alexandrinsky Imperial Ballet Theatre (established 1756)</a></h3>
+<div class="price">Address: Ostrovskogo square, 2</div>
+<a href="/theatre/alexandrinsky/sid=A3e16S1G0t7G7B2K5E1c#play"><div class="bt_big_y bt_ar_b bt_big_y2">See tickets</div></a>
+</div>
+
+<div class="theatr item">
+<div class="thpic" style="background-image: url(/photos_info/theatre/mussorgsky/mussorgsky.jpg);"></div>
+<h3><a href="/theatre/mikhailovsky/info/sid=A3e16S1G0t7G7B2K5E1c">Mikhailovsky Classical Ballet and Opera Theatre (established 1833)</a></h3>
+<div class="price">Address: Iskusstv square, 1</div>
+<a href="/theatre/mikhailovsky/sid=A3e16S1G0t7G7B2K5E1c#play"><div class="bt_big_y bt_ar_b bt_big_y2">See tickets</div></a>
+</div>
+
+<div class="theatr item">
+<div class="thpic" style="background-image: url(/photos_info/theatre/mch/mch.jpg);"></div>
+<h3><a href="/theatre/mariinsky-concert-hall/info/sid=A3e16S1G0t7G7B2K5E1c">World famous Mariinsky Ballet and Opera Theatre - <font color=red>Opera and Concert Hall</font></a></h3>
+<div class="price">Address: 37 Dekabristov Street </div>
+<a href="/theatre/mariinsky-concert-hall/sid=A3e16S1G0t7G7B2K5E1c#play"><div class="bt_big_y bt_ar_b bt_big_y2">See tickets</div></a>
+</div>
+
+<div class="theatr item">
+<div class="thpic" style="background-image: url(/photos_info/theatre/hermtheatre/hermtheatre.jpg);"></div>
+<h3><a href="/theatre/hermitage-theatre/info/sid=A3e16S1G0t7G7B2K5E1c">Hermitage Theatre of Classical Russian Ballet</a></h3>
+<div class="price">Address: Dvortsovaya Embankment, 34</div>
+<a href="/theatre/hermitage-theatre/sid=A3e16S1G0t7G7B2K5E1c#play"><div class="bt_big_y bt_ar_b bt_big_y2">See tickets</div></a>
+</div>
+
+<div class="theatr item">
+<div class="thpic" style="background-image: url(/photos_info/theatre/philharmonia/philharmonia.jpg);"></div>
+<h3><a href="/theatre/philharmonia/info/sid=A3e16S1G0t7G7B2K5E1c">Maestro Yury Temirkanov Grand Philharmonic Hall (established 1802)</a></h3>
+<div class="price">Address: Mikhailovskaya street, 2</div>
+<a href="/theatre/philharmonia/sid=A3e16S1G0t7G7B2K5E1c#play"><div class="bt_big_y bt_ar_b bt_big_y2">See tickets</div></a>
+</div>
+
+<div class="theatr item">
+<div class="thpic" style="background-image: url(/photos_info/theatre/folkdance/folkdance.jpg);"></div>
+<h3><a href="/theatre/folkdance/info/sid=A3e16S1G0t7G7B2K5E1c">Feel Yourself Russian - Best Folk Programme, Brilliant example of Russian Dancing, Music,  and Singing</a></h3>
+<div class="price">Address: Truda (Labour) Square, 4</div>
+<a href="/theatre/folkdance/sid=A3e16S1G0t7G7B2K5E1c#play"><div class="bt_big_y bt_ar_b bt_big_y2">See tickets</div></a>
+</div>
+
+<div class="theatr item">
+<div class="thpic" style="background-image: url(/photos_info/theatre/circus/circus.jpg);"></div>
+<h3><a href="/theatre/circus/info/sid=A3e16S1G0t7G7B2K5E1c">State Classical Circus of St. Petersburg (established 1827) - The Chinizelli circus</a></h3>
+<div class="price">Address: Fontanka embankment, 3</div>
+<a href="/theatre/circus/sid=A3e16S1G0t7G7B2K5E1c#play"><div class="bt_big_y bt_ar_b bt_big_y2">See tickets</div></a>
+</div>
+
+
+		</div>
+		</div>
+		</div>
+
+</div>
+
+
+<div id="calendar">
+<h2>Tickets on sale now</h2>
+<div>Select date</div>
+<iframe src="/mob2_cal/?sid=A3e16S1G0t7G7B2K5E1c&play_date_from=2018-06-01&play_date_to=2018-06-30" id="cal_i" frameborder="0" scrolling="no"></iframe>
+</div>
+
+<div id="bottom">
+<div id="b1">
+<h3>Genres</h3>
+<ul>
+<li><a href="/ballet/">Ballet</a>
+<li><a href="/opera/">Opera</a>
+<li><a href="/show/">Folk Show</a>
+</ul>
+<h3>Popular searches</h3>
+<ul>
+<li><a href="/giselle/">Giselle</a>
+<li><a href="/swan-lake/">Swan Lake</a>
+<li><a href="/nutcracker/">The Nutcracker</a>
+<li><a href="/sleeping-beauty/">The Sleeping Beauty</a>
+</ul>
+<h3>Information</h3>
+<ul>
+<li><a href="/help/sid=A3e16S1G0t7G7B2K5E1c&play_date_from=2018-06-01&play_date_to=2018-06-30">Help</a>
+</ul>
+<div id="copy">&copy; Ballet and Opera Ltd, 1995-2018<div>
+</div>
+</div>
+
+</div>
+<script>
+	!window.jQuery && document.write('<script src="/jquery-1.4.3.min.js"><\/script>');
+</script>
+
+<SCRIPT LANGUAGE="JavaScript" SRC="/bao.js"></SCRIPT>
+
+<SCRIPT LANGUAGE="JavaScript" SRC="/CalendarPopup.js"></SCRIPT>
+<SCRIPT LANGUAGE="JavaScript" SRC="/Show_Pic.js"></SCRIPT>
+<SCRIPT LANGUAGE="JavaScript">document.write(getCalendarStyles());</SCRIPT>
+
+			<script type="text/javascript">
+				$(document).ready(function() {
+					//alert ("OK");
+					$("a[rel=example_group]").fancybox({
+						'transitionIn'		: 'none',
+						'transitionOut'		: 'none',
+						'titlePosition' 	: 'inside',
+						'padding'           : '0',
+						'margin'            : '40'
+					});
+					
+					$("a[rel=example_group1]").fancybox({
+						'transitionIn'		: 'none',
+						'transitionOut'		: 'none',
+						'titlePosition' 	: 'inside',
+						'padding'           : '0',
+						'margin'            : '40'
+					});	
+				
+				});
+			</script>
+<script type="text/javascript" src="/fancybox/jquery.mousewheel-3.0.4.pack.js"></script>
+<script type="text/javascript" src="/fancybox/jquery.fancybox-1.3.4.pack.js"></script>
+<script type='text/javascript' src='/js_mob2/mobilyslider.js?240118'></script>
+<script type="text/javascript" src="/js_mob2/myscripts.js?12345671"></script>
+
+
+<IFRAME SRC="/js_mob2/calx.htm" STYLE="visibility:hidden;position:absolute;width:148px;height:194px;z-index:100;display:none;" ID="CalFrame" NAME="CalFrame" MARGINHEIGHT=0 MARGINWIDTH=0 NORESIZE FRAMEBORDER=0 SCROLLING=NO></IFRAME>
+
+<script type="text/javascript" src="/js_mob2/calendar.js"></script>
+
+<link rel="stylesheet" type="text/css" href="/fancybox/jquery.fancybox-1.3.4.css" media="screen" />
+
+</body>
+</html>
+
+
+

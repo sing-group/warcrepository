@@ -1,0 +1,44 @@
+WARC/1.0
+WARC-Type: warcinfo
+WARC-Date: 2018-05-23T07:59:32Z
+WARC-All-Language: fr
+WARC-All-Content_type: text/html; charset=utf-8
+WARC-Record-ID: <urn:uuid:be8f6f5a-279f-4c00-a88c-3c59a6d507f6>
+Content-Type: application/http;msgtype=response
+Content-Length: 46
+
+WARCProcessor by SING Group www.sing-group.com
+
+WARC/1.0
+WARC-Type: response
+WARC-Target-URI: http://www.youngsdiscocentre.co.uk
+WARC-Date: 20180523075932
+WARC-Language: fr
+WARC-Record-ID: <http://www.youngsdiscocentre.co.uk>
+Content-Type: application/http;msgtype=response
+Content-Length: 539
+
+HTTP/1.1 200
+Content-Type:text/html; charset=utf-8
+
+
+<html>
+<head>
+<meta name="Author" content="uk2.net">
+<meta name="ROBOTS" CONTENT="ALL">
+<meta name="description" content="">
+<meta name="keywords" content="">
+<title>CHEAP DISCO EQUIPMENT HIRE & MOBILE DJ & PA HIRE - Tel 020 7485 1115</title>
+
+</head>
+<frameset cols="100%,*" border="0">
+<frame src="http://www.freewebs.co.uk/youngsdisco" name="uk2.net">
+<noframes>
+<body>
+CHEAP DISCO EQUIPMENT HIRE & MOBILE DJ & PA HIRE - Tel 020 7485 1115
+</body>
+</noframes>
+</frameset>
+</html>
+
+

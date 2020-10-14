@@ -1,0 +1,429 @@
+WARC/1.0
+WARC-Type: warcinfo
+WARC-Date: 2018-05-30T17:52:31Z
+WARC-Record-ID: <urn:uuid:25594068-6c6a-43bc-9779-f98a74fe49c1>
+WARC-All-Language: fr
+WARC-All-Content_type: text/html
+Content-Type: application/http;msgtype=response
+Content-Length: 46
+
+WARCProcessor by SING Group www.sing-group.com
+
+WARC/1.0
+WARC-Type: response
+WARC-Record-ID: <http://www.community-health.eu>
+WARC-Date: 20180530175231
+WARC-Target-URI: http://www.community-health.eu
+WARC-Language: fr
+Content-Type: application/http;msgtype=response
+Content-Length: 16544
+
+HTTP/1.1 200
+Content-Type:text/html
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>Community Health - Home</title>
+<meta name="title" content="Home" />
+<meta name="author" content="Administrator" />
+<meta name="description" content="" />
+<meta name="keywords" content="CHANCE, FH Fulda, HS Fulda, community health," />
+<meta name="Generator" content="Joomla! - Copyright (C) 2005 - 2007 Open Source Matters. All rights reserved." />
+<meta name="robots" content="index, follow" />
+<base href="http://www.community-health.eu/" />
+	<link rel="shortcut icon" href="http://www.community-health.eu/images/favicon.ico" />
+	<meta http-equiv="Content-Type" content="text/html;charset=iso-8859-1" />
+<title>Community Health - Home</title>
+<meta name="title" content="Home" />
+<meta name="author" content="Administrator" />
+<meta name="description" content="" />
+<meta name="keywords" content="CHANCE, FH Fulda, HS Fulda, community health,, CHANCE, FH Fulda, HS Fulda, community health," />
+<meta name="Generator" content="Joomla! - Copyright (C) 2005 - 2007 Open Source Matters. All rights reserved." />
+<meta name="robots" content="index, follow" />
+<meta name="Generator" content="Joomla! - Copyright (C) 2005 - 2007 Open Source Matters. All rights reserved." />
+<meta name="robots" content="index, follow" />
+<base href="http://www.community-health.eu/" />
+	<link rel="shortcut icon" href="http://www.community-health.eu/images/favicon.ico" />
+	<link rel="stylesheet" href="http://www.community-health.eu/templates/pp_joomla_1.0/css/template_css.css" type="text/css"/><link rel="stylesheet" href="http://www.community-health.eu/templates/pp_joomla_1.0/css/theme1.css" type="text/css"/><link rel="shortcut icon" href="http://www.community-health.eu/templates/pp_joomla_1.0/favicon.ico" />
+<link rel="alternate" type="application/rss+xml" title="RSS" href="http://www.community-health.eu/images/stories/videos/comhealth_rss.xml" />
+   
+
+<style media="screen" type="text/css">
+#mainbody{width:100%;}
+</style>
+
+
+<!-- Orentaion of the left most column -->
+
+<!-- Custom Variables -->
+<style media="screen" type="text/css">
+#wrapper {background-color:#ffffff;}
+#banner  {background-color:#ffffff;}
+h1, .componentheading, h3{color:#333333;}
+#elements, #footer, .sectiontableentry1, table.contenttoc th, blockquote {background-color:#; }
+body {color:#000000;}
+</style>
+
+
+
+</head>
+<body>
+<div id="wrapper">
+    <div class="inside">
+        <div id="header">
+            <div class="inside">
+                <a href="http://www.community-health.eu" id="logo" title="Community Health"></a>
+                <div id="navigation">
+                	                </div>
+                <div class="clr"></div>
+            </div>
+        </div>
+        		<div id="banner">
+					<div class="moduletable">
+			
+<!--swMenuFree4.0 mygosumenu by http://www.swonline.biz-->
+<script type="text/javascript" src="http://www.community-health.eu/modules/mod_swmenufree/DropDownMenuX_Packed.js"></script>
+
+<style type='text/css'>
+<!--
+.ddmx{
+border:0px solid #cccccc !important ; 
+}
+.ddmx a.item1,
+.ddmx a.item1:hover,
+.ddmx a.item1-active,
+.ddmx a.item1-active:hover {
+ padding: 5px 5px 5px 5px !important ; 
+ top: 0px !important ; 
+ left: 0px; 
+ font-size: 12px !important ; 
+ font-family: Arial, Helvetica, sans-serif !important ; 
+ text-align: left !important ; 
+ font-weight: bold !important ; 
+ color: #333333 !important ; 
+ text-decoration: none !important ; 
+ display: block; 
+ white-space: nowrap; 
+ position: relative; 
+ width:114px; 
+ height:12px; 
+}
+.ddmx td.item11 {
+ background-color: #FFFFFF !important ; 
+ padding:0 !important ; 
+ border-top: 1px solid #cccccc !important ; 
+ border-left: 1px solid #cccccc !important ; 
+ border-bottom: 1px solid #cccccc;
+ border-right: 0 !important ; 
+ white-space: nowrap !important ; 
+ width:114px; 
+ height:12px; 
+}
+.ddmx td.item11-last {
+ background-color: #FFFFFF !important ; 
+ padding:0 !important ; 
+ border: 1px solid #cccccc !important ; 
+ white-space: nowrap; 
+ width:114px; 
+ height:12px; 
+}
+.ddmx td.item11-acton {
+ padding:0 !important ; 
+ border-top: 1px solid #cccccc !important ; 
+ border-left: 1px solid #cccccc !important ; 
+ white-space: nowrap; 
+ border-bottom: 1px solid #cccccc;
+}
+.ddmx td.item11-acton-last {
+ border: 1px solid #cccccc !important ; 
+}
+.ddmx .item11-acton-last a.item1,
+.ddmx .item11-acton a.item1,
+.ddmx .item11-acton-last a:hover,
+.ddmx .item11-acton a:hover,
+.ddmx .item11 a:hover,
+.ddmx .item11-last a:hover,
+.ddmx a.item1-active,
+.ddmx a.item1-active:hover {
+ color: #333333 !important ; 
+ background-color: #67cc32 !important ; 
+}
+.ddmx a.item2,
+.ddmx a.item2:hover,
+.ddmx a.item2-active,
+.ddmx a.item2-active:hover {
+ padding: 5px 5px 5px 5px !important ; 
+ font-size: 12px !important ; 
+ font-family: Arial, Helvetica, sans-serif !important ; 
+ text-align: left !important ; 
+ font-weight: bold !important ; 
+ text-decoration: none !important ; 
+ display: block; 
+ white-space: nowrap; 
+ position: relative; 
+ z-index:500; 
+ height:20px; 
+ opacity:0.9; 
+}
+.ddmx a.item2 {
+ background-color: #86FF58 !important ; 
+ color: #333333 !important ; 
+ border-top: 1px solid #666666 !important ; 
+ border-left: 1px solid #666666 !important ; 
+ border-right: 1px solid #666666 !important ; 
+}
+.ddmx a.item2-last {
+ background-color: #86FF58 !important ; 
+ color: #333333 !important ; 
+ border-bottom: 1px solid #666666 !important ; 
+ z-index:500; 
+}
+.ddmx a.item2:hover,
+.ddmx a.item2-active,
+.ddmx a.item2-active:hover {
+ background-color: #ffffff !important ; 
+ color: #333333 !important ; 
+ border-top: 1px solid #666666 !important ; 
+ border-left: 1px solid #666666 !important ; 
+ border-right: 1px solid #666666 !important ; 
+}
+.ddmx .section {
+ border: 0px solid #666666 !important ; 
+ position: absolute; 
+ visibility: hidden; 
+ display: block; 
+ z-index: -1; 
+}
+.ddmxframe {
+ border: 0px solid #666666 !important ; 
+}
+* html .ddmx td { position: relative; } /* ie 5.0 fix */
+
+-->
+</style>
+<div align="left">
+<table cellspacing="0" cellpadding="0" id="menu" class="ddmx"  > 
+<tr> 
+<td class='item11'> 
+<a href="http://www.community-health.eu/content/view/1/2/" class="item1">Home</a><div class="section" ></div> 
+</td> 
+<td class='item11'> 
+<a href="http://www.community-health.eu/content/view/3/4/" class="item1">Project</a><div class="section"  ><a href="http://www.community-health.eu/content/view/2/3/" class="item2" >Summary</a>
+<a href="http://www.community-health.eu/content/view/44/51/" class="item2" >Aims</a>
+<a href="http://www.community-health.eu/content/view/4/5/" class="item2" >Workpackages</a>
+<a href="http://www.community-health.eu/content/view/5/6/" class="item2" >Results/Downloads</a>
+<div class="section"  ><a href="http://www.community-health.eu/content/view/49/55/" class="item2" >Community Health Management Guidelines</a>
+<a href="http://www.community-health.eu/content/view/51/56/" class="item2" >Proceedings of Project Conference</a>
+<a href="http://www.community-health.eu/content/view/52/57/" class="item2"  style="border-bottom:1px solid #666666">Project Examples</a>
+</div><a href="http://www.community-health.eu/content/view/26/34/" class="item2"  style="border-bottom:1px solid #666666">Podcast</a>
+</div></td> 
+<td class='item11'> 
+<a href="http://www.community-health.eu/content/view/6/7/" class="item1">Partner</a><div class="section"  ><a href="http://www.community-health.eu/content/view/7/8/" class="item2" >Liverpool John Moores University</a>
+<a href="http://www.community-health.eu/content/view/8/9/" class="item2" >The West University of Timisoara</a>
+<a href="http://www.community-health.eu/content/view/22/23/" class="item2" >University of Applied Sciences Fulda</a>
+<a href="http://www.community-health.eu/content/view/23/24/" class="item2" >Uppsala University</a>
+<a href="http://www.community-health.eu/content/view/32/41/" class="item2" >Latvia University of Agriculture</a>
+<a href="http://www.community-health.eu/content/view/33/40/" class="item2" >University of Vienna</a>
+<a href="http://www.bagso.de/"  target="_blank" class="item2" >German National Association of Senior Citizens´ Organisation</a><a href="http://www.verbraucher.de/"  target="_blank" class="item2" >Verbraucherzentrale Hessen</a><a href="http://www.dghev.de/"  target="_blank" class="item2" >Deutsche Gesellschaft für Hauswirtschaft e.V.</a><a href="http://www.community-health.eu/content/view/31/39/" class="item2"  style="border-bottom:1px solid #666666">Vienna University of Technology</a>
+</div></td> 
+<td class='item11'> 
+<a href="http://www.community-health.eu/content/view/9/10/" class="item1">Publications</a><div class="section"  ><a href="http://www.community-health.eu/content/view/19/19/" class="item2" >Press articles</a>
+<a href="http://www.community-health.eu/content/view/35/43/" class="item2" >Conference Presentations</a>
+<a href="http://www.community-health.eu/content/view/40/45/" class="item2" >Scientific Publications</a>
+<a href="http://www.community-health.eu/content/view/42/50/" class="item2"  style="border-bottom:1px solid #666666">Posters and Flyer</a>
+</div></td> 
+<td class='item11'> 
+<a href="http://www.community-health.eu/content/view/11/12/" class="item1">Events</a><div class="section"  ><a href="http://www.community-health.eu/content/view/48/54/" class="item2" >10/09 Brussels meeting</a>
+<a href="http://www.community-health.eu/content/view/36/44/" class="item2" >06/09 Open meeting</a>
+<a href="http://www.community-health.eu/content/view/21/21/" class="item2" >09/08 Vienna meeting</a>
+<a href="http://www.community-health.eu/content/view/20/22/" class="item2" >02/08 Kick off meeting</a>
+<a class="item2"  style="border-bottom:1px solid #666666" >National Events</a><div class="section"  ><a href="http://www.community-health.eu/content/view/34/53/" class="item2"  style="border-bottom:1px solid #666666">10/08 Fuldaer Stadtteilforum</a>
+</div></div></td> 
+<td class='item11-last'> 
+<a href="http://www.community-health.eu/content/view/13/14/" class="item1">Contact</a><div class="section"  ><a href="http://www.community-health.eu/content/view/14/15/" class="item2" >Contact the Project Leader</a>
+<a href="http://www.community-health.eu/content/view/15/16/" class="item2"  style="border-bottom:1px solid #666666">Webmaster</a>
+</div></td> 
+</tr> 
+</table></div> 
+<script type="text/javascript">
+<!--
+function makemenu(){
+var ddmx = new DropDownMenuX('menu');
+ddmx.delay.show = 0;
+ddmx.iframename = 'ddmx';
+ddmx.delay.hide = 300;
+ddmx.position.levelX.left = 0;
+ddmx.position.levelX.top = 0;
+ddmx.position.level1.left = 0;
+ddmx.position.level1.top = 0; 
+ddmx.fixIeSelectBoxBug = false;
+ddmx.init(); 
+}
+if ( typeof window.addEventListener != "undefined" )
+window.addEventListener( "load", makemenu, false );
+else if ( typeof window.attachEvent != "undefined" ) { 
+window.attachEvent( "onload", makemenu );
+}
+else {
+if ( window.onload != null ) {
+var oldOnload = window.onload;
+window.onload = function ( e ) { 
+oldOnload( e ); 
+makemenu() 
+} 
+}  
+else  { 
+window.onload = makemenu();
+} }
+--> 
+</script>  
+
+<!--End swMenuFree menu module-->
+		</div>
+				</div>
+		        <div id="elements">
+			<div class="inside">
+				<div id="pathway">
+					<span class="pathway">Home </span>				</div>
+				<div id="search">
+									</div>
+				<div class="clr"></div>
+			</div>
+		</div>
+        <div id="container">
+        	<div id="mainbody">
+        		<div id="content">
+                	                    <br />
+<b>Warning</b>:  Parameter 1 to HTML_content::show() expected to be a reference, value given in <b>/www/htdocs/w005841f/chance/includes/Cache/Lite/Function.php</b> on line <b>92</b><br />
+        		</div>
+                				<div id="sidebar">
+				    			<div class="moduletable">
+							<h3>
+					For Project Members				</h3>
+				<p>- <a href="http://www.project-platform.de/moodle/course/view.php?id=6" target="_blank">To our project platform </a><br />
+<a href="http://www.community-health.eu/content/view/4/5/">- Workpackages</a> <br />
+<a href="http://www.community-health.eu/content/view/18/17/">- About us</a></p>		</div>
+				<div class="moduletable">
+							<h3>
+					Chance-Podcast				</h3>
+				<table cellpadding="0" cellspacing="0" >
+<tr>
+	<td>
+		<strong>
+		<a href="http://www.community-health.eu/content/view/26/34/" target="_blank">
+Chance - The Community Health Podcast</a>
+		</strong>
+	</td>
+</tr>
+<tr>
+	<td>
+		<ul class="newsfeed">
+<li class="newsfeed">
+        <a  href="http://www.community-health.eu/images/stories/videos/comhealth_episode8.mp4" target="_blank">
+      Episode VIII - Final results and conclusion</a>
+</li>
+    </ul>
+	</td>
+</tr>
+</table>
+		</div>
+				<div class="moduletable">
+							<h3>
+					Podcast subscription				</h3>
+				<table cellspacing="1" cellpadding="1" border="0" width="200">
+    <tbody>
+        <tr>
+            <td><!--a target="_blank" href="http://phobos.apple.com/WebObjects/MZStore.woa/wa/viewPodcast?id=137617215&amp;s"--><img src="http://www.community-health.eu/images/stories/itunesfeed24.jpg" alt="itunes feed" /></td>
+            <td><!--a target="_blank" href="http://phobos.apple.com/WebObjects/MZStore.woa/wa/viewPodcast?id=137617215&amp;s"--><a href="http://phobos.apple.com/WebObjects/MZStore.woa/wa/viewPodcast?id=290046698">Subscribe with iTunes<br />
+            </a></td>
+        </tr>
+        <tr>
+            <td><a href="http://www.community-health.eu/images/stories/videos/comhealth_rss.xml" target="_blank">    <img alt="rss feed" src="http://www.community-health.eu/images/stories/podfeed24.jpg" />   </a></td>
+            <td><a href="http://www.community-health.eu/images/stories/videos/comhealth_rss.xml" target="_blank">Podcast feed</a></td>
+        </tr>
+    </tbody>
+</table>		</div>
+				<div class="moduletable">
+							<h3>
+					News				</h3>
+							<table class="contentpaneopen">
+			<tr>
+								<td class="contentheading" width="100%">
+					<a href="http://www.community-health.eu/content/view/53/2/" class="contentpagetitle">
+						12.06.2010 Sommerfest in Fulda / Germany</a>
+									</td>
+							</tr>
+			</table>
+			
+		<table class="contentpaneopen">
+				<tr>
+			<td valign="top" colspan="2">
+				Download the Flyer ...<br />			</td>
+		</tr>
+				</table>
+
+		<span class="article_seperator">&nbsp;</span>
+
+					<table class="contentpaneopen">
+			<tr>
+								<td class="contentheading" width="100%">
+					<a href="http://www.community-health.eu/content/view/48/2/" class="contentpagetitle">
+						15.10.09  project presentation and reception</a>
+									</td>
+							</tr>
+			</table>
+			
+		<table class="contentpaneopen">
+				<tr>
+			<td valign="top" colspan="2">
+				<br />			</td>
+		</tr>
+				</table>
+
+		<span class="article_seperator">&nbsp;</span>
+
+				</div>
+				<div class="moduletable">
+							<h3>
+					Funding				</h3>
+				<p><img src="foto/eu_logo.gif" alt="funding" width="150" height="53" /></p><p><span class="small">This project has been funded with support from the European Commission. This website reflects the views only of the author, and the Commission cannot be held responsible for any use which may be made of the information contained therein.</span> </p>		</div>
+						</div>
+				        		<div class="clr"></div>
+        	</div>
+                    	<div class="clr"></div>
+        </div>
+        <div id="footer">
+        	<div class="inside">
+        		<div id="link">
+                	&copy; 2018 <a href="http://www.hs-fulda.de" target="_blank">Hochschule Fulda University of Applied Sciences</a>	
+				</div>
+        		<div id="copy">
+        			Hosting and maintenance of this Website is supported by the <a href="http://www.inter-research.eu" target="_blank">Institute inter.research e.V.</a>
+					<br />Powered by <a href="http://www.joomla.org" target="_blank">Joomla!</a>.
+        		</div>
+        		<div class="clr"></div>
+        	</div>
+        </div>
+        <div class="clr"></div>
+    </div>
+</div>
+<div id="bottom">
+	</div>
+<div id="debug">
+	<div class="inside">
+			</div>
+</div>
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-11825404-1");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+</body>
+</html><!-- 1527701905 -->
+

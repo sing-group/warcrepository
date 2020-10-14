@@ -1,0 +1,46 @@
+WARC/1.0
+WARC-Type: warcinfo
+WARC-Date: 2018-05-30T17:52:30Z
+WARC-Record-ID: <urn:uuid:06a33263-2306-4454-a63d-061c1a86b948>
+WARC-All-Language: fr
+WARC-All-Content_type: text/html
+Content-Type: application/http;msgtype=response
+Content-Length: 46
+
+WARCProcessor by SING Group www.sing-group.com
+
+WARC/1.0
+WARC-Type: response
+WARC-Record-ID: <http://www.esmicrocirculation.eu>
+WARC-Date: 20180530175230
+WARC-Target-URI: http://www.esmicrocirculation.eu
+WARC-Language: fr
+Content-Type: application/http;msgtype=response
+Content-Length: 483
+
+HTTP/1.1 200
+Content-Type:text/html
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="refresh" content="0;http://www2.szote.u-szeged.hu/esm/" />
+<style type="text/css">
+#yh, #yh a {
+	font-size: 9px;
+	color: #eeeeee;
+	text-align: right;
+	border-bottom: none;
+	clear: both;
+}
+</style>
+
+</head>
+
+<body>
+<div id='yh'></div>
+</body>
+</html>
+
+

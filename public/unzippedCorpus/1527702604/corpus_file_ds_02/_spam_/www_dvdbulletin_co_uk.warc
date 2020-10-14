@@ -1,0 +1,27 @@
+WARC/1.0
+WARC-Type: warcinfo
+WARC-Date: 2018-05-23T07:59:32Z
+WARC-All-Language: es
+WARC-All-Content_type: text/html
+WARC-Record-ID: <urn:uuid:1c06ca93-05c8-40c3-99d7-c63764452679>
+Content-Type: application/http;msgtype=response
+Content-Length: 46
+
+WARCProcessor by SING Group www.sing-group.com
+
+WARC/1.0
+WARC-Type: response
+WARC-Target-URI: http://www.dvdbulletin.co.uk
+WARC-Date: 20180523075932
+WARC-Language: es
+WARC-Record-ID: <http://www.dvdbulletin.co.uk>
+Content-Type: application/http;msgtype=response
+Content-Length: 153
+
+HTTP/1.1 200
+Content-Type:text/html
+
+
+<html><head><META HTTP-EQUIV="refresh" CONTENT="0;URL=/cgi-sys/defaultwebpage.cgi"></head><body></body></html>
+
+

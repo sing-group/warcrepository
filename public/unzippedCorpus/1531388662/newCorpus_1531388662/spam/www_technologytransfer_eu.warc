@@ -1,0 +1,185 @@
+WARC/1.0
+WARC-Type: warcinfo
+WARC-Date: 2018-05-30T18:18:32Z
+WARC-Record-ID: <urn:uuid:a1e650f8-5d91-4959-85dd-478d75b41c53>
+WARC-All-Language: fr
+WARC-All-Content_type: text/html; charset=UTF-8, text/html
+Content-Type: application/http;msgtype=response
+Content-Length: 46
+
+WARCProcessor by SING Group www.sing-group.com
+
+WARC/1.0
+WARC-Type: response
+WARC-Record-ID: <http://www.technologytransfer.eu>
+WARC-Date: 20180530181832
+WARC-Target-URI: http://www.technologytransfer.eu
+WARC-Language: fr
+Content-Type: application/http;msgtype=response
+Content-Length: 21781
+
+HTTP/1.1 200
+Content-Type:text/html; charset=UTF-8
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml"><head> 
+<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+<style media="all" type="text/css">@import "/css/all.css";</style>
+<title>Technology Transfer Home Page</title>
+
+<style type="text/css">
+#spkRullo{overflow:hide;}
+
+	.nav-block .cite{ float:right; width:480px; height:146px; margin:0; padding:0; color:#666666; background:#666666 url(/docs/banners/2018Sem1Conf2.gif) no-repeat 19px 14px; font: normal 1px Arial, Helvetica, sans-serif;}
+
+#tribute p{font-size: 160%;	margin: 9px;	text-align: justify;}
+#tribute h2{font-size: 200%;	color:#ff6600}
+</style>
+</head><body>
+<div id="main">
+	<div id="content">
+
+		<div class="top-block">
+			
+			<div class="holder">
+				<span class="click-here">click the orange words!</span>
+				<h1>With our <a href="events.cfm">events</a> we have been changing the face of IT education in Europe for more than <a href="aboutUs.cfm">29 years</a>: see how our <a href="speakers.cfm">world class gurus</a> can help your company! And don't forget: we are in <a href="rome.cfm">Rome</a>, so a *very* pleasant stay is assured!</h1>
+				<a href="events.cfm" class="events-link">events</a>
+				<a href="aboutUs.cfm" class="years-link">20 years</a>
+				<a href="speakers.cfm" class="gurus-link">world class gurus</a>
+				<a href="rome.cfm" class="rome-link">Rome</a>
+			</div>
+			<a href="/rss.xml" class="rss-news"><img src="/images/rss-anim-icon.gif" width="30" height="30" alt="" /></a>
+
+		</div>
+
+		<div class="nav-block">
+			<a href="http://www.technologytransfer.eu/event/1790/Enterprise_Data_and_Analytics_Summit_2018.html" title="Enterprise Data & Analytics Summit 2018"><cite class="cite">Enterprise Data & Analytics Summit 2018</cite></a>
+			<ul>
+				<li><a href="events.cfm">Events</a></li>
+				<li><a href="speakers.cfm">speakers</a></li>
+				<li><a href="articles.cfm">free articles</a></li>
+				<li><a href="aboutUs.cfm">about us</a></li>
+			</ul>
+		</div>
+		<div class="more-block">
+			<div class="events"><h3>Upcoming Events:</h3>
+				<ul id="eveNext"> <li>
+	<span>From <strong>Jun 5 2018</strong><br />to <strong>Jun 6 2018</strong></span>
+	<strong><a href="event/1787/Designing,_building_and_running_Serverless_Applications_on_AWS.html">Designing, building and running Serverless Applications on AWS</a></strong><br />
+	by <em><a href="speaker/123/John_Chapin.html">John Chapin</a></em><hr />
+</li><li>
+	<span>From <strong>Jun 7 2018</strong><br />to <strong>Jun 7 2018</strong></span>
+	<strong><a href="event/1777/Introduction_to_Agile,_Scrum,_XP,_Kanban_and_Continuous_Delivery_in_practice.html">Introduction to Agile, Scrum, XP, Kanban and Continuous Delivery in practice</a></strong><br />
+	by <em><a href="speaker/170/Sander_Hoogendoorn.html">Sander Hoogendoorn</a></em><hr />
+</li><li>
+	<span>From <strong>Jun 8 2018</strong><br />to <strong>Jun 8 2018</strong></span>
+	<strong><a href="event/1020/Designing,_developing_and_deploying_a_Microservices_Architecture.html">Designing, developing and deploying a Microservices Architecture</a></strong><br />
+	by <em><a href="speaker/170/Sander_Hoogendoorn.html">Sander Hoogendoorn</a></em><hr />
+</li><li>
+	<span>From <strong>Jun 11 2018</strong><br />to <strong>Jun 13 2018</strong></span>
+	<strong><a href="event/1779/Apache_Spark_and_Machine_Learning_Workshop.html">Apache Spark and Machine Learning Workshop</a></strong><br />
+	by <em><a href="speaker/167/Andy_Petrella.html">Andy Petrella</a></em><hr />
+</li><li>
+	<span>From <strong>Jun 11 2018</strong><br />to <strong>Jun 11 2018</strong></span>
+	<strong><a href="event/1780/Digital_Transformation_Business_Overview.html">Digital Transformation<br />Business Overview</a></strong><br />
+	by <em><a href="speaker/91/Mike_Rosen.html">Mike Rosen </a></em><hr />
+</li><li>
+	<span>From <strong>Jun 12 2018</strong><br />to <strong>Jun 13 2018</strong></span>
+	<strong><a href="event/1781/Creating_the_New_Technology_Platform_for_Digital_Transformation.html">Creating the New Technology Platform for Digital Transformation</a></strong><br />
+	by <em><a href="speaker/91/Mike_Rosen.html">Mike Rosen </a></em><hr />
+</li><li>
+	<span>From <strong>Jun 14 2018</strong><br />to <strong>Jun 15 2018</strong></span>
+	<strong><a href="event/1782/Chief_Data_Officer_Master_Class.html">Chief Data Officer Master Class</a></strong><br />
+	by <em><a href="speaker/90/Derek_Strauss.html">Derek Strauss</a></em><hr />
+</li><li>
+	<span>From <strong>Jun 19 2018</strong><br />to <strong>Jun 20 2018</strong></span>
+	<strong><a href="event/1791/Enterprise_Data_Governance_and_Master_Data_Management.html">Enterprise Data Governance & Master Data Management</a></strong><br />
+	by <em><a href="speaker/7/Mike_Ferguson.html">Mike Ferguson</a></em><hr />
+</li><li>
+	<span>From <strong>Jun 21 2018</strong><br />to <strong>Jun 22 2018</strong></span>
+	<strong><a href="event/1790/Data_and_Analytics_Summit_2018.html">Data & Analytics Summit 2018</a></strong><br />
+	by <em><a href="speaker/7/Mike_Ferguson.html">Mike Ferguson</a></em><em>, <a href="speaker/39/Lawrence_Corr.html">Lawrence Corr </a></em><em>, <a href="speaker/113/Rick_van_der_Lans.html">Rick van der Lans</a></em><em>, <a href="speaker/122/Jen_Underwood.html">Jen Underwood</a></em><em>, <a href="speaker/124/Daragh_O'_Brien.html">Daragh O' Brien</a></em><hr />
+</li><li>
+	<span>From <strong>Jun 25 2018</strong><br />to <strong>Jun 26 2018</strong></span>
+	<strong><a href="event/1783/Data_Vault_Modeling_Workshop.html">Data Vault Modeling Workshop</a></strong><br />
+	by <em><a href="speaker/159/Hans_Hultgren.html">Hans Hultgren</a></em><hr />
+</li><li>
+	<span>From <strong>Jun 27 2018</strong><br />to <strong>Jun 28 2018</strong></span>
+	<strong><a href="event/1784/Leadership_Strategies_for_Enterprise_Architects_
+Maximizing_EA’s_Impact_on_Business_Performance.html">Leadership Strategies for Enterprise Architects<br /> 
+Maximizing EA’s Impact on Business Performance
+</a></strong><br />
+	by <em><a href="speaker/119/Chris_Potts.html">Chris Potts</a></em><hr />
+</li><li>
+	<span>From <strong>Oct 15 2018</strong><br />to <strong>Oct 17 2018</strong></span>
+	<strong><a href="event/1804/Mastering_the_Requirements_Process__
+Getting_Requirements_Right.html">Mastering the Requirements Process:<br /> 
+Getting Requirements Right</a></strong><br />
+	by <em><a href="speaker/3/Suzanne_Robertson.html">Suzanne Robertson</a></em><hr />
+</li><li>
+	<span>From <strong>Oct 18 2018</strong><br />to <strong>Oct 19 2018</strong></span>
+	<strong><a href="event/1805/Business_Analysis_Agility.html">Business Analysis Agility</a></strong><br />
+	by <em><a href="speaker/129/James_Robertson.html">James Robertson</a></em><hr />
+</li><li>
+	<span>From <strong>Oct 24 2018</strong><br />to <strong>Oct 25 2018</strong></span>
+	<strong><a href="event/1807/From_Business_Intelligence_to_Digital_Business__Architecture_and_Technologies.html">From Business Intelligence to Digital Business:<br /> Architecture and Technologies</a></strong><br />
+	by <em><a href="speaker/112/Barry_Devlin.html">Barry Devlin</a></em><hr />
+</li><li>
+	<span>From <strong>Nov 12 2018</strong><br />to <strong>Nov 12 2018</strong></span>
+	<strong><a href="event/1810/User_Experience_Strategy.html">User Experience Strategy</a></strong><br />
+	by <em><a href="speaker/32/James_Hobart.html">James Hobart</a></em><hr />
+</li><li>
+	<span>From <strong>Nov 13 2018</strong><br />to <strong>Nov 14 2018</strong></span>
+	<strong><a href="event/1809/User_Experience_Design.html">User Experience Design</a></strong><br />
+	by <em><a href="speaker/32/James_Hobart.html">James Hobart</a></em><hr />
+</li><li>
+	<span>From <strong>Nov 29 2018</strong><br />to <strong>Nov 30 2018</strong></span>
+	<strong><a href="event/1808/Agile_Project_Management_with_Certification.html">Agile Project Management with Certification</a></strong><br />
+	by <em><a href="speaker/166/Arie_van_Bennekum.html">Arie van Bennekum</a></em><hr />
+</li><li>
+	<span>From <strong>Dec 5 2018</strong><br />to <strong>Dec 6 2018</strong></span>
+	<strong><a href="event/1806/Designing,_operating_and_managing_an_Enterprise_Data_Lake.html">Designing, operating and managing an Enterprise Data Lake</a></strong><br />
+	by <em><a href="speaker/7/Mike_Ferguson.html">Mike Ferguson</a></em><hr />
+</li></ul>
+			</div>
+			<div class="speakers"><h3>Our Speakers:</h3>
+				<ul id="spkRullo"> <li><a href="/speaker/81/James_Weaver.html"> James Weaver</a></li><li><a href="/speaker/149/Aaron_Shenhar.html">Aaron Shenhar</a></li><li><a href="/speaker/166/Arie_van_Bennekum.html">Arie van Bennekum</a></li><li><a href="/speaker/112/Barry_Devlin.html">Barry Devlin</a></li><li><a href="/speaker/144/Beth_Cohen.html">Beth Cohen</a></li><li><a href="/speaker/125/Bill_Inmon.html">Bill Inmon</a></li><li><a href="/speaker/9/Chris_Date.html">Chris Date</a></li><li><a href="/speaker/146/Chris_Swan.html">Chris Swan</a></li><li><a href="/speaker/172/Christopher_Bradley.html">Christopher Bradley</a></li><li><a href="/speaker/23/Claudia_Imhoff.html">Claudia Imhoff</a></li><li><a href="/speaker/24/Colin_White.html">Colin White</a></li><li><a href="/speaker/153/Daniel_Eklund.html">Daniel Eklund</a></li><li><a href="/speaker/63/Danilo_Poccia.html">Danilo Poccia</a></li><li><a href="/speaker/124/Daragh_O'_Brien.html">Daragh O' Brien</a></li><li><a href="/speaker/34/David_Marco.html">David Marco</a></li><li><a href="/speaker/90/Derek_Strauss.html">Derek Strauss</a></li><li><a href="/speaker/21/Dimitris_Chorafas.html">Dimitris Chorafas</a></li><li><a href="/speaker/176/Donald_Farmer.html">Donald Farmer</a></li><li><a href="/speaker/116/Frank_Greco.html">Frank Greco</a></li><li><a href="/speaker/131/Fred_Beringer.html">Fred Beringer</a></li><li><a href="/speaker/22/Gerry_McGovern.html">Gerry McGovern</a></li><li><a href="/speaker/156/Gladys_S.W._Lam.html">Gladys S.W. Lam</a></li><li><a href="/speaker/159/Hans_Hultgren.html">Hans Hultgren</a></li><li><a href="/speaker/11/Harry_Chapman.html">Harry Chapman</a></li><li><a href="/speaker/32/James_Hobart.html">James Hobart</a></li><li><a href="/speaker/132/James_Lappin.html">James Lappin</a></li><li><a href="/speaker/129/James_Robertson.html">James Robertson</a></li><li><a href="/speaker/147/Jarrod_Gingras.html">Jarrod Gingras</a></li><li><a href="/speaker/122/Jen_Underwood.html">Jen Underwood</a></li><li><a href="/speaker/173/Jeroen_Derynck.html">Jeroen Derynck</a></li><li><a href="/speaker/123/John_Chapin.html">John Chapin</a></li><li><a href="/speaker/26/John_Kneiling.html">John Kneiling</a></li><li><a href="/speaker/28/John_Zachman.html">John Zachman</a></li><li><a href="/speaker/121/Jos_van_Dongen.html">Jos van Dongen</a></li><li><a href="/speaker/134/Joseph_Busch.html">Joseph Busch</a></li><li><a href="/speaker/15/Ken_Rau.html">Ken Rau</a></li><li><a href="/speaker/75/Ken_van_Wyk.html">Ken van Wyk</a></li><li><a href="/speaker/67/Larry_English.html">Larry English</a></li><li><a href="/speaker/39/Lawrence_Corr.html">Lawrence Corr </a></li><li><a href="/speaker/97/Luca_De_Grazia.html">Luca De Grazia</a></li><li><a href="/speaker/148/Mario_Finetti.html">Mario Finetti</a></li><li><a href="/speaker/8/Max_Dolgicer.html">Max Dolgicer</a></li><li><a href="/speaker/110/Merv_Adrian.html">Merv Adrian</a></li><li><a href="/speaker/17/Michael_Schmitz.html">Michael Schmitz</a></li><li><a href="/speaker/7/Mike_Ferguson.html">Mike Ferguson</a></li><li><a href="/speaker/91/Mike_Rosen.html">Mike Rosen </a></li><li><a href="/speaker/95/Nick_Meyne.html">Nick Meyne</a></li><li><a href="/speaker/151/Philip_Howard.html">Philip Howard</a></li><li><a href="/speaker/38/Ralph_Kimball.html">Ralph Kimball </a></li><li><a href="/speaker/57/Randy_Rice.html">Randy Rice</a></li><li><a href="/speaker/127/Ray_Tsang.html">Ray Tsang</a></li><li><a href="/speaker/154/Richard_Clark.html">Richard Clark</a></li><li><a href="/speaker/113/Rick_van_der_Lans.html">Rick van der Lans</a></li><li><a href="/speaker/20/Rob_Thomsett.html">Rob Thomsett</a></li><li><a href="/speaker/99/Robert_Kubis.html">Robert Kubis</a></li><li><a href="/speaker/150/Robin_Bloor.html">Robin Bloor</a></li><li><a href="/speaker/155/Ronald_Ross.html">Ronald Ross</a></li><li><a href="/speaker/78/Sean_Kelly.html">Sean Kelly</a></li><li><a href="/speaker/13/Shaku_Atre.html">Shaku Atre</a></li><li><a href="/speaker/37/Stephen_Few.html">Stephen Few</a></li><li><a href="/speaker/3/Suzanne_Robertson.html">Suzanne Robertson</a></li><li><a href="/speaker/4/Ted_Lewis.html">Ted Lewis</a></li><li><a href="/speaker/111/Tim_Mullen.html">Tim Mullen</a></li><li><a href="/speaker/152/Tim_Seears.html">Tim Seears</a></li><li><a href="/speaker/142/Tim_Walters.html">Tim Walters</a></li><li><a href="/speaker/133/Tushar_Hazra.html">Tushar Hazra</a></li><li><a href="/speaker/45/Weaver_James.html">Weaver James</a></li><li><a href="/speaker/19/Zach_Wahl.html">Zach Wahl</a></li></ul>
+				<span class="more-holder"><a href="speakers.cfm">and many others...</a></span>
+			</div>
+			<div class="themes"><h3>Tags</h3>
+				
+<p style="color:#666;line-height=40;"><a href="keyword/500/Agile_Agile.html" style="font-size: 195%;" title="Agile Agile">Agile</a> <a href="keyword/20/Analytics_Analytics.html" style="font-size: 195%;" title="Analytics Analytics">Analytics</a> <a href="keyword/448/BIG_DATA_BIG_DATA.html" style="font-size: 235%;" title="BIG DATA BIG DATA">BIG DATA</a> <a href="keyword/31/BPM_BPM.html" style="font-size: 118%;" title="BPM BPM">BPM</a> <a href="keyword/12/BUSINESS_ANALYSIS_BUSINESS_ANALYSIS.html" style="font-size: 174%;" title="BUSINESS ANALYSIS BUSINESS ANALYSIS">BUSINESS ANALYSIS</a> <a href="keyword/43/business_intelligence_business_intelligence.html" style="font-size: 189%;" title="business intelligence business intelligence">business intelligence</a> <a href="keyword/45/Business_Performance_Management_Business_Performance_Management.html" style="font-size: 108%;" title="Business Performance Management Business Performance Management">Business Performance Management</a> <a href="keyword/74/Cloud_Computing_Cloud_Computing.html" style="font-size: 174%;" title="Cloud Computing Cloud Computing">Cloud Computing</a> <a href="keyword/77/Content_Management_Content_Management.html" style="font-size: 141%;" title="Content Management Content Management">Content Management</a> <a href="keyword/88/Dashboard_Dashboard.html" style="font-size: 174%;" title="Dashboard Dashboard">Dashboard</a> <a href="keyword/248/Data_Governance_Data_Governance.html" style="font-size: 155%;" title="Data Governance Data Governance">Data Governance</a> <a href="keyword/94/data_integration_data_integration.html" style="font-size: 146%;" title="data integration data integration">data integration</a> <a href="keyword/5/Data_Lake_Data_Lake.html" style="font-size: 174%;" title="Data Lake Data Lake">Data Lake</a> <a href="keyword/95/Data_Management_Data_Management.html" style="font-size: 136%;" title="Data Management Data Management">Data Management</a> <a href="keyword/101/data_mining_data_mining.html" style="font-size: 128%;" title="data mining data mining">data mining</a> <a href="keyword/227/Data_Quality_Data_Quality.html" style="font-size: 195%;" title="Data Quality Data Quality">Data Quality</a> <a href="keyword/286/Data_Virtualization_Data_Virtualization.html" style="font-size: 163%;" title="Data Virtualization Data Virtualization">Data Virtualization</a> <a href="keyword/109/Data_Warehouse_Data_Warehouse.html" style="font-size: 183%;" title="Data Warehouse Data Warehouse">Data Warehouse</a> <a href="keyword/116/database_management_database_management.html" style="font-size: 134%;" title="database management database management">database management</a> <a href="keyword/134/DW_2.0_DW_2.0.html" style="font-size: 133%;" title="DW 2.0 DW 2.0">DW 2.0</a> <a href="keyword/146/ECM_ECM.html" style="font-size: 145%;" title="ECM ECM">ECM</a> <a href="keyword/160/enterprise_architecture_enterprise_architecture.html" style="font-size: 235%;" title="enterprise architecture enterprise architecture">enterprise architecture</a> <a href="keyword/175/Enterprise_Integration_Enterprise_Integration.html" style="font-size: 107%;" title="Enterprise Integration Enterprise Integration">Enterprise Integration</a> <a href="keyword/195/ETL_ETL.html" style="font-size: 119%;" title="ETL ETL">ETL</a> <a href="keyword/203/Extreme_Project_Management_Extreme_Project_Management.html" style="font-size: 174%;" title="Extreme Project Management Extreme Project Management">Extreme Project Management</a> <a href="keyword/215/GUI_GUI.html" style="font-size: 158%;" title="GUI GUI">GUI</a> <a href="keyword/436/Hadoop_Hadoop.html" style="font-size: 215%;" title="Hadoop Hadoop">Hadoop</a> <a href="keyword/403/Information_Architecture_Information_Architecture.html" style="font-size: 195%;" title="Information Architecture Information Architecture">Information Architecture</a> <a href="keyword/241/Intelligent_Business_Intelligent_Business.html" style="font-size: 130%;" title="Intelligent Business Intelligent Business">Intelligent Business</a> <a href="keyword/139/Internet_of_Things_Internet_of_Things.html" style="font-size: 195%;" title="Internet of Things Internet of Things">Internet of Things</a> <a href="keyword/259/IT_Performance_IT_Performance.html" style="font-size: 171%;" title="IT Performance IT Performance">IT Performance</a> <a href="keyword/271/Java_Java.html" style="font-size: 141%;" title="Java Java">Java</a> <a href="keyword/470/Knowledge_Management_Knowledge_Management.html" style="font-size: 174%;" title="Knowledge Management Knowledge Management">Knowledge Management</a> <a href="keyword/292/master_data_management_master_data_management.html" style="font-size: 187%;" title="master data management master data management">master data management</a> <a href="keyword/368/Performance_Management_Performance_Management.html" style="font-size: 119%;" title="Performance Management Performance Management">Performance Management</a> <a href="keyword/385/Project_Management_Project_Management.html" style="font-size: 159%;" title="Project Management Project Management">Project Management</a> <a href="keyword/355/Prototyping_Prototyping.html" style="font-size: 143%;" title="Prototyping Prototyping">Prototyping</a> <a href="keyword/408/Requirements_Specification_Requirements.html" style="font-size: 188%;" title="Requirements Specification Requirements">Requirements</a> <a href="keyword/50/Scala_Scala.html" style="font-size: 155%;" title="Scala Scala">Scala</a> <a href="keyword/108/Scrum_Scrum.html" style="font-size: 215%;" title="Scrum Scrum">Scrum</a> <a href="keyword/365/Social_Computing_Social_Computing.html" style="font-size: 153%;" title="Social Computing Social Computing">Social Computing</a> <a href="keyword/395/Software_Metrics_Software_Metrics.html" style="font-size: 145%;" title="Software Metrics Software Metrics">Software Metrics</a> <a href="keyword/439/Software_Testing_Software_Testing.html" style="font-size: 134%;" title="Software Testing Software Testing">Software Testing</a> <a href="keyword/28/SPARK_SPARK.html" style="font-size: 195%;" title="SPARK SPARK">SPARK</a> <a href="keyword/441/SQL_SQL.html" style="font-size: 139%;" title="SQL SQL">SQL</a> <a href="keyword/461/use_cases_use_cases.html" style="font-size: 110%;" title="use cases use cases">use cases</a> <a href="keyword/469/Web_Web.html" style="font-size: 174%;" title="Web Web">Web</a> <a href="keyword/473/Web_Content_Management_Web_Content_Management.html" style="font-size: 123%;" title="Web Content Management Web Content Management">Web Content Management</a> <a href="keyword/480/Web_Services_Web_Services.html" style="font-size: 159%;" title="Web Services Web Services">Web Services</a> </p>
+
+			</div>
+		</div>
+	</div>
+	<div id="footer"><p>&copy; 2008 Technology Transfer S.r.l.  - Piazza Cavour 3, 00193 Roma - Italy - Phone: +39 06 6832227 Fax: +39 06 6871102</p>
+<p>for general information: <span id="proMail"></span></p>
+<p>P.IVA 01820261004</p>
+<script type="text/javascript" src="/js/footer.js"></script>
+</div>
+	<div id="header">
+		<strong class="logo"><a href="/index.cfm">Technology Transfer</a></strong>
+		<span style="margin-left:200px;"><a href="http://www.facebook.com/pages/Technology-Transfer/207814472590883" title="Follow us on Facebook"><img src="/img/icFacebookOff.png" alt="" onmouseover="this.src='img/icFacebookOn.png'" onmouseout="this.src='img/icFacebookOff.png'"></a>
+		<a href="http://twitter.com/#!/techtran" title="Follow us on Twitter"><img src="/img/icTwitterOff.png" alt="" onmouseover="this.src='img/icTwitterOn.png'" onmouseout="this.src='img/icTwitterOff.png'"></a></span>
+		<a href="http://www.technologytransfer.it/index.cfm?klang=1" class="select-language">versione italiana</a>
+	</div>
+</div>
+<script type="text/javascript">
+	document.getElementById('spkRullo').setAttribute("style","height:"+ (document.getElementById('eveNext').offsetHeight - 58) +"px");
+</script><script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+var pageTracker = _gat._getTracker("UA-9169340-2");
+pageTracker._initData();
+pageTracker._trackPageview();
+var OLDTracker = _gat._getTracker("UA-3562055-4");
+OLDTracker._initData();
+
+OLDTracker._trackPageview();
+</script></body></html>
+

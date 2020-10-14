@@ -1,0 +1,760 @@
+WARC/1.0
+WARC-Type: warcinfo
+WARC-Date: 2018-05-30T17:52:31Z
+WARC-All-Language: en
+WARC-All-Content_type: text/html; charset=utf-8
+WARC-Record-ID: <urn:uuid:c5843be7-70b7-4bca-99d5-1988b109df61>
+Content-Type: application/http;msgtype=response
+Content-Length: 46
+
+WARCProcessor by SING Group www.sing-group.com
+
+WARC/1.0
+WARC-Type: response
+WARC-Target-URI: http://www.thebrokeronline.eu
+WARC-Date: 20180530175231
+WARC-Language: en
+WARC-Record-ID: <http://www.thebrokeronline.eu>
+Content-Type: application/http;msgtype=response
+Content-Length: 25315
+
+HTTP/1.1 200
+Content-Type:text/html; charset=utf-8
+
+
+<!DOCTYPE html>
+<html>
+<head>
+<!--
+	/**
+	 * We congratulate The Broker with their new, upgraded (HTML5!) website!
+	 * Created by Contactivity, www.contactivity.com
+	 * @author Terry Duivesteijn <terry@contactivity.com>
+	 * @author Stephan Csorba <stephan@contactivity.com>
+	 * @author David Ennis <david@contactivity.com>
+	 * @author Steve Bailey <steve@contactivity.com>
+	 */
+			    		 			 																																					
+-->    	<title>The Broker - Connecting worlds of knowledge</title>
+
+	
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+				
+	
+			    <meta name="author" content="eZ Systems" />
+						
+										<meta name="description" content="" />
+													<meta name="keywords" content="the broker, online, magazine, global, globalisation, justice, politics, economy, development, debate, blogs, policy, web platform, knowledge dissemination, science, international relations, cms, publish, e-commerce, content management, development framework" />
+					
+
+
+
+<meta name="twitter" content="" />
+
+<meta property="og:title" content="Home" />	<meta property="og:url" content="http://www.thebrokeronline.eu" />
+<meta property="og:locale" content="en_GB" />
+<meta property="og:site_name" content="The Broker - Connecting worlds of knowledge" />
+
+<link rel="Search" href="/content/search" title="Search The Broker" />
+<link rel="alternate" title="Latest postings" href="/rss/feed/en" type="application/rss+xml" />
+<link rel="alternate" title="Printable version" href="/layout/set/print" media="print" />
+<link href='//fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800' rel='stylesheet' type='text/css'>
+<link href='//fonts.googleapis.com/css?family=Droid Serif:400,300italic,300,100italic,100,400italic,500,500italic,700,700italic,900,900italic' rel='stylesheet' type='text/css'>
+<link rel="icon shortcut" type="image/ico" href="/extension/broker/design/broker/images/favicon.ico" /><script type="text/javascript" src="/extension/broker/design/broker/javascript/jquery-1.9.0.min.js"></script>
+<script type="text/javascript" src="/extension/broker/design/broker/javascript/modernizr-1.7.min.js"></script>
+<script type="text/javascript" src="/extension/broker/design/broker/javascript/slider.js"></script>
+<script type="text/javascript" src="/extension/broker/design/broker/javascript/jquery.tagcloud.js"></script>
+<script type="text/javascript" src="/extension/broker/design/broker/javascript/jquery.tinysort.min.js"></script>
+<script type="text/javascript" src="/extension/broker/design/broker/javascript/jquery.cookie.js"></script>
+<script type="text/javascript" src="/extension/broker/design/broker/javascript/jquery.scrollto.min.js"></script>
+<script type="text/javascript" src="/extension/broker/design/broker/javascript/markerclusterer.js"></script>
+<script type="text/javascript" src="/extension/broker/design/broker/javascript/navobile/src/jquery.navobile.min.js"></script>
+<script type="text/javascript" src="/extension/broker/design/broker/javascript/contactivity.global.js"></script>
+<script type="text/javascript" src="/extension/broker/design/broker/javascript/contactivity.html5.js"></script>
+<script type="text/javascript" src="/extension/broker/design/broker/javascript/bjqs-1.3.min.js"></script>
+<script type="text/javascript" src="/extension/broker/design/broker/javascript/jquery.sidr.min.js"></script>
+
+<link rel="stylesheet" type="text/css" href="/extension/broker/design/broker/stylesheets/contactivity.blueprint.css" media="all"/>
+<link rel="stylesheet" type="text/css" href="/extension/broker/design/broker/stylesheets/contactivity.global.css" media="all"/>
+<link rel="stylesheet" type="text/css" href="/extension/broker/design/broker/stylesheets/sidebar.global.css" media="all"/>
+<link rel="stylesheet" type="text/css" href="/extension/broker/design/broker/stylesheets/david.css" media="all"/>
+<link rel="stylesheet" type="text/css" href="/extension/socialize/design/socialize/stylesheets/socialize.css" media="all"/>
+<link rel="stylesheet" type="text/css" href="/extension/broker/design/broker/stylesheets/block-attribute.css" media="all"/>
+<link rel="stylesheet" type="text/css" href="/extension/broker/design/broker/stylesheets/jquery.sidr.light.css" media="all"/>
+<!-- prettyPhoto -->
+<script type="text/javascript" src="/extension/broker/design/broker/javascript/prettyphoto/jquery.prettyPhoto.js"></script>
+<link rel="stylesheet" type="text/css" href="/extension/broker/design/broker/javascript/prettyphoto/prettyPhoto.css" />
+<!-- fancybox -->
+<script type="text/javascript" src="/extension/broker/design/broker/javascript/fancybox/jquery.fancybox.js"></script>
+<link rel="stylesheet" type="text/css" href="/extension/broker/design/broker/javascript/fancybox/jquery.fancybox.css" />
+<script type="text/javascript" src="/extension/broker/design/broker/javascript/datatables/jquery.dataTables.js"></script>
+<link rel="stylesheet" type="text/css" href="/extension/broker/design/broker/javascript/datatables/css/jquery.dataTables_themeroller.css" />
+<link rel="stylesheet" type="text/css" href="/extension/broker/design/broker/stylesheets/print.css" media="print"/><!--[if IE 7]>
+	<link rel="stylesheet" type="text/css" href="/extension/broker/design/broker/stylesheets/ie7.css" media="all"/>
+<![endif]-->
+<!--[if IE 6]>
+    <link rel="stylesheet" type="text/css" href="/extension/broker/design/broker/stylesheets/ie6.css" media="all"/>
+<![endif]-->
+<link rel="stylesheet" type="text/css" href="/extension/broker/design/broker/stylesheets/slider.css" media="all"/>
+<link rel="stylesheet" type="text/css" href="/extension/broker/design/broker/stylesheets/responsive.css" media="all"/>
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1ser-scalable=no">	<script type="text/javascript">
+	var this_id = '';
+	$(document).ready(function(){		this_id = '';
+		if(this_id != ''){			setTimeout(function() {				$('html, body').animate({scrollTop: $('#node-'+this_id).offset().top - 60 }, 500);
+			}, 500);
+		}		
+		
+		this_block = '';
+		if(this_block != ''){			setTimeout(function() {				
+				if(this_block){					if($('#'+this_block).parents().parents().hasClass('closed')){						$('#'+this_block).parents().parents().removeClass('closed').addClass('opened');
+						$('#'+this_block).parents().slideDown();
+						$('body,html').animate({							scrollTop: $('#'+this_block).offset().top - 60
+						}, 800);
+					}else{						$('body,html').animate({							scrollTop: $('#'+this_block).offset().top - 60
+						}, 800);
+					}				}			}, 500);
+		}		
+		
+	});
+</script>
+</head>
+<body class="index_page
+			  node-2 BrokerHomepage view">
+			 
+<div id="fb-root"></div>
+
+	<script>(function(d, s, id) {
+	  var js, fjs = d.getElementsByTagName(s)[0];
+	  if (d.getElementById(id)) return;
+	  js = d.createElement(s); js.id = id;
+	  js.src = "//connect.facebook.net/en_US/all.js#xfbml=1&appId=300923680049809";
+	  fjs.parentNode.insertBefore(js, fjs);
+	}(document, 'script', 'facebook-jssdk'));</script>
+
+
+<div class="mobile-header-bar mobile-only">
+	<a id="mobile-menu" href="#mobile-menu" class="icon">
+		<span>Menu</span>
+	</a>
+</div>
+
+<div id="wrapper">
+	<div class="menu-container"><div class="footer"></div></div>
+	<div class="full_container" id="marginstretcher">		
+		<div class="indented_container">				
+			<header id="topheader" class="container">
+				<a href="/" class="logo">
+					<img src="/extension/broker/design/broker/images/logo.png" alt="The Broker" />
+				</a>			
+				<div class="social">
+
+	
+	<ul>
+		<li><a href="http://twitter.com/thebrokeronline" target="_blank"><img src="/extension/socialize/design/socialize/images/MySocialNetwork/24px/twitter.png" alt="Twitter" /></a></li>
+		<li><a href="http://www.facebook.com/thebrokeronline" target="_blank"><img src="/extension/socialize/design/socialize/images/MySocialNetwork/24px/facebook.png" alt="Facebook" /></a></li>
+		<li><a href="http://www.linkedin.com/company/the-broker?trk=company_logo" target="_blank"><img src="/extension/socialize/design/socialize/images/MySocialNetwork/24px/linkedin.png" alt="LinkedIn" /></a></li>
+							<li><a href="/rss/feed/en" target="_blank">
+					<img src="/extension/socialize/design/socialize/images/MySocialNetwork/24px/rss.png" alt="Rss" />
+					</a>
+				</li>
+					<li><a href="http://www.youtube.com/user/thebrokeronline" target="_blank"><img src="/extension/socialize/design/socialize/images/MySocialNetwork/24px/youtube.png" alt="Youtube" /></a></li>
+		<li class="subscribe_blue">
+				<div class="box"> 
+
+					<img class="sub_image" src="/extension/socialize/design/socialize/images/MySocialNetwork/24px/subscribe_trans.png" alt="Subscribe" />
+							<p class="sub_text">Subscribe</p>	
+				</div>
+				<div class="subscribe_dropdown" style="display:none;">
+					<a class="subscribe" href="/subscribe">Our monthly The Broker newsletter &#x25b6;</a> <br>
+					
+				</div>
+
+		</li>
+		<div class="clear"></div>
+	</ul>
+</div>
+									
+<nav class="menuBox" id="menu">
+	
+	<span id="menu-container">
+	<ul>
+	<li class="first open selected">
+		<a class="level1" href="/">Home</a>
+	</li>
+
+	
+	
+		
+	<li class="">
+		<a class="level1" href="/About-The-Broker">
+							About
+					</a>
+									<ul>
+			
+		
+		
+				
+								
+			<li>
+									<a href="/About-The-Broker/(scrollto)/10737" rel="node-10737">
+															Who we are
+									</a>
+			</li>
+									
+			<li>
+									<a href="/About-The-Broker/(scrollto)/10741" rel="node-10741">
+															The Broker team
+									</a>
+			</li>
+									
+			<li>
+									<a href="/About-The-Broker/(scrollto)/10742" rel="node-10742">
+															The Broker board
+									</a>
+			</li>
+									
+			<li>
+									<a href="/About-The-Broker/(scrollto)/10744" rel="node-10744">
+															Authors
+									</a>
+			</li>
+													
+								
+		</ul>
+
+	</li>
+
+	
+		
+	<li class="">
+		<a class="level1" href="/Programmes">
+							Programmes
+					</a>
+									<ul>
+			
+		
+		
+				
+								
+			<li>
+									<a href="/Programmes/Sahel-Watch" class="" rel="node-15657">
+															Sahel Watch
+									</a>
+			</li>
+									
+			<li>
+									<a href="/Programmes/Inclusive-Economy-Africa" class="" rel="node-15659">
+															Inclusive Economy Africa
+									</a>
+			</li>
+									
+			<li>
+									<a href="/Programmes/Inclusive-Economy-Europe" class="" rel="node-15660">
+															Inclusive Economy Europe
+									</a>
+			</li>
+								
+		</ul>
+
+	</li>
+
+	
+		
+	<li class="">
+		<a class="level1" href="/Projects-and-Partners">
+							Projects
+					</a>
+									<ul>
+			
+		
+		
+				
+												
+								
+		</ul>
+
+	</li>
+
+	
+		
+	<li class="">
+		<a class="level1" href="/Our-products-and-services">
+							Services
+					</a>
+									<ul>
+			
+		
+		
+				
+		
+		</ul>
+
+	</li>
+
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+		
+	<li class="">
+		<a class="level1" href="/Contact-Us">
+							Contact
+					</a>
+									<ul>
+			
+		
+		
+				
+		
+		</ul>
+
+	</li>
+
+	
+	
+	</ul>
+	</span>
+		
+	<span id="search-form">
+	<form method='get' id='searchform1' action="/ccm_eztag_find/main/search">
+		<input onfocus="if (this.value=='search') this.value = ''"
+			   class="field" type="text" name="q" id="Search2"
+			   value='search'>			
+		<input type='submit' class="menu search" id='submit' value='' onclick='handleSearchFormSubmit()'/>
+	</form>
+	</span>
+	
+</nav>
+
+<!-- part menu.tpl -->
+								<div class="clear"></div>
+			</header>
+
+							
+																		<div class="topBlocks">
+								<div class="column left fixedheight" id="highlightleft">
+										
+																							<section class="block context">
+					<a class="more-highlight" href="/About" title="About us">
+				<div class="headline">
+			<h1>Who we are and what we do</h1>
+		</div>
+		<div class="inline-content">
+			<p>The Broker is an innovative think net on globalization and development. We connect scientists, academics, policy-makers and practitioners. 
+</br>
+</br>
+More about The Broker &nbsp; &#x25b6;</p>
+		</div>
+			</a>
+		</section>																					<div class="clear"></div>
+								</div>
+								<div class="column right wide fixedheight  " id="highlightright">
+										
+																						
+	
+<div id="banner-fade" class="">
+	<ul class="bjqs ">		
+					<li>
+				<a href="/News/How-can-FNS-programming-do-good-in-fragile-settings">
+			<img alt="Woman in the DRC / Photo by Abel Kavanagh / Via Flickr" src="/var/broker/storage/images/news/how-can-fns-programming-do-good-in-fragile-settings/815598-4-eng-GB/How-can-FNS-programming-do-good-in-fragile-settings_carousel.jpg" />
+		<div class="headouter">
+				<div class="head">
+			The Broker’s blog: Another Perspective
+		</div>
+						<div class="title">
+			<h3>How can FNS programming ‘do good’ in fragile settings?</h3>
+		</div>
+	
+		<div class="text">
+							<h4>
+						Closing workshop of The Broker’s project on conflict sensitivity in Food Security Programming 
+				</h4>
+						<div class="pubDate">
+						</div>
+								Read all about the conclusion of our recent project on conflict sensitive Food and Nutrition Security (FNS) programming in fragile settings.
+					</div>
+	</div>
+</a>
+			</li>
+			</ul>
+</div>
+																						
+	
+<div id="banner-fade" class="">
+	<ul class="bjqs noside">		
+			</ul>
+</div>
+										                                                
+										<div class="clear"></div>
+								</div>
+							</div>
+																<div class="middle">
+						<div class="column left" id="columnleft">
+								
+																		
+<div class="block programme">
+			<div class="headline empty">
+			<h3></h3>
+		</div>
+		
+	
+							
+		<a href="/Programmes/Sahel-Watch">
+<programme>
+				<div class="image programme floatLeft">
+	<a href="/Programmes/Sahel-Watch">
+		<img src="/var/broker/storage/images/programmes/sahel-watch/795747-52-eng-GB/Sahel-Watch.png" alt="Sahel Watch" />
+	</a>
+	</div>
+
+	<a href="/Programmes/Sahel-Watch">
+	<div class="inline-2column">
+
+					<h3>Programme<br/>Sahel Watch</h3>
+			</div>
+</programme>
+</a>
+		
+							
+			<div class="image">
+
+		<a href="/Blogs/Sahel-Watch-a-living-analysis-of-the-conflict-in-Mali/Does-the-world-know-what-it-wants-in-the-Sahel">
+			<img src="/var/broker/storage/images/blogs/sahel-watch-a-living-analysis-of-the-conflict-in-mali/does-the-world-know-what-it-wants-in-the-sahel/815811-1-eng-GB/Does-the-world-know-what-it-wants-in-the-Sahel_column.jpg" alt="Does the world know what it wants in the Sahel?" />
+		</a>
+	</div>
+			<div class="featured">
+			<h2>Featured from this programme</h2>
+		</div>
+	<div class="inline-content">
+<a href="/Blogs/Sahel-Watch-a-living-analysis-of-the-conflict-in-Mali/Does-the-world-know-what-it-wants-in-the-Sahel">
+	
+			<h3>Does the world know what it wants in the Sahel?</h3>
+		
+			<div class="pubDate">
+																   Zoë&nbsp;Gorman
+				&nbsp;|&nbsp;21 February 2018
+		</div>
+		<!-- body blog_post -->
+
+		
+		
+			<p>
+							The international community and G5 states should evaluate their objectives and commitment to the force to meet the needs of local populations.
+					</p>
+	</a>
+</div>
+
+		
+	
+</div>
+<div class="clear"></div>
+
+																			
+<div class="block policy">
+			<div class="headline">
+			<h3>The Broker Products</h3>
+		</div>
+		<div class="inline-content">
+					<article>								<p>Would you like to make use of The Broker’s products? We have the following building blocks on offer:</p>
+<ul>
+
+<li><a href="/Our-products-and-services" target="_blank" >Digital web environments and knowledge platforms</a></li>
+
+<li><a href="/Our-products-and-services" target="_blank" >Policy analysis, recommendations, synthesis reports</a></li>
+
+<li><a href="/Our-products-and-services" target="_blank" >Consultations with experts</a></li>
+
+<li><a href="/Our-products-and-services" target="_blank" >Expert meetings and conferences</a></li>
+
+<li><a href="/Our-products-and-services" target="_blank" >Research uptake</a></li>
+
+<li><a href="/Our-products-and-services" target="_blank" >Mapping existing knowledge and literature</a></li>
+
+<li><a href="/Our-products-and-services" target="_blank" >Living analysis</a></li>
+
+</ul>
+&nbsp; <p>&nbsp; <p><a href="/Our-products-and-services" target="_blank" >More about our products ▶</a></p>
+				</a>
+			</article>
+			</div>
+</div>
+																<div class="clear"></div>
+						</div>	
+						<div class="column center" id="columncenter">
+								
+																		
+<div class="block programme">
+			<div class="headline empty">
+			<h3></h3>
+		</div>
+		
+	
+							
+		<a href="/Programmes/Inclusive-Economy-Africa">
+<programme>
+				<div class="image programme floatLeft">
+	<a href="/Programmes/Inclusive-Economy-Africa">
+		<img src="/var/broker/storage/images/programmes/inclusive-economy-africa/795809-1-eng-GB/Inclusive-Economy-Africa.png" alt="Inclusive Economy Africa" />
+	</a>
+	</div>
+
+	<a href="/Programmes/Inclusive-Economy-Africa">
+	<div class="inline-2column">
+
+					<h3>Programme<br/>Inclusive Economy Africa</h3>
+			</div>
+</programme>
+</a>
+		
+							
+			<div class="image">
+
+		<a href="/Blogs/Inclusive-Economy-Africa/Beyond-good-intentions-fair-research-partnerships-essential-for-resilience-in-low-income-countries">
+			<img src="/var/broker/storage/images/blogs/inclusive-economy-africa/beyond-good-intentions-fair-research-partnerships-essential-for-resilience-in-low-income-countries/816282-11-eng-GB/Beyond-good-intentions-fair-research-partnerships-essential-for-resilience-in-low-income-countries_column.jpg" alt="Beyond good intentions – fair research partnerships essential for resilience in low income countries" />
+		</a>
+	</div>
+			<div class="featured">
+			<h2>Featured from this programme</h2>
+		</div>
+	<div class="inline-content">
+<a href="/Blogs/Inclusive-Economy-Africa/Beyond-good-intentions-fair-research-partnerships-essential-for-resilience-in-low-income-countries">
+	
+			<h3>Beyond good intentions – fair research partnerships essential for resilience in low income countries</h3>
+		
+			<div class="pubDate">
+																   Harry&nbsp;van Schooten
+													   Carel&nbsp;IJsselmuiden
+				&nbsp;|&nbsp;23 May 2018
+		</div>
+		<!-- body blog_post -->
+
+		
+		
+			<p>
+							Low and middle income countries need increased capacity and leadership in solving their national problems. What is needed to create a sustainable science infrastructure to do so?
+					</p>
+	</a>
+</div>
+
+		
+	
+</div>
+<div class="clear"></div>
+
+																			
+<div class="block policy">
+			<div class="headline">
+			<h3>Projects and partners</h3>
+		</div>
+		<div class="inline-content">
+					<article>								<p>The Broker is constantly working with its partners and clients on projects.</p><p>&nbsp;</p><p>
+<a href="/Projects-and-Partners" target="_blank" >More about our projects and</a><br /><a href="/Projects-and-Partners" target="_blank" >partners ▶</a></p>
+				</a>
+			</article>
+			</div>
+</div>
+																			
+<div class="block policy">
+			<div class="headline">
+			<h3>Recommendations</h3>
+		</div>
+		<div class="inline-content">
+					<article>								<p>&quot;The Broker combines high quality research and analysis with great communication skills, and thus, fulfils an extremely useful role in making new policy insights available to policy-makers and the broader public.&quot;</p><p><i>Inge Kaul, Adjunct Professor, Hertie School of Governance, Berlin, Germany</i></p><p>&nbsp;</p><p><a href="/Projects-and-Partners/Recommendations" target="_blank" >More recommendations ▶</a></p>
+				</a>
+			</article>
+			</div>
+</div>
+																<div class="clear"></div>
+						</div>	
+						<div class="column right" id="columnright">
+								
+																		
+<div class="block programme">
+			<div class="headline empty">
+			<h3></h3>
+		</div>
+		
+	
+							
+		<a href="/Programmes/Inclusive-Economy-Europe">
+<programme>
+				<div class="image programme floatLeft">
+	<a href="/Programmes/Inclusive-Economy-Europe">
+		<img src="/var/broker/storage/images/programmes/inclusive-economy-europe/795819-1-eng-GB/Inclusive-Economy-Europe.png" alt="Inclusive Economy Europe" />
+	</a>
+	</div>
+
+	<a href="/Programmes/Inclusive-Economy-Europe">
+	<div class="inline-2column">
+
+					<h3>Programme<br/>Inclusive Economy Europe</h3>
+			</div>
+</programme>
+</a>
+		
+							
+			<div class="image">
+
+		<a href="/Blogs/Inclusive-Economy-Europe/Building-an-inclusive-narrative-and-focusing-on-integration-the-new-way-forward">
+			<img src="/var/broker/storage/images/blogs/inclusive-economy-europe/building-an-inclusive-narrative-and-focusing-on-integration-the-new-way-forward/815873-1-eng-GB/Building-an-inclusive-narrative-and-focusing-on-integration-the-new-way-forward_column.jpg" alt="Building an inclusive narrative and focusing on integration: the new way forward" />
+		</a>
+	</div>
+			<div class="featured">
+			<h2>Featured from this programme</h2>
+		</div>
+	<div class="inline-content">
+<a href="/Blogs/Inclusive-Economy-Europe/Building-an-inclusive-narrative-and-focusing-on-integration-the-new-way-forward">
+	
+			<h3>Building an inclusive narrative and focusing on integration: the new way forward</h3>
+		
+			<div class="pubDate">
+																   Míriam&nbsp;Juan-Torres
+				&nbsp;|&nbsp;28 February 2018
+		</div>
+		<!-- body blog_post -->
+
+		
+		
+			<p>
+							When politicians recognize that refugees remain refugees for a long time, it becomes necessary to redesign the refugee system.
+					</p>
+	</a>
+</div>
+
+		
+	
+</div>
+<div class="clear"></div>
+
+																		
+<div class="block news">
+			<div class="headline">
+			<h3>News about The Broker</h3>
+		</div>
+		
+	
+
+
+					<div class="inline-content">
+			<h4><a href="/News/New-chair-and-three-new-board-members-for-The-Broker">New chair and three new board members for The Broker</a></h4>
+			<div class="pubDate">
+									May 03, 2018
+							</div>
+		</div>
+				<div class="inline-content">
+			<h4><a href="/News/Time-for-a-change-The-Broker-is-moving-to-The-Hague-Bazaar-of-Ideas">Time for a change: The Broker is moving to The Hague ‘Bazaar of Ideas’</a></h4>
+			<div class="pubDate">
+									April 16, 2018
+							</div>
+		</div>
+				<div class="inline-content">
+			<h4><a href="/News/The-Broker-at-work-Sharing-insights-from-the-IOB-Lustrum-Symposium">The Broker at work: Sharing insights from the IOB Lustrum Symposium</a></h4>
+			<div class="pubDate">
+									March 29, 2018
+							</div>
+		</div>
+				<div class="inline-content">
+			<h4><a href="/News/Our-contribution-to-a-renewed-Dutch-development-policy">Our contribution to a renewed Dutch development policy</a></h4>
+			<div class="pubDate">
+									March 15, 2018
+							</div>
+		</div>
+				<div class="inline-content">
+			<h4><a href="/News/How-can-FNS-programming-do-good-in-fragile-settings">How can FNS programming ‘do good’ in fragile settings?</a></h4>
+			<div class="pubDate">
+									February 08, 2018
+							</div>
+		</div>
+				<div class="inline-content">
+			<h4><a href="/News/More-innovation-and-inspiration-Civil-society-partnerships-for-civic-action">More innovation and inspiration: Civil society partnerships for civic action</a></h4>
+			<div class="pubDate">
+									February 08, 2018
+							</div>
+		</div>
+				<div class="inline-content">
+			<h4><a href="/News/Getting-to-know-our-new-captains">Getting to know our new captains</a></h4>
+			<div class="pubDate">
+									January 10, 2018
+							</div>
+		</div>
+				<div class="inline-content">
+			<h4><a href="/News/Research-policy-two-peas-in-a-pod-Impressions-of-a-food-security-impact-dialogue2">‘Research &amp; policy: two peas in a pod?’ Impressions of a food security impact dialogue</a></h4>
+			<div class="pubDate">
+									December 20, 2017
+							</div>
+		</div>
+			
+
+		<div class="inline-content">
+				<p><a href="/News">More news ▶</a></p>
+	</div>
+	
+
+</div>
+<div class="clear"></div>																<div class="clear"></div>
+						</div>
+					</div>						
+						<div class="clear"></div>
+		</div>
+		<div class="clear"></div>
+	</div>
+	<div class="full-container footer">
+		<footer>
+
+				<div class="copyright box">
+	<div class="col">
+		<ul>
+			<li><a href="http://creativecommons.org/licenses/by-nc-nd/3.0/nl/deed.en" target="_blank">COPYRIGHT</a></li>
+			<li><a href="/About-the-Broker/Disclaimer">DISCLAIMER</a></li>
+			<li><a href="/About-the-Broker">COLOFON</a></li>
+			<li class="last"><a href="/Contact-Us">CONTACT US</a></li>
+		</ul>
+		<p>
+			<span class="copyright">&copy; 2018 Publisher IDP</span> Minahassastraat 1 - 1094 RS Amsterdam - The Netherlands | <a href="http://www.csorbamedia.com" target="_blank">Csorba Media</a>
+		</p>
+	</div>
+	
+	<div class="clear"></div>
+</div>
+
+<script type="text/javascript">
+jQuery(document).ready(function($){
+	expandBlocks();
+});
+</script>
+
+
+		</footer>
+		<div class="clear"></div>
+	</div>
+	<div class="clear"></div>
+</div>
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-860956-2', 'thebrokeronline.eu');
+  ga('create', 'UA-35420442-3', {'name':'brokernew'});
+  ga('send', 'pageview');
+  ga('brokernew.send', 'pageview');
+
+</script>
+
+<a class="ui-icon ui-icon-top scrolltohome"></a>
+</body>
+
+</html>
+
+

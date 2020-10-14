@@ -1,0 +1,191 @@
+WARC/1.0
+WARC-Type: warcinfo
+WARC-Date: 2018-05-30T17:52:31Z
+WARC-Record-ID: <urn:uuid:378215f7-42ab-469c-ba75-29d46d61b8b4>
+WARC-All-Language: en
+WARC-All-Content_type: text/html
+Content-Type: application/http;msgtype=response
+Content-Length: 46
+
+WARCProcessor by SING Group www.sing-group.com
+
+WARC/1.0
+WARC-Type: response
+WARC-Record-ID: <http://www.bloomsyndrome.eu>
+WARC-Date: 20180530175231
+WARC-Target-URI: http://www.bloomsyndrome.eu
+WARC-Language: en
+Content-Type: application/http;msgtype=response
+Content-Length: 6716
+
+HTTP/1.1 200
+Content-Type:text/html
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+	<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+	<title>Stichting Bloom Syndroom, The Bloom Foundation, BloomSyndrome.eu</title>
+	<meta name="keywords" content="afwijking, aandoening, syndroom, bloom, stichting bloom, stichting, audio, belangstelling, bericht, bloom, bloomsydrome, contact, controller, dank, de, diensten, eu, foto, hendriks, hendriks it, hendriks-it, hendriks-it.nl, syndrome, hurk, henri, annemarie, toon, van den hurk, nistelrode" />
+	<meta name="description" content="The Bloom Syndrome Foundation is established to fund research aiming at the development of a therapy for Bloom's syndrome and the prevention of its complications, primarily the significant risk of developing cancers at early ages." />
+	 <meta name="author" content="Hendriks IT http://www.hendriks-it.nl">
+	<link href="bloom.css" rel="stylesheet" type="text/css" />
+  	<link rel="shortcut icon" href="/favicon.ico" type="image/x-icon" />
+	<script src="js/prototype.js" type="text/javascript"></script>
+	<script src="js/scriptaculous.js?load=effects" type="text/javascript"></script>
+	<script src="js/lightbox.js" type="text/javascript"></script>
+	<script src="js/kunstkoppel.js" type="text/javascript"></script>
+</head>
+
+<body>
+<div id="header">
+	<div id="logo">
+    <h1><a href="#"><font color="#000000">The BloomSyndrome Foundation</font></a></h1>
+    <h2><font color="#FF9900">A healthy child has many wishes, a sick child only
+      one....</font></h2>
+	</div>
+	<div id="topmenu">
+		<ul>
+			<li><a href="/dutch/index.php">Dutch</a></li>
+			<li><a href="mailto:info@bloomsyndrome.eu">Mail us</a></li>
+		</ul>	</div>
+</div>
+<div id="header2">
+	<div id="menu">
+		<ul>
+			<li><a href="index.php">About us</a></li>
+			<li><a href="whatis.php">What is Bloomsyndrome</a></li>
+			<li><a href="how.php">How can you help</a></li>
+			<li><a href="contact.php">Contact</a></li>
+		</ul>	</div>
+	<div id="splash"><img src="images/img04.gif" alt="" width="560" height="200" /></div>
+</div>
+<hr />
+<div id="page">
+  <div id="content">
+    <div>
+      <h1 class="title">Welcome to Our Website!</h1>
+      <div class="content">
+        <p align="justify"><img src="images/bloomgroot.jpg" alt=""  width="300" class="left" />The
+          Bloom Syndrome Foundation is established to fund research aiming at
+          the development of a therapy for Bloom's syndrome and the prevention
+          of its complications, primarily the significant risk of developing cancers
+          at early ages. Blooms syndrome is a very rare inherited genetic disorder.
+          Because it is so seldom found, research labs and pharmaceutical corporations
+          are not interested to investigate this syndrome or the complications
+          of it. A patient with this disorder however, doesnt care about this
+          seldomness. At the beginning of 2006 a lab was set up at the Ohio University
+          Comprehensive Cancer Center (US) to do research on Bloom syndrome. This
+          research is initiated and funded by the Bloom's Syndrome Foundation.
+          The first steps on the research path have been made. This is very encouraging,
+          but these are only the first steps. In behalf of all the patients of
+          Bloom syndrome, new steps have to be made. To support this research,
+          The Bloom Syndrome Foundation wants to collect funds. For this, we need
+          your help. You can make a difference. Your donation can make miracles
+          happen, as: </p>
+        <h2>... A healthy child has many wishes, a sick child only one... </h2>
+        <blockquote>
+          <p> The Bloom Syndrome Foundation has the support of the 'Advisory Board'
+            which include: </p>
+          <p>Dr. C.M.R. Weemaes<br />
+            UMC St. Radboud Kinderimmunologie en Infectieziekten <br />
+            Postbus 9101 6500 HB Nijmegen <br />
+            The Netherlands</p>
+          <p>Prof. Dr.med. E. Passarge Emeritus <br />
+            Direktor Institut fr Humangenetik Universitatsklinikum<br />
+            Essen Hufelandstrasse 55 45122 Essen <br />
+            Germany </p>
+        </blockquote>
+      </div>
+    </div>
+    <div class="twocols">
+      <div class="col1">
+        <h2 class="title">BSF Scientific Research</h2>
+        <div class="content">
+			<p>
+
+					For current scientific grant research you can also look at : <a href="http://www.bloomssyndrome.org" target="_new">bloomssyndrome.org</a>
+			</p>
+        </div>
+      </div>
+      <div class="col2">
+        <h2 class="title">Interesting Links</h2>
+        <div class="content">
+          <ul class="list">
+
+
+
+
+            <li><a href="http://med.cornell.edu/bsr" target="_new">Bloom's Syndrome Registry</a></li>
+
+
+            <li><a href="http://www.milogladsteinfoundation.org" target="_new">Bloom's Syndrome Foundation</a></li>
+
+
+            <li><a href="http://nl.wikipedia.org/wiki/Syndroom_van_Bloom" target="_new">Wikipedia</a></li>
+
+
+            <li><a href="http://www.bloomsconnect.org" target="_new">Bloom's Connect</a></li>
+
+
+            <li><a href="http://www.sherparacingteam.nl" target="_new">Sherpa Racing Team</a></li>
+
+
+            <li><a href="http://www.bloomssyndromeassociation.org/" target="_new">Blooms Syndrome Association</a></li>
+  
+  </ul>        </div>
+      </div>
+    </div>
+  </div>
+  <div id="sidebar">
+    <ul>
+      <li>
+        <h2>Latest News</h2>
+        <ul>
+
+
+
+          <li >
+            <h3>Research and Data Priorities</h3>
+		<p>&nbsp;Click <a href="http://molecularcasestudies.cshlp.org/content/4/2/a002816.full">here</a></p>          </li>
+
+<li>
+	<h3>Bloom's Syndrome Registry</h3>
+	James L. German III, MD<br>
+	Professor, Departments of Pediatrics and Microbiology<br>
+	Cornell University Medical College<br>
+	1300 York Avenue<br>
+	New York, NY 10021<br>
+	Tel: 1 212 570-3075<br>
+	Fax: 1 212 570-3195 <br>
+</li>
+
+<li>
+	<h3>Donate Us!</h3>
+	NL79RABO0124853153 tnv Stichting Bloom Syndrome te Nistelrode 
+</li>
+
+<li>
+	<a href="nieuws.php">View more news...</a>
+</li>
+		</ul>
+    </ul>
+  </div>
+
+  <div style="clear: both;">&nbsp;</div>
+</div>
+<hr />
+<div id="footer-wrapper">
+
+  <div id="footer">
+    <p id="legal">Copyright &copy; 2009 <br />
+      <a href="http://www.hendriks-it.nl">Hendriks IT</a>. All Rights Reserved</p>
+
+    <p id="links"><a href="colofon.php">ANBI</a> </p>
+	</div>
+</div>
+</body>
+</html>
+
+

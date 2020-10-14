@@ -1,0 +1,250 @@
+WARC/1.0
+WARC-Type: warcinfo
+WARC-Date: 2018-05-30T18:18:32Z
+WARC-Record-ID: <urn:uuid:a45094d3-d0ec-44e5-ac9c-b9352770874e>
+WARC-All-Language: tr-TR
+WARC-All-Content_type: text/html; charset=UTF-8, text/html
+Content-Type: application/http;msgtype=response
+Content-Length: 46
+
+WARCProcessor by SING Group www.sing-group.com
+
+WARC/1.0
+WARC-Type: response
+WARC-Record-ID: <http://www.aribo.eu>
+WARC-Date: 20180530181832
+WARC-Target-URI: http://www.aribo.eu
+WARC-Language: tr-TR
+Content-Type: application/http;msgtype=response
+Content-Length: 15506
+
+HTTP/1.1 200
+Content-Type:text/html; charset=UTF-8
+
+
+
+<!DOCTYPE html>
+<html lang="tr-TR">
+<head>
+<!-- Basic Page Needs
+================================================== -->
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+<link rel="profile" href="http://gmpg.org/xfn/11">
+<link rel="pingback" href="http://aslihansever.com.tr/xmlrpc.php">
+<title></title>
+<link rel='dns-prefetch' href='//aslihansever.com.tr' />
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title=" &raquo; beslemesi" href="http://aslihansever.com.tr/feed/" />
+<link rel="alternate" type="application/rss+xml" title=" &raquo; yorum beslemesi" href="http://aslihansever.com.tr/comments/feed/" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.4\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.4\/svg\/","svgExt":".svg","source":{"concatemoji":"http:\/\/aslihansever.com.tr\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.9.6"}};
+			!function(a,b,c){function d(a,b){var c=String.fromCharCode;l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,a),0,0);var d=k.toDataURL();l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,b),0,0);var e=k.toDataURL();return d===e}function e(a){var b;if(!l||!l.fillText)return!1;switch(l.textBaseline="top",l.font="600 32px Arial",a){case"flag":return!(b=d([55356,56826,55356,56819],[55356,56826,8203,55356,56819]))&&(b=d([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]),!b);case"emoji":return b=d([55357,56692,8205,9792,65039],[55357,56692,8203,9792,65039]),!b}return!1}function f(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var g,h,i,j,k=b.createElement("canvas"),l=k.getContext&&k.getContext("2d");for(j=Array("flag","emoji"),c.supports={everything:!0,everythingExceptFlag:!0},i=0;i<j.length;i++)c.supports[j[i]]=e(j[i]),c.supports.everything=c.supports.everything&&c.supports[j[i]],"flag"!==j[i]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[j[i]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(h=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",h,!1),a.addEventListener("load",h,!1)):(a.attachEvent("onload",h),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),g=c.source||{},g.concatemoji?f(g.concatemoji):g.wpemoji&&g.twemoji&&(f(g.twemoji),f(g.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='rokophoto_font-css'  href='//fonts.googleapis.com/css?family=Open+Sans%3A400%2C600&#038;ver=4.9.6' type='text/css' media='all' />
+<link rel='stylesheet' id='rokophoto_bootstrap-css'  href='http://aslihansever.com.tr/wp-content/themes/rokophoto-lite/css/bootstrap.css?ver=4.9.6' type='text/css' media='all' />
+<link rel='stylesheet' id='rokophoto_animate-css'  href='http://aslihansever.com.tr/wp-content/themes/rokophoto-lite/css/animate.css?ver=4.9.6' type='text/css' media='all' />
+<link rel='stylesheet' id='rokophoto_font_awesome-css'  href='http://aslihansever.com.tr/wp-content/themes/rokophoto-lite/css/font-awesome.css?ver=4.9.6' type='text/css' media='all' />
+<link rel='stylesheet' id='rokophoto_style-css'  href='http://aslihansever.com.tr/wp-content/themes/rokophoto-lite/style.css?ver=4.9.6' type='text/css' media='all' />
+<link rel='stylesheet' id='rokophoto_responsiveness-css'  href='http://aslihansever.com.tr/wp-content/themes/rokophoto-lite/css/responsiveness.css?ver=4.9.6' type='text/css' media='all' />
+ <style type="text/css"></style><script type='text/javascript' src='http://aslihansever.com.tr/wp-content/themes/rokophoto-lite/js/modernizr.custom.js?ver=4.9.6'></script>
+<script type='text/javascript' src='http://aslihansever.com.tr/wp-includes/js/jquery/jquery.js?ver=1.12.4'></script>
+<script type='text/javascript' src='http://aslihansever.com.tr/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
+<script type='text/javascript' src='http://aslihansever.com.tr/wp-content/themes/rokophoto-lite/js/html5shiv.min.js?ver=4.9.6'></script>
+<!--[if lt IE 9]>
+<script type='text/javascript' src='http://aslihansever.com.tr/wp-content/themes/rokophoto-lite/js/respond.min.js?ver=4.9.6'></script>
+<![endif]-->
+<link rel='https://api.w.org/' href='http://aslihansever.com.tr/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://aslihansever.com.tr/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://aslihansever.com.tr/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 4.9.6" />
+		<style type="text/css">.recentcomments a{display:inline !important;padding:0 !important;margin:0 !important;}</style>
+		</head>
+
+<body class="home blog">
+
+
+		<!-- Preloader
+	================================================== -->
+	<div id="preloader"><div id="status">&nbsp;</div></div>
+	
+	<!-- Navigation
+	================================================== -->
+	<nav id="site-navigation" role="navigation" class="main-navigation navbar navbar-default navbar-fixed-top">
+		<div class="container">
+			<div class="align-vertical">
+				<div class="navbar-header page-scroll">
+					<button type="button" class="menu-toggle navbar-toggle" aria-controls="menu" aria-expanded="false">
+						<span class="sr-only">Toggle Navigation</span>
+						<span class="icon-bar"></span>
+						<span class="icon-bar"></span>
+						<span class="icon-bar"></span>
+					</button>
+					<a class="navbar-brand navbar-brand-logo" href="http://aslihansever.com.tr/"><img src="http://aslihansever.com.tr/wp-content/uploads/2018/04/aslıhansever-1-1.png" alt="logo"></a>
+
+				</div>
+
+				<div class="menu-container"><ul class="nav navbar-nav navbar-right"><li id="menu-item-44" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-44"><a href="http://aslihansever.com.tr/hakkimda/">Hakkımda</a></li>
+<li id="menu-item-111" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-111"><a href="http://aslihansever.com.tr/yazilar/">Yazılar</a></li>
+<li id="menu-item-37" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-37"><a href="http://aslihansever.com.tr/editorial/">Edıtorıal</a></li>
+</ul></div>			</div>
+		</div>
+	</nav><!-- #site-navigation -->
+
+	<!-- Blog
+	================================================== -->
+	<section id="blog" style="background-image: url('http://aslihansever.com.tr/wp-content/uploads/2018/04/cropped-photo-1498721454196-e1fe723c0374.jpeg');">
+	<div class="dark-overlay vision">
+		<div class="centered vision-border wow bounceIn">
+			<h4>Home / FashIon EdItorIals / DesIgn / IntervIew / News</h4>			<h2><a href="http://aslihansever.com.tr/"></a></h2>
+			
+	<h6></h6>
+
+		</div>
+	</div>
+</section>
+
+	<!-- Blog Posts
+	================================================== -->
+		<div id="secondary_top" class="secondary-top">
+		<div class="container">
+
+							<div id="widget-area" class="widget-area" role="complementary">
+					<li id="search-2" class="widget widget_search"><form role="search" method="get" id="searchform" class="searchform" action="http://aslihansever.com.tr/">
+				<div>
+					<label class="screen-reader-text" for="s">Arama:</label>
+					<input type="text" value="" name="s" id="s" />
+					<input type="submit" id="searchsubmit" value="Ara" />
+				</div>
+			</form></li>		<li id="recent-posts-2" class="widget widget_recent_entries">		<h2 class="widgettitle">Son Yazılar</h2>		<ul>
+											<li>
+					<a href="http://aslihansever.com.tr/2018/04/04/128/">(başlıksız)</a>
+									</li>
+											<li>
+					<a href="http://aslihansever.com.tr/2017/12/01/merhaba-dunya/">(başlıksız)</a>
+									</li>
+					</ul>
+		</li><li id="recent-comments-2" class="widget widget_recent_comments"><h2 class="widgettitle">Son Yorumlar</h2><ul id="recentcomments"><li class="recentcomments"><a href="http://aslihansever.com.tr/2017/12/01/merhaba-dunya/#comment-1"></a> için <span class="comment-author-link"><a href='https://wordpress.org/' rel='external nofollow' class='url'>Bir WordPress yorumcusu</a></span></li></ul></li><li id="archives-2" class="widget widget_archive"><h2 class="widgettitle">Arşivler</h2>		<ul>
+			<li><a href='http://aslihansever.com.tr/2018/04/'>Nisan 2018</a></li>
+	<li><a href='http://aslihansever.com.tr/2017/12/'>Aralık 2017</a></li>
+		</ul>
+		</li><li id="categories-2" class="widget widget_categories"><h2 class="widgettitle">Kategoriler</h2>		<ul>
+	<li class="cat-item cat-item-1"><a href="http://aslihansever.com.tr/category/genel/" >Genel</a>
+</li>
+		</ul>
+</li><li id="meta-2" class="widget widget_meta"><h2 class="widgettitle">Meta</h2>			<ul>
+						<li><a href="http://aslihansever.com.tr/wp-login.php">Giriş</a></li>
+			<li><a href="http://aslihansever.com.tr/feed/">Yazılar <abbr title="Really Simple Syndication">RSS</abbr></a></li>
+			<li><a href="http://aslihansever.com.tr/comments/feed/">Yorumlar <abbr title="Really Simple Syndication">RSS</abbr></a></li>
+			<li><a href="https://wordpress.org/" title="WordPress&#8217;in desteğiyle, kişisel yayım ortamı.">WordPress.org</a></li>			</ul>
+			</li>				</div><!-- .widget-area -->
+			
+		</div><!-- .container -->
+	</div><!-- .secondary -->
+
+	<div class="blog">
+		<div class="container">
+			<div class="row">
+
+			
+										
+<!-- Blog post -->
+<div class="blog-posts post-128 post type-post status-publish format-standard hentry category-genel" id="post-128">
+	<div class="col-lg-8 col-lg-offset-2">
+		<div class="post wow fadeIn" data-wow-duration="2s">
+			<h2><a href="http://aslihansever.com.tr/2018/04/04/128/"></a></h2>
+			<ul class="list-inline">
+				<li>Post By: <a href="http://aslihansever.com.tr/author/asli/" title="asli tarafından yazılan yazılar" rel="author">asli</a></li>
+				<li>Date: <time>4 Nisan 2018</time></li>
+				<li>Category: <a href="http://aslihansever.com.tr/category/genel/" rel="category tag">Genel</a></li>
+			</ul>
+						<p>Hakan Kurtaş Onun Zamanı</p>
+			<a href="http://aslihansever.com.tr/2018/04/04/128/" class="btn btn-primary">Read More</a>
+		</div>
+	</div>
+	<div class="clearfix"></div>
+	<div class="divider"></div>
+</div>
+										
+<!-- Blog post -->
+<div class="blog-posts post-1 post type-post status-publish format-standard hentry category-genel" id="post-1">
+	<div class="col-lg-8 col-lg-offset-2">
+		<div class="post wow fadeIn" data-wow-duration="2s">
+			<h2><a href="http://aslihansever.com.tr/2017/12/01/merhaba-dunya/"></a></h2>
+			<ul class="list-inline">
+				<li>Post By: <a href="http://aslihansever.com.tr/author/asli/" title="asli tarafından yazılan yazılar" rel="author">asli</a></li>
+				<li>Date: <time>1 Aralık 2017</time></li>
+				<li>Category: <a href="http://aslihansever.com.tr/category/genel/" rel="category tag">Genel</a></li>
+			</ul>
+						<p>1990 yılında İstanbul&#8217;da doğdum. Marmara Üniversitesi İletişim Fakültesi Radyo, Sinema ve TV bölümünden mezunum. İstanbul Bilgi Üniversitesi Pazarlama İletişimi Yüksek Lisans Programı&#8217;nı yarıda bıraktım. Bitirme projemi yapabileceğim bir zaman diliminde geri dönmeyi düşünüyorum. Kitap sevgisiyle başlayan yazı hayatım beni çeşitli [&hellip;]</p>
+			<a href="http://aslihansever.com.tr/2017/12/01/merhaba-dunya/" class="btn btn-primary">Read More</a>
+		</div>
+	</div>
+	<div class="clearfix"></div>
+	<div class="divider"></div>
+</div>
+				
+				<!-- Pagination -->
+				
+			
+			</div>
+		</div>
+	</div>
+
+<!-- About Section
+================================================== -->
+<section id="bsocials" 
+>
+	<div class="container wow bounceIn" data-wow-delay="0.8s">
+		<p class="social-label"> To get the latest update of me and my works </p><p class="social-text">  &gt;&gt; <span class="follow"> Follow Me! </span>  &lt;&lt; </p>		<ol class="social">
+			<li class="social-fa"><a target="_self" href="#"><i class="fa fa-facebook fa-2x"></i></a></li><li class="social-tw"><a target="_self" href="#"><i class="fa fa-twitter fa-2x"></i></a></li><li class="social-be"><a target="_self" href="#"><i class="fa fa-behance fa-2x"></i></a></li><li class="social-dr"><a target="_self" href="#"><i class="fa fa-dribbble fa-2x"></i></a></li><li class="social-fl"><a target="_self" href="#"><i class="fa fa-flickr fa-2x"></i></a></li><li class="social-go"><a target="_self" href="#"><i class="fa fa-google-plus fa-2x"></i></a></li><li class="social-in"><a target="_self" href="#"><i class="fa fa-instagram fa-2x"></i></a></li>		</ol>
+	</div>
+</section>
+<div id="footer-nav">  <!-- Copyright notice on the bottom -->
+	<span>
+		<span class="cprts">Awesome Photography. All Rights Reserved</span>
+		<br/>
+		<span class="pwred"><a href="https://themeisle.com/themes/rokophoto-lite/" target="_blank" rel="nofollow">RokoPhoto Lite</a> powered by <a href="https://wordpress.org/" target="_blank" rel="nofollow">WordPress</a></span>	</span>
+</div>
+
+<script type='text/javascript' src='http://aslihansever.com.tr/wp-content/themes/rokophoto-lite/js/navigation.js?ver=20120206'></script>
+<script type='text/javascript' src='http://aslihansever.com.tr/wp-content/themes/rokophoto-lite/js/bootstrap.js?ver=4.9.6'></script>
+<script type='text/javascript' src='http://aslihansever.com.tr/wp-content/themes/rokophoto-lite/js/wow.min.js?ver=4.9.6'></script>
+<script type='text/javascript' src='http://aslihansever.com.tr/wp-content/themes/rokophoto-lite/js/SmoothScroll.js?ver=4.9.6'></script>
+<script type='text/javascript' src='http://aslihansever.com.tr/wp-content/themes/rokophoto-lite/js/jquery.easing.min.js?ver=4.9.6'></script>
+<script type='text/javascript' src='http://aslihansever.com.tr/wp-content/themes/rokophoto-lite/js/cbpAnimatedHeader.js?ver=4.9.6'></script>
+<script type='text/javascript' src='http://aslihansever.com.tr/wp-content/themes/rokophoto-lite/js/classie.js?ver=4.9.6'></script>
+<script type='text/javascript' src='http://aslihansever.com.tr/wp-content/themes/rokophoto-lite/js/jqBootstrapValidation.js?ver=4.9.6'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var slider_speed = {"slider_speed":"3000"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://aslihansever.com.tr/wp-content/themes/rokophoto-lite/js/main.js?ver=4.9.6'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var SiteParameters = {"contact_script":"http:\/\/aslihansever.com.tr\/wp-content\/themes\/rokophoto-lite\/inc\/submit.php","email_script":"alpann@gmail.com"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://aslihansever.com.tr/wp-content/themes/rokophoto-lite/js/contact.js?ver=4.9.6'></script>
+<script type='text/javascript' src='http://aslihansever.com.tr/wp-includes/js/wp-embed.min.js?ver=4.9.6'></script>
+
+</body>
+</html>
+
+

@@ -1,0 +1,26 @@
+WARC/1.0
+WARC-Type: warcinfo
+WARC-Date: 2018-05-23T09:48:41Z
+WARC-Record-ID: <urn:uuid:8de5a1cc-116c-474a-adf6-91e0ed275cdc>
+WARC-All-Language: en
+WARC-All-Content_type: text/html; charset=UTF-8, text/html
+Content-Type: application/http;msgtype=response
+Content-Length: 46
+
+WARCProcessor by SING Group www.sing-group.com
+
+WARC/1.0
+WARC-Type: response
+WARC-Record-ID: <http://narian.org.uk>
+WARC-Date: 20180523094841
+WARC-Target-URI: http://narian.org.uk
+WARC-Language: en
+Content-Type: application/http;msgtype=response
+Content-Length: 61
+
+HTTP/1.1 200
+Content-Type:text/html; charset=UTF-8
+
+
+here
+

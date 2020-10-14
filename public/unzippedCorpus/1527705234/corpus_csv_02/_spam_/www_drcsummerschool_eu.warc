@@ -1,0 +1,308 @@
+WARC/1.0
+WARC-Type: warcinfo
+WARC-Date: 2018-05-30T18:18:32Z
+WARC-All-Language: en
+WARC-All-Content_type: text/html;charset=UTF-8
+WARC-Record-ID: <urn:uuid:1076c2d5-74e0-459a-8a2d-1a01e1b089f5>
+Content-Type: application/http;msgtype=response
+Content-Length: 46
+
+WARCProcessor by SING Group www.sing-group.com
+
+WARC/1.0
+WARC-Type: response
+WARC-Target-URI: http://www.drcsummerschool.eu
+WARC-Date: 20180530181832
+WARC-Language: en
+WARC-Record-ID: <http://www.drcsummerschool.eu>
+Content-Type: application/http;msgtype=response
+Content-Length: 9984
+
+HTTP/1.1 200
+Content-Type:text/html;charset=UTF-8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+	<head>
+		<title>DRC Summer School &raquo; DRC2017</title>
+		<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+		<meta name="author" lang="hu" content="Markcon Informatikai Kft." />
+		<meta name="resource-type" content="document" />
+		<meta name="revisit-after" content="14 days" />
+		<meta name="owner" content="info@markcon.hu" />
+		<meta name="classification" content="Personal" />
+		<meta name="robots" content="all" />
+		<meta name="distribution" content="Global" />
+		<meta name="rating" content="General" />
+		<meta name="copyright" content="Markcon Informatikai Kft." />
+		<meta name="language" content="hu" />
+		<meta name="doc-type" content="Web Page" />
+		<meta http-equiv="pragma" content="no-cache" />
+		<meta name="keywords" content=""  />
+		<meta name="description" content=""  />
+		<link rel="stylesheet" href="/static/designs/drcsummerschool/styles/basic.css" type="text/css" />
+		<link rel="stylesheet" href="/static/designs/drcsummerschool/styles/frame.css" type="text/css" />
+	</head>
+	<body class="tundra">
+		<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-16523623-26']);
+  _gaq.push(['_setDomainName', '.drcsummerschool.eu']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+		<table class="frame strip">
+			<tr>
+				<td class="header">
+					<table class="headertable strip">
+						<tr>
+							<td class="header1">
+								<div class="lang">
+									<!-- 
+									<a href="http://www.drcsummerschool.eu/fooldal">magyar</a> |
+									<a href="http://www.drcsummerschool.eu/mainpage">english</a>
+									<br />
+									<a class="navIcons" href="http://www.drcsummerschool.eu/fooldal">
+										<img src="/static/designs/drcsummerschool/images/home.gif" title="Kezdőoldal" />
+									</a>
+									<a class="navIcons" href="http://www.drcsummerschool.eu/sitemap">
+										<img src="/static/designs/drcsummerschool/images/sitemap.gif" title="Oldaltérkép" />
+									</a>
+									<a class="navIcons" href="http://www.drcsummerschool.eu/fooldal">
+										<img src="/static/designs/drcsummerschool/images/contact.gif" title="Kapcsolat" />
+									</a>
+									-->
+								</div>
+							</td>
+						</tr>
+						<tr>
+							<td class="headertop">
+								
+
+
+
+
+
+
+    
+	<table class="topmenu strip">
+		<tr>
+			
+				<td class="cella1first">
+					<a class="fomenuActive" href="/drc2017 ">
+						DRC2017
+						<p class="fomenusor"></p>
+					</a>
+				</td>
+			
+				<td class="cella1">
+					<a class="fomenu" href="/about_the_school ">
+						About the School
+						<p class="fomenusor"></p>
+					</a>
+				</td>
+			
+				<td class="cella1">
+					<a class="fomenu" href="/summer_school ">
+						Summer School
+						<p class="fomenusor">from 2004</p>
+					</a>
+				</td>
+			
+				<td class="cella1">
+					<a class="fomenu" href="/proceedings ">
+						Proceedings
+						<p class="fomenusor">papers, volumes</p>
+					</a>
+				</td>
+			
+				<td class="cella1">
+					<a class="fomenu" href="/events ">
+						Events
+						<p class="fomenusor"></p>
+					</a>
+				</td>
+			
+				<td class="cella1">
+					<a class="fomenu" href="/gallery ">
+						Gallery
+						<p class="fomenusor"></p>
+					</a>
+				</td>
+			
+		</tr>
+	</table>
+
+
+							</td>
+						</tr>
+						<tr>
+							
+  							
+  							
+  							
+  							
+  							
+  							
+  							
+  							
+							<td class="headermiddle" style="background-image: url('/static/designs/drcsummerschool/images/fejlec1.jpg');">
+							</td>
+						</tr>
+						<tr>
+							<td class="headerbottom">
+								<table class="almenu strip">
+									<tr>
+										
+											<td class="alcella1">
+												<a class="almenu" href="/fooldal/news ">
+													News
+												</a>
+											</td>
+											
+												<td class="cellaelvalaszto">
+												</td>
+											
+										
+											<td class="alcella1">
+												<a class="almenu" href="/programme ">
+													programme
+												</a>
+											</td>
+											
+												<td class="cellaelvalaszto">
+												</td>
+											
+										
+											<td class="alcella1">
+												<a class="almenu" href="/participants ">
+													participants
+												</a>
+											</td>
+											
+												<td class="cellaelvalaszto">
+												</td>
+											
+										
+											<td class="alcella1">
+												<a class="almenu" href="/speakers ">
+													speakers
+												</a>
+											</td>
+											
+												<td class="cellaelvalaszto">
+												</td>
+											
+										
+											<td class="alcella1">
+												<a class="almenu" href="/application ">
+													application
+												</a>
+											</td>
+											
+												<td class="cellaelvalaszto">
+												</td>
+											
+										
+											<td class="alcella1">
+												<a class="almenu" href="/venues ">
+													venues
+												</a>
+											</td>
+											
+										
+									</tr>
+								</table>
+							</td>
+						</tr>
+					</table>	
+				</td>
+			</tr>
+			<tr>	
+				<td class="elvalaszto_1">
+				</td>
+			</tr>
+			<tr>
+				<td id="center" style="text-align: left;">
+					
+						
+							
+
+
+
+
+
+	
+	<p>The DRC Summer School project was initiated by IDM (Institute for the Danube Region and Central Europe) and International House Pécs in 2003 to promote regional co-operation among young social scientists. Its general aim is the establishment of a network of young scientists who deal with the issue of regional co-operation as Central European perspective, and thus the institutionalisation of the Summer School for the future. The 14th summer school is another step towards enhancing and deepening scientific co-operations in Central Europe, among the project partners, i.e. institutions from the V4 countries, the Ukraine, Austria and some Western Balkan countries. Since 2007 the IDM is represented in the project by Dr. Susan Milford whereas IDResearch Ltd. is represented by Dr. István Tarrósy, managing director, and former managing director of the Regional European Information and Education Centre PBC who has been implementing the project with the Austrian partners for eleven years.</p> <div style="text-align: justify;">The 14th edition of the Summer School lies its focus on the countries of the Danube region as the Danube Rectors’ Conference provides a platform for the collaboration of 50 institutions of higher education from 13 countries in the Danubian region. </div>
+
+
+						
+					
+				</td>
+			</tr>
+			<tr>
+				<td class="elvalaszto_2"></td>
+			</tr>
+			<tr>
+				<td class="bottomlink">
+					<!-- portlet:simpleRender portletName="gallery_bottom" /-->
+					
+
+
+
+
+
+	
+	<p style="text-align: center;"><style type="text/css">
+img {border: 0px none;}
+a {border: 0px none;} </style>&#160; <a href="http://www.argedonau.at/neu/index.htm" target="_blank"><img height="26" width="25" src="/drcsummerschool/UserFiles/Image/drc_logo_arge.jpg" alt="" /></a> <a href="http://www.ceinet.org/home.php" target="_blank"><img height="26" width="46" alt="" src="/drcsummerschool/UserFiles/Image/alsosav/csere_cei.jpg" /></a> <img height="26" width="53" alt="" src="/drcsummerschool/UserFiles/Image/alsosav/csere_drc.JPG" /> <a href="https://www.sparkasse.at/erstebank" target="_blank"><img height="26" width="55" alt="" src="/drcsummerschool/UserFiles/Image/alsosav/csere_erste.jpg" /></a> <a href="http://www.hss.de/homepage.shtml" target="_blank"><img height="26" width="43" src="/drcsummerschool/UserFiles/Image/drc_logo_hansseidel.jpg" alt="" /></a> <a href="http://www.noe.gv.at/" target="_blank"><img height="26" width="130" alt="" src="/drcsummerschool/UserFiles/Image/alsosav/csere_loweraustria.jpg" /></a> <a href="http://www.land-oberoesterreich.gv.at/cps/rde/xchg/ooe/" target="_blank"><img height="26" width="49" src="/drcsummerschool/UserFiles/Image/drc_logo_oberost.jpg" alt="" /></a>&#160; <a href="http://english.pte.hu/" target="_blank"><img height="26" width="30" src="/drcsummerschool/UserFiles/Image/drc_logo_pte.jpg" alt="" /></a> <a href="http://www.visegradfund.org/" target="_blank"><img height="26" width="68" src="/drcsummerschool/UserFiles/Image/drc_logo_visegradfund.jpg" alt="" /></a> <a href="https://www.facebook.com/idresearch" target="_blank"><img height="26" width="25" alt="" src="/drcsummerschool/UserFiles/Image/alsosav/%C3%BAj_idr.jpg" /> </a><a href="http://www.idm.at" target="_blank"><img height="26" width="26" alt="" src="/drcsummerschool/UserFiles/Image/alsosav/%C3%BAj_idm.jpg" /></a> </p>
+
+
+				</td>
+			</tr>
+			<tr>
+				<td class="elvalaszto_2">
+				</td>
+			</tr>
+			<tr>
+				<td class="foot">
+					<table class="foottable strip">
+						<tr>
+							<td style="width: 328px;">
+								<a class="foottext" href="http://www.markcon.hu" target="_blank">MarkCon 2008</a>
+							</td>
+							<td style="width: 400px; text-align: right; color: #555557;">
+								Supported by: International Visegrad Fund - Grant No. 20810161
+							</td>
+							<td style="width:80px; padding-left:20px">
+								<iframe src="http://www.facebook.com/plugins/like.php?href=http://drcsummerschool.eu&amp;layout=standard&amp;show_faces=true&amp;width=50&amp;action=like&amp;font=arial&amp;colorscheme=light&amp;height=80" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:70px; height:24px;" allowTransparency="true"></iframe>
+							</td>	
+						</tr>
+					</table>
+				</td>
+			</tr>
+		</table>
+	</body>
+</html>
+
+

@@ -1,0 +1,171 @@
+WARC/1.0
+WARC-Type: warcinfo
+WARC-Date: 2018-05-30T17:52:31Z
+WARC-Record-ID: <urn:uuid:2386a994-3014-40b7-a7d1-5b0351d03114>
+WARC-All-Language: cs
+WARC-All-Content_type: text/html
+Content-Type: application/http;msgtype=response
+Content-Length: 46
+
+WARCProcessor by SING Group www.sing-group.com
+
+WARC/1.0
+WARC-Type: response
+WARC-Record-ID: <http://www.slantour.eu>
+WARC-Date: 20180530175231
+WARC-Target-URI: http://www.slantour.eu
+WARC-Language: cs
+Content-Type: application/http;msgtype=response
+Content-Length: 7450
+
+HTTP/1.1 200
+Content-Type:text/html
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html lang="cs">
+<head>
+<title>SLAN tour - Czech Incoming Tour Operator | Accomodation in Prague, Carlsbad | Sport events in Czech Republic</title>
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1250" />
+<meta name="Keywords" content="slantour, czech incoming tour operator, accomodation in prague, accomodation in carlsbad, sport events, czech spa," />
+<meta name="Description" content="SLAN tour - Czech Incoming Tour Operator, we offer accomodation in Prague, Carlsbad, Marienbad, Podebrady etc., transfers, tickets and accomodation for big sport events held in Czech republic etc. "/>
+<meta name="verify-v1" content="4zocCTkm8wWruQNnh3zxdypdhfgq+KjP/wSb4zUj92Q=" />
+<meta name="Robots" content="index, follow"/>
+	<link rel="stylesheet" type="text/css" href="/styly/global.css" media="all" />
+<link rel="stylesheet" type="text/css" href="/styly/vypis_zajezdu.css" media="all" />
+<link rel="stylesheet" type="text/css" href="/zajezdy2.css" media="all" />
+</head>
+
+
+<body>
+		<div id="mainNadpis"><!-- barevne pozadi vc. modre na okoli, zarovnane doleva bez opakovani -->
+<div id="slantour-nazev">
+<a href="http://www.slantour.eu" title="hlavní stránka www.slantour.eu"><img src="/img/slantour-nadpis-new.gif"  alt="slantour-header"/></a>
+</div> <!-- of nazev-slantour -->
+
+<div id="slantour-logo">
+<a href="http://www.slantour.eu" title="hlavní stránka www.slantour.eu"><img src="/img/slantour-logo.gif" height="80" width="133" alt="slantour-logo"/></a>
+</div> <!-- of logo-slantour -->
+
+<div id="zluty-ramecek"> <!-- dany na absolutni pozici -->
+<p class="zluty-telefon">312 523836</p>
+<p class="zluty-telefon">604 283868</p>
+<p class="zluty-odkazy"><a href="mailto:info@slantour.cz">info@slantour.cz</a></p>
+<p class="zluty-odkazy" style="margin-left:65px;margin-bottom:1px;"><a href="callto:slantour-centrala">skype: slantour</a></p>
+</div> <!-- of zluty-ramecek -->
+</div> <!-- of mainNadpis -->
+
+<div id="zluty-pruh">
+	<img src="/img/zl-pruh-1.gif" width="5" class="fleft" height="26" alt=""/>
+	<img src="/img/zl-pruh-2.gif" width="228" class="fleft" height="26" alt=""/>
+	<div class="fleft">
+	<a href="http://www.slantour.cz" title="Homepage of CK SLAN tour">SLAN tour (czech)</a><p class="flefttext">|</p> 
+	<a href="/contend/about"  title="Information About SLAN tour">About us</a><p class="flefttext">|</p> 
+	<a href="/contend/accomodation"  title="Accomodation in Czech Republic">Accomodation</a><p class="flefttext">|</p> 
+	<a href="/contend/czech-spa"  title="Information and Accomodation in Spa resorts">Czech Spa</a><p class="flefttext">|</p> 
+	<!--<a href="/contend/references"  title="References">Our references</a><p class="flefttext">|</p> -->
+	<a href="mailto:info@slantour.cz"  title="info@slantour.cz">Contact us</a><p class="flefttext">|</p> 
+
+	</div>
+
+	<div id="zl-pruh-right">
+		<img src="/img/zl-pruh-4.gif" width="8"height="26" alt=""/>
+	</div>
+</div> <!-- of zluty-pruh -->
+
+	
+<div id="main-text">
+	<div id="menu">
+			<ul>
+		<li><a href="/">Slan Tour</a></li>
+			<li ><a href="/contend/about">About us</a></li>
+			<!--<li class="level2"><a href="/contend/references">References</a></li>-->
+
+		<li><a href="/contend/accomodation">Accomodation</a></li>
+				
+		<li><a href="/contend/czech-spa">Czech Spa</a></li>
+				<li><a href="/contend/tours">Tours</a></li>
+				
+		<li><a href="/img/mapa_cr.jpg">Map of Czech Republic</a></li>
+		<li><a href="/contend/transfers">Transfers</a></li>
+		<li><a href="/contend/sport-events">Sport events</a></li>
+			</ul>
+			<!--<div id="zajezd-informace">
+				 			</div>	 of zajezd-informace -->
+			
+			<!-- <div id="zajezd-dokumenty">
+				 			</div>	of zajezd-dokumenty -->
+			
+			
+		<div id="accka">
+			<A HREF="http://www.albatrosgrs.cz" TARGET="_blank"><IMG SRC="/img/albatros-logo.jpg" height="63" width="90" alt="albatros logo" class="float-left2"/></A>
+			<b>CK SLAN tour</b> is Member of the Albatros Association. 
+
+		</div><!-- of accka -->
+		<div style="margin-left:5px;margin-top:15px;">
+			<script src="http://c1.navrcholu.cz/code?site=106594;t=lb14" type="text/javascript"></script><noscript><div><a href="http://navrcholu.cz/"><img src="http://c1.navrcholu.cz/hit?site=106594;t=lb14;ref=;jss=0" width="14" height="14" alt="NAVRCHOLU.cz" style="border:none" /></a></div></noscript>
+		</div>		
+	</div> <!-- of menu -->
+	
+	<div id="text-obal">
+		<div id="navigacni-pruh">
+					navigation:&nbsp;
+			<a href="/">Homepage</a>		</div> <!-- of navigacni-pruh -->
+		<div id="text">
+				<h1>SLAN tour - Czech Incoming Touroperator</h1>
+					<h3>About us</h3>
+					<div class="uvod">
+						For 16 years SLAN tour specialised in incoming tourism to the Czech Republic as a private CZECH INCOMING TOUR OPERATOR and travel agency. We provided services and accommodation for groups and individuals at very competitive rates throughout the Czech Republic, Slovakia, Hungary and Austria.
+					</div>
+					
+					<!--<h3>News</h3>-->
+					<div class="aktuality">
+
+					</div>
+					<div class="odkazy">
+						<table>
+						<tr><td height=10></td>
+						<tr><td width=15></td>
+							<td width=190 valign="Top"  class="ramecek">
+								<a href="/contend/accomodation"><b>Accomodation in<br /> Czech Republic</b></a><br />
+								<a href="/contend/accomodation"><img src="img/marianske-lazne.jpg" width="170" height="120" alt="Marianske Lazne" class="obr"></a>
+							</td><td width=70></td>
+	
+							<td width=190 valign="Top" class="ramecek">
+								<a href="/contend/transfers"><b>Transfers</b></a><br /><br />
+								<a href="/contend/transfers"><img src="img/mercedes.jpg" width="170" height="120" alt="One of our buses"  class="obr"></a>
+							</td><td width=70></td>
+							<td width=190 valign="Top" class="ramecek">
+								<a href="/contend/sport-events"><b>Sport Events in<br /> Czech Republic</b></a><br />
+								<a href="/contend/sport-events"><img src="img/moto-gp-brno.jpg"  width="170" height="120" alt="Moto GP - Brno, Masaryk circuit"  class="obr"></a>
+							</td><td width=20>
+							</td>
+						</table>
+					</div>	
+										
+					<!--<h3>Accomodation tips</h3>-->
+					<div class="zajezdy">
+
+					</div>	
+		<h3>Contacts</h3>	
+		<div class="kontakt-obal"><!--....................kontaktní informace ....................-->	
+			<div><strong>CK SLAN tour:</strong> Wilsonova 597, Slaný 274 01, Czech Republic</div>
+			<div class="kontakty">phone:</div><div class="kontakty-hodnoty">+420 312523836, +420 312520084</div>
+			<div class="kontakty">fax:</div><div class="kontakty-hodnoty">+420 312523210, +420 312523836</div>
+			<div class="kontakty">e-mail:</div><div class="kontakty-hodnoty"><a href="mailto:info@slantour.cz">info@slantour.cz</a></div>
+			<div class="kontakty">skype:</div><div class="kontakty-hodnoty"><a href="callto:slantour-centrala">slantour-centrala</a></div>
+			<div class="kontakty">www:</div><div class="kontakty-hodnoty"><a href="http://www.slantour.cz" title="czech version">www.slantour.cz</a>,<a href="http://www.slantour.eu" title="english version">www.slantour.eu</a></div>
+		</div>
+		
+		</div> <!-- of text -->	
+	</div><!-- of text-obal -->	
+</div<!-- of main-text -->
+
+<div class="resetovac"></div>
+
+</body>
+</html>
+
+
+
+

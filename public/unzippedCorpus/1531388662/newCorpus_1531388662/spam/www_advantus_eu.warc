@@ -1,0 +1,128 @@
+WARC/1.0
+WARC-Type: warcinfo
+WARC-Date: 2018-05-30T17:52:31Z
+WARC-Record-ID: <urn:uuid:b528dffa-9fe2-4857-aa71-00edcb7153be>
+WARC-All-Language: lt
+WARC-All-Content_type: text/html
+Content-Type: application/http;msgtype=response
+Content-Length: 46
+
+WARCProcessor by SING Group www.sing-group.com
+
+WARC/1.0
+WARC-Type: response
+WARC-Record-ID: <http://www.advantus.eu>
+WARC-Date: 20180530175231
+WARC-Target-URI: http://www.advantus.eu
+WARC-Language: lt
+Content-Type: application/http;msgtype=response
+Content-Length: 6157
+
+HTTP/1.1 200
+Content-Type:text/html
+
+
+<!DOCTYPE html>
+<html lang="lt">
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>ADVANTUS</title>
+    <link rel="icon" type="image/png" href="img/favicon/favicon.png" sizes="54x54">
+    <meta name="theme-color" content="#ffffff">
+    <!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+      <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+    <![endif]-->
+    <link href='http://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800' rel='stylesheet' type='text/css'>
+    <link href="css/bootstrap.css?v3.3.5" rel="stylesheet" type="text/css" title="">
+    <link href="css/animate.css?v1.0.0" rel="stylesheet" type="text/css" title="">
+    <link href="css/font-awesome.css?v4.4.0" rel="stylesheet" type="text/css" title="">
+    <link href="css/et-line.css?v1.0.0" rel="stylesheet" type="text/css" title="">
+    <link href="css/simple-line-icons.css?v=1.0.0" rel="stylesheet" type="text/css" title="">
+    <link href="css/elegant-font.css?v1.0.0" rel="stylesheet" type="text/css" title="">
+    <link href="css/owl.carousel.css?v2.0.0" rel="stylesheet" type="text/css" title="">
+    <link href="css/magnific-popup.css?v=1.0.0" rel="stylesheet" type="text/css" title="">
+    <link href="css/style.css?v=1.0.0" rel="stylesheet" type="text/css" title="">
+</head>
+<body class="load display-h" style="background-color: #f4f4f4;">
+    <div class="wrapper">
+
+        <!-- DISTRIBUTION PAGE -->
+
+        <div class="page-section" data-background-color="#f4f4f4" style="padding-top: 2em; padding-bottom: 2em;">
+            <div class="container">
+                <div class="row">
+                    <div class="col-sm-6 col-sm-offset-3 pt-xs50 pb-xs0" style="text-align: center;">
+                        <h2 class="text-center text-uppercase" style="margin-bottom: 25px;"><img src="img/content/logotipas.png" style="margin-bottom: 20px;"><br>Welcome to ADVANTUS GROUP</h2>
+                        <p>
+                            ADVANTUS is a provider of personnel solutions  (temporary staffing, payroll and recruitment services) in Baltic countries. Our mission is to effectively connect employers with people willing to work.
+                        </p>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-sm-8 col-sm-offset-2">
+                        <div class="row">
+                            <div class="col-md-4 col-sm-4 col-sm-offset-0 col-xs-8 col-xs-offset-2">
+                                <div class="policy">
+                                    <div class="policy-icon">
+                                        <a href="http://www.advantus.lt/" target="_blank"><img src="img/lt_flag.png" class="img-responsive" style="border-radius: 10px;"></a>
+                                    </div>
+                                    <div class="policy-text" style="padding-top: 10px;">
+                                        <p><a href="http://www.advantus.lt/" target="_blank">LITHUANIA</a></p>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-md-4 col-sm-4 col-sm-offset-0 col-xs-8 col-xs-offset-2">
+                                <div class="policy">
+                                    <div class="policy-icon">
+                                        <a href="http://www.personnelsolutions.lv/" target="_blank"><img src="img/lv_flag.png" class="img-responsive" style="border-radius: 10px;"></a>
+                                    </div>
+                                    <div class="policy-text" style="padding-top: 10px;">
+                                        <p><a href="http://www.personnelsolutions.lv/" target="_blank">LATVIA</a></p>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-md-4 col-sm-4 col-sm-offset-0 col-xs-8 col-xs-offset-2">
+                                <div class="policy">
+                                    <div class="policy-icon">
+                                        <a href="http://www.advantus.ee/" target="_blank"><img src="img/ee_flag.png" class="img-responsive" style="border-radius: 10px;"></a>
+                                    </div>
+                                    <div class="policy-text" style="padding-top: 10px;">
+                                        <p><a href="http://www.advantus.ee/" target="_blank">ESTONIA</a></p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-sm-6 col-sm-offset-3" style="text-align: center; padding-top: 2em;">
+                        © UAB ADVANTUS 2016
+                    </div>
+                </div>
+            </div>
+        </div>
+
+    </div>
+
+    <script src="js/jquery.min.js?v=1.11.2"></script>
+    <script src="https://code.jquery.com/ui/1.11.4/jquery-ui.js"></script>
+    <script src="https://maps.googleapis.com/maps/api/js?v=3.exp"></script>
+    <script src="js/jquery.elevatezoom.js?v=1.0.0"></script>
+    <script src="js/wow.js?v=1.0.0"></script>
+    <script src="js/jquery.inview.js?v=1.0.0"></script>
+    <script src="js/owl.carousel.js?v=2.0.0"></script>
+    <script src="js/jquery.superslides.js?v=1.0.0"></script>
+    <script src="js/jquery.magnific-popup.js?v=1.0.0"></script>
+    <script src="js/isotope.js?v=2.2.0"></script>
+    <script src="js/SmoothScroll.js?v=1.4.0"></script>
+    <script src="js/morphext.js?v=2.4.4"></script>
+    <script src="js/jquery.backgroundvideo.js?v=1.0.0"></script>
+    <script src="js/bootstrap.js?v=3.3.5"></script>
+    <script src="js/script.js?v=1.0.0"></script>
+</body>
+</html>
+
+

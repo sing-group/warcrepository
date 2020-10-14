@@ -1,0 +1,200 @@
+WARC/1.0
+WARC-Type: warcinfo
+WARC-Date: 2018-05-30T18:18:32Z
+WARC-Record-ID: <urn:uuid:757402ba-718c-443f-be24-c7d41e7f952c>
+WARC-All-Language: fr, fr-FR
+WARC-All-Content_type: text/html; charset=UTF-8, text/html
+Content-Type: application/http;msgtype=response
+Content-Length: 46
+
+WARCProcessor by SING Group www.sing-group.com
+
+WARC/1.0
+WARC-Type: response
+WARC-Record-ID: <http://www.brightbiz.eu>
+WARC-Date: 20180530181832
+WARC-Target-URI: http://www.brightbiz.eu
+WARC-Language: fr-FR
+Content-Type: application/http;msgtype=response
+Content-Length: 21837
+
+HTTP/1.1 200
+Content-Type:text/html; charset=UTF-8
+
+
+<html xml:lang="fr-FR" lang="fr-FR">
+<head>
+<title qtlid="28806">Félicitations ! Votre domaine a bien été créé chez OVH !</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta http-equiv="Content-Language" content="fr-FR">
+<meta http-equiv="keywords" name="keywords" content="OVH, noms de domaines, serveur dédié, hébergement mutualisé, cloud computing, private cloud, téléphonie sur IP, VoIP, SMS, fax, emails, exchange, VPS, superplan, 1u, 2u, 4u, noc, network operating center, burst, bande passante, linux, redhat, debian, php, perl, mysql, bind, qmail, webalizer, webmin, backup, backup hebdomadaire, haute disponibilité, serveur mutualisé, hébergement dédié">
+<meta http-equiv="description" name="description" content="OVH accompagne votre évolution grâce au meilleur des infrastructures web : hébergement, nom de domaine, serveur dédié, CDN, Cloud, Big Data, ...">
+<meta name="Copyright" content="OVH">
+<meta name="Author" content="OVH">
+<meta name="robots" content="none,noindex,nofollow">
+<meta http-equiv="cache-control" content="no-cache">
+<meta http-equiv="pragma" content="no-cache">
+<meta name="DP.PopRank" content="2.00000">
+<link rel="icon" href="/__ovh/fr/img/favicon.ico" type="image/gif" translate="none">
+<script src="/__ovh/fr/res/punycode.min.js"></script><script src="/__ovh/fr/res/jquery-1.11.3.min.js"></script><script language="javascript" translate="none">
+                    $(window).load( function() {
+                        $('#domain').text( punycode.toUnicode( $('#domain').text()));
+                    });
+                </script><style type="text/css" translate="none">
+                    body { background: #4C9FA8 url('/__ovh/fr/img/background3.jpg') repeat 0 0; background-repeat: repeat; margin: 0; color: #333333; font-family: 'Trebuchet MS'; text-shadow: 1px 1px 0 #FFF; }
+                    br { clear: both; }
+                    h1, h2, p { margin: 0; }
+
+                    .center { text-align: center; }
+                    .bold { font-weight: bold; }
+                    .full { width: 100%; }
+
+                    .fs21 { font-size: 21px; }
+                    .lh30 { line-height: 30px; }
+
+                    .half { width: 50%; }
+                    .half33 { width: 33%; }
+                    .Fleft { float: left; }
+                    .Fright { float: right; }
+
+                    .wrapper { margin: 0 auto; width: 929px; }
+                    .site { background-color: #EEEEEE; padding: 20px 8px 20px 8px; margin-top: 30px; position: relative; }
+
+                    .ovhcom { display: block; position: absolute; top: 60px; left: -49px; width: 49px; height: 154px; background: transparent url('/__ovh/fr/img/ovhcom.png') no-repeat 0 100%; text-decoration: none;}
+                    .ovhcom:hover { background-position: 0 0; }
+                    .ovhcomshadow { display: block; position: absolute; left: -40px; top: 212px; width: 40px; height: 22px; background: transparent: url('/__ovh/fr/img/small-shadow.png') no-repeat 0 0; }
+
+                    .felicitation { text-align: center; }
+                    .felicitation h1 { font-size: 60px; line-height: 60px; text-align: center; color: #50A3A5; }
+                    .felicitation p { font-size: 21px; line-height: 34px; }
+
+                    .redirect { display: table; }
+                    .redirect img { display: table-cell; }
+                    .redirect a { display: table-cell; vertical-align: middle; color: #3C3C3C; font-size: 14px; line-height: 20px; }
+                    .redirect:hover a { font-weight: bold; }
+
+                    .product { text-align: center; width: 33%; }
+                    .product h2 { font-weight: bold; font-size: 27px; margin: 10px 0 5px 0; }
+                    .product p { font-size: 14px; line-height: 20px; }
+                    .product a { font-size: 14px; font-weight: bold; color: #0068B1; }
+                    .product a:hover { text-decoration: none; }
+
+                    .product .web,
+                    .product .vps,
+                    .product .dedicated {
+                        display: block;
+                        text-decoration: none;
+                        width: 290px;
+                        height: 190px;
+                        margin: 0 auto;
+                        -moz-transition: all 0.2s ease-in-out 0s;
+                        -webkit-transition: all 0.2s ease-in-out 0s;
+                        -o-transition: all 0.2s ease-in-out 0s;
+                        -ms-transition: all 0.2s ease-in-out 0s;
+                        transition: all 0.2s ease-in-out 0s;
+                    }
+
+                    .product .web { background: transparent url('/__ovh/fr/img/mutu.png') no-repeat 0 0; }
+                    .product .vps { background: transparent url('/__ovh/fr/img/vps.png') no-repeat 0 0; }
+                    .product .dedicated { background: transparent url('/__ovh/fr/img/dedie.png') no-repeat 0 0; }
+
+                    .product .web:hover,
+                    .product .vps:hover,
+                    .product .dedicated:hover {
+                        -moz-transform: translateY(-2px);
+                        -webkit-transform: translateY(-2px);
+                        -o-transform: translateY(-2px);
+                        -ms-transform: translateY(-2px);
+                        transform: translateY(-2px);
+
+                        -moz-box-shadow: 0 0 0 1px rgba(255,255,255,0),  0 0 6px rgba(0,0,0,0.35);
+                        -webkit-box-shadow: 0 0 0 1px rgba(255,255,255,0),  0 0 6px rgba(0,0,0,0.35);
+                        -ms-box-shadow: 0 0 0 1px rgba(255,255,255,0),  0 0 6px rgba(0,0,0,0.35);
+                        -o-box-shadow: 0 0 0 1px rgba(255,255,255,0),  0 0 6px rgba(0,0,0,0.35);
+                        box-shadow: 0 0 0 1px rgba(255,255,255,0),  0 0 6px rgba(0,0,0,0.35);
+                    }
+
+                    .bottom-link { height: 43px; line-height: 43px; text-align: center; background-color: #2D7176; font-size: 10px; color: #FFF; text-shadow: 0 0 0 #000; }
+                    .bottom-link a { color: #FFF; margin: 0 5px; text-decoration: none; }
+                    .bottom-link a:hover { text-decoration: underline; }
+
+                    .bottom-shadow { background: transparent url('/__ovh/fr/img/shadow.jpg') no-repeat 0 0; width: 929px; height: 44px; }
+                </style>
+</head>
+<body><div class="wrapper">
+<div class="site">
+<a class="ovhcom" title="OVH.com" href="https://www.ovh.com/fr" qtlid_title="28819" qtlid="853"> </a><img src="/__ovh/fr/img/small-shadow.png" class="ovhcomshadow" qtlid_src="28845"><div class="felicitation">
+<h1 qtlid="28858">Félicitations !</h1>
+<p qtlid="28871;28897">Votre domaine <span class="bold" translate="none" id="domain">brightbiz.eu</span> a bien été créé chez OVH.</p>
+</div>
+<br><div class="full center"><img src="/__ovh/fr/img/hr.png" qtlid_src="28910"></div>
+<br><div class="Fleft half33"><div class="redirect">
+<a href="http://mail.ovh.net" target="_blank" title="Accédez au Webmail OVH" qtlid_title="28936"><img src="/__ovh/fr/img/icn-roundcube.png" style="margin: 0 20px;" qtlid_src="28949"></a><a href="http://mail.ovh.net" target="_blank" title="Accédez au Webmail OVH" qtlid="28962" qtlid_title="28936">Accédez à votre Webmail OVH</a>
+</div></div>
+<div class="Fleft half33"><div class="redirect">
+<a href="https://www.ovh.com/manager//" target="_blank" title="Accédez à votre Espace Client" qtlid_title="28988"><img src="/__ovh/fr/img/icn-univers_web.png" style="margin: 0 20px;" qtlid_src="29001"></a><a href="https://www.ovh.com/manager//" target="_blank" title="Accédez à votre Espace Client" qtlid="29014;29027" qtlid_title="28988">Configurez votre domaine<br>depuis votre Espace Client Web</a>
+</div></div>
+<div class="Fleft half33"><div class="redirect">
+<a href="https://www.ovh.com/fr/hebergement-web/faq/" target="_blank" title="Accédez à la FAQ" qtlid_title="53581"><img src="/__ovh/fr/img/ovh-logo.png" style="margin: 0 20px;" qtlid_src="53594"></a><a href="https://www.ovh.com/fr/hebergement-web/faq/" target="_blank" qtlid="53607;53620" qtlid_title="53581" title="Accédez à la FAQ">Consultez la liste des<br>questions fréquemment posées</a>
+</div></div>
+<br><br><div class="full center"><img src="/__ovh/fr/img/hr.png" qtlid_src="28910"></div>
+<br><div class="full">
+<p class="center fs21 lh30" qtlid="29040;29053">Vous pouvez dès à présent lui associer un hébergement,<br>en choisissant la solution la plus adaptée à vos besoins :</p>
+<br><div class="Fleft product">
+<a href="https://www.ovh.com/fr/hebergement-web/" title="Hébergement Web" class="web" qtlid_title="29079" qtlid="853"> </a><h2 qtlid="29079">Hébergement Web</h2>
+<p qtlid="29092;29105;29118;29131">Une solution économique<br>pour héberger vos projets Web :<br>site Internet, boutique en ligne,<br>landing page...</p>
+<br><br><a href="https://www.ovh.com/fr/hebergement-web/" qtlid="20372">En savoir plus</a>
+</div>
+<div class="Fleft product">
+<a href="https://www.ovh.com/fr/vps/" title="Virtual Private Server" class="vps" qtlid_title="29157" qtlid="853"> </a><h2 qtlid="29157">Virtual Private Server</h2>
+<p qtlid="29170;29183;29196;29209;29222">Alliez la flexibilité du Cloud<br>à la liberté du dédié<br>avec nos solutions VPS clef en main.<br>Accompagnez vos projets Web<br>vers une nouvelle étape.</p>
+<br><a href="https://www.ovh.com/fr/vps/" qtlid="20372">En savoir plus</a>
+</div>
+<div class="Fleft product">
+<a href="https://www.ovh.com/fr/serveurs_dedies/" title="Serveurs dédiés" class="dedicated" qtlid_title="29248" qtlid="853"> </a><h2 qtlid="29261">Serveur dédié</h2>
+<p qtlid="29274;29287;29300;29313;29326">Hébergez vos sites Web<br>sur une machine qui leur sera dédiée !<br>Puissance, polyvalence, liberté,<br>c'est la solution d'excellence<br>pour tous vos projets !</p>
+<br><a href="https://www.ovh.com/fr/serveurs_dedies/" qtlid="20372">En savoir plus</a>
+</div>
+<br>
+</div>
+</div>
+<div translate="none" style="display: none;"><div class="ovh-domain-signature" style="display:none">
+	<p data="b">
+		<span>b1</span><span>b2</span><span>b3</span><span>b4</span><span>b5</span><span>b6</span><span>b7</span><span>b8</span><span>b9</span><span>b10</span><span>b11</span><span>b12</span><span>b13</span><span>b14</span><span>b15</span><span>b16</span><span>b17</span><span>b18</span><span>b19</span><span>b20</span><span>b21</span><span>b22</span><span>b23</span><span>b24</span><span>b25</span><span>b26</span><span>b27</span><span>b28</span><span>b29</span><span>b30</span><span>b31</span><span>b32</span><span>b33</span><span>b34</span><span>b35</span><span>b36</span><span>b37</span><span>b38</span><span>b39</span><span>b40</span><span>b41</span><span>b42</span><span>b43</span><span>b44</span><span>b45</span><span>b46</span><span>b47</span><span>b48</span><span>b49</span><span>b50</span>
+	</p>	<p data="r">
+		<span>r1</span><span>r2</span><span>r3</span><span>r4</span><span>r5</span><span>r6</span><span>r7</span><span>r8</span><span>r9</span><span>r10</span><span>r11</span><span>r12</span><span>r13</span><span>r14</span><span>r15</span><span>r16</span><span>r17</span><span>r18</span><span>r19</span><span>r20</span><span>r21</span><span>r22</span><span>r23</span><span>r24</span><span>r25</span><span>r26</span><span>r27</span><span>r28</span><span>r29</span><span>r30</span><span>r31</span><span>r32</span><span>r33</span><span>r34</span><span>r35</span><span>r36</span><span>r37</span><span>r38</span><span>r39</span><span>r40</span><span>r41</span><span>r42</span><span>r43</span><span>r44</span><span>r45</span><span>r46</span><span>r47</span><span>r48</span><span>r49</span><span>r50</span><span>r51</span><span>r52</span><span>r53</span><span>r54</span><span>r55</span><span>r56</span><span>r57</span><span>r58</span><span>r59</span><span>r60</span><span>r61</span><span>r62</span><span>r63</span><span>r64</span><span>r65</span><span>r66</span>
+	</p>	<p data="i">
+		<span>i1</span><span>i2</span><span>i3</span><span>i4</span><span>i5</span><span>i6</span><span>i7</span><span>i8</span><span>i9</span><span>i10</span><span>i11</span><span>i12</span><span>i13</span><span>i14</span><span>i15</span><span>i16</span><span>i17</span><span>i18</span><span>i19</span><span>i20</span><span>i21</span><span>i22</span><span>i23</span><span>i24</span><span>i25</span><span>i26</span><span>i27</span><span>i28</span><span>i29</span><span>i30</span><span>i31</span><span>i32</span><span>i33</span><span>i34</span><span>i35</span><span>i36</span><span>i37</span><span>i38</span><span>i39</span><span>i40</span><span>i41</span><span>i42</span><span>i43</span><span>i44</span><span>i45</span><span>i46</span><span>i47</span><span>i48</span><span>i49</span><span>i50</span><span>i51</span><span>i52</span><span>i53</span><span>i54</span><span>i55</span><span>i56</span><span>i57</span>
+	</p>	<p data="g">
+		<span>g1</span><span>g2</span><span>g3</span><span>g4</span><span>g5</span><span>g6</span><span>g7</span><span>g8</span><span>g9</span><span>g10</span><span>g11</span><span>g12</span><span>g13</span><span>g14</span><span>g15</span><span>g16</span><span>g17</span><span>g18</span><span>g19</span><span>g20</span><span>g21</span><span>g22</span><span>g23</span><span>g24</span><span>g25</span><span>g26</span><span>g27</span><span>g28</span><span>g29</span><span>g30</span><span>g31</span><span>g32</span><span>g33</span><span>g34</span><span>g35</span><span>g36</span><span>g37</span><span>g38</span><span>g39</span><span>g40</span><span>g41</span><span>g42</span><span>g43</span><span>g44</span><span>g45</span><span>g46</span><span>g47</span><span>g48</span><span>g49</span><span>g50</span><span>g51</span><span>g52</span><span>g53</span><span>g54</span><span>g55</span>
+	</p>	<p data="h">
+		<span>h1</span><span>h2</span><span>h3</span><span>h4</span><span>h5</span><span>h6</span><span>h7</span><span>h8</span><span>h9</span><span>h10</span><span>h11</span><span>h12</span><span>h13</span><span>h14</span><span>h15</span><span>h16</span><span>h17</span><span>h18</span><span>h19</span><span>h20</span><span>h21</span><span>h22</span><span>h23</span><span>h24</span><span>h25</span><span>h26</span><span>h27</span><span>h28</span><span>h29</span><span>h30</span><span>h31</span><span>h32</span><span>h33</span><span>h34</span><span>h35</span><span>h36</span><span>h37</span><span>h38</span><span>h39</span><span>h40</span><span>h41</span><span>h42</span><span>h43</span><span>h44</span><span>h45</span><span>h46</span><span>h47</span><span>h48</span><span>h49</span><span>h50</span><span>h51</span><span>h52</span><span>h53</span><span>h54</span><span>h55</span><span>h56</span>
+	</p>	<p data="t">
+		<span>t1</span><span>t2</span><span>t3</span><span>t4</span><span>t5</span><span>t6</span><span>t7</span><span>t8</span><span>t9</span><span>t10</span><span>t11</span><span>t12</span><span>t13</span><span>t14</span><span>t15</span><span>t16</span><span>t17</span><span>t18</span><span>t19</span><span>t20</span><span>t21</span><span>t22</span><span>t23</span><span>t24</span><span>t25</span><span>t26</span><span>t27</span><span>t28</span><span>t29</span><span>t30</span><span>t31</span><span>t32</span><span>t33</span><span>t34</span><span>t35</span><span>t36</span><span>t37</span><span>t38</span><span>t39</span><span>t40</span><span>t41</span><span>t42</span><span>t43</span><span>t44</span><span>t45</span><span>t46</span><span>t47</span><span>t48</span><span>t49</span><span>t50</span><span>t51</span><span>t52</span><span>t53</span><span>t54</span><span>t55</span><span>t56</span><span>t57</span><span>t58</span><span>t59</span><span>t60</span><span>t61</span><span>t62</span><span>t63</span><span>t64</span><span>t65</span><span>t66</span><span>t67</span><span>t68</span>
+	</p>	<p data="b">
+		<span>b1</span><span>b2</span><span>b3</span><span>b4</span><span>b5</span><span>b6</span><span>b7</span><span>b8</span><span>b9</span><span>b10</span><span>b11</span><span>b12</span><span>b13</span><span>b14</span><span>b15</span><span>b16</span><span>b17</span><span>b18</span><span>b19</span><span>b20</span><span>b21</span><span>b22</span><span>b23</span><span>b24</span><span>b25</span><span>b26</span><span>b27</span><span>b28</span><span>b29</span><span>b30</span><span>b31</span><span>b32</span><span>b33</span><span>b34</span><span>b35</span><span>b36</span><span>b37</span><span>b38</span><span>b39</span><span>b40</span><span>b41</span><span>b42</span><span>b43</span><span>b44</span><span>b45</span><span>b46</span><span>b47</span><span>b48</span><span>b49</span><span>b50</span>
+	</p>	<p data="i">
+		<span>i1</span><span>i2</span><span>i3</span><span>i4</span><span>i5</span><span>i6</span><span>i7</span><span>i8</span><span>i9</span><span>i10</span><span>i11</span><span>i12</span><span>i13</span><span>i14</span><span>i15</span><span>i16</span><span>i17</span><span>i18</span><span>i19</span><span>i20</span><span>i21</span><span>i22</span><span>i23</span><span>i24</span><span>i25</span><span>i26</span><span>i27</span><span>i28</span><span>i29</span><span>i30</span><span>i31</span><span>i32</span><span>i33</span><span>i34</span><span>i35</span><span>i36</span><span>i37</span><span>i38</span><span>i39</span><span>i40</span><span>i41</span><span>i42</span><span>i43</span><span>i44</span><span>i45</span><span>i46</span><span>i47</span><span>i48</span><span>i49</span><span>i50</span><span>i51</span><span>i52</span><span>i53</span><span>i54</span><span>i55</span><span>i56</span><span>i57</span>
+	</p>	<p data="z">
+		<span>z1</span><span>z2</span><span>z3</span><span>z4</span><span>z5</span><span>z6</span><span>z7</span><span>z8</span><span>z9</span><span>z10</span><span>z11</span><span>z12</span><span>z13</span><span>z14</span><span>z15</span><span>z16</span><span>z17</span><span>z18</span><span>z19</span><span>z20</span><span>z21</span><span>z22</span><span>z23</span><span>z24</span><span>z25</span><span>z26</span><span>z27</span><span>z28</span><span>z29</span><span>z30</span><span>z31</span><span>z32</span><span>z33</span><span>z34</span><span>z35</span><span>z36</span><span>z37</span><span>z38</span><span>z39</span><span>z40</span><span>z41</span><span>z42</span><span>z43</span><span>z44</span><span>z45</span><span>z46</span><span>z47</span><span>z48</span><span>z49</span><span>z50</span><span>z51</span><span>z52</span><span>z53</span><span>z54</span><span>z55</span><span>z56</span><span>z57</span><span>z58</span><span>z59</span><span>z60</span><span>z61</span><span>z62</span><span>z63</span><span>z64</span><span>z65</span><span>z66</span><span>z67</span><span>z68</span><span>z69</span><span>z70</span><span>z71</span><span>z72</span><span>z73</span><span>z74</span>
+	</p>	<hr/>
+	<p data="e">
+		<span>e1</span><span>e2</span><span>e3</span><span>e4</span><span>e5</span><span>e6</span><span>e7</span><span>e8</span><span>e9</span><span>e10</span><span>e11</span><span>e12</span><span>e13</span><span>e14</span><span>e15</span><span>e16</span><span>e17</span><span>e18</span><span>e19</span><span>e20</span><span>e21</span><span>e22</span><span>e23</span><span>e24</span><span>e25</span><span>e26</span><span>e27</span><span>e28</span><span>e29</span><span>e30</span><span>e31</span><span>e32</span><span>e33</span><span>e34</span><span>e35</span><span>e36</span><span>e37</span><span>e38</span><span>e39</span><span>e40</span><span>e41</span><span>e42</span><span>e43</span><span>e44</span><span>e45</span><span>e46</span><span>e47</span><span>e48</span><span>e49</span><span>e50</span><span>e51</span><span>e52</span><span>e53</span>
+	</p>	<p data="u">
+		<span>u1</span><span>u2</span><span>u3</span><span>u4</span><span>u5</span><span>u6</span><span>u7</span><span>u8</span><span>u9</span><span>u10</span><span>u11</span><span>u12</span><span>u13</span><span>u14</span><span>u15</span><span>u16</span><span>u17</span><span>u18</span><span>u19</span><span>u20</span><span>u21</span><span>u22</span><span>u23</span><span>u24</span><span>u25</span><span>u26</span><span>u27</span><span>u28</span><span>u29</span><span>u30</span><span>u31</span><span>u32</span><span>u33</span><span>u34</span><span>u35</span><span>u36</span><span>u37</span><span>u38</span><span>u39</span><span>u40</span><span>u41</span><span>u42</span><span>u43</span><span>u44</span><span>u45</span><span>u46</span><span>u47</span><span>u48</span><span>u49</span><span>u50</span><span>u51</span><span>u52</span><span>u53</span><span>u54</span><span>u55</span><span>u56</span><span>u57</span><span>u58</span><span>u59</span><span>u60</span><span>u61</span><span>u62</span><span>u63</span><span>u64</span><span>u65</span><span>u66</span><span>u67</span><span>u68</span><span>u69</span>
+	</p>
+</div></div>
+<div class="bottom-link" qtlid="29352;29352;29352;29352;29352;29352;29352;29352">
+<a href="https://www.ovh.com/" qtlid="29339">© 1999-2016 OVH</a> |
+                        <a href="https://www.ovh.com/fr/support/documents_legaux/" qtlid="29378">Mentions légales - Contrats</a> |
+                        <a href="https://www.ovh.com/fr/support/documents_legaux/payment.xml" qtlid="29404">Paiements</a> |
+                        <a href="https://www.ovh.com/fr/support/" qtlid="10849">Contactez-nous</a> |
+                        <a href="https://www.ovh.com/fr/apropos/" qtlid="29443">À propos d'OVH</a> |
+                        <a href="https://www.ovh.com/fr/espace-presse/" qtlid="29495" ovhInclude="fr">Espace presse</a><span ovhInclude="fr" qtlid="29352">|</span><a href="https://www.ovh.com/fr/support/outils/" qtlid="10407">Mon compte</a> |
+                        <a href="https://www.ovh.com/fr/careers/" qtlid="10836">OVH Recrute</a>
+</div>
+<div class="bottom-shadow" qtlid="853"> </div>
+</div></body>
+</html>
+
+

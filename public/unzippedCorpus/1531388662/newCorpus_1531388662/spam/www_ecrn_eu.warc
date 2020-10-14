@@ -1,0 +1,61 @@
+WARC/1.0
+WARC-Type: warcinfo
+WARC-Date: 2018-05-30T17:52:32Z
+WARC-Record-ID: <urn:uuid:0556a74c-1643-4dd0-8b34-7fb2309c1f20>
+WARC-All-Language: fr
+WARC-All-Content_type: text/html
+Content-Type: application/http;msgtype=response
+Content-Length: 46
+
+WARCProcessor by SING Group www.sing-group.com
+
+WARC/1.0
+WARC-Type: response
+WARC-Record-ID: <http://www.ecrn.eu>
+WARC-Date: 20180530175232
+WARC-Target-URI: http://www.ecrn.eu
+WARC-Language: fr
+Content-Type: application/http;msgtype=response
+Content-Length: 1081
+
+HTTP/1.1 200
+Content-Type:text/html
+
+
+
+
+<html>
+<head>
+<title>www.ecrn.eu</title>
+</head>
+
+<body bgcolor="#FFFFFF" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0">
+<table width="100%" border="0" cellpadding="0" height="100%" cellspacing="0">
+  <tr> 
+    <td width="15%" rowspan="3" background="images/bgdx.gif"> 
+      
+    </td>
+    <td valign="top"> 
+      <div align="center"> 
+        <h2><font face="Verdana, Arial, Helvetica, sans-serif" ><b><br>
+          <font size="2">Benvenuti a<br>
+          </font></b></font><font face="Verdana, Arial, Helvetica, sans-serif" color=cc0033><br>
+          www.ecrn.eu</font></h2>
+        <hr width="80%" noshade size="1">
+       
+        
+      </div>
+      <div align="center">
+<p><br>
+          30/05/2018<a href="http://www.hostingsolutions.it/"><img src="images/domini-e-hosting.gif" border=0 alt="hosting e registrazione domini"></a> 
+        </p>
+      </div>
+    </td>
+    <td width="15%" rowspan="3" background="images/bgdx.gif">&nbsp;</td>
+  </tr>
+ 
+</table>
+</body>
+</html>
+
+

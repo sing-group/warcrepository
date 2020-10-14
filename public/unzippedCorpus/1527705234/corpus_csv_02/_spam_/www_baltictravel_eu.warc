@@ -1,0 +1,1489 @@
+WARC/1.0
+WARC-Type: warcinfo
+WARC-Date: 2018-05-30T17:52:31Z
+WARC-All-Language: lt
+WARC-All-Content_type: text/html; charset=UTF-8
+WARC-Record-ID: <urn:uuid:b6d4dd04-f9ef-44d8-a2af-8bee4c0310b7>
+Content-Type: application/http;msgtype=response
+Content-Length: 46
+
+WARCProcessor by SING Group www.sing-group.com
+
+WARC/1.0
+WARC-Type: response
+WARC-Target-URI: http://www.baltictravel.eu
+WARC-Date: 20180530175231
+WARC-Language: lt
+WARC-Record-ID: <http://www.baltictravel.eu>
+Content-Type: application/http;msgtype=response
+Content-Length: 79137
+
+HTTP/1.1 200
+Content-Type:text/html; charset=UTF-8
+
+
+<!DOCTYPE html>
+<html lang="lt">
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(e,t,n){function r(n){if(!t[n]){var o=t[n]={exports:{}};e[n][0].call(o.exports,function(t){var o=e[n][1][t];return r(o||t)},o,o.exports)}return t[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(e,t,n){function r(){}function o(e,t,n){return function(){return i(e,[f.now()].concat(u(arguments)),t?null:this,n),t?void 0:this}}var i=e("handle"),a=e(2),u=e(3),c=e("ee").get("tracer"),f=e("loader"),s=NREUM;"undefined"==typeof window.newrelic&&(newrelic=s);var p=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],d="api-",l=d+"ixn-";a(p,function(e,t){s[t]=o(d+t,!0,"api")}),s.addPageAction=o(d+"addPageAction",!0),s.setCurrentRouteName=o(d+"routeName",!0),t.exports=newrelic,s.interaction=function(){return(new r).get()};var m=r.prototype={createTracer:function(e,t){var n={},r=this,o="function"==typeof t;return i(l+"tracer",[f.now(),e,n],r),function(){if(c.emit((o?"":"no-")+"fn-start",[f.now(),r,o],n),o)try{return t.apply(this,arguments)}catch(e){throw c.emit("fn-err",[arguments,this,e],n),e}finally{c.emit("fn-end",[f.now()],n)}}}};a("setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(e,t){m[t]=o(l+t)}),newrelic.noticeError=function(e){"string"==typeof e&&(e=new Error(e)),i("err",[e,f.now()])}},{}],2:[function(e,t,n){function r(e,t){var n=[],r="",i=0;for(r in e)o.call(e,r)&&(n[i]=t(r,e[r]),i+=1);return n}var o=Object.prototype.hasOwnProperty;t.exports=r},{}],3:[function(e,t,n){function r(e,t,n){t||(t=0),"undefined"==typeof n&&(n=e?e.length:0);for(var r=-1,o=n-t||0,i=Array(o<0?0:o);++r<o;)i[r]=e[t+r];return i}t.exports=r},{}],4:[function(e,t,n){t.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],ee:[function(e,t,n){function r(){}function o(e){function t(e){return e&&e instanceof r?e:e?c(e,u,i):i()}function n(n,r,o,i){if(!d.aborted||i){e&&e(n,r,o);for(var a=t(o),u=m(n),c=u.length,f=0;f<c;f++)u[f].apply(a,r);var p=s[y[n]];return p&&p.push([b,n,r,a]),a}}function l(e,t){v[e]=m(e).concat(t)}function m(e){return v[e]||[]}function w(e){return p[e]=p[e]||o(n)}function g(e,t){f(e,function(e,n){t=t||"feature",y[n]=t,t in s||(s[t]=[])})}var v={},y={},b={on:l,emit:n,get:w,listeners:m,context:t,buffer:g,abort:a,aborted:!1};return b}function i(){return new r}function a(){(s.api||s.feature)&&(d.aborted=!0,s=d.backlog={})}var u="nr@context",c=e("gos"),f=e(2),s={},p={},d=t.exports=o();d.backlog=s},{}],gos:[function(e,t,n){function r(e,t,n){if(o.call(e,t))return e[t];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,t,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return e[t]=r,r}var o=Object.prototype.hasOwnProperty;t.exports=r},{}],handle:[function(e,t,n){function r(e,t,n,r){o.buffer([e],r),o.emit(e,t,n)}var o=e("ee").get("handle");t.exports=r,r.ee=o},{}],id:[function(e,t,n){function r(e){var t=typeof e;return!e||"object"!==t&&"function"!==t?-1:e===window?0:a(e,i,function(){return o++})}var o=1,i="nr@id",a=e("gos");t.exports=r},{}],loader:[function(e,t,n){function r(){if(!x++){var e=h.info=NREUM.info,t=d.getElementsByTagName("script")[0];if(setTimeout(s.abort,3e4),!(e&&e.licenseKey&&e.applicationID&&t))return s.abort();f(y,function(t,n){e[t]||(e[t]=n)}),c("mark",["onload",a()+h.offset],null,"api");var n=d.createElement("script");n.src="https://"+e.agent,t.parentNode.insertBefore(n,t)}}function o(){"complete"===d.readyState&&i()}function i(){c("mark",["domContent",a()+h.offset],null,"api")}function a(){return E.exists&&performance.now?Math.round(performance.now()):(u=Math.max((new Date).getTime(),u))-h.offset}var u=(new Date).getTime(),c=e("handle"),f=e(2),s=e("ee"),p=window,d=p.document,l="addEventListener",m="attachEvent",w=p.XMLHttpRequest,g=w&&w.prototype;NREUM.o={ST:setTimeout,SI:p.setImmediate,CT:clearTimeout,XHR:w,REQ:p.Request,EV:p.Event,PR:p.Promise,MO:p.MutationObserver};var v=""+location,y={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1071.min.js"},b=w&&g&&g[l]&&!/CriOS/.test(navigator.userAgent),h=t.exports={offset:u,now:a,origin:v,features:{},xhrWrappable:b};e(1),d[l]?(d[l]("DOMContentLoaded",i,!1),p[l]("load",r,!1)):(d[m]("onreadystatechange",o),p[m]("onload",r)),c("mark",["firstbyte",u],null,"api");var x=0,E=e(4)},{}]},{},["loader"]);</script>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Baltic Travel</title>
+
+    <meta name="keyword" content="kelionių agentūra">    <meta name="description" content="UAB “Baltic Travel” turizmo organizatorius teikiantis pramogų, poilsio, verslo bei individualių užsakomųjų kelionių organizavimo paslaugas Lietuvoje.">    <link rel="icon" type="image/png" sizes="32x32" href="/themes/front/images/ico/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="96x96" href="/themes/front/images/ico/favicon-96x96.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/themes/front/images/ico/favicon-16x16.png">
+    <script>
+        var baseUri = '/';
+        var locale = 'lt';
+            </script>
+    <link rel="stylesheet" type="text/css" href="http://www.baltictravel.eu/vendor/bootstrap-3.3.6-dist/css/bootstrap.min.css" />
+<link rel="stylesheet" type="text/css" href="http://www.baltictravel.eu/vendor/font-awesome-4.5.0/css/font-awesome.min.css" />
+<link rel="stylesheet" type="text/css" href="http://www.baltictravel.eu/vendor/jquery-ui-1.11.4/jquery-ui.min.css" />
+<link rel="stylesheet" type="text/css" href="http://www.baltictravel.eu/themes/front/css/fullscreen.css" />
+<link rel="stylesheet" type="text/css" href="http://www.baltictravel.eu/themes/front/rs-plugin/css/settings.min.css" />
+<link rel="stylesheet" type="text/css" href="http://www.baltictravel.eu/themes/front/assets/css/custom.css" />
+        <!-- HTML5 shiv and Respond.js for IE8 support of HTML5 elements and media queries -->
+    <!--[if lt IE 9]>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/respond.js/1.4.2/respond.min.js"></script>
+    <![endif]-->
+    </head>
+<body id="top">
+    <script>
+  window.fbAsyncInit = function() {
+    FB.init({
+      appId      : '559619570865322',
+      xfbml      : true,
+      version    : 'v2.7'
+    });
+  };
+
+  (function(d, s, id){
+     var js, fjs = d.getElementsByTagName(s)[0];
+     if (d.getElementById(id)) {return;}
+     js = d.createElement(s); js.id = id;
+     js.src = "//connect.facebook.net/en_US/sdk.js";
+     fjs.parentNode.insertBefore(js, fjs);
+   }(document, 'script', 'facebook-jssdk'));
+</script>
+    <!-- Top wrapper -->
+<div class="navbar-wrapper2 navbar-fixed-top">
+    <div class="container">
+        <nav class="navbar navbar-default">
+            <div>
+            <!-- Brand and toggle get grouped for better mobile display -->
+                <div class="navbar-header col-md-1 col-xs-2">
+                    <a href="/" class="navbar-brand" title="Baltic Travel"><img src="http://www.baltictravel.eu/themes/front/images/baltictravel-logo.jpg" class="logo" alt="Baltic Travel" /></a>                </div>
+                <div class="top-header-line col-xs-8 col-md-11 col-sm-10 mt5">
+                    <div style="padding-right: 2%"><p class="ml10 slogan mt5 size16 green visible-lg">Kelionių agentūra</p></div>
+                    <div style="padding-right: 2%" class="size16 green mt5">
+                        <i class="fa fa-phone"></i> <a href="tel:+37060135505" class="green">+37060135505</a>
+                    </div>
+                    <div style="padding-right: 2%" class="size16 green mt5">
+                        <i class="fa fa-envelope"></i> <a href="/uzklausos-forma.html" class="green" title="Siųsti užklausą">info@baltictravel.eu</a>                    </div>
+                    <div style="width: 20%; padding-right: 2%" class="visible-lg visible-md">
+                        <form action="/paieska.html" method="get">                            <div style="width: 65%">
+                                <input type="text" id="q" name="q" class="form-control" placeholder="Ieškoti" />                            </div>
+                            <div style="width: 33%; padding-left: 2%;">
+                                <button class="btn btn-search3 glyphicon glyphicon-search" aria-hidden="true"></button>
+                            </div>
+                        </form>                    </div>
+                    <div style="padding-right: 2%" class="mt5">
+                        <div class="row">
+                            <div class="col-xs-1"><a href="/lt" class="green">LT</a></div>
+                            <div class="col-xs-1"><a href="/en" class="green">EN</a></div>
+                            <div class="col-xs-1"><a href="/ru" class="green">RU</a></div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-xs-2 visible-xs">
+                    <button type="button" class="navbar-toggle collapsed" data-target="#bt-navbar-collapse" data-toggle="collapse" aria-expanded="false">
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                    </button>
+                </div>
+
+
+                <div class="col-xs-12 col-md-11">
+                    <div class="navbar-collapse collapse col-md-10" id="bt-navbar-collapse">
+    <ul class="nav navbar-nav navbar-left">
+
+                                        <li class="dropdown">
+            <a data-toggle="" class="dropdown-toggle" href="/apgyvendinimas.html">Apgyvendinimas <b class="lightcaret mt-2"></b></a>
+                        <ul class="dropdown-menu posright-0">
+                <li>
+                    <div class="row dropwidth01">
+
+                        <ul class="droplist col-md-12">
+                        
+                                                        
+                                                                <li><a href="/apartamentai.html">Apartamentai</a></li>
+
+                                                    
+                                                        
+                                                                <li><a href="/viesbuciai.html">Viešbučiai</a></li>
+
+                                                    
+                                                        
+                                                                <li><a href="/kaimo-sodybos.html">Kaimo sodybos</a></li>
+
+                                                    
+                                                        
+                                                                <li><a href="/nakvynes-su-pusryciais-namai.html">Nakvynės su pusryčiais namai</a></li>
+
+                                                    
+                                                        
+                                                                <li><a href="/vilos.html">Vilos</a></li>
+
+                                                                            </ul>
+
+                    </div>
+                </li>
+            </ul>
+                    </li>
+                                        <li class="dropdown">
+            <a data-toggle="" class="dropdown-toggle" href="/autonuoma.html">Autonuoma <b class="lightcaret mt-2"></b></a>
+                        <ul class="dropdown-menu posright-0">
+                <li>
+                    <div class="row dropwidth02">
+
+                        <ul class="droplist col-md-12">
+                        
+                                                        
+                                                                <li><a href="/ekonomiski.html">Ekonomiški</a></li>
+
+                                                    
+                                                        
+                                                                <li><a href="/kompaktiski.html">Kompaktiški</a></li>
+
+                                                    
+                                                        
+                                                                <li><a href="/standartiniai.html">Standartiniai</a></li>
+
+                                                    
+                                                        
+                                                                <li><a href="/erdvus.html">Erdvūs</a></li>
+
+                                                    
+                                                        
+                                                                <li><a href="/prabangus.html">Prabangūs</a></li>
+
+                                                    
+                                                        
+                                                                <li><a href="/mini.html">Mini</a></li>
+
+                                                    
+                                                        
+                                                                <li><a href="/visureigiai-suw.html">Visureigiai SUW</a></li>
+
+                                                    
+                                                        
+                                                                <li><a href="/mikroautobusai-vans.html">Mikroautobusai VANS</a></li>
+
+                                                    
+                                                        
+                                                                <li><a href="/krovininiai-busai.html">Krovininiai busai</a></li>
+
+                                                                            </ul>
+
+                    </div>
+                </li>
+            </ul>
+                    </li>
+                                        <li class="dropdown">
+            <a data-toggle="" class="dropdown-toggle" href="/keleiviu-pervezimas.html">Keleivių pervežimas <b class="lightcaret mt-2"></b></a>
+                        <ul class="dropdown-menu posright-0">
+                <li>
+                    <div class="row dropwidth03">
+
+                        <ul class="droplist col-md-12">
+                        
+                                                        
+                                                                <li><a href="/lengvuoju-automobiliu.html">Lengvuoju automobiliu</a></li>
+
+                                                    
+                                                        
+                                                                <li><a href="/mikroautobusu.html">Mikroautobusu</a></li>
+
+                                                    
+                                                        
+                                                                <li><a href="/autobusu.html">Autobusu</a></li>
+
+                                                                            </ul>
+
+                    </div>
+                </li>
+            </ul>
+                    </li>
+                                        <li class="dropdown">
+            <a data-toggle="" class="dropdown-toggle" href="/turai.html">Turai <b class="lightcaret mt-2"></b></a>
+                        <ul class="dropdown-menu posright-0">
+                <li>
+                    <div class="row dropwidth03">
+
+                        <ul class="droplist col-md-12">
+                        
+                                                        
+                                                                <li><a href="/pazintiniai.html">Pažintiniai</a></li>
+
+                                                    
+                                                        
+                                                                <li><a href="/edukacinis.html">Edukaciniai</a></li>
+
+                                                    
+                                                        
+                                                                <li><a href="/pramoginiai.html">Pramoginiai</a></li>
+
+                                                                            </ul>
+
+                    </div>
+                </li>
+            </ul>
+                    </li>
+                                        <li class="dropdown">
+            <a data-toggle="" class="dropdown-toggle" href="/ekskursijos.html">Ekskursijos <b class="lightcaret mt-2"></b></a>
+                        <ul class="dropdown-menu posright-0">
+                <li>
+                    <div class="row dropwidth03">
+
+                        <ul class="droplist col-md-12">
+                        
+                                                        
+                                                                <li><a href="/pazintines.html">Pažintinės</a></li>
+
+                                                    
+                                                        
+                                                                <li><a href="/edukacines.html">Edukacinės</a></li>
+
+                                                    
+                                                        
+                                                                <li><a href="/pramogines.html">Pramoginės</a></li>
+
+                                                                            </ul>
+
+                    </div>
+                </li>
+            </ul>
+                    </li>
+                                        <li class="dropdown">
+            <a data-toggle="" class="dropdown-toggle" href="/pramogos.html">Pramogos <b class="lightcaret mt-2"></b></a>
+                        <ul class="dropdown-menu posright-0">
+                <li>
+                    <div class="row dropwidth03">
+
+                        <ul class="droplist col-md-12">
+                        
+                                                        
+                                                                <li><a href="/aktyvios.html">Aktyvios</a></li>
+
+                                                    
+                                                        
+                                                                <li><a href="/grozio-ir-spa.html">Grožio ir SPA</a></li>
+
+                                                    
+                                                        
+                                                                <li><a href="/gurmanams.html">Gurmanams</a></li>
+
+                                                    
+                                                        
+                                                                <li><a href="/kulturines.html">Kultūrinės</a></li>
+
+                                                                            </ul>
+
+                    </div>
+                </li>
+            </ul>
+                    </li>
+                                        <li>
+            <a href="/paketai.html">Pasiūlymai </a>
+                    </li>
+                
+                                        <li class=" visible-md visible-sm visible-xs">
+            <a href="/turizmas-lietuvoje.html">Turizmas Lietuvoje </a>
+                    </li>
+                                        <li class=" visible-md visible-sm visible-xs">
+            <a href="/naudinga-informacija.html">Naudinga informacija </a>
+                    </li>
+                                        <li class=" visible-md visible-sm visible-xs">
+            <a href="/ivykiai-ir-renginiai.html">Įvykiai/renginiai </a>
+                    </li>
+                                        <li class=" visible-md visible-sm visible-xs">
+            <a href="/kelto-bilietai.html">Kelto bilietai </a>
+                    </li>
+                                        <li class=" visible-md visible-sm visible-xs">
+            <a href="/vizos.html">Vizos </a>
+                    </li>
+                                        <li class=" visible-md visible-sm visible-xs">
+            <a href="/rezervacijos-salygos.html">Rezervacijos sąlygos </a>
+                    </li>
+                                        <li class=" visible-md visible-sm visible-xs">
+            <a href="/rekvizitai.html">Rekvizitai </a>
+                    </li>
+                                        <li class=" visible-md visible-sm visible-xs">
+            <a href="/apie-mus.html">Apie mus </a>
+                    </li>
+                                        <li class=" visible-md visible-sm visible-xs">
+            <a href="/uzklausos-forma.html">Siųsti užklausą </a>
+                    </li>
+            </ul>
+</div>
+                </div>
+            </div><!-- /.container-fluid -->
+        </nav>
+    </div>
+    <nav class="navbar navbar-inverse visible-lg">
+        <div class="container">
+            <div class="navbar-collapse collapse col-md-12" id="bt-navbar-collapse">
+    <ul class="nav navbar-nav navbar-left">
+
+                                        <li class=" ">
+            <a href="/turizmas-lietuvoje.html">Turizmas Lietuvoje </a>
+                    </li>
+                                        <li class=" ">
+            <a href="/naudinga-informacija.html">Naudinga informacija </a>
+                    </li>
+                                        <li class=" ">
+            <a href="/ivykiai-ir-renginiai.html">Įvykiai/renginiai </a>
+                    </li>
+                                        <li class=" ">
+            <a href="/kelto-bilietai.html">Kelto bilietai </a>
+                    </li>
+                                        <li class=" ">
+            <a href="/vizos.html">Vizos </a>
+                    </li>
+                                        <li class=" ">
+            <a href="/rezervacijos-salygos.html">Rezervacijos sąlygos </a>
+                    </li>
+                                        <li class=" ">
+            <a href="/rekvizitai.html">Rekvizitai </a>
+                    </li>
+                                        <li class=" ">
+            <a href="/apie-mus.html">Apie mus </a>
+                    </li>
+                                        <li class=" ">
+            <a href="/uzklausos-forma.html">Siųsti užklausą </a>
+                    </li>
+            </ul>
+</div>
+        </div><!-- /.container-fluid -->
+    </nav>
+</div>
+<!-- /Top wrapper -->
+<div id="dajy" class="fullscreen-container mtslide sliderbg fixed">
+    <div class="fullscreenbanner">
+        <ul>
+            <!-- papercut fade turnoff flyin slideright slideleft slideup slidedown-->
+
+            <!-- FADE -->
+                        <li data-transition="papercut" data-slotamount="1" data-masterspeed="300">
+                                    <img src="http://www.baltictravel.eu/images/1/1/0/7/9d5ebfe354d1547ba7eb725978c09631.png" alt="" />                                <div class="tp-caption scrolleffect sft"
+                     data-x="center"
+                     data-y="120"
+                     data-speed="1000"
+                     data-start="800"
+                     data-easing="easeOutExpo"  >
+                     <div class="sboxpurple textcenter">
+                        <span class="lato size28 slim caps white">KELIONĖS IR PRAMOGOS</span><br/><br/><br/>
+                        <span class="lato size100 slim caps white">LIETUVOJE</span>
+                        
+                     </div>
+                </div>
+            </li>
+                        <li data-transition="papercut" data-slotamount="1" data-masterspeed="300">
+                                    <img src="http://www.baltictravel.eu/images/2/0/6/2/ff5448498ffd9482fb0c82bc8dd581fd.png" alt="" />                                <div class="tp-caption scrolleffect sft"
+                     data-x="center"
+                     data-y="120"
+                     data-speed="1000"
+                     data-start="800"
+                     data-easing="easeOutExpo"  >
+                     <div class="sboxpurple textcenter">
+                        <span class="lato size28 slim caps white">VERSLO/ AKTYVUS/ KULTŪRINIS/ SVEIKATINGUMO/ MIESTO</span><br/><br/><br/>
+                        <span class="lato size100 slim caps white">TURIZMAS</span>
+                        
+                     </div>
+                </div>
+            </li>
+                        <li data-transition="papercut" data-slotamount="1" data-masterspeed="300">
+                                    <img src="http://www.baltictravel.eu/images/2/0/6/5/aad832c8aa2d4d6e7ec02e6f7d1a06fe.png" alt="" />                                <div class="tp-caption scrolleffect sft"
+                     data-x="center"
+                     data-y="120"
+                     data-speed="1000"
+                     data-start="800"
+                     data-easing="easeOutExpo"  >
+                     <div class="sboxpurple textcenter">
+                        <span class="lato size28 slim caps white">UNESCO PAVELDAS</span><br/><br/><br/>
+                        <span class="lato size100 slim caps white">VILNIUS</span>
+                        
+                     </div>
+                </div>
+            </li>
+                    </ul>
+        <div class="tp-bannertimer none"></div>
+    </div>
+</div>
+
+<!-- WRAP -->
+<div class="wrap cstyle03">
+
+<div class="container z-index100 mt-130">
+    <div class="row">
+        <div class="col-md-12">
+            <div class="bs-example bs-example-tabs cstyle04">
+
+                <ul class="nav nav-tabs" id="myTab">
+                    <li onclick="mySelectUpdate()" class="active"><a data-toggle="tab" href="#accomodation"><i class="fa fa-bed gtw"></i> <span class="hidetext">Apgyvendinimas</span>&nbsp;</a></li>
+                    <li onclick="mySelectUpdate()"><a data-toggle="tab" href="#carrental"><i class="fa fa-car gtw"></i> <span class="hidetext">Autonuoma</span>&nbsp;</a></li>
+                    <li onclick="mySelectUpdate()"><a data-toggle="tab" href="#transfer"><i class="fa fa-suitcase gtw"></i> <span class="hidetext">Keleivių pervežimas</span>&nbsp;</a></li>
+                    <li onclick="mySelectUpdate()"><a data-toggle="tab" href="#tour"><i class="fa fa-road gtw"></i> <span class="hidetext">Turai</span>&nbsp;</a></li>
+                    <li onclick="mySelectUpdate()"><a data-toggle="tab" href="#excursion"><i class="fa fa-users gtw"></i> <span class="hidetext">Ekskursijos</span>&nbsp;</a></li>
+                    <li onclick="mySelectUpdate()"><a data-toggle="tab" href="#attraction"><i class="fa fa-futbol-o gtw"></i> <span class="hidetext">Pramogos</span>&nbsp;</a></li>
+                    <li onclick="mySelectUpdate()"><a data-toggle="tab" href="#pack"><i class="fa fa-clone gtw"></i> <span class="hidetext">Paketai</span>&nbsp;</a></li>
+                </ul>
+
+                <div class="tab-content2 tab-content" id="myTabContent">
+                    <div id="accomodation" class="tab-pane fade active in">
+                        <form action="/lt/catalog/front/category/index" class="filter-form" method="post">
+                        <div class="col-md-3">
+                            <div class="textleft">
+                                <span class="opensans size13">Tipas</span>
+                                <select id="category" name="category" class="form-control mySelectBoxClass">
+	<option value="59">Visi</option>
+	<option value="60">Apartamentai</option>
+	<option value="61">Viešbučiai</option>
+	<option value="63">Svečių namai</option>
+	<option value="64">Nakvynės su pusryčiais namai</option>
+	<option value="66">Vilos</option>
+	<option value="73">Kaimo sodybos</option>
+</select>                            </div>
+                        </div>
+
+                        <div class="col-md-2">
+                            <div class="textleft">
+                                <span class="opensans size13">Data nuo</span>
+                                <input type="text" name="search[dateFrom]" value="2018-05-31" class="datepicker-widget form-control mySelectCalendar" />                            </div>
+                            <div class="textleft">
+                                <span class="opensans size13">Data iki</span>
+                                <input type="text" name="search[dateTo]" value="2018-06-01" class="datepicker-widget form-control mySelectCalendar" />                            </div>
+                        </div>
+
+                        <div class="col-md-2">
+                            <div class="textleft">
+                                <span class="opensans size13">Laikas nuo</span>
+                                <select name="search[hourFrom]" class="form-control mySelectBoxClass">
+	<option value="00:00">00:00</option>
+	<option value="00:30">00:30</option>
+	<option value="01:00">01:00</option>
+	<option value="01:30">01:30</option>
+	<option value="02:00">02:00</option>
+	<option value="02:30">02:30</option>
+	<option value="03:00">03:00</option>
+	<option value="03:30">03:30</option>
+	<option value="04:00">04:00</option>
+	<option value="04:30">04:30</option>
+	<option value="05:00">05:00</option>
+	<option value="05:30">05:30</option>
+	<option value="06:00">06:00</option>
+	<option value="06:30">06:30</option>
+	<option value="07:00">07:00</option>
+	<option value="07:30">07:30</option>
+	<option value="08:00">08:00</option>
+	<option value="08:30">08:30</option>
+	<option value="09:00">09:00</option>
+	<option value="09:30">09:30</option>
+	<option value="10:00">10:00</option>
+	<option value="10:30">10:30</option>
+	<option value="11:00">11:00</option>
+	<option value="11:30">11:30</option>
+	<option value="12:00">12:00</option>
+	<option value="12:30">12:30</option>
+	<option value="13:00">13:00</option>
+	<option value="13:30">13:30</option>
+	<option value="14:00">14:00</option>
+	<option value="14:30">14:30</option>
+	<option value="15:00">15:00</option>
+	<option value="15:30">15:30</option>
+	<option value="16:00">16:00</option>
+	<option value="16:30">16:30</option>
+	<option value="17:00">17:00</option>
+	<option value="17:30">17:30</option>
+	<option value="18:00">18:00</option>
+	<option value="18:30">18:30</option>
+	<option value="19:00">19:00</option>
+	<option value="19:30">19:30</option>
+	<option value="20:00">20:00</option>
+	<option selected="selected" value="20:30">20:30</option>
+	<option value="21:00">21:00</option>
+	<option value="21:30">21:30</option>
+	<option value="22:00">22:00</option>
+	<option value="22:30">22:30</option>
+	<option value="23:00">23:00</option>
+	<option value="23:30">23:30</option>
+</select>                            </div>
+                            <div class="textleft">
+                                <span class="opensans size13">Laikas iki</span>
+                                <select name="search[hourTo]" class="form-control mySelectBoxClass">
+	<option value="00:00">00:00</option>
+	<option value="00:30">00:30</option>
+	<option value="01:00">01:00</option>
+	<option value="01:30">01:30</option>
+	<option value="02:00">02:00</option>
+	<option value="02:30">02:30</option>
+	<option value="03:00">03:00</option>
+	<option value="03:30">03:30</option>
+	<option value="04:00">04:00</option>
+	<option value="04:30">04:30</option>
+	<option value="05:00">05:00</option>
+	<option value="05:30">05:30</option>
+	<option value="06:00">06:00</option>
+	<option value="06:30">06:30</option>
+	<option value="07:00">07:00</option>
+	<option value="07:30">07:30</option>
+	<option value="08:00">08:00</option>
+	<option value="08:30">08:30</option>
+	<option value="09:00">09:00</option>
+	<option value="09:30">09:30</option>
+	<option value="10:00">10:00</option>
+	<option value="10:30">10:30</option>
+	<option value="11:00">11:00</option>
+	<option value="11:30">11:30</option>
+	<option value="12:00">12:00</option>
+	<option value="12:30">12:30</option>
+	<option value="13:00">13:00</option>
+	<option value="13:30">13:30</option>
+	<option value="14:00">14:00</option>
+	<option value="14:30">14:30</option>
+	<option value="15:00">15:00</option>
+	<option value="15:30">15:30</option>
+	<option value="16:00">16:00</option>
+	<option value="16:30">16:30</option>
+	<option value="17:00">17:00</option>
+	<option value="17:30">17:30</option>
+	<option value="18:00">18:00</option>
+	<option value="18:30">18:30</option>
+	<option value="19:00">19:00</option>
+	<option value="19:30">19:30</option>
+	<option value="20:00">20:00</option>
+	<option selected="selected" value="20:30">20:30</option>
+	<option value="21:00">21:00</option>
+	<option value="21:30">21:30</option>
+	<option value="22:00">22:00</option>
+	<option value="22:30">22:30</option>
+	<option value="23:00">23:00</option>
+	<option value="23:30">23:30</option>
+</select>                            </div>
+                        </div>
+
+                        <div class="col-md-2">
+                            <div class="textleft">
+                                <span class="opensans size13">Suaugę</span>
+                                <input type="text" name="search[adult]" value="1" class="form-control" />                            </div>
+                            <div class="textleft">
+                                <span class="opensans size13">Vaikai 2-11 m</span>
+                                <input type="text" name="search[child]" value="0" class="form-control" />                            </div>
+                        </div>
+
+                        <div class="col-md-2">
+                            <div class="textleft">
+                                <span class="opensans size13">Kūdikiai 0-23 mėn</span>
+                                <input type="text" name="search[baby]" value="0" class="form-control" />                            </div>
+                            <div class="textleft">
+                                <button type="submit" class="btn-search3 mt20">Ieškoti</button>
+                            </div>
+                        </div>
+                        </form>                    </div>
+
+                    <div id="carrental" class="tab-pane fade">
+                        <form action="/lt/catalog/front/category/index" class="filter-form" method="post">
+                        <div class="col-md-3">
+                            <div class="textleft">
+                                <span class="opensans size13">Klasė</span>
+                                <select id="category" name="category" class="form-control mySelectBoxClass">
+	<option value="68">Visos</option>
+	<option value="67">Ekonomiški</option>
+	<option value="85">Kompaktiški</option>
+	<option value="86">Standartiniai</option>
+	<option value="87">Erdvūs</option>
+	<option value="88">Prabangūs</option>
+	<option value="89">Mini</option>
+	<option value="90">Visureigiai SUW</option>
+	<option value="91">Mikroautobusai VANS</option>
+	<option value="92">Krovininiai busai</option>
+</select>                            </div>
+                        </div>
+
+                        <div class="col-md-2">
+                            <div class="textleft">
+                                <span class="opensans size13">Pasiėmimas</span>
+                                <select name="search[pickUp]" class="form-control mySelectBoxClass">
+	<option value="1">Oro uoste</option>
+	<option value="2">Viešbutyje</option>
+	<option value="3">Ofise</option>
+</select>                            </div>
+                            <div class="textleft">
+                                <span class="opensans size13">Paleidimo vieta</span>
+                                <select name="search[dropOff]" class="form-control mySelectBoxClass">
+	<option value="1">Oro uoste</option>
+	<option value="2">Viešbutyje</option>
+	<option value="3">Ofise</option>
+</select>                            </div>
+                        </div>
+
+                        <div class="col-md-2">
+                            <div class="textleft">
+                                <span class="opensans size13">Data nuo</span>
+                                <input type="text" name="search[dateFrom]" value="2018-05-31" class="datepicker-widget form-control mySelectCalendar" />                            </div>
+                            <div class="textleft">
+                                <span class="opensans size13">Data iki</span>
+                                <input type="text" name="search[dateTo]" value="2018-06-01" class="datepicker-widget form-control mySelectCalendar" />                            </div>
+                        </div>
+
+                        <div class="col-md-2">
+                            <div class="textleft">
+                                <span class="opensans size13">Laikas nuo</span>
+                                <select name="search[hourFrom]" class="form-control mySelectBoxClass">
+	<option value="00:00">00:00</option>
+	<option value="00:30">00:30</option>
+	<option value="01:00">01:00</option>
+	<option value="01:30">01:30</option>
+	<option value="02:00">02:00</option>
+	<option value="02:30">02:30</option>
+	<option value="03:00">03:00</option>
+	<option value="03:30">03:30</option>
+	<option value="04:00">04:00</option>
+	<option value="04:30">04:30</option>
+	<option value="05:00">05:00</option>
+	<option value="05:30">05:30</option>
+	<option value="06:00">06:00</option>
+	<option value="06:30">06:30</option>
+	<option value="07:00">07:00</option>
+	<option value="07:30">07:30</option>
+	<option value="08:00">08:00</option>
+	<option value="08:30">08:30</option>
+	<option value="09:00">09:00</option>
+	<option value="09:30">09:30</option>
+	<option value="10:00">10:00</option>
+	<option value="10:30">10:30</option>
+	<option value="11:00">11:00</option>
+	<option value="11:30">11:30</option>
+	<option value="12:00">12:00</option>
+	<option value="12:30">12:30</option>
+	<option value="13:00">13:00</option>
+	<option value="13:30">13:30</option>
+	<option value="14:00">14:00</option>
+	<option value="14:30">14:30</option>
+	<option value="15:00">15:00</option>
+	<option value="15:30">15:30</option>
+	<option value="16:00">16:00</option>
+	<option value="16:30">16:30</option>
+	<option value="17:00">17:00</option>
+	<option value="17:30">17:30</option>
+	<option value="18:00">18:00</option>
+	<option value="18:30">18:30</option>
+	<option value="19:00">19:00</option>
+	<option value="19:30">19:30</option>
+	<option value="20:00">20:00</option>
+	<option selected="selected" value="20:30">20:30</option>
+	<option value="21:00">21:00</option>
+	<option value="21:30">21:30</option>
+	<option value="22:00">22:00</option>
+	<option value="22:30">22:30</option>
+	<option value="23:00">23:00</option>
+	<option value="23:30">23:30</option>
+</select>                            </div>
+                            <div class="textleft">
+                                <span class="opensans size13">Laikas iki</span>
+                                <select name="search[hourTo]" class="form-control mySelectBoxClass">
+	<option value="00:00">00:00</option>
+	<option value="00:30">00:30</option>
+	<option value="01:00">01:00</option>
+	<option value="01:30">01:30</option>
+	<option value="02:00">02:00</option>
+	<option value="02:30">02:30</option>
+	<option value="03:00">03:00</option>
+	<option value="03:30">03:30</option>
+	<option value="04:00">04:00</option>
+	<option value="04:30">04:30</option>
+	<option value="05:00">05:00</option>
+	<option value="05:30">05:30</option>
+	<option value="06:00">06:00</option>
+	<option value="06:30">06:30</option>
+	<option value="07:00">07:00</option>
+	<option value="07:30">07:30</option>
+	<option value="08:00">08:00</option>
+	<option value="08:30">08:30</option>
+	<option value="09:00">09:00</option>
+	<option value="09:30">09:30</option>
+	<option value="10:00">10:00</option>
+	<option value="10:30">10:30</option>
+	<option value="11:00">11:00</option>
+	<option value="11:30">11:30</option>
+	<option value="12:00">12:00</option>
+	<option value="12:30">12:30</option>
+	<option value="13:00">13:00</option>
+	<option value="13:30">13:30</option>
+	<option value="14:00">14:00</option>
+	<option value="14:30">14:30</option>
+	<option value="15:00">15:00</option>
+	<option value="15:30">15:30</option>
+	<option value="16:00">16:00</option>
+	<option value="16:30">16:30</option>
+	<option value="17:00">17:00</option>
+	<option value="17:30">17:30</option>
+	<option value="18:00">18:00</option>
+	<option value="18:30">18:30</option>
+	<option value="19:00">19:00</option>
+	<option value="19:30">19:30</option>
+	<option value="20:00">20:00</option>
+	<option selected="selected" value="20:30">20:30</option>
+	<option value="21:00">21:00</option>
+	<option value="21:30">21:30</option>
+	<option value="22:00">22:00</option>
+	<option value="22:30">22:30</option>
+	<option value="23:00">23:00</option>
+	<option value="23:30">23:30</option>
+</select>                            </div>
+                        </div>
+
+                        <div class="col-md-2">
+                            <div class="textleft">
+                                <button type="submit" class="btn-search3 mt20">Ieškoti</button>
+                            </div>
+                        </div>
+                        </form>                    </div>
+
+                    <div id="transfer" class="tab-pane fade">
+                        <form action="/lt/catalog/front/category/index" class="filter-form" method="post">
+                        <div class="col-md-4">
+                            <div class="textleft">
+                                <span class="opensans size13">Tipas</span>
+                                <select id="category" name="category" class="form-control mySelectBoxClass">
+	<option value="72">Visi</option>
+	<option value="99">Lengvuoju automobiliu</option>
+	<option value="100">Mikroautobusu</option>
+	<option value="101">Autobusu</option>
+</select>                            </div>
+                        </div>
+
+                        <div class="col-md-2">
+                            <div class="textleft">
+                                <span class="opensans size13">Data</span>
+                                <input type="text" name="search[dateFrom]" value="2018-05-31" class="datepicker-widget form-control mySelectCalendar" />                            </div>
+                            <div class="textleft">
+                                <span class="opensans size13">Laikas</span>
+                                <select name="search[hourFrom]" class="form-control mySelectBoxClass">
+	<option value="00:00">00:00</option>
+	<option value="00:30">00:30</option>
+	<option value="01:00">01:00</option>
+	<option value="01:30">01:30</option>
+	<option value="02:00">02:00</option>
+	<option value="02:30">02:30</option>
+	<option value="03:00">03:00</option>
+	<option value="03:30">03:30</option>
+	<option value="04:00">04:00</option>
+	<option value="04:30">04:30</option>
+	<option value="05:00">05:00</option>
+	<option value="05:30">05:30</option>
+	<option value="06:00">06:00</option>
+	<option value="06:30">06:30</option>
+	<option value="07:00">07:00</option>
+	<option value="07:30">07:30</option>
+	<option value="08:00">08:00</option>
+	<option value="08:30">08:30</option>
+	<option value="09:00">09:00</option>
+	<option value="09:30">09:30</option>
+	<option value="10:00">10:00</option>
+	<option value="10:30">10:30</option>
+	<option value="11:00">11:00</option>
+	<option value="11:30">11:30</option>
+	<option value="12:00">12:00</option>
+	<option value="12:30">12:30</option>
+	<option value="13:00">13:00</option>
+	<option value="13:30">13:30</option>
+	<option value="14:00">14:00</option>
+	<option value="14:30">14:30</option>
+	<option value="15:00">15:00</option>
+	<option value="15:30">15:30</option>
+	<option value="16:00">16:00</option>
+	<option value="16:30">16:30</option>
+	<option value="17:00">17:00</option>
+	<option value="17:30">17:30</option>
+	<option value="18:00">18:00</option>
+	<option value="18:30">18:30</option>
+	<option value="19:00">19:00</option>
+	<option value="19:30">19:30</option>
+	<option value="20:00">20:00</option>
+	<option selected="selected" value="20:30">20:30</option>
+	<option value="21:00">21:00</option>
+	<option value="21:30">21:30</option>
+	<option value="22:00">22:00</option>
+	<option value="22:30">22:30</option>
+	<option value="23:00">23:00</option>
+	<option value="23:30">23:30</option>
+</select>                            </div>
+                        </div>
+
+                        <div class="col-md-2">
+                            <div class="textleft">
+                                <button type="submit" class="btn-search3 mt20">Ieškoti</button>
+                            </div>
+                        </div>
+                        </form>                    </div>
+
+                    <div id="tour" class="tab-pane fade">
+                        <form action="/lt/catalog/front/category/index" class="filter-form" method="post">
+                        <div class="col-md-4">
+                            <div class="textleft">
+                                <span class="opensans size13">Tipas</span>
+                                <select id="category" name="category" class="form-control mySelectBoxClass">
+	<option value="70">Visi</option>
+	<option value="93">Edukacinis</option>
+	<option value="94">Pramoginiai</option>
+	<option value="95">Pažintiniai</option>
+</select>                            </div>
+                        </div>
+
+                        <div class="col-md-2">
+                            <div class="textleft">
+                                <span class="opensans size13">Data</span>
+                                <input type="text" name="search[dateFrom]" value="2018-05-31" class="datepicker-widget form-control mySelectCalendar" />                            </div>
+                            <div class="textleft">
+                                <span class="opensans size13">Laikas</span>
+                                <select name="search[hourFrom]" class="form-control mySelectBoxClass">
+	<option value="00:00">00:00</option>
+	<option value="00:30">00:30</option>
+	<option value="01:00">01:00</option>
+	<option value="01:30">01:30</option>
+	<option value="02:00">02:00</option>
+	<option value="02:30">02:30</option>
+	<option value="03:00">03:00</option>
+	<option value="03:30">03:30</option>
+	<option value="04:00">04:00</option>
+	<option value="04:30">04:30</option>
+	<option value="05:00">05:00</option>
+	<option value="05:30">05:30</option>
+	<option value="06:00">06:00</option>
+	<option value="06:30">06:30</option>
+	<option value="07:00">07:00</option>
+	<option value="07:30">07:30</option>
+	<option value="08:00">08:00</option>
+	<option value="08:30">08:30</option>
+	<option value="09:00">09:00</option>
+	<option value="09:30">09:30</option>
+	<option value="10:00">10:00</option>
+	<option value="10:30">10:30</option>
+	<option value="11:00">11:00</option>
+	<option value="11:30">11:30</option>
+	<option value="12:00">12:00</option>
+	<option value="12:30">12:30</option>
+	<option value="13:00">13:00</option>
+	<option value="13:30">13:30</option>
+	<option value="14:00">14:00</option>
+	<option value="14:30">14:30</option>
+	<option value="15:00">15:00</option>
+	<option value="15:30">15:30</option>
+	<option value="16:00">16:00</option>
+	<option value="16:30">16:30</option>
+	<option value="17:00">17:00</option>
+	<option value="17:30">17:30</option>
+	<option value="18:00">18:00</option>
+	<option value="18:30">18:30</option>
+	<option value="19:00">19:00</option>
+	<option value="19:30">19:30</option>
+	<option value="20:00">20:00</option>
+	<option selected="selected" value="20:30">20:30</option>
+	<option value="21:00">21:00</option>
+	<option value="21:30">21:30</option>
+	<option value="22:00">22:00</option>
+	<option value="22:30">22:30</option>
+	<option value="23:00">23:00</option>
+	<option value="23:30">23:30</option>
+</select>                            </div>
+                        </div>
+
+                        <div class="col-md-2">
+                            <div class="textleft">
+                                <button type="submit" class="btn-search3 mt20">Ieškoti</button>
+                            </div>
+                        </div>
+                        </form>                    </div>
+
+                    <div id="excursion" class="tab-pane fade">
+                        <form action="/lt/catalog/front/category/index" class="filter-form" method="post">
+                        <div class="col-md-4">
+                            <div class="textleft">
+                                <span class="opensans size13">Tipas</span>
+                                <select id="category" name="category" class="form-control mySelectBoxClass">
+	<option value="74">Visi</option>
+	<option value="96">Edukacinės</option>
+	<option value="97">Pramoginės</option>
+	<option value="107">Pažintinės</option>
+</select>                            </div>
+                        </div>
+
+                        <div class="col-md-2">
+                            <div class="textleft">
+                                <span class="opensans size13">Data</span>
+                                <input type="text" name="search[dateFrom]" value="2018-05-31" class="datepicker-widget form-control mySelectCalendar" />                            </div>
+                            <div class="textleft">
+                                <span class="opensans size13">Laikas</span>
+                                <select name="search[hourFrom]" class="form-control mySelectBoxClass">
+	<option value="00:00">00:00</option>
+	<option value="00:30">00:30</option>
+	<option value="01:00">01:00</option>
+	<option value="01:30">01:30</option>
+	<option value="02:00">02:00</option>
+	<option value="02:30">02:30</option>
+	<option value="03:00">03:00</option>
+	<option value="03:30">03:30</option>
+	<option value="04:00">04:00</option>
+	<option value="04:30">04:30</option>
+	<option value="05:00">05:00</option>
+	<option value="05:30">05:30</option>
+	<option value="06:00">06:00</option>
+	<option value="06:30">06:30</option>
+	<option value="07:00">07:00</option>
+	<option value="07:30">07:30</option>
+	<option value="08:00">08:00</option>
+	<option value="08:30">08:30</option>
+	<option value="09:00">09:00</option>
+	<option value="09:30">09:30</option>
+	<option value="10:00">10:00</option>
+	<option value="10:30">10:30</option>
+	<option value="11:00">11:00</option>
+	<option value="11:30">11:30</option>
+	<option value="12:00">12:00</option>
+	<option value="12:30">12:30</option>
+	<option value="13:00">13:00</option>
+	<option value="13:30">13:30</option>
+	<option value="14:00">14:00</option>
+	<option value="14:30">14:30</option>
+	<option value="15:00">15:00</option>
+	<option value="15:30">15:30</option>
+	<option value="16:00">16:00</option>
+	<option value="16:30">16:30</option>
+	<option value="17:00">17:00</option>
+	<option value="17:30">17:30</option>
+	<option value="18:00">18:00</option>
+	<option value="18:30">18:30</option>
+	<option value="19:00">19:00</option>
+	<option value="19:30">19:30</option>
+	<option value="20:00">20:00</option>
+	<option selected="selected" value="20:30">20:30</option>
+	<option value="21:00">21:00</option>
+	<option value="21:30">21:30</option>
+	<option value="22:00">22:00</option>
+	<option value="22:30">22:30</option>
+	<option value="23:00">23:00</option>
+	<option value="23:30">23:30</option>
+</select>                            </div>
+                        </div>
+
+                        <div class="col-md-2">
+                            <div class="textleft">
+                                <button type="submit" class="btn-search3 mt20">Ieškoti</button>
+                            </div>
+                        </div>
+                        </form>                    </div>
+
+                    <div id="attraction" class="tab-pane fade">
+                        <form action="/lt/catalog/front/category/index" class="filter-form" method="post">                        <div class="col-md-4">
+                            <div class="textleft">
+                                <span class="opensans size13">Tipas</span>
+                                <select id="category" name="category" class="form-control mySelectBoxClass">
+	<option value="84">Visi</option>
+	<option value="103">Aktyvios</option>
+	<option value="104">Grožio ir SPA</option>
+	<option value="105">Gurmanams</option>
+	<option value="106">Kultūrinės</option>
+</select>                            </div>
+                        </div>
+
+                        <div class="col-md-2">
+                            <div class="textleft">
+                                <span class="opensans size13">Data</span>
+                                <input type="text" name="search[dateFrom]" value="2018-05-31" class="datepicker-widget form-control mySelectCalendar" />                            </div>
+                            <div class="textleft">
+                                <span class="opensans size13">Laikas</span>
+                                <select name="search[hourFrom]" class="form-control mySelectBoxClass">
+	<option value="00:00">00:00</option>
+	<option value="00:30">00:30</option>
+	<option value="01:00">01:00</option>
+	<option value="01:30">01:30</option>
+	<option value="02:00">02:00</option>
+	<option value="02:30">02:30</option>
+	<option value="03:00">03:00</option>
+	<option value="03:30">03:30</option>
+	<option value="04:00">04:00</option>
+	<option value="04:30">04:30</option>
+	<option value="05:00">05:00</option>
+	<option value="05:30">05:30</option>
+	<option value="06:00">06:00</option>
+	<option value="06:30">06:30</option>
+	<option value="07:00">07:00</option>
+	<option value="07:30">07:30</option>
+	<option value="08:00">08:00</option>
+	<option value="08:30">08:30</option>
+	<option value="09:00">09:00</option>
+	<option value="09:30">09:30</option>
+	<option value="10:00">10:00</option>
+	<option value="10:30">10:30</option>
+	<option value="11:00">11:00</option>
+	<option value="11:30">11:30</option>
+	<option value="12:00">12:00</option>
+	<option value="12:30">12:30</option>
+	<option value="13:00">13:00</option>
+	<option value="13:30">13:30</option>
+	<option value="14:00">14:00</option>
+	<option value="14:30">14:30</option>
+	<option value="15:00">15:00</option>
+	<option value="15:30">15:30</option>
+	<option value="16:00">16:00</option>
+	<option value="16:30">16:30</option>
+	<option value="17:00">17:00</option>
+	<option value="17:30">17:30</option>
+	<option value="18:00">18:00</option>
+	<option value="18:30">18:30</option>
+	<option value="19:00">19:00</option>
+	<option value="19:30">19:30</option>
+	<option value="20:00">20:00</option>
+	<option selected="selected" value="20:30">20:30</option>
+	<option value="21:00">21:00</option>
+	<option value="21:30">21:30</option>
+	<option value="22:00">22:00</option>
+	<option value="22:30">22:30</option>
+	<option value="23:00">23:00</option>
+	<option value="23:30">23:30</option>
+</select>                            </div>
+                        </div>
+
+                        <div class="col-md-2">
+                            <div class="textleft">
+                                <button type="submit" class="btn-search3 mt20">Ieškoti</button>
+                            </div>
+                        </div>
+                        </form>                    </div>
+
+                    <div id="pack" class="tab-pane fade">
+                        <form action="/lt/catalog/front/category/index" class="filter-form" method="post">
+                                                                            <input type="hidden" id="category" name="category" value="71" />                                                
+                        <div class="col-md-2">
+                            <div class="textleft">
+                                <span class="opensans size13">Data</span>
+                                <input type="text" name="search[dateFrom]" value="2018-05-31" class="datepicker-widget form-control mySelectCalendar" />                            </div>
+                            <div class="textleft">
+                                <span class="opensans size13">Laikas</span>
+                                <select name="search[hourFrom]" class="form-control mySelectBoxClass">
+	<option value="00:00">00:00</option>
+	<option value="00:30">00:30</option>
+	<option value="01:00">01:00</option>
+	<option value="01:30">01:30</option>
+	<option value="02:00">02:00</option>
+	<option value="02:30">02:30</option>
+	<option value="03:00">03:00</option>
+	<option value="03:30">03:30</option>
+	<option value="04:00">04:00</option>
+	<option value="04:30">04:30</option>
+	<option value="05:00">05:00</option>
+	<option value="05:30">05:30</option>
+	<option value="06:00">06:00</option>
+	<option value="06:30">06:30</option>
+	<option value="07:00">07:00</option>
+	<option value="07:30">07:30</option>
+	<option value="08:00">08:00</option>
+	<option value="08:30">08:30</option>
+	<option value="09:00">09:00</option>
+	<option value="09:30">09:30</option>
+	<option value="10:00">10:00</option>
+	<option value="10:30">10:30</option>
+	<option value="11:00">11:00</option>
+	<option value="11:30">11:30</option>
+	<option value="12:00">12:00</option>
+	<option value="12:30">12:30</option>
+	<option value="13:00">13:00</option>
+	<option value="13:30">13:30</option>
+	<option value="14:00">14:00</option>
+	<option value="14:30">14:30</option>
+	<option value="15:00">15:00</option>
+	<option value="15:30">15:30</option>
+	<option value="16:00">16:00</option>
+	<option value="16:30">16:30</option>
+	<option value="17:00">17:00</option>
+	<option value="17:30">17:30</option>
+	<option value="18:00">18:00</option>
+	<option value="18:30">18:30</option>
+	<option value="19:00">19:00</option>
+	<option value="19:30">19:30</option>
+	<option value="20:00">20:00</option>
+	<option selected="selected" value="20:30">20:30</option>
+	<option value="21:00">21:00</option>
+	<option value="21:30">21:30</option>
+	<option value="22:00">22:00</option>
+	<option value="22:30">22:30</option>
+	<option value="23:00">23:00</option>
+	<option value="23:30">23:30</option>
+</select>                            </div>
+                        </div>
+
+                        <div class="col-md-2">
+                            <div class="textleft">
+                                <button type="submit" class="btn-search3 mt20">Ieškoti</button>
+                            </div>
+                        </div>
+                        </form>                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+    <div class="deals3">
+        <div class="container">
+            <div class="row">
+                                <div class="col-md-4">
+                    <span class="dtitle">Kelionių paketai</span>
+                                        <div class="deal">
+                        <a href="/sveikatos-gerinimas-darbo-dienomis-druskininkuose.html"><img src="http://www.baltictravel.eu/images/2/1/7/9/sveikatos-gerinimas-darbo-dienomis.png" class="dealthumb" /></a>                        <div class="dealtitle">
+                            <p><a href="/sveikatos-gerinimas-darbo-dienomis-druskininkuose.html" class="dark">Sveikatos gerinimas darbo dienomis Druskininkuose</a></p>
+                            
+                        </div>
+                        <div class="dealprice">
+                            <p class="size12 grey lh2">nuo<span class="price">180,00&euro;</span></p>
+                        </div>
+                    </div>
+                                        <div class="deal">
+                        <a href="/ekskliuzivinis-individualus-keliones-paketas-karas-ir-taika-5-dienos-4-naktys.html"><img src="http://www.baltictravel.eu/images/2/0/4/7/ekskliuzivinis-individualus-keliones-paketas-6-dienos-5-naktys.png" class="dealthumb" /></a>                        <div class="dealtitle">
+                            <p><a href="/ekskliuzivinis-individualus-keliones-paketas-karas-ir-taika-5-dienos-4-naktys.html" class="dark">Ekskliuzivinis Individualus kelionės paketas "Karas ir taika" 5 dienos / 4 naktys</a></p>
+                            
+                        </div>
+                        <div class="dealprice">
+                            <p class="size12 grey lh2">nuo<span class="price">450,00&euro;</span></p>
+                        </div>
+                    </div>
+                                        <div class="deal">
+                        <a href="/ekologiskas-keliones-paketas-lietuvoje-garo-ir-vantos-gurmanams-3-dienos-2-naktys.html"><img src="http://www.baltictravel.eu/images/2/0/9/7/ekologiskas-keliones-paketas-lietuvoje.png" class="dealthumb" /></a>                        <div class="dealtitle">
+                            <p><a href="/ekologiskas-keliones-paketas-lietuvoje-garo-ir-vantos-gurmanams-3-dienos-2-naktys.html" class="dark">Ekologiškas kelionės paketas Lietuvoje "Garo ir vantos gurmanams"(3 dienos/2 naktys)</a></p>
+                            
+                        </div>
+                        <div class="dealprice">
+                            <p class="size12 grey lh2">nuo<span class="price">110,00&euro;</span></p>
+                        </div>
+                    </div>
+                                    </div>
+                                                <div class="col-md-4">
+                    <span class="dtitle">Turai</span>
+                                        <div class="deal">
+                        <a href="/lietuvos-senosios-sostines-kernaves-traku-marsrutai-per-viena-diena.html"><img src="http://www.baltictravel.eu/images/1/4/6/4/lietuvos-senosios-sostines-kernaves-traku-marsrutai-per-viena-diena.png" class="dealthumb" /></a>                        <div class="dealtitle">
+                            <p><a href="/lietuvos-senosios-sostines-kernaves-traku-marsrutai-per-viena-diena.html" class="dark">Lietuvos senosios sostinės (Kernavės-Trakų maršrutai per vieną dieną)</a></p>
+                            
+                        </div>
+                        <div class="dealprice">
+                            <p class="size12 grey lh2">nuo<span class="price">0,00&euro;</span></p>
+                        </div>
+                    </div>
+                                        <div class="deal">
+                        <a href="/klasikinis-turas-po-vilniaus-miesta.html"><img src="http://www.baltictravel.eu/images/6/2/1/klasikinis-turas-netoli-vilniaus.png" class="dealthumb" /></a>                        <div class="dealtitle">
+                            <p><a href="/klasikinis-turas-po-vilniaus-miesta.html" class="dark">Klasikinis turas po Vilniaus miestą</a></p>
+                            
+                        </div>
+                        <div class="dealprice">
+                            <p class="size12 grey lh2">nuo<span class="price">0,00&euro;</span></p>
+                        </div>
+                    </div>
+                                        <div class="deal">
+                        <a href="/gintaro-kelias.html"><img src="http://www.baltictravel.eu/images/1/1/0/9/gintaro-kelias.png" class="dealthumb" /></a>                        <div class="dealtitle">
+                            <p><a href="/gintaro-kelias.html" class="dark">Gintaro kelias</a></p>
+                            
+                        </div>
+                        <div class="dealprice">
+                            <p class="size12 grey lh2">nuo<span class="price">0,00&euro;</span></p>
+                        </div>
+                    </div>
+                                    </div>
+                                                <div class="col-md-4">
+                    <span class="dtitle">Apgyvendinimas</span>
+                                        <div class="deal">
+                        <a href="/gradiali-anyksciai.html"><img src="http://www.baltictravel.eu/images/1/8/9/4/gradiali-anyksciai.png" class="dealthumb" /></a>                        <div class="dealtitle">
+                            <p><a href="/gradiali-anyksciai.html" class="dark">Gradiali Anykščiai</a></p>
+                            
+                        </div>
+                        <div class="dealprice">
+                            <p class="size12 grey lh2">nuo<span class="price">40,00&euro;</span></p>
+                        </div>
+                    </div>
+                                        <div class="deal">
+                        <a href="/gradiali-palanga.html"><img src="http://www.baltictravel.eu/images/1/8/1/7/gradiali-palanga.png" class="dealthumb" /></a>                        <div class="dealtitle">
+                            <p><a href="/gradiali-palanga.html" class="dark">Gradiali Palanga</a></p>
+                            
+                        </div>
+                        <div class="dealprice">
+                            <p class="size12 grey lh2">nuo<span class="price">50,00&euro;</span></p>
+                        </div>
+                    </div>
+                                        <div class="deal">
+                        <a href="/bernardinu-b-b-house.html"><img src="http://www.baltictravel.eu/images/8/2/5/cozy-ground-floor-apartment.png" class="dealthumb" /></a>                        <div class="dealtitle">
+                            <p><a href="/bernardinu-b-b-house.html" class="dark">Bernardinu B&B House</a></p>
+                            
+                        </div>
+                        <div class="dealprice">
+                            <p class="size12 grey lh2">nuo<span class="price">28,00&euro;</span></p>
+                        </div>
+                    </div>
+                                    </div>
+                            </div>
+        </div>
+    </div>
+
+        <div class="lastminute3">
+        <div class="container">
+            Turite klausimų? Parašykite mums            <br/>
+            <form action="http://www.baltictravel.eu/uzklausos-forma.html">
+                <button class="btn iosbtn" type="submit">Plačiau</button>
+            </form>
+                    </div>
+    </div>
+    
+    <div class="container cstyle06">
+                <div class="row anim2">
+            <div class="col-md-3">
+                <h2>Autonuoma</h2>
+                Mūsų kompanijos transporto parke rasite patogių ekonominės ir standartinės klasės lengvųjų automobilių nuomai. Taip pat siūlome prabangių automobilių ir mikroautobusų nuoma.             </div>
+            <div class="col-md-9">
+
+                <!-- Carousel -->
+                <div class="wrapper">
+                    <div class="list_carousel">
+                        <ul id="foo">
+                                                        <li>
+                                <a href="/opel-insignia.html"><img src="http://www.baltictravel.eu/images/6/3/5/opel-insignia.png" /></a>                                <div class="m1">
+                                    <h6 class="lh1 dark"><strong>Opel Insignia</strong></h6>
+                                    
+                                </div>
+                            </li>
+                                                        <li>
+                                <a href="/vw-golf.html"><img src="http://www.baltictravel.eu/images/6/3/3/vw-golf.png" /></a>                                <div class="m1">
+                                    <h6 class="lh1 dark"><strong>VW Golf</strong></h6>
+                                    
+                                </div>
+                            </li>
+                                                        <li>
+                                <a href="/fiat-ducato-maxi.html"><img src="http://www.baltictravel.eu/images/6/3/2/fiat-ducato-maxi.png" /></a>                                <div class="m1">
+                                    <h6 class="lh1 dark"><strong>Fiat Ducato Maxi</strong></h6>
+                                    
+                                </div>
+                            </li>
+                                                        <li>
+                                <a href="/audi-a6.html"><img src="http://www.baltictravel.eu/images/6/3/7/audi-a6.png" /></a>                                <div class="m1">
+                                    <h6 class="lh1 dark"><strong>Audi A6</strong></h6>
+                                    
+                                </div>
+                            </li>
+                                                        <li>
+                                <a href="/toyota-avensis.html"><img src="http://www.baltictravel.eu/images/6/3/4/toyota-avensis.png" /></a>                                <div class="m1">
+                                    <h6 class="lh1 dark"><strong>Toyota Avensis</strong></h6>
+                                    
+                                </div>
+                            </li>
+                                                    </ul>
+                        <div class="clearfix"></div>
+                                                    <a href="/#" id="prev_btn" class="prev"><img src="http://www.baltictravel.eu/themes/front/images/spacer.gif" alt="prev" /></a>                            <a href="/#" id="next_btn" class="next"><img src="http://www.baltictravel.eu/themes/front/images/spacer.gif" alt="next" /></a>                                            </div>
+                </div>
+
+            </div>
+        </div>
+
+        <hr class="featurette-divider2">
+        
+                <div class="row anim3">
+            <div class="col-md-3">
+                <h2>Keleivių pervežimas</h2>
+                Siūlome keleivių pervežimo paslaugas Lietuvoje ir už jos ribų komfortiškais įvairių klasių lengvaisiais automobiliais, mikroautobusais ir dideliais patogiais autobusais. Visada laiku būsite pristatyti į stotį, į oro uostą, viešbutį, seminarą, konferenciją ir t.t.             </div>
+            <div class="col-md-9">
+
+                <!-- Carousel -->
+                <div class="wrapper">
+                    <div class="list_carousel">
+                        <ul id="foo2">
+                                                        <li>
+                                <a href="/mikroautobusu-2.html"><img src="http://www.baltictravel.eu/images/1/0/9/4/mikroautobusu.png" /></a>                                <div class="m1">
+                                    <h6 class="lh1 dark"><strong>Mikroautobusu</strong></h6>
+                                    
+                                </div>
+                            </li>
+                                                        <li>
+                                <a href="/autobusu-2.html"><img src="http://www.baltictravel.eu/images/1/0/7/4/autobusu.png" /></a>                                <div class="m1">
+                                    <h6 class="lh1 dark"><strong>Autobusu</strong></h6>
+                                    
+                                </div>
+                            </li>
+                                                        <li>
+                                <a href="/lengvuoju-automobiliu-2.html"><img src="http://www.baltictravel.eu/images/1/1/0/4/lengvuoju-automobiliu.png" /></a>                                <div class="m1">
+                                    <h6 class="lh1 dark"><strong>Lengvuoju automobiliu </strong></h6>
+                                    
+                                </div>
+                            </li>
+                                                    </ul>
+                        <div class="clearfix"></div>
+                                            </div>
+                </div>
+
+            </div>
+        </div>
+
+        
+    </div>
+
+    <!-- FOOTER -->
+
+    <div class="footerbg">
+        <div class="container">
+
+            <div class="col-md-3">
+                
+                <div class="scont">
+                    
+                    &copy; 2018 Visos teisės saugomos                    <br/><br/>
+
+                </div>
+            </div>
+            <!-- End of column 1-->
+
+                <div class="col-md-3">
+        <ul class="footerlist">
+                                            
+                
+                    <li><a href="/apgyvendinimas.html">Apgyvendinimas</a></li>
+
+                                            
+                
+                    <li><a href="/autonuoma.html">Autonuoma</a></li>
+
+                                            
+                
+                    <li><a href="/keleiviu-pervezimas.html">Keleivių pervežimas</a></li>
+
+                                            
+                
+                    <li><a href="/turai.html">Turai</a></li>
+
+                                            
+                
+                    <li><a href="/ekskursijos.html">Ekskursijos</a></li>
+
+                                            
+                
+                    <li><a href="/pramogos.html">Pramogos</a></li>
+
+                                            
+                
+                    <li><a href="/paketai.html">Pasiūlymai</a></li>
+
+                                            
+                
+                    <li><a href="/turizmas-lietuvoje.html">Turizmas Lietuvoje</a></li>
+
+                                                </ul></div><div class="col-md-3"><ul class="footerlist">
+                                                
+                
+                    <li><a href="/naudinga-informacija.html">Naudinga informacija</a></li>
+
+                                            
+                
+                    <li><a href="/ivykiai-ir-renginiai.html">Įvykiai/renginiai</a></li>
+
+                                            
+                
+                    <li><a href="/kelto-bilietai.html">Kelto bilietai</a></li>
+
+                                            
+                
+                    <li><a href="/vizos.html">Vizos</a></li>
+
+                                            
+                
+                    <li><a href="/rezervacijos-salygos.html">Rezervacijos sąlygos</a></li>
+
+                                            
+                
+                    <li><a href="/rekvizitai.html">Rekvizitai</a></li>
+
+                                            
+                
+                    <li><a href="/apie-mus.html">Apie mus</a></li>
+
+                                            
+                
+                    <li><a href="/uzklausos-forma.html">Siųsti užklausą</a></li>
+
+                    </ul>
+    </div>
+
+            <div class="col-md-3 grey">
+                
+                <span class="ftitle">Telefonas pasiteiravimui</span><br/>
+                <span class="pnr">+37060135505</span><br/>
+                <a href="/uzklausos-forma.html" title="Siųsti užklausą">info@baltictravel.eu</a>            </div>
+            <!-- End of column 4-->
+
+
+
+
+
+        </div>
+    </div>
+
+    <div class="footerbg3">
+        <div class="container center grey">
+            <table>
+<tbody>
+<tr>
+<td><strong>UAB &bdquo;Baltic Travel&ldquo;</strong><br /> Įmonės kodas: 302558996<br /> PVM mokėtojo kodas: LT 100005692212<br /> El. pa&scaron;tas: <a href="mailto:info@baltictravel.eu">info@baltictravel.eu</a><br /> Tel. <a href="tel:+37060135505">+37060135505</a></td>
+<td>&nbsp;</td>
+<td><strong>Banko rekvizitai</strong><br /> Bankas: AB DNB&nbsp; bankas <br /> A/S: LT844010042403331786<br /> Banko kodas: 40100<br /> SWIFT kodas: AGBLLT2X</td>
+</tr>
+</tbody>
+</table>        </div>
+    </div>
+    <!-- /FOOTER -->
+
+</div>
+<!-- /WRAP -->
+
+
+    <div class="likebox visible-lg">
+    <div class="fb-page" data-href="https://www.facebook.com/baltictravel.eu/" data-small-header="false" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="true"><blockquote cite="https://www.facebook.com/baltictravel.eu/" class="fb-xfbml-parse-ignore"><a href="https://www.facebook.com/baltictravel.eu/">Tour Operator Baltic Travel</a></blockquote></div>
+</div>
+
+        <script type="text/javascript" src="http://www.baltictravel.eu/vendor/jquery-2.2.0/jquery-2.2.0.min.js"></script>
+<script type="text/javascript" src="http://www.baltictravel.eu/vendor/jquery-ui-1.11.4/jquery-ui.min.js"></script>
+<script type="text/javascript" src="http://www.baltictravel.eu/vendor/bootstrap-3.3.6-dist/js/bootstrap.min.js"></script>
+<script type="text/javascript" src="http://www.baltictravel.eu/themes/front/assets/js/i18n/datepicker-lt.js"></script>
+<script type="text/javascript" src="http://www.baltictravel.eu/themes/front/assets/js/jquery.easing.min.js"></script>
+<script type="text/javascript" src="http://www.baltictravel.eu/themes/front/rs-plugin/js/jquery.themepunch.revolution.min.js"></script>
+<script type="text/javascript" src="http://www.baltictravel.eu/themes/front/assets/js/jquery.carouFredSel-6.2.1-packed.js"></script>
+<script type="text/javascript" src="http://www.baltictravel.eu/themes/front/assets/js/helper-plugins/jquery.touchSwipe.min.js"></script>
+<script type="text/javascript" src="http://www.baltictravel.eu/themes/front/assets/js/helper-plugins/jquery.mousewheel.min.js"></script>
+<script type="text/javascript" src="http://www.baltictravel.eu/themes/front/assets/js/helper-plugins/jquery.transit.min.js"></script>
+<script type="text/javascript" src="http://www.baltictravel.eu/themes/front/assets/js/helper-plugins/jquery.ba-throttle-debounce.min.js"></script>
+<script type="text/javascript" src="http://www.baltictravel.eu/themes/front/assets/js/jquery.customSelect.js"></script>
+<script type="text/javascript" src="http://www.baltictravel.eu/themes/front/assets/js/functions.js"></script>
+<script type="text/javascript" src="http://www.baltictravel.eu/themes/front/assets/js/js-index3.js"></script>
+<script type="text/javascript" src="http://www.baltictravel.eu/themes/front/assets/js/slider.min.js"></script>
+
+    <script type="text/javascript">
+            </script>
+
+            <script>
+            (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+                        (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+                    m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+            })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+            ga('create', 'UA-73229036-1', 'auto');
+            ga('send', 'pageview');
+
+        </script>
+    <script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"7e17931a56","applicationID":"66463443","transactionName":"MQZTYxMCDEYHBkVfCQhMZEUITAtbAgBJGBYOEw==","queueTime":0,"applicationTime":210,"atts":"HUFQFVsYH0g=","errorBeacon":"bam.nr-data.net","agent":""}</script></body>
+</html>
+
+

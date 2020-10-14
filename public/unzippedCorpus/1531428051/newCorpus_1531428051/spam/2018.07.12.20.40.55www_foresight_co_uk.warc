@@ -1,0 +1,74 @@
+WARC/1.0
+WARC-Type: warcinfo
+WARC-Date: 2018-05-23T07:59:32Z
+WARC-Record-ID: <urn:uuid:41b03f4e-cb9e-4b55-90f9-f599cfbf579a>
+WARC-All-Language: en
+WARC-All-Content_type: text/html; charset=UTF-8, text/html
+Content-Type: application/http;msgtype=response
+Content-Length: 46
+
+WARCProcessor by SING Group www.sing-group.com
+
+WARC/1.0
+WARC-Type: response
+WARC-Record-ID: <http://www.foresight.co.uk>
+WARC-Date: 20180523075932
+WARC-Target-URI: http://www.foresight.co.uk
+WARC-Language: en
+Content-Type: application/http;msgtype=response
+Content-Length: 1415
+
+HTTP/1.1 200
+Content-Type:text/html; charset=UTF-8
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta http-equiv="CACHE-CONTROL" content="NO-CACHE">
+    <meta http-equiv="EXPIRES" content="Mon, 22 Jan 2014 00:00:00 GMT">
+    <meta http-equiv="PRAGMA" content="NO-CACHE">
+ 
+    <title>Domain Name Enquiry</title>
+    <style type="text/css">
+        .style1
+        {
+            font-family: Arial, Helvetica, sans-serif;
+            font-size: medium;
+        }
+        .style2
+        {
+            text-align: center;
+        }
+    </style>
+</head>
+<body class="style1">
+
+    <div class="style2">
+    <br /><br /><br />
+    <strong>Thank you for visiting.
+    <br /><br />For enquiries about this domain name, please contact:
+    <br /><br /><br />
+
+ mailpaul@paulregs.com
+ 
+
+</strong>
+ 
+
+    </div>
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  // ga('create', 'UA-47706098-1', 'erank.com');
+  ga('create', 'UA-47722447-1', 'auto');
+  ga('send', 'pageview');
+
+</script> 
+</body>
+</html>
+
+

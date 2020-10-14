@@ -1,0 +1,43 @@
+WARC/1.0
+WARC-Type: warcinfo
+WARC-Date: 2018-05-30T17:52:31Z
+WARC-Record-ID: <urn:uuid:83ca6702-f718-4e8f-a805-21846424e33f>
+WARC-All-Language: en
+WARC-All-Content_type: text/html
+Content-Type: application/http;msgtype=response
+Content-Length: 46
+
+WARCProcessor by SING Group www.sing-group.com
+
+WARC/1.0
+WARC-Type: response
+WARC-Record-ID: <http://www.amakeup.eu>
+WARC-Date: 20180530175231
+WARC-Target-URI: http://www.amakeup.eu
+WARC-Language: en
+Content-Type: application/http;msgtype=response
+Content-Length: 1221
+
+HTTP/1.1 200
+Content-Type:text/html
+
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Frameset//EN" "http://www.w3.org/TR/html4/frameset.dtd">
+<html>
+<head>
+<title>Professional Make-up Artist & Special Effects Make-up Artist</title>
+<META NAME="keywords" CONTENT="makeup, make-up, hd, high definition, highdefinition, hd make up, hd makeup, special effects, special effects makeup, special effects make-up">
+<META NAME="description" CONTENT="amakeup: Make-up and Special Effects Make-up for film, cinema, commercial, fashion, catwalk, theatre and dance. Airbrush Make-up, Make-up and Special Effects workshops or lectures on behalf of companies / in a training schedule of private and academic institutions.">
+</head>
+
+<frameset framespacing=0 frameborder=0 rows="100%,*" scrolling=NO noresize>
+  <frame src="http://www.amakeup.de">
+
+<noframes>
+Professional Make-up Artist & Special Effects Make-up Artist - amakeup: Make-up and Special Effects Make-up for film, cinema, commercial, fashion, catwalk, theatre and dance. Airbrush Make-up, Make-up and Special Effects workshops or lectures on behalf of companies / in a training schedule of private and academic institutions. - amakeup.eu</noframes>
+
+</frameset>
+</html>
+
+
+

@@ -1,0 +1,254 @@
+WARC/1.0
+WARC-Type: warcinfo
+WARC-Date: 2018-05-23T09:03:43Z
+WARC-All-Language: fr
+WARC-All-Content_type: text/html
+WARC-Record-ID: <urn:uuid:47c4cb52-0685-4197-ba12-ae0b9ddf4e88>
+Content-Type: application/http;msgtype=response
+Content-Length: 46
+
+WARCProcessor by SING Group www.sing-group.com
+
+WARC/1.0
+WARC-Type: response
+WARC-Target-URI: http://www.bmfms.org.uk
+WARC-Date: 20180523090343
+WARC-Language: fr
+WARC-Record-ID: <http://www.bmfms.org.uk>
+Content-Type: application/http;msgtype=response
+Content-Length: 10734
+
+HTTP/1.1 200
+Content-Type:text/html
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<title>BMFMS</title>
+
+
+
+<!-- | stylesheets | -->
+<link href="/resources/stylesheets/style.css" rel="stylesheet" type="text/css" charset="utf-8" />
+<link href="/resources/stylesheets/jquery.alerts.css" rel="stylesheet" type="text/css" charset="utf-8" />
+<!--[if lte IE 7]>
+	<link rel="stylesheet" media="screen" href="/resources/stylesheets/style_ie.css" type="text/css" charset="utf-8" />
+<![endif]-->
+<!--[if lte IE 6]>
+	<link rel="stylesheet" media="screen" href="/resources/stylesheets/style_ie6.css" type="text/css" charset="utf-8" />
+<![endif]-->
+
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<!-- | jscripts | -->
+<script type="text/javascript" src="/resources/jscripts/jquery.js" charset="utf-8"></script>
+<script type="text/javascript" src="/resources/jscripts/jquery.ui.draggable.js" charset="utf-8"></script>
+<script type="text/javascript" src="/resources/jscripts/jquery.alerts.js" charset="utf-8"></script>
+<script type="text/javascript" charset="utf-8">
+    $(document).ready(function() {
+        $("#validationForm").click(function() {
+            jAlert('Sorry! Your username and password combination is incorrect - Please try again.', 'Login Verification');
+        });
+    });
+</script>
+
+<script>
+
+  $(document).ready(function(){   
+    $('#menutoggle').click(function(){
+      $('#mainmenu').slideToggle();
+    })  
+      $(window).bind('resize', function(){
+        var szerokosc = $(window).width();    
+        if(szerokosc > 990){
+          if($('#mainmenu').is(':hidden')){
+            $('#mainmenu').show();}
+        }
+      });
+    });
+</script>
+
+</head>
+
+<body>
+<!-- <div style="padding:10px; display:block; background:rgba(200,200,200,0.7); border: 2px solid #222; border-radius:3px;position:fixed; top:0;left:0;">DEV SITE</div> -->
+    <div id="wrap">
+	    <div id="top">
+    	
+		    <a id="logo" href="/">Home</a>
+
+		    <div id="topmenu">
+			    <ul>
+				    <li style='z-index:299'><a href="/" title="Home" accesskey="H">Home</a>
+</li>
+<li style='z-index:298'><a href="/Links/c-1-11.htm" title="Links" accesskey="L">Links</a>
+</li>
+<li class="lastchild"><a href="/Contact-Us/c-1-12.htm" title="Contact Us" accesskey="C">Contact Us</a>
+</li>
+
+			    </ul>
+		    </div>
+    				
+	    </div><!--top end -->
+    	 <div id="menutoggle">Menu</div>
+       
+        <div id="mainmenu">
+            <ul>
+                <li class="mmenu"><a href="/Members/c-1-1.htm" title="Members" accesskey="M">Members</a>
+</li>
+<li class="mmenu"><a href="/About-BMFMS/c-1-2.htm" title="About BMFMS" accesskey="A">About BMFMS</a>
+</li>
+<li class="mmenu"><a href="/People/c-1-3.htm" title="People" accesskey="P">People</a>
+</li>
+<li class="mmenu"><a href="/How-To-Join/c-1-4.htm" title="How To Join" accesskey="H">How To Join</a>
+</li>
+<li class="mmenu"><a href="/Meetings/Events/c-1-5.htm" title="Meetings/Events" accesskey=" ">Meetings/Events</a>
+<ul>
+<li class="mmenu"><a href="/AGM/c-1-31.htm" title="AGM" accesskey=" ">AGM</a>
+</li>
+<li class="mmenu"><a href="/Annual-conference/c-1-32.htm" title="Annual conference" accesskey=" ">Annual conference</a>
+</li>
+<li class="mmenu"><a href="/BMFMS-organised-meetings/c-1-33.htm" title="BMFMS organised meetings" accesskey=" ">BMFMS organised meetings</a>
+</li>
+<li class="mmenu"><a href="/RCOG-Events/c-1-41.htm" title="RCOG Events" accesskey=" ">RCOG Events</a>
+</li>
+<li class="mmenu"><a href="/Meetings-of-interest/c-1-34.htm" title="Meetings of interest" accesskey=" ">Meetings of interest</a>
+</li>
+<li class="mmenulast"><a href="/Courses/c-1-42.htm" title="Courses" accesskey=" ">Courses</a>
+</li>
+</ul>
+</li>
+<li class="mmenu"><a href="/Consultations/c-1-6.htm" title="Consultations" accesskey="C">Consultations</a>
+</li>
+<li class="mmenu"><a href="/Research/c-1-7.htm" title="Research" accesskey="R">Research</a>
+<ul>
+<li class="mmenu"><a href="/Fetal--Medicine-CSG/c-1-35.htm" title="Fetal  Medicine CSG" accesskey=" ">Fetal  Medicine CSG</a>
+</li>
+<li class="mmenu"><a href="/Preterm-birth-CSG/c-1-36.htm" title="Preterm birth CSG" accesskey=" ">Preterm birth CSG</a>
+</li>
+<li class="mmenu"><a href="/-Maternal-medicine-CSG-/c-1-37.htm" title=" Maternal medicine CSG " accesskey=" "> Maternal medicine CSG </a>
+</li>
+<li class="mmenu"><a href="/Intrapartum-care-CSG/c-1-38.htm" title="Intrapartum care CSG" accesskey=" ">Intrapartum care CSG</a>
+</li>
+<li class="mmenulast"><a href="/Stillbirth-CSG/c-1-39.htm" title="Stillbirth CSG" accesskey=" ">Stillbirth CSG</a>
+</li>
+</ul>
+</li>
+<li class="mmenu"><a href="/Bursaries/Prizes/c-1-8.htm" title="Bursaries/Prizes" accesskey="B">Bursaries/Prizes</a>
+<ul>
+<li class="mmenu"><a href="/Medical-Student-Prizes/c-1-66.htm" title="Medical Student Prizes" accesskey=" ">Medical Student Prizes</a>
+</li>
+<li class="mmenu"><a href="/Richard-Johanson-Award/c-1-64.htm" title="Richard Johanson Award" accesskey=" ">Richard Johanson Award</a>
+</li>
+<li class="mmenu"><a href="/WoW-recipients/c-1-60.htm" title="WoW recipients" accesskey=" ">WoW recipients</a>
+</li>
+<li class="mmenu"><a href="/Bursary-Recipients/c-1-67.htm" title="Bursary Recipients" accesskey=" ">Bursary Recipients</a>
+</li>
+<li class="mmenu"><a href="/TAMBA-Bursaries/c-1-71.htm" title="TAMBA Bursaries" accesskey=" ">TAMBA Bursaries</a>
+</li>
+<li class="mmenulast"><a href="/GLOBAL-HEALTH-FELLOWSHIP-/c-1-75.htm" title="GLOBAL HEALTH FELLOWSHIP " accesskey=" ">GLOBAL HEALTH FELLOWSHIP </a>
+</li>
+</ul>
+</li>
+<li class="mmenulast"><a href="/Trainees/Students/c-1-9.htm" title="Trainees/Students" accesskey="T">Trainees/Students</a>
+</li>
+
+            </ul>   
+        </div><!-- main menu end -->
+    	
+    	
+	   
+
+    <div id="content">
+    
+		<div id="col_left">
+			
+			<div id="mainimage"></div>
+			
+			<div id="home_columns_row">
+			
+				<div class="home_column1">
+				    <h2 title="About BMFMS">About BMFMS</h2>
+<p><p>Welcome to the British Maternal &amp; Fetal Medicine Society Website. The BMFMS aims to provide a forum where issues of relevance to Obstetricians and other professionals involved in pregnancy care</p>
+<a href="About-BMFMS/c-1-2.htm" class="readmore">Read more</a>
+
+
+				</div>
+				
+				<div class="home_column2">
+				    <h2 title="Officers">Officers</h2>
+<p><p><strong>President<br />Mr Jason Waugh</strong></p>
+<p>Consultant in Obstetrics and Maternal Medicine<br />Queen Victoria Road<br />Newcastle upon Tyne<br />NE1 4LP<br /></p>
+<hr />
+<p>&nbsp;</p></p>
+<a href="Officers/c-1-2.htm" class="readmore">Read more</a>
+
+
+				</div>
+				
+				<div class="home_column2">
+				    <h2 title="How To Join">How To Join</h2>
+<p><p>For a membership application form please contact&nbsp;the co-ordinator at bmfms@rcog.org.uk&nbsp;or download a form from the link below.</p>
+<p>&nbsp;Click&nbsp;<a href="/UserFiles/documents/BMFMS Membership form 2017.doc" target="_blank">here </a>to download a copy of the membership form.<</p>
+<a href="How-To-Join/c-1-4.htm" class="readmore">Read more</a>
+
+
+				</div>
+				
+			</div>
+			
+			<div id="home_bottom">
+			    <h2 title="BMFMS">BMFMS</h2>
+<p><p>Welcome to BMFMS<br /><br />BMFMS is a registered charity in England and Wales (No 1145101)&nbsp;</p></p>
+
+			</div>
+
+		</div>
+            
+        
+<div id="col_right">
+    
+    
+    <div id="login">
+	    <h2 title="Members Login">Members login</h2>
+	    <form method="post" name="FormAuthentication" id="fa" action="/default.asp?attempt=process">
+	        <input name="login_username" type="text" placeholder="Username" />
+	        <input name="login_password" type="password" placeholder="Password" />
+	        <a href="#" class="loginbutton" onclick="return document.forms['fa'].submit();">Login</a>
+	    </form>
+    </div>
+    <script>
+
+    </script>
+    
+    <div id="news">
+	    <h2 title="News">News</h2>
+
+		<div class="newsitem"><div class="newsdate">11/05/2018</div><div class="newstitle">Proposed change to constitution </div><div class="newslink"><br /><a href="/News/Proposed-change-to-constitution-/c-1-1-206" class="readmore">Read more</a></div></div><div class="newsitem"><div class="newsdate">18/04/2018</div><div class="newstitle">What happens to womens hearts after pregnancy complications</div><div class="newslink"><br /><a href="/News/What-happens-to-womens-hearts-after-pregnancy-complications/c-1-1-240" class="readmore">Read more</a></div></div><div class="newsitem"><div class="newsdate">05/04/2018</div><div class="newstitle">Committee elections</div><div class="newslink"><br /><a href="/News/Committee-elections/c-1-1-231" class="readmore">Read more</a></div></div><div class="newsitem"><div class="newsdate">27/03/2018</div><div class="newstitle">Committee elections</div><div class="newslink"><br /><a href="/News/Committee-elections/c-1-1-234" class="readmore">Read more</a></div></div><div class="newsitem"><div class="newsdate">22/02/2018</div><div class="newstitle">A study into the approach of obstetricians and gynaecologists to female sexual function</div><div class="newslink"><br /><a href="/News/A-study-into-the-approach-of-obstetricians-and-gynaecologists-to-female-sexual-function/c-1-1-228" class="readmore">Read more</a></div></div><div class="newsitem"><div class="newsdate">20/02/2018</div><div class="newstitle">Survey -antenatal management of singleton pregnancies conceived following ART</div><div class="newslink"><br /><a href="/News/Survey--antenatal-management-of-singleton-pregnancies-conceived-following-ART/c-1-1-227" class="readmore">Read more</a></div></div>
+    </div>
+                <div id="contactbox">
+			    <p>BMFMS<br /> 27 Sussex Place, Regent's Park<br />London, NW1 4RG<br /><a href="mailto:bmfms@rcog.org.uk">bmfms@rcog.org.uk</a></p>
+			</div>
+		</div>
+        
+	</div>
+	<br style="clear:both" />
+	<div id="footer">&copy; All Rights Reserved BMFMS 2018</div><!--footer end -->
+
+    </div>
+    <script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-18401553-30', 'bmfms.org.uk');
+  ga('send', 'pageview');
+
+</script>
+</body>
+</html>
+

@@ -1,0 +1,89 @@
+WARC/1.0
+WARC-Type: warcinfo
+WARC-Date: 2018-05-30T17:52:31Z
+WARC-Record-ID: <urn:uuid:1a8ef762-b450-44c9-a1e7-b23155a6ccbc>
+WARC-All-Language: en
+WARC-All-Content_type: text/html
+Content-Type: application/http;msgtype=response
+Content-Length: 46
+
+WARCProcessor by SING Group www.sing-group.com
+
+WARC/1.0
+WARC-Type: response
+WARC-Record-ID: <http://www.nce.eu>
+WARC-Date: 20180530175231
+WARC-Target-URI: http://www.nce.eu
+WARC-Language: en
+Content-Type: application/http;msgtype=response
+Content-Length: 2844
+
+HTTP/1.1 200
+Content-Type:text/html
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1" />
+<title>NCE Srl - Network Consulting Engineering</title>
+<link href="css/base.css" rel="stylesheet" type="text/css"/>
+
+</head>
+
+<body>
+  <div class="contenitore">
+    <div class="top">
+    <div class="home"></div>
+    <div class="menu">
+      <div class="testoMenu">
+        <img src="images/title.gif" alt="temp"/>
+        <div class="line"></div>
+        <a class="testoMenu" href="index.html"><span>CHI SIAMO</span></a>
+        <div class="line"></div>
+        <a class="testoMenu" href="servizi.html"><span>SERVIZI</span></a>
+        <div class="line"></div>
+        <a class="testoMenu" href="contatti.html"><span>CONTATTI</span></a>
+        <div class="line"></div>
+      </div> 
+      </div>
+    <div class="topright_home"></div>
+    <div class="topdown"></div>
+    </div>
+    <div class="center_container">
+      <div class="center">
+        <div class="testo">
+          <b>N.C.E. Srl - Network Consulting Engineering</b> è una società costituita da un
+          gruppo di professionisti con pluriennale esperienza nel campo dellInformation
+          Technology ed in particolare nel settore delle telecomunicazioni e networking.
+          <br />
+          <br />
+          La società è specializzata nel supporto sistemistico, nel <b>system integration</b>,
+          nell outsourcing, nel campo della <b>sicurezza informatica</b>, nella progettazione di
+          infrastrutture di rete e dei relativi servizi.
+          <br />
+          <br />
+          N.C.E. Srl fornisce alle imprese consulenza e prodotti di qualità a costi chiari e
+          definiti, servizi su misura che incontrano le aspettative del cliente, risposte
+          veloci e precise in linea con i rapidi cambiamenti del settore con particolare
+          attenzione verso lassistenza e la formazione.
+          <br />
+          <br />
+          <b>Lobiettivo di N.C.E.</b> <font color="#BFE67A">è quello di mettere in relazione tecnologia e B2B/B2C,
+          contribuendo al raggiungimento di reali vantaggi competitivi attraverso lofferta
+          di soluzioni in ambito ICT in modo concreto, flessibile ed efficace, permettendo
+          alle imprese di concentrarsi sul loro business.</font>
+        </div>
+      </div>
+    </div>
+    <div class="testo">
+	    <b>N.C.E. Network Consulting Engineering srl</b><br />
+	    via Etna 52 - 95028 Valverde (CT)<br />
+	    REA CT256375 - P.I. 03822520874<br />
+    </div>
+    <a href="http://www.muweb.it" target="_blank" class="footer"><img src="images/logo_mu.gif" alt="temp"/></a>
+  </div>
+</body>
+</html>
+
+

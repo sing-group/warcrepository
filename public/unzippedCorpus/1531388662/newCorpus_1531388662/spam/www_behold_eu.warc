@@ -1,0 +1,75 @@
+WARC/1.0
+WARC-Type: warcinfo
+WARC-Date: 2018-05-30T18:18:32Z
+WARC-Record-ID: <urn:uuid:8e0f5407-3a1f-4292-bff2-f8d92e465b0a>
+WARC-All-Language: en
+WARC-All-Content_type: text/html
+Content-Type: application/http;msgtype=response
+Content-Length: 46
+
+WARCProcessor by SING Group www.sing-group.com
+
+WARC/1.0
+WARC-Type: response
+WARC-Record-ID: <http://www.behold.eu>
+WARC-Date: 20180530181832
+WARC-Target-URI: http://www.behold.eu
+WARC-Language: en
+Content-Type: application/http;msgtype=response
+Content-Length: 2455
+
+HTTP/1.1 200
+Content-Type:text/html
+
+
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta http-equiv="Content-Language" content="en_us">
+<meta content="Lautsprecher mit bisher ungekannter Pr&auml;zision und nat&uuml;rlicher Wiedergabe, meisterhafter Verarbeitung und dem technologischen Vorsprung, den man von behold kennt.
+tanara - eine ganz andere Welt
+atacama - an der Grenze des Machbaren
+tatanka - der Druck und die Leichtigkeit" name="description">
+<title>behold</title>
+<link rel="stylesheet" type="text/css" href="http://behold.eu/design.css">
+</head>
+
+<body>
+<table border="0" width="100%" height="50%" cellspacing="0" cellpadding="0">
+<tr>
+<td align="center" valign="middle">
+<img src="http://behold.eu/images/behold_700_300.gif" alt="behold logo" width="700" height="160">
+</td>
+</tr>
+</table>
+
+<table border="0" width="100%" cellspacing="1" cellpadding="0">
+<tr>
+<td width="4%" rowspan="4"></td>
+<td width="25%" align="center"><h1>Electronics</h1></td>
+<td width="2%" rowspan="4"></td>  
+<td width="15%" rowspan="4" align="left"><img src="http://behold.eu/images/produkte/UPA192/UPA192-ISO-w150px.png" alt="UPA192" width="150" height="238"></td> 
+<td width="8%" rowspan="4"></td>                 
+<td width="15%" rowspan="4" align="right"><img src="http://behold.eu/images/produkte/UPA192/tanara-3-EM-h250px.png" alt="tanara" width="95" height="250"></td>
+<td width="2%" rowspan="4"></td>                 
+<td width="25%" align="center"><h1>Loudspeakers</h1></td>
+<td width="4%" rowspan="4"></td>
+</tr>
+<tr>
+<td align="center"><a href="http://behold.eu/page.php?en100000"><img src="http://speaker.behold.eu/images/english.svg" alt="English" height="30"></a></td>
+<td align="center"><a href="http://speaker.behold.eu/page.php?lang=en&id=000000"><img src="http://speaker.behold.eu/images/english.svg" alt="English" height="30"></a></td>
+</tr>
+<tr>
+<td align="center">Optimized for Mozilla Firefox&reg;<br>Desktop Resolution 1024x768 and up</td>
+<td align="center">Optimized for Mozilla Firefox&reg;<br>Desktop Resolution 1280x768</td>
+</tr>
+<tr>
+<td align="center"><a href="http://behold.eu/page.php?de100000"><img src="http://speaker.behold.eu/images/deutsch.svg" alt="Deutsch" height="30"></a></td>
+<td align="center"><a href="http://speaker.behold.eu/page.php?lang=de&id=000000"><img src="http://speaker.behold.eu/images/deutsch.svg" alt="Deutsch" height="30"></a></td>
+</tr>
+</table>
+</body>
+
+</html>
+
+

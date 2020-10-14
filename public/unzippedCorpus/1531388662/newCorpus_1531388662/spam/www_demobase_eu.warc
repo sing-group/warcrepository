@@ -1,0 +1,1611 @@
+WARC/1.0
+WARC-Type: warcinfo
+WARC-Date: 2018-05-30T18:18:32Z
+WARC-Record-ID: <urn:uuid:8b358dd6-38b7-4ae4-a75c-de50d3c126ad>
+WARC-All-Language: en
+WARC-All-Content_type: text/html, text/html;charset=ISO-8859-1
+Content-Type: application/http;msgtype=response
+Content-Length: 46
+
+WARCProcessor by SING Group www.sing-group.com
+
+WARC/1.0
+WARC-Type: response
+WARC-Record-ID: <http://www.demobase.eu>
+WARC-Date: 20180530181832
+WARC-Target-URI: http://www.demobase.eu
+WARC-Language: en
+Content-Type: application/http;msgtype=response
+Content-Length: 74053
+
+HTTP/1.1 200
+Content-Type:text/html;charset=ISO-8859-1
+
+
+<!DOCTYPE html>
+	<html lang="en" >
+	<head>
+		<meta charset="iso-8859-1" />
+		<title>Demobase - Portal</title>
+		<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+		<link rel="shortcut icon" href='http://www.demobase.eu/favicon.ico' />
+		<link rel="image_src" href='http://www.demobase.eu/public/style_images/memory/meta_image.png' />
+		<script type='text/javascript'><!-- Skin by FinalPrestige.net -->
+		//<![CDATA[
+			jsDebug			= 0; /* Must come before JS includes */
+			DISABLE_AJAX	= parseInt(0); /* Disables ajax requests where text is sent to the DB; helpful for charset issues */
+			inACP			= false;
+			var isRTL		= false;
+			var rtlIe		= '';
+			var rtlFull		= '';
+		//]]>
+		</script>
+		
+	
+				
+	
+
+				
+	
+
+				
+	
+
+				
+	
+
+				
+	
+
+				
+	
+
+				
+	
+	
+		<link rel="stylesheet" type="text/css" media='screen,print' href="http://www.demobase.eu/public/min/index.php?ipbv=96ae1f8b64fb87f5296dec295caf67b1&amp;f=public/style_css/css_6/footer.css,public/style_css/css_6/custom.css,public/style_css/css_6/ipb_help.css,public/style_css/css_6/calendar_select.css,public/style_css/css_6/ipb_common.css,public/style_css/css_6/ipb_styles.css,public/style_css/css_6/ipshoutbox.css" />
+	
+
+<!--[if lte IE 7]>
+	<link rel="stylesheet" type="text/css" title='Main' media="screen" href="http://www.demobase.eu/public/style_css/css_6/ipb_ie.css" />
+<![endif]-->
+<!--[if lte IE 8]>
+	<style type='text/css'>
+		.ipb_table { table-layout: fixed; }
+		.ipsLayout_content { width: 99.5%; }
+	</style>
+<![endif]-->
+
+	<style type='text/css'>
+		img.bbc_img { max-width: 100% !important; }
+	</style>
+
+        <meta property="og:title" content="Demobase - Portal"/>
+        <meta property="og:site_name" content="Demobase"/>
+        <meta property="og:type" content="article" />
+		
+	
+		
+		
+			<meta name="identifier-url" content="http://www.demobase.eu/" />
+		
+		
+			<meta property="og:url" content="http://www.demobase.eu/" />
+		
+		
+		
+	
+
+<meta property="og:image" content="http://www.demobase.eu/public/style_images/memory/meta_image.png"/>
+		
+		
+		<script type='text/javascript' src='http://ajax.googleapis.com/ajax/libs/prototype/1.7.1.0/prototype.js'></script>
+		<script type='text/javascript' src='http://ajax.googleapis.com/ajax/libs/scriptaculous/1.8/scriptaculous.js?load=effects,dragdrop,builder'></script>
+	<script type='text/javascript' src='http://www.demobase.eu/public/min/index.php?ipbv=96ae1f8b64fb87f5296dec295caf67b1&amp;charset=iso-8859-1&amp;f=public/js/ipb.js,cache/lang_cache/1/ipb.lang.js,public/js/ips.hovercard.js,public/js/ips.quickpm.js,public/js/ips.topic.js,public/js/ips.uportal.js' charset='iso-8859-1'></script>
+
+
+	
+
+
+
+		
+		<script type='text/javascript'>
+	//<![CDATA[
+		/* ---- URLs ---- */
+		ipb.vars['base_url'] 			= 'http://www.demobase.eu/index.php?s=1eb70e29590e34af5def5bd469bca109&';
+		ipb.vars['board_url']			= 'http://www.demobase.eu';
+		ipb.vars['img_url'] 			= "http://www.demobase.eu/public/style_images/memory";
+		ipb.vars['loading_img'] 		= 'http://www.demobase.eu/public/style_images/memory/loading.gif';
+		ipb.vars['active_app']			= 'uportal';
+		ipb.vars['upload_url']			= 'http://www.demobase.eu/uploads';
+		/* ---- Member ---- */
+		ipb.vars['member_id']			= parseInt( 0 );
+		ipb.vars['is_supmod']			= parseInt( 0 );
+		ipb.vars['is_admin']			= parseInt( 0 );
+		ipb.vars['secure_hash'] 		= '880ea6a14ea49e853634fbdc5015a024';
+		ipb.vars['session_id']			= '1eb70e29590e34af5def5bd469bca109';
+		ipb.vars['twitter_id']			= 0;
+		ipb.vars['fb_uid']				= 0;
+		ipb.vars['auto_dst']			= parseInt( 0 );
+		ipb.vars['dst_in_use']			= parseInt(  );
+		ipb.vars['is_touch']			= false;
+		ipb.vars['member_group']		= {"g_mem_info":"1"}
+		/* ---- cookies ----- */
+		ipb.vars['cookie_id'] 			= 'db';
+		ipb.vars['cookie_domain'] 		= '.demobase.eu';
+		ipb.vars['cookie_path']			= '/';
+		/* ---- Rate imgs ---- */
+		ipb.vars['rate_img_on']			= 'http://www.demobase.eu/public/style_images/memory/star.png';
+		ipb.vars['rate_img_off']		= 'http://www.demobase.eu/public/style_images/memory/star_off.png';
+		ipb.vars['rate_img_rated']		= 'http://www.demobase.eu/public/style_images/memory/star_rated.png';
+		/* ---- Uploads ---- */
+		ipb.vars['swfupload_swf']		= 'http://www.demobase.eu/public/js/3rd_party/swfupload/swfupload.swf';
+		ipb.vars['swfupload_enabled']	= false;
+		ipb.vars['use_swf_upload']		= ( '' == 'flash' ) ? true : false;
+		ipb.vars['swfupload_debug']		= false;
+		/* ---- other ---- */
+		ipb.vars['highlight_color']     = "#ade57a";
+		ipb.vars['charset']				= "iso-8859-1";
+		ipb.vars['time_offset']			= "0";
+		ipb.vars['hour_format']			= "12";
+		ipb.vars['seo_enabled']			= 1;
+		
+		ipb.vars['seo_params']			= {"start":"-","end":"\/","varBlock":"?","varPage":"page-","varSep":"&","varJoin":"="};
+		
+		/* Templates/Language */
+		ipb.templates['inlineMsg']		= "";
+		ipb.templates['ajax_loading'] 	= "<div id='ajax_loading'><img src='http://www.demobase.eu/public/style_images/memory/ajax_loading.gif' alt='" + ipb.lang['loading'] + "' /></div>";
+		ipb.templates['close_popup']	= "<img src='http://www.demobase.eu/public/style_images/memory/close_popup.png' alt='x' />";
+		ipb.templates['rss_shell']		= new Template("<ul id='rss_menu' class='ipbmenu_content'>#{items}</ul>");
+		ipb.templates['rss_item']		= new Template("<li><a href='#{url}' title='#{title}'>#{title}</a></li>");
+		
+		ipb.templates['autocomplete_wrap'] = new Template("<ul id='#{id}' class='ipb_autocomplete' style='width: 250px;'></ul>");
+		ipb.templates['autocomplete_item'] = new Template("<li id='#{id}' data-url='#{url}'><img src='#{img}' alt='' class='ipsUserPhoto ipsUserPhoto_mini' />&nbsp;&nbsp;#{itemvalue}</li>");
+		ipb.templates['page_jump']		= new Template("<div id='#{id}_wrap' class='ipbmenu_content'><h3 class='bar'>Jump to page</h3><p class='ipsPad'><input type='text' class='input_text' id='#{id}_input' size='8' /> <input type='submit' value='Go' class='input_submit add_folder' id='#{id}_submit' /></p></div>");
+		ipb.templates['global_notify'] 	= new Template("<div class='popupWrapper'><div class='popupInner'><div class='ipsPad'>#{message} #{close}</div></div></div>");
+		
+		
+		ipb.templates['header_menu'] 	= new Template("<div id='#{id}' class='ipsHeaderMenu boxShadow'></div>");
+		
+		Loader.boot();
+	//]]>
+	</script>
+	<script type='text/javascript' src='http://www.demobase.eu/public/js/shoutbox.js'></script>
+</head>
+
+	<body id='ipboard_body'>
+		<p id='content_jump' class='hide'><a id='top'></a><a href='#j_content' title='Jump to content' accesskey='m'>Jump to content</a></p>
+		<div id='ipbwrapper'>
+			<!-- ::: TOP BAR: Sign in / register or user drop down and notification alerts ::: -->
+			<div id='header_bar' class='clearfix'>
+				<div class='main_width'>
+<ul id='toplinks'>
+						
+							<li class='left'>
+								<a href="http://www.demobase.eu/index.php?app=core&amp;module=global&amp;section=navigation&amp;inapp=uportal" rel="quickNavigation" accesskey='9' id='quickNavLaunch' title='Open Quick Navigation'><span>&nbsp;</span></a>
+							</li>
+						
+						<li id='nav_explore' class='left'>
+							<a href='http://www.demobase.eu/index.php?app=core&amp;module=search&amp;do=viewNewContent&amp;search_app=forums' accesskey='2' title='View New Content'>View New Content</a>
+						</li>
+</ul>
+					
+					<div id='user_navigation' class='not_logged_in'>
+							
+							<ul class='ipsList_inline right'>
+								<li>
+									<span class='services'>
+										
+										
+										
+									</span>
+									&nbsp;&nbsp;&nbsp;&nbsp;
+									<a href='http://www.demobase.eu/index.php?app=core&amp;module=global&amp;section=login' title='Sign In' id='sign_in'>Sign In</a>&nbsp;&nbsp;&nbsp;
+								</li>
+								<li>
+									<a href="http://www.demobase.eu/index.php?app=core&amp;module=global&amp;section=register" title='Create Account' id='register_link'>Create Account</a>
+								</li>
+							</ul>
+						</div>
+				</div>
+			</div>
+			<!-- ::: BRANDING STRIP: Logo and search box ::: --><!-- Skin by FinalPrestige.net -->
+			<div id='branding'>
+				<div class='main_width'>
+					<div id='logo'>
+						
+							<a href='http://www.demobase.eu' title='Go to community index' rel="home" accesskey='1'><img src='http://www.demobase.eu/public/style_images/memory/logo.png' alt='Logo' /></a>
+						
+					</div>
+
+			<!-- ::: APPLICATION TABS ::: --><!-- Skin by FinalPrestige.net -->
+			<div id='primary_nav' class='clearfix'>
+				<div class='main_width'>
+					<ul class='ipsList_inline' id='community_app_menu'>
+
+						
+						
+								
+									
+								
+
+									
+																				<li id='nav_app_forums' class="left "><a href='http://www.demobase.eu/index.php/index' title='Go to Forums'>Forums</a></li>
+									
+								
+
+									
+																				<li id='nav_app_members' class="left "><a href='http://www.demobase.eu/index.php/members/' title='Go to Members'>Members</a></li>
+									
+								
+
+									
+								
+
+									
+																				<li id='nav_app_uportal' class="left active"><a href='http://www.demobase.eu/index.php?' title='Go to Portal'>Portal</a></li>
+									
+								
+							
+
+
+
+<li class='left'><a href='/index.php?app=uportal&code=1'>Fairplayers</a></li>
+
+
+
+						<li id='nav_other_apps' style='display: none'>
+							<a href='#' class='ipbmenu' id='more_apps'>More <img src='http://www.demobase.eu/public/style_images/memory/useropts_arrow.png' /></a>
+						</li>
+					</ul>
+				</div>
+					
+			</div>
+
+				</div>
+			</div>
+	
+			
+			<!-- ::: MAIN CONTENT AREA ::: --><!-- Skin by FinalPrestige.net -->
+			<div id='content' class='clearfix'>
+				<!-- ::: NAVIGATION BREADCRUMBS ::: -->
+				<div id='secondary_navigation' class='clearfix'>
+						<ol class='breadcrumb top ipsList_inline left'>
+														
+							
+								<li itemscope itemtype="http://data-vocabulary.org/Breadcrumb">
+									
+									 <a href='http://www.demobase.eu/index.php?app=uportal' title='Return to Portal' itemprop="url"><span itemprop="title">Portal</span></a>
+								</li>
+								
+							
+						</ol>
+					</div>
+					<br />
+				<noscript>
+					<div class='message error'>
+						<strong>Javascript Disabled Detected</strong>
+						<p>You currently have javascript disabled. Several functions may not work. Please re-enable javascript to access full functionality.</p>
+					</div>
+					<br />
+				</noscript>
+				<!-- ::: CONTENT ::: -->
+				
+				<!--- ShoutBoxJsLoader ---><!--- ShoutBoxJsLoader --->
+<script type='text/javascript'>
+/* Setup some value */
+ipb.shoutbox.shoutboxGLOBAL = true;
+</script>
+
+<div class='category_block block_wrap' id='category_shoutbox'>
+	<h3 class='maintitle'>
+		<a class='toggle right' href='#' title='Toggle shoutbox'>Toggle shoutbox</a>
+		<a href="http://www.demobase.eu/index.php/shoutbox/" title='View Main Shoutbox'>Shoutbox</a>
+		<a href="#" id="shoutbox-popup-button" title="Open the Shoutbox in a popup"><img src="http://www.demobase.eu/public/style_images/memory/shoutbox/popup.png" alt="Open the Shoutbox in a popup" /></a>
+	</h3>
+	<div class='ipsBox table_wrap'><div class='ipsBox_container'>
+		<table class='ipb_table shoutbox_table'>
+			<tr id='shoutbox-announcement-row' class='row2' style='display:none;'>
+	<td class='altrow' valign='middle' colspan='2'>
+		<div id='shoutbox-announcement-text' class='message'>
+			
+		</div>
+	</td>
+</tr>
+			<tr class='row1'>
+					<td class='altrow' valign='top' colspan='2'>
+						<div id='shoutbox-shouts' style='height:132px;overflow:auto'>
+							
+							<table id='shoutbox-inactive-prompt' style='display:none;'>
+	<tr class='row1'>
+		<td class='altrow short' valign='middle'>
+			We've noticed that you've been inactive for over 5 minute(s).<br />We've stopped running the Shoutbox due to your inactivity.<br />If you are back again, please click the <span style='text-decoration: underline;'>I'm Back</span> button below.
+			<br /><br />
+			<input type='button' value="I'm Back" class='input_submit' onclick='ipb.shoutbox.processInactivePrompt();' />
+		</td>
+	</tr>
+</table>
+							<table id='shoutbox-shouts-table'>
+								<tbody>
+									<tr class='row2' id='shout-row-26750'>
+	<td style='width: 1%; white-space: nowrap;'>
+		
+			<a href="#" class="at_member" data-store="Fritz" title="Insert member's name into Shout">@</a>&nbsp;
+		
+		<a hovercard-ref="member" hovercard-id="4627" data-ipb="noparse" class="_hovertrigger url fn name  " href='http://www.demobase.eu/index.php/user/4627-fritz/' title='View Profile'><span itemprop="name">Fritz</span></a>
+	</td>
+	<td style='width: 1%; white-space: nowrap;'>:</td>
+	<td style='width: 98%;'>
+		<span class='right desc' title=''>(23 May 2018 - 02:19 PM)</span>
+		
+			<span class='shoutbox_text'>@Ive I am sorry if my comment offended you this much. <br />
+I meant no harm, it was merely a suggestion nothing else.</span>
+		
+	</td>
+</tr><tr class='row2' id='shout-row-26749'>
+	<td style='width: 1%; white-space: nowrap;'>
+		
+			<a href="#" class="at_member" data-store="Ive" title="Insert member's name into Shout">@</a>&nbsp;
+		
+		<a hovercard-ref="member" hovercard-id="4229" data-ipb="noparse" class="_hovertrigger url fn name  " href='http://www.demobase.eu/index.php/user/4229-ive/' title='View Profile'><span itemprop="name">Ive</span></a>
+	</td>
+	<td style='width: 1%; white-space: nowrap;'>:</td>
+	<td style='width: 98%;'>
+		<span class='right desc' title=''>(23 May 2018 - 01:48 PM)</span>
+		
+			<span class='shoutbox_text'>@Stark.420 your wrong. We respect each other (of course there are exeptions, like always:/) but when I read 333rd message: &quot;demo is dead come full&quot;.... just stop bother us, we dont want to .. kurwa years going on and we still stick to demo so maybe we are ok with this level of activity. Besides full and demo isn&#039;t same game. We play demo, you play full. We don&#039;t go to full forums to cry: full isn&#039;t active enough, but you DO! You come to demobase ONLY to cry demo is dead (lies) and we all NEED to move on full. You guys don&#039;t make sense at all. So next time when u wanna cry full isn&#039;t that active as it should be PLEASE don&#039;t interfere it with demo. Greetz.<br />
+<br />
+P.S. I strongly recomend all players from full should move to demo because full isn&#039;t active enough and we should all play one game. Demo clearly is better so.. See you all on hitmans.</span>
+		
+	</td>
+</tr><tr class='row2' id='shout-row-26748'>
+	<td style='width: 1%; white-space: nowrap;'>
+		
+			<a href="#" class="at_member" data-store="Stark.420" title="Insert member's name into Shout">@</a>&nbsp;
+		
+		<a hovercard-ref="member" hovercard-id="5410" data-ipb="noparse" class="_hovertrigger url fn name  " href='http://www.demobase.eu/index.php/user/5410-stark420/' title='View Profile'><span itemprop="name">Stark.420</span></a>
+	</td>
+	<td style='width: 1%; white-space: nowrap;'>:</td>
+	<td style='width: 98%;'>
+		<span class='right desc' title=''>(22 May 2018 - 03:15 PM)</span>
+		
+			<span class='shoutbox_text'>see this is the perfect example of the remainders of demo, i dont need to explain myself. @Ive</span>
+		
+	</td>
+</tr><tr class='row2' id='shout-row-26747'>
+	<td style='width: 1%; white-space: nowrap;'>
+		
+			<a href="#" class="at_member" data-store="Ive" title="Insert member's name into Shout">@</a>&nbsp;
+		
+		<a hovercard-ref="member" hovercard-id="4229" data-ipb="noparse" class="_hovertrigger url fn name  " href='http://www.demobase.eu/index.php/user/4229-ive/' title='View Profile'><span itemprop="name">Ive</span></a>
+	</td>
+	<td style='width: 1%; white-space: nowrap;'>:</td>
+	<td style='width: 98%;'>
+		<span class='right desc' title=''>(22 May 2018 - 02:47 PM)</span>
+		
+			<span class='shoutbox_text'>yesss ppl used to talk about u like this: no ppl for mix he doesn&#039;t count</span>
+		
+	</td>
+</tr><tr class='row2' id='shout-row-26746'>
+	<td style='width: 1%; white-space: nowrap;'>
+		
+			<a href="#" class="at_member" data-store="Fritz" title="Insert member's name into Shout">@</a>&nbsp;
+		
+		<a hovercard-ref="member" hovercard-id="4627" data-ipb="noparse" class="_hovertrigger url fn name  " href='http://www.demobase.eu/index.php/user/4627-fritz/' title='View Profile'><span itemprop="name">Fritz</span></a>
+	</td>
+	<td style='width: 1%; white-space: nowrap;'>:</td>
+	<td style='width: 98%;'>
+		<span class='right desc' title=''>(22 May 2018 - 06:15 AM)</span>
+		
+			<span class='shoutbox_text'>Haha I am glad that you know me - everyone knows me <img src='http://www.demobase.eu/public/style_emoticons/default/wink.png' class='bbc_emoticon' alt=';)' /></span>
+		
+	</td>
+</tr><tr class='row2' id='shout-row-26745'>
+	<td style='width: 1%; white-space: nowrap;'>
+		
+			<a href="#" class="at_member" data-store="Ive" title="Insert member's name into Shout">@</a>&nbsp;
+		
+		<a hovercard-ref="member" hovercard-id="4229" data-ipb="noparse" class="_hovertrigger url fn name  " href='http://www.demobase.eu/index.php/user/4229-ive/' title='View Profile'><span itemprop="name">Ive</span></a>
+	</td>
+	<td style='width: 1%; white-space: nowrap;'>:</td>
+	<td style='width: 98%;'>
+		<span class='right desc' title=''>(21 May 2018 - 02:12 PM)</span>
+		
+			<span class='shoutbox_text'>ohhh what a shame <img src='http://www.demobase.eu/public/style_emoticons/default/smile.png' class='bbc_emoticon' alt=':)' />) I know u very well fritzgaylord with ping &gt; 300, every time we played against each other u lose</span>
+		
+	</td>
+</tr><tr class='row2' id='shout-row-26744'>
+	<td style='width: 1%; white-space: nowrap;'>
+		
+			<a href="#" class="at_member" data-store="Fritz" title="Insert member's name into Shout">@</a>&nbsp;
+		
+		<a hovercard-ref="member" hovercard-id="4627" data-ipb="noparse" class="_hovertrigger url fn name  " href='http://www.demobase.eu/index.php/user/4627-fritz/' title='View Profile'><span itemprop="name">Fritz</span></a>
+	</td>
+	<td style='width: 1%; white-space: nowrap;'>:</td>
+	<td style='width: 98%;'>
+		<span class='right desc' title=''>(21 May 2018 - 11:17 AM)</span>
+		
+			<span class='shoutbox_text'>Ive, I have never heard of you before and I have played this game since 2010. You are either very noob or a nobody, either way stfu</span>
+		
+	</td>
+</tr><tr class='row2' id='shout-row-26743'>
+	<td style='width: 1%; white-space: nowrap;'>
+		
+			<a href="#" class="at_member" data-store="Ive" title="Insert member's name into Shout">@</a>&nbsp;
+		
+		<a hovercard-ref="member" hovercard-id="4229" data-ipb="noparse" class="_hovertrigger url fn name  " href='http://www.demobase.eu/index.php/user/4229-ive/' title='View Profile'><span itemprop="name">Ive</span></a>
+	</td>
+	<td style='width: 1%; white-space: nowrap;'>:</td>
+	<td style='width: 98%;'>
+		<span class='right desc' title=''>(21 May 2018 - 08:36 AM)</span>
+		
+			<span class='shoutbox_text'>Fritz, full sucks as hard as u.</span>
+		
+	</td>
+</tr><tr class='row2' id='shout-row-26742'>
+	<td style='width: 1%; white-space: nowrap;'>
+		
+			<a href="#" class="at_member" data-store="Fritz" title="Insert member's name into Shout">@</a>&nbsp;
+		
+		<a hovercard-ref="member" hovercard-id="4627" data-ipb="noparse" class="_hovertrigger url fn name  " href='http://www.demobase.eu/index.php/user/4627-fritz/' title='View Profile'><span itemprop="name">Fritz</span></a>
+	</td>
+	<td style='width: 1%; white-space: nowrap;'>:</td>
+	<td style='width: 98%;'>
+		<span class='right desc' title=''>(21 May 2018 - 02:01 AM)</span>
+		
+			<span class='shoutbox_text'>and also do you guys play demo, full or gold? <br />
+<br />
+I would encourage you to come to FULL</span>
+		
+	</td>
+</tr><tr class='row2' id='shout-row-26741'>
+	<td style='width: 1%; white-space: nowrap;'>
+		
+			<a href="#" class="at_member" data-store="Fritz" title="Insert member's name into Shout">@</a>&nbsp;
+		
+		<a hovercard-ref="member" hovercard-id="4627" data-ipb="noparse" class="_hovertrigger url fn name  " href='http://www.demobase.eu/index.php/user/4627-fritz/' title='View Profile'><span itemprop="name">Fritz</span></a>
+	</td>
+	<td style='width: 1%; white-space: nowrap;'>:</td>
+	<td style='width: 98%;'>
+		<span class='right desc' title=''>(21 May 2018 - 01:55 AM)</span>
+		
+			<span class='shoutbox_text'>@Mokap bring the brasil community to demobase</span>
+		
+	</td>
+</tr><tr class='row2' id='shout-row-26740'>
+	<td style='width: 1%; white-space: nowrap;'>
+		
+			<a href="#" class="at_member" data-store="Ive" title="Insert member's name into Shout">@</a>&nbsp;
+		
+		<a hovercard-ref="member" hovercard-id="4229" data-ipb="noparse" class="_hovertrigger url fn name  " href='http://www.demobase.eu/index.php/user/4229-ive/' title='View Profile'><span itemprop="name">Ive</span></a>
+	</td>
+	<td style='width: 1%; white-space: nowrap;'>:</td>
+	<td style='width: 98%;'>
+		<span class='right desc' title=''>(18 May 2018 - 12:46 PM)</span>
+		
+			<span class='shoutbox_text'>@Stark.420 I think we play against each other not vs noobs</span>
+		
+	</td>
+</tr><tr class='row2' id='shout-row-26739'>
+	<td style='width: 1%; white-space: nowrap;'>
+		
+			<a href="#" class="at_member" data-store="Stark.420" title="Insert member's name into Shout">@</a>&nbsp;
+		
+		<a hovercard-ref="member" hovercard-id="5410" data-ipb="noparse" class="_hovertrigger url fn name  " href='http://www.demobase.eu/index.php/user/5410-stark420/' title='View Profile'><span itemprop="name">Stark.420</span></a>
+	</td>
+	<td style='width: 1%; white-space: nowrap;'>:</td>
+	<td style='width: 98%;'>
+		<span class='right desc' title=''>(17 May 2018 - 04:11 PM)</span>
+		
+			<span class='shoutbox_text'>A bunch of biased friends that only fight noobs dont count @Ive</span>
+		
+	</td>
+</tr><tr class='row2' id='shout-row-26738'>
+	<td style='width: 1%; white-space: nowrap;'>
+		
+			<a href="#" class="at_member" data-store="Mokap" title="Insert member's name into Shout">@</a>&nbsp;
+		
+		<a hovercard-ref="member" hovercard-id="5643" data-ipb="noparse" class="_hovertrigger url fn name  " href='http://www.demobase.eu/index.php/user/5643-mokap/' title='View Profile'><span itemprop="name">Mokap</span></a>
+	</td>
+	<td style='width: 1%; white-space: nowrap;'>:</td>
+	<td style='width: 98%;'>
+		<span class='right desc' title=''>(17 May 2018 - 03:29 AM)</span>
+		
+			<span class='shoutbox_text'>Sof2 is not dead! True, many players are coming back. <a href='http://sof2brasil.rf.gd' class='bbc_url' title='External link' rel='nofollow external'>http://sof2brasil.rf.gd</a></span>
+		
+	</td>
+</tr><tr class='row2' id='shout-row-26737'>
+	<td style='width: 1%; white-space: nowrap;'>
+		
+			<a href="#" class="at_member" data-store="Ive" title="Insert member's name into Shout">@</a>&nbsp;
+		
+		<a hovercard-ref="member" hovercard-id="4229" data-ipb="noparse" class="_hovertrigger url fn name  " href='http://www.demobase.eu/index.php/user/4229-ive/' title='View Profile'><span itemprop="name">Ive</span></a>
+	</td>
+	<td style='width: 1%; white-space: nowrap;'>:</td>
+	<td style='width: 98%;'>
+		<span class='right desc' title=''>(15 May 2018 - 02:59 PM)</span>
+		
+			<span class='shoutbox_text'>@Fritz Demo isn&#039;t dead, every evening ppl play on tea hitmans but u don&#039;t realize it even in next 10 years that we are not interested in moving to game that we don&#039;t like same for old players/</span>
+		
+	</td>
+</tr><tr class='row2' id='shout-row-26736'>
+	<td style='width: 1%; white-space: nowrap;'>
+		
+			<a href="#" class="at_member" data-store="Fritz" title="Insert member's name into Shout">@</a>&nbsp;
+		
+		<a hovercard-ref="member" hovercard-id="4627" data-ipb="noparse" class="_hovertrigger url fn name  " href='http://www.demobase.eu/index.php/user/4627-fritz/' title='View Profile'><span itemprop="name">Fritz</span></a>
+	</td>
+	<td style='width: 1%; white-space: nowrap;'>:</td>
+	<td style='width: 98%;'>
+		<span class='right desc' title=''>(14 May 2018 - 11:16 AM)</span>
+		
+			<span class='shoutbox_text'>the demo game is dead but the full one is not, everyone should come back !</span>
+		
+	</td>
+</tr><tr class='row2' id='shout-row-26735'>
+	<td style='width: 1%; white-space: nowrap;'>
+		
+			<a href="#" class="at_member" data-store="Fritz" title="Insert member's name into Shout">@</a>&nbsp;
+		
+		<a hovercard-ref="member" hovercard-id="4627" data-ipb="noparse" class="_hovertrigger url fn name  " href='http://www.demobase.eu/index.php/user/4627-fritz/' title='View Profile'><span itemprop="name">Fritz</span></a>
+	</td>
+	<td style='width: 1%; white-space: nowrap;'>:</td>
+	<td style='width: 98%;'>
+		<span class='right desc' title=''>(14 May 2018 - 11:16 AM)</span>
+		
+			<span class='shoutbox_text'>Sof2 Full is not yet, we mix at least once a day! I encourage you all to come and see what its like!</span>
+		
+	</td>
+</tr><tr class='row2' id='shout-row-26734'>
+	<td style='width: 1%; white-space: nowrap;'>
+		
+			<a href="#" class="at_member" data-store="Stark.420" title="Insert member's name into Shout">@</a>&nbsp;
+		
+		<a hovercard-ref="member" hovercard-id="5410" data-ipb="noparse" class="_hovertrigger url fn name  " href='http://www.demobase.eu/index.php/user/5410-stark420/' title='View Profile'><span itemprop="name">Stark.420</span></a>
+	</td>
+	<td style='width: 1%; white-space: nowrap;'>:</td>
+	<td style='width: 98%;'>
+		<span class='right desc' title=''>(10 May 2018 - 06:00 PM)</span>
+		
+			<span class='shoutbox_text'>Is sof2 demo dead yet?</span>
+		
+	</td>
+</tr><tr class='row2' id='shout-row-26733'>
+	<td style='width: 1%; white-space: nowrap;'>
+		
+			<a href="#" class="at_member" data-store="sndkz" title="Insert member's name into Shout">@</a>&nbsp;
+		
+		<a hovercard-ref="member" hovercard-id="2811" data-ipb="noparse" class="_hovertrigger url fn name  " href='http://www.demobase.eu/index.php/user/2811-sndkz/' title='View Profile'><span itemprop="name">sndkz</span></a>
+	</td>
+	<td style='width: 1%; white-space: nowrap;'>:</td>
+	<td style='width: 98%;'>
+		<span class='right desc' title=''>(09 May 2018 - 03:01 PM)</span>
+		
+			<span class='shoutbox_text'>busted</span>
+		
+	</td>
+</tr><tr class='row2' id='shout-row-26732'>
+	<td style='width: 1%; white-space: nowrap;'>
+		
+			<a href="#" class="at_member" data-store="Fritz" title="Insert member's name into Shout">@</a>&nbsp;
+		
+		<a hovercard-ref="member" hovercard-id="4627" data-ipb="noparse" class="_hovertrigger url fn name  " href='http://www.demobase.eu/index.php/user/4627-fritz/' title='View Profile'><span itemprop="name">Fritz</span></a>
+	</td>
+	<td style='width: 1%; white-space: nowrap;'>:</td>
+	<td style='width: 98%;'>
+		<span class='right desc' title=''>(09 May 2018 - 02:29 PM)</span>
+		
+			<span class='shoutbox_text'>Hi @ deleted, it is wallhack more than clearly. The arm and leg are both past the wall in which we can see clearly, that he can see behind the wall.</span>
+		
+	</td>
+</tr><tr class='row2' id='shout-row-26731'>
+	<td style='width: 1%; white-space: nowrap;'>
+		
+			<a href="#" class="at_member" data-store="Deleted" title="Insert member's name into Shout">@</a>&nbsp;
+		
+		<a hovercard-ref="member" hovercard-id="2577" data-ipb="noparse" class="_hovertrigger url fn name  " href='http://www.demobase.eu/index.php/user/2577-deleted/' title='View Profile'><span itemprop="name">Deleted</span></a>
+	</td>
+	<td style='width: 1%; white-space: nowrap;'>:</td>
+	<td style='width: 98%;'>
+		<span class='right desc' title=''>(09 May 2018 - 12:09 PM)</span>
+		
+			<span class='shoutbox_text'>Is this WH?? (first ss @ bridge)</span>
+		
+	</td>
+</tr><tr class='row2' id='shout-row-26730'>
+	<td style='width: 1%; white-space: nowrap;'>
+		
+			<a href="#" class="at_member" data-store="Deleted" title="Insert member's name into Shout">@</a>&nbsp;
+		
+		<a hovercard-ref="member" hovercard-id="2577" data-ipb="noparse" class="_hovertrigger url fn name  " href='http://www.demobase.eu/index.php/user/2577-deleted/' title='View Profile'><span itemprop="name">Deleted</span></a>
+	</td>
+	<td style='width: 1%; white-space: nowrap;'>:</td>
+	<td style='width: 98%;'>
+		<span class='right desc' title=''>(09 May 2018 - 12:08 PM)</span>
+		
+			<span class='shoutbox_text'><a href='http://www.fairplay.ac/lookup/guid/5da45/' class='bbc_url' title='External link' rel='nofollow external'>http://www.fairplay....kup/guid/5da45/</a></span>
+		
+	</td>
+</tr><tr class='row2' id='shout-row-26729'>
+	<td style='width: 1%; white-space: nowrap;'>
+		
+			<a href="#" class="at_member" data-store="Deleted" title="Insert member's name into Shout">@</a>&nbsp;
+		
+		<a hovercard-ref="member" hovercard-id="2577" data-ipb="noparse" class="_hovertrigger url fn name  " href='http://www.demobase.eu/index.php/user/2577-deleted/' title='View Profile'><span itemprop="name">Deleted</span></a>
+	</td>
+	<td style='width: 1%; white-space: nowrap;'>:</td>
+	<td style='width: 98%;'>
+		<span class='right desc' title=''>(09 May 2018 - 12:08 PM)</span>
+		
+			<span class='shoutbox_text'>Is this WH?? (first ss @ bridge)</span>
+		
+	</td>
+</tr><tr class='row2' id='shout-row-26728'>
+	<td style='width: 1%; white-space: nowrap;'>
+		
+			<a href="#" class="at_member" data-store="TRUE" title="Insert member's name into Shout">@</a>&nbsp;
+		
+		<a hovercard-ref="member" hovercard-id="3065" data-ipb="noparse" class="_hovertrigger url fn name  " href='http://www.demobase.eu/index.php/user/3065-true/' title='View Profile'><span itemprop="name">TRUE</span></a>
+	</td>
+	<td style='width: 1%; white-space: nowrap;'>:</td>
+	<td style='width: 98%;'>
+		<span class='right desc' title=''>(02 May 2018 - 07:57 AM)</span>
+		
+			<span class='shoutbox_text'>candyman</span>
+		
+	</td>
+</tr><tr class='row2' id='shout-row-26727'>
+	<td style='width: 1%; white-space: nowrap;'>
+		
+			<a href="#" class="at_member" data-store="sndkz" title="Insert member's name into Shout">@</a>&nbsp;
+		
+		<a hovercard-ref="member" hovercard-id="2811" data-ipb="noparse" class="_hovertrigger url fn name  " href='http://www.demobase.eu/index.php/user/2811-sndkz/' title='View Profile'><span itemprop="name">sndkz</span></a>
+	</td>
+	<td style='width: 1%; white-space: nowrap;'>:</td>
+	<td style='width: 98%;'>
+		<span class='right desc' title=''>(01 May 2018 - 07:19 PM)</span>
+		
+			<span class='shoutbox_text'>any1 wanna play some ?</span>
+		
+	</td>
+</tr><tr class='row2' id='shout-row-26726'>
+	<td style='width: 1%; white-space: nowrap;'>
+		
+			<a href="#" class="at_member" data-store="Mokap" title="Insert member's name into Shout">@</a>&nbsp;
+		
+		<a hovercard-ref="member" hovercard-id="5643" data-ipb="noparse" class="_hovertrigger url fn name  " href='http://www.demobase.eu/index.php/user/5643-mokap/' title='View Profile'><span itemprop="name">Mokap</span></a>
+	</td>
+	<td style='width: 1%; white-space: nowrap;'>:</td>
+	<td style='width: 98%;'>
+		<span class='right desc' title=''>(01 May 2018 - 01:50 PM)</span>
+		
+			<span class='shoutbox_text'><a href='http://sof2brasil.rf.gd/' class='bbc_url' title='External link' rel='nofollow external'>http://sof2brasil.rf.gd/</a> ~ Brazilian Community Sof2</span>
+		
+	</td>
+</tr><tr class='row2' id='shout-row-26725'>
+	<td style='width: 1%; white-space: nowrap;'>
+		
+			<a href="#" class="at_member" data-store="Foxdie" title="Insert member's name into Shout">@</a>&nbsp;
+		
+		<a hovercard-ref="member" hovercard-id="338" data-ipb="noparse" class="_hovertrigger url fn name  " href='http://www.demobase.eu/index.php/user/338-foxdie/' title='View Profile'><span itemprop="name"><span style='color:#ca226b'><b>Foxdie</b></span></span></a>
+	</td>
+	<td style='width: 1%; white-space: nowrap;'>:</td>
+	<td style='width: 98%;'>
+		<span class='right desc' title=''>(29 April 2018 - 09:30 PM)</span>
+		
+			<span class='shoutbox_text'>wow come on sof2 movie makers</span>
+		
+	</td>
+</tr><tr class='row2' id='shout-row-26724'>
+	<td style='width: 1%; white-space: nowrap;'>
+		
+			<a href="#" class="at_member" data-store="vo&#33;ume" title="Insert member's name into Shout">@</a>&nbsp;
+		
+		<a hovercard-ref="member" hovercard-id="38" data-ipb="noparse" class="_hovertrigger url fn name  " href='http://www.demobase.eu/index.php/user/38-voume/' title='View Profile'><span itemprop="name">vo&#33;ume</span></a>
+	</td>
+	<td style='width: 1%; white-space: nowrap;'>:</td>
+	<td style='width: 98%;'>
+		<span class='right desc' title=''>(27 April 2018 - 06:56 PM)</span>
+		
+			<span class='shoutbox_text'><a href='https://www.timotejzitnik.com/podganja-dirka-pobegni-podganji-dirki-s-pasivnim-zasluzkom/' class='bbc_url' title='External link' rel='nofollow external'>https://www.timotejz...vnim-zasluzkom/</a><br />
+<br />
+on the right side translate and put me a comment if you like the post guys!</span>
+		
+	</td>
+</tr><tr class='row2' id='shout-row-26723'>
+	<td style='width: 1%; white-space: nowrap;'>
+		
+			<a href="#" class="at_member" data-store="LuPeK" title="Insert member's name into Shout">@</a>&nbsp;
+		
+		<a hovercard-ref="member" hovercard-id="5238" data-ipb="noparse" class="_hovertrigger url fn name  " href='http://www.demobase.eu/index.php/user/5238-lupek/' title='View Profile'><span itemprop="name">LuPeK</span></a>
+	</td>
+	<td style='width: 1%; white-space: nowrap;'>:</td>
+	<td style='width: 98%;'>
+		<span class='right desc' title=''>(24 April 2018 - 07:52 PM)</span>
+		
+			<span class='shoutbox_text'>shut up osiol glowa</span>
+		
+	</td>
+</tr><tr class='row2' id='shout-row-26722'>
+	<td style='width: 1%; white-space: nowrap;'>
+		
+			<a href="#" class="at_member" data-store="sndkz" title="Insert member's name into Shout">@</a>&nbsp;
+		
+		<a hovercard-ref="member" hovercard-id="2811" data-ipb="noparse" class="_hovertrigger url fn name  " href='http://www.demobase.eu/index.php/user/2811-sndkz/' title='View Profile'><span itemprop="name">sndkz</span></a>
+	</td>
+	<td style='width: 1%; white-space: nowrap;'>:</td>
+	<td style='width: 98%;'>
+		<span class='right desc' title=''>(21 April 2018 - 04:05 PM)</span>
+		
+			<span class='shoutbox_text'>kurwa kurwa drink drink kurwa mac poydro polaczki</span>
+		
+	</td>
+</tr><tr class='row2' id='shout-row-26721'>
+	<td style='width: 1%; white-space: nowrap;'>
+		
+			<a href="#" class="at_member" data-store="sndkz" title="Insert member's name into Shout">@</a>&nbsp;
+		
+		<a hovercard-ref="member" hovercard-id="2811" data-ipb="noparse" class="_hovertrigger url fn name  " href='http://www.demobase.eu/index.php/user/2811-sndkz/' title='View Profile'><span itemprop="name">sndkz</span></a>
+	</td>
+	<td style='width: 1%; white-space: nowrap;'>:</td>
+	<td style='width: 98%;'>
+		<span class='right desc' title=''>(21 April 2018 - 04:04 PM)</span>
+		
+			<span class='shoutbox_text'><a href='https://www.youtube.com/watch?v=RdX79pwyBII' class='bbc_url' title='External link' rel='nofollow external'>https://www.youtube....h?v=RdX79pwyBII</a> !!!!! 2pac 4 life kurwa ! db still alive</span>
+		
+	</td>
+</tr>
+								</tbody>
+							</table>
+						</div>
+						<div id='shouts-global-resizer'></div>
+						<div id='shoutbox-inline-error-glb' class='message error block_wrap' style='display:none;'></div>
+					</td>
+					
+				</tr>
+		</table>
+	</div></div>
+</div>
+<br class="clear"/>
+<script type='text/javascript'>
+//<![CDATA[
+ipb.shoutbox.myMemberID       = parseInt(0);
+ipb.shoutbox.can_use          = parseInt(0);
+ipb.shoutbox.can_edit         = parseInt(0);
+ipb.shoutbox.flood_limit      = parseInt(10);
+ipb.shoutbox.bypass_flood     = parseInt(0);
+ipb.shoutbox.can_access_acp   = parseInt(0);
+ipb.shoutbox.view_archive     = true;
+ipb.shoutbox.enable_fade      = parseInt(1);
+ipb.shoutbox.inactive_timeout = parseInt(5);
+ipb.shoutbox.hide_refresh     = parseInt(1);
+ipb.shoutbox.members_refresh  = Array['shoutbox_members_viewing_refresh'] < 30 ? 30000 : parseInt(60)*1000;
+ipb.shoutbox.shouts_refresh   = Array['shoutbox_shouts_refresh'] < 30 ? 30000 : parseInt(60)*1000;
+ipb.shoutbox.total_shouts     = parseInt(25253);
+ipb.shoutbox.shout_order      = 'desc';
+ipb.shoutbox.moderator        = 0;
+
+ipb.shoutbox.my_prefs         = { 'shoutbox_height' : "275", 'shoutbox_gheight' : "132", 'global_display' : "1", 'enter_key_shout' : "1", 'enable_quick_commands' : "1", 'display_refresh_button' : "1" };
+ipb.shoutbox.img_disable      = parseInt(0);
+ipb.shoutbox.member_name      = 'Guest';
+ipb.shoutbox.can_me_tag       = parseInt(1);
+
+ipb.shoutbox.langs['mod_loaded_confirm'] = "Operation loaded, please confirm";
+ipb.shoutbox.langs['my_prefs_loaded'] = "Preferences loaded";
+ipb.shoutbox.langs['sb_archive'] = "Shoutbox Archive";
+ipb.shoutbox.langs['sb_archive_loaded'] = "Shoutbox Archive Loaded";
+ipb.shoutbox.langs['filtered'] = "Filtered";
+ipb.shoutbox.langs['page'] = "Page";
+ipb.shoutbox.langs['of'] = "of";
+ipb.shoutbox.langs['filter_member_name_status'] = "Filter the shouts by member name. Separate each name with a comma (,)";
+ipb.shoutbox.langs['prefs_restored'] = "Your preferences have been restored to the default preferences";
+ipb.shoutbox.langs['prefs_saved'] = "Preferences Saved";
+ipb.shoutbox.langs['filtering'] = "Filtering...";
+ipb.shoutbox.langs['mod_shout_edited'] = "Shout edited";
+ipb.shoutbox.langs['processing'] = "Processing, please wait...";
+ipb.shoutbox.langs['processed'] = "Processed";
+ipb.shoutbox.langs['saving_prefs'] = "Saving preferences...";
+ipb.shoutbox.langs['mod_opts_start_status'] = "Waiting for an action to be chosen...";
+ipb.shoutbox.langs['mod_opts_start_content'] = "This panel allows you to perform various actions based on your permissions. <br />To get started please select an action from below.<br /><br />";
+ipb.shoutbox.langs['sure_delete_shout'] = "Are you sure you want to delete this shout?";
+ipb.shoutbox.errors['blank_shout'] = "Your shout is empty.";
+ipb.shoutbox.errors['shout_too_big'] = "Your shout is too big, please shorten it";
+ipb.shoutbox.errors['no_cmds_enabled'] = "You do not have quick commands enabled. Open up your Preferences and enable quick commands.";
+ipb.shoutbox.errors['prefs_login'] = "You must be a member to edit/save your preferences, please login";
+ipb.shoutbox.errors['no_archive_perm'] = "You do not have permission to view the Shoutbox Archive!";
+ipb.shoutbox.errors['invalid_command'] = "That command isn't recognized, please check its syntax.";
+ipb.shoutbox.errors['mod_no_perm'] = "You don't have moderating permission to perform this function!";
+ipb.shoutbox.errors['mod_no_perms'] = "You don't have any moderating permissions!";
+ipb.shoutbox.errors['member_name_too_short'] = "The member name entered is shorter than 3 characters, please enter at least 3 characters for the member name.";
+ipb.shoutbox.errors['member_names_too_short'] = "The member names entered are all shorter than 3 characters. Please enter at least 3 characters per member name.";
+ipb.shoutbox.errors['no_acp_access'] = "You don't have ACP access!";
+ipb.shoutbox.errors['flooding'] = "Shout flooding is enabled. Please wait {#EXTRA#} seconds before shouting again.";
+ipb.shoutbox.errors['prune_invalid_number'] = "You have to insert a number after '/prune ' for the function to work!";
+ipb.shoutbox.errors['mod_invalid_name'] = "Invalid member name provided.";
+ipb.shoutbox.errors['mod_no_action'] = "An uknown moderation action was specified, please try again";
+ipb.shoutbox.errors['loading_members_viewing'] = "There was an error loading the members viewing the shoutbox!";
+ipb.shoutbox.errors['already_submitting'] = "A shout is already being submitted, please wait until the loading is complete";
+ipb.shoutbox.errors['already_filtering'] = "A shout filter is already being applied, please wait until the loading is completed";
+ipb.shoutbox.errors['no_found_shout'] = "";
+ipb.shoutbox.errors['no_delete_shout'] = "";
+
+//]]>
+</script>
+
+<table cellspacing="0">
+    <tr><td class="nopad" width="15%" valign="top"><div class='category_block block_wrap'>
+    <h3 id='category_up36' class='maintitle'><a class='toggle right' href='#' title='Toggle %s'>Toggle %s</a> Sponsors</h3><!--<br /><center>
+<a href='http://clients.fragnet.net/link.php?id=5' target='_blank' onclick='clicklink(8);'><img src='http://www.upload.ee/image/1321814/fgn.jpg' alt='Fragnet.net' border='0' style='opacity:0.6;filter:alpha(opacity=60)' onmouseover='this.style.opacity=1;this.filters.alpha.opacity=100' onmouseout='this.style.opacity=0.6;this.filters.alpha.opacity=60'></a>
+</center><br />
+
+http://www.upload.ee/image/1539489/fgn2.png
+
+http://www.upload.ee/image/1539493/fgn3.png
+
+-->
+
+<br /><center>
+<a href='http://clients.fragnet.net/link.php?id=5' target='_blank'><img src='http://www.upload.ee/image/1539493/fgn3.png' alt='FragNet' border='0'></a>
+<br /><br />
+
+<script type="text/javascript"><!--
+google_ad_client = "ca-pub-7121682406223721";
+/* dbbox */
+google_ad_slot = "9575082035";
+google_ad_width = 200;
+google_ad_height = 200;
+//-->
+</script>
+<script type="text/javascript"
+src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>
+
+</center><br /></div><div class='category_block block_wrap'>
+    <h3 id='category_up19' class='maintitle'><a class='toggle right' href='#' title='Toggle %s'>Toggle %s</a> Menu</h3><style type="text/css">
+<!--
+.style1 {font-family: Verdana, Arial, Helvetica, sans-serif}
+-->
+</style>
+<table width="100%" height="0" cellpadding="0" cellspacing="0"><tr><td> </td></tr></table>
+    </div>
+</div>
+<br />
+
+
+
+<table class="ipb_table" width="100%" cellpadding="0" cellspacing="0"><tr><td class="row2" valign="middle"><img src="_icons/txt.png" width="16" height="16" /></td><td class="row3" valign="bottom" width="100%"><a href="index.php?act=idx">Forums</a></td></tr></table>
+    </div>
+</div>
+<br />
+
+
+
+<table class="ipb_table" width="100%" cellpadding="0" cellspacing="0">
+
+  <tr>
+    <td class="row2" valign="middle"><img src="_icons/exclamation.png" width="16" height="16" /></td><td class="row3" valign="bottom" width="100%"><a href="index.php?showforum=1">Rules</a></td></tr>
+</table>
+    </div>
+</div>
+<br />
+
+
+
+
+
+<table class="ipb_table" width="100%" cellpadding="0" cellspacing="0">
+
+
+  <!--<tr>
+    <td class="style1"><a href="index.php?act=uportal"><img src="/icon_menu_014.png" width="16" height="16" border="0" align="absmiddle" /></a> <a title="Portal" href="index.php?act=uportal">Portal</a></td>
+  </tr>
+
+
+  <tr>
+    <td class="style1" valign="middle"><img src="/icon_terms_of_use.png" width="16" align="absmiddle" height="16" /> <a title="Forum" href="index.php?act=idx">Forum</a></td>
+  </tr>-->
+
+
+
+  <tr>
+    <td class="row2" valign="middle"><img src="_icons/user_suit.png" width="16" height="16" /></td><td class="row3" valign="bottom" width="100%"><a href="index.php?app=forums&module=extras&section=stats&do=leaders">Staff</a></td>
+  </tr>
+</table>
+    </div>
+</div>
+<br />
+
+
+<table class="ipb_table" width="100%" cellpadding="0" cellspacing="0">
+
+
+  <!--<tr>
+    <td class="style1"><hr /></td>
+  </tr>-->
+
+  <tr>
+    <td class="row2" valign="middle"><img src="_icons/fairplay.png" width="16" height="16" /></td><td class="row3" valign="bottom" width="100%"><a href="http://www.fairplay.ac">Fairplay</a></td>
+</tr>
+</table>
+    </div>
+</div>
+<br />
+
+<table class="ipb_table" width="100%" cellpadding="0" cellspacing="0">
+
+<tr>
+<td class="row2" valign="middle"><img src="_icons/steam.png" width="16" height="16" /></td><td class="row3" valign="bottom" width="100%"><a href="http://www.steamcommunity.com/groups/demobase">Steam</a></td>
+</tr>
+</table>
+    </div>
+</div>
+<br />
+
+<table class="ipb_table" width="100%" cellpadding="0" cellspacing="0">
+
+<tr>
+<td class="row2" valign="middle"><img src="_icons/youtube.png" width="16" height="16" /></td><td class="row3" valign="bottom" width="100%"><a href="http://www.youtube.com/demobase">YouTube</a></td>
+</tr>
+</table>
+    </div>
+</div>
+<br />
+
+
+<!--
+<table class="ipb_table" width="100%" cellpadding="0" cellspacing="0">
+
+<tr>
+<td class="row2" valign="middle"><img src="_icons/ventrilo.png" width="16" height="16" /></td><td class="row3" valign="bottom" width="100%"><a href="ventrilo://vent.demobase.eu:43602/servername=NoobRoom">Ventrilo</a></td>
+</tr>
+</table>
+    </div>
+</div>
+<br />
+-->
+
+
+
+<table class="ipb_table" width="100%" cellpadding="0" cellspacing="0">
+<tr>
+<td class="row2" valign="middle"><img src="_icons/mumble.png" width="16" height="16" /></td><td class="row3" valign="bottom" width="100%"><a href="http://www.demobase.eu/index.php?app=uportal&code=12">Mumble</a></td>
+</tr>
+</table>
+    </div>
+</div>
+<br />
+
+<!--
+<table class="ipb_table" width="100%" cellpadding="0" cellspacing="0">
+<tr>
+<td class="row2" valign="middle"><img src="_icons/drive_burn.png" width="16" height="16" /></td><td class="row3" valign="bottom" width="100%"><a href="http://www.aqhosting.net">AQ Hosting</a></td>
+</tr>
+</table>
+    </div>
+</div>
+<br />
+-->
+
+
+
+
+<table width="100%" height="9" cellpadding="0" cellspacing="0"><tr><td> </td></tr></table>
+    </div>
+</div>
+<br />
+</div><div class='category_block block_wrap'>
+    <h3 id='category_up2' class='maintitle'><a class='toggle right' href='#' title='Toggle %s'>Toggle %s</a> Statistics</h3><div class="ipsBox table_wrap">
+    <div class="ipsBox_container">
+        <table class='ipb_table'><tr>
+                <td class='row2 altrow'><b>12 active user(s) (in the past 15 minutes)</b></td>
+            </tr>
+            <tr>
+                <td class='row2'>0 members, 12 guests, 0 anonymous users</td>
+            </tr>
+
+            <tr>
+                <td class='row2'>Bing</td>
+            </tr>
+
+            <tr>
+                <td class='row2'><b>Show by:</b> <a href='http://www.demobase.eu/index.php?app=members&amp;module=online&amp;sort_order=desc'>Last Click</a> or <a href='http://www.demobase.eu/index.php?app=members&amp;module=online&amp;sort_key=name&amp;sort_order=asc&amp;show_mem=reg'>Member Name</a></td>
+            </tr>
+
+            <tr>
+                <td class='row2 altrow'><b>Statistics</b></td>
+            </tr>
+            <tr>
+                <td class='row2'>Our members have made a total of <b>514,759</b> posts<br />We have <b>4,921</b> registered members<br />The newest member is <b><a href='http://www.demobase.eu/index.php/user/5711-claus/'>Claus</a></b><br/>Most users ever online was <b>340</b> on <b>28 Nov 2014</b></td>
+            </tr>
+</table>
+    </div>
+</div>
+<br /></div><div class='category_block block_wrap'>
+    <h3 id='category_up3' class='maintitle'><a class='toggle right' href='#' title='Toggle %s'>Toggle %s</a> New Members</h3><div class="ipsBox table_wrap">
+    <div class="ipsBox_container">
+        <table class='ipb_table'>
+<tr class='header'>
+<th width='35%'>Username</th>
+            <th width='65%'>Joined</th><tr>
+        <td class='row2'>
+            <a href='http://www.demobase.eu/index.php/user/5711-claus/'>Claus</a>
+        </td>
+        <td class='row2'><span class="lastaction">19 April 2018 - 12:11 AM</span></td>
+    </tr><tr>
+        <td class='row2'>
+            <a href='http://www.demobase.eu/index.php/user/5710-yngace/'>yngace</a>
+        </td>
+        <td class='row2'><span class="lastaction">15 April 2018 - 03:54 PM</span></td>
+    </tr><tr>
+        <td class='row2'>
+            <a href='http://www.demobase.eu/index.php/user/5709-nrk/'>nRk</a>
+        </td>
+        <td class='row2'><span class="lastaction">01 April 2018 - 01:12 AM</span></td>
+    </tr><tr>
+        <td class='row2'>
+            <a href='http://www.demobase.eu/index.php/user/5708-zzonk/'>zZoNK</a>
+        </td>
+        <td class='row2'><span class="lastaction">04 March 2018 - 07:27 AM</span></td>
+    </tr><tr>
+        <td class='row2'>
+            <a href='http://www.demobase.eu/index.php/user/5707-reaper/'>reaper</a>
+        </td>
+        <td class='row2'><span class="lastaction">28 January 2018 - 10:09 PM</span></td>
+    </tr></tr></table>
+    </div>
+</div>
+<br /></div></td><td class="nopad" width="1%" valign="top"><!-- no content --></td><td class="nopad" width="68%" valign="top"><div class='category_block block_wrap'>
+    <h3 id='category_upnews26420' class='maintitle'><a class='toggle right' href='#' title='Toggle %s'>Toggle %s</a> Happy new year everyone</h3><div class="ipsBox table_wrap">
+    <div class="ipsBox_container">
+        <table class='ipb_table'><tr>
+            <td class='row2'><b>Posted By:</b>
+
+&nbsp;<a href='http://www.demobase.eu/index.php/user/137-insane/'>insane</a>
+
+
+             @ 30 December 2013 - 12:03 PM</td>
+        </tr>
+        <tr>
+            <td class='row2'><div style='width: 100%; overflow: auto'><p>Hello everyone,</p>
+<p>&#160;</p>
+<p>&#160;</p>
+<p>Our beloved game and forum isn't so active anymore but it still pops in my mind every now and then so thought I'd drop by to wish everyone a very happy new year! It's good to see that there are still some clans playing clanwars every now and then and maybe max could give us a new years present by releasing RPM, hehe. <img src='http://www.demobase.eu/public/style_emoticons/default/smile.png' class='bbc_emoticon' alt=':)' /></p>
+<p>&#160;</p>
+<p>I think it's kinda unique that a demo game is still being played 12 years after the release date so I guess we could be proud on ourselves to keep it alive for over a decade now!</p>
+<p>&#160;</p>
+<p>Anyways we (the admins&amp;mods) wish you all the best for 2014, have a good party at new years eve and don't forget to watch with all the fireworks (this is for all the crazy dutchies out there)!</p>
+<p>&#160;</p>
+<p>&#160;</p>
+<p>Warm greetings,</p>
+<p>&#160;</p>
+<p>INSANE</p>
+</div>						<br/></td>
+        </tr>
+        <tr>
+            <td class='row2'>
+            <b>Comments:</b> 29 ::
+            <a href='http://www.demobase.eu/index.php/topic/26420-View+Comments/'>
+            View Comments
+        </a></td>
+        </tr></table>
+    </div>
+</div>
+<br /></div><div class='category_block block_wrap'>
+    <h3 id='category_upnews26364' class='maintitle'><a class='toggle right' href='#' title='Toggle %s'>Toggle %s</a> DM cup on maps</h3><div class="ipsBox table_wrap">
+    <div class="ipsBox_container">
+        <table class='ipb_table'><tr>
+            <td class='row2'><b>Posted By:</b>
+
+&nbsp;<a href='http://www.demobase.eu/index.php/user/137-insane/'>insane</a>
+
+
+             @ 07 October 2013 - 05:04 PM</td>
+        </tr>
+        <tr>
+            <td class='row2'><div style='width: 100%; overflow: auto'><p>Hello everyone,<br>
+&#160;</p>
+<p>&#160;</p>
+<p>I've decided to re-open my dm cup of last year to give our little game some extra activity.</p>
+<p>&#160;</p>
+<p>The rules will be the same as last year meaning that the first matches will be played on mp_hos1. I have no idea yet if it's going to be with a group phase like last year or a smaller structure that depends on the amount of players.</p>
+<p>&#160;</p>
+<p>I don't plan on playing in the cup since I barely played sof2 this year but if we are 1 player short to have a nice amount of players then I'll play of course.</p>
+<p>&#160;</p>
+<p><u><strong>Bottom line:</strong></u><strong>&#160; </strong>sof2 demo <strong>DM </strong>CUP on maps, 1st only, pickupsdisabled, fairplay is a must</p>
+<p>&#160;</p>
+<p>If any guys from full are up for a challenge then you guys are more than welcome <img src='http://www.demobase.eu/public/style_emoticons/default/smile.png' class='bbc_emoticon' alt=':)' /></p>
+<p>&#160;</p>
+<p>Sign ups can be done <u><strong><a href='http://www.demobase.eu/index.php/topic/26363-sign-ups/' class='bbc_url' title=''>HERE</a></strong></u><br>
+&#160;</p>
+<p>&#160;</p>
+<p>greetings</p>
+</div>						<br/></td>
+        </tr>
+        <tr>
+            <td class='row2'>
+            <b>Comments:</b> 22 ::
+            <a href='http://www.demobase.eu/index.php/topic/26364-View+Comments/'>
+            View Comments
+        </a></td>
+        </tr></table>
+    </div>
+</div>
+<br /></div><div class='category_block block_wrap'>
+    <h3 id='category_upnews26352' class='maintitle'><a class='toggle right' href='#' title='Toggle %s'>Toggle %s</a> IPB Update</h3><div class="ipsBox table_wrap">
+    <div class="ipsBox_container">
+        <table class='ipb_table'><tr>
+            <td class='row2'><b>Posted By:</b>
+
+&nbsp;<a href='http://www.demobase.eu/index.php/user/2-XILLAX/'>XILLAX</a>
+
+
+             @ 14 September 2013 - 04:25 PM</td>
+        </tr>
+        <tr>
+            <td class='row2'><div style='width: 100%; overflow: auto'><p>Hello Demobasers,</p>
+<p>&#160;</p>
+<p>As you probably know, Demobase got flagged as dangerous by Google. This was because we were running a super old version of IPB and there was some malicious code there which occasionally redirected people to a website (which wasn't dangerous, but COULD have been. Luckily the guy just wanted lots of hits for ad cash).</p>
+<p>&#160;</p>
+<p>I have removed that code, and we upgraded the version of our forum to the newest one. I have sent in a request for Google to review the website and hopefully it will come back clean again.</p>
+<p>&#160;</p>
+<p>Unfortunatly the old theme doesn't support the new version(which is basically why we never upgraded) and as such we have this new black/grey one instead - although the old theme is still there, it is buggy. If you want to see how the old theme looks on this new version, go to the bottom left and click on "Change Theme".</p>
+<p>&#160;</p>
+<p>For now we will stick with this theme called "Memory", but if anyone finds a better one just post it here and we'll look into it. Perhaps if a few good ones are posted we can carry out a poll to find the communities favourite theme.</p>
+<p>&#160;</p>
+<p>&#160;</p>
+<p>P.s. fuck forgy</p>
+</div>						<br/></td>
+        </tr>
+        <tr>
+            <td class='row2'>
+            <b>Comments:</b> 27 ::
+            <a href='http://www.demobase.eu/index.php/topic/26352-View+Comments/'>
+            View Comments
+        </a></td>
+        </tr></table>
+    </div>
+</div>
+<br /></div><div class='category_block block_wrap'>
+    <h3 id='category_upnews26142' class='maintitle'><a class='toggle right' href='#' title='Toggle %s'>Toggle %s</a> Joonas &#34;|she| Haapis&#34; Haapajärvi - a day that came too early...</h3><div class="ipsBox table_wrap">
+    <div class="ipsBox_container">
+        <table class='ipb_table'><tr>
+            <td class='row2'><b>Posted By:</b>
+
+&nbsp;<a href='http://www.demobase.eu/index.php/user/275-Zippa/'>Zippa</a>
+
+
+             @ 21 March 2013 - 06:10 PM</td>
+        </tr>
+        <tr>
+            <td class='row2'><div style='width: 100%; overflow: auto'>Dear Demobase users,<br />
+<br />
+I&#39;ll have to inform you about a really tragic incident.<br />
+<br />
+Joonas &quot;|she| Haapis&quot; Haapajärvi died on 1st March 2013 due to intracranial hemorrhage in the age of 22.<br />
+<br />
+We&#39;ve lost a honorable |she| member, a great old player, not to mention, my best friend.<br />
+<br />
+His funeral will be held on 22nd March in our hometown, and I hope we&#39;ll all give our respect for his shortly ended life and support for his family.<br />
+<br />
+<br />
+My humblest condolences,<br />
+Zippa</div>						<br/></td>
+        </tr>
+        <tr>
+            <td class='row2'>
+            <b>Comments:</b> 83 ::
+            <a href='http://www.demobase.eu/index.php/topic/26142-View+Comments/'>
+            View Comments
+        </a></td>
+        </tr></table>
+    </div>
+</div>
+<br /></div><div class='category_block block_wrap'>
+    <h3 id='category_upnews26032' class='maintitle'><a class='toggle right' href='#' title='Toggle %s'>Toggle %s</a> Demobase Awards Results 2012</h3><div class="ipsBox table_wrap">
+    <div class="ipsBox_container">
+        <table class='ipb_table'><tr>
+            <td class='row2'><b>Posted By:</b>
+
+&nbsp;<a href='http://www.demobase.eu/index.php/user/137-insane/'>insane</a>
+
+
+             @ 29 January 2013 - 10:32 AM</td>
+        </tr>
+        <tr>
+            <td class='row2'><div style='width: 100%; overflow: auto'><span rel='lightbox'><img class='bbc_img' src='http://he.com.pk/wp-content/uploads/2012/09/KPK-Board-of-Technical-Education-announces-DAE-Exam-Result-2012.jpg' alt='Posted Image'  /></span><br /><br /><ul class='bbc'><li><strong class='bbc'>Most Improved Player</strong>: Knucklezz</li><li><strong class='bbc'>Most Valuable Player</strong>: Ghostbuster</li><li><strong class='bbc'>Manager of the Year</strong>: Ghostbuster</li><li><strong class='bbc'>Sportsmanship Award</strong>: Luminaire</li><li><strong class='bbc'>Best action of the year</strong>: Nixon&#39;s knife </li><li><strong class='bbc'>Admin of the Year</strong>: Insane</li><li><strong class='bbc'>Person of the Year</strong>: Shifty</li><li><strong class='bbc'>Quote of the Year</strong>: &quot;every 1 using same tacnic brighet colours than more brigther than lighet and ligehr&quot; - Unkown Genious</li><li><strong class='bbc'>Spammer of the Year</strong>: Forgy</li><li><strong class='bbc'>Imparators Trophy</strong>: Forgy</li></ul>Thanks everyone for nominating and voting on your heroes, the voting was a bumpy ride this year but a fun ride afterall&#33; <img src='http://www.demobase.eu/public/style_emoticons/default/biggrin.png' class='bbc_emoticon' alt=':D' /><br /><br />A little side note:<br />I have decided not to run the voting for the sof2full awards because only 2 or 3 people actually nominated someone so it&#39;s obvious that this game has very little to none interest in these awards.<br /><br />Over &amp; Aap&#33;</div>						<br/></td>
+        </tr>
+        <tr>
+            <td class='row2'>
+            <b>Comments:</b> 57 ::
+            <a href='http://www.demobase.eu/index.php/topic/26032-View+Comments/'>
+            View Comments
+        </a></td>
+        </tr></table>
+    </div>
+</div>
+<br /></div></td><td class="nopad" width="1%" valign="top"><!-- no content --></td><td class="nopad" width="15%" valign="top"><div class='category_block block_wrap'>
+    <h3 id='category_up14' class='maintitle'><a class='toggle right' href='#' title='Toggle %s'>Toggle %s</a> Latest Posts</h3><div class="ipsBox table_wrap">
+    <div class="ipsBox_container">
+        <table class='ipb_table'><tr>
+            <td class='row2'><fieldset>
+    <a href='http://www.demobase.eu/index.php/topic/26780-unaccepted-module-found/?view=getnewpost'>unaccepted module found</a><br/>
+    <b>In:</b>
+    <a href='http://www.demobase.eu/index.php/forum/158-fairplay/'>Fairplay</a><br/>
+    <b>By: </b>
+
+<a href='http://www.demobase.eu/index.php/user/5410-stark420/'>Stark.420</a>
+
+</fieldset><br/><fieldset>
+    <a href='http://www.demobase.eu/index.php/topic/7340-cobra-recruiting/?view=getnewpost'>-COBRA- Recruiting</a><br/>
+    <b>In:</b>
+    <a href='http://www.demobase.eu/index.php/forum/91-recruitment/'>Recruitment</a><br/>
+    <b>By: </b>
+
+<a href='http://www.demobase.eu/index.php/user/2538-math/'>Math</a>
+
+</fieldset><br/><fieldset>
+    <a href='http://www.demobase.eu/index.php/topic/26797-cfgs/?view=getnewpost'>CFG&#39;s</a><br/>
+    <b>In:</b>
+    <a href='http://www.demobase.eu/index.php/forum/161-general-talk/'>General Talk</a><br/>
+    <b>By: </b>
+
+<a href='http://www.demobase.eu/index.php/user/3633-sjeikz/'>Sjeikz</a>
+
+</fieldset><br/><fieldset>
+    <a href='http://www.demobase.eu/index.php/topic/26420-happy-new-year-everyone/?view=getnewpost'>Happy new year everyone</a><br/>
+    <b>In:</b>
+    <a href='http://www.demobase.eu/index.php/forum/12-announcements/'>Announcements</a><br/>
+    <b>By: </b>
+
+<a href='http://www.demobase.eu/index.php/user/3065-true/'>TRUE</a>
+
+</fieldset><br/><fieldset>
+    <a href='http://www.demobase.eu/index.php/topic/26755-fairplay-problem/?view=getnewpost'>Fairplay problem</a><br/>
+    <b>In:</b>
+    <a href='http://www.demobase.eu/index.php/forum/158-fairplay/'>Fairplay</a><br/>
+    <b>By: </b>
+
+<a href='http://www.demobase.eu/index.php/user/85-butcher/'>Butcher</a>
+
+</fieldset><br/><fieldset>
+    <a href='http://www.demobase.eu/index.php/topic/26751-even-after-that-years-im-2-good-d/?view=getnewpost'>Even after that years im 2 good :D</a><br/>
+    <b>In:</b>
+    <a href='http://www.demobase.eu/index.php/forum/161-general-talk/'>General Talk</a><br/>
+    <b>By: </b>
+
+<a href='http://www.demobase.eu/index.php/user/338-foxdie/'>Foxdie</a>
+
+</fieldset><br/><fieldset>
+    <a href='http://www.demobase.eu/index.php/topic/26796-need-help-with-fp-error/?view=getnewpost'>NEED HELP WITH FP ERROR.</a><br/>
+    <b>In:</b>
+    <a href='http://www.demobase.eu/index.php/forum/161-general-talk/'>General Talk</a><br/>
+    <b>By: </b>
+
+<a href='http://www.demobase.eu/index.php/user/3930-acer/'>~ACER*</a>
+
+</fieldset><br/><fieldset>
+    <a href='http://www.demobase.eu/index.php/topic/26795-give-some-thug-music/?view=getnewpost'>give some thug music</a><br/>
+    <b>In:</b>
+    <a href='http://www.demobase.eu/index.php/forum/161-general-talk/'>General Talk</a><br/>
+    <b>By: </b>
+
+<a href='http://www.demobase.eu/index.php/user/4229-ive/'>Ive</a>
+
+</fieldset><br/><fieldset>
+    <a href='http://www.demobase.eu/index.php/topic/26786-sof2-wont-go-fullscreen/?view=getnewpost'>Sof2 wont go fullscreen</a><br/>
+    <b>In:</b>
+    <a href='http://www.demobase.eu/index.php/forum/161-general-talk/'>General Talk</a><br/>
+    <b>By: </b>
+
+<a href='http://www.demobase.eu/index.php/user/5410-stark420/'>Stark.420</a>
+
+</fieldset><br/><fieldset>
+    <a href='http://www.demobase.eu/index.php/topic/26793-hud-health-and-ammo/?view=getnewpost'>Hud - Health and Ammo</a><br/>
+    <b>In:</b>
+    <a href='http://www.demobase.eu/index.php/forum/161-general-talk/'>General Talk</a><br/>
+    <b>By: </b>
+
+<a href='http://www.demobase.eu/index.php/user/5410-stark420/'>Stark.420</a>
+
+</fieldset><br/><fieldset>
+    <a href='http://www.demobase.eu/index.php/topic/26792-guid-dc539-unlock-shift/?view=getnewpost'>guid: dc539 unlock shift</a><br/>
+    <b>In:</b>
+    <a href='http://www.demobase.eu/index.php/forum/161-general-talk/'>General Talk</a><br/>
+    <b>By: </b>
+
+<a href='http://www.demobase.eu/index.php/user/5595-miguel/'>miguel</a>
+
+</fieldset><br/><fieldset>
+    <a href='http://www.demobase.eu/index.php/topic/26794-hud-disable/?view=getnewpost'>Hud Disable</a><br/>
+    <b>In:</b>
+    <a href='http://www.demobase.eu/index.php/forum/36-helpdesk/'>Helpdesk</a><br/>
+    <b>By: </b>
+
+<a href='http://www.demobase.eu/index.php/user/5595-miguel/'>miguel</a>
+
+</fieldset><br/><fieldset>
+    <a href='http://www.demobase.eu/index.php/topic/26788-unlock-7a806-guid-please-after-reinatall-my-7eaaa-acount-is-gone/?view=getnewpost'>Unlock 7a806 guid please after reinatall my 7eaaa acount is gone</a><br/>
+    <b>In:</b>
+    <a href='http://www.demobase.eu/index.php/forum/158-fairplay/'>Fairplay</a><br/>
+    <b>By: </b>
+
+<a href='http://www.demobase.eu/index.php/user/3152-2eality/'>/2eality</a>
+
+</fieldset><br/><fieldset>
+    <a href='http://www.demobase.eu/index.php/topic/26787-fp-dont-work/?view=getnewpost'>fp dont work</a><br/>
+    <b>In:</b>
+    <a href='http://www.demobase.eu/index.php/forum/158-fairplay/'>Fairplay</a><br/>
+    <b>By: </b>
+
+<a href='http://www.demobase.eu/index.php/user/661-hellblazer/'>hellblazer</a>
+
+</fieldset><br/><fieldset>
+    <a href='http://www.demobase.eu/index.php/topic/20193-cfg/?view=getnewpost'>Cfg.</a><br/>
+    <b>In:</b>
+    <a href='http://www.demobase.eu/index.php/forum/161-general-talk/'>General Talk</a><br/>
+    <b>By: </b>
+
+<a href='http://www.demobase.eu/index.php/user/5699-upsman3000/'>upsman3000</a>
+
+</fieldset></td>
+        </tr></table>
+    </div>
+</div>
+<br /></div><div class='category_block block_wrap'>
+    <h3 id='category_up4' class='maintitle'><a class='toggle right' href='#' title='Toggle %s'>Toggle %s</a> Top Posters</h3><div class="ipsBox table_wrap">
+    <div class="ipsBox_container">
+        <table class='ipb_table'>
+<tr class='header'>
+<th width='75%'>Username</th>
+            <th width='25%'>Posts</th><tr>
+        <td class='row2'>
+            <a href='http://www.demobase.eu/index.php/user/723-doctorfunk/'>doctorfunk</a>
+        </td>
+        <td class='row2'>13018</td>
+    </tr><tr>
+        <td class='row2'>
+            <a href='http://www.demobase.eu/index.php/user/5467-forgylicious/'>forgylicious</a>
+        </td>
+        <td class='row2'>10104</td>
+    </tr><tr>
+        <td class='row2'>
+            <a href='http://www.demobase.eu/index.php/user/291-p4p3r/'>P4P3R</a>
+        </td>
+        <td class='row2'>9660</td>
+    </tr><tr>
+        <td class='row2'>
+            <a href='http://www.demobase.eu/index.php/user/85-butcher/'>Butcher</a>
+        </td>
+        <td class='row2'>8659</td>
+    </tr><tr>
+        <td class='row2'>
+            <a href='http://www.demobase.eu/index.php/user/81-asrael/'>asrael</a>
+        </td>
+        <td class='row2'>8546</td>
+    </tr><tr>
+        <td class='row2'>
+            <a href='http://www.demobase.eu/index.php/user/4385-bing-bang-blaow/'>bing bang blaow</a>
+        </td>
+        <td class='row2'>8113</td>
+    </tr></tr></table>
+    </div>
+</div>
+<br /></div><div class='category_block block_wrap'>
+    <h3 id='category_up15' class='maintitle'><a class='toggle right' href='#' title='Toggle %s'>Toggle %s</a> Top Forums</h3><div class="ipsBox table_wrap">
+    <div class="ipsBox_container">
+        <table class='ipb_table'>
+<tr class='header'>
+<th width='50%'>Forum</th>
+            <th width='25%'>Topics</th>
+            <th width='25%'>Replies</th><tr>
+        <td class='row2'><a href='http://www.demobase.eu/index.php/forum/91-recruitment/'>Recruitment</a></td>
+        <td class='row2'>1957</td>
+        <td class='row2'>60646</td>
+    </tr><tr>
+        <td class='row2'><a href='http://www.demobase.eu/index.php/forum/2-general-talk/'>General Talk</a></td>
+        <td class='row2'>1540</td>
+        <td class='row2'>45641</td>
+    </tr><tr>
+        <td class='row2'><a href='http://www.demobase.eu/index.php/forum/158-fairplay/'>Fairplay</a></td>
+        <td class='row2'>1418</td>
+        <td class='row2'>10580</td>
+    </tr><tr>
+        <td class='row2'><a href='http://www.demobase.eu/index.php/forum/36-helpdesk/'>Helpdesk</a></td>
+        <td class='row2'>1198</td>
+        <td class='row2'>10263</td>
+    </tr><tr>
+        <td class='row2'><a href='http://www.demobase.eu/index.php/forum/30-comedy-club/'>Comedy Club</a></td>
+        <td class='row2'>1150</td>
+        <td class='row2'>13556</td>
+    </tr></tr></table>
+    </div>
+</div>
+<br /></div></td></tr>
+</table><div align='center'>Powered by Unreal Portal v3.0.3 &copy; 2013 <a href='http://www.unreal-solutions.org' target='_blank'>Unreal Solutions</a></div>
+				
+				<ol class='breadcrumb bottom ipsList_inline left clearfix clear'>
+											
+						
+							<li> <a href='http://www.demobase.eu/index.php?app=uportal' title='Return to Portal'><span>Portal</span></a></li>
+							
+						
+
+                    
+                    <li class='right ipsType_smaller'>
+                        <a rel="nofollow" href='http://www.demobase.eu/index.php/privacypolicy/'>Privacy Policy</a>
+                    </li>
+					
+						
+				</ol>
+			</div>
+
+
+<div id='footer'>
+<div class='main_width'>
+
+			<!-- ::: FOOTER (Change skin, language, mark as read, etc) ::: -->
+			<div id='footer_utilities' class='main_width clearfix clear'>
+				<a rel="nofollow" href='#top' id='backtotop' title='Go to top'><img src='http://www.demobase.eu/public/style_images/memory/top.png' alt='' /></a>
+				<ul class='ipsList_inline left'>
+					<li>
+						<img src='http://www.demobase.eu/public/style_images/memory/feed.png' alt='RSS Feed' id='rss_feed' class='clickable' />
+					</li>
+                                                           <div id="board_info" class='left' style='margin-right: 20px;'>
+                                 <a href="http://finalprestige.net"><img src="http://www.demobase.eu/public/style_images/memory/cal_weekday.png" title='Skin by Final Prestige LLC' alt="" border="0" /></a>
+                                              </div>
+					
+							
+                                <li>
+                                    <a rel="nofollow" id='new_skin' href='#' title='Change Theme'>Change Theme</a>			
+								<ul id='new_skin_menucontent' class='ipbmenu_content with_checks' style='display: none'>
+									
+										<li >
+											<a href='#' data-clicklaunch='changeSkin' data-skinid='3'>Crystals</a>
+										</li>
+                                        
+
+										<li class='selected'>
+											<a href='#' data-clicklaunch='changeSkin' data-skinid='6'>Memory (Import)</a>
+										</li>
+                                        
+                                    </ul>
+                                </li>
+                            
+					
+					
+					<li>
+						<a href="http://www.demobase.eu/index.php?app=core&amp;module=help" title='View help' rel="help" accesskey='6'>Help</a>
+					</li>				
+				</ul>
+				<!-- Copyright Information -->
+        				  <p id='copyright'>
+        				  	<a href='http://www.invisionpower.com/apps/board/' title='Community Forum Software by Invision Power Services'>Community Forum Software by IP.Board</a><br />Licensed to: aMeX Worldwide</p>
+		<!-- / Copyright -->
+			</div><!-- Skin by FinalPrestige.net -->
+			<!-- Skin by FinalPrestige.net -->
+			<div><img src='http://www.demobase.eu/index.php?s=1eb70e29590e34af5def5bd469bca109&amp;app=core&amp;module=task' alt='' style='border: 0px;height:1px;width:1px;' /></div>
+			
+				<script type='text/javascript' src='http://www.demobase.eu/public/js/3rd_party/lightbox.js'></script>
+<script type='text/javascript'>
+//<![CDATA[
+	// Lightbox Configuration
+	LightboxOptions = Object.extend({
+	    fileLoadingImage:        'http://www.demobase.eu/public/style_images/memory/lightbox/loading.gif',     
+	    fileBottomNavCloseImage: 'http://www.demobase.eu/public/style_images/memory/lightbox/closelabel.gif',
+	    overlayOpacity: 0.8,   // controls transparency of shadow overlay
+	    animate: true,         // toggles resizing animations
+	    resizeSpeed: 10,        // controls the speed of the image resizing animations (1=slowest and 10=fastest)
+	    borderSize: 10,         //if you adjust the padding in the CSS, you will need to update this variable
+		// When grouping images this is used to write: Image # of #.
+		// Change it for non-english localization
+		labelImage: "Image",
+		labelOf: "of"
+	}, window.LightboxOptions || {});
+/* Watch for a lightbox image and set up our downloadbutton watcher */
+document.observe('click', (function(event){
+    var target = event.findElement('a[rel*="lightbox"]') || event.findElement('area[rel*="lightbox"]') || event.findElement('span[rel*="lightbox"]');
+    if (target) {
+        event.stop();
+        gbl_addDownloadButton();
+    }
+}).bind(this));
+var _to    = '';
+var _last  = '';
+function gbl_addDownloadButton()
+{
+	if ( typeof( ipsLightbox.lightboxImage ) != 'undefined' && ipsLightbox.lightboxImage.src )
+	{
+		if ( _last != ipsLightbox.lightboxImage.src )
+		{
+			if ( ! $('gbl_d') )
+			{
+				$('bottomNav').insert( { top: "<div id='gbl_d' style='text-align:right;padding-bottom:4px;'></div>" } );
+			}
+			
+			$('gbl_d').update( "<a href='"+ ipsLightbox.lightboxImage.src + "' target='_blank'><img src='http://www.demobase.eu/public/style_images/memory/lightbox/download-icon.png' /></a>" );
+			
+			_last = ipsLightbox.lightboxImage.src;
+		}
+	}
+	
+	/* Check for init and then keep checking for new image */
+	_to = setTimeout( "gbl_addDownloadButton()", 1000 );
+}
+//]]>
+</script>
+			
+			<div id='inline_login_form' style="display:none">
+		<form action="http://www.demobase.eu/index.php?app=core&amp;module=global&amp;section=login&amp;do=process" method="post" id='login'>
+				<input type='hidden' name='auth_key' value='880ea6a14ea49e853634fbdc5015a024' />
+				<input type="hidden" name="referer" value="http://www.demobase.eu/" />
+				<h3>Sign In</h3>
+				
+				<br />
+				<div class='ipsForm ipsForm_horizontal'>
+					<fieldset>
+						<ul>
+							<li class='ipsField'>
+								<div class='ipsField_content'>
+									Need an account? <a href="http://www.demobase.eu/index.php?app=core&amp;module=global&amp;section=register" title='Register now!'>Register now!</a>
+								</div>
+							</li>
+							<li class='ipsField ipsField_primary'>
+								<label for='ips_username' class='ipsField_title'>Username</label>
+								<div class='ipsField_content'>
+									<input id='ips_username' type='text' class='input_text' name='ips_username' size='30' tabindex='0' />
+								</div>
+							</li>
+							<li class='ipsField ipsField_primary'>
+								<label for='ips_password' class='ipsField_title'>Password:</label>
+								<div class='ipsField_content'>
+									<input id='ips_password' type='password' class='input_text' name='ips_password' size='30' tabindex='0' /><br />
+									<a href='http://www.demobase.eu/index.php?app=core&amp;module=global&amp;section=lostpass' title='Retrieve password'>I've forgotten my password</a>
+								</div>
+							</li>
+							<li class='ipsField ipsField_checkbox'>
+								<input type='checkbox' id='inline_remember' checked='checked' name='rememberMe' value='1' class='input_check' tabindex='0' />
+								<div class='ipsField_content'>
+									<label for='inline_remember'>
+										<strong>Remember me</strong><br />
+										<span class='desc lighter'>This is not recommended for shared computers</span>
+									</label>
+								</div>
+							</li>
+							
+								<li class='ipsField ipsField_checkbox'>
+									<input type='checkbox' id='inline_invisible' name='anonymous' value='1' class='input_check' tabindex='0' />
+									<div class='ipsField_content'>
+										<label for='inline_invisible'>
+											<strong>Sign in anonymously</strong><br />
+											<span class='desc lighter'>Don't add me to the active users list</span>
+										</label>
+									</div>
+								</li>
+							
+							
+							<li class='ipsPad_top ipsForm_center desc ipsType_smaller'>
+								<a rel="nofollow" href='http://www.demobase.eu/index.php/privacypolicy/'>Privacy Policy</a>
+							</li>
+							
+						</ul>
+					</fieldset>
+					
+					<div class='ipsForm_submit ipsForm_center'>
+						<input type='submit' class='ipsButton' value='Sign In' tabindex='0' />
+					</div>
+				</div>
+			</form>
+	</div>
+
+</div>
+</div>
+		</div>
+		
+		
+<script type='text/javascript'>
+            if( $('primary_nav') ){    ipb.global.activateMainMenu(); }
+        </script>
+        
+	</body>
+</html>
+

@@ -1,0 +1,107 @@
+WARC/1.0
+WARC-Type: warcinfo
+WARC-Date: 2018-05-30T18:18:32Z
+WARC-Record-ID: <urn:uuid:1cd4ded0-5629-466a-a315-6c4db7ad41fe>
+WARC-All-Language: en
+WARC-All-Content_type: text/html
+Content-Type: application/http;msgtype=response
+Content-Length: 46
+
+WARCProcessor by SING Group www.sing-group.com
+
+WARC/1.0
+WARC-Type: response
+WARC-Record-ID: <http://www.alanwattsentientsentinel.eu>
+WARC-Date: 20180530181832
+WARC-Target-URI: http://www.alanwattsentientsentinel.eu
+WARC-Language: en
+Content-Type: application/http;msgtype=response
+Content-Length: 10113
+
+HTTP/1.1 200
+Content-Type:text/html
+
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<html>
+<head>
+<title>Alan Watt Sentient Sentinel</title>
+<link rel="stylesheet" type="text/css" href="styles/sentinel.css">
+
+<script type="text/javascript" src="scripts/swfobject.js"></script>
+<style type="text/css">
+<!-- 
+body {background:#88A699 url(baseImages/plaid.gif) repeat;}
+-->
+</style>
+</head>
+<body bgcolor="#88A699" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0">
+
+<!-- HEADER -->
+<center>
+<table width="801" cellpadding="0" cellspacing="0" border="0"><tr><td  bgcolor="#6C0211"><img src="baseImages/gum.gif" width="2" height="1" border="0"></td><td>
+<table width="799" bgcolor="#88A699" cellpadding="0" cellspacing="0" border="0"><tr>
+<td colspan="3"><img src="baseImages/homeTop1.jpg" width="800" height="94" border="0" alt="Alan Watt Sentient Sentinel"><br>
+<img src="baseImages/homeTop2.jpg" width="800" height="85" border="0" alt="Alan Watt Sentient Sentinel"></td>
+</tr><tr>
+<td colspan="3" bgcolor="#042444"><img src="baseImages/gum.gif" width="1" height="5" border="0"></td>
+</tr><tr>
+<td colspan="3" background="baseImages/headerBorder.gif"><img src="baseImages/gum.gif" width="1" height="8" border="0"></td>
+</tr><tr bgcolor="#3C043C">
+<td width="113"><div id="flashDonate1" style="position:relative;">  <script type="text/javascript">
+   var so = new SWFObject("movies/movieDonate.swf", "donate", "113", "25", "5", "#88A699");
+   so.addParam("wmode", "transparent");
+   so.write("flashDonate1");</script></div></td>   
+<td><img src="baseImages/help.gif" width="561" height="25" border="0" alt="DONATE NOW"></td> 
+<td width="127"><div id="flashDonate2" style="position:relative;">  <script type="text/javascript">
+   var so = new SWFObject("movies/movieDonate.swf", "donate", "113", "25", "5", "#88A699");
+   so.addParam("wmode", "transparent");
+   so.write("flashDonate2");</script></div></td>                            
+</tr><tr>
+<td colspan="3" bgcolor="#000000"><img src="baseImages/gum.gif" width="1" height="2" border="0"></td>
+</tr></table>
+
+<!-- LANGUAGE LINKS -->
+<table width="800" bgcolor="#88A699" cellpadding="0" cellspacing="0" border="0"><tr>
+<td colspan="3" class="translatorLinks"><a href="http://www.alanwattsentientsentinel.eu/dutch/indexDutch.html" title="Dutch Translation"><img src="http://www.alanwattsentientsentinel.eu/translatorMenu/dutchOff.gif" width="101" height="33" border="0" alt="Dutch Translation" title="Dutch Translation"></a><a href="http://www.alanwattsentientsentinel.eu/german/indexGerman.html" title="German Translation"><img src="http://www.alanwattsentientsentinel.eu/translatorMenu/germanOff.gif" width="125" height="33" border="0" alt="German Translation" title="German Translation"></a><a href="http://www.alanwattsentientsentinel.eu/hungarian/indexHungarian.html" title="Hungarian Translation"><img src="http://www.alanwattsentientsentinel.eu/translatorMenu/hungarianOff.gif" width="134" height="33" border="0" alt="Hungarian Translation" title="Hungarian Translation"></a><a href="http://www.alanwattsentientsentinel.eu/spanish/indexSpanish.html" title="Spanish Translation"><img src="http://www.alanwattsentientsentinel.eu/translatorMenu/spanishOff.gif" width="113" height="33" border="0" alt="Spanish Translation" title="Spanish Translation"></a><a href="http://www.alanwattsentientsentinel.eu/french/indexFrench.html" title="French Translation"><img src="http://www.alanwattsentientsentinel.eu/translatorMenu/frenchOff.gif" width="117" height="33" border="0" alt="French Translation" title="French Translation"></a><a href="http://www.alanwattsentientsentinel.eu/polish/indexPolish.html" title="Polish Translation"><img src="http://www.alanwattsentientsentinel.eu/translatorMenu/polishOff.gif" width="111" height="33" border="0" alt="Polish Translation" title="Polish Translation"></a><a href="http://www.alanwattsentientsentinel.eu/english/indexEnglish.html" title="English Translation"><img src="http://www.alanwattsentientsentinel.eu/translatorMenu/englishOff.gif" width="99" height="33" border="0" alt="English Translation" title="English Translation"></a></td>
+</tr><tr>
+<td colspan="3" bgcolor="#000000"><img src="http://www.alanwattsentientsentinel.eu/baseImages/gum.gif" width="1" height="1" border="0"></td>
+</tr><tr>
+<td colspan="3" class="translatorLinks" bgcolor="#858963" ><a href="http://www.alanwattsentientsentinel.eu/scandanavian/indexScandanavian.html" title="Scandanavian Translation"><img src="http://www.alanwattsentientsentinel.eu/translatorMenu/scandanavianOff.gif" width="157" height="33" border="0" alt="Scandanavian Translation" title="Scandanavian Translation"></a><a href="http://www.alanwattsentientsentinel.eu/portuguese/indexPortuguese.html" title="Portuguese Translation"><img src="http://www.alanwattsentientsentinel.eu/translatorMenu/portugueseOff.gif" width="141" height="33" border="0" alt="Portuguese Translation" title="Portuguese Translation"></a><a href="http://www.alanwattsentientsentinel.eu/finnish/indexFinnish.html" title="Finnish Translation"><img src="http://www.alanwattsentientsentinel.eu/translatorMenu/finnishOff.gif" width="110" height="33" border="0" alt="Finnish Translation" title="Finnish Translation"></a><a href="http://www.alanwattsentientsentinel.eu/romanian/indexRomanian.html" title="Romanian Translation"><img src="http://www.alanwattsentientsentinel.eu/translatorMenu/romanianOff.gif" width="101" height="33" border="0" alt="Romanian Translation" title="Romanian Translation"></a><a href="http://www.alanwattsentientsentinel.eu/serbian/indexSerbian.html" title="Serbian Translation"><img src="http://www.alanwattsentientsentinel.eu/translatorMenu/serbianOff.gif" width="101" height="33" border="0" alt="Serbian Translation" title="Serbian Translation"></a><a href="http://www.alanwattsentientsentinel.eu/bulgarian/indexBulgarian.html" title="Bulgarian Translation"><img src="http://www.alanwattsentientsentinel.eu/translatorMenu/bulgarianOff.gif" width="101" height="33" border="0" alt="Bulgarian Translation" title="Bulgarian Translation"></a><a href="http://www.alanwattsentientsentinel.eu/danish/indexDanish.html" title="Danish Translation"><img src="http://www.alanwattsentientsentinel.eu/translatorMenu/danishOff.gif" width="88" height="33" border="0" alt="Danish Translation" title="Danish Translation"></a></td>
+</tr><tr>
+<td colspan="3" bgcolor="#000000"><img src="http://www.alanwattsentientsentinel.eu/baseImages/gum.gif" width="1" height="1" border="0"></td>
+</tr><tr>
+<td colspan="3" class="translatorLinks" bgcolor="#858963" ><a href="http://www.alanwattsentientsentinel.eu/russian/indexRussian.html" title="Russian Translation"><img src="http://www.alanwattsentientsentinel.eu/translatorMenu/russianOff.gif" width="101" height="33" border="0" alt="Russian Translation" title="Russian Translation"></a><a href="http://www.alanwattsentientsentinel.eu/estonian/indexEstonian.html" title="Estonian Translation"><img src="http://www.alanwattsentientsentinel.eu/translatorMenu/estonianOff.gif" width="101" height="33" border="0" alt="Estonian Translation" title="Estonian Translation"></a><a href="http://www.alanwattsentientsentinel.eu/swahili/indexSwahili.html" title="Swahili Translation"><img src="http://www.alanwattsentientsentinel.eu/translatorMenu/swahiliOff.gif" width="101" height="33" border="0" alt="Swahili Translation" title="Swahili Translation"></a><a href="http://www.alanwattsentientsentinel.eu/slovenian/indexSlovenian.html" title="Slovenian Translation"><img src="http://www.alanwattsentientsentinel.eu/translatorMenu/slovenianOff.gif" width="110" height="33" border="0" alt="Slovenian Translation" title="Slovenian Translation"></a></td>
+</tr><tr>
+<td colspan="3" background="baseImages/headerBorder.gif"><img src="baseImages/gum.gif" width="1" height="8" border="0"></td>
+</tr><tr>
+<td width="140" valign="top">&nbsp;</td>
+<td width="480" valign="top" class="title">&nbsp;</td>
+<td width="180" align="right" valign="top"><div id="flashTranslators" style="position:relative;">  <script type="text/javascript">
+   var so = new SWFObject("movies/movieTranslators.swf", "translators", "180", "26", "5", "#88A699");
+   so.addParam("wmode", "transparent");
+   so.write("flashTranslators");</script></div></td>
+</tr></table>
+
+<!-- BODY -->
+<table width="800" bgcolor="#88A699" cellspacing="0" cellpadding="0" border="0"><tr>
+<td width="140">&nbsp;</td>
+<td width="480" class="main"><br>Hello, I am Alan Watt and I welcome you to Sentient Sentinel, the international multi-lingual site of Cutting Through the Matrix.com.<br><br>
+I hope, shortly, to make available transcripts of my "blurbs" (educational talks)  in the various languages of Europe.  These can be downloaded  free for print-out and sharing with friends.  I wish to show the techniques of culture-creation, manipulation and how the sciences of human understanding have been in use for a very long time, guiding each generation along a pre-determined path laid out by a global elite and produced into existence by their institutions of well-paid experts.<br><br>
+Conspiracy theories are unnecessary.   There are many published works  by powerful world-stage players.  Not only do they plan your future, they have the wealth of the planet to bring it about. <br><br>
+So until this site has more of its planned uniqueness, please partake of the present following offerings from my regular  site, <a href="http://www.cuttingthroughthematrix.com">"Cutting Through the Matrix.com."</a><br><br>
+All the best,  Alan.......<br>
+<hr color="#6E5509"><br></td>
+<td width="180">&nbsp;</td>
+</tr><tr>
+<td colspan="3" align="center" class="footer"><table bgcolor="#88A699" width="799" cellspacing="0" cellpadding="0" border="0"><tr>
+<td align="center" class="footer">&copy; 2018 Alan Watt</td>
+</tr><tr>
+<td background="baseImages/headerBorder.gif"><img src="baseImages/gum.gif" width="1" height="8" border="0"></td></tr></table></td>
+</tr></table></td>
+<td  bgcolor="#6C0211"><img src="baseImages/gum.gif" width="2" height="1" border="0"></td></tr></table>
+</center>
+</body></html>
+
+
+

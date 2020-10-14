@@ -1,0 +1,83 @@
+WARC/1.0
+WARC-Type: warcinfo
+WARC-Date: 2018-05-30T17:52:31Z
+WARC-Record-ID: <urn:uuid:db70eaa9-5173-4d29-a8e2-b2b77608c018>
+WARC-All-Language: en
+WARC-All-Content_type: text/html; charset=UTF-8, text/html
+Content-Type: application/http;msgtype=response
+Content-Length: 46
+
+WARCProcessor by SING Group www.sing-group.com
+
+WARC/1.0
+WARC-Type: response
+WARC-Record-ID: <http://www.onedaycruise.eu>
+WARC-Date: 20180530175231
+WARC-Target-URI: http://www.onedaycruise.eu
+WARC-Language: en
+Content-Type: application/http;msgtype=response
+Content-Length: 3903
+
+HTTP/1.1 200
+Content-Type:text/html; charset=UTF-8
+
+
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="Are you looking for 1-Day Cruise to 3 islands? You are here!">
+    <meta name="keywords" content="1daycruise, Poros, Aegina, Hydra, Πόρος, Αίγινα, Ύδρα, Πορος, Αιγινα, Υδρα, Μονοήμερη κρουαζιέρα, 1-Day Cruise to 3 islands, 1-Day Cruise to Poros, 1-Day Cruise to Aegina, 1-Day Cruise to Hydra, Ferry tickets, Greek islands">
+    <meta name="author" content="dimos" >
+
+    <title>onedaycruise.eu | Travel Agency, Tours and 1 day cruise in Athens, Greece</title>
+
+    <!-- Bootstrap -->
+    <link href="./css/bootstrap.min.css" rel="stylesheet">
+    <link href="./css/style.css" rel="stylesheet">
+    <link href="./css/font-awesome.min.css" rel="stylesheet">
+
+    <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+    <!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+      <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+    <![endif]-->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-6108249-3"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'UA-6108249-3');
+</script>
+<!-- Begin Cookie Consent plugin by Silktide - http://silktide.com/cookieconsent -->
+<script type="text/javascript">
+    window.cookieconsent_options = {"message":"This website uses cookies to ensure you get the best experience on our website.","dismiss":"Got it!","learnMore":"","link":null,"theme":"dark-bottom"};
+</script>
+
+<script type="text/javascript" src="//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/1.0.9/cookieconsent.min.js"></script>
+<!-- End Cookie Consent plugin -->
+
+  </head>
+  <body class="overlay">
+    <div class="container-fluid bg">
+      <div class="wrapper fa">
+          <div class="lnk fa "> <a href="https://www.1daycruise.gr">Are you looking for 1-Day Cruise to 3 islands? <i class="fa fa-arrow-right"></i></a></div>
+          <div class="lnk fa"> <a href="https://www.1daycruise.gr/tours/athens-one-day-cruise-destinations/">Visit to Aegina or Poros or Hydra? <i class="fa fa-arrow-right"></i></a></div>
+          <div class="lnk fa"> <a href="https://www.1daycruise.gr/shop/islands-we-visit/1-daycruise-from-athens-to-3-islands-aegina-poros-hydra/">Daily cruises from Athens to Hydra, Poros, Aegina! <i class="fa fa-arrow-right"></i></a></div>
+          <div class="lnk fa"> <a href="https://www.1daycruise.gr/monoimeri-kroyaziera/">Μονοήμερη κρουαζιέρα στα 3 νησιά του Αργοσαρωνικού Ύδρα, Πόρο, Αίγινα! <i class="fa fa-arrow-right"></i></a></div>
+          <div class="lnk fa"> <a href="https://www.hopin.com/we-are-here/">Ferry tickets to Greek islands? <i class="fa fa-arrow-right"></i></a></div>
+           <div class="lnk mail fa"><hr class="line"> <i class="fa fa-dot-circle-o"></i> <hr class="line"><br class="space"/>Still didn't find what are you looking for?<br class="space"/>Call now (+30) 210 4285500 or <a href="mailto:adm@1daycruise.gr">adm@1daycruise.gr<a/></div>
+       </div>
+    </div>
+
+    <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+    <!-- Include all compiled plugins (below), or include individual files as needed -->
+    <script src="js/bootstrap.min.js"></script>
+  </body>
+</html>
+
+

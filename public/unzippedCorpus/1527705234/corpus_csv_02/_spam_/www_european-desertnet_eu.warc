@@ -1,0 +1,178 @@
+WARC/1.0
+WARC-Type: warcinfo
+WARC-Date: 2018-05-30T17:52:30Z
+WARC-All-Language: fr
+WARC-All-Content_type: text/html
+WARC-Record-ID: <urn:uuid:63ba7f1e-6fa5-43cf-a5c5-6a4fee1d4363>
+Content-Type: application/http;msgtype=response
+Content-Length: 46
+
+WARCProcessor by SING Group www.sing-group.com
+
+WARC/1.0
+WARC-Type: response
+WARC-Target-URI: http://www.european-desertnet.eu
+WARC-Date: 20180530175230
+WARC-Language: fr
+WARC-Record-ID: <http://www.european-desertnet.eu>
+Content-Type: application/http;msgtype=response
+Content-Length: 5143
+
+HTTP/1.1 200
+Content-Type:text/html
+
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head>
+<meta http-equiv="Content-Type"
+content="text/html; charset=iso-8859-1">
+<meta http-equiv="refresh" content="10; URL=http://www.desertnet-international.org/index.php">
+<meta name="robots" content="INDEX,FOLLOW">
+<meta name="description" content="DesertNet International" >
+<meta name="keywords" content="Desertification,DesertNet International, European DesertNet, scientific network, interdisciplinary, participatory, assessment, risk, evaluation, mitigation, restoration, prevention, sustainable development, adaptation, social development, economic development, think tank, UNCCD, CST, EU, UNESCO, FAO, dryland ecology, economic costs, cutting edge science, economic drivers, socio-economic consequences, climate change, biodiversity, migration, governance">
+<meta name="Author" content="Thomas Hillmann">
+<meta name="Content-language" content="EN ">
+
+
+
+
+<title>DesertNet International (DNI) has a new server</title>
+
+<script>
+<!--
+function BlurLinks(){
+lnks=document.getElementsByTagName('a');
+for(i=0;i<lnks.length;i++){
+lnks[i].onfocus=new Function("if(this.blur)this.blur()");
+}
+}
+
+onload=BlurLinks;
+
+-->
+</script>
+
+
+<link rel="stylesheet" href="http://www.european-desertnet.eu/format.css" type="text/css">
+
+
+<style type="text/css">
+
+body
+{
+margin-top: 20px; margin-left:20px; margin-right: 20px;margin-bottom: 20px; 
+background-color:#4D4D4D;
+}
+   
+#border_globaltable {border:1px solid #E0E0E0;background-color: #ffffff;}
+
+
+#table_move
+{
+ border: 1px dotted #000000;
+ background-color: #F2F2F2;
+ padding: 5px; 
+ width: 810px;
+}
+
+
+#ina {
+border-left:solid 1px #000000;
+border-top:solid 1px #000000;
+border-right:1px dotted #C2C2C2;  /* Abgrenzung leftnavig und Inhalt rechts */
+border-bottom:solid 1px #000000;
+background-color:#FFFFFF;
+}
+
+
+
+#inb {
+padding-top: 7px; padding-left: 15px;padding-right:15px;padding-bottom: 40px;
+border-top:solid 1px #000000;
+border-right:solid 1px #000000;
+border-bottom:solid 1px #000000;
+background-color:#ffffff;
+}
+
+#navline_2 {
+border: 0;
+/*border-top:dotted 1px #000000;*/
+padding: 0px;
+margin: 0px;
+width:250px;
+}
+
+
+
+#publfont
+{font: normal 11px/14px verdana, sans-serif; color: #000000;}
+
+
+</style>
+
+
+
+</head>
+<body>
+
+
+<table align="center" width="100%" id="border_globaltable" cellspacing="0" cellpadding="0" border="0"  >
+<tr>
+<td   >
+<!--ende aussentab-->
+
+<table height="800" bgcolor="white"  width="100%"  border="0" cellpadding="0" cellspacing="0">
+<tr>
+<td id="ina" valign="top">
+<div class="text_left" style="margin-top:30px;" >
+<img src="http://www.european-desertnet.eu/images3/dni_logo_links.jpg"  width="202" border="0" title="DNI Logo"  alt="DNI Logo"></div>
+<div id="navline_2">
+</div>
+</td>
+<td id="inb" width="100%"  height="500" valign="top"><div style="margin-top:15px;" >
+<font size="+1" color="#006633"><b>DesertNet International (DNI) has a new server</b>
+</font><br /><br />
+<table id="table_move" border="0" >
+<tr>
+<td colspan="2" valign="top">
+<br />
+<img id="imageborderlinie_grey" src="http://www.european-desertnet.eu/images3/from_edn.jpg" border="0" title="From EDN"  alt="From EDN"><br />
+</td>
+</tr>
+<tr height="140" valign="middle"  >
+<td width="100" align="center">
+<img src="http://www.european-desertnet.eu/images3/pfeil_unten.gif" width="70" border="0" ></td>
+<td id="publfont" valign="top" align="left">
+<br />
+<b>Dear visitor of the DesertNet International (DNI) website,</b>
+<br /><br />
+<font color="#cc0000"><b>The DesertNet International (DNI) website has been moved to a new server!<br />
+You have reached the DNI website on the (old) server of European DesertNet.</b></font><br /><br />
+<b>The web address now starts with:&nbsp;</b></font><a href="http://www.desertnet-international.org/index.php" target="_self">http://www.desertnet-international.org/index.php</a>.<br /><br />
+That means that all links starting with <b>http://www.european-desertnet.eu will soon become invalid.</b><br />
+Please delete all these bookmarks and replace them accordingly with http://www.desertnet-international.org<br /><br />
+<font color="#cc0000"><b>It's also recommended to clear the cache of your internet browser.</b></font><br /><br />
+There is nothing else to do.<br /><br />
+Sorry for any inconveniences and thank you for visiting the <b>DesertNet International (DNI) website</b>!<br /><br />
+Your DNI webteam<br /><br />
+<font color="#cc0000"><b>(Please click on the image below to be redirected to the DNI website on the new server.)</b></font></td>
+</tr>
+<tr>
+<td colspan="2" valign="top">
+<br />
+<a href="http://www.desertnet-international.org/index.php" target="_self"><img id="imageborderlinie_grey" src="http://www.european-desertnet.eu/images3/to_dni.jpg" border="0" title="DesertNet International (DNI) on the new server"  alt="DesertNet International (DNI) on the new server"></a><br /><br />
+</td>
+</tr>
+</table>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+
+

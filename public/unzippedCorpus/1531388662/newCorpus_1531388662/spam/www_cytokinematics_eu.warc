@@ -1,0 +1,197 @@
+WARC/1.0
+WARC-Type: warcinfo
+WARC-Date: 2018-05-30T17:52:31Z
+WARC-Record-ID: <urn:uuid:366a870b-0a39-48b4-bfc7-1adcdcee5658>
+WARC-All-Language: en
+WARC-All-Content_type: text/html
+Content-Type: application/http;msgtype=response
+Content-Length: 46
+
+WARCProcessor by SING Group www.sing-group.com
+
+WARC/1.0
+WARC-Type: response
+WARC-Record-ID: <http://www.cytokinematics.eu>
+WARC-Date: 20180530175231
+WARC-Target-URI: http://www.cytokinematics.eu
+WARC-Language: en
+Content-Type: application/http;msgtype=response
+Content-Length: 6384
+
+HTTP/1.1 200
+Content-Type:text/html
+
+
+<html>
+<head>
+<title>CYTOKINEMATICS 2009 (www.cytokinematics.eu)</title>
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1250">
+<meta name="author" content="Marek Uhrin, MD (www.uhrin.cz)">
+<meta name="keywords" content="CYTOKINEMATICS, congress, hradec králové, faculty of medicine, medicine, charles university, biology, live cells, microscopy, symposium">
+<link rel="stylesheet" type="text/css" href="index.css">
+</head>
+<body bgcolor="f5f5f5" text="0000c0" link="ffffff" vlink="ffffff" alink="ff0000">
+
+<center>
+<table border="0" cellspacing="0" cellpadding="0" width="817">
+<tr valign="top" bgcolor="#93b0f6">
+<td width="35" rowspan="3" class="levySvetly">&nbsp;</td>
+<td width="220" height="41"><br>&nbsp;</td>
+<td width="377" rowspan="3" id="hlavniObrazek"><object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://active.macromedia.com/flash2/cabs/swflash.cab#version=5,0,0,0" width="377" height="211" border="0">
+<param name="movie" value="images/cytokinematics.swf">
+<param name="quality" value="high">
+<param name="menu" value="false">
+<param name="type" value="application/x-shockwave-flash">
+<embed width="377" height="211" vspace="0" hspace="0" src="images/cytokinematics.swf" quality="high" SwLiveConnect=true type="application/x-shockwave-flash" pluginspage="http://www.macromedia.com/shockwave/download/index.cgi?P1_Prod_Version=ShockwaveFlash"></embed>
+</object></td>
+<td align="right" width="180"><div id="datum">May 30th 2018</div></td>
+</tr>
+<tr valign="middle" bgcolor="#205088">
+<td width="220"><img src="images/logo.jpg" width="220" height="129" border="0" alt="Cytokinematics"><br></td>
+<td width="180"><div id="popisObrazku"><center><b>CYTOKINEMATICS 2009</b><br> is organized by<br> the Department of Medical Biology and Genetics<br>Charles University in Prague<br>Faculty of Medicine in Hradec Králové
+</center></div></td>
+</tr>
+<tr valign="bottom" bgcolor="#93b0f6">
+<td width="220" height="41"><br>&nbsp;</td>
+<td width="180" id="reference"><!---a href="register.php"><img src="images/register.gif" width="115" height="32" border="0" vspace="4" alt="Register here!"></a---></td>
+</tr>
+<tr valign="top" bgcolor="#93b0f6" id="oddelit" height="194">
+<td width="35" rowspan="2" class="levySvetly"><div class="levyTmavy">&nbsp;</div></td>
+<td width="220" id="leveMenu">
+<table border="0" cellspacing="0" cellpadding="0" width="220">
+<tr>
+<td width="185">
+<a href="index.php">Main page</a><br>
+</td>
+<td width="35"><img src="images/sipka.gif" width="35" height="31" border="0" alt=""></td>
+</tr>
+<tr>
+<td width="185">
+<a href="about.php">About</a><br>
+</td>
+<td width="35"><img src="images/sipka.gif" width="35" height="31" border="0" alt=""></td>
+</tr>
+<tr>
+<td width="185">
+<a href="committee.php">International scientific<br><span class="nonU">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>committee</a><br>
+</td>
+<td width="35"><img src="images/sipka.gif" width="35" height="31" border="0" alt=""></td>
+</tr>
+<!---tr>
+<td width="185">
+<a href="registration.php">Registration</a><br>
+</td>
+<td width="35"><img src="images/sipka.gif" width="35" height="31" border="0" alt=""></td>
+</tr--->
+<tr>
+<td width="185">
+<a href="programme.php">Programme</a><br>
+</td>
+<td width="35"><img src="images/sipka.gif" width="35" height="31" border="0" alt=""></td>
+</tr>
+<tr>
+<td width="185">
+<a href="abstracts.php">Abstracts</a><br>
+</td>
+<td width="35"><img src="images/sipka.gif" width="35" height="31" border="0" alt=""></td>
+</tr>
+<tr>
+<tr>
+<td width="185">
+<a href="photos.php">Photogallery</a><br>
+</td>
+<td width="35"><img src="images/sipka.gif" width="35" height="31" border="0" alt=""></td>
+</tr>
+<tr>
+<td width="185">
+<a href="participants.php">Preregistered<br><span class="nonU">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>Participants</a><br>
+</td>
+<td width="35"><img src="images/sipka.gif" width="35" height="31" border="0" alt=""></td>
+</tr>
+<tr>
+<td width="185">
+<a href="meeting.php">Place and time of the<br><span class="nonU">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>meeting</a><br>
+</td>
+<td width="35"><img src="images/sipka.gif" width="35" height="31" border="0" alt=""></td>
+</tr>
+<tr>
+<td width="185">
+<a href="accomodation.php">Accomodation</a><br>
+</td>
+<td width="35"><img src="images/sipka.gif" width="35" height="31" border="0" alt=""></td>
+</tr>
+<tr>
+<td width="185">
+<a href="venue.php">Venue</a><br>
+</td>
+<td width="35"><img src="images/sipka.gif" width="35" height="31" border="0" alt=""></td>
+</tr>
+<tr>
+<td width="185">
+<a href="transportation.php">Transportation</a><br>
+</td>
+<td width="35"><img src="images/sipka.gif" width="35" height="31" border="0" alt=""></td>
+</tr>
+<tr id="oddelit">
+<td width="185">
+<a href="contact.php">Contact</a><br>
+</td>
+<td width="35"><img src="images/sipka.gif" width="35" height="31" border="0" alt=""></td>
+</tr>
+</table>
+<div id="kontakt">
+Sponsor:<br><br>
+<center><a href="http://www.mikroskopy.cz" target="_blank"><img src="images/nikon.gif" width="117" height="117" border="0" alt="mikroskopy Nikon"></a></center>
+<br>
+<br>
+For additional information, registration, hotel reservation and submission of abstracts, please contact:<br><br>
+Prof. Miroslav Cervinka, MD. PhD.<br><br>
+Charles University Faculty of Medicine, 
+Department of Medical Biology and Genetics, Hradec Králové<br>
+Tel. +420 495816493<br>
+E-mail: <a href="mailto:cervinka@lfhk.cuni.cz">cervinka@lfhk.cuni.cz</a><br>
+<br>
+</div>
+</td>
+<td colspan="2" id="papir">
+<div id="aktualne"><!---b>What's new:</b--->&nbsp;</div>
+<div id="nadpis">Main page</div>
+<div id="obsah">
+<center>
+<b>CYTOKINEMATICS 2009</b><br>
+<br>
+Microscopy of Live Cells in the Post Genomics Era<br>
+<br>
+The 11th symposium on live cell imaging<br>
+<br>
+<i>organized by</i><br>
+<br>
+Department of Medical Biology,<br>
+Faculty of Medicine in Hradec Kralove<br>
+Charles University in Prague<br>
+<br>
+in collaboration with<br>
+<br>
+The Czechoslovak Biological Society<br>
+<br>
+<br>
+Thursday 10 - Saturday 12, September 2009<br>
+<br>
+Venue:  Faculty of Medicine, Hradec Kralove, Czech Republic<br>
+<br>
+</center>
+</div>
+</td>
+</tr>
+<tr valign="middle" bgcolor="#93b0f6" id="oddelit">
+<td colspan="3" id="zapati"><div>Internet servis by Marek Uhrin (<a href="http://www.uhrin.cz" target="_blank">http://www.uhrin.cz</a>)</div></td>
+</td>
+</tr>
+</table>
+<br clear=all>
+</center>
+
+</body>
+</html>
+
+

@@ -1,0 +1,138 @@
+WARC/1.0
+WARC-Type: warcinfo
+WARC-Date: 2018-05-30T17:52:31Z
+WARC-Record-ID: <urn:uuid:e0a36d40-c920-48a5-b9b8-ff34e6e59ca7>
+WARC-All-Language: en
+WARC-All-Content_type: text/html
+Content-Type: application/http;msgtype=response
+Content-Length: 46
+
+WARCProcessor by SING Group www.sing-group.com
+
+WARC/1.0
+WARC-Type: response
+WARC-Record-ID: <http://www.advanced-planning.eu>
+WARC-Date: 20180530175231
+WARC-Target-URI: http://www.advanced-planning.eu
+WARC-Language: en
+Content-Type: application/http;msgtype=response
+Content-Length: 7570
+
+HTTP/1.1 200
+Content-Type:text/html
+
+
+<!DOCTYPE HTML>
+<html>
+
+<head>
+  <title>Advanced-Planning</title>
+  <meta name="description" content="website description" />
+  <meta name="keywords" content="SCM planning inventory optimisation" />
+  <meta http-equiv="content-type" content="text/html; charset=windows-1252" />
+  <link rel="stylesheet" type="text/css" href="style/style.css" title="style" />
+  <style type="text/css">
+<!--
+.Stil1 {
+	color: #FF0000;
+	font-weight: bold;
+}
+.Stil3 {color: #0066FF; font-weight: bold; }
+-->
+  </style>
+</head>
+
+<img src="http://vg09.met.vgwort.de/na/9be41aff0a4545b0bdf8b968e9c835b8" width="1" height="1" alt="">
+
+<body>
+  <div id="main">
+    <div id="header">
+      <div id="logo">
+        <div id="logo_text">
+          <!-- class="logo_colour", allows you to change the colour of the text -->
+          <h1><a href="index.html">Advanced-Planning<span class="logo_colour">.eu</span></a></h1>
+          <h2>Powered by POM Prof. Tempelmeier GmbH.</h2>
+        </div>
+      </div>
+      <div id="menubar">
+        <ul id="menu">
+          <!-- put class="selected" in the li tag for the selected page - to highlight which page you're on -->
+          <li class="selected"><a href="index.html">Home</a></li>
+          <li><a href="advancedplanninge-14.htm">Supply Chain Management </a></li>
+          <li><a href="operativeplanning.htm">Operative Planning </a></li>
+          <li><a href="longrangeplanning.html">Long-Range Planning </a></li>
+        </ul>
+      </div>
+    </div>
+    <div id="site_content">
+      <div class="sidebar">
+        <!-- insert your sidebar items here -->
+        <h3>More</h3>
+        <ul>
+          <li><a href="http://www.pom-consult.de">pom-consult.de</a></li>
+          <li><a href="http://www.pom-consult.de/POMApps">POMApps</a></li>
+          <li><a href="http://www.inventory-management.de">www.inventory-management.de</a></li>
+          <li><a href="http://www.advanced-planning.de">www.advanced-planning.de</a></li>
+		</ul>		  
+
+		<h3>Research Communities</h3>
+
+		<ul>  
+          <li><a href="http://www.emse.fr/~absi/EWGLOT/About.html">Lot-Sizing (Euro Working Group)</a></li>
+		  <li><a href="http://www.smmso.org">Stochastic Models for Manufacturing and Service Operations </a></li>
+		</ul>
+        
+		<h3>Software</h3>
+
+		 <ul>
+          <li><a href="http://www.pom-consult.de/pmteng/index.html">Production Management Trainer</a></li>
+        </ul>
+
+
+        <div align="center">
+<!-- Start of StatCounter Code for Default Guide -->
+<script type="text/javascript">
+var sc_project=10592608; 
+var sc_invisible=0; 
+var sc_security="8b678c1c"; 
+var scJsHost = (("https:" == document.location.protocol) ?
+"https://secure." : "http://www.");
+document.write("<sc"+"ript type='text/javascript' src='" +
+scJsHost+
+"statcounter.com/counter/counter.js'></"+"script>");
+</script>
+<noscript><div class="statcounter"><a title="shopify traffic
+stats" href="http://statcounter.com/shopify/"
+target="_blank"><img class="statcounter"
+src="http://c.statcounter.com/10592608/0/8b678c1c/0/"
+alt="shopify traffic stats"></a></div></noscript>
+<!-- End of StatCounter Code for Default Guide -->
+          
+        </div>
+      </div>
+      <div id="content">
+        <!-- insert the page content here -->
+        <h1>Welcome to Advanced-Planning.eu </h1>
+        <p>Many companies have recognized that the currently used  MRP II concept does not support planning in the sense that the capacities of the resources are adequately       considered during the planning process. It is now common sense that ignorance with       respect to capacity results in high work-in-process combined with decreasing service levels       and long customer waiting times. In addition, in highly integrated supply networks       with small &ldquo;slack&rdquo; insufficient planning procedures become more evident than in       non-integrated logistic networks. Being considered as waste, safety stock and safety       time are reduced to a minimum. Generating feasible plans under these conditions is a       real challenge for a planning system. This is the point where <strong>Advanced Planning Systems</strong> (APS) come into play. These are software systems that support the solution of primarily operative planning problems in <strong>Supply Chain Management</strong>, <strong>Logistics</strong> and <strong>Operations Management</strong> with the help of quantitative solution methods (Operations Research   methods). The suppliers of APS claim to support the integrated,   capacity-focused and optimal planning of     operations in complex global supply chains. Unfortunately, this is   very often not true. </p>
+        <p>Advanced Planning Systems  are strongly related to the concept of Supply Chain Management   that focusses on the system-wide optimization of production and   logistics. They extend the capabilities of the widely used Enterprise   Resource Planning (ERP) systems which provide only very limited planning   support. Traditional planning and scheduling systems (such as <a href="advancedplanninge-342.htm">MRP</a>,   or manufacturing resource planning) apply a successive planning    procedure that is easy to understand but that neglects capacities and   usually does not produce feasible plans. </p>
+        <p>For a practical planner it is often not clear,   what these APS really do, as the specific type of planning model and the   solution   algorithm used to solve a practical problem in general are not   transparent. This site provides more information about  planning   problems that are currently supported or should be supported by Advanced Planning Systems. However, the scope of this site is not limited to APS. We discuss many related issues in the problem areas Operations Management and Production Planning which are not considered in Advanced Planning Systems. For example, we discuss <a href="advancedplanninge-263.htm">factory planning problems</a> (design of flow lines, flexible manufacturing systems) and <a href="advancedplanninge-237.htm">inventory management problems</a> (when demand or lead times is random) as well as many <a href="advancedplanninge-219.htm">deterministic planning problems</a> where it is assumed that all data are known.  We also discuss <a href="advancedplanninge-379.htm">lotsizing issues</a>, among others.</p>
+          <table width="100%" border="0">
+          <tr>
+            <td bgcolor="#FF0000"><p>Have you ever heard about  the <a href="../PMTEng/index.html" class="Stil1">Production Management Trainer</a> (PMT)? </p>
+              <p>This is an <strong>educational software</strong> tool  that helps you in understanding the  methods for the solution of planning problems in <span class="Stil3">Production, Supply Chain Management and Inventory Management</span>. A student license is avaible for only 19&euro;. </p>
+              <p>PMT is being used by thousands of users (students, SCM professionals, universities, and industrial companies). </p></td>
+          </tr>
+        </table>
+      </div>
+    </div>
+    <div id="content_footer"></div>
+   <div id="footer">
+      <a href="http://www.pom-consult.de/datenschutzerklaerungeng.html">Data Privacy</a>  | Copyright &copy; 2018 <a href="http://www.pom-consult.de">POM Prof. Tempelmeier GmbH</a> | <a href=             "imprint.html">Imprint</a> |  <a href="http://www.html5webtemplates.co.uk">design from HTML5webtemplates.co.uk</a>  
+    </div>
+  </div>
+  
+ 
+</body>
+</html>
+
+

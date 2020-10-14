@@ -1,0 +1,27 @@
+WARC/1.0
+WARC-Type: warcinfo
+WARC-Date: 2018-05-30T19:12:14Z
+WARC-All-Language: en
+WARC-All-Content_type: text/html
+WARC-Record-ID: <urn:uuid:9a52b758-0a74-4258-8073-cbc7c9dca766>
+Content-Type: application/http;msgtype=response
+Content-Length: 46
+
+WARCProcessor by SING Group www.sing-group.com
+
+WARC/1.0
+WARC-Type: response
+WARC-Target-URI: http://www.contentbridge.eu
+WARC-Date: 20180530191214
+WARC-Language: en
+WARC-Record-ID: <http://www.contentbridge.eu>
+Content-Type: application/http;msgtype=response
+Content-Length: 64
+
+HTTP/1.1 200
+Content-Type:text/html
+
+
+There is no site here
+
+

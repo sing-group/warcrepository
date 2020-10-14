@@ -1,0 +1,318 @@
+WARC/1.0
+WARC-Type: warcinfo
+WARC-Date: 2018-05-30T17:52:31Z
+WARC-Record-ID: <urn:uuid:7415905b-b560-463d-b724-db79f6ead46b>
+WARC-All-Language: en
+WARC-All-Content_type: text/html, text/html; charset=utf-8
+Content-Type: application/http;msgtype=response
+Content-Length: 46
+
+WARCProcessor by SING Group www.sing-group.com
+
+WARC/1.0
+WARC-Type: response
+WARC-Record-ID: <http://www.juniordoctors.eu>
+WARC-Date: 20180530175231
+WARC-Target-URI: http://www.juniordoctors.eu
+WARC-Language: en
+Content-Type: application/http;msgtype=response
+Content-Length: 28268
+
+HTTP/1.1 200
+Content-Type:text/html; charset=utf-8
+
+
+<!DOCTYPE html>
+  <!--[if IEMobile 7]><html class="no-js ie iem7" lang="en" dir="ltr"><![endif]-->
+  <!--[if lte IE 6]><html class="no-js ie lt-ie9 lt-ie8 lt-ie7" lang="en" dir="ltr"><![endif]-->
+  <!--[if (IE 7)&(!IEMobile)]><html class="no-js ie lt-ie9 lt-ie8" lang="en" dir="ltr"><![endif]-->
+  <!--[if IE 8]><html class="no-js ie lt-ie9" lang="en" dir="ltr"><![endif]-->
+  <!--[if (gte IE 9)|(gt IEMobile 7)]><html class="no-js ie" lang="en" dir="ltr" prefix="og: http://ogp.me/ns# article: http://ogp.me/ns/article# book: http://ogp.me/ns/book# profile: http://ogp.me/ns/profile# video: http://ogp.me/ns/video# product: http://ogp.me/ns/product# content: http://purl.org/rss/1.0/modules/content/ dc: http://purl.org/dc/terms/ foaf: http://xmlns.com/foaf/0.1/ rdfs: http://www.w3.org/2000/01/rdf-schema# sioc: http://rdfs.org/sioc/ns# sioct: http://rdfs.org/sioc/types# skos: http://www.w3.org/2004/02/skos/core# xsd: http://www.w3.org/2001/XMLSchema#"><![endif]-->
+  <!--[if !IE]><!--><html class="no-js" lang="en" dir="ltr" prefix="og: http://ogp.me/ns# article: http://ogp.me/ns/article# book: http://ogp.me/ns/book# profile: http://ogp.me/ns/profile# video: http://ogp.me/ns/video# product: http://ogp.me/ns/product# content: http://purl.org/rss/1.0/modules/content/ dc: http://purl.org/dc/terms/ foaf: http://xmlns.com/foaf/0.1/ rdfs: http://www.w3.org/2000/01/rdf-schema# sioc: http://rdfs.org/sioc/ns# sioct: http://rdfs.org/sioc/types# skos: http://www.w3.org/2004/02/skos/core# xsd: http://www.w3.org/2001/XMLSchema#"><!--<![endif]-->
+<head>
+  <meta charset="utf-8" />
+<meta http-equiv="cleartype" content="on" />
+<link rel="apple-touch-icon-precomposed" href="http://www.juniordoctors.eu/sites/all/themes/omega/omega/apple-touch-icon-precomposed-144x144.png" sizes="144x144" />
+<link rel="apple-touch-icon-precomposed" href="http://www.juniordoctors.eu/sites/all/themes/omega/omega/apple-touch-icon-precomposed.png" />
+<link rel="apple-touch-icon-precomposed" href="http://www.juniordoctors.eu/sites/all/themes/omega/omega/apple-touch-icon-precomposed-72x72.png" sizes="72x72" />
+<link rel="apple-touch-icon-precomposed" href="http://www.juniordoctors.eu/sites/all/themes/omega/omega/apple-touch-icon-precomposed-114x114.png" sizes="114x114" />
+<meta name="MobileOptimized" content="width" />
+<link rel="alternate" type="application/rss+xml" title="EJD RSS" href="http://www.juniordoctors.eu/rss.xml" />
+<link rel="shortcut icon" href="http://www.juniordoctors.eu/system/files/favicon.ico" type="image/vnd.microsoft.icon" />
+<link rel="profile" href="http://www.w3.org/1999/xhtml/vocab" />
+<meta name="HandheldFriendly" content="true" />
+<meta name="viewport" content="width=device-width" />
+  <title>EJD</title>
+  <style>
+@import url("http://www.juniordoctors.eu/sites/all/themes/omega/omega/css/modules/system/system.base.css?p8gs5j");
+@import url("http://www.juniordoctors.eu/sites/all/themes/omega/omega/css/modules/system/system.menus.theme.css?p8gs5j");
+@import url("http://www.juniordoctors.eu/sites/all/themes/omega/omega/css/modules/system/system.messages.theme.css?p8gs5j");
+@import url("http://www.juniordoctors.eu/sites/all/themes/omega/omega/css/modules/system/system.theme.css?p8gs5j");
+@import url("http://www.juniordoctors.eu/sites/all/modules/adaptive_image/css/adaptive-image.css?p8gs5j");
+@import url("http://www.juniordoctors.eu/sites/all/modules/date/date_api/date.css?p8gs5j");
+@import url("http://www.juniordoctors.eu/modules/node/node.css?p8gs5j");
+@import url("http://www.juniordoctors.eu/sites/all/themes/omega/omega/css/modules/field/field.theme.css?p8gs5j");
+@import url("http://www.juniordoctors.eu/sites/all/themes/omega/omega/css/modules/search/search.theme.css?p8gs5j");
+@import url("http://www.juniordoctors.eu/sites/all/modules/extlink/extlink.css?p8gs5j");
+@import url("http://www.juniordoctors.eu/sites/all/themes/omega/omega/css/modules/user/user.base.css?p8gs5j");
+@import url("http://www.juniordoctors.eu/sites/all/modules/views/css/views.css?p8gs5j");
+@import url("http://www.juniordoctors.eu/sites/all/themes/omega/omega/css/modules/user/user.theme.css?p8gs5j");
+@import url("http://www.juniordoctors.eu/sites/all/modules/ckeditor/css/ckeditor.css?p8gs5j");
+</style>
+<style>
+@import url("http://www.juniordoctors.eu/sites/all/modules/ctools/css/ctools.css?p8gs5j");
+@import url("http://www.juniordoctors.eu/sites/all/libraries/sidr/stylesheets/jquery.sidr.dark.css?p8gs5j");
+@import url("http://www.juniordoctors.eu/sites/all/libraries/superfish/css/superfish.css?p8gs5j");
+</style>
+<style>
+@import url("http://www.juniordoctors.eu/sites/all/themes/ejd/css/ejd.normalize.css?p8gs5j");
+@import url("http://www.juniordoctors.eu/sites/all/themes/ejd/css/ejd.hacks.css?p8gs5j");
+@import url("http://www.juniordoctors.eu/sites/all/themes/ejd/css/ejd.styles.css?p8gs5j");
+</style>
+
+<!--[if lte IE 8]>
+<style>
+@import url("http://www.juniordoctors.eu/sites/all/themes/ejd/css/ejd.no-query.css?p8gs5j");
+</style>
+<![endif]-->
+  <script>document.cookie = 'adaptive_image=' + Math.max(screen.width, screen.height) + '; path=/';</script>
+<script src="http://www.juniordoctors.eu/sites/all/modules/jquery_update/replace/jquery/1.8/jquery.min.js?v=1.8.3"></script>
+<script src="http://www.juniordoctors.eu/misc/jquery.once.js?v=1.2"></script>
+<script src="http://www.juniordoctors.eu/misc/drupal.js?p8gs5j"></script>
+<script src="http://www.juniordoctors.eu/sites/all/themes/omega/omega/js/no-js.js?p8gs5j"></script>
+<script src="http://www.juniordoctors.eu/sites/all/modules/extlink/extlink.js?p8gs5j"></script>
+<script src="http://www.juniordoctors.eu/sites/all/modules/responsive_menus/styles/sidr/js/responsive_menus_sidr.js?p8gs5j"></script>
+<script src="http://www.juniordoctors.eu/sites/all/libraries/sidr/jquery.sidr.min.js?p8gs5j"></script>
+<script src="http://www.juniordoctors.eu/sites/all/themes/ejd/js/ejd.behaviors.js?p8gs5j"></script>
+<script src="http://www.juniordoctors.eu/sites/all/themes/ejd/js/scroll-top.js?p8gs5j"></script>
+<script>jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","responsive_menus":[{"selectors":["#block-superfish-1"],"trigger_txt":"\u0026#9776;","side":"left","speed":"200","media_size":"768","displace":"1","onOpen":"","onClose":"","responsive_menus_style":"sidr"}],"extlink":{"extTarget":"_blank","extClass":0,"extLabel":"(link is external)","extImgClass":0,"extSubdomains":0,"extExclude":"","extInclude":"","extCssExclude":"","extCssExplicit":"","extAlert":0,"extAlertText":"This link will take you to an external web site.","mailtoClass":0,"mailtoLabel":"(link sends e-mail)"},"urlIsAjaxTrusted":{"\/":true}});</script>
+  <script src="https://use.typekit.net/wtt4ewj.js"></script>  
+  <script>try{Typekit.load({ async: true });}catch(e){}</script>
+</head>
+<body class="html front not-logged-in page-node">
+  <a href="#main-content" class="element-invisible element-focusable">Skip to main content</a>
+    <div class="l-page">
+  <header class="l-header" role="banner">
+    <div class="inner-wrapper">
+      <div class="l-hd">
+        <div class="desk">
+          <div class="h-links">
+            <a href="/user">User-Login</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="/contact">Contact</a>          </div>
+        </div>
+        <div class="h-logo">
+                      <a href="/" title="Home" rel="home" class="site-logo"><img src="http://www.juniordoctors.eu/sites/default/files/logo.png" alt="Home" /></a>
+                  </div>
+      </div>
+    </div>
+  </header>
+
+  <div class="navi-region">
+    <div class="inner-wrapper">
+      <div class="navigation">
+          <div class="l-region l-region--navigation">
+    <div id="block-superfish-1" class="block block--superfish block--superfish-1">
+        <div class="block__content">
+    <ul id="superfish-1" class="menu sf-menu sf-main-menu sf-horizontal sf-style-none sf-total-items-5 sf-parent-items-5 sf-single-items-0"><li id="menu-244-1" class="first odd sf-item-1 sf-depth-1 sf-total-children-6 sf-parent-children-0 sf-single-children-6 menuparent"><a href="/main-objectives" title="About" class="sf-depth-1 menuparent">About</a><ul><li id="menu-649-1" class="first odd sf-item-1 sf-depth-2 sf-no-children"><a href="/main-objectives" title="Main Objectives" class="sf-depth-2">Main Objectives</a></li><li id="menu-655-1" class="middle even sf-item-2 sf-depth-2 sf-no-children"><a href="/executive-board" title="Executive Board" class="sf-depth-2">Executive Board</a></li><li id="menu-673-1" class="middle odd sf-item-3 sf-depth-2 sf-no-children"><a href="/national-members-and-country-information" title="National Members" class="sf-depth-2">National Members</a></li><li id="menu-670-1" class="middle even sf-item-4 sf-depth-2 sf-no-children"><a href="/ejd-office" title="EJD Office" class="sf-depth-2">EJD Office</a></li><li id="menu-674-1" class="middle odd sf-item-5 sf-depth-2 sf-no-children"><a href="/history" title="History" class="sf-depth-2">History</a></li><li id="menu-675-1" class="last even sf-item-6 sf-depth-2 sf-no-children"><a href="/statutes" title="Statutes" class="sf-depth-2">Statutes</a></li></ul></li><li id="menu-502-1" class="middle even sf-item-2 sf-depth-1 sf-total-children-6 sf-parent-children-1 sf-single-children-5 menuparent"><a href="/news" title="Activities" class="sf-depth-1 menuparent">Activities</a><ul><li id="menu-624-1" class="first odd sf-item-1 sf-depth-2 sf-no-children"><a href="/news" title="News" class="sf-depth-2">News</a></li><li id="menu-680-1" class="middle even sf-item-2 sf-depth-2 sf-no-children"><a href="http://www.medicalmobility.eu" title="European Medical Mobility" class="sf-depth-2">European Medical Mobility</a></li><li id="menu-650-1" class="middle odd sf-item-3 sf-depth-2 sf-no-children"><a href="/liaison-officers" title="Liaison Officers" class="sf-depth-2">Liaison Officers</a></li><li id="menu-672-1" class="middle even sf-item-4 sf-depth-2 sf-total-children-4 sf-parent-children-0 sf-single-children-4 menuparent"><a href="/representatives-uems-boards-sections-and-mjcs" title="UEMS Representatives" class="sf-depth-2 menuparent">UEMS Representatives</a><ul><li id="menu-907-1" class="first odd sf-item-1 sf-depth-3 sf-no-children"><a href="/representatives-uems-boards-sections-and-mjcs" title="Boards, Sections and MJC&#039;s" class="sf-depth-3">Boards, Sections and MJC&#039;s</a></li><li id="menu-908-1" class="middle even sf-item-2 sf-depth-3 sf-no-children"><a href="/workflow-and-responsibilities-ejd-representatives-uems" title="Workflow and Responsibilities of EJD representatives to UEMS" class="sf-depth-3">Workflow and Responsibilities</a></li><li id="menu-909-1" class="middle odd sf-item-3 sf-depth-3 sf-no-children"><a href="/nomination-and-election-procedure-ejd-representatives-uems" title="Nomination and Election procedure of EJD representatives to UEMS" class="sf-depth-3">Nomination and Election</a></li><li id="menu-910-1" class="last even sf-item-4 sf-depth-3 sf-no-children"><a href="/uems-representative-application-form" title="UEMS Representative Application form" class="sf-depth-3">Application form</a></li></ul></li><li id="menu-681-1" class="middle odd sf-item-5 sf-depth-2 sf-no-children"><a href="/partner-organisations" title="Partner organisations" class="sf-depth-2">Partner organisations</a></li><li id="menu-625-1" class="last even sf-item-6 sf-depth-2 sf-no-children"><a href="/calendar" title="Calendar" class="sf-depth-2">Calendar</a></li></ul></li><li id="menu-685-1" class="middle odd sf-item-3 sf-depth-1 sf-total-children-20 sf-parent-children-1 sf-single-children-19 menuparent"><a href="/ejd-meeting-outcomes" title="EJD Meeting Outcomes" class="sf-depth-1 menuparent">EJD Meetings</a><ul><li id="menu-1179-1" class="first odd sf-item-1 sf-depth-2 sf-total-children-1 sf-parent-children-0 sf-single-children-1 menuparent"><a href="/future-meetings" class="sf-depth-2 menuparent">Future meetings</a><ul><li id="menu-1319-1" class="firstandlast odd sf-item-1 sf-depth-3 sf-no-children"><a href="/ejd-meeting/ejd-spring-meeting-2018" class="sf-depth-3">EJD Spring meeting 2018</a></li></ul></li><li id="menu-1284-1" class="middle even sf-item-2 sf-depth-2 sf-no-children"><a href="http://www.juniordoctors.eu/ejd-meeting/autumn-meeting-2017" class="sf-depth-2">EJD Autumn meeting 2017</a></li><li id="menu-1180-1" class="middle odd sf-item-3 sf-depth-2 sf-no-children"><a href="/ejd-meeting/ejd-spring-meeting-2017" class="sf-depth-2">EJD Spring Meeting 2017</a></li><li id="menu-1249-1" class="middle even sf-item-4 sf-depth-2 sf-no-children"><a href="/ejd-meeting/ejd-autumn-meeting-2016" class="sf-depth-2">EJD Autumn meeting 2016</a></li><li id="menu-1075-1" class="middle odd sf-item-5 sf-depth-2 sf-no-children"><a href="/ejd-meeting/ejd-spring-meeting-2016-0" class="sf-depth-2">EJD Spring Meeting 2016</a></li><li id="menu-921-1" class="middle even sf-item-6 sf-depth-2 sf-no-children"><a href="/ejd-meeting/ejd-autumn-meeting-2015" title="EJD Autumn Meeting 2015" class="sf-depth-2">EJD Autumn Meeting 2015</a></li><li id="menu-919-1" class="middle odd sf-item-7 sf-depth-2 sf-no-children"><a href="/ejd-meeting/ejd-spring-meeting-2015" title="EJD Spring Meeting 2015" class="sf-depth-2">EJD Spring Meeting 2015</a></li><li id="menu-920-1" class="middle even sf-item-8 sf-depth-2 sf-no-children"><a href="/ejd-meeting/ejd-autumn-meeting-2014" title="EJD Autumn Meeting 2014" class="sf-depth-2">EJD Autumn Meeting 2014</a></li><li id="menu-922-1" class="middle odd sf-item-9 sf-depth-2 sf-no-children"><a href="/ejd-meeting/ejd-spring-meeting-2014" title="EJD Spring Meeting 2014" class="sf-depth-2">EJD Spring Meeting 2014</a></li><li id="menu-935-1" class="middle even sf-item-10 sf-depth-2 sf-no-children"><a href="/ejd-meeting/ejd-autumn-meeting-2013" title="EJD Autumn Meeting 2013" class="sf-depth-2">EJD Autumn Meeting 2013</a></li><li id="menu-934-1" class="middle odd sf-item-11 sf-depth-2 sf-no-children"><a href="/ejd-meeting/ejd-spring-meeting-2013" title="EJD Spring Meeting 2013" class="sf-depth-2">EJD Spring Meeting 2013</a></li><li id="menu-930-1" class="middle even sf-item-12 sf-depth-2 sf-no-children"><a href="/ejd-meeting/ejd-autumn-meeting-2012" title="EJD Autumn Meeting 2012" class="sf-depth-2">EJD Autumn Meeting 2012</a></li><li id="menu-931-1" class="middle odd sf-item-13 sf-depth-2 sf-no-children"><a href="/ejd-meeting/ejd-spring-meeting-2012" title="EJD Spring Meeting 2012" class="sf-depth-2">EJD Spring Meeting 2012</a></li><li id="menu-932-1" class="middle even sf-item-14 sf-depth-2 sf-no-children"><a href="/ejd-meeting/ejd-autumn-meeting-2011" title="EJD Autumn Meeting 2011" class="sf-depth-2">EJD Autumn Meeting 2011</a></li><li id="menu-933-1" class="middle odd sf-item-15 sf-depth-2 sf-no-children"><a href="/ejd-meeting/ejd-spring-meeting-2011" title="EJD Spring Meeting 2011" class="sf-depth-2">EJD Spring Meeting 2011</a></li><li id="menu-927-1" class="middle even sf-item-16 sf-depth-2 sf-no-children"><a href="/ejd-meeting/pwg-autumn-meeting-2010" title="PWG Autumn Meeting 2010" class="sf-depth-2">PWG Autumn Meeting 2010</a></li><li id="menu-925-1" class="middle odd sf-item-17 sf-depth-2 sf-no-children"><a href="/ejd-meeting/pwg-spring-meeting-2010" title="PWG Spring Meeting 2010" class="sf-depth-2">PWG Spring Meeting 2010</a></li><li id="menu-926-1" class="middle even sf-item-18 sf-depth-2 sf-no-children"><a href="/ejd-meeting/pwg-autumn-meeting-2009" title="PWG Autumn Meeting 2009" class="sf-depth-2">PWG Autumn Meeting 2009</a></li><li id="menu-928-1" class="middle odd sf-item-19 sf-depth-2 sf-no-children"><a href="/ejd-meeting/pwg-spring-meeting-2009" title="PWG Spring Meeting 2009" class="sf-depth-2">PWG Spring Meeting 2009</a></li><li id="menu-929-1" class="last even sf-item-20 sf-depth-2 sf-no-children"><a href="/ejd-meeting/pwg-autumn-meeting-2008" title="PWG Autumn Meeting 2008" class="sf-depth-2">PWG Autumn Meeting 2008</a></li></ul></li><li id="menu-501-1" class="middle even sf-item-4 sf-depth-1 sf-total-children-2 sf-parent-children-0 sf-single-children-2 menuparent"><a href="/policies-and-statements" title="Publications &amp; Policies" class="sf-depth-1 menuparent">Publications &amp; Policies</a><ul><li id="menu-916-1" class="first odd sf-item-1 sf-depth-2 sf-no-children"><a href="/policies-and-statements" title="EJD Policies &amp; Statements" class="sf-depth-2">EJD Policies &amp; Statements</a></li><li id="menu-917-1" class="last even sf-item-2 sf-depth-2 sf-no-children"><a href="/reports-and-handbooks" title="EJD Reports &amp; Handbooks" class="sf-depth-2">EJD Reports &amp; Handbooks</a></li></ul></li><li id="menu-503-1" class="last odd sf-item-5 sf-depth-1 sf-total-children-6 sf-parent-children-0 sf-single-children-6 menuparent"><a href="/transatlantic-trade-and-investment-partnership-ttip" title="Political Projects" class="sf-depth-1 menuparent">Political Projects</a><ul><li id="menu-1074-1" class="first odd sf-item-1 sf-depth-2 sf-no-children"><a href="/transatlantic-trade-and-investment-partnership-ttip" title="TTIP" class="sf-depth-2">TTIP</a></li><li id="menu-688-1" class="middle even sf-item-2 sf-depth-2 sf-no-children"><a href="/european-working-time-directive-200388ec" title="The European Working Time Directive" class="sf-depth-2">European Working Time Directive</a></li><li id="menu-686-1" class="middle odd sf-item-3 sf-depth-2 sf-no-children"><a href="/professional-qualifications-directive-200536ec" title="The Professional Qualifications Directive (2005/36/EC)" class="sf-depth-2">The Professional Qualifications Directive (2005/36/EC)</a></li><li id="menu-687-1" class="middle even sf-item-4 sf-depth-2 sf-no-children"><a href="/european-professional-card" title="European Professional Card" class="sf-depth-2">European Professional Card</a></li><li id="menu-690-1" class="middle odd sf-item-5 sf-depth-2 sf-no-children"><a href="/directive-patients%E2%80%98-rights-cross-border-healthcare" title="Cross-Border Healthcare" class="sf-depth-2">Cross-Border Healthcare</a></li><li id="menu-689-1" class="last even sf-item-6 sf-depth-2 sf-no-children"><a href="http://healthworkforce.eu/" title="EU Joint Action on Health Workforce" class="sf-depth-2">EU Joint Action on Health Workforce</a></li></ul></li></ul>  </div>
+</div>
+<div id="block-search-form" role="search" class="block block--search block--search-form">
+        <div class="block__content">
+    <form class="search-block-form" action="/" method="post" id="search-block-form" accept-charset="UTF-8"><div><div class="container-inline">
+      <h2 class="element-invisible">Search form</h2>
+    <div class="form-item form-type-textfield form-item-search-block-form">
+  <label class="element-invisible" for="edit-search-block-form--2">Search </label>
+ <input title="Enter the terms you wish to search for." type="text" id="edit-search-block-form--2" name="search_block_form" value="" size="15" maxlength="128" class="form-text" />
+</div>
+<div class="form-actions form-wrapper" id="edit-actions"><input type="submit" id="edit-submit" name="op" value="Search" class="form-submit" /></div><input type="hidden" name="form_build_id" value="form-atgAYA2WV04Z7gJG1QMJ9oFecdaJpHVNjqFk5RSc9Os" />
+<input type="hidden" name="form_id" value="search_block_form" />
+</div>
+</div></form>  </div>
+</div>
+  </div>
+      </div>
+      <div class="mob-icons mobile">
+        <a href="/search/node"><img src="/sites/all/themes/ejd/images/search.png" alt="Search Icon"></a>
+        <a href="/contact"><img src="/sites/all/themes/ejd/images/contact.png" alt="Contact Icon"></a>
+          <a href="/user"><img src="/sites/all/themes/ejd/images/login.png" alt="Login Icon"></a>      </div>
+      <div class="mapwrapper">
+        <div class="map">
+          <img src="/sites/all/themes/ejd/images/map.png" alt="Map">
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <div class="l-main">
+    <div class="inner-wrapper">
+      <div class="l-content" role="main">
+                        <a id="main-content"></a>
+                                                                  <div class="l-region l-region--welcome">
+    <div id="block-block-4" class="block block--block block--block-4">
+        <div class="block__content">
+    <h1>Welcome to EJD</h1>
+
+<div class="welcome-bfp">
+<div class="wbfp-img"><img alt="" src="/system/files/images/KITTY HEADSHOT(1).png" style="width: 120px; height: 118px;" /></div>
+
+<div class="wbfp-text">
+<p>Representing over 300.000 Junior Doctors all over Europe the EJD‘s initial objective includes safeguarding the interests of the Junior Doctors in Europe by improving the working conditions, the mobility in the profession and set standards regarding the quality of postgraduate medical training.</p>
+</div>
+
+<div class="wbfp-footer"><strong>Kitty Mohan</strong>, President</div>
+</div>
+  </div>
+</div>
+  </div>
+      </div>
+    </div>
+  </div>
+
+  <div class="l-hpteaser">
+    <div class="iwc-blocks">
+      <div class="view view-hp-content view-id-hp_content view-display-id-block view-dom-id-aab7d3e420fb7706cfa2a9d26e734d0a">
+        
+  
+  
+      <div class="view-content">
+        <div class="views-row views-row-1 views-row-odd views-row-first">
+      
+  <div class="views-field views-field-nothing">        <span class="field-content"><div class="hpb-wrapper">
+<div class="hpb-subd">30. January 2018</div>
+<h2 class="hpb-title">Statement to support members of the Turkish Medical Association</h2>
+<div class="hpb-body"><p>The European Junior Doctors Association sends support and solidarity to Turkish colleagues and in particular Council members of the Turkish Medical Association (TMA) who were arrested on 30th January 2018. Physicians, like other citizens, have the fundamental right to freedom of speech and to alert Governments and other decision makers of the long-term health consequences of war. Indeed as physicians our duty is to protect public health, and war is a major public health hazard.</p>
+</div>
+<div class="hpb-more"><a href="http://www.juniordoctors.eu/news/statement-support-members-turkish-medical-association"><div class="rm button">read more</div></a></div>
+</div>
+
+
+</span>  </div>  </div>
+  <div class="views-row views-row-2 views-row-even">
+      
+  <div class="views-field views-field-nothing">        <span class="field-content"><div class="hpb-wrapper">
+<div class="hpb-subd">25. September 2017</div>
+<h2 class="hpb-title">Statement on Italian PGT</h2>
+<div class="hpb-body">The European Junior Doctors Permanent Working Group expresses its concern at the current situation regarding Italian Postgraduate Medical Education.<br />
+The long-standing shortage of postgraduate medical training contracts in Italian Medical Universities has created a situation whereby numerous junior doctors cannot find a job, or continue their specialty training.</div>
+<div class="hpb-more"><a href="http://www.juniordoctors.eu/policy-statement/statement-italian-pgt"><div class="rm button">read more</div></a></div>
+</div>
+
+
+</span>  </div>  </div>
+  <div class="views-row views-row-3 views-row-odd views-row-last">
+      
+  <div class="views-field views-field-nothing">        <span class="field-content"><div class="hpb-wrapper">
+<div class="hpb-subd">27. July 2017</div>
+<h2 class="hpb-title">STATEMENT CONCERNING PROTECTION AND RIGHTS OF JDS DURING PREGNANCY AND PARENTHOOD</h2>
+<div class="hpb-body">Pregnant doctors can be required to work in challenging situations, often working long hours and on-call through the night...</div>
+<div class="hpb-more"><a href="http://www.juniordoctors.eu/policy-statement/statement-concerning-protection-and-rights-jds-during-pregnancy-and-parenthood"><div class="rm button">read more</div></a></div>
+</div>
+
+
+</span>  </div>  </div>
+    </div>
+  
+  
+  
+  
+  
+  
+</div>    </div>
+  </div>
+
+  <div class="l-main">
+    <div class="inner-wrapper">
+      <div class="l-content" role="main">
+        <div class="view view-news-overview view-id-news_overview view-display-id-block_1 view-dom-id-03765d4ce44ee756647e5b3cf9e171b1">
+        
+  
+  
+      <div class="view-content">
+        <div class="views-row views-row-1 views-row-odd views-row-first">
+      
+  <div class="views-field views-field-field-image">        <div class="field-content"></div>  </div>  
+  <div class="views-field views-field-nothing">        <span class="field-content"><div class="v-wrapper">
+<div class="vw-sub">30. January 2018</div>
+<h2 class="v-title"><a href="/news/statement-support-members-turkish-medical-association">Statement to support members of the Turkish Medical Association</a></h2>
+<div class="vw-tsr">The European Junior Doctors Association sends support and solidarity to Turkish colleagues and<br />
+in particular Council members of the Turkish Medical Association (TMA) who were arrested on<br />
+30th January 2018. Physicians, like other citizens, have the fundamental right to freedom of<br />
+speech and to alert Governments and other decision makers of the long-term health consequences<br />
+of war. Indeed as physicians our duty is to protect public health, and war is a major public health<br />
+hazard.</div>
+<div class="vw-rm"><a href="/news/statement-support-members-turkish-medical-association">read more</a></div>
+</div>
+</span>  </div>  </div>
+  <div class="views-row views-row-2 views-row-even views-row-last">
+      
+  <div class="views-field views-field-field-image">        <div class="field-content"></div>  </div>  
+  <div class="views-field views-field-nothing">        <span class="field-content"><div class="v-wrapper">
+<div class="vw-sub">27. July 2017</div>
+<h2 class="v-title"><a href="/news/statement-support-turkish-doctors">Statement of support for Turkish Doctors</a></h2>
+<div class="vw-tsr"><p>The European Junior Doctors Permanent Working Group strongly supports the Turkish junior doctors in their struggle.</p>
+</div>
+<div class="vw-rm"><a href="/news/statement-support-turkish-doctors">read more</a></div>
+</div>
+</span>  </div>  </div>
+    </div>
+  
+  
+  
+  
+  
+  
+</div>      </div>
+
+          <aside class="l-region l-region--sidebar-second">
+    <div id="block-block-2" class="block block--block block--block-2">
+        <h2 class="block__title">Tweets</h2>
+      <div class="block__content">
+    <a class="twitter-timeline" data-dnt="true" data-widget-id="282142114089926656" href="https://twitter.com/ejdpwg">Tweets von @ejdpwg</a> <script type="text/javascript">
+<!--//--><![CDATA[// ><!--
+!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");
+//--><!]]>
+</script>  </div>
+</div>
+  </aside>
+    </div>
+  </div>
+
+  <footer class="l-footer" role="contentinfo">
+    <div class="ft-top">
+      <div class="inner-wrapper">
+          <div class="l-region l-region--footer">
+    <div id="block-block-1" class="block block--block block--block-1">
+        <h2 class="block__title">Follow us</h2>
+      <div class="block__content">
+    <span class="ft-ico"><a href="http://www.facebook.com/pages/EJD-European-Junior-Doctors-Permanent-Working-Group/183978145003474"><img alt="Facebook Logo" src="/sites/all/themes/ejd/images/facebook.png" /></a></span>
+<span class="ft-ico"><a href="https://twitter.com/ejdpwg"><img alt="Twitter Logo" src="/sites/all/themes/ejd/images/twitter.png" /></a></span>
+<span class="ft-ico"><a href="/ejd-newsletter"><img alt="Mail Logo" src="/sites/all/themes/ejd/images/mail.png" /></a></span>  </div>
+</div>
+<div id="block-block-3" class="block block--block block--block-3">
+        <h2 class="block__title">Contact</h2>
+      <div class="block__content">
+    <div class="ft-address">
+<p><strong>European Junior Doctors<br />
+Association (EJD)</strong><br />
+Registered Office:<br />
+Rue Guimard 15<br />
+1040 Brussels, Belgium</p>
+</div>
+  </div>
+</div>
+  </div>
+      </div>
+    </div>
+    <div class="ft-bottom">
+      <div class="inner-wrapper">
+        <div class="ft-copyright">
+          Copyright European Junior Doctors 2018        </div>
+        <div class="ft-menu">
+          <a href="/contact">Contact</a>&nbsp;|&nbsp;<a href="/imprint">Imprint & Disclaimer</a>
+        </div>
+      </div>
+    </div>
+  </footer>
+</div>
+  </body>
+</html>
+
+

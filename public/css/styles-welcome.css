@@ -1,0 +1,96 @@
+.circulo-descargas{
+    background: #337ab7;
+    border-radius: 100%;
+    width: 10rem;
+    height: 10rem;
+    padding-top: 1.5em;
+}
+.btn-descarga{
+    margin-left:10px;
+}
+
+.marginTopNav14{
+    margin-top: -14px !important;
+}
+.mbTaheader{
+    margin-bottom: -5rem;
+    text-align: center;
+}
+.logoTipo{
+    margin-top: 1rem !important;
+    margin-left: -30rem !important;
+    margin-bottom: 1rem !important;
+}
+.marleft{
+    margin-left: 5rem;
+}
+.mbP{
+    margin-bottom: -3rem !important;
+}
+.mr3rem{
+    margin-right: 3rem;
+}
+.divForgotPass{
+    float:right; font-size: 80%; position: relative; top:-10px;
+}
+.h6Collaborators{
+    text-align: center; margin-bottom: 0rem;
+}
+.aSingLogo{
+    margin-top: 0rem; margin-right: 3rem;
+}
+.divReginForm{
+    padding-top:30px; padding-bottom: 80px;
+}
+.dyhaccount{
+    border-top: 1px solid#888; padding-top:15px; font-size:85%;
+}
+.aESEILogo{
+    margin-right: 3rem;
+}
+.jumboPad{
+    padding-top: 0px;
+    padding-right: 30px !important;
+    padding-left: 30px !important;
+    padding-bottom: 0px;
+    padding: 2rem;
+}
+.justify{
+    text-align: justify !important;
+}
+.fontsize13{
+    font-size: 13px;
+}
+.divSubmit{
+    margin-top:10px;
+}
+.mb10button{
+    margin-bottom: 10px;
+}
+.textAlCenter{
+    text-align: center;
+}
+.mt2{
+    margin-top: 2rem;
+}
+.colorSpam{
+    color: #fff;
+}
+.plmt{
+    padding-left: 45px;
+    margin-top: 2rem;
+}
+.sectmmb5{
+    margin-bottom: -5rem;
+}
+@media only screen and (min-width: 1300px) {
+    .my-height {
+        height: 180px;
+    }
+}
+@media only screen and (min-width: 1900px){
+    .my-height{
+        height: 219px;
+    }
+
+}

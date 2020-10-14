@@ -1,0 +1,27 @@
+WARC/1.0
+WARC-Type: warcinfo
+WARC-Date: 2018-05-30T18:18:32Z
+WARC-All-Language: ar
+WARC-All-Content_type: text/html
+WARC-Record-ID: <urn:uuid:b78098e9-1324-4a9c-a41e-171f8ce80fea>
+Content-Type: application/http;msgtype=response
+Content-Length: 46
+
+WARCProcessor by SING Group www.sing-group.com
+
+WARC/1.0
+WARC-Type: response
+WARC-Target-URI: http://www.energy-events.eu
+WARC-Date: 20180530181832
+WARC-Language: ar
+WARC-Record-ID: <http://www.energy-events.eu>
+Content-Type: application/http;msgtype=response
+Content-Length: 44
+
+HTTP/1.1 200
+Content-Type:text/html
+
+
+ 
+
+

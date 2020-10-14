@@ -1,0 +1,361 @@
+WARC/1.0
+WARC-Type: warcinfo
+WARC-Date: 2018-05-30T17:52:31Z
+WARC-All-Language: fr
+WARC-All-Content_type: text/html
+WARC-Record-ID: <urn:uuid:908b871f-cc73-4a1d-a100-53c35a7684ec>
+Content-Type: application/http;msgtype=response
+Content-Length: 46
+
+WARCProcessor by SING Group www.sing-group.com
+
+WARC/1.0
+WARC-Type: response
+WARC-Target-URI: http://www.prestoprime.eu
+WARC-Date: 20180530175231
+WARC-Language: fr
+WARC-Record-ID: <http://www.prestoprime.eu>
+Content-Type: application/http;msgtype=response
+Content-Length: 7450
+
+HTTP/1.1 200
+Content-Type:text/html
+
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<HEAD>
+<META Name="Habillage" Content="MultiHab 1.0 developpe par l'INA">
+<META Name="Enterprise" Content="Ina">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="date" content="Wed, 21 Nov 2012 10:41:34 GMT">
+<meta name="Description" lang="en" content="Keeping audiovisual contents alive">
+<meta name="Keywords" lang="en" content="PrestoPRIME">
+<title>PrestoPRIME</title>
+<link rel="shortcut icon" href="/favicon.ico">
+<link rel="stylesheet" href="/design/css/global.css" type="text/css">
+<link rel="stylesheet" href="/design/css/sifr.css" type="text/css">
+<link rel="stylesheet" href="/design/css/lightbox.css" type="text/css">
+<script type="text/javascript" src="/design/js/sifr.js"></script>
+<script type="text/javascript" src="/design/js/sifr-config.js"></script>
+<script type="text/javascript" src="/design/js/testmel.js"></script>
+<script type="text/javascript" src="/design/js/prototype.js"></script>
+<script type="text/javascript" src="/design/js/scriptaculous.js?load=effects"></script>
+<script type="text/javascript" src="/design/js/lightbox.js"></script>
+</head>
+
+<body >
+	<div class="container">
+		<table width="897">
+			<tr>
+	<td class="header-logo"><a HREF="/index.en.html"><img src="/design/bitmap/commun/logo-pp.gif" alt="PrestoPrime"></a></td>
+	<td colspan="2" class="header-bando"><form method="POST" action="/search/index.php?langue=en">
+	<table class="recherche" align="right">
+		<tr>
+			<td><input type="text" name="motClef" maxlength="255" value="search this site" class="chp-txt"></td>
+			<td><input name="Search" value="Ok" type="image" src="/design/bitmap/commun/picto-loupe.gif" class="bt-ok"></td>
+		</tr>
+	</table>
+</form></td>
+</tr>
+			<tr>
+	<td class="body-menu-top"></td>
+	<td class="body-titre">
+		<h1>EVENTS</h1>
+	</td>
+	<td class="body-nav">&nbsp;</td>
+</tr>
+			<tr>
+			<td class="body-menu">
+	<a HREF="/project/index.en.html" class="menu-rub">The Project</a><br>
+	<a HREF="/project/consortium.en.html" class="menu-sousrub">the consortium</a><br>
+	<a HREF="/project/board.en.html" class="menu-sousrub">steering board and partners</a><br>
+	<a HREF="/project/objectives.en.html" class="menu-sousrub">objectives</a><br>
+	<a HREF="/project/structure.en.html" class="menu-sousrub">work breakdown structure</a><br>
+	<a HREF="/project/public.en.html" class="menu-sousrub">public results</a><br>
+	<a HREF="/user_group/index.en.html" class="menu-rub">User group</a><br>
+	<a href="http://prestospace-sam.ssl.co.uk/" target="_blank" class="menu-rub">Digitisation &amp; storage</a><br>
+	<a HREF="/training/index.en.html" class="menu-rub">Training / Dissemination</a><br>
+	<a HREF="/training/publications.en.html" class="menu-sousrub">publications</a><br>
+	<a href="" class="menu-sousrub">wiki</a><br>
+	<a HREF="/heritage/index.en.html" class="menu-rub">Cultural heritage projects</a><br>
+	<a href="https://prestoprimews.ina.fr/" target="_blank" class="menu-rub">Private access</a>
+</td>
+				<td class="body-contenu">
+				<!-- Zone de contenu  -->
+				<!-- /HABILLAGE-NON-INDEXE -->
+				
+
+<div class="breve">
+  <div class="breve">
+    <table border="0" cellspacing="0" cellpadding="0">
+      <tr>
+        <td colspan="4"><h2>PrestoPrime Final Workshop</h2> </td>
+      </tr>
+    
+        <td class="breve-visuel"><img src="design/bitmap/home/museum.jpg" alt="" border="0"></td>
+        <td class="breve-texte"><p>The Consortium of the R&amp;D-Project PrestoPRIME is proud to present the achieved results and solutions from 4 years of cooperative research and development:                  
+<p>Systems, Tools, Solutions – The final results and developments PrestoCentre – The European Competence-Center for Safeguarding AV-Heritage A glance in the future – what comes next Fellow Projects – Austrian and European projects &amp; solutions in the domain
+<p><a href="/docs/Leaflet_PP-Showcase_V07_Reminder.pdf" class="lien-pdf" target="_blank">Preliminary announcement</a></p>
+<p>Technical Museum, Vienna, 21-22/11/2012 </p>
+<p><a href="/docs/final_showcase.pdf" class="lien-pdf" target="_blank">Showcase Full Program</a></p> 
+</p></td>
+      
+		<td class="breve-liens"><p>&nbsp;</p>
+	    <p>&nbsp;</p></td>
+     
+      <tr>
+        <td colspan="4"><h2>&nbsp;</h2></td>
+      </tr>
+      <td class="breve-visuel"></td>
+      <td class="breve-texte"><p>&nbsp;</p>
+        <p>&nbsp;</p></td>
+      <tr>
+        <td colspan="4">&nbsp;</td>
+      </tr>
+    </table>
+  </div> 
+</div>
+
+<b><a href="/events/index.en.html" class="lien-std">Events archives</a><br><br></b>
+
+				<!-- HABILLAGE-NON-INDEXE -->
+				</td>
+				<td class="body-coldroite">
+				<div class="partenaires" align="center">
+	<a href="http://www.prestocentre.eu/" target="_blank"><img src="/design/bitmap/commun/prestocenter_logo.gif" alt="PrestoCentre"></a>
+	<img src="/design/bitmap/commun/logo-7fp.gif" alt="Seventh Framework Programme">
+	<img src="/design/bitmap/commun/logo-UE.gif" alt="UE"><br>
+	This project is funded by UE
+</div>
+				<div class="sep-col" align="center"><img src="/design/bitmap/commun/sep-col.gif" alt=""></div>
+				<div class="coldroite-bloc" align="right">
+	<div>
+		<span>Newsletter</span><br>
+		enter your email<br>
+		to receive our newsletter
+	</div>  
+	<form name="lettreinfo" method="GET" action="/cgi-bin/newsletter/confirmation.pl">
+		<table align="right">
+			<tr>
+				<td><input name="mail" type="text" onblur="if (this.value == '') { this.value = 'enter your email'; }" onfocus="if (this.value == 'enter your email') { this.value = ''; }" class="chp-txt" value="enter your email"></td>
+				<td><input type="image" src="/design/bitmap/commun/picto-ok.gif" value="subscribe" onclick="return Test_mail()"></td>
+			</tr>
+		</table>
+	</form>
+</div>
+				<div class="sep-col" align="center"><img src="/design/bitmap/commun/sep-col.gif" alt=""></div>
+				<div class="coldroite-bloc" align="right">
+	<div>
+		<span>Comments</span><br>
+		send your comments to<br>
+		<a href="mailto:webmaster@prestoprime.org">Webmaster</a>
+	</div>
+</div>
+				</td>
+			<tr>
+				<td>&nbsp;</td>
+<td class="footer">
+	<a HREF="/project/index.en.html">The Project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a HREF="/user_group/index.en.html">User group</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a HREF="/training/index.en.html">Training / Dissemination</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a HREF="/heritage/index.en.html">Cultural heritage projects</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a HREF="https://prestoprimews.ina.fr/index.en.html">Private access</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a href="mailto:webmaster@prestoprime.org">Contacts</a><br>
+	<a HREF="index.light.en.html">Print this page</a> . Last modified&nbsp;21/11/12 - &copy; PrestoPrime Consortium - 2009
+</td> 
+<td>&nbsp;</td>
+			</tr>
+		</table>
+	</div>
+	
+<script type="text/javascript">
+<!--
+xtnv = document; //parent.document or top.document or document 
+xtsd = "http://logi12";
+xtsite = "411225";
+xtn2 = "Home page"; // level 2 site
+xtpage = "index.en.html"; //page name (with the use of :: to create chapters)
+xtdi = ""; //implication degree
+//-->
+</script>
+<script type="text/javascript" src="/design/js/xtcore.js"></script>
+<noscript>
+<img width="1" height="1" alt="" src="http://logi12.xiti.com/hit.xiti?s=411225&amp;s2=Home page&amp;p=index.en.html&amp;di=&amp;" >
+</noscript>
+
+</body>
+</html>
+
+
+
+WARC/1.0
+WARC-Type: response
+WARC-Target-URI: http://www.prestoprime.eu
+WARC-Date: 20180530181832
+WARC-Language: fr
+WARC-Record-ID: <http://www.prestoprime.eu>
+Content-Type: application/http;msgtype=response
+Content-Length: 7450
+
+HTTP/1.1 200
+Content-Type:text/html
+
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<HEAD>
+<META Name="Habillage" Content="MultiHab 1.0 developpe par l'INA">
+<META Name="Enterprise" Content="Ina">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="date" content="Wed, 21 Nov 2012 10:41:34 GMT">
+<meta name="Description" lang="en" content="Keeping audiovisual contents alive">
+<meta name="Keywords" lang="en" content="PrestoPRIME">
+<title>PrestoPRIME</title>
+<link rel="shortcut icon" href="/favicon.ico">
+<link rel="stylesheet" href="/design/css/global.css" type="text/css">
+<link rel="stylesheet" href="/design/css/sifr.css" type="text/css">
+<link rel="stylesheet" href="/design/css/lightbox.css" type="text/css">
+<script type="text/javascript" src="/design/js/sifr.js"></script>
+<script type="text/javascript" src="/design/js/sifr-config.js"></script>
+<script type="text/javascript" src="/design/js/testmel.js"></script>
+<script type="text/javascript" src="/design/js/prototype.js"></script>
+<script type="text/javascript" src="/design/js/scriptaculous.js?load=effects"></script>
+<script type="text/javascript" src="/design/js/lightbox.js"></script>
+</head>
+
+<body >
+	<div class="container">
+		<table width="897">
+			<tr>
+	<td class="header-logo"><a HREF="/index.en.html"><img src="/design/bitmap/commun/logo-pp.gif" alt="PrestoPrime"></a></td>
+	<td colspan="2" class="header-bando"><form method="POST" action="/search/index.php?langue=en">
+	<table class="recherche" align="right">
+		<tr>
+			<td><input type="text" name="motClef" maxlength="255" value="search this site" class="chp-txt"></td>
+			<td><input name="Search" value="Ok" type="image" src="/design/bitmap/commun/picto-loupe.gif" class="bt-ok"></td>
+		</tr>
+	</table>
+</form></td>
+</tr>
+			<tr>
+	<td class="body-menu-top"></td>
+	<td class="body-titre">
+		<h1>EVENTS</h1>
+	</td>
+	<td class="body-nav">&nbsp;</td>
+</tr>
+			<tr>
+			<td class="body-menu">
+	<a HREF="/project/index.en.html" class="menu-rub">The Project</a><br>
+	<a HREF="/project/consortium.en.html" class="menu-sousrub">the consortium</a><br>
+	<a HREF="/project/board.en.html" class="menu-sousrub">steering board and partners</a><br>
+	<a HREF="/project/objectives.en.html" class="menu-sousrub">objectives</a><br>
+	<a HREF="/project/structure.en.html" class="menu-sousrub">work breakdown structure</a><br>
+	<a HREF="/project/public.en.html" class="menu-sousrub">public results</a><br>
+	<a HREF="/user_group/index.en.html" class="menu-rub">User group</a><br>
+	<a href="http://prestospace-sam.ssl.co.uk/" target="_blank" class="menu-rub">Digitisation &amp; storage</a><br>
+	<a HREF="/training/index.en.html" class="menu-rub">Training / Dissemination</a><br>
+	<a HREF="/training/publications.en.html" class="menu-sousrub">publications</a><br>
+	<a href="" class="menu-sousrub">wiki</a><br>
+	<a HREF="/heritage/index.en.html" class="menu-rub">Cultural heritage projects</a><br>
+	<a href="https://prestoprimews.ina.fr/" target="_blank" class="menu-rub">Private access</a>
+</td>
+				<td class="body-contenu">
+				<!-- Zone de contenu  -->
+				<!-- /HABILLAGE-NON-INDEXE -->
+				
+
+<div class="breve">
+  <div class="breve">
+    <table border="0" cellspacing="0" cellpadding="0">
+      <tr>
+        <td colspan="4"><h2>PrestoPrime Final Workshop</h2> </td>
+      </tr>
+    
+        <td class="breve-visuel"><img src="design/bitmap/home/museum.jpg" alt="" border="0"></td>
+        <td class="breve-texte"><p>The Consortium of the R&amp;D-Project PrestoPRIME is proud to present the achieved results and solutions from 4 years of cooperative research and development:                  
+<p>Systems, Tools, Solutions – The final results and developments PrestoCentre – The European Competence-Center for Safeguarding AV-Heritage A glance in the future – what comes next Fellow Projects – Austrian and European projects &amp; solutions in the domain
+<p><a href="/docs/Leaflet_PP-Showcase_V07_Reminder.pdf" class="lien-pdf" target="_blank">Preliminary announcement</a></p>
+<p>Technical Museum, Vienna, 21-22/11/2012 </p>
+<p><a href="/docs/final_showcase.pdf" class="lien-pdf" target="_blank">Showcase Full Program</a></p> 
+</p></td>
+      
+		<td class="breve-liens"><p>&nbsp;</p>
+	    <p>&nbsp;</p></td>
+     
+      <tr>
+        <td colspan="4"><h2>&nbsp;</h2></td>
+      </tr>
+      <td class="breve-visuel"></td>
+      <td class="breve-texte"><p>&nbsp;</p>
+        <p>&nbsp;</p></td>
+      <tr>
+        <td colspan="4">&nbsp;</td>
+      </tr>
+    </table>
+  </div> 
+</div>
+
+<b><a href="/events/index.en.html" class="lien-std">Events archives</a><br><br></b>
+
+				<!-- HABILLAGE-NON-INDEXE -->
+				</td>
+				<td class="body-coldroite">
+				<div class="partenaires" align="center">
+	<a href="http://www.prestocentre.eu/" target="_blank"><img src="/design/bitmap/commun/prestocenter_logo.gif" alt="PrestoCentre"></a>
+	<img src="/design/bitmap/commun/logo-7fp.gif" alt="Seventh Framework Programme">
+	<img src="/design/bitmap/commun/logo-UE.gif" alt="UE"><br>
+	This project is funded by UE
+</div>
+				<div class="sep-col" align="center"><img src="/design/bitmap/commun/sep-col.gif" alt=""></div>
+				<div class="coldroite-bloc" align="right">
+	<div>
+		<span>Newsletter</span><br>
+		enter your email<br>
+		to receive our newsletter
+	</div>  
+	<form name="lettreinfo" method="GET" action="/cgi-bin/newsletter/confirmation.pl">
+		<table align="right">
+			<tr>
+				<td><input name="mail" type="text" onblur="if (this.value == '') { this.value = 'enter your email'; }" onfocus="if (this.value == 'enter your email') { this.value = ''; }" class="chp-txt" value="enter your email"></td>
+				<td><input type="image" src="/design/bitmap/commun/picto-ok.gif" value="subscribe" onclick="return Test_mail()"></td>
+			</tr>
+		</table>
+	</form>
+</div>
+				<div class="sep-col" align="center"><img src="/design/bitmap/commun/sep-col.gif" alt=""></div>
+				<div class="coldroite-bloc" align="right">
+	<div>
+		<span>Comments</span><br>
+		send your comments to<br>
+		<a href="mailto:webmaster@prestoprime.org">Webmaster</a>
+	</div>
+</div>
+				</td>
+			<tr>
+				<td>&nbsp;</td>
+<td class="footer">
+	<a HREF="/project/index.en.html">The Project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a HREF="/user_group/index.en.html">User group</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a HREF="/training/index.en.html">Training / Dissemination</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a HREF="/heritage/index.en.html">Cultural heritage projects</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a HREF="https://prestoprimews.ina.fr/index.en.html">Private access</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a href="mailto:webmaster@prestoprime.org">Contacts</a><br>
+	<a HREF="index.light.en.html">Print this page</a> . Last modified&nbsp;21/11/12 - &copy; PrestoPrime Consortium - 2009
+</td> 
+<td>&nbsp;</td>
+			</tr>
+		</table>
+	</div>
+	
+<script type="text/javascript">
+<!--
+xtnv = document; //parent.document or top.document or document 
+xtsd = "http://logi12";
+xtsite = "411225";
+xtn2 = "Home page"; // level 2 site
+xtpage = "index.en.html"; //page name (with the use of :: to create chapters)
+xtdi = ""; //implication degree
+//-->
+</script>
+<script type="text/javascript" src="/design/js/xtcore.js"></script>
+<noscript>
+<img width="1" height="1" alt="" src="http://logi12.xiti.com/hit.xiti?s=411225&amp;s2=Home page&amp;p=index.en.html&amp;di=&amp;" >
+</noscript>
+
+</body>
+</html>
+
+
+

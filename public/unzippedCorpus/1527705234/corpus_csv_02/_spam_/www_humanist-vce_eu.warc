@@ -1,0 +1,609 @@
+WARC/1.0
+WARC-Type: warcinfo
+WARC-Date: 2018-05-30T17:52:31Z
+WARC-All-Language: fr
+WARC-All-Content_type: text/html; charset=utf-8
+WARC-Record-ID: <urn:uuid:4a6dbbd6-80e0-480e-9c9e-9b77f4173b53>
+Content-Type: application/http;msgtype=response
+Content-Length: 46
+
+WARCProcessor by SING Group www.sing-group.com
+
+WARC/1.0
+WARC-Type: response
+WARC-Target-URI: http://www.humanist-vce.eu
+WARC-Date: 20180530175231
+WARC-Language: fr
+WARC-Record-ID: <http://www.humanist-vce.eu>
+Content-Type: application/http;msgtype=response
+Content-Length: 27436
+
+HTTP/1.1 200
+Content-Type:text/html; charset=utf-8
+
+
+<!DOCTYPE html>
+<html lang="fr" dir="ltr" class="no-js">
+<head>
+
+<meta charset="utf-8">
+<!-- 
+	Based on the TYPO3 Bootstrap Package by Benjamin Kott - http://www.bk2k.info
+
+	This website is powered by TYPO3 - inspiring people to share!
+	TYPO3 is a free open source Content Management Framework initially created by Kasper Skaarhoj and licensed under GNU/GPL.
+	TYPO3 is copyright 1998-2018 of Kasper Skaarhoj. Extensions are copyright of their respective owners.
+	Information and contribution at https://typo3.org/
+-->
+
+
+<link rel="shortcut icon" href="/fileadmin/contributeurs/humanist2016/favicon.ico" type="image/jpeg">
+<title>Humanist</title>
+<meta name="generator" content="TYPO3 CMS">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="robots" content="index,follow">
+<meta name="google" content="notranslate">
+<meta name="apple-mobile-web-app-capable" content="no">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta property="og:title" content="Humanist">
+
+
+<link rel="stylesheet" type="text/css" href="/typo3conf/ext/news/Resources/Public/Css/news-basic.css?1491869994" media="all">
+<link rel="stylesheet" type="text/css" href="/typo3temp/Assets/958683cf04.css?1471876588" media="all">
+<link rel="stylesheet" type="text/css" href="/typo3temp/Assets/f4038e38aa.css?1471876657" media="all">
+<link rel="stylesheet" type="text/css" href="/typo3temp/bootstrappackage/lessphp_0209a401b3ef528d386d08d1a9f97b99a070a210.css?1471876522" media="all">
+<link rel="stylesheet" type="text/css" href="/typo3conf/ext/bootstrap_grids/Resources/Public/Flexslider2/flexslider.css?1456416593" media="all">
+<link rel="stylesheet" type="text/css" href="/typo3temp/bootstrappackage/lessphp_79f0b5781e899d82eb0f0252f2dc4e0269a84889.css?1521734782" media="all">
+<link rel="stylesheet" type="text/css" href="/typo3temp/Assets/3499f1c314.css?1471876558" media="all">
+
+
+<script src="/typo3conf/ext/bootstrap_package/Resources/Public/JavaScript/Libs/modernizr-2.8.3.min.js?1466006574" type="text/javascript"></script>
+<script src="/typo3conf/ext/bootstrap_package/Resources/Public/JavaScript/Libs/windowsphone-viewportfix.min.js?1466006574" type="text/javascript"></script>
+<script src="/typo3conf/ext/wseils/Resources/Public/JavaScript/Libs/jquery-1.11.3.min.js?1505227596" type="text/javascript"></script>
+
+
+
+</head>
+<body>
+
+	<div class="body-bg">
+		
+		<a class="sr-only sr-only-focusable" href="#content">
+			Skip to main content
+		</a>
+		<header
+	class="navbar navbar-default navbar-has-image navbar-top">
+	<nav class="navbarTop">
+		<div class="container">
+			
+			
+			<div id="searchBox">
+				<form action="/" method="post" id="indexedsearch" class="navbar-form navbar-right"><fieldset><div class="input-group input-group-sm"><input type="text" value="Search" id="search-field" class="form-control" name="tx_indexedsearch[sword]" title="Search" onfocus="if(this.value =='Search'){this.value = ''}" onblur="if(this.value == ''){this.value = 'Search'}" /><span class="input-group-addon"><button title="Search" name="tx_indexedsearch[submit_button]" id="recherche-submit" type="submit" value="Ok"><span class="glyphicon glyphicon-search"></span></button></span><input type="hidden" name="tx_indexedsearch[sections]" value="0" /><input name="tx_indexedsearch[submit_button]" value="Search" type="hidden" /></div></fieldset></form>
+			</div>
+		</div>
+	</nav>
+	<div class="container">
+		<div class="navbar-header navbar-header-main">
+			<div class="col-sm-2 col-xs-3">
+				
+						<a class="navbar-brand navbar-brand-image" href="/">
+							<img src="/fileadmin/contributeurs/humanist/img/humanist-logo-web.png" alt=" logo" height="" width="">
+						</a>
+					
+			</div>
+			<div class="col-sm-7 col-sm-offset-3" id="partnerBrand">
+				<div class="row">
+					<div class="col-sm-3 hidden-xs">
+						
+					</div>
+					<div class="col-sm-3 hidden-xs">
+						
+					</div>
+					<div class="col-sm-3 hidden-xs">
+						
+					</div>
+					<div class="col-sm-3 hidden-xs">
+						
+					</div>
+				</div>
+			</div>
+			
+				<button class="navbar-toggle collapsed" type="button" data-toggle="collapse" data-target=".navbar-collapse">
+					<span class="sr-only">Toggle navigation</span>
+					<span class="icon-bar"></span>
+					<span class="icon-bar"></span>
+					<span class="icon-bar"></span>
+				</button>
+			
+		</div>
+		<nav class="navbar-collapse collapse" role="navigation">
+			<ul class="nav navbar-nav navbar-main"><li class="active"><a href="/" title="Home">Home</a></li><li class="dropdown"><a href="#" class="dropdown-toggle" data-toggle="dropdown">About us<b class="caret"></b></a><ul class="dropdown-menu"><li><a href="/about-us/missions/" title="Missions">Missions</a></li><li><a href="/about-us/partners/" title="Partners">Partners</a></li><li><a href="/about-us/board/" title="Board">Board</a></li></ul></li><li class="dropdown"><a href="#" class="dropdown-toggle" data-toggle="dropdown">Major Activities<b class="caret"></b></a><ul class="dropdown-menu"><li><a href="/major-activities/network-meetings/" title="Network meetings">Network meetings</a></li><li class="dropdown-submenu"><a href="#" class="dropdown-toggle" data-toggle="dropdown">Summer School<b class="caret"></b></a><ul class="dropdown-menu"><li><a href="/major-activities/summer-school/lisbon-2012/" title="Lisbon 2012">Lisbon 2012</a></li><li><a href="/major-activities/summer-school/vigo-2017/" title="Vigo 2017">Vigo 2017</a></li></ul></li><li class="dropdown-submenu"><a href="#" class="dropdown-toggle" data-toggle="dropdown">Conference<b class="caret"></b></a><ul class="dropdown-menu"><li><a href="/major-activities/conference/lyon-2008/" title="Lyon 2008">Lyon 2008</a></li><li><a href="/major-activities/conference/berlin-2010/" title="Berlin 2010">Berlin 2010</a></li><li><a href="/major-activities/conference/valencia-2012/" title="Valencia 2012">Valencia 2012</a></li><li><a href="/major-activities/conference/vienna-2014/" title="Vienna 2014">Vienna 2014</a></li><li><a href="/major-activities/conference/loughborough-2016/" title="Loughborough 2016">Loughborough 2016</a></li><li><a href="/major-activities/conference/the-hague-2018/" title="The Hague 2018">The Hague 2018</a></li></ul></li></ul></li><li class="dropdown"><a href="#" class="dropdown-toggle" data-toggle="dropdown">Projects<b class="caret"></b></a><ul class="dropdown-menu"><li><a href="/projects/humanist-projects/" title="HUMANIST projects">HUMANIST projects</a></li></ul></li><li class="dropdown"><a href="#" class="dropdown-toggle" data-toggle="dropdown">News<b class="caret"></b></a><ul class="dropdown-menu"><li><a href="/news/where-to-find-us/" title="Where to find us">Where to find us</a></li></ul></li><li><a href="http://humanistexperts.wikispaces.com" title="Experts groups">Experts groups</a></li><li class="dropdown"><a href="#" class="dropdown-toggle" data-toggle="dropdown">Contact<b class="caret"></b></a><ul class="dropdown-menu"><li><a href="/contact/head-office/" title="Head Office">Head Office</a></li><li><a href="/contact/contact-us/" title="Contact us">Contact us</a></li></ul></li><li><a href="http://eepurl.com/cGWnEP" title="Newsletter">Newsletter</a></li></ul>
+		</nav>
+	</div>
+</header>
+
+		
+
+		<div id="content" class="main-section">
+
+
+<section id="p1251" class="page-1251 pagelevel-0 language-3 backendlayout-pagets__default layout-0">
+	
+
+	<div id="c2927">
+
+    
+        
+        <div id="carousel-2927"
+             class="carousel slide"
+             data-interval="5000"
+             data-wrap="1"
+             data-ride="carousel">
+            <div class="carousel-inner" role="listbox">
+                
+                    
+                    
+                    <div
+                        class="item active carousel-item-type carousel-item-type-backgroundimage"
+                        data-itemno="0" style="
+                        
+                            
+                                
+                                background-image: url('/fileadmin/_processed_/d/2/csm_banner180406_d311bd97f1.jpg');
+                                filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src='./fileadmin/_processed_/d/2/csm_banner180406_d311bd97f1.jpg',
+                                sizingMethod='scale');
+                                -ms-filter:
+                                &quot;progid:DXImageTransform.Microsoft.AlphaImageLoader(src='/fileadmin/_processed_/d/2/csm_banner180406_d311bd97f1.jpg',
+                                sizingMethod='scale')&quot;;
+                            
+                        
+                    
+                        background-color: #333333;
+                    ">
+                        
+                            
+                            
+                            
+                        
+                    </div>
+                
+                    
+                    
+                    <div
+                        class="item carousel-item-type carousel-item-type-backgroundimage"
+                        data-itemno="1" style="
+                        
+                            
+                                
+                                background-image: url('/fileadmin/_processed_/5/c/csm_Fotolia_102457693_L_9ac73ddd4c.jpg');
+                                filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src='./fileadmin/_processed_/5/c/csm_Fotolia_102457693_L_9ac73ddd4c.jpg',
+                                sizingMethod='scale');
+                                -ms-filter:
+                                &quot;progid:DXImageTransform.Microsoft.AlphaImageLoader(src='/fileadmin/_processed_/5/c/csm_Fotolia_102457693_L_9ac73ddd4c.jpg',
+                                sizingMethod='scale')&quot;;
+                            
+                        
+                    
+                        background-color: #333333;
+                    ">
+                        
+                            
+                            
+                            
+                        
+                    </div>
+                
+                    
+                    
+                    <div
+                        class="item carousel-item-type carousel-item-type-backgroundimage"
+                        data-itemno="2" style="
+                        
+                            
+                                
+                                background-image: url('/fileadmin/_processed_/c/a/csm_Fotolia_94285508_L_0fa518ab52.jpg');
+                                filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src='./fileadmin/_processed_/c/a/csm_Fotolia_94285508_L_0fa518ab52.jpg',
+                                sizingMethod='scale');
+                                -ms-filter:
+                                &quot;progid:DXImageTransform.Microsoft.AlphaImageLoader(src='/fileadmin/_processed_/c/a/csm_Fotolia_94285508_L_0fa518ab52.jpg',
+                                sizingMethod='scale')&quot;;
+                            
+                        
+                    
+                        background-color: #333333;
+                    ">
+                        
+                            
+                            
+                            
+                        
+                    </div>
+                
+                    
+                    
+                    <div
+                        class="item carousel-item-type carousel-item-type-backgroundimage"
+                        data-itemno="3" style="
+                        
+                            
+                                
+                                background-image: url('/fileadmin/contributeurs/humanist/Fotolia_87208847_S.jpg');
+                                filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src='./fileadmin/contributeurs/humanist/Fotolia_87208847_S.jpg',
+                                sizingMethod='scale');
+                                -ms-filter:
+                                &quot;progid:DXImageTransform.Microsoft.AlphaImageLoader(src='/fileadmin/contributeurs/humanist/Fotolia_87208847_S.jpg',
+                                sizingMethod='scale')&quot;;
+                            
+                        
+                    
+                        background-color: #333333;
+                    ">
+                        
+                            
+                            
+                            
+                        
+                    </div>
+                
+                    
+                    
+                    <div
+                        class="item carousel-item-type carousel-item-type-backgroundimage"
+                        data-itemno="4" style="
+                        
+                            
+                                
+                                background-image: url('/fileadmin/_processed_/f/a/csm_Fotolia_87153988_L_f4336679e7.jpg');
+                                filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src='./fileadmin/_processed_/f/a/csm_Fotolia_87153988_L_f4336679e7.jpg',
+                                sizingMethod='scale');
+                                -ms-filter:
+                                &quot;progid:DXImageTransform.Microsoft.AlphaImageLoader(src='/fileadmin/_processed_/f/a/csm_Fotolia_87153988_L_f4336679e7.jpg',
+                                sizingMethod='scale')&quot;;
+                            
+                        
+                    
+                        background-color: #333333;
+                    ">
+                        
+                            
+                            
+                            
+                        
+                    </div>
+                
+                    
+                    
+                    <div
+                        class="item carousel-item-type carousel-item-type-backgroundimage"
+                        data-itemno="5" style="
+                        
+                            
+                                
+                                background-image: url('/fileadmin/_processed_/d/b/csm_Fotolia_68814773_M_03a1f7af5b.jpg');
+                                filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src='./fileadmin/_processed_/d/b/csm_Fotolia_68814773_M_03a1f7af5b.jpg',
+                                sizingMethod='scale');
+                                -ms-filter:
+                                &quot;progid:DXImageTransform.Microsoft.AlphaImageLoader(src='/fileadmin/_processed_/d/b/csm_Fotolia_68814773_M_03a1f7af5b.jpg',
+                                sizingMethod='scale')&quot;;
+                            
+                        
+                    
+                        background-color: #333333;
+                    ">
+                        
+                            
+                            
+                            
+                        
+                    </div>
+                
+            </div>
+            
+                <ol class="carousel-indicators">
+                    
+                        <li data-target="#carousel-2927" data-slide-to="0"
+                            class="active"></li>
+                    
+                        <li data-target="#carousel-2927" data-slide-to="1"
+                            class=""></li>
+                    
+                        <li data-target="#carousel-2927" data-slide-to="2"
+                            class=""></li>
+                    
+                        <li data-target="#carousel-2927" data-slide-to="3"
+                            class=""></li>
+                    
+                        <li data-target="#carousel-2927" data-slide-to="4"
+                            class=""></li>
+                    
+                        <li data-target="#carousel-2927" data-slide-to="5"
+                            class=""></li>
+                    
+                </ol>
+                <a data-slide="prev" role="button" class="left carousel-control" href="#carousel-2927">
+                    <span class="glyphicon glyphicon-chevron-left"></span>
+                    <span class="sr-only">Previous</span>
+                </a>
+                <a data-slide="next" role="button" class="right carousel-control" href="#carousel-2927">
+                    <span class="glyphicon glyphicon-chevron-right"></span>
+                    <span class="sr-only">Next</span>
+                </a>
+            
+        </div>
+    
+
+</div>
+	<div class="container">
+		
+		<!--TYPO3SEARCH_begin-->
+		
+		<div id="c2937"><div class="row"><div class=" col-sm-8 col-md-6  "><div id="c3583"><h1 class="first-headline">What HUMANIST is? </h1><p>HUMANIST is an association of research organisations that was established in 2007 in Lyon. It is composed of universities, research institutes and research intensive companies.HUMANIST aims to be a Virtual Center of Excellence in 4 areas:</p><ul><li>HMI – Human Machine Interaction</li><li>Human behaviour in Traffic</li><li>ITS – Intelligent Transport Systems</li><li>Vehicle automation</li></ul><p> Its members are active in these areas and in the interaction between them. The activities of HUMANIST are determined by the needs and interests of its members. As a general rule, all HUMANIST activities involve the active cooperation of at least three members.</p></div><div id="c11397"><div class="image-center image-above"><div class="image-wrap"><div class="image-center-outer"><div class="image-center-inner"><figure class="image"><a href="/major-activities/conference/the-hague-2018/">                <img src="/typo3conf/ext/bootstrap_package/Resources/Public/Images/blank.gif"  class="lazyload" data-src="/fileadmin/contributeurs/humanist/Vigo_2017/save_the_date3.jpg" data-bigger="/fileadmin/contributeurs/humanist/Vigo_2017/save_the_date3.jpg" data-large="/fileadmin/contributeurs/humanist/Vigo_2017/save_the_date3.jpg" data-medium="/fileadmin/_processed_/f/f/csm_save_the_date3_faad6f9860.jpg" data-small="/fileadmin/_processed_/f/f/csm_save_the_date3_21ca04fc61.jpg" alt="">
+                <noscript>
+                    <img src="/fileadmin/contributeurs/humanist/Vigo_2017/save_the_date3.jpg" alt=""/>
+                </noscript></a></figure></div></div></div></div></div></div><div class=" col-sm-4 col-md-6  "><div id="c2934"><h1 class="first-headline">News</h1>
+
+
+	
+
+
+<div class="news">
+	
+<!--TYPO3SEARCH_end-->
+	
+			
+					<div class="news-list-view breve">
+						
+								
+									<!--
+	=====================
+		Partials/List/Item.html
+-->
+<div class="article articletype-0" itemscope="itemscope" itemtype="http://schema.org/Article">
+	
+	
+	<!-- header -->
+	<div class="header">
+		<h2>
+			<a title="HUMANIST Conference 2018" href="/actualites-details/news/humanist-conference-2018/?tx_news_pi1%5Bcontroller%5D=News&amp;tx_news_pi1%5Baction%5D=detail&amp;cHash=d1b43a93f6c7c8b8a5cc64d3bbbf7028">
+				<span itemprop="headline">HUMANIST Conference 2018</span>
+			</a>
+		</h2>
+	</div>
+
+	<!-- footer information -->
+	<div class="footer">
+		<p>
+			<!-- date -->
+			<span class="news-list-date">
+				<time datetime="13 June 2018">
+					13 June 2018
+					<meta itemprop="datePublished" content="13 June 2018" />
+				</time>
+			</span>
+
+			
+		</p>
+
+		
+	</div>
+
+	
+			<div class="news-img-wrap">
+				
+						
+							<span class="no-media-element"></span>
+						
+					
+			</div>
+		
+
+
+	<!-- teaser -->
+	<div class="teaser-text">
+		
+				<span itemprop="description"><p>The next Humanist conference will be held on 13th, 14th June 2018 in The Hague.</p>
+<p><span style="font-weight: bold;">Draft program is available</span></p>
+<p><a href="/fileadmin/contributeurs/humanist/Programme.pdf">See more</a></p></span>
+			
+
+		<a class="more" title="Read more" href="/actualites-details/news/humanist-conference-2018/?tx_news_pi1%5Bcontroller%5D=News&amp;tx_news_pi1%5Baction%5D=detail&amp;cHash=d1b43a93f6c7c8b8a5cc64d3bbbf7028">...</a>
+	</div>
+</div>
+
+								
+									<!--
+	=====================
+		Partials/List/Item.html
+-->
+<div class="article articletype-0" itemscope="itemscope" itemtype="http://schema.org/Article">
+	
+	
+	<!-- header -->
+	<div class="header">
+		<h2>
+			<a title="RESOLVE Final event " href="/actualites-details/news/resolve-final-event/?tx_news_pi1%5Bcontroller%5D=News&amp;tx_news_pi1%5Baction%5D=detail&amp;cHash=7e7c871dbe09e4df118b4cc6adfccfdf">
+				<span itemprop="headline">RESOLVE Final event </span>
+			</a>
+		</h2>
+	</div>
+
+	<!-- footer information -->
+	<div class="footer">
+		<p>
+			<!-- date -->
+			<span class="news-list-date">
+				<time datetime="25 April 2018">
+					25 April 2018
+					<meta itemprop="datePublished" content="25 April 2018" />
+				</time>
+			</span>
+
+			
+		</p>
+
+		
+	</div>
+
+	
+			
+					
+							<div class="news-img-wrap">
+								<span class="no-media-element"></span>
+							</div>
+						
+				
+		
+
+
+	<!-- teaser -->
+	<div class="teaser-text">
+		
+				<span itemprop="description"><p>&nbsp;The RESOLVE project has the pleasure to invite you to join the Final Event, where main achievements of the three years project activities are shown....</p></span>
+			
+
+		<a class="more" title="Read more" href="/actualites-details/news/resolve-final-event/?tx_news_pi1%5Bcontroller%5D=News&amp;tx_news_pi1%5Baction%5D=detail&amp;cHash=7e7c871dbe09e4df118b4cc6adfccfdf">...</a>
+	</div>
+</div>
+
+								
+									<!--
+	=====================
+		Partials/List/Item.html
+-->
+<div class="article articletype-0" itemscope="itemscope" itemtype="http://schema.org/Article">
+	
+	
+	<!-- header -->
+	<div class="header">
+		<h2>
+			<a title="Critical Infrastructure Resilience event " href="/actualites-details/news/critical-infrastructure-resilience-event/?tx_news_pi1%5Bcontroller%5D=News&amp;tx_news_pi1%5Baction%5D=detail&amp;cHash=d5f3ab1c6baa439081a778ffb5bae346">
+				<span itemprop="headline">Critical Infrastructure Resilience event </span>
+			</a>
+		</h2>
+	</div>
+
+	<!-- footer information -->
+	<div class="footer">
+		<p>
+			<!-- date -->
+			<span class="news-list-date">
+				<time datetime="10 April 2018">
+					10 April 2018
+					<meta itemprop="datePublished" content="10 April 2018" />
+				</time>
+			</span>
+
+			
+		</p>
+
+		
+			<p class="event-info">
+				
+						<span class="event-date">The 10 April 2018</span>
+					
+			</p>
+		
+	</div>
+
+	
+			<div class="news-img-wrap">
+				
+						
+							<span class="no-media-element"></span>
+						
+					
+			</div>
+		
+
+
+	<!-- teaser -->
+	<div class="teaser-text">
+		
+				<span itemprop="description"><p>White paper is now <a href="/fileadmin/contributeurs/humanist/white-paper.pdf">available&nbsp;</a></p></span>
+			
+
+		<a class="more" title="Read more" href="/actualites-details/news/critical-infrastructure-resilience-event/?tx_news_pi1%5Bcontroller%5D=News&amp;tx_news_pi1%5Baction%5D=detail&amp;cHash=d5f3ab1c6baa439081a778ffb5bae346">...</a>
+	</div>
+</div>
+
+								
+							
+					</div>
+				
+		
+
+</div>
+</div><div id="c2932">
+
+
+	
+
+
+<div class="news">
+	
+<!--TYPO3SEARCH_end-->
+	
+			
+					<div class="no-news-found">
+						No news available.
+					</div>
+				
+		
+
+</div>
+</div></div></div></div>
+		<!--TYPO3SEARCH_end-->
+	</div>
+
+
+</section>
+
+
+
+
+		</div>
+		<footer class="hidden-sm hidden-xs">
+	<section class="footer-section">
+		<div class="container">
+			<div class="row">
+				<div class="col-sm-12">
+					<div id="c3291"><div class="row"><div class="  col-md-4  "><div id="c3292"><div class="row"><div class="  col-md-6  "><div id="c3295"><p><a href="/home/">Home&nbsp;</a></p></div></div><div class="  col-md-6  "><div id="c3296"><p><a href="/about-us/">About us</a></p>
+<p>Objectives and aims</p>
+<p><a href="/about-us/partners/">4 researchs area</a></p>
+<p>&nbsp;</p></div></div></div></div></div><div class="  col-md-4  "><div id="c3293"><div class="row"><div class="  col-md-6  "><div id="c3297"><p><a href="/major-activities/">Activities</a></p>
+<p><a href="/major-activities/network-meetings/">Activities</a></p>
+<p><a href="/major-activities/summer-school/">Conferences and events</a></p>
+<p><a href="/major-activities/conference/">Research projects</a></p></div></div><div class="  col-md-6  "><div id="c3298"><p><a href="/projects/">Members and partners</a></p>
+<p><a href="/projects/humanist-projects/">The HUMANIST society</a></p></div></div></div></div></div><div class="  col-md-4  "><div id="c3294"><div class="row"><div class="  col-md-6  "><div id="c3300"><p><a href="/contact/">Join us</a></p>
+<p>Why ?</p>
+<p><a href="/contact/head-office/">How ?</a></p></div></div><div class="  col-md-6  "><div id="c3301"><p><a href="/contact/contact-us/">Contact us</a></p></div></div></div></div></div></div></div><div id="c3288"></div>
+				</div>
+			</div>
+		</div>
+	</section>
+</footer>
+	</div>
+<script id="powermail_conditions_container" data-condition-uri="http://www.humanist-vce.eu/?type=3132"></script>
+<script src="/typo3conf/ext/bootstrap_package/Resources/Public/JavaScript/Libs/bootstrap.min.js?1466006574" type="text/javascript"></script>
+<script src="/typo3conf/ext/bootstrap_package/Resources/Public/JavaScript/Libs/jquery.responsiveimages.min.js?1466006574" type="text/javascript"></script>
+<script src="/typo3conf/ext/bootstrap_package/Resources/Public/JavaScript/Libs/hammer.min.js?1466006574" type="text/javascript"></script>
+<script src="/typo3conf/ext/bootstrap_package/Resources/Public/JavaScript/Libs/bootstrap.swipe.min.js?1466006574" type="text/javascript"></script>
+<script src="/typo3conf/ext/bootstrap_package/Resources/Public/JavaScript/Libs/bootstrap.lightbox.min.js?1466006574" type="text/javascript"></script>
+<script src="/typo3conf/ext/bootstrap_package/Resources/Public/JavaScript/Libs/bootstrap.navbartoggle.min.js?1466006574" type="text/javascript"></script>
+<!--[if IE 8 ]><script src="/typo3conf/ext/bootstrap_package/Resources/Public/JavaScript/Libs/selectivizr.min.js?1466006574" type="text/javascript"></script><![endif]-->
+<!--[if IE 8 ]><script src="/typo3conf/ext/bootstrap_package/Resources/Public/JavaScript/Libs/respond.min.js?1466006574" type="text/javascript"></script><![endif]-->
+<script src="/typo3conf/ext/bootstrap_grids/Resources/Public/Flexslider2/jquery.flexslider-min.js?1456416593" type="text/javascript"></script>
+<script src="/typo3conf/ext/powermail/Resources/Public/JavaScripts/Libraries/jquery.datetimepicker.min.js?1502182373" type="text/javascript"></script>
+<script src="/typo3conf/ext/powermail/Resources/Public/JavaScripts/Libraries/parsley.min.js?1502182373" type="text/javascript"></script>
+<script src="/typo3conf/ext/powermail/Resources/Public/JavaScripts/Powermail/Tabs.min.js?1502182373" type="text/javascript"></script>
+<script src="/typo3conf/ext/powermail/Resources/Public/JavaScripts/Powermail/Form.min.js?1502182373" type="text/javascript"></script>
+<script src="/typo3conf/ext/wseils/Resources/Public/JavaScript/Libs/PowermailCondition.js?1523541443" type="text/javascript"></script>
+<script src="https://maps.google.com/maps/api/js?sensor=true" type="text/javascript"></script>
+<script src="/typo3conf/ext/wseils/Resources/Public/JavaScript/Libs/gmaps.js?1505227596" type="text/javascript"></script>
+<script src="/typo3conf/ext/wseils/Resources/Public/JavaScript/Libs/prettify.js?1505227596" type="text/javascript"></script>
+<script src="/typo3conf/ext/wseils/Resources/Public/JavaScript/script.js?1526478890" type="text/javascript"></script>
+
+
+</body>
+</html>
+

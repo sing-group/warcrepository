@@ -1,0 +1,276 @@
+WARC/1.0
+WARC-Type: warcinfo
+WARC-Date: 2018-05-30T18:18:32Z
+WARC-Record-ID: <urn:uuid:e4f40be2-0fb8-4938-892f-34d2ceb66022>
+WARC-All-Language: fr
+WARC-All-Content_type: text/html, text/html; charset=utf-8
+Content-Type: application/http;msgtype=response
+Content-Length: 46
+
+WARCProcessor by SING Group www.sing-group.com
+
+WARC/1.0
+WARC-Type: response
+WARC-Record-ID: <http://www.elprg.eu>
+WARC-Date: 20180530181832
+WARC-Target-URI: http://www.elprg.eu
+WARC-Language: fr
+Content-Type: application/http;msgtype=response
+Content-Length: 10480
+
+HTTP/1.1 200
+Content-Type:text/html; charset=utf-8
+
+
+﻿
+<!DOCTYPE html>
+<html>
+<head>
+<title>Usine francaise dequipement d extraction de minerai de fer</title>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link href="/themes/en10/css/bootstrap.css" rel='stylesheet' type='text/css' />
+<link href="/themes/en10/css/style.css" rel='stylesheet' type='text/css' />
+<script src="/themes/en10/js/jquery-1.11.0.min.js"></script>
+<!---- start-smooth-scrolling---->
+<script type="text/javascript" src="/themes/en10/js/move-top.js"></script>
+<script type="text/javascript" src="/themes/en10/js/easing.js"></script>
+		<script type="text/javascript">
+			jQuery(document).ready(function($) {
+				$(".scroll").click(function(event){		
+					event.preventDefault();
+					$('html,body').animate({scrollTop:$(this.hash).offset().top},1000);
+				});
+			});
+		</script>
+<!---end-smooth-scrolling-->
+<!--start-top-nav-script-->
+		<script>
+			$(function() {
+				var pull 		= $('#pull');
+					menu 		= $('nav ul');
+					menuHeight	= menu.height();
+				$(pull).on('click', function(e) {
+					e.preventDefault();
+					menu.slideToggle();
+				});
+				$(window).resize(function(){
+	        		var w = $(window).width();
+	        		if(w > 320 && menu.is(':hidden')) {
+	        			menu.removeAttr('style');
+	        		}
+	    		});
+			});
+		</script>
+<!--End-top-nav-script-->
+</head>
+<body>
+	<!--start-header-->
+					
+	<!--start-header-->
+					<div class="header" id="home">
+						<div class="container">
+							<div class="logo">
+								<a href="/themes/fr10/index.html"><img src="/themes/fr10/images/logo.png" alt=""></a>  
+							</div>
+							<!--start-top-nav-->
+							 <nav class="top-nav">
+								<ul class="top-nav">
+									<li><a href="/themes/fr10/index.html" class="active">Accueil</a></li>&nbsp;/
+									
+									 
+									
+									
+									<li><a href="/themes/fr10/product.html">Products</a></li>&nbsp;/
+									
+									<li><a href="/themes/fr10/static/case/index.html">Case</a></li>&nbsp;/
+									
+									<li><a href="/themes/fr10/contact.html">Contact</a></li>&nbsp;/
+									
+									
+								</ul>
+								<a href="#" id="pull"><img src="/themes/fr10/images/menu-icon.png" title="menu" /></a>
+							</nav>
+							<div class="clearfix"> </div>
+						</div>
+				</div>
+		<!--End-header-->	
+		<!--start-search-->
+
+		<!--End-header-->	
+		<!--start-search-->
+			
+		<!--End-search-->	
+		<!--start-banner-->	
+		<div class="banner">
+			<div class="container">
+				
+				<div class="banner-bottom">
+					<div  id="top" class="callbacks_container">
+			      		<ul class="rslides" id="slider4">
+			        	<li>
+							<img src="/themes/fr10/images/banner-4.jpg" alt="" />
+						</li>
+						<li>
+							<img src="/themes/fr10/images/banner-2.jpg" alt="" />
+						</li>
+						<li>
+							<img src="/themes/fr10/images/banner-3.jpg" alt="" />
+						</li>
+						<li>
+							<img src="/themes/fr10/images/banner-4.jpg" alt="" />
+						</li>
+						<li>
+							<img src="/themes/fr10/images/banner-5.jpg" alt="" />
+						</li>
+			      		</ul>
+			    	</div>
+			    <div class="clearfix"> </div>
+				</div>
+			</div>
+		</div>
+		<!--End-banner-->
+		
+		<!--Slider-Starts-Here-->
+				<script src="/themes/en10/js/responsiveslides.min.js"></script>
+			 <script>
+			    // You can also use "$(window).load(function() {"
+			    $(function () {
+			      // Slideshow 4
+			      $("#slider4").responsiveSlides({
+			        auto: true,
+			        pager: true,
+			        nav: true,
+			        speed: 500,
+			        namespace: "callbacks",
+			        before: function () {
+			          $('.events').append("<li>before event fired.</li>");
+			        },
+			        after: function () {
+			          $('.events').append("<li>after event fired.</li>");
+			        }
+			      });
+			
+			    });
+			  </script>
+			<!--End-slider-script-->	
+	<!--start-lorem-->
+	<div class="lorem">
+		<div class="container">
+			<div class="lorem-main">
+				<div class="lorem-left">
+					<img src="/themes/fr10/images/i.png" alt="">
+				</div>
+				<div class="lorem-right">
+					<h3>De meilleures machines minières fabriquées en Chine.</h3>
+					<p>Nos produits ne sont pas seulement reconnus dans plus de 20 provinces et villes sur les marchés domestiques.</p>
+				</div>
+				<div class="clearfix"></div>
+			</div>
+			<div class="lorem-top">
+				<div class="col-md-4 lorem-top-one">
+					<div class="lorem-top-left">
+						<h3>Concasseurs mobiles</h3>
+						<img src="/themes/fr10/images/mobile.jpg" alt="">
+						<h4>Usines de concasseurs mobiles</h4>
+						<p>Pour les applications de sous-traitance, d'extraction en carrière et de concassage dans les puits, Liming's Mining and Construction Technology offre une vaste gamme de produits éprouvés.</p>
+						<div class="tool">
+							<a class="tooltips" href="/themes/fr10/Product.html">
+								<span>Lire la suite</span></a>
+						</div>
+					</div>
+				</div>
+				<div class="col-md-4 lorem-top-one">
+					<div class="lorem-top-left">
+						<h3>Stone Crushers</h3>
+						<img src="/themes/fr10/images/svr.jpg" alt="">
+						<h4>Stone Crusher Plants</h4>
+						<p>We are a larger and professional crushing equipments manufacturer,which are widely used in various ore crushing, railway, roadway, energy, metallurgy.</p>
+						<div class="tool">
+							<a class="tooltips" href="single.html">
+								<span>Lire la suite</span></a>
+						</div>
+					</div>
+				</div>
+				<div class="col-md-4 lorem-top-one">
+					<div class="lorem-top-left">
+						<h3>Broyeurs</h3>
+						<img src="/themes/fr10/images/sup.jpg" alt="">
+						<h4>Raymond Mill,LM Mills</h4>
+						<p>nos équipements de broyage sont principalement utilisés pour fabriquer des poudres pour des industries comme la métallurgie, les matériaux de construction, l'industrie chimique, l'hydroélectricité, la mine.</p>
+						<div class="tool">
+							<a class="tooltips" href="single.html">
+								<span>Lire la suite</span></a>
+						</div>
+					</div>
+				</div>
+				<div class="clearfix"></div>
+			</div>
+			<div class="lorem-middle">
+				<div class="lorem-middle-top">
+					<h3>Liming Agent & Distributeur Détails.</h3>
+					<p>Afin de fournir un meilleur service pour le client global, nous avons besoin d'un agent ou distributeur pour nous aider à promouvoir nos machines sur leur marché et fournir un meilleur service à notre client.</p>
+				</div>
+				<div class="lorem-middle-bottom">
+					<div class="col-md-6 lorem-middle-left">
+						<h4>Meilleures machines de vente</h4>
+						<p>Nos produits incluent concasseur à mâchoires, concasseur à cône, concasseur à percussion, broyeur VSI (machine de fabrication de sable), broyeur ultrafin, broyeur vertical, broyeur à suspension <a href="javascript:void(0)" onclick="openZoosUrl('chatwin')" title="Click here for online support!" target="_self">/ more info /</a></p>
+						<h4>Machines de vente à chaud,</h4>
+						<p>Trapèze Mill, broyeur à marteaux, moulin Raymod, broyeur à boulets, tamis vibrant, chargeur vibrant, convoyeur à bande, machine à laver le sable etc. <a href="javascript:void(0)" onclick="openZoosUrl('chatwin')" title="Click here for online support!" target="_self">/ more info /</a></p>
+					</div>
+					<div class="col-md-6 lorem-middle-left">
+						<ul><li><a href='/fer_concasseur/'>Ou puis-je acheter un concasseur de minerai de fer</a></li><li><a href='/fer_concasseur1/'>Je veux acheter le concasseur a cone de minerai de fer</a></li><li><a href='/fer_concasseur2/'>Modele de broyeur a percussion de minerai de fer</a></li><li><a href='/fer_concasseur3/'>Prix du broyeur mobile de minerai de fer</a></li><li><a href='/fer_concasseur4/'>Prix de la machine de flottation de minerai de fer</a></li><li><a href='/fer_concasseur5/'>Chaine de production de concassage de minerai de fer</a></li><li><a href='/copper_concasseur/'>Chaine de production de concassage de granit de la Russie</a></li><li><a href='/copper_concasseur1/'>Chaine de production cassee de chaux</a></li><li><a href='/copper_concasseur2/'>Algerie concasseur de minerai de fer</a></li><li><a href='/copper_concasseur3/'>Chili concassage de minerai de cuivre</a></li><li><a href='/jaw/'>Concasseur a machoires canadien pe</a></li></ul>
+					</div>
+					<div class="clearfix"></div>
+					
+				</div>
+			</div>
+			
+		</div>
+	</div>	
+	<!--End-lorem-->
+	<!--start-footer-->
+	<!--start-footer-->
+	<div class="footer">
+		<div class="container">
+			<div class="footer-main">
+				<div class="col-md-8 footer-left">
+					<ul>
+						<li><a href="/themes/fr10/index.html" class="active">Accueil</a></li>&nbsp;/
+						<li><a href="/themes/fr10/about.html">À PROPOS DE NOUS</a></li>&nbsp;/
+						<li><a href="/themes/fr10/Product.html">Products</a></li>&nbsp;/
+						<li><a href="/themes/fr10/case.html">Case</a></li>&nbsp;/
+						<li><a href="/themes/fr10/contact.html">Contactez nous</a></li>
+					</ul>
+					<p>Copyright &copy; 2018.Company name All rights reserved - Collect from SHXM MINING</p>
+				</div>
+				<div class="col-md-2 footer-middle">
+					<h3>Contact Us</h3>
+					<p><a href="/cdn-cgi/l/email-protection#4824212521262f2e3d222129082f25292124662b2725"><span class="__cf_email__" data-cfemail="e78b8e8a8e898081928d8e86a7808a868e8bc984888a">[email&#160;protected]</span></a></p>
+				</div>
+				<div class="col-md-2 footer-right">
+					<h3>Follow Us On...</h3>
+					<ul>
+						<li><a href="/sitemap.xml"><span class="twit"> </span></a></li>
+						<li><a href="#"><span class="fb"> </span></a></li>
+						<li><a href="#"><span class="in"> </span></a></li>
+						<li><a href="#"><span class="o"> </span></a></li>
+						<li><a href="#"><span class="v"> </span></a></li>
+					</ul>
+				</div>
+				<div class="clearfix"></div>
+			</div>
+		</div>
+<script data-cfasync="false" src="/cdn-cgi/scripts/f2bf09f8/cloudflare-static/email-decode.min.js"></script><script type="text/javascript" src="/themes/en10/js/chat_aufr.js"></script>
+<script type="text/javascript" src="/themes/en10/js/chat_cfr.js"></script>
+<script>
+directDialogue();
+invatation("Para obtener información de productos y precios, póngase en contacto con nosotros.",5);
+</script>
+		
+
+	</div>
+	<!--End-footer-->			
+</body>
+</html>
+

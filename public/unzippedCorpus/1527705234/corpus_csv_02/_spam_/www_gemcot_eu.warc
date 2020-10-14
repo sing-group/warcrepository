@@ -1,0 +1,325 @@
+WARC/1.0
+WARC-Type: warcinfo
+WARC-Date: 2018-05-30T17:52:32Z
+WARC-All-Language: en
+WARC-All-Content_type: text/html; charset=UTF-8
+WARC-Record-ID: <urn:uuid:c6b427f4-f973-401c-940f-f8870db2bfeb>
+Content-Type: application/http;msgtype=response
+Content-Length: 46
+
+WARCProcessor by SING Group www.sing-group.com
+
+WARC/1.0
+WARC-Type: response
+WARC-Target-URI: http://www.gemcot.eu
+WARC-Date: 20180530175232
+WARC-Language: en
+WARC-Record-ID: <http://www.gemcot.eu>
+Content-Type: application/http;msgtype=response
+Content-Length: 10476
+
+HTTP/1.1 200
+Content-Type:text/html; charset=UTF-8
+
+
+<!DOCTYPE html>
+<html>
+
+<head>
+
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="Programming" content="S.Degtyarchuk" />
+<meta name="Data-Base" content="S.Degtyarchuk" />
+<meta name="Content" content="http://gemcot.eu/" />
+<meta name="description" content="Gemcot" />
+<meta name="keywords" content="Gemcot,Acme,Ricoh,Toshiba,Benq,Media,Electronics,Music,CD,DVD,MP3 player, MP4 player,Flash card,Media catalogue,Accessory,Photo, Caplio, Digital" />
+<meta name="Copyright" content="http://gemcot.eu/" />
+<meta name="Url" content="http://gemcot.eu/" />
+<meta name="robots" content="all" />
+<meta name="Document-state" content="Dynamic" />
+<meta name="revisit" content="1 days" />
+<meta name="revisit-after" content="1 day" />
+<meta name="Classification" content="Global, Shop, News" />
+<meta name="rating" content="general" />
+<meta name="resource-type" content="document" />
+<meta http-equiv="Content-Language" content="ru, en, uk" />
+
+<link rel="icon" href="../images/favicon.ico" type="image/x-icon" />
+<link rel="shortcut icon" href="../images/favicon.ico" type="image/x-icon" />
+
+<script language="JavaScript" src="../lib/jquery-1.4.4.min.js"></script>
+<script language="JavaScript" src="../lib/responsiveslides.min.js"></script>
+<script language="JavaScript" src="../ckeditor/ckeditor.js"></script>
+<script language="JavaScript" src="../fancybox/jquery.fancybox-1.3.4.pack.js"></script>
+<link rel="stylesheet" type="text/css" href="../fancybox/jquery.fancybox-1.3.4.css" media="screen" />
+<script type="text/javascript">
+$(function() {
+    $("#slider").responsiveSlides({
+        nav: true,
+        fade: 800
+    });
+});
+$(document).ready(function() {
+    $("a#example2").fancybox({
+        'overlayShow'   : false,
+        'transitionIn'  : 'elastic',
+        'transitionOut' : 'elastic'
+    });
+});
+</script>
+
+<style type="text/css">
+<!--
+
+
+* { font-family: Arial, Helvetica, sans-serif; font-size: 12px; }
+
+a:link { text-decoration: none; color:#0072bc; }
+a:hover { text-decoration: underline; color:#0072bc; }
+a:visited { text-decoration: none; color:#0072bc; }
+
+.tbl { border:1px; border-color:#cccccc; border-style:solid; }
+
+.slider-container {
+width:100% !important;
+position:relative;
+padding:0;
+max-height:450px !important;
+overflow:hidden;
+background: #1a1a1a; 
+}
+#slider {
+  position: relative;
+  list-style: none;
+  overflow: hidden;
+  width: 100%;
+  padding: 0;
+  margin: 0;
+  }
+
+#slider li {
+  -webkit-backface-visibility: hidden;
+  position: absolute;
+  display: none;
+  width: 100%;
+  left: 0;
+  top: 0;
+  }
+
+#slider li:first-child {
+  position: relative;
+  display: block;
+  float: left;
+  }
+
+#slider img {
+  display: block;
+  height: auto;
+  float: left;
+  width: 100%;
+  border: 0;
+  }
+#slider .caption {
+  position: absolute;
+  display: block;
+  width: 960px;
+  top: -20px;
+  left: 50%;
+  margin-left: -480px;
+  text-align: left;
+ }
+#slider .caption p {
+width: 440px; 
+  padding: 0px 10px 5px 10px;
+  background: #e5e5e5;
+  background: rgba(229,229,229, 0.9);
+  color: #1a1a1a;
+  font-size: 32px;
+  }
+#slider .caption p a{
+  color: #1a1a1a;
+  text-decoration: none;
+}
+#slider .caption p span{
+  color: #4c361f;
+  font-family: 'Georgia';
+  font-weight: 700;
+  }
+
+.rslides1_nav {
+  position: absolute;
+  -webkit-tap-highlight-color: rgba(0,0,0,0);
+  top: 50%;
+  left: 5%;
+  z-index: 99;
+  opacity: 0.7;
+  text-indent: -9999px;
+  overflow: hidden;
+  text-decoration: none;
+  height: 46px;
+  width: 46px;
+  background: transparent url("../images/arrows.png") no-repeat left top;
+  margin-top: -23px;
+  }
+
+.rslides1_nav:active, .rslides1_nav:hover {
+  opacity: 1.0;
+  }
+
+.rslides1_nav.next {
+  left: auto;
+  background-position: right top;
+  right: 5%;
+  }
+.rslides1_nav:focus { outline: none; }
+
+
+-->
+</style>
+
+<title>Gemcot &bull; Gemcot</title></head>
+
+<body>
+
+<div id="header">
+    <table width="980" border="0" cellspacing="0" cellpadding="10" style="margin: 0 auto;">
+    <tr valign="bottom">
+        <td width="250"><a href="/"><img src="../images/logo.gemcot.eu.jpg" border="0"></a></td>
+        <td>
+	        <a href="news.php">News</a> |
+	        <a href="catalogue.php">Catalogue</a> |
+	        <a href="delivery.php">Delivery</a> |
+	        <a href="contacts.php">Contacts</a> |
+	        <a target="_blank" href="http://bonanza.gemcot.eu/">Partners only</a>
+        </td>
+        <td align="right">
+            <a href="javascript:releLng('ru');"><img class="flag" src="../images/flag-ru.png" width="20" height="13" style="margin-right: 5px;"/></a>
+            <a href="javascript:releLng('en');"><img class="flag" src="../images/flag-en.png" width="20" height="13" /></a>
+            <script type="text/javascript">
+            function releLng(varReleLng){
+                arr = document.location.pathname.split('/');
+                $.ajax({
+                    type: "POST",
+                    url: "../lng/ajax.rele.lng.php",
+                    data: { lng: varReleLng },
+                    cache: false,
+                    success: function(responce){ document.location = '/'+varReleLng+'/'+arr[arr.length-1]+document.location.search; }
+                });
+            };
+            </script>
+        </td>
+    </tr>
+    </table>
+</div>
+
+<div id="boxSlider">
+    <table width="980" border="0" cellspacing="0" cellpadding="10" class="tbl" style="margin: 0 auto;">
+    <tr>
+        <td>
+            <div class="slider-container">
+                <ul id="slider">
+                                        <li>
+                        <a href="/"><img src="../images/slider/16.jpg" /></a>
+                                            </li>
+                                        <li>
+                        <a href="http://sharp.market/"><img src="../images/slider/20.jpg" /></a>
+                                            </li>
+                                        <li>
+                        <a href="/"><img src="../images/slider/18.jpg" /></a>
+                                            </li>
+                                        <li>
+                        <a href="/"><img src="../images/slider/19.jpg" /></a>
+                                            </li>
+                                    </ul>
+            </div>
+        </td>
+    </tr>
+    </table>
+</div>
+
+<br>
+
+<div id="content">
+	<table width="980" border="0" cellspacing="0" cellpadding="10" class="tbl" style="margin: 0 auto;">
+	<tr bgcolor="#e1e8e1">
+		<td align="left"><b>Gemcot</b></td>
+	</tr>
+	<tr valign="top">
+        <td align="left">
+
+    <p>
+	<strong>HISTORY</strong><br />
+	Gemcot SA was established in 1990 as an international<a class="s45SZ1Gww46xW " href="http://s.igmhb.com/click?v=VUE6NzY3MzE6ODAwNjp0cmFkaW5nIGNvbXBhbnk6ODg2M2MyNTFlYWUxZTYyN2FiYmFlYzhhOWE3NWQ0NDE6ei0yNDQ5LTg3OTczNzc2Ond3dy5nZW1jb3QuZXU6Mjk3NTU5OmYwZjdjZDk5MWRmODY3YjQ1MDA1ZWMwM2Q5ZjEzN2QzOjA3YzA1ZjY2MDI3ZDQ1Mjc4NWU2ZTQ4YTRkZTY1NTBjOjA6ZGF0YV9zcywxMDY3eDE3MDc7ZGF0YV9yYywxO2RhdGFfZmIsbm87Ojg1MzE0NTE6OjowLjAx&amp;subid=g-87973776-e3cb199f8eab4959a4ee4f2cb91f6020-&amp;data_ss=1067x1707&amp;data_rc=1&amp;data_fb=no&amp;data_tagname=A&amp;data_ct=image_only&amp;data_clickel=link&amp;data_sid=4b6367de644575b6ac7eca36e815a0b4" target="a652c_1474361747_wwwgemcoteu_297559" title="Нажмите, чтобы продолжить, Advertise"> trading company<img src="http://cdncache-a.akamaihd.net/items/it/img/arrow-10x10.png" /></a> with headquarters in Switzerland.<br />
+	<br />
+	Since 2005 the primary activities of Gemcot SA are development, marketing and distribution of optical storage media, IT accessories and multimedia products.<br />
+	<br />
+	In 2007 the existing operations in the rapidly growing markets in Central and Eastern Europe were structured within the regional companies, integrated within Gemcot distribution network: Gemcot Ukraine TOV and Gemcot Slovakia s.r.o.<br />
+	&nbsp;&nbsp; &nbsp;<br />
+	<strong>MISSION</strong><br />
+	Our mission is to bring the newest technological solutions to our consumers for a reasonable price. We are striving to fully satisfy our customers by offering the best possible service. Our rapid response to customer demand allows us to make new product available to the customer in the shortest period of time.<br />
+	<br />
+	With the constantly growing product range we are offering access to:</p>
+<ul>
+	<li>
+		Latest technology available on the market;</li>
+	<li>
+		Best quality entirely compatible with Swiss standards;</li>
+	<li>
+		Attractive design;</li>
+	<li>
+		Advantageous pricing;</li>
+	<li>
+		Customer-oriented service.</li>
+</ul>
+<p>
+	<br />
+	We are confident in our success based on our competitive advantages the excellent knowledge of European marketplace, including extensive contacts within local distribution and retail networks, first-hand knowledge of leading manufacturers, logistics, including freight forwarding from Asia and within Europe, warehousing and in-time delivery within the region.<br />
+	&nbsp;&nbsp; &nbsp;<br />
+	<strong>OUR PRODUCT RANGE</strong><br />
+	The product range distributed by Gemcot Group companies includes:</p>
+<ul>
+	<li>
+		RICOH optical media and digital cameras;</li>
+	<li>
+		ACME optical media, IT accessories and multimedia products;</li>
+	<li>
+		PQI memory module products;</li>
+	<li>
+		TECNO photo paper;</li>
+	<li>
+		GOODRAM flash memory products.</li>
+</ul>
+
+
+</td>
+    </tr>
+	</table>
+</div>
+
+<div id="footer">
+    <table width="980" border="0" cellspacing="0" cellpadding="10" style="margin: 0 auto;">
+    <tr valign="top">
+        <td align="center">
+		    &copy; 2008 - 2018 Gemcot.
+		    Use of material is permitted only with explicit reference <a href="/">Gemcot</a><br>
+		    Address: Gemcot SA. Rue de la Rotisserie 6, 1204 Geneva, Switzerland.
+		    
+		    Phone: 
+		    		                    +41-(0)-22-503.41.07.
+            		    
+		    Fax: +41-(0)-1-355.36.11.		    
+		    E-mail: <script type="text/javascript" language="javascript">
+<!--
+{document.write(String.fromCharCode(60,97,32,104,114,101,102,61,34,109,97,105,108,116,111,58,118,97,115,121,108,46,112,101,116,114,101,110,107,111,64,103,101,109,99,111,116,46,101,117,34,32,62,118,97,115,121,108,46,112,101,116,114,101,110,107,111,64,103,101,109,99,111,116,46,101,117,60,47,97,62))}
+//-->
+</script>
+<br>
+		    Sponsor: <a target="_blank" href="http://www.bogdan-petrenko.com/">bogdan-petrenko.com</a>
+        </td>
+    </tr>
+    </table>
+</div>
+
+</body>
+</html>
+

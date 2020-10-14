@@ -1,0 +1,359 @@
+WARC/1.0
+WARC-Type: warcinfo
+WARC-Date: 2018-05-30T17:52:31Z
+WARC-Record-ID: <urn:uuid:d3ccdaab-09f1-492d-833f-f574bdc255b3>
+WARC-All-Language: en
+WARC-All-Content_type: text/html; charset=UTF-8, text/html
+Content-Type: application/http;msgtype=response
+Content-Length: 46
+
+WARCProcessor by SING Group www.sing-group.com
+
+WARC/1.0
+WARC-Type: response
+WARC-Record-ID: <http://www.coopers-ip.eu>
+WARC-Date: 20180530175231
+WARC-Target-URI: http://www.coopers-ip.eu
+WARC-Language: en
+Content-Type: application/http;msgtype=response
+Content-Length: 52843
+
+HTTP/1.1 200
+Content-Type:text/html; charset=UTF-8
+
+
+<!DOCTYPE html>
+<!--[if IE 7]>
+<html class="ie ie7" lang="en">
+<![endif]-->
+<!--[if IE 8]>
+<html class="ie ie8" lang="en">
+<![endif]-->
+<!--[if !(IE 7) & !(IE 8)]><!-->
+<html lang="en">
+<!--<![endif]-->
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width">
+	<link rel="profile" href="http://gmpg.org/xfn/11">
+	<link rel="pingback" href="http://www.coopers-ip.eu/xmlrpc.php">
+	<title>Michael Coppers &#8211; Personal Investigations &#8211; Michael Coppers Blog with researches on public transportation and urbanization</title>
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="Michael Coppers - Personal Investigations &raquo; Feed" href="http://www.coopers-ip.eu/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Michael Coppers - Personal Investigations &raquo; Comments Feed" href="http://www.coopers-ip.eu/comments/feed/" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.4\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.4\/svg\/","svgExt":".svg","source":{"concatemoji":"http:\/\/www.coopers-ip.eu\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.9.6"}};
+			!function(a,b,c){function d(a,b){var c=String.fromCharCode;l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,a),0,0);var d=k.toDataURL();l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,b),0,0);var e=k.toDataURL();return d===e}function e(a){var b;if(!l||!l.fillText)return!1;switch(l.textBaseline="top",l.font="600 32px Arial",a){case"flag":return!(b=d([55356,56826,55356,56819],[55356,56826,8203,55356,56819]))&&(b=d([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]),!b);case"emoji":return b=d([55357,56692,8205,9792,65039],[55357,56692,8203,9792,65039]),!b}return!1}function f(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var g,h,i,j,k=b.createElement("canvas"),l=k.getContext&&k.getContext("2d");for(j=Array("flag","emoji"),c.supports={everything:!0,everythingExceptFlag:!0},i=0;i<j.length;i++)c.supports[j[i]]=e(j[i]),c.supports.everything=c.supports.everything&&c.supports[j[i]],"flag"!==j[i]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[j[i]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(h=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",h,!1),a.addEventListener("load",h,!1)):(a.attachEvent("onload",h),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),g=c.source||{},g.concatemoji?f(g.concatemoji):g.wpemoji&&g.twemoji&&(f(g.twemoji),f(g.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='nord-fonts-css'  href='//fonts.googleapis.com/css?family=Lora%3A400%2C400italic%2C700%2C700italic%7CMontserrat%3A400&#038;ver=1.1.1#038;subset=latin%2Clatin-ext' type='text/css' media='all' />
+<link rel='stylesheet' id='nord-bootstrap-custom-css'  href='http://www.coopers-ip.eu/wp-content/themes/nord-theme/css/bootstrap-custom.css?ver=3.3.2' type='text/css' media='all' />
+<link rel='stylesheet' id='nord-entypo-css'  href='http://www.coopers-ip.eu/wp-content/themes/nord-theme/css/entypo.css?ver=2.0.0' type='text/css' media='all' />
+<link rel='stylesheet' id='nord-style-css'  href='http://www.coopers-ip.eu/wp-content/themes/nord-theme/style.css?ver=1.1.1' type='text/css' media='all' />
+<script type='text/javascript' src='http://www.coopers-ip.eu/wp-includes/js/jquery/jquery.js?ver=1.12.4'></script>
+<script type='text/javascript' src='http://www.coopers-ip.eu/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
+<link rel='https://api.w.org/' href='http://www.coopers-ip.eu/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www.coopers-ip.eu/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://www.coopers-ip.eu/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 4.9.6" />
+		<style type="text/css">.recentcomments a{display:inline !important;padding:0 !important;margin:0 !important;}</style>
+		</head>
+
+<body class="home blog primary-navigation-dark">
+
+<div id="page" class="hfeed site">
+
+    <a href="#" id="sidebar-toggle" class="sidebar-toggle"><i class="menu-icon"></i></a>
+    
+  <div class="wrapper">
+    <div class="container">
+      <header id="musthead" class="site-header">
+                
+        <div class="site-identity">
+        <h1 class="site-title"><a href="http://www.coopers-ip.eu/" rel="home">Michael Coppers - Personal Investigations</a></h1><div class="tagline"></div>        </div>
+        
+                
+              </header>
+      
+            
+      <div id="content" class="site-content">
+
+	<div id="primary" class="content-area">
+		<main id="main" class="site-main">
+
+				
+			
+      
+<article id="post-44" class="post-44 post type-post status-publish format-standard has-post-thumbnail hentry category-history tag-figure-skating tag-medals tag-olympic-games tag-skiing tag-winter-games">
+  
+    <a class="post-thumbnail" href="http://www.coopers-ip.eu/the-olympic-challenge/" aria-hidden="true">
+      <img width="800" height="533" src="http://www.coopers-ip.eu/wp-content/uploads/2018/01/download-6.jpeg" class="attachment-nord-post-thumbnail-crop size-nord-post-thumbnail-crop wp-post-image" alt="The Olympic Challenge" srcset="http://www.coopers-ip.eu/wp-content/uploads/2018/01/download-6.jpeg 800w, http://www.coopers-ip.eu/wp-content/uploads/2018/01/download-6-300x200.jpeg 300w, http://www.coopers-ip.eu/wp-content/uploads/2018/01/download-6-768x512.jpeg 768w" sizes="(max-width: 800px) 100vw, 800px" />    </a>
+
+      
+  <div class="inner">
+    <header class="entry-header">
+    <div class="cat-links"><a href="http://www.coopers-ip.eu/category/history/" class="category-29">History</a></div><h2 class="entry-title"><a href="http://www.coopers-ip.eu/the-olympic-challenge/" rel="bookmark">The Olympic Challenge</a></h2><div class="entry-meta"><span class="posted-on post-meta">Posted on <time class="entry-date published" datetime="2018-01-15T17:09:44+00:00">January 15, 2018</time></span><span class="byline post-meta"><span class="author vcard">by <a class="url fn n" href="http://www.coopers-ip.eu/author/admin/">admin</a></span></span></div>    </header><!-- .entry-header -->
+
+          <div class="entry-content">
+      <p>With Olympics on the horizon, the world turns its attention to the U.S. as the 2002 Winter Games begin in Salt Lake City. For the following two weeks the world&#8217;s greatest amateur athletes will compete for gold and the glory of their respective countries.</p>
+<p>Though the competition is always fierce, this year&#8217;s event is especially symbolic as the world recovers from the recent terrorist attacks. In the wake of such tragic events, the Olympic spirit of unity and goodwill is more evident than ever. As the host country, the U.S. expects this &#8216;spirit&#8217; to transcend September 11 and promote a more profound commitment to cooperation and world peace.</p>
+<p>Perhaps the best illustration of integration and unity can be found within the U.S. Olympic team itself. In several events some of America&#8217;s brightest stars are immigrants who left their native countries behind to fulfill their Olympic dream in the U.S. As immigrants these athletes are proud to represent America, along with the opportunity to act as ambassadors of freedom and international cooperation. With national pride currently on the rise, these Olympic hopefuls offer Americans another reason to rally together.</p>
+<h3>
+<strong>Ice Dancing</strong></h3>
+<p>With Olympics on the horizon, the world turns its attention to the U.S. as the 2002 Winter Games begin in Salt Lake City. For the following two weeks the world&#8217;s greatest amateur athletes will compete for gold and the glory of their respective countries.</p>
+<p>Peter Tchernyshev</p>
+<p>One of America&#8217;s top medal contenders is ice dancer Peter Tchernyshev. Born in St. Petersburg, Russia, he began skating at the age of six after his grandfather introduced him to the sport.</p>
+<p>At first, he was a singles competitor until an ankle injury led him to pursue the discipline of ice dancing. Originally he represented the Soviet Union before moving to the U.S. to compete for three years. With great sacrifice he left behind his family, friends and homeland and came to the U.S. permanently in 1992 with his former wife, ice dancer Natalia Annenko.</p>
+<p>In 1996, after separating from his previous skating partner, Tchernyshev met Naomi Lang and the two instantly clicked. Since that time, the pair has repeatedly won the U.S. Ice Dancing Championships and was ranked as high as 8th in the world.</p>
+<p>In order to compete for the U.S. in the upcoming Olympics, Tchernyshev made the decision to become a U.S. citizen on Jan. 29, 2001. He says he never intended or wished to become an American citizen when he was younger. But he says that after skating and living in the United States, he started feeling like an American. &#8220;I didn&#8217;t become a citizen just to represent the country as a skater,&#8221; he says. &#8220;I wanted to become a rightful member of the country.&#8221;</p>
+<p>&nbsp;</p>
+<h3>Figure Skating</h3>
+<p>Another immigrant athlete eager to represent the U.S. this year is pairs figure skater Kyoko Ina. Born in Tokyo, Ina comes from a family with a proud tradition of Japanese Olympians.</p>
+<p>Although she grew up in New York, she continued to compete for Japan. As a young teenager, Ina had won nearly every junior event possible and was ranked 8th in the world. She promised to be one of Japan&#8217;s newest stars, and many hoped she would carry on the Olympic tradition in her family. She would carry on that tradition; only she would be an American. At age 16, tired of the constant travel, Ina made a crucial decision and change nationalities.</p>
+<p>No longer caught in the middle of two identities, Ina is skating is better than ever. After four years of training, she and partner John Zimmerman, look to add their names to the list of Olympic champions, and to honor their country by bringing home the gold.</p>
+<h3>
+Downhill Skiing</h3>
+<p>A notable competitor in the downhill event is Jakub Fiala. He was born in Prague, and came to the U.S. when his family defected in 1978. He grew up in New Mexico with his father, who worked as a part-time ski instructor. With little money, Fiala&#8217;s father used black tennis balls as gates for training. By age 17, he was living alone in Breckenridge and skiing for the local team.</p>
+<p>When denied a scholarship from a local university, he decided to train harder than ever. Three years later, in 1996, Fiala was offered a position on the U.S. Olympic squad. Since that time, he has competed in nearly two-dozen events, gradually improving his standings enough to qualify for this year&#8217;s winter games.</p>
+<p>One of Fiala&#8217;s greatest idols has been American Bill Johnson, who won a gold medal in 1984. From his first Olympic memories of Sarajevo, to his chance to compete in Salt Lake, this young man from Prague has come a long way to realize his Olympic dreams.</p>
+<h3>
+Conclusion</h3>
+<p>The 2002 U.S. Olympic team is comprised of several immigrant athletes who have endured many hardships and difficulties to represent America. Despite various backgrounds and cultural differences, these competitors come together in a common goal &#8211; to bring glory to their country by spreading <a href="https://breaking.com.mx/estados/">noticias independientes</a>.</p>
+  
+      </div><!-- .entry-content -->
+    
+      </div>
+</article><!-- #post-## -->
+
+<article id="post-27" class="post-27 post type-post status-publish format-standard has-post-thumbnail hentry category-projects tag-analysis tag-carbon-dioxide-capture tag-co2 tag-coefficient tag-engineering-workshop tag-experimental-phase tag-gas tag-mass-transfer tag-phd tag-polymer-membranes tag-research-team">
+  
+    <a class="post-thumbnail" href="http://www.coopers-ip.eu/my-most-recent-investigation-works/" aria-hidden="true">
+      <img width="535" height="400" src="http://www.coopers-ip.eu/wp-content/uploads/2016/11/huffingtonpost_090811.jpg" class="attachment-nord-post-thumbnail-crop size-nord-post-thumbnail-crop wp-post-image" alt="My most recent investigation works" srcset="http://www.coopers-ip.eu/wp-content/uploads/2016/11/huffingtonpost_090811.jpg 535w, http://www.coopers-ip.eu/wp-content/uploads/2016/11/huffingtonpost_090811-300x224.jpg 300w" sizes="(max-width: 535px) 100vw, 535px" />    </a>
+
+      
+  <div class="inner">
+    <header class="entry-header">
+    <div class="cat-links"><a href="http://www.coopers-ip.eu/category/projects/" class="category-3">Projects</a></div><h2 class="entry-title"><a href="http://www.coopers-ip.eu/my-most-recent-investigation-works/" rel="bookmark">My most recent investigation works</a></h2><div class="entry-meta"><span class="posted-on post-meta">Posted on <time class="entry-date published" datetime="2016-11-09T18:02:37+00:00">November 9, 2016</time></span><span class="byline post-meta"><span class="author vcard">by <a class="url fn n" href="http://www.coopers-ip.eu/author/admin/">admin</a></span></span></div>    </header><!-- .entry-header -->
+
+          <div class="entry-content">
+      <p>My research area is Carbon Dioxide Capture. The thesis work involved the study CO2 absorption into aqueous monoethanolamine solutions. The main goal of the work was to study the effect of solvent concentration on the overall mass transfer coefficient. The effect of other operating parameters, such as the liquid flow rate, gas flow rate, packing type, CO2 feed percent, and liquid CO2 loading were also evaluated.</p>
+<p><strong>Experimental Phase</strong></p>
+<p>Counter-current flowing absorption experiments were conducted in one of three packed absorption columns. The CO2 concentration in the gas phase along the column was measured using an IR CO2 gas analyzer under steady-state conditions. The MEA solutions were prepared to the desired concentration and tested for the CO2 loading at both the inlet and outlet of the absorption column. Temperatures along the column was also measured using an on-line thermocouple system.</p>
+<p><strong>Analysis</strong></p>
+<p>The collected data was used to calculate the overall mass transfer coefficient in the absorption column for the various conditions that were tested.</p>
+<p>The findings have been published in various sources identified in the Publications page.</p>
+<p><strong>PhD THESIS WORK (Current Project)</strong></p>
+<p>My current thesis project is to study the absorption of CO2 from flue gases using gas absorption membranes as the contacting medium. Results will be compared to those obtained using the more traditional packed column approach for absorption. The work will test a variety of membrane materials for their performance as a membrane gas/liquid contactor. As well, the addition of surfactants to the solvent solution will be studied in an effort reduce the tendency to which alkanolamine solutions wet polymer membranes.</p>
+<p><strong>Experimental Phase</strong></p>
+<p>Experimental equipment is currently being built in the Engineering Workshop. The plant should be up and running in early 2002. The system will consist of two absorption columns, packed with structured packing, and a membrane gas absorber.</p>
+<p><strong>Analysis</strong></p>
+<p>Analysis of the collected experimental data will focus on comparing the mass transfer coefficient between the membrane absorber and the traditional absorption columns. As well, the effect of surfactants will be studied to determine if they can be used to reduce wetting.</p>
+<p>For more details about this project, e-mail me at damontid@urexina.ca</p>
+<p>You may also want to visit my research team web site at…</p>
+  
+      </div><!-- .entry-content -->
+    
+      </div>
+</article><!-- #post-## -->
+
+<article id="post-22" class="post-22 post type-post status-publish format-standard has-post-thumbnail hentry category-testimonials tag-alternative-building tag-david-eisenberg tag-environmental-studies tag-materials tag-straw-bale-building tag-sustainability tag-united-states-international-university">
+  
+    <a class="post-thumbnail" href="http://www.coopers-ip.eu/the-search-for-sustainability-the-straw-bale-revolution/" aria-hidden="true">
+      <img width="594" height="418" src="http://www.coopers-ip.eu/wp-content/uploads/2016/11/ff585c76e76eefbc38a8d50d3ebc6ccb.jpg" class="attachment-nord-post-thumbnail-crop size-nord-post-thumbnail-crop wp-post-image" alt="The Search for Sustainability : the Straw Bale Revolution" srcset="http://www.coopers-ip.eu/wp-content/uploads/2016/11/ff585c76e76eefbc38a8d50d3ebc6ccb.jpg 594w, http://www.coopers-ip.eu/wp-content/uploads/2016/11/ff585c76e76eefbc38a8d50d3ebc6ccb-300x211.jpg 300w" sizes="(max-width: 594px) 100vw, 594px" />    </a>
+
+      
+  <div class="inner">
+    <header class="entry-header">
+    <div class="cat-links"><a href="http://www.coopers-ip.eu/category/testimonials/" class="category-16">Testimonials</a></div><h2 class="entry-title"><a href="http://www.coopers-ip.eu/the-search-for-sustainability-the-straw-bale-revolution/" rel="bookmark">The Search for Sustainability : the Straw Bale Revolution</a></h2><div class="entry-meta"><span class="posted-on post-meta">Posted on <time class="entry-date published" datetime="2016-11-02T18:19:28+00:00">November 2, 2016</time></span><span class="byline post-meta"><span class="author vcard">by <a class="url fn n" href="http://www.coopers-ip.eu/author/admin/">admin</a></span></span></div>    </header><!-- .entry-header -->
+
+          <div class="entry-content">
+      <p>In 1985 I did some consulting work on energy efficiency in housing for pigs (they are as sensitive as we are and get irritable if they are hot or cold). I ran across a couple of articles on straw bale buildings, which my former boss Jon Hammond had been advocating in the 1970s. I had recently learned about the problem of rice straw disposal and this time around it made sense. I wrote the first of many articles on straw bale buildings in 1985 and it was published in 1986 in the international journal Agriculture, Ecosystems, Environment. I also began talking about straw bale buildings and writing articles at every opportunity. I thought it might take 25 years to jump-start the straw bale revolution, but it took less than 10. The permaculture movement played a critical role in the early years as integrated ecological design was just common sense to these <a href="http://mogliescopata.com/">film porno</a> pioneers.</p>
+<p>In 1989 we held the first straw bale building workshop in Oracle, AZ (not far from the multi-hundred million dollar folly Biosphere II). I wrote the first crude book in 1991 with the help of Bill and Athena Steen and an improved version in 1992 all on newsprint to keep the cost low. Steve MacDonald, Matts Myhrman and Judy Knox were also on the straw bale trail in Arizona and New Mexico and after Matts visited the historic straw bale buildings of Nebraska we all were energized. In 1992 Matts and Judy launched The Last Straw &#8211; the journal of straw bale construction, which was their labor of love for many years and has played a pivotal role in the revolution. They also began teaching outstanding workshops around the country. By 1994 when Chelsea Green published our book “The Straw Bale House”, with the added insight of David Eisenberg, the worldwide movement was increasing. This book has now sold almost 100,000 copies and helped people around the world discover the beauty and elegance of straw bale building. David Eisenberg has almost single-handedly taken on the Herculean task of bringing sustainability and alternative building materials into the international building codes. Today there are building codes for straw bale buildings in many cities, states and countries; and there are now 8 major books or publications on straw bale building and a number of good videos. A 1500 square meter straw bale building was recently completed in Australia, and a 1600 square meter winery is under construction near Healdsburg, California. High-rises will follow.</p>
+<p>By 1995 I was partly burned out from work on straw bale and had assumed a new position teaching at United States International University (now Alliant International University) where developing a curriculum and program in environmental studies based on problem solving required 70-90 hours week after week. My role in straw bale diminished, but I remain active as time allows. Students at USIU (now AIU) built a straw bale amphitheater and several have worked on straw bale projects.</p>
+  
+      </div><!-- .entry-content -->
+    
+      </div>
+</article><!-- #post-## -->
+
+<article id="post-11" class="post-11 post type-post status-publish format-standard has-post-thumbnail hentry category-history tag-american-economy tag-cities tag-city-planning tag-civil-centers tag-depression tag-homes tag-land tag-mortgages tag-neighbourhoods tag-new-deal tag-population tag-railroads tag-rural-spaces tag-suburban-system tag-trolley-lines tag-urban-renewal">
+  
+    <a class="post-thumbnail" href="http://www.coopers-ip.eu/from-rural-systems-to-todays-suburbs-an-historical-perspective/" aria-hidden="true">
+      <img width="1300" height="815" src="http://www.coopers-ip.eu/wp-content/uploads/2016/08/wp145049630-1300x815.jpg" class="attachment-nord-post-thumbnail-crop size-nord-post-thumbnail-crop wp-post-image" alt="From rural systems to today&#8217;s suburbs: an historical perspective" />    </a>
+
+      
+  <div class="inner">
+    <header class="entry-header">
+    <div class="cat-links"><a href="http://www.coopers-ip.eu/category/history/" class="category-29">History</a></div><h2 class="entry-title"><a href="http://www.coopers-ip.eu/from-rural-systems-to-todays-suburbs-an-historical-perspective/" rel="bookmark">From rural systems to today&#8217;s suburbs: an historical perspective</a></h2><div class="entry-meta"><span class="posted-on post-meta">Posted on <time class="entry-date published" datetime="2016-08-31T16:14:27+00:00">August 31, 2016</time></span><span class="byline post-meta"><span class="author vcard">by <a class="url fn n" href="http://www.coopers-ip.eu/author/admin/">admin</a></span></span></div>    </header><!-- .entry-header -->
+
+          <div class="entry-content">
+      <p>The built environment we inhabit today would be unrecognizable to someone living 100 years ago, yet the forces that shape it are a living legacy of well over a century of planning theories, transportation technology, and politics. What has remained constant through history is the link between transportation and land use: The form of towns and cities is affected by the forms of transportation made available. Conversely, the modes of transportation people choose to use are affected by the way their towns and cities are planned.</p>
+<p><strong>The Rural System</strong><br />
+In the early 19th, America was a rural nation. Most people lived on farms, and transported their produce by horse and cart to the nearest town to sell it. Roads were little more than dirt tracks, and so the limited amount of freight that moved between towns and cities went by waterways. Even the largest cities of the day, which grew up at major sea or river ports, were small enough that their residents could walk anywhere they needed to go. Early American towns required little in the way of planing beyond laying out streets, and a simple grid pattern was found to be satisfactory for all but a few cities.</p>
+<p><strong>The Urban System<br />
+</strong>Starting in the 1830’s, America began to develop into an urban nation. By the end of the 19th century, most of the population had migrated to densely developed industrial towns and cities. All development followed the lines of steam railroads or electric trolleys, and passengers could move from anywhere to almost anywhere else on these. Horse-drawn vehicles were still used for short hauls, but almost all long-distance freight went by rail. Trucks had not yet been developed, and roads were in the same sorry state they had been in a century ago.</p>
+<p>In the &#8220;laissez-faire&#8221; spirit of the time, the railroads and trolley lines were built wherever their owners saw an opportunity for profit, and the towns that grew around them were planned in much the same way they were a hundred years earlier, which led to problems. Firstly, the railroad companies held an enormous amount of power, and were extremely corrupt. Secondly, the industrial cities were overcrowded and polluted, and the working class mostly lived in unsanitary slums.</p>
+<p>There were a number of reactions to these problems. Railroad and factory workers formed labor unions, which became very powerful. Cities began to put more thought into planning parks, civic centers and transportation systems, and great strides were made in sanitation. Farmers campaigned for better roads and the regulation of railroads, demands which were met by a government which had grown to distrust the railroads.<br />
+Can anyone tell me in which year this photograph was taken, and which avenue is depicted?</p>
+<p><strong>The Suburban System</strong><br />
+When cars and trucks became cheap and reliable after the first world war, they made cities cleaner and more efficient by eliminating horse-drawn traffic. However, their numbers soon increased to a level that made cities even more congested, and middle class people started moving to less-densely developed areas that were accessible primarily by car: the first suburbs. They were sold by a number of factors:</p>
+<p>&#8211; Early efforts at city planning had done little to make cities less polluted or overcrowded.<br />
+&#8211; Labor unions pushed costs up for railroads and trolleys, but the automobile industry had not yet unionized.<br />
+&#8211; Government regulation of railroads diminished their ability to compete with cars and trucks.<br />
+&#8211; Roads were provided to the public free of charge, whereas trains and trolleys had to pay for their rights-of-way.<br />
+Railroads and trolley lines modernized their operations to try and compete, but still lost business because of the factors working against them. During the depression, many lines closed down altogether. It didn’t help that many unemployed people were riding freight trains for free, or that the New Deal involved the construction of numerous highways.<br />
+The Second World war was a blessing for the railroads, because they were put to use transporting troops and munitions, and civilian car use was restricted, but their fortunes were soon to turn sour. After the Second World War, the American economy and boomed. There was a huge backlog in construction, as very little had been built during the depression and war years. In addition to the factors that were present before the war, a number of other factors contributed to the suburban form which this new development took:</p>
+<p>&#8211; Government agencies financed mortgages on new homes, but only those constructed in new suburbs.<br />
+&#8211; Zoning was used as a tool to restrict new suburbs to middle-class residents.<br />
+&#8211; Many of the new suburbs incorporated themselves as separate municipalities, resulting in lower taxes for suburbs, and inferior public services for urban areas.<br />
+&#8211; A wartime tax on passenger train fares was not repealed until 1962.<br />
+&#8211; Railroads were losing money, and eliminated passenger trains wherever possible so they could concentrate on more profitable freight trains.<br />
+&#8211; Trolley lines converted to buses, a move which saved money but lost passengers.<br />
+&#8211; Urban renewal, the government’s solution to urban problems, was based on faulty planning principles, and made cities even worse places to live.<br />
+&#8211; A great deal of government money was spent on multi-lane highways, including the Interstates. These not only took passengers away from transit, but opened up land for suburban development outside cities, and destroyed urban neighbourhoods through which they passed. Much of this spending was the result of vigorous lobbying on behalf of automobile and oil companies.</p>
+<p>The new suburbs were developed at a much lower density than before, were inaccessible without a car, and included shopping centers and schools as well as houses.<br />
+Meanwhile, the mechanization of cotton picking made millions of southern blacks unemployed, and many moved to cities where manufacturing jobs were plentiful. The two migrations kept the population of cities stable, at least for the time being.</p>
+<p><strong>Urban Decay</strong><br />
+Cities suffered greatly during this time. Most began to take on the form of a downtown containing mostly offices and parking, and neighborhoods containing mostly factories and their poorly paid black workforce. The shrinking tax base in cities led to a level of public services such as education and policing far inferior to that in the suburbs. Even small towns decayed into ghost towns as their main streets lost businesses to suburban shopping centers.<br />
+The loss of manufacturing jobs in the 70’s and 80’s hit cities hardest. People who had moved from the South only a few years earlier found themselves out of work again, but this time had nowhere to go. Those that could moved to the suburbs where work was plentiful, but many more became trapped in the vicious circle of lack of education, unemployment, and poverty. Cities lost a great deal of population, as much as half in the case of Detroit, leaving their neighborhoods looking like bomb sites.<br />
+By the late 60’s, transit had almost disappeared, and it was clear that it would disappear altogether unless it was subsidized like cars were. Transit operations were taken over by public corporations, with limited amounts of funding. These funds were increased during the oil crises of the 70’s, and cities such as Washington and San Francisco constructed rapid transit systems. Even inter-city rail services got a last minute reprieve when Amtrak was formed in 1971. The decline in transit use was temporarily halted, but began again during the Reagan years, when federal funds for transit were drastically cut. Transit funding increased again in the nineties, and numerous cities build light rail and commuter rail systems, sparking a small renaissance in downtown development.</p>
+<p><strong>Today’s Suburbs</strong><br />
+Regardless of the ups and downs of transit funding, the lion’s share of transportation money has gone to highways. As a result car use continues to increase, and most development is still suburban in nature, although after 1970, suburbs began to take different forms. Now that suburbs include office buildings, sports venues and museums, they can exist independently of central cities. A general dissatisfaction with the physical appearance of suburbs led to the complex maze of regulations that shape toady’s suburbs. Gridded street layouts were abandoned in favor of sinuous networks of culs-de-sac. Zoning laws were extended to address not only lot sizes and permissible uses, but also parking requirements, buffer zones, façade treatments, and billboards. While it could be argued that these regulations have made today’s suburbs more beautiful than those of forty years ago, their primary effect has been to foster car dependency, increase development costs, and make it illegal to build anything remotely walkable.</p>
+<p><strong>The Road Ahead</strong><br />
+The urban system was created by market forces, with almost no government involvement, but there were many problems with this system. The reactions to these problems, by governments, industry, institutions and individuals, resulted in the gradual replacement of the urban system with the suburban system. While many of the problems of the urban system have been solved, others have taken their place. The solutions to these lie in creating a new system, one that combines traditional walkable urban forms with modern transit technology, and balances market forces with responsible government.</p>
+  
+      </div><!-- .entry-content -->
+    
+      </div>
+</article><!-- #post-## -->
+
+<article id="post-8" class="post-8 post type-post status-publish format-standard has-post-thumbnail hentry category-testimonials tag-bad-faith tag-complaint tag-disservice tag-driver tag-incident tag-law-enforcement tag-misrepresenting tag-police tag-repositories tag-sheriff tag-tarta tag-toledo-area-regional-transit-authority">
+  
+    <a class="post-thumbnail" href="http://www.coopers-ip.eu/an-history-of-bad-faith-perpetuated-by-the-toledo-area-regional-transit-authority/" aria-hidden="true">
+      <img width="1024" height="683" src="http://www.coopers-ip.eu/wp-content/uploads/2016/08/19950932528_ef0ef1a37b_b.jpg" class="attachment-nord-post-thumbnail-crop size-nord-post-thumbnail-crop wp-post-image" alt="An history of bad faith perpetuated by the Toledo Area Regional Transit Authority" srcset="http://www.coopers-ip.eu/wp-content/uploads/2016/08/19950932528_ef0ef1a37b_b.jpg 1024w, http://www.coopers-ip.eu/wp-content/uploads/2016/08/19950932528_ef0ef1a37b_b-300x200.jpg 300w, http://www.coopers-ip.eu/wp-content/uploads/2016/08/19950932528_ef0ef1a37b_b-768x512.jpg 768w" sizes="(max-width: 1024px) 100vw, 1024px" />    </a>
+
+      
+  <div class="inner">
+    <header class="entry-header">
+    <div class="cat-links"><a href="http://www.coopers-ip.eu/category/testimonials/" class="category-16">Testimonials</a></div><h2 class="entry-title"><a href="http://www.coopers-ip.eu/an-history-of-bad-faith-perpetuated-by-the-toledo-area-regional-transit-authority/" rel="bookmark">An history of bad faith perpetuated by the Toledo Area Regional Transit Authority</a></h2><div class="entry-meta"><span class="posted-on post-meta">Posted on <time class="entry-date published" datetime="2016-08-31T15:53:12+00:00">August 31, 2016</time></span><span class="byline post-meta"><span class="author vcard">by <a class="url fn n" href="http://www.coopers-ip.eu/author/admin/">admin</a></span></span></div>    </header><!-- .entry-header -->
+
+          <div class="entry-content">
+      <p>Friday, 11/9/01, my legitimate request for transfer was refused by a bus driver who called dispatch to have an officer end my trip before a roaming Supervisor following up on a dispatch call determined my request was improperly denied and completed my trip in a TARTA patrol unit. A letter to TARTA was necessary because my phone calls were refused. I also chose to carbon and memo the Mayor’s office. Though Mayor Finkbeiner was leaving office he did answer my memo with a November 21, 2001 postmark. As my legitimate transfer requests were denied and TARTA continually refused to address complaints, I called ODOT in Columbus eventually reaching a Mr. David Seech who requested details. Following up on the details and recognizing I had no personal phone, Mr. Seech asked that TARTA’s responses to me be emailed and that Mr. Seech be copied. TARTA refused to email me directly, but Mr. Seech copied their response. Four days later (three months after my complaint) TARTA Superintendent of Transportation John M. Stewart, claimed my correspondence was lost and proceeded to charge me with abusing the transfer policy. After an increasingly apparent coordinated effort to possibly gaslight me (frustrate to distraction by denying service at every opportunity in the absence of witnesses) including passed stops, ignored emails and denied counter service by contact designate Mr. Douglas A. Schubert, I again emailed David Seech 2/19/02. Mr. Seech followed up on TARTA’s complaint line and recommended I call Mr. Schubert directly to discuss concerns. After another service refusal March 6, 2002, I called for Douglas A Schubert March 8, 2002. After yet another service refusal March 13, 2002 I called TARTA three times, then the Mayor&#8217;s office and was assisted by Mr. Art Jones to hopefully determine the source of TARTA’s accountability. I decided to write TARTA board president Charles Peyton April 3, 2002 after that day&#8217;s additional service refusal. The service refusal of April 25, 2002 was noted in stride. Transit Day (reduced fares) included service aggravation as noted for May 15, 2002. On Wednesday, June 12, 2002, my stop was passed up by a bus driver skipping the stop at Lady of Lourdes (LOL) forcing my hour-long wait for the next bus, followed by more harassment after transferring. I emailed Mr. Seech June 18 to advise him of TARTA’s continuing disservice regarding both bus service and complaint resolution as well as to have him advise me of any other overlooked complaint repositories. I provided a complaint letter to likewise inconvenienced LOL attendees June 19. I do not know if it has been mailed. Also on June 19, 2002 TARTA enjoined a helicopter, seven officers and a sheriff patrol to deny me service. I chose to make that noted incident a public document fully convinced that TARTA&#8217;s audacity is likely indicative of prior efforts (possibly successful) to gaslight and even incarcerate its public. I advised Mr. Seech June 20th of this June 19th incident. Mr. Seech&#8217;s June 21st response was to my June 18th mailing. To avoid tarnishing Police and Sheriff departments with TARTA&#8217;s bad faith charge, I requested incident reports June 24, 2002. My desire was to ascertain the nature and individual origin of the law enforcement request which so distracted our national surveillance at this critical time. The Toledo Police Department legal department informs me no formal incident report was made for my June 19 ordeal, though units were dispatched. I have received no response from Sheriff Telb. Deacon Bob&#8217;s letter to Mayor Ford appears here. I provided the letter to Deacon Bob. I do not know if it has been mailed, but I hold a signed copy. An email from Tanya Schmidt (misrepresenting my more recent incidents of TARTA disservice to the point of referencing an inexistent bus stop and worse) appears here as emailed complete with promises for continued disservice. One day after the helicopter was sent, General Manager R.L. Ruddell referenced my detailed and ignored account of TARTA abuse mailed Board Chairman Charles Peyton nine weeks earlier to apparently conclude “with a clear picture of what occurred and how these incidents were handled” that in refusing and misrepresenting every complaint TARTA had “&#8230;responded to each of your complaints in an appropriate manner and has adequately answered your concerns.” My July 3, 2002 email to David Seech appears here as copied to Lucas County Administrator Ed Ciecka, Mayor Ford, Toledo Police, and TARTA GM Richard Ruddell among others. The same offending bus driver of June 19th attempted to ostracize me a second time July 4th, 2002.</p>
+<p>To date TARTA has timely answered neither letters or email in kind, nor by the person to whom they were originally sent.</p>
+<p>I have no personal phone. Author Claude E. Rabb is available through email to fniest@hotmail.com with &#8216;TARTA&#8217; in the subject line to bypass filter.</p>
+  
+      </div><!-- .entry-content -->
+    
+      </div>
+</article><!-- #post-## -->
+
+<article id="post-5" class="post-5 post type-post status-publish format-standard has-post-thumbnail hentry category-projects tag-bricks tag-cold-climates tag-energy tag-energy-efficiency tag-mining tag-national-science-foundation-nsf tag-optimization tag-performances tag-railroads tag-small-business-innovation-research-sbir tag-system-performance tag-trucks">
+  
+    <a class="post-thumbnail" href="http://www.coopers-ip.eu/current-projects/" aria-hidden="true">
+      <img width="1270" height="478" src="http://www.coopers-ip.eu/wp-content/uploads/2016/08/colorado-pneumatic-trucking-trailers1.jpg" class="attachment-nord-post-thumbnail-crop size-nord-post-thumbnail-crop wp-post-image" alt="Current projects" srcset="http://www.coopers-ip.eu/wp-content/uploads/2016/08/colorado-pneumatic-trucking-trailers1.jpg 1270w, http://www.coopers-ip.eu/wp-content/uploads/2016/08/colorado-pneumatic-trucking-trailers1-300x113.jpg 300w, http://www.coopers-ip.eu/wp-content/uploads/2016/08/colorado-pneumatic-trucking-trailers1-768x289.jpg 768w, http://www.coopers-ip.eu/wp-content/uploads/2016/08/colorado-pneumatic-trucking-trailers1-1024x385.jpg 1024w" sizes="(max-width: 1270px) 100vw, 1270px" />    </a>
+
+      
+  <div class="inner">
+    <header class="entry-header">
+    <div class="cat-links"><a href="http://www.coopers-ip.eu/category/projects/" class="category-3">Projects</a></div><h2 class="entry-title"><a href="http://www.coopers-ip.eu/current-projects/" rel="bookmark">Current projects</a></h2><div class="entry-meta"><span class="posted-on post-meta">Posted on <time class="entry-date published" datetime="2016-08-31T15:15:07+00:00">August 31, 2016</time></span><span class="byline post-meta"><span class="author vcard">by <a class="url fn n" href="http://www.coopers-ip.eu/author/admin/">admin</a></span></span></div>    </header><!-- .entry-header -->
+
+          <div class="entry-content">
+      <p><strong>Feasibility of Underground Pneumatic Freight Transport in New York City, sponsored by the New York State Energy Research and Development Authority (NYSERDA), Agreement No.7643 (4/1/03-8/1/04).<br />
+</strong><br />
+This project investigates the feasibility of using pneumatic capsule pipeline (PCP) for underground freight transport in New York City (NYC). Six different applications of advanced PCP systems in NYC were considered including: (1) temporary PCPs for transporting materials in and out tunnels during tunnel construction, (2) a dedicated PCP for transporting municipal solid wastes from nine transfer stations in NYC to a large landfill in a neighboring state, (3) a dedicated PCP for transporting mail and parcels from (to) five locations in NYC to (from) Washington D.C. and the cities in between along the East Coast, (4) a network of underground PCP tunnels of 7 ft diameter in NYC to transport any freight that is normally transported on pallets, or in crates, boxes or bags, (5) a special PCP to dispatch containers from (to) the ports of NYC to (from) an inland inspection/intermodal-transfer station in New Jersey, and (6) a special PCP to ferry trucks from (to) the food center of Hunts Point to (from) a nearby highway interchange.<br />
+Of the six potential applications studied, the first five were found to be far more cost-effective than using trucks, which is the current means of freight transport in 97% of cases in NYC. The study found that in adding to reducing freight transportation cost in NYC, the use of PCPs will greatly benefit the City in other ways as well including reducing traffic jam on the City’s streets and highways, reducing air pollution and accidents caused by trucks, improving New Yorkers’ quality of life, and enhancing economic development.<br />
+For more information about the project, please read the ASCE article and/or the project final report in the section &#8220;Company Publications&#8221;. (Note: Please feel free to download the article and the report for detailed reading).</p>
+<p><strong>An Electromagnetic Pneumo Capsule System for Conveying Minerals, sponsored by the National Energy Technology Laboratory (NETL), U. S. Department of Energy (DOE), Grant No. DE-PS26_03NT41757-1 (9/1/03-11/30/04).<br />
+</strong><br />
+The purpose of this project is to conduct research to design and develop a new advanced pneumatic capsule pipeline (PCP) system for transporting minerals and mine wastes. The system is to be driven by linear induction motors (LIMs), and it uses capsules that run on guided rails inside the pipe (conduit) of 1 m by 1 m cross-section. The system is expected to be a major improvement over the current PCP systems, which use blowers instead of LIMs, and use capsule wheels with rubber tires rolling freely inside the pipe. The use of LIMs instead of blowers enables capsules to pass through the entire pipe system from inlet to outlet unimpeded, thereby greatly enhancing throughput and system capability. The use of capsules with steel wheels running on rails greatly reduces contact friction, thereby drastically reducing energy consumption of the system. It also facilitates control of the motion of capsules at pipeline branches, inlet and outlet. The study is expected to result in the development of a revolutionized advanced PCP system for use in mining. Use of such a system in mining in the future will result in large cost savings and reduced energy consumption to mining companies. It also helps the environment by reducing the use of trucks for transporting minerals and mine wastes. The scope of work of the project includes: (1) deriving all the equations needed for the design and operation of this special PCP system driven by LIMs, (2) using the derived equations to design several systems of the advanced PCP for analysis and optimization, (3) analyzing the system performance under various conditions in order to determine system characteristics and to optimize the design of the system, (4) calculating the energy efficiency of the optimized systems, and (5) determining the costs and the cost effectiveness of the optimized systems of PCP, and comparing the results with the costs of using trucks and railroads to transport minerals and mine wastes.<br />
+For more information on the project, please read the final report of this project which will apper on this website in January 2005.<br />
+<strong>Compacting Fly Ash to Make Bricks, sponsored by the National Science Foundation (NSF), Small Business Innovation Research (SBIR) Phase-1 project, Grant No. NSF-DMI-0419311 (7/1/04-12/31/04).<br />
+</strong><br />
+Fly ash is a byproduct of burning coal for power generation. It exists in large quantity at the nation’s coal fired power plants. So far, only about 30% of fly ash generated in the United States is utilized; the remaining 70% is wasted and enters landfills or slurry ponds. Previous research has found that by mixing Class-C Fly ash with a small amount of water, the mixture can be compacted into bricks which, upon curing at room temperature, become as strong as concrete bricks. The fly ash bricks also have good water absorption property and low permeability. However, they are weak in freezing/thawing property, causing the bricks to deteriorate prematurely when used outdoor in cold climates. The purpose of this NSF grant is to improve the freezing/thawing properties of the compacted fly ash bricks, so that such bricks can be used economically anywhere in the United States.<br />
+In this project, the freezing/thawing property of the flyash bricks will be improved by five different approaches: (1) adding a small amount of fiber to the flyash before compaction, (2) adding some cement or lime to the flyash before compaction, (3) using a special sealants to coat the bricks, (4) using improved flyash-to-water ratios and better mixing of fly ash with water, and (5) using an improved mold design that can make better. The effectiveness of using each of these approaches to improve the freezing/thawing property of the flyash bricks are being tested and assessed in this study, together with a determination of the cost-effectiveness of each of the approaches.<br />
+Due to the simplicity of the process in producing such fly ash bricks and the low cost of the raw materials (fly ash and water) – it is expected that the fly bricks can be produced at a cost significantly less than that of either the concrete brick or the vitrified clay brick. Therefore, once the freezing-thawing property of the fly ash brick is significantly improved, the brick is expected to have a large market and a bright future.</p>
+  
+      </div><!-- .entry-content -->
+    
+      </div>
+</article><!-- #post-## -->
+
+		</main><!-- .site-main -->
+	</div><!-- .content-area -->
+	
+        </div><!-- .site-content --> 
+        
+        <footer id="colophon" class="site-footer">
+        <div class="site-info">&copy; 2018 <a href="http://www.coopers-ip.eu/">Michael Coppers - Personal Investigations</a></div>        </footer>
+      </div><!-- .container -->
+    </div><!-- .wrapper -->
+    
+    <div id="sidebar" class="sidebar">   
+    <div id="widget-area" class="widget-area" role="complementary">
+    <aside id="search-2" class="widget widget_search">
+      <form method="get" class="search-form" action="http://www.coopers-ip.eu/">
+        <div class="search-wrap">
+          <label>
+            <input type="search" class="search-field" placeholder="Search" value="" name="s" title="Search for:" />
+          </label>
+          <button type="submit" class="search-submit"><i class="entypo-magnifying-glass"></i></button>
+        </div>
+			</form></aside>		<aside id="recent-posts-2" class="widget widget_recent_entries">		<h3 class="widget-title">Recent Posts</h3>		<ul>
+											<li>
+					<a href="http://www.coopers-ip.eu/the-olympic-challenge/">The Olympic Challenge</a>
+									</li>
+											<li>
+					<a href="http://www.coopers-ip.eu/my-most-recent-investigation-works/">My most recent investigation works</a>
+									</li>
+											<li>
+					<a href="http://www.coopers-ip.eu/the-search-for-sustainability-the-straw-bale-revolution/">The Search for Sustainability : the Straw Bale Revolution</a>
+									</li>
+											<li>
+					<a href="http://www.coopers-ip.eu/from-rural-systems-to-todays-suburbs-an-historical-perspective/">From rural systems to today&#8217;s suburbs: an historical perspective</a>
+									</li>
+											<li>
+					<a href="http://www.coopers-ip.eu/an-history-of-bad-faith-perpetuated-by-the-toledo-area-regional-transit-authority/">An history of bad faith perpetuated by the Toledo Area Regional Transit Authority</a>
+									</li>
+					</ul>
+		</aside><aside id="recent-comments-2" class="widget widget_recent_comments"><h3 class="widget-title">Recent Comments</h3><ul id="recentcomments"></ul></aside><aside id="archives-2" class="widget widget_archive"><h3 class="widget-title">Archives</h3>		<ul>
+			<li><a href='http://www.coopers-ip.eu/2018/01/'>January 2018</a></li>
+	<li><a href='http://www.coopers-ip.eu/2016/11/'>November 2016</a></li>
+	<li><a href='http://www.coopers-ip.eu/2016/08/'>August 2016</a></li>
+		</ul>
+		</aside><aside id="categories-2" class="widget widget_categories"><h3 class="widget-title">Categories</h3>		<ul>
+	<li class="cat-item cat-item-29"><a href="http://www.coopers-ip.eu/category/history/" >History</a>
+</li>
+	<li class="cat-item cat-item-3"><a href="http://www.coopers-ip.eu/category/projects/" >Projects</a>
+</li>
+	<li class="cat-item cat-item-16"><a href="http://www.coopers-ip.eu/category/testimonials/" >Testimonials</a>
+</li>
+		</ul>
+</aside><aside id="meta-2" class="widget widget_meta"><h3 class="widget-title">Meta</h3>			<ul>
+						<li><a href="http://www.coopers-ip.eu/wp-login.php">Log in</a></li>
+			<li><a href="http://www.coopers-ip.eu/feed/">Entries <abbr title="Really Simple Syndication">RSS</abbr></a></li>
+			<li><a href="http://www.coopers-ip.eu/comments/feed/">Comments <abbr title="Really Simple Syndication">RSS</abbr></a></li>
+			<li><a href="https://wordpress.org/" title="Powered by WordPress, state-of-the-art semantic personal publishing platform.">WordPress.org</a></li>			</ul>
+			</aside>  </div>
+  </div>
+  </div><!-- #page -->
+  
+	<script type='text/javascript' src='http://www.coopers-ip.eu/wp-content/themes/nord-theme/js/jquery.fitvids.js?ver=1.1'></script>
+<script type='text/javascript' src='http://www.coopers-ip.eu/wp-content/themes/nord-theme/js/functions.js?ver=1.1.1'></script>
+<script type='text/javascript' src='http://www.coopers-ip.eu/wp-includes/js/wp-embed.min.js?ver=4.9.6'></script>
+</body>
+</html>
+

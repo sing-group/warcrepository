@@ -1,0 +1,469 @@
+WARC/1.0
+WARC-Type: warcinfo
+WARC-Date: 2018-05-23T09:48:41Z
+WARC-Record-ID: <urn:uuid:7c1f7516-5198-4611-8686-b83374cb1cf7>
+WARC-All-Language: en, en-US
+WARC-All-Content_type: text/html; charset=UTF-8, text/html
+Content-Type: application/http;msgtype=response
+Content-Length: 46
+
+WARCProcessor by SING Group www.sing-group.com
+
+WARC/1.0
+WARC-Type: response
+WARC-Record-ID: <http://www.ab-international.co.uk>
+WARC-Date: 20180523094841
+WARC-Target-URI: http://www.ab-international.co.uk
+WARC-Language: en-US
+Content-Type: application/http;msgtype=response
+Content-Length: 24463
+
+HTTP/1.1 200
+Content-Type:text/html; charset=UTF-8
+
+
+<!DOCTYPE html>
+<html class="no-js" lang="en-US" prefix="og: http://ogp.me/ns#" xmlns:fb="http://ogp.me/ns/fb#">
+	<head prefix="og: http://ogp.me/ns# object: http://ogp.me/ns/object#">
+		<meta charset="utf-8">
+		<meta http-equiv="X-UA-Compatible" content="IE=edge">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+		<title>
+			AB International - International Procurement &amp; Supply Chain ManagementAB International | International Procurement &amp; Supply Chain Management		</title>
+		<!-- Setup OpenGraph support-->
+					<meta property="og:title" content="AB International"/>
+			<meta property="og:description" content="International Procurement &amp; Supply Chain Management"/>
+			<meta property="og:url" content="http://www.ab-international.co.uk"/>
+			<meta property="og:image" content=""/>
+			<meta property="og:type" content="website"/>
+			<meta property="og:site_name" content="AB International"/>
+		
+		
+<!-- This site is optimized with the Yoast SEO plugin v3.3.2 - https://yoast.com/wordpress/plugins/seo/ -->
+<meta name="description" content="International Procurement &amp; Supply Chain Management"/>
+<meta name="robots" content="noodp"/>
+<link rel="canonical" href="http://www.ab-international.co.uk/" />
+<meta property="og:locale" content="en_US" />
+<meta property="og:type" content="website" />
+<meta property="og:title" content="AB International - International Procurement &amp; Supply Chain Management" />
+<meta property="og:description" content="International Procurement &amp; Supply Chain Management" />
+<meta property="og:url" content="http://www.ab-international.co.uk/" />
+<meta property="og:site_name" content="AB International" />
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:description" content="International Procurement &amp; Supply Chain Management" />
+<meta name="twitter:title" content="AB International - International Procurement &amp; Supply Chain Management" />
+<script type='application/ld+json'>{"@context":"http:\/\/schema.org","@type":"WebSite","url":"http:\/\/www.ab-international.co.uk\/","name":"AB International","potentialAction":{"@type":"SearchAction","target":"http:\/\/www.ab-international.co.uk\/?s={search_term_string}","query-input":"required name=search_term_string"}}</script>
+<!-- / Yoast SEO plugin. -->
+
+<link rel="alternate" type="application/rss+xml" title="AB International &raquo; Feed" href="http://www.ab-international.co.uk/feed" />
+<link rel="alternate" type="application/rss+xml" title="AB International &raquo; Comments Feed" href="http://www.ab-international.co.uk/comments/feed" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/72x72\/","ext":".png","source":{"concatemoji":"http:\/\/www.ab-international.co.uk\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.5.14"}};
+			!function(a,b,c){function d(a){var c,d,e,f=b.createElement("canvas"),g=f.getContext&&f.getContext("2d"),h=String.fromCharCode;if(!g||!g.fillText)return!1;switch(g.textBaseline="top",g.font="600 32px Arial",a){case"flag":return g.fillText(h(55356,56806,55356,56826),0,0),f.toDataURL().length>3e3;case"diversity":return g.fillText(h(55356,57221),0,0),c=g.getImageData(16,16,1,1).data,d=c[0]+","+c[1]+","+c[2]+","+c[3],g.fillText(h(55356,57221,55356,57343),0,0),c=g.getImageData(16,16,1,1).data,e=c[0]+","+c[1]+","+c[2]+","+c[3],d!==e;case"simple":return g.fillText(h(55357,56835),0,0),0!==g.getImageData(16,16,1,1).data[0];case"unicode8":return g.fillText(h(55356,57135),0,0),0!==g.getImageData(16,16,1,1).data[0]}return!1}function e(a){var c=b.createElement("script");c.src=a,c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g,h,i;for(i=Array("simple","flag","unicode8","diversity"),c.supports={everything:!0,everythingExceptFlag:!0},h=0;h<i.length;h++)c.supports[i[h]]=d(i[h]),c.supports.everything=c.supports.everything&&c.supports[i[h]],"flag"!==i[h]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[i[h]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='Cantarell-css'  href='//fonts.googleapis.com/css?family=Cantarell%3Aregular%2Citalic%2Cbold%2Cbolditalic&#038;subset=latin&#038;ver=4.5.14' type='text/css' media='all' />
+<link rel='stylesheet' id='Josefin-Sans-css'  href='//fonts.googleapis.com/css?family=Josefin+Sans%3A100%2C100italic%2Clight%2Clightitalic%2Cregular%2Cregularitalic%2C600%2C600italic%2Cbold%2Cbolditalic&#038;subset=latin&#038;ver=4.5.14' type='text/css' media='all' />
+<link rel='stylesheet' id='capital-style-css'  href='http://www.ab-international.co.uk/wp-content/themes/capital/style.css?ver=4.5.14' type='text/css' media='all' />
+<link rel='stylesheet' id='capital-responsive-css'  href='http://www.ab-international.co.uk/wp-content/themes/capital/responsive.css?ver=4.5.14' type='text/css' media='all' />
+<link rel='stylesheet' id='capital-jplayer-css'  href='http://www.ab-international.co.uk/wp-content/themes/capital/ocmx/jplayer.css?ver=4.5.14' type='text/css' media='all' />
+<link rel='stylesheet' id='capital-customizer-css'  href='http://www.ab-international.co.uk/?stylesheet=custom&#038;ver=4.5.14' type='text/css' media='all' />
+<link rel='stylesheet' id='capital-pt-sans-css'  href='//fonts.googleapis.com/css?family=PT+Sans%3A400%2C700%2C400italic%2C700italic&#038;ver=4.5.14' type='text/css' media='all' />
+<link rel='stylesheet' id='capital-pt-serif-css'  href='//fonts.googleapis.com/css?family=PT+Serif%3A400%2C700%2C400italic%2C700italic&#038;ver=4.5.14' type='text/css' media='all' />
+<script type='text/javascript' src='http://www.ab-international.co.uk/wp-includes/js/jquery/jquery.js?ver=1.12.4'></script>
+<script type='text/javascript' src='http://www.ab-international.co.uk/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var ThemeAjax = {"ajaxurl":"http:\/\/www.ab-international.co.uk\/wp-admin\/admin-ajax.php"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://www.ab-international.co.uk/wp-content/themes/capital/ocmx/includes/upgrade.js?ver=4.5.14'></script>
+<script type='text/javascript' src='http://www.ab-international.co.uk/wp-content/themes/capital/scripts/menus.js?ver=4.5.14'></script>
+<script type='text/javascript' src='http://www.ab-international.co.uk/wp-content/themes/capital/scripts/fitvid.js?ver=4.5.14'></script>
+<script type='text/javascript' src='http://www.ab-international.co.uk/wp-content/themes/capital/scripts/theme.js?ver=4.5.14'></script>
+<script type='text/javascript' src='http://www.ab-international.co.uk/wp-content/themes/capital/scripts/portfolio.js?ver=4.5.14'></script>
+<script type='text/javascript' src='http://www.ab-international.co.uk/wp-content/themes/capital/scripts/slider.js?ver=4.5.14'></script>
+<link rel='https://api.w.org/' href='http://www.ab-international.co.uk/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www.ab-international.co.uk/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://www.ab-international.co.uk/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 4.5.14" />
+<style>body{font-family: Cantarell; } 
+ul#nav li a{font-family: Josefin Sans; font-size: 18px; } 
+.title-block h2{font-family: Josefin Sans; font-size: 45px; } 
+.date{font-family: Cantarell; font-size: 15px; } 
+.post-title, .post-title a{font-family: Cantarell; font-size: 19px; } 
+p, .copy{font-family: Josefin Sans; font-size: 18px; } 
+.widgettitle, .widgettitle a, .section-title, .section-title a{font-family: Josefin Sans; font-size: 19px; } 
+.footer-three-column .column h4, .footer-three-column .column h4 a{font-family: Josefin Sans; font-size: 16px; } 
+</style>		<style type="text/css">.recentcomments a{display:inline !important;padding:0 !important;margin:0 !important;}</style>
+		
+
+</head>
+
+<body class="home blog">
+
+<div id="wrapper" class="fullwidth ">
+
+	<div id="header-container">
+			<div id="header-contact-container" class="clearfix">
+		<div id="header-contacts" class="clearfix">
+							<div class="header-search">
+					<form action="http://www.ab-international.co.uk" method="get" class="header-form">
+						<input type="text" name="s" id="s" class="search-form" maxlength="50" value="" placeholder="Search" />
+						<input type="submit" class="search_button" value="" />
+						<span class="icon-search"></span>
+					</form>
+				</div>
+										<ul class="header-contact">
+					<li class="header-number">+44 (0)1483 488799</li>					<li class="header-email"><a href="mailto:sales@ab-international.co.uk" target="_blank">sales@ab-international.co.uk</a></li>				</ul>
+			
+			
+			<div id="top-navigation-container">
+							</div>
+					</div>
+	</div>
+
+		<div id="header" class="clearfix">
+			<div class="logo">
+				<h1>
+					<a href="http://www.ab-international.co.uk">
+													<img src="http://ab.client-projects.net/wp-content/uploads/2014/10/AB-Logo.png" alt="AB International" />
+											</a>
+				</h1>
+			</div>
+			<a id="menu-drop-button" href="#">
+				Menu			</a>
+			<div id="navigation-container" class="clearfix">
+				<ul id="nav" class="clearfix"><li id="menu-item-43" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item current_page_item menu-item-home menu-item-43"><a href="http://www.ab-international.co.uk">Home</a></li>
+<li id="menu-item-25" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-25"><a href="http://www.ab-international.co.uk/services">Services</a></li>
+<li id="menu-item-24" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-24"><a href="http://www.ab-international.co.uk/about-us">About Us</a></li>
+<li id="menu-item-23" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-23"><a href="http://www.ab-international.co.uk/contact-us">Contact Us</a></li>
+</ul>			</div>
+		</div>
+	</div>
+	<div id="content-container" class="sidebarnone clearfix">		<div class="slider clearfix" id="slider-widget">
+			<ul>
+				
+					<li class="li-slide active" style="background: url(http://ab.client-projects.net/wp-content/uploads/2014/11/supply-chain-management-1950-4.jpg)  center">
+
+						
+						<div class="slider-content image-left" data-class="image-left">
+
+							<div class="slider-copy  ">
+								<h2 style="color: #ffffff;">Global Supply Chain Management</h2>
+								<h5 style="color: #ffffff;">Managing the process from manufacture to delivery.</h5>
+																									<a class="action-link" href="/services/supply-chain-management" style="background: #dd3333;">Find out more</a>
+															</div>
+
+													</div>
+					</li>
+				
+					<li class="li-slide no_display" style="background: url(http://ab.client-projects.net/wp-content/uploads/2015/03/global-supply-chain-management-19501.jpg)  center">
+
+						
+						<div class="slider-content image-right" data-class="image-right">
+
+							<div class="slider-copy  ">
+								<h2 >Global Sourcing</h2>
+								<h5 >Sourcing quality products from across the globe.</h5>
+																									<a class="action-link" href="/services/global-sourcing" style="background: #dd0000;">Find out more</a>
+															</div>
+
+													</div>
+					</li>
+				
+					<li class="li-slide no_display" style="background: url(http://ab.client-projects.net/wp-content/uploads/2015/03/international-procurement-1950-2.jpg)  center no-repeat">
+
+						
+						<div class="slider-content image-right" data-class="image-right">
+
+							<div class="slider-copy  ">
+								<h2 >International Procurement</h2>
+								<h5 >Purchasing quality products from international suppliers, at competitive prices.</h5>
+																									<a class="action-link" href="/services/international-procurement" style="background: #dd0000;">Find out more</a>
+															</div>
+
+													</div>
+					</li>
+				
+					<li class="li-slide no_display" style="background: url(http://ab.client-projects.net/wp-content/uploads/2014/11/quality-1950-2.jpg)  center">
+
+						
+						<div class="slider-content image-left" data-class="image-left">
+
+							<div class="slider-copy  ">
+								<h2 style="color: #f7f7f7;">Quality Management</h2>
+								<h5 style="color: #f7f7f7;">Sourcing and managing international suppliers to meet your quality requirements.</h5>
+																									<a class="action-link" href="/services/quality-management" style="background: #dd0000;">Find out more</a>
+															</div>
+
+													</div>
+					</li>
+				
+					<li class="li-slide no_display" style="background: url(http://ab.client-projects.net/wp-content/uploads/2015/03/logistics-1950-2.jpg)  center no-repeat">
+
+						
+						<div class="slider-content image-left" data-class="image-left">
+
+							<div class="slider-copy  ">
+								<h2 >Warehousing &#038; Distribution</h2>
+								<h5 >Let us store your goods and deliver them to you, just when you need them.</h5>
+																									<a class="action-link" href="/services/service-management" style="background: #dd0000;">Find out more</a>
+															</div>
+
+													</div>
+					</li>
+				
+					<li class="li-slide no_display" style="background: url(http://ab.client-projects.net/wp-content/uploads/2014/11/customer-service-1950-2.jpg)  center">
+
+						
+						<div class="slider-content image-right" data-class="image-right">
+
+							<div class="slider-copy  ">
+								<h2 style="color: #f7f7f7;">Customer Service &#038; Support</h2>
+								<h5 style="color: #f7f7f7;">Customer support is important and we're here to help, if you need us.</h5>
+																									<a class="action-link" href="/services/service-management" style="background: #dd0000;">Find out more</a>
+															</div>
+
+													</div>
+					</li>
+							</ul>
+			<div class="slider-arrows ">
+				<a href="#" class="previous">Previous</a>
+				<a href="#" class="next">Next</a>
+			</div>
+		</div>
+		<div id="slider-auto" class="no_display">7</div>
+ 
+	<div id="widget-block" class="clearfix">
+ 	    <ul class="widget-list clearfix" id="home_page_downs">
+ 	        
+		<li class="content-widget services-content-widget widget clearfix">
+
+			
+			<ul class="three-column content-widget-item services clearfix">
+
+				
+					<li class="column">
+														<div class="post-image fitvid">
+									<a href="http://www.ab-international.co.uk/services/supply-chain-management">
+										<img src="http://ab.client-projects.net/wp-content/uploads/2014/10/Global-Supply-Chain-Management.png" alt="" />
+									</a>
+								</div>
+							
+													<div class="content">
+
+								
+								<h4 class="post-title"><a href="http://www.ab-international.co.uk/services/supply-chain-management">Global Supply<br />Chain Management</a></h4>
+
+								
+									<div class="copy">
+										<p>Managing the process from manufacture to delivery.</p>									</div>
+																						</div>
+											</li>
+				
+					<li class="column">
+														<div class="post-image fitvid">
+									<a href="http://www.ab-international.co.uk/services/global-sourcing">
+										<img src="http://ab.client-projects.net/wp-content/uploads/2014/10/Global-Sourcing.png" alt="" />
+									</a>
+								</div>
+							
+													<div class="content">
+
+								
+								<h4 class="post-title"><a href="http://www.ab-international.co.uk/services/global-sourcing">Global<br />Sourcing</a></h4>
+
+								
+									<div class="copy">
+										<p>Sourcing quality products from across the globe.</p>									</div>
+																						</div>
+											</li>
+				
+					<li class="column">
+														<div class="post-image fitvid">
+									<a href="http://www.ab-international.co.uk/services/international-procurement">
+										<img src="http://ab.client-projects.net/wp-content/uploads/2014/10/Procurement.png" alt="" />
+									</a>
+								</div>
+							
+													<div class="content">
+
+								
+								<h4 class="post-title"><a href="http://www.ab-international.co.uk/services/international-procurement">International<br />Procurement</a></h4>
+
+								
+									<div class="copy">
+										<p>Purchasing quality products from international suppliers, at competitive prices.</p>									</div>
+																						</div>
+											</li>
+				
+					<li class="column">
+														<div class="post-image fitvid">
+									<a href="http://www.ab-international.co.uk/services/quality-management">
+										<img src="http://ab.client-projects.net/wp-content/uploads/2014/10/Quality.png" alt="" />
+									</a>
+								</div>
+							
+													<div class="content">
+
+								
+								<h4 class="post-title"><a href="http://www.ab-international.co.uk/services/quality-management">Quality<br />Management</a></h4>
+
+								
+									<div class="copy">
+										<p>ISO 9001 standards sourcing and managing of suppliers to meet your requirements.</p>									</div>
+																						</div>
+											</li>
+				
+					<li class="column">
+														<div class="post-image fitvid">
+									<a href="http://www.ab-international.co.uk/services/service-management">
+										<img src="http://ab.client-projects.net/wp-content/uploads/2014/10/Warehouse-Distribution.png" alt="" />
+									</a>
+								</div>
+							
+													<div class="content">
+
+								
+								<h4 class="post-title"><a href="http://www.ab-international.co.uk/services/service-management">Warehousing<br />&#038; Distribution</a></h4>
+
+								
+									<div class="copy">
+										<p>Let us store your goods and deliver them to you, just when you need them.</p>									</div>
+																						</div>
+											</li>
+				
+					<li class="column">
+														<div class="post-image fitvid">
+									<a href="http://www.ab-international.co.uk/services/support">
+										<img src="http://ab.client-projects.net/wp-content/uploads/2014/10/Service.png" alt="" />
+									</a>
+								</div>
+							
+													<div class="content">
+
+								
+								<h4 class="post-title"><a href="http://www.ab-international.co.uk/services/support">Customer Service<br />&#038; Support</a></h4>
+
+								
+									<div class="copy">
+										<p>Customer support is important and we're here to help, if you need us.</p>									</div>
+																						</div>
+											</li>
+							</ul>
+		</li>
+
+		
+		<li class="testimonials-content-widget widget clearfix">
+			
+							<h3 class="widgettitle">Testimonials</h3>
+						
+			<ul class="testimonials-container">            
+								 
+						<li class="testimonial-item column active">
+							                            <div class="testimonial-body">
+                                <blockquote><p>We have been a customer of AB International for over 10 years and their service and goods have always been excellent. We would be more than happy to recommend AB International to others.</p>
+</blockquote>
+                                <cite class="testimonial-name">
+                                                                            Julieann Smyth, Procurement Manager, Arran Aromatics Ltd                                                                    </cite>
+                            </div>
+						</li>
+								 
+						<li class="testimonial-item column no_display">
+							                            <div class="testimonial-body">
+                                <blockquote><p>We have been ordering from AB International for many years and they are superb. Their customer service is fantastic. They always respond very quickly and go above and beyond to help.</p>
+</blockquote>
+                                <cite class="testimonial-name">
+                                                                            <a target="_blank" href="http://www.danielfieldmailorder.co.uk">Nick England, Daniel Field Direct Ltd</a>
+                                                                    </cite>
+                            </div>
+						</li>
+								 
+						<li class="testimonial-item column no_display">
+							                            <div class="testimonial-body">
+                                <blockquote><p>There are obvious concerns when your supplier&#8217;s plant is 9,000 miles away but AB International&#8217;s On Time metrics match our local suppliers. Over the last 20 years they have supplied quality gloves priced competitively and the AB team has supported numerous design modifications and improvements. </p>
+</blockquote>
+                                <cite class="testimonial-name">
+                                                                            Dan Beauleau, Senior Director of Purchasing at Combe Incorporated                                                                    </cite>
+                            </div>
+						</li>
+							</ul>
+							<div class="auto-slide no_display">8</div>
+					</li>
+	
+        </ul>
+			
+         	</div>
+		</div><!--End Content Container -->
+	
+		
+		<div id="site-wide-container">
+			<span class="arrow"></span>
+			<div class="site-wide-cta">
+									<span>Get in touch to see how we can help your business</span>
+													<a class="action-link" href="/contact-us">Contact Us</a>
+							</div>
+		</div>
+				 
+	<div id="footer-container">
+		
+		<div id="footer" class="clearfix">
+			<ul class="footer-widgets four-column clearfix">
+							</ul>
+		</div> <!--End footer -->
+		
+	</div> <!--end Footer Container -->
+	
+	<div id="footer-base-container">
+		<div class="footer-text">
+			<div id="footer-navigation-container">
+				<ul id="footer-nav" class="clearfix"><li id="menu-item-36" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-36"><a href="http://www.ab-international.co.uk/accessibility">Accessibility</a></li>
+<li id="menu-item-37" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-37"><a href="http://www.ab-international.co.uk/privacy-policy">Privacy Policy</a></li>
+<li id="menu-item-35" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-35"><a href="http://www.ab-international.co.uk/cookie-policy">Cookie Policy</a></li>
+<li id="menu-item-158" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-158"><a href="http://www.ab-international.co.uk/staff-document-library">Staff Login</a></li>
+</ul>			</div>
+			
+			<p>Copyright 2018 AB International Ltd</p>
+							<div class="obox-credit">
+				   <p><img src="http://www.ab-international.co.uk/wp-content/uploads/2018/04/ISO-9001.png" alt="ISO 9001" /></p>
+				</div>
+					</div>        
+	</div> <!--end Footer Base Container -->
+	
+</div><!--end Wrapper -->
+
+	<div id="back-top">
+		<a href="#top"></a>
+	</div>
+
+<!--Get Google Analytics -->
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-969179-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
+<script type='text/javascript' src='http://www.ab-international.co.uk/wp-includes/js/wp-embed.min.js?ver=4.5.14'></script>
+</body>
+</html>
+
+
+

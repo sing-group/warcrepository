@@ -1,0 +1,143 @@
+WARC/1.0
+WARC-Type: warcinfo
+WARC-Date: 2018-05-30T18:18:32Z
+WARC-Record-ID: <urn:uuid:b5aaac6c-17a1-40c5-8e99-99943b72fc9e>
+WARC-All-Language: en
+WARC-All-Content_type: text/html, text/html; charset=utf-8
+Content-Type: application/http;msgtype=response
+Content-Length: 46
+
+WARCProcessor by SING Group www.sing-group.com
+
+WARC/1.0
+WARC-Type: response
+WARC-Record-ID: <http://www.fsdc.eu>
+WARC-Date: 20180530181832
+WARC-Target-URI: http://www.fsdc.eu
+WARC-Language: en
+Content-Type: application/http;msgtype=response
+Content-Length: 5405
+
+HTTP/1.1 200
+Content-Type:text/html; charset=utf-8
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="title" content="FS | Discussion Group" />
+<meta name="robots" content="index, follow" />
+<meta name="language" content="en" />
+
+<title>FS | Discussion Group</title>
+
+<link rel="shortcut icon" href="/favicon.ico" />
+<link rel="stylesheet" type="text/css" media="screen" href="/css/main.css" />
+<!--[if IE ]>
+<link rel="stylesheet" type="text/css" media="screen" href="/css/ie.css" />
+<![endif]-->
+
+</head>
+<body>
+
+  <div id="container">
+  
+  <div id="header">
+    <div id="logo"><a href="/"><img alt="FS Discussion Group" title="" src="/images/fsdc.gif" /></a><hr/></div>
+    
+    <div id="nav">
+      <h1>Navigation</h1>
+      <ul>
+        <li><a class="menuOn" href="/">Home</a></li>
+        <li><a href="/club_diary">Club diary</a></li>
+        <li><a href="/event_archive/">Event archive</a></li>
+        <li><a href="/media_centre">Media centre</a></li>
+        <li><a href="/membership">Membership</a></li>
+        <li><a href="/contact_us">Contact us</a></li>
+      </ul>
+      <hr/>
+    </div>
+    
+    <div id="image" style="background:url('/images/title/home.jpg') no-repeat">
+      <img alt="Home" title="" src="/images/title/home.jpg" />    </div>
+  </div>
+  
+  
+  <div id="content">
+    <div id="contentMain">
+      <img src="http://www.fsdc.eu/images/heading/1.gif" alt="The Financial Services Discussion Club is an independent forum for the exchange of ideas and debate of topical issues" />    </div>
+    
+    <h2>Upcoming events</h2>
+    <table style="width:535px">
+                        <tr>
+            <td nowrap="nowrap">11/06/18</td>
+            <td nowrap="nowrap"><b>Private Wealth Management</b> in London</td>
+            <td nowrap="nowrap" style="text-align: right;"><b><a class="green" href="/club_diary/event/768">Click for more</a></b></td>
+          </tr>
+                  <tr>
+            <td nowrap="nowrap">13/06/18</td>
+            <td nowrap="nowrap"><b>Financial Crime Group (AM/IM/WM)</b> in London</td>
+            <td nowrap="nowrap" style="text-align: right;"><b><a class="green" href="/club_diary/event/777">Click for more</a></b></td>
+          </tr>
+                  <tr>
+            <td nowrap="nowrap">18/06/18</td>
+            <td nowrap="nowrap"><b>Cyber Club</b> in London</td>
+            <td nowrap="nowrap" style="text-align: right;"><b><a class="green" href="/club_diary/event/799">Click for more</a></b></td>
+          </tr>
+                  </table>
+    <hr/>
+  </div>
+  
+  
+  <div id="side">
+    <div id="sideSection">
+      <ul>
+                  <li><a href="/club_diary/group/asset_management">Asset Management</a></li>
+                  <li><a href="/club_diary/group/complaints_handling">Complaints Handling</a></li>
+                  <li><a href="/club_diary/group/compliance_scotland">Compliance - Scotland</a></li>
+                  <li><a href="/club_diary/group/financial_crime">Financial Crime</a></li>
+                  <li><a href="/club_diary/group/general_interest">General Interest</a></li>
+                  <li><a href="/club_diary/group/ireland">Ireland</a></li>
+                  <li><a href="/club_diary/group/operational_risk">Operational Risk</a></li>
+                  <li><a href="/club_diary/group/private_wealth_management">Private Wealth Management</a></li>
+                  <li><a href="/club_diary/group/social_media_group">Social Media Group</a></li>
+                  <li><a href="/club_diary/group/the_cyber_club">The Cyber Club</a></li>
+              </ul>
+    </div>
+  </div>
+  
+  
+  <div id="footer">
+  
+    <div id="sideFooter">
+      <h2>Featured Summary</h2>
+      <p>
+        <img Alt="Complaints Handling Notes - October 2017" src="/highlight/complaints handlingnotes - october 2017.gif" alt="Complaints handlingnotes - october 2017" /><br/>
+        <b><a href="/download/highlight/6">Click for more</a></b>
+      </p>
+    </div>
+    
+                  <div id="mediumFooter"><h2>News</h2><p><b>FSDC Edinburgh Complaints Group to Discuss Materiality</b></p><p>The FSDC Complaints Group&nbsp;in Edinburgh will be discussing 'Materiality and Financial Loss'&nbsp;at its next meeting on Monday, 25th June. </p>
+<p>Members are asked to confirm their&nbsp;attendance, as places will be limited.</p>
+<p><b><a href="http://www.fsdc.eu/club_diary/group/complaints_handling">Click for more</a></b></p></div>              <div id="mediumFooter"><h2>News</h2><p><b>Samaritans to Contibute to London Complaints Meeting</b></p><p>The FSDC is pleased to announce that the Samaritans will be&nbsp;contributing to discussions on vulnerable customers at the next FSDC Complaints Group meeting in London on Monday, 21st May.</p>
+<p>As this will be a popular meeting, places may&nbsp;be limited.</p>
+<p><b><a href="http://www.fsdc.eu/club_diary/group/complaints_handling">Click for more</a></b></p></div>              
+  </div>  
+  <div id="base"></div>
+  </div>
+
+<!-- Google Tracking -->
+<script src="http://www.google-analytics.com/urchin.js"type="text/javascript">
+</script>
+<script type="text/javascript">
+_uacct = "UA-2979167-1";
+urchinTracker();
+</script>
+
+
+</body>
+</html>
+
+

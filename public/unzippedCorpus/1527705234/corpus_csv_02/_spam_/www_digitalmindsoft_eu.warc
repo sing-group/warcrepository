@@ -1,0 +1,971 @@
+WARC/1.0
+WARC-Type: warcinfo
+WARC-Date: 2018-05-30T17:52:31Z
+WARC-All-Language: en
+WARC-All-Content_type: text/html; charset=utf-8
+WARC-Record-ID: <urn:uuid:32e1dd0a-624e-46f0-b8ea-750bf1b4093c>
+Content-Type: application/http;msgtype=response
+Content-Length: 46
+
+WARCProcessor by SING Group www.sing-group.com
+
+WARC/1.0
+WARC-Type: response
+WARC-Target-URI: http://www.digitalmindsoft.eu
+WARC-Date: 20180530175231
+WARC-Language: en
+WARC-Record-ID: <http://www.digitalmindsoft.eu>
+Content-Type: application/http;msgtype=response
+Content-Length: 26420
+
+HTTP/1.1 200
+Content-Type:text/html; charset=utf-8
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en" dir="ltr">
+
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+  <title>Home | Digitalmindsoft.eu</title>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="shortcut icon" href="/sites/default/files/digitalmindsoft_favicon.ico" type="image/x-icon" />
+  <link type="text/css" rel="stylesheet" media="all" href="/sites/default/files/css/css_d57a476832a7acab214fdfac371190bf.css" />
+<link type="text/css" rel="stylesheet" media="print" href="/sites/default/files/css/css_407bdc9d75d920c3f8886d07cd4c1042.css" />
+<!--[if IE]>
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/themes/digitalmindsoft/css/ie.css?m" />
+<![endif]-->
+<!--[if lte IE 6]>
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/themes/digitalmindsoft/css/ie6.css?m" />
+<![endif]-->
+  <script type="text/javascript" src="/sites/default/files/js/js_a95e363e625a8bf78ab6476a26062bab.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, { "basePath": "/", "googleanalytics": { "trackOutgoing": 1, "trackMailto": 1, "trackDownload": 1, "trackDownloadExtensions": "7z|aac|arc|arj|asf|asx|avi|bin|csv|doc|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls|xml|z|zip" }, "lightbox2": { "rtl": 0, "file_path": "/(\\w\\w/)sites/default/files", "default_image": "/sites/all/modules/lightbox2/images/brokenimage.jpg", "border_size": 10, "font_color": "000", "box_color": "fff", "top_position": "", "overlay_opacity": "0.8", "overlay_color": "000", "disable_close_click": true, "resize_sequence": 0, "resize_speed": 400, "fade_in_speed": 400, "slide_down_speed": 600, "use_alt_layout": false, "disable_resize": false, "disable_zoom": false, "force_show_nav": false, "show_caption": true, "loop_items": false, "node_link_text": "View Image Details", "node_link_target": false, "image_count": "Image !current of !total", "video_count": "Video !current of !total", "page_count": "Page !current of !total", "lite_press_x_close": "press \x3ca href=\"#\" onclick=\"hideLightbox(); return FALSE;\"\x3e\x3ckbd\x3ex\x3c/kbd\x3e\x3c/a\x3e to close", "download_link_text": "", "enable_login": false, "enable_contact": false, "keys_close": "c x 27", "keys_previous": "p 37", "keys_next": "n 39", "keys_zoom": "z", "keys_play_pause": "32", "display_image_size": "original", "image_node_sizes": "()", "trigger_lightbox_classes": "", "trigger_lightbox_group_classes": "", "trigger_slideshow_classes": "", "trigger_lightframe_classes": "", "trigger_lightframe_group_classes": "", "custom_class_handler": 0, "custom_trigger_classes": "", "disable_for_gallery_lists": true, "disable_for_acidfree_gallery_lists": true, "enable_acidfree_videos": true, "slideshow_interval": 5000, "slideshow_automatic_start": true, "slideshow_automatic_exit": true, "show_play_pause": true, "pause_on_next_click": false, "pause_on_previous_click": true, "loop_slides": false, "iframe_width": 600, "iframe_height": 400, "iframe_border": 1, "enable_video": false }, "uc_ajax_cart": { "CALLBACK": "/uc_ajax_cart/add/item", "SHOW_CALLBACK": "/uc_ajax_cart/show", "CART_LINK_CALLBACK": "/uc_ajax_cart/addlink", "BLOCK_UI": 2, "TIMEOUT": 1000, "UPDATE_CALLBACK": "/uc_ajax_cart/update", "UPDATE": 0, "CART_VIEW_ON": 0, "SHOW_VIEW_CALLBACK": "/uc_ajax_cart/show-cart-view", "TRACK_CLOSED_STATE": 0, "INITIAL_CLOSED_STATE": 0, "CART_PANE_EFFECT": 0, "CART_PANE_EFFECT_DURATION": 200, "HIDE_CART_OPERATIONS": true, "COLLAPSIBLE_CART": 0, "CART_OPERATION": "Cart updated!", "ADD_TITLE": "Please wait", "ADD_MESSAGES": [ "Adding product to cart..." ], "REMOVE_TITLE": "Please wait", "REMOVE_MESSAGES": [ "Removing product from cart..." ], "UPDATE_TITLE": "Please wait", "UPDATE_MESSAGES": [ "Updating cart..." ] }, "viewsSlideshow": { "Home_Slider-block_1": { "methods": { "goToSlide": [ "viewsSlideshowPager", "viewsSlideshowSlideCounter", "viewsSlideshowCycle" ], "nextSlide": [ "viewsSlideshowPager", "viewsSlideshowSlideCounter", "viewsSlideshowCycle" ], "pause": [ "viewsSlideshowControls", "viewsSlideshowCycle" ], "play": [ "viewsSlideshowControls", "viewsSlideshowCycle" ], "previousSlide": [ "viewsSlideshowPager", "viewsSlideshowSlideCounter", "viewsSlideshowCycle" ], "transitionBegin": [ "viewsSlideshowPager", "viewsSlideshowSlideCounter" ], "transitionEnd": [  ] }, "paused": 0 } }, "viewsSlideshowControls": { "Home_Slider-block_1": { "bottom": { "type": "viewsSlideshowControlsText" } } }, "viewsSlideshowPager": { "Home_Slider-block_1": { "bottom": { "type": "viewsSlideshowPagerFields" } } }, "viewsSlideshowPagerFields": { "Home_Slider-block_1": { "bottom": { "activatePauseOnHover": 1 } } }, "viewsSlideshowCycle": { "#views_slideshow_cycle_main_Home_Slider-block_1": { "num_divs": 4, "id_prefix": "#views_slideshow_cycle_main_", "div_prefix": "#views_slideshow_cycle_div_", "vss_id": "Home_Slider-block_1", "effect": "fade", "transition_advanced": 0, "timeout": 5000, "speed": 700, "delay": 0, "sync": 1, "random": 0, "pause": 1, "pause_on_click": 0, "action_advanced": 0, "start_paused": 0, "remember_slide": 0, "remember_slide_days": 1, "pause_when_hidden": 0, "pause_when_hidden_type": "full", "amount_allowed_visible": "", "nowrap": 0, "fixed_height": 1, "items_per_slide": 1, "wait_for_image_load": 1, "wait_for_image_load_timeout": 3000, "cleartype": 1, "cleartypenobg": 1, "advanced_options": "{}" } } });
+//--><!]]>
+</script>
+</head>
+<body class="page front not-logged-in node-type-panel no-sidebars i18n-en">
+
+  
+  <div id="page-wrapper"><div id="page">
+
+    <div id="header"><div class="section clearfix">
+
+              <div id="logo_wrapper"><a href="/" title="Home" rel="home" id="logo"><img src="/sites/all/themes/digitalmindsoft/images/digitalmindsoft_logo.png" alt="Home" /></a></div>
+      
+      
+              <div id="search-box"><form action="/"  accept-charset="UTF-8" method="post" id="search-theme-form">
+<div><div id="search" class="container-inline">
+  <div class="form-item" id="edit-search-theme-form-1-wrapper">
+ <input type="text" maxlength="128" name="search_theme_form" id="edit-search-theme-form-1" size="15" value="" title="Enter the terms you wish to search for." class="form-text" />
+</div>
+<input type="image" name="op" value="Search"  src="/sites/all/themes/digitalmindsoft/images/header_search_b.png" alt="Search" class="form-image" />
+<input type="hidden" name="form_build_id" id="form-9cf9b29794eb346d1c4c59d72cb1d378" value="form-9cf9b29794eb346d1c4c59d72cb1d378"  />
+<input type="hidden" name="form_id" id="edit-search-theme-form" value="search_theme_form"  />
+</div>
+
+</div></form>
+</div>
+      
+      <div class="region region-header">
+  <div id="block-menu_block-1" class="block block-menu_block first region-odd odd region-count-1 count-1">
+  
+  <div class="content">
+    <div class="menu_block_wrapper menu-block-1 menu-name-primary-links parent-mlid-0 menu-level-1">
+  <ul class="menu"><li class="leaf first menu-mlid-249 active active-trail"><div class="bg_left"></div><a href="/" title="" class="active-trail active">Home</a><div class="bg_right"></div></li>
+<li class="leaf menu-mlid-250 has-children"><a href="/news" title="">News</a></li>
+<li class="leaf menu-mlid-251 has-children"><a href="/products" title="">Products</a></li>
+<li class="leaf menu-mlid-253 has-children"><a href="/career" title="">Career</a></li>
+<li class="leaf last menu-mlid-254 has-children"><a href="/about-us" title="">About Us</a></li>
+</ul></div>
+  </div>
+
+  </div><!-- /.block -->
+<div id="block-views-Home_Slider-block_1" class="block block-views last region-even even region-count-2 count-2">
+  
+  <div class="content">
+    <div class="views_view view view-Home-Slider view-id-Home_Slider view-display-id-block_1 view-dom-id-a998e403d35c518a621afa1210369167">
+  
+  
+  
+  
+      <div class="view-content">
+      
+<div class="skin-default">
+  
+  <div id="views_slideshow_cycle_main_Home_Slider-block_1" class="views_slideshow_cycle_main views_slideshow_main"><div id="views_slideshow_cycle_teaser_section_Home_Slider-block_1" class="views_slideshow_cycle_teaser_section">
+  <div class="views_slideshow_cycle_slide views_slideshow_slide views-row-1 views-row-odd" id="views_slideshow_cycle_div_Home_Slider-block_1_0">
+  <div class="views-row views-row-0 views-row-first views-row-odd">
+      <div style=" 
+display:block;
+background: url('    http://www.digitalmindsoft.eu/sites/default/files/imagecache/Slider_Big/header2_1.jpg    ') no-repeat scroll center center transparent;
+height:323px;
+width:100%;
+"><a href="    products/men-of-war-assault-squad-2    " style="width:800px; display: block; height: 323px; margin:0 auto;" target=""></a></div></div>
+</div>
+<div class="views_slideshow_cycle_slide views_slideshow_slide views-row-2 views_slideshow_cycle_hidden views-row-even" id="views_slideshow_cycle_div_Home_Slider-block_1_1">
+  <div class="views-row views-row-0 views-row-first views-row-odd">
+      <div style=" 
+display:block;
+background: url('    http://www.digitalmindsoft.eu/sites/default/files/imagecache/Slider_Big/header_3.jpg    ') no-repeat scroll center center transparent;
+height:323px;
+width:100%;
+"><a href="    http://www.digitalmindsoft.eu/products/call-to-arms    " style="width:800px; display: block; height: 323px; margin:0 auto;" target=""></a></div></div>
+</div>
+<div class="views_slideshow_cycle_slide views_slideshow_slide views-row-3 views_slideshow_cycle_hidden views-row-odd" id="views_slideshow_cycle_div_Home_Slider-block_1_2">
+  <div class="views-row views-row-0 views-row-first views-row-odd">
+      <div style=" 
+display:block;
+background: url('    http://www.digitalmindsoft.eu/sites/default/files/imagecache/Slider_Big/header2.jpg    ') no-repeat scroll center center transparent;
+height:323px;
+width:100%;
+"><a href="    http://digitalmindsoft.eu/products/men-of-war-assault-squad    " style="width:800px; display: block; height: 323px; margin:0 auto;" target=""></a></div></div>
+</div>
+<div class="views_slideshow_cycle_slide views_slideshow_slide views-row-4 views_slideshow_cycle_hidden views-row-even" id="views_slideshow_cycle_div_Home_Slider-block_1_3">
+  <div class="views-row views-row-0 views-row-first views-row-odd">
+      <div style=" 
+display:block;
+background: url('    http://www.digitalmindsoft.eu/sites/default/files/imagecache/Slider_Big/header4.jpg    ') no-repeat scroll center center transparent;
+height:323px;
+width:100%;
+"><a href="    http://digitalmindsoft.eu/products/men-of-war    " style="width:800px; display: block; height: 323px; margin:0 auto;" target=""></a></div></div>
+</div>
+</div>
+</div>
+      <div class="views-slideshow-controls-bottom clear-block">
+      <div class="views_slideshow_controls_text" id="views_slideshow_controls_text_Home_Slider-block_1">
+  <span  class="views_slideshow_controls_text_previous" id="views_slideshow_controls_text_previous_Home_Slider-block_1"><a href="#">Previous</a></span>
+  <span  class="views_slideshow_controls_text_pause" id="views_slideshow_controls_text_pause_Home_Slider-block_1"><a href="#">Pause</a></span>
+  <span  class="views_slideshow_controls_text_next" id="views_slideshow_controls_text_next_Home_Slider-block_1"><a href="#">Next</a></span>
+</div>
+<div class="widget_pager widget_pager_bottom views_slideshow_pager_field" id="widget_pager_bottom_Home_Slider-block_1">
+  <div class="views_slideshow_pager_field_item views_slideshow_active_pager_field_item views-row-odd" id="views_slideshow_pager_field_item_bottom_Home_Slider-block_1_0">
+  <div class="views-field-counter">
+    <div class="views-content-counter">
+    1  </div>
+</div>
+</div>
+<div class="views_slideshow_pager_field_item views-row-even" id="views_slideshow_pager_field_item_bottom_Home_Slider-block_1_1">
+  <div class="views-field-counter">
+    <div class="views-content-counter">
+    2  </div>
+</div>
+</div>
+<div class="views_slideshow_pager_field_item views-row-odd" id="views_slideshow_pager_field_item_bottom_Home_Slider-block_1_2">
+  <div class="views-field-counter">
+    <div class="views-content-counter">
+    3  </div>
+</div>
+</div>
+<div class="views_slideshow_pager_field_item views-row-even" id="views_slideshow_pager_field_item_bottom_Home_Slider-block_1_3">
+  <div class="views-field-counter">
+    <div class="views-content-counter">
+    4  </div>
+</div>
+</div>
+</div>
+    </div>
+  </div>
+    </div>
+  
+  
+  
+  
+  
+  
+</div><!-- /.view -->
+  </div>
+
+  </div><!-- /.block -->
+</div><!-- /.region -->
+    <div id="header_bg_wrapper">
+      <div id="header_image">
+            </div>
+    </div>
+    </div></div><!-- /.section, /#header -->
+
+    <div id="bg_wrapper"><div id="main-wrapper"><div id="shadow_top"><div id="main" class="clearfix">
+
+      <div id="content" class="column">
+              <div id="language">
+        <ul><li class="en first active"><a href="/" class="language-link active">English</a></li>
+<li class="de last"><a href="/de" class="language-link">Deutsch</a></li>
+</ul>        </div>
+      <div class="section">
+
+        
+        
+        <div class="breadcrumb"><a href="/">Home</a></div>
+        <div class="clearfix"></div>
+                        
+        
+        <div id="content-area">
+          <div id="node-6" class="node node-type-panel node-promoted build-mode-full clearfix">
+  
+  
+  
+      <div class="meta">
+
+
+          </div>
+  
+  <div class="content">
+    <div class="panel-display panel-3col-33-stacked  clear-block" >
+  
+  <div class="center-wrapper">
+    <div class="panel-panel panel-col-first">
+      <div class="inside"><div class="panels_pane panel-pane pane-block pane-views-home-news-block-1" >
+  
+  
+  
+  <div class="pane-content">
+    <div class="views_view view view-Home-News view-id-Home_News view-display-id-block_1 view-dom-id-746e518ac1465fc03b0b0841e15a57ee">
+  
+  
+  
+  
+      <div class="view-content">
+      <table class="views-view-grid col-1">
+  <tbody>
+          <tr class="row-1 row-first row-last">
+                  <td class="col-1 col-first">
+              
+  <div class="views-field views-field-field-image-fid">        <span class="field-content"><a href="/news/developers-update" class="imagecache imagecache-News_front imagecache-linked imagecache-News_front_linked"><img src="http://www.digitalmindsoft.eu/sites/default/files/imagecache/News_front/dummy_5.jpg" alt="" title=""  class="imagecache imagecache-News_front" width="305" height="205" /></a></span>  </div>  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/news/developers-update"><h2>Developers update!</h2></a></span>  </div>  
+  <div class="views-field views-field-nothing">        <span class="field-content">The first developers update for Call to Arms has been released on Steam! We will use these updates to keep you posted on the progress of the development and features.
+Check it out:
+http://steamcommunity.com//games/...    <a href="/news/developers-update">more »</a> </span>  </div>          </td>
+              </tr>
+      </tbody>
+</table>
+    </div>
+  
+  
+  
+  
+  
+  
+</div><!-- /.view -->
+  </div>
+
+  
+  </div>
+<div class="panel-region-separator"></div><div class="panels_pane panel-pane pane-block pane-views-home-news-block-3" >
+  
+  
+  
+  <div class="pane-content">
+    <div class="views_view view view-Home-News view-id-Home_News view-display-id-block_3 view-dom-id-f6f8570ff7eb3aca4a21ad8ad0020b4f">
+  
+  
+  
+  
+      <div class="view-content">
+      <table class="views-view-grid col-1">
+  <tbody>
+          <tr class="row-1 row-first row-last">
+                  <td class="col-1 col-first">
+              
+  <div class="views-field views-field-field-image-fid">        <span class="field-content"><a href="/news/iron-fist-available" class="imagecache imagecache-News_front imagecache-linked imagecache-News_front_linked"><img src="http://www.digitalmindsoft.eu/sites/default/files/imagecache/News_front/dummy_6.jpg" alt="" title=""  class="imagecache imagecache-News_front" width="305" height="205" /></a></span>  </div>  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/news/iron-fist-available"><h2>Iron Fist - available!</h2></a></span>  </div>  
+  <div class="views-field views-field-nothing">        <span class="field-content">Men of War: Assault Squad 2 - Iron Fist is the first DLC for AS2. It comes with a set of new features and additional singleplayer content. Fight your way through the battlefield as a veteran tank crew in third person...    <a href="/news/iron-fist-available">more »</a> </span>  </div>          </td>
+              </tr>
+      </tbody>
+</table>
+    </div>
+  
+  
+  
+  
+  
+  
+</div><!-- /.view -->
+  </div>
+
+  
+  </div>
+</div>
+    </div>
+
+    <div class="panel-panel panel-col">
+      <div class="inside"><div class="panels_pane panel-pane pane-block pane-views-home-news-block-2" >
+  
+  
+  
+  <div class="pane-content">
+    <div class="views_view view view-Home-News view-id-Home_News view-display-id-block_2 view-dom-id-0f48ec3b8a941cc72c55e7fe990a9693">
+  
+  
+  
+  
+      <div class="view-content">
+      <table class="views-view-grid col-1">
+  <tbody>
+          <tr class="row-1 row-first row-last">
+                  <td class="col-1 col-first">
+              
+  <div class="views-field views-field-field-image-fid">        <span class="field-content"><a href="/news/update-on-the-game" class="imagecache imagecache-News_front imagecache-linked imagecache-News_front_linked"><img src="http://www.digitalmindsoft.eu/sites/default/files/imagecache/News_front/dummy2.jpg" alt="" title=""  class="imagecache imagecache-News_front" width="305" height="205" /></a></span>  </div>  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/news/update-on-the-game"><h2>Update on the game!</h2></a></span>  </div>  
+  <div class="views-field views-field-nothing">        <span class="field-content">We plan to release Call to Arms to backers within the next 3 months. Depending on how well the early Alpha is received, we will go live with the Early Access version a few weeks later. At this point, the game will lack...    <a href="/news/update-on-the-game">more »</a> </span>  </div>          </td>
+              </tr>
+      </tbody>
+</table>
+    </div>
+  
+  
+  
+  
+  
+  
+</div><!-- /.view -->
+  </div>
+
+  
+  </div>
+<div class="panel-region-separator"></div><div class="panels_pane panel-pane pane-block pane-views-home-news-block-4" >
+  
+  
+  
+  <div class="pane-content">
+    <div class="views_view view view-Home-News view-id-Home_News view-display-id-block_4 view-dom-id-4a087100f1e04dc847df6a22ed194e4e">
+  
+  
+  
+  
+      <div class="view-content">
+      <table class="views-view-grid col-1">
+  <tbody>
+          <tr class="row-1 row-first row-last">
+                  <td class="col-1 col-first">
+              
+  <div class="views-field views-field-field-image-fid">        <span class="field-content"><a href="/news/call-to-arms-on-steam" class="imagecache imagecache-News_front imagecache-linked imagecache-News_front_linked"><img src="http://www.digitalmindsoft.eu/sites/default/files/imagecache/News_front/dummy_4_0_0_1.jpg" alt="" title=""  class="imagecache imagecache-News_front" width="305" height="205" /></a></span>  </div>  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/news/call-to-arms-on-steam"><h2>Call to Arms on Steam!</h2></a></span>  </div>  
+  <div class="views-field views-field-nothing">        <span class="field-content">Digitalmindsoft is excited to announce that the store page of Call to Arms is live!
+You can find it on the Steam store!
+The crowd-funding website will be closed in 30 days, so if you want to take advantage
+of the great...    <a href="/news/call-to-arms-on-steam">more »</a> </span>  </div>          </td>
+              </tr>
+      </tbody>
+</table>
+    </div>
+  
+  
+  
+  
+  
+  
+</div><!-- /.view -->
+  </div>
+
+  
+  </div>
+</div>
+    </div>
+
+    <div class="panel-panel panel-col-last">
+      <div class="inside"><div class="panels_pane panel-pane pane-block pane-views-home-video-block-1" >
+  
+  
+  
+  <div class="pane-content">
+    <div class="views_view view view-Home-Video view-id-Home_Video view-display-id-block_1 view-dom-id-f1ccee0f1b9747b39e5e8fd0d44ae864">
+  
+  
+  
+  
+      <div class="view-content">
+        <div class="views-row views-row-1 views-row-odd views-row-first views-row-last">
+      
+  <div class="views-field views-field-field-video-embed">        <span class="field-content"><div class="emvideo emvideo-video emvideo-youtube"><div id="media-youtube-1" class="media_youtube_flash media-youtube">
+  <div id="media-youtube-default-external-1">
+  <object type="application/x-shockwave-flash" height="205" width="305" data="http://www.youtube.com/v/Ecodp9zTmTY&amp;amp;rel=0&amp;amp;enablejsapi=1&amp;amp;playerapiid=ytplayer&amp;amp;fs=1" id="media-youtube-default-external-object-1">
+    <param name="movie" value="http://www.youtube.com/v/Ecodp9zTmTY&amp;amp;rel=0&amp;amp;enablejsapi=1&amp;amp;playerapiid=ytplayer&amp;amp;fs=1" />
+    <param name="allowScriptAccess" value="sameDomain"/>
+    <param name="quality" value="best"/>
+    <param name="allowFullScreen" value="true"/>
+    <param name="bgcolor" value="#FFFFFF"/>
+    <param name="scale" value="noScale"/>
+    <param name="salign" value="TL"/>
+    <param name="FlashVars" value="playerMode=embedded" />
+    <param name="wmode" value="transparent" />
+    <!-- Fallback content -->
+      <a href="http://www.youtube.com/watch?v=Ecodp9zTmTY"><img src="http://img.youtube.com/vi/Ecodp9zTmTY/0.jpg" alt="See video" title="See video"  width="305" height="205" /></a>  </object>
+</div>
+</div>
+</div></span>  </div>  
+  <div class="views-field views-field-title">        <h2 class="field-content">Men of War Assault Squad 2 Release Trailer</h2>  </div>  
+  <div class="views-field views-field-body">        <div class="field-content"><p><span style="color: rgb(51, 51, 51); font-family: arial, sans-serif; font-size: 13px; line-height: 17px; background-color: rgb(255, 255, 255);">New chapter in Men of War saga begins today!&nbsp;</span><br style="color: rgb(51, 51, 51); font-family: arial, sans-serif; font-size: 13px; line-height: 17px; background-color: rgb(255, 255, 255);" /><span style="color: rgb(51, 51, 51); font-family: arial, sans-serif; font-size: 13px; line-height: 17px; background-color: rgb(255, 255, 255);">For more info visit the official Steam Store page:</span></p>
+<p><a href="http://store.steampowered.com/app/244450/" title="http://store.steampowered.com/app/244450/">http://store.steampowered.com/app/244450/</a></p>
+</div>  </div>  </div>
+    </div>
+  
+  
+  
+  
+  
+  
+</div><!-- /.view -->
+  </div>
+
+  
+  </div>
+<div class="panel-region-separator"></div><div class="panels_pane panel-pane pane-block pane-views-home-game-block-1" >
+  
+  
+  
+  <div class="pane-content">
+    <div class="views_view view view-Home-Game view-id-Home_Game view-display-id-block_1 view-dom-id-62f73580fe6f7c001f5fad3e8644fe6a">
+  
+  
+  
+  
+      <div class="view-content">
+      <table class="views-view-grid col-3">
+  <tbody>
+          <tr class="row-1 row-first row-last">
+                  <td class="col-1 col-first">
+              
+  <div class="views-field views-field-field-headerimage-fid">        <span class="field-content"><a href="/products/call-to-arms" class="imagecache imagecache-Three_Column imagecache-linked imagecache-Three_Column_linked"><img src="http://www.digitalmindsoft.eu/sites/default/files/imagecache/Three_Column/cta_0_2.jpg" alt="" title=""  class="imagecache imagecache-Three_Column" width="305" height="205" /></a></span>  </div>  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/products/call-to-arms"><h2>Call to Arms</h2></a></span>  </div>  
+  <div class="views-field views-field-field-headertext-value">        <div class="field-content">&quot;Call to Arms&quot; offers an innovative new look into modern era combat. Initially offering two playable factions with realistically modeled vehicles and heavy weaponry, as well as dozens of firearms and customization&#039;s. Command your troops to victory or fight by yourself in the 3rd person action mode.</div>  </div>          </td>
+                  <td class="col-2">
+                      </td>
+                  <td class="col-3 col-last">
+                      </td>
+              </tr>
+      </tbody>
+</table>
+    </div>
+  
+  
+  
+  
+  
+  
+</div><!-- /.view -->
+  </div>
+
+  
+  </div>
+</div>
+    </div>
+  </div>
+
+  </div>
+  </div>
+
+  </div><!-- /.node -->
+        </div>
+        <div class="clearfix"></div>
+        
+        
+      </div></div><!-- /.section, /#content -->
+
+      
+      
+      
+    </div></div></div></div><!-- /#main, /#main-wrapper -->
+
+    
+  </div></div><!-- /#page, /#page-wrapper -->
+
+  <div class="region region-page-closure">
+  <div id="block-block-1" class="block block-block first last region-odd odd region-count-1 count-3">
+  
+  <div class="content">
+    <p style="text-align: center;"><span style="font-family: tahoma,geneva,sans-serif;">Site Content Copyright © Digitalmindsoft e.K. 2006-2017, All rights reserved.</span></p><p style="text-align: center;"><span style="font-family: tahoma,geneva,sans-serif;"><a href="/about-us/imprint">Imprint</a> | <a href="/about-us/privacy-policy">Privacy Policy</a> | <a href="/about-us/terms-of-service">Terms of Service</a> | <a href="/user">Log-in</a> | <a href="/about-us/contact">Contact</a></span></p>  </div>
+
+  </div><!-- /.block -->
+</div><!-- /.region -->
+
+  <script type="text/javascript">
+<!--//--><![CDATA[//><!--
+var _gaq = _gaq || [];_gaq.push(["_setAccount", "UA-2866402-1"]);_gaq.push(["_gat._anonymizeIp"]);_gaq.push(["_trackPageview"]);(function() {var ga = document.createElement("script");ga.type = "text/javascript";ga.async = true;ga.src = ("https:" == document.location.protocol ? "https://ssl" : "http://www") + ".google-analytics.com/ga.js";var s = document.getElementsByTagName("script")[0];s.parentNode.insertBefore(ga, s);})();
+//--><!]]>
+</script>
+
+</body>
+</html>
+
+
+WARC/1.0
+WARC-Type: response
+WARC-Target-URI: http://www.digitalmindsoft.eu
+WARC-Date: 20180530181832
+WARC-Language: en
+WARC-Record-ID: <http://www.digitalmindsoft.eu>
+Content-Type: application/http;msgtype=response
+Content-Length: 26420
+
+HTTP/1.1 200
+Content-Type:text/html; charset=utf-8
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en" dir="ltr">
+
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+  <title>Home | Digitalmindsoft.eu</title>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="shortcut icon" href="/sites/default/files/digitalmindsoft_favicon.ico" type="image/x-icon" />
+  <link type="text/css" rel="stylesheet" media="all" href="/sites/default/files/css/css_d57a476832a7acab214fdfac371190bf.css" />
+<link type="text/css" rel="stylesheet" media="print" href="/sites/default/files/css/css_407bdc9d75d920c3f8886d07cd4c1042.css" />
+<!--[if IE]>
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/themes/digitalmindsoft/css/ie.css?m" />
+<![endif]-->
+<!--[if lte IE 6]>
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/themes/digitalmindsoft/css/ie6.css?m" />
+<![endif]-->
+  <script type="text/javascript" src="/sites/default/files/js/js_a95e363e625a8bf78ab6476a26062bab.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, { "basePath": "/", "googleanalytics": { "trackOutgoing": 1, "trackMailto": 1, "trackDownload": 1, "trackDownloadExtensions": "7z|aac|arc|arj|asf|asx|avi|bin|csv|doc|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls|xml|z|zip" }, "lightbox2": { "rtl": 0, "file_path": "/(\\w\\w/)sites/default/files", "default_image": "/sites/all/modules/lightbox2/images/brokenimage.jpg", "border_size": 10, "font_color": "000", "box_color": "fff", "top_position": "", "overlay_opacity": "0.8", "overlay_color": "000", "disable_close_click": true, "resize_sequence": 0, "resize_speed": 400, "fade_in_speed": 400, "slide_down_speed": 600, "use_alt_layout": false, "disable_resize": false, "disable_zoom": false, "force_show_nav": false, "show_caption": true, "loop_items": false, "node_link_text": "View Image Details", "node_link_target": false, "image_count": "Image !current of !total", "video_count": "Video !current of !total", "page_count": "Page !current of !total", "lite_press_x_close": "press \x3ca href=\"#\" onclick=\"hideLightbox(); return FALSE;\"\x3e\x3ckbd\x3ex\x3c/kbd\x3e\x3c/a\x3e to close", "download_link_text": "", "enable_login": false, "enable_contact": false, "keys_close": "c x 27", "keys_previous": "p 37", "keys_next": "n 39", "keys_zoom": "z", "keys_play_pause": "32", "display_image_size": "original", "image_node_sizes": "()", "trigger_lightbox_classes": "", "trigger_lightbox_group_classes": "", "trigger_slideshow_classes": "", "trigger_lightframe_classes": "", "trigger_lightframe_group_classes": "", "custom_class_handler": 0, "custom_trigger_classes": "", "disable_for_gallery_lists": true, "disable_for_acidfree_gallery_lists": true, "enable_acidfree_videos": true, "slideshow_interval": 5000, "slideshow_automatic_start": true, "slideshow_automatic_exit": true, "show_play_pause": true, "pause_on_next_click": false, "pause_on_previous_click": true, "loop_slides": false, "iframe_width": 600, "iframe_height": 400, "iframe_border": 1, "enable_video": false }, "uc_ajax_cart": { "CALLBACK": "/uc_ajax_cart/add/item", "SHOW_CALLBACK": "/uc_ajax_cart/show", "CART_LINK_CALLBACK": "/uc_ajax_cart/addlink", "BLOCK_UI": 2, "TIMEOUT": 1000, "UPDATE_CALLBACK": "/uc_ajax_cart/update", "UPDATE": 0, "CART_VIEW_ON": 0, "SHOW_VIEW_CALLBACK": "/uc_ajax_cart/show-cart-view", "TRACK_CLOSED_STATE": 0, "INITIAL_CLOSED_STATE": 0, "CART_PANE_EFFECT": 0, "CART_PANE_EFFECT_DURATION": 200, "HIDE_CART_OPERATIONS": true, "COLLAPSIBLE_CART": 0, "CART_OPERATION": "Cart updated!", "ADD_TITLE": "Please wait", "ADD_MESSAGES": [ "Adding product to cart..." ], "REMOVE_TITLE": "Please wait", "REMOVE_MESSAGES": [ "Removing product from cart..." ], "UPDATE_TITLE": "Please wait", "UPDATE_MESSAGES": [ "Updating cart..." ] }, "viewsSlideshow": { "Home_Slider-block_1": { "methods": { "goToSlide": [ "viewsSlideshowPager", "viewsSlideshowSlideCounter", "viewsSlideshowCycle" ], "nextSlide": [ "viewsSlideshowPager", "viewsSlideshowSlideCounter", "viewsSlideshowCycle" ], "pause": [ "viewsSlideshowControls", "viewsSlideshowCycle" ], "play": [ "viewsSlideshowControls", "viewsSlideshowCycle" ], "previousSlide": [ "viewsSlideshowPager", "viewsSlideshowSlideCounter", "viewsSlideshowCycle" ], "transitionBegin": [ "viewsSlideshowPager", "viewsSlideshowSlideCounter" ], "transitionEnd": [  ] }, "paused": 0 } }, "viewsSlideshowControls": { "Home_Slider-block_1": { "bottom": { "type": "viewsSlideshowControlsText" } } }, "viewsSlideshowPager": { "Home_Slider-block_1": { "bottom": { "type": "viewsSlideshowPagerFields" } } }, "viewsSlideshowPagerFields": { "Home_Slider-block_1": { "bottom": { "activatePauseOnHover": 1 } } }, "viewsSlideshowCycle": { "#views_slideshow_cycle_main_Home_Slider-block_1": { "num_divs": 4, "id_prefix": "#views_slideshow_cycle_main_", "div_prefix": "#views_slideshow_cycle_div_", "vss_id": "Home_Slider-block_1", "effect": "fade", "transition_advanced": 0, "timeout": 5000, "speed": 700, "delay": 0, "sync": 1, "random": 0, "pause": 1, "pause_on_click": 0, "action_advanced": 0, "start_paused": 0, "remember_slide": 0, "remember_slide_days": 1, "pause_when_hidden": 0, "pause_when_hidden_type": "full", "amount_allowed_visible": "", "nowrap": 0, "fixed_height": 1, "items_per_slide": 1, "wait_for_image_load": 1, "wait_for_image_load_timeout": 3000, "cleartype": 1, "cleartypenobg": 1, "advanced_options": "{}" } } });
+//--><!]]>
+</script>
+</head>
+<body class="page front not-logged-in node-type-panel no-sidebars i18n-en">
+
+  
+  <div id="page-wrapper"><div id="page">
+
+    <div id="header"><div class="section clearfix">
+
+              <div id="logo_wrapper"><a href="/" title="Home" rel="home" id="logo"><img src="/sites/all/themes/digitalmindsoft/images/digitalmindsoft_logo.png" alt="Home" /></a></div>
+      
+      
+              <div id="search-box"><form action="/"  accept-charset="UTF-8" method="post" id="search-theme-form">
+<div><div id="search" class="container-inline">
+  <div class="form-item" id="edit-search-theme-form-1-wrapper">
+ <input type="text" maxlength="128" name="search_theme_form" id="edit-search-theme-form-1" size="15" value="" title="Enter the terms you wish to search for." class="form-text" />
+</div>
+<input type="image" name="op" value="Search"  src="/sites/all/themes/digitalmindsoft/images/header_search_b.png" alt="Search" class="form-image" />
+<input type="hidden" name="form_build_id" id="form-390e121dc17c6afce419f024611b84c3" value="form-390e121dc17c6afce419f024611b84c3"  />
+<input type="hidden" name="form_id" id="edit-search-theme-form" value="search_theme_form"  />
+</div>
+
+</div></form>
+</div>
+      
+      <div class="region region-header">
+  <div id="block-menu_block-1" class="block block-menu_block first region-odd odd region-count-1 count-1">
+  
+  <div class="content">
+    <div class="menu_block_wrapper menu-block-1 menu-name-primary-links parent-mlid-0 menu-level-1">
+  <ul class="menu"><li class="leaf first menu-mlid-249 active active-trail"><div class="bg_left"></div><a href="/" title="" class="active-trail active">Home</a><div class="bg_right"></div></li>
+<li class="leaf menu-mlid-250 has-children"><a href="/news" title="">News</a></li>
+<li class="leaf menu-mlid-251 has-children"><a href="/products" title="">Products</a></li>
+<li class="leaf menu-mlid-253 has-children"><a href="/career" title="">Career</a></li>
+<li class="leaf last menu-mlid-254 has-children"><a href="/about-us" title="">About Us</a></li>
+</ul></div>
+  </div>
+
+  </div><!-- /.block -->
+<div id="block-views-Home_Slider-block_1" class="block block-views last region-even even region-count-2 count-2">
+  
+  <div class="content">
+    <div class="views_view view view-Home-Slider view-id-Home_Slider view-display-id-block_1 view-dom-id-7372482fedbde6eed9ad676d809f8b40">
+  
+  
+  
+  
+      <div class="view-content">
+      
+<div class="skin-default">
+  
+  <div id="views_slideshow_cycle_main_Home_Slider-block_1" class="views_slideshow_cycle_main views_slideshow_main"><div id="views_slideshow_cycle_teaser_section_Home_Slider-block_1" class="views_slideshow_cycle_teaser_section">
+  <div class="views_slideshow_cycle_slide views_slideshow_slide views-row-1 views-row-odd" id="views_slideshow_cycle_div_Home_Slider-block_1_0">
+  <div class="views-row views-row-0 views-row-first views-row-odd">
+      <div style=" 
+display:block;
+background: url('    http://www.digitalmindsoft.eu/sites/default/files/imagecache/Slider_Big/header2_1.jpg    ') no-repeat scroll center center transparent;
+height:323px;
+width:100%;
+"><a href="    products/men-of-war-assault-squad-2    " style="width:800px; display: block; height: 323px; margin:0 auto;" target=""></a></div></div>
+</div>
+<div class="views_slideshow_cycle_slide views_slideshow_slide views-row-2 views_slideshow_cycle_hidden views-row-even" id="views_slideshow_cycle_div_Home_Slider-block_1_1">
+  <div class="views-row views-row-0 views-row-first views-row-odd">
+      <div style=" 
+display:block;
+background: url('    http://www.digitalmindsoft.eu/sites/default/files/imagecache/Slider_Big/header_3.jpg    ') no-repeat scroll center center transparent;
+height:323px;
+width:100%;
+"><a href="    http://www.digitalmindsoft.eu/products/call-to-arms    " style="width:800px; display: block; height: 323px; margin:0 auto;" target=""></a></div></div>
+</div>
+<div class="views_slideshow_cycle_slide views_slideshow_slide views-row-3 views_slideshow_cycle_hidden views-row-odd" id="views_slideshow_cycle_div_Home_Slider-block_1_2">
+  <div class="views-row views-row-0 views-row-first views-row-odd">
+      <div style=" 
+display:block;
+background: url('    http://www.digitalmindsoft.eu/sites/default/files/imagecache/Slider_Big/header2.jpg    ') no-repeat scroll center center transparent;
+height:323px;
+width:100%;
+"><a href="    http://digitalmindsoft.eu/products/men-of-war-assault-squad    " style="width:800px; display: block; height: 323px; margin:0 auto;" target=""></a></div></div>
+</div>
+<div class="views_slideshow_cycle_slide views_slideshow_slide views-row-4 views_slideshow_cycle_hidden views-row-even" id="views_slideshow_cycle_div_Home_Slider-block_1_3">
+  <div class="views-row views-row-0 views-row-first views-row-odd">
+      <div style=" 
+display:block;
+background: url('    http://www.digitalmindsoft.eu/sites/default/files/imagecache/Slider_Big/header4.jpg    ') no-repeat scroll center center transparent;
+height:323px;
+width:100%;
+"><a href="    http://digitalmindsoft.eu/products/men-of-war    " style="width:800px; display: block; height: 323px; margin:0 auto;" target=""></a></div></div>
+</div>
+</div>
+</div>
+      <div class="views-slideshow-controls-bottom clear-block">
+      <div class="views_slideshow_controls_text" id="views_slideshow_controls_text_Home_Slider-block_1">
+  <span  class="views_slideshow_controls_text_previous" id="views_slideshow_controls_text_previous_Home_Slider-block_1"><a href="#">Previous</a></span>
+  <span  class="views_slideshow_controls_text_pause" id="views_slideshow_controls_text_pause_Home_Slider-block_1"><a href="#">Pause</a></span>
+  <span  class="views_slideshow_controls_text_next" id="views_slideshow_controls_text_next_Home_Slider-block_1"><a href="#">Next</a></span>
+</div>
+<div class="widget_pager widget_pager_bottom views_slideshow_pager_field" id="widget_pager_bottom_Home_Slider-block_1">
+  <div class="views_slideshow_pager_field_item views_slideshow_active_pager_field_item views-row-odd" id="views_slideshow_pager_field_item_bottom_Home_Slider-block_1_0">
+  <div class="views-field-counter">
+    <div class="views-content-counter">
+    1  </div>
+</div>
+</div>
+<div class="views_slideshow_pager_field_item views-row-even" id="views_slideshow_pager_field_item_bottom_Home_Slider-block_1_1">
+  <div class="views-field-counter">
+    <div class="views-content-counter">
+    2  </div>
+</div>
+</div>
+<div class="views_slideshow_pager_field_item views-row-odd" id="views_slideshow_pager_field_item_bottom_Home_Slider-block_1_2">
+  <div class="views-field-counter">
+    <div class="views-content-counter">
+    3  </div>
+</div>
+</div>
+<div class="views_slideshow_pager_field_item views-row-even" id="views_slideshow_pager_field_item_bottom_Home_Slider-block_1_3">
+  <div class="views-field-counter">
+    <div class="views-content-counter">
+    4  </div>
+</div>
+</div>
+</div>
+    </div>
+  </div>
+    </div>
+  
+  
+  
+  
+  
+  
+</div><!-- /.view -->
+  </div>
+
+  </div><!-- /.block -->
+</div><!-- /.region -->
+    <div id="header_bg_wrapper">
+      <div id="header_image">
+            </div>
+    </div>
+    </div></div><!-- /.section, /#header -->
+
+    <div id="bg_wrapper"><div id="main-wrapper"><div id="shadow_top"><div id="main" class="clearfix">
+
+      <div id="content" class="column">
+              <div id="language">
+        <ul><li class="en first active"><a href="/" class="language-link active">English</a></li>
+<li class="de last"><a href="/de" class="language-link">Deutsch</a></li>
+</ul>        </div>
+      <div class="section">
+
+        
+        
+        <div class="breadcrumb"><a href="/">Home</a></div>
+        <div class="clearfix"></div>
+                        
+        
+        <div id="content-area">
+          <div id="node-6" class="node node-type-panel node-promoted build-mode-full clearfix">
+  
+  
+  
+      <div class="meta">
+
+
+          </div>
+  
+  <div class="content">
+    <div class="panel-display panel-3col-33-stacked  clear-block" >
+  
+  <div class="center-wrapper">
+    <div class="panel-panel panel-col-first">
+      <div class="inside"><div class="panels_pane panel-pane pane-block pane-views-home-news-block-1" >
+  
+  
+  
+  <div class="pane-content">
+    <div class="views_view view view-Home-News view-id-Home_News view-display-id-block_1 view-dom-id-48a98dde374a611a9dd316a265c8a08d">
+  
+  
+  
+  
+      <div class="view-content">
+      <table class="views-view-grid col-1">
+  <tbody>
+          <tr class="row-1 row-first row-last">
+                  <td class="col-1 col-first">
+              
+  <div class="views-field views-field-field-image-fid">        <span class="field-content"><a href="/news/developers-update" class="imagecache imagecache-News_front imagecache-linked imagecache-News_front_linked"><img src="http://www.digitalmindsoft.eu/sites/default/files/imagecache/News_front/dummy_5.jpg" alt="" title=""  class="imagecache imagecache-News_front" width="305" height="205" /></a></span>  </div>  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/news/developers-update"><h2>Developers update!</h2></a></span>  </div>  
+  <div class="views-field views-field-nothing">        <span class="field-content">The first developers update for Call to Arms has been released on Steam! We will use these updates to keep you posted on the progress of the development and features.
+Check it out:
+http://steamcommunity.com//games/...    <a href="/news/developers-update">more »</a> </span>  </div>          </td>
+              </tr>
+      </tbody>
+</table>
+    </div>
+  
+  
+  
+  
+  
+  
+</div><!-- /.view -->
+  </div>
+
+  
+  </div>
+<div class="panel-region-separator"></div><div class="panels_pane panel-pane pane-block pane-views-home-news-block-3" >
+  
+  
+  
+  <div class="pane-content">
+    <div class="views_view view view-Home-News view-id-Home_News view-display-id-block_3 view-dom-id-58bca136d566de8d3288b0650e8ae15e">
+  
+  
+  
+  
+      <div class="view-content">
+      <table class="views-view-grid col-1">
+  <tbody>
+          <tr class="row-1 row-first row-last">
+                  <td class="col-1 col-first">
+              
+  <div class="views-field views-field-field-image-fid">        <span class="field-content"><a href="/news/iron-fist-available" class="imagecache imagecache-News_front imagecache-linked imagecache-News_front_linked"><img src="http://www.digitalmindsoft.eu/sites/default/files/imagecache/News_front/dummy_6.jpg" alt="" title=""  class="imagecache imagecache-News_front" width="305" height="205" /></a></span>  </div>  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/news/iron-fist-available"><h2>Iron Fist - available!</h2></a></span>  </div>  
+  <div class="views-field views-field-nothing">        <span class="field-content">Men of War: Assault Squad 2 - Iron Fist is the first DLC for AS2. It comes with a set of new features and additional singleplayer content. Fight your way through the battlefield as a veteran tank crew in third person...    <a href="/news/iron-fist-available">more »</a> </span>  </div>          </td>
+              </tr>
+      </tbody>
+</table>
+    </div>
+  
+  
+  
+  
+  
+  
+</div><!-- /.view -->
+  </div>
+
+  
+  </div>
+</div>
+    </div>
+
+    <div class="panel-panel panel-col">
+      <div class="inside"><div class="panels_pane panel-pane pane-block pane-views-home-news-block-2" >
+  
+  
+  
+  <div class="pane-content">
+    <div class="views_view view view-Home-News view-id-Home_News view-display-id-block_2 view-dom-id-9e675e57688364e5bb23e529b4926b8c">
+  
+  
+  
+  
+      <div class="view-content">
+      <table class="views-view-grid col-1">
+  <tbody>
+          <tr class="row-1 row-first row-last">
+                  <td class="col-1 col-first">
+              
+  <div class="views-field views-field-field-image-fid">        <span class="field-content"><a href="/news/update-on-the-game" class="imagecache imagecache-News_front imagecache-linked imagecache-News_front_linked"><img src="http://www.digitalmindsoft.eu/sites/default/files/imagecache/News_front/dummy2.jpg" alt="" title=""  class="imagecache imagecache-News_front" width="305" height="205" /></a></span>  </div>  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/news/update-on-the-game"><h2>Update on the game!</h2></a></span>  </div>  
+  <div class="views-field views-field-nothing">        <span class="field-content">We plan to release Call to Arms to backers within the next 3 months. Depending on how well the early Alpha is received, we will go live with the Early Access version a few weeks later. At this point, the game will lack...    <a href="/news/update-on-the-game">more »</a> </span>  </div>          </td>
+              </tr>
+      </tbody>
+</table>
+    </div>
+  
+  
+  
+  
+  
+  
+</div><!-- /.view -->
+  </div>
+
+  
+  </div>
+<div class="panel-region-separator"></div><div class="panels_pane panel-pane pane-block pane-views-home-news-block-4" >
+  
+  
+  
+  <div class="pane-content">
+    <div class="views_view view view-Home-News view-id-Home_News view-display-id-block_4 view-dom-id-170443bbfaafdfdf62de3e6c5f772640">
+  
+  
+  
+  
+      <div class="view-content">
+      <table class="views-view-grid col-1">
+  <tbody>
+          <tr class="row-1 row-first row-last">
+                  <td class="col-1 col-first">
+              
+  <div class="views-field views-field-field-image-fid">        <span class="field-content"><a href="/news/call-to-arms-on-steam" class="imagecache imagecache-News_front imagecache-linked imagecache-News_front_linked"><img src="http://www.digitalmindsoft.eu/sites/default/files/imagecache/News_front/dummy_4_0_0_1.jpg" alt="" title=""  class="imagecache imagecache-News_front" width="305" height="205" /></a></span>  </div>  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/news/call-to-arms-on-steam"><h2>Call to Arms on Steam!</h2></a></span>  </div>  
+  <div class="views-field views-field-nothing">        <span class="field-content">Digitalmindsoft is excited to announce that the store page of Call to Arms is live!
+You can find it on the Steam store!
+The crowd-funding website will be closed in 30 days, so if you want to take advantage
+of the great...    <a href="/news/call-to-arms-on-steam">more »</a> </span>  </div>          </td>
+              </tr>
+      </tbody>
+</table>
+    </div>
+  
+  
+  
+  
+  
+  
+</div><!-- /.view -->
+  </div>
+
+  
+  </div>
+</div>
+    </div>
+
+    <div class="panel-panel panel-col-last">
+      <div class="inside"><div class="panels_pane panel-pane pane-block pane-views-home-video-block-1" >
+  
+  
+  
+  <div class="pane-content">
+    <div class="views_view view view-Home-Video view-id-Home_Video view-display-id-block_1 view-dom-id-32593f17b51dfd2573ffe7fd22eac84d">
+  
+  
+  
+  
+      <div class="view-content">
+        <div class="views-row views-row-1 views-row-odd views-row-first views-row-last">
+      
+  <div class="views-field views-field-field-video-embed">        <span class="field-content"><div class="emvideo emvideo-video emvideo-youtube"><div id="media-youtube-1" class="media_youtube_flash media-youtube">
+  <div id="media-youtube-default-external-1">
+  <object type="application/x-shockwave-flash" height="205" width="305" data="http://www.youtube.com/v/Ecodp9zTmTY&amp;amp;rel=0&amp;amp;enablejsapi=1&amp;amp;playerapiid=ytplayer&amp;amp;fs=1" id="media-youtube-default-external-object-1">
+    <param name="movie" value="http://www.youtube.com/v/Ecodp9zTmTY&amp;amp;rel=0&amp;amp;enablejsapi=1&amp;amp;playerapiid=ytplayer&amp;amp;fs=1" />
+    <param name="allowScriptAccess" value="sameDomain"/>
+    <param name="quality" value="best"/>
+    <param name="allowFullScreen" value="true"/>
+    <param name="bgcolor" value="#FFFFFF"/>
+    <param name="scale" value="noScale"/>
+    <param name="salign" value="TL"/>
+    <param name="FlashVars" value="playerMode=embedded" />
+    <param name="wmode" value="transparent" />
+    <!-- Fallback content -->
+      <a href="http://www.youtube.com/watch?v=Ecodp9zTmTY"><img src="http://img.youtube.com/vi/Ecodp9zTmTY/0.jpg" alt="See video" title="See video"  width="305" height="205" /></a>  </object>
+</div>
+</div>
+</div></span>  </div>  
+  <div class="views-field views-field-title">        <h2 class="field-content">Men of War Assault Squad 2 Release Trailer</h2>  </div>  
+  <div class="views-field views-field-body">        <div class="field-content"><p><span style="color: rgb(51, 51, 51); font-family: arial, sans-serif; font-size: 13px; line-height: 17px; background-color: rgb(255, 255, 255);">New chapter in Men of War saga begins today!&nbsp;</span><br style="color: rgb(51, 51, 51); font-family: arial, sans-serif; font-size: 13px; line-height: 17px; background-color: rgb(255, 255, 255);" /><span style="color: rgb(51, 51, 51); font-family: arial, sans-serif; font-size: 13px; line-height: 17px; background-color: rgb(255, 255, 255);">For more info visit the official Steam Store page:</span></p>
+<p><a href="http://store.steampowered.com/app/244450/" title="http://store.steampowered.com/app/244450/">http://store.steampowered.com/app/244450/</a></p>
+</div>  </div>  </div>
+    </div>
+  
+  
+  
+  
+  
+  
+</div><!-- /.view -->
+  </div>
+
+  
+  </div>
+<div class="panel-region-separator"></div><div class="panels_pane panel-pane pane-block pane-views-home-game-block-1" >
+  
+  
+  
+  <div class="pane-content">
+    <div class="views_view view view-Home-Game view-id-Home_Game view-display-id-block_1 view-dom-id-607ca7ce3e7cb0116d987f042c0f1c02">
+  
+  
+  
+  
+      <div class="view-content">
+      <table class="views-view-grid col-3">
+  <tbody>
+          <tr class="row-1 row-first row-last">
+                  <td class="col-1 col-first">
+              
+  <div class="views-field views-field-field-headerimage-fid">        <span class="field-content"><a href="/products/call-to-arms" class="imagecache imagecache-Three_Column imagecache-linked imagecache-Three_Column_linked"><img src="http://www.digitalmindsoft.eu/sites/default/files/imagecache/Three_Column/cta_0_2.jpg" alt="" title=""  class="imagecache imagecache-Three_Column" width="305" height="205" /></a></span>  </div>  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/products/call-to-arms"><h2>Call to Arms</h2></a></span>  </div>  
+  <div class="views-field views-field-field-headertext-value">        <div class="field-content">&quot;Call to Arms&quot; offers an innovative new look into modern era combat. Initially offering two playable factions with realistically modeled vehicles and heavy weaponry, as well as dozens of firearms and customization&#039;s. Command your troops to victory or fight by yourself in the 3rd person action mode.</div>  </div>          </td>
+                  <td class="col-2">
+                      </td>
+                  <td class="col-3 col-last">
+                      </td>
+              </tr>
+      </tbody>
+</table>
+    </div>
+  
+  
+  
+  
+  
+  
+</div><!-- /.view -->
+  </div>
+
+  
+  </div>
+</div>
+    </div>
+  </div>
+
+  </div>
+  </div>
+
+  </div><!-- /.node -->
+        </div>
+        <div class="clearfix"></div>
+        
+        
+      </div></div><!-- /.section, /#content -->
+
+      
+      
+      
+    </div></div></div></div><!-- /#main, /#main-wrapper -->
+
+    
+  </div></div><!-- /#page, /#page-wrapper -->
+
+  <div class="region region-page-closure">
+  <div id="block-block-1" class="block block-block first last region-odd odd region-count-1 count-3">
+  
+  <div class="content">
+    <p style="text-align: center;"><span style="font-family: tahoma,geneva,sans-serif;">Site Content Copyright © Digitalmindsoft e.K. 2006-2017, All rights reserved.</span></p><p style="text-align: center;"><span style="font-family: tahoma,geneva,sans-serif;"><a href="/about-us/imprint">Imprint</a> | <a href="/about-us/privacy-policy">Privacy Policy</a> | <a href="/about-us/terms-of-service">Terms of Service</a> | <a href="/user">Log-in</a> | <a href="/about-us/contact">Contact</a></span></p>  </div>
+
+  </div><!-- /.block -->
+</div><!-- /.region -->
+
+  <script type="text/javascript">
+<!--//--><![CDATA[//><!--
+var _gaq = _gaq || [];_gaq.push(["_setAccount", "UA-2866402-1"]);_gaq.push(["_gat._anonymizeIp"]);_gaq.push(["_trackPageview"]);(function() {var ga = document.createElement("script");ga.type = "text/javascript";ga.async = true;ga.src = ("https:" == document.location.protocol ? "https://ssl" : "http://www") + ".google-analytics.com/ga.js";var s = document.getElementsByTagName("script")[0];s.parentNode.insertBefore(ga, s);})();
+//--><!]]>
+</script>
+
+</body>
+</html>
+
+

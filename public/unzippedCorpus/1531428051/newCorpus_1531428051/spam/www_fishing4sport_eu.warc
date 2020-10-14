@@ -1,0 +1,109 @@
+WARC/1.0
+WARC-Type: warcinfo
+WARC-Date: 2018-05-30T18:18:32Z
+WARC-Record-ID: <urn:uuid:762dd79c-c551-4703-866b-9cb9c94cbc8d>
+WARC-All-Language: en
+WARC-All-Content_type: text/html
+Content-Type: application/http;msgtype=response
+Content-Length: 46
+
+WARCProcessor by SING Group www.sing-group.com
+
+WARC/1.0
+WARC-Type: response
+WARC-Record-ID: <http://www.fishing4sport.eu>
+WARC-Date: 20180530181832
+WARC-Target-URI: http://www.fishing4sport.eu
+WARC-Language: en
+Content-Type: application/http;msgtype=response
+Content-Length: 4911
+
+HTTP/1.1 200
+Content-Type:text/html
+
+
+<html>
+
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
+<meta http-equiv="Content-Language" content="en-us">
+<title>Home Page</title>
+
+
+
+<meta name="GENERATOR" content="Microsoft FrontPage 4.0">
+<meta name="ProgId" content="FrontPage.Editor.Document">
+<meta name="Microsoft Theme" content="balance 011, default">
+<meta name="Microsoft Border" content="tl, default">
+</head>
+
+<body background="_themes/balance/balbkgnd.gif" bgcolor="#000033" text="#FFFFFF" link="#6699CC" vlink="#666699" alink="#9999CC"><!--msnavigation--><table border="0" cellpadding="0" cellspacing="0" width="100%"><tr><td><!--mstheme--><font face="Trebuchet MS, Arial, Helvetica">
+
+<p align="center"><strong><font size="7" face="Verdana"><b><em>fishing4sport</em></b></font></strong></p>
+
+<p align="center"><br>
+<img border="0" src="_borders/small_Arvor_ok.jpg" width="271" height="179"></p>
+
+<form method="POST" action="_derived/nortbots.htm" onSubmit="location.href='_derived/nortbots.htm';return false;" webbot-action="--WEBBOT-SELF--" WEBBOT-onSubmit>
+  <input TYPE="hidden" NAME="VTI-GROUP" VALUE="0"><p align="center"><a href="index.htm">Home Page</a>&nbsp;&nbsp;&nbsp; <a href="interest.htm">What we do</a>&nbsp;&nbsp;
+  &nbsp;<a href="bookings.htm">Bookings and availability</a>&nbsp; &nbsp; <a href="photo.htm">Photo Album</a>&nbsp;&nbsp;&nbsp;
+  <a href="favorite.htm">Links</a></p>
+</form>
+<!--mstheme--></font></td></tr><!--msnavigation--></table><!--msnavigation--><table border="0" cellpadding="0" cellspacing="0" width="100%"><tr><td valign="top" width="1%"><!--mstheme--><font face="Trebuchet MS, Arial, Helvetica">
+<p>&nbsp;</p>
+<!--mstheme--></font></td><td valign="top" width="24"></td><!--msnavigation--><td valign="top"><!--mstheme--><font face="Trebuchet MS, Arial, Helvetica">
+
+
+
+
+ 
+      <p>&nbsp;</p>
+
+
+
+
+ 
+      <p><font size="6" face="Verdana"><b><i>fishing4sport</i></b></font></p>
+
+
+
+
+ 
+      <p>&nbsp;</p>
+
+      <div style="text-align:justify;mso-char-wrap:1;mso-kinsoku-overflow:1"> 
+        <nobr>
+        <div v:shape="_x0000_s1026" class="O" style="tab-interval:1.6059in" align="left"> 
+          <div style="text-align:justify;mso-char-wrap:1;mso-kinsoku-overflow:1" align="left"> 
+            <font face="Trebuchet MS, Arial, Helvetica" size="3" color="#FFFFFF">Many 
+            thanks for interest in </font><i><b><font face="Verdana" size="3" color="#FFFFFF"> fishing4sport</font></b></i>
+            <p>&nbsp;</div>
+          <div style="text-align:justify;mso-char-wrap:1;mso-kinsoku-overflow:1" align="left"> 
+            <font size="2" color="#FFFFFF" face="Trebuchet MS, Arial, Helvetica">Our 
+            business philosophy is and always has been based on personal service 
+            of the highest quality. Only the very best is good enough.</font></div>
+          <div style="text-align:justify;mso-line-spacing:&quot;70 0 0&quot;;mso-char-wrap:1;
+mso-kinsoku-overflow:1" align="left"> &nbsp; </div>
+          <div style="text-align:justify;mso-char-wrap:1;mso-kinsoku-overflow:1" align="left"> 
+            <font size="2" face="Trebuchet MS, Arial, Helvetica" color="#FFFFFF">We 
+            have no fixed pricing scales and no pre-set conditions for your booking. 
+            Every element is customised to individual needs.&nbsp;</font> 
+            <p>&nbsp;</p>
+            <p>&nbsp; 
+          </div>
+        </div>
+        </nobr></div>
+      <div style="text-align:justify;mso-char-wrap:1;mso-kinsoku-overflow:1"><p>&nbsp;</p>
+      </div>
+ 
+<div style='width: 728px; height: 90px; background-image: url(&#039;http://vortex.accuweather.com/adcbin/netweather_v2/backgrounds/clouds_728x90_bg.jpg&#039;); background-repeat: no-repeat; background-color: #' >
+<div style='height: 74px;' >
+<script src='http://netweather.accuweather.com/adcbin/netweather_v2/netweatherV2.asp?partner=netweather&tStyle=normal&logo=1&zipcode=EUR|UK|UK132|Plymouth|&lang=uke&size=11&theme=clouds&metric=1&target=_self'>
+</script>
+</div><div style='text-align: center; font-family: arial, helvetica, verdana, sans-serif; font-size: 11px; line-height: 16px; color: #;' >
+<a style='color: #' href='http://www.accuweather.com/world-index-forecast.asp?partner=netweather&locCode=EUR|UK|UK132|Plymouth|&metric=1' >Weather Forecast</a> | <a style='color: #' href='http://www.accuweather.com/maps-satellite.asp' >Weather Maps</a> | <a style='color: #' href='http://www.accuweather.com/index-radar.asp?partner=accuweather&traveler=0&zipcode=EUR|UK|UK132|Plymouth|' >Weather Radar</a> | <a style='color: #' href='http://hurricane.accuweather.com/hurricane/index.asp' >Hurricane Center</a>
+</div><img style='float: right; padding-right: 5px;' src='http://vortex.accuweather.com/adc2004/common/images/misc/netweather_v2/adcwhite.png' /></div>&nbsp;<!--mstheme--></font><!--msnavigation--></td></tr><!--msnavigation--></table></body>
+
+</html>
+
+

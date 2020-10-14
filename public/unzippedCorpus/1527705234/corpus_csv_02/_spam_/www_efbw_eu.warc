@@ -1,0 +1,1200 @@
+WARC/1.0
+WARC-Type: warcinfo
+WARC-Date: 2018-05-30T18:18:32Z
+WARC-All-Language: en-EN
+WARC-All-Content_type: text/html; charset=utf-8
+WARC-Record-ID: <urn:uuid:84d7b7cc-c593-4639-b031-ff5b64653581>
+Content-Type: application/http;msgtype=response
+Content-Length: 46
+
+WARCProcessor by SING Group www.sing-group.com
+
+WARC/1.0
+WARC-Type: response
+WARC-Target-URI: http://www.efbw.eu
+WARC-Date: 20180530181832
+WARC-Language: en-EN
+WARC-Record-ID: <http://www.efbw.eu>
+Content-Type: application/http;msgtype=response
+Content-Length: 81817
+
+HTTP/1.1 200
+Content-Type:text/html; charset=utf-8
+
+
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html
+     PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+     "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xml:lang="en-EN" lang="en-EN" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<!-- 
+	This website is powered by TYPO3 - inspiring people to share!
+	TYPO3 is a free open source Content Management Framework initially created by Kasper Skaarhoj and licensed under GNU/GPL.
+	TYPO3 is copyright 1998-2012 of Kasper Skaarhoj. Extensions are copyright of their respective owners.
+	Information and contribution at http://typo3.org/
+-->
+
+
+
+<title>EFBW: Home</title>
+<meta name="generator" content="TYPO3 4.5 CMS" />
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=0" />
+
+<link rel="stylesheet" type="text/css" href="typo3conf/ext/imagecycle/res/css/style.css?1377441105" media="all" />
+<link rel="stylesheet" type="text/css" href="typo3conf/ext/jfmulticontent/res/tx_jfmulticontent_pi1.css?1358456186" media="all" />
+<link rel="stylesheet" type="text/css" href="fileadmin/templates/css/efbw.css?1526899181" media="all" />
+<link rel="stylesheet" type="text/css" href="typo3temp/stylesheet_82107410f2.css?1441275256" media="all" />
+
+
+
+<script src="typo3temp/javascript_0b12553063.js?1377465822" type="text/javascript"></script>
+
+
+<script src="typo3conf/ext/jfmulticontent/res/jquery/js/jquery-1.8.3.min.js" type="text/javascript"></script><script src="typo3conf/ext/jfmulticontent/res/jquery/js/jquery.easing-1.3.js" type="text/javascript"></script><script src="typo3conf/ext/jfmulticontent/res/jquery/js/jquery-ui-1.9.2.custom.min.js" type="text/javascript"></script><script src="typo3conf/ext/imagecycle/res/jquery/js/jquery.cycle.all-2.9999.81.min.js" type="text/javascript"></script>
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-54448912-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-54448912-1');
+</script>
+
+
+
+</head>
+<body>
+
+
+	<div class="wb-responsive"><a href="index.php?id=2" ><img src="/fileadmin/templates/images/logo_responsive.svg" height="60" class="logo" /></a><button class="wb-button wb-nav-button" data-rel="wb-navigation"></button><button class="wb-button wb-contact-button" data-rel="wb-contact"></button><a class="wb-login-button" href="http://flow.efbw.org/share/page/" target="_blank"></a></div><div class="wb-responsive-inner"><div class="wb-contact">
+	<!--  CONTENT ELEMENT, uid:385/html [begin] -->
+		<div id="c385" class="csc-default" >
+		<!--  Raw HTML content: [begin] -->
+			<div class="wb-footer-info">
+<svg xmlns:x="http://ns.adobe.com/Extensibility/1.0/" xmlns:i="http://ns.adobe.com/AdobeIllustrator/10.0/" xmlns:graph="http://ns.adobe.com/Graphs/1.0/" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" id="Layer_1" x="0px" y="0px" viewBox="0 0 126.6 86"  xml:space="preserve">
+
+<switch>
+	<foreignObject requiredExtensions="http://ns.adobe.com/AdobeIllustrator/10.0/" x="0" y="0" width="1" height="1">
+		<i:pgfref xlink:href="#adobe_illustrator_pgf">
+		</i:pgfref>
+	</foreignObject>
+	<g i:extraneous="self">
+		<g id="Layer_2">
+			<g id="Layer_1-2">
+				<g id="Layer_2-2">
+					<path class="st0" d="M36.8,25.7c-2.5-1.1-5.2-1.6-7.9-1.6c-2.8,0.1-5.5,0.6-8.1,1.7h1.6c16,0.1-0.5,16.1-0.5,25.9       c0,8,5.3,12.8,14.4,12.8l0,0c8,0,14.4-6.4,14.5-14.3v0v-0.1C50.8,40.3,45.7,29.6,36.8,25.7z M28.9,61.1L28.9,61.1       c-3-1.8-4.9-5.1-5-8.6c0-9.2,7.6-15.4,17.9-15.4c-8,7.3,0,10.9,0,17.2c0,4.9-4.3,8-9,8c-0.7,0-1.4-0.1-2-0.3l0,0       C30.1,61.7,29.5,61.4,28.9,61.1z"></path>
+					<g>
+						<path class="st0" d="M42.5,71.9h2.8v0.6H43v1.6h2.1v0.6H43v2.1h2.2v0.6h-2.7V71.9z"></path>
+						<path class="st0" d="M47.1,75.1c0,0.4,0,0.8,0.2,1.2c0.3,0.3,0.7,0.5,1.1,0.5c0.4,0,0.7-0.2,1-0.5c0.2-0.4,0.3-0.8,0.3-1.2        v-3.2h0.6v3.3c0.1,0.5-0.1,1.1-0.5,1.5c-0.8,0.8-2,0.8-2.8,0.1c-0.4-0.4-0.6-1-0.5-1.5v-3.3H47L47.1,75.1z"></path>
+						<path class="st0" d="M52.2,77.2h-0.6v-5.3h0.8c1,0,2,0.3,2,1.5c0,0.8-0.5,1.4-1.3,1.5c0,0,0,0,0,0l0,0l1.7,2.4H54l-1.7-2.3        h-0.2L52.2,77.2z M52.2,74.4h0.2c0.7,0,1.3-0.1,1.3-1s-0.6-1-1.4-1h-0.2L52.2,74.4z"></path>
+						<path class="st0" d="M61,74.6c0,1.5-1.2,2.8-2.8,2.8c-1.5,0-2.8-1.2-2.8-2.8c0-1.5,1.2-2.8,2.8-2.8l0,0        C59.7,71.8,61,73,61,74.6C61,74.6,61,74.6,61,74.6L61,74.6L61,74.6z M56,74.6c0,1.2,1,2.2,2.2,2.2c1.2,0,2.2-1,2.2-2.2        c0-1.2-1-2.2-2.2-2.2C57,72.4,56,73.4,56,74.6C56,74.6,56,74.6,56,74.6z"></path>
+						<path class="st0" d="M62.7,77.2h-0.6v-5.3H63c0.5,0,0.9,0.1,1.3,0.3c0.4,0.3,0.6,0.7,0.6,1.2c0,0.4-0.2,0.9-0.5,1.1        c-0.4,0.3-0.8,0.4-1.3,0.3h-0.4L62.7,77.2z M62.7,74.4h0.4c0.7,0,1.2-0.2,1.2-1s-0.7-0.9-1.4-0.9h-0.2L62.7,74.4z"></path>
+						<path class="st0" d="M65.9,71.9h2.8v0.6h-2.2v1.6h2.1v0.6h-2.1v2.1h2.2v0.6h-2.8V71.9z"></path>
+						<path class="st0" d="M70.8,75.7l-0.6,1.5h-0.7l2.4-5.6l2.4,5.6h-0.7L73,75.7H70.8z M71.9,73L71,75.2h1.8L71.9,73z"></path>
+						<path class="st0" d="M75.2,71.7l4.2,4.3v-4.1H80v5.6l-4.2-4.3v4.1h-0.6L75.2,71.7z"></path>
+						<path class="st0" d="M84.4,72.5V74h1.8v0.6h-1.8v2.6h-0.6v-5.3h2.4v0.6L84.4,72.5z"></path>
+						<path class="st0" d="M87.4,71.9h2.8v0.6H88v1.6h2.1v0.6H88v2.1h2.2v0.6h-2.7V71.9z"></path>
+						<path class="st0" d="M91.5,71.9h1c0.8-0.1,1.5,0.2,2.1,0.6c1.1,1,1.2,2.8,0.1,3.9l-0.1,0.1c-0.6,0.5-1.3,0.7-2.1,0.7h-1        L91.5,71.9z M92.5,76.7c0.6,0.1,1.2-0.1,1.7-0.6c0.9-0.8,0.9-2.2,0.1-3.1L94.2,73c-0.5-0.4-1.1-0.6-1.7-0.5h-0.4v4.2        L92.5,76.7z"></path>
+						<path class="st0" d="M96.6,71.9h2.8v0.6h-2.2v1.6h2.1v0.6h-2.1v2.1h2.2v0.6h-2.8V71.9z"></path>
+						<path class="st0" d="M101.2,77.2h-0.6v-5.3h0.8c1,0,1.9,0.3,1.9,1.5c0,0.8-0.5,1.4-1.3,1.5c0,0,0,0,0,0l0,0l1.7,2.4H103        l-1.6-2.3h-0.2V77.2z M101.2,74.4h0.2c0.7,0,1.3-0.1,1.3-1s-0.6-1-1.4-1h-0.2L101.2,74.4z"></path>
+						<path class="st0" d="M105.5,75.7l-0.6,1.5h-0.7l2.5-5.6l2.4,5.6h-0.7l-0.6-1.5H105.5z M106.7,73.1l-0.9,2.1h1.8L106.7,73.1z"></path>
+						<path class="st0" d="M111.3,77.2h-0.6v-4.8h-1.3v-0.5h3.2v0.6h-1.3V77.2z"></path>
+						<path class="st0" d="M114.1,77.2h-0.6v-5.3h0.6V77.2z"></path>
+						<path class="st0" d="M120.8,74.6c0,1.5-1.2,2.8-2.8,2.8c-1.5,0-2.8-1.2-2.8-2.8c0-1.5,1.2-2.8,2.8-2.8l0,0        C119.5,71.8,120.7,73,120.8,74.6L120.8,74.6L120.8,74.6L120.8,74.6z M115.8,74.6c0,1.2,1,2.2,2.2,2.2c1.2,0,2.2-1,2.2-2.2        c0-1.2-1-2.2-2.2-2.2C116.8,72.4,115.8,73.4,115.8,74.6C115.8,74.6,115.8,74.6,115.8,74.6z"></path>
+						<path class="st0" d="M121.9,71.7L126,76v-4.1h0.6v5.6l-4.2-4.3v4.1h-0.6L121.9,71.7z"></path>
+						<path class="st0" d="M53.5,83.1c0,1.5-1.2,2.8-2.8,2.8c-1.5,0-2.8-1.2-2.8-2.8c0-1.5,1.2-2.8,2.8-2.8l0,0        C52.2,80.3,53.5,81.5,53.5,83.1L53.5,83.1L53.5,83.1z M48.5,83.1c0,1.2,1,2.2,2.2,2.2c1.2,0,2.2-1,2.2-2.2        c0-1.2-1-2.2-2.2-2.2C49.5,80.9,48.5,81.8,48.5,83.1C48.5,83.1,48.5,83.1,48.5,83.1z"></path>
+						<path class="st0" d="M55.2,80.9v1.6H57v0.6h-1.8v2.7h-0.6v-5.3H57v0.5H55.2z"></path>
+						<path class="st0" d="M60.7,80.4h0.9c1,0,1.8,0.3,1.8,1.4c0,0.4-0.2,0.8-0.5,1c0.6,0.2,1,0.7,1,1.4c0,1.1-0.8,1.5-1.9,1.5h-1.2        V80.4z M61.3,82.7h0.2c0.7,0,1.2-0.1,1.2-0.9s-0.5-0.9-1.2-0.9h-0.2L61.3,82.7z M61.3,85.2h0.6c0.7,0,1.4-0.2,1.4-1        s-0.8-0.9-1.4-0.9h-0.5L61.3,85.2z"></path>
+						<path class="st0" d="M70.3,83.1c0,1.5-1.2,2.8-2.8,2.8c-1.5,0-2.8-1.2-2.8-2.8c0-1.5,1.2-2.8,2.8-2.8l0,0        C69,80.3,70.2,81.5,70.3,83.1L70.3,83.1L70.3,83.1z M65.3,83.1c0,1.2,1,2.2,2.2,2.2c1.2,0,2.2-1,2.2-2.2c0-1.2-1-2.2-2.2-2.2        C66.3,80.9,65.3,81.8,65.3,83.1C65.3,83.1,65.3,83.1,65.3,83.1z"></path>
+						<path class="st0" d="M72.8,85.7h-0.6v-4.8h-1.3v-0.6h3.2v0.6h-1.3L72.8,85.7z"></path>
+						<path class="st0" d="M76.4,85.7h-0.6v-4.8h-1.3v-0.6h3.2v0.6h-1.3V85.7z"></path>
+						<path class="st0" d="M79.2,85.2h1.5v0.6h-2.1v-5.3h0.6L79.2,85.2z"></path>
+						<path class="st0" d="M81.5,80.4h2.8v0.5h-2.2v1.6h2.1v0.6h-2.1v2.1h2.2v0.6h-2.8V80.4z"></path>
+						<path class="st0" d="M85.5,80.4h1c0.8-0.1,1.5,0.2,2.1,0.6c1.1,1,1.2,2.7,0.2,3.9c0,0,0,0,0,0l0,0L88.7,85        c-0.6,0.5-1.3,0.7-2.1,0.7h-1L85.5,80.4z M86.5,85.2c0.6,0.1,1.2-0.1,1.7-0.6c0.9-0.8,0.9-2.2,0.1-3.1c0,0,0,0,0,0l0,0        l-0.1-0.1c-0.5-0.4-1.1-0.6-1.7-0.5h-0.4v4.2L86.5,85.2z"></path>
+						<path class="st0" d="M94.7,84.4l1.7-4.3l1.7,4.3l1.4-4h0.6l-2,5.6l-1.8-4.3L94.7,86l-2-5.6h0.6L94.7,84.4z"></path>
+						<path class="st0" d="M101.9,84.2l-0.6,1.5h-0.7l2.4-5.6l2.4,5.6h-0.7l-0.6-1.5H101.9z M103,81.5l-0.9,2.1h1.8L103,81.5z"></path>
+						<path class="st0" d="M107.7,85.7h-0.6v-4.8h-1.3v-0.6h3.2v0.6h-1.3L107.7,85.7z"></path>
+						<path class="st0" d="M109.9,80.4h2.8v0.5h-2.2v1.6h2.1v0.6h-2.1v2.1h2.2v0.6h-2.8V80.4z"></path>
+						<path class="st0" d="M114.5,85.7h-0.6v-5.3h0.8c1,0,1.9,0.3,1.9,1.5c0,0.8-0.5,1.4-1.3,1.5c0,0,0,0,0,0l0,0l1.7,2.4h-0.7        l-1.6-2.3h-0.2L114.5,85.7z M114.5,82.9h0.2c0.7,0,1.3-0.1,1.3-1s-0.6-1-1.4-1h-0.2L114.5,82.9z"></path>
+						<path class="st0" d="M120.4,81.4c-0.2-0.4-0.5-0.6-0.9-0.6c-0.5,0-0.9,0.3-0.9,0.8c0,0,0,0,0,0l0,0c0,0.5,0.5,0.7,0.8,0.8        l0.3,0.2c0.7,0.3,1.3,0.7,1.3,1.5c0,0.9-0.8,1.7-1.7,1.6c-0.8,0-1.5-0.6-1.6-1.4l0.6-0.2c0.1,0.6,0.5,1,1.1,1        c0.6,0,1.1-0.4,1.1-1c0-0.6-0.5-0.8-1-1.1l-0.3-0.1c-0.6-0.3-1.2-0.6-1.2-1.4c0-0.8,0.7-1.4,1.4-1.4l0,0h0.1        c0.6,0,1.1,0.3,1.4,0.8L120.4,81.4z"></path>
+					</g>
+					<path class="st0" d="M59,61.3c-1.4,0-2-0.6-2-2V46.4c0-1.4,0.6-2,2-2h9.4c1.2,0,1.7,0.4,1.7,1.3s-0.5,1.2-1.7,1.2h-8.1v4.5h7.1       c1.1,0,1.6,0.3,1.6,1.2s-0.4,1.2-1.6,1.2h-7.1v4.9h8.3c1.2,0,1.7,0.4,1.7,1.3s-0.5,1.3-1.7,1.3L59,61.3z"></path>
+					<path class="st0" d="M75.6,61.7c-0.9,0.1-1.6-0.5-1.7-1.4c0-0.1,0-0.2,0-0.3V46.4c0-1.4,0.6-2,2-2h8.8c1.2,0,1.7,0.4,1.7,1.3       s-0.4,1.2-1.7,1.2h-7.5v4.8h6.4c1.1,0,1.6,0.3,1.6,1.2s-0.4,1.2-1.6,1.2h-6.4V60c0.1,0.8-0.5,1.6-1.4,1.7L75.6,61.7z"></path>
+					<path class="st0" d="M91,61.3c-1.4,0-2-0.6-2-2V46.4c0-1.4,0.6-2,2-2h5.3c4.1,0,6.1,1.4,6.1,4.2c0,1.5-0.9,2.8-2.3,3.3L100,52       v0.5l0.2,0.1c1.8,0.4,3,2.1,2.8,3.9c0,4.5-4.7,4.9-6.2,4.9L91,61.3z M92.3,58.9H96c0.9,0,3.7,0,3.7-2.7s-2.8-2.7-4.2-2.7h-3.2       L92.3,58.9z M92.3,51.6H96c2.6,0,3.1-1.3,3.1-2.5c0-1.6-1.2-2.5-3.2-2.5h-3.5L92.3,51.6z"></path>
+					<path class="st0" d="M120.6,61.7c-1.2,0-1.7-0.4-2.1-1.7l-2.7-11h-0.6l-2.7,11c-0.3,1.3-0.8,1.7-2.1,1.7s-1.8-0.4-2.1-1.7       l-3.5-13.4c-0.1-0.3-0.2-0.7-0.2-1.1c0-0.8,0.7-1.5,1.5-1.5l0,0h0.1c0.9,0,1.4,0.4,1.6,1.4l2.4,12h0.6l2.8-12.1       c0.2-0.9,0.5-1.2,1.8-1.2c1.5,0,1.7,0.6,2,1.7l2.7,11.7h0.6l2.4-12c0.2-1,0.6-1.4,1.5-1.4c0.8-0.1,1.5,0.5,1.6,1.3c0,0,0,0,0,0       l0,0v0.1c0,0.4-0.1,0.7-0.2,1.1L122.7,60C122.3,61.3,121.9,61.7,120.6,61.7z"></path>
+					<g>
+						<polygon class="st0" points="19.6,0 24.9,7.2 33.5,4.7 28.3,12 33.4,19.3 24.8,16.7 19.4,23.8 19.3,14.8 10.8,11.8 19.3,8.9               "></polygon>
+						<polygon class="st0" points="2.4,34.8 5.5,29.9 2,25.2 7.7,26.6 11,21.8 11.4,27.7 17,29.3 11.5,31.5 11.7,37.4 7.9,32.9               "></polygon>
+						<polygon class="st0" points="1.2,51.3 3.1,47.3 0,44.1 4.4,44.7 6.5,40.8 7.3,45.1 11.7,45.9 7.8,48 8.4,52.4 5.2,49.4               "></polygon>
+						<polygon class="st0" points="7.9,64.4 9.5,61.4 7.2,58.9 10.6,59.5 12.3,56.5 12.8,59.9 16.1,60.6 13.1,62.1 13.4,65.5         11,63.1       "></polygon>
+						<polygon class="st0" points="16.7,72.3 17.9,70 16.2,68.1 18.7,68.5 20,66.3 20.4,68.8 22.9,69.4 20.6,70.5 20.8,73 19,71.2               "></polygon>
+						<polygon class="st0" points="26.4,76.9 27.6,74.6 25.9,72.7 28.4,73.2 29.7,71 30.1,73.5 32.6,74 30.3,75.1 30.5,77.7         28.8,75.8       "></polygon>
+					</g>
+					<rect x="56.4" y="66.6" class="st0" width="70.1" height="0.6"></rect>
+				</g>
+			</g>
+		</g>
+	</g>
+</switch>
+<i:pgf id="adobe_illustrator_pgf">
+	
+	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
+fqfa7M388uvJEa/TzGRnrPSo+d0ynUqlrcONmE6N8YlGe3Y1ptPbR6n0fnxOOgUaY+Y6tptbmZIP
+ni64ne7uKRex6FV+rl08k06B7F92/E5xvyx3rtv3vbUydjsbXdWZW/WuLs9Cp1qTJaWHsuSi93R6
+mulU17+fWqTTzCTTLXb61H74bFzEdLpRMczShMzt9HH9+YzXaWaSrOqEOrN8z5tru72Se+iMf1bP
++J3+KM6u/Z74LvM6nV+uL62RTpFbsnM1xsd/936a/E612zupdLhyyu10rPRtT2rH2z+YTh0OI5Wa
+tYMYBBvjU0cn1d24TqvS7o/xn/yZHl9Lk1+Fq/PMJHRrtthNM737pDqd3i7OMJ3qv7+AZ5FOd+6/
+SqFOf65J5X1bxU7n/E6hFzrXva/fpra1rvE6lcrf79XYTq2jnceXuE4fpZP6Cc4l3K3T6eH0z8N8
+vtnmdnp+pJqxnZZ3tUON6RR7od3eadLF/vlsTKe97nl5987kdnoldWuxnV5UjwufRCLz5nq3L109
+Tq/xOy3b01czueN1bqfXi1dTTKekF6fb682Z5fG4TmvSz4XVR36nx/vVX7nXuRlupw8vY9BL7Fy/
+lurTBzGd3q9Lj4+bGr/Tk/mx1hzsSb9TkGJ+t8/qzUxsp2O3j3MFfqcruVy7XTr9wk7nI5vmRNkA
+jI1ZK6/Q7dJvliv15MaV0+mXPcd0+vvJ/G6TTpXptZm9sKQ5nV9qdnew0wXSqSf36V69KEye1I7O
+oNONDovgneOW5HTaXZ9nxNukNPFEN43y0F06CLOHH0DJOzuXJew2z8y13XuezE1XZ8xb6LTUY1nh
+amHxmna6Lh8uMp2OXRxcUPagrl+WyyjF/G6VbiOnFLuv2KkUQfCVev/rZntlDjo9yLHobbd35l3x
+dvod0S5yir3/Hvs+p77uL8a+nV9bbdYT3p5OtT3OH30v7ay8Lbhfn0fEcnlj7859e8VKFal8dvHE
+vA1Rcvnt+TX+66Nc/SPhrTaRj30Lq3/S+/oV//X5lW0nvP3c2Yp/e3HWPPExFnnf7i4orlDbvY2y
+x0vzt/v2nt1m0tVHsce8DWHseuJ0Iv7ra+N+JuHt3ud27FvA2E/9bj7+64evmZP4t48z2k3C24/H
+qo+xyHsQ72trsV/L2tViJf7tav79MgFj8patafFfH6+pzfi3J7+XlhMwtjTVaj7Fvs9NzRd19+1T
+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
+cFzCBHVaVmDPssaDcoeqrHJ1oFVCdMtadOLNlDEAMtZ1uzWXO88URnRAZ6FyzsiT4jrKwjnZFuzF
+c9YsGTtUXb/JifyKNX395ZFlO4uSG7cbnfahTRRiqeNAUMU9eZdgJ5yIWC5+xDKaM7Dqyo4DrY42
+jVWbLLIWGos+F2Usn5wrRooNAqZv/mThP3M9DiyVQ+IFYtSGtbaxkrcle/lGG8UDmnXK4CqOWnI3
+6f26jjo7QUWvXdS4qfXJ5RyVyFLdoyq20zNJQV3eeGTDTs2mtqZkDAYxCK7DmDJsZIWJbFHdw6hL
+iuUxFdF1qKh1GaNP1nOnl6LHB+qC/AwxTIofi6q7IOLZEPPlp93ITcfwzd6EiP7QQxlZQyUfbSdO
+p82Hv5BGanGEyo4ZXEM8SwaLV5kYML5V0WybY1/LSghi1BTa1RnczipFbxsaVORbJcQrPBSgX68W
+nZMa35kZkJlrK2VPmPICDHiha9OIRqVVwmCa9bQp5Ivn739XezHq4xE7UCs/5hvUld0NZr+CSc1a
+ad/1KZj2Xc+I3myKfvVnr37+fv/T9bf91/2L/eGf4+nGXtmX/Tf9i9fXg7khPP1R+QrPT9+nvmHY
+eMNFD/2MR+7fdLvX1+Hm3f2v/Nurq263+/Fwe3x/Ovz+8Xjqbh8Pfx37w/39w9Ph6fgH/aW/PR0f
+nx5Ox/7xt4e/8T/0kzN8t3v3w3fdvxZIV70=
+	
+</i:pgf>
+</svg>
+
+    <p><i class="fa fa-map-marker"></i>Place des Barricades 1 <br>B-1000 Brussels</p>
+    <p><i class="fa fa-phone"></i>Tel  <a href="tel://+3228802030">+ 32 2 880 20 30</a> <br>Fax + 32 2 880 20 35</p>
+    <p><i class="fa fa-envelope	"></i><a href="mailto:info@efbw.org">info@efbw.org</a></p>
+	
+<div class="sociallinks" >
+<a target="_blank" href="https://www.youtube.com/channel/UClmDXjIbVTd3M2ghGeOL0xQ"><i class="fa fa-youtube"></i></a>
+<a target="_blank" href="https://www.linkedin.com/company-beta/18100565/"><i class="fa fa-linkedin"></i></a>
+<a target="_blank" href=" https://twitter.com/efbw_eu"><i class="fa fa-twitter"></i></a></div>
+ </div>
+		<!--  Raw HTML content: [end] -->
+			</div>
+	<!--  CONTENT ELEMENT, uid:385/html [end] -->
+		</div><div class="wb-navigation"><ul id="wb-nav" class="wb-navigation-inner"><li class="has-sublevel"><a href="index.php?id=24" onfocus="blurLink(this);"  class="level_1">About EFBW</a><ul><li><a href="index.php?id=34" onfocus="blurLink(this);"  >Objectives</a></li><li><a href="index.php?id=36" onfocus="blurLink(this);"  >Structure</a></li><li><a href="index.php?id=38" onfocus="blurLink(this);"  >Membership</a></li><li><a href="index.php?id=133" onfocus="blurLink(this);"  >EFBW Award</a></li><li><a href="index.php?id=37" onfocus="blurLink(this);"  >EFBW Members</a></li></ul><span class="arrow"></span></li><li class="has-sublevel"><a href="index.php?id=25" onfocus="blurLink(this);"  class="level_1">Bottled Water</a><ul><li class="has-sublevel level-2"><a href="index.php?id=40" onfocus="blurLink(this);"  >Variety of Bottled Water</a><ul class="level_3"><li><a href="index.php?id=43" onfocus="blurLink(this);"  >Natural Mineral Water</a></li><li><a href="index.php?id=44" onfocus="blurLink(this);"  >Spring Water</a></li><li><a href="index.php?id=45" onfocus="blurLink(this);"  >Bottled Drinking Water</a></li></ul><span class="arrow"></span></li><li><a href="index.php?id=39" onfocus="blurLink(this);"  >History of Bottled Water</a></li><li><a href="index.php?id=42" onfocus="blurLink(this);"  >Why choose Bottled Water?</a></li><li><a href="index.php?id=90" onfocus="blurLink(this);"  >Key statistics</a></li></ul><span class="arrow"></span></li><li class="has-sublevel"><a href="index.php?id=26" onfocus="blurLink(this);"  class="level_1">Healthy Hydration</a><ul><li><a href="index.php?id=46" onfocus="blurLink(this);"  >Importance of Water</a></li><li><a href="index.php?id=47" onfocus="blurLink(this);"  >How Much Water Should We Drink?</a></li><li><a href="index.php?id=48" onfocus="blurLink(this);"  >Benefits of Water</a></li><li><a href="index.php?id=136" onfocus="blurLink(this);"  >Scientific Basics of Water and Hydration</a></li><li><a href="index.php?id=nationalguidelines" onfocus="blurLink(this);"  >National Water Intake Guidelines</a></li></ul><span class="arrow"></span></li><li class="has-sublevel"><a href="index.php?id=27" onfocus="blurLink(this);"  class="level_1">Quality & Safety</a><ul><li><a href="index.php?id=96" onfocus="blurLink(this);"  >Bottled Water Testing and Control</a></li><li><a href="index.php?id=89" onfocus="blurLink(this);"  >EFBW Guide to Good Hygienic Practices</a></li></ul><span class="arrow"></span></li><li class="has-sublevel"><a href="index.php?id=28" onfocus="blurLink(this);"  class="level_1">Environment</a><ul><li><a href="index.php?id=49" onfocus="blurLink(this);"  >Water Resource Protection</a></li><li><a href="index.php?id=52" onfocus="blurLink(this);"  >Bottled Water Packaging</a></li><li><a href="index.php?id=51" onfocus="blurLink(this);"  >Recycling</a></li><li class="has-sublevel level-2"><a href="index.php?id=166" onfocus="blurLink(this);"  >EFBW pledges</a><ul class="level_3"><li><a href="index.php?id=167" onfocus="blurLink(this);"  >Background</a></li></ul><span class="arrow"></span></li><li><a href="index.php?id=122" onfocus="blurLink(this);"  >Water Use Ratio</a></li><li><a href="index.php?id=53" onfocus="blurLink(this);"  >Developing Product Category Rules</a></li></ul><span class="arrow"></span></li><li class="has-sublevel"><a href="index.php?id=29" onfocus="blurLink(this);"  class="level_1">Legislation</a><ul><li><a href="index.php?id=54" onfocus="blurLink(this);"  >EU Legislation on Bottled Waters</a></li><li><a href="index.php?id=55" onfocus="blurLink(this);"  >Codex Alimentarius</a></li><li><a href="index.php?id=56" onfocus="blurLink(this);"  >WHO Guidelines</a></li><li><a href="index.php?id=57" onfocus="blurLink(this);"  >Labelling</a></li><li><a href="index.php?id=98" onfocus="blurLink(this);"  >Health Indications and Claims</a></li></ul><span class="arrow"></span></li><li class="has-sublevel"><a href="index.php?id=30" onfocus="blurLink(this);"  class="level_1">Publications</a><ul><li><a href="index.php?id=152" onfocus="blurLink(this);"  >Latest news</a></li><li><a href="index.php?id=126" onfocus="blurLink(this);"  >Guides</a></li><li><a href="index.php?id=123" onfocus="blurLink(this);"  >Leaflets</a></li><li><a href="index.php?id=58" onfocus="blurLink(this);"  >Positions</a></li><li><a href="index.php?id=127" onfocus="blurLink(this);"  >Reports</a></li><li><a href="index.php?id=150" onfocus="blurLink(this);"  >Videos</a></li><li><a href="index.php?id=160" onfocus="blurLink(this);"  >Infographics</a></li><li><a href="index.php?id=162" onfocus="blurLink(this);"  >Newsletter</a></li><li><a href="index.php?id=153" onfocus="blurLink(this);"  >Campaigns</a></li></ul><span class="arrow"></span></li><li class="dir"><a href="index.php?id=31" onfocus="blurLink(this);"  class="level_1">Members</a></li><li class="dir"><a href="index.php?id=32" onfocus="blurLink(this);"  class="level_1">Links</a></li><li class="dir"><a href="index.php?id=33" onfocus="blurLink(this);"  class="level_1">Contact Us</a></li></ul>
+		<!--  lib.searchBox [begin] -->
+			<form action="index.php?id=65" method="post" id="search"><input name="tx_indexedsearch[sword]" value="" id="sword" type="text" placeholder="Type your search here"/><input type="hidden" name="tx_indexedsearch[sections]" value="0" /><input name="tx_indexedsearch[submit_button]" value="Search" type="hidden" /><input class="go-button" type="submit" value="" /><i class="fa fa-search"></i></form>
+		<!--  lib.searchBox [end] -->
+			</div></div>
+	<div id="wrapper">
+    	<div id="header">
+
+        	<div id="logo">
+	<!--  CONTENT ELEMENT, uid:47/html [begin] -->
+		<div id="c47" class="csc-default" >
+		<!--  Raw HTML content: [begin] -->
+			<a href="index.php">
+    <img src="fileadmin/templates/images/logo.svg" width="129" height="82" alt="EFBW" />
+</a>
+		<!--  Raw HTML content: [end] -->
+			</div>
+	<!--  CONTENT ELEMENT, uid:47/html [end] -->
+		</div>
+            <div id="slogan">
+	<!--  CONTENT ELEMENT, uid:48/html [begin] -->
+		<div id="c48" class="csc-default" >
+		<!--  Raw HTML content: [begin] -->
+			<link rel="stylesheet" type="text/css" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" media="all" />
+<style>
+.sociallinks {
+position:relative;
+top:-51px;
+left:570px;
+height:20px;
+padding:0px;;
+margin:0px;
+width:auto;
+color:#4e74ae;
+margin-bottom:-20px;
+z-index:10000;
+}
+.sociallinks a {
+color:#648cc9 !important;
+}
+#slogan{
+overflow:initial !important;
+}
+</style>
+<div class="sociallinks"><a href="https://www.youtube.com/channel/UClmDXjIbVTd3M2ghGeOL0xQ"><i class="fa fa-youtube"></i></a>&nbsp;&nbsp;&nbsp;<a href="https://www.linkedin.com/company-beta/18100565/"><i class="fa fa-linkedin"></i></a>&nbsp;&nbsp;&nbsp;<a href=" https://twitter.com/efbw_eu"><i class="fa fa-twitter"></a></i></div>
+<p>Natural waters: The natural choice for hydration</p>
+		<!--  Raw HTML content: [end] -->
+			</div>
+	<!--  CONTENT ELEMENT, uid:48/html [end] -->
+		</div>
+            <div id="login_box">
+	<!--  CONTENT ELEMENT, uid:67/html [begin] -->
+		<div id="c67" class="csc-default" >
+		<!--  Raw HTML content: [begin] -->
+			<!--a href="index.php?id=66">Members area</a-->
+<a target="_blank" href="http://flow.efbw.org/share/page/">Members area</a>
+		<!--  Raw HTML content: [end] -->
+			</div>
+	<!--  CONTENT ELEMENT, uid:67/html [end] -->
+		
+	<!--  CONTENT ELEMENT, uid:306/html [begin] -->
+		<div id="c306" class="csc-default" >
+		<!--  Raw HTML content: [begin] -->
+			<a class="register-link" href="http://efbw.org/index.php?id=138">Register here</a>
+		<!--  Raw HTML content: [end] -->
+			</div>
+	<!--  CONTENT ELEMENT, uid:306/html [end] -->
+		</div>
+            <div id="search_box">
+		<!--  lib.searchBox [begin] -->
+			<form action="index.php?id=65" method="post" id="search"><input name="tx_indexedsearch[sword]" value="" id="sword" type="text" /><input type="hidden" name="tx_indexedsearch[sections]" value="0" /><input name="tx_indexedsearch[submit_button]" value="Search" type="hidden" /><input class="go-button" type="submit" value="Search" /></form>
+		<!--  lib.searchBox [end] -->
+			</div>
+            <div id="main_menu"><ul id="nav" class="dropdown dropdown-horizontal"><li class="dir"><a href="index.php?id=24" onfocus="blurLink(this);"  class="level_1">About EFBW</a><ul><li><a href="index.php?id=34" onfocus="blurLink(this);"  >Objectives</a></li><li><a href="index.php?id=36" onfocus="blurLink(this);"  >Structure</a></li><li><a href="index.php?id=38" onfocus="blurLink(this);"  >Membership</a></li><li><a href="index.php?id=133" onfocus="blurLink(this);"  >EFBW Award</a></li><li><a href="index.php?id=37" onfocus="blurLink(this);"  >EFBW Members</a></li></ul></li><li class="dir"><a href="index.php?id=25" onfocus="blurLink(this);"  class="level_1">Bottled Water</a><ul><li><a href="index.php?id=40" onfocus="blurLink(this);"  >Variety of Bottled Water</a><ul class="level_3"><li><a href="index.php?id=43" onfocus="blurLink(this);"  >Natural Mineral Water</a></li><li><a href="index.php?id=44" onfocus="blurLink(this);"  >Spring Water</a></li><li><a href="index.php?id=45" onfocus="blurLink(this);"  >Bottled Drinking Water</a></li></ul></li><li><a href="index.php?id=39" onfocus="blurLink(this);"  >History of Bottled Water</a></li><li><a href="index.php?id=42" onfocus="blurLink(this);"  >Why choose Bottled Water?</a></li><li><a href="index.php?id=90" onfocus="blurLink(this);"  >Key statistics</a></li></ul></li><li class="dir"><a href="index.php?id=26" onfocus="blurLink(this);"  class="level_1">Healthy Hydration</a><ul><li><a href="index.php?id=46" onfocus="blurLink(this);"  >Importance of Water</a></li><li><a href="index.php?id=47" onfocus="blurLink(this);"  >How Much Water Should We Drink?</a></li><li><a href="index.php?id=48" onfocus="blurLink(this);"  >Benefits of Water</a></li><li><a href="index.php?id=136" onfocus="blurLink(this);"  >Scientific Basics of Water and Hydration</a></li><li><a href="index.php?id=nationalguidelines" onfocus="blurLink(this);"  >National Water Intake Guidelines</a></li></ul></li><li class="dir"><a href="index.php?id=27" onfocus="blurLink(this);"  class="level_1">Quality & Safety</a><ul><li><a href="index.php?id=96" onfocus="blurLink(this);"  >Bottled Water Testing and Control</a></li><li><a href="index.php?id=89" onfocus="blurLink(this);"  >EFBW Guide to Good Hygienic Practices</a></li></ul></li><li class="dir"><a href="index.php?id=28" onfocus="blurLink(this);"  class="level_1">Environment</a><ul><li><a href="index.php?id=49" onfocus="blurLink(this);"  >Water Resource Protection</a></li><li><a href="index.php?id=52" onfocus="blurLink(this);"  >Bottled Water Packaging</a></li><li><a href="index.php?id=51" onfocus="blurLink(this);"  >Recycling</a></li><li><a href="index.php?id=166" onfocus="blurLink(this);"  >EFBW pledges</a><ul class="level_3"><li><a href="index.php?id=167" onfocus="blurLink(this);"  >Background</a></li></ul></li><li><a href="index.php?id=122" onfocus="blurLink(this);"  >Water Use Ratio</a></li><li><a href="index.php?id=53" onfocus="blurLink(this);"  >Developing Product Category Rules</a></li></ul></li><li class="dir"><a href="index.php?id=29" onfocus="blurLink(this);"  class="level_1">Legislation</a><ul><li><a href="index.php?id=54" onfocus="blurLink(this);"  >EU Legislation on Bottled Waters</a></li><li><a href="index.php?id=55" onfocus="blurLink(this);"  >Codex Alimentarius</a></li><li><a href="index.php?id=56" onfocus="blurLink(this);"  >WHO Guidelines</a></li><li><a href="index.php?id=57" onfocus="blurLink(this);"  >Labelling</a></li><li><a href="index.php?id=98" onfocus="blurLink(this);"  >Health Indications and Claims</a></li></ul></li><li class="dir"><a href="index.php?id=30" onfocus="blurLink(this);"  class="level_1">Publications</a><ul><li><a href="index.php?id=152" onfocus="blurLink(this);"  >Latest news</a></li><li><a href="index.php?id=126" onfocus="blurLink(this);"  >Guides</a></li><li><a href="index.php?id=123" onfocus="blurLink(this);"  >Leaflets</a></li><li><a href="index.php?id=58" onfocus="blurLink(this);"  >Positions</a></li><li><a href="index.php?id=127" onfocus="blurLink(this);"  >Reports</a></li><li><a href="index.php?id=150" onfocus="blurLink(this);"  >Videos</a></li><li><a href="index.php?id=160" onfocus="blurLink(this);"  >Infographics</a></li><li><a href="index.php?id=162" onfocus="blurLink(this);"  >Newsletter</a></li><li><a href="index.php?id=153" onfocus="blurLink(this);"  >Campaigns</a></li></ul></li><li class="dir"><a href="index.php?id=31" onfocus="blurLink(this);"  class="level_1">Members</a></li><li class="dir"><a href="index.php?id=32" onfocus="blurLink(this);"  class="level_1">Links</a></li><li class="dir"><a href="index.php?id=33" onfocus="blurLink(this);"  class="level_1">Contact Us</a></li></ul></div>
+        </div>
+        <div id="home_slider">
+	<!--  CONTENT ELEMENT, uid:211/list [begin] -->
+		<div id="c211" class="csc-default" >
+		<!--  Plugin inserted: [begin] -->
+			
+
+
+	<!--
+
+		BEGIN: Content of extension "jfmulticontent", plugin "tx_jfmulticontent_pi1"
+
+	-->
+	<div class="tx-jfmulticontent-pi1">
+		
+<div class="subcolumns">
+	
+	<div class="c66l"><div class="subcl">
+	<!--  CONTENT ELEMENT, uid:212/list [begin] -->
+		<div id="c212" class="csc-default" >
+		<!--  Plugin inserted: [begin] -->
+			<div class="tx-imagecycle-pi1"><div id="imagecycle_c212_pager" class="tx-imagecycle-pi1-pager"><a href="#" rev="0">1</a><a href="#" rev="1">2</a><a href="#" rev="2">3</a></div><ul id="imagecycle_c212" class="tx-imagecycle-pi1-images"><li><img src="fileadmin/user_upload/images/banner/000007711846.jpg" width="610" height="270" alt="EFBW" title="EFBW" /><div class="imagecycle-caption">EFBW</div></li><li><img src="fileadmin/user_upload/images/banner/000011177667.jpg" width="610" height="270" alt="EFBW" title="EFBW" /><div class="imagecycle-caption">EFBW</div></li><li><img src="fileadmin/user_upload/images/banner/000023201095.jpg" width="610" height="270" alt="EFBW" title="EFBW" /><div class="imagecycle-caption">EFBW</div></li></ul></div><noscript><ul class="tx-imagecycle-pi1-images"><li><img src="fileadmin/user_upload/images/banner/000007711846.jpg" width="610" height="270" alt="EFBW" title="EFBW" /><div class="imagecycle-caption">EFBW</div></li></ul></noscript>
+		<!--  Plugin inserted: [end] -->
+			</div>
+	<!--  CONTENT ELEMENT, uid:212/list [end] -->
+		</div></div>
+	
+	<div class="c33r"><div class="subcr">
+	<!--  CONTENT ELEMENT, uid:213/text [begin] -->
+		<div id="c213" class="csc-default" >
+		<!--  Header: [begin] -->
+			<div class="csc-header csc-header-n1"><h4 class="csc-firstHeader">Welcome to the European Federation of Bottled Waters</h4></div>
+		<!--  Header: [end] -->
+			
+		<!--  Text: [begin] -->
+			<p class="bodytext">&nbsp;</p>
+<p class="bodytext">EFBW is the trade association representing the interests of the European bottled water industry. Based in Brussels, EFBW promotes natural mineral water, spring water and other types of bottled waters before EU regulatory authorities and international organisations.</p>
+<p class="bodytext">&nbsp;</p>
+<p class="bodytext"><a href="index.php?id=24" title="Opens internal link in current window" class="internal-link" >Read more</a></p>
+		<!--  Text: [end] -->
+			</div>
+	<!--  CONTENT ELEMENT, uid:213/text [end] -->
+		</div></div>
+	
+</div>
+
+	</div>
+	
+	<!-- END: Content of extension "jfmulticontent", plugin "tx_jfmulticontent_pi1" -->
+
+	
+		<!--  Plugin inserted: [end] -->
+			</div>
+	<!--  CONTENT ELEMENT, uid:211/list [end] -->
+		</div>
+        <div id="welcome"></div>
+        <div id="home_latest_news">
+	<!--  CONTENT ELEMENT, uid:50/list [begin] -->
+		<div id="c50" class="csc-default" >
+		<!--  Header: [begin] -->
+			<div class="csc-header csc-header-n1"><h3 class="csc-firstHeader"><a href="index.php?id=63" >Latest news</a></h3></div>
+		<!--  Header: [end] -->
+			
+		<!--  Plugin inserted: [begin] -->
+			
+<div id="latest_news_wrapper">
+	
+			<div class="news-list-item">
+            <div class="news_image">
+            	<a href="index.php?id=70&amp;tx_ttnews%5Btt_news%5D=84&amp;cHash=018cb4553fdad9fe76e1e6cd2737bcd4" title="European bottled water producers make major pledges towards circular economy by 2025"><img src="typo3temp/pics/afad2cc39f.jpg" width="300" height="172" alt="" /></a>
+            </div>
+			  <div class="news-list-date">15.05.2018</div>
+			  <h4><a href="index.php?id=70&amp;tx_ttnews%5Btt_news%5D=84&amp;cHash=018cb4553fdad9fe76e1e6cd2737bcd4" title="European bottled water producers make major pledges towards circular economy by 2025">European bottled water producers make major pledges towards circular economy by 2025</a></h4>
+			  
+			 <p>European Federation of Bottled Waters’ members will be a driving force to collect 90% of all PET...<span class="news-list-morelink"><a href="index.php?id=70&amp;tx_ttnews%5Btt_news%5D=84&amp;cHash=018cb4553fdad9fe76e1e6cd2737bcd4" title="European bottled water producers make major pledges towards circular economy by 2025">[more]</a></span></p>
+
+			</div>
+		
+			<div class="news-list-item">
+            <div class="news_image">
+            	<a href="index.php?id=70&amp;tx_ttnews%5Btt_news%5D=80&amp;cHash=b7ed3fdeb489236b1b89b6574f429029" title="Packed water PEFCR approved by the European Commission"><img src="typo3temp/pics/f23319a324.jpg" width="300" height="225" alt="" /></a>
+            </div>
+			  <div class="news-list-date">10.05.2018</div>
+			  <h4><a href="index.php?id=70&amp;tx_ttnews%5Btt_news%5D=80&amp;cHash=b7ed3fdeb489236b1b89b6574f429029" title="Packed water PEFCR approved by the European Commission">Packed water PEFCR approved by the European Commission</a></h4>
+			  
+			 <p>Brussels, 10 May 2018.&nbsp; The European Federation of Bottled Waters (EFBW) is proud to announce...<span class="news-list-morelink"><a href="index.php?id=70&amp;tx_ttnews%5Btt_news%5D=80&amp;cHash=b7ed3fdeb489236b1b89b6574f429029" title="Packed water PEFCR approved by the European Commission">[more]</a></span></p>
+
+			</div>
+		
+			<div class="news-list-item">
+            <div class="news_image">
+            	<a href="index.php?id=70&amp;tx_ttnews%5Btt_news%5D=79&amp;cHash=ac0eeaa4673d98ce12b005cdff4b3195" title="Plastics Recycling Show Europe 2018"><img src="typo3temp/pics/58c4b1c980.jpg" width="300" height="248" alt="" /></a>
+            </div>
+			  <div class="news-list-date">08.03.2018</div>
+			  <h4><a href="index.php?id=70&amp;tx_ttnews%5Btt_news%5D=79&amp;cHash=ac0eeaa4673d98ce12b005cdff4b3195" title="Plastics Recycling Show Europe 2018">Plastics Recycling Show Europe 2018</a></h4>
+			  
+			 <p>After a successful launch in March 2017 Plastics Recycling Show Europe Returns in 2018 to RAI...<span class="news-list-morelink"><a href="index.php?id=70&amp;tx_ttnews%5Btt_news%5D=79&amp;cHash=ac0eeaa4673d98ce12b005cdff4b3195" title="Plastics Recycling Show Europe 2018">[more]</a></span></p>
+
+			</div>
+		
+</div>
+
+		<!--  Plugin inserted: [end] -->
+			</div>
+	<!--  CONTENT ELEMENT, uid:50/list [end] -->
+		
+	<!--  CONTENT ELEMENT, uid:332/textpic [begin] -->
+		<div id="c332" class="csc-default" >
+		<!--  Header: [begin] -->
+			<div class="csc-header csc-header-n2"><h1><a href="http://www.efbw.org/index.php?id=153" target="_top" >National campaigns </a></h1></div>
+		<!--  Header: [end] -->
+			
+		<!--  Image block: [begin] -->
+			<div class="csc-textpic csc-textpic-intext-left"><div class="csc-textpic-imagewrap csc-textpic-single-image"><img src="typo3temp/pics/6bbfdf8700.png" width="135" height="132" alt="" /></div><div class="csc-textpic-text">
+		<!--  Text: [begin] -->
+			<p class="bodytext">The French Trade Association for Natural Mineral Waters (CSEM) in collaboration with the French Trade Association for Spring Waters (SES) and the French Trade Association for Soft Drinks (BRF) have launched a broad public awareness campaign on the collection and recycling of PET bottles.</p>
+<p class="bodytext">&nbsp;</p>
+<p class="bodytext"> <a href="index.php?id=153" class="morespecial" >More &gt;&gt;</a></p>
+		<!--  Text: [end] -->
+			</div></div><div class="csc-textpic-clear"><!-- --></div>
+		<!--  Image block: [end] -->
+			</div>
+	<!--  CONTENT ELEMENT, uid:332/textpic [end] -->
+		
+	<!--  CONTENT ELEMENT, uid:333/html [begin] -->
+		<div id="c333" class="csc-default" >
+		<!--  Raw HTML content: [begin] -->
+			<style>
+#home_video {
+float:right !important;
+margin-left:0px;
+margin-right:70px;
+margin-top:30px;
+}
+
+#home_latest_news {
+height:auto !important;
+}
+
+.csc-textpic-single-image {
+margin-left:13px;
+}
+#home_latest_news h1,#home_latest_news h2 {
+margin-top:30px;
+margin-bottom:20px;
+font-family: 'latoregular';
+color: #000a6b;
+font-size: 20px;
+line-height: 26px;
+font-weight: normal;
+text-decoration: none;
+border-bottom: 1px solid #DEDEDE;
+width:100%;
+}
+
+.bodytext {
+    font-family: 'latoregular';
+    font-size: 14px;
+    line-height: 19px;
+    color: #333;
+}
+
+li.dir {
+font-size: 12px;
+}
+
+#c332 {
+margin-top:0px;
+}
+</style>
+
+		<!--  Raw HTML content: [end] -->
+			</div>
+	<!--  CONTENT ELEMENT, uid:333/html [end] -->
+		
+	<!--  CONTENT ELEMENT, uid:374/templavoila_pi1 [begin] -->
+		<div id="c374" class="csc-default" >
+		<!--  Header: [begin] -->
+			<div class="csc-header csc-header-n4"><h3>Quality</h3></div>
+		<!--  Header: [end] -->
+			
+    <div id="home_video_image">
+        <img src="typo3temp/pics/e059294726.png" width="278" height="178" alt="" />
+        <a href="index.php?id=150"></a>
+    </div>
+</div>
+	<!--  CONTENT ELEMENT, uid:374/templavoila_pi1 [end] -->
+		
+	<!--  CONTENT ELEMENT, uid:375/templavoila_pi1 [begin] -->
+		<div id="c375" class="csc-default" >
+		<!--  Header: [begin] -->
+			<div class="csc-header csc-header-n5"><h3>Protection</h3></div>
+		<!--  Header: [end] -->
+			
+    <div id="home_video_image">
+        <img src="typo3temp/pics/52c1d14bdb.jpg" width="310" height="174" alt="" />
+        <a href="index.php?id=150#wb359"></a>
+    </div>
+</div>
+	<!--  CONTENT ELEMENT, uid:375/templavoila_pi1 [end] -->
+		
+	<!--  CONTENT ELEMENT, uid:376/html [begin] -->
+		<div id="c376" class="csc-default" >
+		<!--  Raw HTML content: [begin] -->
+			<style>
+#c374,#c375 {
+ display:block;
+ float:left;
+margin-top:24px;
+}
+#c375 {
+margin-left:28px;
+}
+#c374 h3,#c375 h3 {
+	font-size:20px;
+	line-height:30px;
+	color:#4e74ae;
+	font-weight:normal;
+	border-bottom:1px solid #DEDEDE;
+	display:block;
+	overflow:hidden;
+	width:auto;
+	padding-right:20px;
+	float:left;
+	margin-bottom:17px;
+	font-family: 'latoregular';
+}
+</style>
+		<!--  Raw HTML content: [end] -->
+			</div>
+	<!--  CONTENT ELEMENT, uid:376/html [end] -->
+		</div>
+        <div id="home_boxes"><!--TYPO3SEARCH_begin-->
+	<!--  CONTENT ELEMENT, uid:56/templavoila_pi1 [begin] -->
+		<div id="c56" class="csc-default" >
+    <div class="home_box">
+        <h3>Key bottled water statistics</h3>
+        <img src="typo3temp/pics/a9502730c1.png" width="200" height="178" alt="" />
+        <p class="bodytext">Check out the new statistics and key figures on today's bottled water market</p>
+        <a href="index.php?id=90">More >></a>
+    </div>
+</div>
+	<!--  CONTENT ELEMENT, uid:56/templavoila_pi1 [end] -->
+		
+	<!--  CONTENT ELEMENT, uid:321/templavoila_pi1 [begin] -->
+		<div id="c321" class="csc-default" >
+    <div class="home_box">
+        <h3>EFBW industry report</h3>
+        <img src="typo3temp/pics/63a6c95f6b.jpg" width="200" height="254" alt="" />
+        <p class="bodytext">Check out the EFBW industry report.&nbsp;</p>
+        <a href="index.php?id=127">More >></a>
+    </div>
+</div>
+	<!--  CONTENT ELEMENT, uid:321/templavoila_pi1 [end] -->
+		
+	<!--  CONTENT ELEMENT, uid:317/templavoila_pi1 [begin] -->
+		<div id="c317" class="csc-default" >
+    <div class="home_box">
+        <h3>WaterProtect: EU Project</h3>
+        <img src="typo3temp/pics/cbf0d63177.png" width="200" height="196" alt="" />
+        <p class="bodytext"> <span lang="EN-GB">EFBW is proud to be part of the EU-funded WaterProtect project, aiming at </span>contributing to innovative farming systems delivering good water quality</p>
+<p class="bodytext">&nbsp;</p>
+<p class="bodytext">&nbsp;</p>
+        <a href="index.php?id=148">More >></a>
+    </div>
+</div>
+	<!--  CONTENT ELEMENT, uid:317/templavoila_pi1 [end] -->
+		
+	<!--  CONTENT ELEMENT, uid:399/templavoila_pi1 [begin] -->
+		<div id="c399" class="csc-default" >
+		<!--  Header: [begin] -->
+			<div class="csc-header csc-header-n4"><h3>Quality</h3></div>
+		<!--  Header: [end] -->
+			
+    <div id="home_video_image">
+        <img src="typo3temp/pics/a0fbbe8699.png" width="278" height="178" alt="" />
+        <a href="index.php?id=150"></a>
+    </div>
+</div>
+	<!--  CONTENT ELEMENT, uid:399/templavoila_pi1 [end] -->
+		
+	<!--  CONTENT ELEMENT, uid:400/templavoila_pi1 [begin] -->
+		<div id="c400" class="csc-default" >
+		<!--  Header: [begin] -->
+			<div class="csc-header csc-header-n5"><h3>Protection</h3></div>
+		<!--  Header: [end] -->
+			
+    <div id="home_video_image">
+        <img src="typo3temp/pics/3bffd9c81b.jpg" width="310" height="174" alt="" />
+        <a href="index.php?id=150#wb359"></a>
+    </div>
+</div>
+	<!--  CONTENT ELEMENT, uid:400/templavoila_pi1 [end] -->
+		<!--TYPO3SEARCH_end--></div>
+        <div id="home_events"></div>
+        <div id="home_video">
+	<!--  CONTENT ELEMENT, uid:61/templavoila_pi1 [begin] -->
+		<div id="c61" class="csc-default" >
+		<!--  Header: [begin] -->
+			<div class="csc-header csc-header-n1"><h3 class="csc-firstHeader">The water cycle</h3></div>
+		<!--  Header: [end] -->
+			
+    <div id="home_video_image">
+        <img src="typo3temp/pics/c3465eb763.jpg" width="288" height="174" alt="" />
+        <a href="index.php?id=150#wb355"></a>
+    </div>
+</div>
+	<!--  CONTENT ELEMENT, uid:61/templavoila_pi1 [end] -->
+		
+	<!--  CONTENT ELEMENT, uid:381/html [begin] -->
+		<div id="c381" class="csc-default" >
+		<!--  Raw HTML content: [begin] -->
+			<br clear=all>
+		<!--  Raw HTML content: [end] -->
+			</div>
+	<!--  CONTENT ELEMENT, uid:381/html [end] -->
+		
+	<!--  CONTENT ELEMENT, uid:380/text [begin] -->
+		<div id="c380" class="csc-default" ></div>
+	<!--  CONTENT ELEMENT, uid:380/text [end] -->
+		
+	<!--  CONTENT ELEMENT, uid:382/html [begin] -->
+		<div id="c382" class="csc-default" >
+		<!--  Raw HTML content: [begin] -->
+			<p style="text-align:right;margin-top:28px"><a href="http://efbw.org/?id=150" class="morespecial">More >></a></p>
+<style>
+.c33r a, .c33r a:link, .c33r a:visited,.c33r a:active,  .morespecial{
+background-color: #DBE5EB;
+background-image:none;
+font-size: 10px;
+font-family:'latoregular';
+text-transform: uppercase;
+color: #666;
+text-decoration: none;
+padding: 0 5px;
+line-height:10px;
+width:52px;
+height:auto;
+text-align:right;
+bottom:0px;
+left:0px;
+margin-right:20px;
+}
+
+</style>
+
+<script>
+$( document ).ready(function() {
+$("#c213 .bodytext .internal-link").text("more >>");
+});
+</script>
+		<!--  Raw HTML content: [end] -->
+			</div>
+	<!--  CONTENT ELEMENT, uid:382/html [end] -->
+		</div>
+		
+        <div id="home_private_sections"><!--TYPO3SEARCH_begin--><!--TYPO3SEARCH_end--></div>
+        <div id="right_content"><!--TYPO3SEARCH_begin--><!--TYPO3SEARCH_end--></div>
+		
+        <div id="footer">
+        	<div id="contact_details">
+	<!--  CONTENT ELEMENT, uid:62/html [begin] -->
+		<div id="c62" class="csc-default" >
+		<!--  Raw HTML content: [begin] -->
+			<h2>Address</h2>
+<p>EFBW</p>
+<p>Place des Barricades 1</p>
+<p>B-1000 Brussels</p>
+<p>Tel  + 32 2 880 20 30  Fax + 32 2 880 20 35</p>
+<p><a href="mailto:info@efbw.org">info@efbw.org</a></p>
+		<!--  Raw HTML content: [end] -->
+			</div>
+	<!--  CONTENT ELEMENT, uid:62/html [end] -->
+		</div>
+            <div id="quick_links">
+            	<h2>Quick links</h2>
+                <li><a href="index.php?id=121" onfocus="blurLink(this);"  >The Importance of Water</a></li><li><a href="index.php?id=74" onfocus="blurLink(this);"  >Why choose bottled water?</a></li><li><a href="index.php?id=73" onfocus="blurLink(this);"  >Protecting the Environment</a></li><li><a href="index.php?id=75" onfocus="blurLink(this);"  >What does EFBW do?</a></li>
+            </div>
+            <div id="get_in_touch">
+	<!--  CONTENT ELEMENT, uid:63/html [begin] -->
+		<div id="c63" class="csc-default" >
+		<!--  Raw HTML content: [begin] -->
+			<h2>Contact EFBW</h2>
+<p>Send your queries to info[at]efbw.org.</p>
+<img src="fileadmin/templates/images/logob.svg" alt="" width="119" height="76" />
+<a href="index.php?id=33">Get in touch</a>
+
+<script>
+setTimeout(changeyear, 100);
+function changeyear() {
+var year=(new Date()).getFullYear();
+document.getElementById("copyright").innerHTML="© "+year+" EFBW All rights reserved "
+}
+</script>
+		<!--  Raw HTML content: [end] -->
+			</div>
+	<!--  CONTENT ELEMENT, uid:63/html [end] -->
+		</div>
+        </div>
+        <div id="copyright">
+        	<p>&copy; 2014 EFBW  All rights reserved </p>
+        </div>
+        <div id="developer">
+        	<p>by <a href="http://www.peak-sourcing.com/">PEAK Sourcing</a></p>
+        </div>
+    </div>
+
+<script src="fileadmin/templates/js/main.js?1526400300" type="text/javascript"></script>
+<script type="text/javascript">
+/*<![CDATA[*/
+<!-- 
+/*a702f0f511da9dc6d46d5fa97b7c2628*/
+jQuery(document).ready(function() {
+	
+	
+	jQuery('#imagecycle_c212').show().cycle({
+		fx: 'fadeout',
+		easing: 'easeInOutBack',
+		speed: '2000',
+		timeout: '3000',
+		delay: 1000,
+		sync: true,
+		random: false,
+		cleartypeNoBg: false,
+		before: function(a,n,o,f) {jQuery('div', this).css('display', 'none');},
+		after: function(a,n,o,f) {jQuery('div', this).animate({opacity: 'show'},200,'swing');jQuery('#imagecycle_c212_pager a').removeClass('activeSlide');jQuery('#imagecycle_c212_pager a[rev='+(o.currSlide)+']').addClass('activeSlide');}
+		
+	});
+	
+	
+	if (jQuery('#imagecycle_c212').width() > 0) {
+		jQuery('#imagecycle_c212').parent().css('width', jQuery('#imagecycle_c212').width());
+	}
+	
+	if (jQuery('#imagecycle_c212_pager').length == 0) {
+		var cycle_images = jQuery('#imagecycle_c212 li').length;
+		var cycle_pager = '<div id="imagecycle_c212_pager" class="tx-imagecycle-pi1-pager">';
+		for (i=0; i<cycle_images; i++) {
+			cycle_pager += '<a href="#" rev="'+i+'">'+(i+1)+'</a>';
+		}
+		cycle_pager += '</div>';
+		jQuery('#imagecycle_c212').before(cycle_pager);
+	}
+	jQuery('#imagecycle_c212_pager a').each(function() {
+		jQuery(this).click(function() {
+			jQuery('#imagecycle_c212').cycle(parseInt(jQuery(this).attr('rev')));
+			return false;
+		});
+	});
+	options = jQuery('#imagecycle_c212').data('cycle.opts');
+	jQuery('#imagecycle_c212_pager a[rev='+(options.currSlide)+']').addClass('activeSlide');
+	
+	
+	
+	jQuery('div', jQuery('#imagecycle_c212')).show();
+});
+
+// -->
+/*]]>*/
+</script>
+
+</body>
+</html>
+

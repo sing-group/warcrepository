@@ -1,0 +1,354 @@
+WARC/1.0
+WARC-Type: warcinfo
+WARC-Date: 2018-05-30T18:18:32Z
+WARC-Record-ID: <urn:uuid:0c078fa1-e4d4-4dac-9ccc-bad852274c9e>
+WARC-All-Language: en, en-gb
+WARC-All-Content_type: text/html, text/html; charset=utf-8
+Content-Type: application/http;msgtype=response
+Content-Length: 46
+
+WARCProcessor by SING Group www.sing-group.com
+
+WARC/1.0
+WARC-Type: response
+WARC-Record-ID: <http://www.greenerwaste.eu>
+WARC-Date: 20180530181832
+WARC-Target-URI: http://www.greenerwaste.eu
+WARC-Language: en-gb
+Content-Type: application/http;msgtype=response
+Content-Length: 16241
+
+HTTP/1.1 200
+Content-Type:text/html; charset=utf-8
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-gb" lang="en-gb" >
+<head>
+ 	<base href="http://www.greenerwaste.eu/" />
+	<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+	<meta name="keywords" content="Greener Waste Technology" />
+	<meta name="description" content="Greener Waste Technology" />
+	<title>Greener Waste Technology - Home</title>
+	<link href="/?format=feed&amp;type=rss" rel="alternate" type="application/rss+xml" title="RSS 2.0" />
+	<link href="/?format=feed&amp;type=atom" rel="alternate" type="application/atom+xml" title="Atom 1.0" />
+	<link href="/favicon.ico" rel="shortcut icon" type="image/vnd.microsoft.icon" />
+	<link href="/media/jui/css/chosen.css" rel="stylesheet" type="text/css" />
+	<link href="/media/com_finder/css/finder.css" rel="stylesheet" type="text/css" />
+	<script src="/media/jui/js/jquery.min.js" type="text/javascript"></script>
+	<script src="/media/jui/js/jquery-noconflict.js" type="text/javascript"></script>
+	<script src="/media/jui/js/jquery-migrate.min.js" type="text/javascript"></script>
+	<script src="/media/system/js/caption.js" type="text/javascript"></script>
+	<script src="/media/system/js/mootools-core.js" type="text/javascript"></script>
+	<script src="/media/system/js/core.js" type="text/javascript"></script>
+	<script src="/media/system/js/mootools-more.js" type="text/javascript"></script>
+	<script src="/media/jui/js/bootstrap.min.js" type="text/javascript"></script>
+	<script src="/media/jui/js/chosen.jquery.min.js" type="text/javascript"></script>
+	<script src="/media/jui/js/jquery.autocomplete.min.js" type="text/javascript"></script>
+	<script type="text/javascript">
+jQuery(window).on('load',  function() {
+				new JCaption('img.caption');
+			});jQuery(function($){ $(".hasTooltip").tooltip({"html": true,"container": "body"}); });
+		jQuery(document).ready(function (){
+			jQuery('.advancedSelect').chosen({"disable_search_threshold":10,"search_contains":true,"allow_single_deselect":true,"placeholder_text_multiple":"Type or select some options","placeholder_text_single":"Select an option","no_results_text":"No results match"});
+		});
+	
+jQuery(document).ready(function() {
+	var value, searchword = jQuery('#mod-finder-searchword96');
+
+		// Get the current value.
+		value = searchword.val();
+
+		// If the current value equals the default value, clear it.
+		searchword.on('focus', function ()
+		{
+			var el = jQuery(this);
+
+			if (el.val() === 'Search ...')
+			{
+				el.val('');
+			}
+		});
+
+		// If the current value is empty, set the previous value.
+		searchword.on('blur', function ()
+		{
+			var el = jQuery(this);
+
+			if (!el.val())
+			{
+				el.val(value);
+			}
+		});
+
+		jQuery('#mod-finder-searchform96').on('submit', function (e)
+		{
+			e.stopPropagation();
+			var advanced = jQuery('#mod-finder-advanced96');
+
+			// Disable select boxes with no value selected.
+			if (advanced.length)
+			{
+				advanced.find('select').each(function (index, el)
+				{
+					var el = jQuery(el);
+
+					if (!el.val())
+					{
+						el.attr('disabled', 'disabled');
+					}
+				});
+			}
+		});
+	var suggest = jQuery('#mod-finder-searchword96').autocomplete({
+		serviceUrl: '/component/finder/?task=suggestions.suggest&amp;format=json&amp;tmpl=component',
+		paramName: 'q',
+		minChars: 1,
+		maxHeight: 400,
+		width: 300,
+		zIndex: 9999,
+		deferRequestBy: 500
+	});});
+	</script>
+
+ <link rel="stylesheet" href="/templates/system/css/system.css" type="text/css" />
+ <link rel="stylesheet" href="/templates/system/css/general.css" type="text/css" />
+ <link rel="stylesheet" href="/templates/GW_Template/css/style.css" type="text/css" />
+<script type="text/javascript">var _gaq = _gaq || [];
+          _gaq.push(['_setAccount', 'UA-46137985-1']);
+          _gaq.push(['_trackPageview']);
+
+          (function() {
+            var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+          })();
+
+          </script></head>
+<body>
+ <div id="backing" align="center">
+  <div id="content">
+   <div id="logo" align="center"><img src="/templates/GW_Template/images/header.png" alt="greener waste logo">
+    <div id="top_address_box">
+
+<div class="custom"  >
+	<div style="text-align: left;"><strong>Greener Waste Technology<br /></strong></div>
+<div style="text-align: left;"> </div>
+<div style="text-align: left;"><strong>Tel:</strong> +44 (0)1274 593 597</div>
+<div style="text-align: left;"><strong><br />email :</strong> <a href="/contact-us">Greener Waste Technology</a></div></div>
+</div>
+    <div id="search_box">
+<form id="mod-finder-searchform96" action="/component/finder/search" method="get" class="form-search">
+	<div class="finder">
+		<label for="mod-finder-searchword96" class="element-invisible finder">Search</label><br /><input type="text" name="q" id="mod-finder-searchword96" class="search-query input-medium" size="15" value="" placeholder="Search ..."/>
+						<input type="hidden" name="Itemid" value="101" />	</div>
+</form>
+</div>
+   </div> 
+   <div id="breadcrumbs"> 
+<ul itemscope itemtype="https://schema.org/BreadcrumbList" class="breadcrumb">
+			<li>
+			You are here: &#160;
+		</li>
+	
+				<li itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem" class="active">
+				<span itemprop="name">
+					Home				</span>
+				<meta itemprop="position" content="1">
+			</li>
+		</ul>
+
+
+<div class="custom"  >
+	<div style="background-color: #fafafa; display: block; color: #cccccc;">Our website uses cookies to give us visitor statistics.<br /> If you are happy with this, continue to use the site as normal, Alternatively please view our <a href="http://www.greenerwaste.eu/legal/privacy-policy">privacy statement.</a></div></div>
+</div>  
+   <div id="sidebar_left" class="float">		<div class="moduletable_menu">
+							<h3>Main Menu</h3>
+						<ul class="nav menu">
+<li class="item-101 default current active"><a href="/" >Home</a></li><li class="item-108"><a href="/news" >News</a></li><li class="item-109 parent"><a href="/products" >Products and Services</a></li><li class="item-106"><a href="/articles" >Articles</a></li><li class="item-107 parent"><a href="/case-studies" >Case Studies</a></li><li class="item-105"><a href="/contact-us" >Contact Us</a></li><li class="item-103 parent"><a href="/legal" >Legal</a></li></ul>
+		</div>
+			<div class="moduletable">
+							<h3>Popular</h3>
+						<ul class="mostread">
+	<li itemscope itemtype="https://schema.org/Article">
+		<a href="/2-uncategorised/6-the-greener-waste-solution" itemprop="url">
+			<span itemprop="name">
+				The Greener Waste Technology Solution			</span>
+		</a>
+	</li>
+	<li itemscope itemtype="https://schema.org/Article">
+		<a href="/contact-us" itemprop="url">
+			<span itemprop="name">
+				How to contact Greener Waste Technology			</span>
+		</a>
+	</li>
+	<li itemscope itemtype="https://schema.org/Article">
+		<a href="/products/the-modular-reed-bed" itemprop="url">
+			<span itemprop="name">
+				The Modular Reed Bed			</span>
+		</a>
+	</li>
+	<li itemscope itemtype="https://schema.org/Article">
+		<a href="/products/the-bioselector" itemprop="url">
+			<span itemprop="name">
+				The BioCube			</span>
+		</a>
+	</li>
+	<li itemscope itemtype="https://schema.org/Article">
+		<a href="/2-uncategorised/17-its-all-about-the-people" itemprop="url">
+			<span itemprop="name">
+				It's all about the people			</span>
+		</a>
+	</li>
+</ul>
+		</div>
+	</div> 
+   <div id="articles" class="float"><div class="blog-featured" itemscope itemtype="https://schema.org/Blog">
+
+<div class="items-leading clearfix">
+			<div class="leading-0 clearfix" 
+			itemprop="blogPost" itemscope itemtype="https://schema.org/BlogPosting">
+			
+
+	<h2 class="item-title" itemprop="headline">
+			<a href="/10-news/46-gwt" itemprop="url">
+			Our Ethos		</a>
+		</h2>
+
+
+
+
+
+
+
+<p><span style="font-size: 10pt;"></span></p>
+<p><span style="font-size: 11pt; font-family: Calibri, sans-serif; color: windowtext; font-weight: normal;">The BioCube dosing units are used as an alternative to SAF units, capital upgrades and chemical dosing on sites where energy and cost savings need to be made. The passion which drives Greener Waste Technology to innovate is focussed on the holistic management of sewage treatment works and the utilisation of natural methods of treatment control to ensure minimum impact on the works and the environment. </span></p>
+<p><span style="font-size: 10pt;"></span></p>
+<p><span style="font-size: 11pt; font-family: Calibri, sans-serif; color: windowtext; font-weight: normal;">Greener Waste Technology believe that the future of small works management will rely on creating an equilibrium between financial investment and proactive management. Many older works require upgrading and in the current climate it is now seen as holistic management to optimise capital spend and safeguard the condition of aging works by investing in the long-term management of infrastructure rather than rebuilding or adding concrete to site.</span></p>
+<p><span style="font-size: 11pt; font-family: Calibri, sans-serif; color: windowtext; font-weight: normal;">Providing unique environmental opportunities and saving operator time the BioCube process is truly a step change in how site management is viewed and how planning is considered for long term maintenance or upgrade to sewage treatment works. It challenges the whole buying ethos of many companies and encourages a new way of thinking which could radicalise environmental impact and spending market wide. </span></p>
+<p><span style="font-size: 10pt; color: #008000;"><strong>Contact us to tell us your TOTEX goals, we'd like to hear more about the issues that matter to your teams.&nbsp;</strong></span></p>
+
+
+
+		</div>
+					<div class="leading-1 clearfix" 
+			itemprop="blogPost" itemscope itemtype="https://schema.org/BlogPosting">
+			
+
+	<h2 class="item-title" itemprop="headline">
+			<a href="/products/the-bioselector" itemprop="url">
+			The BioCube		</a>
+		</h2>
+
+
+
+
+
+
+
+<div class="title">&nbsp;</div>
+<div class="title">&nbsp;&nbsp;<img style="display: block; margin-left: auto; margin-right: auto;" src="/images/biocube.jpg" alt="biocube" width="427" height="365" /></div>
+<div class="title"><br />The BioCube breeder units are practical and low-cost on-site bacteria breeding and acclimatising systems for illiminating FOG, imorivng settlement and reducing BOD, solidsand ammonia. Using the well proven process of pre-assimilation technology the BioCube unit allows breeding of the most suitable bacteria to deal with specific problems found on sewage works. The ability to reduce load and eliminate FOG enables TOTEX drivers to be met and a more holistic approach to whole of life management on sewage treatment works with improved operator involvement through related efficiencies.</div>
+<div class="title">&nbsp;</div>
+
+
+
+	
+<p class="readmore">
+	<a class="btn" href="/products/the-bioselector" itemprop="url">
+		<span class="icon-chevron-right"></span>
+		Read more: The BioCube	</a>
+</p>
+
+
+
+		</div>
+					<div class="leading-2 clearfix" 
+			itemprop="blogPost" itemscope itemtype="https://schema.org/BlogPosting">
+			
+
+	<h2 class="item-title" itemprop="headline">
+			<a href="/products/16-filter-bed-cleaning" itemprop="url">
+			Filter Bed Cleaning		</a>
+		</h2>
+
+
+
+
+
+
+
+<p>We are currently helping our clients to remediate filter beds and ultimately restore the operation and compliance of the works.&nbsp;This picture shows the dosed bacteria product prior to the flushing procedure taking place. All the cleaning is done in situ&nbsp;and none of the media is removed during the process. The filter remains operational throughout which saves costs and reduces risks with regards both project length and performance.&nbsp;</p>
+<p><img style="border: 0;" src="/images/stories/article_images/filter_bed_cleaning.jpg" alt="filter_bed_cleaning" width="680" height="290" border="0" /></p>
+<p>&nbsp;</p>
+<p>The distribution is isolated only whilst operators are on the bed surface which means beds are kept wet throughout the process and no downtime is necessary, avoiding the need for expensive temporary treatment and illiminating associated risks. The cleaning process is a combination of flushing and auguring heavily congested areas of the bed and spreading a patented bacteria product which assists in the degradation of any excess organic solids within the media.&nbsp;</p>
+<p>The filter bed cleaning process takes anything from just a few days to a week per bed and the bacteria support ensures consents are not at risk during the cleaning process. As the cleaning takes place online solids levels are closely monitored and the performance of the humus tanks is checked.&nbsp;</p>
+<p>This is a very quick, cost effective and environmentally sound alternative to mechanical cleaning and can be a useful maintenance tool for long term security of aging filter bed sites.&nbsp;</p>
+<p><a href="/contact-us">Call us now</a> if you want to know more about our filter bed cleaning solutions.&nbsp; Ask us about our performance guarantees.</p>
+
+
+
+		</div>
+					<div class="leading-3 clearfix" 
+			itemprop="blogPost" itemscope itemtype="https://schema.org/BlogPosting">
+			
+
+	<h2 class="item-title" itemprop="headline">
+			<a href="/2-uncategorised/17-its-all-about-the-people" itemprop="url">
+			It's all about the people		</a>
+		</h2>
+
+
+
+
+
+
+
+<p>With the ever increasing cost of water, ever tightening consents and stringent environmental commitments you need someone on your side who understands industrial waste water and the new challenges in the TOTEX environment. GWT has a unique range of asset optimisation solutions that are helping companies to save costs and safeguard existing processes for reduced whole of life costs.</p>
+<p><img style="border: 0;" src="/images/stories/article_images/greener_waste_lucy.jpg" alt="greener waste's Lucy onsite with customers" width="686" height="292" /></p>
+<p>Our knowledge and technology would be nothing without our team of friendly experts to deliver it. We are interested in your project and will work with you to achieve your goals. Call us at Greener Waste Technology on +44 (0)1274 593 597 or <a href="/contact-us">email us</a> for more details. Find out for yourself how different we are.</p>
+
+
+
+		</div>
+					<div class="leading-4 clearfix" 
+			itemprop="blogPost" itemscope itemtype="https://schema.org/BlogPosting">
+			
+
+	<h2 class="item-title" itemprop="headline">
+			<a href="/2-uncategorised/20-modular-reed-beds" itemprop="url">
+			Modular Reed Beds		</a>
+		</h2>
+
+
+
+
+
+
+
+<p>We have constructed a number of <a href="/products/the-modular-reed-bed">Modular Reed Beds</a> around the country. Because of the unique design this is a quick and simple task even in adverse weather conditions. Some of the smaller installations are ready for use within days and are simple to commission and operate. In most cases no planning permission is needed and the beds will sit on any flat, stable surface such as crush and run or an existing concrete hardstanding (like a carpark).</p>
+<p><img style="border: 0;" src="/images/stories/article_images/growing_beds.jpg" alt="Growing reeds in a Greener Waste modular reed bed." width="680" height="291" border="0" /></p>
+<p>Like us these reed beds work all-year round so NOW is a good time to be building and utilising this innovative technology for tertiary treatment on small works with solids issues.&nbsp;</p>
+
+
+
+		</div>
+			</div>
+
+
+
+</div>
+</div>  
+   <div id="footer" class="clear">
+
+<div class="custom"  >
+	<p>&nbsp;</p>
+<hr />
+<p><img style="float: left; padding: 20px;" src="/templates/GW_Template/images/mono_icon.png" alt="GWT" width="327" height="64" /></p>
+<div style="padding-top: 45px; padding-bottom: 10px; font-size: 0.85em;">© 2015 Greener Waste Technology :: Shipley :: West Yorkshire :: +44 (0)1274 593 597</div></div>
+</div>
+  </div>
+ </div>
+</body>
+</html>
+

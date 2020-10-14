@@ -1,0 +1,175 @@
+WARC/1.0
+WARC-Type: warcinfo
+WARC-Date: 2018-05-30T18:18:32Z
+WARC-All-Language: en
+WARC-All-Content_type: text/html
+WARC-Record-ID: <urn:uuid:e700774f-cb79-4e9e-83c8-b74dcc5747c2>
+Content-Type: application/http;msgtype=response
+Content-Length: 46
+
+WARCProcessor by SING Group www.sing-group.com
+
+WARC/1.0
+WARC-Type: response
+WARC-Target-URI: http://www.csdpmap.eu
+WARC-Date: 20180530181832
+WARC-Language: en
+WARC-Record-ID: <http://www.csdpmap.eu>
+Content-Type: application/http;msgtype=response
+Content-Length: 8633
+
+HTTP/1.1 200
+Content-Type:text/html
+
+
+<!DOCTYPE html>
+<html>
+<head>
+<title>small rock crushers, crushing process of mining limestone</title>
+<link href="/themes/en-11/css/bootstrap.css" rel="stylesheet" type="text/css" media="all" />
+<script src="/themes/en-11/js/jquery.min.js"></script>
+<link href="/themes/en-11/css/style.css" rel="stylesheet" type="text/css" media="all" />
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="keywords" content="" />
+<script type="application/x-javascript"> addEventListener("load", function() { setTimeout(hideURLbar, 0); }, false); function hideURLbar(){ window.scrollTo(0,1); } </script>
+<link href='#css?family=Lato:100,300,400,700,900' rel='stylesheet' type='text/css'>
+<link href='#css?family=Roboto:400,100,300,500,700,900' rel='stylesheet' type='text/css'>
+<link href="/themes/en-11/css/memenu.css" rel="stylesheet" type="text/css" media="all" />
+<script type="text/javascript" src="/themes/en-11/js/memenu.js"></script>
+<script>$(document).ready(function(){$(".memenu").memenu();});</script>
+<script src="/themes/en-11/js/simpleCart.min.js"> </script>
+</head>
+<body>
+<div class="header">
+  <div class="header-top">
+    <div class="container">
+      <div class="search">
+        <form action="/search">
+          <input type="text" value="Search " onfocus="this.value = '';" onblur="if (this.value == '') {this.value = 'Search';}">
+          <input type="submit" value="Go">
+        </form>
+      </div>
+      <div class="header-left">
+        <script src="/themes/en-11/js/contact.js"></script> 
+      </div>
+      <div class="clearfix"> </div>
+    </div>
+  </div>
+  <div class="container">
+    <div class="head-top">
+      <div class="logo"> <a href="/"><img src="/themes/en-11/images/logo.png" alt="CRUC"></a> </div>
+      <div class=" h_menu4">
+        <ul class="memenu skyblue">
+          <li class="active grid"><a href="/" class="active grid">Home</a></li><li><a href="/products/">Products</a></li><li><a href="/solutions/">Solutions</a></li><li><a href="/project/">Project</a></li><li><a href="/about.html">About</a></li><li><a href="/contact.html">Contact</a></li>        </ul>
+      </div>
+      <div class="clearfix"> </div>
+    </div>
+  </div>
+</div>
+<div class="banner">
+  <div class="container"> 
+    <script src="/themes/en-11/js/responsiveslides.min.js"></script> 
+    <script>
+    $(function () {
+      $("#slider").responsiveSlides({
+      	auto: true,
+      	nav: true,
+      	speed: 500,
+        namespace: "callbacks",
+        pager: true,
+      });
+    });
+  </script>
+    <div  id="top" class="callbacks_container">
+      <ul class="rslides" id="slider">
+        <li>
+          <div class="banner-text">
+            <h3>Welcome to CRUC</h3>
+            <p>Founded in 1987, CRUC has attained 124 patents during the production of crushers & mills over the past 30 years. 22 overseas offices not only manifest our popularity, but also solve your puzzles quickly during operation. So if you are looking for crushers or mills, CRUC deserves your attention!</p>
+            <a href="/about.html">More About CRUC</a> </div>
+        </li>
+        <li>
+          <div class="banner-text">
+            <h3>600,000 m2 of Production Bases</h3>
+            <p>By 2016, CRUC has built 6 world-class manufacture bases, which cover a total area of over 600,000m2, and accomplished an annual production value of RMB 5 billion.</p>
+            <a href="/about.html">Learn More</a> </div>
+        </li>
+        <li>
+          <div class="banner-text">
+            <h3>Globalization & Localization</h3>
+            <p>To offer you more timely service and solve your puzzles during operation of production lines, we push out the strategy of “Globalization & Localization”. Currently, we have set 22 overseas offices distributed over different continents. If there is any need, we can “knock your door” at once. It is a strategy just right for you.</p>
+            <a href="/about.html">Learn More</a> </div>
+        </li>
+      </ul>
+    </div>
+  </div>
+</div>
+<div class="content">
+  <div class="container">
+    <div class="content-top">
+      <h1>NEW PRODUCTS</h1>
+      <div class="grid-in">
+                <div class="col-md-4 grid-top"> <a href="/products/hj-series-jaw-crusher.html" class="b-link-stripe b-animate-go  thickbox"><img class="img-responsive" src="/images/file/www/product/hj/1.jpg" alt="">
+          <div class="b-wrapper">
+            <h3 class="b-animate b-from-left    b-delay03 "> <span>
+              By analyzing customers’ requirements and absorbing the world-class advanced technology, CRUC developed&hellip;              </span> </h3>
+          </div>
+          </a>
+          <p><a href="/products/hj-series-jaw-crusher.html">
+            HJ Series Jaw Crusher            </a></p>
+        </div>
+                <div class="col-md-4 grid-top"> <a href="/products/mobile-jaw-crusher.html" class="b-link-stripe b-animate-go  thickbox"><img class="img-responsive" src="/images/file/www/product/mobile_jaw/1.jpg" alt="">
+          <div class="b-wrapper">
+            <h3 class="b-animate b-from-left    b-delay03 "> <span>
+              Portable mobile jaw crusher is developed according to novel series stone crushing equipment’s design&hellip;              </span> </h3>
+          </div>
+          </a>
+          <p><a href="/products/mobile-jaw-crusher.html">
+            Mobile Jaw Crusher            </a></p>
+        </div>
+                <div class="col-md-4 grid-top"> <a href="/products/vibrating-screen.html" class="b-link-stripe b-animate-go  thickbox"><img class="img-responsive" src="/images/file/www/product/screen/1.jpg" alt="">
+          <div class="b-wrapper">
+            <h3 class="b-animate b-from-left    b-delay03 "> <span>
+              The vibrating screen is a kind of sieving equipment of international advanced level, developed by our company&hellip;              </span> </h3>
+          </div>
+          </a>
+          <p><a href="/products/vibrating-screen.html">
+            Vibrating Screen            </a></p>
+        </div>
+                <div class="clearfix"> </div>
+      </div>
+    </div>
+    <div class="content-top-bottom">
+      <h2>Related Projects</h2>
+            <div class="col-md-6 men"> <a href="/project/limestone-and-granite-crush-plant-in-iran.html" class="b-link-stripe b-animate-go  thickbox"><img class="img-responsive" src="/images/file/images/projects/iran/1.jpg" alt="">
+        <div class="b-wrapper">
+          <h3 class="b-animate b-from-top top-in   b-delay03 "> <span>
+            Iran is a very important market of the Middle East. Every year, there are a lot of customers from Iran&hellip;            </span> </h3>
+        </div>
+        </a> </div>
+            <div class="col-md-6 men"> <a href="/project/vietnam-350-400tph-cobble-crushing-plant.html" class="b-link-stripe b-animate-go  thickbox"><img class="img-responsive" src="/images/file/images/projects/vietnam_hpc220/1.jpg" alt="">
+        <div class="b-wrapper">
+          <h3 class="b-animate b-from-top top-in   b-delay03 "> <span>
+            Vietnam is an important mining export country in Asia, especially the exportation of Limestone, iron&hellip;            </span> </h3>
+        </div>
+        </a> </div>
+            <div class="clearfix"> </div>
+    </div>
+  </div>
+  <!---->
+  <div class="content-bottom">
+    <ul>
+           <li><a href="/used_dryer_for_sale_walmart_2720.html">used dryer for sale walmart</a></li><li><a href="/industrial_micro_belt_manufacturers_south_africa_9412.html">industrial micro belt manufacturers south africa</a></li><li><a href="/lining_for_ball_mills_16104.html">lining for ball mills</a></li><li><a href="/safe_operating_procedure_of_crusher_plant_22796.html">safe operating procedure of crusher plant</a></li><li><a href="/complete_gold_dressing_plants_in_australia_29488.html">complete gold dressing plants in australia</a></li><li><a href="/indonesian_iron_ore_36180.html">indonesian iron ore</a></li>            <div class="clearfix"> </div>
+    </ul>
+  </div>
+</div>
+<div class="footer">
+  <script src="/themes/en-11/js/container.js" type="text/javascript" ></script> 
+  <div class="footer-class">
+    <p >Copyright &copy; 2010-2017.CRUC All rights reserved.<a href="/sitemap.xml">Sitemap</a></p>
+  </div>
+</div>
+<script src="/themes/en-11/js/livechat.js" type="text/javascript" ></script>
+</body></html><!--cache-html-->
+

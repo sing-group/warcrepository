@@ -1,0 +1,323 @@
+WARC/1.0
+WARC-Type: warcinfo
+WARC-Date: 2018-05-30T17:52:31Z
+WARC-Record-ID: <urn:uuid:6098cb2c-572a-4e31-a7b2-fc3f39608841>
+WARC-All-Language: en, en-GB
+WARC-All-Content_type: text/html; charset=UTF-8, text/html
+Content-Type: application/http;msgtype=response
+Content-Length: 46
+
+WARCProcessor by SING Group www.sing-group.com
+
+WARC/1.0
+WARC-Type: response
+WARC-Record-ID: <http://www.ecls.eu>
+WARC-Date: 20180530175231
+WARC-Target-URI: http://www.ecls.eu
+WARC-Language: en-GB
+Content-Type: application/http;msgtype=response
+Content-Length: 25368
+
+HTTP/1.1 200
+Content-Type:text/html; charset=UTF-8
+
+
+<!DOCTYPE html>
+<html lang="en-GB" class="no-js">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<link rel="profile" href="http://gmpg.org/xfn/11">
+		<script>(function(html){html.className = html.className.replace(/\bno-js\b/,'js')})(document.documentElement);</script>
+<title>European China Law Studies Association &#8211; 欧洲中国法研究协会</title>
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="European China Law Studies Association &raquo; Feed" href="http://www.ecls.eu/feed/" />
+<link rel="alternate" type="application/rss+xml" title="European China Law Studies Association &raquo; Comments Feed" href="http://www.ecls.eu/comments/feed/" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.4\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.4\/svg\/","svgExt":".svg","source":{"concatemoji":"http:\/\/www.ecls.eu\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.9.6"}};
+			!function(a,b,c){function d(a,b){var c=String.fromCharCode;l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,a),0,0);var d=k.toDataURL();l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,b),0,0);var e=k.toDataURL();return d===e}function e(a){var b;if(!l||!l.fillText)return!1;switch(l.textBaseline="top",l.font="600 32px Arial",a){case"flag":return!(b=d([55356,56826,55356,56819],[55356,56826,8203,55356,56819]))&&(b=d([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]),!b);case"emoji":return b=d([55357,56692,8205,9792,65039],[55357,56692,8203,9792,65039]),!b}return!1}function f(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var g,h,i,j,k=b.createElement("canvas"),l=k.getContext&&k.getContext("2d");for(j=Array("flag","emoji"),c.supports={everything:!0,everythingExceptFlag:!0},i=0;i<j.length;i++)c.supports[j[i]]=e(j[i]),c.supports.everything=c.supports.everything&&c.supports[j[i]],"flag"!==j[i]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[j[i]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(h=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",h,!1),a.addEventListener("load",h,!1)):(a.attachEvent("onload",h),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),g=c.source||{},g.concatemoji?f(g.concatemoji):g.wpemoji&&g.twemoji&&(f(g.twemoji),f(g.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='wphi-style-css'  href='http://www.ecls.eu/wp-content/plugins/wp-header-images/css/front-styles.css?ver=4.9.6' type='text/css' media='all' />
+<link rel='stylesheet' id='ecls2016-fonts-css'  href='https://fonts.googleapis.com/css?family=Roboto%3A300%2C400%2C400italic%2C700italic%2C700%7CInconsolata%3A400&#038;subset=latin%2Clatin-ext' type='text/css' media='all' />
+<link rel='stylesheet' id='ecls2016-style-css'  href='http://www.ecls.eu/wp-content/themes/ecls2016/style.css?ver=4.9.6' type='text/css' media='all' />
+<!--[if lt IE 10]>
+<link rel='stylesheet' id='ecls2016-ie-css'  href='http://www.ecls.eu/wp-content/themes/ecls2016/css/ie.css?ver=20160412' type='text/css' media='all' />
+<![endif]-->
+<!--[if lt IE 9]>
+<link rel='stylesheet' id='ecls2016-ie8-css'  href='http://www.ecls.eu/wp-content/themes/ecls2016/css/ie8.css?ver=20160412' type='text/css' media='all' />
+<![endif]-->
+<!--[if lt IE 8]>
+<link rel='stylesheet' id='ecls2016-ie7-css'  href='http://www.ecls.eu/wp-content/themes/ecls2016/css/ie7.css?ver=20160412' type='text/css' media='all' />
+<![endif]-->
+<link rel='stylesheet' id='moove_gdpr_frontend-css'  href='http://www.ecls.eu/wp-content/plugins/gdpr-cookie-compliance/dist/styles/main.css?ver=1.0.9' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-members-css'  href='http://www.ecls.eu/wp-content/themes/ecls2016/style.css?ver=3.1.9.3' type='text/css' media='all' />
+<!--[if lt IE 9]>
+<script type='text/javascript' src='http://www.ecls.eu/wp-content/themes/ecls2016/js/html5.js?ver=3.7.3'></script>
+<![endif]-->
+<script type='text/javascript' src='http://www.ecls.eu/wp-includes/js/jquery/jquery.js?ver=1.12.4'></script>
+<script type='text/javascript' src='http://www.ecls.eu/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
+<link rel='https://api.w.org/' href='http://www.ecls.eu/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www.ecls.eu/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://www.ecls.eu/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 4.9.6" />
+<link rel="canonical" href="http://www.ecls.eu/" />
+<link rel='shortlink' href='http://www.ecls.eu/' />
+<link rel="alternate" type="application/json+oembed" href="http://www.ecls.eu/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fwww.ecls.eu%2F" />
+<link rel="alternate" type="text/xml+oembed" href="http://www.ecls.eu/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fwww.ecls.eu%2F&#038;format=xml" />
+	<link rel="shortcut icon" href="/favicon.ico" type="image/vnd.microsoft.icon">
+    <link rel="image_src" type="image/png" href="/ecls_thumb.png" />
+    <link rel="apple-touch-icon" type="image/png" href="/ecls_thumb.png" />
+</head>
+
+<body id="top" class="home page-template-default page page-id-2 wp-custom-logo group-blog no-sidebar">
+<div id="ie-warning"><p class="layer">This website does not support Internet Explorer 8 or older.<br>Please use another Browser like Firefox or Chrome instead or upgrade your current browser.<br><br>Thank you!</p></div>
+<div id="page" class="site">
+	<div class="site-inner">
+		<a class="skip-link screen-reader-text" href="#content">Skip to content</a>
+
+		<header id="masthead" class="site-header" role="banner">
+			<div class="site-header-main">
+				<div class="site-branding">
+					<a href="http://www.ecls.eu/" class="custom-logo-link" rel="home" itemprop="url"><img width="240" height="231" src="http://www.ecls.eu/wp-content/uploads/2016/06/cropped-logo.png" class="custom-logo" alt="European China Law Studies Association" itemprop="logo" /></a>
+											<h1 class="site-title">European China Law Studies Association</h1>
+					
+											<p class="site-description">欧洲中国法研究协会</p>
+									</div><!-- .site-branding -->
+
+									<button id="menu-toggle" class="menu-toggle">Menu</button>
+
+					<div id="site-header-menu" class="site-header-menu">
+													<nav id="site-navigation" class="main-navigation" role="navigation" aria-label="Primary Menu">
+								<div class="menu-main-navigation-container"><ul id="menu-main-navigation" class="primary-menu"><li id="menu-item-12" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-2 current_page_item menu-item-12"><a href="http://www.ecls.eu/">Home</a></li>
+<li id="menu-item-11" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-11"><a href="http://www.ecls.eu/about/">About</a>
+<ul class="sub-menu">
+	<li id="menu-item-16" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-16"><a href="http://www.ecls.eu/about/board-of-directors/">Board of Directors</a></li>
+	<li id="menu-item-43" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-43"><a href="http://www.ecls.eu/about/articles-of-association/">Articles of Association</a></li>
+	<li id="menu-item-667" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-667"><a href="http://www.ecls.eu/about/ecls-young-scholars/">ECLS Young Scholars</a></li>
+</ul>
+</li>
+<li id="menu-item-40" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-40"><a href="http://www.ecls.eu/events/">Events</a>
+<ul class="sub-menu">
+	<li id="menu-item-569" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-569"><a href="http://www.ecls.eu/category/upcoming-annual-conference/">Upcoming Annual Conference</a></li>
+	<li id="menu-item-572" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-572"><a href="http://www.ecls.eu/category/workshops/">Workshops</a></li>
+	<li id="menu-item-45" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-45"><a href="http://www.ecls.eu/category/past-events/">Past Events</a></li>
+</ul>
+</li>
+<li id="menu-item-39" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-39"><a href="http://www.ecls.eu/publications/">Publications</a>
+<ul class="sub-menu">
+	<li id="menu-item-571" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-571"><a href="http://www.ecls.eu/category/conference-proceedings/">Conference Proceedings</a></li>
+	<li id="menu-item-507" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-507"><a href="http://www.ecls.eu/category/book-reviews/">Book Reviews</a></li>
+</ul>
+</li>
+<li id="menu-item-38" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-38"><a href="http://www.ecls.eu/members/">Members</a>
+<ul class="sub-menu">
+	<li id="menu-item-597" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-597"><a href="http://www.ecls.eu/members/membership-application/">Membership Application</a></li>
+	<li id="menu-item-445" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-445"><a href="http://www.ecls.eu/members/fee-payment/">Fee Payment</a></li>
+</ul>
+</li>
+<li id="menu-item-634" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-634"><a href="http://www.ecls.eu/contact-and-impressum/">Contact</a></li>
+</ul></div>							</nav><!-- .main-navigation -->
+						
+					</div><!-- .site-header-menu -->
+							</div><!-- .site-header-main -->
+
+					</header><!-- .site-header -->
+
+		<div id="content" class="site-content">
+
+<div id="primary" class="content-area">
+	<div class="header_image"><img src="" alt="" /></div>
+		
+	<main id="main" class="site-main" role="main">
+		
+
+	<div class="post-thumbnail">
+		<img width="1500" height="994" src="http://www.ecls.eu/wp-content/uploads/2016/06/home-1500x994.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" srcset="http://www.ecls.eu/wp-content/uploads/2016/06/home-1500x994.jpg 1500w, http://www.ecls.eu/wp-content/uploads/2016/06/home-300x199.jpg 300w, http://www.ecls.eu/wp-content/uploads/2016/06/home-768x509.jpg 768w, http://www.ecls.eu/wp-content/uploads/2016/06/home-1024x678.jpg 1024w" sizes="(max-width: 709px) 85vw, (max-width: 909px) 67vw, (max-width: 1362px) 88vw, 1500px" />	</div><!-- .post-thumbnail -->
+
+	
+<article id="post-2" class="post-2 page type-page status-publish has-post-thumbnail hentry">
+
+	<header class="entry-header">
+		<h1 class="entry-title">Home</h1>	</header><!-- .entry-header -->
+
+	<div class="entry-content">
+		<p>European China Law Studies Association<br />
+欧洲中国法研究协会</p>
+	</div><!-- .entry-content -->
+
+	
+</article><!-- #post-## -->
+
+	</main><!-- .site-main -->
+
+		
+</div><!-- .content-area -->
+
+
+		</div><!-- .site-content -->
+
+		<footer id="colophon" class="site-footer" role="contentinfo">
+							<nav class="social-navigation" role="navigation" aria-label="Footer Social Links Menu">
+					<div class="menu-social-links-menu-container"><ul id="menu-social-links-menu" class="social-links-menu"><li id="menu-item-22" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-22"><a href="https://www.facebook.com/groups/123725687136/"><span class="screen-reader-text">Facebook</span></a></li>
+<li id="menu-item-23" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-23"><a href="https://www.linkedin.com/groups/2152271/"><span class="screen-reader-text">LinkedIn</span></a></li>
+</ul></div>				</nav><!-- .social-navigation -->
+										<nav class="secondary-navigation" role="navigation" aria-label="Secondary Menu">
+					<div class="menu-footer-menu-container"><ul id="menu-footer-menu" class="secondary-menu"><li id="menu-item-635" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-635"><a href="http://www.ecls.eu/impressum/">Impressum</a></li>
+<li id="menu-item-614" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-614"><a href="http://www.ecls.eu/disclaimer/">Legal Disclaimer (Haftungsausschluss/​Datenschutz)</a></li>
+</ul></div>				</nav><!-- .social-navigation -->
+						<div class="site-info">
+				<span>&copy; 2018 &mdash; <a href="http://www.ecls.eu/" rel="home">ECLS</a></span>
+			</div><!-- .site-info -->
+		</footer><!-- .site-footer -->
+	</div><!-- .site-inner -->
+</div><!-- .site -->
+
+        <div id="moove_gdpr_cookie_info_bar" class="moove-gdpr-info-bar-hidden moove-gdpr-align-center moove-gdpr-dark-scheme">
+            <div class="moove-gdpr-info-bar-container">
+
+                <div class="moove-gdpr-info-bar-content">
+                    <div class="moove-gdpr-cookie-notice">
+                        <p>We are using cookies to give you the best experience on our website.</p>
+<p>You can find out more about which cookies we are using or switch them off in <span data-href="#moove_gdpr_cookie_modal" class="change-settings-button">settings</span>.</p>
+                    </div>
+                    <!--  .moove-gdpr-cookie-notice -->
+                    <div class="moove-gdpr-button-holder">
+                        <button class="mgbutton moove-gdpr-infobar-allow-all" rel="nofollow">Accept</button>
+                    </div>
+                    <!--  .button-container -->
+                </div>
+            </div>
+
+        </div>
+        <!-- #moove_gdpr_cookie_info_bar  -->
+        <script type='text/javascript' src='http://www.ecls.eu/wp-content/themes/ecls2016/js/skip-link-focus-fix.js?ver=20160412'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var screenReaderText = {"expand":"expand child menu","collapse":"collapse child menu"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://www.ecls.eu/wp-content/themes/ecls2016/js/functions.js?ver=20160412'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var moove_frontend_gdpr_scripts = {"ajaxurl":"http:\/\/www.ecls.eu\/wp-admin\/admin-ajax.php","post_id":"2","plugin_dir":"http:\/\/www.ecls.eu\/wp-content\/plugins\/gdpr-cookie-compliance","is_page":"1","is_single":"","current_user":"0"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://www.ecls.eu/wp-content/plugins/gdpr-cookie-compliance/dist/scripts/main.js?ver=1.0.9'></script>
+<script type='text/javascript' src='http://www.ecls.eu/wp-includes/js/wp-embed.min.js?ver=4.9.6'></script>
+
+                
+
+        <style>
+            #moove_gdpr_save_popup_settings_button{background-color:#373737!important;color:#FFF!important}#moove_gdpr_save_popup_settings_button:hover{background-color:#000!important}#moove_gdpr_cookie_info_bar .moove-gdpr-info-bar-container .moove-gdpr-info-bar-content a.mgbutton,#moove_gdpr_cookie_info_bar .moove-gdpr-info-bar-container .moove-gdpr-info-bar-content button.mgbutton{background-color:#004DA3!important}#moove_gdpr_cookie_modal .moove-gdpr-modal-content .moove-gdpr-modal-footer-content .moove-gdpr-button-holder a.mgbutton,#moove_gdpr_cookie_modal .moove-gdpr-modal-content .moove-gdpr-modal-footer-content .moove-gdpr-button-holder button.mgbutton{background-color:#004DA3!important;border-color:#004DA3!important}#moove_gdpr_cookie_modal .moove-gdpr-modal-content .moove-gdpr-modal-footer-content .moove-gdpr-button-holder a.mgbutton:hover,#moove_gdpr_cookie_modal .moove-gdpr-modal-content .moove-gdpr-modal-footer-content .moove-gdpr-button-holder button.mgbutton:hover{background-color:#fff!important;color:#004DA3!important}#moove_gdpr_cookie_modal .moove-gdpr-modal-content .moove-gdpr-modal-close i{background-color:#004DA3!important;border:1px solid #004DA3!important}#moove_gdpr_cookie_modal .moove-gdpr-modal-content .moove-gdpr-modal-close:hover i,#moove_gdpr_cookie_modal .moove-gdpr-modal-content .moove-gdpr-modal-left-content #moove-gdpr-menu li a,#moove_gdpr_cookie_modal .moove-gdpr-modal-content .moove-gdpr-modal-left-content #moove-gdpr-menu li button,#moove_gdpr_cookie_modal .moove-gdpr-modal-content .moove-gdpr-modal-left-content #moove-gdpr-menu li button i,#moove_gdpr_cookie_modal .moove-gdpr-modal-content .moove-gdpr-modal-left-content #moove-gdpr-menu li a i,#moove_gdpr_cookie_modal .moove-gdpr-modal-content .moove-gdpr-tab-main .moove-gdpr-tab-main-conent a:hover,#moove_gdpr_cookie_info_bar.moove-gdpr-dark-scheme .moove-gdpr-info-bar-container .moove-gdpr-info-bar-content a.mgbutton:hover,#moove_gdpr_cookie_info_bar.moove-gdpr-dark-scheme .moove-gdpr-info-bar-container .moove-gdpr-info-bar-content button.mgbutton:hover,#moove_gdpr_cookie_info_bar.moove-gdpr-dark-scheme .moove-gdpr-info-bar-container .moove-gdpr-info-bar-content a:hover,#moove_gdpr_cookie_info_bar.moove-gdpr-dark-scheme .moove-gdpr-info-bar-container .moove-gdpr-info-bar-content button:hover,#moove_gdpr_cookie_info_bar.moove-gdpr-dark-scheme .moove-gdpr-info-bar-container .moove-gdpr-info-bar-content span.change-settings-button:hover{color:#004DA3!important}#moove_gdpr_cookie_modal .moove-gdpr-modal-content .moove-gdpr-modal-left-content #moove-gdpr-menu li.menu-item-selected a,#moove_gdpr_cookie_modal .moove-gdpr-modal-content .moove-gdpr-modal-left-content #moove-gdpr-menu li.menu-item-selected button{color:#000!important}#moove_gdpr_cookie_modal .moove-gdpr-modal-content .moove-gdpr-modal-left-content #moove-gdpr-menu li.menu-item-selected a i,#moove_gdpr_cookie_modal .moove-gdpr-modal-content .moove-gdpr-modal-left-content #moove-gdpr-menu li.menu-item-selected button i{color:#000!important}#moove_gdpr_cookie_modal.lity-hide{display:none}        </style>
+
+        <div id="moove_gdpr_cookie_modal" class="lity-hide">
+            <div class="moove-gdpr-modal-content moove-clearfix logo-position-left moove_gdpr_modal_theme_v1">
+                <a href="#" class="moove-gdpr-modal-close" rel="nofollow"><i class="moovegdpr-arrow-close"></i></a>
+                <div class="moove-gdpr-modal-left-content">
+                            <div class="moove-gdpr-company-logo-holder">
+                        <img src="http://www.ecls.eu/wp-content/uploads/2016/06/cropped-logo.png" alt="" class="img-responsive" />
+        </div>
+        <!--  .moove-gdpr-company-logo-holder -->
+                            <ul id="moove-gdpr-menu">
+                                                <li class="menu-item-on menu-item-privacy_overview menu-item-selected">
+                            <button data-href="#privacy_overview" class="moove-gdpr-tab-nav"><i class="moovegdpr-privacy-overview"></i> <span>Privacy Overview</span></button>
+                        </li>
+
+                                                                            <li class="menu-item-strict-necesarry-cookies menu-item-off">
+                                <button data-href="#strict-necesarry-cookies" class="moove-gdpr-tab-nav"><i class="moovegdpr-strict-necessary"></i> <span>Strictly Necessary Cookies</span></button>
+                            </li>
+                        
+
+                                                
+                                                
+                                                                    </ul>
+
+                        <div class="moove-gdpr-branding-cnt">
+            				<a href="https://wordpress.org/plugins/gdpr-cookie-compliance" target="_blank" class='moove-gdpr-branding'>Powered by GDPR plugin</a>
+		        </div>
+        <!--  .moove-gdpr-branding -->
+                        </div>
+                <!--  .moove-gdpr-modal-left-content -->
+                                <div class="moove-gdpr-modal-right-content">
+                    <div class="moove-gdpr-modal-title">
+
+                                                                    </div>
+                    <!-- .moove-gdpr-modal-ritle -->
+                    <div class="main-modal-content">
+
+                        <div class="moove-gdpr-tab-content">
+                            <div id="privacy_overview" class="moove-gdpr-tab-main">
+                                                                    <h3 class="tab-title">Privacy Overview</h3>
+                                                                <div class="moove-gdpr-tab-main-conent">
+                                    <p>This website uses cookies so that we can provide you with the best user experience possible. Cookie information is stored in your browser and performs functions such as recognising you when you return to our website and helping our team to understand which sections of the website you find most interesting and useful.</p>
+<p>You can adjust all of your cookie settings by navigating the tabs on the left hand side.</p>
+                                </div>
+                                <!--  .moove-gdpr-tab-main-conent -->
+                            </div>
+
+                                                            <div id="strict-necesarry-cookies" class="moove-gdpr-tab-main" style="display:none">
+                                                                        <h3 class="tab-title">Strictly Necessary Cookies</h3>
+                                    <div class="moove-gdpr-tab-main-conent">
+                                        <p>Strictly Necessary Cookie should be enabled at all times so that we can save your preferences for cookie settings.</p>
+                                                                                                                        <div class="moove-gdpr-status-bar ">
+                                            <form>
+                                                <fieldset>
+                                                    <label class="switch">
+                                                      <input type="checkbox"  value="check" id="moove_gdpr_strict_cookies">
+                                                      <span class="slider round" data-text-enable="Enabled" data-text-disabled="Disabled"></span>
+                                                    </label>
+                                                </fieldset>
+                                            </form>
+                                        </div>
+                                        <!-- .moove-gdpr-status-bar -->
+                                                                                    <div class="moove-gdpr-tab-main-conent moove-gdpr-strict-warning-message" style="margin-top: 10px;">
+                                                <p>If you disable this cookie, we will not be able to save your preferences. This means that every time you visit this website you will need to enable or disable cookies again.</p>
+                                            </div>
+                                            <!--  .moove-gdpr-tab-main-conent -->
+                                                                                                                        </div>
+                                    <!--  .moove-gdpr-tab-main-conent -->
+                                </div>
+                            
+                            
+                            
+                                                    </div>
+                        <!--  .moove-gdpr-tab-content -->
+                    </div>
+                    <!--  .main-modal-content -->
+                    <div class="moove-gdpr-modal-footer-content">
+                        <div class="moove-gdpr-button-holder">
+                                                        <button class="mgbutton moove-gdpr-modal-allow-all button-visible" rel="nofollow">Enable all</button>
+                            <button class="mgbutton moove-gdpr-modal-save-settings button-visible" rel="nofollow">Save changes</button>
+                        </div>
+                        <!--  .moove-gdpr-button-holder -->
+                                            </div>
+                    <!--  .moove-gdpr-modal-footer-content -->
+                </div>
+                <!--  .moove-gdpr-modal-right-content -->
+
+                <div class="moove-clearfix"></div>
+
+            </div>
+            <!--  .moove-gdpr-modal-content -->
+        </div>
+        <!-- #moove_gdpr_cookie_modal  -->
+        <div class="to-top"><a href="#top">Back to top</a></div>
+</body>
+</html>
+
+

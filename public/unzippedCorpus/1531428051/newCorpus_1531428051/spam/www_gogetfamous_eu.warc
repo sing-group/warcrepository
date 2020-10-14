@@ -1,0 +1,30 @@
+WARC/1.0
+WARC-Type: warcinfo
+WARC-Date: 2018-05-30T17:52:31Z
+WARC-Record-ID: <urn:uuid:07e7a125-3ec3-4442-ac50-5d412bdf4575>
+WARC-All-Language: en
+WARC-All-Content_type: text/html
+Content-Type: application/http;msgtype=response
+Content-Length: 46
+
+WARCProcessor by SING Group www.sing-group.com
+
+WARC/1.0
+WARC-Type: response
+WARC-Record-ID: <http://www.gogetfamous.eu>
+WARC-Date: 20180530175231
+WARC-Target-URI: http://www.gogetfamous.eu
+WARC-Language: en
+Content-Type: application/http;msgtype=response
+Content-Length: 247
+
+HTTP/1.1 200
+Content-Type:text/html
+
+
+<html><head><title>Suspended Domain</title></head>
+<body><center>This account has been suspended.<br>
+Either the domain has been overused, or the reseller ran out of resources.<br>
+</center></body>
+</html>
+

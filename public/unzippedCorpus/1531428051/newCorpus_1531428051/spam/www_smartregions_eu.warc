@@ -1,0 +1,182 @@
+WARC/1.0
+WARC-Type: warcinfo
+WARC-Date: 2018-05-30T17:52:31Z
+WARC-Record-ID: <urn:uuid:61b90f7b-5990-46ec-988a-fdbd710eaa19>
+WARC-All-Language: en
+WARC-All-Content_type: text/html, text/html; charset=utf-8
+Content-Type: application/http;msgtype=response
+Content-Length: 46
+
+WARCProcessor by SING Group www.sing-group.com
+
+WARC/1.0
+WARC-Type: response
+WARC-Record-ID: <http://www.smartregions.eu>
+WARC-Date: 20180530175231
+WARC-Target-URI: http://www.smartregions.eu
+WARC-Language: en
+Content-Type: application/http;msgtype=response
+Content-Length: 12972
+
+HTTP/1.1 200
+Content-Type:text/html; charset=utf-8
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="" lang="" dir="">
+
+<head profile="http://gmpg.org/xfn/11">
+  <title>Introduction | Smart Regions</title>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="shortcut icon" href="/files/easybreeze_favicon.ico" type="image/x-icon" />
+  <style type="text/css" media="all">@import "/modules/aggregator/aggregator.css";</style>
+<style type="text/css" media="all">@import "/modules/node/node.css";</style>
+<style type="text/css" media="all">@import "/modules/system/defaults.css";</style>
+<style type="text/css" media="all">@import "/modules/system/system.css";</style>
+<style type="text/css" media="all">@import "/modules/user/user.css";</style>
+<style type="text/css" media="all">@import "/sites/all/modules/cck/content.css";</style>
+<style type="text/css" media="all">@import "/sites/all/modules/tagadelic/tagadelic.css";</style>
+<style type="text/css" media="all">@import "/sites/all/themes/easybreeze/style.css";</style>
+  <script type="text/javascript" src="/misc/jquery.js"></script>
+<script type="text/javascript" src="/misc/drupal.js"></script>
+<script type="text/javascript">Drupal.extend({ settings: { "googleanalytics": { "trackOutgoing": 1, "trackMailto": 1, "trackDownload": 1, "trackDownloadExtensions": "7z|aac|avi|csv|doc|exe|flv|gif|gz|jpe?g|js|mp(3|4|e?g)|mov|pdf|phps|png|ppt|rar|sit|tar|torrent|txt|wma|wmv|xls|xml|zip", "LegacyVersion": 0 } } });</script>
+  <!--[if lt IE 7]>
+    <style type="text/css" media="all">@import "/sites/all/themes/easybreeze/fix-ie.css";</style>
+  <![endif]-->
+  <script type="text/javascript"> </script>
+</head>
+
+<body class="two-sidebars">
+<div id="header-region" class="clear-block"></div>
+<div id="wrapper"><!-- begin wrapper -->
+<div id="container" class="clear-block"><!-- begin container -->
+  <div id="header"><!-- begin header -->
+    <div id="logo"><a href="/" title="Smart Regions"><img src="/files/easybreeze_logo.png" alt="Smart Regions" /></a></div>    <div id="slogan-floater"><!-- begin slogan-floater -->
+      <h1 class='site-name'><a href="/" title="Smart Regions">Smart Regions</a></h1>          </div><!-- end slogan-floater -->
+      </div><!-- end header -->
+    <div id="main"><div class="right-corner"><div class="left-corner"><!-- begin main -->
+      <div id="sidebar-left" class="sidebar"><!-- begin sidebar-left -->
+      
+      <div id="block-menu-2" class="block block-menu block-1">
+    <div class="content">
+<ul class="menu">
+<li class="leaf"><a href="/introduction" class="active">Introduction</a></li>
+<li class="expanded"><a href="/highlights-countries">Project Highlights</a>
+<ul class="menu">
+<li class="leaf"><a href="/highlights-countries">Ordered by country</a></li>
+<li class="leaf"><a href="/highlights-projects">Ordered by project</a></li>
+
+</ul>
+</li>
+<li class="expanded"><a href="/bird">Project descriptions</a>
+<ul class="menu">
+<li class="leaf"><a href="/bird">BIRD</a></li>
+<li class="leaf"><a href="/icts4smes">ICTs4SMEs</a></li>
+<li class="leaf"><a href="/log-0">LoG-IN</a></li>
+
+</ul>
+</li>
+<li class="leaf"><a href="/docs">Documents</a></li>
+<li class="leaf"><a href="/press-area">Press area</a></li>
+
+</ul>
+</div>
+</div>
+<div id="block-views-tagcloud" class="block block-views block-2">
+  <h2>Tagcloud</h2>  <div class="content"><div class='view view-tagcloud'><div class='view-content view-content-tagcloud'><a href="/category/tags/avatar" class="tagadelic level1" rel="tag">avatar</a> 
+<a href="/category/country/belgium" class="tagadelic level6" rel="tag">Belgium</a> 
+<a href="/category/tags/broadband" class="tagadelic level6" rel="tag">broadband</a> 
+<a href="/category/tags/business" class="tagadelic level6" rel="tag">business</a> 
+<a href="/category/tags/co-design" class="tagadelic level1" rel="tag">co-design</a> 
+<a href="/category/tags/culture" class="tagadelic level4" rel="tag">culture</a> 
+<a href="/category/country/denmark" class="tagadelic level1" rel="tag">Denmark</a> 
+<a href="/category/tags/e-democracy" class="tagadelic level1" rel="tag">e-democracy</a> 
+<a href="/category/tags/e-inclusion" class="tagadelic level3" rel="tag">e-inclusion</a> 
+<a href="/category/tags/education" class="tagadelic level6" rel="tag">education</a> 
+<a href="/category/tags/eid" class="tagadelic level1" rel="tag">eID</a> 
+<a href="/category/tags/games" class="tagadelic level4" rel="tag">games</a> 
+<a href="/category/country/germany" class="tagadelic level6" rel="tag">Germany</a> 
+<a href="/category/tags/gis" class="tagadelic level5" rel="tag">GIS</a> 
+<a href="/category/tags/health" class="tagadelic level1" rel="tag">health</a> 
+<a href="/category/tags/helpdesk" class="tagadelic level1" rel="tag">helpdesk</a> 
+<a href="/category/tags/library" class="tagadelic level1" rel="tag">library</a> 
+<a href="/category/tags/nature" class="tagadelic level1" rel="tag">nature</a> 
+<a href="/category/country/netherlands" class="tagadelic level5" rel="tag">Netherlands</a> 
+<a href="/category/tags/piap" class="tagadelic level1" rel="tag">PIAP</a> 
+<a href="/category/tags/planning" class="tagadelic level1" rel="tag">planning</a> 
+<a href="/category/tags/product-catalogue" class="tagadelic level4" rel="tag">product catalogue</a> 
+<a href="/category/tags/region-branding" class="tagadelic level1" rel="tag">region branding</a> 
+<a href="/category/tags/rfid" class="tagadelic level1" rel="tag">RFID</a> 
+<a href="/category/tags/rss" class="tagadelic level1" rel="tag">RSS</a> 
+<a href="/category/tags/rural" class="tagadelic level3" rel="tag">rural</a> 
+<a href="/category/tags/standards" class="tagadelic level3" rel="tag">standards</a> 
+<a href="/category/tags/statistics" class="tagadelic level1" rel="tag">statistics</a> 
+<a href="/category/country/sweden" class="tagadelic level4" rel="tag">Sweden</a> 
+<a href="/category/tags/television" class="tagadelic level2" rel="tag">television</a> 
+<a href="/category/tags/transport" class="tagadelic level1" rel="tag">transport</a> 
+<a href="/category/country/united-kingdom" class="tagadelic level5" rel="tag">United Kingdom</a> 
+<a href="/category/tags/welfare" class="tagadelic level4" rel="tag">welfare</a> 
+<a href="/category/tags/wireless" class="tagadelic level3" rel="tag">wireless</a> 
+</div></div>
+</div>
+</div>
+    </div><!-- end sidebar-left -->
+    <div id="center"><div id="squeeze"><!-- begin center -->
+	<!--  -->
+    <h2 class="title">Introduction</h2>                <div class="clear-block">
+      <div class="node">
+    <div class="meta meta-header">
+                  </div>
+  <div class="content">
+    <p>This website is a showcase of over forty remarkable achievements in the domain of e-Services, e-Learning and e-Government that were realised in European regions in 2002-2007. In that period regions and cities in Belgium, Germany, Denmark, the Netherlands, Sweden and the United Kingdom closely worked together. We call them <span style="font-weight: bold" class="Apple-style-span">Smart Regions</span>.</p>
+<p>Most people associate e-Government exclusively with digital forms or complex back-office applications but this is only a small part. E-Government is as much about changing mindsets, building a vision on service-delivery and showing leadership in getting organisations to work together, as it is about technology.</p>
+<p>All the governments, research institutions or voluntary organisations depicted on this website have one shared goal: to make their region better, stronger and smarter. And the secret to regional development is actually very simple: co-operation. The Smart Regions share infrastructure, exchange methodologies, copy succesfull achievements, have built strong stakeholder structures and managed to involve other sectors of society. <span style="font-weight: bold" class="Apple-style-span">Smart regions not only work together, Smart Regions are smart because they work together. </span></p>
+<p>It is estimated that local authorities handle about 80% of the transactions between government and citizens. Local e-Government therefore has a vital role to play in transforming the quality of local services and the organisations that deliver them, but Local Government cannot succeed alone. They have to work together with other government levels, with research institutes, with voluntary organisations, with the business community etc. <span style="font-weight: bold" class="Apple-style-span">Traditional government delivers services to people. E-Government can work with people to deliver change.</span></p>
+<p>The purpose of this website is to give the user a first insight into the 'what' and 'why' rather then the 'how'. More detailed information about all the projects can be found under 'Documents'. </p>
+<p>Smart Regions is a joint project between three Interreg IIIB North Sea projects namely LoG-IN, BIRD and ICTs4SMEs. It is financed by the Interreg IIIB NOrth Sea Programme, the Intercommunale Leiedal (Belgium) and Landkreis Osterholz (ProArbeit kAöR - Germany). </p>
+    <div class="meta meta-footer">
+          </div>
+  </div>
+</div>
+    </div>
+      </div></div><!-- end center -->
+      <div id="sidebar-right" class="sidebar"><!-- begin sidebar-right -->
+      <div id="block-views-in_the_picture" class="block block-views block-1">
+  <h2>In the picture</h2>  <div class="content"><div class='view view-in-the-picture'><div class='view-content view-content-in-the-picture'><div class="item-list"><ul><li><div class='view-item view-item-in-the-picture'><div class='view-field view-data-node-title'><a href="/it-operation-schools">IT operation in schools</a></div><div class='view-field view-data-image-attach-iid'><img src="http://www.smartregions.eu/files/images/9_BA.thumbnail.jpg" alt="9_BA.jpg" title="9_BA.jpg"  class="image image-thumbnail " width="250" height="200" /></div><div class='view-field view-data-node-data-field-short-description-field-short-description-value'>Improving IT support in public schools</div><div class='view-label view-label-term-node-3-name'>Project : </div><div class='view-field view-data-term-node-3-name'><ul class="links"><li class="first last taxonomy_term_16"><a href="/baltic-rural-broadband-project" rel="tag" title="" class="taxonomy_term_16">Baltic Rural Broadband Project</a></li>
+</ul></div><div class='view-label view-label-term-node-4-name'>Country : </div><div class='view-field view-data-term-node-4-name'><ul class="links"><li class="first last taxonomy_term_12"><a href="/category/country/germany" rel="tag" title="" class="taxonomy_term_12">Germany</a></li>
+</ul></div></div>
+</li></ul></div></div></div>
+</div>
+</div>
+<div id="block-aggregator-feed-2" class="block block-aggregator block-2">
+  <h2>ePractice news</h2>  <div class="content"><div class="item-list"><ul><li><a href="http://www.epractice.eu/en/news/284316">RO: e-CAESAR: eService-Centre for Romania</a>
+</li><li><a href="http://www.epractice.eu/en/news/284325">HR: Cautious start for open standards in new eGovernment policy</a>
+</li><li><a href="http://www.epractice.eu/document/5528">RO: e-CAESAR: eService-Centre for Romania</a>
+</li><li><a href="http://www.epractice.eu/document/5527">HR: Cautious start for open standards in new eGovernment policy</a>
+</li><li><a href="http://www.epractice.eu/en/news/284317">EU: Launch of public Survey on European eInclusion Policy</a>
+</li></ul></div><div class="more-link"><a href="/aggregator/sources/2" title="View this feed&#039;s recent news.">more</a></div></div>
+</div>
+    </div><!-- end sidebar-right -->
+    </div></div></div><!-- end main -->
+</div><!-- end wrapper -->
+</div><!-- end container -->
+<div id="footer"><!-- start footer -->
+  
+  <a href="http://europa.eu/index_nl.htm" target=_blank><img src="images/europe.jpg" /></a>
+  <a href="http://www.interregnorthsea.org/" target=_blank><img src="images/nsr.jpg" /></a>
+  <!-- 
+  <a href="http://www.bird-project.eu/" target=_blank><img src="images/bird.jpg" /></a>
+  <a href="http://www.ictsmes.rkk.no/" target=_blank><img src="images/icts.jpg" /></a>
+  <a href="http://www.login-project.net" target=_blank><img src="images/login.jpg" /></a>
+  -->
+  <a href="http://www.pro-arbeit.de/" target=_blank><img src="images/proarbeit.jpg" /></a>
+  <a href="http://www.leiedal.be/" target=_blank><img src="images/leiedal.jpg" />
+  &nbsp;
+</div><!-- end footer -->
+<script type="text/javascript" src="/sites/all/modules/google_analytics/googleanalytics.js"></script>
+<script type="text/javascript">var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));</script>
+<script type="text/javascript">var pageTracker = _gat._getTracker("UA-682673-19");pageTracker._initData();pageTracker._trackPageview();</script>
+</body>
+</html>
+
+

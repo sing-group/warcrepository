@@ -1,0 +1,152 @@
+WARC/1.0
+WARC-Type: warcinfo
+WARC-Date: 2018-05-30T17:52:30Z
+WARC-Record-ID: <urn:uuid:09cdf1a3-1f46-4d1e-b95e-1715dfa0399b>
+WARC-All-Language: de
+WARC-All-Content_type: text/html
+Content-Type: application/http;msgtype=response
+Content-Length: 46
+
+WARCProcessor by SING Group www.sing-group.com
+
+WARC/1.0
+WARC-Type: response
+WARC-Record-ID: <http://www.ser-stiftung.eu>
+WARC-Date: 20180530175230
+WARC-Target-URI: http://www.ser-stiftung.eu
+WARC-Language: de
+Content-Type: application/http;msgtype=response
+Content-Length: 5367
+
+HTTP/1.1 200
+Content-Type:text/html
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="de" lang="de">
+
+<head>
+
+<title>S.E.R. Foundation Germany</title>
+
+<meta http-equiv="content-type" content="text/html; charset=iso-8859-1" />
+<meta name="description"        content="Die S.E.R. Stiftung D wurde 1996 in Würzburg gegründet. Die S.E.R. Stiftung D ist gemeinnützig, überkonfessionell sowie politisch neutral und setzt sich für die friedvolle Verständigung zwischen Völkern, Kulturen und Religionen ein." />
+<meta name="keywords"           content="S.E.R. Stiftung, S.E.R. Stiftung-D, SER Foundation, Aussöhnung, Versöhnung, Reconciliation, Jahrzehnt der Auss&ouml;hnung, Frieden stiften, sich vertragen, Kooperation, Information, Vernetzung, Integration, global balance foundation, Unterst&uuml;tzung, Global Balance Stiftung, global-balance, NGO, UNO, Millenium Development Goals, Jahrtausend-Ziele, Reconciliation, Vers&ouml;hnung, globale  Vers&ouml;hnung" />
+<meta name="page-topic"         content="Produktinformation" />
+<meta name="page-type"          content="Produktinformation" />
+<meta name="content-language"   content="de" />
+<meta name="publisher"          content="S.E.R. Foundation Germany" />
+<meta name="copyright"          content="S.E.R. Foundation Germany" />
+<meta name="owner"              content="S.E.R. Foundation Germany" />
+<meta name="audience"           content="all" />
+<meta name="robots"             content="index,follow" />
+<meta name="revisit-after"      content="7 days" />
+<meta http-equiv="pragma"       content="no-cache" />
+
+<link rel="stylesheet" type="text/css" href="css/startseite_ser_d.css" media="all" />
+
+</head>
+
+<body>
+
+
+
+<div id="contentwrapper"> <!-- Beginn Contentwrapper -->
+
+   <div class="header">
+      <div class="headerLogo"><img src="pix/startseite_ser_d/logo.gif" alt="Logo" /></div>
+      <div class="headerRechts">
+         <h1>SER - Foundation</h1>
+         <a href="http://www.ser-foundation.org" class="link_header">www.ser-foundation.org</a>
+      </div>
+   </div>
+
+   <!--Beginn mittlere Spalte -->
+   <div class="inhalt_oben">
+      <div class="m_grafik_links">
+         <div class="auswahl">
+            <h2>NGO mit Beraterstatus<br />bei der UN</h2>
+            <ul id="SubNavigation">
+               <li><a href="index.php?include=50">&raquo; S.E.R. bei den UN</a></li>
+            </ul>
+            <ul id="NavigationSprache">
+               <li><a href="index.php?include=1">DE</a> <span class="beche_fett">|</span> </li>
+               <li><a href="index.php?include=100">EN</a> <span class="beche_fett">|</span> </li>
+            </ul>
+         </div>
+         <a href="index.php?include=1"><img src="pix/startseiete_ser_d/ser_stiftung_d.jpg" alt="S.E.R. Stiftung D" /></a>
+      </div>
+      <div class="m_grafik_rechts">
+         <img src="pix/startseite_ser_d/uno.jpg" alt="Flagge UNO" />
+      </div>
+   </div>
+   <!--Ende mittlere Spalte -->
+
+   <!--Beginn untere Spalte -->
+   <div class="inhalt_unten">
+      <div class="u_grafik_links"> </div>
+
+      <div class="u_grafik_rechts">  <!-- Uno-Flagge -->
+
+         <div class="NavigationSer">
+            <ul id="NavigationSer">
+               <li><a href="index.php?include=20">F&ouml;rderprojekte</a> <span class="weiss_fett">|</span></li>
+               <li><a href="index.php?include=1">Stiftung</a> <span class="weiss_fett">|</span></li>
+               <li><a href="index.php?include=2">Spenden</a> <span class="weiss_fett">|</span></li>
+               <li><a href="index.php?include=6">News</a> <span class="weiss_fett">|</span></li>
+               <li><a href="index.php?include=3">Stifter</a> <span class="weiss_fett">|</span></li>
+               <li><a href="index.php?include=7">Kontakt</a> <span class="weiss_fett">|</span></li>
+               <li><a href="index.php?include=8">Impressum</a> <span class="weiss_fett">|</span></li>
+               <li><a href="index.php?include=4">Partner</a></li>
+            </ul>
+         </div>
+
+         <div class="infoSer">
+            <h4>
+              Foundation for Subjective<br />
+              Experience and Research
+            </h4>
+         </div>
+
+         <div class="SerAuswahl">
+            <ul class="auswahlSer">
+               <li>
+                  <a href="http://www.ser-foundation.ch/">
+                     S.E.R. Stiftung CH <br />
+                     www.ser-foundation.ch
+                  </a>
+               </li>
+               <li>
+                  <a href="http://www.ser-foundation.net/">
+                     S.E.R. Stiftung NL <br />
+                     www.ser-foundation.nl
+                  </a>
+               </li>
+            </ul>
+         </div>
+
+         <div class="SerAuswahl">
+            <ul class="auswahlSer">
+               <li>
+                  <a href="http://www.global-balance.org">
+                     Global-Balance<br />
+                     www.global-balance.org
+                  </a>
+               </li>
+           </ul>
+        </div>
+
+      </div>  <!-- Ende u_grafik_rechts / Uno-Flagge -->
+   </div> <!-- Ende untere Spalte / inhalt_unten -->
+
+</div> <!-- Ende contentwrapper -->
+
+
+<div class="copyright">
+   &copy; 2010 | S.E.R. Stiftung D<br /><br />
+</div>
+
+
+</body>
+</html>
+

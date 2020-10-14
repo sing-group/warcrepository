@@ -1,0 +1,232 @@
+WARC/1.0
+WARC-Type: warcinfo
+WARC-Date: 2018-05-30T17:52:31Z
+WARC-All-Language: en
+WARC-All-Content_type: text/html
+WARC-Record-ID: <urn:uuid:ae5fd1f4-a700-4de6-8bb5-d3f4d647b89d>
+Content-Type: application/http;msgtype=response
+Content-Length: 46
+
+WARCProcessor by SING Group www.sing-group.com
+
+WARC/1.0
+WARC-Type: response
+WARC-Target-URI: http://www.finelaw.eu
+WARC-Date: 20180530175231
+WARC-Language: en
+WARC-Record-ID: <http://www.finelaw.eu>
+Content-Type: application/http;msgtype=response
+Content-Length: 12061
+
+HTTP/1.1 200
+Content-Type:text/html
+
+
+<HTML><!-- InstanceBegin template="/Templates/Standard-Vorlage.dwt" codeOutsideHTMLIsLocked="false" -->
+<HEAD>
+<meta name="description" content="Finelaw Corporate Finance Strategy Consulting, Wiesbaden, Germany. Eberhard Cleff, attorney at law, specialized in pension funds strategy, gives service and advice. creative and sustainable solutions for corporate occupational pension plans. See special publications.">
+<meta name="author" content="Dr. Eberhard Cleff">
+<meta name="keywords" lang="de" content="Finanz-Strategie und Beratung">
+<meta name="keywords" lang="en-us" content="Corporate Finance Strategy Consulting">
+<meta name="keywords" content="Pension Fund, Pension Funds, Corporate Finance, Consulting, Strategy, Cleff, Eberhard">
+
+
+<!-- InstanceBeginEditable name="doctitle" -->
+<TITLE>Finelaw - Corporate Finance Strategy Consulting</TITLE>
+<!-- InstanceEndEditable --><meta http-equiv="Content-Style-Type" content="text/css">
+<LINK HREF="style.css" TYPE="text/css" REL="stylesheet"> 
+<script language="JavaScript" type="text/JavaScript">
+<!--
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+
+function MM_findObj(n, d) { //v4.01
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+  if(!x && d.getElementById) x=d.getElementById(n); return x;
+}
+
+function MM_nbGroup(event, grpName) { //v6.0
+  var i,img,nbArr,args=MM_nbGroup.arguments;
+  if (event == "init" && args.length > 2) {
+    if ((img = MM_findObj(args[2])) != null && !img.MM_init) {
+      img.MM_init = true; img.MM_up = args[3]; img.MM_dn = img.src;
+      if ((nbArr = document[grpName]) == null) nbArr = document[grpName] = new Array();
+      nbArr[nbArr.length] = img;
+      for (i=4; i < args.length-1; i+=2) if ((img = MM_findObj(args[i])) != null) {
+        if (!img.MM_up) img.MM_up = img.src;
+        img.src = img.MM_dn = args[i+1];
+        nbArr[nbArr.length] = img;
+    } }
+  } else if (event == "over") {
+    document.MM_nbOver = nbArr = new Array();
+    for (i=1; i < args.length-1; i+=3) if ((img = MM_findObj(args[i])) != null) {
+      if (!img.MM_up) img.MM_up = img.src;
+      img.src = (img.MM_dn && args[i+2]) ? args[i+2] : ((args[i+1])? args[i+1] : img.MM_up);
+      nbArr[nbArr.length] = img;
+    }
+  } else if (event == "out" ) {
+    for (i=0; i < document.MM_nbOver.length; i++) {
+      img = document.MM_nbOver[i]; img.src = (img.MM_dn) ? img.MM_dn : img.MM_up; }
+  } else if (event == "down") {
+    nbArr = document[grpName];
+    if (nbArr)
+      for (i=0; i < nbArr.length; i++) { img=nbArr[i]; img.src = img.MM_up; img.MM_dn = 0; }
+    document[grpName] = nbArr = new Array();
+    for (i=2; i < args.length-1; i+=2) if ((img = MM_findObj(args[i])) != null) {
+      if (!img.MM_up) img.MM_up = img.src;
+      img.src = img.MM_dn = (args[i+1])? args[i+1] : img.MM_up;
+      nbArr[nbArr.length] = img;
+  } }
+}
+//-->
+</script>
+<!-- InstanceBeginEditable name="head" -->
+<style type="text/css">
+<!--
+.Stil1 {
+	color: #660000;
+	font-weight: bold;
+}
+-->
+</style>
+<!-- InstanceEndEditable -->
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1"><style type="text/css">
+<!--
+body {
+	margin-top: 0px;
+}
+a:hover {
+	color: #660000;
+}
+a:active {
+	color: #660000;
+}
+a {
+	font-weight: bold;
+}
+-->
+</style></HEAD>
+<BODY BGCOLOR=#FFFFFF background="images/body.png" LEFTMARGIN=0 rightmargin="0" bottommargin="0" MARGINWIDTH=0 onLoad="MM_preloadImages('images/menutext_mini_09.jpg','images/menutext_03.jpg','images/menutext_04.jpg','images/menutext_05.jpg','images/menutext_06.jpg','images/menutext_07.jpg','images/menutext_08.jpg','images/menutext_09.jpg','images/menutext_10.jpg','images/menutext_11.jpg')">
+<div style=" width:100%;height:100%;background-image:url(images/background.png);background-position:center top;background-repeat:repeat-x;padding-top:75" align="center">
+<table width="900" height="600"  border="0" cellpadding="0" cellspacing="0">
+<tr>
+	<td>
+		<table width="900" height="619" background="images/back.jpg" border="0" cellspacing="0" cellpadding="0">
+		  <!--DWLayoutTable-->
+		<tr>
+			<td width="304" rowspan="2"	 background="images/tab-1.jpg">
+			  <div style=" padding-left:104px;padding-top:158px;padding-bottom:0px">
+					<TABLE WIDTH=200 BORDER=0 CELLPADDING=0 CELLSPACING=0>
+					</TABLE>
+			  </div>		  
+			  <table border="0" align="right" cellpadding="0" cellspacing="0">
+                <tr>
+                  <td><a href="index.html" target="_top" onClick="MM_nbGroup('down','group1','home','images/menutext_03.jpg',1)" onMouseOver="MM_nbGroup('over','home','images/menutext_03.jpg','images/menutext_03.jpg',1)" onMouseOut="MM_nbGroup('out')"><img src="images/menutext_mini_03.jpg" alt="" name="home" width="200" height="28" border="0" onload=""></a></td>
+                </tr>
+                <tr>
+                  <td><a href="ecleff.htm" target="_top" onClick="MM_nbGroup('down','group1','ecleff','images/menutext_04.jpg',1)" onMouseOver="MM_nbGroup('over','ecleff','images/menutext_04.jpg','images/menutext_04.jpg',1)" onMouseOut="MM_nbGroup('out')"><img src="images/menutext_mini_04.jpg" alt="" name="ecleff" width="200" height="28" border="0" onload=""></a></td>
+                </tr>
+                <tr>
+                  <td><a href="philosophy.htm" target="_top" onClick="MM_nbGroup('down','group1','philosophy','',1)" onMouseOver="MM_nbGroup('over','philosophy','images/menutext_05.jpg','',1)" onMouseOut="MM_nbGroup('out')"><img name="philosophy" src="images/menutext_mini_05.jpg" border="0" alt="" onLoad=""></a></td>
+                </tr>
+                <tr>
+                  <td><a href="services.htm" target="_top" onClick="MM_nbGroup('down','group1','services','images/menutext_06.jpg',1)" onMouseOver="MM_nbGroup('over','services','images/menutext_06.jpg','images/menutext_06.jpg',1)" onMouseOut="MM_nbGroup('out')"><img name="services" src="images/menutext_mini_06.jpg" border="0" alt="" onLoad=""></a></td>
+                </tr>
+                <tr>
+                  <td><a href="publications.htm" target="_top" onClick="MM_nbGroup('down','group1','publications','images/menutext_07.jpg',1)" onMouseOver="MM_nbGroup('over','publications','images/menutext_07.jpg','images/menutext_07.jpg',1)" onMouseOut="MM_nbGroup('out')"><img name="publications" src="images/menutext_mini_07.jpg" border="0" alt="" onLoad=""></a></td>
+                </tr>
+                <tr>
+                  <td><a href="contact.htm" target="_top" onClick="MM_nbGroup('down','group1','contact','images/menutext_08.jpg',1)" onMouseOver="MM_nbGroup('over','contact','images/menutext_08.jpg','images/menutext_08.jpg',1)" onMouseOut="MM_nbGroup('out')"><img name="contact" src="images/menutext_mini_08.jpg" border="0" alt="" onLoad=""></a></td>
+                </tr>
+                <tr>
+                  <td><a href="partner.htm" target="_top" onClick="MM_nbGroup('down','group1','partner','images/menutext_09.jpg',1)" onMouseOver="MM_nbGroup('over','partner','images/menutext_09.jpg','images/menutext_09.jpg',1)" onMouseOut="MM_nbGroup('out')"><img name="partner" src="images/menutext_mini_09.jpg" border="0" alt="" onLoad=""></a></td>
+                </tr>
+                <tr>
+                  <td><a href="literature.htm" target="_top" onClick="MM_nbGroup('down','group1','literature','images/menutext_10.jpg',1)" onMouseOver="MM_nbGroup('over','literature','images/menutext_10.jpg','images/menutext_10.jpg',1)" onMouseOut="MM_nbGroup('out')"><img name="literature" src="images/menutext_mini_10.jpg" border="0" alt="" onLoad=""></a></td>
+                </tr>
+                <tr>
+                  <td><a href="news.htm" target="_top" onClick="MM_nbGroup('down','group1','news','images/menutext_11.jpg',1)" onMouseOver="MM_nbGroup('over','news','images/menutext_11.jpg','images/menutext_11.jpg',1)" onMouseOut="MM_nbGroup('out')"><img name="news" src="images/menutext_mini_11.jpg" border="0" alt="" onLoad=""></a></td>
+                </tr>
+			  </table>
+				
+			</td>
+			<!-- InstanceBeginEditable name="EditRegion4" -->
+			<td width="596" height="88" valign="bottom" background="images/up_02.jpg"><p>&nbsp;</p>
+		    <p><img src="images/titel_up_02_03.jpg" width="510" height="48" hspace="40" vspace="0" border="0" align="absbottom"></p></td>
+			<!-- InstanceEndEditable --></tr>
+		<tr>
+			<td width="596" height="508">
+				<div style=" padding-left:40px;padding-top:50px">
+					<!-- InstanceBeginEditable name="EditRegion2" -->
+					<table width="516" height="87%" border="0" cellspacing="0" cellpadding="0">
+                      <tr>
+                        <td width="170"><p><img src="images/Nerobergtempel.jpg" width="170" height="112"></p>
+                          <div align="center">
+                            <p align="left"><em>Finelaw's home is in Wiesbaden, one of Germany's favorite
+                          &quot;Consulting Cities&quot;. </em></p>
+                            <p>&nbsp;</p>
+                            <p>&nbsp;</p>
+                            <p>&nbsp;</p>
+                            <p>&nbsp;</p>
+                            <p>&nbsp;</p>
+                            <p>&nbsp;</p>
+                            <p>&nbsp;</p>
+                            <p>&nbsp;</p>
+                            <p>&nbsp;</p>
+                            <p>&nbsp;</p>
+                            <p>&nbsp;</p>
+                            <p><a href="impressum.htm">IMPRESSUM, CREDITS</a> </p>
+                            <p class="Stil1"><a href="sitemap.htm">SITEMAP</a></p>
+                          </div></td>
+                        <td width="15">&nbsp;</td>
+                        <td width="331"><h1 align="center"><span class="style-b">Welcome
+                              to the homepage of <br>
+  Finelaw Consulting! </span> </h1>
+                          <div align="center">
+                            <p>The firm&rsquo;s focus is on creative and sustainable
+                              solutions for corporate occupational pension plans,
+                              taking a holistic view inclusive of&nbsp;the sponsor&rsquo;s
+                              corporate finance strategy. </p>
+                            <p>Finelaw&rsquo;s overarching knowledge about corporate
+                              finance, markets and &ldquo;what makes market players
+                              tick&rdquo; is derived from experiences gained
+                              in multinational commercial- and investment banking,
+                              in pension funds&rsquo; institutional management
+                              and in matters of corporate global group treasury. </p>
+                            <p>This makes the firm an open minded, select partner
+                              for key decision makers having to take integrative,
+                              inclusive strategic action in occupational pensions.</p>
+                          </div>
+                          <p>&nbsp;</p>
+                          <p>&nbsp;</p>
+                          <p>&nbsp;</p>                          
+                        </td>
+                      </tr>
+                    </table>
+					<!-- InstanceEndEditable --></div>
+			</td>
+	      </tr>
+		</table>
+      </td>
+</tr>
+<tr>
+  <td height="20" align="right"><img src="images/end.jpg" width="900" height="18"></td>
+</tr>
+<tr>
+	<td height="20" align="right">
+		<div style="padding-top:5px;padding-right:2px"><a href="http://www.finelaw.eu" style="color:#3F3E38;text-decoration:none">(c)
+		    2006 finelaw.eu </a></div>
+	</td>
+</tr>
+</table>
+
+</div>
+</BODY>
+<!-- InstanceEnd --></HTML>
+

@@ -1,0 +1,531 @@
+WARC/1.0
+WARC-Type: warcinfo
+WARC-Date: 2018-05-30T18:18:32Z
+WARC-All-Language: en
+WARC-All-Content_type: text/html; charset=utf-8
+WARC-Record-ID: <urn:uuid:b87006a1-cd01-4efe-9626-155c5e8f0efe>
+Content-Type: application/http;msgtype=response
+Content-Length: 46
+
+WARCProcessor by SING Group www.sing-group.com
+
+WARC/1.0
+WARC-Type: response
+WARC-Target-URI: http://www.windplatform.eu
+WARC-Date: 20180530181832
+WARC-Language: en
+WARC-Record-ID: <http://www.windplatform.eu>
+Content-Type: application/http;msgtype=response
+Content-Length: 25896
+
+HTTP/1.1 200
+Content-Type:text/html; charset=utf-8
+
+
+<!DOCTYPE html
+     PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+     "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+
+<!-- 
+	This website is powered by TYPO3 - inspiring people to share!
+	TYPO3 is a free open source Content Management Framework initially created by Kasper Skaarhoj and licensed under GNU/GPL.
+	TYPO3 is copyright 1998-2009 of Kasper Skaarhoj. Extensions are copyright of their respective owners.
+	Information and contribution at http://typo3.com/ and http://typo3.org/
+-->
+
+	<base href="http://www.windplatform.eu/" />
+	<link rel="stylesheet" type="text/css" href="typo3temp/stylesheet_7b75956bd1.css" />
+	<script src="fileadmin/templates/js/jquery-2.2.4.min.js" type="application/x-javascript"></script>
+	<script src="fileadmin/templates/js/etipwind.js" type="application/x-javascript"></script>
+
+	<style type="text/css" media="screen">
+/* @import url(fileadmin/templates/css/css2_all.css); */
+@import url(fileadmin/templates/css/master.css);
+</style>
+	<link rel="stylesheet" type="text/css" media="print" title="" href="fileadmin/templates/css/print.css" />
+	<link rel="shortcut icon" href="/favicon.ico" />
+
+	<title>Home</title>
+	<meta name="generator" content="TYPO3 4.2 CMS" />
+	<meta name="DESCRIPTION" content="European Wind Energy Technology Platform TPWind windplatform" />
+	<script type="text/javascript" src="typo3temp/javascript_0b12553063.js"></script>
+
+</head>
+<body>
+
+<div id="wrapper"><a name="top" id="top"></a>
+	<div id="gridgroup1">
+		<div id="box1-3">
+			<h1 id="sitename"><a href="/" title="Go to home page">European Wind Energy Technology Platform (TPWind)</a></h1>
+			<div id="tools"></div>
+			<div id="quotes"><h3>A dedicated voice for Technology and Policy R&D, speaking for the wind energy sector and its stakeholders.</h3></div>
+				<!-- all of the links below must be together with no whitespace in the sourcecode due to IE whitespace bug --> 
+			<div id="topmenu"><span class="first"><a href="home/" onfocus="blurLink(this);">Home</a></span><a href="structure/" onfocus="blurLink(this);">Structure</a><a href="documents/" onfocus="blurLink(this);">Documents</a><a href="events/" onfocus="blurLink(this);">Events</a><a href="contact/" onfocus="blurLink(this);">Contact</a><span class="last"><a href="members/login/" onfocus="blurLink(this);">Members</a></span></div>
+		</div>
+	</div>
+	<div id="gridgroup2">
+		<div id="container2">
+			<div id="leftb">
+				<div id="navigation"><a href="home/" onfocus="blurLink(this);"><h2>Home</h2></a></div>
+				<div id="sponsors">
+				<p>The European Technology Platform for Wind Energy (TPWind) is sponsored by:</p>
+				<h4 class="platinum">Platinum sponsor:<br /><a target="_blank" title="Click to visit the SIEMENS website" href="http://www.energy.siemens.com/hq/en/power-generation/renewables/" onclick="javascript:urchinTracker ('/.external/http/www.energy.siemens.com/hq/en/power-generation/renewables/'); ">SIEMENS</a></h4>
+				<h4 class="gold">Gold sponsor:<br /><a target="_blank" title="Click to visit the VESTAS website" href="http://www.vestas.com/" onclick="javascript:urchinTracker ('/.external/http/www.vestas.com/'); ">VESTAS</a></h4>
+				</div><!-- end #sponsors-->
+			</div>
+			<!--TYPO3SEARCH_begin-->
+			<div id="rightb"><!--TYPO3SEARCH_begin-->
+	<!--  CONTENT ELEMENT, uid:680/html [begin] -->
+		<a id="c680"></a>
+		<!--  Raw HTML content: [begin] -->
+			<form class="searchForm" onsubmit="return validateForm('a8f61d9c2a498a5ac946619a33a6f489e','','','','')" method="post" enctype="multipart/form-data" name="a8f61d9c2a498a5ac946619a33a6f489e" id="a8f61d9c2a498a5ac946619a33a6f489e" action="142.0.html?&amp;no_cache=1"><div style="display:none;"><input type="hidden" value="L0" name="stype" /><input type="hidden" value="91:tt_content:680" name="locationData" /></div>
+<h4 style="margin: 0;">Search this site</h4>
+<p><input type="text" value="" size="20" name="sword" style="height: 20px; width: 130px;" />
+<input type="hidden" name="scols" value="tt_content.header-bodytext-imagecaption" /> 
+<input type="submit" value="Search" name="submit" style="margin: 10px 0 0 0;" /></p>
+</form>
+		<!--  Raw HTML content: [end] -->
+			
+	<!--  CONTENT ELEMENT, uid:680/html [end] -->
+		
+	<!--  CONTENT ELEMENT, uid:748/image [begin] -->
+		<a id="c748"></a>
+		<!--  Header: [begin] -->
+			<div class="csc-header csc-header-n2"><h2>Strategic Research Agenda / Market Deployment Strategy</h2></div>
+		<!--  Header: [end] -->
+			
+		<!--  Image block: [begin] -->
+			<div class="csc-textpic csc-textpic-left csc-textpic-below"><div class="csc-textpic-imagewrap"><dl class="csc-textpic-image csc-textpic-firstcol csc-textpic-lastcol" style="width:80px;"><dt><a href="fileadmin/ewetp_docs/Documents/reports/TPWind_SRA.pdf" onclick="javascript:urchinTracker ('fileadmin/ewetp_docs/Documents/reports/TPWind_SRA.pdf'); "><img src="typo3temp/pics/104277682c.png" width="80" height="114" border="0" alt="" /></a></dt></dl></div></div><div class="csc-textpic-clear"><!-- --></div>
+		<!--  Image block: [end] -->
+			
+	<!--  CONTENT ELEMENT, uid:748/image [end] -->
+		
+	<!--  CONTENT ELEMENT, uid:749/list [begin] -->
+		<a id="c749"></a>
+		<!--  Plugin inserted: [begin] -->
+			
+
+
+	<!--
+
+		BEGIN: Content of extension "dam_downloads", plugin "tx_damdownloads_pi1"
+
+	-->
+	<div class="tx-damdownloads-pi1">
+		
+    <dl class="ddl_container">
+	
+
+     
+			      <dd class="ddl_item">
+					<img src="fileadmin/templates/icons/pdf.gif" alt="pdf" title="pdf" width="16" height="16" border="0" />
+					<a href="fileadmin/ewetp_docs/Documents/reports/TPWind_SRA.pdf" target="_blank" onclick="javascript:urchinTracker ('fileadmin/ewetp_docs/Documents/reports/TPWind_SRA.pdf'); "><b>TPWind SRA</b></a> (<span class="ddl_file_size">4.2 MB</span>)
+					<div class="ddl_description"></div>
+				</dd>
+
+
+
+    </dl>
+
+	</div>
+	
+	<!-- END: Content of extension "dam_downloads", plugin "tx_damdownloads_pi1" -->
+
+	
+		<!--  Plugin inserted: [end] -->
+			
+	<!--  CONTENT ELEMENT, uid:749/list [end] -->
+		
+	<!--  CONTENT ELEMENT, uid:722/image [begin] -->
+		<a id="c722"></a>
+		<!--  Header: [begin] -->
+			<div class="csc-header csc-header-n4"><h2>TPWind training report</h2></div>
+		<!--  Header: [end] -->
+			
+		<!--  Image block: [begin] -->
+			<div class="csc-textpic csc-textpic-left csc-textpic-above"><div class="csc-textpic-imagewrap"><dl class="csc-textpic-image csc-textpic-firstcol csc-textpic-lastcol" style="width:80px;"><dt><a href="fileadmin/ewetp_docs/Documents/reports/Workers_Wanted_TPwind.pdf" onclick="javascript:urchinTracker ('fileadmin/ewetp_docs/Documents/reports/Workers_Wanted_TPwind.pdf'); "><img src="typo3temp/pics/4b55a159d4.jpg" width="80" height="110" border="0" alt="" /></a></dt></dl></div></div><div class="csc-textpic-clear"><!-- --></div>
+		<!--  Image block: [end] -->
+			
+	<!--  CONTENT ELEMENT, uid:722/image [end] -->
+		
+	<!--  CONTENT ELEMENT, uid:723/list [begin] -->
+		<a id="c723"></a>
+		<!--  Plugin inserted: [begin] -->
+			
+
+
+	<!--
+
+		BEGIN: Content of extension "dam_downloads", plugin "tx_damdownloads_pi1"
+
+	-->
+	<div class="tx-damdownloads-pi1">
+		
+    <dl class="ddl_container">
+	
+
+     
+			      <dd class="ddl_item">
+					<img src="fileadmin/templates/icons/pdf.gif" alt="pdf" title="pdf" width="16" height="16" border="0" />
+					<a href="fileadmin/ewetp_docs/Documents/reports/Workers_Wanted_TPwind.pdf" target="_blank" onclick="javascript:urchinTracker ('fileadmin/ewetp_docs/Documents/reports/Workers_Wanted_TPwind.pdf'); "><b>Workers Wanted TPwind</b></a> (<span class="ddl_file_size">2.6 MB</span>)
+					<div class="ddl_description"></div>
+				</dd>
+
+
+
+    </dl>
+
+	</div>
+	
+	<!-- END: Content of extension "dam_downloads", plugin "tx_damdownloads_pi1" -->
+
+	
+		<!--  Plugin inserted: [end] -->
+			
+	<!--  CONTENT ELEMENT, uid:723/list [end] -->
+		
+	<!--  CONTENT ELEMENT, uid:581/image [begin] -->
+		<a id="c581"></a>
+		<!--  Header: [begin] -->
+			<div class="csc-header csc-header-n6"><h2>TPWind brochure &quot;The way forward&quot;</h2></div>
+		<!--  Header: [end] -->
+			
+		<!--  Image block: [begin] -->
+			<div class="csc-textpic csc-textpic-left csc-textpic-above"><div class="csc-textpic-imagewrap"><dl class="csc-textpic-image csc-textpic-firstcol csc-textpic-lastcol" style="width:80px;"><dt><a href="fileadmin/ewetp_docs/Documents/TPWind_The_Way_Forward.pdf" onclick="javascript:urchinTracker ('fileadmin/ewetp_docs/Documents/TPWind_The_Way_Forward.pdf'); "><img src="typo3temp/pics/ce530959f4.jpg" width="80" height="114" border="0" alt="" /></a></dt></dl></div></div><div class="csc-textpic-clear"><!-- --></div>
+		<!--  Image block: [end] -->
+			
+	<!--  CONTENT ELEMENT, uid:581/image [end] -->
+		
+	<!--  CONTENT ELEMENT, uid:584/list [begin] -->
+		<a id="c584"></a>
+		<!--  Plugin inserted: [begin] -->
+			
+
+
+	<!--
+
+		BEGIN: Content of extension "dam_downloads", plugin "tx_damdownloads_pi1"
+
+	-->
+	<div class="tx-damdownloads-pi1">
+		
+    <dl class="ddl_container">
+	
+
+     
+			      <dd class="ddl_item">
+					<img src="fileadmin/templates/icons/pdf.gif" alt="pdf" title="pdf" width="16" height="16" border="0" />
+					<a href="fileadmin/ewetp_docs/Documents/TPWind_The_Way_Forward.pdf" target="_blank" onclick="javascript:urchinTracker ('fileadmin/ewetp_docs/Documents/TPWind_The_Way_Forward.pdf'); "><b>TPWind The Way Forward</b></a> (<span class="ddl_file_size">529 KB</span>)
+					<div class="ddl_description"></div>
+				</dd>
+
+
+
+    </dl>
+
+	</div>
+	
+	<!-- END: Content of extension "dam_downloads", plugin "tx_damdownloads_pi1" -->
+
+	
+		<!--  Plugin inserted: [end] -->
+			
+	<!--  CONTENT ELEMENT, uid:584/list [end] -->
+		
+	<!--  CONTENT ELEMENT, uid:497/image [begin] -->
+		<a id="c497"></a>
+		<!--  Header: [begin] -->
+			<div class="csc-header csc-header-n8"><h2>Strategic Research Agenda</h2></div>
+		<!--  Header: [end] -->
+			
+		<!--  Image block: [begin] -->
+			<div class="csc-textpic csc-textpic-left csc-textpic-above"><div class="csc-textpic-imagewrap"><dl class="csc-textpic-image csc-textpic-firstcol csc-textpic-lastcol" style="width:80px;"><dt><a href="fileadmin/ewetp_docs/Bibliography/SRA_MDS_July_2008.pdf" onclick="javascript:urchinTracker ('fileadmin/ewetp_docs/Bibliography/SRA_MDS_July_2008.pdf'); "><img src="typo3temp/pics/3846b8a46b.jpg" width="80" height="114" border="0" alt="" /></a></dt></dl></div></div><div class="csc-textpic-clear"><!-- --></div>
+		<!--  Image block: [end] -->
+			
+	<!--  CONTENT ELEMENT, uid:497/image [end] -->
+		
+	<!--  CONTENT ELEMENT, uid:486/list [begin] -->
+		<a id="c486"></a>
+		<!--  Plugin inserted: [begin] -->
+			
+
+
+	<!--
+
+		BEGIN: Content of extension "dam_downloads", plugin "tx_damdownloads_pi1"
+
+	-->
+	<div class="tx-damdownloads-pi1">
+		
+    <dl class="ddl_container">
+	
+
+     
+			      <dd class="ddl_item">
+					<img src="fileadmin/templates/icons/pdf.gif" alt="pdf" title="pdf" width="16" height="16" border="0" />
+					<a href="fileadmin/ewetp_docs/Bibliography/SRA_MDS_July_2008.pdf" target="_blank" onclick="javascript:urchinTracker ('fileadmin/ewetp_docs/Bibliography/SRA_MDS_July_2008.pdf'); "><b>SRA MDS July 2008</b></a> (<span class="ddl_file_size">1.9 MB</span>)
+					<div class="ddl_description"></div>
+				</dd>
+
+
+
+    </dl>
+
+	</div>
+	
+	<!-- END: Content of extension "dam_downloads", plugin "tx_damdownloads_pi1" -->
+
+	
+		<!--  Plugin inserted: [end] -->
+			
+	<!--  CONTENT ELEMENT, uid:486/list [end] -->
+		
+	<!--  CONTENT ELEMENT, uid:484/image [begin] -->
+		<a id="c484"></a>
+		<!--  Header: [begin] -->
+			<div class="csc-header csc-header-n10"><h2>SRA / MDS Synopsis</h2></div>
+		<!--  Header: [end] -->
+			
+		<!--  Image block: [begin] -->
+			<div class="csc-textpic csc-textpic-left csc-textpic-above"><div class="csc-textpic-imagewrap"><dl class="csc-textpic-image csc-textpic-firstcol csc-textpic-lastcol" style="width:80px;"><dt><a href="fileadmin/ewetp_docs/Bibliography/Synopsis_2008.pdf" onclick="javascript:urchinTracker ('fileadmin/ewetp_docs/Bibliography/Synopsis_2008.pdf'); "><img src="typo3temp/pics/83856eb3a4.jpg" width="80" height="112" border="0" alt="" /></a></dt></dl></div></div><div class="csc-textpic-clear"><!-- --></div>
+		<!--  Image block: [end] -->
+			
+	<!--  CONTENT ELEMENT, uid:484/image [end] -->
+		
+	<!--  CONTENT ELEMENT, uid:483/list [begin] -->
+		<a id="c483"></a>
+		<!--  Plugin inserted: [begin] -->
+			
+
+
+	<!--
+
+		BEGIN: Content of extension "dam_downloads", plugin "tx_damdownloads_pi1"
+
+	-->
+	<div class="tx-damdownloads-pi1">
+		
+    <dl class="ddl_container">
+	
+
+     
+			      <dd class="ddl_item">
+					<img src="fileadmin/templates/icons/pdf.gif" alt="pdf" title="pdf" width="16" height="16" border="0" />
+					<a href="fileadmin/ewetp_docs/Bibliography/Synopsis_2008.pdf" target="_blank" onclick="javascript:urchinTracker ('fileadmin/ewetp_docs/Bibliography/Synopsis_2008.pdf'); "><b>Synopsis (2008)</b></a> (<span class="ddl_file_size">725 KB</span>)
+					<div class="ddl_description"></div>
+				</dd>
+
+
+
+    </dl>
+
+	</div>
+	
+	<!-- END: Content of extension "dam_downloads", plugin "tx_damdownloads_pi1" -->
+
+	
+		<!--  Plugin inserted: [end] -->
+			
+	<!--  CONTENT ELEMENT, uid:483/list [end] -->
+		
+	<!--  CONTENT ELEMENT, uid:482/image [begin] -->
+		<a id="c482"></a>
+		<!--  Header: [begin] -->
+			<div class="csc-header csc-header-n12"><h2>Vision Document</h2></div>
+		<!--  Header: [end] -->
+			
+		<!--  Image block: [begin] -->
+			<div class="csc-textpic csc-textpic-left csc-textpic-above"><div class="csc-textpic-imagewrap"><dl class="csc-textpic-image csc-textpic-firstcol csc-textpic-lastcol" style="width:80px;"><dt><a href="fileadmin/ewetp_docs/Structure/061003Vision_final.pdf" onclick="javascript:urchinTracker ('fileadmin/ewetp_docs/Structure/061003Vision_final.pdf'); "><img src="typo3temp/pics/c5fcf223f8.jpg" width="80" height="114" border="0" alt="" /></a></dt></dl></div></div><div class="csc-textpic-clear"><!-- --></div>
+		<!--  Image block: [end] -->
+			
+	<!--  CONTENT ELEMENT, uid:482/image [end] -->
+		
+	<!--  CONTENT ELEMENT, uid:480/list [begin] -->
+		<a id="c480"></a>
+		<!--  Plugin inserted: [begin] -->
+			
+
+
+	<!--
+
+		BEGIN: Content of extension "dam_downloads", plugin "tx_damdownloads_pi1"
+
+	-->
+	<div class="tx-damdownloads-pi1">
+		
+    <dl class="ddl_container">
+	
+
+     
+			      <dd class="ddl_item">
+					<img src="fileadmin/templates/icons/pdf.gif" alt="pdf" title="pdf" width="16" height="16" border="0" />
+					<a href="fileadmin/ewetp_docs/Structure/061003Vision_final.pdf" target="_blank" onclick="javascript:urchinTracker ('fileadmin/ewetp_docs/Structure/061003Vision_final.pdf'); "><b>Vision Document 2006</b></a> (<span class="ddl_file_size">1.4 MB</span>)
+					<div class="ddl_description"></div>
+				</dd>
+
+
+
+    </dl>
+
+	</div>
+	
+	<!-- END: Content of extension "dam_downloads", plugin "tx_damdownloads_pi1" -->
+
+	
+		<!--  Plugin inserted: [end] -->
+			
+	<!--  CONTENT ELEMENT, uid:480/list [end] -->
+		
+	<!--  CONTENT ELEMENT, uid:479/image [begin] -->
+		<a id="c479"></a>
+		<!--  Header: [begin] -->
+			<div class="csc-header csc-header-n14"><h2>Strategic Research Agenda</h2></div>
+		<!--  Header: [end] -->
+			
+		<!--  Image block: [begin] -->
+			<div class="csc-textpic csc-textpic-left csc-textpic-above"><div class="csc-textpic-imagewrap"><dl class="csc-textpic-image csc-textpic-firstcol csc-textpic-lastcol" style="width:80px;"><dt><a href="fileadmin/ewetp_docs/Structure/SRA_final.pdf" onclick="javascript:urchinTracker ('fileadmin/ewetp_docs/Structure/SRA_final.pdf'); "><img src="typo3temp/pics/fd2d280b0d.jpg" width="80" height="114" border="0" alt="" /></a></dt></dl></div></div><div class="csc-textpic-clear"><!-- --></div>
+		<!--  Image block: [end] -->
+			
+	<!--  CONTENT ELEMENT, uid:479/image [end] -->
+		
+	<!--  CONTENT ELEMENT, uid:477/list [begin] -->
+		<a id="c477"></a>
+		<!--  Plugin inserted: [begin] -->
+			
+
+
+	<!--
+
+		BEGIN: Content of extension "dam_downloads", plugin "tx_damdownloads_pi1"
+
+	-->
+	<div class="tx-damdownloads-pi1">
+		
+    <dl class="ddl_container">
+	
+
+     
+			      <dd class="ddl_item">
+					<img src="fileadmin/templates/icons/pdf.gif" alt="pdf" title="pdf" width="16" height="16" border="0" />
+					<a href="fileadmin/ewetp_docs/Structure/SRA_final.pdf" target="_blank" onclick="javascript:urchinTracker ('fileadmin/ewetp_docs/Structure/SRA_final.pdf'); "><b>EWEA Strategic Research Agenda (2005)</b></a> (<span class="ddl_file_size">0.9 MB</span>)
+					<div class="ddl_description"></div>
+				</dd>
+
+
+
+    </dl>
+
+	</div>
+	
+	<!-- END: Content of extension "dam_downloads", plugin "tx_damdownloads_pi1" -->
+
+	
+		<!--  Plugin inserted: [end] -->
+			
+	<!--  CONTENT ELEMENT, uid:477/list [end] -->
+		<!--TYPO3SEARCH_end--></div>
+			<div id="breadcrumb">You are here &raquo; &nbsp;<a href="home/" onfocus="blurLink(this);">Home</a></div>
+			<div id="pageContent"><!--TYPO3SEARCH_begin-->
+	<!--  CONTENT ELEMENT, uid:518/html [begin] -->
+		<a id="c518"></a>
+		<!--  Raw HTML content: [begin] -->
+			<div id="highlight">
+<div id="highlightInner">
+		<!--  Raw HTML content: [end] -->
+			
+	<!--  CONTENT ELEMENT, uid:518/html [end] -->
+		
+	<!--  CONTENT ELEMENT, uid:734/text [begin] -->
+		<a id="c734"></a>
+		<!--  Header: [begin] -->
+			<div class="csc-header csc-header-n2"><h1>News</h1></div>
+		<!--  Header: [end] -->
+			
+		<!--  Text: [begin] -->
+			<h4>Strategic Research Agenda and Market Deployment Strategy</h4>
+<p class="bodytext">The  new  Strategic Research Agenda and Market Deployment Strategy developed by TPWind  has been launched  at EWEA 2014 in Barcelona. </p>
+<p class="bodytext">Please download the pdf version <a href="fileadmin/ewetp_docs/Documents/reports/TPWind_SRA.pdf" title="Initiates file download" class="download" onclick="javascript:urchinTracker ('fileadmin/ewetp_docs/Documents/reports/TPWind_SRA.pdf'); ">here</a>. </p>
+		<!--  Text: [end] -->
+			
+	<!--  CONTENT ELEMENT, uid:734/text [end] -->
+		
+	<!--  CONTENT ELEMENT, uid:516/html [begin] -->
+		<a id="c516"></a>
+		<!--  Raw HTML content: [begin] -->
+			</div>
+</div>
+		<!--  Raw HTML content: [end] -->
+			
+	<!--  CONTENT ELEMENT, uid:516/html [end] -->
+		
+	<!--  CONTENT ELEMENT, uid:492/textpic [begin] -->
+		<a id="c492"></a>
+		<!--  Header: [begin] -->
+			<div class="csc-header csc-header-n4"><h1>Introduction to the European Technology Platform for Wind Energy (TPWind)</h1></div>
+		<!--  Header: [end] -->
+			
+		<!--  Image block: [begin] -->
+			<div class="csc-textpic csc-textpic-intext-left"><div class="csc-textpic-imagewrap" style="width:100px;"><div class="csc-textpic-imagerow" style="width:100px;"><dl class="csc-textpic-image csc-textpic-firstcol csc-textpic-lastcol" style="width:100px;"><dt><img src="typo3temp/pics/51e5c46a31.gif" width="100" height="103" border="0" alt="" /></dt></dl></div><div class="csc-textpic-imagerow" style="width:100px;"><dl class="csc-textpic-image csc-textpic-firstcol csc-textpic-lastcol" style="width:100px;"><dt><img src="typo3temp/pics/ca79ff562b.gif" width="100" height="150" border="0" alt="" /></dt></dl></div><div class="csc-textpic-imagerow csc-textpic-imagerow-last" style="width:100px;"><dl class="csc-textpic-image csc-textpic-firstcol csc-textpic-lastcol" style="width:100px;"><dt><img src="typo3temp/pics/6f7097f74d.gif" width="100" height="67" border="0" alt="" /></dt></dl></div></div><div class="csc-textpic-text">
+		<!--  Text: [begin] -->
+			<p class="bodytext">The European Technology Platform for Wind Energy (TPWind) is the indispensable forum for the crystallisation of policy and technology research and development pathways for the wind energy sector, as well as an opportunity for informal collaboration among Member States including those less developed in terms of wind energy. </p>
+<p class="bodytext">Wind energy is the leading renewable energy technology. Given the right support it could provide up to 34% of EU electricity by 2030 (based on <a href="http://www.ewea.org/fileadmin/ewea_documents/documents/publications/reports/Pure_Power_Full_Report.pdf" target="_blank" class="external-link-new-window" onclick="javascript:urchinTracker ('/.external/http/www.ewea.org/fileadmin/ewea_documents/documents/publications/reports/Pure_Power_Full_Report.pdf'); ">EWEA and EC projections</a>). However, this target will not be achieved if the sector and policy makers think with short term objectives. Long-term, strategic action in technology and policy research are fundamental: TPWind facilitates the development of effective, complementary national and EU policy to build markets as well as a collaborative strategy for technology development. Its ultimate aim is to achieve cost reductions to ensure the full competitiveness of wind power, both onshore and offshore. </p>
+<p class="bodytext">TPWind is composed of stakeholders from industry, government, civil society, R&amp;D Institutions, finance organisations and the wider power sector, at both Member State and EU level. It is the only body with sufficient representation or &quot;critical mass&quot; of wind-specific knowledge and experience to be able to fully understand and map realistic and prioritised pathways for policy and technology R&amp;D, taking into account the full range of sector needs.</p>
+<p class="bodytext">The first TPWind members (active over the 2007 - 2010 period)&nbsp;were selected by the Paltform's Steering Committe through an open &quot;call for expression of interest&quot; launched in 2007.</p>
+<p class="bodytext">Current TPWind members, who will compose the Platform over the 2010 - 2013 period, were selected by the Steering Committee through a new &quot;call for expression of interest&quot; open from July to October 2010.</p>
+<p class="bodytext">The main deliverables of the Platform so far are the following:</p>
+<p class="bodytext">- The Strategic Research Agenda / Market Deployment Strategy (SRA/MDS), which outlines the main R&amp;D challenges faced by the EU wind energy sector (first published in 2008 and updated in 2014);</p>
+<p class="bodytext">- The <a href="http://ec.europa.eu/energy/technology/set_plan/set_plan_en.htm" target="_blank" class="external-link-new-window" onclick="javascript:urchinTracker ('/.external/http/ec.europa.eu/energy/technology/set_plan/set_plan_en.htm'); ">European Wind Initiative (EWI)</a>, a long-term, large-scale Programme for improving and increasing funding to EU wind energy R&amp;D. The EWI, which is rooted&nbsp;in the EU Strategic Energy Technology Plan (SET-Plan),&nbsp;was published by the European Commission in 2009 and is now being implemented by EU Institutions, Member States, TPWind and the European Energy Research Alliance (EERA). The budget of the EWI for the 2010 - 2020 period is 6bn euros (public and private resources);</p>
+<p class="bodytext">- The training report, looking at the skills gap in the EU wind energy sector and at policies to tackle it (published in 2013).</p>
+		<!--  Text: [end] -->
+			</div></div>
+		<!--  Image block: [end] -->
+			
+	<!--  CONTENT ELEMENT, uid:492/textpic [end] -->
+		
+	<!--  CONTENT ELEMENT, uid:491/text [begin] -->
+		<a id="c491"></a>
+		<!--  Header: [begin] -->
+			<div class="csc-header csc-header-n5"><h2>Objectives</h2></div>
+		<!--  Header: [end] -->
+			
+		<!--  Text: [begin] -->
+			<p class="bodytext">The objective of TPWind is to identify areas for increased innovation, new and existing research and development tasks. These will then be prioritised on the basis of &quot;<em>must haves&quot;</em> versus &quot;<em>nice to haves,&quot;</em> the primary objective being overall (social, environmental and technological) cost reductions. This will help to achieve EU objectives in terms of renewable electricity production. The Platform will develop coherent recommendations, detailing specific tasks, approaches, participants and the necessary infrastructure, in the context of private R&amp;D, as well as EU and Member State Programmes, such as FP7. TPWind will also assess the overall funding available to carry out this work, from public and private sources. </p>
+		<!--  Text: [end] -->
+			
+	<!--  CONTENT ELEMENT, uid:491/text [end] -->
+		
+	<!--  CONTENT ELEMENT, uid:488/textpic [begin] -->
+		<a id="c488"></a>
+		<!--  Image block: [begin] -->
+			<div class="csc-textpic csc-textpic-intext-right"><div class="csc-textpic-imagewrap"><dl class="csc-textpic-image csc-textpic-lastcol" style="width:70px;"><dt><img src="typo3temp/pics/5e1c5e3e64.gif" width="70" height="47" border="0" alt="" /></dt></dl></div><div class="csc-textpic-text">
+		<!--  Text: [begin] -->
+			<p class="bodytext"><em>The European Wind Energy Technology Platform's Secretariat received EU financial support through the 6th Framework Programme (Windsec project; 2007 - 2010 period) and the 7th Framework Programme (TOP Wind project; 2011 - 2014 period).</em></p>
+		<!--  Text: [end] -->
+			</div></div>
+		<!--  Image block: [end] -->
+			
+	<!--  CONTENT ELEMENT, uid:488/textpic [end] -->
+		<!--TYPO3SEARCH_end--></div>
+			<div class="clear"></div>
+			<p id="backToTop"><a href="#top" title="Click to jump back to the top of the page">to top</a></p>
+			<!--TYPO3SEARCH_end-->
+		</div>
+	</div>
+	<div id="gridgroup3">
+		<div id="footer"><p class="copy"><br />&copy; 2012 European Wind Energy Technology Platform - All rights reserved | <a href="http://www.windplatform.eu/?id=12" onclick="javascript:urchinTracker ('/.external/http/www.windplatform.eu/?id=12'); ">Sitemap</a> | <a href="http://www.windplatform.eu/?id=7" onclick="javascript:urchinTracker ('/.external/http/www.windplatform.eu/?id=7'); ">Contact</a></p></div>
+	</div>
+</div><!-- end #wrapper-->
+
+
+<script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
+</script>
+<script type="text/javascript">
+_uacct = "UA-4609386-24";
+urchinTracker();
+</script>
+</body>
+</html>
+

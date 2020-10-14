@@ -1,0 +1,557 @@
+WARC/1.0
+WARC-Type: warcinfo
+WARC-Date: 2018-05-30T17:52:31Z
+WARC-All-Language: en-US
+WARC-All-Content_type: text/html; charset=UTF-8
+WARC-Record-ID: <urn:uuid:38c1c0ef-1d18-45dd-8461-e56d097145ad>
+Content-Type: application/http;msgtype=response
+Content-Length: 46
+
+WARCProcessor by SING Group www.sing-group.com
+
+WARC/1.0
+WARC-Type: response
+WARC-Target-URI: http://www.biostor.eu
+WARC-Date: 20180530175231
+WARC-Language: en-US
+WARC-Record-ID: <http://www.biostor.eu>
+Content-Type: application/http;msgtype=response
+Content-Length: 38017
+
+HTTP/1.1 200
+Content-Type:text/html; charset=UTF-8
+
+
+<!DOCTYPE html>
+<html lang="en-US" prefix="og: http://ogp.me/ns#">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="profile" href="http://gmpg.org/xfn/11">
+    <link rel="icon" type="image/png" href="http://www.biostor.eu/wp-content/uploads/2017/03/favicon.png" />    <title>Welcome to Biostór - Licensed Biological Storage Facility</title>
+
+<!-- This site is optimized with the Yoast SEO plugin v4.8 - https://yoast.com/wordpress/plugins/seo/ -->
+<link rel="canonical" href="http://www.biostor.eu/" />
+<meta property="og:locale" content="en_US" />
+<meta property="og:type" content="website" />
+<meta property="og:title" content="Welcome to Biostór - Licensed Biological Storage Facility" />
+<meta property="og:url" content="http://www.biostor.eu/" />
+<meta property="og:site_name" content="Licensed Biological Storage Facility" />
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:title" content="Welcome to Biostór - Licensed Biological Storage Facility" />
+<script type='application/ld+json'>{"@context":"http:\/\/schema.org","@type":"WebSite","@id":"#website","url":"http:\/\/www.biostor.eu\/","name":"Licensed Biological Storage Facility","potentialAction":{"@type":"SearchAction","target":"http:\/\/www.biostor.eu\/?s={search_term_string}","query-input":"required name=search_term_string"}}</script>
+<!-- / Yoast SEO plugin. -->
+
+<link rel='dns-prefetch' href='//maps.googleapis.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="Licensed Biological Storage Facility &raquo; Feed" href="http://www.biostor.eu/feed/" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.3\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.3\/svg\/","svgExt":".svg","source":{"concatemoji":"http:\/\/www.biostor.eu\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.8.6"}};
+			!function(a,b,c){function d(a){var b,c,d,e,f=String.fromCharCode;if(!k||!k.fillText)return!1;switch(k.clearRect(0,0,j.width,j.height),k.textBaseline="top",k.font="600 32px Arial",a){case"flag":return k.fillText(f(55356,56826,55356,56819),0,0),b=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,56826,8203,55356,56819),0,0),c=j.toDataURL(),b!==c&&(k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447),0,0),b=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447),0,0),c=j.toDataURL(),b!==c);case"emoji4":return k.fillText(f(55358,56794,8205,9794,65039),0,0),d=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55358,56794,8203,9794,65039),0,0),e=j.toDataURL(),d!==e}return!1}function e(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g,h,i,j=b.createElement("canvas"),k=j.getContext&&j.getContext("2d");for(i=Array("flag","emoji4"),c.supports={everything:!0,everythingExceptFlag:!0},h=0;h<i.length;h++)c.supports[i[h]]=d(i[h]),c.supports.everything=c.supports.everything&&c.supports[i[h]],"flag"!==i[h]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[i[h]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='bxslider-css-css'  href='http://www.biostor.eu/wp-content/plugins/kiwi-logo-carousel/third-party/jquery.bxslider/jquery.bxslider.css?ver=4.8.6' type='text/css' media='' />
+<link rel='stylesheet' id='kiwi-logo-carousel-styles-css'  href='http://www.biostor.eu/wp-content/plugins/kiwi-logo-carousel/custom-styles.css?ver=4.8.6' type='text/css' media='' />
+<link rel='stylesheet' id='contact-form-7-css'  href='http://www.biostor.eu/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=4.6.1' type='text/css' media='all' />
+<link rel='stylesheet' id='rs-plugin-settings-css'  href='http://www.biostor.eu/wp-content/plugins/revslider/public/assets/css/settings.css?ver=5.2.5.1' type='text/css' media='all' />
+<style id='rs-plugin-settings-inline-css' type='text/css'>
+#rs-demo-id {}
+</style>
+<link rel='stylesheet' id='graphedia-base-theme-style-css'  href='http://www.biostor.eu/wp-content/themes/graphedia-base-theme/style.css?ver=4.8.6' type='text/css' media='all' />
+<link rel='stylesheet' id='graphedia-bootstrap-css-css'  href='http://www.biostor.eu/wp-content/themes/graphedia-base-theme/assets/css/bootstrap.min.css?ver=4.8.6' type='text/css' media='all' />
+<link rel='stylesheet' id='graphedia-fontawesome-css-css'  href='http://www.biostor.eu/wp-content/themes/graphedia-base-theme/assets/css/font-awesome.min.css?ver=4.8.6' type='text/css' media='all' />
+<link rel='stylesheet' id='graphedia-hover-css-css'  href='http://www.biostor.eu/wp-content/themes/graphedia-base-theme/assets/css/hover.min.css?ver=4.8.6' type='text/css' media='all' />
+<link rel='stylesheet' id='graphedia-css-css'  href='http://www.biostor.eu/wp-content/themes/graphedia-base-theme/assets/css/graphedia.css?ver=4.8.6' type='text/css' media='all' />
+<link rel='stylesheet' id='mm_icomoon-css'  href='http://www.biostor.eu/wp-content/plugins/mega_main_menu/framework/src/css/icomoon.css?ver=2.1.3' type='text/css' media='all' />
+<link rel='stylesheet' id='mmm_mega_main_menu-css'  href='http://www.biostor.eu/wp-content/plugins/mega_main_menu/src/css/cache.skin.css?ver=1480932161' type='text/css' media='all' />
+<script type='text/javascript' src='http://www.biostor.eu/wp-includes/js/jquery/jquery.js?ver=1.12.4'></script>
+<script type='text/javascript' src='http://www.biostor.eu/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
+<script type='text/javascript' src='http://www.biostor.eu/wp-content/plugins/revslider/public/assets/js/jquery.themepunch.tools.min.js?ver=5.2.5.1'></script>
+<script type='text/javascript' src='http://www.biostor.eu/wp-content/plugins/revslider/public/assets/js/jquery.themepunch.revolution.min.js?ver=5.2.5.1'></script>
+<script type='text/javascript' src='https://maps.googleapis.com/maps/api/js?key=AIzaSyCM482cDZEROh-ajz-pezJFoB0lfLylGyU&#038;ver=4.8.6'></script>
+<link rel='https://api.w.org/' href='http://www.biostor.eu/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www.biostor.eu/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://www.biostor.eu/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 4.8.6" />
+<link rel='shortlink' href='http://www.biostor.eu/' />
+<link rel="alternate" type="application/json+oembed" href="http://www.biostor.eu/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fwww.biostor.eu%2F" />
+<link rel="alternate" type="text/xml+oembed" href="http://www.biostor.eu/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fwww.biostor.eu%2F&#038;format=xml" />
+<meta name="generator" content="Powered by Slider Revolution 5.2.5.1 - responsive, Mobile-Friendly Slider Plugin for WordPress with comfortable drag and drop interface." />
+</head>
+
+<body class="home page-template page-template-page-home page-template-page-home-php page page-id-5 mmm mega_main_menu-2-1-3" >
+<div id="page" class="site">
+<div class="slide-in-menu" id="slide-in-menu">
+
+<!-- begin "mega_main_menu" -->
+<div id="mega_main_menu" class="primary primary_style-flat icons-disable_globally first-lvl-align-left first-lvl-separator-none direction-vertical fullwidth-disable pushing_content-disable mobile_minimized-disable dropdowns_trigger-hover dropdowns_animation-anim_1 no-logo no-search no-woo_cart no-buddypress responsive-enable coercive_styles-disable indefinite_location_mode-disable language_direction-ltr version-2-1-3 mega_main mega_main_menu">
+	<div class="menu_holder">
+	<div class="mmm_fullwidth_container"></div><!-- class="fullwidth_container" -->
+		<div class="menu_inner">
+			<span class="nav_logo">
+				<a class="mobile_toggle">
+					<span class="mobile_button">
+						Menu &nbsp;
+						<span class="symbol_menu">&equiv;</span>
+						<span class="symbol_cross">&#x2573;</span>
+					</span><!-- class="mobile_button" -->
+				</a>
+			</span><!-- /class="nav_logo" -->
+				<ul id="mega_main_menu_ul" class="mega_main_menu_ul">
+<li id="menu-item-17" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-17 default_dropdown default_style drop_to_right submenu_default_width columns1">
+	<a href="http://biostor.eu.185-2-66-95.preview.graphediahosting.com/" class="item_link  disable_icon" tabindex="1">
+		<i class=""></i> 
+		<span class="link_content">
+			<span class="link_text">
+				Home
+			</span>
+		</span>
+	</a>
+</li>
+<li id="menu-item-620" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-620 default_dropdown default_style drop_to_right submenu_default_width columns1">
+	<a href="http://www.biostor.eu/services-overview/" class="item_link  disable_icon" tabindex="2">
+		<i class=""></i> 
+		<span class="link_content">
+			<span class="link_text">
+				Services
+			</span>
+		</span>
+	</a>
+</li>
+<li id="menu-item-454" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-454 default_dropdown default_style drop_to_right submenu_default_width columns1">
+	<a href="http://www.biostor.eu/research-partners/" class="item_link  disable_icon" tabindex="3">
+		<i class=""></i> 
+		<span class="link_content">
+			<span class="link_text">
+				Research Partners
+			</span>
+		</span>
+	</a>
+</li>
+<li id="menu-item-416" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-416 default_dropdown default_style drop_to_right submenu_default_width columns1">
+	<a href="http://www.biostor.eu/news-events/" class="item_link  disable_icon" tabindex="4">
+		<i class=""></i> 
+		<span class="link_content">
+			<span class="link_text">
+				News &#038; Events
+			</span>
+		</span>
+	</a>
+</li>
+<li id="menu-item-414" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-414 default_dropdown default_style drop_to_right submenu_default_width columns1">
+	<a href="http://www.biostor.eu/contact/" class="item_link  disable_icon" tabindex="5">
+		<i class=""></i> 
+		<span class="link_content">
+			<span class="link_text">
+				Contact
+			</span>
+		</span>
+	</a>
+</li></ul>
+		</div><!-- /class="menu_inner" -->
+	</div><!-- /class="menu_holder" -->
+</div><!-- /id="mega_main_menu" -->
+</div>
+
+    <div class="header-wrapper">
+    <header id="masthead" class="site-header container" role="banner">
+
+            <!--Logo-->
+            <div class="site-branding col-md-4 col-sm-4 col-xs-10">
+
+                                <a href="http://www.biostor.eu/" rel="home"></a>
+
+            </div><!--#site-logo -->
+
+            <!--top right section-->
+            <div class="top-right col-md-8 col-sm-8 col-xs-2">
+
+                <button class="c-hamburger c-hamburger--htx">
+                    <span>toggle menu</span>
+                </button>
+
+
+
+                
+                </div>
+
+            <!--#top right section-->
+
+            <div class="clearfix"></div>
+
+    </header><!-- #masthead -->
+
+
+
+</div> <!--End Header Wrapper-->
+
+ 
+
+    
+            <div id="content" class="site-content container-full">
+
+
+        
+<div class="hidden-sm hidden-xs">
+
+<div id="rev_slider_1_1_wrapper" class="rev_slider_wrapper fullscreen-container" style="background-color:transparent;padding:0px;">
+<!-- START REVOLUTION SLIDER 5.2.5.1 fullscreen mode -->
+	<div id="rev_slider_1_1" class="rev_slider fullscreenbanner" style="display:none;" data-version="5.2.5.1">
+<ul>	<!-- SLIDE  -->
+	<li data-index="rs-1" data-transition="fade" data-slotamount="default" data-hideafterloop="0" data-hideslideonmobile="off"  data-easein="default" data-easeout="default" data-masterspeed="300"  data-rotate="0"  data-saveperformance="off"  data-title="Slide" data-param1="" data-param2="" data-param3="" data-param4="" data-param5="" data-param6="" data-param7="" data-param8="" data-param9="" data-param10="" data-description="">
+		<!-- MAIN IMAGE -->
+		<img src="http://www.biostor.eu/wp-content/uploads/2016/12/bistor-vid-logo.jpg"  alt="" title="bistor-vid-logo"  width="1200" height="600" data-bgposition="center center" data-bgfit="cover" class="rev-slidebg" data-no-retina>
+		<!-- LAYERS -->
+
+		<!-- BACKGROUND VIDEO LAYER -->
+		<div class="rs-background-video-layer" 
+			data-forcerewind="on" 
+			data-volume="mute" 
+			data-videowidth="100%" 
+			data-videoheight="100%" 
+			data-videomp4="http://www.biostor.eu/wp-content/uploads/2016/12/video-new.mp4" 
+			data-videopreload="auto" 
+			data-videoloop="loop" 
+			data-dottedoverlay="twoxtwo" 
+			data-forceCover="1" 
+			data-aspectratio="16:9" 
+			data-autoplay="true" 
+			data-autoplayonlyfirsttime="false" 
+></div>
+		<!-- LAYER NR. 1 -->
+		<div class="tp-caption   tp-resizeme tp-svg-layer" 
+			 id="slide-1-layer-2" 
+			 data-x="551" 
+			 data-y="827" 
+						data-width="['54']"
+			data-height="['54']"
+			data-transform_idle="o:1;"
+ 
+			 data-transform_in="z:0;rX:0;rY:0;rZ:0;sX:0.9;sY:0.9;skX:0;skY:0;opacity:0;s:1500;e:Power3.easeInOut;" 
+			 data-transform_out="opacity:0;s:300;" 
+			data-start="500" 
+			data-actions='[{"event":"click","action":"scrollbelow","offset":"px","delay":""}]'
+			data-svg_src="http://www.biostor.eu/wp-content/plugins/revslider/public/assets/assets/svg/navigation/ic_arrow_downward_24px.svg" 
+			data-svg_idle="sc:#878787;sw:0px;sda:0;sdo:0;" 
+			data-responsive_offset="on" 
+
+			
+			style="z-index: 5; min-width: 54px; max-width: 54px; max-width: 54px; max-width: 54px; color: rgba(255, 255, 255, 1.00);background-color:rgba(106, 132, 158, 1.00);padding:8px 8px 8px 8px;"> </div>
+	</li>
+</ul>
+<div class="tp-bannertimer tp-bottom" style="visibility: hidden !important;"></div>	</div>
+<script>var htmlDiv = document.getElementById("rs-plugin-settings-inline-css"); var htmlDivCss="";
+				if(htmlDiv) {
+					htmlDiv.innerHTML = htmlDiv.innerHTML + htmlDivCss;
+				}else{
+					var htmlDiv = document.createElement("div");
+					htmlDiv.innerHTML = "<style>" + htmlDivCss + "</style>";
+					document.getElementsByTagName("head")[0].appendChild(htmlDiv.childNodes[0]);
+				}
+			</script>
+		<script type="text/javascript">
+						/******************************************
+				-	PREPARE PLACEHOLDER FOR SLIDER	-
+			******************************************/
+
+			var setREVStartSize=function(){
+				try{var e=new Object,i=jQuery(window).width(),t=9999,r=0,n=0,l=0,f=0,s=0,h=0;
+					e.c = jQuery('#rev_slider_1_1');
+					e.gridwidth = [1240];
+					e.gridheight = [900];
+							
+					e.sliderLayout = "fullscreen";
+					e.fullScreenAutoWidth='off';
+					e.fullScreenAlignForce='off';
+					e.fullScreenOffsetContainer= '';
+					e.fullScreenOffset='';
+					if(e.responsiveLevels&&(jQuery.each(e.responsiveLevels,function(e,f){f>i&&(t=r=f,l=e),i>f&&f>r&&(r=f,n=e)}),t>r&&(l=n)),f=e.gridheight[l]||e.gridheight[0]||e.gridheight,s=e.gridwidth[l]||e.gridwidth[0]||e.gridwidth,h=i/s,h=h>1?1:h,f=Math.round(h*f),"fullscreen"==e.sliderLayout){var u=(e.c.width(),jQuery(window).height());if(void 0!=e.fullScreenOffsetContainer){var c=e.fullScreenOffsetContainer.split(",");if (c) jQuery.each(c,function(e,i){u=jQuery(i).length>0?u-jQuery(i).outerHeight(!0):u}),e.fullScreenOffset.split("%").length>1&&void 0!=e.fullScreenOffset&&e.fullScreenOffset.length>0?u-=jQuery(window).height()*parseInt(e.fullScreenOffset,0)/100:void 0!=e.fullScreenOffset&&e.fullScreenOffset.length>0&&(u-=parseInt(e.fullScreenOffset,0))}f=u}else void 0!=e.minHeight&&f<e.minHeight&&(f=e.minHeight);e.c.closest(".rev_slider_wrapper").css({height:f})
+					
+				}catch(d){console.log("Failure at Presize of Slider:"+d)}
+			};
+			
+			setREVStartSize();
+			
+						var tpj=jQuery;
+			
+			var revapi1;
+			tpj(document).ready(function() {
+				if(tpj("#rev_slider_1_1").revolution == undefined){
+					revslider_showDoubleJqueryError("#rev_slider_1_1");
+				}else{
+					revapi1 = tpj("#rev_slider_1_1").show().revolution({
+						sliderType:"hero",
+jsFileLocation:"//www.biostor.eu/wp-content/plugins/revslider/public/assets/js/",
+						sliderLayout:"fullscreen",
+						dottedOverlay:"none",
+						delay:9000,
+						navigation: {
+						},
+						visibilityLevels:[1240,1024,778,480],
+						gridwidth:1240,
+						gridheight:900,
+						lazyType:"none",
+						shadow:0,
+						spinner:"spinner0",
+						autoHeight:"off",
+						fullScreenAutoWidth:"off",
+						fullScreenAlignForce:"off",
+						fullScreenOffsetContainer: "",
+						fullScreenOffset: "",
+						disableProgressBar:"on",
+						hideThumbsOnMobile:"off",
+						hideSliderAtLimit:0,
+						hideCaptionAtLimit:0,
+						hideAllCaptionAtLilmit:0,
+						debugMode:false,
+						fallbacks: {
+							simplifyAll:"off",
+							disableFocusListener:false,
+						}
+					});
+				}
+			});	/*ready*/
+		</script>
+		</div><!-- END REVOLUTION SLIDER --></div>
+<div class="visible-xs visible-sm">
+    <video controls style="width: 100%">
+        <source src="http://www.biostor.eu/wp-content/uploads/2016/12/video-new.mp4" type="video/mp4">
+    </video>
+</div>
+
+	<div id="primary" class="content-area">
+
+
+
+		<div class="block container welcome">
+
+			<div class='block-content container'><p style="text-align: justify;"><img class="size-full wp-image-7 aligncenter" src="http://biostor.eu.185-2-66-95.preview.graphediahosting.com/wp-content/uploads/2016/11/bio-stor-logo.png" alt="bio-stor-logo" width="330" height="132" /></p>
+<p style="text-align: justify;">A technologically advanced biostore for the certified storage and worldwide distribution of biological materials for scientific research and clinical application.</p>
+<p style="text-align: justify;">We store life-saving products like Bone Marrow, Peripheral Blood Stem Cells and Lymphocytes for transplantation. We also store highly controlled human biospecimens for clinical research and the advancement of cures.</p>
+<p style="text-align: justify;">We employ the latest cloud-based sample management systems for the administration of international, multi-center clinical trials. And we provide expert guidance in the standardization of sample donation, procurement, processing, testing, preservation, storage and cold-chain distribution.</p>
+<p style="text-align: justify;">We are inspected biennially and licensed by the <strong>Health Products Regulatory Authority</strong> of Ireland (www.HPRA.ie) for the storage and distribution of Human Tissues and Cells for Human Application and accordingly fulfill FDA requirements 21 CFR Part 1271. The Quality Management System is based on ISO 13485 and complies with all the necessary principles of the GXPs.</p></div>
+		</div>
+
+		<div class="block home-logos">
+			<h1 style="text-align: center">Partners</h1>
+			<ul class="kiwi-logo-carousel kiwi-logo-carousel-homepage-logos default align-center col4"><li style="height:130px;" ><div class="helper" style="height:130px; width:180px;" ><img src="http://www.biostor.eu/wp-content/uploads/2016/11/nui-galway-logo.gif" alt="NUIG" title="NUIG" style="max-width:180px; padding-left: 7.5px; padding-right:7.5px" ></div></li><li style="height:130px;" ><div class="helper" style="height:130px; width:180px;" ><img src="http://www.biostor.eu/wp-content/uploads/2016/11/inserm-logo.gif" alt="inserm" title="inserm" style="max-width:180px; padding-left: 7.5px; padding-right:7.5px" ></div></li><li style="height:130px;" ><div class="helper" style="height:130px; width:180px;" ><img src="http://www.biostor.eu/wp-content/uploads/2016/11/fios-logo.gif" alt="fios-logo" title="fios-logo" style="max-width:180px; padding-left: 7.5px; padding-right:7.5px" ></div></li><li style="height:130px;" ><div class="helper" style="height:130px; width:180px;" ><img src="http://www.biostor.eu/wp-content/uploads/2016/11/bristol-logo.gif" alt="bristol-logo" title="bristol-logo" style="max-width:180px; padding-left: 7.5px; padding-right:7.5px" ></div></li><li style="height:130px;" ><div class="helper" style="height:130px; width:180px;" ><img src="http://www.biostor.eu/wp-content/uploads/2016/11/aarhus.png" alt="Arrus" title="Arrus" style="max-width:180px; padding-left: 7.5px; padding-right:7.5px" ></div></li><li style="height:130px;" ><div class="helper" style="height:130px; width:180px;" ><img src="http://www.biostor.eu/wp-content/uploads/2016/11/charite.png" alt="Charite" title="Charite" style="max-width:180px; padding-left: 7.5px; padding-right:7.5px" ></div></li><li style="height:130px;" ><div class="helper" style="height:130px; width:180px;" ><img src="http://www.biostor.eu/wp-content/uploads/2016/11/edinburgh.png" alt="Edinburgh" title="Edinburgh" style="max-width:180px; padding-left: 7.5px; padding-right:7.5px" ></div></li><li style="height:130px;" ><div class="helper" style="height:130px; width:180px;" ><img src="http://www.biostor.eu/wp-content/uploads/2016/11/nantes.png" alt="Nantes" title="Nantes" style="max-width:180px; padding-left: 7.5px; padding-right:7.5px" ></div></li><li style="height:130px;" ><div class="helper" style="height:130px; width:180px;" ><img src="http://www.biostor.eu/wp-content/uploads/2016/11/orbsen.png" alt="Orbsen" title="Orbsen" style="max-width:180px; padding-left: 7.5px; padding-right:7.5px" ></div></li><li style="height:130px;" ><div class="helper" style="height:130px; width:180px;" ><img src="http://www.biostor.eu/wp-content/uploads/2016/11/pintail.png" alt="Pintail" title="Pintail" style="max-width:180px; padding-left: 7.5px; padding-right:7.5px" ></div></li><li style="height:130px;" ><div class="helper" style="height:130px; width:180px;" ><img src="http://www.biostor.eu/wp-content/uploads/2016/11/rcsi.png" alt="RCSI" title="RCSI" style="max-width:180px; padding-left: 7.5px; padding-right:7.5px" ></div></li></ul>		</div>
+
+
+		<div class="block contact">
+
+
+			<div class="contact-success container">
+				<div class="alert alert-success">Thank you for getting in touch, a member of the Biostór team will be in touch shortly.
+				</div>
+			</div>
+
+			<div class="contact-cta">
+
+				<h1>Contact Us</h1>
+
+				<p>Looking for more information on our services or where we are located?</p>
+
+				<button type="button" class="contact-toggle">Get in Touch</button>
+
+
+				</div>
+
+
+			<div class="container contact-holder">
+
+				<div class="col-md-6">
+					<div role="form" class="wpcf7" id="wpcf7-f4-o1" lang="en-US" dir="ltr">
+<div class="screen-reader-response"></div>
+<form action="/#wpcf7-f4-o1" method="post" class="wpcf7-form" novalidate="novalidate">
+<div style="display: none;">
+<input type="hidden" name="_wpcf7" value="4" />
+<input type="hidden" name="_wpcf7_version" value="4.6.1" />
+<input type="hidden" name="_wpcf7_locale" value="en_US" />
+<input type="hidden" name="_wpcf7_unit_tag" value="wpcf7-f4-o1" />
+<input type="hidden" name="_wpnonce" value="de728a7c68" />
+</div>
+<h2>Contact Us</h2>
+<p><span class="wpcf7-form-control-wrap your-name"><input type="text" name="your-name" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required" aria-required="true" aria-invalid="false" placeholder="Your Name" /></span></p>
+<p><span class="wpcf7-form-control-wrap your-email"><input type="email" name="your-email" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-email wpcf7-validates-as-required wpcf7-validates-as-email" aria-required="true" aria-invalid="false" placeholder="Your Email" /></span></p>
+<p><span class="wpcf7-form-control-wrap your-message"><textarea name="your-message" cols="40" rows="4" class="wpcf7-form-control wpcf7-textarea wpcf7-validates-as-required" aria-required="true" aria-invalid="false" placeholder="Your Message"></textarea></span></p>
+<div class="wpcf7-form-control-wrap"><div data-sitekey="6Lc_2kUUAAAAAOe61Rr1dRGru7NgDtYfAjvUfUdW" class="wpcf7-form-control g-recaptcha wpcf7-recaptcha"></div>
+<noscript>
+	<div style="width: 302px; height: 422px;">
+		<div style="width: 302px; height: 422px; position: relative;">
+			<div style="width: 302px; height: 422px; position: absolute;">
+				<iframe src="https://www.google.com/recaptcha/api/fallback?k=6Lc_2kUUAAAAAOe61Rr1dRGru7NgDtYfAjvUfUdW" frameborder="0" scrolling="no" style="width: 302px; height:422px; border-style: none;">
+				</iframe>
+			</div>
+			<div style="width: 300px; height: 60px; border-style: none; bottom: 12px; left: 25px; margin: 0px; padding: 0px; right: 25px; background: #f9f9f9; border: 1px solid #c1c1c1; border-radius: 3px;">
+				<textarea id="g-recaptcha-response" name="g-recaptcha-response" class="g-recaptcha-response" style="width: 250px; height: 40px; border: 1px solid #c1c1c1; margin: 10px 25px; padding: 0px; resize: none;">
+				</textarea>
+			</div>
+		</div>
+	</div>
+</noscript>
+</div>
+<p><input type="submit" value="Send" class="wpcf7-form-control wpcf7-submit btn primary-btn" /></p>
+<div class="wpcf7-response-output wpcf7-display-none"></div></form></div>					<div class="contact-details-footer">
+						<div class="col-md-5">
+
+							<span class="ico"><i class="fa fa-phone-square" aria-hidden="true"></i></span> +353 (0) 53
+							9161398<br/>
+							<span class="ico"><i class="fa fa-fax" aria-hidden="true"></i></span> +353 (0) 53
+							9167189<br/>
+							<span class="ico"><i class="fa fa-envelope-o" aria-hidden="true"></i></span> <a
+								href="mailto:info@biostor.eu">info@biostor.eu</a>
+
+						</div>
+
+
+						<div class="col-md-7">
+							<span class="ico"><i class="fa fa-map-marker" aria-hidden="true"></i></span> Biostor
+							Ireland,<br />
+                            <span class="ico"></span> Kilrane Business Park,<br/>
+							<span class="ico"></span> Rosslare Harbour,<br/>
+							<span class="ico"></span> Co. Wexford, Ireland
+
+						</div>
+
+						<div class="clearfix"></div>
+
+					</div>
+				</div>
+
+				<div class="col-md-6">
+					<div id="map"></div>
+
+				</div>
+
+				<div class="clearfix"></div>
+
+
+			</div>
+
+		</div>
+
+	</div>
+
+
+	<div class="block container testimonials">
+
+		<div class='block-content container'><h1 style="text-align: center;">Partner Endorsements</h1>
+<p style="text-align: center;"><div id='gr-testimonials'><div class='quote-top'><i class="fa fa-quote-left"></i></div><div class='test-slider'><div class='slide'><div class='testimonial-text'>Please accept this note as our personal and professional endorsement of Biostor as an outstanding  partner to our EU research project “Visicort”.   Since our earliest involvement, we have found the collaboration with Biostore to be the most reliable partner in this international project. The services provided by Biostor have been always prompt, reliable and professional in every respect.</div><div class='testimonial-meta'>Universitätsmedizin Berlin</div><div class='testimonial-meta'>Prof. Dr. Uwe Pleyer, FEBO</div><div class='testimonial-meta'>Dept. Ophthalmology</div></div><div class='slide'><div class='testimonial-text'>Prof. Matthew Griffin, Regenerative Medicine Institute, National University of Ireland: As coordinator of the EU FP7 health consortium VISICORT, I have had the opportunity to work closely with Peadar Mac Gabhann and the team at Biostór over the past 3 years. Our project required the design and establishment of a complex multi-site human biological sampling and transport protocol with a centralised bio-bank and sample tracking system. Biostór has proven to be an outstanding partner for VISICORT and has built a highly functional bio-banking and sample distribution system for the project which has, to date, compiled several thousand samples from over 600 corneal transplant recipients in 5 European countries. In collaboration with the VISICORT enrolment sites, the Biostór team has developed standard operating procedures, sampling kits and a web-based database and sample tracking system as well as providing training and troubleshooting for the project’s clinical researchers. Critically, Biostór has been proactive in identifying and solving problems, adding new capabilities to the sample tracking system and communicating effectively with all of the VISICORT partners. Overall, the level of expertise, innovation and efficiency that Biostór has brought to this complex European project has been superb.</div><div class='testimonial-meta'>National University of Ireland</div><div class='testimonial-meta'>Prof. Matthew Griffin</div><div class='testimonial-meta'>Regenerative Medicine Institute</div></div><div class='slide'><div class='testimonial-text'>Biostor has provided invaluable expertise and efficiency in the area of tissue sample preparation, transportation and storage for the VISICORT study, a large multicentre study of human corneal transplantation involving 12 centres across Europe</div><div class='testimonial-meta'>Royal College of Surgeons in Ireland</div><div class='testimonial-meta'>Prof. Conor C. Murphy</div><div class='testimonial-meta'>Professor of Ophthalmology</div></div><div class='slide'><div class='testimonial-text'>In 2011, St James’s Hospital & Trinity College Dublin joined Biostór as a partner on an EU 7th Framework Project Grant (INCO.2011-6.2), supporting the establishment of a cancer biobank for Jordan and its neighbouring countries through knowledge transfer and training. This was a EU-Middle Eastern initiative with the King Hussein Cancer Center in Amman, Jordan, coordinator of this program. Our involvement in this EU program with Biostór was a significant learning experience for us as both a medical and academic institution, where Biostór’s commercial background and extensive expertise as a commercial biobank, provided us with further knowledge and exchange in the areas of Quality Management Systems (QMS), compliance with international regulations and ISO standards. Throughout the project, Biostór demonstrated professionalism in all aspects of the work-packages assigned to them. This was reflected with their attention to detail during all stages of this process, in addition to the comradery of Biostór personnel with other partners on the project.  </div><div class='testimonial-meta'>St James's Hospital & Trinity College Dublin</div><div class='testimonial-meta'>Dr. Martin Barr</div><div class='testimonial-meta'>Clinical Scientist & Adjunct Assistant Professor</div></div><div class='slide'><div class='testimonial-text'>We have been working with Biostór Ireland for more than 2 years on a major EU FP-7 supported project on adverse immune reactions in corneal transplantation (VISICORT www.visicort.eu ). Together we have managed development of a software platform which allows cloud-based registration of clinical data, but more important: Barcode based tracking of thousands of bio samples. Samples are collected at five eye departments in five different European countries, stored locally for a short while and then shipped to the storage facility at Biostór in Ireland until samples are sent to different laboratories for advanced immunological analysis. During the process samples are kept frozen at -80°C before storage at -80°C to -196°C. During the development of the advanced tracking system and in practice Biostór Ireland has shown to be a very dedicated and professional partner.</div><div class='testimonial-meta'>Aarhus University Hospital NBG, Denmark</div><div class='testimonial-meta'>Jesper Hjortdal</div><div class='testimonial-meta'>Professor, M.D., PhD</div></div><div class='slide'><div class='testimonial-text'>The European School of Haematology worked with Biostór Ireland towards the development of a thematic online curriculum in Cord Blood Transplantation. Biostór Ireland was a strong member of this three year multi-partner project, providing on-going expertise, valuable input and support. </div><div class='testimonial-meta'>European School of Haematology</div><div class='testimonial-meta'>Did Jasmin</div><div class='testimonial-meta'>Director European School of Haematology</div></div><div class='slide'><div class='testimonial-text'>Our partnership with Biostór Ireland was a key element to the success of our project KHCCBIO to establish a biobank in Jordan. The experience of those in charge of Biostór made it easy for our staff overcome many obstacles that would have hindered our project</div><div class='testimonial-meta'>King Hussein Cancer Centre, Jordan</div><div class='testimonial-meta'>Maher A. Sughayer M.D</div><div class='testimonial-meta'>Full Member and Chair, Pathology</div></div></div><div class='quote-bottom'><i class="fa fa-quote-right"></i></div></div><script>
+jQuery( document ).ready(function() {
+jQuery('.test-slider').bxSlider({
+					  adaptiveHeight: true,
+					  mode: 'fade',
+					  slideWidth : 1000
+					});
+					
+					});</script></p></div>
+	</div>
+
+
+	</div><!-- #primary -->
+
+
+<div class="clearfix"></div>
+
+</div><!-- #content -->
+
+
+
+	<footer id="colophon" class="site-footer " role="contentinfo">
+	<div class="footer-widgets container">
+				</div>
+		<div class="copyright">
+
+	
+
+</div>
+	</footer><!-- #colophon -->
+</div><!-- #page -->
+
+<!--<a href="#0" class="cd-top">Top</a>-->
+
+
+
+
+<script>jQuery(document).ready(function(){jQuery(".kiwi-logo-carousel-default").bxSlider({mode:"horizontal",speed:500,slideMargin:0,infiniteLoop:true,hideControlOnEnd:false,captions:false,ticker:false,tickerHover:false,adaptiveHeight:false,responsive:true,pager:false,controls:true,autoControls:false,minSlides:1,maxSlides:4,moveSlides:1,slideWidth:200,auto:true,pause:4000,useCSS:false});jQuery(".kiwi-logo-carousel-homepage-logos").bxSlider({mode:"horizontal",speed:500,slideMargin:15,infiniteLoop:true,hideControlOnEnd:false,captions:false,ticker:false,tickerHover:false,adaptiveHeight:false,responsive:true,pager:false,controls:true,autoControls:false,minSlides:1,maxSlides:9,moveSlides:1,slideWidth:180,auto:true,pause:4000,useCSS:false});});</script><script type="text/javascript">
+var recaptchaWidgets = [];
+var recaptchaCallback = function() {
+	var forms = document.getElementsByTagName('form');
+	var pattern = /(^|\s)g-recaptcha(\s|$)/;
+
+	for (var i = 0; i < forms.length; i++) {
+		var divs = forms[i].getElementsByTagName('div');
+
+		for (var j = 0; j < divs.length; j++) {
+			var sitekey = divs[j].getAttribute('data-sitekey');
+
+			if (divs[j].className && divs[j].className.match(pattern) && sitekey) {
+				var params = {
+					'sitekey': sitekey,
+					'theme': divs[j].getAttribute('data-theme'),
+					'type': divs[j].getAttribute('data-type'),
+					'size': divs[j].getAttribute('data-size'),
+					'tabindex': divs[j].getAttribute('data-tabindex')
+				};
+
+				var callback = divs[j].getAttribute('data-callback');
+
+				if (callback && 'function' == typeof window[callback]) {
+					params['callback'] = window[callback];
+				}
+
+				var expired_callback = divs[j].getAttribute('data-expired-callback');
+
+				if (expired_callback && 'function' == typeof window[expired_callback]) {
+					params['expired-callback'] = window[expired_callback];
+				}
+
+				var widget_id = grecaptcha.render(divs[j], params);
+				recaptchaWidgets.push(widget_id);
+				break;
+			}
+		}
+	}
+}
+</script>
+		<script type="text/javascript">
+			function revslider_showDoubleJqueryError(sliderID) {
+				var errorMessage = "Revolution Slider Error: You have some jquery.js library include that comes after the revolution files js include.";
+				errorMessage += "<br> This includes make eliminates the revolution slider libraries, and make it not work.";
+				errorMessage += "<br><br> To fix it you can:<br>&nbsp;&nbsp;&nbsp; 1. In the Slider Settings -> Troubleshooting set option:  <strong><b>Put JS Includes To Body</b></strong> option to true.";
+				errorMessage += "<br>&nbsp;&nbsp;&nbsp; 2. Find the double jquery.js include and remove it.";
+				errorMessage = "<span style='font-size:16px;color:#BC0C06;'>" + errorMessage + "</span>";
+					jQuery(sliderID).show().html(errorMessage);
+			}
+		</script>
+		<script type='text/javascript' src='http://www.biostor.eu/wp-content/plugins/contact-form-7/includes/js/jquery.form.min.js?ver=3.51.0-2014.06.20'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var _wpcf7 = {"recaptcha":{"messages":{"empty":"Please verify that you are not a robot."}}};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://www.biostor.eu/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=4.6.1'></script>
+<script type='text/javascript' src='http://www.biostor.eu/wp-content/themes/graphedia-base-theme/assets/js/bootstrap.min.js?ver=3.3.6'></script>
+<script type='text/javascript' src='http://www.biostor.eu/wp-content/themes/graphedia-base-theme/assets/js/graphedia.js?ver=1.0.0'></script>
+<script type='text/javascript' src='http://www.biostor.eu/wp-content/plugins/mega_main_menu/src/js/frontend.js?ver=4.8.6'></script>
+<script type='text/javascript' src='http://www.biostor.eu/wp-includes/js/wp-embed.min.js?ver=4.8.6'></script>
+<script type='text/javascript' src='https://www.google.com/recaptcha/api.js?onload=recaptchaCallback&#038;render=explicit&#038;ver=2.0'></script>
+<script type='text/javascript' src='http://www.biostor.eu/wp-content/plugins/kiwi-logo-carousel/third-party/jquery.bxslider/jquery.bxslider.js?ver=4.8.6'></script>
+
+</body>
+</html>
+
+

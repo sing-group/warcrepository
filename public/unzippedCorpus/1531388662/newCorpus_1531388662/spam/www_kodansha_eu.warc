@@ -1,0 +1,667 @@
+WARC/1.0
+WARC-Type: warcinfo
+WARC-Date: 2018-05-30T17:52:31Z
+WARC-Record-ID: <urn:uuid:c8aa08f7-fa5a-4b0d-8a38-c27792328c74>
+WARC-All-Language: en
+WARC-All-Content_type: text/html
+Content-Type: application/http;msgtype=response
+Content-Length: 46
+
+WARCProcessor by SING Group www.sing-group.com
+
+WARC/1.0
+WARC-Type: response
+WARC-Record-ID: <http://www.kodansha.eu>
+WARC-Date: 20180530175231
+WARC-Target-URI: http://www.kodansha.eu
+WARC-Language: en
+Content-Type: application/http;msgtype=response
+Content-Length: 39607
+
+HTTP/1.1 200
+Content-Type:text/html
+
+
+<html class="no-js" lang="">
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="x-ua-compatible" content="ie=edge">
+        <title></title>
+        <meta name="description" content="">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+
+        <link rel="apple-touch-icon" href="apple-touch-icon.png">
+        <!-- Place favicon.ico in the root directory -->
+
+
+        <link rel="stylesheet" href="/css/styles.css">
+         <link rel="stylesheet" href="/css/example.css">
+
+    </head>
+    <body>
+      <!-- End SlidesJS Required: Start Slides -->
+
+ <!-- SlidesJS Required: Link to jQuery -->
+  <script src="http://code.jquery.com/jquery-1.9.1.min.js"></script>
+  <!-- End SlidesJS Required -->
+
+  <!-- SlidesJS Required: Link to jquery.slides.js -->
+  <script src="/js/jquery.slides.min.js"></script>
+  <script>
+      $(function() {
+        $('#slides').slidesjs({
+                              width: 430,
+                              height: 546,
+                              navigation: false
+                              });
+        });
+      </script>  <!-- End SlidesJS Required -->
+
+  <!-- SlidesJS Required: Link to jquery.slides.js -->
+
+        <!--[if lt IE 8]>
+            <p class="browserupgrade">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</p>
+        <![endif]-->
+
+        <!-- Add your site or application content here -->
+
+       <div class="wrapper">
+
+           <div class="header">
+
+
+
+               <div class="headerTextCenter">
+
+               </div>
+
+               <div id="headerLogoRight">
+
+               </div>
+
+
+               <div class="addressTextCenter">
+
+               </div>
+
+
+
+
+
+
+
+           </div>
+
+
+
+        	<div class="rightColumn">
+
+                        		<div class="kodanshaComics"> <a href="http://www.turnaround-uk.com/publisher/kodansha.html"><img src="/images/kc_logo.jpg" alt="Kodansha Logo" width="100%"></a></div>
+                                <div class="downloadButton"> <a href="/downloads2.html"><img src="/images/download_blue.jpg" alt="Kodansha Logo" ></a> </div>
+
+
+                <div class="rightLowerColumn">
+
+                    <div class="rightLowerColumnTurnaroundLogo">
+                        <img src="/images/turnaround.jpg" alt="Kodansha Logo" width="100%">
+                            </div>
+                    <div class="rightLowerColumnTopText">
+
+                        <div class="tradeCustomersHeaderText">
+                            TRADE CUSTOMERS
+                        </div>
+                        <div class="allOurBooks">
+                            All our books and comics are distributed by Turnaround.
+                        </div>
+                        <div class="clickWebsite">
+                            <a href="http://www.turnaround-uk.com/">click here for WEBSITE</a>
+                        </div>
+                        <div class="clickCreditapp">
+                            <a href="http://www.turnaround-uk.com/trade-customer-account-registration-form">click here for CREDIT ACCOUNT APPLICATION</a>
+                        </div>
+                        <div class="rightLowerColumnBottomText">
+                            New trade customers <br>should e-mail<br> Kodansha Europe<br> for <br>terms and conditions.
+                        </div>
+                        <div class="emailText">
+                            <a href="mailto:info@kodansha.eu">info@kodansha.eu</a>
+
+                        </div>
+
+                    </div>
+
+
+                </div>
+
+        	</div>
+
+
+
+
+
+
+
+
+        	<div class="leftColumn">
+        	        	<div class="middleTextHeader">
+                            <div class="facebookLogo">
+                                <a href="https://www.facebook.com/kodansha.eu"><img src="images/FB-f-Logo__blue_114.png" alt="left Logo" width="100%"></a></div>For the best books on the rich and varied cultures of Japan and Asia, as well as the wildlife and nature of Africa.</div>
+                        </div>
+                        <div class="gridRow">
+
+        	        	<div class="newTitlesSlider">
+							<div class="newTitlesSliderHeader">COMING SOON..</div>
+        	        	 <div id="slides">
+
+                                <img class="imgSlider" src="images/cov1.jpg" alt="" >
+                                <img class="imgSlider" src="images/cov2.jpg" alt="">
+                                <img class="imgSlider" src="images/cov3.jpg" alt="">
+                                <img class="imgSlider" src="images/cov4.jpg" alt="">
+                                <img class="imgSlider" src="images/cov5.jpg" alt="" width="">
+                                <img class="imgSlider" src="images/cov6.jpg" alt="">
+                                <img class="imgSlider" src="images/cov7.jpg" alt="">
+                                <img class="imgSlider" src="images/cov8.jpg" alt="">
+                                <img class="imgSlider" src="images/cov9.jpg" alt="">
+
+
+    					</div>
+        	<a href="#" class="slidesjs-previous slidesjs-navigation"></a>
+      							<a href="#" class="slidesjs-next slidesjs-navigation"></a>
+        				</div>
+
+        	        	<div class="mainText">
+
+        	        	        	<p>Kodansha Europe is about culture. It’s about bringing the cultures of different parts of Asia to Europe, Africa and other parts of the world so that we can all share and learn. We offer books from many different publishers covering everything you could imagine, including Architecture, Art, Cinema, Cookery, Crafts, Design, Fiction, Gardens, Health &amp; Beauty, History &amp; Society, Languages, Manga, Martial Arts, Natural History, Pop Culture, Photography, Religion &amp; Philosophy, Travel...</p><p>We have also begun to make books from Africa available, starting with the amazing nature + wildlife photography of HPH Publishing. We welcome interest from any publisher in Asia or Africa seeking trade distribution and representation for Europe and beyond, or indeed from publishers in any part of the world with books on Asia or Africa.</p><p>
+For more detail on our books, publishers and trade representation, you can download the Kodansha Europe catalogue from the icon above and right. Individual publisher catalogues are also here, where available. Information on more recent titles are available to browse or download as individual PDFs. PRIVACY POLICY - see bottom of page.</p>
+
+        				</div>
+
+                        </div>
+
+
+
+
+
+
+
+        	<div class="newTitlesGrid">
+                <div class="newTitlesTextBlock">
+                    Below are some of our key current new titles. For further details please click on the link above right to download our latest leaflets and catalogues. For Kodansha Comics, click on the link above.
+                </div>
+                <div class="newTitlesTextBlockText">
+                    New Titles
+                </div>
+
+
+
+                    <div class="gridRow">
+
+
+                        <div class="gridCell">
+                            <div class="imageFrame"><img class="book"src="images/pic01.jpg" alt="Kodansha Logo"></div>
+                                <div class="imageDescriptionFrame">
+                                    <div class="titlesHeaderText"> THE JUST BENTO COOKBOOK 2
+Make-Ahead, Easy, Healthy Lunches To Go </div>
+                                    <div class="titlesDetailsText"> Makiko Itoh; £16.99 PB; 02.2018;
+978-1-56836-579-4; 252 x 190 mm; 128 pages;
+64 colour spreads; 100+ photographs; 150 recipes
+
+</div>
+                                    <div class="titlesDescriptionText"> Hundreds of photographs illustrate the stages of prep as well as the finished dishes. (Each bento box contains several dishes.) Like its predecessor, this one is filled with great-tasting quick & easy recipes; there is even more emphasis here on watching sugar/calorie content and maintaining a healthy balance.
+</div>
+                            </div>
+                        </div>
+                        <div class="gridCell">
+                            <div class="imageFrame"><img class="book" src="images/pic02.jpg" alt="Kodansha Logo"></div>
+                            <div class="imageDescriptionFrame">
+                                <div class="titlesHeaderText"> THE KODANSHA KANJI SYNONYMS GUIDE </div>
+                                <div class="titlesDetailsText"> Jack Halpern (Ed.); £29 PB; 02.2018;
+978-1-56836-585-5; 228 x 152 mm; 680 pages;
+1,245 synonym groups, covering 5,630 kanji; 21,000 compounds
+ </div>
+                                <div class="titlesDescriptionText"> A long-awaited bilingual kanji thesaurus that provides intermediate and advanced-level users with complete, precise guidance on the distinctions between characters of similar meanings. The Kodansha Kanji Synonyms Guide is the first-ever reference work to group together kanji characters that are related in meaning but different in detail.
+ </div>
+                            </div>
+                        </div>
+                        <div class="gridCell">
+                            <div class="imageFrame"><img class="book" src="images/pic03.jpg" alt="Kodansha Logo"></div>
+                            <div class="imageDescriptionFrame">
+                                <div class="titlesHeaderText"> JCA’S Complete Japanese Cuisine
+MUKOITA II – Cutting techniques
+ </div>
+                                <div class="titlesDetailsText"> Japanese Culinary Academy; £50 HB; 06.2018;
+978-4-908325-09-0; 288 x 218 mm; 256 pages;
+all colour: 1,116 photos, recipes, glossary, index </div>
+                                <div class="titlesDescriptionText"> The fourth in the ground-breaking series completes the detailed look at cutting techniques begun in the last book: in this case relating to SEAFOOD, POULTRY and VEGETABLES. As always, richly illustrated and finely described, with supporting recipes.
+“By Chefs for Chefs!” </div>
+                            </div>
+                        </div>
+                    </div>
+
+
+
+
+                    <div class="gridCell">
+                        <div class="imageFrame"><img class="book" src="images/pic04.jpg" alt="Kodansha Logo"></div>
+                        <div class="imageDescriptionFrame">
+                            <div class="titlesHeaderText"> 日本料理大全
+向板 Ⅱ - 切る技法•魚介類•鳥類•野菜
+(Mukoita II - Japanese edition)
+
+ </div>
+                            <div class="titlesDetailsText"> 日本料理アカデミー監修; £50 HB; 06.2018;
+978-4-908325-09-0; 288 x 218 mm; 224 pages;
+all colour: 1,116 photos; recipes, glossary, index
+
+ </div>
+                            <div class="titlesDescriptionText"> （日本語版）
+The fourth in the ground-breaking series completes the detailed look at cutting techniques (‘mukoita’) begun in the last book: in this case relating to SEAFOOD, POULTRY and VEGETABLES. As always, richly illustrated and finely described, with supporting recipes.
+“By Chefs for Chefs!”
+
+</div>
+                        </div>
+                    </div>
+                    <div class="gridCell">
+                        <div class="imageFrame"><img class="book" src="images/pic05.jpg" alt="Kodansha Logo"></div>
+                        <div class="imageDescriptionFrame">
+                            <div class="titlesHeaderText"> THE LHASA HOUSE
+Typology of an Endangered Species
+ </div>
+                            <div class="titlesDetailsText"> André Alexander; £75 HB; 02.2018;
+978-1-932476-84-2; 279 x 235 mm; 408 pages;
+474 colour, 61 b/w photos; 585 plans + elevations; 11 maps
+ </div>
+                            <div class="titlesDescriptionText"> This book details the practical, beautiful vernacular domicile architecture of the Tibetan capital against a background of continuing demolition since 1952. A richly illustrated masterwork from the late author - the foremost specialist in the field. For conservationists as well as architects / urban planners.
+</div>
+                        </div>
+                    </div>
+                    <div class="gridCell">
+                        <div class="imageFrame"><img class="book" src="images/pic06.jpg" alt="Kodansha Logo"></div>
+                        <div class="imageDescriptionFrame">
+                            <div class="titlesHeaderText"> RAINBOW BODY
+
+ </div>
+                            <div class="titlesDetailsText"> Loel Guinness; £110 HB; Large format; 02.2018;
+978-1-932476-87-3; 279 x 260 mm; 304 pages;
+all colour, 68 plates; endnotes; glossary; index </div>
+                            <div class="titlesDescriptionText"> Philanthropist Loel Guinness’ journey into the heart of Bön teaching over many years of hard academic study as well as physical experiences in the high Himalaya is stunningly evoked in this deluxe work of extraordinary depth and colour. Never before has Bön Dzogchen been revealed in such detail from personal insight. All art newly commissioned for the book.
+ </div>
+                        </div>
+                    </div>
+
+
+
+                    <div class="gridCell">
+                        <div class="imageFrame"><img class="book" src="images/pic07.jpg" alt="Kodansha Logo"></div>
+                        <div class="imageDescriptionFrame">
+                            <div class="titlesHeaderText"> MERCHANTS IN MOTION
+The Art of Vietnam’s Street Vendors
+ </div>
+                            <div class="titlesDetailsText"> Loes Heerink; £25 HB; 02.2018;
+978-988-14938-6-6; 245 x 195 mm; 168 pages;
+all colour, 144 photographs
+
+</div>
+                            <div class="titlesDescriptionText"> Dutch photographer Loes Heerink has captured the street vendors of Hanoi from a unique vantage point. The result is this stunning collection of colours and shapes set against the tarmac grey of the city’s roads. The human element is retained by interspersing quotations from some of the vendors. Merchants in Motion is a vibrant and original work of art photography.
+ </div>
+                        </div>
+                    </div>
+                    <div class="gridCell">
+                        <div class="imageFrame"><img class="book" src="images/pic08.jpg" alt="Kodansha Logo"></div>
+                        <div class="imageDescriptionFrame">
+                            <div class="titlesHeaderText"> PINE TREES IN KOREA
+Aesthetics and Symbolism
+ </div>
+                            <div class="titlesDetailsText"> Suh, Jae-sik; £45 HB; 02.2018;
+978-1-56591-486-5; 250 x 250 mm; 160 pages;
+all colour, 173 photographs </div>
+                            <div class="titlesDescriptionText"> Korea’s foremost photographer and cultural journalist offers a rare and beautiful insight into the deep presence of the pine tree in the Korean national psyche. He views the pine as an iconic symbol of Korea’s natural landscape, as a companion from birth to death for Korean people, and as a key visual element in the aesthetic sensitivity of Korean history and culture. </div>
+                        </div>
+                    </div>
+                    <div class="gridCell">
+                        <div class="imageFrame"><img class="book" src="images/pic09.jpg" alt="Kodansha Logo"></div>
+                        <div class="imageDescriptionFrame">
+                            <div class="titlesHeaderText"> YOUR FIRST HANJA GUIDE
+Learn Essential Chinese Characters Used in the Korean Language
+ </div>
+                                <div class="titlesDetailsText"> TTMIK + Kong & Park; £23 PB; 02.2018;
+978-1-63519-008-3; 230 x 168 mm; 352 pages;
+117 hanja groups: 100’s individual hanja </div>
+                                <div class="titlesDescriptionText"> This new book is the answer to all students’ prayers: a simple, easy, thorough and fun way to learn Hanja (Chinese characters used in Korean) while building vocabulary in a system benefitting from Kong & Park’s tried, tested and much lauded mnemonic techniques. </div>
+                        </div>
+                    </div>
+                    <div class="gridCell">
+                        <div class="imageFrame"><img class="book" src="images/pic010.jpg" alt="Kodansha Logo"></div>
+                        <div class="imageDescriptionFrame">
+                            <div class="titlesHeaderText"> TOWARDS WHOLENESS
+Translations and Commentary by the Venerable Myokyo-ni </div>
+                            <div class="titlesDetailsText"> Myokyo-ni; £12.99 PB; 04.2018;
+978-0-901032-49-2; 195 x 150 mm; 288 pages </div>
+                            <div class="titlesDescriptionText"> This book collects 19 essays exploring the author’s thoughts on Zen Buddhism and its place in daily life. It includes her well-known analysis of the Bull-Herding Series, as well as pieces on Jung, meditation, Zen practice and study. Essays such as The Quest for Wholeness offer examples of her incisive and insightful thinking. </div>
+                        </div>
+                    </div>
+                    <div class="gridCell">
+                        <div class="imageFrame"><img class="book" src="images/pic011.jpg" alt="Kodansha Logo"></div>
+                        <div class="imageDescriptionFrame">
+                            <div class="titlesHeaderText"> A FIRST ZEN READER </div>
+                            <div class="titlesDetailsText"> Trevor Leggett; £12.99 PB; 04.2018;
+978-0-901032-50-8; 195 x 130 mm; 240 pages </div>
+                            <div class="titlesDescriptionText"> First published in 1960, the purpose of this classic anthology is to suggest an approach to answering the perennial question “What is Zen?”. The texts translated here will give a general idea of Zen theory and practice, and are in themselves significant elements within the corpus of Zen literature.
+ </div>
+                        </div>
+                    </div>
+                    <div class="gridCell">
+                        <div class="imageFrame"><img class="book" src="images/pic012.jpg" alt="Kodansha Logo"></div>
+                        <div class="imageDescriptionFrame">
+                            <div class="titlesHeaderText"> A SECOND ZEN READER
+
+
+ </div>
+                            <div class="titlesDetailsText"> Trevor Leggett; £12.99 PB; 04.2018;
+978-0-901032-51-5; 195 x 130 mm; 208 pages </div>
+                            <div class="titlesDescriptionText"> Every page of this profoundly erudite book is written with compelling insight. There are 5 sections, each reflecting in depth a different emphasis by a particular Master or School of Zen. The most important section is the first, an inspired and inspiring commentary on a sūtra considered by some to be the kernel of Mahāyāna Buddhism: the Heart Sūtra (般若波羅蜜多心經). </div>
+                        </div>
+                    </div>
+                    <div class="gridCell">
+                        <div class="imageFrame"><img class="book" src="images/pic013.jpg" alt="Kodansha Logo"></div>
+                        <div class="imageDescriptionFrame">
+                            <div class="titlesHeaderText"> THREE AGES OF ZEN </div>
+                            <div class="titlesDetailsText"> Trevor Leggett; £12.99 PB; 04.2017;
+978-0-901032-48-5; 288 pages;
+195x130mm
+ </div>
+                            <div class="titlesDescriptionText"> In this volume, Trevor Leggett presents three texts translated from Japanese and compiled to illuminate the three ages of Zen in Japan: the warrior Zen of crisis and war in the thirteenth century; the feudal Zen of eighteenth century samurai officials and finally the modern Zen found in 20th-century Japan. </div>
+                        </div>
+                    </div>
+                    <div class="gridCell">
+                        <div class="imageFrame"><img class="book" src="images/pic014.jpg" alt="Kodansha Logo"></div>
+                        <div class="imageDescriptionFrame">
+                            <div class="titlesHeaderText"> ZEN AND THE WAYS </div>
+                            <div class="titlesDetailsText"> Trevor Leggett; £10.99 PB; 04.2017;
+978-0-901032-47-8; 288 pages;
+195x150mm </div>
+                            <div class="titlesDescriptionText"> In Japanese Zen, every activity in life, including the martial arts, flower arrangement and serving tea, are considered a field for practising inner control, meditation and inspiration, and can be termed a ‘Way’. In this book, Leggett collects together translations of texts relating to this phenomenon and offers his own thoughts and observations on the subject.
+ </div>
+                        </div>
+                    </div>
+                    <div class="gridCell">
+                        <div class="imageFrame"><img class="book" src="images/pic015.jpg" alt="Kodansha Logo"></div>
+                        <div class="imageDescriptionFrame">
+                            <div class="titlesHeaderText"> ESCAPISM
+ </div>
+                            <div class="titlesDetailsText"> Bill Bensley; £99 HB, Large format, deluxe; boxed; available;
+978-1-932476-82-8; 380 x 280 mm; 510 pages;
+all colour: 300+ photographs
+ </div>
+                            <div class="titlesDescriptionText"> If you’ve ever stayed at a quirky top-end resort in Asia, chances are it was designed by Bill Bensley and his team. This book is an exotic, seamless visual journey through the most iconic 26 of the 200 he has designed so far; more than 500 pages of vivid photographs in large format showcase these visions of Wonderland, using actors in places to indicate scale.
+ </div>
+                        </div>
+                    </div>
+
+
+
+
+
+                    <div class="gridCell">
+                        <div class="imageFrame"><img class="book" src="images/pic016.jpg" alt="Kodansha Logo"></div>
+                        <div class="imageDescriptionFrame">
+                         <p> </p>
+                            <div class="titlesHeaderText"> PRINCE NARIS: A Siamese Designer </div>
+                            <div class="titlesDetailsText"> M.L. Chittawadi Chitrabongs; £99 HB; Large format, deluxe, boxed; available;
+978-1-932476-85-9; 244 pages;
+310x250mm; all colour; 279 illustrations
+ </div>
+                            <div class="titlesDescriptionText"> Prince Naris (1863-1947) was a son of King Mongkut (Rama IV), and half-brother of King Chulalongkorn (Rama V). He became the principal court designer during the reigns of Rama V~VII. These images chart the steps he took to visualise and design the final object. He intended these drawings to move from their two-dimensional state to three dimensions in their completed form.
+
+ </div>
+                        </div>
+                    </div>
+                    <div class="gridCell">
+                        <div class="imageFrame"><img class="book" src="images/pic017.jpg" alt="Kodansha Logo"></div>
+                        <div class="imageDescriptionFrame">
+                         <p> </p>
+                            <div class="titlesHeaderText"> SAVUTE: Botswana’s Wildlife Kingdom
+ </div>
+                            <div class="titlesDetailsText"> James Gifford; £30 HB; available;
+978-0-9946924-2-9; 245 x 260 mm; 168 pages;
+130 colour photos, 15 b/w; map
+ </div>
+                            <div class="titlesDescriptionText"> Savute must rank as one of the most spectacularly enigmatic African wildlife paradises: a river that rarely flows, a marsh that metamorphoses from wasteland to watery wonderland and, towering over them both, a silent parade of prehistoric hills. Within these habitats lies a complex web of wildlife whose unique behaviour is vividly brought to life in this astonishing visual journey.
+ </div>
+                        </div>
+                    </div>
+                    <div class="gridCell">
+                        <div class="imageFrame"><img class="book" src="images/pic018.jpg" alt="Kodansha Logo"></div>
+                        <div class="imageDescriptionFrame">
+                         <p> </p>
+                            <div class="titlesHeaderText"> PLANET OKAVANGO </div>
+                            <div class="titlesDetailsText"> Hannes Lochner; £59 HB; Large format, deluxe; available;
+978-0-620-75145-2; 220 pages;
+380x290mm; ; all colour: 100s colour and b/w photographs </div>
+                            <div class="titlesDescriptionText"> Multi-award winning photographer Hannes Lochner spent 5 years continuously living in the Kalahari Desert to produce his widely acclaimed books. He felt he needed water. So he spent the next 36 months living in the Okavango Delta doing what he does best – capturing those once in a blue moon moments that define his amazing talents, then writing about them. This is a stunning book.
+ </div>
+                        </div>
+                    </div>
+                    <div class="gridCell">
+                        <div class="imageFrame"><img class="book" src="images/pic019.jpg" alt="Kodansha Logo"></div>
+                        <div class="imageDescriptionFrame">
+                         <p> </p>
+                            <div class="titlesHeaderText"> KAPAMA PRIVATE GAME RESERVE
+</div>
+                            <div class="titlesDetailsText"> Heinrich van den Berg; £50 HB; available;
+978-0-620-47406-1; 152 pages;
+330x250mm; 133 colour & 24 b/w photos
+</div>
+                            <div class="titlesDescriptionText"> Stretching across 13,000 hectares of spectacular wilderness just west of the Kruger National Park Kapama Private Game Reserve is South Africa’s most prestigious safari park and home to a huge variety of wildlife. Offering an authentic African safari experience, Kapama embodies a range of stylish accommodation choices across four highly sophisticated bush camps and lodges, and a wellness centre too.
+ </div>
+                        </div>
+                    </div>
+                    <div class="gridCell">
+                        <div class="imageFrame"><img class="book" src="images/pic020.jpg" alt="Kodansha Logo"></div>
+                        <div class="imageDescriptionFrame">
+                                                 <p> </p>
+
+                            <div class="titlesHeaderText"> KGALAGADI SELF-DRIVE: Routes, Roads & Ratings
+ </div>
+                            <div class="titlesDetailsText"> Heinrich van den Berg; £29 HB; available;
+978-0-620-47406-1; 358 pages;
+280x220mm; all colour; 100s photos,
+route maps, charts, ratings, wildlife info
+ </div>
+                            <div class="titlesDescriptionText"> The Kgalagadi Transfrontier Park lies in the far north of Northern Cape (⅓) and the Southwestern corner of Botswana (⅔). Its name means ‘Land of Great Thirst’ and ‘Kalahari’ is a corruption of it. Like “Kruger Self-Drive”, this is the driver’s bible, covering every aspect of safari self-drive: route planning, overnight stays, distances & times, optimum wildlife viewing and more.
+ </div>
+                        </div>
+                    </div>
+                    <div class="gridCell">
+                        <div class="imageFrame"><img class="book" src="images/pic021.jpg" alt="Kodansha Logo"></div>
+                        <div class="imageDescriptionFrame">
+                            <div class="titlesHeaderText"> JCA’s Complete Japanese Cuisine
+MUKOITA CUTTING TECHNIQUES I </div>
+                            <div class="titlesDetailsText"> Japanese Culinary Academy; £50 HB; available;
+978-4-908325-06-9; 288 x 218 mm; 256 pages; all
+colour: 300+ photos, 10 paintings/drawings
+recipes, glossary, index
+
+                                </div>
+                            <div class="titlesDescriptionText"> The third in this amazing series looks at the most crucial skill of cutting - specifically the cutting and slicing techniques required for the preparation of FISH. Like all other volumes, it is illustrated with 100s of colour photos as well as drawings and includes basic recipes for professionals.
+
+ </div>
+                        </div>
+                    </div>
+                    <div class="gridCell">
+                        <div class="imageFrame"><img class="book" src="images/pic022.jpg" alt="Kodansha Logo"></div>
+                        <div class="imageDescriptionFrame">
+                            <div class="titlesHeaderText"> HANBOK, MY FAIRY FRIENDS, MY CHILD
+ </div>
+                            <div class="titlesDetailsText"> Shin, Sun-mi; £39 HB; available;
+978-1-56591-485-8; 148 pages;
+220x280mm; watercolours on handcrafted paper
+                               </div>
+                            <div class="titlesDescriptionText"> Shin Sun-mi has created paintings brimming with humour wrapped around her favourite subjects, hanbok (traditional clothing) and women. This compilation of her paintings has been selected and arranged by the artist to show changes in her themes and motifs through the prisms of childhood and memory. Whimsical, humourous yet very thought-provoking, Shin&39s paintings have been taking the Far-Eastern art world by storm.. </div>
+                        </div>
+                    </div>
+                    <div class="gridCell">
+                        <div class="imageFrame"><img class="book" src="images/pic023.jpg" alt="Kodansha Logo"></div>
+                        <div class="imageDescriptionFrame">
+                            <div class="titlesHeaderText"> UNDERSTANDING KOREAN ART: From the Prehistoric through the Modern Day
+ </div>
+                            <div class="titlesDetailsText"> Hong, Sunpyo et al.; £35 PB; available;
+978-89-6297-023-4; 254 pages;
+254x188mm; all colour; 262 photos
+index, glossary, bibliography; audiovisual CD </div>
+                            <div class="titlesDescriptionText"> Conceived and written by 5 scholars, this work chronologically focuses on all aspects of Korean art, including painting, sculpture, dance and music, as well as other forms that developed with a uniquely national style. Appreciation & understanding of Korean art is greatly enhanced by a bundled CD containing graphics, music, video clips and lots of other visual data. A rare book. </div>
+                        </div>
+                    </div>
+                    <div class="gridCell">
+                        <div class="imageFrame"><img class="book" src="images/pic024.jpg" alt="Kodansha Logo"></div>
+                        <div class="imageDescriptionFrame">
+                            <div class="titlesHeaderText"> <br> UNDERSTANDING KOREAN HISTORY </div>
+                            <div class="titlesDetailsText"> O. Baek et al.; £34 PB; available;
+978-89-6297-024-1; 314pages; all colour;
+254x188mm; 51 photos, 13 maps, 5 tables & plans </div>
+                            <div class="titlesDescriptionText"> This book is an introduction to Korean history by 6 academics: it also represents an opportunity for anyone with an interest in Korean history to deepen their knowledge and broaden their understanding of Korea beyond its history. [For further resources, see also our leaflet POLITICS + SOCIETY, as well as KOREAN HISTORY in the Autumn 2017 leaflets folder.]
+ </div>
+                        </div>
+                    </div>
+                    <div class="gridCell">
+                        <div class="imageFrame"><img class="book" src="images/pic025.jpg" alt="Kodansha Logo"></div>
+                        <div class="imageDescriptionFrame">
+                            <div class="titlesHeaderText"> <br> NORTH KOREA’S CITIES: Industrial facilities, internal structures and typification </div>
+                            <div class="titlesDetailsText"> Rainer Dormels; £62 Heavy PB; available;
+978-89-6297-167-5; 544 pages;
+254x188mm; all colour; 170 maps, 44 photos, 100s tables / charts
+
+                                </div>
+                            <div class="titlesDescriptionText"> This groundbreaking new work in spatial geography explores the changes in urban environments and the effects on the economic and social structures of North Korea. It is a rare piece of scholarship and the result of result of long and careful research conducted under the most exacting circumstances. </div>
+                        </div>
+                    </div>
+                    <div class="gridCell">
+                        <div class="imageFrame"><img class="book" src="images/pic026.jpg" alt="Kodansha Logo"></div>
+                        <div class="imageDescriptionFrame">
+                            <div class="titlesHeaderText"> <br> THE SILLA ANNALS of the Samguk Sagi
+</div>
+                            <div class="titlesDetailsText"> Kim, Pusik; £55 HB; available;
+978-89-7105-860-2; 468 pages;
+231x157mm; footnotes, glossary, index </div>
+                            <div class="titlesDescriptionText"> Samguk Sagi (三國史記, History of the Three Kingdoms) is a historical record of the Kingdoms of Koguryŏ, Paekche and Silla. It is written in Classical Chinese, the language of the literati in ancient Korea, and completed in 1145. The Silla Annals recount the growth and ultimate supremacy of the most powerful of the 3 Kingdoms… </div>
+                        </div>
+                    </div>
+                    <div class="gridCell">
+                        <div class="imageFrame"><img class="book" src="images/pic027.jpg" alt="Kodansha Logo"></div>
+                        <div class="imageDescriptionFrame">
+                            <div class="titlesHeaderText"> <br> MY DAILY ROUTINE IN KOREAN
+ </div>
+                            <div class="titlesDetailsText"> TalkToMeInKorean; £22 PB; available;
+ 979-11-86701-11-9; 140 pages;
+175x153mm; 2-colour; richly illustrated
+ </div>
+                            <div class="titlesDescriptionText"> This is a picture dictionary designed to help students learn everyday Korean words & expressions using highly effective visual aids. It is divided into 32 categories related to common everyday activities, each of which introduces up to 17 phrases through fun illustrations. The translation of each phrase is on the reverse page of the illustration. There is an index of all 408 expressions at the back.
+ </div>
+                        </div>
+                    </div>
+                    <div class="gridCell">
+                        <div class="imageFrame"><img class="book" src="images/pic028.jpg" alt="Kodansha Logo"></div>
+                        <div class="imageDescriptionFrame">
+                            <div class="titlesHeaderText"> <br> TALK TO ME IN KOREAN 1
+ </div>
+                            <div class="titlesDetailsText"> TalkToMeInKorean; £20 PB; available;
+978-11-86701-07-2; 220 x 188 mm; 164 pages;
+all colour: drawings + cartoons
+ </div>
+                            <div class="titlesDescriptionText"> TalkToMeInKorean.com is a language learning website which is hugely popular worldwide. The free audio lessons have been downloaded over 100 million times, while the YouTube videos have received over eighteen million views so far. There are 5 textbooks for the series – all published (this is the first), and 5 Workbooks supporting (4 published): go to our leaflet downloads for full information (above right). </div>
+                        </div>
+                    </div>
+                    <div class="gridCell">
+                        <div class="imageFrame"><img class="book" src="images/pic029.jpg" alt="Kodansha Logo"></div>
+                        <div class="imageDescriptionFrame">
+                            <div class="titlesHeaderText"> NEWS IN KOREAN
+ </div>
+                            <div class="titlesDetailsText"> TalkToMeInKorean; £24 PB; available;
+978-11-86701-10-2; 228 pages;
+210x148mm; all colour; richly illustrated </div>
+                            <div class="titlesDescriptionText"> This is an effective way to learn new words & phrases in the context of real news situations, or to keep up the Korean you’ve already learned. The sentence-by-sentence translations help the student get a feel for the grammatical structures without rote learning – in fact the book offers a
+chance to see the full range of grammatical strutures within natural Korean prose. Free downloads available online. </div>
+                        </div>
+                    </div>
+                    <div class="gridCell">
+                        <div class="imageFrame"><img class="book" src="images/pic030.jpg" alt="Kodansha Logo"></div>
+                        <div class="imageDescriptionFrame">
+                            <div class="titlesHeaderText"> ENJOY LEARNING JAPANESE KANJI
+ </div>
+                            <div class="titlesDetailsText"> Kun Ho Park & Kyung Yong Kong; £25 PB; available;
+978-1-63519-000-7;  416 pages, all colour;
+226 x 156mm; 971 kanji / 250 meaning-sourced radicals;
+4 indexes, by sound, meaning, radical & pattern </div>
+                            <div class="titlesDescriptionText"> A brilliant new approach founded in deep philological research into the root meanings of the constituent elements of each character. 250 root characters are identified, falling in 3 basic groups. The student remembers them subconsciously through multiple mnemonic techniques. Fascinating, educational and very effective!
+ </div>
+                        </div>
+                    </div>
+
+                </div>
+
+
+
+
+
+
+
+
+
+        	<div class="representsText">
+
+         <div class="representsHeader">KODANSHA EUROPE REPRESENTS:</div>
+
+                <div class="gridRow">
+                     <div class="gridCellRep">
+
+                        <ul class="default">
+                            <li>KODANSHA (USA / Japan)</li>
+                            <li>JPT (‘Umami’ only; Japan)</li>
+                            <li>SERINDIA (USA / Thailand)</li>
+                            <li>VISIONARY WORLD (Hong Kong / Thailand)</li>
+                            <li>THE BUDDHIST SOCIETY (U.K.)</li>
+                        </ul>
+
+                    </div>
+                    <div class="gridCellRep">
+                        <ul class="default">
+                            <li>HPH PUBLISHING (South Africa)</li>
+                            <li>ARTBOOK (Vietnam)</li>
+                            <li>KONG & PARK (USA / Korea)</li>
+                            <li>SHUHARI / JAPANESE CULINARY ACADEMY (Japan)</li>
+                                </ul>
+                    </div>
+                    <div class="gridCellRep">
+
+                    <ul class="default">
+                    <li>PURPLE MOON (USA / Thailand)</li>
+                    <li>HOLLYM CORPORATION (Korea)</li>
+                    <li>CRIME WAVE PRESS <br>(Hong Kong / Thailand)</li>
+
+                    </ul>
+                    </div>
+
+                </div>
+                </div>
+
+            <div class="representsFooter">© Kodansha Europe Ltd. All rights reserved. Prices and other details subject to change without notice. Registered in the U.K., No. 2505348.
+
+
+
+            </div>
+            <div class="pripolicyFooter"><a href="http://www.kodansha.eu/privacy_policy.html">PRIVACY POLICY- Click here for our website privacy policy under the EU's General Data Protection Regulations (GDPR)</a>
+            </div>
+
+
+
+
+
+        </div>
+
+
+
+        <!-- Google Analytics: change UA-XXXXX-X to be your site's ID. -->
+
+    </body>
+</html>
+
+

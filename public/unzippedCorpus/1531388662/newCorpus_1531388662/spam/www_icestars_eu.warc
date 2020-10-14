@@ -1,0 +1,128 @@
+WARC/1.0
+WARC-Type: warcinfo
+WARC-Date: 2018-05-30T17:52:31Z
+WARC-Record-ID: <urn:uuid:87a4dfdf-098c-4a0f-bad0-b58e66863a2f>
+WARC-All-Language: en
+WARC-All-Content_type: text/html, text/html; charset=iso-8859-1
+Content-Type: application/http;msgtype=response
+Content-Length: 46
+
+WARCProcessor by SING Group www.sing-group.com
+
+WARC/1.0
+WARC-Type: response
+WARC-Record-ID: <http://www.icestars.eu>
+WARC-Date: 20180530175231
+WARC-Target-URI: http://www.icestars.eu
+WARC-Language: en
+Content-Type: application/http;msgtype=response
+Content-Length: 7936
+
+HTTP/1.1 200
+Content-Type:text/html; charset=iso-8859-1
+
+
+<!DOCTYPE html
+     PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+     "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<!-- 
+	This website is powered by TYPO3 - inspiring people to share!
+	TYPO3 is a free open source Content Management Framework initially created by Kasper Skaarhoj and licensed under GNU/GPL.
+	TYPO3 is copyright 1998-2009 of Kasper Skaarhoj. Extensions are copyright of their respective owners.
+	Information and contribution at http://typo3.com/ and http://typo3.org/
+-->
+
+<base href="http://www.icestars.eu/" />
+
+<title>ICESTARS: Icestars</title>
+<meta name="generator" content="TYPO3 4.3 CMS" />
+<meta name="language" content="en" />
+
+<link rel="stylesheet" type="text/css" href="typo3temp/stylesheet_42a7d7391a.css" media="screen" />
+<link rel="stylesheet" type="text/css" href="fileadmin/templates/screen.css" media="screen" />
+
+
+
+<script src="typo3temp/javascript_93077bb238.js" type="text/javascript"></script>
+
+
+
+</head>
+<body>
+<div id="header">
+	<a name="TOP"></a>
+	<h1>Icestars</h1>
+	<table stype="none" cellspacing="1" cellpadding="0" rowspacing="0" border="0">
+	<tr><td height="15px" colspan="6"></td></tr>
+	<tr>
+		<td width="15px" rowspan="2"></td>
+		<td width="104" colspan="2"><img style="none" width="104" src="fileadmin/EU_Logos/EU_Logo.jpg" alt="" /></td>
+		<td width="104" rowspan="2"><a href="http://www.icestars.eu"><img border="0" alt="" style="none" width="104" src="fileadmin/EU_Logos/Icestars_Logo.jpg" /></a></td>
+		<td width="15px" rowspan="2"></td>		
+		<td rowspan="2"><font style="font-weight:bold;font-size:16pt" color="white">Integrated Circuit/EM Simulation and Design Technologies for Advanced Radio Systems-on-chip</font></td>
+	</tr>
+	<tr>
+		<td width="51"><img width="51" src="fileadmin/EU_Logos/FP7_Logo.jpg" alt="" /></td>
+		<td width="51"><img width="51" src="fileadmin/EU_Logos/ICT_Logo.jpg" alt="" /></td>
+	</tr>
+	</table>
+		
+
+	<ul><li><a href="index.php?id=49">About Icestars</a></li><li><a href="index.php?id=42">ICESTARS Research Areas</a></li><li><a href="index.php?id=75">ICESTARS Achievements</a></li><li><a href="index.php?id=43">Time Domain</a></li><li><a href="index.php?id=44">Frequency Domain</a></li><li><a href="index.php?id=45">EM Analysis</a></li><li><a href="index.php?id=54">Validation</a></li><li><a href="index.php?id=53">Glossary</a></li><li><a href="index.php?id=63">Publications</a></li><li><a href="index.php?id=64">ICESTARS at ECMI 2010</a></li><li><a href="index.php?id=55">Press room</a></li></ul>
+	<p id="layoutdims">
+	
+	</p>
+</div>
+<div class="colmask threecol">
+	<div class="colmid">
+		<div class="colleft">
+			<div class="col1">
+				<p>&#124; Your position: Icestars &#124;</p>
+				<!-- Column 1 start -->								
+				<div id="c114" class="csc-default"><p><br /><br /><b><span lang="EN-US">ICESTARS addresses </span></b><span lang="EN-US">a series of critical issues or &quot;bottlenecks&quot; in the currently-available infrastructure for the design and simulation of new and highly-complex Radio Frequency (RF)&nbsp;front ends operating beyond 10 and up to 100 GHz. Future systems demand an increasing blend of analogue and digital functionalities. The <b>ICESTARS</b> research will accelerate the chip development process in the extremely high frequency (EHF) range to accomplish future demands for higher capacity channels. </span><span lang="EN-GB">The key to enable the realisation of single-chip integration of high-GHz wireless modules is resolving the shortcomings in available design flows. <br /></span><br /><b><span lang="EN-US">ICESTARS aims at </span></b><span lang="EN-US">an<b> </b></span><span lang="EN-GB">efficient connection between the frequency domain  where the RF part of wireless transceiver systems is usually designed  with the time domain where the digital signal processing and control logic are generally developed. <b>ICESTARS</b> will introduce not only novel Computer Aided Design (CAD) tools but also the mathematical methods to deal with analogue/digital mixed signal simulation and future challenges in system design and methodologies, thus enabling </span>European developers <span lang="EN-US">of integrated circuits (IC) for RF (RF-IC) to maintain their top position&nbsp;at the&nbsp;global telecommunication market. <br /></span><br />Read more about</p><br /><ul type="disc"><li>the <a href="index.php?id=50" title="Öffnet internen Link im aktuellen Fenster" class="internal-link">state-of-the-art</a></li><li>the <a href="index.php?id=42" title="?fnet internen Link im aktuellen Fenster" class="internal-link"><span>research objectives</span></a></li><li>RF Design</li></ul><p>ICESTARS achievements in</p><br /><ul><li><a href="index.php?id=43" title="Öffnet internen Link im aktuellen Fenster" class="internal-link">Time Domain Techniques</a></li><li><a href="index.php?id=44" title="Öffnet internen Link im aktuellen Fenster" class="internal-link">Frequency Domain Techniques</a></li><li><a href="index.php?id=45" title="Öffnet internen Link im aktuellen Fenster" class="internal-link">EM Analysis and Coupled EM/Circuit Analysis</a></li><li>the <a href="index.php?id=54" title="Öffnet internen Link im aktuellen Fenster" class="internal-link">validation</a> of the <b>ICESTARS </b>results</li></ul><ul type="disc"><li>the <a href="index.php?id=47" title="?fnet internen Link im aktuellen Fenster" class="internal-link"><span>ICESTARS consortium</span></a> </li></ul><p><span lang="EN-US"><br /> </span><br /><br /><br /></p><br /></div>
+				<!-- Column 1 end -->
+			</div>
+			<div class="col2">
+				<!-- Column 2 start -->
+				
+				<!-- Column 2 end -->
+			</div>
+			<div class="col3">
+				<!-- Column 3 start -->
+				<div id="c116" class="csc-default"><div class="csc-textpic csc-textpic-center csc-textpic-below"><div class="csc-textpic-text"><p><b><span lang="EN-GB">ICESTARS</span></b><span lang="EN-GB"> </span><span lang="EN-US">(<b>I</b>ntegrated <b>C</b>ircuit/<b>E</b>M <b>S</b>imulation and Design <b>T</b>echnologies for <b>A</b>dvanced <b>R</b>adio <b>S</b>ystems-on-chip</span><span lang="EN-GB">is) a collaborative research project within the research program &quot;<b>Information and communication technologies</b>&quot; (ICT) </span>of the <b>Seventh Framework Programme</b> for Research and Technological Development (FP7) funded by the European Union (EU). </p><br /></div><div class="csc-textpic-imagewrap" style="width:208px;"><img src="uploads/pics/Icestars_Logo.jpg" width="208" height="208" border="0" alt="" /></div></div><div class="csc-textpic-clear"><!-- --></div></div>
+				<!-- Column 3 end -->
+			</div>
+		</div>
+    </div>
+</div>
+
+<div id="footer" align="right">
+    <table border="0" cellspacing="15px">
+    	<tr>
+    	<td><img border="0" src="fileadmin/Partners_Logos/1_NXP_logo.jpg" alt="" /></td>
+    	<td><img border="0" src="fileadmin/Partners_Logos/2_INF_log.jpg" alt="" /></td>
+    	<td><img border="0" src="fileadmin/Partners_Logos/AWR_New_Logo.jpg" alt="" /></td>
+    	<td><img border="0" src="fileadmin/Partners_Logos/4_MAG_logo.JPG" alt="" /></td>
+    	<td><img border="0" src="fileadmin/Partners_Logos/5_FHO_logo.jpg" alt="" /></td>
+    	<td><img border="0" src="fileadmin/Partners_Logos/6_Koeln_logo.jpg" alt="" /></td>
+    	<td><img border="0" src="fileadmin/Partners_Logos/7_OUL_logo.jpg" alt="" /></td>
+    	<td><img border="0" src="fileadmin/Partners_Logos/8_Wuppertal_logo.jpg" alt="" /></td>
+    	<td><img border="0" src="fileadmin/Partners_Logos/9_Logo_NEU_Aalto.jpg" alt="" /></td>
+    	</tr>
+    </table>
+    </center>
+</div>
+<div id="footer">
+    <p>&copy; 2018 ICESTARS Project &#124; Your position: Icestars</p>
+</div>
+
+
+
+
+</body>
+</html>
+

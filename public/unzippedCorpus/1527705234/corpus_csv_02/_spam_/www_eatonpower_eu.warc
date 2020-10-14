@@ -1,0 +1,262 @@
+WARC/1.0
+WARC-Type: warcinfo
+WARC-Date: 2018-05-30T17:52:32Z
+WARC-All-Language: en
+WARC-All-Content_type: text/html
+WARC-Record-ID: <urn:uuid:eb4227b0-0095-468e-96e9-fbaf41f5f519>
+Content-Type: application/http;msgtype=response
+Content-Length: 46
+
+WARCProcessor by SING Group www.sing-group.com
+
+WARC/1.0
+WARC-Type: response
+WARC-Target-URI: http://www.eatonpower.eu
+WARC-Date: 20180530175232
+WARC-Language: en
+WARC-Record-ID: <http://www.eatonpower.eu>
+Content-Type: application/http;msgtype=response
+Content-Length: 17519
+
+HTTP/1.1 200
+Content-Type:text/html
+
+
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<title>What's changed at Powerware and MGE Office Protection Systems?</title>
+<link rel="stylesheet" media="all" href="/elements/css/site.css" />
+<!--[if lt IE 7]><link rel="stylesheet" type="text/css" href="/en/elements/css/ie6.css" media="screen" /><![endif]-->
+<script type="text/javascript" language="javascript">AC_FL_RunContent = 0;</script>
+<script type="text/javascript" src="/elements/js/AC_RunActiveContent.js" language="javascript"></script>
+
+<script language="javascript">
+<!--//
+    function relocate(){
+        var ele = document.getElementById('cid');
+        if(ele.options[ele.selectedIndex].value.length > 0){
+            document.location = ele.options[ele.selectedIndex].value;
+        }
+    }
+//-->
+</script>
+</head>
+<body>
+<div id="outer">
+  <div id="inner">
+  	<div id="headercontainer">
+    	<div id="header">
+        	<a href="index.html"><img class="logo" src="/elements/img/eaton-logo.gif" alt="Eaton - Powering Business Worldwide" width="162" height="56" /></a>
+        	<!-------------------------------------------------------------------------------------------->        	
+        	<div id="search_box">
+                <select name="country" id="cid" onChange="relocate();">
+                   <option>Select your Country</option>
+                    <option value='http://www.eatonpower.eu/r_en7/index.html'>Afghanistan</option>
+                    <option value='http://www.eatonpower.eu/r_en/index.html'>Albania</option>
+                    <option value='http://www.eatonpower.eu/r_fr2/index.html'>Algeria</option>
+                    <option value='http://www.eatonpower.eu/r_es/index.html'>Andorra</option>
+                    <option value='http://www.eatonpower.eu/r_en7/index.html'>Angola</option>
+                    <option value='http://www.eatonpower.eu/r_ru2/index.html'>Armenia</option>
+                    <option value='http://www.eatonpower.eu/r_de/index.html'>Austria</option>
+                    <option value='http://www.eatonpower.eu/r_ru2/index.html'>Azerbaijan</option>
+                    <option value='http://www.eatonpower.eu/r_en7/index.html'>Bahrain</option>
+                    <option value='http://www.eatonpower.eu/r_en4/index.html'>Belarus</option>
+                    <option value='http://www.eatonpower.eu/r_en3/index.html'>Belgium</option>
+                    <option value='http://www.eatonpower.eu/r_fr2/index.html'>Benin</option>
+                    <option value='http://www.eatonpower.eu/r_en/index.html'>Bosnia & Herzegovina</option>
+                    <option value='http://www.eatonpower.eu/r_en7/index.html'>Botswana</option>
+                    <option value='http://www.eatonpower.eu/r_bg/index.html'>Bulgaria</option>
+                    <option value='http://www.eatonpower.eu/r_fr2/index.html'>Burkina Faso</option>
+                    <option value='http://www.eatonpower.eu/r_fr2/index.html'>Burundi</option>
+                    <option value='http://www.eatonpower.eu/r_fr2/index.html'>Cameroon</option>
+                    <option value='http://www.eatonpower.eu/r_fr2/index.html'>Cape Verde Island</option>
+                    <option value='http://www.eatonpower.eu/r_fr2/index.html'>Central African Republic</option>
+                    <option value='http://www.eatonpower.eu/r_fr2/index.html'>Chad</option>
+                    <option value='http://www.eatonpower.eu/r_fr2/index.html'>Comoros</option>
+                    <option value='http://www.eatonpower.eu/r_fr2/index.html'>Congo</option>
+                    <option value='http://www.eatonpower.eu/r_en/index.html'>Croatia</option>
+                    <option value='http://www.eatonpower.eu/r_en7/index.html'>Cyprus</option>
+                    <option value='http://www.eatonpower.eu/r_cz/index.html'>Czech Republic</option>
+                    <option value='http://www.eatonpower.eu/r_en7/index.html'>Democratic republic of Congo</option>
+                    <option value='http://www.eatonpower.eu/r_dk/index.html'>Denmark</option>
+                    <option value='http://www.eatonpower.eu/r_en7/index.html'>Egypt</option>
+                    <option value='http://www.eatonpower.eu/r_en7/index.html'>Equatorial Guinea</option>
+                    <option value='http://www.eatonpower.eu/r_en7/index.html'>Eritrea</option>
+                    <option value='http://www.eatonpower.eu/r_en4/index.html'>Estonia</option>
+                    <option value='http://www.eatonpower.eu/r_en7/index.html'>Ethiopia</option>
+                    <option value='http://www.eatonpower.eu/r_fi/index.html'>Finland</option>
+                    <option value='http://www.eatonpower.eu/r_fr/index.html'>France</option>
+                    <option value='http://www.eatonpower.eu/r_fr2/index.html'>French Polynesia</option>
+                    <option value='http://www.eatonpower.eu/r_fr2/index.html'>Gabon</option>
+                    <option value='http://www.eatonpower.eu/r_en7/index.html'>Gambia</option>
+                    <option value='http://www.eatonpower.eu/r_en4/index.html'>Georgia</option>
+                    <option value='http://www.eatonpower.eu/r_de/index.html'>Germany</option>
+                    <option value='http://www.eatonpower.eu/r_en7/index.html'>Ghana</option>
+                    <option value='http://www.eatonpower.eu/r_en5/index.html'>Gibraltar</option>
+                    <option value='http://www.eatonpower.eu/r_en/index.html'>Greece</option>
+                    <option value='http://www.eatonpower.eu/r_en7/index.html'>Guadeloupe</option>
+                    <option value='http://www.eatonpower.eu/r_en6/index.html'>Guernsey</option>
+                    <option value='http://www.eatonpower.eu/r_fr2/index.html'>Guinea</option>
+                    <option value='http://www.eatonpower.eu/r_en7/index.html'>Guinea-Bissau</option>
+                    <option value='http://www.eatonpower.eu/r_it/index.html'>Holy See</option>
+                    <option value='http://www.eatonpower.eu/r_hu/index.html'>Hungary</option>
+                    <option value='http://www.eatonpower.eu/r_en2/index.html'>Iceland</option>
+                    <option value='http://www.eatonpower.eu/r_en6/index.html'>Ireland</option>
+                    <option value='http://www.eatonpower.eu/r_en6/index.html'>Isle of Man</option>
+                    <option value='http://www.eatonpower.eu/r_en6/index.html'>Israel</option>
+                    <option value='http://www.eatonpower.eu/r_it/index.html'>Italy</option>
+                    <option value='http://www.eatonpower.eu/r_fr2/index.html'>Ivory Coast</option>
+                    <option value='http://www.eatonpower.eu/r_en7/index.html'>Jordan</option>
+                    <option value='http://www.eatonpower.eu/r_ru2/index.html'>Kazakhstan</option>
+                    <option value='http://www.eatonpower.eu/r_en7/index.html'>Kenya</option>
+                    <option value='http://www.eatonpower.eu/r_en7/index.html'>Kuwait</option>
+                    <option value='http://www.eatonpower.eu/r_ru2/index.html'>Kyrgyzstan</option>
+                    <option value='http://www.eatonpower.eu/r_en4/index.html'>Latvia</option>
+                    <option value='http://www.eatonpower.eu/r_en7/index.html'>Lebanon</option>
+                    <option value='http://www.eatonpower.eu/r_en6/index.html'>Lesotho</option>
+                    <option value='http://www.eatonpower.eu/r_en7/index.html'>Liberia</option>
+                    <option value='http://www.eatonpower.eu/r_en/index.html'>Liechtenstein</option>
+                    <option value='http://www.eatonpower.eu/r_en4/index.html'>Lithuania</option>
+                    <option value='http://www.eatonpower.eu/r_en3/index.html'>Luxembourg</option>
+                    <option value='http://www.eatonpower.eu/r_en/index.html'>Macedonia</option>
+                    <option value='http://www.eatonpower.eu/r_fr2/index.html'>Madagascar</option>
+                    <option value='http://www.eatonpower.eu/r_en7/index.html'>Malawi</option>
+                    <option value='http://www.eatonpower.eu/r_fr2/index.html'>Mali</option>
+                    <option value='http://www.eatonpower.eu/r_en/index.html'>Malta</option>
+                    <option value='http://www.eatonpower.eu/r_fr2/index.html'>Martinique</option>
+                    <option value='http://www.eatonpower.eu/r_en7/index.html'>Mauritania</option>
+                    <option value='http://www.eatonpower.eu/r_en7/index.html'>Mauritius</option>
+                    <option value='http://www.eatonpower.eu/r_en4/index.html'>Moldova</option>
+                    <option value='http://www.eatonpower.eu/r_fr/index.html'>Monaco</option>
+                    <option value='http://www.eatonpower.eu/r_en/index.html'>Montenegro</option>
+                    <option value='http://www.eatonpower.eu/r_fr2/index.html'>Morocco</option>
+                    <option value='http://www.eatonpower.eu/r_en7/index.html'>Mozambique</option>
+                    <option value='http://www.eatonpower.eu/r_en7/index.html'>Namibia</option>
+                    <option value='http://www.eatonpower.eu/r_nl/index.html'>Netherlands</option>
+                    <option value='http://www.eatonpower.eu/r_fr2/index.html'>Niger</option>
+                    <option value='http://www.eatonpower.eu/r_en7/index.html'>Nigeria</option>
+                    <option value='http://www.eatonpower.eu/r_no/index.html'>Norway</option>
+                    <option value='http://www.eatonpower.eu/r_en7/index.html'>Oman</option>
+                    <option value='http://www.eatonpower.eu/r_po/index.html'>Poland</option>
+                    <option value='http://www.eatonpower.eu/r_pt/index.html'>Portugal</option>
+                    <option value='http://www.eatonpower.eu/r_en7/index.html'>Qatar</option>
+                    <option value='http://www.eatonpower.eu/r_fr2/index.html'>Rep. Djibouti</option>
+                    <option value='http://www.eatonpower.eu/r_fr2/index.html'>Réunion</option>
+                    <option value='http://www.eatonpower.eu/r_ro/index.html'>Romania</option>
+                    <option value='http://www.eatonpower.eu/r_ru/index.html'>Russia</option>
+                    <option value='http://www.eatonpower.eu/r_fr2/index.html'>Rwanda</option>
+                    <option value='http://www.eatonpower.eu/r_en7/index.html'>Saint Helena</option>
+                    <option value='http://www.eatonpower.eu/r_fr2/index.html'>Saint Pierre and Miquelon</option>
+                    <option value='http://www.eatonpower.eu/r_it/index.html'>San Marino</option>
+                    <option value='http://www.eatonpower.eu/r_en7/index.html'>Sao Tome Island</option>
+                    <option value='http://www.eatonpower.eu/r_en7/index.html'>Saudi Arabia</option>
+                    <option value='http://www.eatonpower.eu/r_fr2/index.html'>Senegal</option>
+                    <option value='http://www.eatonpower.eu/r_en/index.html'>Serbia </option>
+                    <option value='http://www.eatonpower.eu/r_en7/index.html'>Seychelles</option>
+                    <option value='http://www.eatonpower.eu/r_en7/index.html'>Sierra Leone</option>
+                    <option value='http://www.eatonpower.eu/r_sk/index.html'>Slovakia</option>
+                    <option value='http://www.eatonpower.eu/r_en/index.html'>Slovenia</option>
+                    <option value='http://www.eatonpower.eu/r_en7/index.html'>Somalia</option>
+                    <option value='http://www.eatonpower.eu/r_en6/index.html'>South Africa</option>
+                    <option value='http://www.eatonpower.eu/r_es2/index.html'>Spain</option>
+                    <option value='http://www.eatonpower.eu/r_en7/index.html'>Sudan</option>
+                    <option value='http://www.eatonpower.eu/r_no/index.html'>Svalbard and Jan Mayen Islands</option>
+                    <option value='http://www.eatonpower.eu/r_en6/index.html'>Swaziland</option>
+                    <option value='http://www.eatonpower.eu/r_se/index.html'>Sweden</option>
+                    <option value='http://www.eatonpower.eu/r_de/index.html'>Switzerland</option>
+                    <option value='http://www.eatonpower.eu/r_ru2/index.html'>Tajikistan</option>
+                    <option value='http://www.eatonpower.eu/r_en7/index.html'>Tanzania</option>
+                    <option value='http://www.eatonpower.eu/r_fr2/index.html'>Togo</option>
+                    <option value='http://www.eatonpower.eu/r_fr2/index.html'>Tunisia</option>
+                    <option value='http://www.eatonpower.eu/r_ty/index.html'>Turkey</option>
+                    <option value='http://www.eatonpower.eu/r_ru2/index.html'>Turkmenistan</option>
+                    <option value='http://www.eatonpower.eu/r_en7/index.html'>Uganda</option>
+                    <option value='http://www.eatonpower.eu/r_en8/index.html'>Ukraine</option>
+                    <option value='http://www.eatonpower.eu/r_en7/index.html'>United Arab Emirates</option>
+                    <option value='http://www.eatonpower.eu/r_en6/index.html'>United Kingdom</option>
+                    <option value='http://www.eatonpower.eu/r_en7/index.html'>United Republic of Tanzania</option>
+                    <option value='http://www.eatonpower.eu/r_ru2/index.html'>Uzbekistan</option>
+                    <option value='http://www.eatonpower.eu/r_fr2/index.html'>Wallis and Futuna Islands</option>
+                    <option value='http://www.eatonpower.eu/r_en7/index.html'>Western Sahara</option>
+                    <option value='http://www.eatonpower.eu/r_en7/index.html'>Yemen</option>
+                    <option value='http://www.eatonpower.eu/r_en7/index.html'>Zambia</option>
+                    <option value='http://www.eatonpower.eu/r_en7/index.html'>Zimbabwe</option>
+                </select> 
+            </div>    
+            <!--------------------------------------------------------------------------------------------> 
+        </div>        
+    </div>
+    
+    <div id="powerthrough" style="background:url(/elements/img/wave-pattern-blk-2.gif);">
+    	<div id="tagline">
+        	<img src="/elements/img/wave_top.gif" alt="Power Through With Eaton" width="960" height="107"  />
+        </div>
+    </div>
+    
+    <div style="background-color:#000;">
+
+<script type="text/javascript" language="javascript">
+	if (AC_FL_RunContent == 0) {
+		alert("This page requires AC_RunActiveContent.js.");
+	} else {
+		AC_FL_RunContent(
+			'codebase', 'http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=9,0,0,0',
+			'width', '960',
+			'height', '420',
+			'src', '/elements/swf/eaton-landing-page-gears',
+			'quality', 'high',
+			'pluginspage', 'http://www.macromedia.com/go/getflashplayer',
+			'align', 'middle',
+			'play', 'true',
+			'loop', 'true',
+			'scale', 'showall',
+			'wmode', 'window',
+			'devicefont', 'false',
+			'id', 'eaton-landing-page-gears',
+			'bgcolor', '#000000',
+			'name', 'eaton-landing-page-gears',
+			'menu', 'true',
+			'allowFullScreen', 'false',
+			'allowScriptAccess','sameDomain',
+			'movie', '/elements/swf/eaton-landing-page-gears',
+			'salign', ''
+			); //end AC code
+	}
+</script>
+<noscript>
+	<object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=9,0,0,0" width="960" height="420" id="eaton-landing-page-gears" align="middle">
+	<param name="allowScriptAccess" value="sameDomain" />
+	<param name="allowFullScreen" value="false" />
+	<param name="movie" value="/elements/swf/eaton-landing-page-gears.swf" /><param name="quality" value="high" /><param name="bgcolor" value="#000000" />	<embed src="/elements/swf/eaton-landing-page-gears.swf" quality="high" bgcolor="#000000" width="960" height="420" name="eaton-landing-page-gears" align="middle" allowScriptAccess="sameDomain" allowFullScreen="false" type="application/x-shockwave-flash" pluginspage="http://www.macromedia.com/go/getflashplayer" />
+	</object>
+</noscript>
+	
+    </div>
+    
+  </div>
+  <div id="footercontainer">
+      <div id="footer">
+      	<div class="copyright">&copy; 2009 Eaton Corporation</div>
+      	<div id="footernav">
+        	<a href="http://powerquality.eaton.com/EMEA-Contact/">Contact Us</a> | <a href="http://www.eaton.com/EatonCom/PrivacyPolicy/index.htm">Privacy Policy</a> | <a href="http://www.eaton.com/EatonCom/TermsConditions/index.htm">Terms &amp; Conditions</a>
+        </div>
+        <div class="clearfix"></div>
+      </div>
+    </div>
+</div>
+
+<!-- GOOGLE TRACKING CODE -->
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+var pageTracker = _gat._getTracker("UA-4300899-4");
+pageTracker._trackPageview();
+</script>
+</body>
+</html>
+
+

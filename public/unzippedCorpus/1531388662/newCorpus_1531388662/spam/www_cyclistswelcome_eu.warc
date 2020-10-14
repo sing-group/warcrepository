@@ -1,0 +1,137 @@
+WARC/1.0
+WARC-Type: warcinfo
+WARC-Date: 2018-05-30T17:52:30Z
+WARC-Record-ID: <urn:uuid:7196d246-9f17-4f8d-bc50-162ec7cdd6a0>
+WARC-All-Language: en
+WARC-All-Content_type: text/html; charset=UTF-8, text/html
+Content-Type: application/http;msgtype=response
+Content-Length: 46
+
+WARCProcessor by SING Group www.sing-group.com
+
+WARC/1.0
+WARC-Type: response
+WARC-Record-ID: <http://www.cyclistswelcome.eu>
+WARC-Date: 20180530175230
+WARC-Target-URI: http://www.cyclistswelcome.eu
+WARC-Language: en
+Content-Type: application/http;msgtype=response
+Content-Length: 8327
+
+HTTP/1.1 200
+Content-Type:text/html; charset=UTF-8
+
+
+<!DOCTYPE html>
+<html>    
+    
+    <head>
+                    <meta charset="UTF8" lang="cs" />   
+            <meta name="description" content="Czech certification scheme" />
+            <meta name="keywords" content="bicycle, bike, cycletourist, cyclist, tourism, accommodation, campsites, gastronomy, " />      
+            <title>Cyclists Welcome - Certified services on the route</title>
+         
+    
+    <style type="text/css">
+        body { color: black; background-color: #f5f6ef; margin: 0px; padding: 0px; border: 0px; }
+td { font-style: normal; font-family: Verdana; background-color: white; padding: 0px; }
+img { border: 0px; }
+img.flag { margin-right: 3px; margin-bottom: 4px; }
+a:link, a:visited, a:active   { color: #133483; text-decoration: underline; }
+a:hover { color: #b40000; text-decoration: underline; }
+h1 { color: #006644; font: normal 32px "Times New Roman"; margin: 0px; }
+h2 { color: black; font: normal 17px Verdana; margin: 0px; }
+td.footer { padding-right: 10px; vertical-align: top; text-align: right; padding-top: 18px; background: url(http://www.nakole.cz/img_cv/footer.gif) no-repeat; font: normal 9px/12px Verdana; color: #666666; }
+td.footer a:link, td.footer a:visited, td.footer a:active { color: #666666; text-decoration: none; }
+td.footer a:hover { color: #000000; text-decoration: none; }
+p { text-align: left; color: black; font: normal 12px/16px Verdana; margin-top: 20px; margin-left: 40px; margin-bottom: 0px; }
+td.hesla { text-align: left; font: bold 10px/14px Verdana; color: #c82901; }
+    </style>
+    
+    </head>
+
+    <body>
+        
+        <div align="center">
+<table style="width: 920px;" border="0" cellspacing="0">
+<tbody>
+<tr>
+<td style="background: url('http://www.netix.cz/img_cv/spacer_left.gif') repeat-y; vertical-align: top;" width="10"><img src="http://www.netix.cz/img_cv/spacer_top_left.gif" alt="" width="10" height="4" border="0" /></td>
+<td width="900"><img src="http://www.netix.cz/img_cv/spacer_top.gif" alt="" width="900" height="20" /><br />
+<table style="width: 900px;" border="0" cellspacing="0">
+<tbody>
+<tr>
+<td style="padding-left: 20px;"><a href="http://www.cyklistevitani.cz/_en/cyclists-welcome/"><img src="http://www.netix.cz/img_cv/logo-cykliste-vitani.gif" alt="Logo Cyclists Welcome" width="74" height="74" /></a></td>
+<td style="padding-left: 10px; background: url('http://www.netix.cz/img_cv/header_back.jpg') no-repeat; vertical-align: top; padding-top: 5px; text-align: left;" width="470">
+<h1><strong>CYCLISTS WELCOME</strong></h1>
+<h2>Czech certification scheme</h2>
+</td>
+<td style="background: url('http://www.netix.cz/img_cv/header_map.gif') no-repeat; text-align: right;" width="235"><a href="http://www.czechtourism.com" target="_blank"><img src="http://www.netix.cz/img_cv/czech-tourism_en.gif" alt="CzechTourism" width="110" height="74" /></a></td>
+<td style="padding-left: 23px; background: url('http://www.netix.cz/img_cv/flags_back.gif') no-repeat; font: 9px/12px Verdana; vertical-align: top; padding-top: 11px; text-align: left;" width="68"><a href="http://www.radfahrerwillkommen.eu"><img class="flag" src="http://www.netix.cz/img_cv/flag-de.gif" alt="Deutsch" width="18" height="12" align="textTop" />De</a><br /> <a href="http://www.cyclistswelcome.eu"><img class="flag" src="http://www.netix.cz/img_cv/flag-en.gif" alt="English" width="18" height="12" align="textTop" />En</a><br /> <a href="http://www.cyklistevitani.eu"><img class="flag" src="http://www.netix.cz/img_cv/flag-cz.gif" alt="Cesky" width="18" height="12" align="textTop" />Cz</a></td>
+</tr>
+</tbody>
+</table>
+<table style="width: 900px;" border="0" cellspacing="0">
+<tbody>
+<tr>
+<td style="vertical-align: top; text-align: left;" rowspan="2">
+<table style="margin-top: 20px; margin-bottom: 0px; margin-left: 40px;" border="0" cellspacing="0">
+<tbody>
+<tr>
+<td class="hesla" style="padding-right: 25px;">– BIKE RACKS<br /> – REPAIR TOOLS<br /> – CLOTHES DRYING FACILITIES<br /> – INFORMATION FOR CYCLISTS</td>
+<td class="hesla">– CAMPSITES<br /> – TOURIST ATTRACTIONS<br /> – RESTAURANTS AND PUBS<br /> – HOTELS, GUEST HOUSES AND HOSTELS</td>
+</tr>
+</tbody>
+</table>
+<p><em>Anyone who has cycled in the Czech Republic in the past will likely have run into the problem of inadequate services for cyclists. Hotels often have had no space to store bicycles, the staff may have had no idea where the nearest bike repair shop is, and restaurants probably have not catered to those doing strenuous exercise. But this is now changing. The new <strong>Cyclists Welcome</strong> project has been developed to improve the quality of services for cyclists.</em></p>
+<p><strong>ABOUT THE PROJECT</strong><br /> Cyclists Welcome is a nationwide program for the preparation, evaluation, and inspection of bicycling-related services and facilities of participating establishments. The certification standards are comparable to systems in other European countries (e.g. <a href="http://www.bettundbike.de" target="_blank">Bett &amp; Bike</a> in Germany and <a href="http://www.weinviertel.at/radfreundliche-betriebe" target="_blank">RADfreundliche Betriebe</a> in Lower Austria). Certified establishments display a green and white logo depicting a smiling bicycle. Every tourist facility awarded the Cyclists Welcome logo have met certain <a href="http://www.cyklistevitani.cz/Podminky-certifikace.aspx?lang=en-US">requirements</a> to ensure they cater to bicycling clientele.</p>
+<p><strong><a href="http://www.cyklistevitani.cz/Uvod.aspx?lang=en-US">Search for a Cyclists Welcome tourist facility</a></strong></p>
+<p><strong>CZECH ENVIRONMENTAL PARTNERSHIP FOUNDATION</strong><br /> The initiator and manager of the project is <img style="margin-top: 8px; float: left; margin-bottom: 10px; margin-right: 10px;" src="http://www.netix.cz/img_cv/logo-nadace-partnerstvi.gif" alt="Logo Partnership Foundation" width="53" height="71" />the <a href="http://www.nadacepartnerstvi.cz/p-1289254321" target="_blank">Czech Environmental Partnership Foundation</a> (Nadace Partnerství), the leading Czech foundation supporting environmental projects in all regions of the Czech Republic. Its cycling-related work includes the highly successful Greenways program (including the <strong>Moravian Wine Trails</strong> and <strong>Prague-Vienna Greenways</strong>).</p>
+<p><strong>WANT TO KNOW MORE?</strong><br /> Take a look at our <a href="http://www.cyklistevitani.cz/Podminky-certifikace.aspx?lang=en-US">FAQs</a>.</p>
+</td>
+<td style="background: url('http://www.netix.cz/img_cv/flag-eu_back.gif') repeat-y; vertical-align: top;" width="390"><img src="http://www.netix.cz/img_cv/cyclists.jpg" alt="" width="390" height="515" /></td>
+</tr>
+<tr>
+<td style="background: url('http://www.netix.cz/img_cv/flag-eu_back.gif') repeat-y; vertical-align: bottom;" width="390"><br /> <br /> <img src="http://www.netix.cz/img_cv/flag-eu_en.gif" alt="" width="390" height="61" /></td>
+</tr>
+</tbody>
+</table>
+</td>
+<td style="background: url('http://www.netix.cz/img_cv/spacer_right.gif') repeat-y; vertical-align: top;" width="10"><img src="http://www.netix.cz/img_cv/spacer_top_right.gif" alt="" width="10" height="4" border="0" /></td>
+</tr>
+</tbody>
+</table>
+<table style="width: 920px;" border="0" cellspacing="0">
+<tbody>
+<tr>
+<td class="footer">Copyright © <a href="http://www.nakole.cz">NaKole.cz</a></td>
+</tr>
+</tbody>
+</table>
+<table style="visibility: hidden; width: 920px;" border="0" cellspacing="0">
+<tbody>
+<tr>
+<td>
+<div><a href="http://navrcholu.cz/"><img src="http://c1.navrcholu.cz/hit?site=106052;t=lb14;ref=;jss=0" alt="NAVRCHOLU.cz" width="14" height="14" /></a></div>
+</td>
+</tr>
+</tbody>
+</table>
+<script type="text/javascript">// <![CDATA[
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-39603438-1', 'cyklistevitani.eu');
+  ga('send', 'pageview');
+// ]]></script>
+</div>
+                
+    </body>
+
+</html>
+
+
+
+

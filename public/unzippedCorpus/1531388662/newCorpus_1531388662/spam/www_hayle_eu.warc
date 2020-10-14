@@ -1,0 +1,217 @@
+WARC/1.0
+WARC-Type: warcinfo
+WARC-Date: 2018-05-30T18:18:32Z
+WARC-Record-ID: <urn:uuid:9e00fc3e-88b3-4532-b6fb-230a3459b562>
+WARC-All-Language: fr
+WARC-All-Content_type: text/html
+Content-Type: application/http;msgtype=response
+Content-Length: 46
+
+WARCProcessor by SING Group www.sing-group.com
+
+WARC/1.0
+WARC-Type: response
+WARC-Record-ID: <http://www.hayle.eu>
+WARC-Date: 20180530181832
+WARC-Target-URI: http://www.hayle.eu
+WARC-Language: fr
+Content-Type: application/http;msgtype=response
+Content-Length: 7607
+
+HTTP/1.1 200
+Content-Type:text/html
+
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head>
+<title>Please use hayle.net</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<meta name="verify-v1" content="Qu43xmYBXHqUZvQNlk/+2gqnDRhsfAAx1xFE4i7PzIw=" />
+<meta name="msvalidate.01" content="ED6BC029FBCF5AEB37BB53009C76DF83" />
+<link rel="shortcut icon" href="jb64.png" type="image/png">
+<link rel="stylesheet" href="css/hayle_main.css" type="text/css">
+	<style type="text/css">
+		@import url("css/hayle_main.css");
+	h1,h2,h3,h4,h5,h6 {
+	font-family: "Comic Sans MS";
+}
+.style1 {font-size: 13px}
+    .style13 {color: #000040; font: 11px Verdana, Arial, Helvetica, sans-serif; }
+.style14 {
+	line-height:20px;
+	margin-top:0;
+	font: 11px Verdana, Arial, Helvetica, sans-serif;
+	color: #FFFFFF;
+}
+    </style>
+
+
+<style>
+.highlight { background: #FFFF40; }
+.style76 {color: #CCCCCC}
+.style79 {font-size: 16px}
+a:hover {
+	color: #FF0000;
+}
+.style85 {font-size: 32px; }
+.style86 {color: #FF0000}
+.style87 {
+	color: #0000FF;
+	font-weight: bold;
+}
+.style88 {
+	color: #FFFF00;
+	font-weight: bold;
+}
+.style89 {color: #66FF33}
+</style>
+<script type="text/javascript" src="./highlight.js"></script>
+
+<script language="javascript">
+//--------------- LOCALIZEABLE GLOBALS ---------------
+//var d=new Date();
+//var monthname=new 
+//Array("January","February","March","April","May","June","July","August","September","October","November","December");
+//Ensure correct for language. English is "January 1, 2004"
+//var TODAY = monthname[d.getMonth()] + " " + d.getDate() + ", " + d.getFullYear();
+//---------------   END LOCALIZEABLE   ---------------
+//--------------- LOCALIZEABLE GLOBALS ---------------
+var d=new Date();
+var monthname=new Array("January","February","March","April","May","June","July","August","September","October","November","December");
+//Ensure correct for language. English is "January 1, 2004"
+var TODAY = d.getDate() + " " + monthname[d.getMonth()] + " " + d.getFullYear();
+</script>
+<meta name="keywords" content="John Bennett Hayle Cornwall Penwith District Council Hayle Town Council Riviere Towans Chy Mor chymor">
+<meta name="description" content="Web site primarily for access by town and district constituents ">
+</script>
+
+<script language="javascript">
+var d=new Date();
+var s=new Date(2006,2,20);			//Start date of 20 March 2006
+var diff = d-s;					//difference in milliseconds
+var mtg = new String(diff/86400000);    	//calculate days and convert to string
+var point=mtg.indexOf(".");    			//find the decimal point
+var days=mtg.substring(0,point);   	 	//get just the whole days
+var yrs = new String(diff/86400000/365);
+var point=yrs.indexOf(".");    			//find the decimal point
+var yrs = yrs.substring(0,point+2);
+var subhead= "Hayle Mayor, 2010-2011";
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-9391440-16']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+</head>
+
+
+
+<body bgcolor="#DEDDD9">
+
+<table width="857" border="0" align="left" cellpadding="0" cellspacing="0">
+  <tr bgcolor="#30414F">
+    <td height="102" colspan="5" bgcolor="#990000"><p align="center" class="style14 style85" style="margin-top: 0;"><span class="style89">hayle.eu</span> is being repurposed</p>
+      <p align="center" class="style14 style85" style="margin-bottom: 0;">use <span class="style88">hayle.net</span> instead  </p>      <p align="center" style="margin-top: 0; margin-bottom: 0;"><strong><span class="style13 style76"><br>
+    </span></strong><strong><span class="style13 style76">
+    <script language="javascript">
+      document.write(subhead);</script>
+    </span></strong> </p>      </td>
+  </tr>
+
+  <tr>
+    <td colspan="5" bgcolor="#4A5464"><strong><img src="images/mm_spacer.gif" alt="" width="1" height="1" border="0"></strong></td>
+  </tr>
+
+  <tr bgcolor="#9A988D">
+  	<td height="25" colspan="4" bgcolor="#FFFF33" id="dateformat"><strong>&nbsp;&nbsp;</strong>
+  	  <script language="javascript">
+      document.write(TODAY);	</script>	</td>
+    <td height="25" align="center" valign="middle" bgcolor="#FFFF33" id="dateformat">&nbsp;</td>
+  </tr>
+
+    <tr>
+    <td colspan="5" bgcolor="#66CCFF"><img src="images/mm_spacer.gif" alt="" width="1" height="1" border="0"></td>
+  </tr>
+
+ <tr>
+    <td colspan="5" bgcolor="#30414F"><img src="images/mm_spacer.gif" alt="" width="1" height="2" border="0"></td>
+  </tr>
+
+ <tr>
+    <td width="171" height="580" valign="top" bgcolor="#FFCC33">
+	<table border="0" cellspacing="0" cellpadding="0" width="165" id="navigation">
+       <tr>
+          <td width="165" class="style1">&nbsp;</td>
+        </tr>
+      </table>
+  	<p class="style1">&nbsp;</p>
+  	<p>&nbsp;</p>
+<p align="center">&nbsp;</p>
+<p>&nbsp;</p>
+<table border="0" cellspacing="0" cellpadding="0" width="171" id="navigation">
+  <tr>
+    <td width="171" class="style1">&nbsp;</td>
+  </tr>
+  <tr>
+    <td class="style1"><a href="ikwb.htm" class="navText">webcam </a></td>
+  </tr>
+</table>
+<p>&nbsp;</p>
+<p align="center" style="margin-bottom: 0;">&nbsp;</p>    </td>
+    <td width="4">&nbsp;</td>
+    <td colspan="2" valign="top" bgcolor="#FFFFFF">	<table width="452" border="0" cellpadding="0" cellspacing="0">
+        
+        <tr>
+          <td width="472" height="30" class="bodyText"><hr>
+            <p align="left" class="pageName" style="margin-top: 0">NOTE</p>          </td>
+        </tr>
+        <tr>
+          <td height="30" class="bodyText"><table width="452" border="0">
+            <tr valign="top">
+              <td class="bodyText"><p style="margin-top: 0;"><span class="style79"><strong>23 March 2011</strong>. <span class="style87">hayle.eu</span> is being repurposed and you cannot access anything on this site for the time being. </span></p>
+                <p align="center" class="style85" style="margin-bottom: 0;">Please use <span class="style86">hayle.net</span></p>
+                <blockquote style="margin-top: 0; margin-bottom: 0;">&nbsp;</blockquote></td>
+            </tr>
+          </table></td>
+        </tr>
+        <tr>
+          <td height="20">&nbsp;</td>
+        </tr>
+    </table>
+    <p align="center" class="bodyText style1" style="margin-bottom: 0;">&nbsp;</p></td>
+    <td width="170" align="right" valign="top" bgcolor="#FFCC33">&nbsp;</td>
+  </tr>
+ 
+  <tr>
+    <td width="171" bgcolor="#FFCC33"><div align="center"></div></td>
+    <td width="4" bgcolor="#FFCC33">&nbsp;</td>
+    <td width="5" bgcolor="#FFCC33">&nbsp;</td>
+    <td width="507" bgcolor="#FFCC33">&nbsp;</td>
+    <td width="170" bgcolor="#FFCC33">
+    </div></td>
+  </tr>
+</table>
+
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-9391440-1");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+
+</body>
+<script type="text/javascript"> highlight();</script>
+</html>
+
+

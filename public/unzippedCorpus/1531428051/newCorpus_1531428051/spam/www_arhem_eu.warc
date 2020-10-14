@@ -1,0 +1,46 @@
+WARC/1.0
+WARC-Type: warcinfo
+WARC-Date: 2018-05-30T17:52:31Z
+WARC-Record-ID: <urn:uuid:27acd189-94ed-40ad-ba90-fe2b4a6816e5>
+WARC-All-Language: fr
+WARC-All-Content_type: text/html
+Content-Type: application/http;msgtype=response
+Content-Length: 46
+
+WARCProcessor by SING Group www.sing-group.com
+
+WARC/1.0
+WARC-Type: response
+WARC-Record-ID: <http://www.arhem.eu>
+WARC-Date: 20180530175231
+WARC-Target-URI: http://www.arhem.eu
+WARC-Language: fr
+Content-Type: application/http;msgtype=response
+Content-Length: 744
+
+HTTP/1.1 200
+Content-Type:text/html
+
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Frameset//EN" "http://www.w3.org/TR/html4/frameset.dtd">
+<html>
+        <head>
+			<title>www.arhem.eu</title>
+			<meta name="Keywords" content="">
+			<meta name="Description" content="">
+			<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+	</head>
+	<frameset rows="100%,0" border="0" frameborder="0" framespacing="0" framecolor="#000000">
+    	<frame src="http://www.webpresent.be/ARHEM2/">
+	</frameset>
+	<noframes>
+            <body bgcolor="#FFFFFF">
+            <center>
+                <h2>www.arhem.eu</h2>
+				<br><br><a href="http://www.webpresent.be/ARHEM2/">Click here to continue</a>
+			</center>
+		</body>
+	</noframes>
+</html>
+
+

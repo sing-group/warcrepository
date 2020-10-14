@@ -1,0 +1,53 @@
+WARC/1.0
+WARC-Type: warcinfo
+WARC-Date: 2018-05-30T17:52:31Z
+WARC-All-Language: fr
+WARC-All-Content_type: text/html
+WARC-Record-ID: <urn:uuid:f7384a06-6831-4848-abea-5f712182714d>
+Content-Type: application/http;msgtype=response
+Content-Length: 46
+
+WARCProcessor by SING Group www.sing-group.com
+
+WARC/1.0
+WARC-Type: response
+WARC-Target-URI: http://www.englishinternational.eu
+WARC-Date: 20180530175231
+WARC-Language: fr
+WARC-Record-ID: <http://www.englishinternational.eu>
+Content-Type: application/http;msgtype=response
+Content-Length: 1004
+
+HTTP/1.1 200
+Content-Type:text/html
+
+
+<html>
+<head>
+	<title>Redirect.aruba.it</title>
+	<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+</head>
+<body bgcolor="#FFFFFF" text="#000000">
+	<p>&nbsp;</p>
+	<p>&nbsp;</p>
+	<p>&nbsp;</p>
+	<table width="540" border="0" cellspacing="0" cellpadding="7" align="center">
+	  <tr> 
+		<td> 
+		  <p align="center"><font face="Verdana, Arial, Helvetica, sans-serif"><b><font size="2">Il 
+			Redirect del dominio non &egrave; stato configurato.</font></b></font></p>
+		  <p align="center"><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Per 
+			impostare la configurazione &egrave; necessario utilizzare l'apposito 
+			<br>
+			pannello dell'<b>Area Clienti</b> all'interno di <b><a href="https://managehosting.aruba.it">Hosting.aruba.it</a></b></font></p>
+		</td>
+	  </tr>
+	  <tr>
+		<td>
+		  <div align="center"><img src="web.gif" width="110" height="47"></div>
+		</td>
+	  </tr>
+	</table>
+</body>
+</html>
+

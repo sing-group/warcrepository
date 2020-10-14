@@ -1,0 +1,854 @@
+WARC/1.0
+WARC-Type: warcinfo
+WARC-Date: 2018-05-30T17:52:30Z
+WARC-All-Language: en
+WARC-All-Content_type: text/html; charset=utf-8
+WARC-Record-ID: <urn:uuid:6d753c27-daa8-470e-94ee-2ae6f11001a1>
+Content-Type: application/http;msgtype=response
+Content-Length: 46
+
+WARCProcessor by SING Group www.sing-group.com
+
+WARC/1.0
+WARC-Type: response
+WARC-Target-URI: http://www.d3soft.eu
+WARC-Date: 20180530175230
+WARC-Language: en
+WARC-Record-ID: <http://www.d3soft.eu>
+Content-Type: application/http;msgtype=response
+Content-Length: 49369
+
+HTTP/1.1 200
+Content-Type:text/html; charset=utf-8
+
+
+
+<!DOCTYPE html>
+<!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+<!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8"> <![endif]-->
+<!--[if IE 8]>         <html class="no-js lt-ie9"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js"><!--<![endif]-->
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <meta charset="windows-1250">
+
+    <title>Solutions to your growth | D3Soft Ltd.</title>
+    <meta name="description" content="CRM system, MLM software ... Modern CRM system for  managing the business and custom development . Please choose CRM Leonardo, development and implementation of information ..."> 
+    <meta name="keywords" content="crm systems, mlm software, erp system, web design,custom development">    
+    <meta name="robots" content="index,follow"> 
+    <meta name="author" content="D3Soft, s.r.o., Mgr. Michael Bajer">
+
+    
+    <link href="/Content/css?v=zHFJKy95AvAtjgq82XFJLZrNFtEtfkC7yLEYMobXAGI1" rel="stylesheet"/>
+
+    <link href="/Content/kendo/2016.1.112/kendocss?v=jRFlPqggNma98rSaBNMhVRTRnfY5QYxs0Ltgs5QtHM01" rel="stylesheet"/>
+
+
+    <script src="/bundles/jquery?v=yAQ0DOUySaKzK_L0dsY0EMym8xDXQJAEu2x4B6A-vDM1"></script>
+
+    <script src="/bundles/jqueryval?v=hEGG8cMxk9p0ncdRUOJ-CnKN7NezhnPnWIvn6REucZo1"></script>
+
+    <script src="/bundles/modernizr?v=wBEWDufH_8Md-Pbioxomt90vm6tJN2Pyy9u9zHtWsPo1"></script>
+
+    <script src="/bundles/fractionslider?v=QnfY_hmbPUYWhFdhuXC1zddPhbEtx5MIrFtqGgiNWOc1"></script>
+
+    <script src="/bundles/materialize?v=53cOMyHPEKIkkvuNAJX1oclTDsfqVZCbdEZ0Pt1FYmU1"></script>
+
+
+    <link href='https://fonts.googleapis.com/css?family=Open+Sans:300,300italic,400,400italic,700,700italic&subset=latin,latin-ext' rel='stylesheet' type='text/css' async />
+
+        <script type="text/javascript">
+            (function (i, s, o, g, r, a, m) { i['GoogleAnalyticsObject'] = r; i[r] = i[r] || function () { (i[r].q = i[r].q || []).push(arguments) }, i[r].l = 1 * new Date(); a = s.createElement(o), m = s.getElementsByTagName(o)[0]; a.async = 1; a.src = g; m.parentNode.insertBefore(a, m) })(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
+            
+            ga('create', 'UA-5932740-6', 'auto', { 'allowLinker': true });
+            ga('require', 'linker');
+            ga('linker:autoLink', ['crmleonardo.cz', 'flexiit.cz', 'vyvojis.cz', 'microsoft-crm.cz']);
+            ga('send', 'pageview');
+
+        </script>
+
+</head>
+<body class="loading">
+    <!-- SEEKY-->
+    <script type="text/javascript">
+
+	  var _paq = _paq || [];
+	  _paq.push(['trackPageView']);
+	  _paq.push(['enableLinkTracking']);
+	  (function() {
+		var u="//ifirmy.cz/pxstats/";
+		_paq.push(['setTrackerUrl', u+'piwik.php']);
+		_paq.push(['setSiteId', 3889]);
+		var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
+		g.type='text/javascript'; g.async=true; g.defer=true; g.src=u+'piwik.js'; s.parentNode.insertBefore(g,s);
+	  })();
+    </script>
+    <noscript><p><img src="//ifirmy.cz/pxstats/piwik.php?idsite=3889" style="border:0;" alt="" /></p></noscript>
+    <!-- End SEEKY --> 
+
+    <!--[if lt IE 8]>
+            <p class="chromeframe">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.<br/>
+            Vás prohlížeč je <strong>zastaralý</strong>. Prosím <a href="http://browsehappy.com/"> aktualizujte jej</a> s cílem zlepšovat naše služby.</p>
+        <![endif]-->
+
+    <div id="preload">
+            <img src="/Content/img/bcg-crm.jpg">
+            <img src="/Content/img/bcg-flexi.png">
+            <img src="/Content/img/bcg-providing.jpg">
+            <img src="/Content/img/bcg-ms.jpg">
+            <img src="/Content/img/bcg-reseni.jpg">
+            <img src="/Content/img/crm-app.png">
+            <img src="/Content/img/flexi-app.png">
+            <img src="/Content/img/flexi-svrcinova.png">
+            <img src="/Content/img/ms-iko.png">
+        <img src="/Content/img/bcg-contactform.jpg">
+    </div>
+
+    <div id="outer-wrap">
+        <div id="inner-wrap">
+
+            <div id="top" role="banner">
+                <div class="block">
+                    <a class="nav-btn" id="nav-open-btn" href="#nav"></a>
+                </div>                
+            </div>
+            <nav id="nav" role="navigation">
+                <div class="block" style="">
+                    <a href="/" title="D3Soft, s.r.o.">
+                        <img alt="D3Soft, s.r.o." src="/Content/img/d3soft-logo.png" class="logo" />    
+                    </a>
+                    
+                    <ul class="menu">
+                                <li class="li liHasSub">
+                                    <a href="javascript:;" title="About us" data-sub="true" class="">ABOUT US </a>
+                                    <ul>
+                                        <li class="li liHover"><a href="javascript:;" title="UP">▲</a></li>
+                                            <li class="li"><a href="http://www.d3soft.eu/company.html" title="About the company" class="">ABOUT THE COMPANY</a></li>
+                                            <li class="li"><a href="http://www.d3soft.eu/company/management.html" title="Management" class="">MANAGEMENT</a></li>
+                                            <li class="li"><a href="http://www.d3soft.eu/social-responsibility.html" title="Social Responsibility" class="">SOCIAL RESPONSIBILITY</a></li>
+                                            <li class="li"><a href="http://www.d3soft.eu/company/sales.html" title="Sales Department" class="">SALES DEPARTMENT</a></li>
+                                            <li class="li"><a href="http://www.d3soft.eu/company/support.html" title="Customer Support" class="">CUSTOMER SUPPORT</a></li>
+                                    </ul>
+                                    
+                                </li>
+                                <li class="li"><a href="http://www.d3soft.eu/news/2018.html" title="News" class=""  data-hash=true >NEWS</a></li>
+                                <li class="li"><a href="http://www.d3soft.eu/products.html" title="Products" class="" >PRODUCTS</a></li>
+                                <li class="li liHasSub">
+                                    <a href="javascript:;" title="References" data-sub="true" class="">REFERENCES </a>
+                                    <ul>
+                                        <li class="li liHover"><a href="javascript:;" title="UP">▲</a></li>
+                                            <li class="li"><a href="http://www.d3soft.eu/references/information-systems.html" title="Information Systems" class="">INFORMATION SYSTEMS</a></li>
+                                            <li class="li"><a href="http://www.d3soft.eu/references/internet-solutions.html" title="Internet Solutions" class="">INTERNET SOLUTIONS</a></li>
+                                            <li class="li"><a href="http://www.d3soft.eu/references/data-services.html" title="Data Services" class="">DATA SERVICES</a></li>
+                                            <li class="li"><a href="http://www.d3soft.eu/references/counselling-and-consultations.html" title="Counselling and Consultations" class="">COUNSELLING AND CONSULTATIONS</a></li>
+                                            <li class="li"><a href="http://www.d3soft.eu/references/video.html" title="Video" class="">VIDEO</a></li>
+                                    </ul>
+                                    
+                                </li>
+                                <li class="li"><a href="http://www.d3soft.eu/contacts.html" title="Contacts" class="" >CONTACTS</a></li>
+
+                    </ul>   
+                    <div class="language">
+                        <div class="actual"><img alt="en-US" src="/Content/langs/en-US.png" /></div>
+                        <ul>
+                                    <li><a href="http://www.d3soft.cz/"><img alt="cs-CZ" src="/Content/langs/cs-CZ.png" /></a></li>
+                                    <li><a href="http://www.d3soft.sk/"><img alt="sk-SK" src="/Content/langs/sk-SK.png" /></a></li>
+                                    <li><a href="http://www.d3soft.pl/"><img alt="pl-PL" src="/Content/langs/pl-PL.png" /></a></li>
+                        </ul>
+                    </div>
+                    <div class="search">
+<form action="/Pages/Search" method="get">                            <input type="submit" title="Hledat" class="searchImg" />
+                            <div class="textbox">
+                                <input id="searchedText" name="searchedText" type="text" value="" />
+                                
+                            </div>
+</form>                    </div>                 
+                    <a class="close-btn" id="nav-close-btn" href="#top"></a>
+                </div>
+            </nav>
+
+            
+            
+            <main>
+                
+                <div>
+
+
+
+
+<section id="slide-top" data-banner="true" class="slide-crm">
+    <div class="bcg">
+        <div class="hsContainer ">
+
+            <div style="position:absolute; width:100%; height:12%; bottom:0; background-color:White;"></div>
+            <div class="slider-wrapper">
+                <div class="responisve-container">
+                    <div class="slider">
+                        <div class="fs_loader"></div>
+                            <div class="slide" data-banner="slide-crm" style="display:none;">
+                                <p class="claim crm-upsech" data-position="105,975" data-in="left" data-out="right" data-step="1">To facilitate success</p>
+                                <p class="claim crm" data-position="130,600" data-in="left" data-out="right" data-step="1">CRM LEONARDO</p>
+                                <p class="claim crm-under" data-position="240,950" data-in="left" data-out="right" data-step="1" data-delay="500">All you need</p>
+                                <p class="claim crm-under-under" data-position="300,530" data-in="left" data-out="right" data-step="1" data-delay="1000">to efficiently manage customer relationships</p>
+                                <a href="http://www.d3soft.eu/products.html#leonardo" class="claim crm-more" data-position="450,965" data-in="left" data-out="right" data-step="1" data-delay="1000">Possibilities</a>
+
+                                <img src="/Content/img/crm-pcs.png" width="870" height="402" data-position="350,0" data-in="right" data-out="left" data-step="1" data-delay="500" data-ease-in="easeOutExpo" />
+                            </div>
+
+                        <div class="slide" data-banner="slide-flexi" style="display:none;">
+                            <p class="claim flexi" data-position="50,0" data-in="right" data-out="left" data-step="1">FLEXI IT</p>
+                            <p class="claim flexi-under" data-position="150,0" data-in="right" data-out="left" data-step="1" data-delay="500">Expert solution</p>
+                            <p class="claim flexi-under-under" data-position="200,0" data-in="right" data-out="left" data-step="1" data-delay="800">for billing electricity, gas, heat and water</p>
+                            <a href="http://www.d3soft.eu/products.html#flexi-it" class="claim crm-more" data-position="260,40" data-in="right" data-out="left" data-step="1" data-delay="1000">Possibilities</a>
+                            <img src="/Content/img/flexi-app.png"
+                                    width="302" height="275"
+                                    data-position="450,0" data-in="left" data-out="left" data-step="1" data-delay="1000" data-ease-in="easeOutExpo">
+                            <img src="/Content/img/flexi-svrcinova.png"
+                                    width="434" height="615"
+                                    data-position="150,700" data-in="left" data-out="right" data-step="1" data-delay="1000" data-ease-in="easeOutExpo">
+                        </div>
+
+
+                        <div class="slide" data-banner="slide-providing" style="display:none;">
+                            <p class="claim providing" data-position="150,0" data-in="right" data-out="left" data-step="1">PROVIDING</p>
+                            <p class="claim providing-under" data-position="250,0" data-in="right" data-out="left" data-step="1" data-delay="500">Complex IT outsourcing</p>
+                            <a href="http://www.d3soft.eu/products.html#providing" class="claim crm-more" data-position="330,40" data-in="left" data-out="right" data-step="1" data-delay="1000">Possibilities</a>
+                            <p class="claim providing-under-under" data-position="500,0" data-in="right" data-out="right" data-step="1" data-delay="800">Server virtualization</p>
+                            <p class="claim providing-under-under" data-position="500,400" data-in="right" data-out="right" data-step="1" data-delay="900">Hosting applications</p>
+                            <p class="claim providing-under-under" data-position="500,800" data-in="right" data-out="right" data-step="1" data-delay="1000">E-mail services</p>
+                        </div>
+
+                        <div class="slide" data-banner="slide-ms" style="display:none">
+                            <p class="claim ms" data-position="50,400" data-in="right" data-out="left" data-step="1">MICROSOFT DYNAMICS</p>
+                            <a href="http://www.d3soft.eu/products.html#microsoft" class="claim crm-more ms-more" data-position="150,900" data-in="left" data-out="right" data-step="1" data-delay="1000">Possibilities</a>
+                            <p class="claim ms-under-under1" data-position="230,190" data-in="left" data-out="right" data-step="1" data-delay="800">Microsoft CRM 365</p>
+                            <p class="claim ms-under-under2" data-position="365,325" data-in="left" data-out="right" data-step="1" data-delay="900">Microsoft SharePoint Services</p>
+                            <p class="claim ms-under-under3" data-position="500,460" data-in="left" data-out="right" data-step="1" data-delay="1000">Školen&#237; produktů Microsoft</p>
+                            <img src="/Content/img/ms-iko.png" width="441" height="421" data-position="200,30" data-in="right" data-out="left" data-step="1" data-delay="800" data-ease-in="easeOutExpo" />
+                        </div>
+
+                    </div>
+                </div>
+            </div>
+
+        </div>
+    </div>
+</section>
+<section id="slide-ospolecnosti">
+    <div class="bcg">
+
+        <div class="content-in-slide">
+            <h1>About the company</h1>
+            <hr class="hrh1" />
+            <img alt="Logo D3Soft, s.r.o." src="/Content/img/d3soft-logo.png" style="display:block; margin-left:auto; margin-right:auto; width:125px;" />
+            <br />
+            <br />
+                <p><strong>Dear business partners</strong>,</p>
+                <p>our company D3Soft Ltd. is a major supplier of information systems and consulting services with a long tradition.</p>
+                <p>
+                    Since establishing we devote ourselves to provision of a comprehensive support for business processes in all types of companies, i.e. in
+                    small-and medium-sized as well as in the largest companies. We focus on concentrating of our specialists in strong development teams that
+                    provide a solid background in the spheres of analysis, programming, methodical and especially consulting activity.
+                </p>
+                <p>
+                    Our information systems are developed and implemented uniformly under the brand Leonardo. The main products of this series are CRM Leonardo
+                    (also operated in Cloud) and Leonardo Multilevel. For application to utility companies we offer FLEXI IT solution that comprehensively addresses
+                    the entire billing process and supports the business activities of these companies. We implement also third-party´s solution - Microsoft Dynamics CRM.
+                </p>
+                <p>
+                    We provide data integrations at customer´s place and applications are hosted on our professional data centre. We provide consulting and professional
+                    training in the training centre D3Soft. As part of our commercial services, we offer creation of professional web presentations including related e-marketing.
+                </p>
+                <p>
+                    We also focus on customers who want to solve the information system comprehensively and we offer them customized solutions and related
+                    services that solve just their specific requirements and needs.
+                </p>
+        </div>
+
+    </div>
+</section>
+<section id="slide-portfolio">
+    <div class="bcg">
+        <div class="hsContainer">
+            <div class="content-in-slide">
+                <h2 class="top"><span class="smaller">Product</span><br />portfolio</h2>
+                <hr class="hrh1" />
+                <br />
+
+                <div class="portfolio">
+                    <div class="col-xs-6 col-sm-3 col-md-3">
+                        <div data-link="portfolio-info" class="selected">
+                            <img alt="Information Systems" src="/Content/img/informacni-systemy.png" />
+                            <h3>Information Systems</h3>
+                        </div>
+                    </div>
+                    <div class="col-xs-6 col-sm-3 col-md-3">
+                        <div data-link="portfolio-web">
+                            <img alt="Internet Solutions" src="/Content/img/internetova-reseni.png" />
+                            <h3>Internet Solutions</h3>
+                        </div>
+                    </div>
+                    <div class="col-xs-6 col-sm-3 col-md-3">
+                        <div data-link="portfolio-dat">
+                            <img alt="Data Services" src="/Content/img/datove-sluzby.png" />
+                            <h3>Data Services</h3>
+                        </div>
+                    </div>
+                    <div class="col-xs-6 col-sm-3 col-md-3">
+                        <div data-link="portfolio-porad">
+                            <img alt="Counselling and Consultations" src="/Content/img/poradenstvi.png" />
+                            <h3>Counselling and Consultations</h3>
+                        </div>
+                    </div>
+                    <div class="clearfix"></div>
+                </div>
+                <div class="clearfix"></div>
+
+
+
+
+
+
+                <div id="portfolio-info" class="timeline-left" data-akt="true">
+                        <div data-type="block">
+                            <a href="http://www.d3soft.eu/crm-leonardo.html" title="CRM Leonardo" class="title">CRM Leonardo</a>
+                            <p>A modern CRM system to manage business relationships with customers</p>
+                        </div>
+                        <div data-type="block">
+                            <a href="http://www.d3soft.eu/microsoft-dynamics-crm.html" title="Microsoft Dynamics CRM 2015" class="title">Microsoft Dynamics CRM 2015</a>
+                            <p>A global CRM system to support the business process and strengthen the ties with customers. Use the professional CRM system</p>
+                        </div>
+                        <div data-type="block">
+                            <a href="http://www.d3soft.eu/leonardo-mlm.html" title="Leonardo Multilevel" class="title">Leonardo Multilevel</a>
+                            <p>Information system for management of a multilevel company</p>
+                        </div>
+                        <div data-type="block">
+                            <a href="http://www.d3soft.eu/custom-development.html" title="Custom development" class="title">Custom development</a>
+                            <p>Development, modification and implementation of enterprise information systems made-to-measure and customized</p>
+                        </div>
+                        <div data-type="block">
+                            <a href="http://www.d3soft.eu/microsoft-sharepoint-services.html" title="Microsoft SharePoint" class="title">Microsoft SharePoint</a>
+                            <p>An effective tool to support the corporate business processes (documentation, capacity management, projects, contracts, etc.)</p>
+                        </div>
+                        <div data-type="block">
+                            <a href="http://www.d3soft.eu/flexi-it.html" title="FLEXI IT" class="title">FLEXI IT</a>
+                            <p>An expert solution for billing electricity, gas, heat and water</p>
+                        </div>
+                </div>
+
+
+
+
+
+
+                <div id="portfolio-web" class="timeline-left">
+                        <div data-type="block">
+                            <a href="http://www.d3soft.eu/e-marketing.html" title="e-Marketing" class="title">e-Marketing</a>
+                            <p>A comprehensive marketing in the Internet environment creating PPC campaigns, contextual advertisements, micro-site and others</p>
+                        </div>
+                        <div data-type="block">
+                            <a href="http://www.d3soft.eu/portal-solution.html" title="D3Portal Solution" class="title">D3Portal Solution</a>
+                            <p>Editorial system allowing an easy administration of web portals without the necessity to know Html codes</p>
+                        </div>
+                        <div data-type="block">
+                            <a href="http://www.d3soft.eu/e-shop.html" title="E-shop" class="title">E-shop</a>
+                            <p>Information management system for administration of Internet commerce</p>
+                        </div>
+                        <div data-type="block">
+                            <a href="http://www.d3soft.eu/web-sites.html" title="D3 Web sites" class="title">D3 Web sites</a>
+                            <p>Professional web presentations including graphical designs</p>
+                        </div>
+                </div>
+
+
+
+
+
+
+                <div id="portfolio-dat" class="timeline-left">
+                        <div data-type="block">
+                            <a href="http://www.d3soft.eu/data-integrations.html" title="Data Integrations" class="title">Data Integrations</a>
+                            <p>Ensuring data transmissions from disparate systems</p>
+                        </div>
+                        <div data-type="block">
+                            <a href="http://www.d3soft.eu/business-intelligents.html" title="Business Inteligence" class="title">Business Inteligence</a>
+                            <p>This is an instrument which works with corporate data. Selection of data from different data structures with the possibility of own inventiveness in data selection and their specification</p>
+                        </div>
+                        <div data-type="block">
+                            <a href="http://www.d3soft.eu/virtualization-of-servers.html" title="Virtualization of servers" class="title">Virtualization of servers</a>
+                            <p>The service providing an increased performance of your servers</p>
+                        </div>
+                        <div data-type="block">
+                            <a href="http://www.d3soft.eu/email-services.html" title="E-Mail Services" class="title">E-Mail Services</a>
+                            <p>A complete service and administration of e-mail services</p>
+                        </div>
+                        <div data-type="block">
+                            <a href="http://www.d3soft.eu/hosting-applications.html" title="Hosting of www sites" class="title">Hosting of www sites, e-shops, applications</a>
+                            <p>The possibility of hosting on a professional data centre</p>
+                        </div>
+                </div>
+
+
+
+
+
+
+                <div id="portfolio-porad" class="timeline-left">
+                        <div data-type="block">
+                            <a href="http://www.d3soft.eu/training-in-microsoft-products.html" title="Training in Microsoft products" class="title">Training in Microsoft products</a>
+                            <p>Training in various Microsoft applications</p>
+                        </div>
+                        <div data-type="block">
+                            <a href="http://www.d3soft.eu/management-and-coordination-of-projects.html" title="Management and coordination of projects" class="title">Management and coordination of projects</a>
+                            <p>Projects managed by our professional specialists who have knowledge in various modern approaches and methodologies</p>
+                        </div>
+                        <div data-type="block">
+                            <a href="http://www.d3soft.eu/business-proces-optimalization.html" title="Optimization of business processes" class="title">Optimization of business processes</a>
+                            <p>We provide you with our knowledge and experience in optimizing the corporate processes</p>
+                        </div>
+                        <div data-type="block">
+                            <a href="http://www.d3soft.eu/audit-it.html" title="Audit IT" class="title">Audit IT</a>
+                            <p>A comprehensive assessment of your IT background</p>
+                        </div>
+                        <div data-type="block">
+                            <a href="http://www.d3soft.eu/it-outsourcing.html" title="Outsourcing IT" class="title">Outsourcing IT</a>
+                            <p>Overall administration of your IT</p>
+                        </div>
+                </div>
+
+            </div>
+        </div>
+    </div>
+</section>
+<section id="slide-reseni">
+    <div class="bcg">
+        <div class="hsContainer">
+            <div class="content-in-slide">
+                <h2 class="top"><span class="smaller">Solutions for</span><br />companies</h2>
+                <hr class="hrh1" />
+                <br />
+
+                <div class="col-xs-12 col-sm-4 col-md-4">
+                    <div class="reseni">
+                            <a href="http://www.d3soft.eu/solutions-for-small-companies.html">
+                                <img alt="" src="/Content/img/mala-fa.png" />
+                                <h3>Small</h3>
+                            </a>
+                        <p>turnover up to  CZK 10 million per year</p>
+
+                    </div>
+                </div>
+                <div class="col-xs-12 col-sm-4 col-md-4">
+                    <div class="reseni">
+                            <a href="http://www.d3soft.eu/solutions-for-medium-sized-companies.html">
+                                <img alt="" src="/Content/img/mala-fa.png" />
+                                <h3>Median</h3>
+                            </a>
+                        
+                        <p>up to CZK  100 000 000 per year</p>
+                    </div>
+                </div>
+                <div class="col-xs-12 col-sm-4 col-md-4">
+                    <div class="reseni">
+                            <a href="http://www.d3soft.eu/solutions-for-large-companies.html">
+                                <img alt="" src="/Content/img/mala-fa.png" />
+                                <h3>Large</h3>
+                            </a>
+                        
+                        <p>over CZK  100 000 000 per year</p>
+                    </div>
+                </div>
+
+                <div class="clearfix"></div>
+            </div>
+
+        </div>
+    </div>
+</section>
+<section id="slide-news">
+    <div class="bcg">
+        <div class="hsContainer">
+            <div class="content-in-slide">
+                <h2 class="top">News</h2>
+                <hr class="hrh1" />
+                <br />
+
+                
+<div class="timeline-middle">
+            <div data-type="break">April 2018</div>
+            <div data-type="block">
+                <span>16.04.2018</span>
+                <a href="http://www.d3soft.eu/electronics-market-leader-choose-flexi-it.html" class="title" title="Company OKAY s.r.o., the biggest Czech seller of electric appliances, has recently started its activity as an electric energy and gas supplier.">Electronics Market leader choose FLEXI IT</a>
+                <p>Company OKAY s.r.o., the biggest Czech seller of electric appliances, has recently started its activity as an electric energy and gas supplier.</p>
+            </div>
+            <div data-type="break">March 2018</div>
+            <div data-type="block">
+                <span>08.03.2018</span>
+                <a href="http://www.d3soft.eu/successfully-completed-implementation-of-flexi-it.html" class="title" title="For our customer, who is a significant supplier of electric energy and gas, company TAURON Czech Energy, s.r.o., we have handed-over the FLEXI IT invoicing system into the permanent operation. 
+
+">Successfully completed implementation of FLEXI IT</a>
+                <p>For our customer, who is a significant supplier of electric energy and gas, company TAURON Czech Energy, s.r.o., we have handed-over the FLEXI IT invoicing system into the permanent operation. 
+
+</p>
+            </div>
+            <div data-type="break">February 2018</div>
+            <div data-type="block">
+                <span>28.02.2018</span>
+                <a href="http://www.d3soft.eu/next-implementation-of-flexi-it.html" class="title" title="Company AZ Energies, s.r.o., an energy and gas supplier, is going to join the ranks of our satisfied customers.">Next implementation of FLEXI IT</a>
+                <p>Company AZ Energies, s.r.o., an energy and gas supplier, is going to join the ranks of our satisfied customers.</p>
+            </div>
+
+    <div data-type="break" style="background-color:#47514f;">
+        <a href="http://www.d3soft.eu/news/2018.html">Archive of news</a>
+    </div>
+</div>
+            </div>
+        </div>
+    </div>
+</section>
+<section id="slide-videoreference">
+    <div class="bcg">
+        <div class="content-in-slide">
+
+            <h2 class="top"><span class="smaller">Video</span><br />references</h2>
+            <hr class="hrh1" />
+            <br />
+
+            <div class="video-slick">
+                <div class="item">
+                    <div class="videoreference">
+                        <a target="_blank" href="https://www.youtube.com/watch?v=Asjy8xygTLA" class="thumb">
+                            <div class="playico"></div>
+                            <img alt="" src="https://i.ytimg.com/vi/Asjy8xygTLA/mqdefault.jpg" />
+                        </a>
+                        <a target="_blank" href="https://www.youtube.com/watch?v=Asjy8xygTLA" class="title">Ospap a.s.</a>
+                        <div class="date"></div>
+                    </div>
+                </div>
+                <div class="item">
+                    <div class="videoreference">
+                        <a target="_blank" href="https://www.youtube.com/watch?v=WIu-mbNbODs" class="thumb">
+                            <div class="playico"></div>
+                            <img alt="" src="https://i.ytimg.com/vi/WIu-mbNbODs/mqdefault.jpg" />
+                        </a>
+                        <a target="_blank" href="https://www.youtube.com/watch?v=WIu-mbNbODs" class="title">Maha Consulting s.r.o.</a>
+                        <div class="date"></div>
+                    </div>
+                </div>
+                <div class="item">
+                    <div class="videoreference">
+                        <a target="_blank" href="https://www.youtube.com/watch?v=5KP7tR4yH4Q" class="thumb">
+                            <div class="playico"></div>
+                            <img alt="" src="https://i.ytimg.com/vi/5KP7tR4yH4Q/mqdefault.jpg" />
+                        </a>
+                        <a target="_blank" href="https://www.youtube.com/watch?v=5KP7tR4yH4Q" class="title">TOS VARNSDORF a.s.</a>
+                        <div class="date"></div>
+                    </div>
+                </div>
+                <div class="item">
+                    <div class="videoreference">
+                        <a target="_blank" href="https://www.youtube.com/watch?v=N5YZMYJtrCs" class="thumb">
+                            <div class="playico"></div>
+                            <img alt="" src="https://i.ytimg.com/vi/N5YZMYJtrCs/mqdefault.jpg" />
+                        </a>
+                        <a target="_blank" href="https://www.youtube.com/watch?v=N5YZMYJtrCs" class="title">GLOBAL ENERGY, a.s.</a>
+                        <div class="date"></div>
+                    </div>
+                </div>
+            </div>
+            <div class="clearfix"></div>
+        </div>
+
+    </div>
+</section>
+
+
+
+
+
+</div>
+
+                <section id="slide-partners">
+                    <div class="bcg">
+                        <div class="content-in-slide">
+
+                            <h2 class="top"><span class="smaller">Our</span><br />partners</h2>
+                            <hr class="hrh1" />
+                            <br />
+
+                            <div class="partners-slick">
+                                <div class="item">
+                                    <div class="reference">
+                                        <a target="_blank" href="http://www.oracle.com/index.html">
+                                            <img alt="Oracle" src="/Content/img/reference/oracle.png?v=2" />
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="item">
+                                    <div class="reference">
+                                        <a target="_blank" href="http://www.msk.cz/">
+                                            <img alt="Moravskoslezský kraj" src="/Content/img/reference/moravsko.png?v=2" />
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="item">
+                                    <div class="reference">
+                                        <a target="_blank" href="https://www.microsoft.com/cs-cz">
+                                            <img alt="Microsoft" src="/Content/img/reference/microsoft.png?v=2" />
+                                        </a>
+                                    </div>
+                                </div>
+                                
+                                <div class="item">
+                                    <div class="reference">
+                                        <a target="_blank" href="http://www.icc-cr.cz/cs">
+                                            <img alt="ICC mezinárodní obchodní komora" src="/Content/img/reference/icc.png?v=2" />
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="item">
+                                    <div class="reference">
+                                        <a target="_blank" href="http://www.vmware.com/cz">
+                                            <img alt="vmWare" src="/Content/img/reference/vmware.png?v=2" />
+                                        </a>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="clearfix"></div>
+
+                        </div>
+                    </div>
+                </section>
+                <section id="slide-contactform">
+                    <div class="bcg">
+                        <div class="content-in-slide">
+
+                            <h2 id="kontaktujte-nas" class="top">Contact Us</h2>
+                            <hr class="hrh1" />
+                            <p class="text-center">If you have any questions contact us and we will immediately contact you back.</p>
+                            <br /><br />
+
+                            <div id="emailform">
+                                
+
+<script type="text/javascript">
+    function onsuccess() {
+        $('.validation-summary-errors').hide();
+        $.validator.unobtrusive.parse('form');
+        $('#contact-form input[type="text"], #contact-form textarea').val('');
+        $('#divSuccess').slideDown(500);
+        setTimeout("$('#divSuccess').slideUp(1000);", 3000);
+
+    }
+    function onfailure() {
+        $('.validation-summary-errors').hide();
+        $.validator.unobtrusive.parse('form');
+        $('#divFailure').slideDown(500);
+    }
+    function closediv(e) { $(e).parent().slideUp(500); }
+
+    function resetCaptcha() {
+        var contactFormCaptcha = $("img#contactFormCaptcha");
+        $("img#contactFormCaptcha").attr("src", $("img#contactFormCaptcha").attr("src") + "?_timeSpan=" + Date.now());
+        $('#Captcha').val("");
+    }
+
+    function validate() {
+        $.ajax({
+            method: "GET",
+            async: false,
+            url: 'http://www.d3soft.eu/Pages/GetCaptchaFromSession',
+            data: {},
+            success: function (data) {
+                var value = $('#Captcha').val();
+                if (data == value) {
+                    $('#divOwnError').hide();
+                    $('form#contact-form').submit();
+                }
+                else {
+                    resetCaptcha();
+                    $('.validation-summary-errors').hide();
+                    $('#divOwnError span').html('Your transcription of the text from the figure is not correct');
+                    $('#divOwnError').slideDown(500);
+                    return false;
+                }
+            }
+        });
+    }
+
+</script>
+
+<div id="contactForm">
+<form action="/Pages/SendQuestion?Length=5" data-ajax="true" data-ajax-failure="onfailure" data-ajax-loading="#spinner" data-ajax-method="Post" data-ajax-mode="replace" data-ajax-success="onsuccess" data-ajax-update="#contactForm" id="contact-form" method="post">        <div class="col-xs-12 col-sm-6 input-field">            
+            <input class="input" data-val="true" data-val-required="The Jméno a příjmení field is required." id="Name" name="Name" type="text" value="" />
+            <label for="Name">First name and surname: *</label>
+        </div>
+        <div class="col-xs-12 col-sm-6 input-field">
+            <input class="input" id="Company" name="Company" type="text" value="" />
+            <label for="Company">Company:</label>
+        </div>
+        <div class="col-xs-12 col-sm-6 input-field">
+            <input class="input" data-val="true" data-val-email="The E-mail field is not a valid e-mail address." data-val-required="The E-mail field is required." id="Email" name="Email" type="text" value="" />
+            <label for="Email">E-mail *</label>
+        </div>
+        <div class="col-xs-12 col-sm-6 input-field">
+            <input class="input" id="Phone" name="Phone" type="text" value="" />
+            <label for="Phone">Telephone</label>
+        </div>
+        <div class="clearfix"></div>
+        <div class="col-xs-12 col-sm-12 input-field">
+            <textarea class="input" cols="20" data-val="true" data-val-required="The Dotaz field is required." id="Question" name="Question" rows="2" style="height: 230px;" type="text">
+</textarea>
+            <label for="Question">Your request: *</label>
+        </div>
+        <div class="col-xs-12 col-sm-6 text-right refreshCaptchaDiv">
+            <div class="refreshCaptchaDiv">
+                <img class="refreshCaptchaButton" src="/Content/img/refresh-white.png" onclick="resetCaptcha();return false;" title="Refresh" />
+                <img id="contactFormCaptcha" src="/Pages/GetCaptchaImage" />
+            </div>            
+        </div>
+        <div class="col-xs-12 col-sm-6 input-field">
+            <input class="input" data-val="true" data-val-required="The Captcha field is required." id="Captcha" name="Captcha" type="text" value="" />
+            <label for="Captcha">Transcribe the  text from the figure *</label>
+        </div>
+        <div class="col-xs-12 col-sm-6 input-field" style="display:none">
+            <input class="input" id="Podpis" name="Podpis" type="text" value="" />
+            <label for="Podpis">Podpis</label>
+        </div>
+        <div class="clearfix"></div>
+        <div class="col-xs-12">
+            <div class="validation-summary-valid" data-valmsg-summary="true"><ul><li style="display:none"></li>
+</ul></div>
+        </div>
+        <div class="col-xs-12">
+            <div id="divSuccess" class="divSuccess">
+                Thank you for filling out the form, your request has been sent successfully.
+            </div>
+            <div id="divFailure" class="divFailure">
+                Your question was not sent.
+                <img alt="close" title="Close" src="/Content/img/small_close.png" class="close opa1" onclick="closediv(this);" />
+            </div>
+            <div id="divOwnError" class="divFailure">
+                <span></span>
+                <img alt="close" title="Close" src="/Content/img/small_close.png" class="close opa1" onclick="closediv(this);" />
+            </div>
+        </div>
+        <div class="pull-right col-xs-12">
+            <input type="button" value="Sent" onclick="validate();" class="button pull-right" />            
+        </div>
+        <div class="clearfix"></div>
+        <div id="spinner" class="contactFromSpinner">
+            <img src="/Content/img/rolling.gif">
+        </div>
+</form></div>
+                            </div>
+
+                            <div class="clearfix"></div>
+                        </div>
+                    </div>
+                </section>                
+                <section id="slide-maps">
+                    <div class="bcg">
+                        <div class="google-maps">
+
+                            <div class="over-map">Activate by click</div>
+                            <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d4330.308677748557!2d18.263108906252384!3d49.80830904374493!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4713e4a711703df1%3A0xee08a3b2efbb0272!2zT2NlbMOhxZlza8OhIDI5NjkvMTIsIDcwMyAwMCBPc3RyYXZhLVbDrXRrb3ZpY2U!5e0!3m2!1scs!2scz!4v1457013625109"
+                                width="800" height="600" frameborder="0" style="border:0;" allowfullscreen></iframe>
+
+                        </div>
+                    </div>
+                </section>
+                <section id="slide-footer">
+                    <div class="bcg">
+                        <div class="content-in-slide">
+
+                            <div class="component">
+                                <a href="https://www.facebook.com/D3Soft/" target="_blank" class="icon icon-cube facebook">facebook</a>
+                                <a href="https://www.youtube.com/user/d3soft" class="icon icon-cube youtube">youtube</a>
+                                <a href="mailto:info@d3soft.cz" target="_blank" class="icon icon-cube email">email</a>
+                                <a href="tel:+420596603121" target="_blank" class="icon icon-cube phone">tel</a>
+                            </div>
+                            <ul class="footer-menu">
+                                        <li><a href="http://www.d3soft.eu/company.html" title="About us">ABOUT US</a></li>
+                                        <li><a href="http://www.d3soft.eu/news/2018.html" title="News">NEWS</a></li>
+                                        <li><a href="http://www.d3soft.eu/products.html" title="Products">PRODUCTS</a></li>
+                                        <li><a href="http://www.d3soft.eu/references/information-systems.html" title="References">REFERENCES</a></li>
+                                        <li><a href="http://www.d3soft.eu/contacts.html" title="Contacts">CONTACTS</a></li>
+
+                            </ul>
+
+                            <hr class="doubleline" />
+                            
+                            <div class="row">
+                                <div class="col-xs-12 col-sm-6 col-md-6 text-right">
+                                    <img alt="" src="/Content/img/eu-flag.png" />
+                                </div>
+                                <div class="col-xs-12 col-sm-6 col-md-6 text-left">
+                                    <p class="footer-eu">EUROPEAN UNION <br />European funt for regional development<br />Operational Programme Enterprise<br/>and innovation for Competitiveness</p>
+                                </div>                                
+                            </div>
+                            <br />
+                            <div class="row">
+                                <div class="col-xs-12 col-sm-2 col-md-2 text-center col-sm-offset-1 col-md-offset-1">
+                                    <a href="/Content/img/vyskum-vyvoj.jpg" target="_blank" title="D3Soft Future s.r.o. - rozšíření výzkumně-vývojového oddělení SW">
+                                        <img src="/Content/img/vyskum-vyvoj-min.jpg" />
+                                    </a>
+                                </div>
+                                <div class="col-xs-12 col-sm-2 col-md-2 text-center">
+                                    <a href="/Content/pdf/is-celozivotni-vzdelavani.pdf" target="_blank" title="Informační systém pro organizace specializující se na celoživotní vzdělávání">
+                                        <img src="/Content/img/is-celozivotni-vzdelavani-min.jpg" />
+                                    </a>
+                                </div>  
+                                <div class="col-xs-12 col-sm-2 col-md-2 text-center">
+                                    <a href="/Content/pdf/it-cluster-2017-2019.pdf" target="_blank" title="Pojďme společně růst s IT Cluster 2017-2019">
+                                        <img src="/Content/img/it-cluster-2017-2019-min.jpg" />
+                                    </a>
+                                </div>
+                                <div class="col-xs-12 col-sm-2 col-md-2 text-center">
+                                    <a href="/Content/pdf/open-energy-trading.pdf" target="_blank" title="D3Soft Big - Open Energy Trading">
+                                        <img src="/Content/img/open-energy-trading-min.jpg" />
+                                    </a>
+                                </div>
+                                <div class="col-xs-12 col-sm-2 col-md-2 text-center">
+                                    <a href="/Content/pdf/open-energy-pricing-tool.pdf" target="_blank" title="D3Soft Future s.r.o. - Open Energy Pricing Tool">
+                                        <img src="/Content/img/open-energy-pricing-tool-min.jpg" />
+                                    </a>
+                                </div>                                                              
+                            </div>
+                            <div class="clearfix"></div>
+
+                        </div>
+                    </div>
+                </section>
+                <section id="slide-copyright">
+                    <div>
+                        2016 - 2018 © All rights reserved, D3Soft s.r.o. 
+                    </div>
+
+                </section>                
+            </main>
+
+            
+        </div>
+        <!--/#inner-wrap-->
+    </div>
+    <!--/#outer-wrap-->
+
+    <a href="#" class="scrollToTop glyphicon-chevron-up" title="Upwards"></a>
+    <a href="#kontaktujte-nas" class="contactUs glyphicon-envelope" title="Contact Us"></a>
+
+    <script src="/bundles/bootstrap?v=2Fz3B0iizV2NnnamQFrx-NbYJNTFeBJ2GM05SilbtQU1"></script>
+
+    <script src="/bundles/after?v=r9OuI944FNtsaIkUuIyaPj6KHDtIl1UJEcaZNBplfi01"></script>
+
+    <script src="/bundles/materialize?v=53cOMyHPEKIkkvuNAJX1oclTDsfqVZCbdEZ0Pt1FYmU1"></script>
+
+    
+    
+    
+</body>
+</html>
+
+

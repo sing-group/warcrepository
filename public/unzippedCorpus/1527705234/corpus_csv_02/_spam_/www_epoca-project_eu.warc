@@ -1,0 +1,596 @@
+WARC/1.0
+WARC-Type: warcinfo
+WARC-Date: 2018-05-30T18:18:32Z
+WARC-All-Language: en-gb
+WARC-All-Content_type: text/html
+WARC-Record-ID: <urn:uuid:4360892f-5008-4cb1-b52f-0251e83cf111>
+Content-Type: application/http;msgtype=response
+Content-Length: 46
+
+WARCProcessor by SING Group www.sing-group.com
+
+WARC/1.0
+WARC-Type: response
+WARC-Target-URI: http://www.epoca-project.eu
+WARC-Date: 20180530181832
+WARC-Language: en-gb
+WARC-Record-ID: <http://www.epoca-project.eu>
+Content-Type: application/http;msgtype=response
+Content-Length: 42406
+
+HTTP/1.1 200
+Content-Type:text/html
+
+
+<meta name="google-site-verification" content="T2DTKj5X8uCL21ox-eeNYVPnMUltKE5F5WKD6DyJtLs" />
+<p style="text-align: center;"><a href="http://www.epoca-project.eu/"><img src="/images/Photos/header20100601.png" border="0" width="1080" height="80" style="vertical-align: middle;" /></a></p>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-gb" lang="en-gb" >
+ <head>
+<link rel="shortcut icon" href="http://www.epoca-project.eu/templates/epoca_20100519/favicon.ico" >
+  <meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7" />
+  <base href="http://www.epoca-project.eu/" />
+  <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+  <meta http-equiv="x-ua-compatible" content="IE=EmulateIE7" />
+  <meta name="robots" content="index, follow" />
+  <meta name="keywords" content="EPOCA, EU, FP7, Ocean Acidification" />
+  <meta name="description" content="European Project on OCean Acidification (EPOCA) is an 
+EU FP7 Integrated Project. It was launched in June 2008 with the overall goal to advance our understanding of the biological, ecological, biogeochemical, and societal implications of ocean acidification. The EPOCA consortium brings together more than 160 researchers from 32 institutes and 10 European countries." />
+  <meta name="generator" content="Joomla! 1.5 - Open Source Content Management" />
+  <title>EPOCA web site</title>
+  <link href="/index.php?format=feed&amp;type=rss" rel="alternate" type="application/rss+xml" title="RSS 2.0" />
+  <link href="/index.php?format=feed&amp;type=atom" rel="alternate" type="application/atom+xml" title="Atom 1.0" />
+  <link href="/templates/epoca_20100519/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+  <link rel="stylesheet" href="/plugins/system/jcemediabox/css/jcemediabox.css?v=1012" type="text/css" />
+  <link rel="stylesheet" href="/plugins/system/jcemediabox/themes/standard/css/style.css?version=1012" type="text/css" />
+  <link rel="stylesheet" href="/plugins/system/cdscriptegrator/libraries/highslide/css/highslide.css" type="text/css" />
+  <link rel="stylesheet" href="/plugins/content/highslide/highslide.css" type="text/css" />
+  <link rel="stylesheet" href="/plugins/content/highslide/config/css/highslide-sitestyles.css" type="text/css" />
+  <link rel="stylesheet" href="/plugins/content/simplepopup/spustyle.css" type="text/css" />
+  <link rel="stylesheet" href="/plugins/content/simplepopup/fancybox/jquery.fancybox-1.3.4.css" type="text/css" />
+  <link rel="stylesheet" href="/modules/mod_signallogin/templates/default-light/signal.css" type="text/css" />
+  <style type="text/css">
+    <!--
+.besps_holder_1_0 {width:300px;height:200px;}
+.besps_ctrls_1_0 {display:block;width:300px;padding-top:203px;text-align:right;}
+.besps_holder_1_0 {margin:10px;float:right;}
+.besps_slides_1_0 {position:absolute;width:300px;height:200px;}
+.besps_slides_1_0 div {visibility:hidden;z-index:1;position:absolute;left:0;top:0;width:300px;height:200px;background-color:#FFFFFF;}
+.besps_slides_1_0 div img {position:absolute;}
+#img_1_0_1 {visibility:visible;z-index:2;}
+.besps_caps_1_0 {position:absolute;width:300px;height:200px;}
+.besps_caps_1_0 div.bs_inside {position:absolute;bottom:0;left:0;width:300px;}
+.besps_caps_1_0 div.bs_outside {position:absolute;top:200px;left:0;width:300px;}
+
+    -->
+  </style>
+  <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js"></script>
+  <script type="text/javascript" src="http://www.epoca-project.eu/plugins/system/scjquery/noconflict.js"></script>
+  <script type="text/javascript" src="/plugins/system/jcemediabox/js/jcemediabox.js?v=1012"></script>
+  <script type="text/javascript" src="/plugins/system/jcemediabox/js/mediaobject.js?v=1012"></script>
+  <script type="text/javascript" src="/plugins/system/jcemediabox/addons/default.js?v=1012"></script>
+  <script type="text/javascript" src="/plugins/system/cdscriptegrator/libraries/highslide/js/highslide-full.min.js"></script>
+  <script type="text/javascript" src="/plugins/system/cdscriptegrator/libraries/jquery/js/jquery-1.4.3.min.js"></script>
+  <script type="text/javascript" src="/plugins/system/cdscriptegrator/libraries/jquery/js/jquery-noconflict.js"></script>
+  <script type="text/javascript" src="/plugins/system/mtupgrade/mootools.js"></script>
+  <script type="text/javascript" src="/media/system/js/caption.js"></script>
+  <script type="text/javascript" src="http://www.epoca-project.eu/plugins/content/plugin_besps/besps.js"></script>
+  <script type="text/javascript" src="/plugins/content/highslide/highslide-full.packed.js"></script>
+  <script type="text/javascript" src="/plugins/content/highslide/easing_equations.js"></script>
+  <script type="text/javascript" src="/plugins/content/highslide/swfobject.js"></script>
+  <script type="text/javascript" src="/plugins/content/highslide/language/en.js"></script>
+  <script type="text/javascript" src="/plugins/content/highslide/config/js/highslide-sitesettings.js"></script>
+  <script type="text/javascript" src="/plugins/content/simplepopup/jquery-1.4.3.min.js"></script>
+  <script type="text/javascript" src="/plugins/content/simplepopup/fancybox/jquery.mousewheel-3.0.4.pack.js"></script>
+  <script type="text/javascript" src="/plugins/content/simplepopup/fancybox/jquery.fancybox-1.3.4.js"></script>
+  <script type="text/javascript">
+	JCEMediaObject.init('/', {flash:"10,0,22,87",windowmedia:"5,1,52,701",quicktime:"6,0,2,0",realmedia:"7,0,0,0",shockwave:"8,5,1,0"});JCEMediaBox.init({popup:{width:"",height:"",legacy:0,lightbox:0,shadowbox:0,resize:1,icons:1,overlay:1,overlayopacity:0.8,overlaycolor:"#000000",fadespeed:500,scalespeed:500,hideobjects:0,scrolling:"fixed",close:2,labels:{'close':'Close','next':'Next','previous':'Previous','cancel':'Cancel','numbers':'{$current} of {$total}'}},tooltip:{className:"tooltip",opacity:0.8,speed:150,position:"br",offsets:{x: 16, y: 16}},base:"/",imgpath:"plugins/system/jcemediabox/img",theme:"standard",themecustom:"",themepath:"plugins/system/jcemediabox/themes"});
+		<!--
+		hs.graphicsDir = '/plugins/system/cdscriptegrator/libraries/highslide/graphics/';
+    	hs.outlineType = 'rounded-white';
+    	hs.outlineWhileAnimating = false;
+    	hs.showCredits = false;
+    	hs.expandDuration = 250;
+		hs.anchor = 'auto';
+		hs.align = 'auto';
+		hs.transitions = ["expand"];
+		hs.dimmingOpacity = 0;
+		hs.lang = {
+		   loadingText :     'Loading...',
+		   loadingTitle :    'Click to cancel',
+		   focusTitle :      'Click to bring to front',
+		   fullExpandTitle : 'Expand to actual size',
+		   fullExpandText :  'Full size',
+		   creditsText :     'Powered by Highslide JS',
+		   creditsTitle :    'Go to the Highslide JS homepage',
+		   previousText :    'Previous',
+		   previousTitle :   'Previous (arrow left)',
+		   nextText :        'Next',
+		   nextTitle :       'Next (arrow right)',
+		   moveTitle :       'Move',
+		   moveText :        'Move',
+		   closeText :       'Close',
+		   closeTitle :      'Close (esc)',
+		   resizeTitle :     'Resize',
+		   playText :        'Play',
+		   playTitle :       'Play slideshow (spacebar)',
+		   pauseText :       'Pause',
+		   pauseTitle :      'Pause slideshow (spacebar)',   
+		   number :          'Image %1 of %2',
+		   restoreTitle :    'Click to close image, click and drag to move. Use arrow keys for next and previous.'
+		};
+		//-->
+		var bs_caps_1_0= new Array();bs_caps_1_0[0]=new Array("Calcidiscus today. By Ulf Riebesell","");bs_caps_1_0[1]=new Array("Calcidiscus in 2100. By Ulf Riebesell","");bs_caps_1_0[2]=new Array("Lophelia and Paragorgia. By Karen Hissmann","");bs_caps_1_0[3]=new Array("Lophelia. By Karen Hissmann","");bs_caps_1_0[4]=new Array("Live Patella caerulea in pH 7.4 in volcanic carbon dioxide vents (Hall-Spencer et al. 2008)","");bs_caps_1_0[5]=new Array("Pteropod Limacina helicina. By Steeve Comeau","");bs_caps_1_0[6]=new Array("Orbulina universa. By Jelle Bijma","");bs_caps_1_0[7]=new Array("Cod (Gadus morhua) juvenile. By Catriona Clemmesen","");bs_caps_1_0[8]=new Array("Posidonia oceanica lacking Corallinaceae at mean pH 7.6 in volcanic carbon dioxide vents (Hall-Spencer et al. 2008)","");var besps_1_0= new besps_slideshow("1_0",50,3000,20,1,9,bs_caps_1_0);hs.graphicsDir = '/plugins/content/highslide/graphics/';
+  </script>
+  <link href="/index.php/component/obrss/2-epoca-news.html" rel="alternate" type="application/rss+xml" title="EPOCA news" />
+  <link href="http://www.epoca-project.eu/plugins/content/plugin_besps/besps.css" rel="stylesheet" type="text/css" />
+
+  <link rel="stylesheet" href="/templates/system/css/system.css" type="text/css" />
+  <link rel="stylesheet" href="/templates/system/css/general.css" type="text/css" />
+
+  <link rel="stylesheet" type="text/css" href="/templates/epoca_20100519/css/template.css" />
+  <!--[if IE 6]><link rel="stylesheet" href="/templates/epoca_20100519/css/template.ie6.css" type="text/css" media="screen" /><![endif]-->
+  <!--[if IE 7]><link rel="stylesheet" href="/templates/epoca_20100519/css/template.ie7.css" type="text/css" media="screen" /><![endif]-->
+  <script type="text/javascript" src="/templates/epoca_20100519/script.js"></script>
+
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-5930613-2']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+
+
+<script language="JavaScript">
+<!--
+
+  // Start statistX code for statistX 2.0
+  var data = '&r=' + escape(document.referrer)
+	+ '&n=' + escape(navigator.userAgent)
+	+ '&p=' + escape(navigator.userAgent)
+	+ '&g=' + escape(document.location.href);
+
+  if (navigator.userAgent.substring(0,1)>'3')
+    data = data + '&sd=' + screen.colorDepth 
+	+ '&sw=' + escape(screen.width+'x'+screen.height);
+
+  document.write('<a href="http://www.statistx.com/stats.php?i=5963" target=\"_blank\" >');
+  document.write(');
+  document.write('</a>');
+  // End statistX code for statistX 2.0
+
+// -->
+</script>  
+
+ </head>
+<body>
+<div id="art-page-background-simple-gradient">
+</div>
+<div id="art-main">
+
+
+
+
+
+
+<div class="art-Sheet">
+    <div class="art-Sheet-tl"></div>
+    <div class="art-Sheet-tr"></div>
+    <div class="art-Sheet-bl"></div>
+    <div class="art-Sheet-br"></div>
+    <div class="art-Sheet-tc"></div>
+    <div class="art-Sheet-bc"></div>
+    <div class="art-Sheet-cl"></div>
+    <div class="art-Sheet-cr"></div>
+    <div class="art-Sheet-cc"></div>
+    <div class="art-Sheet-body">
+
+<div class="art-contentLayout">
+<div class="art-sidebar1"><div class="art-Block">
+		    <div class="art-Block-tl"></div>
+		    <div class="art-Block-tr"></div>
+		    <div class="art-Block-bl"></div>
+		    <div class="art-Block-br"></div>
+		    <div class="art-Block-tc"></div>
+		    <div class="art-Block-bc"></div>
+		    <div class="art-Block-cl"></div>
+		    <div class="art-Block-cr"></div>
+		    <div class="art-Block-cc"></div>
+		    <div class="art-Block-body">
+		
+				<div class="art-BlockContent">
+		    <div class="art-BlockContent-body">
+		
+		<form action="index.php" method="post">
+	<div class="search">
+		<input name="searchword" id="mod_search_searchword" maxlength="20" alt="Search" class="inputbox" type="text" size="10" value="Search ..."  onblur="if(this.value=='') this.value='Search ...';" onfocus="if(this.value=='Search ...') this.value='';" />	</div>
+	<input type="hidden" name="task"   value="search" />
+	<input type="hidden" name="option" value="com_search" />
+	<input type="hidden" name="Itemid" value="1" />
+</form>
+				<div class="cleared"></div>
+		    </div>
+		</div>
+		
+		
+				<div class="cleared"></div>
+		    </div>
+		</div>
+		
+<div class="art-Block">
+		    <div class="art-Block-tl"></div>
+		    <div class="art-Block-tr"></div>
+		    <div class="art-Block-bl"></div>
+		    <div class="art-Block-br"></div>
+		    <div class="art-Block-tc"></div>
+		    <div class="art-Block-bc"></div>
+		    <div class="art-Block-cl"></div>
+		    <div class="art-Block-cr"></div>
+		    <div class="art-Block-cc"></div>
+		    <div class="art-Block-body">
+		
+		<div class="art-BlockHeader">
+		    <div class="l"></div>
+		    <div class="r"></div>
+		    <div class="art-header-tag-icon">
+		        <div class="t">
+		Menu</div>
+		    </div>
+		</div>
+				<div class="art-BlockContent">
+		    <div class="art-BlockContent-body">
+		
+		<ul class="menu"><li id="current" class="parent active item1"><a href="http://www.epoca-project.eu/"><span>Home</span></a><ul><li class="parent item171"><a href="/index.php/home/summaries-in-different-languages.html"><span>Summaries in different languages</span></a></li></ul></li><li class="parent item2"><a href="/index.php/who-are-we.html"><span>Who are we?</span></a></li><li class="parent item10"><a href="/index.php/what-do-we-do.html"><span>What do we do?</span></a></li><li class="parent item17"><a href="/index.php/data.html"><span>Data</span></a></li><li class="item62"><a href="/index.php/guide-to-best-practices-for-ocean-acidification-research-and-data-reporting.html"><span>Guide to OA research</span></a></li><li class="parent item4"><a href="/index.php/what-is-ocean-acidification.html"><span>What is ocean acidification?</span></a></li><li class="parent item18"><a href="/index.php/dissemination-a-media-center.html"><span>Dissemination &amp; media center</span></a></li><li class="parent item19"><a href="/index.php/restricted-area.html"><span>Restricted area</span></a></li><li class="item8"><a href="/index.php/contact.html"><span>Contact</span></a></li><li class="item9"><a href="/index.php/what-do-we-do/news.html"><span>News</span></a></li><li class="item197"><a href="/index.php/sitemap.html"><span>Sitemap</span></a></li><li class="parent item135"><a href="/index.php/links.html"><span>Links</span></a></li></ul>
+				<div class="cleared"></div>
+		    </div>
+		</div>
+		
+		
+				<div class="cleared"></div>
+		    </div>
+		</div>
+		
+<div class="art-Block">
+		    <div class="art-Block-tl"></div>
+		    <div class="art-Block-tr"></div>
+		    <div class="art-Block-bl"></div>
+		    <div class="art-Block-br"></div>
+		    <div class="art-Block-tc"></div>
+		    <div class="art-Block-bc"></div>
+		    <div class="art-Block-cl"></div>
+		    <div class="art-Block-cr"></div>
+		    <div class="art-Block-cc"></div>
+		    <div class="art-Block-body">
+		
+		<div class="art-BlockHeader">
+		    <div class="l"></div>
+		    <div class="r"></div>
+		    <div class="art-header-tag-icon">
+		        <div class="t">
+		Login</div>
+		    </div>
+		</div>
+				<div class="art-BlockContent">
+		    <div class="art-BlockContent-body">
+		
+			    		<div id="sl_vert">
+        <form action="/index.php" method="post" name="login" id="form-login" >
+                        <div id="sl_username">
+                <input id="modlgn_username" type="text" name="username" alt="username" size="10" value="Username" onfocus="if (this.value=='Username') this.value=''" onblur="if(this.value=='') { this.value='Username'; return false; }" />
+			</div>
+            <div id="sl_pass">
+                <input id="modlgn_passwd" type="password" name="passwd" alt="password" size="10" value="Password" onfocus="if (this.value=='Password') this.value=''" onblur="if(this.value=='') { this.value='Password'; return false; }" />
+			</div>
+                            	<div id="sl_rememberme"><input type="checkbox" name="remember" id="modlogn_remember" class="inputbox" value="yes" alt="Remember Me" /> Remember Me</div>
+                	            <div id="sl_submitbutton"><span class="art-button-wrapper"><span class="l"> </span><span class="r"> </span><input type="submit" name="Submit" class="button art-button" value="Login" /></span></div>
+                                                    </ul>
+                    
+            <input type="hidden" name="option" value="com_user" />
+            <input type="hidden" name="task" value="login" />
+            <input type="hidden" name="return" value="L2luZGV4LnBocC9yZXN0cmljdGVkLWFyZWEuaHRtbA==" />
+            <input type="hidden" name="32901e7af6bd9aa02c17d8a5426f6c45" value="1" />       </form>
+       </div>
+       
+				<div class="cleared"></div>
+		    </div>
+		</div>
+		
+		
+				<div class="cleared"></div>
+		    </div>
+		</div>
+		
+<div class="art-Block">
+		    <div class="art-Block-tl"></div>
+		    <div class="art-Block-tr"></div>
+		    <div class="art-Block-bl"></div>
+		    <div class="art-Block-br"></div>
+		    <div class="art-Block-tc"></div>
+		    <div class="art-Block-bc"></div>
+		    <div class="art-Block-cl"></div>
+		    <div class="art-Block-cr"></div>
+		    <div class="art-Block-cc"></div>
+		    <div class="art-Block-body">
+		
+				<div class="art-BlockContent">
+		    <div class="art-BlockContent-body">
+		
+		
+<p style="text-align: center;"><a href="http://ukcatalogue.oup.com/product/9780199591091.do" target="_blank"><img src="/images/stories/oa_cover.png" border="0" /></a></p>
+<p style="text-align: center;"><a href="http://epoca-project.eu/index.php/what-do-we-do/outreach/rug/oa-aoe.html"><img src="/images/stories/what/outreach/oa-aoe.png" border="0" height="325" /></a></p>
+<p style="text-align: center;"><a href="/index.php/guide-to-best-practices-for-ocean-acidification-research-and-data-reporting.html"></a></p>
+				<div class="cleared"></div>
+		    </div>
+		</div>
+		
+		
+				<div class="cleared"></div>
+		    </div>
+		</div>
+		
+</div>
+<div class="art-content">
+
+<div class="art-Post">
+		    <div class="art-Post-tl"></div>
+		    <div class="art-Post-tr"></div>
+		    <div class="art-Post-bl"></div>
+		    <div class="art-Post-br"></div>
+		    <div class="art-Post-tc"></div>
+		    <div class="art-Post-bc"></div>
+		    <div class="art-Post-cl"></div>
+		    <div class="art-Post-cr"></div>
+		    <div class="art-Post-cc"></div>
+		    <div class="art-Post-body">
+		<div class="art-Post-inner">
+		
+		<div class="art-PostMetadataHeader">
+		<h2 class="art-PostHeader"> 
+		<span class="componentheading">EPOCA web site</span>
+		</h2>
+		
+		</div>
+		
+				
+		</div>
+		
+				<div class="cleared"></div>
+		    </div>
+		</div>
+		
+
+<div class="art-Post">
+    <div class="art-Post-tl"></div>
+    <div class="art-Post-tr"></div>
+    <div class="art-Post-bl"></div>
+    <div class="art-Post-br"></div>
+    <div class="art-Post-tc"></div>
+    <div class="art-Post-bc"></div>
+    <div class="art-Post-cl"></div>
+    <div class="art-Post-cr"></div>
+    <div class="art-Post-cc"></div>
+    <div class="art-Post-body">
+<div class="art-Post-inner">
+<div class="art-PostContent">
+<div class="art-article"><p style="text-align: left;" mce_style="text-align: left;"><span style="color: #555555; font-family: Arial, Helvetica, sans-serif; line-height: 21px; -webkit-text-size-adjust: none; background-color: #ffffff;" mce_style="color: #555555; font-family: Arial, Helvetica, sans-serif; line-height: 21px; -webkit-text-size-adjust: none; background-color: #ffffff;"><!-- SPU HTML GOES BELOW -->
+
+<script language="javascript" type="text/javascript">
+<!--
+var addText = '';
+
+
+-->
+</script>
+
+ 
+<script language="javascript" type="text/javascript">
+<!--
+jQuery(document).ready(function() {
+	var fshowMsg = true;
+	
+		
+	if (fshowMsg) {
+		jQuery.fancybox(
+			''+addText,
+			{
+								'autoDimensions'	: false,
+				'width'         	: 400,
+				'height'        	: 265,
+								'transitionIn'		: 'elastic',
+				'transitionOut'		: 'elastic',
+				'resizeOnWindowResize'	: true,
+				'centerOnScroll'	: true
+			}
+		);
+	}
+	
+	
+		
+});
+
+-->
+</script>
+
+<!-- FancyBox -->
+<div id="spuSimplePoPup" style="display: none;">
+	<div id="spu" class="spu_content" style="text-align: center;">
+		</span><br style="color: #555555; font-family: Arial, Helvetica, sans-serif; line-height: 21px; -webkit-text-size-adjust: none; background-color: #ffffff; padding: 0px; margin: 0px;" mce_style="color: #555555; font-family: Arial, Helvetica, sans-serif; line-height: 21px; -webkit-text-size-adjust: none; background-color: #ffffff; padding: 0px; margin: 0px;"><br style="color: #555555; font-family: Arial, Helvetica, sans-serif; line-height: 21px; -webkit-text-size-adjust: none; background-color: #ffffff; padding: 0px; margin: 0px;" mce_style="color: #555555; font-family: Arial, Helvetica, sans-serif; line-height: 21px; -webkit-text-size-adjust: none; background-color: #ffffff; padding: 0px; margin: 0px;"><span style="font-weight: bold; text-align: left;" mce_style="font-weight: bold; text-align: left;"></span></p><p style="text-align: center; " mce_style="text-align: center; "><img src="/images/stories/Logos/epoca-logo-100.png" mce_src="/images/stories/Logos/epoca-logo-100.png" width="200" style=""></p><p style="text-align: justify; " mce_style="text-align: justify; "><span style="text-align: left; " mce_style="text-align: left;"><span style="font-size: medium; " mce_style="font-size: medium;">The EPOCA Project has come to an end. We hope that you find the resources of this site useful. Thank you for your interest.</span></span><br style="color: #555555; font-family: Arial, Helvetica, sans-serif; line-height: 21px; -webkit-text-size-adjust: none; background-color: #ffffff; padding: 0px; margin: 0px;" mce_style="color: #555555; font-family: Arial, Helvetica, sans-serif; line-height: 21px; -webkit-text-size-adjust: none; background-color: #ffffff; padding: 0px; margin: 0px;"><br style="color: #555555; font-family: Arial, Helvetica, sans-serif; line-height: 21px; -webkit-text-size-adjust: none; background-color: #ffffff; padding: 0px; margin: 0px;" mce_style="color: #555555; font-family: Arial, Helvetica, sans-serif; line-height: 21px; -webkit-text-size-adjust: none; background-color: #ffffff; padding: 0px; margin: 0px;"><span style="color: #555555; font-family: Arial, Helvetica, sans-serif; line-height: 21px; -webkit-text-size-adjust: none; background-color: #ffffff;" mce_style="color: #555555; font-family: Arial, Helvetica, sans-serif; line-height: 21px; -webkit-text-size-adjust: none; background-color: #ffffff;">	</div>
+	</div>
+
+<script language="javascript" type="text/javascript">
+<!--
+addText = document.getElementById('spuSimplePoPup').innerHTML;
+-->
+</script>
+
+<!-- END SFG HTML --></span><br style="color: #555555; font-family: Arial, Helvetica, sans-serif; line-height: 21px; -webkit-text-size-adjust: none; background-color: #ffffff; padding: 0px; margin: 0px;" mce_style="color: #555555; font-family: Arial, Helvetica, sans-serif; line-height: 21px; -webkit-text-size-adjust: none; background-color: #ffffff; padding: 0px; margin: 0px;"><span style="font-family: Arial, Verdana, Tahoma, Helvetica, sans-serif; font-size: 12px; " mce_style="font-family: Arial, Verdana, Tahoma, Helvetica, sans-serif; font-size: 12px; "></span></p><p style="text-align: left;" mce_style="text-align: left;"><span style="font-family: Arial, Verdana, Tahoma, Helvetica, sans-serif; font-size: 12px; " mce_style="font-family: Arial, Verdana, Tahoma, Helvetica, sans-serif; font-size: 12px; ">
+<div class='besps_holder besps_holder_1_0'>
+<div class='besps_slides besps_slides_1_0'>
+<div id='img_1_0_1'><img src='http://www.epoca-project.eu/images/stories/slideshow/Calcidiscus-single_2000.jpg' style='left:17px;top:0px;width:266px;height:200px;' alt='Calcidiscus today. By Ulf Riebesell' title='Calcidiscus today. By Ulf Riebesell'/></div>
+<div id='img_1_0_2'><img src='http://www.epoca-project.eu/images/stories/slideshow/Calcidiscus-single_2100.jpg' style='left:17px;top:0px;width:266px;height:200px;' alt='Calcidiscus in 2100. By Ulf Riebesell' title='Calcidiscus in 2100. By Ulf Riebesell'/></div>
+<div id='img_1_0_3'><img src='http://www.epoca-project.eu/images/stories/slideshow/Lophelia%2BGorgonia_1.JPG' style='left:0px;top:0px;width:300px;height:199px;' alt='Lophelia and Paragorgia. By Karen Hissmann' title='Lophelia and Paragorgia. By Karen Hissmann'/></div>
+<div id='img_1_0_4'><img src='http://www.epoca-project.eu/images/stories/slideshow/Lophelia_close_up3.jpg' style='left:21px;top:0px;width:258px;height:200px;' alt='Lophelia. By Karen Hissmann' title='Lophelia. By Karen Hissmann'/></div>
+<div id='img_1_0_5'><img src='http://www.epoca-project.eu/images/stories/slideshow/Patella_caerulea.jpg' style='left:24px;top:0px;width:251px;height:200px;' alt='Live Patella caerulea in pH 7.4 in volcanic carbon dioxide vents (Hall-Spencer et al. 2008)' title='Live Patella caerulea in pH 7.4 in volcanic carbon dioxide vents (Hall-Spencer et al. 2008)'/></div>
+<div id='img_1_0_6'><img src='http://www.epoca-project.eu/images/stories/slideshow/ptero.png' style='left:25px;top:0px;width:250px;height:200px;' alt='Pteropod Limacina helicina. By Steeve Comeau' title='Pteropod Limacina helicina. By Steeve Comeau'/></div>
+<div id='img_1_0_7'><img src='http://www.epoca-project.eu/images/stories/slideshow/Universa.png' style='left:0px;top:1px;width:300px;height:198px;' alt='Orbulina universa. By Jelle Bijma' title='Orbulina universa. By Jelle Bijma'/></div>
+<div id='img_1_0_8'><img src='http://www.epoca-project.eu/images/stories/slideshow/Untitled.png' style='left:0px;top:33px;width:300px;height:133px;' alt='Cod (Gadus morhua) juvenile. By Catriona Clemmesen' title='Cod (Gadus morhua) juvenile. By Catriona Clemmesen'/></div>
+<div id='img_1_0_9'><img src='http://www.epoca-project.eu/images/stories/slideshow/Vents_compress.jpg' style='left:0px;top:0px;width:300px;height:199px;' alt='Posidonia oceanica lacking Corallinaceae at mean pH 7.6 in volcanic carbon dioxide vents (Hall-Spencer et al. 2008)' title='Posidonia oceanica lacking Corallinaceae at mean pH 7.6 in volcanic carbon dioxide vents (Hall-Spencer et al. 2008)'/></div></div>
+
+<div class='besps_caps besps_caps_1_0' id='bs_caps_1_0'><div class='bs_inside'><span>Calcidiscus today. By Ulf Riebesell</span><span></span></div></div>
+</div>
+</span></p>
+<p style="text-align: left;" mce_style="text-align: left;"></p>
+<p style="text-align: left;" mce_style="text-align: left;"></p>
+<p style="text-align: left;" mce_style="text-align: left;"></p>
+<p style="text-align: left;" mce_style="text-align: left;"></p>
+<p style="text-align: left;" mce_style="text-align: left;"></p>
+<p style="text-align: left;" mce_style="text-align: left;"></p>
+<p style="text-align: left;" mce_style="text-align: left;"></p>
+<p style="text-align: left;" mce_style="text-align: left;"></p><p><span style="font-size: 15px;" mce_style="font-size: 15px;">The EU FP7 Integrated Project EPOCA (European Project on OCean Acidification) was launched in June 2008 for 4 years. The overall goal is to advance our understanding of the biological, ecological, biogeochemical, and societal implications of ocean acidification.</span></p>
+<p style="margin-top: 0.5em; margin-right: 0px; margin-bottom: 0.5em; margin-left: 0px; font-size: 15px; text-align: left; padding: 0px;" mce_style="margin-top: 0.5em; margin-right: 0px; margin-bottom: 0.5em; margin-left: 0px; font-size: 15px; text-align: left; padding: 0px;" align="justify"><br /></p>
+<h3>EPOCA aims to:</h3>
+<ul>
+<li>document the changes in ocean chemistry and biogeography across space and time</li>
+<li>determine the sensitivity of marine organisms, communities and ecosystems to ocean acidification</li>
+<li>integrate results on the impact of ocean acidification on marine ecosystems in biogeochemical, sediment, and coupled ocean-climate models to better understand and predict the responses of the Earth system to ocean acidification</li>
+<li>assess uncertainties, risks and thresholds ("tipping points") related to ocean acidification at scales ranging from sub-cellular to ecosystem and local to global</li>
+</ul>
+<p><span style="font-size: small;" mce_style="font-size: small;"><span style="font-size: 15px;" mce_style="font-size: 15px;"><span style="font-size: small;" mce_style="font-size: small;"><span style="font-size: 15px;" mce_style="font-size: 15px;"><br /></span></span></span></span></p>
+<p style="margin-top: 0.5em; margin-right: 0px; margin-bottom: 0.5em; margin-left: 0px; font-size: 14px; text-align: left; padding: 0px;" mce_style="margin-top: 0.5em; margin-right: 0px; margin-bottom: 0.5em; margin-left: 0px; font-size: 14px; text-align: left; padding: 0px;" align="justify">The EPOCA consortium brings together more than 160 researchers from 32 institutes and 10 European countries (Belgium, France, Germany, Iceland, Italy, The Netherlands, Norway, Sweden, Switzerland, United Kingdom).</p>
+<p style="margin-top: 0.5em; margin-right: 0px; margin-bottom: 0.5em; margin-left: 0px; font-size: 14px; text-align: left; padding: 0px;" mce_style="margin-top: 0.5em; margin-right: 0px; margin-bottom: 0.5em; margin-left: 0px; font-size: 14px; text-align: left; padding: 0px;" align="justify"><br /></p>
+<h3>EPOCA is endorsed by:</h3>
+<p><a href="http://www.imber.info/" mce_href="http://www.imber.info/" target="_blank" style="font-family: Verdana, Geneva, Arial, Helvetica, sans-serif; text-decoration: none; color: #09052e;" mce_style="font-family: Verdana, Geneva, Arial, Helvetica, sans-serif; text-decoration: none; color: #09052e;"><img src="/images/stories/Logos/imber_logo_updated.gif" mce_src="/images/stories/Logos/imber_logo_updated.gif" border="0" alt="IMBER" style="border: 0pt none ;" mce_style="border: 0pt none ;"></a> <a href="http://www.loicz.org/" mce_href="http://www.loicz.org/" target="_blank" style="font-family: Verdana, Geneva, Arial, Helvetica, sans-serif; text-decoration: none; color: #3c2de6;" mce_style="font-family: Verdana, Geneva, Arial, Helvetica, sans-serif; text-decoration: none; color: #3c2de6;"><img src="/images/stories/Logos/loicz-transp.png" mce_src="/images/stories/Logos/loicz-transp.png" border="0" alt="LOICZ" width="75" style="border: 0;" mce_style="border: 0;"></a> <a href="http://www.uea.ac.uk/env/solas/" mce_href="http://www.uea.ac.uk/env/solas/" target="_blank" style="font-family: Verdana, Geneva, Arial, Helvetica, sans-serif; text-decoration: none; color: #2517c4;" mce_style="font-family: Verdana, Geneva, Arial, Helvetica, sans-serif; text-decoration: none; color: #2517c4;"><img src="/images/stories/Logos/solascircle_transp.png" mce_src="/images/stories/Logos/solascircle_transp.png" border="0" alt="SOLAS" height="75" style="border: 0;" mce_style="border: 0;"></a></p>
+<p><br /></p>
+<p><span style="font-size: 18px; font-weight: bold;" mce_style="font-size: 18px; font-weight: bold;">EPOCA summary in different languages:</span></p>
+<p><a href="/index.php/home/summaries-in-different-languages/in-french.html" mce_href="/index.php/home/summaries-in-different-languages/in-french.html" style="font-family: Verdana, Geneva, Arial, Helvetica, sans-serif; text-decoration: none; color: #2517c4;" mce_style="font-family: Verdana, Geneva, Arial, Helvetica, sans-serif; text-decoration: none; color: #2517c4;"><img class="caption" src="/images/stories/Photos/flags/flag_of_france.png" mce_src="/images/stories/Photos/flags/flag_of_france.png" border="0" title="French" align="left"></a> <a href="/index.php/home/summaries-in-different-languages/in-italian.html" mce_href="/index.php/home/summaries-in-different-languages/in-italian.html" style="font-family: Verdana, Geneva, Arial, Helvetica, sans-serif; text-decoration: none; color: #2517c4;" mce_style="font-family: Verdana, Geneva, Arial, Helvetica, sans-serif; text-decoration: none; color: #2517c4;"><img class="caption" src="/images/stories/Photos/flags/flag_of_italy.png" mce_src="/images/stories/Photos/flags/flag_of_italy.png" border="0" title="Italian" align="left"> </a> <a href="/index.php/home/summaries-in-different-languages/in-german.html" mce_href="/index.php/home/summaries-in-different-languages/in-german.html" style="font-family: Verdana, Geneva, Arial, Helvetica, sans-serif; text-decoration: none; color: #2517c4;" mce_style="font-family: Verdana, Geneva, Arial, Helvetica, sans-serif; text-decoration: none; color: #2517c4;"><img class="caption" src="/images/stories/Photos/flags/flag_of_germany.png" mce_src="/images/stories/Photos/flags/flag_of_germany.png" border="0" title="German" align="left"></a> <a href="/index.php/home/summaries-in-different-languages/in-dutch.html" mce_href="/index.php/home/summaries-in-different-languages/in-dutch.html" style="font-family: Verdana, Geneva, Arial, Helvetica, sans-serif; text-decoration: none; color: #2517c4;" mce_style="font-family: Verdana, Geneva, Arial, Helvetica, sans-serif; text-decoration: none; color: #2517c4;"><img class="caption" src="/images/stories/Photos/flags/flag_of_netherlands.png" mce_src="/images/stories/Photos/flags/flag_of_netherlands.png" border="0" title="Dutch" align="left"> </a> <a href="/index.php/home/summaries-in-different-languages/in-russian.html" mce_href="/index.php/home/summaries-in-different-languages/in-russian.html" style="font-family: Verdana, Geneva, Arial, Helvetica, sans-serif; text-decoration: none; color: #2517c4;" mce_style="font-family: Verdana, Geneva, Arial, Helvetica, sans-serif; text-decoration: none; color: #2517c4;"><img class="caption" src="/images/stories/Photos/flags/flag_of_russia.png" mce_src="/images/stories/Photos/flags/flag_of_russia.png" border="0" title="Russian" align="left"> </a> <a href="/index.php/home/summaries-in-different-languages/in-estonian.html" mce_href="/index.php/home/summaries-in-different-languages/in-estonian.html" style="font-family: Verdana, Geneva, Arial, Helvetica, sans-serif; text-decoration: none; color: #2517c4;" mce_style="font-family: Verdana, Geneva, Arial, Helvetica, sans-serif; text-decoration: none; color: #2517c4;"><img class="caption" src="/images/stories/Photos/flags/flag_of_estonia.png" mce_src="/images/stories/Photos/flags/flag_of_estonia.png" border="0" title="Estonian" align="left"> </a> <a href="/index.php/home/summaries-in-different-languages/in-japanese.html" mce_href="/index.php/home/summaries-in-different-languages/in-japanese.html" style="font-family: Verdana, Geneva, Arial, Helvetica, sans-serif; text-decoration: none; color: #2517c4;" mce_style="font-family: Verdana, Geneva, Arial, Helvetica, sans-serif; text-decoration: none; color: #2517c4;"><img class="caption" src="/images/stories/Photos/flags/flag_of_japan.png" mce_src="/images/stories/Photos/flags/flag_of_japan.png" border="0" title="Japanese" align="left"> </a> <a href="/index.php/home/summaries-in-different-languages/in-chinese.html" mce_href="/index.php/home/summaries-in-different-languages/in-chinese.html" style="font-family: Verdana, Geneva, Arial, Helvetica, sans-serif; text-decoration: none; color: #2517c4;" mce_style="font-family: Verdana, Geneva, Arial, Helvetica, sans-serif; text-decoration: none; color: #2517c4;"><img class="caption" src="/images/stories/Photos/flags/flag_of_china.png" mce_src="/images/stories/Photos/flags/flag_of_china.png" border="0" title="Chinese" align="left"> </a> <a href="/index.php/home/summaries-in-different-languages/in-swedish.html" mce_href="/index.php/home/summaries-in-different-languages/in-swedish.html" style="font-family: Verdana, Geneva, Arial, Helvetica, sans-serif; text-decoration: none; color: #2517c4;" mce_style="font-family: Verdana, Geneva, Arial, Helvetica, sans-serif; text-decoration: none; color: #2517c4;"><img class="caption" src="/images/stories/Photos/flags/flag_of_sweden.png" mce_src="/images/stories/Photos/flags/flag_of_sweden.png" border="0" title="Swedish" align="left"> </a> <a href="/index.php/home/summaries-in-different-languages/in-danish.html" mce_href="/index.php/home/summaries-in-different-languages/in-danish.html" style="font-family: Verdana, Geneva, Arial, Helvetica, sans-serif; text-decoration: none; color: #2517c4;" mce_style="font-family: Verdana, Geneva, Arial, Helvetica, sans-serif; text-decoration: none; color: #2517c4;"><img class="caption" src="/images/stories/Photos/flags/flag_of_denmark.png" mce_src="/images/stories/Photos/flags/flag_of_denmark.png" border="0" title="Danish" align="left"> </a> <a href="/index.php/home/summaries-in-different-languages/in-icelandic.html" mce_href="/index.php/home/summaries-in-different-languages/in-icelandic.html" style="font-family: Verdana, Geneva, Arial, Helvetica, sans-serif; text-decoration: none; color: #2517c4;" mce_style="font-family: Verdana, Geneva, Arial, Helvetica, sans-serif; text-decoration: none; color: #2517c4;"><img class="caption" src="/images/stories/Photos/flags/flag_of_iceland.png" mce_src="/images/stories/Photos/flags/flag_of_iceland.png" border="0" title="Icelandic" align="left"> </a> <a href="/index.php/home/summaries-in-different-languages/in-norwegian.html" mce_href="/index.php/home/summaries-in-different-languages/in-norwegian.html" style="font-family: Verdana, Geneva, Arial, Helvetica, sans-serif; text-decoration: none; color: #2517c4;" mce_style="font-family: Verdana, Geneva, Arial, Helvetica, sans-serif; text-decoration: none; color: #2517c4;"><img class="caption" src="/images/stories/Photos/flags/flag_of_norway.png" mce_src="/images/stories/Photos/flags/flag_of_norway.png" border="0" title="Norwegian" align="left"></a></p></div><span class="article_separator">&nbsp;</span>
+</div>
+<div class="cleared"></div>
+
+</div>
+
+		<div class="cleared"></div>
+    </div>
+</div>
+
+
+
+
+
+
+
+
+
+
+</div>
+<div class="art-sidebar2"><div class="art-Block">
+		    <div class="art-Block-tl"></div>
+		    <div class="art-Block-tr"></div>
+		    <div class="art-Block-bl"></div>
+		    <div class="art-Block-br"></div>
+		    <div class="art-Block-tc"></div>
+		    <div class="art-Block-bc"></div>
+		    <div class="art-Block-cl"></div>
+		    <div class="art-Block-cr"></div>
+		    <div class="art-Block-cc"></div>
+		    <div class="art-Block-body">
+		
+		<div class="art-BlockHeader">
+		    <div class="l"></div>
+		    <div class="r"></div>
+		    <div class="art-header-tag-icon">
+		        <div class="t">
+		News</div>
+		    </div>
+		</div>
+				<div class="art-BlockContent">
+		    <div class="art-BlockContent-body">
+		
+		<h3></h3>
+<!-- START 'DisplayNews by BK 1.7.3' -->
+
+<span class=''><ul><li class='latestnews'><span class='latestnews'><a href="/index.php/what-do-we-do/news/263-call-for-student-abstracts.html" class='' >Call for student abstracts</a></span>
+<div style="clear: both;"></div></li><li class='latestnews'><span class='latestnews'><a href="/index.php/what-do-we-do/news/259-the-acid-truth-about-our-oceans-experts-urge-action-to-limit-ocean-acidification.html" class='' >The acid truth about our oceans: experts urge action to limit ocean acidification</a></span>
+<div style="clear: both;"></div></li><li class='latestnews'><span class='latestnews'><a href="/index.php/what-do-we-do/news/257-hot-sour-and-breathless-oceans-under-stress.html" class='' >Hot, sour and breathless - Oceans under stress</a></span>
+<div style="clear: both;"></div></li><li class='latestnews'><span class='latestnews'><a href="/index.php/what-do-we-do/news/248-reprinting-of-the-guide-to-best-practices-for-ocean-acidification-research-and-data-reporting.html" class='' >Reprinting of the “Guide to best practices for ocean acidification research and data reporting”</a></span>
+<div style="clear: both;"></div></li><li class='latestnews'><span class='latestnews'><a href="/index.php/what-do-we-do/news/247-ocean-acidification-book-now-published.html" class='' >Ocean Acidification book now published</a></span>
+<div style="clear: both;"></div></li></ul>
+</span>
+
+<!-- END 'DisplayNews by BK 1.7.3' -->
+
+				<div class="cleared"></div>
+		    </div>
+		</div>
+		
+		
+				<div class="cleared"></div>
+		    </div>
+		</div>
+		
+<div class="art-Block">
+		    <div class="art-Block-tl"></div>
+		    <div class="art-Block-tr"></div>
+		    <div class="art-Block-bl"></div>
+		    <div class="art-Block-br"></div>
+		    <div class="art-Block-tc"></div>
+		    <div class="art-Block-bc"></div>
+		    <div class="art-Block-cl"></div>
+		    <div class="art-Block-cr"></div>
+		    <div class="art-Block-cc"></div>
+		    <div class="art-Block-body">
+		
+		<div class="art-BlockHeader">
+		    <div class="l"></div>
+		    <div class="r"></div>
+		    <div class="art-header-tag-icon">
+		        <div class="t">
+		EPOCA ocean acidification blog</div>
+		    </div>
+		</div>
+				<div class="art-BlockContent">
+		    <div class="art-BlockContent-body">
+		
+		<p>The EPOCA <a href="http://oceanacidification.wordpress.com/" target="_blank" style="color: #1881ac; text-decoration: none;">blog</a> provides daily updates on scientific articles and media coverage on ocean acidification.</p>
+<p><img src="/images/stories/Logos/feed-icon-12x12-orange.png" border="0" style="border: 0px initial initial;" /> <a href="http://feeds.feedburner.com/wordpress/lRgb" target="_blank" style="color: #1881ac; text-decoration: none;">Subscribe in a reader</a></p>
+				<div class="cleared"></div>
+		    </div>
+		</div>
+		
+		
+				<div class="cleared"></div>
+		    </div>
+		</div>
+		
+</div>
+
+</div>
+<div class="cleared"></div>
+
+
+<div class="art-Footer">
+ <div class="art-Footer-inner">
+    <div class="art-Footer-text">
+  <p>  </p>
+
+    </div>
+ </div>
+ <div class="art-Footer-background"></div>
+</div>
+
+		<div class="cleared"></div>
+    </div>
+</div>
+<div class="cleared"></div>
+<p style="font-size: 9px; vertical-align: middle; text-align: center;"><a mce_href="http://www.obs-vlfr.fr/" target="_blank" href="http://www.obs-vlfr.fr/"><img mce_src="http://www.epoca-project.eu/images/stories/Logos/obs-vlfr_30px.png" alt=" " height="20" width="20" src="http://www.epoca-project.eu/images/stories/Logos/obs-vlfr_30px.png"></a>  This web site is hosted by <font face="Arial, Helvetica, sans-serif"><a mce_href="http://www.obs-vlfr.fr/" target="_blank" href="http://www.obs-vlfr.fr/">Observatoire Océanologique</a>  de Villefranche sur Mer</font> </p>
+</div>
+
+</body> 
+</html>
+

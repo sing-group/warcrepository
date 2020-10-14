@@ -1,0 +1,333 @@
+WARC/1.0
+WARC-Type: warcinfo
+WARC-Date: 2018-05-30T18:18:32Z
+WARC-All-Language: en
+WARC-All-Content_type: text/html
+WARC-Record-ID: <urn:uuid:901ab1ec-6f76-42a2-8280-d1158fa7fa88>
+Content-Type: application/http;msgtype=response
+Content-Length: 46
+
+WARCProcessor by SING Group www.sing-group.com
+
+WARC/1.0
+WARC-Type: response
+WARC-Target-URI: http://www.office-sharing.eu
+WARC-Date: 20180530181832
+WARC-Language: en
+WARC-Record-ID: <http://www.office-sharing.eu>
+Content-Type: application/http;msgtype=response
+Content-Length: 7041
+
+HTTP/1.1 200
+Content-Type:text/html
+
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+
+<html>
+<head>
+<meta http-equiv="content-Type" content="text/html; charset=iso-8859-1">
+<meta name="description" content="Office-sharing offers you representative office rooms up to 1,000 sqm, company headquarters with official and notarial conducting and many individual solutions.">
+<meta name="keywords" content="Office-Sharing,Virtual Office,Austria,Salzburg,rent an office,office-services,office-center,shared office,start up services, serviced offices,phone-fax-service,office-rental,real estate,Adress-Service,Headquater,Office-Rental,Phone-Fax Service,Corporate Design,Domizil-Adressen,Austria,Österreich,Salzburg,Fax-Service,Telefon-Service,Virtual-Office">
+
+<title>Office-Sharing at Salzburg, office rental and company registered office</title>
+<link rel="stylesheet" href="stylesheet.css">
+</head>
+
+<body bgcolor="#696969">
+
+		
+
+<div align="center">
+<table border="0" cellpadding="0" cellspacing="0" width="99%" height="99%">
+<tr>
+<td>
+<div align="center">
+<div align="center">
+<table border="0" cellpadding="0" cellspacing="0" width="850" height="555">
+<tr height="155">
+<td width="850" background="hintergrund_oben.jpg" height="155"></td>
+</tr>
+<tr height="366">
+<td background="hintergrund_content.jpg" width="850" height="366" valign="top" align="left">
+<div align="left">
+<table border="0" cellpadding="0" cellspacing="0" height="322" width="810">
+<tr height="322">
+
+
+
+<!--	rettangolo vuoto a sinistra del menu	-->
+
+<td height="322" width="40">		<!-- originale era 57 -->
+<div align="left">
+</div>
+</td>
+
+<!--	rettangolo che contiene il menu	-->
+
+<td height="322" width="149" valign="top" align="left">
+<div id="menu"> <!-- mi pare che non funz. -->
+
+<table border="0" cellpadding="0" cellspacing="0" width="143" height="224">
+<tr height="14">
+
+<td width="133" height="14" valign="top" align="left">
+<a href="index.php" class="textlinkrahmen">
+<img src="deutsch.jpg" width="66" height="10" border="0" vspace="2" usemap="#deutsch156a88Map" align="top">
+</a><br> 
+
+<map name="deutsch156a88Map">
+<area shape="rect" coords="49,0,66,9" href="http://www.allservice.it">
+<area shape="rect" coords="24,0,41,9" href="http://www.office-sharing.eu">
+<area shape="rect" coords="1,0,18,9" href="http://www.office-sharing.at">
+</map>
+</td>
+</tr>
+
+<tr height="20">
+<td width="133" height="20" valign="top" align="left">
+<a href="http://www.office-sharing.eu/" target="_self" class="textlinkrahmen">
+Home
+</a><br>
+</td>
+</tr>
+
+
+
+
+<tr height="14">
+<td width="133" valign="top" align="left" height="14"></td>
+</tr>
+<tr height="14">
+<td width="133" valign="top" align="left" height="14">
+<a href="standorte.php" target="_self" class="textlinkrahmen">
+Locations
+</a>
+<span class="text"><br></span>
+<a href="virtual_office.php" target="_self" class="textlinkrahmen">
+Virtual office
+</a>
+<br> 
+<a href="firmensitz.php" target="_self" class="textlinkrahmen">
+Registered office
+</a>
+<a href="buerovermietung.php" target="_self" class="textlinkrahmen">
+Office rental
+</a>
+<span class="text"><br></span>
+<a href="immobilien.php" target="_self" class="textlinkrahmen">
+Real estate
+</a>
+<span class="text"><br></span>
+<a href="phone_fax_service.php" target="_self" class="textlinkrahmen">
+Phone-fax service
+</a>
+<a href="corporate_design.php" target="_self" class="textlinkrahmen">
+Corporate design
+</a>
+<br></span>
+<a href="gmbhgruendungen.php" target="_self" class="textlinkrahmen">
+GmbH company
+</a>
+<br></span>
+<a href="finanzierungen.php" target="_self" class="textlinkrahmen">
+Financing
+</a>
+<br> 								  
+</td>
+</tr>
+<tr height="14">
+<td width="133" valign="top" align="left" height="14"></td>
+</tr>
+<tr height="14">
+<td width="133" valign="top" align="left" height="14">
+<a href="kontakte.php" target="_self" class="textlinkrahmen">
+Contact - Imprint
+</a>
+</td>
+</tr>
+<tr height="14">
+<td width="133" valign="top" align="left" height="14"></td>
+</tr>
+<tr height="14">
+<td width="133" valign="top" align="left" height="14">
+<a href="partner.php" target="_self" class="textlinkrahmen">
+Partners
+</a>
+
+<!--
+<span class="text"><br>
+</span>
+<a href="presse.php" target="_self" class="textlinkrahmen">
+Press
+</a>
+<span class="text"><br>
+</span>
+<a href="nuetzliche_links.php" target="_self" class="textlinkrahmen">
+Useful links
+</a>
+<span class="text"><br>
+</span></td>
+-->
+
+
+
+</tr>
+</table>
+</div>
+</td>
+
+
+<!--	rettangolo vuoto a destra del menu	-->
+
+<td height="322" width="20"> <!-- prima era 80 -->
+<div align="left">
+</div>
+</td>
+
+
+
+<!--    rettangolo con i dati elemento selezionato      -->
+
+<td height="322" width="489" valign="top" align="left">
+<div align="left">
+
+
+<table border="0" cellpadding="0" cellspacing="0">  <!-- width="524" -->
+<tr>
+<td valign="top" align="left" width="259">
+</td>
+<td width="69">
+</td>
+<td valign="top" align="right" width="196">
+<img src="logo.gif" border="0">
+<img src="logo_salzburg.jpg" width="132" height="51" border="0">
+</td>
+</tr>
+</table>
+
+
+<span class="ueberschrift">
+<table border="0" cellpadding="0" cellspacing="0">	<!--era 433-->
+<tr>
+
+<td valign="top" align="left" width="25">
+<div align="left"></div>
+</td>
+<td width="280" valign="top" align="left">
+<div align="left"> 
+
+<!--    CORPO del contenuto      -->
+
+
+
+
+<span class="ueberschrift">
+Welcome at Office-Sharing,<br>
+</span>
+<span class="text">
+we offer you representative office rooms up to 1000 sqm,
+<br>
+company registered office with official and notarial conducting and many individual solutions.
+<br>
+<br>
+</span>
+
+<p><span class="ueberschrift">
+<table border="0" cellpadding="0" cellspacing="0">
+        <tr height="99">
+
+        <td>
+	<a href="virtual_office.php">
+	<img src="virtuell_office.jpg" width="111" height="85" border="0">
+	</a>
+	</td>
+
+        <td>
+        <a href="firmensitz.php">
+	<img src="firmensitz.jpg" width="111" height="85" border="0">
+	</a>
+	</td>
+
+        <td>
+        <a href="buerovermietung.php">
+	<img src="buerovermietung.jpg" width="111" height="85" border="0">
+	</a>
+	</td>
+
+        <td>
+        <a href="immobilien.php">
+	<img src="immobilien.jpg" width="111" height="85" border="0">
+	</a>
+	</td>
+
+        </tr>
+
+        <tr height="99"> 
+
+        <td>
+        <a href="phone_fax_service.php">
+	<img src="phonfax_service.jpg" width="111" height="85" border="0">
+	</a>
+	</td>
+
+        <td>
+        <a href="corporate_design.php">
+	<img src="cd.jpg" width="111" height="85" border="0">
+	</a>
+	</td>
+
+        <td>
+        <a href="gmbhgruendungen.php">
+	<img src="gmbhgruendung.jpg" width="111" height="85" border="0">
+	</a>
+	</td>
+
+        <td>
+        <a href="finanzierungen.php">
+	<img src="finanzierungen.jpg" width="111" height="85" border="0">
+	</a>
+	</td>
+
+        </tr>
+</table>
+
+
+
+
+
+
+
+
+
+
+
+
+
+        </span></p>
+        </div>
+	</td>
+	</tr>
+	</table>
+	</span></div>
+	</td>
+	</tr>
+	</table>
+	</div>
+	</td>
+	</tr>
+	<tr height="35">
+	<td width="850" background="hintergrund_unten.jpg" height="35"></td>
+	</tr>
+	</table>
+	<p></p>
+	</div>
+	</div>
+	</td>
+	</tr>
+	</table>
+</div>
+</body>
+</html>
+
+

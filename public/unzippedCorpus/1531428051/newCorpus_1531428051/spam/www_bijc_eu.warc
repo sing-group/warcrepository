@@ -1,0 +1,71 @@
+WARC/1.0
+WARC-Type: warcinfo
+WARC-Date: 2018-05-30T17:52:30Z
+WARC-Record-ID: <urn:uuid:343a4fcf-d26d-44d2-a945-9d8b0ace363d>
+WARC-All-Language: fr
+WARC-All-Content_type: text/html; charset=UTF-8, text/html
+Content-Type: application/http;msgtype=response
+Content-Length: 46
+
+WARCProcessor by SING Group www.sing-group.com
+
+WARC/1.0
+WARC-Type: response
+WARC-Record-ID: <http://www.bijc.eu>
+WARC-Date: 20180530175230
+WARC-Target-URI: http://www.bijc.eu
+WARC-Language: fr
+Content-Type: application/http;msgtype=response
+Content-Length: 2758
+
+HTTP/1.1 200
+Content-Type:text/html; charset=UTF-8
+
+
+<!--
+	top.location="http://www.bijc.eu/?fp=YJKcKp6iz5ZHn4IBtZEsimTlLgB5%2Bc0g7N5I9y%2Fz3njDICGqU0fSnbnM1HADw3%2BzCR9DtRk1AOK9UsyAbRqzXg%3D%3D&prvtof=mBCOv97oEzhdoXkQIzCDPzWjrXd6oJXheqfYl5B6Oxk%3D&poru=ZeKDYYHwxFdSIYe62eY32JOWjQb0%2BeggFeC6Ew9C7vd887lZb3Att%2FRgZLAi2NTH&cifr=1&";
+	/*
+-->
+<html data-adblockkey="MFwwDQYJKoZIhvcNAQEBBQADSwAwSAJBAKX74ixpzVyXbJprcLfbH4psP4+L2entqri0lzh6pkAaXLPIcclv6DQBeJJjGFWrBIF6QMyFwXT5CCRyjS2penECAwEAAQ==_N1seijj7gGdGuPbCo+/GpdT1k7AbE57rS8kt0HzCpR9iRwVSAVmh1Dxh1UJggfFUDzvPR2K85CiptuTEWlDJ8w=="><head>
+				  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+				  <meta name="viewport" content="width=device-width"><meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7"><script type="text/javascript">
+	<!--
+	dimensionUpdated = 0;
+	function applyFrameKiller()
+	{
+		if(window.top != self)
+		{
+			cHeight = 0;
+			if( typeof( window.innerHeight ) != 'undefined' ) {
+			//Non-IE
+			cHeight = window.innerHeight;
+			dimensionUpdated = 1;
+			} else if( document.documentElement && ( document.documentElement.clientWidth || document.documentElement.clientHeight )  ) {
+			//IE 6+ in 'standards compliant mode'
+			cHeight = document.documentElement.clientHeight;
+			dimensionUpdated = 1;
+			} else if( document.body && ( document.body.clientWidth || document.body.clientHeight ) ) {
+			//IE 4 compatible
+			cHeight = document.body.clientHeight;
+			dimensionUpdated = 1;
+			}
+			if( cHeight <= 250 && dimensionUpdated == 1)
+			{
+				window.top.location = "http://www.bijc.eu/?fp=YJKcKp6iz5ZHn4IBtZEsimTlLgB5%2Bc0g7N5I9y%2Fz3njDICGqU0fSnbnM1HADw3%2BzCR9DtRk1AOK9UsyAbRqzXg%3D%3D&prvtof=mGEB19bdm4shQsXGa%2FAw7KNuryox%2Bd%2FMu21RTAIyhW4%3D&poru=brz1pyPlGGMGL0%2FM0K1TwDF4IYGOPj4hQ9rYVReGzPrqwbVdI8LgvnMJgorCKxSX&cifr=1&";
+			}
+		}
+	}
+
+	applyFrameKiller();
+	// -->
+</script><script type='text/javascript'>try{document.cookie = 'isframesetenabled=1';}catch(exception){}</script></head><frameset rows="100%,*" frameborder="no" border="0" framespacing="0">
+	<frame src="http://www.bijc.eu/?fp=YJKcKp6iz5ZHn4IBtZEsimTlLgB5%2Bc0g7N5I9y%2Fz3njDICGqU0fSnbnM1HADw3%2BzCR9DtRk1AOK9UsyAbRqzXg%3D%3D&prvtof=YLf4%2BmOar2QwFKxijtkxRtwXJ4Bi4Miz0rlXhvlzOWo%3D&poru=E7yfzeRXQuACgIGyGQlzZZXqj1oG1Io4a80Ll2DXgS0IcnJSxEtmMzdetCMMInDR&">
+</frameset>
+<noframes>
+	<body bgcolor="#ffffff" text="#000000">
+	<a href="http://www.bijc.eu/?fp=YJKcKp6iz5ZHn4IBtZEsimTlLgB5%2Bc0g7N5I9y%2Fz3njDICGqU0fSnbnM1HADw3%2BzCR9DtRk1AOK9UsyAbRqzXg%3D%3D&prvtof=10eKA1TAXk5meD%2BztBUaVT3yBbbFWxty9I%2FgsVPz4AY%3D&poru=8a5GnBXjmz0NvKGAm1651PSkoh%2F4geDiHVXttRPlwUs09FRsfQNYZfwF9cejAw1W&">Click here to proceed</a>.
+	</body>
+</noframes></html><!--
+*/
+-->
+

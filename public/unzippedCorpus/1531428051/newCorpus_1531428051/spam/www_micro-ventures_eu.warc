@@ -1,0 +1,55 @@
+WARC/1.0
+WARC-Type: warcinfo
+WARC-Date: 2018-05-30T17:52:30Z
+WARC-Record-ID: <urn:uuid:8d86970b-1f19-46b6-9ff8-724a8d1395a9>
+WARC-All-Language: fr
+WARC-All-Content_type: text/html
+Content-Type: application/http;msgtype=response
+Content-Length: 46
+
+WARCProcessor by SING Group www.sing-group.com
+
+WARC/1.0
+WARC-Type: response
+WARC-Record-ID: <http://www.micro-ventures.eu>
+WARC-Date: 20180530175230
+WARC-Target-URI: http://www.micro-ventures.eu
+WARC-Language: fr
+Content-Type: application/http;msgtype=response
+Content-Length: 1120
+
+HTTP/1.1 200
+Content-Type:text/html
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>MVH S.p.A.</title>
+<style type="text/css">
+<!--
+.style1 {font-family: Arial, Helvetica, sans-serif}
+.style4 {font-size: 24px}
+.style6 {font-family: Arial, Helvetica, sans-serif; font-size: 9px; }
+-->
+</style>
+</head>
+
+<body>
+<div align="center">
+  <p><img src="image002.gif" width="430" height="90" /></p>
+  <p class="style1"><strong><span class="style4">MVH  S.p.A.</span><br />  
+    <br />
+  </strong>Corso Matteotti 23<br />
+    25122 –  Brescia (Italy)<br />
+  +39.030.3758865</p>
+  <p align="center" class="style1"><strong> <a href="mailto:info@micro-ventures.eu">info@micro-ventures.eu</a></strong></p>
+  <span class="style6"><em>Capitale  Sociale € 14.117.000 i.v.</em> <em><br />
+  P.  IVA e Reg. Imprese CCIAA Brescia: 02889310989</em></span>
+  <p>&nbsp;  </p>
+</div>
+</body>
+</html>
+
+

@@ -1,0 +1,54 @@
+WARC/1.0
+WARC-Type: warcinfo
+WARC-Date: 2018-05-30T17:52:31Z
+WARC-All-Language: fr
+WARC-All-Content_type: text/html
+WARC-Record-ID: <urn:uuid:2e63ed36-004c-4124-8465-8e0d9ba13e2c>
+Content-Type: application/http;msgtype=response
+Content-Length: 46
+
+WARCProcessor by SING Group www.sing-group.com
+
+WARC/1.0
+WARC-Type: response
+WARC-Target-URI: http://www.anngregulatory.eu
+WARC-Date: 20180530175231
+WARC-Language: fr
+WARC-Record-ID: <http://www.anngregulatory.eu>
+Content-Type: application/http;msgtype=response
+Content-Length: 1370
+
+HTTP/1.1 200
+Content-Type:text/html
+
+
+<html>
+
+<head>
+<meta http-equiv="Content-Type"
+content="text/html; charset=iso-8859-1">
+<meta name="description" content="<DIV><FONT face="Century Gothic" color=#008080 size=2>
+<meta name="GENERATOR" content="Microsoft FrontPage 4.0">
+<title>Ann Godsell Regulatory</title>
+<link rel="stylesheet" type="text/css" href="stylesheet.css">
+</head>
+
+<frameset framespacing="0" border="0" frameborder="0"
+cols="177,*">
+    <noframes>
+    <body background="images/yellow%20paper.jpg" link="#FF0000"
+    vlink="#008000" alink="#0000FF">
+    Ann Godsell 
+Regulatory">
+    <p>This website requires a frames capable browser.</p>
+    <script type="text/javascript">var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));</script><script type="text/javascript">try {var pageTracker = _gat._getTracker("UA-8682112-1");pageTracker._trackPageview();} catch(err) {}</script></body>
+    </noframes>
+    <frame src="menu.shtml" name="contents" noresize
+    scrolling="no" borders="0" border=0 noresize target="main" >
+    <frame src="homepage.shtml" name="main" borders="0" border=0 noresize target="main" scrolling="auto">
+</frameset>
+<!--
+Powered by Clickstream DataSherpa
+--></html>
+
+

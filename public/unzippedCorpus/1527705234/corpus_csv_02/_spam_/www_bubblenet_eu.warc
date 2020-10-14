@@ -1,0 +1,535 @@
+WARC/1.0
+WARC-Type: warcinfo
+WARC-Date: 2018-05-30T18:18:32Z
+WARC-All-Language: en
+WARC-All-Content_type: text/html;charset=utf-8
+WARC-Record-ID: <urn:uuid:2fb78de8-5190-46c4-83d1-9274c11231d5>
+Content-Type: application/http;msgtype=response
+Content-Length: 46
+
+WARCProcessor by SING Group www.sing-group.com
+
+WARC/1.0
+WARC-Type: response
+WARC-Target-URI: http://www.bubblenet.eu
+WARC-Date: 20180530181832
+WARC-Language: en
+WARC-Record-ID: <http://www.bubblenet.eu>
+Content-Type: application/http;msgtype=response
+Content-Length: 16123
+
+HTTP/1.1 200
+Content-Type:text/html;charset=utf-8
+
+
+
+
+
+<!DOCTYPE html PUBLIC
+  "-//W3C//DTD XHTML 1.0 Transitional//EN"
+  "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+
+  
+    
+    
+    
+    
+
+
+  <head>
+
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+
+    <meta name="generator" content="Plone - http://plone.org" />
+
+    
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+
+    
+      <base href="http://www.bubblenet.eu/index_html" /><!--[if lt IE 7]></base><![endif]-->
+    
+
+    
+        <meta content="BubbleNet offers consulting, development and training services around Plone, Zope and Python. BubbleNet is one of the Zope pioneers in Belgium : we have worked with it since 1999." name="description" />
+<link rel="kss-base-url" href="http://www.bubblenet.eu/index_html/" />
+
+  
+    <style type="text/css" media="screen">@import url(http://www.bubblenet.eu/portal_css/Old%20Plone%203%20Custom%20Theme/base-cachekey8505.css);</style>
+    <link rel="stylesheet" type="text/css" media="screen" href="http://www.bubblenet.eu/portal_css/Old%20Plone%203%20Custom%20Theme/resourcetinymce.stylesheetstinymce-cachekey2295.css" />
+    <style type="text/css">@import url(http://www.bubblenet.eu/portal_css/Old%20Plone%203%20Custom%20Theme/print-cachekey4756.css);</style>
+        <!--[if lt IE 8]>    
+    
+    <link rel="stylesheet" type="text/css" media="screen" href="http://www.bubblenet.eu/portal_css/Old%20Plone%203%20Custom%20Theme/IEFixes-cachekey1559.css" />
+        <![endif]-->
+    
+    <style type="text/css" media="all">@import url(http://www.bubblenet.eu/portal_css/Old%20Plone%203%20Custom%20Theme/ploneCustom-cachekey6049.css);</style>
+
+  
+    <link rel="kinetic-stylesheet" type="text/css" href="http://www.bubblenet.eu/portal_kss/Old%20Plone%203%20Custom%20Theme/resourcetinymce.ksstinymce-cachekey9805.kss" />
+    <link rel="kinetic-stylesheet" type="text/css" href="http://www.bubblenet.eu/portal_kss/Old%20Plone%203%20Custom%20Theme/at-cachekey9420.kss" />
+  
+    <script type="text/javascript" src="http://www.bubblenet.eu/portal_javascripts/Old%20Plone%203%20Custom%20Theme/jquery-cachekey5912.js"></script>
+    <script type="text/javascript" src="http://www.bubblenet.eu/portal_javascripts/Old%20Plone%203%20Custom%20Theme/ie5fixes-cachekey8053.js"></script>
+    <script type="text/javascript" src="http://www.bubblenet.eu/portal_javascripts/Old%20Plone%203%20Custom%20Theme/kupunoi18n-cachekey7327.js"></script>
+    <script type="text/javascript" src="http://www.bubblenet.eu/portal_javascripts/Old%20Plone%203%20Custom%20Theme/resourcekukit-cachekey3886.js"></script>
+    <script type="text/javascript" src="http://www.bubblenet.eu/portal_javascripts/Old%20Plone%203%20Custom%20Theme/resourcekukit-devel-cachekey5398.js"></script>
+    <script type="text/javascript" src="http://www.bubblenet.eu/portal_javascripts/Old%20Plone%203%20Custom%20Theme/input-label-cachekey3003.js"></script>
+       <!--[if lt IE 8]>
+     
+    <script type="text/javascript" src="http://www.bubblenet.eu/portal_javascripts/Old%20Plone%203%20Custom%20Theme/iefixes-cachekey1277.js"></script>
+       <![endif]-->
+     
+
+
+<title>BubbleNet - Plone and Zope services in Belgium</title>
+
+        
+
+    <link rel="shortcut icon" type="image/x-icon" href="http://www.bubblenet.eu/favicon.ico" />
+    <link rel="apple-touch-icon" href="http://www.bubblenet.eu/touch_icon.png" />
+
+
+
+    <link rel="home" href="http://www.bubblenet.eu" title="Front page" />
+
+    <link rel="contents" href="http://www.bubblenet.eu/sitemap" title="Site Map" />
+
+
+
+
+
+
+    <link rel="search" href="http://www.bubblenet.eu/search_form" title="Search this site" />
+
+
+
+        <!-- Disable IE6 image toolbar -->
+        <meta http-equiv="imagetoolbar" content="no" />
+
+        
+        
+
+        
+        
+
+        
+        
+
+        
+        
+    
+
+  </head>
+
+  <body class="template-document_view portaltype-document section-index_html icons-on" dir="ltr">
+    <div id="visual-portal-wrapper">
+
+      <div id="portal-top">
+        <div id="portal-header">
+    <p class="hiddenStructure">
+  <a accesskey="2" href="http://www.bubblenet.eu/#content">Skip to content.</a> |
+
+  <a accesskey="6" href="http://www.bubblenet.eu/#portlet-navigation-tree">Skip to navigation</a>
+</p>
+
+<ul id="portal-siteactions">
+
+    <li id="siteaction-accessibility"><a href="http://www.bubblenet.eu/accessibility-info" accesskey="0" title="Accessibility">Accessibility</a></li>
+    <li id="siteaction-sitemap"><a href="http://www.bubblenet.eu/sitemap" accesskey="3" title=""></a></li>
+</ul>
+
+<div id="portal-searchbox">
+    <form name="searchform" id="searchGadget_form" action="http://www.bubblenet.eu/search">
+
+        <div class="LSBox">
+        <label class="hiddenStructure" for="searchGadget">Search Site</label>
+
+        <input name="SearchableText" type="text" size="18" title="Search Site" accesskey="4" class="searchField inputLabel" id="searchGadget" />
+
+        <input class="searchButton" type="submit" value="Search" />
+
+        <div class="searchSection">
+            <input id="searchbox_currentfolder_only" class="noborder" type="checkbox" name="path" value="/home" />
+            <label for="searchbox_currentfolder_only" style="cursor: pointer">
+                only in current section
+            </label>
+        </div>
+
+        <div class="LSResult" id="LSResult" style=""><div class="LSShadow" id="LSShadow"></div></div>
+        </div>
+    </form>
+
+    <div id="portal-advanced-search" class="hiddenStructure">
+        <a href="http://www.bubblenet.eu/search_form" accesskey="5">
+            Advanced Search&hellip;
+        </a>
+    </div>
+
+</div>
+
+<a id="portal-logo" title="Home" accesskey="1" href="http://www.bubblenet.eu">
+    <img src="http://www.bubblenet.eu/logo.jpg" alt="" title="" height="69" width="199" /></a>
+
+
+    <h5 class="hiddenStructure">Sections</h5>
+
+    <ul id="portal-globalnav"><li id="portaltab-portal_home" class="plain"><a href="" title="">Home</a></li><li id="portaltab-blog" class="plain"><a href="http://www.bubblenet.eu/blog" title="Blogging about Plone, Zope, Python">Blog</a></li><li id="portaltab-whoarewe" class="plain"><a href="http://www.bubblenet.eu/whoarewe" title="People working by BubbleNet">Who are we ?</a></li><li id="portaltab-contact" class="plain"><a href="http://www.bubblenet.eu/contact" title="address, email, phone, etc...">Contact</a></li></ul>
+
+</div>
+
+<div id="portal-personaltools-wrapper">
+
+<h5 class="hiddenStructure">Personal tools</h5>
+
+<ul id="portal-personaltools" class="visualInline">
+    
+
+    
+        <li id="personaltools-login">
+            <a href="http://www.bubblenet.eu/login_form">Log in</a>
+        </li>
+    
+
+</ul>
+</div>
+
+
+
+<div id="portal-breadcrumbs">
+
+    <span id="breadcrumbs-you-are-here">You
+are here:</span>
+    <span id="breadcrumbs-home">
+        <a href="http://www.bubblenet.eu">Home</a>
+        
+    </span>
+
+</div>
+
+      </div>
+
+      <div class="visualClear" id="clear-space-before-wrapper-table"><!-- --></div>
+
+      <table id="portal-columns">
+        <tbody>
+          <tr>
+            
+                
+                
+                
+            
+
+            
+            <td id="portal-column-content">
+
+              <div id="viewlet-above-content"></div>
+
+              
+                <div class="">
+
+                    
+
+                    <span id="contentTopLeft"></span>
+                    <span id="contentTopRight"></span>
+
+                    
+
+    <dl class="portalMessage info" id="kssPortalMessage" style="display:none">
+        <dt>Info</dt>
+        <dd></dd>
+    </dl>
+
+
+
+                    
+                    <div id="content">
+                      
+                      
+
+                        
+                            
+                            
+                                
+                                
+            
+                <h1 id="parent-fieldname-title" class="documentFirstHeading">
+                    BubbleNet - Plone and Zope services in Belgium
+                </h1>
+            
+            
+        
+                            
+                            
+
+<div id="category" class="documentByLine">
+  Filed under:
+  <span>
+    <a href="http://www.bubblenet.eu/search?Subject%3Alist=belgie" class="link-category" rel="tag">belgie</a><span class="separator">,</span>
+  </span>
+  <span>
+    <a href="http://www.bubblenet.eu/search?Subject%3Alist=belgium" class="link-category" rel="tag">belgium</a><span class="separator">,</span>
+  </span>
+  <span>
+    <a href="http://www.bubblenet.eu/search?Subject%3Alist=belgique" class="link-category" rel="tag">belgique</a>
+  </span>
+</div>
+
+
+                            
+                                
+                                
+            
+                <div id="parent-fieldname-description" class="documentDescription">
+                   BubbleNet offers consulting, development and training services around Plone, Zope and Python. BubbleNet is one of the Zope pioneers in Belgium : we have worked with it since 1999.
+                </div>
+            
+            
+        
+                            
+
+                            
+
+
+                            <div id="content-core">
+                                
+    
+        
+        <div class="" id="parent-fieldname-text">
+            
+<p><a href="http://www.plone.org">Plone</a> is a powerful yet easy to use CMS (Content Management System).</p>
+<p><a href="http://www.zope.org">Zope</a> is a full fledged web application framework and server : it is the technology under Plone. It provides functionality for main requirements : security, indexing, workflow,...</p>
+<p><a href="http://www.python.org">Python</a> is the language used to write Zope and Plone. It is easy to learn yet has all the expressivity of last generation languages.</p>
+<p>We provide consulting, development and training on the mentioned technologies : please <a href="http://bubblenet.be/home/contact/">contact</a> us for further details.</p>
+<p>&nbsp;</p>
+<p><a href="whoarewe">Who are we ?</a></p>
+
+            
+        </div>
+    
+    
+
+                            </div>
+                            
+
+
+
+    <div class="visualClear"><!-- --></div>
+
+    <div class="documentActions">
+        
+
+            <h5 class="hiddenStructure">
+              Document Actions
+            </h5>
+
+            <ul>
+                  <li id="document-action-sendto">
+                      <a href="http://www.bubblenet.eu/index_html/portal_form/sendto_form" title="">Send this</a>
+                  </li>
+            </ul>
+        
+
+        
+
+    </div>
+
+                        
+
+                      
+                    </div>
+                    
+
+                    
+
+                    <span id="contentBottomLeft"></span>
+                    <span id="contentBottomRight"></span>
+
+                </div>
+              
+
+              <div id="viewlet-below-content">
+
+
+
+    
+
+</div>
+
+            </td>
+            
+
+            
+                
+                <td id="portal-column-two">
+                  <div class="visualPadding">
+                    
+                      
+<div id="portletwrapper-706c6f6e652e7269676874636f6c756d6e0a636f6e746578740a2f686f6d650a6e657773" class="portletWrapper kssattr-portlethash-706c6f6e652e7269676874636f6c756d6e0a636f6e746578740a2f686f6d650a6e657773">
+<dl class="portlet portletNews">
+
+    <dt class="portletHeader">
+        <span class="portletTopLeft"></span>
+        <a href="http://www.bubblenet.eu/news" class="tile">News</a>
+        <span class="portletTopRight"></span>
+    </dt>
+
+    
+    <dd class="portletItem odd">
+
+        <a href="http://www.bubblenet.eu/blog/products.ptprofiler-1.5-zope-2.13-compatible-release" class="tile" title="PTProfiler is a nice profiling tool. There is a new release, compatible with Zope 2.12, 2.13 and thus with Plone 4x and 5.">
+            
+            Products.PTProfiler 1.5, Zope 2.13 compatible release
+         </a>
+            <span class="portletItemDetails">Oct 30, 2015</span>
+        
+    </dd>
+    
+    
+    <dd class="portletItem even">
+
+        <a href="http://www.bubblenet.eu/blog/purging-some-cmfeditions-versions" class="tile" title="How to delete specific CMFEditions versions">
+            
+            Purging some CMFEditions versions
+         </a>
+            <span class="portletItemDetails">Feb 23, 2015</span>
+        
+    </dd>
+    
+    
+    <dd class="portletItem odd">
+
+        <a href="http://www.bubblenet.eu/blog/control-setuptools-version-installed-by-buildout-bootstrap" class="tile" title="use --setuptools-version as parameter when running bootstrap.py">
+            
+            Control setuptools version installed by buildout bootstrap
+         </a>
+            <span class="portletItemDetails">Dec 15, 2014</span>
+        
+    </dd>
+    
+    
+    <dd class="portletItem even">
+
+        <a href="http://www.bubblenet.eu/blog/minimal-python-logging-module-setup" class="tile" title="log.ini file">
+            
+            Minimal python logging module setup 
+         </a>
+            <span class="portletItemDetails">Aug 27, 2013</span>
+        
+    </dd>
+    
+    
+    <dd class="portletItem odd">
+
+        <a href="http://www.bubblenet.eu/blog/howto-fix-failed-to-fetch-http-xxx_i386.deb-size-mismatch" class="tile" title="When installing a package with apt-get install, I get the message hereabove.">
+            
+            Howto fix "Failed to fetch http://xxx_i386.deb  Size mismatch"
+         </a>
+            <span class="portletItemDetails">Mar 26, 2013</span>
+        
+    </dd>
+    
+
+    <dd class="portletFooter">
+        <span class="portletBottomLeft"></span>
+        <a href="http://www.bubblenet.eu/news">
+          More news&hellip;
+        </a>
+        <span class="portletBottomRight"></span>
+    </dd>
+    
+</dl>
+
+</div>
+
+<div id="portletwrapper-706c6f6e652e7269676874636f6c756d6e0a636f6e746578740a2f686f6d650a706f72746c65745f6d6170" class="portletWrapper kssattr-portlethash-706c6f6e652e7269676874636f6c756d6e0a636f6e746578740a2f686f6d650a706f72746c65745f6d6170">
+
+
+  
+    <div>
+
+    <div class="portlet" id="portlet-map">
+        <h5>Hits map</h5>
+        <div class="portletBody">
+<a href="http://clustrmaps.com/counter/maps.php?url=http://bubblenet.be" id="clustrMapsLink">
+<img src="http://clustrmaps.com/counter/index2.php?url=http://bubblenet.be" border="0" alt="Locations of visitors to this page" onerror="this.onError=null; this.src='http://www.meetomatic.com/images/clustrmaps-back-soon.jpg'; document.getElementById('clustrMapsLink').href='http://clustrmaps.com/'"></a>
+        </div>
+    </div>
+
+</div>
+  
+
+  
+
+</div>
+
+
+
+
+                    
+                    &nbsp;
+                  </div>
+                </td>
+                
+            
+          </tr>
+        </tbody>
+      </table>
+      
+
+      <div class="visualClear" id="clear-space-before-footer"><!-- --></div>
+
+      
+
+        <div class="row">
+    <div class="cell width-full position-0">
+
+        <div id="portal-footer">
+            <p>
+                
+                The
+                <a href="http://plone.org">Plone<sup>&reg;</sup> Open Source CMS/WCM</a>
+                is
+                <acronym title="Copyright">&copy;</acronym>
+                2000-2018
+                by the
+                <a href="http://plone.org/foundation">Plone Foundation</a>
+                and friends.
+                
+
+                
+                Distributed under the
+                    <a href="http://creativecommons.org/licenses/GPL/2.0/">GNU GPL license</a>.
+                
+            </p>
+        </div>
+
+    </div>
+</div>
+
+<div id="portal-colophon">
+
+<div class="colophonWrapper">
+<ul>
+  <li>
+    <a href="http://plone.org" title="This site was built using the Plone Open Source CMS/WCM.">
+      Powered by Plone &amp; Python</a>
+  </li>
+</ul>
+</div>
+</div>
+
+
+
+      
+
+      <div class="visualClear"><!-- --></div>
+    </div>
+<div id="kss-spinner"><img alt="" src="http://www.bubblenet.eu/spinner.gif" /></div>
+</body>
+</html>
+
+
+
+

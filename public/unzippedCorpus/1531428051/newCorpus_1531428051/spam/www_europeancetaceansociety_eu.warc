@@ -1,0 +1,295 @@
+WARC/1.0
+WARC-Type: warcinfo
+WARC-Date: 2018-05-30T17:52:32Z
+WARC-Record-ID: <urn:uuid:42d63d86-540e-4bf4-8b83-f18212d58570>
+WARC-All-Language: en
+WARC-All-Content_type: text/html, text/html; charset=utf-8
+Content-Type: application/http;msgtype=response
+Content-Length: 46
+
+WARCProcessor by SING Group www.sing-group.com
+
+WARC/1.0
+WARC-Type: response
+WARC-Record-ID: <http://www.europeancetaceansociety.eu>
+WARC-Date: 20180530175232
+WARC-Target-URI: http://www.europeancetaceansociety.eu
+WARC-Language: en
+Content-Type: application/http;msgtype=response
+Content-Length: 20188
+
+HTTP/1.1 200
+Content-Type:text/html; charset=utf-8
+
+
+	<!DOCTYPE html>
+<html lang="en" dir="ltr">
+
+<head>
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<meta charset="UTF-8" />
+<meta about="/home" property="sioc:num_replies" content="0" datatype="xsd:integer" />
+<link rel="shortcut icon" href="http://www.europeancetaceansociety.eu/misc/favicon.ico" type="image/vnd.microsoft.icon" />
+<meta content="European Cetacean Society" about="/home" property="dc:title" />
+<link rel="shortlink" href="/node/4" />
+<meta name="Generator" content="Drupal 7 (http://drupal.org)" />
+<link rel="canonical" href="/home" />
+	<title>European Cetacean Society | European Cetacean Society</title>
+	<!--[if lte IE 8]>
+	<script src="/sites/all/themes/specialone/js/excanvas.js"></script>
+  <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+  <![endif]-->
+	<link type="text/css" rel="stylesheet" href="http://www.europeancetaceansociety.eu/sites/default/files/css/css_pbm0lsQQJ7A7WCCIMgxLho6mI_kBNgznNUWmTWcnfoE.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://www.europeancetaceansociety.eu/sites/default/files/css/css_RKtDX69JOo1fiyvvbfihwj_CB3fiv98jwUJ7BHZm7Gg.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://www.europeancetaceansociety.eu/sites/default/files/css/css_RHw1ffdZhl2Fp83Cw-EYONBV4uqgWojQQrSbHYpLMSA.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://www.europeancetaceansociety.eu/sites/default/files/css/css_XWWTK-YedKzeiMx70qXkl1KnfZ5V98hzlLnMKwdu8IE.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://www.europeancetaceansociety.eu/sites/default/files/css/css_owOUwAucpowv1nob7u5Ewtk7xUNBSEObqd7uwY_MSis.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://fonts.googleapis.com/css?family=Montserrat:regular|Open+Sans:600,regular&amp;subset=latin,cyrillic-ext" media="all" />
+<link type="text/css" rel="stylesheet" href="http://www.europeancetaceansociety.eu/sites/default/files/css/css_OZkFl4CZq_udvYOajECign3eP4WIB9ZJXdxqJrO9GYc.css" media="all" />
+
+</head>
+
+<body class="html front not-logged-in no-sidebars page-node page-node- page-node-4 node-type-page" >
+		
+<div id="main-wrapper" class="container-fluid">
+   
+  
+<div id="main-nav-box">
+          <div id="header-region">
+        <div class="row-fluid wrapper">
+                              
+            <div class="span12 text-right text-center-responsive">
+                <div class="region region-header-right">
+    
+<div id="block-system-user-menu" class="block block-system block-menu">
+
+      
+  <div class="content">
+    <ul class="nav"><li><a href="/user/login" title="">Login</a></li><li><a href="/user/register" title="">Sign up</a></li></ul>  </div>
+</div>  </div>
+            </div>
+                </div>
+      </div>
+    
+    <div class="row-fluid wrapper">
+      <div id="tabs" class="span12">
+        <!-- Rendering the tabs to view and edit nodes -->
+                                </div>
+    </div>
+</div>
+
+  <header>
+
+    <div class="row-fluid wrapper">
+      <!-- Logo or Site name section -->
+      <div id="logo" class="span12">
+                  <a href="/"><img src="http://www.europeancetaceansociety.eu/sites/default/files/logo_ecs_0.png" alt="Home" class="logo" /></a>
+              </div>  
+      <!-- End of Logo or Site name section -->
+    </div>
+
+    <div class="row-fluid wrapper">
+      <!-- Main menu navigation section -->
+      <div id="nav" class="span12">
+        <div class="navbar">
+          <div class="navbar-inner">
+            <div class="container" data-toggle="collapse" data-target=".nav-collapse">
+              <a class="brand">Menu</a>
+  
+              <nav class="nav-collapse collapse">
+                <ul class="nav"><li class="active"><a href="/" class="active">Home</a></li><li class="dropdown"><a href="/conference" class="dropdown-toggle" data-toggle="dropdown" data-target="#">Conference<i class="icon-angle-down"></i></a><ul class="dropdown-menu"><li><a href="/conference" title="">The annual conference</a></li><li><a href="/conference/32nd-annual-conference-italy">32nd Annual Conference, Italy</a></li><li><a href="/conference/31st-annual-conference-denmark">31st Annual Conference, Denmark</a></li><li><a href="/conference/30th-annual-conference-funchal-madeira">30th Annual Conference, Madeira</a></li><li><a href="/conference/29th-ecs-conference">29th Annual Conference, Malta</a></li><li><a href="/conference/28th-annual-conference" title="5th-9th April 2014">28th Annual Conference, Liege</a></li><li><a href="/previous-conferences" title="Gives a brief Overview about the Development of the Society and its Conferences">Previous conferences</a></li></ul></li><li class="dropdown"><a href="/content/about-ecs" title="Information about ECS" class="dropdown-toggle" data-toggle="dropdown" data-target="#">About ECS<i class="icon-angle-down"></i></a><ul class="dropdown-menu"><li><a href="/about-ecs">About ECS</a></li><li><a href="/constitution">Constitution</a></li><li><a href="/membership">Membership</a></li><li><a href="/national-contact-persons">National Contact Persons</a></li></ul></li><li class="dropdown"><a href="/ecs-awards" title="" class="dropdown-toggle" data-toggle="dropdown" data-target="#">Annual Awards<i class="icon-angle-down"></i></a><ul class="dropdown-menu"><li><a href="/accobams-ecs-student-awards">ACCOBAMS-ECS Student Awards</a></li><li><a href="/baleine-libre-video-award">Baleine Libre Video Award</a></li><li><a href="/mandy-mcmath-ecs-conservation-award" title="The ECS&#039;s own conservation award for an outstanding contribution - established in 2010.">Mandy McMath ECS Conservation Award</a></li></ul></li><li class="dropdown"><a href="/content/student-members" title="" class="dropdown-toggle" data-toggle="dropdown" data-target="#">Student Members<i class="icon-angle-down"></i></a><ul class="dropdown-menu"><li><a href="/student-courses">Student Courses</a></li><li><a href="/student-membership">Student Membership</a></li><li><a href="/student-workshops">Student Workshops</a></li></ul></li><li class="dropdown"><a href="/matters-council" title="" class="dropdown-toggle" data-toggle="dropdown" data-target="#">Matters of the Council<i class="icon-angle-down"></i></a><ul class="dropdown-menu"><li><a href="/letters-concern">Letters of Concern</a></li><li><a href="/best-practice-workshop-series">Best Practice Workshop Series</a></li><li><a href="/science-advisory-committee-sac">Science Advisory Committee (SAC)</a></li><li><a href="/content/council" title="">The Council</a></li></ul></li></ul>              </nav>
+            </div>
+          </div>
+        </div>
+      </div>
+      <!-- End of Main menu navigation section -->
+    </div>
+  </header>	
+	<!-- Top content region -->
+  
+    
+  <!-- End of Top content region -->
+
+  <!-- Highlighted region -->
+   
+     
+  <!-- End of Highlighted region -->
+	
+	<!-- Featured region -->
+	
+	   
+  <!-- End of Featured region -->
+	
+	<!-- Help region -->
+	
+	   
+  <!-- End of Help region -->
+	
+	<!-- Content, Sidebar First and Sidebar Second regions -->
+	
+	<div id="main-content">
+	  
+	  	  
+	  <div class="row-fluid wrapper">
+	  
+	    <!-- If the Sidebar First has content then it will be rendered -->
+	   
+	    
+	    <!-- End of Sidebar First region -->
+	   
+	    <!-- Rendering of the main content -->
+		  
+		  <div id="content-region" class="span12">		   
+	      
+		    <!-- Rendering the content -->
+		      <div class="region region-content">
+    
+<div id="block-block-1" class="block block-block home-welcome-block">
+
+      
+  <div class="content">
+     <h1 class="rtecenter">Welcome to the ECS!</h1>
+   </div>
+</div>
+<div id="block-nivo-slider-nivo-slider" class="block block-nivo-slider home-slider-block">
+
+      
+  <div class="content">
+      <div class="slider-wrapper theme-default">
+    <div class="ribbon"></div>
+    <div id="slider" class="nivoSlider">
+      <img class="slide" id="slide-0" data-thumb="http://www.europeancetaceansociety.eu/sites/default/files/styles/thumbnail/public/banner/Tilen%20Genov%20-%20spinner%20dolphins%20%281%29.jpg?itok=u7dEipmb" data-transition="slideInLeft" typeof="foaf:Image" src="http://www.europeancetaceansociety.eu/sites/default/files/styles/home_slider_image/public/banner/Tilen%20Genov%20-%20spinner%20dolphins%20%281%29.jpg?itok=hF-X8iEe" width="1000" height="340" alt="Spinner dolphins" title="Tilen Genov" /><img class="slide" id="slide-1" data-thumb="http://www.europeancetaceansociety.eu/sites/default/files/styles/thumbnail/public/banner/6960092425_2c422f8fd3_o%20%281%29.jpg?itok=4GYUON9i" data-transition="" typeof="foaf:Image" src="http://www.europeancetaceansociety.eu/sites/default/files/styles/home_slider_image/public/banner/6960092425_2c422f8fd3_o%20%281%29.jpg?itok=UM5ELYns" width="1000" height="340" alt="" title="" /><img class="slide" id="slide-2" data-thumb="http://www.europeancetaceansociety.eu/sites/default/files/styles/thumbnail/public/banner/IMG_2655.jpg?itok=EXJkW9Av" data-transition="" typeof="foaf:Image" src="http://www.europeancetaceansociety.eu/sites/default/files/styles/home_slider_image/public/banner/IMG_2655.jpg?itok=GnYv39b7" width="1000" height="340" alt="" title="" /><img class="slide" id="slide-3" data-thumb="http://www.europeancetaceansociety.eu/sites/default/files/styles/thumbnail/public/banner/Tilen%20Genov%20-%20humpback%20whales%20%282%29.jpg?itok=eiFsLg4N" data-transition="" typeof="foaf:Image" src="http://www.europeancetaceansociety.eu/sites/default/files/styles/home_slider_image/public/banner/Tilen%20Genov%20-%20humpback%20whales%20%282%29.jpg?itok=k3bdYpMy" width="1000" height="340" alt="Humpback whale. " title="Tilen Genov" /><img class="slide" id="slide-4" data-thumb="http://www.europeancetaceansociety.eu/sites/default/files/styles/thumbnail/public/banner/Tilen%20Genov%20-%20grey%20seals%20%282%29.jpg?itok=NfiARZrT" data-transition="" typeof="foaf:Image" src="http://www.europeancetaceansociety.eu/sites/default/files/styles/home_slider_image/public/banner/Tilen%20Genov%20-%20grey%20seals%20%282%29.jpg?itok=LH9zYm1I" width="1000" height="340" alt="" title="" />    </div>
+  </div>
+    </div>
+</div>
+<div id="block-system-main" class="block block-system">
+
+      
+  <div class="content">
+    <div id="node-4" class="node node-page clearfix">
+  
+      <div class="node-post" >
+      
+            
+            
+      <div class="row-fluid">
+        <div class="span12 node-content">
+          <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"> <p>The European Cetacean Society (ECS) was established in January 1987 and aims to promote and advance the scientific studies and conservation efforts of marine mammals and to gather and disseminate information about them to members of the Society and the public at large. The ECS is coordinated by a Council of 11 members and each year organizes an Annual Conferences in a European country.</p>
+
+<p>In most countries in Europe the ECS is represented by a National Contact Person. ECS membership fluctuates between 350-750 persons from more than 25 European countries and several countries outside Europe. Students make up between 35 - 50% of the membership. The Society is financed through the annual membership subscription.</p>
+
+<p><strong>Inofrmation about the 32nd Conference in spring 2018 is located is the Conference drop-down menu. </strong>(If you have not already signed up at this website, you will need to <a href="http://www.europeancetaceansociety.eu/user/register">create a personal profile</a>  which will allow you to submit an abstract for the conference)</p>
+
+<p><strong>NOTE: If you cannot see the drop-down menus, please add this site to the protected/trusted list in your browsers popup blocker.</strong></p>
+
+<p><strong>If you have any problem with the webpage please contact <a href="mailto:michael.daehne@meeresmuseum.de">michael.daehne@meeresmuseum.de</a>.</strong></p>
+ </div></div></div>        </div>
+      </div>
+      
+          
+    </div>
+  
+</div>
+  </div>
+</div>  </div>
+		      
+		    <!-- Printing the feed icons -->
+		    		   
+		  </div>
+
+		  <!-- End of the main content -->
+		
+		  <!-- If the Sidebar Second has content then it will be rendered -->
+		  
+		  
+		  <!-- End of Sidebar Second region -->
+		
+		</div>
+	</div>
+
+	<!-- End of Content, Sidebar First and Sidebar Second regions -->
+	
+	<!-- Content wide 1 region -->
+	
+		
+	<!-- End of Content wide 1 region -->
+	
+  <!-- Content wide 2 region -->
+  
+    
+  <!-- End of Content wide 2 region -->
+  
+  <!-- Content wide 3 region -->
+  
+    
+  <!-- End of Content wide 3 region -->
+  
+  <!-- Content wide 4 region -->
+  
+    
+  <!-- End of Content wide 4 region -->
+	
+	<!-- Before Footer region -->
+	
+  	
+	<!-- End of Before Footer region -->
+	
+	<!-- Footer Columns region -->
+  
+      <div id="footer-four-columns">
+  
+      <div class="row-fluid wrapper">
+  
+          
+  	      	      <div id="footer-second-region" class="span12">
+  	          <div class="region region-footer-secondcolumn">
+    
+<div id="block-comment-recent" class="block block-comment">
+
+        <h2 class="block-title" >Recent comments</h2>
+    
+  <div class="content">
+    No comments available.  </div>
+</div>  </div>
+  	      </div>
+          
+  	      
+          
+      </div>
+  
+    </div>
+    
+  <!-- End of Footer Columns region -->
+  
+  <!-- Footer region -->
+  
+  <footer>
+  
+  	<div class="row-fluid wrapper">
+  
+  	    
+  		  
+  	</div>
+  
+  </footer>
+  
+  <!-- End of Footer region -->
+
+</div>
+
+<!-- Switcher -->
+	<script type="text/javascript" src="http://www.europeancetaceansociety.eu/sites/default/files/js/js_0gj6QcpfRH2jzTbCQqf7kEkm4MXY0UA_sRhwPc8jC1o.js"></script>
+<script type="text/javascript" src="http://www.europeancetaceansociety.eu/sites/default/files/js/js_R9UbiVw2xuTUI0GZoaqMDOdX0lrZtgX-ono8RVOUEVc.js"></script>
+<script type="text/javascript" src="http://www.europeancetaceansociety.eu/sites/default/files/js/js_EKTwaL6esqxJMdWbMS6WvDPyjt3fwzkHDNY4mdM6-1I.js"></script>
+<script type="text/javascript" src="http://maps.google.com/maps/api/js?sensor=false"></script>
+<script type="text/javascript" src="http://www.europeancetaceansociety.eu/sites/default/files/js/js_Yp80gVg0ZMCVM_3sFg7GwHj9O3yg8rKsUp6T44DIln0.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"specialone","theme_token":"cTo9MWw9udGKHTkC7SjPgfyFpS93GJ46I0mwANW9U6o","js":{"sites\/all\/modules\/contrib\/jquery_update\/replace\/jquery\/1.7\/jquery.min.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"sites\/all\/modules\/contrib\/admin_menu\/admin_devel\/admin_devel.js":1,"sites\/all\/libraries\/colorbox\/jquery.colorbox-min.js":1,"sites\/all\/modules\/contrib\/colorbox\/js\/colorbox.js":1,"sites\/all\/modules\/contrib\/colorbox\/styles\/plain\/colorbox_style.js":1,"sites\/all\/modules\/contrib\/nivo_slider\/js\/nivo_slider.js":1,"sites\/all\/libraries\/nivo-slider\/jquery.nivo.slider.pack.js":1,"http:\/\/maps.google.com\/maps\/api\/js?sensor=false":1,"sites\/all\/themes\/specialone\/js\/bootstrap.min.js":1,"sites\/all\/themes\/specialone\/js\/jquery.isotope.min.js":1,"sites\/all\/themes\/specialone\/js\/jquery.flexslider-min.js":1,"sites\/all\/themes\/specialone\/js\/jflickrfeed.min.js":1,"sites\/all\/themes\/specialone\/js\/jquery.fitvids.js":1,"sites\/all\/themes\/specialone\/js\/jquery.easy-pie-chart.js":1,"sites\/all\/themes\/specialone\/js\/jquery.eislideshow.js":1,"sites\/all\/themes\/specialone\/js\/jquery.easing.1.3.js":1,"sites\/all\/themes\/specialone\/js\/jquery.sequence-min.js":1,"sites\/all\/themes\/specialone\/js\/app.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"modules\/comment\/comment.css":1,"sites\/all\/modules\/contrib\/date\/date_api\/date.css":1,"sites\/all\/modules\/contrib\/date\/date_popup\/themes\/datepicker.1.7.css":1,"modules\/field\/theme\/field.css":1,"sites\/all\/modules\/contrib\/logintoboggan\/logintoboggan.css":1,"sites\/all\/modules\/contrib\/message\/message_example\/css\/message_example.css":1,"modules\/node\/node.css":1,"modules\/search\/search.css":1,"modules\/user\/user.css":1,"sites\/all\/modules\/contrib\/views\/css\/views.css":1,"sites\/all\/modules\/contrib\/ckeditor\/ckeditor.css":1,"sites\/all\/modules\/contrib\/colorbox\/styles\/plain\/colorbox_style.css":1,"sites\/all\/modules\/contrib\/ctools\/css\/ctools.css":1,"sites\/all\/libraries\/nivo-slider\/themes\/default\/default.css":1,"sites\/all\/libraries\/nivo-slider\/nivo-slider.css":1,"sites\/all\/themes\/specialone\/css\/bootstrap.min.css":1,"sites\/all\/themes\/specialone\/css\/style.css":1,"sites\/all\/themes\/specialone\/css\/bootstrap-responsive.min.css":1,"sites\/all\/themes\/specialone\/css\/font-awesome.min.css":1,"sites\/all\/themes\/specialone\/css\/flexslider.css":1,"sites\/default\/files\/fontyourface\/font.css":1,"http:\/\/fonts.googleapis.com\/css?family=Montserrat:regular|Open+Sans:600,regular\u0026subset=latin,cyrillic-ext":1,"sites\/all\/themes\/specialone\/css\/colors\/blue.css":1,"sites\/all\/themes\/specialone\/css\/style-responsive.css":1}},"colorbox":{"opacity":"0.85","current":"{current} of {total}","previous":"\u00ab Prev","next":"Next \u00bb","close":"Close","maxWidth":"98%","maxHeight":"98%","fixed":true},"nivo_slider":{"effect":"slideInLeft","slices":15,"boxCols":8,"boxRows":4,"animSpeed":500,"pauseTime":8000,"startSlide":0,"directionNav":true,"controlNav":true,"controlNavThumbs":false,"pauseOnHover":true,"manualAdvance":false,"prevText":"Prev","nextText":"Next","randomStart":true},"settings":{"layout_version":"boxed","theme_color":"blue","boxed_bColor":"bg-color-grayLight2","use_bPattern":"1","boxed_bPattern":"bg-pattern-wavegrid","header_bColor":"bg-color-grayDark2","header_tColor":"text-color-grayLight1","header_tiColor":"text-color-grayLight2","header_lColor":"text-color-grayLight2","top_content_bColor":"bg-color-grayLight2","top_content_tColor":"text-color-grayDark2","top_content_tiColor":"text-color-grayDark1","top_content_lColor":"text-color-theme","featured_bColor":"bg-color-white","featured_tColor":"text-color-grayDark2","featured_tiColor":"text-color-grayDark1","featured_lColor":"text-color-theme","wide1_bColor":"bg-color-midnightBlue","wide1_tColor":"text-color-white","wide1_tiColor":"text-color-white","wide1_lColor":"text-color-theme","wide1_use_bImg":"1","wide1_bImg":"bg-image-eighteen","wide2_bColor":"bg-color-white","wide2_tColor":"text-color-grayDark2","wide2_tiColor":"text-color-grayDark1","wide2_lColor":"text-color-theme","wide3_bColor":"bg-color-grayLight1","wide3_tColor":"text-color-grayDark2","wide3_tiColor":"text-color-grayDark1","wide3_lColor":"text-color-theme","wide3_use_bImg":"0","wide3_bImg":"bg-image-one","wide4_bColor":"bg-color-white","wide4_tColor":"text-color-grayDark2","wide4_tiColor":"text-color-grayDark1","wide4_lColor":"text-color-theme","before_footer_bColor":"bg-color-theme","before_footer_tColor":"text-color-grayLight2","before_footer_tiColor":"text-color-grayLight1","before_footer_lColor":"text-color-grayLight3","footer_four_bColor":"bg-color-grayDark1","footer_four_tColor":"text-color-grayDark2","footer_four_tiColor":"text-color-grayLight2","footer_four_lColor":"text-color-grayLight2","footer_bColor":"bg-color-grayDark2","footer_tColor":"text-color-grayDark2","footer_tiColor":"text-color-grayLight2","footer_lColor":"text-color-grayLight2","slider_color":"bg-color-peterRiver","slider_use_bImg":"1","slider_bImg":"bg-image-eleven","google_latitude":"40.787278","google_longitude":"-73.969722","google_zoom":"14","google_title":"ECS","google_description":"Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.","flickr_id":"","flickr_limit":"6"}});
+//--><!]]>
+</script>
+	</body>
+
+</html>
+
+

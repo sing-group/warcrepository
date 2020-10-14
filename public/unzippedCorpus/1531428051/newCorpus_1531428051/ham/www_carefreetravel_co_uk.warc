@@ -1,0 +1,1157 @@
+WARC/1.0
+WARC-Type: warcinfo
+WARC-Date: 2018-05-23T09:03:44Z
+WARC-Record-ID: <urn:uuid:b404a731-3bd0-4e28-b319-f8fbd9eb6be2>
+WARC-All-Language: en, en-GB
+WARC-All-Content_type: text/html; charset=UTF-8, text/html
+Content-Type: application/http;msgtype=response
+Content-Length: 46
+
+WARCProcessor by SING Group www.sing-group.com
+
+WARC/1.0
+WARC-Type: response
+WARC-Record-ID: <http://www.carefreetravel.co.uk>
+WARC-Date: 20180523090344
+WARC-Target-URI: http://www.carefreetravel.co.uk
+WARC-Language: en-GB
+Content-Type: application/http;msgtype=response
+Content-Length: 120524
+
+HTTP/1.1 200
+Content-Type:text/html; charset=UTF-8
+
+
+<!DOCTYPE html>
+<html lang="en-GB"  data-menu="leftalign">
+<head>
+
+<link rel="profile" href="http://gmpg.org/xfn/11" />
+<link rel="pingback" href="http://www.carefreetravel.co.uk/xmlrpc.php" />
+
+ 
+
+<title>Carefree Travel</title>
+<style type="text/css" media="screen">#ui-datepicker-div.booked_custom_date_picker table.ui-datepicker-calendar tbody td a.ui-state-active,#ui-datepicker-div.booked_custom_date_picker table.ui-datepicker-calendar tbody td a.ui-state-active:hover,body #booked-profile-page input[type=submit].button-primary:hover,body .booked-list-view button.button:hover, body .booked-list-view input[type=submit].button-primary:hover,body table.booked-calendar input[type=submit].button-primary:hover,body .booked-modal input[type=submit].button-primary:hover,body table.booked-calendar th,body table.booked-calendar thead,body table.booked-calendar thead th,body table.booked-calendar .booked-appt-list .timeslot .timeslot-people button:hover,body #booked-profile-page .booked-profile-header,body #booked-profile-page .booked-tabs li.active a,body #booked-profile-page .booked-tabs li.active a:hover,body #booked-profile-page .appt-block .google-cal-button > a:hover,#ui-datepicker-div.booked_custom_date_picker .ui-datepicker-header{ background:#c4f2d4 !important; }body #booked-profile-page input[type=submit].button-primary:hover,body table.booked-calendar input[type=submit].button-primary:hover,body .booked-list-view button.button:hover, body .booked-list-view input[type=submit].button-primary:hover,body .booked-modal input[type=submit].button-primary:hover,body table.booked-calendar th,body table.booked-calendar .booked-appt-list .timeslot .timeslot-people button:hover,body #booked-profile-page .booked-profile-header,body #booked-profile-page .appt-block .google-cal-button > a:hover{ border-color:#c4f2d4 !important; }body table.booked-calendar tr.days,body table.booked-calendar tr.days th,body .booked-calendarSwitcher.calendar,body #booked-profile-page .booked-tabs,#ui-datepicker-div.booked_custom_date_picker table.ui-datepicker-calendar thead,#ui-datepicker-div.booked_custom_date_picker table.ui-datepicker-calendar thead th{ background:#039146 !important; }body table.booked-calendar tr.days th,body #booked-profile-page .booked-tabs{ border-color:#039146 !important; }#ui-datepicker-div.booked_custom_date_picker table.ui-datepicker-calendar tbody td.ui-datepicker-today a,#ui-datepicker-div.booked_custom_date_picker table.ui-datepicker-calendar tbody td.ui-datepicker-today a:hover,body #booked-profile-page input[type=submit].button-primary,body table.booked-calendar input[type=submit].button-primary,body .booked-list-view button.button, body .booked-list-view input[type=submit].button-primary,body .booked-list-view button.button, body .booked-list-view input[type=submit].button-primary,body .booked-modal input[type=submit].button-primary,body table.booked-calendar .booked-appt-list .timeslot .timeslot-people button,body #booked-profile-page .booked-profile-appt-list .appt-block.approved .status-block,body #booked-profile-page .appt-block .google-cal-button > a,body .booked-modal p.booked-title-bar,body table.booked-calendar td:hover .date span,body .booked-list-view a.booked_list_date_picker_trigger.booked-dp-active,body .booked-list-view a.booked_list_date_picker_trigger.booked-dp-active:hover,.booked-ms-modal .booked-book-appt /* Multi-Slot Booking */{ background:#56c477; }body #booked-profile-page input[type=submit].button-primary,body table.booked-calendar input[type=submit].button-primary,body .booked-list-view button.button, body .booked-list-view input[type=submit].button-primary,body .booked-list-view button.button, body .booked-list-view input[type=submit].button-primary,body .booked-modal input[type=submit].button-primary,body #booked-profile-page .appt-block .google-cal-button > a,body table.booked-calendar .booked-appt-list .timeslot .timeslot-people button,body .booked-list-view a.booked_list_date_picker_trigger.booked-dp-active,body .booked-list-view a.booked_list_date_picker_trigger.booked-dp-active:hover{ border-color:#56c477; }body .booked-modal .bm-window p i.fa,body .booked-modal .bm-window a,body .booked-appt-list .booked-public-appointment-title,body .booked-modal .bm-window p.appointment-title,.booked-ms-modal.visible:hover .booked-book-appt{ color:#56c477; }.booked-appt-list .timeslot.has-title .booked-public-appointment-title { color:inherit; }</style><script type="text/javascript"> var wmts_license_status = "valid";</script><style id="wmts-essential">
+		.wmts_container{
+		height: 80px;
+		overflow: hidden;
+		}
+
+		.wmts_container>*{
+		opacity: .01;
+		}
+	</style><link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="Carefree Travel &raquo; Feed" href="http://www.carefreetravel.co.uk/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Carefree Travel &raquo; Comments Feed" href="http://www.carefreetravel.co.uk/comments/feed/" />
+<meta charset="UTF-8" /><meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" /><meta name="format-detection" content="telephone=no">		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.4\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.4\/svg\/","svgExt":".svg","source":{"concatemoji":"http:\/\/www.carefreetravel.co.uk\/wp-includes\/js\/wp-emoji-release.min.js"}};
+			!function(a,b,c){function d(a,b){var c=String.fromCharCode;l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,a),0,0);var d=k.toDataURL();l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,b),0,0);var e=k.toDataURL();return d===e}function e(a){var b;if(!l||!l.fillText)return!1;switch(l.textBaseline="top",l.font="600 32px Arial",a){case"flag":return!(b=d([55356,56826,55356,56819],[55356,56826,8203,55356,56819]))&&(b=d([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]),!b);case"emoji":return b=d([55357,56692,8205,9792,65039],[55357,56692,8203,9792,65039]),!b}return!1}function f(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var g,h,i,j,k=b.createElement("canvas"),l=k.getContext&&k.getContext("2d");for(j=Array("flag","emoji"),c.supports={everything:!0,everythingExceptFlag:!0},i=0;i<j.length;i++)c.supports[j[i]]=e(j[i]),c.supports.everything=c.supports.everything&&c.supports[j[i]],"flag"!==j[i]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[j[i]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(h=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",h,!1),a.addEventListener("load",h,!1)):(a.attachEvent("onload",h),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),g=c.source||{},g.concatemoji?f(g.concatemoji):g.wpemoji&&g.twemoji&&(f(g.twemoji),f(g.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='dashicons-css'  href='http://www.carefreetravel.co.uk/wp-includes/css/dashicons.min.css' type='text/css' media='all' />
+<link rel='stylesheet' id='menu-icons-extra-css'  href='http://www.carefreetravel.co.uk/wp-content/plugins/menu-icons/css/extra.min.css' type='text/css' media='all' />
+<link rel='stylesheet' id='booked-icons-css'  href='http://www.carefreetravel.co.uk/wp-content/plugins/booked/assets/css/icons.css' type='text/css' media='all' />
+<link rel='stylesheet' id='booked-tooltipster-css'  href='http://www.carefreetravel.co.uk/wp-content/plugins/booked/assets/js/tooltipster/css/tooltipster.css' type='text/css' media='all' />
+<link rel='stylesheet' id='booked-tooltipster-theme-css'  href='http://www.carefreetravel.co.uk/wp-content/plugins/booked/assets/js/tooltipster/css/themes/tooltipster-light.css' type='text/css' media='all' />
+<link rel='stylesheet' id='booked-animations-css'  href='http://www.carefreetravel.co.uk/wp-content/plugins/booked/assets/css/animations.css' type='text/css' media='all' />
+<link rel='stylesheet' id='booked-styles-css'  href='http://www.carefreetravel.co.uk/wp-content/plugins/booked/assets/css/styles.css' type='text/css' media='all' />
+<link rel='stylesheet' id='booked-responsive-css'  href='http://www.carefreetravel.co.uk/wp-content/plugins/booked/assets/css/responsive.css' type='text/css' media='all' />
+<link rel='stylesheet' id='contact-form-7-css'  href='http://www.carefreetravel.co.uk/wp-content/plugins/contact-form-7/includes/css/styles.css' type='text/css' media='all' />
+<link rel='stylesheet' id='fontawesome-stars-css'  href='http://www.carefreetravel.co.uk/wp-content/plugins/grandtour-custom-post/css/fontawesome-stars-o.css' type='text/css' media='all' />
+<link rel='stylesheet' id='post-views-counter-frontend-css'  href='http://www.carefreetravel.co.uk/wp-content/plugins/post-views-counter/css/frontend.css' type='text/css' media='all' />
+<link rel='stylesheet' id='rs-plugin-settings-css'  href='http://www.carefreetravel.co.uk/wp-content/plugins/revslider/public/assets/css/settings.css' type='text/css' media='all' />
+<style id='rs-plugin-settings-inline-css' type='text/css'>
+#rs-demo-id {}
+</style>
+<link rel='stylesheet' id='woocommerce-layout-css'  href='http://www.carefreetravel.co.uk/wp-content/plugins/woocommerce/assets/css/woocommerce-layout.css' type='text/css' media='all' />
+<link rel='stylesheet' id='woocommerce-smallscreen-css'  href='http://www.carefreetravel.co.uk/wp-content/plugins/woocommerce/assets/css/woocommerce-smallscreen.css' type='text/css' media='only screen and (max-width: 768px)' />
+<link rel='stylesheet' id='woocommerce-general-css'  href='http://www.carefreetravel.co.uk/wp-content/plugins/woocommerce/assets/css/woocommerce.css' type='text/css' media='all' />
+<link rel='stylesheet' id='grandtour-reset-css-css'  href='http://www.carefreetravel.co.uk/wp-content/themes/grandtour/css/reset.css' type='text/css' media='all' />
+<link rel='stylesheet' id='grandtour-wordpress-css-css'  href='http://www.carefreetravel.co.uk/wp-content/themes/grandtour/css/wordpress.css' type='text/css' media='all' />
+<link rel='stylesheet' id='grandtour-animation-css-css'  href='http://www.carefreetravel.co.uk/wp-content/themes/grandtour/css/animation.css' type='text/css' media='all' />
+<link rel='stylesheet' id='ilightbox-css'  href='http://www.carefreetravel.co.uk/wp-content/themes/grandtour/css/ilightbox/ilightbox.css' type='text/css' media='all' />
+<link rel='stylesheet' id='grandtour-jqueryui-css'  href='http://www.carefreetravel.co.uk/wp-content/themes/grandtour/css/jqueryui/custom.css' type='text/css' media='all' />
+<link rel='stylesheet' id='mediaelement-css'  href='http://www.carefreetravel.co.uk/wp-includes/js/mediaelement/mediaelementplayer-legacy.min.css' type='text/css' media='all' />
+<link rel='stylesheet' id='flexslider-css'  href='http://www.carefreetravel.co.uk/wp-content/themes/grandtour/js/flexslider/flexslider.css' type='text/css' media='all' />
+<link rel='stylesheet' id='tooltipster-css'  href='http://www.carefreetravel.co.uk/wp-content/themes/grandtour/css/tooltipster.css' type='text/css' media='all' />
+<link rel='stylesheet' id='odometer-theme-css'  href='http://www.carefreetravel.co.uk/wp-content/themes/grandtour/css/odometer-theme-minimal.css' type='text/css' media='all' />
+<link rel='stylesheet' id='grandtour-screen-css'  href='http://www.carefreetravel.co.uk/wp-content/themes/grandtour/css/screen.css' type='text/css' media='all' />
+<link rel='stylesheet' id='grandtour-leftalignmenu-css'  href='http://www.carefreetravel.co.uk/wp-content/themes/grandtour/css/menus/leftalignmenu.css' type='text/css' media='all' />
+<link rel='stylesheet' id='fontawesome-css'  href='http://www.carefreetravel.co.uk/wp-content/themes/grandtour/css/font-awesome.min.css' type='text/css' media='all' />
+<link rel='stylesheet' id='themify-icons-css'  href='http://www.carefreetravel.co.uk/wp-content/themes/grandtour/css/themify-icons.css' type='text/css' media='all' />
+<link rel='stylesheet' id='grandtour-script-custom-css-css'  href='http://www.carefreetravel.co.uk/wp-admin/admin-ajax.php?action=grandtour_custom_css' type='text/css' media='all' />
+<link rel='stylesheet' id='grandtour-childtheme-css'  href='http://www.carefreetravel.co.uk/wp-content/themes/grandtour-child/style.css' type='text/css' media='all' />
+<link rel='stylesheet' id='grandtour-script-responsive-css-css'  href='http://www.carefreetravel.co.uk/wp-content/themes/grandtour/css/grid.css' type='text/css' media='all' />
+<link rel='stylesheet' id='kirki_google_fonts-css'  href='https://fonts.googleapis.com/css?family=Work+Sans%3A400%2C700%2C500%2C700%2C700%2C700%2C700%2C100%2C200%2C300%2Cregular%2C500%2C600%2C700%2C800%2C900%7CPoppins%3A700%2C500%2C700%2C700%2C700%2C700%2C100%2C100italic%2C200%2C200italic%2C300%2C300italic%2Cregular%2Citalic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic&#038;subset' type='text/css' media='all' />
+<link rel='stylesheet' id='kirki-styles-global-css'  href='http://www.carefreetravel.co.uk/wp-content/themes/grandtour/modules/kirki/assets/css/kirki-styles.css' type='text/css' media='all' />
+<style id='kirki-styles-global-inline-css' type='text/css'>
+body, input[type=text], input[type=password], input[type=email], input[type=url], input[type=date], input[type=tel], input[type=number], input.wpcf7-text, .woocommerce table.cart td.actions .coupon .input-text, .woocommerce-page table.cart td.actions .coupon .input-text, .woocommerce #content table.cart td.actions .coupon .input-text, .woocommerce-page #content table.cart td.actions .coupon .input-text, select, textarea{font-family:"Work Sans", Helvetica, Arial, sans-serif;font-weight:400;}body, input[type=text], input[type=password], input[type=email], input[type=url], input[type=date], input[type=tel], input[type=number], input.wpcf7-text, .woocommerce table.cart td.actions .coupon .input-text, .woocommerce-page table.cart td.actions .coupon .input-text, .woocommerce #content table.cart td.actions .coupon .input-text, .woocommerce-page #content table.cart td.actions .coupon .input-text, select, input[type=submit], input[type=button], a.button, .button{font-size:15px;}h1, h2, h3, h4, h5, h6, h7, .post_quote_title, label, strong[itemprop="author"], #page_content_wrapper .posts.blog li a, .page_content_wrapper .posts.blog li a, .readmore, .post_detail.single_post, .page_tagline, #gallery_caption .tg_caption .tg_desc, #filter_selected, #autocomplete li strong, .post_detail.single_post a, .post_detail.single_post a:hover,.post_detail.single_post a:active, blockquote,.single_tour_price, .single_tour_departure_wrapper li .single_tour_departure_title, .comment_rating_wrapper .comment_rating_label, .tour_excerpt, .widget_post_views_counter_list_widget, .sidebar_widget li.widget_products, #copyright, #footer_menu li a, #footer ul.sidebar_widget li ul.posts.blog li a, .woocommerce-page table.cart th, table.shop_table thead tr th, .tour_price, p.price span.amount, .woocommerce-page div.product .woocommerce-tabs ul.tabs li a, .woocommerce ul.products li.product .price{font-family:Poppins, Helvetica, Arial, sans-serif;}h1, h2, h3, h4, h5, h6, h7, #autocomplete li strong{font-weight:700;letter-spacing:0px;}h1{font-size:34px;}h2{font-size:28px;}h3{font-size:24px;}h4{font-size:20px;}h5{font-size:18px;}h6{font-size:16px;}body, #wrapper, #page_content_wrapper.fixed, #gallery_lightbox h2, .slider_wrapper .gallery_image_caption h2, #body_loading_screen, h3#reply-title span, .overlay_gallery_wrapper, .pricing_wrapper_border, .pagination a, .pagination span, #captcha-wrap .text-box input, .flex-direction-nav a, .blog_promo_title h6, #supersized li, #gallery_caption .tg_caption, #horizontal_gallery_wrapper .image_caption, #tour_search_form, .tour_search_form{background-color:#ffffff;}#gallery_expand{border-bottom-color:#ffffff;}body, .pagination a, #gallery_lightbox h2, .slider_wrapper .gallery_image_caption h2, .post_info a, #page_content_wrapper.split #copyright, .page_content_wrapper.split #copyright, .ui-state-default a, .ui-state-default a:link, .ui-state-default a:visited, .readmore, #page_content_wrapper .inner .sidebar_wrapper .sidebar .single_tour_booking_wrapper label, .woocommerce-MyAccount-navigation ul a, .theme_link_color{color:#222222;}::selection{background-color:#222222;}::-webkit-input-placeholder{color:#222222;}::-moz-placeholder{color:#222222;}:-ms-input-placeholder{color:#222222;}a, .post_detail.single_post{color:#4cbcee;}.flex-control-paging li a.flex-active{background-color:#4cbcee;border-color:#4cbcee;}a:hover, a:active, .post_info_comment a i, {color:#1EC6B6;}.post_excerpt.post_tag a:hover, input[type=button]:hover, input[type=submit]:hover, a.button:hover, .button:hover, .button.submit, a.button.white:hover, .button.white:hover, a.button.white:active, .button.white:active{background:#1EC6B6;border-color:#1EC6B6;}h1, h2, h3, h4, h5, h6, h7, pre, code, tt, blockquote, .post_header h5 a, .post_header h3 a, .post_header.grid h6 a, .post_header.fullwidth h4 a, .post_header h5 a, blockquote, .site_loading_logo_item i, .ppb_subtitle, .woocommerce .woocommerce-ordering select, .woocommerce #page_content_wrapper a.button, .woocommerce.columns-4 ul.products li.product a.add_to_cart_button, .woocommerce.columns-4 ul.products li.product a.add_to_cart_button:hover, .ui-accordion .ui-accordion-header a, .tabs .ui-state-active a, body.woocommerce div.product .woocommerce-tabs ul.tabs li.active a, body.woocommerce-page div.product .woocommerce-tabs ul.tabs li.active a, body.woocommerce #content div.product .woocommerce-tabs ul.tabs li.active a, body.woocommerce-page #content div.product .woocommerce-tabs ul.tabs li.active a, .woocommerce div.product .woocommerce-tabs ul.tabs li a, .post_header h5 a, .post_header h6 a, .flex-direction-nav a:before, .social_share_button_wrapper .social_post_view .view_number, .social_share_button_wrapper .social_post_share_count .share_number, .portfolio_post_previous a, .portfolio_post_next a, #filter_selected, #autocomplete li strong, .post_detail.single_post a, .post_detail.single_post a:hover,.post_detail.single_post a:active, .single_tour_departure_wrapper li .single_tour_departure_title, .cart_item .product-name a, .single_tour_booking_wrapper .single_tour_view_desc, .single_tour_booking_wrapper .single_tour_view_icon, .tour_product_variable_title{color:#000000;}body.page.page-template-gallery-archive-split-screen-php #fp-nav li .active span, body.tax-gallerycat #fp-nav li .active span, body.page.page-template-portfolio-fullscreen-split-screen-php #fp-nav li .active span, body.page.tax-portfolioset #fp-nav li .active span, body.page.page-template-gallery-archive-split-screen-php #fp-nav ul li a span, body.tax-gallerycat #fp-nav ul li a span, body.page.page-template-portfolio-fullscreen-split-screen-php #fp-nav ul li a span, body.page.tax-portfolioset #fp-nav ul li a span{background-color:#000000;}#social_share_wrapper, hr, #social_share_wrapper, .post.type-post, #page_content_wrapper .sidebar .content .sidebar_widget li h2.widgettitle, h2.widgettitle, h5.widgettitle, .comment .right, .widget_tag_cloud div a, .meta-tags a, .tag_cloud a, #footer, #post_more_wrapper, .woocommerce ul.products li.product, .woocommerce-page ul.products li.product, .woocommerce ul.products li.product .price, .woocommerce-page ul.products li.product .price, #page_content_wrapper .inner .sidebar_content, #page_content_wrapper .inner .sidebar_content.left_sidebar, .ajax_close, .ajax_next, .ajax_prev, .portfolio_next, .portfolio_prev, .portfolio_next_prev_wrapper.video .portfolio_prev, .portfolio_next_prev_wrapper.video .portfolio_next, .separated, .blog_next_prev_wrapper, #post_more_wrapper h5, #ajax_portfolio_wrapper.hidding, #ajax_portfolio_wrapper.visible, .tabs.vertical .ui-tabs-panel, .ui-tabs.vertical.right .ui-tabs-nav li, .woocommerce div.product .woocommerce-tabs ul.tabs li, .woocommerce #content div.product .woocommerce-tabs ul.tabs li, .woocommerce-page div.product .woocommerce-tabs ul.tabs li, .woocommerce-page #content div.product .woocommerce-tabs ul.tabs li, .woocommerce div.product .woocommerce-tabs .panel, .woocommerce-page div.product .woocommerce-tabs .panel, .woocommerce #content div.product .woocommerce-tabs .panel, .woocommerce-page #content div.product .woocommerce-tabs .panel, .woocommerce table.shop_table, .woocommerce-page table.shop_table, table tr td, .woocommerce .cart-collaterals .cart_totals, .woocommerce-page .cart-collaterals .cart_totals, .woocommerce .cart-collaterals .shipping_calculator, .woocommerce-page .cart-collaterals .shipping_calculator, .woocommerce .cart-collaterals .cart_totals tr td, .woocommerce .cart-collaterals .cart_totals tr th, .woocommerce-page .cart-collaterals .cart_totals tr td, .woocommerce-page .cart-collaterals .cart_totals tr th, table tr th, .woocommerce #payment, .woocommerce-page #payment, .woocommerce #payment ul.payment_methods li, .woocommerce-page #payment ul.payment_methods li, .woocommerce #payment div.form-row, .woocommerce-page #payment div.form-row, .ui-tabs li:first-child, .ui-tabs .ui-tabs-nav li, .ui-tabs.vertical .ui-tabs-nav li, .ui-tabs.vertical.right .ui-tabs-nav li.ui-state-active, .ui-tabs.vertical .ui-tabs-nav li:last-child, #page_content_wrapper .inner .sidebar_wrapper ul.sidebar_widget li.widget_nav_menu ul.menu li.current-menu-item a, .page_content_wrapper .inner .sidebar_wrapper ul.sidebar_widget li.widget_nav_menu ul.menu li.current-menu-item a, .pricing_wrapper, .pricing_wrapper li, .ui-accordion .ui-accordion-header, .ui-accordion .ui-accordion-content, #page_content_wrapper .sidebar .content .sidebar_widget li h2.widgettitle:before, h2.widgettitle:before, #autocomplete, .ppb_blog_minimal .one_third_bg, #page_content_wrapper .sidebar .content .sidebar_widget li h2.widgettitle, h2.widgettitle, h5.event_title, .tabs .ui-tabs-panel, .ui-tabs .ui-tabs-nav li, .ui-tabs li:first-child, .ui-tabs.vertical .ui-tabs-nav li:last-child, .woocommerce .woocommerce-ordering select, .woocommerce div.product .woocommerce-tabs ul.tabs li.active, .woocommerce-page div.product .woocommerce-tabs ul.tabs li.active, .woocommerce #content div.product .woocommerce-tabs ul.tabs li.active, .woocommerce-page #content div.product .woocommerce-tabs ul.tabs li.active, .woocommerce-page table.cart th, table.shop_table thead tr th, hr.title_break, .overlay_gallery_border, #page_content_wrapper.split #copyright, .page_content_wrapper.split #copyright, .post.type-post, .events.type-events, h5.event_title, .post_header h5.event_title, .client_archive_wrapper, #page_content_wrapper .sidebar .content .sidebar_widget li.widget, .page_content_wrapper .sidebar .content .sidebar_widget li.widget, hr.title_break.bold, blockquote, .social_share_button_wrapper, .social_share_button_wrapper, body:not(.single) .post_wrapper, .themeborder{border-color:#dce0e0;}.br-theme-fontawesome-stars-o .br-widget a.br-selected:after, .woocommerce .star-rating span:before, .woocommerce-page .star-rating span:before, .woocommerce #review_form #respond p.stars a{color:#1EC6B6;}#toTop, .single_tour_users_online_wrapper .single_tour_users_online_icon{background:#1EC6B6;}.single_tour_attribute_wrapper .tour_label, a.tour_image .tour_label, .grid.portfolio_type .tour_label, .tour_label.sidebar{background:#1EC6B6;}input[type=text], input[type=password], input[type=email], input[type=url], input[type=tel], input[type=date], input[type=number], textarea, select{background-color:#ffffff;color:#555555;border-color:#dce0e0;}input[type=text]:focus, input[type=password]:focus, input[type=email]:focus, input[type=url]:focus, input[type=date]:focus, input[type=number]:focus, textarea:focus, #tour_search_form .one_fourth:not(.last):hover{border-color:#999999;}input[type=submit], input[type=button], a.button, .button, .woocommerce .page_slider a.button, a.button.fullwidth, .woocommerce-page div.product form.cart .button, .woocommerce #respond input#submit.alt, .woocommerce a.button.alt, .woocommerce button.button.alt, .woocommerce input.button.alt{font-family:"Work Sans", Helvetica, Arial, sans-serif;}input[type=submit], input[type=button], a.button, .button, .pagination span, .pagination a:hover, .woocommerce .footer_bar .button, .woocommerce .footer_bar .button:hover, .woocommerce-page div.product form.cart .button, .woocommerce #respond input#submit.alt, .woocommerce a.button.alt, .woocommerce button.button.alt, .woocommerce input.button.alt, .post_type_icon, .filter li a:hover, .filter li a.active, #portfolio_wall_filters li a.active,  #portfolio_wall_filters li a:hover, .comment_box, .one_half.gallery2 .portfolio_type_wrapper, .one_third.gallery3 .portfolio_type_wrapper, .one_fourth.gallery4 .portfolio_type_wrapper, .one_fifth.gallery5 .portfolio_type_wrapper, .portfolio_type_wrappe, .post_share_text, #close_share, .widget_tag_cloud div a:hover, a.tour_image .tour_price, .mobile_menu_wrapper #close_mobile_menu, a.tour_image .tour_price, .grid.portfolio_type .tour_price, .ui-accordion .ui-accordion-header .ui-icon, .mobile_menu_wrapper #mobile_menu_close.button, .header_cart_wrapper .cart_count{background-color:#4cbcee;}.pagination span, .pagination a:hover, .button.ghost, .button.ghost:hover, .button.ghost:active, blockquote:after, .woocommerce-MyAccount-navigation ul li.is-active{border-color:#4cbcee;}.comment_box:before, .comment_box:after{border-top-color:#4cbcee;}.button.ghost, .button.ghost:hover, .button.ghost:active, .infinite_load_more, blockquote:before, .woocommerce-MyAccount-navigation ul li.is-active a{color:#4cbcee;}input[type=submit], input[type=button], a.button, .button, .pagination a:hover, .woocommerce .footer_bar .button , .woocommerce .footer_bar .button:hover, .woocommerce-page div.product form.cart .button, .woocommerce #respond input#submit.alt, .woocommerce a.button.alt, .woocommerce button.button.alt, .woocommerce input.button.alt, .post_type_icon, .filter li a:hover, .filter li a.active, #portfolio_wall_filters li a.active,  #portfolio_wall_filters li a:hover, .comment_box, .one_half.gallery2 .portfolio_type_wrapper, .one_third.gallery3 .portfolio_type_wrapper, .one_fourth.gallery4 .portfolio_type_wrapper, .one_fifth.gallery5 .portfolio_type_wrapper, .portfolio_type_wrapper, .post_share_text, #close_share, .widget_tag_cloud div a:hover, a.tour_image .tour_price, .mobile_menu_wrapper #close_mobile_menu, .ui-accordion .ui-accordion-header .ui-icon, .mobile_menu_wrapper #mobile_menu_close.button{color:#ffffff;}input[type=submit], input[type=button], a.button, .button, .pagination a:hover, .woocommerce .footer_bar .button , .woocommerce .footer_bar .button:hover, .woocommerce-page div.product form.cart .button, .woocommerce #respond input#submit.alt, .woocommerce a.button.alt, .woocommerce button.button.alt, .woocommerce input.button.alt, .infinite_load_more, .post_share_text, #close_share, .widget_tag_cloud div a:hover, .mobile_menu_wrapper #close_mobile_menu, .mobile_menu_wrapper #mobile_menu_close.button{border-color:#4cbcee;}.frame_top, .frame_bottom, .frame_left, .frame_right{background:#FF4A52;}body.tg_boxed{background-color:#F0F0F0;}#menu_wrapper .nav ul li a, #menu_wrapper div .nav li > a{font-family:Poppins, Helvetica, Arial, sans-serif;font-weight:500;letter-spacing:0px;text-transform:none;}#menu_wrapper .nav ul li a, #menu_wrapper div .nav li > a, .header_cart_wrapper i{font-size:15px;}#menu_wrapper .nav ul li a, #menu_wrapper div .nav li > a, html[data-menu=centeralogo] #logo_right_button{padding-top:26px;padding-bottom:26px;}.top_bar{background-color:#ffffff;}#menu_wrapper .nav ul li a, #menu_wrapper div .nav li > a, #mobile_nav_icon, #logo_wrapper .social_wrapper ul li a, .header_cart_wrapper > a{color:#000000;}#mobile_nav_icon{border-color:#000000;}#menu_wrapper .nav ul li a.hover, #menu_wrapper .nav ul li a:hover, #menu_wrapper div .nav li a.hover, #menu_wrapper div .nav li a:hover, .header_cart_wrapper a:hover, #page_share:hover, #gallery_download:hover, .view_fullscreen_wrapper a:hover, #logo_wrapper .social_wrapper ul li a:hover{color:#4cbcee;}#menu_wrapper div .nav > li.current-menu-item > a, #menu_wrapper div .nav > li.current-menu-parent > a, #menu_wrapper div .nav > li.current-menu-ancestor > a, #menu_wrapper div .nav li ul li.current-menu-item a, #menu_wrapper div .nav li.current-menu-parent  ul li.current-menu-item a, #logo_wrapper .social_wrapper ul li a:active{color:#0f93d0;}.top_bar, #page_caption, #nav_wrapper{border-color:#dce0e0;}#menu_wrapper .nav ul li ul li a, #menu_wrapper div .nav li ul li a, #menu_wrapper div .nav li.current-menu-parent ul li a{font-size:13px;font-weight:500;letter-spacing:0px;text-transform:none;}#menu_wrapper .nav ul li ul li a, #menu_wrapper div .nav li ul li a, #menu_wrapper div .nav li.current-menu-parent ul li a, #menu_wrapper div .nav li.current-menu-parent ul li.current-menu-item a, #menu_wrapper .nav ul li.megamenu ul li ul li a, #menu_wrapper div .nav li.megamenu ul li ul li a{color:#000000;}#menu_wrapper .nav ul li ul li a:hover, #menu_wrapper div .nav li ul li a:hover, #menu_wrapper div .nav li.current-menu-parent ul li a:hover, #menu_wrapper .nav ul li.megamenu ul li ul li a:hover, #menu_wrapper div .nav li.megamenu ul li ul li a:hover, #menu_wrapper .nav ul li.megamenu ul li ul li a:active, #menu_wrapper div .nav li.megamenu ul li ul li a:active, #menu_wrapper div .nav li.current-menu-parent ul li.current-menu-item  a:hover{color:#4cbcee;}#menu_wrapper .nav ul li ul li a:hover, #menu_wrapper div .nav li ul li a:hover, #menu_wrapper div .nav li.current-menu-parent ul li a:hover, #menu_wrapper .nav ul li.megamenu ul li ul li a:hover, #menu_wrapper div .nav li.megamenu ul li ul li a:hover, #menu_wrapper .nav ul li.megamenu ul li ul li a:active, #menu_wrapper div .nav li.megamenu ul li ul li a:active{background:#ffffff;}#menu_wrapper .nav ul li ul, #menu_wrapper div .nav li ul{background:#ffffff;border-color:#dce0e0;}#menu_wrapper div .nav li.megamenu ul li > a, #menu_wrapper div .nav li.megamenu ul li > a:hover, #menu_wrapper div .nav li.megamenu ul li > a:active, #menu_wrapper div .nav li.megamenu ul li.current-menu-item > a{color:#000000;}#menu_wrapper div .nav li.megamenu ul li{border-color:#dce0e0;}.above_top_bar{background:#000000;}#top_menu li a, .top_contact_info, .top_contact_info i, .top_contact_info a, .top_contact_info a:hover, .top_contact_info a:active{color:#FFFFFF;}.mobile_main_nav li a, #sub_menu li a{font-family:Poppins, Helvetica, Arial, sans-serif;font-size:15px;line-height:2.3em;font-weight:700;text-transform:none;letter-spacing:0px;}.mobile_menu_wrapper, .mobile_menu_wrapper h2.widgettitle, .mobile_menu_wrapper .sidebar_widget{text-align:left;}.mobile_menu_wrapper{background-color:#ffffff;}.mobile_main_nav li a, #sub_menu li a, .mobile_menu_wrapper .sidebar_wrapper a, .mobile_menu_wrapper .sidebar_wrapper, #close_mobile_menu i, .mobile_menu_wrapper .social_wrapper ul li a, html[data-menu=hammenufull] #copyright{color:#000000;}.mobile_main_nav li a:hover, .mobile_main_nav li a:active, #sub_menu li a:hover, #sub_menu li a:active, .mobile_menu_wrapper .sidebar_wrapper h2.widgettitle, .mobile_menu_wrapper .social_wrapper ul li a:hover{color:#FF4A52;}.mobile_menu_wrapper #searchform input[type=text]{background:#ffffff;}.mobile_menu_wrapper #searchform input[type=text], .mobile_menu_wrapper #searchform button i{color:#222222;}.mobile_menu_wrapper #searchform ::-webkit-input-placeholder{color:#222222;}.mobile_menu_wrapper #searchform ::-moz-placeholder{color:#222222;}.mobile_menu_wrapper #searchform :-ms-input-placeholder{color:#222222;}#page_caption.hasbg{height:550px;margin-bottom:40px;}#page_caption{background-color:#f9f9f9;padding-top:50px;padding-bottom:50px;}#page_caption h1, .ppb_title{font-family:Poppins, Helvetica, Arial, sans-serif;font-size:40px;}#page_caption h1, .ppb_title, .post_caption h1{font-weight:700;text-transform:none;letter-spacing:0px;color:#000000;}#page_caption h1, .post_caption h1{line-height:1.3em;}.ppb_title{font-family:Poppins, Helvetica, Arial, sans-serif;font-weight:700;}h2.ppb_title{font-size:36px;text-transform:none;letter-spacing:0px;}.page_tagline, .thumb_content span, .portfolio_desc .portfolio_excerpt, .testimonial_customer_position, .testimonial_customer_company, .post_detail.single_post, #gallery_caption .tg_caption .tg_desc{color:#8D9199;}.page_tagline, .post_detail, .thumb_content span, .portfolio_desc .portfolio_excerpt, .testimonial_customer_position, .testimonial_customer_company{font-size:15px;}.page_tagline{font-weight:500;}.page_tagline, .post_header .post_detail, .recent_post_detail, .post_detail, .thumb_content span, .portfolio_desc .portfolio_excerpt, .testimonial_customer_position, .testimonial_customer_company{letter-spacing:0px;text-transform:none;}#page_content_wrapper .sidebar .content .sidebar_widget li h2.widgettitle, h2.widgettitle, h5.widgettitle{font-family:Poppins, Helvetica, Arial, sans-serif;font-size:18px;font-weight:700;letter-spacing:0px;text-transform:none;color:#000000;}#page_content_wrapper .inner .sidebar_wrapper .sidebar .content, .page_content_wrapper .inner .sidebar_wrapper .sidebar .content{color:#555555;}#page_content_wrapper .inner .sidebar_wrapper a:not(.button), .page_content_wrapper .inner .sidebar_wrapper a:not(.button){color:#222222;}#page_content_wrapper .inner .sidebar_wrapper a:hover:not(.button), #page_content_wrapper .inner .sidebar_wrapper a:active:not(.button), .page_content_wrapper .inner .sidebar_wrapper a:hover:not(.button), .page_content_wrapper .inner .sidebar_wrapper a:active:not(.button){color:#1EC6B6;}.footer_bar, #footer, .tour_recently_view{background-color:#0e82b7;}#footer, #copyright, #footer_menu li a, #footer_menu li a:hover, #footer_menu li a:active{color:#ffffff;}#copyright a, #copyright a:active, #footer a, #footer a:active, #footer .sidebar_widget li h2.widgettitle, .tour_recently_view h3.sub_title{color:#ffffff;}#copyright a:hover, #footer a:hover, .social_wrapper ul li a:hover{color:#1EC6B6;}.footer_bar_wrapper, .footer_bar, .tour_recently_view h3.sub_title, .tour_recently_view{border-color:#066d9c;}.footer_bar_wrapper .social_wrapper ul li a{color:#ffffff;}#tour_search_form{margin-top:0px;}.woocommerce ul.products li.product .price ins, .woocommerce-page ul.products li.product .price ins, .woocommerce ul.products li.product .price, .woocommerce-page ul.products li.product .price, p.price ins span.amount, .woocommerce #content div.product p.price, .woocommerce #content div.product span.price, .woocommerce div.product p.price, .woocommerce div.product span.price, .woocommerce-page #content div.product p.price, .woocommerce-page #content div.product span.price, .woocommerce-page div.product p.price, .woocommerce-page div.product span.price{color:#FF4A52;}
+</style>
+<script type='text/javascript' src='http://www.carefreetravel.co.uk/wp-includes/js/jquery/jquery.js'></script>
+<script type='text/javascript' src='http://www.carefreetravel.co.uk/wp-includes/js/jquery/jquery-migrate.min.js'></script>
+<script type='text/javascript' src='http://www.carefreetravel.co.uk/wp-content/plugins/revslider/public/assets/js/jquery.themepunch.tools.min.js'></script>
+<script type='text/javascript' src='http://www.carefreetravel.co.uk/wp-content/plugins/revslider/public/assets/js/jquery.themepunch.revolution.min.js'></script>
+<script type='text/javascript' src='http://www.carefreetravel.co.uk/wp-content/plugins/wp-hide-post-pro/public/js/wp-hide-post-public.js'></script>
+<link rel='https://api.w.org/' href='http://www.carefreetravel.co.uk/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www.carefreetravel.co.uk/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://www.carefreetravel.co.uk/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 4.9.5" />
+<meta name="generator" content="WooCommerce 3.3.5" />
+<link rel="canonical" href="http://www.carefreetravel.co.uk/" />
+<link rel='shortlink' href='http://www.carefreetravel.co.uk/' />
+<link rel="alternate" type="application/json+oembed" href="http://www.carefreetravel.co.uk/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fwww.carefreetravel.co.uk%2F" />
+<link rel="alternate" type="text/xml+oembed" href="http://www.carefreetravel.co.uk/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fwww.carefreetravel.co.uk%2F&#038;format=xml" />
+<!-- Facebook Pixel Code -->
+<script>
+!function(f,b,e,v,n,t,s)
+{if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+n.queue=[];t=b.createElement(e);t.async=!0;
+t.src=v;s=b.getElementsByTagName(e)[0];
+s.parentNode.insertBefore(t,s)}(window,document,'script',
+'https://connect.facebook.net/en_US/fbevents.js');
+ fbq('init', '444414919342120'); 
+fbq('track', 'PageView');
+</script>
+<noscript>
+ <img height="1" width="1" 
+src="https://www.facebook.com/tr?id=444414919342120&ev=PageView
+&noscript=1"/>
+</noscript>
+<!-- End Facebook Pixel Code --><!-- <meta name="NextGEN" version="2.2.54" /> -->
+	<noscript><style>.woocommerce-product-gallery{ opacity: 1 !important; }</style></noscript>
+	<meta name="generator" content="Powered by Slider Revolution 5.4.6.3 - responsive, Mobile-Friendly Slider Plugin for WordPress with comfortable drag and drop interface." />
+<script type="text/javascript">function setREVStartSize(e){
+				try{ var i=jQuery(window).width(),t=9999,r=0,n=0,l=0,f=0,s=0,h=0;					
+					if(e.responsiveLevels&&(jQuery.each(e.responsiveLevels,function(e,f){f>i&&(t=r=f,l=e),i>f&&f>r&&(r=f,n=e)}),t>r&&(l=n)),f=e.gridheight[l]||e.gridheight[0]||e.gridheight,s=e.gridwidth[l]||e.gridwidth[0]||e.gridwidth,h=i/s,h=h>1?1:h,f=Math.round(h*f),"fullscreen"==e.sliderLayout){var u=(e.c.width(),jQuery(window).height());if(void 0!=e.fullScreenOffsetContainer){var c=e.fullScreenOffsetContainer.split(",");if (c) jQuery.each(c,function(e,i){u=jQuery(i).length>0?u-jQuery(i).outerHeight(!0):u}),e.fullScreenOffset.split("%").length>1&&void 0!=e.fullScreenOffset&&e.fullScreenOffset.length>0?u-=jQuery(window).height()*parseInt(e.fullScreenOffset,0)/100:void 0!=e.fullScreenOffset&&e.fullScreenOffset.length>0&&(u-=parseInt(e.fullScreenOffset,0))}f=u}else void 0!=e.minHeight&&f<e.minHeight&&(f=e.minHeight);e.c.closest(".rev_slider_wrapper").css({height:f})					
+				}catch(d){console.log("Failure at Presize of Slider:"+d)}
+			};</script>
+		<style type="text/css" id="wp-custom-css">
+			.footer_call h4 {
+    line-height: 2;
+}
+
+.contactboxleft { 
+	float: left; 
+	text-align: left; 
+	width: 60%;
+}
+
+.contactboxright {
+	float: right;
+	width: 35%;
+}
+
+@media only screen and (max-width: 500px) {
+	.contactboxleft { 
+	float: none; 
+	text-align: left; 
+	width: 100%;
+		padding-bottom: 40px;
+}
+
+.contactboxright {
+	float: none;
+	width: 100%;
+}
+}
+
+.page_tagline { 
+	color:#222222;
+}
+
+.mc4wp-form-fields label {
+	margin-bottom: 0px;
+}
+
+.mc4wp-form-fields input {
+	margin-top: 5px;
+}
+
+.mc4wp-form-fields input[type="checkbox"] {
+	width:40px;
+}
+
+
+/*** 
+ Launch subscribe popup 
+***/
+.wp-image-4075 {
+	margin-top: 11px;
+}
+		</style>
+	</head>
+
+<body class="home page-template-default page page-id-14 ppb_enable">
+
+		<input type="hidden" id="pp_menu_layout" name="pp_menu_layout" value="leftalign"/>
+	<input type="hidden" id="pp_enable_right_click" name="pp_enable_right_click" value=""/>
+	<input type="hidden" id="pp_enable_dragging" name="pp_enable_dragging" value=""/>
+	<input type="hidden" id="pp_image_path" name="pp_image_path" value="http://www.carefreetravel.co.uk/wp-content/themes/grandtour/images/"/>
+	<input type="hidden" id="pp_homepage_url" name="pp_homepage_url" value="http://www.carefreetravel.co.uk/"/>
+	<input type="hidden" id="pp_fixed_menu" name="pp_fixed_menu" value=""/>
+	<input type="hidden" id="tg_smart_fixed_menu" name="tg_smart_fixed_menu" value=""/>
+	<input type="hidden" id="tg_sidebar_sticky" name="tg_sidebar_sticky" value="1"/>
+	<input type="hidden" id="pp_topbar" name="pp_topbar" value="1"/>
+	<input type="hidden" id="post_client_column" name="post_client_column" value="4"/>
+	<input type="hidden" id="pp_back" name="pp_back" value="Back"/>
+	<input type="hidden" id="pp_page_title_img_blur" name="pp_page_title_img_blur" value=""/>
+	<input type="hidden" id="tg_portfolio_filterable_link" name="tg_portfolio_filterable_link" value=""/>
+	<input type="hidden" id="tg_flow_enable_reflection" name="tg_flow_enable_reflection" value=""/>
+	<input type="hidden" id="tg_lightbox_skin" name="tg_lightbox_skin" value="metro-black"/>
+	<input type="hidden" id="tg_lightbox_thumbnails" name="tg_lightbox_thumbnails" value="horizontal"/>
+	<input type="hidden" id="tg_lightbox_thumbnails_display" name="tg_lightbox_thumbnails_display" value="1"/>
+	<input type="hidden" id="tg_lightbox_opacity" name="tg_lightbox_opacity" value="0.8"/>
+	<input type="hidden" id="tg_sidemenu_overlay_effect" name="tg_sidemenu_overlay_effect" value="blur"/>
+	
+		<input type="hidden" id="tg_cart_url" name="tg_cart_url" value="http://www.carefreetravel.co.uk/checkout/"/>
+		
+		<input type="hidden" id="tg_live_builder" name="tg_live_builder" value="0"/>
+	
+		<input type="hidden" id="pp_footer_style" name="pp_footer_style" value="4"/>
+	
+	
+<!-- Begin mobile menu -->
+<a id="close_mobile_menu" href="javascript:;"></a>
+
+<div class="mobile_menu_wrapper">
+	<a id="mobile_menu_close" href="javascript:;" class="button"><span class="ti-close"></span></a>
+
+	<div class="mobile_menu_content">
+    	
+		
+		
+    <div class="menu-main-menu-container"><ul id="mobile_main_menu" class="mobile_main_nav"><li id="menu-item-33" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-14 current_page_item menu-item-33"><a href="http://www.carefreetravel.co.uk/"><i class="_mi dashicons dashicons-admin-home" aria-hidden="true"></i><span class="visuallyhidden">Home</span></a></li>
+<li id="menu-item-76" class="menu-item menu-item-type-taxonomy menu-item-object-destinationcat menu-item-has-children menu-item-76"><a href="http://www.carefreetravel.co.uk/packages/cruise/">Cruise</a>
+<ul class="sub-menu">
+	<li id="menu-item-82" class="menu-item menu-item-type-post_type menu-item-object-destination menu-item-82"><a href="http://www.carefreetravel.co.uk/package/cruise/western-mediterranean/">Western Mediterranean</a></li>
+	<li id="menu-item-129" class="menu-item menu-item-type-post_type menu-item-object-destination menu-item-129"><a href="http://www.carefreetravel.co.uk/package/cruise/eastern-mediterranean/">Eastern Mediterranean</a></li>
+	<li id="menu-item-128" class="menu-item menu-item-type-post_type menu-item-object-destination menu-item-128"><a href="http://www.carefreetravel.co.uk/package/cruise/carribean/">The Caribbean</a></li>
+	<li id="menu-item-688" class="menu-item menu-item-type-post_type menu-item-object-destination menu-item-688"><a href="http://www.carefreetravel.co.uk/package/cruise/baltics/">The Baltics</a></li>
+	<li id="menu-item-143" class="menu-item menu-item-type-post_type menu-item-object-destination menu-item-143"><a href="http://www.carefreetravel.co.uk/package/cruise/alaska/">Alaska</a></li>
+	<li id="menu-item-687" class="menu-item menu-item-type-post_type menu-item-object-destination menu-item-687"><a href="http://www.carefreetravel.co.uk/package/cruise/the-far-east/">The Far East</a></li>
+	<li id="menu-item-2989" class="menu-item menu-item-type-post_type menu-item-object-destination menu-item-2989"><a href="http://www.carefreetravel.co.uk/package/cruise/star-clippers-tall-ship-cruise/">Star Clippers – Tall Ship Cruise</a></li>
+	<li id="menu-item-921" class="menu-item menu-item-type-post_type menu-item-object-destination menu-item-921"><a href="http://www.carefreetravel.co.uk/package/cruise/croatia/">Deluxe Croatian Yacht</a></li>
+	<li id="menu-item-4136" class="menu-item menu-item-type-post_type menu-item-object-destination menu-item-4136"><a href="http://www.carefreetravel.co.uk/package/cruise/luxury-cruising-2/">Luxury Cruising</a></li>
+	<li id="menu-item-4551" class="menu-item menu-item-type-post_type menu-item-object-destination menu-item-4551"><a href="http://www.carefreetravel.co.uk/package/cruise/luxury-cruising/">River Cruising</a></li>
+	<li id="menu-item-142" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-142"><a href="http://www.carefreetravel.co.uk/cruise-faq/">Cruise FAQs</a></li>
+</ul>
+</li>
+<li id="menu-item-506" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-506"><a href="http://www.carefreetravel.co.uk/sun-holidays/">Sun</a>
+<ul class="sub-menu">
+	<li id="menu-item-516" class="menu-item menu-item-type-taxonomy menu-item-object-destinationcat menu-item-516"><a href="http://www.carefreetravel.co.uk/packages/summer/">Summer Sun</a></li>
+	<li id="menu-item-517" class="menu-item menu-item-type-taxonomy menu-item-object-destinationcat menu-item-517"><a href="http://www.carefreetravel.co.uk/packages/winter-sun/">Winter Sun</a></li>
+</ul>
+</li>
+<li id="menu-item-164" class="menu-item menu-item-type-taxonomy menu-item-object-destinationcat menu-item-has-children menu-item-164"><a href="http://www.carefreetravel.co.uk/packages/usa-canada/">USA/Canada</a>
+<ul class="sub-menu">
+	<li id="menu-item-167" class="menu-item menu-item-type-post_type menu-item-object-destination menu-item-167"><a href="http://www.carefreetravel.co.uk/package/usa-canada/usa-canada-multi-centre/">Multi Centre</a></li>
+	<li id="menu-item-165" class="menu-item menu-item-type-post_type menu-item-object-destination menu-item-165"><a href="http://www.carefreetravel.co.uk/package/usa-canada/usa-canada-best-sellers/">Best Sellers</a></li>
+	<li id="menu-item-166" class="menu-item menu-item-type-post_type menu-item-object-destination menu-item-166"><a href="http://www.carefreetravel.co.uk/package/usa-canada/canada-the-rockies/">Canada / The Rockies</a></li>
+</ul>
+</li>
+<li id="menu-item-175" class="menu-item menu-item-type-taxonomy menu-item-object-destinationcat menu-item-has-children menu-item-175"><a href="http://www.carefreetravel.co.uk/packages/honeymoon/">Honeymoon/Worldwide</a>
+<ul class="sub-menu">
+	<li id="menu-item-178" class="menu-item menu-item-type-post_type menu-item-object-destination menu-item-has-children menu-item-178"><a href="http://www.carefreetravel.co.uk/package/honeymoon/cruise/">Cruise</a>
+	<ul class="sub-menu">
+		<li id="menu-item-2990" class="menu-item menu-item-type-post_type menu-item-object-destination menu-item-2990"><a href="http://www.carefreetravel.co.uk/package/cruise/star-clippers-tall-ship-cruise/">Star Clippers – Tall Ship Cruise</a></li>
+	</ul>
+</li>
+	<li id="menu-item-177" class="menu-item menu-item-type-post_type menu-item-object-destination menu-item-177"><a href="http://www.carefreetravel.co.uk/package/escorted-tours/safari/">Safari – Africa</a></li>
+	<li id="menu-item-176" class="menu-item menu-item-type-post_type menu-item-object-destination menu-item-176"><a href="http://www.carefreetravel.co.uk/package/honeymoon/maldives/">Maldives</a></li>
+	<li id="menu-item-862" class="menu-item menu-item-type-post_type menu-item-object-destination menu-item-862"><a href="http://www.carefreetravel.co.uk/package/honeymoon/mauritius/">Mauritius</a></li>
+	<li id="menu-item-4010" class="menu-item menu-item-type-post_type menu-item-object-destination menu-item-4010"><a href="http://www.carefreetravel.co.uk/package/honeymoon/seychelles/">Seychelles</a></li>
+	<li id="menu-item-905" class="menu-item menu-item-type-post_type menu-item-object-destination menu-item-905"><a href="http://www.carefreetravel.co.uk/package/honeymoon/mexico/">Mexico</a></li>
+	<li id="menu-item-2869" class="menu-item menu-item-type-post_type menu-item-object-destination menu-item-2869"><a href="http://www.carefreetravel.co.uk/package/honeymoon/asia-2/">Asia</a></li>
+	<li id="menu-item-179" class="menu-item menu-item-type-post_type menu-item-object-destination menu-item-179"><a href="http://www.carefreetravel.co.uk/package/honeymoon/twin-or-multi-moon/">Twin or Multi Moon</a></li>
+	<li id="menu-item-1136" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1136"><a href="http://www.carefreetravel.co.uk/mini-moon/">Mini Moon</a></li>
+	<li id="menu-item-570" class="menu-item menu-item-type-post_type menu-item-object-destination menu-item-570"><a href="http://www.carefreetravel.co.uk/package/honeymoon/gift-service/">Gift Service</a></li>
+	<li id="menu-item-569" class="menu-item menu-item-type-post_type menu-item-object-destination menu-item-569"><a href="http://www.carefreetravel.co.uk/package/honeymoon/calendar-guide/">Calendar Guide</a></li>
+	<li id="menu-item-3705" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3705"><a href="http://www.carefreetravel.co.uk/3693-2/">Carefree Real Life Honeymoons</a></li>
+</ul>
+</li>
+<li id="menu-item-193" class="menu-item menu-item-type-taxonomy menu-item-object-destinationcat menu-item-has-children menu-item-193"><a href="http://www.carefreetravel.co.uk/packages/city-breaks/">City Breaks</a>
+<ul class="sub-menu">
+	<li id="menu-item-787" class="menu-item menu-item-type-post_type menu-item-object-destination menu-item-787"><a href="http://www.carefreetravel.co.uk/package/city-breaks/amsterdam-city-break/">Amsterdam</a></li>
+	<li id="menu-item-872" class="menu-item menu-item-type-post_type menu-item-object-destination menu-item-872"><a href="http://www.carefreetravel.co.uk/package/city-breaks/gdansk/">Gdansk</a></li>
+	<li id="menu-item-791" class="menu-item menu-item-type-post_type menu-item-object-destination menu-item-791"><a href="http://www.carefreetravel.co.uk/package/city-breaks/krakow-city-break/">Krakow</a></li>
+	<li id="menu-item-788" class="menu-item menu-item-type-post_type menu-item-object-destination menu-item-788"><a href="http://www.carefreetravel.co.uk/package/city-breaks/lisbon-city-break/">Lisbon</a></li>
+	<li id="menu-item-869" class="menu-item menu-item-type-post_type menu-item-object-destination menu-item-869"><a href="http://www.carefreetravel.co.uk/package/city-breaks/london/">London</a></li>
+	<li id="menu-item-790" class="menu-item menu-item-type-post_type menu-item-object-destination menu-item-790"><a href="http://www.carefreetravel.co.uk/package/city-breaks/madrid-city-breaks/">Madrid</a></li>
+	<li id="menu-item-867" class="menu-item menu-item-type-post_type menu-item-object-destination menu-item-867"><a href="http://www.carefreetravel.co.uk/package/city-breaks/paris/">Paris</a></li>
+	<li id="menu-item-1587" class="menu-item menu-item-type-post_type menu-item-object-destination menu-item-1587"><a href="http://www.carefreetravel.co.uk/package/city-breaks/prague/">Prague</a></li>
+	<li id="menu-item-1588" class="menu-item menu-item-type-post_type menu-item-object-destination menu-item-1588"><a href="http://www.carefreetravel.co.uk/package/city-breaks/budapest/">Budapest</a></li>
+	<li id="menu-item-1591" class="menu-item menu-item-type-post_type menu-item-object-destination menu-item-1591"><a href="http://www.carefreetravel.co.uk/package/city-breaks/riga/">Riga</a></li>
+	<li id="menu-item-789" class="menu-item menu-item-type-post_type menu-item-object-destination menu-item-789"><a href="http://www.carefreetravel.co.uk/package/city-breaks/rome-city-breaks/">Rome</a></li>
+	<li id="menu-item-4623" class="menu-item menu-item-type-post_type menu-item-object-destination menu-item-4623"><a href="http://www.carefreetravel.co.uk/package/city-breaks/riga-2-2/">Venice</a></li>
+	<li id="menu-item-4617" class="menu-item menu-item-type-post_type menu-item-object-destination menu-item-4617"><a href="http://www.carefreetravel.co.uk/package/city-breaks/riga-2/">Christmas Markets &#038; New Years Celebrations</a></li>
+</ul>
+</li>
+<li id="menu-item-1553" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1553"><a href="http://www.carefreetravel.co.uk/disneyland-paris/">Disneyland Paris</a></li>
+<li id="menu-item-186" class="menu-item menu-item-type-taxonomy menu-item-object-destinationcat menu-item-has-children menu-item-186"><a href="http://www.carefreetravel.co.uk/packages/ski/">Ski</a>
+<ul class="sub-menu">
+	<li id="menu-item-802" class="menu-item menu-item-type-post_type menu-item-object-destination menu-item-802"><a href="http://www.carefreetravel.co.uk/package/ski/austria-skiing/">Austria</a></li>
+	<li id="menu-item-804" class="menu-item menu-item-type-post_type menu-item-object-destination menu-item-804"><a href="http://www.carefreetravel.co.uk/package/ski/bulgaria-ski/">Bulgaria</a></li>
+	<li id="menu-item-805" class="menu-item menu-item-type-post_type menu-item-object-destination menu-item-805"><a href="http://www.carefreetravel.co.uk/package/ski/france-ski/">France</a></li>
+	<li id="menu-item-803" class="menu-item menu-item-type-post_type menu-item-object-destination menu-item-803"><a href="http://www.carefreetravel.co.uk/package/ski/italy-skiing/">Italy</a></li>
+	<li id="menu-item-4231" class="menu-item menu-item-type-post_type menu-item-object-destination menu-item-4231"><a href="http://www.carefreetravel.co.uk/package/ski/romania/">Romania</a></li>
+</ul>
+</li>
+<li id="menu-item-1269" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-1269"><a href="http://www.carefreetravel.co.uk/luxury/">Luxury</a>
+<ul class="sub-menu">
+	<li id="menu-item-2651" class="menu-item menu-item-type-post_type menu-item-object-destination menu-item-2651"><a href="http://www.carefreetravel.co.uk/package/luxury/luxury-hotels/">Luxury Hotels</a></li>
+	<li id="menu-item-1199" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1199"><a href="http://www.carefreetravel.co.uk/luxury/special-occasions/">Special Occasions</a></li>
+	<li id="menu-item-1270" class="menu-item menu-item-type-taxonomy menu-item-object-destinationcat menu-item-1270"><a href="http://www.carefreetravel.co.uk/packages/bucket-list/">Bucket List</a></li>
+</ul>
+</li>
+<li id="menu-item-612" class="menu-item menu-item-type-taxonomy menu-item-object-destinationcat menu-item-has-children menu-item-612"><a href="http://www.carefreetravel.co.uk/packages/escorted-tours/">Escorted Tours</a>
+<ul class="sub-menu">
+	<li id="menu-item-1273" class="menu-item menu-item-type-post_type menu-item-object-destination menu-item-1273"><a href="http://www.carefreetravel.co.uk/package/escorted-tours/asia/">Asia</a></li>
+	<li id="menu-item-810" class="menu-item menu-item-type-post_type menu-item-object-destination menu-item-810"><a href="http://www.carefreetravel.co.uk/package/escorted-tours/europe/">Europe</a></li>
+	<li id="menu-item-1351" class="menu-item menu-item-type-post_type menu-item-object-destination menu-item-1351"><a href="http://www.carefreetravel.co.uk/package/escorted-tours/north-america/">North America</a></li>
+	<li id="menu-item-809" class="menu-item menu-item-type-post_type menu-item-object-destination menu-item-809"><a href="http://www.carefreetravel.co.uk/package/escorted-tours/south-america/">South America</a></li>
+	<li id="menu-item-890" class="menu-item menu-item-type-post_type menu-item-object-destination menu-item-890"><a href="http://www.carefreetravel.co.uk/package/escorted-tours/safari/">Safari – Africa</a></li>
+</ul>
+</li>
+<li id="menu-item-3624" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3624"><a href="http://www.carefreetravel.co.uk/offers/">Offers</a></li>
+<li id="menu-item-46" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-46"><a href="http://www.carefreetravel.co.uk/about-us/">About</a>
+<ul class="sub-menu">
+	<li id="menu-item-68" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-68"><a href="http://www.carefreetravel.co.uk/contact-us/">Contact us</a></li>
+	<li id="menu-item-4578" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4578"><a href="http://www.carefreetravel.co.uk/about-us/travel-extras-2/">Privacy Policy Information</a></li>
+	<li id="menu-item-191" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-191"><a href="http://www.carefreetravel.co.uk/why-book-carefree/">Why Book With Carefree Travel?</a></li>
+	<li id="menu-item-4133" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4133"><a href="http://www.carefreetravel.co.uk/about-us/gift-voucher/">Gift Voucher</a></li>
+	<li id="menu-item-3714" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3714"><a href="http://www.carefreetravel.co.uk/about-us/payment-options/">Payment Options</a></li>
+	<li id="menu-item-3596" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3596"><a href="http://www.carefreetravel.co.uk/about-us/travel-extras/">Travel Extras</a></li>
+	<li id="menu-item-48" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-48"><a href="http://www.carefreetravel.co.uk/meet-the-team/">Meet the team</a></li>
+	<li id="menu-item-189" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-189"><a href="http://www.carefreetravel.co.uk/testimonials/">Testimonials</a></li>
+	<li id="menu-item-67" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-67"><a href="http://www.carefreetravel.co.uk/blog/">Blog</a></li>
+</ul>
+</li>
+</ul></div>
+    <!-- Begin side menu sidebar -->
+    <div class="page_content_wrapper">
+    	<div class="sidebar_wrapper">
+            <div class="sidebar">
+            
+            	<div class="content">
+            
+            		<ul class="sidebar_widget">
+            		            		</ul>
+            	
+            	</div>
+        
+            </div>
+    	</div>
+    </div>
+    <!-- End side menu sidebar -->
+    
+    <div class="social_wrapper">
+    <ul>
+    	    	<li class="facebook"><a target="_blank" href="http://www.facebook.com/carefreetravel"><i class="fa fa-facebook-official"></i></a></li>
+    	    	    	<li class="twitter"><a target="_blank" href="http://twitter.com/carefreetravels"><i class="fa fa-twitter"></i></a></li>
+    	    	    	    	    	    	    	    	    	                        				
+		    </ul>
+</div>    </div>
+</div>
+<!-- End mobile menu -->
+
+
+	<!-- Begin template wrapper -->
+			<div id="wrapper" class="hasbg transparent">
+
+	
+<div class="header_style_wrapper">
+
+<!-- Begin top bar -->
+<div class="above_top_bar">
+    <div class="page_content_wrapper">
+    
+    <div class="top_contact_info">
+				    <span id="top_contact_hours"><i class="fa fa-clock-o"></i>Mon-Fri 09:00 - 17:30 | Sat (Jan - Sept) 09:30 - 15:30 | Sat (Oct - Dec) 09:30 - 13:00</span>
+						    <span id="top_contact_number">
+                 <a href="tel:(028) 66 322116"><i class="fa fa-phone"></i>UK: <span>(028) 66 322116</span></a>|
+                <a href="tel:(048) 66 322116">Calling from Rep. Ireland: <span>(048) 66 322116</span></a>
+
+            </span>
+		    </div>
+    	
+        <br class="clear"/>
+    </div>
+</div>
+<!-- End top bar -->
+
+<div class="top_bar hasbg">
+    <div class="standard_wrapper">
+    	<!-- Begin logo -->
+    	<div id="logo_wrapper">
+    	
+    	    	<div id="logo_normal" class="logo_container">
+    		<div class="logo_align">
+	    	    <a id="custom_logo" class="logo_wrapper hidden" href="http://www.carefreetravel.co.uk/">
+	    	    						<img src="http://www.carefreetravel.co.uk/wp-content/uploads/2017/12/logo-alt-opt.png" alt="" width="250" height="70"/>
+						    	    </a>
+    		</div>
+    	</div>
+    	    	
+    	    	<div id="logo_transparent" class="logo_container">
+    		<div class="logo_align">
+	    	    <a id="custom_logo_transparent" class="logo_wrapper default" href="http://www.carefreetravel.co.uk/">
+	    	    						<img src="http://www.carefreetravel.co.uk/wp-content/uploads/2017/12/logo-alt-opt.png" alt="" width="250" height="70"/>
+						    	    </a>
+    		</div>
+    	</div>
+    	    	<!-- End logo -->
+    	
+    	    	
+        <div id="menu_wrapper">
+	        <div id="nav_wrapper">
+	        	<div class="nav_wrapper_inner">
+	        		<div id="menu_border_wrapper">
+	        			<div class="menu-main-menu-container"><ul id="main_menu" class="nav"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-14 current_page_item menu-item-33"><a href="http://www.carefreetravel.co.uk/"><i class="_mi dashicons dashicons-admin-home" aria-hidden="true"></i><span class="visuallyhidden">Home</span></a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-destinationcat menu-item-has-children arrow menu-item-76"><a href="http://www.carefreetravel.co.uk/packages/cruise/">Cruise</a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-post_type menu-item-object-destination menu-item-82"><a href="http://www.carefreetravel.co.uk/package/cruise/western-mediterranean/">Western Mediterranean</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-destination menu-item-129"><a href="http://www.carefreetravel.co.uk/package/cruise/eastern-mediterranean/">Eastern Mediterranean</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-destination menu-item-128"><a href="http://www.carefreetravel.co.uk/package/cruise/carribean/">The Caribbean</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-destination menu-item-688"><a href="http://www.carefreetravel.co.uk/package/cruise/baltics/">The Baltics</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-destination menu-item-143"><a href="http://www.carefreetravel.co.uk/package/cruise/alaska/">Alaska</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-destination menu-item-687"><a href="http://www.carefreetravel.co.uk/package/cruise/the-far-east/">The Far East</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-destination menu-item-2989"><a href="http://www.carefreetravel.co.uk/package/cruise/star-clippers-tall-ship-cruise/">Star Clippers – Tall Ship Cruise</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-destination menu-item-921"><a href="http://www.carefreetravel.co.uk/package/cruise/croatia/">Deluxe Croatian Yacht</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-destination menu-item-4136"><a href="http://www.carefreetravel.co.uk/package/cruise/luxury-cruising-2/">Luxury Cruising</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-destination menu-item-4551"><a href="http://www.carefreetravel.co.uk/package/cruise/luxury-cruising/">River Cruising</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-142"><a href="http://www.carefreetravel.co.uk/cruise-faq/">Cruise FAQs</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children arrow menu-item-506"><a href="http://www.carefreetravel.co.uk/sun-holidays/">Sun</a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-destinationcat menu-item-516"><a href="http://www.carefreetravel.co.uk/packages/summer/">Summer Sun</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-destinationcat menu-item-517"><a href="http://www.carefreetravel.co.uk/packages/winter-sun/">Winter Sun</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-destinationcat menu-item-has-children arrow menu-item-164"><a href="http://www.carefreetravel.co.uk/packages/usa-canada/">USA/Canada</a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-post_type menu-item-object-destination menu-item-167"><a href="http://www.carefreetravel.co.uk/package/usa-canada/usa-canada-multi-centre/">Multi Centre</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-destination menu-item-165"><a href="http://www.carefreetravel.co.uk/package/usa-canada/usa-canada-best-sellers/">Best Sellers</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-destination menu-item-166"><a href="http://www.carefreetravel.co.uk/package/usa-canada/canada-the-rockies/">Canada / The Rockies</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-destinationcat menu-item-has-children arrow menu-item-175"><a href="http://www.carefreetravel.co.uk/packages/honeymoon/">Honeymoon/Worldwide</a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-post_type menu-item-object-destination menu-item-has-children arrow menu-item-178"><a href="http://www.carefreetravel.co.uk/package/honeymoon/cruise/">Cruise</a>
+	<ul class="sub-menu">
+		<li class="menu-item menu-item-type-post_type menu-item-object-destination menu-item-2990"><a href="http://www.carefreetravel.co.uk/package/cruise/star-clippers-tall-ship-cruise/">Star Clippers – Tall Ship Cruise</a></li>
+	</ul>
+</li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-destination menu-item-177"><a href="http://www.carefreetravel.co.uk/package/escorted-tours/safari/">Safari – Africa</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-destination menu-item-176"><a href="http://www.carefreetravel.co.uk/package/honeymoon/maldives/">Maldives</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-destination menu-item-862"><a href="http://www.carefreetravel.co.uk/package/honeymoon/mauritius/">Mauritius</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-destination menu-item-4010"><a href="http://www.carefreetravel.co.uk/package/honeymoon/seychelles/">Seychelles</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-destination menu-item-905"><a href="http://www.carefreetravel.co.uk/package/honeymoon/mexico/">Mexico</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-destination menu-item-2869"><a href="http://www.carefreetravel.co.uk/package/honeymoon/asia-2/">Asia</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-destination menu-item-179"><a href="http://www.carefreetravel.co.uk/package/honeymoon/twin-or-multi-moon/">Twin or Multi Moon</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1136"><a href="http://www.carefreetravel.co.uk/mini-moon/">Mini Moon</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-destination menu-item-570"><a href="http://www.carefreetravel.co.uk/package/honeymoon/gift-service/">Gift Service</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-destination menu-item-569"><a href="http://www.carefreetravel.co.uk/package/honeymoon/calendar-guide/">Calendar Guide</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3705"><a href="http://www.carefreetravel.co.uk/3693-2/">Carefree Real Life Honeymoons</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-destinationcat menu-item-has-children arrow menu-item-193"><a href="http://www.carefreetravel.co.uk/packages/city-breaks/">City Breaks</a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-post_type menu-item-object-destination menu-item-787"><a href="http://www.carefreetravel.co.uk/package/city-breaks/amsterdam-city-break/">Amsterdam</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-destination menu-item-872"><a href="http://www.carefreetravel.co.uk/package/city-breaks/gdansk/">Gdansk</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-destination menu-item-791"><a href="http://www.carefreetravel.co.uk/package/city-breaks/krakow-city-break/">Krakow</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-destination menu-item-788"><a href="http://www.carefreetravel.co.uk/package/city-breaks/lisbon-city-break/">Lisbon</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-destination menu-item-869"><a href="http://www.carefreetravel.co.uk/package/city-breaks/london/">London</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-destination menu-item-790"><a href="http://www.carefreetravel.co.uk/package/city-breaks/madrid-city-breaks/">Madrid</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-destination menu-item-867"><a href="http://www.carefreetravel.co.uk/package/city-breaks/paris/">Paris</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-destination menu-item-1587"><a href="http://www.carefreetravel.co.uk/package/city-breaks/prague/">Prague</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-destination menu-item-1588"><a href="http://www.carefreetravel.co.uk/package/city-breaks/budapest/">Budapest</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-destination menu-item-1591"><a href="http://www.carefreetravel.co.uk/package/city-breaks/riga/">Riga</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-destination menu-item-789"><a href="http://www.carefreetravel.co.uk/package/city-breaks/rome-city-breaks/">Rome</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-destination menu-item-4623"><a href="http://www.carefreetravel.co.uk/package/city-breaks/riga-2-2/">Venice</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-destination menu-item-4617"><a href="http://www.carefreetravel.co.uk/package/city-breaks/riga-2/">Christmas Markets &#038; New Years Celebrations</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1553"><a href="http://www.carefreetravel.co.uk/disneyland-paris/">Disneyland Paris</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-destinationcat menu-item-has-children arrow menu-item-186"><a href="http://www.carefreetravel.co.uk/packages/ski/">Ski</a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-post_type menu-item-object-destination menu-item-802"><a href="http://www.carefreetravel.co.uk/package/ski/austria-skiing/">Austria</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-destination menu-item-804"><a href="http://www.carefreetravel.co.uk/package/ski/bulgaria-ski/">Bulgaria</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-destination menu-item-805"><a href="http://www.carefreetravel.co.uk/package/ski/france-ski/">France</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-destination menu-item-803"><a href="http://www.carefreetravel.co.uk/package/ski/italy-skiing/">Italy</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-destination menu-item-4231"><a href="http://www.carefreetravel.co.uk/package/ski/romania/">Romania</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children arrow menu-item-1269"><a href="http://www.carefreetravel.co.uk/luxury/">Luxury</a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-post_type menu-item-object-destination menu-item-2651"><a href="http://www.carefreetravel.co.uk/package/luxury/luxury-hotels/">Luxury Hotels</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1199"><a href="http://www.carefreetravel.co.uk/luxury/special-occasions/">Special Occasions</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-destinationcat menu-item-1270"><a href="http://www.carefreetravel.co.uk/packages/bucket-list/">Bucket List</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-destinationcat menu-item-has-children arrow menu-item-612"><a href="http://www.carefreetravel.co.uk/packages/escorted-tours/">Escorted Tours</a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-post_type menu-item-object-destination menu-item-1273"><a href="http://www.carefreetravel.co.uk/package/escorted-tours/asia/">Asia</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-destination menu-item-810"><a href="http://www.carefreetravel.co.uk/package/escorted-tours/europe/">Europe</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-destination menu-item-1351"><a href="http://www.carefreetravel.co.uk/package/escorted-tours/north-america/">North America</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-destination menu-item-809"><a href="http://www.carefreetravel.co.uk/package/escorted-tours/south-america/">South America</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-destination menu-item-890"><a href="http://www.carefreetravel.co.uk/package/escorted-tours/safari/">Safari – Africa</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3624"><a href="http://www.carefreetravel.co.uk/offers/">Offers</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children arrow menu-item-46"><a href="http://www.carefreetravel.co.uk/about-us/">About</a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-68"><a href="http://www.carefreetravel.co.uk/contact-us/">Contact us</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4578"><a href="http://www.carefreetravel.co.uk/about-us/travel-extras-2/">Privacy Policy Information</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-191"><a href="http://www.carefreetravel.co.uk/why-book-carefree/">Why Book With Carefree Travel?</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4133"><a href="http://www.carefreetravel.co.uk/about-us/gift-voucher/">Gift Voucher</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3714"><a href="http://www.carefreetravel.co.uk/about-us/payment-options/">Payment Options</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3596"><a href="http://www.carefreetravel.co.uk/about-us/travel-extras/">Travel Extras</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-48"><a href="http://www.carefreetravel.co.uk/meet-the-team/">Meet the team</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-189"><a href="http://www.carefreetravel.co.uk/testimonials/">Testimonials</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-67"><a href="http://www.carefreetravel.co.uk/blog/">Blog</a></li>
+</ul>
+</li>
+</ul></div>	        		</div>
+	        	</div>
+	        	
+	        	<!-- Begin right corner buttons -->
+		    	<div id="logo_right_button">
+					
+					<!-- Begin side menu -->
+					<a href="javascript:;" id="mobile_nav_icon"><span class="ti-menu"></span></a>
+					<!-- End side menu -->
+					
+										
+		    	</div>
+		    	<!-- End right corner buttons -->
+	        </div>
+	        <!-- End main nav -->
+        </div>
+        
+    	</div>
+		</div>
+    </div>
+</div>
+
+
+<div class="ppb_wrapper  ">
+<div  class="one fullwidth "><link href="http://fonts.googleapis.com/css?family=Poppins:700%2C400%7CRoboto:700" rel="stylesheet" property="stylesheet" type="text/css" media="all">
+<div id="rev_slider_1_1_wrapper" class="rev_slider_wrapper fullwidthbanner-container" data-source="gallery" style="margin:0px auto;background:transparent;padding:0px;margin-top:0px;margin-bottom:0px;">
+<!-- START REVOLUTION SLIDER 5.4.6.3 fullwidth mode -->
+	<div id="rev_slider_1_1" class="rev_slider fullwidthabanner" style="display:none;" data-version="5.4.6.3">
+<ul>	<!-- SLIDE  -->
+	<li data-index="rs-1" data-transition="fade" data-slotamount="default" data-hideafterloop="0" data-hideslideonmobile="off"  data-easein="default" data-easeout="default" data-masterspeed="300"  data-thumb="http://www.carefreetravel.co.uk/wp-content/uploads/2017/12/Mexico-100x50.jpg"  data-rotate="0"  data-saveperformance="off"  data-title="Slide" data-param1="" data-param2="" data-param3="" data-param4="" data-param5="" data-param6="" data-param7="" data-param8="" data-param9="" data-param10="" data-description="">
+		<!-- MAIN IMAGE -->
+		<img src="http://www.carefreetravel.co.uk/wp-content/uploads/2017/12/Mexico.jpg"  alt="" title="Mexico"  width="1900" height="1267" data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat" class="rev-slidebg" data-no-retina>
+		<!-- LAYERS -->
+
+		<!-- LAYER NR. 1 -->
+		<div class="tp-caption   tp-resizeme" 
+			 id="slide-1-layer-2" 
+			 data-x="center" data-hoffset="" 
+			 data-y="center" data-voffset="-80" 
+						data-width="['auto']"
+			data-height="['auto']"
+ 
+			data-type="text" 
+			data-responsive_offset="on" 
+
+			data-frames='[{"delay":1000,"speed":800,"frame":"0","from":"z:0;rX:0;rY:0;rZ:0;sX:0.8;sY:0.8;skX:0;skY:0;opacity:0;","to":"o:1;","ease":"Power4.easeOut"},{"delay":"wait","speed":500,"frame":"999","to":"opacity:0;","ease":"Power3.easeInOut"}]'
+			data-textAlign="['inherit','inherit','inherit','inherit']"
+			data-paddingtop="[0,0,0,0]"
+			data-paddingright="[0,0,0,0]"
+			data-paddingbottom="[0,0,0,0]"
+			data-paddingleft="[0,0,0,0]"
+
+			style="z-index: 5; white-space: nowrap; font-size: 80px; line-height: 22px; font-weight: 700; color: rgba(255,255,255,1); letter-spacing: px;font-family:Poppins;">Where are you going? </div>
+
+		<!-- LAYER NR. 2 -->
+		<div class="tp-caption   tp-resizeme" 
+			 id="slide-1-layer-3" 
+			 data-x="center" data-hoffset="" 
+			 data-y="center" data-voffset="12" 
+						data-width="['auto']"
+			data-height="['auto']"
+			data-visibility="['on','on','on','off']"
+ 
+			data-type="text" 
+			data-responsive_offset="on" 
+
+			data-frames='[{"delay":1000,"speed":800,"frame":"0","from":"z:0;rX:0;rY:0;rZ:0;sX:0.8;sY:0.8;skX:0;skY:0;opacity:0;","to":"o:1;","ease":"Power4.easeOut"},{"delay":"wait","speed":500,"frame":"999","to":"opacity:0;","ease":"Power3.easeInOut"}]'
+			data-textAlign="['inherit','inherit','inherit','inherit']"
+			data-paddingtop="[0,0,0,0]"
+			data-paddingright="[0,0,0,0]"
+			data-paddingbottom="[0,0,0,0]"
+			data-paddingleft="[0,0,0,0]"
+
+			style="z-index: 6; white-space: nowrap; font-size: 18px; line-height: 22px; font-weight: 400; color: #ffffff; letter-spacing: px;font-family:Poppins;">Trust Carefree Travel's experience for your dream getaway </div>
+
+		<!-- LAYER NR. 3 -->
+		<div class="tp-caption rev-btn rev-withicon " 
+			 id="slide-1-layer-9" 
+			 data-x="center" data-hoffset="5" 
+			 data-y="center" data-voffset="86" 
+						data-width="['auto']"
+			data-height="['auto']"
+ 
+			data-type="button" 
+			data-actions='[{"event":"click","action":"simplelink","target":"_self","url":"http:\/\/www.carefreetravel.co.uk\/offers\/","delay":""}]'
+			data-responsive_offset="on" 
+			data-responsive="off"
+			data-frames='[{"delay":1010,"speed":790,"frame":"0","from":"opacity:0;","to":"o:1;","ease":"Power3.easeInOut"},{"delay":"wait","speed":500,"frame":"999","to":"opacity:0;","ease":"Power3.easeInOut"},{"frame":"hover","speed":"0","ease":"Linear.easeNone","to":"o:1;rX:0;rY:0;rZ:0;z:0;","style":"c:rgb(70,191,238);bg:rgba(255,255,255,1);bs:solid;bw:0 0 0 0;"}]'
+			data-textAlign="['inherit','inherit','inherit','inherit']"
+			data-paddingtop="[12,12,12,12]"
+			data-paddingright="[35,35,35,35]"
+			data-paddingbottom="[12,12,12,12]"
+			data-paddingleft="[35,35,35,35]"
+
+			style="z-index: 7; white-space: nowrap; font-size: 17px; line-height: 17px; font-weight: 700; color: rgba(255,255,255,1); letter-spacing: px;font-family:Roboto;background-color:rgba(70,191,238,0.75);border-color:rgb(70,191,238);border-radius:30px 30px 30px 30px;outline:none;box-shadow:none;box-sizing:border-box;-moz-box-sizing:border-box;-webkit-box-sizing:border-box;cursor:pointer;">View Current Specials<i class="fa-icon-chevron-right"></i> </div>
+	</li>
+	<!-- SLIDE  -->
+	<li data-index="rs-3" data-transition="fade" data-slotamount="default" data-hideafterloop="0" data-hideslideonmobile="off"  data-easein="default" data-easeout="default" data-masterspeed="300"  data-thumb="http://www.carefreetravel.co.uk/wp-content/uploads/2017/11/paris-100x50.jpg"  data-rotate="0"  data-saveperformance="off"  data-title="Slide" data-param1="" data-param2="" data-param3="" data-param4="" data-param5="" data-param6="" data-param7="" data-param8="" data-param9="" data-param10="" data-description="">
+		<!-- MAIN IMAGE -->
+		<img src="http://www.carefreetravel.co.uk/wp-content/uploads/2017/11/paris.jpg"  alt="" title="paris"  width="1440" height="1080" data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat" class="rev-slidebg" data-no-retina>
+		<!-- LAYERS -->
+
+		<!-- LAYER NR. 4 -->
+		<div class="tp-caption   tp-resizeme" 
+			 id="slide-3-layer-2" 
+			 data-x="center" data-hoffset="" 
+			 data-y="center" data-voffset="-80" 
+						data-width="['auto']"
+			data-height="['auto']"
+ 
+			data-type="text" 
+			data-responsive_offset="on" 
+
+			data-frames='[{"delay":1000,"speed":800,"frame":"0","from":"z:0;rX:0;rY:0;rZ:0;sX:0.8;sY:0.8;skX:0;skY:0;opacity:0;","to":"o:1;","ease":"Power4.easeOut"},{"delay":"wait","speed":500,"frame":"999","to":"opacity:0;","ease":"Power3.easeInOut"}]'
+			data-textAlign="['inherit','inherit','inherit','inherit']"
+			data-paddingtop="[0,0,0,0]"
+			data-paddingright="[0,0,0,0]"
+			data-paddingbottom="[0,0,0,0]"
+			data-paddingleft="[0,0,0,0]"
+
+			style="z-index: 5; white-space: nowrap; font-size: 80px; line-height: 22px; font-weight: 700; color: rgba(255,255,255,1); letter-spacing: px;font-family:Poppins;">Where are you going? </div>
+
+		<!-- LAYER NR. 5 -->
+		<div class="tp-caption   tp-resizeme" 
+			 id="slide-3-layer-3" 
+			 data-x="center" data-hoffset="" 
+			 data-y="center" data-voffset="12" 
+						data-width="['auto']"
+			data-height="['auto']"
+			data-visibility="['on','on','on','off']"
+ 
+			data-type="text" 
+			data-responsive_offset="on" 
+
+			data-frames='[{"delay":1000,"speed":800,"frame":"0","from":"z:0;rX:0;rY:0;rZ:0;sX:0.8;sY:0.8;skX:0;skY:0;opacity:0;","to":"o:1;","ease":"Power4.easeOut"},{"delay":"wait","speed":500,"frame":"999","to":"opacity:0;","ease":"Power3.easeInOut"}]'
+			data-textAlign="['inherit','inherit','inherit','inherit']"
+			data-paddingtop="[0,0,0,0]"
+			data-paddingright="[0,0,0,0]"
+			data-paddingbottom="[0,0,0,0]"
+			data-paddingleft="[0,0,0,0]"
+
+			style="z-index: 6; white-space: nowrap; font-size: 18px; line-height: 22px; font-weight: 400; color: #ffffff; letter-spacing: px;font-family:Poppins;">Trust Carefree Travel's experience for your dream getaway </div>
+
+		<!-- LAYER NR. 6 -->
+		<div class="tp-caption rev-btn rev-withicon " 
+			 id="slide-3-layer-9" 
+			 data-x="center" data-hoffset="5" 
+			 data-y="center" data-voffset="86" 
+						data-width="['auto']"
+			data-height="['auto']"
+ 
+			data-type="button" 
+			data-actions='[{"event":"click","action":"simplelink","target":"_self","url":"http:\/\/www.carefreetravel.co.uk\/offers\/","delay":""}]'
+			data-responsive_offset="on" 
+			data-responsive="off"
+			data-frames='[{"delay":1010,"speed":790,"frame":"0","from":"opacity:0;","to":"o:1;","ease":"Power3.easeInOut"},{"delay":"wait","speed":500,"frame":"999","to":"opacity:0;","ease":"Power3.easeInOut"},{"frame":"hover","speed":"0","ease":"Linear.easeNone","to":"o:1;rX:0;rY:0;rZ:0;z:0;","style":"c:rgb(70,191,238);bg:rgba(255,255,255,1);bs:solid;bw:0 0 0 0;"}]'
+			data-textAlign="['inherit','inherit','inherit','inherit']"
+			data-paddingtop="[12,12,12,12]"
+			data-paddingright="[35,35,35,35]"
+			data-paddingbottom="[12,12,12,12]"
+			data-paddingleft="[35,35,35,35]"
+
+			style="z-index: 7; white-space: nowrap; font-size: 17px; line-height: 17px; font-weight: 700; color: rgba(255,255,255,1); letter-spacing: px;font-family:Roboto;background-color:rgba(70,191,238,0.75);border-color:rgb(70,191,238);border-radius:30px 30px 30px 30px;outline:none;box-shadow:none;box-sizing:border-box;-moz-box-sizing:border-box;-webkit-box-sizing:border-box;cursor:pointer;">View Current Specials<i class="fa-icon-chevron-right"></i> </div>
+	</li>
+</ul>
+<script>var htmlDiv = document.getElementById("rs-plugin-settings-inline-css"); var htmlDivCss="";
+						if(htmlDiv) {
+							htmlDiv.innerHTML = htmlDiv.innerHTML + htmlDivCss;
+						}else{
+							var htmlDiv = document.createElement("div");
+							htmlDiv.innerHTML = "<style>" + htmlDivCss + "</style>";
+							document.getElementsByTagName("head")[0].appendChild(htmlDiv.childNodes[0]);
+						}
+					</script>
+<div class="tp-bannertimer tp-bottom" style="visibility: hidden !important;"></div>	</div>
+<script>var htmlDiv = document.getElementById("rs-plugin-settings-inline-css"); var htmlDivCss="";
+				if(htmlDiv) {
+					htmlDiv.innerHTML = htmlDiv.innerHTML + htmlDivCss;
+				}else{
+					var htmlDiv = document.createElement("div");
+					htmlDiv.innerHTML = "<style>" + htmlDivCss + "</style>";
+					document.getElementsByTagName("head")[0].appendChild(htmlDiv.childNodes[0]);
+				}
+			</script>
+		<script type="text/javascript">
+setREVStartSize({c: jQuery('#rev_slider_1_1'), gridwidth: [1240], gridheight: [668], sliderLayout: 'fullwidth'});
+			
+var revapi1,
+	tpj=jQuery;
+			
+tpj(document).ready(function() {
+	if(tpj("#rev_slider_1_1").revolution == undefined){
+		revslider_showDoubleJqueryError("#rev_slider_1_1");
+	}else{
+		revapi1 = tpj("#rev_slider_1_1").show().revolution({
+			sliderType:"standard",
+			jsFileLocation:"//www.carefreetravel.co.uk/wp-content/plugins/revslider/public/assets/js/",
+			sliderLayout:"fullwidth",
+			dottedOverlay:"none",
+			delay:9000,
+			navigation: {
+				keyboardNavigation:"off",
+				keyboard_direction: "horizontal",
+				mouseScrollNavigation:"off",
+ 							mouseScrollReverse:"default",
+				onHoverStop:"off",
+				arrows: {
+					style:"uranus",
+					enable:true,
+					hide_onmobile:false,
+					hide_onleave:true,
+					hide_delay:200,
+					hide_delay_mobile:1200,
+					tmp:'',
+					left: {
+						h_align:"left",
+						v_align:"center",
+						h_offset:20,
+						v_offset:0
+					},
+					right: {
+						h_align:"right",
+						v_align:"center",
+						h_offset:20,
+						v_offset:0
+					}
+				}
+			},
+			visibilityLevels:[1240,1024,778,480],
+			gridwidth:1240,
+			gridheight:668,
+			lazyType:"none",
+			shadow:0,
+			spinner:"spinner3",
+			stopLoop:"off",
+			stopAfterLoops:-1,
+			stopAtSlide:-1,
+			shuffle:"off",
+			autoHeight:"off",
+			disableProgressBar:"on",
+			hideThumbsOnMobile:"off",
+			hideSliderAtLimit:0,
+			hideCaptionAtLimit:0,
+			hideAllCaptionAtLilmit:0,
+			debugMode:false,
+			fallbacks: {
+				simplifyAll:"off",
+				nextSlideOnWindowFocus:"off",
+				disableFocusListener:false,
+			}
+		});
+	}
+	
+});	/*ready*/
+</script>
+		<script>
+					var htmlDivCss = '	#rev_slider_1_1_wrapper .tp-loader.spinner3 div { background-color: #ff4a52 !important; } ';
+					var htmlDiv = document.getElementById('rs-plugin-settings-inline-css');
+					if(htmlDiv) {
+						htmlDiv.innerHTML = htmlDiv.innerHTML + htmlDivCss;
+					}
+					else{
+						var htmlDiv = document.createElement('div');
+						htmlDiv.innerHTML = '<style>' + htmlDivCss + '</style>';
+						document.getElementsByTagName('head')[0].appendChild(htmlDiv.childNodes[0]);
+					}
+					</script>
+					<script>
+					var htmlDivCss = unescape("%23rev_slider_1_1%20.uranus.tparrows%20%7B%0A%20%20width%3A50px%3B%0A%20%20height%3A50px%3B%0A%20%20background%3Argba%28255%2C255%2C255%2C0%29%3B%0A%20%7D%0A%20%23rev_slider_1_1%20.uranus.tparrows%3Abefore%20%7B%0A%20width%3A50px%3B%0A%20height%3A50px%3B%0A%20line-height%3A50px%3B%0A%20font-size%3A40px%3B%0A%20transition%3Aall%200.3s%3B%0A-webkit-transition%3Aall%200.3s%3B%0A%20%7D%0A%20%0A%20%20%23rev_slider_1_1%20.uranus.tparrows%3Ahover%3Abefore%20%7B%0A%20%20%20%20opacity%3A0.75%3B%0A%20%20%7D%0A");
+					var htmlDiv = document.getElementById('rs-plugin-settings-inline-css');
+					if(htmlDiv) {
+						htmlDiv.innerHTML = htmlDiv.innerHTML + htmlDivCss;
+					}
+					else{
+						var htmlDiv = document.createElement('div');
+						htmlDiv.innerHTML = '<style>' + htmlDivCss + '</style>';
+						document.getElementsByTagName('head')[0].appendChild(htmlDiv.childNodes[0]);
+					}
+				  </script>
+				</div><!-- END REVOLUTION SLIDER --></div>
+<div class="standard_wrapper"><div  class="one_fourth withsmallpadding ppb_text" style="text-align:left;padding:40px 0 40px 0;" ><div class="standard_wrapper"><div class="page_content_wrapper"><div class="inner"><div style="margin:auto;width:100%"><p><img class="alignnone size-full wp-image-4072" src="http://www.carefreetravel.co.uk/wp-content/uploads/2018/03/phone-us.jpg" alt="" width="289" height="100" /></p>
+</div></div></div></div></div></div>
+<div class="standard_wrapper"><div  class="one_fourth withsmallpadding ppb_text" style="text-align:left;padding:40px 0 40px 0;" ><div class="standard_wrapper"><div class="page_content_wrapper"><div class="inner"><div style="margin:auto;width:100%"><p><a href="http://www.carefreetravel.co.uk/contact-us/"><img class="alignnone size-full wp-image-4073" src="http://www.carefreetravel.co.uk/wp-content/uploads/2018/03/email-us-centre.jpg" alt="" width="289" height="100" /></a></p>
+</div></div></div></div></div></div>
+<div class="standard_wrapper"><div  class="one_fourth withsmallpadding ppb_text" style="text-align:left;padding:40px 0 40px 0;" ><div class="standard_wrapper"><div class="page_content_wrapper"><div class="inner"><div style="margin:auto;width:100%"><p><a href="http://www.carefreetravel.co.uk/contact-us/"><img class="alignnone size-full wp-image-4074" src="http://www.carefreetravel.co.uk/wp-content/uploads/2018/03/call-in-store-centre.jpg" alt="" width="289" height="100" /></a></p>
+</div></div></div></div></div></div>
+<div class="standard_wrapper"><div  class="one_fourth last withsmallpadding ppb_text" style="text-align:left;padding:40px 0 40px 0;" ><div class="standard_wrapper"><div class="page_content_wrapper"><div class="inner"><div style="margin:auto;width:100%"><a href="javascript:Boxzilla.show(4045)" class=""><img class="alignnone size-full wp-image-4075" src="http://www.carefreetravel.co.uk/wp-content/uploads/2018/03/newsletter-centre.jpg" alt="" width="289" height="100" /></a>
+</div></div></div></div></div></div>
+<div  class="one withsmallpadding ppb_header " style="text-align:center;padding:0px 0 0px 0;margin-bottom:50px;" ><div class="standard_wrapper"><div class="page_content_wrapper"><div class="inner"><div style="margin:auto;width:100%"><h2 class="ppb_title" style="">Our Latest Special Offers</h2><div class="page_tagline" style="">Great locations and even better value</div></div></div></div></div></div>
+<div  class="ppb_tour_classic one nopadding " style="margin-bottom:50px;" ><div class="page_content_wrapper page_main_content sidebar_content full_width fixed_column"><div class="standard_wrapper"><div id="1527055596415940890" class="portfolio_filter_wrapper gallery classic three_cols" data-columns="3"><div class="element grid classic3_cols animated1"><div class="one_third gallery3 classic static filterable portfolio_type themeborder"><a class="tour_image" href="http://www.carefreetravel.co.uk/trip/ultimate-arctic-summer-adventure-belugas-polar-bears/">
+					<img src="http://www.carefreetravel.co.uk/wp-content/uploads/2018/05/darkroomsg-474585-unsplash-700x466.jpg" alt="Ultimate Arctic Summer Adventure, Beluga&#8217;s &#038; Polar Bears" /><div class="tour_price ">£3,654</div></a><div class="portfolio_info_wrapper">
+        		    <a class="tour_link" href="http://www.carefreetravel.co.uk/trip/ultimate-arctic-summer-adventure-belugas-polar-bears/"><h4>Ultimate Arctic Summer Adventure, Beluga&#8217;s &#038; Polar Bears</h4></a><div class="tour_excerpt"><p>From Only £3654pp - Based on 11th July 2018 departing from Dublin.
+
+Based on 2 adults sharing. REF: 1566954
+
+Carefree REF: syadiloh nacirema 18.05.18
+
+*All offers displayed are correct on date of publication. Prices are subject to availability. …</p></div><div class="tour_attribute_wrapper"><div class="tour_attribute_days">
+			    			    <span class="ti-time"></span>7&nbsp;days</div></div>
+        		    <br class="clear"/>
+				</div></div></div><div class="element grid classic3_cols animated2"><div class="one_third gallery3 classic static filterable portfolio_type themeborder"><a class="tour_image" href="http://www.carefreetravel.co.uk/trip/great-bear-nature-tour/">
+					<img src="http://www.carefreetravel.co.uk/wp-content/uploads/2018/05/hans-veth-385489-unsplash-700x466.jpg" alt="Great Bear Nature Tour" /><div class="tour_price ">£2,644</div></a><div class="portfolio_info_wrapper">
+        		    <a class="tour_link" href="http://www.carefreetravel.co.uk/trip/great-bear-nature-tour/"><h4>Great Bear Nature Tour</h4></a><div class="tour_excerpt"><p>From Only £2644pp - Based on 09th July 2018 Departing from Dublin
+
+Based on 2 adults sharing. REF: 1566949
+
+Carefree REF: syadiloh nacirema 18.05.18
+
+*All offers displayed are correct on date of publication. Prices are subject to availability. …</p></div><div class="tour_attribute_wrapper"><div class="tour_attribute_days">
+			    			    <span class="ti-time"></span>8&nbsp;days</div></div>
+        		    <br class="clear"/>
+				</div></div></div><div class="element grid classic3_cols animated3"><div class="one_third gallery3 classic static filterable portfolio_type themeborder"><a class="tour_image" href="http://www.carefreetravel.co.uk/trip/pacific-rim-whales-bears/">
+					<img src="http://www.carefreetravel.co.uk/wp-content/uploads/2018/05/davide-cantelli-143763-unsplash-700x466.jpg" alt="Pacific Rim, Whales &#038; Bears" /><div class="tour_price ">£1,504</div></a><div class="portfolio_info_wrapper">
+        		    <a class="tour_link" href="http://www.carefreetravel.co.uk/trip/pacific-rim-whales-bears/"><h4>Pacific Rim, Whales &#038; Bears</h4></a><div class="tour_excerpt"><p>From Only £1504pp - Based on 02nd October 2018 Departing from Dublin.&nbsp;
+
+Based on two adults sharing - REF: 1566952
+
+Carefree REF: syadiloh nacirema 18.05.18
+
+*All offers displayed are correct on date of publication. Prices are subject to …</p></div><div class="tour_attribute_wrapper"><div class="tour_attribute_days">
+			    			    <span class="ti-time"></span>7&nbsp;days</div></div>
+        		    <br class="clear"/>
+				</div></div></div><div class="element grid classic3_cols animated4"><div class="one_third gallery3 classic static filterable portfolio_type themeborder"><a class="tour_image" href="http://www.carefreetravel.co.uk/trip/3-4-venice-city-breaks/">
+					<img src="http://www.carefreetravel.co.uk/wp-content/uploads/2018/05/mathias-adam-600700-unsplash-700x466.jpg" alt="3* &#038; 4* Venice City Breaks" /><div class="tour_price ">£179</div></a><div class="portfolio_info_wrapper">
+        		    <a class="tour_link" href="http://www.carefreetravel.co.uk/trip/3-4-venice-city-breaks/"><h4>3* &#038; 4* Venice City Breaks</h4></a><div class="tour_excerpt"><p>3* Hotel Venezia - 3 Nights
+
+02nd &amp; 23rd November 2018 - From Only £189pp
+
+09th &amp; 16th November 2018 - From Only £179pp
+
+3* Hotel Venezia - 4 Nights
+
+05th &amp; 12th November 2018 - From Only £199pp
+
+19th …</p></div><div class="tour_attribute_wrapper"></div>
+        		    <br class="clear"/>
+				</div></div></div><div class="element grid classic3_cols animated5"><div class="one_third gallery3 classic static filterable portfolio_type themeborder"><a class="tour_image" href="http://www.carefreetravel.co.uk/trip/celebrate-the-new-year-county-clare-style/">
+					<img src="http://www.carefreetravel.co.uk/wp-content/uploads/2018/05/beatriz-perez-moya-513496-unsplash-700x466.jpg" alt="Celebrate The New Year &#8211; County Clare Style" /><div class="tour_price ">£398</div></a><div class="portfolio_info_wrapper">
+        		    <a class="tour_link" href="http://www.carefreetravel.co.uk/trip/celebrate-the-new-year-county-clare-style/"><h4>Celebrate The New Year &#8211; County Clare Style</h4></a><div class="tour_excerpt"><p>From Only £398pp - Based on 29th December 2018
+
+Carefree Ref snoitulos Levart 17.05.18
+
+*All offers displayed are correct on date of publication. Prices are subject to availability. When they’re gone; they’re gone. Many other dates and …</p></div><div class="tour_attribute_wrapper"><div class="tour_attribute_days">
+			    			    <span class="ti-time"></span>5&nbsp;days</div></div>
+        		    <br class="clear"/>
+				</div></div></div><div class="element grid classic3_cols animated6"><div class="one_third gallery3 classic static filterable portfolio_type themeborder"><a class="tour_image" href="http://www.carefreetravel.co.uk/trip/harrogate-castle-howard-an-old-fashioned-christmas/">
+					<img src="http://www.carefreetravel.co.uk/wp-content/uploads/2018/05/christmas-market-550323_1920-700x466.jpg" alt="Harrogate &#038; Castle Howard &#8211; An Old Fashioned Christmas" /><div class="tour_price ">£319</div></a><div class="portfolio_info_wrapper">
+        		    <a class="tour_link" href="http://www.carefreetravel.co.uk/trip/harrogate-castle-howard-an-old-fashioned-christmas/"><h4>Harrogate &#038; Castle Howard &#8211; An Old Fashioned Christmas</h4></a><div class="tour_excerpt"><p>From Only £319pp - Based on 07th December 2018 Departure.&nbsp;
+
+Carefree Ref snoitulos Levart 17.05.18
+
+*All offers displayed are correct on date of publication. Prices are subject to availability. When they’re gone; they’re gone. Many other dates …</p></div><div class="tour_attribute_wrapper"><div class="tour_attribute_days">
+			    			    <span class="ti-time"></span>4&nbsp;days</div></div>
+        		    <br class="clear"/>
+				</div></div></div></div></div></div></div>
+<div id="cruise" class="one withsmallpadding ppb_header " style="text-align:center;padding:0px 0 0px 0;margin-top:70px;" ><div class="standard_wrapper"><div class="page_content_wrapper"><div class="inner"><div style="margin:auto;width:100%"><h2 class="ppb_title" style="">Cruises of a Lifetime</h2><div class="page_tagline" style="">Explore great locations in style and comfort</div></div></div></div></div></div>
+<div  class="ppb_destination_grid one nopadding " style="margin-top:50px;margin-bottom:50px;" ><div class="page_content_wrapper page_main_content sidebar_content full_width fixed_column"><div class="standard_wrapper"><div id="1527055596562237407" class="portfolio_filter_wrapper gallery grid portrait four_cols" data-columns="4"><div class="element grid baseline classic4_cols animated1"><div class="one_fourth gallery4 grid static filterable portfolio_type themeborder" style="background-image:url(http://www.carefreetravel.co.uk/wp-content/uploads/2018/03/2017-Star-Flyer-2-700x466.jpg);"><a class="tour_image" href="http://www.carefreetravel.co.uk/package/cruise/star-clippers-tall-ship-cruise/"></a><div class="portfolio_info_wrapper"><div class="portfolio_info_content"><h3>Star Clippers &#8211; Tall Ship Cruise</h3></div></div></div></div><div class="element grid baseline classic4_cols animated2"><div class="one_fourth gallery4 grid static filterable portfolio_type themeborder" style="background-image:url(http://www.carefreetravel.co.uk/wp-content/uploads/2018/03/ben-o-bro-361591-unsplash-700x466.jpg);"><a class="tour_image" href="http://www.carefreetravel.co.uk/package/cruise/luxury-cruising-2/"></a><div class="portfolio_info_wrapper"><div class="portfolio_info_content"><h3>Luxury Cruising</h3></div></div></div></div><div class="element grid baseline classic4_cols animated3"><div class="one_fourth gallery4 grid static filterable portfolio_type themeborder" style="background-image:url(http://www.carefreetravel.co.uk/wp-content/uploads/2018/03/tanya-tulupenko-133152-unsplash-700x466.jpg);"><a class="tour_image" href="http://www.carefreetravel.co.uk/package/cruise/luxury-cruising/"></a><div class="portfolio_info_wrapper"><div class="portfolio_info_content"><h3>River Cruising</h3></div></div></div></div><div class="element grid baseline classic4_cols animated4"><div class="one_fourth gallery4 grid static filterable portfolio_type themeborder" style="background-image:url(http://www.carefreetravel.co.uk/wp-content/uploads/2017/12/honeymoon-cruise-700x466.jpg);"><a class="tour_image" href="http://www.carefreetravel.co.uk/package/cruise/western-mediterranean/"></a><div class="portfolio_info_wrapper"><div class="portfolio_info_content"><h3>Western Mediterranean</h3></div></div></div></div></div></div></div></div>
+<div  class="ppb_image_two_third_fullwidth one" style="background-color:#4cbbee;color:#ffffff;" ><div class="two_third_bg parallax" data-jarallax-video="https://www.youtube.com/watch?v=tK7liI1mdxU"  style="height:600px;"></div><div class="one_third_bg" style="height:600px;"><div class="center_wrapper"><div class="inner_content"><h2 class="ppb_title" style="color:#ffffff;">Why Carefree Travel? It&#039;s simple..</h2><div class="page_tagline" style="color:#ffffff;">Carefree Travel have been an Independent Travel Agency for over 30 years.<br />
+Our travel experts have over 150 years combined travel experience, coupled with first hand-knowledge to help create, the holiday of your dreams.</div></div></div></div><br class="clear"/></div>
+<div class="standard_wrapper"><div  class="one_third withsmallpadding ppb_text" style="text-align:left;padding:40px 0 40px 0;" ><div class="standard_wrapper"><div class="page_content_wrapper"><div class="inner"><div style="margin:auto;width:100%"><p><img src="http://www.carefreetravel.co.uk/wp-content/uploads/2017/12/vtemp-300x69.jpg" alt="" width="300" height="69" class="alignnone size-medium wp-image-278" /></p>
+</div></div></div></div></div></div>
+<div class="standard_wrapper"><div  class="one_third withsmallpadding ppb_text" style="text-align:left;padding:40px 0 40px 0;" ><div class="standard_wrapper"><div class="page_content_wrapper"><div class="inner"><div style="margin:auto;width:100%"><p><a href="https://abta.com/find-a-member" rel="noopener" target="_blank"><img src="http://www.carefreetravel.co.uk/wp-content/uploads/2018/01/abta-logo.jpg" alt="" width="261" height="125" class="aligncenter size-full wp-image-283" /></a></p>
+</div></div></div></div></div></div>
+<div class="standard_wrapper"><div  class="one_third last withsmallpadding ppb_text" style="text-align:left;padding:40px 0 40px 0;" ><div class="standard_wrapper"><div class="page_content_wrapper"><div class="inner"><div style="margin:auto;width:100%"><p><img src="http://www.carefreetravel.co.uk/wp-content/uploads/2017/12/Experts-in-Cruising-logo_Page_3-300x93.jpg" alt="" width="300" height="93" class="aligncenter size-medium wp-image-281" /></p>
+</div></div></div></div></div></div>
+</div>
+
+
+    <div class="one ppb_fullwidth_button footer_call" id="footer_call">
+        <div class="standard_wrapper">
+            <div class="page_content_wrapper">
+				<h4 class="contactboxleft">Need help or expert advice? Give us a call from the UK on <a href="tel:028 66 322116">(028) 66 322116</a>&nbsp; or from the Republic of Ireland on <a href="tel:048 66 322116">(048) 66 322116</a></h4>
+<h4 class="contactboxright"><a class="button" href="/contact-us/">Contact Carefree</a></h4>            </div>
+        </div>
+    </div>
+
+
+	        <div id="footer"
+             class=" ppb_wrapper">
+            <ul class="sidebar_widget four">
+				<li id="text-2" class="widget widget_text"><h2 class="widgettitle">Carefree Travel</h2>
+			<div class="textwidget"><p>Townhall Street,<br />
+Enniskillen,<br />
+Co Fermanagh,<br />
+BT74 7BA<br />
+<strong>Tel:</strong> <a href="tel:00 44 28 66 322116">(028) 66 322116</a><br />
+<strong>ROI:</strong> <a href="tel:00 353 48 66 322116">(048) 66 322116</a><br />
+ABTA: 18199</p>
+</div>
+		</li>
+<li id="text-3" class="widget widget_text"><h2 class="widgettitle">Facebook</h2>
+			<div class="textwidget"><div class="fb-page" data-href="https://www.facebook.com/carefreetravel/" data-tabs="timeline" data-height="250" data-small-header="false" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="false">
+<blockquote cite="https://www.facebook.com/carefreetravel/" class="fb-xfbml-parse-ignore"><p><a href="https://www.facebook.com/carefreetravel/">Carefree Travel</a></p></blockquote>
+</div>
+<p><script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = 'https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.11&appId=150292621798362';
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script></p>
+<div id="fb-root"></div>
+</div>
+		</li>
+<li id="text-4" class="widget widget_text"><h2 class="widgettitle">Twitter</h2>
+			<div class="textwidget"><p><a class="twitter-timeline" href="https://twitter.com/carefreetravels?ref_src=twsrc%5Etfw" data-height="250">Tweets by carefreetravels</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></p>
+</div>
+		</li>
+<li id="text-5" class="widget widget_text"><h2 class="widgettitle">Foreign Travel Advice</h2>
+			<div class="textwidget"><p>The Foreign &amp; Commonwealth Office (FCO) issues travel advice on destinations, which includes information on passports, visas, health, safety and security and more.</p>
+<p>For advice please visit <strong><a href="https://www.gov.uk/foreign-travel-advice" target="_blank" rel="noopener">https://www.gov.uk/foreign-travel-advice</a></strong>.</p>
+</div>
+		</li>
+            </ul>
+        </div>
+		
+	
+	        <div class="footer_bar  ppb_wrapper ">
+
+            <div class="footer_bar_wrapper ">
+				<div class="menu-footer-bottom-container"><ul id="footer_menu" class="footer_nav"><li id="menu-item-719" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-719"><a target="_blank" href="https://www.gov.uk/foreign-travel-advice">Foreign &#038; Commonwealth Office Travel Advice</a></li>
+<li id="menu-item-253" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-253"><a href="http://www.carefreetravel.co.uk/terms-conditions/">Terms &#038; Conditions</a></li>
+<li id="menu-item-250" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-250"><a href="http://www.carefreetravel.co.uk/privacy-policy/">Privacy Policy</a></li>
+<li id="menu-item-254" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-254"><a href="http://www.carefreetravel.co.uk/contact-us/">Contact us</a></li>
+</ul></div>				<div id="copyright">© Copyright Carefree Travel | <a href="https://www.avenir.ie" target="blank">Site Credits</a></div><br class="clear"/>
+				                    <a id="toTop" href="javascript:;"><i class="fa fa-angle-up"></i></a>
+					            </div>
+        </div>
+		    </div>
+
+	
+<div id="side_menu_wrapper" class="overlay_background">
+    <a id="close_share" href="javascript:;"><span class="ti-close"></span></a>
+	
+	</div>
+
+
+
+<!-- ngg_resource_manager_marker --><script type='text/javascript' src='http://www.carefreetravel.co.uk/wp-includes/js/jquery/ui/core.min.js'></script>
+<script type='text/javascript' src='http://www.carefreetravel.co.uk/wp-includes/js/jquery/ui/datepicker.min.js'></script>
+<script type='text/javascript'>
+jQuery(document).ready(function(jQuery){jQuery.datepicker.setDefaults({"closeText":"Close","currentText":"Today","monthNames":["January","February","March","April","May","June","July","August","September","October","November","December"],"monthNamesShort":["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"nextText":"Next","prevText":"Previous","dayNames":["Sunday","Monday","Tuesday","Wednesday","Thursday","Friday","Saturday"],"dayNamesShort":["Sun","Mon","Tue","Wed","Thu","Fri","Sat"],"dayNamesMin":["S","M","T","W","T","F","S"],"dateFormat":"dS MM yy","firstDay":1,"isRTL":false});});
+</script>
+<script type='text/javascript' src='http://www.carefreetravel.co.uk/wp-content/plugins/booked/assets/js/spin.min.js'></script>
+<script type='text/javascript' src='http://www.carefreetravel.co.uk/wp-content/plugins/booked/assets/js/spin.jquery.js'></script>
+<script type='text/javascript' src='http://www.carefreetravel.co.uk/wp-content/plugins/booked/assets/js/tooltipster/js/jquery.tooltipster.min.js'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var booked_js_vars = {"ajax_url":"http:\/\/www.carefreetravel.co.uk\/wp-admin\/admin-ajax.php","profilePage":"","publicAppointments":"","i18n_confirm_appt_delete":"Are you sure you want to cancel this appointment?","i18n_please_wait":"Please wait ...","i18n_wrong_username_pass":"Wrong username\/password combination.","i18n_fill_out_required_fields":"Please fill out all required fields.","i18n_guest_appt_required_fields":"Please enter your name to book an appointment.","i18n_appt_required_fields":"Please enter your name, your email address and choose a password to book an appointment.","i18n_appt_required_fields_guest":"Please fill in all \"Information\" fields.","i18n_password_reset":"Please check your email for instructions on resetting your password.","i18n_password_reset_error":"That username or email is not recognized."};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://www.carefreetravel.co.uk/wp-content/plugins/booked/assets/js/functions.js'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var wpcf7 = {"apiSettings":{"root":"http:\/\/www.carefreetravel.co.uk\/wp-json\/contact-form-7\/v1","namespace":"contact-form-7\/v1"},"recaptcha":{"messages":{"empty":"Please verify that you are not a robot."}}};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://www.carefreetravel.co.uk/wp-content/plugins/contact-form-7/includes/js/scripts.js'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var wc_add_to_cart_params = {"ajax_url":"\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/?wc-ajax=%%endpoint%%","i18n_view_cart":"View basket","cart_url":"http:\/\/www.carefreetravel.co.uk\/basket\/","is_cart":"","cart_redirect_after_add":"no"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://www.carefreetravel.co.uk/wp-content/plugins/woocommerce/assets/js/frontend/add-to-cart.min.js'></script>
+<script type='text/javascript' src='http://www.carefreetravel.co.uk/wp-content/plugins/woocommerce/assets/js/jquery-blockui/jquery.blockUI.min.js'></script>
+<script type='text/javascript' src='http://www.carefreetravel.co.uk/wp-content/plugins/woocommerce/assets/js/js-cookie/js.cookie.min.js'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var woocommerce_params = {"ajax_url":"\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/?wc-ajax=%%endpoint%%"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://www.carefreetravel.co.uk/wp-content/plugins/woocommerce/assets/js/frontend/woocommerce.min.js'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var wc_cart_fragments_params = {"ajax_url":"\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/?wc-ajax=%%endpoint%%","cart_hash_key":"wc_cart_hash_9aebec775756f740868fcb41b5004c53","fragment_name":"wc_fragments_9aebec775756f740868fcb41b5004c53"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://www.carefreetravel.co.uk/wp-content/plugins/woocommerce/assets/js/frontend/cart-fragments.min.js'></script>
+<script type='text/javascript' src='http://www.carefreetravel.co.uk/wp-content/themes/grandtour/js/jquery.requestAnimationFrame.js'></script>
+<script type='text/javascript' src='http://www.carefreetravel.co.uk/wp-content/themes/grandtour/js/ilightbox.packed.js'></script>
+<script type='text/javascript' src='http://www.carefreetravel.co.uk/wp-content/themes/grandtour/js/jquery.easing.js'></script>
+<script type='text/javascript' src='http://www.carefreetravel.co.uk/wp-content/themes/grandtour/js/waypoints.min.js'></script>
+<script type='text/javascript' src='http://www.carefreetravel.co.uk/wp-content/themes/grandtour/js/jquery.isotope.js'></script>
+<script type='text/javascript' src='http://www.carefreetravel.co.uk/wp-content/themes/grandtour/js/jquery.masory.js'></script>
+<script type='text/javascript' src='http://www.carefreetravel.co.uk/wp-content/themes/grandtour/js/jquery.tooltipster.min.js'></script>
+<script type='text/javascript' src='http://www.carefreetravel.co.uk/wp-content/themes/grandtour/js/jarallax.js'></script>
+<script type='text/javascript' src='http://www.carefreetravel.co.uk/wp-content/themes/grandtour/js/jquery.sticky-kit.min.js'></script>
+<script type='text/javascript' src='http://www.carefreetravel.co.uk/wp-content/themes/grandtour/js/jquery.stellar.min.js'></script>
+<script type='text/javascript' src='http://www.carefreetravel.co.uk/wp-content/themes/grandtour/js/jquery.cookie.js'></script>
+<script type='text/javascript' src='http://www.carefreetravel.co.uk/wp-content/themes/grandtour/js/custom_plugins.js'></script>
+<script type='text/javascript' src='http://www.carefreetravel.co.uk/wp-content/themes/grandtour/js/custom.js'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var boxzilla_options = {"testMode":"","boxes":[{"id":4045,"icon":"&times;","content":"","css":{"background_color":"#f9f9f9","width":524,"border_color":"#4ac0ee","border_width":2,"position":"center"},"trigger":false,"animation":"fade","cookie":{"triggered":0,"dismissed":0},"rehide":false,"position":"center","screenWidthCondition":null,"closable":true,"post":{"id":4045,"title":"Mailchimp Signup","slug":"mailchimp-signup"}}]};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://www.carefreetravel.co.uk/wp-content/plugins/boxzilla/assets/js/script.min.js'></script>
+<script type='text/javascript' src='http://www.carefreetravel.co.uk/wp-includes/js/wp-embed.min.js'></script>
+<script type='text/javascript' src='http://www.carefreetravel.co.uk/wp-content/themes/grandtour/js/custom_onepage.js'></script>
+<script type='text/javascript' src='http://www.carefreetravel.co.uk/wp-content/themes/grandtour/js/jarallax-video.js'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var mc4wp_forms_config = [];
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://www.carefreetravel.co.uk/wp-content/plugins/mailchimp-for-wp/assets/js/forms-api.min.js'></script>
+<!--[if lte IE 9]>
+<script type='text/javascript' src='http://www.carefreetravel.co.uk/wp-content/plugins/mailchimp-for-wp/assets/js/third-party/placeholders.min.js'></script>
+<![endif]-->
+<div style="display: none;"><div id="boxzilla-box-4045-content"><script>(function() {
+	if (!window.mc4wp) {
+		window.mc4wp = {
+			listeners: [],
+			forms    : {
+				on: function (event, callback) {
+					window.mc4wp.listeners.push({
+						event   : event,
+						callback: callback
+					});
+				}
+			}
+		}
+	}
+})();
+</script><!-- MailChimp for WordPress v4.2.1 - https://wordpress.org/plugins/mailchimp-for-wp/ --><form id="mc4wp-form-1" class="mc4wp-form mc4wp-form-4036" method="post" data-id="4036" data-name="Newsletter Signup" ><div class="mc4wp-form-fields"> <h3>
+    Subscribe to our Newsletter
+</h3>     
+<p><label>First Name</label>
+    <input name="FNAME" required="" type="text"></p>
+
+   <p> <label>Last Name</label>
+    <input name="LNAME" required="" type="text"></p>
+
+	<p><label>Email address: </label>
+	<input type="email" name="EMAIL" required /></p>
+
+  <p>  <label>What most interests you?</label>
+    <label class="checkbox-area">
+        <input name="INTERESTS[636546afd1][]" value="03d6e83404" type="checkbox"> <span>Summer Sun</span>
+    </label>
+    <label>
+        <input name="INTERESTS[636546afd1][]" value="8c698c7650" type="checkbox"> <span>Family</span>
+    </label>
+    <label>
+        <input name="INTERESTS[636546afd1][]" value="1bc3d0006d" type="checkbox"> <span>USA/Canada</span>
+    </label>
+    <label>
+        <input name="INTERESTS[636546afd1][]" value="f7730a6256" type="checkbox"> <span>Worldwide</span>
+    </label>
+    <label>
+        <input name="INTERESTS[636546afd1][]" value="5089a7ea70" type="checkbox"> <span>Cruises</span>
+    </label>
+    <label>
+        <input name="INTERESTS[636546afd1][]" value="f4194390d3" type="checkbox"> <span>River Cruises</span>
+    </label>
+    <label>
+        <input name="INTERESTS[636546afd1][]" value="1bb97413b3" type="checkbox"> <span>City Breaks</span>
+    </label>
+    <label>
+        <input name="INTERESTS[636546afd1][]" value="61a7191e24" type="checkbox"> <span>Something Different</span>
+    </label>
+    <label>
+        <input name="INTERESTS[636546afd1][]" value="a6cb869318" type="checkbox"> <span>Honeymoon</span>
+    </label>
+    <label>
+        <input name="INTERESTS[636546afd1][]" value="463efd8060" type="checkbox"> <span>Solo Traveller</span>
+    </label>
+    <label>
+        <input name="INTERESTS[636546afd1][]" value="6598e09292" type="checkbox"> <span>Escorted Tours</span>
+    </label>
+    <label>
+        <input name="INTERESTS[636546afd1][]" value="3e5cb76b90" type="checkbox"> <span>Ski</span>
+    </label>
+</p>
+
+
+	<p><input type="submit" value="Sign up" /></p>
+</div><label style="display: none !important;">Leave this field empty if you're human: <input type="text" name="_mc4wp_honeypot" value="" tabindex="-1" autocomplete="off" /></label><input type="hidden" name="_mc4wp_timestamp" value="1527055596" /><input type="hidden" name="_mc4wp_form_id" value="4036" /><input type="hidden" name="_mc4wp_form_element_id" value="mc4wp-form-1" /><div class="mc4wp-response"></div></form><!-- / MailChimp for WordPress Plugin -->
+</div></div><script>(function() {function addEventListener(element,event,handler) {
+	if(element.addEventListener) {
+		element.addEventListener(event,handler, false);
+	} else if(element.attachEvent){
+		element.attachEvent('on'+event,handler);
+	}
+}function maybePrefixUrlField() {
+	if(this.value.trim() !== '' && this.value.indexOf('http') !== 0) {
+		this.value = "http://" + this.value;
+	}
+}
+
+var urlFields = document.querySelectorAll('.mc4wp-form input[type="url"]');
+if( urlFields && urlFields.length > 0 ) {
+	for( var j=0; j < urlFields.length; j++ ) {
+		addEventListener(urlFields[j],'blur',maybePrefixUrlField);
+	}
+}/* test if browser supports date fields */
+var testInput = document.createElement('input');
+testInput.setAttribute('type', 'date');
+if( testInput.type !== 'date') {
+
+	/* add placeholder & pattern to all date fields */
+	var dateFields = document.querySelectorAll('.mc4wp-form input[type="date"]');
+	for(var i=0; i<dateFields.length; i++) {
+		if(!dateFields[i].placeholder) {
+			dateFields[i].placeholder = 'YYYY-MM-DD';
+		}
+		if(!dateFields[i].pattern) {
+			dateFields[i].pattern = '[0-9]{4}-(0[1-9]|1[012])-(0[1-9]|1[0-9]|2[0-9]|3[01])';
+		}
+	}
+}
+
+})();</script><link rel='stylesheet' property='stylesheet' id='rs-icon-set-fa-icon-css'  href='http://www.carefreetravel.co.uk/wp-content/plugins/revslider/public/assets/fonts/font-awesome/css/font-awesome.css' type='text/css' media='all' />			<script type="text/javascript">
+				function revslider_showDoubleJqueryError(sliderID) {
+					var errorMessage = "Revolution Slider Error: You have some jquery.js library include that comes after the revolution files js include.";
+					errorMessage += "<br> This includes make eliminates the revolution slider libraries, and make it not work.";
+					errorMessage += "<br><br> To fix it you can:<br>&nbsp;&nbsp;&nbsp; 1. In the Slider Settings -> Troubleshooting set option:  <strong><b>Put JS Includes To Body</b></strong> option to true.";
+					errorMessage += "<br>&nbsp;&nbsp;&nbsp; 2. Find the double jquery.js include and remove it.";
+					errorMessage = "<span style='font-size:16px;color:#BC0C06;'>" + errorMessage + "</span>";
+						jQuery(sliderID).show().html(errorMessage);
+				}
+			</script>
+			</body>
+</html>
+
+

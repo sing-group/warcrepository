@@ -1,0 +1,215 @@
+WARC/1.0
+WARC-Type: warcinfo
+WARC-Date: 2018-05-30T18:18:32Z
+WARC-Record-ID: <urn:uuid:1bd8d9a4-3ea8-44e5-a2c5-4d1ba349f6d1>
+WARC-All-Language: fr
+WARC-All-Content_type: text/html
+Content-Type: application/http;msgtype=response
+Content-Length: 46
+
+WARCProcessor by SING Group www.sing-group.com
+
+WARC/1.0
+WARC-Type: response
+WARC-Record-ID: <http://www.europes500.eu>
+WARC-Date: 20180530181832
+WARC-Target-URI: http://www.europes500.eu
+WARC-Language: fr
+Content-Type: application/http;msgtype=response
+Content-Length: 5288
+
+HTTP/1.1 200
+Content-Type:text/html
+
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+
+<html><!-- InstanceBegin template="/Templates/index.dwt" codeOutsideHTMLIsLocked="false" -->
+
+<head>
+
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+
+  <!-- InstanceBeginEditable name="Title" -->
+
+<title>*** EUROPE'S 500 ***</title>
+
+<script src="scripts/swfobject_modified.js" type="text/javascript"></script>
+
+<script src="scripts/flowplayer-3.2.6.min.js" type="text/javascript"></script>
+
+<!-- InstanceEndEditable -->
+
+<link href="scripts/all.css" rel="stylesheet" type="text/css">
+
+<script src="scripts/all.js" type="text/javascript"></script>
+
+</head>
+
+   
+
+<body>
+
+  
+
+<div id="position">
+
+	<div id="Logo"><a href="index.html"><img src="images/logo.gif" alt="Home"></a></div>
+
+   
+
+  <ul id="TopNav">
+
+    <li><a href="partner.html">Partner</a></li>
+
+    <li><a href="press.html">Press</a></li>
+
+    <li><a href="events.html">Events</a></li>
+
+    <li><a href="initiatives.html">Initiatives</a></li>
+
+    <li><a href="roundtable.html">Roundtable</a></li>
+
+    <li><a href="growth-summit.html">Growth Summit</a></li>
+
+    <li><a href="europes500-list.html">Europe's 500 List</a></li>
+
+    <li><a href="association.html">Association</a></li>
+
+    <li>Home</li>
+
+  </ul>
+
+  
+
+   
+
+  <div id="SubNavIndex">&nbsp;</div>
+
+  
+
+  <div id="Content">
+
+	<!-- InstanceBeginEditable name="Content" -->
+
+    <h1>Welcome</h1>
+    <p><font size=2>Europe&rsquo;s 500 is an organization and networking platform for European private growth
+       companies. </font size> </p>
+
+<p><font size=2>Each year Europe's 500, together with its partner IESE Business School,
+       publishes the list of the European high growth private companies, and organizes the "European Growth Summit" for European growth entrepreneurs.</font size></p>
+
+<p><font size=2>We celebrate these entrepreneurs and their innovative achievements at our annual Europe 500 awards ceremony held at the European Parliament in Brussel.</font size></p>
+ 
+    <p><font size=2>As Europe&rsquo;s most successful listing of high growth private companies, 
+        Europe's 500 has become the standard for recognition for entrepreneurial success.</font size><br>
+<p><font size=2><b> Europe's 500 <a href="https://docs.google.com/a/ctgrupo.com/forms/d/16jVIIZALrpBOVqxHDfWwTZccJCPcu8gQgAhJ9oCYxww/viewform" target="_blank">Application Form</a> to present a candidate company</b></font size></p>
+   </p>
+
+ <p> <a style="display:block;width:484px;height:260px" id="player"></a></p>
+
+ <script>
+		flowplayer("player", "/scripts/flowplayer.commercial-3.2.7.swf", {   key: '#@0de90df47252e6fca61',
+		  clip: {
+			url: './video/20111803_EU500.flv',
+			scaling: 'orig',
+			autoPlay: false, 
+			autoBuffering: true
+		  },
+
+		  plugins: {     
+
+			controls: { 
+			  url: '/scripts/flowplayer.controls-3.2.5.swf',
+			  bottom: '0',
+			  height: '22',
+			  backgroundColor: '#000000',
+			  backgroundGradient: 'high',
+			  progressColor: '#01417a',
+			  progressGradient: 'medium',
+			  bufferColor: '#333333',
+			  bufferGradient: 'medium',
+			  sliderColor: '#000000',
+			  sliderGradient: 'medium',
+			  buttonColor: '#ffffff',
+			  buttonOverColor: '#cf310d',
+			  timeColor: '#cccccc',
+			  durationColor: '#ffffff',
+			  autoHide: 'always', //never
+			  stop: true
+
+			}
+
+		  }
+
+		});
+
+		</script> 
+
+
+
+    <p><strong><a href="http://www.europes500.eu/growth-summit.html">Europe's 500 Conference and  Award Ceremony  2013<br>
+      </a></strong><strong>Re-think Europe's Role and how to maintain growth while consolidating </strong><br>
+      took place at the European Parliament in Brussels <strong>on March 21, 2013</strong></p>
+    <img src="images/regling_success_winners.jpg" width="476" height="128">
+    <span class="small" >Bild links: K. Regling, M.  Schoeller<br>
+        Bild Mitte: V. Wagner, P. Panagiotis, T. Diago, B. Twaalfhoven<br>
+      Bild rechts: G. Masfuroll, G.  Fuhrmann Intravis GmbH, I. Friedrich</span><br>
+      &nbsp;
+ 
+
+
+
+
+
+
+
+
+
+
+
+	
+<!-- InstanceEndEditable -->
+
+  </div>
+
+  <!--
+      
+  <div id="Login">
+
+    <h1><b>Login</b></h1>
+
+    <form name="Login" method="post" action="">
+
+      <label for="Log">Login</label><input id="Log" name="" type="text">
+
+      <label for="Password">Password</label><input id="Password" name="" type="text"><input id="Ok" name="" type="submit" value="ok">
+
+    </form>
+
+  </div>
+
+  -->
+
+  <div id="Contact">
+
+    <h1><b>Contact</b></h1>
+
+    <p><img src="images/bu_phone.gif" class="ContactImg"><b>+49 89 55277 106</b></p>
+
+    <p><img src="images/bu_mail.gif" class="ContactImg"><a href="mailto:office@europes500.com"><b>office@europes500.com</b></a></p>
+
+  </div>
+
+  <iframe id="NewsFrame" scrolling="no" frameborder="0" src="http://www.europes500.eu/_news2.html"></iframe>
+
+  <div id="Foot"><img src="images/bu_contact.gif" width="19" height="15"><a href="contact.html">Contact</a><img src="images/bu_imprint.gif" width="15" height="15"><a href="imprint.html">Imprint</a></div>
+
+</div>
+
+
+
+</body>
+
+<!-- InstanceEnd --></html>
+

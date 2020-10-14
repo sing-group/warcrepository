@@ -1,0 +1,50 @@
+WARC/1.0
+WARC-Type: warcinfo
+WARC-Date: 2018-05-30T18:18:32Z
+WARC-All-Language: fr
+WARC-All-Content_type: text/html
+WARC-Record-ID: <urn:uuid:789e8540-463d-4035-9354-bec825629796>
+Content-Type: application/http;msgtype=response
+Content-Length: 46
+
+WARCProcessor by SING Group www.sing-group.com
+
+WARC/1.0
+WARC-Type: response
+WARC-Target-URI: http://www.pulsedpower.eu
+WARC-Date: 20180530181832
+WARC-Language: fr
+WARC-Record-ID: <http://www.pulsedpower.eu>
+Content-Type: application/http;msgtype=response
+Content-Length: 574
+
+HTTP/1.1 200
+Content-Type:text/html
+
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Frameset//EN">
+
+<HTML>
+
+
+<HEAD>
+
+<meta name="description" content="Homepage von Juergen Kolb">
+<meta name="author" content="Juergen Kolb">
+<meta name="keywords" content="pulsed power,bioelectrics">
+<meta name="date" content="2005-09-09">
+
+<TITLE>Pulsed Power</TITLE>
+
+<frameset cols="142,*" border=0 frameborder=0 framespacing=5 bordercolor="grey">
+	<frame src="menue.html" name="menue" scrolling=no>
+	<frame src="main.html" name="main">
+</frameset>
+
+
+</HTML>
+
+
+
+
+

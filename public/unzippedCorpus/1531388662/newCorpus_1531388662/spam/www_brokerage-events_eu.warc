@@ -1,0 +1,332 @@
+WARC/1.0
+WARC-Type: warcinfo
+WARC-Date: 2018-05-30T18:18:32Z
+WARC-Record-ID: <urn:uuid:9050e4d0-5da8-4d1f-acf3-b637434ac227>
+WARC-All-Language: en
+WARC-All-Content_type: text/html
+Content-Type: application/http;msgtype=response
+Content-Length: 46
+
+WARCProcessor by SING Group www.sing-group.com
+
+WARC/1.0
+WARC-Type: response
+WARC-Record-ID: <http://www.brokerage-events.eu>
+WARC-Date: 20180530181832
+WARC-Target-URI: http://www.brokerage-events.eu
+WARC-Language: en
+Content-Type: application/http;msgtype=response
+Content-Length: 10420
+
+HTTP/1.1 200
+Content-Type:text/html
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml"><!-- InstanceBegin template="/Templates/BE_K_3rows_EN.dwt.php" codeOutsideHTMLIsLocked="false" -->
+<head>
+
+  <!-- InstanceBeginEditable name="inc_top" --><title>Untitled Document</title>
+
+  <!-- InstanceEndEditable -->  
+	
+  
+  <script language="JavaScript" 
+    src="/_BE_sys/_js/main.js" type="text/JavaScript">
+  </script>
+  <script language="JavaScript" 
+    src="/_BE_sys/_js/rollover.js" type="text/JavaScript">
+  </script>
+  <link rel="icon" href="/K/_img_sys/i16.ico">
+  <link rel="stylesheet" href="/K/_img_sys/default.css" type="text/css">
+
+</head>
+
+<body leftmargin="0" topmargin="0" scroll="auto" marginheight="0" marginwidth="0"
+style="background-image:  
+  url(/K/_img_site/topbar_bg.gif); background-repeat: repeat-x;" 
+  onLoad="MM_preloadImages(
+  '/K/_img_site/nav/top_home_o.gif','/K/_img_site/nav/top_events_en_o.gif',
+  '/K/_img_site/nav/top_catalogue_en_o.gif','/K/_img_site/nav/top_registration_en_o.gif',
+  '/K/_img_site/nav/top_clients_en_o.gif', '/K/_img_site/nav/top_download_o.gif',
+  '/K/_img_site/nav/top_lsa-home_o.gif')">
+  <!-- bgcolor="#f2f5f8" -->
+  <a name="top"></a>
+
+
+  
+<table align="center" border="0" cellpadding="0" cellspacing="0" height="100%" width="950">
+  <tbody>
+	<!-- Rows PageHead Begin -->
+	<tr>
+	  <td colspan="7" height="10"><img src="/K/_img_site/topcolorbar.gif" alt="" width="100%"></td>
+	</tr>
+	<tr>
+	  <td height="50" colspan="7" align="right" background="/K/_img_site/topcolorbar_2.gif"><!-- image and link --></td>
+	</tr>
+	<tr>
+	  <td colspan="7" height="45">
+		<table border="0" cellpadding="0" cellspacing="0" width="100%">
+		<!-- TopNavigation Begin -->
+		  <tbody>
+			<tr valign="top">
+			  <td width="10"><img src="/_BE_sys/_img_sys/cont/empty.gif" alt="" height="45" width="10"></td>
+			  <td width="548">
+			  
+					
+	  <table border="0" cellpadding="0" cellspacing="0">
+		<tbody>
+		  <tr>					  
+			<td>
+			  <a href="/K/" 
+			  	 onMouseOver="MM_swapImage('1002130','','/K/_img_site/nav/top_home_o.gif',1)" 
+				 onMouseOut="MM_swapImgRestore()">
+				 <img src="/K/_img_site/nav/top_home.gif" alt="home" width="62" height="31" border="0" id="1002130">
+			  </a>
+			</td>
+			<td>
+			  <a href="/K/events/" 
+			    onMouseOver="MM_swapImage('1002132','','/K/_img_site/nav/top_events_en_o.gif',1)" 
+				onMouseOut="MM_swapImgRestore()">
+				<img src="/K/_img_site/nav/top_events_en.gif" alt="Events" width="62" height="31" border="0" id="1002132" >
+			  </a>
+			</td>
+			<td>
+			  <a href="/K/catalogue/" 
+			    onMouseOver="MM_swapImage('1002134','','/K/_img_site/nav/top_catalogue_en_o.gif',1)" 
+				onMouseOut="MM_swapImgRestore()">
+				<img src="/K/_img_site/nav/top_catalogue_en.gif" alt="Catalogue" width="72" height="31" border="0" id="1002134" >
+			  </a>
+			</td>
+			<td>
+			  <a href="/K/registration/" 
+			    onMouseOver="MM_swapImage('1002136','','/K/_img_site/nav/top_registration_en_o.gif',1)" 
+				onMouseOut="MM_swapImgRestore()">
+				<img src="/K/_img_site/nav/top_registration_en.gif" alt="Registration" width="85" height="31" border="0" id="1002136">
+			  </a>
+			</td>
+			<td>
+			  <a href="/K/clients/" 
+			  	onMouseOver="MM_swapImage('1002138','','/K/_img_site/nav/top_clients_en_o.gif',1)" 
+				onMouseOut="MM_swapImgRestore()">
+				<img src="/K/_img_site/nav/top_clients_en.gif" alt="Clients" width="62" height="31" border="0" id="1002138">
+			  </a>
+			</td>
+			
+			<td>
+			  <a href="/K/download/" 
+			    onMouseOver="MM_swapImage('1002142','','/K/_img_site/nav/top_download_o.gif',1)" 
+				onMouseOut="MM_swapImgRestore()">
+				<img src="/K/_img_site/nav/top_download.gif" alt="Download" height="31" border="0" id="1002142">
+			  </a>
+			</td>
+			<td>
+			  <a href="/K/EEN/" 
+			    onMouseOver="MM_swapImage('1002137','','/K/_img_site/nav/top_contact_o.gif',1)" 
+				onMouseOut="MM_swapImgRestore()">
+				<img src="/K/_img_site/nav/top_contact.gif" alt="Contact" height="31" border="0" id="1002137">
+			  </a>
+			</td>
+		  </tr>
+	    </tbody>
+	  </table>			  
+  
+			  </td> 
+			  <td align="right" width="110"><!-- image and link --></td>
+			</tr>
+		  </tbody>
+		<!-- TopNavigation End -->
+		</table>	  </td>
+	</tr>
+	<!-- Rows PageHead End -->
+	<tr valign="top">
+	  <td rowspan="2" background="/K/_img_sys/line_sepvert_w.gif" height="100%" width="1">
+	    <img src="/_BE_sys/_img_sys/cont/empty.gif" alt="" height="1" width="1">
+	  </td>
+	  <td rowspan="2" background="/K/_img_site/nav/leftnavbg.gif" height="100%">
+		<table border="0" cellpadding="0" cellspacing="0" width="200">
+		<!-- MainNavigation Begin -->
+ 			<tr><td><img src="/K/_img_site/home_welcome.gif" alt="Welcome to K matchmaking" /></td></tr>
+				
+				<!-- InstanceBeginEditable name="context_left" -->
+
+				<!-- InstanceEndEditable -->
+
+          <!-- MainNavigation End -->
+        </table>
+      </td>
+	  <td rowspan="2" background="/K/_img_sys/line_sepvert_w.gif" height="100%" width="1">
+	    <img src="/_BE_sys/_img_sys/cont/empty.gif" alt="" height="1" width="1">
+	  </td>
+	  <td bgcolor="#ffffff" height="100%" width="596">
+
+	  <!--DRUCK-->
+		<table border="0" cellpadding="0" cellspacing="15" width="100%">
+				  <tbody> 
+		    <tr> 
+			  <td>
+			    <table width="100%" border="0" cellspacing="2" cellpadding="2">
+				  <tr>
+				    <!-- #BeginEditable "datanav" --> 
+					  <td width="50%" height="17" align="left">
+					  	<a href="/K/events/k2010/">[&nbsp;K 2010&nbsp;]</a></td>
+					  <td align="right" width="50%">&nbsp;</td>
+				    <!-- #EndEditable --> 
+				  </tr>
+			    </table>			  
+			  </td>
+		    </tr>
+		  </tbody> 
+				  <tbody> 
+		    <tr> 
+			  <td colspan="2" height="24" valign="top">
+
+<!-- InstanceBeginEditable name="content" -->
+            <h1>&gt; Welcome</h1>
+
+            <h2>Welcome at www.brokerage-events.eu</h2>
+ 
+            <table width="100%">
+			  <tr><td colspan="3"></td></tr>
+			  <tr>
+			    <td width="30%" align="center"><a href="/Composites2010/"><img src="/K/_img_site/composite_h75t.gif" longdesc="COMPOSITE EUROPE 2010" style="border: none" /></a></td>
+			    <td width="40%" align="center">15 September 2010<br />in Essen, Germany</td>
+			    <td width="40%" align="center"><a href="/Composites2010/">Meet and Match Event</a><br />COMPOSITES EUROPE 2010</td>
+			  </tr>
+			  <tr>
+			    <td align="center"><a href="/K/"><img src="/K/_img_site/K_logo_h70t.gif" width="51" height="70" longdesc="K 2010"  style="border: none" /></a></td>
+			    <td align="center">27. - 28. October 2010<br />in Düsseldorf, Germany</td>
+			    <td align="center"><a href="/K/"><b>K</b> matching</a><br />at K 2010</td>
+			  </tr>
+			</table>
+
+<!-- InstanceEndEditable -->
+			  
+			  
+	    </tr>
+		  </tbody> 
+	    </table>
+		
+		 <!--DRUCKENDE-->
+	  </td>
+	  <td rowspan="2" background="/K/_img_sys/line_sepvert_w.gif" height="100%" width="1">
+	    <img src="/_BE_sys/_img_sys/cont/empty.gif" alt="" height="1" width="1">
+	  </td>
+	  <td rowspan="2" height="100%" width="164">
+	  <!-- Row FurtherInformation Begin -->
+		<table border="0" cellpadding="0" cellspacing="0" width="164">
+<!--	  <tbody> -->
+			<tr>
+			  <td><img src="/K/_img_site/nav/r_more_en.gif" alt="More about..." height="20" width="180"></td>
+			</tr>
+			<!-- standard context box Begin --> 
+			<tr>
+			  <td>
+				<table border="0" cellpadding="8" cellspacing="0" width="100%">
+				  <tbody>
+					<tr>
+					  <td class="more">
+					  <!-- #BeginEditable "contextbox" -->
+
+						
+
+								  <p><b>Enterprise Europe Network:</b><br />
+									The partner for innovation in Europe<br />
+									<a	href="http://www.enterprise-europe-network.ec.europa.eu" 
+										target="_blank">&gt; more</a>
+								  </p>
+								
+								  <p><b>K matchmaking</b><br />step by step: how it works&nbsp;&nbsp;
+									<a href="/K/service/steps/">&gt; more</a>
+								  </p>
+								
+								<p><b>K 2010 - plastics and rubber</b> 
+									<a href="http://www.k-online.de/" target="_blank">&gt; more</a>
+								  </p>
+								
+								  <p><b>Flyer K</b> matching</br><br />
+								    <a href="/K/_dld/flyer_K-2010_web.pdf" target="_blank">&gt; download</a>
+								  </p>
+								<p></p> 
+					    <p></p>
+
+					  <!-- #EndEditable --> 
+					  </td>
+					</tr>
+				  </tbody>
+				</table>
+			  </td>
+			</tr>
+			<!-- standard context box End -->
+			<!-- #BeginEditable "addcontextbox" --> 
+			<!-- #EndEditable --> 
+			<tr>
+			  <td><img src="/_BE_sys/_img_sys/cont/empty.gif" alt="" height="1" width="1"></td>
+			</tr>
+			<tr>
+			  <td><img src="/K/_img_site/nav/r_contact_en.gif" alt="Contact Partner" height="20" width="100%"></td>
+			</tr>
+			<!-- standard contact box Begin -->
+			<tr>
+			  <td>
+				<table border="0" cellpadding="8" cellspacing="0" width="100%">
+				  <tbody>
+					<tr>
+					  <td class="more">
+					  <!-- #BeginEditable "contactbox" --> 
+										  <!-- #EndEditable --> 
+					  </td>
+					</tr>
+				  </tbody>
+				</table>
+			  </td>
+			</tr>
+			<!-- standard contact box End -->
+			<tr>
+			  <td><img src="/_BE_sys/_img_sys/cont/empty.gif" alt="" height="1" width="1"></td>
+			</tr>
+			<tr>
+			  <td>
+				<!-- #BeginEditable "registrationbox" --> 
+				<!-- #EndEditable --> 
+			  </td>
+			</tr>
+<!--	  </tbody>  -->
+		</table>
+	  <!-- Row FurtherInformation End -->
+	  </td>
+	  <td rowspan="2" background="/K/_img_sys/line_sepvert_w.gif" height="100%" width="1">
+	    <img src="/_BE_sys/_img_sys/cont/empty.gif" alt="" height="1" width="1">
+	  </td>
+	</tr>
+	<tr>
+	  <td bgcolor="#ffffff" height="45" width="100%">
+		<table border="0" cellpadding="0" cellspacing="15" width="100%">
+		  <tbody> 
+			<tr>
+			  <td width="50%"> 
+				<table border="0" cellpadding="0" cellspacing="0">
+				  <tbody>
+					<tr>
+					  <td><a href="#top"><img src="/K/_img_sys/arr_top.gif" alt="TOP" border="0" height="15" width="13"></a></td>
+					  <td><img src="/_BE_sys/_img_sys/cont/empty.gif" alt="" height="1" width="15"></td>
+					  <td><a href="javascript:;" onClick="drucken2();">[&nbsp;Print&nbsp;]</a></td> </td>
+					</tr>
+				  </tbody>
+				</table>
+			  </td>
+			  <td align="right" width="50%"><a href="/K/service/impressum/">[&nbsp;Imprint&nbsp;]</a></td>
+				<!-- #BeginEditable "bottomnav" -->
+				<!-- #EndEditable --> 
+			</tr>
+		  </tbody>
+		</table>
+	  </td>
+	</tr>
+  </tbody>
+</table> 
+
+</body>
+<!-- InstanceEnd --></html>
+
+

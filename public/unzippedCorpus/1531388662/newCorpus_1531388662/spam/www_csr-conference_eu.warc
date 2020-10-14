@@ -1,0 +1,113 @@
+WARC/1.0
+WARC-Type: warcinfo
+WARC-Date: 2018-05-30T17:52:31Z
+WARC-Record-ID: <urn:uuid:506bcd55-ed33-4bc3-99d3-bdd74425d987>
+WARC-All-Language: fr
+WARC-All-Content_type: text/html
+Content-Type: application/http;msgtype=response
+Content-Length: 46
+
+WARCProcessor by SING Group www.sing-group.com
+
+WARC/1.0
+WARC-Type: response
+WARC-Record-ID: <http://www.csr-conference.eu>
+WARC-Date: 20180530175231
+WARC-Target-URI: http://www.csr-conference.eu
+WARC-Language: fr
+Content-Type: application/http;msgtype=response
+Content-Length: 951
+
+HTTP/1.1 200
+Content-Type:text/html
+
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+"http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<title>www.helios-repository.com</title>
+<style type="text/css">
+body {
+  background:#750A04 url(http://213.133.104.2/hos2.jpg) 0 0 repeat-x;
+  overflow:hidden;
+}
+div {
+  margin: 0 auto;
+  text-align:center;
+  background:url(http://213.133.104.2/hos.jpg) center 0 no-repeat;
+  height:800px;
+  padding-top:385px;
+}
+
+h1 {
+  font-family: Avenir, "Trebuchet MS",Tahoma, Arial,Verdana,sans-serif;
+  font-size:35px;
+  color:#AE2835;
+  font-weight:bold;
+  margin: 0 auto;
+  text-align:center;
+  vertical-align:middle;
+  padding:0;
+  max-width:700px;
+  height:100px;
+  max-height:100px;
+  overflow:hidden;
+}
+</style>
+</head>
+<body><div><h1>www.helios-repository.com</h1></div></body></html>
+
+
+WARC/1.0
+WARC-Type: response
+WARC-Record-ID: <http://www.csr-conference.eu>
+WARC-Date: 20180530181832
+WARC-Target-URI: http://www.csr-conference.eu
+WARC-Language: fr
+Content-Type: application/http;msgtype=response
+Content-Length: 951
+
+HTTP/1.1 200
+Content-Type:text/html
+
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+"http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<title>www.helios-repository.com</title>
+<style type="text/css">
+body {
+  background:#750A04 url(http://213.133.104.2/hos2.jpg) 0 0 repeat-x;
+  overflow:hidden;
+}
+div {
+  margin: 0 auto;
+  text-align:center;
+  background:url(http://213.133.104.2/hos.jpg) center 0 no-repeat;
+  height:800px;
+  padding-top:385px;
+}
+
+h1 {
+  font-family: Avenir, "Trebuchet MS",Tahoma, Arial,Verdana,sans-serif;
+  font-size:35px;
+  color:#AE2835;
+  font-weight:bold;
+  margin: 0 auto;
+  text-align:center;
+  vertical-align:middle;
+  padding:0;
+  max-width:700px;
+  height:100px;
+  max-height:100px;
+  overflow:hidden;
+}
+</style>
+</head>
+<body><div><h1>www.helios-repository.com</h1></div></body></html>
+
+

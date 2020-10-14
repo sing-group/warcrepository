@@ -1,0 +1,156 @@
+/* Tarjeta de usuario*/
+.content-info-user{
+    border: solid 1px gray;
+    height: 250px;
+    width: 80%;
+    margin: 0px auto;
+}
+.barra-gris{
+    background: #337ab7;
+    padding: 0px;
+    margin-bottom: 10px;
+    height: 30px;
+}
+.h7footerlayout{
+    text-align: center;
+    margin-bottom: 0rem !important;
+}
+.heading7 {
+    font-size:21px;
+    font-weight:700;
+    color:#d9d6d6;
+    margin-bottom:22px;
+}
+
+.h6Collaborators2{
+    text-align: center; margin-bottom: 0rem;
+}
+
+.aSingLogo2{
+    margin-top: 0rem; margin-right: 3rem;
+}
+
+.aESEILogo2{
+    margin-right: 3rem;
+}
+
+.afootersinglogo{
+    margin-top: 0rem; margin-right: 3rem;
+}
+.afootereseilogo{
+    margin-right: 3rem;
+}
+.navbar{
+    margin-bottom: 0px;
+}
+.navbar-nav{
+    text-align: center;
+}
+.navbar-toggle{
+    margin-right: 30px !important;
+}
+.search-nav{
+ margin-top: 1.5%;
+}
+
+.img-logo{
+    width: 38%;
+    margin: -13px auto;
+}
+.menu-right{
+    margin: 2px;
+    border: 2px solid #efefef;
+    border-radius: 100%;
+    width: 54px !important;
+    text-align: center;
+}
+.menu-right:hover{
+    background: #428bca !important;
+    color:#fff !important;
+    margin: 2px;
+    border: 2px solid #efefef;
+    border-radius: 100%;
+}
+.btn-nav{
+    margin-top: 6px;
+}
+
+.navbar-left{
+    margin: 0;
+}
+.navbar-right{
+    display: inline-flex;
+    padding-left: 50px;
+    padding-right: 50px;
+}
+.btn-nav:hover{
+    border-bottom: solid 2px #428bca !important;
+}
+.img-idioma{
+    margin: 0 auto;
+}
+
+/*Media Queries*/
+    @media  screen and (min-width: 1200px){
+    /*Menu*/
+    .navbar{
+        margin-bottom: 0px;
+    }
+    .search-nav{
+     margin-top: 1.5%;
+    }
+
+    .img-logo{
+        width: 38%;
+        margin: -10px auto;
+    }
+    .menu-right{
+        margin: 2px;
+        border: 2px solid #efefef;
+        border-radius: 100%;
+        width: 54px !important;
+        text-align: center;
+        display: inline;
+        padding-left: 0;
+    }
+    .menu-right:hover{
+        background: #428bca !important;
+        color:#fff !important;
+        margin: 2px;
+        border: 2px solid #efefef;
+        border-radius: 100%;
+    }
+    .btn-nav{
+        margin-top: 6px;
+    }
+
+    .navbar-left{
+        margin-top: .8rem;
+        margin-left: 20rem !important;
+    }
+    .btn-nav:hover{
+        border-bottom: solid 2px #428bca !important;
+    }
+}
+
+
+@media only screen and (min-width: 1900px){
+    .navbar-left{
+        margin-left:25%;
+    }
+    .search-nav{
+        width: 300px !important;
+    }
+
+    .navbar-left{
+        margin-top: .8rem;
+        margin-left: 42rem !important;
+    }
+}
+
+@media only screen and (min-width: 2560px){
+    .navbar-left{
+        margin-top: .8rem;
+        margin-left: 75rem !important;
+    }
+}

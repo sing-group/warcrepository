@@ -1,0 +1,42 @@
+WARC/1.0
+WARC-Type: warcinfo
+WARC-Date: 2018-05-30T17:52:31Z
+WARC-Record-ID: <urn:uuid:1431a9ec-29f6-43d7-9bcf-a15900e0bb50>
+WARC-All-Language: fr
+WARC-All-Content_type: text/html
+Content-Type: application/http;msgtype=response
+Content-Length: 46
+
+WARCProcessor by SING Group www.sing-group.com
+
+WARC/1.0
+WARC-Type: response
+WARC-Record-ID: <http://www.agile-leadership.eu>
+WARC-Date: 20180530175231
+WARC-Target-URI: http://www.agile-leadership.eu
+WARC-Language: fr
+Content-Type: application/http;msgtype=response
+Content-Length: 1037
+
+HTTP/1.1 200
+Content-Type:text/html
+
+
+<html><head><title>Hier entsteht eine neue Internetpräsenz</title>
+<style fprolloverstyle>A:hover {color: #FF0000}
+</style>
+</head>
+<body bgcolor="#FFFFFF" text="#000080" link="#12790B" vlink="#12790B" alink="#12790B">
+<p><i><b><font color="#B5D6B1" face="Arial" size="4">Willkommen!&nbsp;</font></b></i>
+<b><i><font face="Arial" size="4" color="#DFEDDE">Welcome! </font></i></b><i><b><font color="#B5D6B1" face="Arial" size="4">Willkommen!&nbsp;</font></b></i>
+<b><i><font face="Arial" size="4" color="#DFEDDE">Welcome!&nbsp;</font></i></b>
+<p>&nbsp;
+<p><b><font face="Arial" size="3" color="#12790B">Hier entsteht eine neue
+Internetpräsenz.&nbsp;</font></b><p>&nbsp;<p><i><b><font color="#B5D6B1" face="Arial" size="4">Willkommen! </font></b></i>
+<b><i><font face="Arial" size="4" color="#DFEDDE">Welcome! </font></i></b><i><b><font color="#B5D6B1" face="Arial" size="4">Willkommen!
+</font></b></i> <b><i><font face="Arial" size="4" color="#DFEDDE">Welcome! </font></i></b>
+</BODY>
+</HTML>
+
+
+

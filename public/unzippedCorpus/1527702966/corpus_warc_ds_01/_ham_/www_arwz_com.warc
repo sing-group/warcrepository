@@ -1,0 +1,411 @@
+WARC/1.0
+WARC-Type: warcinfo
+WARC-Date: 2018-05-23T15:15:43Z
+WARC-All-Language: en
+WARC-All-Content_type: text/html
+WARC-Record-ID: <urn:uuid:01e2e238-3c61-4128-8acf-6fce42d48424>
+Content-Type: application/http;msgtype=response
+Content-Length: 46
+
+WARCProcessor by SING Group www.sing-group.com
+
+WARC/1.0
+WARC-Type: response
+WARC-Target-URI: http://www.arwz.com/arwz/viewtopic.php?p=10157&sid=48f9143d306929ec569369521c411a32
+WARC-Date: 20180523151543
+WARC-Language: en
+WARC-Record-ID: <http://www.arwz.com/arwz/viewtopic.php?p=10157&sid=48f9143d306929ec569369521c411a32>
+Content-Type: application/http;msgtype=response
+Content-Length: 932
+
+HTTP/1.1 200
+Content-Type:text/html
+
+
+<html>
+<body>
+phpBB : <b>Critical Error</b>
+<br /><br />
+Error doing DB query userdata row fetch<br /><br /><b><u>DEBUG MODE</u></b><br /><br />SQL Error : 144 Table './phpbb/phpbb_sessions' is marked as crashed and last (automatic?) repair failed<br /><br />SELECT u.*, s.*
+			FROM phpbb_sessions s, phpbb_users u
+			WHERE s.session_id = '48f9143d306929ec569369521c411a32'
+				AND u.user_id = s.session_user_id</br /><br />Line : 319<br />File : sessions.php</body>
+</html><script type="text/javascript">(function (d, w) {var x = d.getElementsByTagName('SCRIPT')[0];var f = function () {var s = d.createElement('SCRIPT');s.type = 'text/javascript';s.async = true;s.src = "//np.lexity.com/embed/YW/e0c5bed24635c580b45f15ca5094fcbc?id=95b585ae1bd5";x.parentNode.insertBefore(s, x);};w.attachEvent ? w.attachEvent('onload',f) :w.addEventListener('load',f,false);}(document, window));</script>
+
+WARC/1.0
+WARC-Type: response
+WARC-Target-URI: http://www.arwz.com/arwz/viewtopic.php?p=10851&sid=48f9143d306929ec569369521c411a32
+WARC-Date: 20180523151543
+WARC-Language: en
+WARC-Record-ID: <http://www.arwz.com/arwz/viewtopic.php?p=10851&sid=48f9143d306929ec569369521c411a32>
+Content-Type: application/http;msgtype=response
+Content-Length: 932
+
+HTTP/1.1 200
+Content-Type:text/html
+
+
+<html>
+<body>
+phpBB : <b>Critical Error</b>
+<br /><br />
+Error doing DB query userdata row fetch<br /><br /><b><u>DEBUG MODE</u></b><br /><br />SQL Error : 144 Table './phpbb/phpbb_sessions' is marked as crashed and last (automatic?) repair failed<br /><br />SELECT u.*, s.*
+			FROM phpbb_sessions s, phpbb_users u
+			WHERE s.session_id = '48f9143d306929ec569369521c411a32'
+				AND u.user_id = s.session_user_id</br /><br />Line : 319<br />File : sessions.php</body>
+</html><script type="text/javascript">(function (d, w) {var x = d.getElementsByTagName('SCRIPT')[0];var f = function () {var s = d.createElement('SCRIPT');s.type = 'text/javascript';s.async = true;s.src = "//np.lexity.com/embed/YW/e0c5bed24635c580b45f15ca5094fcbc?id=95b585ae1bd5";x.parentNode.insertBefore(s, x);};w.attachEvent ? w.attachEvent('onload',f) :w.addEventListener('load',f,false);}(document, window));</script>
+
+WARC/1.0
+WARC-Type: response
+WARC-Target-URI: http://www.arwz.com/arwz/viewtopic.php?p=11285&sid=48f9143d306929ec569369521c411a32
+WARC-Date: 20180523151543
+WARC-Language: en
+WARC-Record-ID: <http://www.arwz.com/arwz/viewtopic.php?p=11285&sid=48f9143d306929ec569369521c411a32>
+Content-Type: application/http;msgtype=response
+Content-Length: 932
+
+HTTP/1.1 200
+Content-Type:text/html
+
+
+<html>
+<body>
+phpBB : <b>Critical Error</b>
+<br /><br />
+Error doing DB query userdata row fetch<br /><br /><b><u>DEBUG MODE</u></b><br /><br />SQL Error : 144 Table './phpbb/phpbb_sessions' is marked as crashed and last (automatic?) repair failed<br /><br />SELECT u.*, s.*
+			FROM phpbb_sessions s, phpbb_users u
+			WHERE s.session_id = '48f9143d306929ec569369521c411a32'
+				AND u.user_id = s.session_user_id</br /><br />Line : 319<br />File : sessions.php</body>
+</html><script type="text/javascript">(function (d, w) {var x = d.getElementsByTagName('SCRIPT')[0];var f = function () {var s = d.createElement('SCRIPT');s.type = 'text/javascript';s.async = true;s.src = "//np.lexity.com/embed/YW/e0c5bed24635c580b45f15ca5094fcbc?id=95b585ae1bd5";x.parentNode.insertBefore(s, x);};w.attachEvent ? w.attachEvent('onload',f) :w.addEventListener('load',f,false);}(document, window));</script>
+
+WARC/1.0
+WARC-Type: response
+WARC-Target-URI: http://www.arwz.com/arwz/viewtopic.php?p=12410&sid=48f9143d306929ec569369521c411a32
+WARC-Date: 20180523151543
+WARC-Language: en
+WARC-Record-ID: <http://www.arwz.com/arwz/viewtopic.php?p=12410&sid=48f9143d306929ec569369521c411a32>
+Content-Type: application/http;msgtype=response
+Content-Length: 932
+
+HTTP/1.1 200
+Content-Type:text/html
+
+
+<html>
+<body>
+phpBB : <b>Critical Error</b>
+<br /><br />
+Error doing DB query userdata row fetch<br /><br /><b><u>DEBUG MODE</u></b><br /><br />SQL Error : 144 Table './phpbb/phpbb_sessions' is marked as crashed and last (automatic?) repair failed<br /><br />SELECT u.*, s.*
+			FROM phpbb_sessions s, phpbb_users u
+			WHERE s.session_id = '48f9143d306929ec569369521c411a32'
+				AND u.user_id = s.session_user_id</br /><br />Line : 319<br />File : sessions.php</body>
+</html><script type="text/javascript">(function (d, w) {var x = d.getElementsByTagName('SCRIPT')[0];var f = function () {var s = d.createElement('SCRIPT');s.type = 'text/javascript';s.async = true;s.src = "//np.lexity.com/embed/YW/e0c5bed24635c580b45f15ca5094fcbc?id=95b585ae1bd5";x.parentNode.insertBefore(s, x);};w.attachEvent ? w.attachEvent('onload',f) :w.addEventListener('load',f,false);}(document, window));</script>
+
+WARC/1.0
+WARC-Type: response
+WARC-Target-URI: http://www.arwz.com/arwz/viewtopic.php?p=12471&sid=48f9143d306929ec569369521c411a32
+WARC-Date: 20180523151543
+WARC-Language: en
+WARC-Record-ID: <http://www.arwz.com/arwz/viewtopic.php?p=12471&sid=48f9143d306929ec569369521c411a32>
+Content-Type: application/http;msgtype=response
+Content-Length: 932
+
+HTTP/1.1 200
+Content-Type:text/html
+
+
+<html>
+<body>
+phpBB : <b>Critical Error</b>
+<br /><br />
+Error doing DB query userdata row fetch<br /><br /><b><u>DEBUG MODE</u></b><br /><br />SQL Error : 144 Table './phpbb/phpbb_sessions' is marked as crashed and last (automatic?) repair failed<br /><br />SELECT u.*, s.*
+			FROM phpbb_sessions s, phpbb_users u
+			WHERE s.session_id = '48f9143d306929ec569369521c411a32'
+				AND u.user_id = s.session_user_id</br /><br />Line : 319<br />File : sessions.php</body>
+</html><script type="text/javascript">(function (d, w) {var x = d.getElementsByTagName('SCRIPT')[0];var f = function () {var s = d.createElement('SCRIPT');s.type = 'text/javascript';s.async = true;s.src = "//np.lexity.com/embed/YW/e0c5bed24635c580b45f15ca5094fcbc?id=95b585ae1bd5";x.parentNode.insertBefore(s, x);};w.attachEvent ? w.attachEvent('onload',f) :w.addEventListener('load',f,false);}(document, window));</script>
+
+WARC/1.0
+WARC-Type: response
+WARC-Target-URI: http://www.arwz.com/arwz/viewtopic.php?p=13961&sid=48f9143d306929ec569369521c411a32
+WARC-Date: 20180523151543
+WARC-Language: en
+WARC-Record-ID: <http://www.arwz.com/arwz/viewtopic.php?p=13961&sid=48f9143d306929ec569369521c411a32>
+Content-Type: application/http;msgtype=response
+Content-Length: 932
+
+HTTP/1.1 200
+Content-Type:text/html
+
+
+<html>
+<body>
+phpBB : <b>Critical Error</b>
+<br /><br />
+Error doing DB query userdata row fetch<br /><br /><b><u>DEBUG MODE</u></b><br /><br />SQL Error : 144 Table './phpbb/phpbb_sessions' is marked as crashed and last (automatic?) repair failed<br /><br />SELECT u.*, s.*
+			FROM phpbb_sessions s, phpbb_users u
+			WHERE s.session_id = '48f9143d306929ec569369521c411a32'
+				AND u.user_id = s.session_user_id</br /><br />Line : 319<br />File : sessions.php</body>
+</html><script type="text/javascript">(function (d, w) {var x = d.getElementsByTagName('SCRIPT')[0];var f = function () {var s = d.createElement('SCRIPT');s.type = 'text/javascript';s.async = true;s.src = "//np.lexity.com/embed/YW/e0c5bed24635c580b45f15ca5094fcbc?id=95b585ae1bd5";x.parentNode.insertBefore(s, x);};w.attachEvent ? w.attachEvent('onload',f) :w.addEventListener('load',f,false);}(document, window));</script>
+
+WARC/1.0
+WARC-Type: response
+WARC-Target-URI: http://www.arwz.com/arwz/viewtopic.php?p=3291&sid=48f9143d306929ec569369521c411a32
+WARC-Date: 20180523151543
+WARC-Language: en
+WARC-Record-ID: <http://www.arwz.com/arwz/viewtopic.php?p=3291&sid=48f9143d306929ec569369521c411a32>
+Content-Type: application/http;msgtype=response
+Content-Length: 932
+
+HTTP/1.1 200
+Content-Type:text/html
+
+
+<html>
+<body>
+phpBB : <b>Critical Error</b>
+<br /><br />
+Error doing DB query userdata row fetch<br /><br /><b><u>DEBUG MODE</u></b><br /><br />SQL Error : 144 Table './phpbb/phpbb_sessions' is marked as crashed and last (automatic?) repair failed<br /><br />SELECT u.*, s.*
+			FROM phpbb_sessions s, phpbb_users u
+			WHERE s.session_id = '48f9143d306929ec569369521c411a32'
+				AND u.user_id = s.session_user_id</br /><br />Line : 319<br />File : sessions.php</body>
+</html><script type="text/javascript">(function (d, w) {var x = d.getElementsByTagName('SCRIPT')[0];var f = function () {var s = d.createElement('SCRIPT');s.type = 'text/javascript';s.async = true;s.src = "//np.lexity.com/embed/YW/e0c5bed24635c580b45f15ca5094fcbc?id=95b585ae1bd5";x.parentNode.insertBefore(s, x);};w.attachEvent ? w.attachEvent('onload',f) :w.addEventListener('load',f,false);}(document, window));</script>
+
+WARC/1.0
+WARC-Type: response
+WARC-Target-URI: http://www.arwz.com/arwz/viewtopic.php?p=4488&sid=48f9143d306929ec569369521c411a32
+WARC-Date: 20180523151543
+WARC-Language: en
+WARC-Record-ID: <http://www.arwz.com/arwz/viewtopic.php?p=4488&sid=48f9143d306929ec569369521c411a32>
+Content-Type: application/http;msgtype=response
+Content-Length: 932
+
+HTTP/1.1 200
+Content-Type:text/html
+
+
+<html>
+<body>
+phpBB : <b>Critical Error</b>
+<br /><br />
+Error doing DB query userdata row fetch<br /><br /><b><u>DEBUG MODE</u></b><br /><br />SQL Error : 144 Table './phpbb/phpbb_sessions' is marked as crashed and last (automatic?) repair failed<br /><br />SELECT u.*, s.*
+			FROM phpbb_sessions s, phpbb_users u
+			WHERE s.session_id = '48f9143d306929ec569369521c411a32'
+				AND u.user_id = s.session_user_id</br /><br />Line : 319<br />File : sessions.php</body>
+</html><script type="text/javascript">(function (d, w) {var x = d.getElementsByTagName('SCRIPT')[0];var f = function () {var s = d.createElement('SCRIPT');s.type = 'text/javascript';s.async = true;s.src = "//np.lexity.com/embed/YW/e0c5bed24635c580b45f15ca5094fcbc?id=95b585ae1bd5";x.parentNode.insertBefore(s, x);};w.attachEvent ? w.attachEvent('onload',f) :w.addEventListener('load',f,false);}(document, window));</script>
+
+WARC/1.0
+WARC-Type: response
+WARC-Target-URI: http://www.arwz.com/arwz/viewtopic.php?p=8074&sid=48f9143d306929ec569369521c411a32
+WARC-Date: 20180523151543
+WARC-Language: en
+WARC-Record-ID: <http://www.arwz.com/arwz/viewtopic.php?p=8074&sid=48f9143d306929ec569369521c411a32>
+Content-Type: application/http;msgtype=response
+Content-Length: 932
+
+HTTP/1.1 200
+Content-Type:text/html
+
+
+<html>
+<body>
+phpBB : <b>Critical Error</b>
+<br /><br />
+Error doing DB query userdata row fetch<br /><br /><b><u>DEBUG MODE</u></b><br /><br />SQL Error : 144 Table './phpbb/phpbb_sessions' is marked as crashed and last (automatic?) repair failed<br /><br />SELECT u.*, s.*
+			FROM phpbb_sessions s, phpbb_users u
+			WHERE s.session_id = '48f9143d306929ec569369521c411a32'
+				AND u.user_id = s.session_user_id</br /><br />Line : 319<br />File : sessions.php</body>
+</html><script type="text/javascript">(function (d, w) {var x = d.getElementsByTagName('SCRIPT')[0];var f = function () {var s = d.createElement('SCRIPT');s.type = 'text/javascript';s.async = true;s.src = "//np.lexity.com/embed/YW/e0c5bed24635c580b45f15ca5094fcbc?id=95b585ae1bd5";x.parentNode.insertBefore(s, x);};w.attachEvent ? w.attachEvent('onload',f) :w.addEventListener('load',f,false);}(document, window));</script>
+
+WARC/1.0
+WARC-Type: response
+WARC-Target-URI: http://www.arwz.com/arwz/viewtopic.php?p=8623&sid=48f9143d306929ec569369521c411a32
+WARC-Date: 20180523151543
+WARC-Language: en
+WARC-Record-ID: <http://www.arwz.com/arwz/viewtopic.php?p=8623&sid=48f9143d306929ec569369521c411a32>
+Content-Type: application/http;msgtype=response
+Content-Length: 932
+
+HTTP/1.1 200
+Content-Type:text/html
+
+
+<html>
+<body>
+phpBB : <b>Critical Error</b>
+<br /><br />
+Error doing DB query userdata row fetch<br /><br /><b><u>DEBUG MODE</u></b><br /><br />SQL Error : 144 Table './phpbb/phpbb_sessions' is marked as crashed and last (automatic?) repair failed<br /><br />SELECT u.*, s.*
+			FROM phpbb_sessions s, phpbb_users u
+			WHERE s.session_id = '48f9143d306929ec569369521c411a32'
+				AND u.user_id = s.session_user_id</br /><br />Line : 319<br />File : sessions.php</body>
+</html><script type="text/javascript">(function (d, w) {var x = d.getElementsByTagName('SCRIPT')[0];var f = function () {var s = d.createElement('SCRIPT');s.type = 'text/javascript';s.async = true;s.src = "//np.lexity.com/embed/YW/e0c5bed24635c580b45f15ca5094fcbc?id=95b585ae1bd5";x.parentNode.insertBefore(s, x);};w.attachEvent ? w.attachEvent('onload',f) :w.addEventListener('load',f,false);}(document, window));</script>
+
+WARC/1.0
+WARC-Type: response
+WARC-Target-URI: http://www.arwz.com/arwz/viewtopic.php?p=9654&sid=48f9143d306929ec569369521c411a32
+WARC-Date: 20180523151543
+WARC-Language: en
+WARC-Record-ID: <http://www.arwz.com/arwz/viewtopic.php?p=9654&sid=48f9143d306929ec569369521c411a32>
+Content-Type: application/http;msgtype=response
+Content-Length: 932
+
+HTTP/1.1 200
+Content-Type:text/html
+
+
+<html>
+<body>
+phpBB : <b>Critical Error</b>
+<br /><br />
+Error doing DB query userdata row fetch<br /><br /><b><u>DEBUG MODE</u></b><br /><br />SQL Error : 144 Table './phpbb/phpbb_sessions' is marked as crashed and last (automatic?) repair failed<br /><br />SELECT u.*, s.*
+			FROM phpbb_sessions s, phpbb_users u
+			WHERE s.session_id = '48f9143d306929ec569369521c411a32'
+				AND u.user_id = s.session_user_id</br /><br />Line : 319<br />File : sessions.php</body>
+</html><script type="text/javascript">(function (d, w) {var x = d.getElementsByTagName('SCRIPT')[0];var f = function () {var s = d.createElement('SCRIPT');s.type = 'text/javascript';s.async = true;s.src = "//np.lexity.com/embed/YW/e0c5bed24635c580b45f15ca5094fcbc?id=95b585ae1bd5";x.parentNode.insertBefore(s, x);};w.attachEvent ? w.attachEvent('onload',f) :w.addEventListener('load',f,false);}(document, window));</script>
+
+WARC/1.0
+WARC-Type: response
+WARC-Target-URI: http://www.arwz.com/arwz/viewtopic.php?t=1232&view=previous
+WARC-Date: 20180523151543
+WARC-Language: en
+WARC-Record-ID: <http://www.arwz.com/arwz/viewtopic.php?t=1232&view=previous>
+Content-Type: application/http;msgtype=response
+Content-Length: 1012
+
+HTTP/1.1 200
+Content-Type:text/html
+
+
+<html>
+<body>
+phpBB : <b>Critical Error</b>
+<br /><br />
+Error creating new session<br /><br /><b><u>DEBUG MODE</u></b><br /><br />SQL Error : 144 Table './phpbb/phpbb_sessions' is marked as crashed and last (automatic?) repair failed<br /><br />INSERT INTO phpbb_sessions
+			(session_id, session_user_id, session_start, session_time, session_ip, session_page, session_logged_in, session_admin)
+			VALUES ('7be9c81e34b604db3d0a6dae2a59f6a6', -1, 1527086976, 1527086976, 'c19357da', 15, 0, 0)</br /><br />Line : 189<br />File : sessions.php</body>
+</html><script type="text/javascript">(function (d, w) {var x = d.getElementsByTagName('SCRIPT')[0];var f = function () {var s = d.createElement('SCRIPT');s.type = 'text/javascript';s.async = true;s.src = "//np.lexity.com/embed/YW/e0c5bed24635c580b45f15ca5094fcbc?id=95b585ae1bd5";x.parentNode.insertBefore(s, x);};w.attachEvent ? w.attachEvent('onload',f) :w.addEventListener('load',f,false);}(document, window));</script>
+
+WARC/1.0
+WARC-Type: response
+WARC-Target-URI: http://www.arwz.com/arwz/viewtopic.php?t=1589&view=previous
+WARC-Date: 20180523151543
+WARC-Language: en
+WARC-Record-ID: <http://www.arwz.com/arwz/viewtopic.php?t=1589&view=previous>
+Content-Type: application/http;msgtype=response
+Content-Length: 1012
+
+HTTP/1.1 200
+Content-Type:text/html
+
+
+<html>
+<body>
+phpBB : <b>Critical Error</b>
+<br /><br />
+Error creating new session<br /><br /><b><u>DEBUG MODE</u></b><br /><br />SQL Error : 144 Table './phpbb/phpbb_sessions' is marked as crashed and last (automatic?) repair failed<br /><br />INSERT INTO phpbb_sessions
+			(session_id, session_user_id, session_start, session_time, session_ip, session_page, session_logged_in, session_admin)
+			VALUES ('1f2d0039d9c6fa601d0db71dd95d4162', -1, 1527086977, 1527086977, 'c19357da', 15, 0, 0)</br /><br />Line : 189<br />File : sessions.php</body>
+</html><script type="text/javascript">(function (d, w) {var x = d.getElementsByTagName('SCRIPT')[0];var f = function () {var s = d.createElement('SCRIPT');s.type = 'text/javascript';s.async = true;s.src = "//np.lexity.com/embed/YW/e0c5bed24635c580b45f15ca5094fcbc?id=95b585ae1bd5";x.parentNode.insertBefore(s, x);};w.attachEvent ? w.attachEvent('onload',f) :w.addEventListener('load',f,false);}(document, window));</script>
+
+WARC/1.0
+WARC-Type: response
+WARC-Target-URI: http://www.arwz.com/arwz/viewtopic.php?t=2154&view=next
+WARC-Date: 20180523151543
+WARC-Language: en
+WARC-Record-ID: <http://www.arwz.com/arwz/viewtopic.php?t=2154&view=next>
+Content-Type: application/http;msgtype=response
+Content-Length: 1012
+
+HTTP/1.1 200
+Content-Type:text/html
+
+
+<html>
+<body>
+phpBB : <b>Critical Error</b>
+<br /><br />
+Error creating new session<br /><br /><b><u>DEBUG MODE</u></b><br /><br />SQL Error : 144 Table './phpbb/phpbb_sessions' is marked as crashed and last (automatic?) repair failed<br /><br />INSERT INTO phpbb_sessions
+			(session_id, session_user_id, session_start, session_time, session_ip, session_page, session_logged_in, session_admin)
+			VALUES ('fdb4589f42d3c72743356b20ae7b52b3', -1, 1527086978, 1527086978, 'c19357da', 15, 0, 0)</br /><br />Line : 189<br />File : sessions.php</body>
+</html><script type="text/javascript">(function (d, w) {var x = d.getElementsByTagName('SCRIPT')[0];var f = function () {var s = d.createElement('SCRIPT');s.type = 'text/javascript';s.async = true;s.src = "//np.lexity.com/embed/YW/e0c5bed24635c580b45f15ca5094fcbc?id=95b585ae1bd5";x.parentNode.insertBefore(s, x);};w.attachEvent ? w.attachEvent('onload',f) :w.addEventListener('load',f,false);}(document, window));</script>
+
+WARC/1.0
+WARC-Type: response
+WARC-Target-URI: http://www.arwz.com/arwz/viewtopic.php?t=2154&view=previous
+WARC-Date: 20180523151543
+WARC-Language: en
+WARC-Record-ID: <http://www.arwz.com/arwz/viewtopic.php?t=2154&view=previous>
+Content-Type: application/http;msgtype=response
+Content-Length: 1012
+
+HTTP/1.1 200
+Content-Type:text/html
+
+
+<html>
+<body>
+phpBB : <b>Critical Error</b>
+<br /><br />
+Error creating new session<br /><br /><b><u>DEBUG MODE</u></b><br /><br />SQL Error : 144 Table './phpbb/phpbb_sessions' is marked as crashed and last (automatic?) repair failed<br /><br />INSERT INTO phpbb_sessions
+			(session_id, session_user_id, session_start, session_time, session_ip, session_page, session_logged_in, session_admin)
+			VALUES ('9ca2aa1a8c176b1613e7486a347e4976', -1, 1527086978, 1527086978, 'c19357da', 15, 0, 0)</br /><br />Line : 189<br />File : sessions.php</body>
+</html><script type="text/javascript">(function (d, w) {var x = d.getElementsByTagName('SCRIPT')[0];var f = function () {var s = d.createElement('SCRIPT');s.type = 'text/javascript';s.async = true;s.src = "//np.lexity.com/embed/YW/e0c5bed24635c580b45f15ca5094fcbc?id=95b585ae1bd5";x.parentNode.insertBefore(s, x);};w.attachEvent ? w.attachEvent('onload',f) :w.addEventListener('load',f,false);}(document, window));</script>
+
+WARC/1.0
+WARC-Type: response
+WARC-Target-URI: http://www.arwz.com/arwz/viewtopic.php?t=400&view=previous
+WARC-Date: 20180523151543
+WARC-Language: en
+WARC-Record-ID: <http://www.arwz.com/arwz/viewtopic.php?t=400&view=previous>
+Content-Type: application/http;msgtype=response
+Content-Length: 570
+
+HTTP/1.1 200
+Content-Type:text/html
+
+
+message_die() was called multiple times. This isn't supposed to happen. Was message_die() used in page_tail.php?<script type="text/javascript">(function (d, w) {var x = d.getElementsByTagName('SCRIPT')[0];var f = function () {var s = d.createElement('SCRIPT');s.type = 'text/javascript';s.async = true;s.src = "//np.lexity.com/embed/YW/e0c5bed24635c580b45f15ca5094fcbc?id=95b585ae1bd5";x.parentNode.insertBefore(s, x);};w.attachEvent ? w.attachEvent('onload',f) :w.addEventListener('load',f,false);}(document, window));</script>
+
+WARC/1.0
+WARC-Type: response
+WARC-Target-URI: http://www.arwz.com/arwz/viewtopic.php?t=586&view=next
+WARC-Date: 20180523151543
+WARC-Language: en
+WARC-Record-ID: <http://www.arwz.com/arwz/viewtopic.php?t=586&view=next>
+Content-Type: application/http;msgtype=response
+Content-Length: 1012
+
+HTTP/1.1 200
+Content-Type:text/html
+
+
+<html>
+<body>
+phpBB : <b>Critical Error</b>
+<br /><br />
+Error creating new session<br /><br /><b><u>DEBUG MODE</u></b><br /><br />SQL Error : 144 Table './phpbb/phpbb_sessions' is marked as crashed and last (automatic?) repair failed<br /><br />INSERT INTO phpbb_sessions
+			(session_id, session_user_id, session_start, session_time, session_ip, session_page, session_logged_in, session_admin)
+			VALUES ('78e4f3434721f7bad89e8e6c7722a041', -1, 1527086980, 1527086980, 'c19357da', 15, 0, 0)</br /><br />Line : 189<br />File : sessions.php</body>
+</html><script type="text/javascript">(function (d, w) {var x = d.getElementsByTagName('SCRIPT')[0];var f = function () {var s = d.createElement('SCRIPT');s.type = 'text/javascript';s.async = true;s.src = "//np.lexity.com/embed/YW/e0c5bed24635c580b45f15ca5094fcbc?id=95b585ae1bd5";x.parentNode.insertBefore(s, x);};w.attachEvent ? w.attachEvent('onload',f) :w.addEventListener('load',f,false);}(document, window));</script>
+
+WARC/1.0
+WARC-Type: response
+WARC-Target-URI: http://www.arwz.com/arwz/viewtopic.php?t=586&view=previous
+WARC-Date: 20180523151543
+WARC-Language: en
+WARC-Record-ID: <http://www.arwz.com/arwz/viewtopic.php?t=586&view=previous>
+Content-Type: application/http;msgtype=response
+Content-Length: 1012
+
+HTTP/1.1 200
+Content-Type:text/html
+
+
+<html>
+<body>
+phpBB : <b>Critical Error</b>
+<br /><br />
+Error creating new session<br /><br /><b><u>DEBUG MODE</u></b><br /><br />SQL Error : 144 Table './phpbb/phpbb_sessions' is marked as crashed and last (automatic?) repair failed<br /><br />INSERT INTO phpbb_sessions
+			(session_id, session_user_id, session_start, session_time, session_ip, session_page, session_logged_in, session_admin)
+			VALUES ('5aa2aa241f737697e8a688596b053024', -1, 1527086980, 1527086980, 'c19357da', 15, 0, 0)</br /><br />Line : 189<br />File : sessions.php</body>
+</html><script type="text/javascript">(function (d, w) {var x = d.getElementsByTagName('SCRIPT')[0];var f = function () {var s = d.createElement('SCRIPT');s.type = 'text/javascript';s.async = true;s.src = "//np.lexity.com/embed/YW/e0c5bed24635c580b45f15ca5094fcbc?id=95b585ae1bd5";x.parentNode.insertBefore(s, x);};w.attachEvent ? w.attachEvent('onload',f) :w.addEventListener('load',f,false);}(document, window));</script>
+

@@ -1,0 +1,48 @@
+WARC/1.0
+WARC-Type: warcinfo
+WARC-Date: 2018-05-30T18:18:32Z
+WARC-All-Language: en
+WARC-All-Content_type: text/html
+WARC-Record-ID: <urn:uuid:731ae46a-3827-4f73-9bf9-a960aa3bc39b>
+Content-Type: application/http;msgtype=response
+Content-Length: 46
+
+WARCProcessor by SING Group www.sing-group.com
+
+WARC/1.0
+WARC-Type: response
+WARC-Target-URI: http://www.estrat.eu
+WARC-Date: 20180530181832
+WARC-Language: en
+WARC-Record-ID: <http://www.estrat.eu>
+Content-Type: application/http;msgtype=response
+Content-Length: 996
+
+HTTP/1.1 200
+Content-Type:text/html
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<title>eStrat sarl</title>
+<style type="text/css">
+.base_font {
+	font-family: Trebuchet MS, Arial, Helvetica, sans-serif;
+}
+</style>
+</head>
+
+<body>
+<p align="center">&nbsp;</p>
+<p align="center">&nbsp;</p>
+<p align="center"><img src="estrat-logo.jpg" width="222" height="90" /></p>
+<p align="center" class="base_font">Welcome to the eStrat website.</p>
+<p align="center" class="base_font">eStrat sarl is currently inactive. Its activities have been moved to other organisations.</p>
+<p align="center" class="base_font">For more information send an <a href="mailto:robbert.fisher@estrat.eu">email</a></p>
+<p align="center" class="base_font"><img src="ebanner.jpg" width="480" height="60" /></p>
+</body>
+</html>
+
+

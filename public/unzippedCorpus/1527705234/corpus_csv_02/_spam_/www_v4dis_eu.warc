@@ -1,0 +1,330 @@
+WARC/1.0
+WARC-Type: warcinfo
+WARC-Date: 2018-05-30T18:18:32Z
+WARC-All-Language: en
+WARC-All-Content_type: text/html; Charset=utf-8
+WARC-Record-ID: <urn:uuid:0cb124de-a53e-4f98-81ec-9be1c55f447c>
+Content-Type: application/http;msgtype=response
+Content-Length: 46
+
+WARCProcessor by SING Group www.sing-group.com
+
+WARC/1.0
+WARC-Type: response
+WARC-Target-URI: http://www.v4dis.eu
+WARC-Date: 20180530181832
+WARC-Language: en
+WARC-Record-ID: <http://www.v4dis.eu>
+Content-Type: application/http;msgtype=response
+Content-Length: 14809
+
+HTTP/1.1 200
+Content-Type:text/html; Charset=utf-8
+
+
+
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <!-- The above meta tags *must* come first in the head; any other head content must come *after* these tags -->
+    <title>V4DIS 2018</title>
+    <base href="/">
+    <!-- Bootstrap core CSS -->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+    <!-- Font Awesome -->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" integrity="sha384-wvfXpqpZZVQGK6TAh5PVlGOfQNHSoD2xbE+QkPxCAFlNEevoEH3Sl0sibVcOQVnN" crossorigin="anonymous">
+    <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/css/ie10-viewport-bug-workaround.css">
+    <!-- Respond.js requires local CSS -->
+    <!--[if lt IE 9]>
+    <link rel="stylesheet" href="res/cdn/bootstrap.min.css">
+    <link rel="stylesheet" href="res/cdn/font-awesome.min.css">
+    <link rel="stylesheet" href="res/cdn/ie10-viewport-bug-workaround.css">
+    <![endif]-->
+    <!-- Custom styles for this template -->
+    <link rel="stylesheet" href="res/style.min.css?ts=20180131-2">
+
+    <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+    <!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/html5shiv/3.7.3/html5shiv.min.js"></script>
+      <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+    <![endif]-->
+  </head>
+  <body>
+<nav class="custom navbar navbar-default navbar-static-top" data-toggle="sticky-onscroll">
+  <div class="container">
+    <div class="navbar-header">
+      <a href="/" class="navbar-brand"><img src="img/logo/v4dis.svg" alt="V4DIS" title="V4DIS"></a>
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#menu-bar" aria-expanded="false" aria-controls="menu-bar">
+        <span class="icon-label">Menu</span>
+        <span class="icon-bar top-bar"></span>
+        <span class="icon-bar middle-bar"></span>
+        <span class="icon-bar bottom-bar"></span>
+      </button>
+    </div>
+
+    <div id="menu-bar" class="collapse navbar-collapse">
+<ul class="nav navbar-nav navbar-right">
+  <li class="dropdown">
+    <a href="#" class="dropdown-toggle" data-toggle="dropdown" data-hover="dropdown" role="button" aria-haspopup="true" aria-expanded="false"><span class="sr-only">English</span><span title="English" class="flag flag-en"></span></a>
+    <ul class="dropdown-menu">
+      <li><a href="?lang=en"><span class="flag flag-gb"></span> English</a></li>
+      <li><a href="?lang=cs"><span class="flag flag-cz"></span> Česky</a></li>
+      <li><a href="?lang=hu"><span class="flag flag-hu"></span> Magyar</a></li>
+      <li><a href="?lang=pl"><span class="flag flag-pl"></span> Polski</a></li>
+      <li><a href="?lang=sk"><span class="flag flag-sk"></span> Slovensky</a></li>
+    </ul>
+  </li>
+  <li class="dropdown">
+    <a href="#" class="dropdown-toggle" data-toggle="dropdown" data-hover="dropdown" role="button" aria-haspopup="true" aria-expanded="false">V4DIS 2018</a>
+    <ul class="dropdown-menu">
+      <li><a href="/">V4DIS</a></li>
+      <li><a href="http://www.isss.cz">ISSS</a></li>
+      <li role="separator" class="divider"></li>
+      <li><a href="art/archive">Archive</a></li>
+    </ul>
+  </li>
+  <li class="dropdown">
+    <a href="#" class="dropdown-toggle" data-toggle="dropdown" data-hover="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Information</a>
+    <ul class="dropdown-menu">
+      <li><a href="list/press-release">Press Release</a></li>
+      <li><a href="list/news">News Archive</a></li>
+      <li><a href="list/photo">Photo Gallery</a></li>
+    </ul>
+  </li>
+  <li class="dropdown">
+    <a href="#" class="dropdown-toggle" data-toggle="dropdown" data-hover="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Cooperation</a>
+    <ul class="dropdown-menu">
+      <li><a href="art/organizer">Organizers</a></li>
+      <li><a href="art/organizer#project-partners">Project Partners</a></li>
+      <li><a href="art/partner-media">Partners &amp; Media Partners</a></li>
+    </ul>
+  </li>
+  <li class="dropdown">
+    <a href="#" class="dropdown-toggle" data-toggle="dropdown" data-hover="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Contact</a>
+    <ul class="dropdown-menu">
+      <li><a href="art/team">Realisation Team</a></li>
+      <li><a href="art/venue">Venue</a></li>
+    </ul>
+  </li>
+</ul>
+
+    </div>
+  </div>
+</nav>
+<div class="container">
+
+  <h1 class="sr-only">V4DIS</h1>
+
+  <div class="row">
+    <div class="col-md-9">
+      <main>
+
+<div id="isss-carousel" class="carousel slide" data-ride="carousel" data-interval="7500"><!-- carousel -->
+  <div class="carousel-inner" role="listbox">
+
+    <div class="item active">
+      <a href="list/photo"><img src="/archiv/2018/foto/_opening2018!.jpg" alt="The gala opening of the ISSS/V4DIS 2018 conference"></a>
+      <div class="container">
+        <div class="carousel-caption">
+          <h2>The gala opening of the ISSS/V4DIS 2018 conference</h2>
+          <p></p>
+        </div>
+      </div>
+    </div>
+
+    <div class="item">
+      <a href="list/photo"><img src="/archiv/2018/foto/_vystrcil2018!.jpg" alt="Milos Vystrcil, Senate of the Parliament"></a>
+      <div class="container">
+        <div class="carousel-caption">
+          <h2>Milos Vystrcil, Senate of the Parliament</h2>
+          <p></p>
+        </div>
+      </div>
+    </div>
+
+    <div class="item">
+      <a href="list/photo"><img src="/archiv/2018/foto/_juniorerb2018!.jpg" alt="The winners of the JuniorErb 2018 competition"></a>
+      <div class="container">
+        <div class="carousel-caption">
+          <h2>The winners of the JuniorErb 2018 competition</h2>
+          <p></p>
+        </div>
+      </div>
+    </div>
+
+  </div>
+
+  <ol class="carousel-indicators">
+
+    <li data-target="#isss-carousel" data-slide-to="0" class="active"></li>
+
+    <li data-target="#isss-carousel" data-slide-to="1"></li>
+
+    <li data-target="#isss-carousel" data-slide-to="2"></li>
+
+  </ol>
+
+  <a class="left carousel-control" href="#isss-carousel" role="button" data-slide="prev">
+    <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
+    <span class="sr-only">Předchozí</span>
+  </a>
+  <a class="right carousel-control" href="#isss-carousel" role="button" data-slide="next">
+    <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
+    <span class="sr-only">Následující</span>
+  </a>
+
+</div><!-- /carousel -->
+
+<div class="row is-flex title-page prime"><!-- title page.prime -->
+
+  <div class="col-md-6 col-xs-12">
+    <article>
+      <a href="art/1240" class="btn btn-default"><h2>Hodnocení konference ze strany hostů ze zemí V4</h2></a>
+
+      <a href="art/1240"><img src="/archiv/2018/foto/_v4dis-opening_.jpg" alt="Hodnocení konference ze strany hostů ze zemí V4" class="img-responsive"></a>
+
+    </article>
+  </div>
+
+  <div class="col-md-6 col-xs-12">
+    <article>
+      <a href="art/1235" class="btn btn-default"><h2>V4DIS 2018&nbsp;– popatnácté s&nbsp;ISSS</h2></a>
+
+      <div class="text">
+      <p>Patnáctý ročník konference V4DIS (Visegrad Four for Developing Information
+Society), který se uskutečnil ve dnech 9. a 10.&nbsp;dubna 2018 souběžně
+s&nbsp;národní konferencí ISSS, letos oficiálně podpořil i&nbsp;Visegrádský fond.
+Na dvoudenní konferenci v&nbsp;konferenčním centru Aldis v&nbsp;Hradci Králové se
+setkali zástupci veřejné správy zemí Visegrádské čtyřky, kteří se věnují
+problematice informatizace společnosti, rozvoji e-governmentu a reformě veřejné
+správy, s&nbsp;tuzemskými i&nbsp;zahraničními odborníky na tuto problematiku. <a href="art/1235">(více)</a></p>
+      </div>
+
+    </article>
+  </div>
+
+  <div class="col-md-6 col-xs-12">
+    <article>
+      <a href="art/1206" class="btn btn-default"><h2>Komentáře zástupců partnerů z Maďarska ke konferenci V4DIS 2018</h2></a>
+
+      <div class="text">
+      <p>„Úgy gondoljuk, hogy a V4 országai között létrejött informatizációs
+együttműködés nagyon fontos, hiszen a mai digitalizált és online világban a
+közigazgatás ügyfél-barátabbá tétele elsősorban az internet segítségével
+valósulhat meg, azáltal, hogy online felületen tudják az állampolgárok az ügyeiket
+intézni, szinte ’home office-ban’. A&nbsp;V4DIS, vagy a hozzá hasonló tematikájú
+konferenciákat rendkívül hasznosnak találjuk, hiszen itt van mód és lehetőség az
+abban részt vevő partnerekkel való kölcsönös véleménycserére, a különböző
+gyakorlati tapasztalatok megosztására. <a href="art/1206">(více)</a></p>
+      </div>
+
+    </article>
+  </div>
+
+  <div class="col-md-6 col-xs-12">
+    <article>
+      <a href="do/watch?id=51" class="btn btn-default"><h2>Videozáznam slavnostního zahájení</h2></a>
+
+      <a href="do/watch?id=51"><div class="video-play"><img src="/archiv/2018/foto/_video-jourova_.jpg" alt="Videozáznam slavnostního zahájení" class="img-responsive"></div></a>
+
+    </article>
+  </div>
+
+  <div class="col-md-6 col-xs-12">
+    <article>
+      <a href="https://ec.europa.eu/isa2/events/isssv4dis-2018_en" title="Externí odkaz" class="btn btn-default"><h2>ISSS/V4DIS conference among the EU events</h2></a>
+
+      <a href="https://ec.europa.eu/isa2/events/isssv4dis-2018_en" title="Externí odkaz"><img src="/archiv/2018/foto/_1187_.png" alt="ISSS/V4DIS conference among the EU events" class="img-responsive"></a>
+
+    </article>
+  </div>
+
+  <div class="col-md-6 col-xs-12">
+    <article>
+      <a href="art/1204" class="btn btn-default"><h2>V4DIS 2018—themes and guests</h2></a>
+
+      <div class="text">
+      <div><a href="art/1203">Česky</a> <a href="art/1203"><span title="Česky" class="flag flag-cs"></span></a></div>
+<p>This year V4DIS conference key themes will include state of e-government at the local
+level and its further development, “smart cities” and “smart regions” concepts or
+ICT utilization in promoting areas interesting from the touristic point of view—and all
+that mainly from the point of view of the V4&nbsp;region. There will be also interesting
+speeches concerning further development of cross-border cooperation, using geoinformation
+or experience in modern technologies implementation in the wide spectrum of areas
+connected with public administration. <a href="art/1204">(more)</a></p>
+      </div>
+
+    </article>
+  </div>
+
+</div><!-- /title page.prime -->
+
+<div class="row is-flex title-page news"><!-- title page.news -->
+
+  <div class="col-md-12">
+    <a href="art/1174" class="btn btn-default"><article><time datetime="2017-10-17">10/17/2017</time><h2>V4DIS 2018–Visegrad conference already for the fifteenth time</h2></article></a>
+  </div>
+
+  <div class="col-md-12">
+    <a href="art/1182" class="btn btn-default"><article><time datetime="2018-01-02">1/2/2018</time><h2>V4DIS 2018 was supported by the International Visegrad Fund</h2></article></a>
+  </div>
+
+  <div class="col-xs-12 col-md-3">
+    <a class="btn btn-brand" href="list/news"><h2>News Archive</h2></a>
+  </div>
+
+</div><!-- /title page.news -->
+      </main>
+    </div>
+
+    <div class="col-md-3">
+      <aside class="sidebar logo-block">
+<figure>
+  <figcaption>Support</figcaption>
+  <a href="http://www.visegrad.fund" rel="noopener noreferrer" target="_blank"><img src="img/logo/visegrad-fund.svg" width="130" height="58" alt="International Visegrad Fund" title="International Visegrad Fund"></a>
+  <a href="http://www.kr-vysocina.cz" rel="noopener noreferrer" target="_blank"><img src="img/logo/vysocina.svg" width="110" height="35" alt="Vysocina Region" title="Vysocina Region"></a>
+  <a href="http://www.kr-kralovehradecky.cz" rel="noopener noreferrer" target="_blank"><img src="img/logo/kralovehradecky.svg" width="110" height="49" alt="Kralovehradecky Region" title="Kralovehradecky Region"></a>
+</figure>
+
+<figure>
+  <figcaption>Organizer</figcaption>
+  <a href="http://www.ceskyzavinac.cz" rel="noopener noreferrer" target="_blank"><img src="img/logo/cesky-zavinac.svg" width="160" height="35" alt="Czech At Association" title="Czech At Association"></a>
+</figure>
+
+<figure>
+  <figcaption>Host Cities</figcaption>
+  <a href="http://www.praha-mesto.cz" rel="noopener noreferrer" target="_blank"><img src="img/logo/praha.svg" width="57" height="57" alt="City of Prague" title="City of Prague"></a>
+  <a href="http://www.hradeckralove.org" rel="noopener noreferrer" target="_blank"><img src="img/logo/hradec-kralove.svg" width="95" height="45" alt="City of Hradec Kralove" title="City of Hradec Kralove"></a>
+</figure>
+
+<figure>
+  <figcaption>Contests</figcaption>
+  <a href="http://www.ceskyzavinac.cz/art/je-soutez" rel="noopener noreferrer" target="_blank"><img src="img/logo/juniorerb.svg" width="100" height="34" alt="JuniorErb" title="JuniorErb"></a>
+  <a href="/art/eurocrest"><img src="img/logo/eurocrest.svg" width="100" height="20" alt="EuroCrest" title="EuroCrest"></a>
+</figure>
+
+      </aside>
+    </div>
+
+  </div><!-- /row -->
+</div><!-- /container -->
+
+<footer>
+  <p>Copyright © 2018 <a target="_blank" href="http://www.ceskyzavinac.cz">Czech At Association</a>, <a href="mailto:webmaster@isss.cz">webmaster@isss.cz</a></p>
+</footer><!-- Bootstrap core JavaScript ================================================== -->
+<!-- Placed at the end of the document so the pages load faster -->
+<script src="https://code.jquery.com/jquery-3.2.1.min.js" integrity="sha256-hwg4gsxgFZhOsEEamdOYGBf13FyQuiTwlAQgxVSNgt4=" crossorigin="anonymous"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
+<!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
+<script src="https://maxcdn.bootstrapcdn.com/js/ie10-viewport-bug-workaround.js"></script>
+<!-- Bootstrap Hover Dropdown -->
+<script src="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-hover-dropdown/2.2.1/bootstrap-hover-dropdown.min.js"></script>
+<!-- Custom Bundle -->
+<script src="/res/bundle.min.js?ts=20180111"></script>
+
+  </body>
+</html>
+

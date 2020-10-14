@@ -1,0 +1,1347 @@
+WARC/1.0
+WARC-Type: warcinfo
+WARC-Date: 2018-05-23T09:03:43Z
+WARC-Record-ID: <urn:uuid:37dcfe64-8d00-4a7c-a5af-b419a6939f12>
+WARC-All-Language: en, en-GB
+WARC-All-Content_type: text/html; charset=UTF-8, text/html
+Content-Type: application/http;msgtype=response
+Content-Length: 46
+
+WARCProcessor by SING Group www.sing-group.com
+
+WARC/1.0
+WARC-Type: response
+WARC-Record-ID: <http://www.abbeylocks.co.uk>
+WARC-Date: 20180523090343
+WARC-Target-URI: http://www.abbeylocks.co.uk
+WARC-Language: en-GB
+Content-Type: application/http;msgtype=response
+Content-Length: 117193
+
+HTTP/1.1 200
+Content-Type:text/html; charset=UTF-8
+
+
+<!DOCTYPE html>
+<!--[if !(IE 6) | !(IE 7) | !(IE 8)  ]><!-->
+<html lang="en-GB" prefix="og: http://ogp.me/ns#" class="no-js">
+<!--<![endif]-->
+<head>
+	<meta charset="UTF-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=0">
+	    <meta name="theme-color" content="#efab00"/>	<link rel="profile" href="http://gmpg.org/xfn/11" />
+	<link rel="pingback" href="http://www.abbeylocks.co.uk/xmlrpc.php" />
+            <script type="text/javascript">
+            if (/Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent)) {
+                var originalAddEventListener = EventTarget.prototype.addEventListener,
+                    oldWidth = window.innerWidth;
+
+                EventTarget.prototype.addEventListener = function (eventName, eventHandler, useCapture) {
+                    if (eventName === "resize") {
+                        originalAddEventListener.call(this, eventName, function (event) {
+                            if (oldWidth === window.innerWidth) {
+                                return;
+                            }
+                            else if (oldWidth !== window.innerWidth) {
+                                oldWidth = window.innerWidth;
+                            }
+                            if (eventHandler.handleEvent) {
+                                eventHandler.handleEvent.call(this, event);
+                            }
+                            else {
+                                eventHandler.call(this, event);
+                            };
+                        }, useCapture);
+                    }
+                    else {
+                        originalAddEventListener.call(this, eventName, eventHandler, useCapture);
+                    };
+                };
+            };
+        </script>
+		
+<!-- MapPress Easy Google Maps Version:2.48.5 (http://www.wphostreviews.com/mappress) -->
+<script type='text/javascript'>mapp = window.mapp || {}; mapp.data = [];</script>
+<title>Emergency Locksmiths Watford, Enfield, Barnet &amp; North London</title>
+<meta property="og:title" content="Home"/>
+<meta property="og:description" content=""/>
+<meta name="twitter:card" content="summary">
+<meta property="twitter:title" content="Home"/>
+<meta property="twitter:description" content=""/>
+<meta name="author" content="Matt Thorpe"/>
+
+<!-- This site is optimized with the Yoast SEO plugin v7.5.1 - https://yoast.com/wordpress/plugins/seo/ -->
+<meta name="description" content="FAST 24 Hour Emergency Locksmith in Watford, Enfield, Barnet and North London. POLICE RECOGNISED Locksmiths with expertise. Call the Affordable, Trusted Experts on 0800 052 0775."/>
+<link rel="canonical" href="http://www.abbeylocks.co.uk/" />
+<link rel="publisher" href="https://plus.google.com/u/0/b/110513425347589480875/110513425347589480875/about"/>
+<meta property="og:locale" content="en_GB" />
+<meta property="og:type" content="website" />
+<meta property="og:url" content="http://www.abbeylocks.co.uk/" />
+<meta property="og:site_name" content="Abbey Locksmith" />
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:site" content="@abbeylocksmiths" />
+<meta name="twitter:creator" content="@abbeylocksmiths" />
+<script type='application/ld+json'>{"@context":"https:\/\/schema.org","@type":"WebSite","@id":"#website","url":"http:\/\/www.abbeylocks.co.uk\/","name":"Abbey Locksmiths Ltd","potentialAction":{"@type":"SearchAction","target":"http:\/\/www.abbeylocks.co.uk\/?s={search_term_string}","query-input":"required name=search_term_string"}}</script>
+<script type='application/ld+json'>{"@context":"https:\/\/schema.org","@type":"Organization","url":"http:\/\/www.abbeylocks.co.uk\/","sameAs":["https:\/\/www.facebook.com\/locksmithsabbey\/?ref=bookmarks","https:\/\/www.instagram.com\/locksmithsabbey\/","https:\/\/www.linkedin.com\/company\/abbeylocksmiths\/","https:\/\/plus.google.com\/u\/0\/b\/110513425347589480875\/110513425347589480875\/about","https:\/\/twitter.com\/abbeylocksmiths"],"@id":"http:\/\/www.abbeylocks.co.uk\/#organization","name":"Abbey Locksmiths","logo":"http:\/\/www.abbeylocks.co.uk\/wp-content\/uploads\/2017\/11\/Abbey_locksmiths_logo-e1509951138341.png"}</script>
+<!-- / Yoast SEO plugin. -->
+
+<link rel='dns-prefetch' href='//maxcdn.bootstrapcdn.com' />
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="Abbey Locksmith &raquo; Feed" href="http://www.abbeylocks.co.uk/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Abbey Locksmith &raquo; Comments Feed" href="http://www.abbeylocks.co.uk/comments/feed/" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.4\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.4\/svg\/","svgExt":".svg","source":{"concatemoji":"http:\/\/www.abbeylocks.co.uk\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.9.6"}};
+			!function(a,b,c){function d(a,b){var c=String.fromCharCode;l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,a),0,0);var d=k.toDataURL();l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,b),0,0);var e=k.toDataURL();return d===e}function e(a){var b;if(!l||!l.fillText)return!1;switch(l.textBaseline="top",l.font="600 32px Arial",a){case"flag":return!(b=d([55356,56826,55356,56819],[55356,56826,8203,55356,56819]))&&(b=d([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]),!b);case"emoji":return b=d([55357,56692,8205,9792,65039],[55357,56692,8203,9792,65039]),!b}return!1}function f(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var g,h,i,j,k=b.createElement("canvas"),l=k.getContext&&k.getContext("2d");for(j=Array("flag","emoji"),c.supports={everything:!0,everythingExceptFlag:!0},i=0;i<j.length;i++)c.supports[j[i]]=e(j[i]),c.supports.everything=c.supports.everything&&c.supports[j[i]],"flag"!==j[i]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[j[i]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(h=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",h,!1),a.addEventListener("load",h,!1)):(a.attachEvent("onload",h),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),g=c.source||{},g.concatemoji?f(g.concatemoji):g.wpemoji&&g.twemoji&&(f(g.twemoji),f(g.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='jquery.bxslider-css'  href='//www.abbeylocks.co.uk/wp-content/plugins/testimonials-widget/includes/libraries/bxslider-4/dist/jquery.bxslider.css?ver=4.9.6' type='text/css' media='all' />
+<link rel='stylesheet' id='Axl_Testimonials_Widget-css'  href='//www.abbeylocks.co.uk/wp-content/plugins/testimonials-widget/assets/css/testimonials-widget.css?ver=4.9.6' type='text/css' media='all' />
+<link rel='stylesheet' id='layerslider-css'  href='http://www.abbeylocks.co.uk/wp-content/plugins/LayerSlider/static/layerslider/css/layerslider.css?ver=6.7.5' type='text/css' media='all' />
+<link rel='stylesheet' id='contact-form-7-css'  href='http://www.abbeylocks.co.uk/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=5.0.1' type='text/css' media='all' />
+<link rel='stylesheet' id='cff-css'  href='http://www.abbeylocks.co.uk/wp-content/plugins/custom-facebook-feed/css/cff-style.css?ver=2.5' type='text/css' media='all' />
+<link rel='stylesheet' id='sb-font-awesome-css'  href='https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css?ver=4.9.6' type='text/css' media='all' />
+<link rel='stylesheet' id='mappress-css'  href='http://www.abbeylocks.co.uk/wp-content/plugins/mappress-google-maps-for-wordpress/css/mappress.css?ver=2.48.5' type='text/css' media='all' />
+<link rel='stylesheet' id='rs-plugin-settings-css'  href='http://www.abbeylocks.co.uk/wp-content/plugins/revslider/public/assets/css/settings.css?ver=5.4.7.3' type='text/css' media='all' />
+<style id='rs-plugin-settings-inline-css' type='text/css'>
+#rs-demo-id {}
+</style>
+<link rel='stylesheet' id='js_composer_front-css'  href='http://www.abbeylocks.co.uk/wp-content/plugins/js_composer/assets/css/js_composer.min.css?ver=5.4.7' type='text/css' media='all' />
+<link rel='stylesheet' id='dt-web-fonts-css'  href='//fonts.googleapis.com/css?family=Open+Sans%3A400%2C600%2C700%7CRaleway%3A400%2C600%2C700&#038;ver=4.9.6' type='text/css' media='all' />
+<link rel='stylesheet' id='dt-main-css'  href='http://www.abbeylocks.co.uk/wp-content/themes/dt-the7/css/main.min.css?ver=6.5.0' type='text/css' media='all' />
+<style id='dt-main-inline-css' type='text/css'>
+body #load {
+  display: block;
+  height: 100%;
+  overflow: hidden;
+  position: fixed;
+  width: 100%;
+  z-index: 9901;
+  opacity: 1;
+  visibility: visible;
+  -webkit-transition: all .35s ease-out;
+  transition: all .35s ease-out;
+}
+.load-wrap {
+  width: 100%;
+  height: 100%;
+  background-position: center center;
+  background-repeat: no-repeat;
+  text-align: center;
+}
+.load-wrap > svg {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  -ms-transform: translate(-50%,-50%);
+  -webkit-transform: translate(-50%,-50%);
+  transform: translate(-50%,-50%);
+}
+#load {
+  background-color: #ffffff;
+}
+.uil-default rect:not(.bk) {
+  fill: #efab00;
+}
+.uil-ring > path {
+  fill: #efab00;
+}
+.ring-loader .circle {
+  fill: #efab00;
+}
+.ring-loader .moving-circle {
+  fill: #efab00;
+}
+.uil-hourglass .glass {
+  stroke: #efab00;
+}
+.uil-hourglass .sand {
+  fill: #efab00;
+}
+.spinner-loader .load-wrap {
+  background-image: url("data:image/svg+xml,%3Csvg width='75px' height='75px' xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100' preserveAspectRatio='xMidYMid' class='uil-default'%3E%3Crect x='0' y='0' width='100' height='100' fill='none' class='bk'%3E%3C/rect%3E%3Crect  x='46.5' y='40' width='7' height='20' rx='5' ry='5' fill='%23efab00' transform='rotate(0 50 50) translate(0 -30)'%3E  %3Canimate attributeName='opacity' from='1' to='0' dur='1s' begin='0s' repeatCount='indefinite'/%3E%3C/rect%3E%3Crect  x='46.5' y='40' width='7' height='20' rx='5' ry='5' fill='%23efab00' transform='rotate(30 50 50) translate(0 -30)'%3E  %3Canimate attributeName='opacity' from='1' to='0' dur='1s' begin='0.08333333333333333s' repeatCount='indefinite'/%3E%3C/rect%3E%3Crect  x='46.5' y='40' width='7' height='20' rx='5' ry='5' fill='%23efab00' transform='rotate(60 50 50) translate(0 -30)'%3E  %3Canimate attributeName='opacity' from='1' to='0' dur='1s' begin='0.16666666666666666s' repeatCount='indefinite'/%3E%3C/rect%3E%3Crect  x='46.5' y='40' width='7' height='20' rx='5' ry='5' fill='%23efab00' transform='rotate(90 50 50) translate(0 -30)'%3E  %3Canimate attributeName='opacity' from='1' to='0' dur='1s' begin='0.25s' repeatCount='indefinite'/%3E%3C/rect%3E%3Crect  x='46.5' y='40' width='7' height='20' rx='5' ry='5' fill='%23efab00' transform='rotate(120 50 50) translate(0 -30)'%3E  %3Canimate attributeName='opacity' from='1' to='0' dur='1s' begin='0.3333333333333333s' repeatCount='indefinite'/%3E%3C/rect%3E%3Crect  x='46.5' y='40' width='7' height='20' rx='5' ry='5' fill='%23efab00' transform='rotate(150 50 50) translate(0 -30)'%3E  %3Canimate attributeName='opacity' from='1' to='0' dur='1s' begin='0.4166666666666667s' repeatCount='indefinite'/%3E%3C/rect%3E%3Crect  x='46.5' y='40' width='7' height='20' rx='5' ry='5' fill='%23efab00' transform='rotate(180 50 50) translate(0 -30)'%3E  %3Canimate attributeName='opacity' from='1' to='0' dur='1s' begin='0.5s' repeatCount='indefinite'/%3E%3C/rect%3E%3Crect  x='46.5' y='40' width='7' height='20' rx='5' ry='5' fill='%23efab00' transform='rotate(210 50 50) translate(0 -30)'%3E  %3Canimate attributeName='opacity' from='1' to='0' dur='1s' begin='0.5833333333333334s' repeatCount='indefinite'/%3E%3C/rect%3E%3Crect  x='46.5' y='40' width='7' height='20' rx='5' ry='5' fill='%23efab00' transform='rotate(240 50 50) translate(0 -30)'%3E  %3Canimate attributeName='opacity' from='1' to='0' dur='1s' begin='0.6666666666666666s' repeatCount='indefinite'/%3E%3C/rect%3E%3Crect  x='46.5' y='40' width='7' height='20' rx='5' ry='5' fill='%23efab00' transform='rotate(270 50 50) translate(0 -30)'%3E  %3Canimate attributeName='opacity' from='1' to='0' dur='1s' begin='0.75s' repeatCount='indefinite'/%3E%3C/rect%3E%3Crect  x='46.5' y='40' width='7' height='20' rx='5' ry='5' fill='%23efab00' transform='rotate(300 50 50) translate(0 -30)'%3E  %3Canimate attributeName='opacity' from='1' to='0' dur='1s' begin='0.8333333333333334s' repeatCount='indefinite'/%3E%3C/rect%3E%3Crect  x='46.5' y='40' width='7' height='20' rx='5' ry='5' fill='%23efab00' transform='rotate(330 50 50) translate(0 -30)'%3E  %3Canimate attributeName='opacity' from='1' to='0' dur='1s' begin='0.9166666666666666s' repeatCount='indefinite'/%3E%3C/rect%3E%3C/svg%3E");
+}
+.ring-loader .load-wrap {
+  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32' width='72' height='72' fill='%23efab00'%3E   %3Cpath opacity='.25' d='M16 0 A16 16 0 0 0 16 32 A16 16 0 0 0 16 0 M16 4 A12 12 0 0 1 16 28 A12 12 0 0 1 16 4'/%3E   %3Cpath d='M16 0 A16 16 0 0 1 32 16 L28 16 A12 12 0 0 0 16 4z'%3E     %3CanimateTransform attributeName='transform' type='rotate' from='0 16 16' to='360 16 16' dur='0.8s' repeatCount='indefinite' /%3E   %3C/path%3E %3C/svg%3E");
+}
+.hourglass-loader .load-wrap {
+  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32' width='72' height='72' fill='%23efab00'%3E   %3Cpath transform='translate(2)' d='M0 12 V20 H4 V12z'%3E      %3Canimate attributeName='d' values='M0 12 V20 H4 V12z; M0 4 V28 H4 V4z; M0 12 V20 H4 V12z; M0 12 V20 H4 V12z' dur='1.2s' repeatCount='indefinite' begin='0' keytimes='0;.2;.5;1' keySplines='0.2 0.2 0.4 0.8;0.2 0.6 0.4 0.8;0.2 0.8 0.4 0.8' calcMode='spline'  /%3E   %3C/path%3E   %3Cpath transform='translate(8)' d='M0 12 V20 H4 V12z'%3E     %3Canimate attributeName='d' values='M0 12 V20 H4 V12z; M0 4 V28 H4 V4z; M0 12 V20 H4 V12z; M0 12 V20 H4 V12z' dur='1.2s' repeatCount='indefinite' begin='0.2' keytimes='0;.2;.5;1' keySplines='0.2 0.2 0.4 0.8;0.2 0.6 0.4 0.8;0.2 0.8 0.4 0.8' calcMode='spline'  /%3E   %3C/path%3E   %3Cpath transform='translate(14)' d='M0 12 V20 H4 V12z'%3E     %3Canimate attributeName='d' values='M0 12 V20 H4 V12z; M0 4 V28 H4 V4z; M0 12 V20 H4 V12z; M0 12 V20 H4 V12z' dur='1.2s' repeatCount='indefinite' begin='0.4' keytimes='0;.2;.5;1' keySplines='0.2 0.2 0.4 0.8;0.2 0.6 0.4 0.8;0.2 0.8 0.4 0.8' calcMode='spline' /%3E   %3C/path%3E   %3Cpath transform='translate(20)' d='M0 12 V20 H4 V12z'%3E     %3Canimate attributeName='d' values='M0 12 V20 H4 V12z; M0 4 V28 H4 V4z; M0 12 V20 H4 V12z; M0 12 V20 H4 V12z' dur='1.2s' repeatCount='indefinite' begin='0.6' keytimes='0;.2;.5;1' keySplines='0.2 0.2 0.4 0.8;0.2 0.6 0.4 0.8;0.2 0.8 0.4 0.8' calcMode='spline' /%3E   %3C/path%3E   %3Cpath transform='translate(26)' d='M0 12 V20 H4 V12z'%3E     %3Canimate attributeName='d' values='M0 12 V20 H4 V12z; M0 4 V28 H4 V4z; M0 12 V20 H4 V12z; M0 12 V20 H4 V12z' dur='1.2s' repeatCount='indefinite' begin='0.8' keytimes='0;.2;.5;1' keySplines='0.2 0.2 0.4 0.8;0.2 0.6 0.4 0.8;0.2 0.8 0.4 0.8' calcMode='spline' /%3E   %3C/path%3E %3C/svg%3E");
+}
+
+</style>
+<link rel='stylesheet' id='dt-awsome-fonts-back-css'  href='http://www.abbeylocks.co.uk/wp-content/themes/dt-the7/fonts/FontAwesome/back-compat.min.css?ver=6.5.0' type='text/css' media='all' />
+<link rel='stylesheet' id='dt-awsome-fonts-css'  href='http://www.abbeylocks.co.uk/wp-content/themes/dt-the7/fonts/FontAwesome/css/fontawesome-all.min.css?ver=6.5.0' type='text/css' media='all' />
+<link rel='stylesheet' id='dt-fontello-css'  href='http://www.abbeylocks.co.uk/wp-content/themes/dt-the7/fonts/fontello/css/fontello.min.css?ver=6.5.0' type='text/css' media='all' />
+<link rel='stylesheet' id='the7pt-static-css'  href='http://www.abbeylocks.co.uk/wp-content/themes/dt-the7/css/post-type.css?ver=1.0.0' type='text/css' media='all' />
+<link rel='stylesheet' id='dt-custom-css'  href='http://www.abbeylocks.co.uk/wp-content/uploads/the7-css/custom.css?ver=e6da9f11599b' type='text/css' media='all' />
+<link rel='stylesheet' id='dt-media-css'  href='http://www.abbeylocks.co.uk/wp-content/uploads/the7-css/media.css?ver=e6da9f11599b' type='text/css' media='all' />
+<link rel='stylesheet' id='the7pt.less-css'  href='http://www.abbeylocks.co.uk/wp-content/uploads/the7-css/post-type-dynamic.css?ver=e6da9f11599b' type='text/css' media='all' />
+<link rel='stylesheet' id='style-css'  href='http://www.abbeylocks.co.uk/wp-content/themes/dt-the7-child/style.css?ver=6.5.0' type='text/css' media='all' />
+<link rel='stylesheet' id='bsf-Defaults-css'  href='http://www.abbeylocks.co.uk/wp-content/uploads/smile_fonts/Defaults/Defaults.css?ver=4.9.6' type='text/css' media='all' />
+<link rel='stylesheet' id='bsf-icomoon-font-awesome-14x14-css'  href='http://www.abbeylocks.co.uk/wp-content/uploads/smile_fonts/icomoon-font-awesome-14x14/icomoon-font-awesome-14x14.css?ver=4.9.6' type='text/css' media='all' />
+<link rel='stylesheet' id='ultimate-google-fonts-css'  href='https://fonts.googleapis.com/css?family=Raleway:regular,700' type='text/css' media='all' />
+<link rel='stylesheet' id='ultimate-style-css'  href='http://www.abbeylocks.co.uk/wp-content/plugins/Ultimate_VC_Addons/assets/min-css/style.min.css?ver=3.16.23' type='text/css' media='all' />
+<link rel='stylesheet' id='ult-btn-css'  href='http://www.abbeylocks.co.uk/wp-content/plugins/Ultimate_VC_Addons/assets/min-css/advanced-buttons.min.css?ver=3.16.23' type='text/css' media='all' />
+<link rel='stylesheet' id='ultimate-headings-style-css'  href='http://www.abbeylocks.co.uk/wp-content/plugins/Ultimate_VC_Addons/assets/min-css/headings.min.css?ver=3.16.23' type='text/css' media='all' />
+<link rel='stylesheet' id='ultimate-animate-css'  href='http://www.abbeylocks.co.uk/wp-content/plugins/Ultimate_VC_Addons/assets/min-css/animate.min.css?ver=3.16.23' type='text/css' media='all' />
+<link rel='stylesheet' id='info-box-style-css'  href='http://www.abbeylocks.co.uk/wp-content/plugins/Ultimate_VC_Addons/assets/min-css/info-box.min.css?ver=3.16.23' type='text/css' media='all' />
+<script type='text/javascript'>
+/* <![CDATA[ */
+var slide_in = {"demo_dir":"http:\/\/www.abbeylocks.co.uk\/wp-content\/plugins\/convertplug\/modules\/slide_in\/assets\/demos"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://www.abbeylocks.co.uk/wp-includes/js/jquery/jquery.js?ver=1.12.4'></script>
+<script type='text/javascript' src='http://www.abbeylocks.co.uk/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var LS_Meta = {"v":"6.7.5"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://www.abbeylocks.co.uk/wp-content/plugins/LayerSlider/static/layerslider/js/greensock.js?ver=1.19.0'></script>
+<script type='text/javascript' src='http://www.abbeylocks.co.uk/wp-content/plugins/LayerSlider/static/layerslider/js/layerslider.kreaturamedia.jquery.js?ver=6.7.5'></script>
+<script type='text/javascript' src='http://www.abbeylocks.co.uk/wp-content/plugins/LayerSlider/static/layerslider/js/layerslider.transitions.js?ver=6.7.5'></script>
+<script type='text/javascript' src='http://www.abbeylocks.co.uk/wp-content/plugins/revslider/public/assets/js/jquery.themepunch.tools.min.js?ver=5.4.7.3'></script>
+<script type='text/javascript' src='http://www.abbeylocks.co.uk/wp-content/plugins/revslider/public/assets/js/jquery.themepunch.revolution.min.js?ver=5.4.7.3'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var dtLocal = {"themeUrl":"http:\/\/www.abbeylocks.co.uk\/wp-content\/themes\/dt-the7","passText":"To view this protected post, enter the password below:","moreButtonText":{"loading":"Loading...","loadMore":"Load more"},"postID":"3089","ajaxurl":"http:\/\/www.abbeylocks.co.uk\/wp-admin\/admin-ajax.php","contactMessages":{"required":"One or more fields have an error. Please check and try again.","terms":"Please accept the privacy policy."},"ajaxNonce":"9b1c674307","pageData":{"type":"page","template":"page","layout":null},"themeSettings":{"smoothScroll":"off","lazyLoading":false,"accentColor":{"mode":"solid","color":"#efab00"},"desktopHeader":{"height":150},"floatingHeader":{"showAfter":240,"showMenu":true,"height":60,"logo":{"showLogo":false,"html":"","url":"http:\/\/www.abbeylocks.co.uk\/"}},"mobileHeader":{"firstSwitchPoint":950,"secondSwitchPoint":650,"firstSwitchPointHeight":80,"secondSwitchPointHeight":60},"stickyMobileHeaderFirstSwitch":{"logo":{"html":"<img class=\" preload-me\" src=\"http:\/\/www.abbeylocks.co.uk\/wp-content\/uploads\/2017\/11\/Abbey_locksmiths_logo-e1509951138341.png\" srcset=\"http:\/\/www.abbeylocks.co.uk\/wp-content\/uploads\/2017\/11\/Abbey_locksmiths_logo-e1509951138341.png 255w, http:\/\/www.abbeylocks.co.uk\/wp-content\/uploads\/2017\/11\/Abbey_locksmiths_logo-e1509951138341.png 255w\" width=\"255\" height=\"95\"   sizes=\"255px\" alt=\"Abbey Locksmith\" \/>"}},"stickyMobileHeaderSecondSwitch":{"logo":{"html":"<img class=\" preload-me\" src=\"http:\/\/www.abbeylocks.co.uk\/wp-content\/uploads\/2017\/11\/Abbey_locksmiths_header-e1509950834339.png\" srcset=\"http:\/\/www.abbeylocks.co.uk\/wp-content\/uploads\/2017\/11\/Abbey_locksmiths_header-e1509950834339.png 135w, http:\/\/www.abbeylocks.co.uk\/wp-content\/uploads\/2017\/11\/Abbey_locksmiths_header-e1509950834339.png 135w\" width=\"135\" height=\"50\"   sizes=\"135px\" alt=\"Abbey Locksmith\" \/>"}},"content":{"textColor":"#7e7e7e","headerColor":"#3a3a3a"},"stripes":{"stripe1":{"textColor":"#7e7e7e","headerColor":"#3a3a3a"},"stripe2":{"textColor":"#999d9f","headerColor":"#ffffff"},"stripe3":{"textColor":"#3a3a3a","headerColor":"#3a3a3a"}}},"VCMobileScreenWidth":"768"};
+var dtShare = {"shareButtonText":{"facebook":"Share on Facebook","twitter":"Tweet","pinterest":"Pin it","linkedin":"Share on Linkedin","whatsapp":"Share on Whatsapp","google":"Share on Google Plus","download":"Download image"},"overlayOpacity":"85"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://www.abbeylocks.co.uk/wp-content/themes/dt-the7/js/above-the-fold.min.js?ver=6.5.0'></script>
+<script type='text/javascript' src='http://www.abbeylocks.co.uk/wp-content/plugins/Ultimate_VC_Addons/assets/min-js/ultimate-params.min.js?ver=3.16.23'></script>
+<script type='text/javascript' src='http://www.abbeylocks.co.uk/wp-content/plugins/Ultimate_VC_Addons/assets/min-js/custom.min.js?ver=3.16.23'></script>
+<script type='text/javascript' src='http://www.abbeylocks.co.uk/wp-content/plugins/Ultimate_VC_Addons/assets/min-js/jquery-appear.min.js?ver=3.16.23'></script>
+<script type='text/javascript' src='http://www.abbeylocks.co.uk/wp-content/plugins/Ultimate_VC_Addons/assets/min-js/headings.min.js?ver=3.16.23'></script>
+<meta name="generator" content="Powered by LayerSlider 6.7.5 - Multi-Purpose, Responsive, Parallax, Mobile-Friendly Slider Plugin for WordPress." />
+<!-- LayerSlider updates and docs at: https://layerslider.kreaturamedia.com -->
+<link rel='https://api.w.org/' href='http://www.abbeylocks.co.uk/wp-json/' />
+<meta name="generator" content="WordPress 4.9.6" />
+<link rel='shortlink' href='http://www.abbeylocks.co.uk/' />
+<link rel="alternate" type="application/json+oembed" href="http://www.abbeylocks.co.uk/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fwww.abbeylocks.co.uk%2F" />
+<link rel="alternate" type="text/xml+oembed" href="http://www.abbeylocks.co.uk/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fwww.abbeylocks.co.uk%2F&#038;format=xml" />
+
+<!-- Call Now Button 0.3.1 by Jerry Rietveld (callnowbutton.com) -->
+<style>#callnowbutton {display:none;} @media screen and (max-width:650px){#callnowbutton {display:block; position:fixed; text-decoration:none; z-index:2147483647;width:65px; height:65px; border-radius:80px; border-top:1px solid #2dc62d; border-bottom: 1px solid #006700; bottom:15px; box-shadow: 0 1px 2px rgba(0, 0, 0, 0.4);left:50%; margin-left:-33px;background:url(data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiB2aWV3Qm94PSIwIDAgNjAgNjAiPjxwYXRoIGQ9Ik03LjEwNCAxNC4wMzJsMTUuNTg2IDEuOTg0YzAgMC0wLjAxOSAwLjUgMCAwLjk1M2MwLjAyOSAwLjc1Ni0wLjI2IDEuNTM0LTAuODA5IDIuMSBsLTQuNzQgNC43NDJjMi4zNjEgMy4zIDE2LjUgMTcuNCAxOS44IDE5LjhsMTYuODEzIDEuMTQxYzAgMCAwIDAuNCAwIDEuMSBjLTAuMDAyIDAuNDc5LTAuMTc2IDAuOTUzLTAuNTQ5IDEuMzI3bC02LjUwNCA2LjUwNWMwIDAtMTEuMjYxIDAuOTg4LTI1LjkyNS0xMy42NzRDNi4xMTcgMjUuMyA3LjEgMTQgNy4xIDE0IiBmaWxsPSIjMDA2NzAwIi8+PHBhdGggZD0iTTcuMTA0IDEzLjAzMmw2LjUwNC02LjUwNWMwLjg5Ni0wLjg5NSAyLjMzNC0wLjY3OCAzLjEgMC4zNWw1LjU2MyA3LjggYzAuNzM4IDEgMC41IDIuNTMxLTAuMzYgMy40MjZsLTQuNzQgNC43NDJjMi4zNjEgMy4zIDUuMyA2LjkgOS4xIDEwLjY5OWMzLjg0MiAzLjggNy40IDYuNyAxMC43IDkuMSBsNC43NC00Ljc0MmMwLjg5Ny0wLjg5NSAyLjQ3MS0xLjAyNiAzLjQ5OC0wLjI4OWw3LjY0NiA1LjQ1NWMxLjAyNSAwLjcgMS4zIDIuMiAwLjQgMy4xMDVsLTYuNTA0IDYuNSBjMCAwLTExLjI2MiAwLjk4OC0yNS45MjUtMTMuNjc0QzYuMTE3IDI0LjMgNy4xIDEzIDcuMSAxMyIgZmlsbD0iI2ZmZiIvPjwvc3ZnPg==) center/50px 50px no-repeat #009900;}}</style>
+<script type="text/javascript">
+(function(url){
+	if(/(?:Chrome\/26\.0\.1410\.63 Safari\/537\.31|WordfenceTestMonBot)/.test(navigator.userAgent)){ return; }
+	var addEvent = function(evt, handler) {
+		if (window.addEventListener) {
+			document.addEventListener(evt, handler, false);
+		} else if (window.attachEvent) {
+			document.attachEvent('on' + evt, handler);
+		}
+	};
+	var removeEvent = function(evt, handler) {
+		if (window.removeEventListener) {
+			document.removeEventListener(evt, handler, false);
+		} else if (window.detachEvent) {
+			document.detachEvent('on' + evt, handler);
+		}
+	};
+	var evts = 'contextmenu dblclick drag dragend dragenter dragleave dragover dragstart drop keydown keypress keyup mousedown mousemove mouseout mouseover mouseup mousewheel scroll'.split(' ');
+	var logHuman = function() {
+		if (window.wfLogHumanRan) { return; }
+		window.wfLogHumanRan = true;
+		var wfscr = document.createElement('script');
+		wfscr.type = 'text/javascript';
+		wfscr.async = true;
+		wfscr.src = url + '&r=' + Math.random();
+		(document.getElementsByTagName('head')[0]||document.getElementsByTagName('body')[0]).appendChild(wfscr);
+		for (var i = 0; i < evts.length; i++) {
+			removeEvent(evts[i], logHuman);
+		}
+	};
+	for (var i = 0; i < evts.length; i++) {
+		addEvent(evts[i], logHuman);
+	}
+})('//www.abbeylocks.co.uk/?wordfence_lh=1&hid=E355DED0AF99A527B2CAD4EAC6838643');
+</script><meta name="generator" content="Powered by WPBakery Page Builder - drag and drop page builder for WordPress."/>
+<!--[if lte IE 9]><link rel="stylesheet" type="text/css" href="http://www.abbeylocks.co.uk/wp-content/plugins/js_composer/assets/css/vc_lte_ie9.min.css" media="screen"><![endif]--><meta name="generator" content="Powered by Slider Revolution 5.4.7.3 - responsive, Mobile-Friendly Slider Plugin for WordPress with comfortable drag and drop interface." />
+<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) { 
+	var $load = document.getElementById("load");
+	
+	var removeLoading = setTimeout(function() {
+		$load.className += " loader-removed";
+	}, 500);
+});
+</script>
+<link rel="icon" href="http://www.abbeylocks.co.uk/wp-content/uploads/2017/10/favicon.png" type="image/png" sizes="16x16"/><link rel="icon" href="http://www.abbeylocks.co.uk/wp-content/uploads/2017/10/favicon.png" type="image/png" sizes="32x32"/><script type="text/javascript">function setREVStartSize(e){									
+						try{ e.c=jQuery(e.c);var i=jQuery(window).width(),t=9999,r=0,n=0,l=0,f=0,s=0,h=0;
+							if(e.responsiveLevels&&(jQuery.each(e.responsiveLevels,function(e,f){f>i&&(t=r=f,l=e),i>f&&f>r&&(r=f,n=e)}),t>r&&(l=n)),f=e.gridheight[l]||e.gridheight[0]||e.gridheight,s=e.gridwidth[l]||e.gridwidth[0]||e.gridwidth,h=i/s,h=h>1?1:h,f=Math.round(h*f),"fullscreen"==e.sliderLayout){var u=(e.c.width(),jQuery(window).height());if(void 0!=e.fullScreenOffsetContainer){var c=e.fullScreenOffsetContainer.split(",");if (c) jQuery.each(c,function(e,i){u=jQuery(i).length>0?u-jQuery(i).outerHeight(!0):u}),e.fullScreenOffset.split("%").length>1&&void 0!=e.fullScreenOffset&&e.fullScreenOffset.length>0?u-=jQuery(window).height()*parseInt(e.fullScreenOffset,0)/100:void 0!=e.fullScreenOffset&&e.fullScreenOffset.length>0&&(u-=parseInt(e.fullScreenOffset,0))}f=u}else void 0!=e.minHeight&&f<e.minHeight&&(f=e.minHeight);e.c.closest(".rev_slider_wrapper").css({height:f})					
+						}catch(d){console.log("Failure at Presize of Slider:"+d)}						
+					};</script>
+		<style type="text/css" id="wp-custom-css">
+			/*
+You can add your own CSS here.
+
+Click the help icon above to learn more.
+*/
+
+/*.masthead {
+	margin-left:70px ! important;
+}*/
+
+
+
+.scroll-top {
+    bottom: 50px ! important;
+}
+@media only screen and (max-width: 500px) {
+    .scroll-top 
+	{
+    	bottom: 80px ! important;
+		right:25px ! important;
+	}
+}
+
+
+.aio-icon-component {
+    margin-bottom: 0px ! important; 
+}
+
+.bauhaus{
+display	:none ! important;
+}
+
+.list-view .carousel.list-carousel.flickity-enabled
+{
+	//visibility: hidden ! important;
+	display: none ! important;
+}
+
+.carousel list-carousel dots flickity-enabled
+{
+	display: none ! important;
+}
+
+
+
+h1 { font-size:30px !important; }
+h2 { font-size:20px !important; }
+h3 { font-size:16px !important; }
+
+#dt-btn-1
+{
+	background-color: #FF0000;
+}
+
+a, a:hover {
+    color: #efab00;
+	text-decoration:none;
+}
+
+.HeadClass
+{
+	font-size: 30px ! important;
+}
+
+#page .dt-btn:not(.btn-light):not(.light-bg-btn):not(.outline-btn):not(.outline-bg-btn):not(.btn-custom-style).default-btn-bg-hover-color:hover {
+    background: #000000! important;
+	
+}
+
+/*
+.wpb_button, .wpb_content_element{
+    margin-bottom: 10px ! important;
+}*/		</style>
+	<style type="text/css" data-type="vc_shortcodes-custom-css">.vc_custom_1510819069228{padding-bottom: 20px !important;}.vc_custom_1510061187530{padding-top: 50px !important;padding-bottom: 20px !important;background-color: #f6f6f6 !important;}.vc_custom_1510061204945{margin-bottom: 25px !important;padding-top: 50px !important;}.vc_custom_1510045662720{margin-top: -10px !important;}.vc_custom_1512829762348{margin-top: -20px !important;}.vc_custom_1510817801522{padding-left: 45px !important;}.vc_custom_1510045213828{padding-left: 45px !important;}.vc_custom_1510045227547{padding-left: 45px !important;}.vc_custom_1510819911045{padding-bottom: 50px !important;padding-left: 45px !important;}.vc_custom_1510045255601{padding-left: 45px !important;}.vc_custom_1510045272201{padding-left: 45px !important;}.vc_custom_1490179104815{padding-bottom: 50px !important;}.vc_custom_1509786181213{padding-bottom: 20px !important;}.vc_custom_1490178983369{padding-bottom: 50px !important;}.vc_custom_1490178987993{padding-bottom: 50px !important;}.vc_custom_1490178994543{padding-bottom: 50px !important;}.vc_custom_1509785941912{padding-bottom: 30px !important;}.vc_custom_1509786004957{padding-bottom: 30px !important;}.vc_custom_1510819344468{padding-bottom: 30px !important;}.vc_custom_1524498405617{margin-top: -20px !important;}</style><noscript><style type="text/css"> .wpb_animate_when_almost_visible { opacity: 1; }</style></noscript></head>
+<body class="home page-template-default page page-id-3089 disabled-hover-icons click-effect-on-img dt-responsive-on srcset-enabled btn-flat custom-btn-color custom-btn-hover-color bold-icons phantom-slide phantom-line-decoration phantom-logo-off sticky-mobile-header top-header first-switch-logo-left first-switch-menu-right second-switch-logo-left second-switch-menu-right right-mobile-menu layzr-loading-on popup-message-style dt-fa-compatibility the7-ver-6.5.0 wpb-js-composer js-comp-ver-5.4.7 vc_responsive accent-portfolio-icons album-minuatures-style-2">
+<!-- The7 6.5.0 -->
+<div id="load" class="spinner-loader">
+	<div class="load-wrap"></div>
+</div>
+<div id="page">
+	<a class="skip-link screen-reader-text" href="#content">Skip to content</a>
+
+<div class="masthead classic-header justify full-width-line widgets full-height dividers surround line-decoration small-mobile-menu-icon mobile-menu-icon-bg-on dt-parent-menu-clickable show-mobile-logo" role="banner">
+
+			<div class="top-bar top-bar-line-hide">
+			<div class="top-bar-bg" ></div>
+			<div class="mini-widgets left-widgets"></div>			<div class="right-widgets mini-widgets"><div class="mini-search show-on-desktop hide-on-first-switch hide-on-second-switch">	<form class="searchform" role="search" method="get" action="http://www.abbeylocks.co.uk/">
+
+	<label for="search" class="screen-reader-text">Search:</label>
+		<input type="text" class="field searchform-s" name="s" value="" placeholder="Type and hit enter &hellip;" />
+				<input type="submit" class="assistive-text searchsubmit" value="Go!" />
+		<a href="#go" id="trigger-overlay" class="submit">Search</a>
+	</form></div><div class="soc-ico show-on-desktop hide-on-first-switch hide-on-second-switch accent-bg disabled-border border-off  hover-disabled-border  hover-border-off"><a title="Facebook" href="https://www.facebook.com/locksmithsabbey/" target="_blank" class="facebook"><span class="soc-font-icon"></span><span class="screen-reader-text">Facebook</span></a></div></div>		</div>
+
+	<header class="header-bar">
+
+						<div class="branding">
+					<div id="site-title" class="assistive-text">Abbey Locksmith</div>
+					<div id="site-description" class="assistive-text"></div>
+					<a href="http://www.abbeylocks.co.uk/"><img class=" preload-me" src="http://www.abbeylocks.co.uk/wp-content/uploads/2017/11/Abbey_locksmiths_logo-e1509951138341.png" srcset="http://www.abbeylocks.co.uk/wp-content/uploads/2017/11/Abbey_locksmiths_logo-e1509951138341.png 255w, http://www.abbeylocks.co.uk/wp-content/uploads/2017/11/Abbey_locksmiths_logo-e1509951138341.png 255w" width="255" height="95"   sizes="255px" alt="Abbey Locksmith" /><img class="mobile-logo preload-me" src="http://www.abbeylocks.co.uk/wp-content/uploads/2017/11/Abbey_locksmiths_header-e1509950834339.png" srcset="http://www.abbeylocks.co.uk/wp-content/uploads/2017/11/Abbey_locksmiths_header-e1509950834339.png 135w, http://www.abbeylocks.co.uk/wp-content/uploads/2017/11/Abbey_locksmiths_header-e1509950834339.png 135w" width="135" height="50"   sizes="135px" alt="Abbey Locksmith" /></a><div class="mini-widgets"><div class="text-area show-on-desktop hide-on-first-switch hide-on-second-switch"><div style="padding-left:90px;"><a href="http://www.abbeylocks.co.uk/emergency-locksmith-service/" class="btn-shortcode dt-btn-l dt-btn default-btn-color default-btn-hover-color default-btn-bg-color default-btn-bg-hover-color" target="_blank" id="dt-btn-1"><span>24 HR EMERGENCY CALL-OUT</span></a></div>
+</div></div><div class="mini-widgets"><span class="mini-contacts phone mini-icon-off show-on-desktop hide-on-first-switch hide-on-second-switch"><span class="fa fa-phone fa-2x"></span><span style="font: bold 30px Raleway, Georgia, Serif  ! important"><a href="tel:08000520775">    0800 052 0775</a></span><br /><span class="fa fa-envelope fa-2x"></span><span style="font: bold 24px Raleway, Georgia, Serif  ! important"><a href="mailto:service@abbeylocks.co.uk?subject=Enquiry">    service@abbeylocks.co.uk</a></span></span></div>				</div>
+		<nav class="navigation">
+
+			<ul id="primary-menu" class="main-nav bg-outline-decoration hover-bg-decoration hover-line-decoration active-bg-decoration active-line-decoration animate-click-decoration level-arrows-on" role="menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-3089 current_page_item menu-item-15834 act first"><a href='http://www.abbeylocks.co.uk/' data-level='1'><span class="menu-item-text"><span class="menu-text">Home</span></span></a></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-14798 has-children"><a href='http://www.abbeylocks.co.uk/locksmith-services/' data-level='1'><span class="menu-item-text"><span class="menu-text">Locksmith Services</span></span></a><ul class="sub-nav hover-style-click-bg level-arrows-on"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-14799 first"><a href='http://www.abbeylocks.co.uk/24-hour-locksmith/' data-level='2'><span class="menu-item-text"><span class="menu-text">24 Hour Locksmith</span></span></a></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-14800"><a href='http://www.abbeylocks.co.uk/emergency-locksmith-service/' data-level='2'><span class="menu-item-text"><span class="menu-text">Emergency Locksmith Service</span></span></a></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-14802"><a href='http://www.abbeylocks.co.uk/lock-fitting/' data-level='2'><span class="menu-item-text"><span class="menu-text">Lock Fitting Service</span></span></a></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-14801"><a href='http://www.abbeylocks.co.uk/lock-change/' data-level='2'><span class="menu-item-text"><span class="menu-text">Lock Change</span></span></a></li> </ul></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-14803"><a href='http://www.abbeylocks.co.uk/coverage/' data-level='1'><span class="menu-item-text"><span class="menu-text">Coverage</span></span></a></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-14806"><a href='http://www.abbeylocks.co.uk/home-security/' data-level='1'><span class="menu-item-text"><span class="menu-text">Home Security Solutions</span></span></a></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-16203"><a href='http://www.abbeylocks.co.uk/commercial-security/' data-level='1'><span class="menu-item-text"><span class="menu-text">Commercial</span></span></a></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-14807"><a href='http://www.abbeylocks.co.uk/testimonials/' data-level='1'><span class="menu-item-text"><span class="menu-text">Testimonials</span></span></a></li> <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-15779"><a href='http://www.abbeylocks.co.uk/category/blog/' data-level='1'><span class="menu-item-text"><span class="menu-text">Blog</span></span></a></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-15829"><a href='http://www.abbeylocks.co.uk/qa/' data-level='1'><span class="menu-item-text"><span class="menu-text">Q &#038; A</span></span></a></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-15777"><a href='http://www.abbeylocks.co.uk/contact-us/' data-level='1'><span class="menu-item-text"><span class="menu-text">Contact</span></span></a></li> </ul>
+			
+		</nav>
+
+	</header>
+
+</div><div class='dt-close-mobile-menu-icon'><span></span></div>
+<div class='dt-mobile-header'>
+	<ul id="mobile-menu" class="mobile-main-nav" role="menu">
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-3089 current_page_item menu-item-15834 act first"><a href='http://www.abbeylocks.co.uk/' data-level='1'><span class="menu-item-text"><span class="menu-text">Home</span></span></a></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-14798 has-children"><a href='http://www.abbeylocks.co.uk/locksmith-services/' data-level='1'><span class="menu-item-text"><span class="menu-text">Locksmith Services</span></span></a><ul class="sub-nav hover-style-click-bg level-arrows-on"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-14799 first"><a href='http://www.abbeylocks.co.uk/24-hour-locksmith/' data-level='2'><span class="menu-item-text"><span class="menu-text">24 Hour Locksmith</span></span></a></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-14800"><a href='http://www.abbeylocks.co.uk/emergency-locksmith-service/' data-level='2'><span class="menu-item-text"><span class="menu-text">Emergency Locksmith Service</span></span></a></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-14802"><a href='http://www.abbeylocks.co.uk/lock-fitting/' data-level='2'><span class="menu-item-text"><span class="menu-text">Lock Fitting Service</span></span></a></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-14801"><a href='http://www.abbeylocks.co.uk/lock-change/' data-level='2'><span class="menu-item-text"><span class="menu-text">Lock Change</span></span></a></li> </ul></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-14803"><a href='http://www.abbeylocks.co.uk/coverage/' data-level='1'><span class="menu-item-text"><span class="menu-text">Coverage</span></span></a></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-14806"><a href='http://www.abbeylocks.co.uk/home-security/' data-level='1'><span class="menu-item-text"><span class="menu-text">Home Security Solutions</span></span></a></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-16203"><a href='http://www.abbeylocks.co.uk/commercial-security/' data-level='1'><span class="menu-item-text"><span class="menu-text">Commercial</span></span></a></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-14807"><a href='http://www.abbeylocks.co.uk/testimonials/' data-level='1'><span class="menu-item-text"><span class="menu-text">Testimonials</span></span></a></li> <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-15779"><a href='http://www.abbeylocks.co.uk/category/blog/' data-level='1'><span class="menu-item-text"><span class="menu-text">Blog</span></span></a></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-15829"><a href='http://www.abbeylocks.co.uk/qa/' data-level='1'><span class="menu-item-text"><span class="menu-text">Q &#038; A</span></span></a></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-15777"><a href='http://www.abbeylocks.co.uk/contact-us/' data-level='1'><span class="menu-item-text"><span class="menu-text">Contact</span></span></a></li> 	</ul>
+	<div class='mobile-mini-widgets-in-menu'></div>
+</div>
+
+
+<div id="main" class="sidebar-none sidebar-divider-vertical" style="padding-top:0px; padding-bottom:0px;" >
+
+	
+    <div class="main-gradient"></div>
+    <div class="wf-wrap">
+    <div class="wf-container-main">
+
+	
+
+
+    <div id="content" class="content" role="main">
+
+		<div data-vc-full-width="true" data-vc-full-width-init="false" data-vc-stretch-content="true" class="vc_row wpb_row vc_row-fluid"><div class="wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner "><div class="wpb_wrapper"><div class="wpb_revslider_element wpb_content_element"><link href="http://fonts.googleapis.com/css?family=Open+Sans:800%2C700%26subset%3Dlatin" rel="stylesheet" property="stylesheet" type="text/css" media="all">
+<div id="rev_slider_5_1_wrapper" class="rev_slider_wrapper fullwidthbanner-container" data-source="gallery" style="margin:0px auto;background:transparent;padding:0px;margin-top:0px;margin-bottom:0px;background-image:url(http://www.abbeylocks.co.uk/wp-content/uploads/2017/11/abbey-locks.png);background-repeat:no-repeat;background-size:cover;background-position:left top;">
+<!-- START REVOLUTION SLIDER 5.4.7.3 fullwidth mode -->
+	<div id="rev_slider_5_1" class="rev_slider fullwidthabanner" style="display:none;" data-version="5.4.7.3">
+<ul>	<!-- SLIDE  -->
+	<li data-index="rs-31" data-transition="fadetoleftfadefromright" data-slotamount="default" data-hideafterloop="0" data-hideslideonmobile="off"  data-easein="default" data-easeout="default" data-masterspeed="default"  data-thumb="http://www.abbeylocks.co.uk/wp-content/uploads/2018/03/Image7-50x50.png"  data-rotate="0"  data-saveperformance="off"  data-title="Slide" data-param1="" data-param2="" data-param3="" data-param4="" data-param5="" data-param6="" data-param7="" data-param8="" data-param9="" data-param10="" data-description="">
+		<!-- MAIN IMAGE -->
+		<img src="http://www.abbeylocks.co.uk/wp-content/plugins/revslider/admin/assets/images/dummy.png"  alt="" title="Image7"  width="1302" height="551" data-lazyload="http://www.abbeylocks.co.uk/wp-content/uploads/2018/03/Image7.png" data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat" class="rev-slidebg" data-no-retina>
+		<!-- LAYERS -->
+
+		<!-- LAYER NR. 1 -->
+		<div class="tp-caption   tp-resizeme" 
+			 id="slide-31-layer-1" 
+			 data-x="['left','left','left','left']" data-hoffset="['55','55','55','55']" 
+			 data-y="['top','top','top','top']" data-voffset="['78','78','78','78']" 
+						data-width="764"
+			data-height="none"
+			data-whitespace="nowrap"
+ 
+			data-type="text" 
+			data-responsive_offset="on" 
+
+			data-frames='[{"delay":10,"speed":1500,"frame":"0","from":"z:0;rX:0;rY:0;rZ:0;sX:0.9;sY:0.9;skX:0;skY:0;opacity:0;","to":"o:1;","ease":"Power3.easeInOut"},{"delay":"wait","speed":300,"frame":"999","to":"opacity:0;","ease":"Power3.easeInOut"}]'
+			data-textAlign="['inherit','inherit','inherit','inherit']"
+			data-paddingtop="[0,0,0,0]"
+			data-paddingright="[0,0,0,0]"
+			data-paddingbottom="[0,0,0,0]"
+			data-paddingleft="[0,0,0,0]"
+
+			style="z-index: 5; min-width: 764px; max-width: 764px; white-space: nowrap; font-size: 81px; line-height: 77px; font-weight: 800; color: #000000; letter-spacing: 0px;font-family:Open Sans;">LOCKED OUT? </div>
+
+		<!-- LAYER NR. 2 -->
+		<div class="tp-caption   tp-resizeme" 
+			 id="slide-31-layer-2" 
+			 data-x="['left','left','left','left']" data-hoffset="['18','18','18','18']" 
+			 data-y="['top','top','top','top']" data-voffset="['407','407','407','407']" 
+						data-width="728"
+			data-height="63"
+			data-whitespace="nowrap"
+ 
+			data-type="text" 
+			data-responsive_offset="on" 
+
+			data-frames='[{"delay":0,"split":"chars","splitdelay":0.05,"speed":2000,"split_direction":"forward","frame":"0","from":"x:[105%];z:0;rX:45deg;rY:0deg;rZ:90deg;sX:1;sY:1;skX:0;skY:0;","mask":"x:0px;y:0px;s:inherit;e:inherit;","to":"o:1;","ease":"Power4.easeInOut"},{"delay":"wait","speed":300,"frame":"999","to":"opacity:0;","ease":"Power3.easeInOut"}]'
+			data-textAlign="['inherit','inherit','inherit','inherit']"
+			data-paddingtop="[0,0,0,0]"
+			data-paddingright="[0,0,0,0]"
+			data-paddingbottom="[0,0,0,0]"
+			data-paddingleft="[0,0,0,0]"
+
+			style="z-index: 6; min-width: 728px; max-width: 728px; max-width: 63px; max-width: 63px; white-space: nowrap; font-size: 55px; line-height: 59px; font-weight: 700; color: #000000; letter-spacing: 0px;font-family:Open Sans;">Call Now: 0800 052 0775 </div>
+	</li>
+	<!-- SLIDE  -->
+	<li data-index="rs-33" data-transition="fadetoleftfadefromright" data-slotamount="default" data-hideafterloop="0" data-hideslideonmobile="off"  data-easein="default" data-easeout="default" data-masterspeed="default"  data-thumb="http://www.abbeylocks.co.uk/wp-content/uploads/2017/11/Imgae3-50x50.png"  data-rotate="0"  data-saveperformance="off"  data-title="Slide" data-param1="" data-param2="" data-param3="" data-param4="" data-param5="" data-param6="" data-param7="" data-param8="" data-param9="" data-param10="" data-description="">
+		<!-- MAIN IMAGE -->
+		<img src="http://www.abbeylocks.co.uk/wp-content/plugins/revslider/admin/assets/images/dummy.png"  alt="" title="Imgae3"  width="1302" height="551" data-lazyload="http://www.abbeylocks.co.uk/wp-content/uploads/2017/11/Imgae3.png" data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat" class="rev-slidebg" data-no-retina>
+		<!-- LAYERS -->
+
+		<!-- LAYER NR. 3 -->
+		<div class="tp-caption   tp-resizeme" 
+			 id="slide-33-layer-1" 
+			 data-x="['left','left','left','left']" data-hoffset="['55','55','55','55']" 
+			 data-y="['top','top','top','top']" data-voffset="['70','70','70','70']" 
+						data-width="763"
+			data-height="199"
+			data-whitespace="nowrap"
+ 
+			data-type="text" 
+			data-responsive_offset="on" 
+
+			data-frames='[{"delay":10,"speed":1500,"frame":"0","from":"z:0;rX:0;rY:0;rZ:0;sX:0.9;sY:0.9;skX:0;skY:0;opacity:0;","to":"o:1;","ease":"Power3.easeInOut"},{"delay":"wait","speed":300,"frame":"999","to":"opacity:0;","ease":"Power3.easeInOut"}]'
+			data-textAlign="['inherit','inherit','inherit','inherit']"
+			data-paddingtop="[0,0,0,0]"
+			data-paddingright="[0,0,0,0]"
+			data-paddingbottom="[0,0,0,0]"
+			data-paddingleft="[0,0,0,0]"
+
+			style="z-index: 5; min-width: 763px; max-width: 763px; max-width: 199px; max-width: 199px; white-space: nowrap; font-size: 81px; line-height: 77px; font-weight: 800; color: #000000; letter-spacing: 0px;font-family:Open Sans;">NEED A <br>LOCKSMITH? </div>
+
+		<!-- LAYER NR. 4 -->
+		<div class="tp-caption   tp-resizeme" 
+			 id="slide-33-layer-2" 
+			 data-x="['left','left','left','left']" data-hoffset="['18','18','18','18']" 
+			 data-y="['top','top','top','top']" data-voffset="['407','407','407','407']" 
+						data-width="728"
+			data-height="63"
+			data-whitespace="nowrap"
+ 
+			data-type="text" 
+			data-responsive_offset="on" 
+
+			data-frames='[{"delay":0,"split":"chars","splitdelay":0.05,"speed":2000,"split_direction":"forward","frame":"0","from":"x:[105%];z:0;rX:45deg;rY:0deg;rZ:90deg;sX:1;sY:1;skX:0;skY:0;","mask":"x:0px;y:0px;s:inherit;e:inherit;","to":"o:1;","ease":"Power4.easeInOut"},{"delay":"wait","speed":300,"frame":"999","to":"opacity:0;","ease":"Power3.easeInOut"}]'
+			data-textAlign="['inherit','inherit','inherit','inherit']"
+			data-paddingtop="[0,0,0,0]"
+			data-paddingright="[0,0,0,0]"
+			data-paddingbottom="[0,0,0,0]"
+			data-paddingleft="[0,0,0,0]"
+
+			style="z-index: 6; min-width: 728px; max-width: 728px; max-width: 63px; max-width: 63px; white-space: nowrap; font-size: 55px; line-height: 59px; font-weight: 700; color: #000000; letter-spacing: 0px;font-family:Open Sans;">Call Now: 0800 052 0775 </div>
+	</li>
+	<!-- SLIDE  -->
+	<li data-index="rs-35" data-transition="fadetoleftfadefromright" data-slotamount="default" data-hideafterloop="0" data-hideslideonmobile="off"  data-easein="default" data-easeout="default" data-masterspeed="default"  data-thumb="http://www.abbeylocks.co.uk/wp-content/uploads/2018/03/Image3-50x50.png"  data-rotate="0"  data-saveperformance="off"  data-title="Slide" data-param1="" data-param2="" data-param3="" data-param4="" data-param5="" data-param6="" data-param7="" data-param8="" data-param9="" data-param10="" data-description="">
+		<!-- MAIN IMAGE -->
+		<img src="http://www.abbeylocks.co.uk/wp-content/plugins/revslider/admin/assets/images/dummy.png"  alt="" title="Image3"  width="1302" height="551" data-lazyload="http://www.abbeylocks.co.uk/wp-content/uploads/2018/03/Image3.png" data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat" class="rev-slidebg" data-no-retina>
+		<!-- LAYERS -->
+
+		<!-- LAYER NR. 5 -->
+		<div class="tp-caption   tp-resizeme" 
+			 id="slide-35-layer-1" 
+			 data-x="['left','left','left','left']" data-hoffset="['55','55','55','55']" 
+			 data-y="['top','top','top','top']" data-voffset="['70','70','70','70']" 
+						data-width="763"
+			data-height="199"
+			data-whitespace="nowrap"
+ 
+			data-type="text" 
+			data-responsive_offset="on" 
+
+			data-frames='[{"delay":10,"speed":1500,"frame":"0","from":"z:0;rX:0;rY:0;rZ:0;sX:0.9;sY:0.9;skX:0;skY:0;opacity:0;","to":"o:1;","ease":"Power3.easeInOut"},{"delay":"wait","speed":300,"frame":"999","to":"opacity:0;","ease":"Power3.easeInOut"}]'
+			data-textAlign="['inherit','inherit','inherit','inherit']"
+			data-paddingtop="[0,0,0,0]"
+			data-paddingright="[0,0,0,0]"
+			data-paddingbottom="[0,0,0,0]"
+			data-paddingleft="[0,0,0,0]"
+
+			style="z-index: 5; min-width: 763px; max-width: 763px; max-width: 199px; max-width: 199px; white-space: nowrap; font-size: 81px; line-height: 77px; font-weight: 800; color: #000000; letter-spacing: 0px;font-family:Open Sans;">MOVING HOME? </div>
+
+		<!-- LAYER NR. 6 -->
+		<div class="tp-caption   tp-resizeme" 
+			 id="slide-35-layer-2" 
+			 data-x="['left','left','left','left']" data-hoffset="['18','18','18','18']" 
+			 data-y="['top','top','top','top']" data-voffset="['407','407','407','407']" 
+						data-width="728"
+			data-height="63"
+			data-whitespace="nowrap"
+ 
+			data-type="text" 
+			data-responsive_offset="on" 
+
+			data-frames='[{"delay":0,"split":"chars","splitdelay":0.05,"speed":2000,"split_direction":"forward","frame":"0","from":"x:[105%];z:0;rX:45deg;rY:0deg;rZ:90deg;sX:1;sY:1;skX:0;skY:0;","mask":"x:0px;y:0px;s:inherit;e:inherit;","to":"o:1;","ease":"Power4.easeInOut"},{"delay":"wait","speed":300,"frame":"999","to":"opacity:0;","ease":"Power3.easeInOut"}]'
+			data-textAlign="['inherit','inherit','inherit','inherit']"
+			data-paddingtop="[0,0,0,0]"
+			data-paddingright="[0,0,0,0]"
+			data-paddingbottom="[0,0,0,0]"
+			data-paddingleft="[0,0,0,0]"
+
+			style="z-index: 6; min-width: 728px; max-width: 728px; max-width: 63px; max-width: 63px; white-space: nowrap; font-size: 55px; line-height: 59px; font-weight: 700; color: #000000; letter-spacing: 0px;font-family:Open Sans;">Call Now: 0800 052 0775 </div>
+	</li>
+	<!-- SLIDE  -->
+	<li data-index="rs-36" data-transition="fadetoleftfadefromright" data-slotamount="default" data-hideafterloop="0" data-hideslideonmobile="off"  data-easein="default" data-easeout="default" data-masterspeed="default"  data-thumb="http://www.abbeylocks.co.uk/wp-content/uploads/2018/03/Image5-50x50.png"  data-rotate="0"  data-saveperformance="off"  data-title="Slide" data-param1="" data-param2="" data-param3="" data-param4="" data-param5="" data-param6="" data-param7="" data-param8="" data-param9="" data-param10="" data-description="">
+		<!-- MAIN IMAGE -->
+		<img src="http://www.abbeylocks.co.uk/wp-content/plugins/revslider/admin/assets/images/dummy.png"  alt="" title="Image5"  width="1302" height="551" data-lazyload="http://www.abbeylocks.co.uk/wp-content/uploads/2018/03/Image5.png" data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat" class="rev-slidebg" data-no-retina>
+		<!-- LAYERS -->
+
+		<!-- LAYER NR. 7 -->
+		<div class="tp-caption   tp-resizeme" 
+			 id="slide-36-layer-1" 
+			 data-x="['left','left','left','left']" data-hoffset="['55','55','55','55']" 
+			 data-y="['top','top','top','top']" data-voffset="['70','70','70','70']" 
+						data-width="763"
+			data-height="199"
+			data-whitespace="nowrap"
+ 
+			data-type="text" 
+			data-responsive_offset="on" 
+
+			data-frames='[{"delay":10,"speed":1500,"frame":"0","from":"z:0;rX:0;rY:0;rZ:0;sX:0.9;sY:0.9;skX:0;skY:0;opacity:0;","to":"o:1;","ease":"Power3.easeInOut"},{"delay":"wait","speed":300,"frame":"999","to":"opacity:0;","ease":"Power3.easeInOut"}]'
+			data-textAlign="['inherit','inherit','inherit','inherit']"
+			data-paddingtop="[0,0,0,0]"
+			data-paddingright="[0,0,0,0]"
+			data-paddingbottom="[0,0,0,0]"
+			data-paddingleft="[0,0,0,0]"
+
+			style="z-index: 5; min-width: 763px; max-width: 763px; max-width: 199px; max-width: 199px; white-space: nowrap; font-size: 81px; line-height: 77px; font-weight: 800; color: #000000; letter-spacing: 0px;font-family:Open Sans;">UPGRADING<br>YOUR<br>SECURITY? </div>
+
+		<!-- LAYER NR. 8 -->
+		<div class="tp-caption   tp-resizeme" 
+			 id="slide-36-layer-2" 
+			 data-x="['left','left','left','left']" data-hoffset="['18','18','18','18']" 
+			 data-y="['top','top','top','top']" data-voffset="['407','407','407','407']" 
+						data-width="728"
+			data-height="63"
+			data-whitespace="nowrap"
+ 
+			data-type="text" 
+			data-responsive_offset="on" 
+
+			data-frames='[{"delay":0,"split":"chars","splitdelay":0.05,"speed":2000,"split_direction":"forward","frame":"0","from":"x:[105%];z:0;rX:45deg;rY:0deg;rZ:90deg;sX:1;sY:1;skX:0;skY:0;","mask":"x:0px;y:0px;s:inherit;e:inherit;","to":"o:1;","ease":"Power4.easeInOut"},{"delay":"wait","speed":300,"frame":"999","to":"opacity:0;","ease":"Power3.easeInOut"}]'
+			data-textAlign="['inherit','inherit','inherit','inherit']"
+			data-paddingtop="[0,0,0,0]"
+			data-paddingright="[0,0,0,0]"
+			data-paddingbottom="[0,0,0,0]"
+			data-paddingleft="[0,0,0,0]"
+
+			style="z-index: 6; min-width: 728px; max-width: 728px; max-width: 63px; max-width: 63px; white-space: nowrap; font-size: 55px; line-height: 59px; font-weight: 700; color: #000000; letter-spacing: 0px;font-family:Open Sans;">Call Now: 0800 052 0775 </div>
+	</li>
+	<!-- SLIDE  -->
+	<li data-index="rs-40" data-transition="fadetoleftfadefromright" data-slotamount="default" data-hideafterloop="0" data-hideslideonmobile="off"  data-easein="default" data-easeout="default" data-masterspeed="default"  data-thumb="http://www.abbeylocks.co.uk/wp-content/uploads/2018/03/Image6-50x50.png"  data-rotate="0"  data-saveperformance="off"  data-title="Slide" data-param1="" data-param2="" data-param3="" data-param4="" data-param5="" data-param6="" data-param7="" data-param8="" data-param9="" data-param10="" data-description="">
+		<!-- MAIN IMAGE -->
+		<img src="http://www.abbeylocks.co.uk/wp-content/plugins/revslider/admin/assets/images/dummy.png"  alt="" title="Image6"  width="1302" height="551" data-lazyload="http://www.abbeylocks.co.uk/wp-content/uploads/2018/03/Image6.png" data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat" class="rev-slidebg" data-no-retina>
+		<!-- LAYERS -->
+
+		<!-- LAYER NR. 9 -->
+		<div class="tp-caption   tp-resizeme" 
+			 id="slide-40-layer-1" 
+			 data-x="['left','left','left','left']" data-hoffset="['55','55','55','55']" 
+			 data-y="['top','top','top','top']" data-voffset="['70','70','70','70']" 
+						data-width="763"
+			data-height="199"
+			data-whitespace="nowrap"
+ 
+			data-type="text" 
+			data-responsive_offset="on" 
+
+			data-frames='[{"delay":10,"speed":1500,"frame":"0","from":"z:0;rX:0;rY:0;rZ:0;sX:0.9;sY:0.9;skX:0;skY:0;opacity:0;","to":"o:1;","ease":"Power3.easeInOut"},{"delay":"wait","speed":300,"frame":"999","to":"opacity:0;","ease":"Power3.easeInOut"}]'
+			data-textAlign="['inherit','inherit','inherit','inherit']"
+			data-paddingtop="[0,0,0,0]"
+			data-paddingright="[0,0,0,0]"
+			data-paddingbottom="[0,0,0,0]"
+			data-paddingleft="[0,0,0,0]"
+
+			style="z-index: 5; min-width: 763px; max-width: 763px; max-width: 199px; max-width: 199px; white-space: nowrap; font-size: 81px; line-height: 77px; font-weight: 800; color: #000000; letter-spacing: 0px;font-family:Open Sans;">NEED A FREE<br>SECURITY<br>SURVEY? </div>
+
+		<!-- LAYER NR. 10 -->
+		<div class="tp-caption   tp-resizeme" 
+			 id="slide-40-layer-2" 
+			 data-x="['left','left','left','left']" data-hoffset="['18','18','18','18']" 
+			 data-y="['top','top','top','top']" data-voffset="['407','407','407','407']" 
+						data-width="728"
+			data-height="63"
+			data-whitespace="nowrap"
+ 
+			data-type="text" 
+			data-responsive_offset="on" 
+
+			data-frames='[{"delay":0,"split":"chars","splitdelay":0.05,"speed":2000,"split_direction":"forward","frame":"0","from":"x:[105%];z:0;rX:45deg;rY:0deg;rZ:90deg;sX:1;sY:1;skX:0;skY:0;","mask":"x:0px;y:0px;s:inherit;e:inherit;","to":"o:1;","ease":"Power4.easeInOut"},{"delay":"wait","speed":300,"frame":"999","to":"opacity:0;","ease":"Power3.easeInOut"}]'
+			data-textAlign="['inherit','inherit','inherit','inherit']"
+			data-paddingtop="[0,0,0,0]"
+			data-paddingright="[0,0,0,0]"
+			data-paddingbottom="[0,0,0,0]"
+			data-paddingleft="[0,0,0,0]"
+
+			style="z-index: 6; min-width: 728px; max-width: 728px; max-width: 63px; max-width: 63px; white-space: nowrap; font-size: 55px; line-height: 59px; font-weight: 700; color: #000000; letter-spacing: 0px;font-family:Open Sans;">Call Now: 0800 052 0775 </div>
+	</li>
+	<!-- SLIDE  -->
+	<li data-index="rs-37" data-transition="fadetoleftfadefromright" data-slotamount="default" data-hideafterloop="0" data-hideslideonmobile="off"  data-easein="default" data-easeout="default" data-masterspeed="default"  data-thumb="http://www.abbeylocks.co.uk/wp-content/uploads/2018/03/Image4-50x50.png"  data-rotate="0"  data-saveperformance="off"  data-title="Slide" data-param1="" data-param2="" data-param3="" data-param4="" data-param5="" data-param6="" data-param7="" data-param8="" data-param9="" data-param10="" data-description="">
+		<!-- MAIN IMAGE -->
+		<img src="http://www.abbeylocks.co.uk/wp-content/plugins/revslider/admin/assets/images/dummy.png"  alt="" title="Image4"  width="1302" height="551" data-lazyload="http://www.abbeylocks.co.uk/wp-content/uploads/2018/03/Image4.png" data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat" class="rev-slidebg" data-no-retina>
+		<!-- LAYERS -->
+
+		<!-- LAYER NR. 11 -->
+		<div class="tp-caption   tp-resizeme" 
+			 id="slide-37-layer-1" 
+			 data-x="['left','left','left','left']" data-hoffset="['55','55','55','55']" 
+			 data-y="['top','top','top','top']" data-voffset="['70','70','70','70']" 
+						data-width="763"
+			data-height="199"
+			data-whitespace="nowrap"
+ 
+			data-type="text" 
+			data-responsive_offset="on" 
+
+			data-frames='[{"delay":10,"speed":1500,"frame":"0","from":"z:0;rX:0;rY:0;rZ:0;sX:0.9;sY:0.9;skX:0;skY:0;opacity:0;","to":"o:1;","ease":"Power3.easeInOut"},{"delay":"wait","speed":300,"frame":"999","to":"opacity:0;","ease":"Power3.easeInOut"}]'
+			data-textAlign="['inherit','inherit','inherit','inherit']"
+			data-paddingtop="[0,0,0,0]"
+			data-paddingright="[0,0,0,0]"
+			data-paddingbottom="[0,0,0,0]"
+			data-paddingleft="[0,0,0,0]"
+
+			style="z-index: 5; min-width: 763px; max-width: 763px; max-width: 199px; max-width: 199px; white-space: nowrap; font-size: 81px; line-height: 77px; font-weight: 800; color: #000000; letter-spacing: 0px;font-family:Open Sans;">BEEN BURGLED? </div>
+
+		<!-- LAYER NR. 12 -->
+		<div class="tp-caption   tp-resizeme" 
+			 id="slide-37-layer-2" 
+			 data-x="['left','left','left','left']" data-hoffset="['18','18','18','18']" 
+			 data-y="['top','top','top','top']" data-voffset="['407','407','407','407']" 
+						data-width="728"
+			data-height="63"
+			data-whitespace="nowrap"
+ 
+			data-type="text" 
+			data-responsive_offset="on" 
+
+			data-frames='[{"delay":0,"split":"chars","splitdelay":0.05,"speed":2000,"split_direction":"forward","frame":"0","from":"x:[105%];z:0;rX:45deg;rY:0deg;rZ:90deg;sX:1;sY:1;skX:0;skY:0;","mask":"x:0px;y:0px;s:inherit;e:inherit;","to":"o:1;","ease":"Power4.easeInOut"},{"delay":"wait","speed":300,"frame":"999","to":"opacity:0;","ease":"Power3.easeInOut"}]'
+			data-textAlign="['inherit','inherit','inherit','inherit']"
+			data-paddingtop="[0,0,0,0]"
+			data-paddingright="[0,0,0,0]"
+			data-paddingbottom="[0,0,0,0]"
+			data-paddingleft="[0,0,0,0]"
+
+			style="z-index: 6; min-width: 728px; max-width: 728px; max-width: 63px; max-width: 63px; white-space: nowrap; font-size: 55px; line-height: 59px; font-weight: 700; color: #000000; letter-spacing: 0px;font-family:Open Sans;">Call Now: 0800 052 0775 </div>
+	</li>
+	<!-- SLIDE  -->
+	<li data-index="rs-41" data-transition="fadetoleftfadefromright" data-slotamount="default" data-hideafterloop="0" data-hideslideonmobile="off"  data-easein="default" data-easeout="default" data-masterspeed="default"  data-thumb="http://www.abbeylocks.co.uk/wp-content/uploads/2018/03/image8-50x50.png"  data-rotate="0"  data-saveperformance="off"  data-title="Slide" data-param1="" data-param2="" data-param3="" data-param4="" data-param5="" data-param6="" data-param7="" data-param8="" data-param9="" data-param10="" data-description="">
+		<!-- MAIN IMAGE -->
+		<img src="http://www.abbeylocks.co.uk/wp-content/plugins/revslider/admin/assets/images/dummy.png"  alt="" title="image8"  width="1302" height="551" data-lazyload="http://www.abbeylocks.co.uk/wp-content/uploads/2018/03/image8.png" data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat" class="rev-slidebg" data-no-retina>
+		<!-- LAYERS -->
+
+		<!-- LAYER NR. 13 -->
+		<div class="tp-caption   tp-resizeme" 
+			 id="slide-41-layer-1" 
+			 data-x="['left','left','left','left']" data-hoffset="['55','55','55','55']" 
+			 data-y="['top','top','top','top']" data-voffset="['70','70','70','70']" 
+						data-width="763"
+			data-height="199"
+			data-whitespace="nowrap"
+ 
+			data-type="text" 
+			data-responsive_offset="on" 
+
+			data-frames='[{"delay":10,"speed":1500,"frame":"0","from":"z:0;rX:0;rY:0;rZ:0;sX:0.9;sY:0.9;skX:0;skY:0;opacity:0;","to":"o:1;","ease":"Power3.easeInOut"},{"delay":"wait","speed":300,"frame":"999","to":"opacity:0;","ease":"Power3.easeInOut"}]'
+			data-textAlign="['inherit','inherit','inherit','inherit']"
+			data-paddingtop="[0,0,0,0]"
+			data-paddingright="[0,0,0,0]"
+			data-paddingbottom="[0,0,0,0]"
+			data-paddingleft="[0,0,0,0]"
+
+			style="z-index: 5; min-width: 763px; max-width: 763px; max-width: 199px; max-width: 199px; white-space: nowrap; font-size: 81px; line-height: 77px; font-weight: 800; color: #000000; letter-spacing: 0px;font-family:Open Sans;">NEED TO SECURE<br>YOUR<br>BUSINESS? </div>
+
+		<!-- LAYER NR. 14 -->
+		<div class="tp-caption   tp-resizeme" 
+			 id="slide-41-layer-2" 
+			 data-x="['left','left','left','left']" data-hoffset="['18','18','18','18']" 
+			 data-y="['top','top','top','top']" data-voffset="['407','407','407','407']" 
+						data-width="728"
+			data-height="63"
+			data-whitespace="nowrap"
+ 
+			data-type="text" 
+			data-responsive_offset="on" 
+
+			data-frames='[{"delay":0,"split":"chars","splitdelay":0.05,"speed":2000,"split_direction":"forward","frame":"0","from":"x:[105%];z:0;rX:45deg;rY:0deg;rZ:90deg;sX:1;sY:1;skX:0;skY:0;","mask":"x:0px;y:0px;s:inherit;e:inherit;","to":"o:1;","ease":"Power4.easeInOut"},{"delay":"wait","speed":300,"frame":"999","to":"opacity:0;","ease":"Power3.easeInOut"}]'
+			data-textAlign="['inherit','inherit','inherit','inherit']"
+			data-paddingtop="[0,0,0,0]"
+			data-paddingright="[0,0,0,0]"
+			data-paddingbottom="[0,0,0,0]"
+			data-paddingleft="[0,0,0,0]"
+
+			style="z-index: 6; min-width: 728px; max-width: 728px; max-width: 63px; max-width: 63px; white-space: nowrap; font-size: 55px; line-height: 59px; font-weight: 700; color: #000000; letter-spacing: 0px;font-family:Open Sans;">Call Now: 0800 052 0775 </div>
+	</li>
+</ul>
+<script>var htmlDiv = document.getElementById("rs-plugin-settings-inline-css"); var htmlDivCss="";
+						if(htmlDiv) {
+							htmlDiv.innerHTML = htmlDiv.innerHTML + htmlDivCss;
+						}else{
+							var htmlDiv = document.createElement("div");
+							htmlDiv.innerHTML = "<style>" + htmlDivCss + "</style>";
+							document.getElementsByTagName("head")[0].appendChild(htmlDiv.childNodes[0]);
+						}
+					</script>
+<div class="tp-bannertimer tp-bottom" style="visibility: hidden !important;"></div>	</div>
+<script>var htmlDiv = document.getElementById("rs-plugin-settings-inline-css"); var htmlDivCss="";
+				if(htmlDiv) {
+					htmlDiv.innerHTML = htmlDiv.innerHTML + htmlDivCss;
+				}else{
+					var htmlDiv = document.createElement("div");
+					htmlDiv.innerHTML = "<style>" + htmlDivCss + "</style>";
+					document.getElementsByTagName("head")[0].appendChild(htmlDiv.childNodes[0]);
+				}
+			</script>
+		<script type="text/javascript">
+if (setREVStartSize!==undefined) setREVStartSize(
+	{c: '#rev_slider_5_1', responsiveLevels: [1240,1024,778,480], gridwidth: [1300,1300,1300,1300], gridheight: [550,550,550,550], sliderLayout: 'fullwidth'});
+			
+var revapi5,
+	tpj;	
+(function() {			
+	if (!/loaded|interactive|complete/.test(document.readyState)) document.addEventListener("DOMContentLoaded",onLoad); else onLoad();	
+	function onLoad() {				
+		if (tpj===undefined) { tpj = jQuery; if("off" == "on") tpj.noConflict();}
+	if(tpj("#rev_slider_5_1").revolution == undefined){
+		revslider_showDoubleJqueryError("#rev_slider_5_1");
+	}else{
+		revapi5 = tpj("#rev_slider_5_1").show().revolution({
+			sliderType:"standard",
+			jsFileLocation:"//www.abbeylocks.co.uk/wp-content/plugins/revslider/public/assets/js/",
+			sliderLayout:"fullwidth",
+			dottedOverlay:"none",
+			delay:4000,
+			navigation: {
+				keyboardNavigation:"off",
+				keyboard_direction: "horizontal",
+				mouseScrollNavigation:"off",
+ 							mouseScrollReverse:"default",
+				onHoverStop:"off",
+				touch:{
+					touchenabled:"on",
+					touchOnDesktop:"off",
+					swipe_threshold: 75,
+					swipe_min_touches: 50,
+					swipe_direction: "horizontal",
+					drag_block_vertical: false
+				}
+				,
+				bullets: {
+					enable:true,
+					hide_onmobile:true,
+					hide_under:600,
+					style:"hesperiden",
+					hide_onleave:true,
+					hide_delay:200,
+					hide_delay_mobile:1200,
+					direction:"horizontal",
+					h_align:"center",
+					v_align:"bottom",
+					h_offset:30,
+					v_offset:50,
+					space:5,
+					tmp:''
+				}
+			},
+			responsiveLevels:[1240,1024,778,480],
+			visibilityLevels:[1240,1024,778,480],
+			gridwidth:[1300,1300,1300,1300],
+			gridheight:[550,550,550,550],
+			lazyType:"smart",
+			shadow:0,
+			spinner:"off",
+			stopLoop:"off",
+			stopAfterLoops:-1,
+			stopAtSlide:-1,
+			shuffle:"off",
+			autoHeight:"on",
+			disableProgressBar:"on",
+			hideThumbsOnMobile:"on",
+			hideSliderAtLimit:0,
+			hideCaptionAtLimit:768,
+			hideAllCaptionAtLilmit:0,
+			debugMode:false,
+			fallbacks: {
+				simplifyAll:"off",
+				nextSlideOnWindowFocus:"off",
+				disableFocusListener:false,
+			}
+		});
+	}; /* END OF revapi call */
+	
+ }; /* END OF ON LOAD FUNCTION */
+}()); /* END OF WRAPPING FUNCTION */
+</script>
+		<script>
+					var htmlDivCss = unescape(".hesperiden.tp-bullets%20%7B%0A%7D%0A.hesperiden.tp-bullets%3Abefore%20%7B%0A%09content%3A%22%20%22%3B%0A%09position%3Aabsolute%3B%0A%09width%3A100%25%3B%0A%09height%3A100%25%3B%0A%09background%3Atransparent%3B%0A%09padding%3A10px%3B%0A%09margin-left%3A-10px%3Bmargin-top%3A-10px%3B%0A%09box-sizing%3Acontent-box%3B%0A%20%20%20border-radius%3A8px%3B%0A%20%20%0A%7D%0A.hesperiden%20.tp-bullet%20%7B%0A%09width%3A12px%3B%0A%09height%3A12px%3B%0A%09position%3Aabsolute%3B%0A%09background%3A%20rgb%28153%2C%20153%2C%20153%29%3B%20%2F%2A%20old%20browsers%20%2A%2F%0A%20%20%20%20background%3A%20-moz-linear-gradient%28top%2C%20%20rgb%28153%2C%20153%2C%20153%29%200%25%2C%20rgb%28225%2C%20225%2C%20225%29%20100%25%29%3B%20%2F%2A%20ff3.6%2B%20%2A%2F%0A%20%20%20%20background%3A%20-webkit-linear-gradient%28top%2C%20%20rgb%28153%2C%20153%2C%20153%29%200%25%2Crgb%28225%2C%20225%2C%20225%29%20100%25%29%3B%20%2F%2A%20chrome10%2B%2Csafari5.1%2B%20%2A%2F%0A%20%20%20%20background%3A%20-o-linear-gradient%28top%2C%20%20rgb%28153%2C%20153%2C%20153%29%200%25%2Crgb%28225%2C%20225%2C%20225%29%20100%25%29%3B%20%2F%2A%20opera%2011.10%2B%20%2A%2F%0A%20%20%20%20background%3A%20-ms-linear-gradient%28top%2C%20%20rgb%28153%2C%20153%2C%20153%29%200%25%2Crgb%28225%2C%20225%2C%20225%29%20100%25%29%3B%20%2F%2A%20ie10%2B%20%2A%2F%0A%20%20%20%20background%3A%20linear-gradient%28to%20bottom%2C%20%20rgb%28153%2C%20153%2C%20153%29%200%25%2Crgb%28225%2C%20225%2C%20225%29%20100%25%29%3B%20%2F%2A%20w3c%20%2A%2F%0A%20%20%20%20filter%3A%20progid%3Adximagetransform.microsoft.gradient%28%20%0A%20%20%20%20startcolorstr%3D%22rgb%28153%2C%20153%2C%20153%29%22%2C%20endcolorstr%3D%22rgb%28225%2C%20225%2C%20225%29%22%2Cgradienttype%3D0%20%29%3B%20%2F%2A%20ie6-9%20%2A%2F%0A%09border%3A3px%20solid%20rgb%28229%2C%20229%2C%20229%29%3B%0A%09border-radius%3A50%25%3B%0A%09cursor%3A%20pointer%3B%0A%09box-sizing%3Acontent-box%3B%0A%7D%0A.hesperiden%20.tp-bullet%3Ahover%2C%0A.hesperiden%20.tp-bullet.selected%20%7B%0A%09background%3Argb%28102%2C%20102%2C%20102%29%3B%0A%7D%0A.hesperiden%20.tp-bullet-image%20%7B%0A%7D%0A.hesperiden%20.tp-bullet-title%20%7B%0A%7D%0A%0A");
+					var htmlDiv = document.getElementById('rs-plugin-settings-inline-css');
+					if(htmlDiv) {
+						htmlDiv.innerHTML = htmlDiv.innerHTML + htmlDivCss;
+					}
+					else{
+						var htmlDiv = document.createElement('div');
+						htmlDiv.innerHTML = '<style>' + htmlDivCss + '</style>';
+						document.getElementsByTagName('head')[0].appendChild(htmlDiv.childNodes[0]);
+					}
+				  </script>
+				</div><!-- END REVOLUTION SLIDER --></div></div></div></div></div><div class="vc_row-full-width vc_clearfix"></div><div class="vc_row wpb_row vc_row-fluid vc_custom_1510819069228"><div class="wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner "><div class="wpb_wrapper">
+	<div class="wpb_text_column wpb_content_element " >
+		<div class="wpb_wrapper">
+			<h1>Need an Emergency Locksmith?</h1>
+<p>Abbey Locks is an established police recognised Emergency Locksmiths, mainly operating throughout North London, <a href="http://www.abbeylocks.co.uk/locksmiths/locksmith-watford/">Watford</a>, <a href="http://www.abbeylocks.co.uk/locksmiths/locksmith-enfield/">Enfield</a>, <a href="http://www.abbeylocks.co.uk/locksmiths/locksmith-barnet/">Barnet</a> and the surrounding areas. We provide a reliable 24 hour Locksmith service, so if you have been locked out, you have lost your keys, or need your locks changed we can help. We are <a href="http://www.abbeylocks.co.uk/contact-us/">based in London Colney</a> but you can view all the areas we now cover.</p>
+
+		</div>
+	</div>
+
+	<div  class="wpb_single_image wpb_content_element vc_align_center">
+		
+		<figure class="wpb_wrapper vc_figure">
+			<div class="vc_single_image-wrapper   vc_box_border_grey"><img width="1280" height="588" src="http://www.abbeylocks.co.uk/wp-content/uploads/2018/05/Locksmith-St-Albans.jpg" class="vc_single_image-img attachment-full" alt="Locksmith St Albans" srcset="http://www.abbeylocks.co.uk/wp-content/uploads/2018/05/Locksmith-St-Albans.jpg 1280w, http://www.abbeylocks.co.uk/wp-content/uploads/2018/05/Locksmith-St-Albans-300x138.jpg 300w, http://www.abbeylocks.co.uk/wp-content/uploads/2018/05/Locksmith-St-Albans-768x353.jpg 768w, http://www.abbeylocks.co.uk/wp-content/uploads/2018/05/Locksmith-St-Albans-1024x470.jpg 1024w" sizes="(max-width: 1280px) 100vw, 1280px"  data-dt-location="http://www.abbeylocks.co.uk/home/locksmith-st-albans-3/" /></div>
+		</figure>
+	</div>
+
+	<div class="wpb_text_column wpb_content_element " >
+		<div class="wpb_wrapper">
+			<h2>Expertise, Experience and Trust</h2>
+<p>When you call Abbey Locksmiths you’ll speak with a professionally trained Locksmith (not a call centre) and we promise to answer your call promptly, give a fixed price in advance, and turn up when we say we will. Our Locksmiths can often identify any problems you have over the phone, so you will know what to expect when we arrive. We offer competitive rates to all our customers with free surveys and estimates. We don’t charge hourly rates or call out charges. The price we quote you is the price you pay.</p>
+<h2>How can we help you?</h2>
+<p>We employ a fully qualified skilled team of Local Locksmiths who can attend your premises and advise you on which locks will best suit your property. Our Locksmiths carry a wide range of stock on their vans which more often than not eliminates the need for a second visit. Ask our local Locksmith when he arrives to carry out a free survey, this will alert you to any security issues you might have and the solutions that are available. Once we have completed any work our engineers will always clean up after themselves, leaving your home or office safe and tidy.</p>
+
+		</div>
+	</div>
+</div></div></div></div><div data-vc-full-width="true" data-vc-full-width-init="false" class="vc_row wpb_row vc_row-fluid vc_custom_1510061187530 vc_row-has-fill"><div class="wpb_column vc_column_container vc_col-sm-4"><div class="vc_column-inner "><div class="wpb_wrapper"><div id="ultimate-heading-76585b0527d0dcd37" class="uvc-heading ult-adjust-bottom-margin ultimate-heading-76585b0527d0dcd37 uvc-9380 " data-hspacer="no_spacer"  data-halign="left" style="text-align:left"><div class="uvc-heading-spacer no_spacer" style="top"></div><div class="uvc-main-heading ult-responsive"  data-ultimate-target='.uvc-heading.ultimate-heading-76585b0527d0dcd37 h2'  data-responsive-json-new='{"font-size":"desktop:20px;","line-height":"desktop:30px;"}' ><h2 style="font-weight:bold;margin-bottom:20px;">Why Choose Us?</h2></div></div>
+	<div class="wpb_text_column wpb_content_element  vc_custom_1510045662720" >
+		<div class="wpb_wrapper">
+			<p>We specialize in premises access for both residential homes and businesses. We can also help you to gain access to cars and bikes as well as business vehicles like vans, lorries and forklifts.</p>
+
+		</div>
+	</div>
+<div class=" vc_custom_1512829762348 ubtn-ctn-left color-title"><a class="ubtn-link ult-adjust-bottom-margin ubtn-left ubtn-custom color-title" href="http://www.abbeylocks.co.uk/locksmith-services/" ><button type="button" id="ubtn-6644"  class="ubtn ult-adjust-bottom-margin ult-responsive ubtn-custom ubtn-no-hover-bg  none  ubtn-left   tooltip-5b0527d0def3c"  data-hover="#3bd3b5" data-border-color="" data-bg="" data-hover-bg="" data-border-hover="" data-shadow-hover="" data-shadow-click="none" data-shadow="" data-shd-shadow=""  data-ultimate-target='#ubtn-6644'  data-responsive-json-new='{"font-size":"desktop:14px;","line-height":"desktop:24px;"}'  style="font-family:&#039;Raleway&#039;;font-weight:700;width:px;min-height:20px;padding:0px px;border:none;color: #000000;"><span class="ubtn-data ubtn-icon"><i class="none" style="font-size:28px;color:;"></i></span><span class="ubtn-hover" style="background-color:"></span><span class="ubtn-data ubtn-text " > Learn more</span></button></a></div></div></div></div><div class="wpb_column vc_column_container vc_col-sm-4 vc_col-lg-offset-0 vc_col-md-offset-0 vc_col-sm-offset-0"><div class="vc_column-inner "><div class="wpb_wrapper"><div class="aio-icon-component    style_2"><div id="Info-box-wrap-3446" class="aio-icon-box left-icon" style=""  ><div class="aio-icon-left"><div class="ult-just-icon-wrapper  "><div class="align-icon" style="text-align:center;">
+<div class="aio-icon square "  style="color:#333;background:#fcdb00;font-size:15px;display:inline-block;">
+	<i class="Defaults-check"></i>
+</div></div></div></div><div class="aio-ibd-block"><div class="aio-icon-header" ><h3 class="aio-icon-title ult-responsive"  data-ultimate-target='#Info-box-wrap-3446 .aio-icon-title'  data-responsive-json-new='{"font-size":"","line-height":""}'  style="">24-HR Emergency Call-Out</h3></div> <!-- header --></div> <!-- aio-ibd-block --></div> <!-- aio-icon-box --></div> <!-- aio-icon-component -->
+	<div class="wpb_text_column wpb_content_element  vc_custom_1510817801522" >
+		<div class="wpb_wrapper">
+			<p>If you lock yourself out and need access to your premises quickly, our 24-hr Emergency Call-Out Team are local and can be with you in no time at all.</p>
+
+		</div>
+	</div>
+<div class="aio-icon-component    style_2"><div id="Info-box-wrap-5772" class="aio-icon-box left-icon" style=""  ><div class="aio-icon-left"><div class="ult-just-icon-wrapper  "><div class="align-icon" style="text-align:center;">
+<div class="aio-icon square "  style="color:#333;background:#fcdb00;font-size:15px;display:inline-block;">
+	<i class="Defaults-check"></i>
+</div></div></div></div><div class="aio-ibd-block"><div class="aio-icon-header" ><h3 class="aio-icon-title ult-responsive"  data-ultimate-target='#Info-box-wrap-5772 .aio-icon-title'  data-responsive-json-new='{"font-size":"","line-height":""}'  style="">Local Professional Locksmiths</h3></div> <!-- header --></div> <!-- aio-ibd-block --></div> <!-- aio-icon-box --></div> <!-- aio-icon-component -->
+	<div class="wpb_text_column wpb_content_element  vc_custom_1510045213828" >
+		<div class="wpb_wrapper">
+			<p>We’re fast, professional and we’re local. If you need speedy, no-hassle access then Abbey Locks is the perfect choice.</p>
+
+		</div>
+	</div>
+<div class="aio-icon-component    style_2"><div id="Info-box-wrap-3433" class="aio-icon-box left-icon" style=""  ><div class="aio-icon-left"><div class="ult-just-icon-wrapper  "><div class="align-icon" style="text-align:center;">
+<div class="aio-icon square "  style="color:#333;background:#fcdb00;font-size:15px;display:inline-block;">
+	<i class="Defaults-check"></i>
+</div></div></div></div><div class="aio-ibd-block"><div class="aio-icon-header" ><h3 class="aio-icon-title ult-responsive"  data-ultimate-target='#Info-box-wrap-3433 .aio-icon-title'  data-responsive-json-new='{"font-size":"","line-height":""}'  style="">Free Surveys and Quotations</h3></div> <!-- header --></div> <!-- aio-ibd-block --></div> <!-- aio-icon-box --></div> <!-- aio-icon-component -->
+	<div class="wpb_text_column wpb_content_element  vc_custom_1510045227547" >
+		<div class="wpb_wrapper">
+			<p>We are more than happy to quote before the work. Our prices are competitive and value for money.</p>
+
+		</div>
+	</div>
+</div></div></div><div class="wpb_column vc_column_container vc_col-sm-4"><div class="vc_column-inner "><div class="wpb_wrapper"><div class="aio-icon-component    style_2"><div id="Info-box-wrap-2455" class="aio-icon-box left-icon" style=""  ><div class="aio-icon-left"><div class="ult-just-icon-wrapper  "><div class="align-icon" style="text-align:center;">
+<div class="aio-icon square "  style="color:#333;background:#fcdb00;font-size:15px;display:inline-block;">
+	<i class="Defaults-check"></i>
+</div></div></div></div><div class="aio-ibd-block"><div class="aio-icon-header" ><h3 class="aio-icon-title ult-responsive"  data-ultimate-target='#Info-box-wrap-2455 .aio-icon-title'  data-responsive-json-new='{"font-size":"","line-height":""}'  style="">Fixed Price Given in Advance</h3></div> <!-- header --></div> <!-- aio-ibd-block --></div> <!-- aio-icon-box --></div> <!-- aio-icon-component -->
+	<div class="wpb_text_column wpb_content_element  vc_custom_1510819911045" >
+		<div class="wpb_wrapper">
+			<p>NO HIDDEN FEES is our policy. When we quote for a job, that’s the price you pay.</p>
+
+		</div>
+	</div>
+<div class="aio-icon-component    style_2"><div id="Info-box-wrap-2004" class="aio-icon-box left-icon" style=""  ><div class="aio-icon-left"><div class="ult-just-icon-wrapper  "><div class="align-icon" style="text-align:center;">
+<div class="aio-icon square "  style="color:#333;background:#fcdb00;font-size:15px;display:inline-block;">
+	<i class="Defaults-check"></i>
+</div></div></div></div><div class="aio-ibd-block"><div class="aio-icon-header" ><h3 class="aio-icon-title ult-responsive"  data-ultimate-target='#Info-box-wrap-2004 .aio-icon-title'  data-responsive-json-new='{"font-size":"","line-height":""}'  style="">Insurance Approved Locks</h3></div> <!-- header --></div> <!-- aio-ibd-block --></div> <!-- aio-icon-box --></div> <!-- aio-icon-component -->
+	<div class="wpb_text_column wpb_content_element  vc_custom_1510045255601" >
+		<div class="wpb_wrapper">
+			<p>If we need to replace your locks we will only use the highest quality locks for our repairs. All our locks are high-grade and insurance approved.</p>
+
+		</div>
+	</div>
+<div class="aio-icon-component    style_2"><div id="Info-box-wrap-4266" class="aio-icon-box left-icon" style=""  ><div class="aio-icon-left"><div class="ult-just-icon-wrapper  "><div class="align-icon" style="text-align:center;">
+<div class="aio-icon square "  style="color:#333;background:#fcdb00;font-size:15px;display:inline-block;">
+	<i class="Defaults-check"></i>
+</div></div></div></div><div class="aio-ibd-block"><div class="aio-icon-header" ><h3 class="aio-icon-title ult-responsive"  data-ultimate-target='#Info-box-wrap-4266 .aio-icon-title'  data-responsive-json-new='{"font-size":"","line-height":""}'  style="">All Work Fully Guaranteed </h3></div> <!-- header --></div> <!-- aio-ibd-block --></div> <!-- aio-icon-box --></div> <!-- aio-icon-component -->
+	<div class="wpb_text_column wpb_content_element  vc_custom_1510045272201" >
+		<div class="wpb_wrapper">
+			<p>We repeat business rate speaks for itself. We guarantee our work on every job.</p>
+
+		</div>
+	</div>
+</div></div></div></div><div class="vc_row-full-width vc_clearfix"></div><div class="vc_row wpb_row vc_row-fluid vc_custom_1510061204945"><div class="wpb_column vc_column_container vc_col-sm-12 vc_col-lg-3 vc_col-md-3 vc_col-xs-12"><div class="vc_column-inner vc_custom_1490179104815"><div class="wpb_wrapper"><div id="ultimate-heading-15665b0527d0e99f5" class="uvc-heading ult-adjust-bottom-margin ultimate-heading-15665b0527d0e99f5 uvc-425 " data-hspacer="no_spacer"  data-halign="left" style="text-align:left"><div class="uvc-heading-spacer no_spacer" style="top"></div><div class="uvc-main-heading ult-responsive"  data-ultimate-target='.uvc-heading.ultimate-heading-15665b0527d0e99f5 h2'  data-responsive-json-new='{"font-size":"desktop:20px;","line-height":"desktop:30px;"}' ><h2 style="font-weight:bold;margin-bottom:20px;">Our services</h2></div></div>
+	<div class="wpb_text_column wpb_content_element  vc_custom_1509786181213" >
+		<div class="wpb_wrapper">
+			<p style="text-align: left;">Abbey Locks is the most trusted locksmith in the North London area. Most of our business comes from word of mouth which is testament to the high level of service we provide. We have many landlords and business owners with multiple premises and vehicles fleets who call us when they are in need of some help.</p>
+
+		</div>
+	</div>
+</div></div></div><div class="wpb_column vc_column_container vc_col-sm-12 vc_col-lg-9 vc_col-md-9 vc_col-xs-12"><div class="vc_column-inner "><div class="wpb_wrapper"><div class="vc_row wpb_row vc_inner vc_row-fluid"><div class="wpb_column vc_column_container vc_col-sm-4"><div class="vc_column-inner vc_custom_1490178983369"><div class="wpb_wrapper"><div class="shortcode-single-image-wrap alignnone  vc_custom_1509785941912" ><div class="shortcode-single-image"><div class="fancy-media-wrap layzr-bg" style="border-radius:500px;"><img class="lazy-load preload-me" src="data:image/svg+xml,%3Csvg%20xmlns%3D&#39;http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg&#39;%20viewBox%3D&#39;0%200%20400%20400&#39;%2F%3E" data-src="http://www.abbeylocks.co.uk/wp-content/uploads/2014/03/Residential-block-400x400.jpg" data-srcset="http://www.abbeylocks.co.uk/wp-content/uploads/2014/03/Residential-block-400x400.jpg 400w" width="400" height="400"  data-dt-location="http://www.abbeylocks.co.uk/home/residential-block/" style="border-radius:500px;" alt="" /></div></div></div><div id="ultimate-heading-68895b0527d0ee627" class="uvc-heading ult-adjust-bottom-margin ultimate-heading-68895b0527d0ee627 uvc-6389 " data-hspacer="no_spacer"  data-halign="center" style="text-align:center"><div class="uvc-heading-spacer no_spacer" style="top"></div><div class="uvc-main-heading ult-responsive"  data-ultimate-target='.uvc-heading.ultimate-heading-68895b0527d0ee627 h2'  data-responsive-json-new='{"font-size":"desktop:20px;","line-height":"desktop:30px;"}' ><h2 style="font-weight:bold;margin-bottom:5px;">Residential Access </h2></div><div class="uvc-sub-heading ult-responsive"  data-ultimate-target='.uvc-heading.ultimate-heading-68895b0527d0ee627 .uvc-sub-heading '  data-responsive-json-new='{"font-size":"desktop:14px;","line-height":"desktop:26px;"}'  style="font-weight:normal;">To date, we’ve helped over 3,000 residential clients.</div></div></div></div></div><div class="wpb_column vc_column_container vc_col-sm-4"><div class="vc_column-inner vc_custom_1490178987993"><div class="wpb_wrapper"><div class="shortcode-single-image-wrap alignnone  vc_custom_1509786004957" ><div class="shortcode-single-image"><div class="fancy-media-wrap layzr-bg" style="border-radius:500px;"><img class="lazy-load preload-me" src="data:image/svg+xml,%3Csvg%20xmlns%3D&#39;http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg&#39;%20viewBox%3D&#39;0%200%20400%20400&#39;%2F%3E" data-src="http://www.abbeylocks.co.uk/wp-content/uploads/2014/03/Business-block-400x400.jpg" data-srcset="http://www.abbeylocks.co.uk/wp-content/uploads/2014/03/Business-block-400x400.jpg 400w" width="400" height="400"  data-dt-location="http://www.abbeylocks.co.uk/home/business-block/" style="border-radius:500px;" alt="" /></div></div></div><div id="ultimate-heading-34375b0527d0f1274" class="uvc-heading ult-adjust-bottom-margin ultimate-heading-34375b0527d0f1274 uvc-4142 " data-hspacer="no_spacer"  data-halign="center" style="text-align:center"><div class="uvc-heading-spacer no_spacer" style="top"></div><div class="uvc-main-heading ult-responsive"  data-ultimate-target='.uvc-heading.ultimate-heading-34375b0527d0f1274 h2'  data-responsive-json-new='{"font-size":"desktop:20px;","line-height":"desktop:30px;"}' ><h2 style="font-weight:bold;margin-bottom:5px;">Commercial Access</h2></div><div class="uvc-sub-heading ult-responsive"  data-ultimate-target='.uvc-heading.ultimate-heading-34375b0527d0f1274 .uvc-sub-heading '  data-responsive-json-new='{"font-size":"desktop:14px;","line-height":"desktop:26px;"}'  style="font-weight:normal;">We work with over 40 companies to maintain their security systems.</div></div></div></div></div><div class="wpb_column vc_column_container vc_col-sm-4"><div class="vc_column-inner vc_custom_1490178994543"><div class="wpb_wrapper"><div class="shortcode-single-image-wrap alignnone  vc_custom_1510819344468" ><div class="shortcode-single-image"><div class="fancy-media-wrap layzr-bg" style="border-radius:500px;"><img class="lazy-load preload-me" src="data:image/svg+xml,%3Csvg%20xmlns%3D&#39;http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg&#39;%20viewBox%3D&#39;0%200%20400%20400&#39;%2F%3E" data-src="http://www.abbeylocks.co.uk/wp-content/uploads/2014/03/Emergency-block-400x400.jpg" data-srcset="http://www.abbeylocks.co.uk/wp-content/uploads/2014/03/Emergency-block-400x400.jpg 400w" width="400" height="400"  data-dt-location="http://www.abbeylocks.co.uk/home/emergency-block/" style="border-radius:500px;" alt="" /></div></div></div><div id="ultimate-heading-61765b0527d0f23c1" class="uvc-heading ult-adjust-bottom-margin ultimate-heading-61765b0527d0f23c1 uvc-2024 " data-hspacer="no_spacer"  data-halign="center" style="text-align:center"><div class="uvc-heading-spacer no_spacer" style="top"></div><div class="uvc-main-heading ult-responsive"  data-ultimate-target='.uvc-heading.ultimate-heading-61765b0527d0f23c1 h2'  data-responsive-json-new='{"font-size":"desktop:20px;","line-height":"desktop:30px;"}' ><h2 style="font-weight:bold;margin-bottom:5px;">24-hr Emergency Access </h2></div><div class="uvc-sub-heading ult-responsive"  data-ultimate-target='.uvc-heading.ultimate-heading-61765b0527d0f23c1 .uvc-sub-heading '  data-responsive-json-new='{"font-size":"desktop:14px;","line-height":"desktop:26px;"}'  style="font-weight:normal;">Our 24-hr Emergency Call-Out Team are local and can be with you in no time at all.</div></div></div></div></div></div></div></div></div></div><div class="vc_row wpb_row vc_row-fluid"><div class="wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner "><div class="wpb_wrapper">
+	<div class="wpb_text_column wpb_content_element " >
+		<div class="wpb_wrapper">
+			<div class="testimonials-widget-testimonials testimonials-widget-testimonials100000">
+<div class="testimonials-widget-testimonial post-2983 testimonials-widget type-testimonials-widget status-publish category-clients-testimonials description-off" style="">
+<!-- testimonials-widget-testimonials:2983: -->
+		<blockquote><span class="open-quote"></span><em><strong><a class="dt-pswp-item" href="http://www.abbeylocks.co.uk/wp-content/uploads/2017/10/trustatrader_main-200x200-150x150.jpg" data-dt-img-description="" data-large_image_width="150" data-large_image_height="150"><img class="size-full wp-image-15768 alignright" src="http://www.abbeylocks.co.uk/wp-content/uploads/2017/12/trustatrader_main-200x200-150x150.png" alt="" width="150" height="150" /></a>Quick to come out when called. Very helpful.</strong></em>
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+source: <a title="Trustatrader" href="http://www.trustatrader.com/traders/abbey-locksmiths-st-albans/" target="_blank" rel="noopener">trustatrader.com</a><span class="close-quote"></span></blockquote>
+			<div class="credit"><span class="author">Testimonial from Practice on the Green Dental Care</span></div>
+	</div>
+<div class="testimonials-widget-testimonial post-2952 testimonials-widget type-testimonials-widget status-publish category-clients-testimonials description-off" style="display: none;">
+<!-- testimonials-widget-testimonials:2952: -->
+		<blockquote><span class="open-quote"></span><em><strong><a class="dt-pswp-item" href="http://www.abbeylocks.co.uk/wp-content/uploads/2017/10/trustatrader_main-200x200-150x150.jpg" data-dt-img-description="" data-large_image_width="150" data-large_image_height="150"><img class="size-full wp-image-15768 alignright" src="http://www.abbeylocks.co.uk/wp-content/uploads/2017/12/trustatrader_main-200x200-150x150.png" alt="" width="150" height="150" /></a>Mark took apart and cleaned/lubricated the front door lock so that it worked again and readjusted its position on the door so that it closed properly. He arrived on time and was very efficient.</strong></em>
+
+&nbsp;
+
+&nbsp;
+
+source: <a title="Trustatrader" href="http://www.trustatrader.com/traders/abbey-locksmiths-st-albans/" target="_blank" rel="noopener">trustatrader.com</a><span class="close-quote"></span></blockquote>
+			<div class="credit"><span class="author">Testimonial from Rachel O'keefe</span></div>
+	</div>
+<div class="testimonials-widget-testimonial post-2951 testimonials-widget type-testimonials-widget status-publish category-clients-testimonials description-off" style="display: none;">
+<!-- testimonials-widget-testimonials:2951: -->
+		<blockquote><span class="open-quote"></span><em><strong><a class="dt-pswp-item" href="http://www.abbeylocks.co.uk/wp-content/uploads/2017/10/trustatrader_main-200x200-150x150.jpg" data-dt-img-description="" data-large_image_width="150" data-large_image_height="150"><img class="size-full wp-image-15768 alignright" src="http://www.abbeylocks.co.uk/wp-content/uploads/2017/12/trustatrader_main-200x200-150x150.png" alt="" width="150" height="150" /></a>Very prompt and helpful. Professional and knowledgeable, would surely recommend!</strong></em>
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+source: <a title="Trustatrader" href="http://www.trustatrader.com/traders/abbey-locksmiths-st-albans/" target="_blank" rel="noopener">trustatrader.com</a><span class="close-quote"></span></blockquote>
+			<div class="credit"><span class="author">Testimonial from Diana Smerea</span></div>
+	</div>
+<div class="testimonials-widget-testimonial post-2953 testimonials-widget type-testimonials-widget status-publish category-clients-testimonials description-off" style="display: none;">
+<!-- testimonials-widget-testimonials:2953: -->
+		<blockquote><span class="open-quote"></span><em><strong><a class="dt-pswp-item" href="http://www.abbeylocks.co.uk/wp-content/uploads/2017/10/trustatrader_main-200x200-150x150.jpg" data-dt-img-description="" data-large_image_width="150" data-large_image_height="150"><img class="size-full wp-image-15768 alignright" src="http://www.abbeylocks.co.uk/wp-content/uploads/2017/12/trustatrader_main-200x200-150x150.png" alt="" width="150" height="150" /></a>Quick response, friendly service, good value. Would use Mark again and recommend to others</strong></em>
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+source: <a title="Trustatrader" href="http://www.trustatrader.com/traders/abbey-locksmiths-st-albans/" target="_blank" rel="noopener">trustatrader.com</a><span class="close-quote"></span></blockquote>
+			<div class="credit"><span class="author">Testimonial from James Stewart</span></div>
+	</div>
+<div class="testimonials-widget-testimonial post-2956 testimonials-widget type-testimonials-widget status-publish category-clients-testimonials description-off" style="display: none;">
+<!-- testimonials-widget-testimonials:2956: -->
+		<blockquote><span class="open-quote"></span><em><strong><a class="dt-pswp-item" href="http://www.abbeylocks.co.uk/wp-content/uploads/2017/10/trustatrader_main-200x200-150x150.jpg" data-dt-img-description="" data-large_image_width="150" data-large_image_height="150"><img class="size-full wp-image-15768 alignright" src="http://www.abbeylocks.co.uk/wp-content/uploads/2017/12/trustatrader_main-200x200-150x150.png" alt="" width="150" height="150" /></a>Great service received every time we have needed a lock or closer fixed. Always easy to contact and very fast to help- 10/10. I would recommend Abbey Locksmiths to anybody in need of a great locksmith.</strong></em>
+
+&nbsp;
+
+&nbsp;
+
+source: <a title="Trustatrader" href="http://www.trustatrader.com/traders/abbey-locksmiths-st-albans/" target="_blank" rel="noopener">trustatrader.com</a><span class="close-quote"></span></blockquote>
+			<div class="credit"><span class="author">Testimonial from Charlotte Bailey</span></div>
+	</div>
+<div class="testimonials-widget-testimonial post-2959 testimonials-widget type-testimonials-widget status-publish category-clients-testimonials description-off" style="display: none;">
+<!-- testimonials-widget-testimonials:2959: -->
+		<blockquote><span class="open-quote"></span><em><strong><a class="dt-pswp-item" href="http://www.abbeylocks.co.uk/wp-content/uploads/2017/10/trustatrader_main-200x200-150x150.jpg" data-dt-img-description="" data-large_image_width="150" data-large_image_height="150"><img class="size-full wp-image-15768 alignright" src="http://www.abbeylocks.co.uk/wp-content/uploads/2017/12/trustatrader_main-200x200-150x150.png" alt="" width="150" height="150" /></a>Mark was prompt, friendly and good value &#8211; I&#8217;d definitely recommend him.</strong></em>
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+source: <a title="Trustatrader" href="http://www.trustatrader.com/traders/abbey-locksmiths-st-albans/" target="_blank" rel="noopener">trustatrader.com</a><span class="close-quote"></span></blockquote>
+			<div class="credit"><span class="author">Testimonial from David Evans</span></div>
+	</div>
+<div class="testimonials-widget-testimonial post-2954 testimonials-widget type-testimonials-widget status-publish category-clients-testimonials description-off" style="display: none;">
+<!-- testimonials-widget-testimonials:2954: -->
+		<blockquote><span class="open-quote"></span><em><strong><a class="dt-pswp-item" href="http://www.abbeylocks.co.uk/wp-content/uploads/2017/10/trustatrader_main-200x200-150x150.jpg" data-dt-img-description="" data-large_image_width="150" data-large_image_height="150"><img class="size-full wp-image-15768 alignright" src="http://www.abbeylocks.co.uk/wp-content/uploads/2017/12/trustatrader_main-200x200-150x150.png" alt="" width="150" height="150" /></a>We have used Abbey Locksmiths for several years and have always been totally satisfied with the quick response and timely and excellent service. We would not hesitate to recommend Abbey Locksmiths.</strong></em>
+
+&nbsp;
+
+&nbsp;
+
+source: <a title="Trustatrader" href="http://www.trustatrader.com/traders/abbey-locksmiths-st-albans/" target="_blank" rel="noopener">trustatrader.com</a><span class="close-quote"></span></blockquote>
+			<div class="credit"><span class="author">Testimonial from 44 Church Lane Management Company</span></div>
+	</div>
+<div class="testimonials-widget-testimonial post-2981 testimonials-widget type-testimonials-widget status-publish category-clients-testimonials description-off" style="display: none;">
+<!-- testimonials-widget-testimonials:2981: -->
+		<blockquote><span class="open-quote"></span><em><strong><a class="dt-pswp-item" href="http://www.abbeylocks.co.uk/wp-content/uploads/2017/10/trustatrader_main-200x200-150x150.jpg" data-dt-img-description="" data-large_image_width="150" data-large_image_height="150"><img class="size-full wp-image-15768 alignright" src="http://www.abbeylocks.co.uk/wp-content/uploads/2017/12/trustatrader_main-200x200-150x150.png" alt="" width="150" height="150" /></a>Having contacted Mark on a number of occasions, we&#8217;ve been pleased with every aspect of his work. He&#8217;s attended work on two apartments and has always completed the work in a timely, clean and professional manner. On one occasion which was an emergency he was prepared to attend at short notice on a bank holiday. However, to assist us he talked us through a process to secure the door until a more convenient time for us to call him out to complete the task. This helped us at short notice and saved us some money. We trust Mark and recommend him as a trustworthy professional.</strong></em>
+
+&nbsp;
+
+source: <a title="Trustatrader" href="http://www.trustatrader.com/traders/abbey-locksmiths-st-albans/" target="_blank" rel="noopener">trustatrader.com</a><span class="close-quote"></span></blockquote>
+			<div class="credit"><span class="author">Testimonial from Davan Holt</span></div>
+	</div>
+<div class="testimonials-widget-testimonial post-3046 testimonials-widget type-testimonials-widget status-publish category-clients-testimonials description-off" style="display: none;">
+<!-- testimonials-widget-testimonials:3046: -->
+		<blockquote><span class="open-quote"></span><em><strong><a class="dt-pswp-item" href="http://www.abbeylocks.co.uk/wp-content/uploads/2017/10/trustatrader_main-200x200-150x150.jpg" data-dt-img-description="" data-large_image_width="150" data-large_image_height="150"><img class="size-full wp-image-15768 alignright" src="http://www.abbeylocks.co.uk/wp-content/uploads/2017/12/trustatrader_main-200x200-150x150.png" alt="" width="150" height="150" /></a>I found Mark to be very efficient , punctual helpful and very pleasant to deal with. I would certainly recommend him to others</strong></em>
+
+&nbsp;
+
+&nbsp;
+
+source: <a title="Trustatrader" href="http://www.trustatrader.com/traders/abbey-locksmiths-st-albans/" target="_blank" rel="noopener">trustatrader.com</a><span class="close-quote"></span></blockquote>
+			<div class="credit"><span class="author">Testimonial from William Cameron</span></div>
+	</div>
+<div class="testimonials-widget-testimonial post-2950 testimonials-widget type-testimonials-widget status-publish category-clients-testimonials description-off" style="display: none;">
+<!-- testimonials-widget-testimonials:2950: -->
+		<blockquote><span class="open-quote"></span><em><strong><a class="dt-pswp-item" href="http://www.abbeylocks.co.uk/wp-content/uploads/2017/10/trustatrader_main-200x200-150x150.jpg" data-dt-img-description="" data-large_image_width="150" data-large_image_height="150"><img class="size-full wp-image-15768 alignright" src="http://www.abbeylocks.co.uk/wp-content/uploads/2017/12/trustatrader_main-200x200-150x150.png" alt="" width="150" height="150" /></a>Prompt, friendly and reliable, and cost effective. Would only use this company for any future work I have. I have used others in the past and have always been let down and disappointed. Keep up the good work guys</strong></em>
+
+&nbsp;
+
+&nbsp;
+
+source: <a title="Trustatrader" href="http://www.trustatrader.com/traders/abbey-locksmiths-st-albans/" target="_blank" rel="noopener">trustatrader.com</a><span class="close-quote"></span></blockquote>
+			<div class="credit"><span class="author">Testimonial from Lewis Dunkley</span></div>
+	</div>
+</div>
+
+
+		</div>
+	</div>
+<div class=" vc_custom_1524498405617 ubtn-ctn-center color-title"><a class="ubtn-link ult-adjust-bottom-margin ubtn-center ubtn-large color-title" href="http://www.abbeylocks.co.uk/testimonials/" ><button type="button" id="ubtn-7811"  class="ubtn ult-adjust-bottom-margin ult-responsive ubtn-large ubtn-no-hover-bg  none  ubtn-sep-icon ubtn-sep-icon-right  ubtn-center   tooltip-5b0527d11edee"  data-hover="#ffe947" data-border-color="" data-bg="#dd9933" data-hover-bg="" data-border-hover="" data-shadow-hover="" data-shadow-click="none" data-shadow="" data-shd-shadow=""  data-ultimate-target='#ubtn-7811'  data-responsive-json-new='{"font-size":"desktop:14px;","line-height":"desktop:24px;"}'  style="font-family:&#039;Raleway&#039;;font-weight:700;border:none;background: #dd9933;color: #ffffff;"><span class="ubtn-data ubtn-icon"><i class="Defaults-thumbs-o-up" style="font-size:28px;color:;"></i></span><span class="ubtn-hover" style="background-color:"></span><span class="ubtn-data ubtn-text " >CLICK HERE TO READ ALL OUR REVIEWS</span></button></a></div></div></div></div></div>
+<span class="cp-load-after-post"></span>
+    </div><!-- #content -->
+
+	
+
+
+			</div><!-- .wf-container -->
+		</div><!-- .wf-wrap -->
+	</div><!-- #main -->
+
+	
+
+	
+	<!-- !Footer -->
+	<footer id="footer" class="footer solid-bg">
+
+		
+			<div class="wf-wrap">
+				<div class="wf-container-footer">
+					<div class="wf-container">
+						<section id="presscore-blog-posts-2" class="widget widget_presscore-blog-posts wf-cell wf-1-3"><div class="widget-title">Our Locksmith Blog</div><ul class="recent-posts"><li><article class="post-format-standard"><div class="post-content"><a href="http://www.abbeylocks.co.uk/non-destructive-entry-in-enfield-north-london/">Non Destructive Entry in Enfield, North London</a><br /><time class="text-secondary" datetime="2018-04-30T11:00:58+00:00">30/04/2018</time></div></article></li><li><article class="post-format-standard"><div class="post-content"><a href="http://www.abbeylocks.co.uk/welding-and-gate-repair-at-to-car-compound-in-edmonton-london-n18/">Welding and Gate Repair at a Car Compound in Edmonton,  London, N18</a><br /><time class="text-secondary" datetime="2018-04-23T11:00:56+00:00">23/04/2018</time></div></article></li><li><article class="post-format-standard"><div class="post-content"><a href="http://www.abbeylocks.co.uk/replacement-mul-t-lock-restricted-key-cylinders-master-keyed-for-office-in-london-ec4/">Replacement Mul-T-Lock Restricted Key Cylinders, Master Keyed For Office in London, EC4</a><br /><time class="text-secondary" datetime="2018-04-16T11:00:36+00:00">16/04/2018</time></div></article></li></ul></section><section id="presscore-contact-info-widget-2" class="widget widget_presscore-contact-info-widget wf-cell wf-1-3"><div class="widget-title">Contact info</div><ul class="contact-info"><li><span class="color-primary">Location:</span><br />54 Halsey Park, London, Colney, 
+AL2 1BH</li><li><span class="color-primary">Phone numbers:</span><br />0800 033 7226, 0845 544 4949</li><li><span class="color-primary">E-mail:</span><br />service@abbeylocks.co.uk</li></ul></section><section id="presscore-contact-form-widget-2" class="widget widget_presscore-contact-form-widget wf-cell wf-1-3"><div class="widget-title">Get in Touch</div><form class="contact-form dt-form" action="/" method="post">
+<input type="hidden" name="widget_id" value="presscore-contact-form-widget-2" /><input type="hidden" name="send_message" value="" /><div class="form-fields"><span class="form-name"><label class="assistive-text">Name *</label><input type="text" class="validate[required]" placeholder="Name *" name="name" value="" aria-required="true">
+</span><span class="form-mail"><label class="assistive-text">E-mail *</label><input type="text" class="validate[required,custom[email]]" placeholder="E-mail *" name="email" value="" aria-required="true">
+</span></div><span class="form-message"><label class="assistive-text">Message</label><textarea placeholder="Message" name="message" rows="3" aria-required="false"></textarea>
+</span><p><a href="#" class="dt-btn dt-btn-m dt-btn-submit" rel="nofollow"><span>Submit</span></a><input class="assistive-text" type="submit" value="submit"></p></form>
+</section>					</div><!-- .wf-container -->
+				</div><!-- .wf-container-footer -->
+			</div><!-- .wf-wrap -->
+
+		
+<!-- !Bottom-bar -->
+<div id="bottom-bar" class="solid-bg logo-left" role="contentinfo">
+	<div class="wf-wrap">
+		<div class="wf-container-bottom">
+
+				<div id="branding-bottom"><a href="http://www.abbeylocks.co.uk/"><img class=" preload-me" src="http://www.abbeylocks.co.uk/wp-content/uploads/2017/10/Abbey_locksmiths_logo-e1509528887817.png" srcset="http://www.abbeylocks.co.uk/wp-content/uploads/2017/10/Abbey_locksmiths_logo-e1509528887817.png 122w, http://www.abbeylocks.co.uk/wp-content/uploads/2017/10/Abbey_locksmiths_logo-e1509528887817.png 122w" width="122" height="46"   sizes="122px" alt="Abbey Locksmith" /></a></div>
+				<div class="wf-float-right">
+
+					
+				
+
+								</div>
+
+		</div><!-- .wf-container-bottom -->
+	</div><!-- .wf-wrap -->
+</div><!-- #bottom-bar -->
+	</footer><!-- #footer -->
+
+
+	<a href="#" class="scroll-top"><span class="screen-reader-text">Go to Top</span></a>
+
+</div><!-- #page -->
+
+<a href="tel:08000520775" id="callnowbutton" onclick="ga('send', 'event', 'Contact', 'Call Now Button', 'Phone');">&nbsp;</a>				<script type="text/javascript" id="modal">
+					jQuery(window).on( 'load', function(){
+						startclock();
+					});
+					function stopclock (){
+						if(timerRunning) clearTimeout(timerID);
+						timerRunning = false;
+						document.cookie="time=0";
+					}
+					function showtime () {
+						var now = new Date();
+						var my = now.getTime() ;
+						now = new Date(my-diffms) ;
+						document.cookie="time="+now.toLocaleString();
+						timerID = setTimeout('showtime()',10000);
+						timerRunning = true;
+					}
+					function startclock () {
+						stopclock();
+						showtime();
+					}
+					var timerID = null;
+					var timerRunning = false;
+					var x = new Date() ;
+					var now = x.getTime() ;
+					var gmt = 1527064529 * 1000 ;
+					var diffms = (now - gmt) ;
+				</script>
+								<script type="text/javascript" id="info-bar">
+					jQuery(window).on( 'load', function(){
+						startclock();
+					});
+					function stopclock (){
+						if(timerRunning) clearTimeout(timerID);
+						timerRunning = false;
+						document.cookie="time=0";
+					}
+					function showtime () {
+						var now = new Date();
+						var my = now.getTime() ;
+						now = new Date(my-diffms) ;
+						document.cookie="time="+now.toLocaleString();
+						timerID = setTimeout('showtime()',10000);
+						timerRunning = true;
+					}
+					function startclock () {
+						stopclock();
+						showtime();
+					}
+					var timerID = null;
+					var timerRunning = false;
+					var x = new Date() ;
+					var now = x.getTime() ;
+					var gmt = 1527064529 * 1000 ;
+					var diffms = (now - gmt) ;
+				</script>
+								<script type="text/javascript" id="slidein">
+					jQuery(window).on( 'load', function(){
+						startclock();
+					});
+					function stopclock (){
+						if(timerRunning) clearTimeout(timerID);
+						timerRunning = false;
+						document.cookie="time=0";
+					}
+
+					function showtime () {
+						var now = new Date();
+						var my = now.getTime() ;
+						now = new Date(my-diffms) ;
+						document.cookie="time="+now.toLocaleString();
+						timerID = setTimeout('showtime()',10000);
+						timerRunning = true;
+					}
+
+					function startclock () {
+						stopclock();
+						showtime();
+					}
+					var timerID = null;
+					var timerRunning = false;
+					var x = new Date() ;
+					var now = x.getTime() ;
+					var gmt = 1527064529 * 1000 ;
+					var diffms = (now - gmt) ;
+				</script>
+				<!-- Custom Facebook Feed JS -->
+<script type="text/javascript">
+var cfflinkhashtags = "true";
+jQuery( document ).ready(function($) {
+$('#cff .cff-author-img img').attr('src', 'http://www.abbeylocks.co.uk/wp-content/uploads/2017/10/favicon.png');
+});
+</script>
+<!--Start of Tawk.to Script (0.3.3)-->
+<script type="text/javascript">
+var Tawk_API=Tawk_API||{};
+var Tawk_LoadStart=new Date();
+(function(){
+var s1=document.createElement("script"),s0=document.getElementsByTagName("script")[0];
+s1.async=true;
+s1.src='https://embed.tawk.to/57a47fcb8e7071af3c78e569/default';
+s1.charset='UTF-8';
+s1.setAttribute('crossorigin','*');
+s0.parentNode.insertBefore(s1,s0);
+})();
+</script>
+<!--End of Tawk.to Script (0.3.3)-->			<script type="text/javascript">
+				function revslider_showDoubleJqueryError(sliderID) {
+					var errorMessage = "Revolution Slider Error: You have some jquery.js library include that comes after the revolution files js include.";
+					errorMessage += "<br> This includes make eliminates the revolution slider libraries, and make it not work.";
+					errorMessage += "<br><br> To fix it you can:<br>&nbsp;&nbsp;&nbsp; 1. In the Slider Settings -> Troubleshooting set option:  <strong><b>Put JS Includes To Body</b></strong> option to true.";
+					errorMessage += "<br>&nbsp;&nbsp;&nbsp; 2. Find the double jquery.js include and remove it.";
+					errorMessage = "<span style='font-size:16px;color:#BC0C06;'>" + errorMessage + "</span>";
+						jQuery(sliderID).show().html(errorMessage);
+				}
+			</script>
+			<script type='text/javascript' src='http://www.abbeylocks.co.uk/wp-content/themes/dt-the7/js/main.min.js?ver=6.5.0'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var wpcf7 = {"apiSettings":{"root":"http:\/\/www.abbeylocks.co.uk\/wp-json\/contact-form-7\/v1","namespace":"contact-form-7\/v1"},"recaptcha":{"messages":{"empty":"Please verify that you are not a robot."}},"cached":"1"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://www.abbeylocks.co.uk/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=5.0.1'></script>
+<script type='text/javascript' src='http://www.abbeylocks.co.uk/wp-content/plugins/custom-facebook-feed/js/cff-scripts.js?ver=2.5'></script>
+<script type='text/javascript' src='http://www.abbeylocks.co.uk/wp-content/themes/dt-the7/js/post-type.js?ver=1.0.0'></script>
+<script type='text/javascript' src='http://www.abbeylocks.co.uk/wp-content/plugins/Ultimate_VC_Addons/assets/min-js/info-box.min.js?ver=3.16.23'></script>
+<script type='text/javascript' src='http://www.abbeylocks.co.uk/wp-includes/js/wp-embed.min.js?ver=4.9.6'></script>
+<script type='text/javascript' src='http://www.abbeylocks.co.uk/wp-content/plugins/js_composer/assets/js/dist/js_composer_front.min.js?ver=5.4.7'></script>
+<script type='text/javascript' src='//www.abbeylocks.co.uk/wp-content/plugins/testimonials-widget/includes/libraries/bxslider-4/dist/jquery.bxslider.min.js?ver=4.1.2'></script>
+<script type='text/javascript' src='http://www.abbeylocks.co.uk/wp-content/themes/dt-the7/js/atoms/plugins/validator/jquery.validationEngine.js?ver=6.5.0'></script>
+<script type='text/javascript' src='http://www.abbeylocks.co.uk/wp-content/themes/dt-the7/js/atoms/plugins/validator/languages/jquery.validationEngine-en.js?ver=6.5.0'></script>
+<script type='text/javascript' src='http://www.abbeylocks.co.uk/wp-content/themes/dt-the7/js/dt-contact-form.js?ver=6.5.0'></script>
+<script type="text/javascript">
+var tw_100000 = null;
+
+jQuery(document).ready(function() {
+	tw_100000 = jQuery('.testimonials-widget-testimonials100000').bxSlider({
+		adaptiveHeight: true,
+		auto: true,
+		
+		autoHover: true,
+		controls: false,
+		mode: 'fade',
+		pager: false,
+		pause: 5000,
+		video: false,
+		slideMargin: 2,
+		slideWidth: 0
+	});
+});
+</script>
+<div class="pswp" tabindex="-1" role="dialog" aria-hidden="true">
+    <div class="pswp__bg"></div>
+    <div class="pswp__scroll-wrap">
+ 
+        <div class="pswp__container">
+            <div class="pswp__item"></div>
+            <div class="pswp__item"></div>
+            <div class="pswp__item"></div>
+        </div>
+ 
+        <div class="pswp__ui pswp__ui--hidden">
+            <div class="pswp__top-bar">
+                <div class="pswp__counter"></div>
+                <button class="pswp__button pswp__button--close" title="Close (Esc)"></button>
+                <button class="pswp__button pswp__button--share" title="Share"></button>
+                <button class="pswp__button pswp__button--fs" title="Toggle fullscreen"></button>
+                <button class="pswp__button pswp__button--zoom" title="Zoom in/out"></button>
+                <div class="pswp__preloader">
+                    <div class="pswp__preloader__icn">
+                      <div class="pswp__preloader__cut">
+                        <div class="pswp__preloader__donut"></div>
+                      </div>
+                    </div>
+                </div>
+            </div>
+            <div class="pswp__share-modal pswp__share-modal--hidden pswp__single-tap">
+                <div class="pswp__share-tooltip"></div> 
+            </div>
+            <button class="pswp__button pswp__button--arrow--left" title="Previous (arrow left)">
+            </button>
+            <button class="pswp__button pswp__button--arrow--right" title="Next (arrow right)">
+            </button>
+            <div class="pswp__caption">
+                <div class="pswp__caption__center"></div>
+            </div>
+        </div>
+    </div>
+</div>
+</body>
+</html>
+<!--
+Performance optimized by W3 Total Cache. Learn more: https://www.w3-edge.com/products/
+
+
+Served from: www.abbeylocks.co.uk @ 2018-05-23 09:35:29 by W3 Total Cache
+-->
+

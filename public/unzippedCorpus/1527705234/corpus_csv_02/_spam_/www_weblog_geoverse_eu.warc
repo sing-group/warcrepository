@@ -1,0 +1,49 @@
+WARC/1.0
+WARC-Type: warcinfo
+WARC-Date: 2018-05-30T17:52:31Z
+WARC-All-Language: fr
+WARC-All-Content_type: text/html
+WARC-Record-ID: <urn:uuid:589843e8-99ae-4114-9d4d-6e201178f1dc>
+Content-Type: application/http;msgtype=response
+Content-Length: 46
+
+WARCProcessor by SING Group www.sing-group.com
+
+WARC/1.0
+WARC-Type: response
+WARC-Target-URI: http://www.weblog.geoverse.eu
+WARC-Date: 20180530175231
+WARC-Language: fr
+WARC-Record-ID: <http://www.weblog.geoverse.eu>
+Content-Type: application/http;msgtype=response
+Content-Length: 839
+
+HTTP/1.1 200
+Content-Type:text/html
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Frameset//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-frameset.dtd">
+<html>
+<head>
+<title>Geoverse</title>
+<meta name="generator" content="iloblog 1.1"/>
+<meta http-equiv="content-type" content="text/html; charset=UTF-8"/>
+<link rel="alternate" title="Geoverse Feed" href="//iloapp.geoverse.eu/blog/weblog?RSS" type="application/rss+xml"/>
+<script type="text/javascript" src="//iloapp.geoverse.eu/blog/javascript/jquery.js"></script>
+<script type="text/javascript" src="//iloapp.geoverse.eu/blog/javascript/hash_url.js"></script>
+
+<style type="text/css">
+body
+{
+margin: 0px;
+padding: 0px;
+}
+</style>
+
+</head>
+<frameset cols="100%">
+	<frame id="mainFrame" src="//iloapp.geoverse.eu/blog/weblog?Home#niceURL"/>
+</frameset>
+</html>
+

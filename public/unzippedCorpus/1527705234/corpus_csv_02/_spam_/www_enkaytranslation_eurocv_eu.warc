@@ -1,0 +1,168 @@
+WARC/1.0
+WARC-Type: warcinfo
+WARC-Date: 2018-05-30T17:52:31Z
+WARC-All-Language: en
+WARC-All-Content_type: text/html; charset=UTF-8
+WARC-Record-ID: <urn:uuid:c3011068-747b-4545-ae04-cb114ac06e01>
+Content-Type: application/http;msgtype=response
+Content-Length: 46
+
+WARCProcessor by SING Group www.sing-group.com
+
+WARC/1.0
+WARC-Type: response
+WARC-Target-URI: http://www.enkaytranslation.eurocv.eu
+WARC-Date: 20180530175231
+WARC-Language: en
+WARC-Record-ID: <http://www.enkaytranslation.eurocv.eu>
+Content-Type: application/http;msgtype=response
+Content-Length: 8966
+
+HTTP/1.1 200
+Content-Type:text/html; charset=UTF-8
+
+
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <title>Welcome to EuroCv.eu - Curriculum Vitae in European format on line - EuroCv Homepage</title>
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <!-- Le styles -->
+        <link href="//netdna.bootstrapcdn.com/bootstrap/3.1.0/css/bootstrap.min.css" media="all" rel="stylesheet" type="text/css">
+<link href="//netdna.bootstrapcdn.com/bootstrap/3.1.0/css/bootstrap-theme.min.css" media="all" rel="stylesheet" type="text/css">
+<link href="//netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.css" media="all" rel="stylesheet" type="text/css">
+<link href="/css/cover.css" media="all" rel="stylesheet" type="text/css">
+<link href="/css/bootstrap-typeahead.css" media="all" rel="stylesheet" type="text/css">
+<link href="/css/bootstrap-switch.css" media="all" rel="stylesheet" type="text/css">
+<link href="/css/style.css" media="all" rel="stylesheet" type="text/css">
+<link href="/img/favicon.ico" rel="shortcut icon" type="image/vnd.microsoft.icon">
+    </head>
+    <body>
+        <nav class="navbar navbar-default navbar-fixed-top" role="navigation">
+            <div class="container">
+                <div class="navbar-header">
+                    <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                    </button>
+                    <a class="navbar-brand" href="http://www.eurocv.eu/"><img width="23" height="22" src="/img/eurocv-logo.png" alt="EuroCv - The first free network of Curriculum Vitae"/>&nbsp;EuroCv</a>
+                </div>
+                <div class="collapse navbar-collapse">
+                     <ul class="nav navbar-nav navbar-nav-left">
+                                                        <li >
+            <a class="nav-header" href="http://www.eurocv.eu/">
+                 Homepage            </a>
+        </li>
+                                                                                            <li >
+            <a class="nav-header" href="http://www.eurocv.eu/contact">
+                 Contact us            </a>
+        </li>
+                                            </ul>                     <ul class="nav navbar-nav navbar-right">
+                                                 <li class="dropdown">
+                                <a href="http://www.eurocv.eu/user">Sign In</a>
+                            </li>
+                                              <li>
+                             <form class="navbar-form navbar-right" role="search">
+                                <div class="form-group">
+                                  <input type="text" title="Type here who you are looking for or what you are looking for" size="" class="form-control input-md" placeholder="last name or keyword" id="searchbox">
+                                </div>
+                             </form>
+                         </li>
+                     </ul>
+                </div>
+            </div>
+        </nav>
+        <div class="container">
+            <!-- 
+            <div class="row">
+                <div class="col-lg-12">
+                    <ul class="breadcrumb">
+    </ul>                </div>
+            </div>
+             -->
+            <div class="row">
+                <div class="col-lg-12">
+                    <div class="alert alert-warning alert-dismissable">
+                         <button type="button" class="close" data-dismiss="alert" aria-hidden="true">&times;</button>
+                        This is the beta release of the new EuroCv.eu service. Please let us know if you find any problems.                        Send your help requests here: <a href="http://www.eurocv.eu/contact">Contact us</a>                    </div>
+                                        <div class="site-wrapper">
+	<div class="site-wrapper-inner">
+		<div class="cover-container">
+			<div class="inner cover">
+			    <img width="237" height="216" src="/img/logo_eurocv.png"/>
+				<p class="lead">Create your online CV once and for all. The entire world will be able to use a simple link to access your curriculum, and it will be visible without any advertisements. It's free and without ads!</p>
+				<p class="lead">
+					<a href="/user/register" class="btn btn-lg btn-default">New European Curriculum</a>
+				</p>
+			</div>
+		</div>
+	</div>
+</div>                </div>
+            </div>
+         </div>
+         <br/>
+        <div class="navbar navbar-default navbar-fixed-bottom hidden-xs">
+            <div class="col-lg-2">
+                <ul class="nav navbar-nav" id="translations">
+    <li class="dropdown">
+    	<a href="#" data-toggle="dropdown" class="dropdown-toggle"><i class="fa fa-flag"></i> English <b class="caret"></b></a>
+    	<ul class="dropdown-menu">
+    	        	    			    <li><a href="/application/index/changelng/26"><i class="fa fa-flag"></i> Albanian</a></li>
+						    <li><a href="/application/index/changelng/30"><i class="fa fa-flag"></i> Croatian</a></li>
+						    <li><a href="/application/index/changelng/2"><i class="fa fa-flag"></i> English</a></li>
+						    <li><a href="/application/index/changelng/13"><i class="fa fa-flag"></i> Estonian</a></li>
+						    <li><a href="/application/index/changelng/1"><i class="fa fa-flag"></i> Italian</a></li>
+						    <li><a href="/application/index/changelng/9"><i class="fa fa-flag"></i> Portuguese</a></li>
+						    <li><a href="/application/index/changelng/23"><i class="fa fa-flag"></i> Russian</a></li>
+						    <li><a href="/application/index/changelng/3"><i class="fa fa-flag"></i> Spanish</a></li>
+			    	    <li class="divider"></li>
+    	    <li><a target="_blank" href="https://poeditor.com/join/project?hash=d5192ae812bef1e4e15cb57656b82939">Help us to translate the service</a></li>
+        </ul>
+    </li>
+</ul>            </div>
+            <div class="col-lg-10">
+        		<ul class="nav navbar-nav pull-right">
+        		    <li><a href="#"></a></li>
+        		    <li><a href="https://twitter.com/myeurocv" data-show-count="false" data-size="large"><i class="fa fa-twitter"></i> Follow us @myeurocv</a></li>
+        		    <li><a href="https://twitter.com/intent/tweet?screen_name=myEuroCv&text=Thank%20you%20guys%20for%20your%20free%20service!%20I%20have%20created%20@myeurocv%20right%20now!" data-text="" data-size="large" data-related="eurocv"><i class="fa fa-twitter"></i> Tweet</a></li>
+                    <li class="dropdown">
+                        <a class="dropdown-toggle" data-toggle="dropdown" href="#"><i class="fa fa-question"></i> Help</a>
+                        <ul class="dropdown-menu pull-right">
+                            <li class="dropdown"><a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=JK3ERUVCWMQ8C" target="_blank"><i class="fa fa-euro"></i> Donate</a></li>
+                            <li class="dropdown"><a href="https://bitbucket.org/shinesoftware/eurocv/issues/new" target="_blank"><i class="fa fa-volume-down"></i> Post issues</a></li>
+                            <li><a target="_blank" href="https://bitbucket.org/shinesoftware/rss/feed?token=cfa7479d978b0996d498fbf8390ef17c"><i class="fa fa-rss"></i> Subscribe the project feed</a></li>
+                		    <li class="divider"></li>
+                		    <li><a href="http://www.eurocv.eu/contact">Contact us</a></li>
+                        </ul>
+                    </li>
+        		</ul>
+        	</div>
+        </div>
+        <script type="text/javascript" src="//code.jquery.com/jquery.min.js"></script>
+<script type="text/javascript" src="//netdna.bootstrapcdn.com/bootstrap/3.1.0/js/bootstrap.min.js"></script>
+<script type="text/javascript" src="/js/bootstrap-hogan-2.0.0.js"></script>
+<script type="text/javascript" src="/js/bootstrap-typeahead.min.js"></script>
+<script type="text/javascript" src="/js/bootstrap-switch.min.js"></script>
+<script type="text/javascript" src="/js/site.js"></script>        
+        
+        <script type="text/javascript">
+              var _gaq = _gaq || [];
+              _gaq.push(['_setAccount', 'UA-382523-2']);
+              _gaq.push(['_trackPageview']);
+              
+                            
+                            
+              (function() {
+                var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+                ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+                var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+              })();
+        
+        </script>
+    </body>
+</html>
+
+

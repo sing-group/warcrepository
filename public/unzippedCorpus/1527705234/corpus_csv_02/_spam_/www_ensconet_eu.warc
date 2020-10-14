@@ -1,0 +1,45 @@
+WARC/1.0
+WARC-Type: warcinfo
+WARC-Date: 2018-05-30T18:18:32Z
+WARC-All-Language: en-GB
+WARC-All-Content_type: text/html
+WARC-Record-ID: <urn:uuid:1e6c446f-92aa-46b0-a7a6-5992b29ec319>
+Content-Type: application/http;msgtype=response
+Content-Length: 46
+
+WARCProcessor by SING Group www.sing-group.com
+
+WARC/1.0
+WARC-Type: response
+WARC-Target-URI: http://www.ensconet.eu
+WARC-Date: 20180530181832
+WARC-Language: en-GB
+WARC-Record-ID: <http://www.ensconet.eu>
+Content-Type: application/http;msgtype=response
+Content-Length: 983
+
+HTTP/1.1 200
+Content-Type:text/html
+
+
+<!DOCTYPE html>
+<html lang="en-GB">
+<head>
+	<title>Want your own website? | 123 Reg</title>
+	<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+	<meta http-equiv="Content-Language" content="en-us" />
+	<meta name="ROBOTS" content="NOINDEX, NOFOLLOW">
+	<meta name="description" content="Get online with Website Builder! Create a free 2-page website to go with your new domain. Start now for free, no credit card required!"/>
+  <meta name="viewport" content="width=device-width">
+	<link rel="stylesheet" href="style/stylesheet.css" type="text/css" media="all">
+  <link rel="icon" type="image/png" href="favicon-32x32.png" sizes="32x32">
+</head>
+<body>
+  <iframe src="https://www.123-reg-new-domain.co.uk/iframe.html" width="100%" scrolling="no"></iframe>
+  <script src="javascript/jquery.js"></script>
+  <script src="javascript/iframeResizer.min.js"></script>
+  <script src="javascript/app.js"></script>
+</body>
+</html>
+
+

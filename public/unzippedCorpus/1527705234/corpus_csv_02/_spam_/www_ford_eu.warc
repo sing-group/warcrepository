@@ -1,0 +1,376 @@
+WARC/1.0
+WARC-Type: warcinfo
+WARC-Date: 2018-05-30T18:18:32Z
+WARC-All-Language: fr
+WARC-All-Content_type: text/html
+WARC-Record-ID: <urn:uuid:e9e527c8-3ab8-463d-87f3-c2522faff8a1>
+Content-Type: application/http;msgtype=response
+Content-Length: 46
+
+WARCProcessor by SING Group www.sing-group.com
+
+WARC/1.0
+WARC-Type: response
+WARC-Target-URI: http://www.ford.eu
+WARC-Date: 20180530181832
+WARC-Language: fr
+WARC-Record-ID: <http://www.ford.eu>
+Content-Type: application/http;msgtype=response
+Content-Length: 7878
+
+HTTP/1.1 200
+Content-Type:text/html
+
+
+<!DOCTYPE html >
+<html>
+<head>
+    <title>Ford - Select Country</title>
+    <meta charset="utf-8">
+    <link  rel="stylesheet" href="css/main.css" />
+    <script src="js/mobileSniffer.js" type="text/javascript"></script>
+    <script src="js/modernizr.min.js" type="text/javascript"></script>
+</head>
+<body class="country-selector">
+    <header>
+        <div class="max-width">
+            <a href="#">
+                <img class="logo" src="assets/images/interface/ford_logo.png" alt="Ford of Europe" />
+            </a>
+        </div>
+    </header>
+    <section class="hero">
+        <img src="assets/images/hero/country_selector.jpg" alt="Not Found" />
+    </section>
+    <section class="selector">
+
+        
+            
+                <ul>
+            
+
+                <li><a href="http://www.ford.ma/">مغرب / al-Maġrib</a></li>
+
+            
+        
+            
+
+                <li><a href="http://www.fordegypt.com">مصر</a></li>
+
+            
+        
+            
+
+                <li><a href="http://www.elsecom-ford.com/accueil/">لجزائر / Algérie</a></li>
+
+            
+        
+            
+
+                <li><a href="http://corporate.ford.com/about-ford/global-vehicles-sites/list-europe#andorra">Andorra</a></li>
+
+            
+        
+            
+
+                <li><a href="http://ford.az">Azərbaycan</a></li>
+
+            
+        
+            
+
+                <li><a href="http://www.ford.be">België / Belgique / Belgien</a></li>
+
+            
+        
+            
+
+                <li><a href="http://www.ford.by">Biełaruś Беларусь</a></li>
+
+            
+        
+            
+
+                <li><a href="http://www.ford.ba">Bosna i Hercegovina / Босна и Херцеговина</a></li>
+
+            
+        
+            
+
+                <li><a href="http://www.ford.cz">Česká republika</a></li>
+
+            
+        
+            
+
+                <li><a href="http://www.ford.dk">Danmark</a></li>
+
+            
+        
+            
+
+                <li><a href="http://www.ford.de">Deutschland</a></li>
+
+            
+        
+            
+
+                <li><a href="http://www.iauto.ee">Eesti</a></li>
+
+            
+                </ul>
+            
+        
+            
+                <ul>
+            
+
+                <li><a href="http://www.ford.es">España</a></li>
+
+            
+        
+            
+
+                <li><a href="http://www.ford.fr">France</a></li>
+
+            
+        
+            
+
+                <li><a href="http://www.fora.am/">Hayastán</a></li>
+
+            
+        
+            
+
+                <li><a href="http://www.ford.hr">Hrvatska</a></li>
+
+            
+        
+            
+
+                <li><a href="http://www.ford.ie">Ireland / Éire</a></li>
+
+            
+        
+            
+
+                <li><a href="http://www.ford.it">Italia</a></li>
+
+            
+        
+            
+
+                <li><a href="http://www.ford.lv">Latvija</a></li>
+
+            
+        
+            
+
+                <li><a href="http://www.ford.lt">Lietuva</a></li>
+
+            
+        
+            
+
+                <li><a href="http://www.ford.lu">Luxembourg / Luxemburg / Lëtzebuerg</a></li>
+
+            
+        
+            
+
+                <li><a href="http://www.ford.hu">Magyarország</a></li>
+
+            
+        
+            
+
+                <li><a href="http://www.ford.com.mt">Malta</a></li>
+
+            
+        
+            
+
+                <li><a href="http://www.ford.nl">Nederland</a></li>
+
+            
+                </ul>
+            
+        
+            
+                <ul>
+            
+
+                <li><a href="http://www.ford.no">Norge</a></li>
+
+            
+        
+            
+
+                <li><a href="http://www.ford.at">Österreich</a></li>
+
+            
+        
+            
+
+                <li><a href="http://www.ford.pl">Polska</a></li>
+
+            
+        
+            
+
+                <li><a href="http://www.ford.pt">Portugal</a></li>
+
+            
+        
+            
+
+                <li><a href="http://www.ford.ro">România</a></li>
+
+            
+        
+            
+
+                <li><a href="http://ford.com.ge/F">Sak'art'velo</a></li>
+
+            
+        
+            
+
+                <li><a href="http://www.ford.ch">die Schweiz / Suisse / Svizzera</a></li>
+
+            
+        
+            
+
+                <li><a href="http://www.albanianmotor.com">Shqipëria</a></li>
+
+            
+        
+            
+
+                <li><a href="http://www.ford.si">Slovenija</a></li>
+
+            
+        
+            
+
+                <li><a href="http://www.ford.sk">Slovensko</a></li>
+
+            
+        
+            
+
+                <li><a href="http://www.ford.fi">Suomi / Finland</a></li>
+
+            
+        
+            
+
+                <li><a href="http://www.ford.se">Sverige</a></li>
+
+            
+                </ul>
+            
+        
+            
+                <ul>
+            
+
+                <li><a href="http://www.ford.com.tr">Türkiye</a></li>
+
+            
+        
+            
+
+                <li><a href="http://www.ford.co.uk">United Kingdom</a></li>
+
+            
+        
+            
+
+                <li><a href="http://www.ford.gr">Ελλάδα / Έλλας</a></li>
+
+            
+        
+            
+
+                <li><a href="http://www.fordcy.com">Κύπρος / Kıbrıs</a></li>
+
+            
+        
+            
+
+                <li><a href="http://www.ford.bg">България</a></li>
+
+            
+        
+            
+
+                <li><a href="http://ford.mk">Македонија</a></li>
+
+            
+        
+            
+
+                <li><a href="http://www.ford.md">Молдова</a></li>
+
+            
+        
+            
+
+                <li><a href="http://www.ford.ru">Россия</a></li>
+
+            
+        
+            
+
+                <li><a href="http://www.ford.rs">Србија</a></li>
+
+            
+        
+            
+
+                <li><a href="http://www.ford.ua">Україна</a></li>
+
+            
+        
+            
+
+                <li><a href="http://corporate.ford.com/our-company/country-websites/list-africa#tunisia">تونس / Tūnis</a></li>
+
+            
+        
+
+    </section>
+    <footer>
+
+    </footer>
+    
+
+    <!-- SiteCatalyst code version: H.22.1.
+       Copyright 1996-2011 Adobe, Inc. All Rights Reserved
+       More info available at http://www.omniture.com -->
+    <script language="javascript" type="text/javascript" src="http://www.fordeumicrosites.com/omniture/s_code.js"></script>
+    <script language="javascript" type="text/javascript">
+        <!--
+        s.pageName = 'brand:country select'
+        s.channel = 'default'
+        s.hier1='brand:country select';
+        s.eVar11='brand:country select';
+        s.prop11='brand:country select';
+        s.eVar15='ford-brand';
+        s.prop15='ford-brand';
+        /************* DO NOT ALTER ANYTHING BELOW THIS LINE ! **************/
+        var s_code=s.t();if(s_code)document.write(s_code)//--></script>
+    <script language="JavaScript" type="text/javascript"><!--
+    if(navigator.appVersion.indexOf('MSIE')>=0)document.write(unescape('%3C')+'\!-'+'-')
+    //-->
+    </script>
+
+    <noscript><img src="<will be provided when you generate this code>" height="1" width="1" border="0" alt="" /></noscript><!--/DO NOT REMOVE/-->
+    <!-- End SiteCatalyst code version: H.22.1. -->
+
+</body>
+</html>
+

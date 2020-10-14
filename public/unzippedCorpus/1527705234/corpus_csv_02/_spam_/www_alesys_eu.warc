@@ -1,0 +1,773 @@
+WARC/1.0
+WARC-Type: warcinfo
+WARC-Date: 2018-05-30T18:18:32Z
+WARC-All-Language: fr
+WARC-All-Content_type: text/html
+WARC-Record-ID: <urn:uuid:e6e53fdb-ebf4-4c21-85a6-52490ce8afe0>
+Content-Type: application/http;msgtype=response
+Content-Length: 46
+
+WARCProcessor by SING Group www.sing-group.com
+
+WARC/1.0
+WARC-Type: response
+WARC-Target-URI: http://www.alesys.eu
+WARC-Date: 20180530181832
+WARC-Language: fr
+WARC-Record-ID: <http://www.alesys.eu>
+Content-Type: application/http;msgtype=response
+Content-Length: 37885
+
+HTTP/1.1 200
+Content-Type:text/html
+
+
+<!--#include file="includes/dbConnections.asp"-->
+<!--#include file="includes/adovbs.inc"-->
+
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<META NAME="Copyright" content="Copyright Applied Learning Systems, Inc. All Rights Reserved">
+<META NAME="Author" content="ALESYS">
+<META NAME="MSSmartTagsPreventParsing" content="TRUE">
+
+<title>Training Outsourcing | Customized Training | Performance Consulting | ALESYS</title>
+<META NAME="description" CONTENT="Consulting, Outsourcing, and Corporate Training.  Applied Learning Systems, Inc. is a learning effectiveness organization whose innovative and powerful Integrated Approach improves the results obtained from Corporate Change Initiatives. We offer outsourcing for training departments, and corporate training programs.">
+<META NAME="keywords" CONTENT="ALESYS, alesys official site, Applied Learning Systems official site, www.appliedlearningsystems.com, www.alesys.com" />
+<meta name="robots" content="ALL">
+<meta name="verify-v1" content="fKyWqfj51aUTawWH1hCr8oqGO7hjZs91AMvpFdiIpZg=" />
+<!-- abtest analytics flickering-->
+<style>.async-hide { opacity: 0 !important} </style>
+<script>(function(a,s,y,n,c,h,i,d,e){s.className+=' '+y;h.start=1*new Date;
+h.end=i=function(){s.className=s.className.replace(RegExp(' ?'+y),'')};
+(a[n]=a[n]||[]).hide=h;setTimeout(function(){i();h.end=null},c);h.timeout=c;
+})(window,document.documentElement,'async-hide','dataLayer',4000,
+{'GTM-K634N7T':true});</script>
+<!-- google analytics code-->
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+  ga('create', 'UA-4352908-1', 'auto');
+  ga('require', 'GTM-K634N7T');<!--ABtag-->
+  ga('send', 'pageview');
+</script>
+
+
+
+<!--<script src="Scripts/swfobject_modified.js" type="text/javascript"></script>-->
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<title>Untitled Document</title>
+<link href="includes/styles_HomePage_v12.css" rel="stylesheet" type="text/css" />
+<SCRIPT>
+<!--
+function MM_swapImgRestore() { //v3.0
+  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
+}
+
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+
+function MM_findObj(n, d) { //v4.01
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+  if(!x && d.getElementById) x=d.getElementById(n); return x;
+}
+
+function MM_swapImage() { //v3.0
+  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
+   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
+}
+
+//-->
+</SCRIPT>
+<script type="text/javascript">
+	/************************************************************************************************************
+	(C) www.dhtmlgoodies.com, September 2005
+	
+	This is a script from www.dhtmlgoodies.com. You will find this and a lot of other scripts at our website.	
+	
+	Terms of use:
+	You are free to use this script as long as the copyright message is kept intact. However, you may not
+	redistribute, sell or repost it without our permission.
+	
+	Thank you!
+	
+	www.dhtmlgoodies.com
+	Alf Magne Kalleland
+	
+	************************************************************************************************************/	
+	var contentHeight = 0; 	// The total height of the content
+	var visibleContentHeight = 0;	
+	var scrollActive = false;
+	
+	var scrollHandleObj = false; // reference to the scroll handle
+	var scrollHandleHeight = false;
+	var scrollbarTop = false;
+	var eventYPos = false;
+
+	var scrollbuttonActive = false;
+	var scrollbuttonDirection = false;
+	var scrollbuttonSpeed = 2; // How fast the content scrolls when you click the scroll buttons(Up and down arrows)
+	var scrollTimer = 10;	// Also how fast the content scrolls. By decreasing this value, the content will move faster	
+	
+	var scrollMoveToActive = false;
+	var scrollMoveToYPosition = false;
+	
+	var operaBrowser = false;
+	if(navigator.userAgent.indexOf('Opera')>=0)operaBrowser=1;
+		
+	function scrollDiv_startScroll(e)
+	{
+		if(document.all && !operaBrowser)e = event;
+		scrollbarTop = document.getElementById('scrolldiv_theScroll').offsetTop;
+		eventYPos = e.clientY;
+		scrollActive = true;
+	}
+	
+	function scrollDiv_stopScroll()
+	{
+		scrollActive = false;
+		scrollbuttonActive = false;
+		scrollMoveToActive = false;
+	}
+	function scrollDiv_scroll(e)
+	{
+		if(!scrollActive)return;
+		if(document.all && !operaBrowser)e = event;
+		if(e.button!=1 && document.all)return;
+		var topPos = scrollbarTop + e.clientY - eventYPos; 
+		if(topPos<0)topPos=0;
+		if(topPos/1>visibleContentHeight-(scrollHandleHeight+4)/1)topPos = visibleContentHeight-(scrollHandleHeight+4);
+		document.getElementById('scrolldiv_theScroll').style.top = topPos + 'px';
+		document.getElementById('scrolldiv_content').style.top = 0 - Math.floor((contentHeight) * ((topPos)/(visibleContentHeight-scrollHandleHeight)))+'px' 
+	}
+	
+	/*
+	Click on the slider
+	Move the content to the this point
+	*/
+	function scrolldiv_scrollMoveToInit(e)
+	{		
+		if(document.all && !operaBrowser)e = event;
+		scrollMoveToActive = true;
+		scrollMoveToYPosition = e.clientY - document.getElementById('scrolldiv_scrollbar').offsetTop;
+		if(document.getElementById('scrolldiv_theScroll').offsetTop/1 > scrollMoveToYPosition) scrollbuttonDirection = scrollbuttonSpeed*-2; else  scrollbuttonDirection = scrollbuttonSpeed*2;
+		scrolldiv_scrollMoveTo();	
+	}
+	
+	function scrolldiv_scrollMoveTo()
+	{
+		if(!scrollMoveToActive || scrollActive)return;
+		var topPos = document.getElementById('scrolldiv_theScroll').style.top.replace('px','');
+		topPos = topPos/1 + scrollbuttonDirection;
+		if(topPos<0){
+			topPos=0;
+			scrollMoveToActive=false;
+		}
+		if(topPos/1>visibleContentHeight-(scrollHandleHeight+4)/1){
+			topPos = visibleContentHeight-(scrollHandleHeight+4);	
+			scrollMoveToActive=false;
+		}
+		if(scrollbuttonDirection<0 && topPos<scrollMoveToYPosition-scrollHandleHeight/2)return;	
+		if(scrollbuttonDirection>0 && topPos>scrollMoveToYPosition-scrollHandleHeight/2)return;			
+		document.getElementById('scrolldiv_theScroll').style.top = topPos + 'px';
+		document.getElementById('scrolldiv_content').style.top = 0 - Math.floor((contentHeight) * ((topPos)/(visibleContentHeight-scrollHandleHeight)))+'px' 		
+		setTimeout('scrolldiv_scrollMoveTo()',scrollTimer);		
+	}
+	
+	function cancelEvent()
+	{
+		return false;			
+	}
+
+	function scrolldiv_scrollButton()
+	{
+		if(this.id=='scrolldiv_scrollDown')scrollbuttonDirection = scrollbuttonSpeed; else scrollbuttonDirection = scrollbuttonSpeed*-1;
+		scrollbuttonActive=true;
+		scrolldiv_scrollButtonScroll();
+	}
+	function scrolldiv_scrollButtonScroll()
+	{
+		if(!scrollbuttonActive)return;
+		var topPos = document.getElementById('scrolldiv_theScroll').style.top.replace('px','');
+		topPos = topPos/1 + scrollbuttonDirection;
+		if(topPos<0){
+			topPos=0;
+			scrollbuttonActive=false;
+		}
+		if(topPos/1>visibleContentHeight-(scrollHandleHeight+4)/1){
+			topPos = visibleContentHeight-(scrollHandleHeight+4);	
+			scrollbuttonActive=false;
+		}	
+		document.getElementById('scrolldiv_theScroll').style.top = topPos + 'px';
+		document.getElementById('scrolldiv_content').style.top = 0 - Math.floor((contentHeight) * ((topPos)/(visibleContentHeight-scrollHandleHeight)))+'px' 			
+		setTimeout('scrolldiv_scrollButtonScroll()',scrollTimer);
+	}
+	function scrolldiv_scrollButtonStop()
+	{
+		scrollbuttonActive = false;
+	}
+	
+	
+	function scrolldiv_initScroll()
+	{
+		visibleContentHeight = document.getElementById('scrolldiv_scrollbar').offsetHeight ;
+		contentHeight = document.getElementById('scrolldiv_content').offsetHeight - visibleContentHeight;		
+		scrollHandleObj = document.getElementById('scrolldiv_theScroll');
+		scrollHandleHeight = scrollHandleObj.offsetHeight;
+		scrollbarTop = document.getElementById('scrolldiv_scrollbar').offsetTop;		
+		document.getElementById('scrolldiv_theScroll').onmousedown = scrollDiv_startScroll;
+		document.body.onmousemove = scrollDiv_scroll;
+		document.getElementById('scrolldiv_scrollbar').onselectstart = cancelEvent;
+		document.getElementById('scrolldiv_theScroll').onmouseup = scrollDiv_stopScroll;
+		if(document.all)document.body.onmouseup = scrollDiv_stopScroll; else document.documentElement.onmouseup = scrollDiv_stopScroll;
+		document.getElementById('scrolldiv_scrollDown').onmousedown = scrolldiv_scrollButton;
+		document.getElementById('scrolldiv_scrollUp').onmousedown = scrolldiv_scrollButton;
+		document.getElementById('scrolldiv_scrollDown').onmouseup = scrolldiv_scrollButtonStop;
+		document.getElementById('scrolldiv_scrollUp').onmouseup = scrolldiv_scrollButtonStop;
+		document.getElementById('scrolldiv_scrollUp').onselectstart = cancelEvent;
+		document.getElementById('scrolldiv_scrollDown').onselectstart = cancelEvent;
+		document.getElementById('scrolldiv_scrollbar').onmousedown = scrolldiv_scrollMoveToInit;
+	}
+	
+	function setScrollButtonSpeed(newScrollButtonSpeed)
+	{
+		scrollbuttonSpeed = newScrollButtonSpeed;
+	}
+	/*
+	Setting interval of the scroll
+	*/
+	function setScrollTimer(newInterval)
+	{
+		scrollTimer = newInterval;
+	}
+	
+	</script>
+<SCRIPT language="javascript" src="includes/sampleScripts/homeMainMenu.js"></SCRIPT>
+<style>
+BODY {
+background: white;
+margin: 0;
+padding: 0;
+
+}
+.quoteAuthor {
+font-size: 8pt;
+color:#336699;
+}
+
+#Layer1 {
+	position:absolute;
+	width:200px;
+	height:115px;
+	z-index:1;
+}
+#ROW2 {
+	width: 172px;
+	height: 78px;
+	text-align: center;
+	padding-top: 20px;
+}
+#ROW3 {
+	width: 179px;
+	text-align: center;
+	border-left: 1px solid #9CB6D6;
+	top: 100px;
+	margin-top: 1px;
+	margin-right: 0;
+	margin-bottom: 1px;
+	margin-left: 173;
+	left: 173px;
+	position: absolute;
+	height: 98px;
+}
+a.customized {
+	color: #000000;
+	text-decoration: underline;
+	font-weight: bold;
+}
+a.customized:hover {
+	color: #0033CC;
+	text-decoration: underline;
+	font-weight: bold;
+}
+.redText {
+	color: #F00;
+	font-size: 12px;
+}
+#homeMainMenu ul li a:Hover {
+	background-position: left;
+	background-color: #5a728d;
+	color: #FFF;
+	text-align: center;
+	width: 100px;
+	_width: 100px;
+	#width: 100px;
+	display: block;
+	font-weight: normal;
+}
+#homeMainMenu ul li {
+	float: left;
+}
+#containerHome {
+}
+#containerHome #mainAdd img {
+}
+#containerHome #ProServices tr td #FlashID {
+}
+#containerHome #ProServices tr td object {
+}
+</style>
+</head>
+
+<script language="javascript" src="http://www.alesys.com/includes/alesysscriptsMenu_new.js"></script>	
+
+<script language="JavaScript">
+<!--
+function MM_openBrWindow(theURL,winName,features) { //v2.0
+  window.open(theURL,winName,features);
+}
+//-->
+</script>
+<script language="JavaScript" src="http://www.alesys.com/includes/alesysScript_solutionsScroll.js">
+
+</script>
+
+<script language="javascript"> 
+<!-- 
+var state = 'hidden'; 
+
+function showhide(layer_ref) { 
+
+if (state == 'visible') { 
+state = 'hidden'; 
+} 
+else { 
+state = 'visible'; 
+} 
+if (document.all) { //IS IE 4 or 5 (or 6 beta) 
+eval( "document.all." + layer_ref + ".style.visibility = state"); 
+} 
+if (document.layers) { //IS NETSCAPE 4 or below 
+document.layers[layer_ref].visibility = state; 
+} 
+if (document.getElementById &&!document.all) { 
+hza = document.getElementById(layer_ref); 
+hza.style.visibility = state; 
+} 
+} 
+//--> 
+</script> 
+
+<script language="JavaScript1.2" type="text/javascript">
+<!--
+function MM_findObj(n, d) { //v4.01
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+  if(!x && d.getElementById) x=d.getElementById(n); return x;
+}
+//-->
+</script>
+
+
+</head>
+
+<div><!-- Hupso Share Buttons - http://www.hupso.com/share/ --><a class="hupso_float" href="http://www.hupso.com/share/"></a><script type="text/javascript">var hupso_services_f=new Array("Twitter","Facebook","Google Plus","Linkedin","StumbleUpon");var hupso_icon_type_f = "icons";var hupso_background_f="#EAF4FF";var hupso_border_f="#66CCFF";var hupso_float_left_f=true;</script><script type="text/javascript" src="http://static.hupso.com/share/js/float.js" width="936" height="90"></script><!-- Hupso Share Buttons --></div> 
+
+<!-- sumome 
+<script src="//load.sumome.com/" data-sumo-site-id="dd70e0f84be7b280545cd14d08a7cd46eb84e3ad68fc9d8cfab4d6a611f15edb" async></script> -->
+
+<body onLoad="InitializeScrollableArea();MM_preloadImages('tab_solutions02_r1_c1_f2.gif','tab_solutions02_r1_c1_f3.gif','tab_solutions01_r1_c2_f2.gif','menu_bg_off.gif')"><div align="center" id="containerHome">
+  <!-- SITE HEADER -->
+<DIV ID="SITEHEAD"><h1><img src="GRAPHICS/HOME/header/alesysHeader2010_v24.png" alt="training consulting training outsourcing training courses" title="training consulting training outsourcing training courses" width="936" height="91" /></h1></DIV>
+<!--/SITE HEADER -->
+
+<div id="TOPNAV">
+<ul>
+<li><a href="customers/default.asp" onMouseover="cssdropdown.dropit(this,event,'custMenu')"> Customers</a></li>
+</ul>
+
+</div>
+
+
+  <DIV ID="siteSearch">
+    
+  <form action="http://www.alesys.com/sitesearchNew.asp" name="cse-search-box" id="cse-search-box">
+  <div>
+    <input type="hidden" name="cx" value="006199242353406020738:2mr-lhfvfia" />
+    <input type="hidden" name="cof" value="FORID:9" />
+    <input type="hidden" name="ie" value="UTF-8" />
+    <input type="text" name="q" size="32" class="siteheaderSearchBox" />
+    <input type="image"  src="GRAPHICS/Home 2010/Buttons/searchBtn.png" name="sa" value="" class="siteheaderSearchButton" alt="Search" />
+  </div>
+</form>
+<script type="text/javascript" src="http://www.google.com/coop/cse/brand?form=cse-search-box&lang=en"></script>
+
+
+
+  </div>
+
+
+
+<!--MAIN MENU -->
+
+<div id="homeMainMenu">
+
+<ul>
+<li><a href="about/default.asp?adName=home_menu_about&amp;restartAd=1" onMouseover="cssdropdown.dropit(this,event,'dropmenu1')">About</a></li>
+<li><a href="training-programs/default1.asp?adName=home_menu_prods&amp;restartAd=1" onMouseover="cssdropdown.dropit(this,event,'dropmenu2')">Training Programs </a></li>
+<li><a href="services/default1.asp?adName=home_menu_services&amp;restartAd=1" onMouseover="cssdropdown.dropit(this,event,'dropmenu3')">Services</a></li>
+<li><a href="#" onMouseover="cssdropdown.dropit(this,event,'dropmenu4')">Other Websites</a></li>
+<li><a href="contact/default.asp?adName=home_menu_contact&amp;restartAd=1" onMouseover="cssdropdown.dropit(this,event,'dropmenu5')">Contact</a></li>
+</ul>
+
+</div>
+
+<!--/MAIN MENU -->
+
+<!--MAIN ADD -->
+
+
+<div id="mainAdd">
+
+<table width="100%" border="0" cellpadding="0" cellspacing="0">
+  <tr>
+    <td width="574">
+    <h2><a href="mailto:mfrances@alesys.com"><img name="trainingresults" src="GRAPHICS/trainingresults.png" width="574" height="275" id="trainingresults" alt="training consulting | training outsourcing | training courses" /></a></h2>    
+   </td>
+    
+    <td width="360"><div id="solutionsHeader"><img src="GRAPHICS/Home 2010/Titles/solutionsTitle.png" width="348" height="40" alt="training courses | training consulting examples for our customers" /></div>
+    
+    <!--SOLUTIONS SCROLL -->
+
+<div id="SolutionsScroll">
+<div id="home">
+ <div id="dhtmlgoodies_scrolldiv" >
+  <div id="scrolldiv_parentContainer">
+    <div id="scrolldiv_content">
+      <!-- PUT YOUR HTML CONTENT IN HERE -->
+      <ul>
+	  <li><a href="services/learning-as-a-business-strategy.asp?adName=link_sol_stratPlanPharma&amp;restartAd=1">Strategic Planning workshop for Senior Executives of a major Pharmaceutical corporation...</a></li>
+	  <li><a href="/solutions/financial/default1.asp?adName=link_sol_newHireFinance&amp;restartAd=1">Designed and developed a 7-week New Hire training course for a Fortune 50 Financial services company...</a></li>
+	  <li><a href="/solutions/financial/default1.asp?adName=link_sol_effevalFinance&amp;restartAd=1">Effectiveness Evaluation of a 7-week New Hire training course for a Financial organization... </a></li>
+	  <li><a href="/services/learning-system-design.asp?adName=link_sol_lrnSysDesManuf&amp;restartAd=1">Auditing of processes and procedures in relation to employee performance for a manufacturing corporation...</a></li>
+	  <li><a href="/services/custom_training_design_and_development.asp?adName=link_sol_chgMgmtFinance&amp;restartAd=1">Designed and Developed a Change Management Process for a Fortune 10 Financial services company...</a></li>
+	  <li><a href="/solutions/hospitality/default1.asp?adName=link_sol_effevalHospit&amp;restartAd=1">Effectiveness Evaluation of a 4-week Hospitality training course...<br><br>
+</a></li>
+	  <li><a href="/services/custom_training_design_and_development.asp?adName=link_sol_newHireCallCtr&amp;restartAd=1">Design of a 5-week training course for Call Centers...<br><br></a></li>
+	  <li><a href="/solutions/telecommunications-industry.asp?adName=link_sol_techSkillsTelecom&amp;restartAd=1">Design of a Technical Skills training course for a Telecommunications corporation...</a></li>
+	  <li><a href="/solutions/insurance-industry.asp?adName=link_sol_eLearnFinance&amp;restartAd=1">Design of an Errors and Omissions e-Learning course for a Reinsurance corporation...</a></li>
+	  <li><a href="/solutions/manufacturing-industry.asp?adName=link_sol_desDevManuf&amp;restartAd=1">Design and implementation of a continuous improvement process for a Manufacturing company...</a></li>
+	  <li><a href="/solutions/government/default1.asp?adName=link_sol_recruitGovt&amp;restartAd=1">Design of a comprehensive Recruitment process for a large Government agency...</a></li>
+	  <li><a href="/services/outsourcing-design-and-development-of-training.asp?adName=link_sol_outsrcDesDevHospit&amp;restartAd=1">Outsource provider of Design/Development of training for an international Hospitality corporation...</a></li>
+      <li></li>
+	  </ul>
+    </div>
+  </div>
+  
+  <div id="scrolldiv_slider">
+		<div id="scrolldiv_scrollUp"><a href="#" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('scrollUpBtn','','GRAPHICS/Home 2008/Buttoms/scrollUpOver.png',1)"><img src="GRAPHICS/Home 2008/Buttoms/scrollUp.png" name="scrollUpBtn" width="16" height="14" border="0"></a></div>
+		<div id="scrolldiv_scrollbar">
+			<div id="scrolldiv_theScroll"><span></span></div>
+	  </div>
+		<div id="scrolldiv_scrollDown"><a href="#" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('scrollDownBtn','','GRAPHICS/Home 2008/Buttoms/scrollDownOver.png',1)"><img src="GRAPHICS/Home 2008/Buttoms/scrollDown.png" name="scrollDownBtn" width="16" height="14" border="0"></a></div>
+  </div>
+</div>
+</div>   
+</div>
+<!--/SOLUTIONS SCROLL -->
+    
+    
+    
+    
+    </td>
+  </tr>
+</table>
+
+
+
+
+
+</div>
+
+
+
+
+
+
+
+
+
+<DIV ID="BILLBOARD">
+ <!-- BILLBOARD AD 1 -->
+  <DIV ID="BB01"><h4><a id="proServTitles" href="services/training-outsourcing.asp?adName=home_buttomMenu_services&amp;restartAd=1">
+  <img src="GRAPHICS/Home 2010/Titles/servicesTitle.png" alt="training Services" title="outsourcing, performance consulting, custom training course design, learning as a business strategy, learning system design, training course effectiveness evaluations, transforming the training function, e-learning" width="227" height="22" border="0" /></a></h4>
+    <ul>
+<li><a href="/services/training-outsourcing.asp?adName=link_outsrc&restartAd=1">Outsourcing Training</a></li>
+			  <li><a href="/services/performance-consulting.asp?adName=link_perfConsult&restartAd=1">Performance Consulting</a></li>
+              <li><a href="/services/custom_training_design_and_development.asp?adName=link_customDesign&amp;restartAd=1">Custom Training Design</a></li>
+             
+              <li><a href="/services/learning-as-a-business-strategy.asp?adName=link_LearningBusinessStrategy&restartAd=1">Learning as a Business Strategy</a></li>
+             <li><a href="/services/learning-system-design.asp?adName=link_LearningSysDesign&restartAd=1">Learning System Design</a></li>
+              <li><a href="/services/training-effectiveness-evaluation.asp?adName=link_effeval&restartAd=1">Training Effectiveness Evaluations</a></li>
+              <li><a href="/services/transforming-the-training-function.asp?adName=link_transTrainFunction&restartAd=1">Transforming the Training Function</a></li>
+              <li><a href="/services/e-learning-services.asp?adName=link_elearn&restartAd=1">e-Learning</a></li>
+  </ul>
+  </DIV>
+ <!-- /BILLBOARD AD 1 -->
+  
+
+<!-- INDUSTRIES -->
+<div id="solutionsInd">
+<h4><a id="proServTitles" href="solutions/default1.asp?adName=home_buttomMenu_solDefault&amp;restartAd=1"><img src="GRAPHICS/Home 2010/Titles/industriesTitle.png" alt="Alesys Industries" title="Financial Training, Government Training, Healthcare Training, Hospitality Training, Insurance Training, Contact Center Training, Manufacturing Training, Pharmaceutical Training, Telecommunications Training, Training for Training Vendor, Utilities Training" width="227" height="22" border="0" /></a></h4>
+
+<table border="0" cellpadding="0" cellspacing="0">
+  <tr>
+    <td width="123" valign="top">
+<UL>
+<LI class="industriesLeft" ><img src="GRAPHICS/HOME/layout_01-27-06/icon_sol_finance.png" alt="FINANCIAL" border="0" align="absbottom" />&nbsp;&nbsp;<a href="/solutions/financial/default.asp?adName=link_finSol&amp;restartAd=1">Financial</a></LI>
+<LI class="industriesLeft"><img src="GRAPHICS/HOME/layout_01-27-06/icon_sol_govt.png" alt="GOVT" border="0" align="absbottom" />&nbsp;&nbsp;<a href="/solutions/government/default.asp?adName=link_ind_govtSol&amp;restartAd=1">Government</a> </LI>
+<LI class="industriesLeft"><img src="GRAPHICS/HOME/layout_01-27-06/icon_sol_health.png" alt="HEALTHCARE" border="0" align="absbottom" />&nbsp;&nbsp;<a href="/solutions/healthcare-industry.asp?adName=link_ind_healthSol&amp;restartAd=1">Healthcare</a> </LI>
+<LI class="industriesLeft"><img src="GRAPHICS/HOME/layout_01-27-06/icon_sol_hospitality.gif" alt="HOSPITALITY" border="0" align="absbottom" />&nbsp;&nbsp;<a href="/solutions/hospitality/default.asp?adName=link_ind_hospitalitySol&amp;restartAd=1">Hospitality</a></LI>
+<LI class="industriesLeft"><img src="GRAPHICS/HOME/layout_01-27-06/icon_sol_insur.gif" alt="INSURANCE" border="0" align="absbottom" />&nbsp;&nbsp;<a href="/solutions/insurance-industry.asp?adName=link_ind_insuranceSol&amp;restartAd=1">Insurance</a></LI>
+<!-- <LI class="industriesLeft"><img src="GRAPHICS/HOME/layout_01-27-06/icon_sol_CCS.png" alt="INSURANCE" border="0" align="absbottom" />&nbsp;&nbsp;<a href="contact-center-solutions/default.asp?adName=link_ind_contactCenterSol&amp;restartAd=1" target="_blank">Contact Centers</a></LI> -->
+</UL>
+</td>
+    <td width="151" valign="top">
+    <UL>
+
+<LI class="industriesRight"><img src="GRAPHICS/HOME/layout_01-27-06/icon_sol_manuf.gif" alt="MANUFACTURING" border="0" align="absbottom" />&nbsp;&nbsp;<a href="/solutions/manufacturing-industry.asp?adName=link_ind_manufSol&amp;restartAd=1">Manufacturing</a></LI>
+<LI class="industriesRight"><img src="GRAPHICS/HOME/layout_01-27-06/icon_sol_pharma.gif" alt="PHARMA" border="0" align="absbottom" />&nbsp;&nbsp;<a href="/solutions/pharmaceutical-industry.asp?adName=link_ind_pharmaSol&amp;restartAd=1">Pharmaceuticals</a></LI>
+<LI class="industriesRight"><img src="GRAPHICS/HOME/layout_01-27-06/icon_sol_telecom.gif" alt="TELECOMMUNICATIONS" border="0" align="absbottom" />&nbsp;&nbsp;<a href="/solutions/telecommunications-industry.asp?adName=link_ind_telecomSol&amp;restartAd=1">Telecommunications</a> </LI>
+<LI class="industriesRight"><img src="GRAPHICS/HOME/layout_01-27-06/icon_sol_trnVend.gif" alt="TRAINING VENDORS" border="0" align="absbottom" />&nbsp;&nbsp;<a href="/solutions/training-vendors-industry.asp?adName=link_ind_trgVendorsSol&amp;restartAd=1">Training Vendors</a> </LI>
+<LI class="industriesRight"><img src="GRAPHICS/HOME/layout_01-27-06/icon_sol_util.gif" alt="UTILITIES" border="0" align="absbottom" />&nbsp;&nbsp;<a href="/solutions/utilities-industry.asp?adName=link_ind_utilitiesSol&amp;restartAd=1">Utilities</a>  </LI>
+</UL>
+</td>
+  </tr>
+</table>
+
+</div>
+<!--/INDUSTRIES -->
+<!-- BILLBOARD AD training courses -->
+<DIV ID="BB04"><h4><a id="proServTitles" href="training-programs/default1.asp?adName=home_buttomMenu_prods&amp;restartAd=1"><img src="GRAPHICS/Home 2010/Titles/programsTitle.png" alt="training courses" title="train the trainer training course, performance improvement training course, customer service  training course, coaching  training course, leadership  training courses, supervisory skills training courses, communication skills training courses, sales training courses, recruitment skills training courses, ethical decisions training courses" width="227" height="22" border="0" /></a></h4>
+<ul>
+
+         <li><a href="/training-programs/customer-service-skills.asp">Customer Service </a></li>		<li><a href="/training-programs/coaching-skills.asp?adName=link_coachSkills&restartAd=1">Coaching</a></li>  
+         <li><a href="/training-programs/leadership-skills.asp?adName=link_leadSkills&restartAd=1">Leadership</a></li>
+              <li><a href="/training-programs/performance-improvement-skills.asp?adName=link_LSW&restartAd=1">Performance Improvement Skills </a>            </li>  
+              <li><a href="/training-programs/supervisory-skills.asp?adName=link_supervisorySkills&restartAd=1">Supervisory Skills</a></li>
+              <li><a href="training-programs/communication-skills.asp?adName=link_communicationSkills&restartAd=1">Communication Skills</a></li>
+              <li><a href="training-programs/sales-skills.asp?adName=link_salesSkills&restartAd=1">Sales Skills</a></li>
+              <li><a href="training-programs/recruitment-skills.asp?adName=link_recruitmentSkills&restartAd=1">Recruitment Skills</a></li>
+              <li><a href="/services/custom_training_design_and_development.asp?adName=link_customDesign&amp;restartAd=1">Ethical Decisions</a></li> 
+               <li><a href="/training-programs/teaching-content-experts-to-teach.asp?adName=link_teachContentExperts&restartAd=1">Teaching Content Experts to Teach</a></li>
+</ul>
+<!--<P style="font-size:9px;">Even though these training programs have already been developed and are ready to be delivered, we still customize them to your organization.<br>
+<a href="http://www.alesys.com/contact/default.asp?adName=home_menu_contact&restartAd=1">Contact us</a> today so we can bring these powerful programs to your organization.</P>-->
+
+
+</DIV>
+<!-- /BILLBOARD AD training courses -->
+
+</DIV>
+
+<!--/MAIN ADD -->
+
+
+<table cellpadding="0" cellspacing="7"  id="ProServices" name="ProServices">
+  <tr>
+    <td width="229" height="83" align="center" bgcolor="#D6D6D6">
+    
+    <video width="112" height="53" autoplay loop muted >
+<source src="GRAPHICS/CUSTOMERS/customerlogos.webm" type="video/webm">
+<source src="GRAPHICS/CUSTOMERS/customerlogos.m4v" type="video/mp4" >
+</video>
+    
+    <!--<object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=7,0,19,0" width="112" height="54" title="Our Customers">
+      <param name="movie" value="GRAPHICS/CUSTOMERS/New_customersslideshoww_0706_withoutStartek.swf" />
+      <param name="wmode" value="transparent" />
+      <param name="quality" value="high" />
+      <embed src="GRAPHICS/CUSTOMERS/New_customersslideshoww_0706_withoutStartek.swf" width="112" height="54" quality="high" pluginspage="http://www.macromedia.com/go/getflashplayer" type="application/x-shockwave-flash" wmode="transparent"></embed>
+    </object>-->
+    
+    </td>
+    <td  width="229" height="83" align="right" bgcolor="#D6D6D6"><h3><a href="services/ISO_9001_2015.asp"><img src="GRAPHICS/Home 2010/Adds/ISO90012015.png" alt="ISO 9001 2015" title="e-Learning Training" width="270" height="83" border="0" /></a></h3></td>
+    <td width="229" align="right" bgcolor="#D6D6D6"><h3><a href="training-programs/customer-service-skills.asp"><img src="GRAPHICS/Home 2010/Adds/custService.png" alt="customer service training course" title="customer service training program" width="270" height="83" border="0" /></a></h3></td>
+    <td width="229" align="right" bgcolor="#D6D6D6"><h3><a href="/training-programs/sexual-harassment.asp"><img src="GRAPHICS/Home 2010/Adds/sexual_harassment_prevention_training.png" alt="sexual harassment prevention training course" title="sexual harassment training course" width="229" height="83" border="0" /></a></h3></td>
+  </tr>
+</table>
+
+<DIV ID="FOOTER">
+<DIV ID="COPYRIGHT">&copy; 1997- 
+      <script language="JavaScript">
+<!-- This script and many more are available free online at -->
+<!-- The JavaScript Source!! http://javascript.internet.com -->
+
+<!-- Begin
+var months=new Array(13);
+months[1]="January";
+months[2]="February";
+months[3]="March";
+months[4]="April";
+months[5]="May";
+months[6]="June";
+months[7]="July";
+months[8]="August";
+months[9]="September";
+months[10]="October";
+months[11]="November";
+months[12]="December";
+var time=new Date();
+var lmonth=months[time.getMonth() + 1];
+var date=time.getDate();
+var year=time.getYear();
+if (year < 2000)    
+year = year + 1900; 
+document.write(year);
+// End -->
+</script>
+      Applied Learning Systems, Inc. 
+      All rights reserved.  
+  </DIV>
+  <DIV class="behChange" ID="FOOTBehCh">Behavior Change... Isn't that what it's all about?&reg; </DIV>  <a href="#" onClick="MM_openBrWindow('http://www.alesys.jp/?adName=alesysJPWEB&amp;restartAd=1','lmc','toolbar=yes,location=yes,status=yes,menubar=yes,scrollbars=yes,resizable=yes,width=1000,height=850')" class="copyright" style="text-decoration:none; font-size:10px;"><!--日本--></a>&nbsp; | &nbsp;<A HREF="/contact/siteMap.asp" class="copyright">Site 
+        Map</a>&nbsp; | &nbsp;<A HREF="http://www.alesys.com/contact/legalStatement.asp#terms" class="copyright">Terms 
+        of Use</a>&nbsp; | &nbsp;<A HREF="http://www.alesys.com/contact/legalStatement.asp" class="copyright">Privacy</a> 
+        &nbsp; | &nbsp;<strong> <span class="redText">1.800.758.1071</span></strong></DIV>
+
+
+
+</div>
+
+
+
+<!--About Menu --> 
+<div id="dropmenu1" class="dropmenudiv"> 
+<a href="/about/default.asp">What We Do</a> 
+<a href="/about/about_comp01.asp">The Company</a> 
+<a href="/about/about_valueprop.asp">Value Proposition</a> 
+<a href="/about/about_workCustomers.asp">How We Work with Our Customers</a> 
+<a href="/about/about_intApp01.asp">Our Integrated Approach</a> 
+<a href="/about/about_corpRefs.asp">Corporate References</a> 
+<a href="/careers/default.asp">Career Opportunities</a></div>
+
+<!--Products Menu --> 
+<div id="dropmenu2" class="dropmenudiv">
+<a href="training-programs/default1.asp?adName=home_menu_prodDefault&amp;restartAd=1">Customizable Training<br /> 
+Solutions</a> 
+<a href="/training-programs/performance-improvement-skills.asp?adName=home_menu_lsw&amp;restartAd=1">Workplace Performance Improvement Skills </a> 
+ <a href="/training-programs/teaching-content-experts-to-teach.asp?adName=home_menu_teachContentExperts&amp;restartAd=1">Teaching Content Experts to Teach</a> 
+  <a  href="/training-programs/leadership-skills.asp?adName=home_menu_leadSkills&amp;restartAd=1">Leadership Skills</a> 
+    <a  href="/training-programs/coaching-skills.asp?adName=home_menu_coachSkills&amp;restartAd=1">Coaching Skills</a> 
+	 <a href="/training-programs/customer-service-skills.asp?adName=home_menu_custServSkills&amp;restartAd=1">Customer Service Skills</a> 
+  <a  href="/training-programs/supervisory-skills.asp?adName=home_menu_supervisorySkills&amp;restartAd=1">Supervisory Skills</a> 
+  <a href="/training-programs/communication-skills.asp?adName=home_menu_commSkills&amp;restartAd=1">Communication 
+  Skills</a> 
+  <a href="/training-programs/sales-skills.asp?adName=home_menu_salesSkills&amp;restartAd=1">Sales 
+  Skills</a>
+  <a href="/training-programs/recruitment-skills.asp?adName=home_menu_recruitmentSkills&amp;restartAd=1">Recruitment and Selection<br/> 
+  Skills</a>
+  <a href="#" onClick="MM_openBrWindow('/contact-center-solutions/default.asp','ccsolutions','toolbar=yes,location=yes,status=yes,menubar=yes,scrollbars=yes,resizable=yes,width=800,height=600')">Contact 
+  Center Solutions</a>
+  <a href="#" onClick="MM_openBrWindow('/ldc/index.htm','ldc','toolbar=yes,location=yes,status=yes,menubar=yes,scrollbars=yes,resizable=yes,width=800,height=600')">Learning 
+  Designer Certification</a>
+<a href="#" onClick="MM_openBrWindow('/Train the Trainer/index.html','lmc','toolbar=yes,location=yes,status=yes,menubar=yes,scrollbars=yes,resizable=yes')">Train-the-Trainer</a></div>
+
+
+<!--Services Menu --> 
+<div id="dropmenu3" class="dropmenudiv">
+	  <a href="/services/training-outsourcing.asp?adName=home_menu_outsrc&amp;restartAd=1">Outsourcing</a>
+	  <a href="/services/custom_training_design_and_development.asp?adName=home_menu_customDesign&amp;restartAd=1">Custom 
+  Training Design</a> 
+  <a href="/services/e-learning-services.asp?adName=home_menu_elearn&amp;restartAd=1">e-Learning</a> 
+  <a href="/services/performance-consulting.asp?adName=home_menu_perfConsulting&amp;restartAd=1">Performance Consulting</a> 
+  <a href="/services/learning-as-a-business-strategy.asp?adName=home_menu_learningBusinessStrategy&amp;restartAd=1">Learning as a Business Strategy</a> 
+  <a href="/services/learning-system-design.asp?adName=home_menu_learningSystemDesign&amp;restartAd=1">Learning 
+  System Design</a> 
+<a href="/services/training-effectiveness-evaluation.asp?adName=home_menu_effEval&amp;restartAd=1">Training 
+  Effectiveness Evaluations</a> 
+  <a href="/services/transforming-the-training-function.asp?adName=home_menu_transTrainingFunction&amp;restartAd=1">Transforming 
+  the Training Function</a></div>
+
+
+<!-- OTHER WEBSITES MENU -->
+<div id="dropmenu4" class="dropmenudiv">
+ <!--<a href="#" onClick="MM_openBrWindow('/contact-center-solutions/default.asp?adName=ccsolutions&amp;restartAd=1','ccsolutions','toolbar=yes,location=yes,status=yes,menubar=yes,scrollbars=yes,resizable=yes,width=800,height=600')">Contact 
+  Center Solutions</a> -->
+  
+   <!--<a href="#" onClick="MM_openBrWindow('/ldc/index.htm?adName=ldcWeb&amp;restartAd=1','ldc','toolbar=yes,location=yes,status=yes,menubar=yes,scrollbars=yes,resizable=yes,width=800,height=600')">Learning 
+  Designer Certification</a> -->
+<a href="#" onClick="MM_openBrWindow('/Train the Trainer/index.html?adName=lmcWeb&amp;restartAd=1','lmc','toolbar=yes,location=yes,status=yes,menubar=yes,scrollbars=yes,resizable=yes,width=1000,height=850')">Train-the-Trainer</a>
+<!-- <a href="#" onClick="MM_openBrWindow('http://www.alesys.jp/?adName=alesysJPWEB&amp;restartAd=1','lmc','toolbar=yes,location=yes,status=yes,menubar=yes,scrollbars=yes,resizable=yes,width=1000,height=850')">日本</a>
+</div>-->
+
+
+
+
+<!-- CUSTOMERS MENU -->
+<div id="custMenu" class="topdropmenudiv">
+<a href="">Customer Resource Center</a> 
+<a href="http://appliedlearningsystems.org/lms4?adName=alesysLearningPortal=1">Learning Portal</a> <a href="/customers/licensefeeorder/default.asp">License Fee Ordering</a> 
+<a href="/customers/form_custReg.asp">Program Registration</a></div>
+
+
+<!-- CONTACT -->
+<div id="dropmenu5" class="dropmenudiv"> 
+<a href="/contact/default.asp">Contact Info</a> 
+<a href="/contact/default.asp">Information Request</a>
+<a href="/contact/default.asp">Partnership Request</a> 
+<a href="/contact/legalStatement.asp">Legal Info</a> 
+<a href="/contact/siteMap.asp">Site Map</a>
+</div>
+ 
+
+
+
+
+
+
+<script type="text/javascript">
+setScrollButtonSpeed(1);	// Setting speed of scrolling when someone clicks on the arrow or the slider
+setScrollTimer(5);	// speed of 1 and timer of 5 is the same as speed of 2 and timer on 10 - what's the difference? 1 and 5 will make the scroll move a little smoother.
+
+scrolldiv_initScroll();	// Initialize javascript functions
+</script>
+
+
+
+
+
+
+
+
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript" width="265" height="83">
+var pageTracker = _gat._getTracker("UA-4352908-1");
+pageTracker._initData();
+pageTracker._trackPageview();
+</script>
+
+
+
+
+
+
+
+</body>
+</html>
+

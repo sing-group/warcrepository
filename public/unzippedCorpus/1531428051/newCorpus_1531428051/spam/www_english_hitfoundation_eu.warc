@@ -1,0 +1,217 @@
+WARC/1.0
+WARC-Type: warcinfo
+WARC-Date: 2018-05-30T17:52:31Z
+WARC-Record-ID: <urn:uuid:20495bb1-ddf1-4a40-8075-1398985269e8>
+WARC-All-Language: en, en-US
+WARC-All-Content_type: text/html; charset=UTF-8, text/html
+Content-Type: application/http;msgtype=response
+Content-Length: 46
+
+WARCProcessor by SING Group www.sing-group.com
+
+WARC/1.0
+WARC-Type: response
+WARC-Record-ID: <http://www.english.hitfoundation.eu>
+WARC-Date: 20180530175231
+WARC-Target-URI: http://www.english.hitfoundation.eu
+WARC-Language: en-US
+Content-Type: application/http;msgtype=response
+Content-Length: 14612
+
+HTTP/1.1 200
+Content-Type:text/html; charset=UTF-8
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en-US">
+<head profile="http://gmpg.org/xfn/11">
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<title>HIT Foundation, innovating labour and migration</title>
+
+<link rel="stylesheet" href="http://hitfoundation.eu/wp-content/plugins/sitepress-multilingual-cms/res/css/language-selector.css?v=1.7.8.1" type="text/css" media="all" />
+<meta name="robots" content="noodp, noydir" />
+<link rel="stylesheet" href="http://hitfoundation.eu/wp-content/themes/thesis_17/style.css?052710-210301" type="text/css" media="screen, projection" />
+<link rel="stylesheet" href="http://hitfoundation.eu/wp-content/themes/thesis_17/custom/layout.css?061610-224313" type="text/css" media="screen, projection" />
+<!--[if lte IE 8]><link rel="stylesheet" href="http://hitfoundation.eu/wp-content/themes/thesis_17/lib/css/ie.css?052710-210301" type="text/css" media="screen, projection" /><![endif]-->
+<link rel="stylesheet" href="http://hitfoundation.eu/wp-content/themes/thesis_17/custom/custom.css?080810-104308" type="text/css" media="screen, projection" />
+<link rel="canonical" href="http://hitfoundation.eu/" />
+<link rel="alternate" type="application/rss+xml" title="HIT Foundation RSS Feed" href="http://hitfoundation.eu/feed/" />
+<link rel="pingback" href="http://hitfoundation.eu/xmlrpc.php" />
+<link rel='stylesheet' id='cms-navigation-style-base-css'  href='http://hitfoundation.eu/wp-content/plugins/sitepress-multilingual-cms/modules/cms-navigation/css/cms-navigation-base.css?ver=1.7.8.1' type='text/css' media='screen' />
+<link rel='stylesheet' id='cms-navigation-style-css'  href='http://hitfoundation.eu/wp-content/plugins/sitepress-multilingual-cms/modules/cms-navigation/css/cms-navigation.css?ver=1.7.8.1' type='text/css' media='screen' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://hitfoundation.eu/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://hitfoundation.eu/wp-includes/wlwmanifest.xml" /> 
+<script type="text/javascript">var icl_lang = 'en';var icl_home = 'http://hitfoundation.eu/';</script>
+<script type="text/javascript" src="http://hitfoundation.eu/wp-content/plugins/sitepress-multilingual-cms/res/js/sitepress.js"></script>
+<meta name="generator" content="WPML ver:1.7.8.1 stt:1,39;1;1;0" />
+
+</head>
+<body class="custom home">
+<div id="header_area" class="full_width">
+<div class="page">
+	<div id="header">
+		<h1 id="logo"><a href="http://hitfoundation.eu">HIT Foundation</a></h1>
+<ul id="header_menu">
+	<li><a href="http://hitfoundation.eu/contact/">Contact</a></li>
+	<li><a href="http://hitfoundation.eu/publications/">Publications</a></li>
+	<li class="flags"><img src="http://hitfoundation.eu/wp-content/plugins/sitepress-multilingual-cms/res/flags/en.png" height="12" alt="en" width="18" /><a href="http://hitfoundation.eu/nl/"><img src="http://hitfoundation.eu/wp-content/plugins/sitepress-multilingual-cms/res/flags/nl.png" height="12" alt="nl" width="18" /></a></li>
+	<li class="search"><form method="get" class="header_search" action="http://hitfoundation.eu/"> 
+		<p><input type="text" onblur="if (this.value == '') {this.value = 'Search';}" onfocus="if (this.value == 'Search') {this.value = '';}" id="searchinput" name="s" value="Search" class="text_input" />
+		<input type="hidden" id="searchsubmit" value="Go" /></p>
+		</form>
+	</li>
+</ul>
+
+<div class="breadcrumb">
+<!-- Breadcrumb NavXT 3.5.0 -->
+</div>
+
+<div id="menu-wrap"><ul id="cms-nav-top-menu"><li class="selected_page icl_first"><a href="#" class="">Home</a>                                                                
+                                            </li>
+                    <li><a href="http://hitfoundation.eu/about-hit/" class="trigger">About HIT</a>                                                                                                    <ul>
+                                                                                                                                    
+                                    <li><a href="http://hitfoundation.eu/about-hit/mission/" >Mission</a></li>
+                                                                
+                                    <li><a href="http://hitfoundation.eu/about-hit/strategy/" >Strategy</a></li>
+                                                                
+                                    <li><a href="http://hitfoundation.eu/about-hit/organisation/" >Organisation</a></li>
+                                                                
+                                    <li><a href="http://hitfoundation.eu/about-hit/history/" >History</a></li>
+                                                                                                </ul>
+                                                                        
+                                            </li>
+                    <li><a href="http://hitfoundation.eu/expertise/" class="trigger">Expertise</a>                                                                                                    <ul>
+                                                                                                                                    
+                                    <li><a href="http://hitfoundation.eu/expertise/labour-migration/" >Labour Migration</a></li>
+                                                                
+                                    <li><a href="http://hitfoundation.eu/expertise/demography-labour/" >Demography &#038; Labour</a></li>
+                                                                
+                                    <li><a href="http://hitfoundation.eu/expertise/return/" >Return &#038; Reintegration</a></li>
+                                                                
+                                    <li><a href="http://hitfoundation.eu/expertise/integration/" >Integration</a></li>
+                                                                                                </ul>
+                                                                        
+                                            </li>
+                    <li><a href="http://hitfoundation.eu/projects/" class="trigger">Projects</a>                                                                                                    <ul>
+                                                                                                                                    
+                                    <li><a href="http://hitfoundation.eu/projects/monitoring-of-returned-minors/" >Monitoring of Returned Minors</a></li>
+                                                                
+                                    <li><a href="http://hitfoundation.eu/projects/return-performance-measurement/" >Return Performance Measurement</a></li>
+                                                                
+                                    <li><a href="http://hitfoundation.eu/projects/labour-migrants-in-healthcare/" >Labour migrants in healthcare</a></li>
+                                                                
+                                    <li><a href="http://hitfoundation.eu/projects/nightingales/" >Nightingales &#8211; Future Search</a></li>
+                                                                
+                                    <li><a href="http://hitfoundation.eu/projects/bluebirds/" >Blue Birds &#8211; pilot labour migration</a></li>
+                                                                
+                                    <li><a href="http://hitfoundation.eu/projects/foundation-for-sustainable-return/" >Foundation for Sustainable Return</a></li>
+                                                                
+                                    <li><a href="http://hitfoundation.eu/projects/european-cooperation-on-return-research/" >EU Return Research</a></li>
+                                                                
+                                    <li><a href="http://hitfoundation.eu/projects/migration-in-practice/" >Migration in Practice</a></li>
+                                                                
+                                    <li><a href="http://hitfoundation.eu/projects/case-chain-management-training/" >Training: Case &#038; Chain Management</a></li>
+                                                                
+                                    <li><a href="http://hitfoundation.eu/projects/angola-conexcao/" >Angola Conexcao</a></li>
+                                                                
+                                    <li><a href="http://hitfoundation.eu/projects/migration-conference-eu-2007/" >Migration Conference EU&#8217;07</a></li>
+                                                                
+                                    <li><a href="http://hitfoundation.eu/projects/adeona-return-knowledge-bank/" >ADEONA Return Knowledge Bank</a></li>
+                                                                
+                                    <li><a href="http://hitfoundation.eu/projects/return-development-project/" >TOP Return Development Project</a></li>
+                                                                
+                                    <li><a href="http://hitfoundation.eu/projects/working-in-the-netherlands/" >WIN: Working in the Netherlands</a></li>
+                                                                
+                                    <li><a href="http://hitfoundation.eu/projects/professional-training/" >Professional Training</a></li>
+                                                                                                </ul>
+                                                                        
+                                            </li>
+                    <li><a href="http://hitfoundation.eu/news/" class="">News</a>                                                                
+                                            </li>
+                    <li class="icl_last"><a href="http://hitfoundation.eu/blog/" class="">Blog</a>                                                                
+                                            </li>
+                    </ul></div><br class="cms-nav-clearit" />	</div>
+</div>
+</div>
+<div id="content_area" class="full_width">
+<div class="page">
+	<div id="content_box">
+<div id="home_content">
+			<div id="post-93" class="post hentry post_box">
+		<div class="format_text entry-content">
+			<div id="home_wrap">
+<div id="col0">
+<p>Innovating<br />
+Labour<br />
+&amp; Migration</p>
+</div>
+<div id="col1">
+<p>HIT Foundation develops innovative solutions to tackle complex challenges at the crossroads of labour and migration. Through action research and practical experiments, HIT provides new input to advance policy and practice, both in the Netherlands and across borders.</p>
+</div>
+<div id="col2">
+<div class="box"><a href="http://hitfoundation.eu/projects/monitoring-of-returned-minors/"><img class="aligncenter size-full wp-image-216" title="" src="http://hitfoundation.eu/wp-content/uploads/2010/05/Monitoring.png" alt="" width="165" height="165" /></a></div>
+<div class="box pic"><img class="aligncenter size-full wp-image-212" title="showc-1" src="http://hitfoundation.eu.php5.server46.firstfind.nl/wp-content/uploads/2010/06/showc-1.jpg" alt="" width="159" height="159" /></div>
+<div class="box"><a href="http://hitfoundation.eu/projects/foundation-for-sustainable-return/"><img class="aligncenter size-full wp-image-221" title="sustv3" src="http://hitfoundation.eu/wp-content/uploads/2010/08/SustainableReturn.png" alt="" width="157" height="157" /></a></div>
+</div>
+<div id="col3">
+<div class="box"><a href="http://hitfoundation.eu/projects/nightingales/"><img class="aligncenter size-full wp-image-218" title="nightingales" src="http://hitfoundation.eu/wp-content/uploads/2011/07/NFSblokje.jpg" alt="" width="157" height="157" /></a></div>
+<div class="box"><a href="http://hitfoundation.eu/projects/european-cooperation-on-return-research/"><img class="aligncenter size-full wp-image-219" title="coopv2" src="http://hitfoundation.eu.php5.server46.firstfind.nl/wp-content/uploads/2010/06/coopv2.png" alt="" width="165" height="165" /></a></div>
+<div class="box pic"><a href="#"><img class="aligncenter size-full wp-image-213" title="showc-2" src="http://hitfoundation.eu.php5.server46.firstfind.nl/wp-content/uploads/2010/06/showc-2.jpg" alt="" width="159" height="159" /></a></div>
+</div>
+</div>
+					</div><!--/format_text-->
+	</div><!--/post_box-->
+</div><!--/home_content-->
+
+<div id="footer_container">
+	<ul id="footer_menu">
+                <li><a href="http://hitfoundation.eu/disclaimer/">Disclaimer</a></li>
+		<li><a href="http://hitfoundation.eu/sitemap/">Sitemap</a></li>
+		<li><a href="http://hitfoundation.eu/colophon/">Colophon</a></li>
+		<li><a href="mailto:information@hitfoundation.eu" class="last">information@hitfoundation.eu</a></li>
+	</ul>
+</div>
+	</div>
+</div>
+</div>
+<div id="footer_area" class="full_width">
+<div class="page">
+	<div id="footer">
+		<p>Get smart with the <a href="http://diythemes.com/thesis/">Thesis WordPress Theme</a> from DIYthemes.</p>
+	</div>
+</div>
+</div>
+<!--[if lte IE 8]>
+<div id="ie_clear"></div>
+<![endif]-->
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-6009747-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+<!-- Start of StatCounter Code -->
+<script type="text/javascript">
+var sc_project=6164830; 
+var sc_invisible=1; 
+var sc_security="a0822bb7"; 
+</script>
+
+<script type="text/javascript"
+src="http://www.statcounter.com/counter/counter.js"></script><noscript><div
+class="statcounter"><a title="site stats"
+href="http://www.statcounter.com/free_web_stats.html"
+target="_blank"><img class="statcounter"
+src="http://c.statcounter.com/6164830/0/a0822bb7/1/"
+alt="site stats" ></a></div></noscript>
+<!-- End of StatCounter Code -->
+</body>
+</html>
+

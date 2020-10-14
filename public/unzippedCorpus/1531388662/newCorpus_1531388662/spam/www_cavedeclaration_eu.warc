@@ -1,0 +1,85 @@
+WARC/1.0
+WARC-Type: warcinfo
+WARC-Date: 2018-05-30T18:18:32Z
+WARC-Record-ID: <urn:uuid:bc8fe29c-2941-430a-87a9-dbe98cf64a38>
+WARC-All-Language: en
+WARC-All-Content_type: text/html
+Content-Type: application/http;msgtype=response
+Content-Length: 46
+
+WARCProcessor by SING Group www.sing-group.com
+
+WARC/1.0
+WARC-Type: response
+WARC-Record-ID: <http://www.cavedeclaration.eu>
+WARC-Date: 20180530181832
+WARC-Target-URI: http://www.cavedeclaration.eu
+WARC-Language: en
+Content-Type: application/http;msgtype=response
+Content-Length: 3957
+
+HTTP/1.1 200
+Content-Type:text/html
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1" />
+	<title>EU Cave &amp; Karst Protection</title>
+	<link href="css/main.css" rel="stylesheet" type="text/css" />
+</head>
+
+<body>
+
+<table width="848" border="0" align="center" cellpadding="0" cellspacing="0">
+  <tr>
+    <td class="GrandTitle">save the hole world</td>
+  </tr>
+  <tr>
+    <td class="GrandSubTitle">- support cave protection in Europe</td>
+  </tr>
+  <tr>
+    <td>
+		<div align="center" class="FirstPageTextHighlight"><marquee behavior="slide" direction="left" scrolldelay="50" width="75%">
+			watch our <a href="presentation.php"><strong>&rArr;campaign presentation</strong></a> and <a href="trailer.php"><strong>&rArr;campaign trailer</strong></a> !
+		</MARQUEE></div>
+	</td>
+  </tr>
+  <tr>
+    <td><table width="100%" height="28" border="0" cellpadding="10" cellspacing="0">
+      <tr>
+        <td align="center" width="25%"><a href="support.php" class="MenuLinks">support</a></td>
+        <td align="center" width="25%"><a href="news.php" class="MenuLinks">news</a></td>
+        <td align="center" width="25%"><a href="linksdownloads.php" class="MenuLinks">downloads</a></td>
+        <td align="center" width="25%"><a href="contact.php" class="MenuLinks">contact</a></td>
+      </tr>
+	  
+      <tr>
+        <td align="center" width="25%"><a href="support.php"><img src="pics/K640_VDH_PL2_1.JPG" width="200" hspace="0" vspace="0" border="0" align="left" /></a></td>
+        <td align="center" width="25%"><a href="news.php"><img src="pics/K640_VDH_PL2.JPG" width="200" hspace="0" vspace="0" border="0" align="left" /></a></td>
+        <td align="center" width="25%"><a href="linksdownloads.php"><img src="pics/K640_VDH_PL2_2.JPG" width="200" hspace="0" vspace="0" border="0" align="left" /></a></td>
+        <td align="center" width="25%"><a href="contact.php"><img src="pics/K640_VDH_PL2_3.JPG" width="200" hspace="0" vspace="0" border="0" align="left" /></a></td>
+      </tr>
+	  
+      <tr>
+        <td width="25%" align="center" valign="top" class="FirstPageText"><p> <strong>Caves have provided some of our most important <span class="FirstPageTextHighlight">archaeological discoveries</span> in history of mankind.</strong> </p>
+          <p>Cave paintings represent the humanity&rsquo;s earliest art, testimonies to a cultural tradition up to 40,000 years b.c.</p></td>
+        <td width="25%" align="center" valign="top" class="FirstPageTextDark"><p><strong>In Europe  there are thousands of <span class="FirstPageTextHighlight">different  species</span> which only exist in caves. </strong></p>
+          <p>The study of this very special and unusual environment and how life on earth has adapted to it has only  just begun, in part due to the very small number of specialists.</p></td>
+        <td width="25%" align="center" valign="top" class="FirstPageText"><p><strong>Karst <span class="FirstPageTextHighlight">water resources</span> represent about 25% of the drinkable supply in the world.</strong></p>
+          <p>Pollutants reach the groundwater very quickly in karst areas due to the porous rock, sinkholes and caves.  These natural resources are easily destroyed, but restoration  is commonly an expensive or impossible   task.</p></td>
+        <td width="25%" align="center" valign="top" class="FirstPageTextDark"><p><strong>Speleothems are the key to understanding past <span class="FirstPageTextHighlight">climate changes</span>. </strong></p>
+          <p>Speleothems grow very slowly  and build fragile and unique forms. As their growth depends on the climate, they indicate general climatic conditions in recording rain fall, humidity, and temperature.</p></td>
+      </tr>
+    </table></td>
+  </tr>
+</table>
+
+</body>
+
+
+</html>
+
+

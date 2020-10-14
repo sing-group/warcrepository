@@ -1,0 +1,104 @@
+WARC/1.0
+WARC-Type: warcinfo
+WARC-Date: 2018-05-30T18:18:32Z
+WARC-All-Language: en
+WARC-All-Content_type: text/html; charset=utf-8
+WARC-Record-ID: <urn:uuid:ecc017cb-2608-4a89-95e2-e132ecf238f1>
+Content-Type: application/http;msgtype=response
+Content-Length: 46
+
+WARCProcessor by SING Group www.sing-group.com
+
+WARC/1.0
+WARC-Type: response
+WARC-Target-URI: http://www.efci.eu
+WARC-Date: 20180530181832
+WARC-Language: en
+WARC-Record-ID: <http://www.efci.eu>
+Content-Type: application/http;msgtype=response
+Content-Length: 3319
+
+HTTP/1.1 200
+Content-Type:text/html; charset=utf-8
+
+
+<!DOCTYPE html
+	PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<html lang="en">
+<head>
+
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<!-- 
+	This website is powered by TYPO3 - inspiring people to share!
+	TYPO3 is a free open source Content Management Framework initially created by Kasper Skaarhoj and licensed under GNU/GPL.
+	TYPO3 is copyright 1998-2015 of Kasper Skaarhoj. Extensions are copyright of their respective owners.
+	Information and contribution at http://typo3.org/
+-->
+
+
+<link rel="shortcut icon" href="http://www.feni.be/uploads/tf/favicon.ico" type="image/x-ico; charset=binary">
+<link rel="icon" href="http://www.feni.be/uploads/tf/favicon.ico" type="image/x-ico; charset=binary">
+<title>FENI - EFCI: Home - Language Choice</title>
+<meta name="generator" content="TYPO3 4.5 CMS">
+
+<link rel="stylesheet" type="text/css" href="typo3temp/stylesheet_7d8a70ce18.css?1329243742" media="all">
+
+
+
+<script src="typo3temp/javascript_93077bb238.js?1329242129" type="text/javascript"></script>
+
+
+<link rel="stylesheet" type="text/css" media="screen" title="" href="/fileadmin/templates/css/lng_choice.css" />
+</head>
+<body background="/fileadmin/images/zback_feni.gif" topmargin="0" leftmargin="0" marginwidth="0" margingheight="0">
+
+<div id="content"><!--TYPO3SEARCH_begin-->
+	<!--  CONTENT ELEMENT, uid:87/html [begin] -->
+		<div id="c87" class="csc-default" >
+		<!--  Raw HTML content: [begin] -->
+			 <table width="905" border="0" cellpadding="0" cellspacing="0">
+  <tr>
+    <td width="417"><img border="0" src="/fileadmin/images/cover_top.gif" width="332" height="118"></td>
+
+    <td valign="bottom" width="388"><h1 align="left" >European Federation of Cleaning Industries</h1></td>
+  </tr>
+  <tr>
+    <td width="417"><img border="0" src="/fileadmin/images/cover_bottom.gif" width="417" height="260"></td>
+    <td valign="top" width="588" style="padding-left:50px;">
+      <br /><br /><br /><a href="index.php?id=1&L=0">
+      <img border="0" src="/fileadmin/images/cover_en.gif" width="64" height="81"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+      <a href="index.php?id=1&L=1"><img border="0" src="/fileadmin/images/cover_fr.gif" width="68" height="82"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="index.php?id=1&L=2"><img border="0" src="/fileadmin/images/cover_de.gif" width="68" height="82"></a></td>
+
+  </tr>
+  <tr>
+    <td colspan="2" width="1024" style="padding-left:150px;" nowrap>
+<h1>Fédération Européenne du Nettoyage Industriel&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    Europ&auml;ischer Dachverband der Reinigungsbranche</h1></td>
+  </tr>
+<tr>
+<td style="padding-left:110px;" colspan="2"><br /><br /><br /><br /><br /><p class="footer"><b>Contact</b><br>
+<i>Tel</i> +32 (0)2 225 83 30 - <i>Fax</i> +32 (0)2 225 83 39 - <a href="mailto:office@feni.be">office@feni.be</a><br>
+
+Rue de l'Association, 27 - B 1000 Brussels</p></td>
+</tr>
+</table>
+
+
+		<!--  Raw HTML content: [end] -->
+			</div>
+	<!--  CONTENT ELEMENT, uid:87/html [end] -->
+		<!--TYPO3SEARCH_end--></div>
+
+
+
+
+
+<script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
+</script>
+<script type="text/javascript">
+_uacct = "UA-2771091-11";
+urchinTracker();
+</script>
+</body>
+</html>
+

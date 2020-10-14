@@ -1,0 +1,72 @@
+WARC/1.0
+WARC-Type: warcinfo
+WARC-Date: 2018-05-30T17:52:31Z
+WARC-All-Language: en
+WARC-All-Content_type: text/html
+WARC-Record-ID: <urn:uuid:db62cc55-b6d1-40f7-982a-ce3f506cf8ea>
+Content-Type: application/http;msgtype=response
+Content-Length: 46
+
+WARCProcessor by SING Group www.sing-group.com
+
+WARC/1.0
+WARC-Type: response
+WARC-Target-URI: http://www.dimitriou.eu
+WARC-Date: 20180530175231
+WARC-Language: en
+WARC-Record-ID: <http://www.dimitriou.eu>
+Content-Type: application/http;msgtype=response
+Content-Length: 1644
+
+HTTP/1.1 200
+Content-Type:text/html
+
+
+<HTML>
+        <HEAD>
+                <TITLE>dimitriou.eu is under Construction.  Please Come Back Again!</TITLE>
+        </HEAD>
+<BODY>
+        <CENTER>
+        <TABLE ALIGN="CENTER" CELLSPACING=0 CELLPADDING=0 WIDTH=400>
+        <TR><TD BGCOLOR="#800080" ALIGN="CENTER">
+                <CENTER>
+                        <FONT COLOR="#FFFF00" SIZE=6 FACE="Arial, Helvetica, Sans Serif"
+                        ><B>dimitriou.eu</B></FONT>
+                </CENTER>
+        </TD></TR>
+        <TR><TD BGCOLOR="lightgrey" ALIGN="CENTER">
+                <CENTER>
+                        <FONT COLOR="#800080"><B>This site is currently</B></FONT><BR>
+                </CENTER>
+        </TD></TR>
+        <TR><TD BGCOLOR="#FFFF00" ALIGN="CENTER">
+                <CENTER>
+                        <FONT COLOR="#800080" SIZE="5" FACE="Arial, Helvetica, San Serif"><B>Under Construction</B><BR></FONT>
+                </CENTER>
+        </TD></TR>
+        <TR><TD BGCOLOR="lightgrey" ALIGN="CENTER">
+                <CENTER>
+                        <FONT COLOR="#000000">Please set a bookmark and come back later!<BR></FONT>
+                        </FONT>
+                </CENTER>
+        </TD></TR>
+        <TR>
+                <TD BGCOLOR="#800080">
+                &nbsp;
+        </TD>
+                </TR>
+<TR>
+<TD ALIGN="CENTER">
+<HR>
+<FONT size="1">&copy;Copyright <a href="http://www.domainit.com">DomainIt</a><SUP>TM</SUP> 1996-<script>var year = new Date(); document.write(year.getFullYear()); </script>. All rights reserved.</FONT></TD>
+</TR>
+        </TABLE>
+        </CENTER>
+</BODY>
+</HTML>
+
+
+
+
+

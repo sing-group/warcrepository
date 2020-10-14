@@ -1,0 +1,39 @@
+WARC/1.0
+WARC-Type: warcinfo
+WARC-Date: 2018-05-30T18:18:32Z
+WARC-Record-ID: <urn:uuid:8cfb448f-1065-4efd-8884-d19e8502b066>
+WARC-All-Language: en, en-US
+WARC-All-Content_type: text/html
+Content-Type: application/http;msgtype=response
+Content-Length: 46
+
+WARCProcessor by SING Group www.sing-group.com
+
+WARC/1.0
+WARC-Type: response
+WARC-Record-ID: <http://www.eucalandnetwork.eu>
+WARC-Date: 20180530181832
+WARC-Target-URI: http://www.eucalandnetwork.eu
+WARC-Language: en-US
+Content-Type: application/http;msgtype=response
+Content-Length: 528
+
+HTTP/1.1 200
+Content-Type:text/html
+
+
+<!DOCTYPE HTML>
+<html lang="en-US">
+    <head>
+        <meta charset="UTF-8">
+        <meta http-equiv="refresh" content="1;url=http://www.eucaland.net">
+        <script type="text/javascript">
+            window.location.href = "http://www.eucaland.net"
+        </script>
+        <title>Eucaland - Redirection</title>
+    </head>
+    <body>
+        If you are not redirected automatically, follow this <a href="http://www.eucaland.net">link to www.eucaland.net</a>.
+    </body>
+</html>
+

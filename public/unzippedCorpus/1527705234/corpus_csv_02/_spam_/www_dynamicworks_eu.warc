@@ -1,0 +1,963 @@
+WARC/1.0
+WARC-Type: warcinfo
+WARC-Date: 2018-05-30T18:18:32Z
+WARC-All-Language: en-US
+WARC-All-Content_type: text/html;charset=UTF-8
+WARC-Record-ID: <urn:uuid:071b5156-b502-4a41-a87e-3913937fb0e9>
+Content-Type: application/http;msgtype=response
+Content-Length: 46
+
+WARCProcessor by SING Group www.sing-group.com
+
+WARC/1.0
+WARC-Type: response
+WARC-Target-URI: http://www.dynamicworks.eu
+WARC-Date: 20180530181832
+WARC-Language: en-US
+WARC-Record-ID: <http://www.dynamicworks.eu>
+Content-Type: application/http;msgtype=response
+Content-Length: 42836
+
+HTTP/1.1 200
+Content-Type:text/html;charset=UTF-8
+
+
+<!DOCTYPE html><html dir="ltr" lang="en-US">
+
+ 
+
+	
+	
+	<head>
+    	<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+        <meta name="author" content="Dynamic Works" />
+		
+		<meta name="Keywords" content="Web design, Cyprus, CRM, CMS, cyprus web design, ecommerce, mobile apps, software development" />
+		
+		<meta name="Description" content="Dynamic Works Cyprus Web design, web development, CMS, CRM, eCommerce, Online Shop Development, Mobile Applications, Web Applications, Software Development." />
+		
+		
+		<title>Dynamic Works™ | Cyprus Web Design | Online Shop | Mobile Apps | CRM</title>
+		
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+		<meta name="generator" content="DWCMS" />
+		<meta name="SKYPE_TOOLBAR" content="SKYPE_TOOLBAR_PARSER_COMPATIBLE" />
+		
+        
+    
+        <meta property="og:title" content="Dynamic Works™ | Cyprus Web Design | Online Shop | Mobile Apps | CRM"  />
+        <meta property="og:description" content="One of the leading web design companies in Cyprus and eastern Mediterranean. Web builders of some of the most important web portals and organization websites, ecommerce, mobile applications and CRM." />
+        <meta property="og:image" content="http://www.dynamicworks.eu/assets/image/imagelarge/limitless-responsive-web-design.jpg">
+        <meta property="og:url" content="http://www.dynamicworks.eu" />
+        <meta property="fb:admins" content="890995516" />
+		<meta property="fb:app_id" content="202122953271783" />
+        <meta property="og:type" content="website" />
+        <meta property="fb:pages" content="161567778719" />
+        
+		<meta name="twitter:card" content="summary" />
+		<meta name="twitter:site" content="@dynamic_works" />
+		<meta name="twitter:title" content="Dynamic Works™ | Cyprus Web Design | Online Shop | Mobile Apps | CRM" />
+		<meta name="twitter:description" content="One of the leading web design companies in Cyprus and eastern Mediterranean. Web builders of some of the most important web portals and organization websites, ecommerce, mobile applications and CRM." />
+		<meta name="twitter:image" content="http://www.dynamicworks.eu/assets/image/imagelarge/limitless-responsive-web-design.jpg" />
+
+		
+		
+		<link href="https://plus.google.com/+DynamicworksEurope" rel="publisher" />
+		<link rel="canonical" href="http://www.dynamicworks.eu" />
+		
+		
+        <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
+        <link rel="stylesheet" href="/css/bootstrap.css" type="text/css" />
+	    <link rel="stylesheet" href="/style.css" type="text/css" />
+		<link rel="stylesheet" href="/css/custom-style.css" type="text/css" />
+	    <link rel="stylesheet" href="/css/dark.css" type="text/css" />
+	    <link rel="stylesheet" href="/css/font-icons.css" type="text/css" />
+	    <link rel="stylesheet" href="/css/animate.css" type="text/css" />
+	    <link rel="stylesheet" href="/css/magnific-popup.css" type="text/css" />
+					
+			<link rel="stylesheet" type="text/css" href="/css/style3.css" />
+			<!--[if lt IE 10]>
+					<link rel="stylesheet" type="text/css" href="/css/style3IE.css" />
+			<![endif]-->
+		
+		
+	    <link rel="stylesheet" href="/css/responsive.css" type="text/css" />
+		<link rel="stylesheet" href="/css/custom-responsive.css" type="text/css" />
+		
+    	
+		
+		<link rel="stylesheet" href="/css/colors.css" type="text/css" />
+	
+	    
+	    
+	    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
+	    <!--[if lt IE 9]>
+	    	<script src="http://css3-mediaqueries-js.googlecode.com/svn/trunk/css3-mediaqueries.js"></script>
+	    <![endif]-->
+	 
+		<script type="496a41006cfce341f00a9112-">
+		  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+		  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+		  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+		  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+		
+		  ga('create', 'UA-4818575-1', 'auto');
+		  ga('send', 'pageview');
+		
+		</script>
+	
+		<script type="496a41006cfce341f00a9112-text/javascript" src="/js/jquery.js"></script>
+		<script type="496a41006cfce341f00a9112-text/javascript" src="/js/plugins.js"></script>
+		<script type="496a41006cfce341f00a9112-text/javascript" src="/js/custom.js" async></script>
+        
+        
+        	<script type="496a41006cfce341f00a9112-text/javascript" src="/js/script.js" async></script>
+        
+        <script type="496a41006cfce341f00a9112-text/javascript" src="/js/waypoints.min.js" async></script>
+        
+        	<script type="496a41006cfce341f00a9112-text/javascript" src="/js/jquery.flexslider.js" async></script>
+        
+		
+        <script type="496a41006cfce341f00a9112-text/javascript" src="/js/system.js" async></script>
+		
+		
+	     
+	        <script type="496a41006cfce341f00a9112-text/javascript" src="/include/rs-plugin/js/jquery.themepunch.tools.min.js"></script>
+	      
+		<!-- Facebook Pixel Code -->
+<script type="496a41006cfce341f00a9112-">
+!function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;
+n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;
+t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,
+document,'script','https://connect.facebook.net/en_US/fbevents.js');
+fbq('init', '139089423138000', {
+em: 'insert_email_variable,'
+});
+fbq('track', 'PageView');
+</script>
+<noscript><img height="1" width="1" style="display:none"
+src="https://www.facebook.com/tr?id=139089423138000&ev=PageView&noscript=1"
+/></noscript>
+<!-- DO NOT MODIFY -->
+<!-- End Facebook Pixel Code -->
+ 
+	</head>
+	
+	
+    
+    <body class="stretched"> 
+        
+        <div id="fb-root"></div>
+        <script type="496a41006cfce341f00a9112-">
+          window.fbAsyncInit = function() {
+            FB.init({
+              appId      : '202122953271783',
+              xfbml      : true,
+              version    : 'v2.3'
+            });
+          };
+        
+          (function(d, s, id){
+             var js, fjs = d.getElementsByTagName(s)[0];
+             if (d.getElementById(id)) {return;}
+             js = d.createElement(s); js.id = id;
+             js.src = "//connect.facebook.net/en_US/sdk.js";
+             fjs.parentNode.insertBefore(js, fjs);
+           }(document, 'script', 'facebook-jssdk'));
+        </script>
+        
+        <script type="496a41006cfce341f00a9112-">!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
+    
+        <div id="wrapper" class="clearfix">
+            <header id="header" class="transparent-header full-header" data-sticky-class="not-dark">
+                <div id="header-wrap">
+                    <div class="container clearfix">
+                        <div id="primary-menu-trigger"><i class="icon-reorder"></i></div>
+            
+                        <div id="logo">
+                            <a href="/" class="standard-logo" data-dark-logo="/images/image-dwlogo.png"><img src="/images/dynamic-works-logo-web-design-s.png"  alt="Dynamic Works™ - Cyprus Web Design" title="Dynamic Works™ - Cyprus Web Design" /></a>
+                            <a href="/" class="retina-logo" data-dark-logo="/images/dynamic-works-logo-web-design-m.png"><img src="/images/dynamic-works-logo-web-design-m.png"  alt="Dynamic Works™ - Cyprus Web Design" title="Dynamic Works™ - Cyprus Web Design" /></a>
+                        </div>
+            
+                        
+	<nav id="primary-menu" class="style-1">
+
+	
+		<ul>
+            
+				<li ><a href="/dynamic-works-cyprus" ><div>About Us</div><span>Learn about Us</span></a>
+					
+						<ul>
+													
+	                    		<li><a href="/dynamic-works-cyprus/mission" ><div>Our Mission</div></a>
+									
+								</li>
+													
+	                    		<li><a href="/dynamic-works-cyprus/vision" ><div>Our Vision</div></a>
+									
+								</li>
+													
+	                    		<li><a href="/dynamic-works-cyprus/careers" ><div>Careers</div></a>
+									
+								</li>
+													
+	                    		<li><a href="/dynamic-works-cyprus/awards-certifications" ><div>Awards & Certifications</div></a>
+									
+								</li>
+													
+	                    		<li><a href="/dynamic-works-cyprus/media" ><div>Media</div></a>
+									
+								</li>
+													
+	                    		<li><a href="/dynamic-works-cyprus/contact-web" ><div>Contact DW</div></a>
+									
+								</li>
+							
+						</ul>
+					
+				</li>
+			
+				<li ><a href="/technology" ><div>Platform</div><span>Our powerful tools</span></a>
+					
+						<ul>
+													
+	                    		<li><a href="/technology/dwf" ><div>DWF</div></a>
+									
+								</li>
+													
+	                    		<li><a href="/technology/web-content-management" ><div>DWCMS</div></a>
+									
+								</li>
+													
+	                    		<li><a href="/technology/crm" ><div>DWCRM</div></a>
+									
+								</li>
+							
+						</ul>
+					
+				</li>
+			
+				<li ><a href="/solutions" ><div>Solutions</div><span>WE SPECIALIZE IN TAILOR-MADE AND CLOUD-BASED WEB, MOBILE & CRM SOLUTION<br /></span></a>
+					
+						<ul>
+													
+	                    		<li><a href="/solutions/expertise" ><div>Expertise</div></a>
+									
+										<ul>
+											
+                            					<li><a href="/solutions/expertise/web-design-development" ><div>Web Design / CMS</div></a></li>
+											
+                            					<li><a href="/solutions/expertise/crm" ><div>CRM</div></a></li>
+											
+                            					<li><a href="/solutions/expertise/ecommerce-integrated-crm" ><div>eCommerce</div></a></li>
+											
+                            					<li><a href="/solutions/expertise/mobile-applications" ><div>Mobile Apps</div></a></li>
+											
+                            					<li><a href="/solutions/expertise/intranet-extranet" ><div>Intranet / Extranet</div></a></li>
+											
+                            					<li><a href="/solutions/expertise/helpdesk-software" ><div>HelpDesk</div></a></li>
+											
+										</ul>
+									
+								</li>
+													
+	                    		<li><a href="/solutions/solutions-for-sectors" ><div>Solutions for Sectors</div></a>
+									
+										<ul>
+											
+                            					<li><a href="/solutions/solutions-for-sectors/forexcrm" ><div>Forex</div></a></li>
+											
+                            					<li><a href="/solutions/solutions-for-sectors/event-management-eticketing-software" ><div>Theatres and Events</div></a></li>
+											
+                            					<li><a href="/solutions/solutions-for-sectors/transport-airports-aviation" ><div>Airports</div></a></li>
+											
+                            					<li><a href="/solutions/solutions-for-sectors/software-solutions-for-health" ><div>Healthcare & Telemedicine</div></a></li>
+											
+                            					<li><a href="/solutions/solutions-for-sectors/dynamic-works-solution-property-development" ><div>Property & Real Estate</div></a></li>
+											
+                            					<li><a href="/solutions/solutions-for-sectors/hotel-crm" ><div>Accommodation</div></a></li>
+											
+                            					<li><a href="/solutions/solutions-for-sectors/hotel-crm905" ><div>F & B</div></a></li>
+											
+                            					<li><a href="/solutions/solutions-for-sectors/retail" ><div>Retail</div></a></li>
+											
+                            					<li><a href="/solutions/solutions-for-sectors/software-for-education-crm-extranet" ><div>Education</div></a></li>
+											
+										</ul>
+									
+								</li>
+													
+	                    		<li><a href="/solutions/cloud-based-solutions" ><div>Cloud-based Solutions</div></a>
+									
+								</li>
+													
+	                    		<li><a href="/solutions/3-step-solutions-roadmap" ><div>3-Step solutions roadmap</div></a>
+									
+								</li>
+							
+						</ul>
+					
+				</li>
+			
+				<li ><a href="/products" ><div>Products</div><span>Our Specialized Products</span></a>
+					
+						<ul>
+													
+	                    		<li><a href="http://www.xselio.com" target=xSELIO><div>xSelio Commerce</div></a>
+									
+								</li>
+													
+	                    		<li><a href="http://www.mandoapps.com" target=MANDO><div>Mando Apps</div></a>
+									
+								</li>
+													
+	                    		<li><a href="http://www.syntellicore.com" target=SYNTELLICORE><div>Syntellicore</div></a>
+									
+								</li>
+							
+						</ul>
+					
+				</li>
+			
+				<li ><a href="/forex-crm-traders-room" ><div>Forex Solutions</div><span></span></a>
+					
+				</li>
+			
+				<li ><a href="/web-design-crm-mobile-software/showcase" ><div>Showcase</div><span>A taste of our work</span></a>
+					
+				</li>
+			
+				<li ><a href="/dynamic-works-cyprus/careers" ><div>Careers</div><span></span></a>
+					
+				</li>
+						
+        </ul>
+		
+        
+     
+        <!-- Top Search
+        ============================================= -->
+        <div id="top-search">
+            <a href="#" id="top-search-trigger"><i class="icon-search3"></i><i class="icon-line-cross"></i></a>
+            <form action="/easyconsole.cfm/page/search/" method="post">
+                <input type="text" name="hsearch" class="form-control" value="" placeholder="Type &amp; Hit Enter..">
+            </form>
+        </div><!-- #top-search end -->
+
+    </nav><!-- #primary-menu end -->
+
+                    </div>
+                </div>
+            </header>
+ 	
+			
+	 <section id="slider" class="slider-parallax" style="background: url('/assets/image/imageSplash/dynamicworks-syntellicore-ifxexpo-crm-traders-room.jpg') no-repeat; background-size: cover" data-height-lg="750" data-height-md="500" data-height-sm="400" data-height-xs="450" data-height-xxs="400" data-stellar-background-ratio=".80">
+		<div class="container-fluid clearfix">
+			<div class="vertical-middle" style="left:10%;">
+				<div class="heading-block nobottommargin">		
+					<img src="/assets/image/imageSplash/brokerrage-crm-ifx-expo.png" title="Syntellicore CRM Logo and iFX Expo Logo" style="margin-bottom:20px;">
+ 
+					<h1 style="letter-spacing: -1px;">Meet us at the iFX Expo  </h1>
+					
+					<span class="hidden-xss">MAY 22-24 | LIMASSOL - CYPRUS</span>
+				</div>
+				<a href="http://www.syntellicore.com" class="button button-rounded button-reveal button-large button-orange" target="SYNTELLICORE"><i class="icon-angle-right"></i><span>Find out more</span></a>
+			</div>
+		</div>
+	</section>
+	
+	 
+	
+	 
+
+		 
+		
+ 
+
+        <!-- Content
+        ============================================= -->
+        <section id="content">
+			
+           <div class="content-wrap">			 
+			
+			
+	<div class="containerFull clearfix">
+		
+                <div class="col_one_fourth nobottommargin ">                	
+                    <div class="feature-box fbox-center fbox-light fbox-effect nobottomborder">                       
+                        
+							<div class="icon">
+	                        	
+									<a href="/solutions/expertise/web-design-development"  title="Web Design / CMS"><i class="fa fa-cog fa-4x" style="color:#AAAAAA;"></i></a>
+								
+	                        </div>
+												                        
+                        <a href="/solutions/expertise/web-design-development"><h2>Web Design / CMS</h2><p>Work closely with our proven experienced <strong>web design, front-end development and web application development teams</strong>. Build the power of your brand on-line with the newest trends and technologies that will transform your business’s on-line presence!</p></a>
+                    </div>
+								
+                </div>
+				
+                <div class="col_one_fourth nobottommargin ">                	
+                    <div class="feature-box fbox-center fbox-light fbox-effect nobottomborder">                       
+                        
+							<div class="icon">
+	                        	
+									<a href="/solutions/expertise/crm"  title="CRM"><i class="fa fa-signal fa-4x" style="color:#AAAAAA;"></i></a>
+								
+	                        </div>
+												                        
+                        <a href="/solutions/expertise/crm"><h2>CRM</h2><p>A <strong>CRM Development</strong> team dedicated to adapt DWCRM to your needs. Single-click view of your customer and your interactions with them through to all aspects of marketing, sales, customer service & operations. Ultimate <strong>Customer Experience</strong>.</p></a>
+                    </div>
+								
+                </div>
+				
+                <div class="col_one_fourth nobottommargin ">                	
+                    <div class="feature-box fbox-center fbox-light fbox-effect nobottomborder">                       
+                        
+							<div class="icon">
+	                        	
+									<a href="/solutions/expertise/ecommerce-integrated-crm"  title="DW eCommerce: Powering successful online stores"><i class="fa fa-cart-plus fa-4x" style="color:#AAAAAA;"></i></a>
+								
+	                        </div>
+												                        
+                        <a href="/solutions/expertise/ecommerce-integrated-crm"><h2>eCommerce</h2><p>Bespoke <strong>online shop design and development</strong> or cloud-based eShop. It is entirely your choice. Achieve More Sales with our eCommerce solutions based on our powerful, secure innovative software platform, DWF. Integration with payment gateways.</p></a>
+                    </div>
+								
+                </div>
+				
+                <div class="col_one_fourth nobottommargin  col_last">                	
+                    <div class="feature-box fbox-center fbox-light fbox-effect nobottomborder">                       
+                        
+							<div class="icon">
+	                        	
+									<a href="/solutions/expertise/mobile-applications"  title="Mobile Applications"><i class="fa fa-mobile fa-4x" style="color:#AAAAAA;"></i></a>
+								
+	                        </div>
+												                        
+                        <a href="/solutions/expertise/mobile-applications"><h2>Mobile Apps</h2><p>Meet the mobile demands in a world of rapid change. Our passionate <strong>Mobile Application Development</strong> and <strong>Web Design</strong> teams can help you thrive by developing mobile responsive websites and custom native mobile apps for iOS & Android.</p></a>
+                    </div>
+								
+                </div>
+				
+  	</div>
+
+			<div class="section parallax nomargin notopborder" style="background: url('/assets/image/imageSplash/products_bg_image.png') center center; background-color:#fff;  background-size:cover; padding: 0px 0px 50px 0px;;" data-stellar-background-ratio="1">		
+			 	<div class="solutions-industry-container">
+					<div class="industry-section grid-12" id="dw-content-industry">
+						<p>EXTENSIVE EXPERIENCE IN CERTAIN
+						<span><b>INDUSTRY SECTORS</b></span></p>
+					</div>
+					<div class="clear">&nbsp;</div>
+						<ul class="industry-menu clearfix">
+													
+								<li><a href="/solutions/solutions-for-sectors/forexcrm" title="Forex CRM | Traders Room">FOREX</a></li>
+													
+								<li><a href="/solutions/solutions-for-sectors/event-management-eticketing-software" title="eTicketing Systems for Theatres and Events">THEATRES AND EVENTS</a></li>
+													
+								<li><a href="/solutions/solutions-for-sectors/transport-airports-aviation" title="Airport PRM Assistance | Aiport  CRM | Web Design">AIRPORTS</a></li>
+													
+								<li><a href="/solutions/solutions-for-sectors/software-solutions-for-health" title="Healthcare | Telemedicine Solutions">HEALTHCARE & TELEMEDICINE</a></li>
+													
+								<li><a href="/solutions/solutions-for-sectors/dynamic-works-solution-property-development" title="Property & Real Estate Web Design and CRM">PROPERTY & REAL ESTATE</a></li>
+													
+								<li><a href="/solutions/solutions-for-sectors/hotel-crm" title="Hotel Web Design | Hotel Mobile Apps | Hotel CRM">ACCOMMODATION</a></li>
+													
+								<li><a href="/solutions/solutions-for-sectors/hotel-crm905" title="Mobile Ordering for F&B">F & B</a></li>
+							 
+							<li><a href="/solutions/solutions-for-sectors">AND MUCH MORE ...</a></li>
+						</ul>
+					</div>
+				</div>
+			</div>
+		
+		<div class="slide" id="slide3" data-slide="3" data-stellar-background-ratio="0.5" style="background-size: 100% 519px; background-position: 0px -755.5px;">
+			<div class="padding_slide3">
+				<div class="container clearfix">
+					<div class="col_full clearfix">
+		
+		                <div id="dw-content">
+							<p>GET A GLIMPSE OF OUR</p>
+							<h2>SHOWCASE</h2>
+						</div>
+		
+						<div id="dw-content-logos">
+							<ul class="showcase clearfix">
+							  
+								  <li>
+									
+										<img src="/assets/image/clientimage/central-bank-of-cyprus.png" width="145"   alt="Central Bank of Cyprus" />
+												
+								
+										  
+									
+								  </li>
+							  
+								  <li>
+									
+										<img src="/assets/image/clientimage/Hermes-Airports-Logo.png" width="145"   alt="Hermes Airports Website" />
+												
+								
+										  
+									
+								  </li>
+							  
+								  <li>
+									
+										<img src="/assets/image/clientimage/AstroBank-logo-flat.png" height="60"  alt="AstroBank Ltd" />
+												
+								
+										  
+									
+								  </li>
+							  
+								  <li>
+									
+										<img src="/assets/image/clientimage/book-your-wedding-day-logo.jpg" width="145"   alt="BookYourWeddingDay.Com" />
+												
+								
+										  
+									
+								  </li>
+							  
+								  <li>
+									
+										<img src="/assets/image/clientimage/soldout-logo.png" height="60"  alt="SoldOut Tickets" />
+												
+								
+										  
+									
+								  </li>
+							  
+								  <li>
+									
+										<img src="/assets/image/clientimage/hellenic.png" width="145"   alt="Hellenic Bank" />
+												
+								
+										  
+									
+								  </li>
+							  
+								  <li>
+									
+										<img src="/assets/image/clientimage/gold_news.png" height="60"  alt="Gold News" />
+												
+								
+										  
+									
+								  </li>
+							  
+								  <li>
+									
+										<img src="/assets/image/clientimage/zavos-logo.png" width="145"   alt="D. Zavos Group" />
+												
+								
+										  
+									
+								  </li>
+							  
+								  <li>
+									
+										<img src="/assets/image/clientimage/airtrans_logo.png" width="145"   alt="Airtrans Group" />
+												
+								
+										  
+									
+								  </li>
+							  
+								  <li>
+									
+										<img src="/assets/image/clientimage/CITE-LOGO.png" width="145"   alt="Citea" />
+												
+								
+										  
+									
+								  </li>
+							  
+								  <li>
+									
+										<img src="/assets/image/clientimage/img-logoMain.png" width="145"   alt="Funding Programmes Portal" />
+												
+								
+										  
+									
+								  </li>
+							  
+								  <li>
+									
+										<img src="/assets/image/clientimage/logo2.png" width="145"   alt="Apollonion Hospital" />
+												
+								
+										  
+									
+								  </li>
+							  
+							   
+							</ul>
+							<div class="viewshowcase">
+								<a href="/web-design-crm-mobile-software/showcase" title="">VIEW OUR SHOWCASE</a>
+							</div>
+						</div> 
+		        	</div>
+				</div>
+			</div>
+		</div>
+	
+    			  
+ 	
+	<div class="section parallax nomargin notopborder" style="background: url('/assets/image/imageSplash/background-blurred-lights.jpg') center center; background-color:#fff;  background-size:cover; padding: 50px 0;" data-stellar-background-ratio="1">
+		<div class="container clearfix center"> 
+			<h2><b><span>our</span> PLATFORM</b>. The <span class="fntclorBlue">foundation</span> for:</h2>
+			<h1>Web Design, Web Development, eCommerce, Mobile Applications, CRM and Software Development</h1>
+			<br /><h2>LIMITLESS <span class="fntclorBlue">CUSTOMIZATION</span></h1>
+		</div>
+		<div class="container clearfix center"> 
+			
+
+	<div class="container clearfix"> 
+		
+				<div class="col_one_third " style="background-color:#FFF; padding:10px 15px 35px 15px;">
+	                <div class="feature-box center  media-box ">
+	                    
+							 <div class="sectionIconBox">
+	                                                        
+	                            <img src="/assets/image/image/dwf-blue.png" alt="DWF" />
+	                        </div>
+						
+	                    <div class="fbox-desc">
+	                        <p style="margin-bottom:30px;min-height:170px"><span class="subtitle" style="color:#555555;font-size:14px;font-family:Open Sans;">All our solutions are based upon a powerful, flexible and  scalable technology platform, Dynamic Works Framework (DWF)
+</span></p>
+	                        <p><a href="/technology/dwf"  class="btn btn-primary-light">Read More</a></p>
+	                    </div>
+	                </div>
+	            </div>
+			
+				<div class="col_one_third " style="background-color:#FFF; padding:10px 15px 35px 15px;">
+	                <div class="feature-box center  media-box ">
+	                    
+							 <div class="sectionIconBox">
+	                                                        
+	                            <img src="/assets/image/image/dwcms-blue.png" alt="DWCMS" />
+	                        </div>
+						
+	                    <div class="fbox-desc">
+	                        <p style="margin-bottom:30px;min-height:170px"><span class="subtitle" style="color:#555555;font-size:14px;font-family:Open Sans;">DWCMS is a powerful Web Content Management System. Manage your content across your Website, Mobile App, Intranet, Extranet or Portal
+</span></p>
+	                        <p><a href="/technology/web-content-management"  class="btn btn-primary-light">Read More</a></p>
+	                    </div>
+	                </div>
+	            </div>
+			
+				<div class="col_one_third  col_last" style="background-color:#FFF; padding:10px 15px 35px 15px;">
+	                <div class="feature-box center  media-box ">
+	                    
+							 <div class="sectionIconBox">
+	                                                        
+	                            <img src="/assets/image/image/dwcrm-blue.png" alt="DWCRM" />
+	                        </div>
+						
+	                    <div class="fbox-desc">
+	                        <p style="margin-bottom:30px;min-height:170px"><span class="subtitle" style="color:#555555;font-size:14px;font-family:Open Sans;">DWCRM allows you to transform raw data into meaningful and valuable information which is critical to the growth of your business
+</span></p>
+	                        <p><a href="/technology/crm"  class="btn btn-primary-light">Read More</a></p>
+	                    </div>
+	                </div>
+	            </div>
+			 
+	</div>
+			
+		</div>
+    </div>
+	
+		
+		<div class="clear" style="padding-bottom:60px;"></div>
+		<div class="section parallax nomargin notopborder" style="background: url('/assets/image/imageSplash/products_bg_image.png') center center; background-color:#fff;  background-size:cover; padding: 0px 0 50px 0;" data-stellar-background-ratio="1">
+		
+			<div class="heading-block center" style="padding-top:30px;">
+	            <h2>our SPECIALIZED Products.</h2>
+	            <span>ALTERNATIVE TO TAILOR-MADE SOLUTIONS DYNAMIC WORKS OFFERS SPECIALIZED SOFTWARE AS A SERVICE (SAAS) PRODUCTS
+</span>
+	        </div>		 
+			<div class="container clearfix">				
+				
+					<div class="col_one_third ">
+		                <div class="feature-box center media-box">
+		                    <a href="http://www.xselio.com" target=xSELIO>
+			                    												
+			                        <div class="sectionIconBox">
+			                            <img src="/assets/image/image/ic-xselio.png" alt="xSelio Commerce" />                            
+			                        </div>
+								
+								<h3>xSelio Commerce<span class="subtitle">Get your eShop within minutes...</span></h3>
+							</a> 
+		                </div>
+		            </div>
+				
+					<div class="col_one_third ">
+		                <div class="feature-box center media-box">
+		                    <a href="http://www.mandoapps.com" target=MANDO>
+			                    												
+			                        <div class="sectionIconBox">
+			                            <img src="/assets/image/image/ic-mando.png" alt="Mando Apps" />                            
+			                        </div>
+								
+								<h3>Mando Apps<span class="subtitle">Your Mobile Ordering App in No Time</span></h3>
+							</a> 
+		                </div>
+		            </div>
+				
+					<div class="col_one_third  col_last">
+		                <div class="feature-box center media-box">
+		                    <a href="http://www.syntellicore.com" target=SYNTELLICORE>
+			                    												
+			                        <div class="sectionIconBox">
+			                            <img src="/assets/image/image/ic-syntellicore.png" alt="Syntellicore" />                            
+			                        </div>
+								
+								<h3>Syntellicore<span class="subtitle">Forex CRM | Traders Room | Website</span></h3>
+							</a> 
+		                </div>
+		            </div>
+				
+			</div>
+		</div> 
+		<div class="clear" style="padding-bottom:60px;"></div>
+	
+			
+			 
+			<div class="slide clearfix" id="slide5" data-slide="5" data-stellar-background-ratio="0.5">
+				<div class="meet-team clearfix">
+					<div class="container clearfix">
+						<div class="meet-leftcnt">
+							<div class="meetTxt">MEET OUR <span>PEOPLE</span> </div>
+							<div class="successtxt">... THE <span class="drivingforceTxt">DRIVING FORCE</span> BEHIND OUR <span class="fntclorBlue">SUCCESS</span></div>
+							
+							 
+								<h3> A team of talented web designers, web developers, software developers, mobile application developers and a team of leaders that is second-to-none.</h3> 
+</h3>						 
+							<div class="clear">&nbsp;</div>
+							<div class="viewall2"><p><a href="/dynamic-works-cyprus/people/meettheteam" title="" class="active">MEET THE DYNAMIC WORKS TEAM</a></p>
+							<div class="clear">&nbsp;</div>
+							</div>
+						</div>
+						<div class="meet-rightcnt">
+							<a href="javascript:void(0);" title="">
+								<img src="/images/people_image.png" alt="Cyprus Web Developers and Web Designers" />
+							</a>
+						</div>
+					</div>
+				</div>
+			</div>
+	
+			<div class="slide" id="slide6" data-slide="6" data-stellar-background-ratio="0.5">
+				<div id="contact-project" class="clearfix slidepadding5">
+					<div class="project clearfix">
+						<div class="fright">
+							<h2><span>IN NEED OF A&nbsp;</span>WEB DESIGN, CRM, SOFTWARE DEVELOPMENT or MOBILE APP PROJECT?</h2>
+						</div>
+						<div class="fright calldrop clearfix">
+							<div class="givecall">
+								<p>Give us a call</p>
+								<p class="lheight10">+357 22427900</p>
+							</div>
+							<div class="dropmail">
+								<p>Get in touch with us</p>
+								<a href="/dynamic-works-cyprus/contact-web/live-demo-request/" class="button button-border button-rounded">Schedule a Demo</a>
+							</div>
+						</div>
+						<div class="clear">&nbsp;</div>
+						<div class="project-bottom fright clearfix">
+							<div class="or">or</div>
+							<div class="newproject"><a href="/solutions"><b>START YOUR PROJECT</b></a></div>
+						</div>
+					</div>
+				</div>
+			</div>
+        </section><!-- #content end -->
+		
+
+	
+	
+        <footer id="footer" class="light">
+
+            <div class="container"> 
+
+                <!-- Footer Widgets
+                ============================================= -->
+                <div class="footer-widgets-wrap clearfix">
+
+                    <div class="col_two_third">
+
+                        <div class="col_one_third">
+
+                            <div class="widget clearfix">							
+                                <h3><i>Integrated</i>, <i>Creative</i> &amp; <i>Intelligent</i> Web Design, Mobile Applications, CRM and Software Development.</h3>
+
+                                <div style="background: url('images/world-map.png') no-repeat center center; background-size: 100%;">
+                                   <abbr title="PHeadquarters"><strong>Headquarters:</strong>
+								   <address>
+                                        1, Diogenous Street <br />
+										Block A - 5th Floor <br />
+                                        Engomi 2404 - <strong>Nicosia - Cyprus</strong> <br />
+										<i class="fa fa-map-marker"></i> <a href="/dynamic-works-cyprus/contact-web" titl="Dynamic Works Nicosia">See the map</a> <br />
+										<a href="/dynamic-works-cyprus/contact-web" title="More Office Locations - Limassol - Nicosia - UK]">More Office Locations</a>										
+                                   </address>
+                                   <abbr title="Phone Number"><strong>Phone: </strong></abbr> (357) 22427900<br>
+                                   <abbr title="Fax"><strong>Fax: </strong></abbr> (357) 22426010<br>
+                                   <abbr title="Email Address"><strong>Email: </strong></abbr> <a href="/dynamic-works-cyprus/contact-web" title="Contact Dynamic Works">Contact Form</a>								
+                            	</div>
+                            </div>
+
+                        </div>
+
+                        <div class="col_one_third">
+
+                            <div class="widget widget_links clearfix">
+
+                                <h4>Find out more</h4>
+								
+                                <ul>
+                                    
+										
+										<li><a href="/news" title="Our News">Our News</a></li>
+									
+										
+										<li><a href="/dynamic-works-cyprus/careers" title="Careers">Careers</a></li>
+									
+										
+										<li><a href="/blog" title="Blog">Blog</a></li>
+									
+										
+										<li><a href="/dynamic-works-cyprus/contact-web" title="Contact DW">Contact DW</a></li>
+									
+										
+										<li><a href="/partners" title="Partners">Partners</a></li>
+									
+										
+										<li><a href="/forex-crm-traders-room" title="Forex Solutions">Forex Solutions</a></li>
+									
+										
+										<li><a href="/privacy-policy" title="Privacy Policy">Privacy Policy</a></li>
+									
+                                </ul>
+
+                            </div>
+
+                        </div>
+
+                        <div class="col_one_third col_last">	
+							<div class="widget widget_links clearfix">												 
+	                            <h4>Expertise</h4> 		                             	                              
+ 								<ul>
+                                    
+										<li><a href="/solutions/expertise/web-design-development" title="Web Design / CMS">Web Design / CMS</a></li>
+									
+										<li><a href="/solutions/expertise/ecommerce-integrated-crm" title="eCommerce - eCommerce Platform - eShop Development Cyprus">eCommerce Design and Development</a></li>
+									
+										<li><a href="/solutions/expertise/mobile-applications" title="Mobile Apps">Mobile Apps</a></li>
+									
+										<li><a href="/forex-crm-traders-room" title="Forex Solutions">Forex Solutions</a></li>
+									
+                                </ul>                            
+							</div>
+                        </div>
+                    </div>
+
+                    <div class="col_one_third col_last">
+
+                       
+						
+                        <div class="widget subscribe-widget clearfix">
+                           <h3><strong>Subscribe</strong> to Our Newsletter</h3>
+						   <p>Be informed about Important Web Design, Web Development, Mobile Application Development, CRM and Software News, Tips and Advise that will help you improve your Customer Experience:</p>
+                            <div id="widget-subscribe-form-result" data-notify-type="success" data-notify-msg=""></div>
+                            <form id="widget-subscribe-form" action="/easyconsole.cfm/page/confirm_nl_sub" method="post" class="nobottommargin">
+                                <div class="input-group divcenter">
+                                    <span class="input-group-addon"><i class="icon-email2"></i></span>
+                                    <input type="email" id="widget-subscribe-form-email" name="nl_email" class="form-control required email" placeholder="Enter your Email">
+                                    <span class="input-group-btn">
+                                        <button class="btn btn-success" type="submit">Subscribe</button>
+                                    </span>
+                                </div>
+                            </form>
+                            <script type="496a41006cfce341f00a9112-text/javascript">
+                                $("#widget-subscribe-form").validate({
+                                    submitHandler: function(form) {
+                                        $(form).find('.input-group-addon').find('.icon-email2').removeClass('icon-email2').addClass('icon-line-loader icon-spin');
+                                        $(form).ajaxSubmit({
+                                            target: '#widget-subscribe-form-result',
+                                            success: function() {
+                                                $(form).find('.input-group-addon').find('.icon-line-loader').removeClass('icon-line-loader icon-spin').addClass('icon-email2');
+                                                $('#widget-subscribe-form').find('.form-control').val('');
+                                                $('#widget-subscribe-form-result').attr('data-notify-msg', $('#widget-subscribe-form-result').html()).html('');
+                                                SEMICOLON.widget.notifications($('#widget-subscribe-form-result'));
+                                            }
+                                        });
+                                    }
+                                });
+                            </script>
+                        </div>
+
+                        <div class="widget clearfix" style="margin-bottom: -20px;">
+                            <div class="row">
+                                <div class="col-md-6 clearfix bottommargin-sm">
+									<a href="http://www.facebook.com/dw.dynamicworks" target="_blank" class="social-icon si-dark si-colored si-facebook nobottommargin" style="margin-right: 10px;">
+                                        <i class="icon-facebook"></i>
+                                        <i class="icon-facebook"></i>
+                                    </a>
+                                    <small style="display: block; margin-top: 3px;"><strong>Like us</strong><br>on Facebook</small>									
+                               </div>
+                               <div class="col-md-6 clearfix">
+                               		<a href="https://plus.google.com/+DynamicworksEurope" target="_blank" class="social-icon si-dark si-colored si-google nobottommargin" style="margin-right: 10px;"> 
+										<i class="icon-google"></i>
+                                        <i class="icon-google"></i>
+									</a>
+									<small style="display: block; margin-top: 3px;"><strong>We are</strong><br>on Google+</small>							
+                            	</div>
+                            </div>
+                        </div>
+                    </div>
+                </div><!-- .footer-widgets-wrap end -->
+            </div>
+
+            <!-- Copyrights
+            ============================================= -->
+            <div id="copyrights">
+
+                <div class="container clearfix">
+                    <div class="col_half">
+                        Copyrights &copy; 2003-2018 All Rights Reserved by DW Dynamic Works Ltd.<br>
+                       
+                    </div>
+					                 
+                    <div class="col_half col_last tright">
+                        <div class="fright clearfix">
+                        	
+                        </div>
+                        
+                        <div class="clear"></div>
+                       <i></i> <a href="/privacy-policy" title="Read Dynamic Works<sup>TM</sup> - Privacy Policy">Privacy Policy</a>
+                        <i class="icon-envelope2"></i> <a href="/dynamic-works-cyprus/contact-web" title="Contact Dynamic Works<sup>TM</sup> - Cyprus Web Design">Contact us</a> <span class="middot">&middot;</span> <i class="icon-line2-globe"></i> <a href="/technology/web-content-management" title="DWCMS Web Content Management">Powered by DWCMS</a>  
+                    </div>
+                </div>
+
+            </div><!-- #copyrights end -->
+
+        </footer><!-- #footer end -->
+
+    </div><!-- #wrapper end -->
+
+    <!-- Go To Top
+    ============================================= -->
+    <div id="gotoTop" class="icon-angle-up"></div>
+
+    <!-- Footer Scripts
+    ============================================= -->
+    <script type="496a41006cfce341f00a9112-text/javascript" src="/js/functions.js"></script>
+	
+
+   
+
+<script src="https://ajax.cloudflare.com/cdn-cgi/scripts/5ad2c803/cloudflare-static/rocket-loader.min.js" data-cf-nonce="496a41006cfce341f00a9112-" defer=""></script></body>
+</html> 
+

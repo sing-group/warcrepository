@@ -1,0 +1,41 @@
+WARC/1.0
+WARC-Type: warcinfo
+WARC-Date: 2018-05-30T17:52:30Z
+WARC-All-Language: de
+WARC-All-Content_type: text/html
+WARC-Record-ID: <urn:uuid:938d451b-faef-450c-ad47-b4ea183656ae>
+Content-Type: application/http;msgtype=response
+Content-Length: 46
+
+WARCProcessor by SING Group www.sing-group.com
+
+WARC/1.0
+WARC-Type: response
+WARC-Target-URI: http://www.gfors.eu
+WARC-Date: 20180530175230
+WARC-Language: de
+WARC-Record-ID: <http://www.gfors.eu>
+Content-Type: application/http;msgtype=response
+Content-Length: 825
+
+HTTP/1.1 200
+Content-Type:text/html
+
+
+<html>
+<head>
+<link rel="shortcut icon" href="http://www.hannover.de/favicon.ico" type="image/x-icon">
+<META NAME="keywords" CONTENT=", Hannover, Online, Hanover, Landeshauptstadt, Region, Veranstaltungen, Behördenführer, Marktplatz, Unterkunft, Hotels, e-Government">
+<META NAME="description" content="Die offiziellen Seiten der Stadt bieten umfassende Informationen für Bürger und Besucher. Mit Suchfunktionen und Datenbanken für viele Bereiche.">
+<META NAME="Copyright" CONTENT="hannover.de Internet GmbH">
+<META NAME="Author" CONTENT="hannover.de Internet GmbH">
+<META NAME="Robots" CONTENT="index,follow">
+<title>landeshauptstadt-hannover.de</title>
+</head>
+
+<frameset rows="0" border="0" frameborder="0">
+	<frame name="1" src="http://www.hannover.de">
+</frameset>
+</html>
+
+

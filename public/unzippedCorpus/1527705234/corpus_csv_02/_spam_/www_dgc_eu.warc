@@ -1,0 +1,881 @@
+WARC/1.0
+WARC-Type: warcinfo
+WARC-Date: 2018-05-30T17:52:31Z
+WARC-All-Language: en
+WARC-All-Content_type: text/html; charset=utf-8
+WARC-Record-ID: <urn:uuid:2789760c-4c52-49ac-92f5-3cbcfffb972d>
+Content-Type: application/http;msgtype=response
+Content-Length: 46
+
+WARCProcessor by SING Group www.sing-group.com
+
+WARC/1.0
+WARC-Type: response
+WARC-Target-URI: http://www.dgc.eu
+WARC-Date: 20180530175231
+WARC-Language: en
+WARC-Record-ID: <http://www.dgc.eu>
+Content-Type: application/http;msgtype=response
+Content-Length: 26801
+
+HTTP/1.1 200
+Content-Type:text/html; charset=utf-8
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+  <title>Frontpage | Danish Gas  Technology Centre</title>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="shortcut icon" href="/sites/default/files/acquia_marina_favicon.ico" type="image/x-icon" />
+<meta name="description" content="DGC is a specialized consulting and development company within energy and environment. DGC's main focus area is gas utilization. DGC offers consulting services, research and development, laboratory testing, measurement, demonstration projects, and training." />
+<meta name="keywords" content="DGC,Gas,energy and environment,services,laboratory testing,demonstration projects,training" />
+<link rel="canonical" href="http://www.dgc.eu/" />
+<meta name="revisit-after" content="1 day" />
+  <link type="text/css" rel="stylesheet" media="all" href="/modules/cck-6.x-2.9/cck/theme/content-module.css?l" />
+<link type="text/css" rel="stylesheet" media="all" href="/modules/ckeditor-6.x-1.15/ckeditor/ckeditor.css?l" />
+<link type="text/css" rel="stylesheet" media="all" href="/modules/ctools-6.x-1.11/ctools/css/ctools.css?l" />
+<link type="text/css" rel="stylesheet" media="all" href="/modules/date-6.x-2.8/date/date.css?l" />
+<link type="text/css" rel="stylesheet" media="all" href="/modules/eu-cookie-compliance-6.x-1.8/eu-cookie-compliance/css/eu_cookie_compliance.css?l" />
+<link type="text/css" rel="stylesheet" media="all" href="/modules/filefield-6.x-3.13/filefield/filefield.css?l" />
+<link type="text/css" rel="stylesheet" media="all" href="/modules/node/node.css?l" />
+<link type="text/css" rel="stylesheet" media="all" href="/modules/system/defaults.css?l" />
+<link type="text/css" rel="stylesheet" media="all" href="/modules/system/system.css?l" />
+<link type="text/css" rel="stylesheet" media="all" href="/modules/system/system-menus.css?l" />
+<link type="text/css" rel="stylesheet" media="all" href="/modules/user/user.css?l" />
+<link type="text/css" rel="stylesheet" media="all" href="/modules/cck-6.x-2.9/cck/modules/fieldgroup/fieldgroup.css?l" />
+<link type="text/css" rel="stylesheet" media="all" href="/modules/views-6.x-2.16/views/css/views.css?l" />
+<link type="text/css" rel="stylesheet" media="all" href="/modules/custom_search-6.x-1.13/custom_search/custom_search.css?l" />
+<link type="text/css" rel="stylesheet" media="all" href="/sites/default/files/fontyourface/local_fonts/Morgan-normal-normal/stylesheet.css?l" />
+<link type="text/css" rel="stylesheet" media="all" href="/sites/default/files/fontyourface/local_fonts/Morganbold-normal-bold/stylesheet.css?l" />
+<link type="text/css" rel="stylesheet" media="all" href="/themes/fusion-6.x-1.12/fusion/fusion_core/css/style.css?l" />
+<link type="text/css" rel="stylesheet" media="all" href="/themes/fusion-6.x-1.12/fusion/fusion_core/css/typography.css?l" />
+<link type="text/css" rel="stylesheet" media="all" href="/themes/fusion-6.x-1.12/fusion/fusion_core/css/superfish.css?l" />
+<link type="text/css" rel="stylesheet" media="all" href="/themes/fusion-6.x-1.12/fusion/fusion_core/css/superfish-navbar.css?l" />
+<link type="text/css" rel="stylesheet" media="all" href="/themes/fusion-6.x-1.12/fusion/fusion_core/css/superfish-vertical.css?l" />
+<link type="text/css" rel="stylesheet" media="all" href="/themes/acquia_marina-6.x-3.1/acquia_marina/css/fusion-acquia-marina-style.css?l" />
+  <link type="text/css" rel="stylesheet" media="all" href="/themes/fusion-6.x-1.12/fusion/fusion_core/css/grid16-960.css?l"/>
+  <!--[if IE 8]>
+  <link type="text/css" rel="stylesheet" media="all" href="/themes/fusion-6.x-1.12/fusion/fusion_core/css/ie8-fixes.css?l" />
+<link type="text/css" rel="stylesheet" media="all" href="/themes/acquia_marina-6.x-3.1/acquia_marina/css/ie8-fixes.css?l" />
+  <![endif]-->
+  <!--[if IE 7]>
+  <link type="text/css" rel="stylesheet" media="all" href="/themes/fusion-6.x-1.12/fusion/fusion_core/css/ie7-fixes.css?l" />
+<link type="text/css" rel="stylesheet" media="all" href="/themes/acquia_marina-6.x-3.1/acquia_marina/css/ie7-fixes.css?l" />
+  <![endif]-->
+  <!--[if lte IE 6]>
+  <link type="text/css" rel="stylesheet" media="all" href="/themes/fusion-6.x-1.12/fusion/fusion_core/css/ie6-fixes.css?l"/>
+<link type="text/css" rel="stylesheet" media="all" href="/themes/acquia_marina-6.x-3.1/acquia_marina/css/ie6-fixes.css?l"/>
+  <![endif]-->
+    <script type="text/javascript" src="/misc/jquery.js?l"></script>
+<script type="text/javascript" src="/misc/drupal.js?l"></script>
+<script type="text/javascript" src="/modules/google_analytics-6.x-3.3/google_analytics/googleanalytics.js?l"></script>
+<script type="text/javascript" src="/modules/poormanscron-6.x-2.2/poormanscron/poormanscron.js?l"></script>
+<script type="text/javascript" src="/modules/custom_search-6.x-1.13/custom_search/js/custom_search.js?l"></script>
+<script type="text/javascript" src="/themes/fusion-6.x-1.12/fusion/fusion_core/js/jquery.bgiframe.min.js?l"></script>
+<script type="text/javascript" src="/themes/fusion-6.x-1.12/fusion/fusion_core/js/hoverIntent.js?l"></script>
+<script type="text/javascript" src="/themes/fusion-6.x-1.12/fusion/fusion_core/js/supposition.js?l"></script>
+<script type="text/javascript" src="/themes/fusion-6.x-1.12/fusion/fusion_core/js/supersubs.js?l"></script>
+<script type="text/javascript" src="/themes/fusion-6.x-1.12/fusion/fusion_core/js/superfish.js?l"></script>
+<script type="text/javascript" src="/themes/fusion-6.x-1.12/fusion/fusion_core/js/script.js?l"></script>
+<script type="text/javascript" src="/themes/acquia_marina-6.x-3.1/acquia_marina/js/jquery.corner.js?l"></script>
+<script type="text/javascript" src="/themes/acquia_marina-6.x-3.1/acquia_marina/js/acquia-marina-script.js?l"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, { "basePath": "/", "googleanalytics": { "trackOutgoing": 1, "trackMailto": 1, "trackDownload": 1, "trackDownloadExtensions": "7z|aac|arc|arj|asf|asx|avi|bin|csv|doc|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls|xml|z|zip" }, "cron": { "basePath": "/poormanscron", "runNext": 1527689573 }, "custom_search": { "form_target": "_self", "solr": 0 } });
+//--><!]]>
+</script>
+</head>
+
+<body id="pid-frontpage" class="front not-logged-in page-node node-type-frontpage no-sidebars full-node layout-main sidebars-split font-size-12 grid-type-960 grid-width-16">
+  <div id="page" class="page">
+    <div id="page-inner" class="page-inner">
+      <div id="skip">
+        <a href="#main-content-area">Skip to Main Content Area</a>
+      </div>
+
+      <!-- header-top row: width = grid_width -->
+      
+      <!-- header-group row: width = grid_width -->
+      <div id="header-group-wrapper" class="header-group-wrapper full-width">
+        <div id="header-group" class="header-group row grid16-16">
+          <div id="header-group-inner" class="header-group-inner inner clearfix">
+                        <div id="header-group-inner-top" class="clearfix">
+                          </div>
+                                    <div id="header-group-inner-inner" class="clearfix">
+                            <div id="header-site-info" class="header-site-info block">
+                <div id="header-site-info-inner" class="header-site-info-inner inner">
+                                    <div id="logo">
+                    <a href="/" title="Home"><img src="/sites/default/files/acquia_marina_logo.png" alt="Home" /></a>
+                  </div>
+                                                    </div><!-- /header-site-info-inner -->
+              </div><!-- /header-site-info -->
+                            
+<div id="block-block-3" class="block block-block odd first last  grid16-16">
+  <div class="inner">
+    <div class="corner-top"><div class="corner-top-right corner"></div><div class="corner-top-left corner"></div></div>
+      	<div class="inner-wrapper">
+      <div class="inner-inner">
+                <div class="content clearfix">
+          <div id="ikonerbund">
+	<a href="/contact">Contact</a></div>
+<div id="ikonerbund">
+	<a href="http://www.dgc.dk/">Danish</a></div>
+        </div>
+      </div><!-- /inner-inner -->
+	  </div><!-- /inner-wrapper -->
+    <div class="corner-bottom"><div class="corner-bottom-right corner"></div><div class="corner-bottom-left corner"></div></div>
+  </div><!-- /inner -->
+</div><!-- /block -->            </div>
+                        <div id="primary-menu" class="primary-menu block">
+<div id="primary-menu-inner" class="primary-menu-inner inner clearfix">
+<ul class="menu"><li class="menu-413 first"><a href="/work-areas" title="Work areas">Work areas</a></li>
+<li class="menu-414"><a href="/services" title="Services">Services</a></li>
+<li class="menu-415"><a href="/publications" title="Publications">Publications</a></li>
+<li class="menu-416 last"><a href="/about-dgc" title="About DGC">About DGC</a></li>
+</ul></div><!-- /primary-menu-inner -->
+</div><!-- /primary-menu -->
+			
+          </div><!-- /header-group-inner -->
+        </div><!-- /header-group -->
+      </div><!-- /header-group-wrapper -->
+
+      <!-- preface-top row: width = grid_width -->
+      <div id="preface-top-wrapper" class="preface-top-wrapper full-width">
+<div id="preface-top" class="preface-top row grid16-16">
+<div id="preface-top-inner" class="preface-top-inner inner clearfix">
+
+<div id="block-search-0" class="block block-search odd first last  grid16-16">
+  <div class="inner">
+    <div class="corner-top"><div class="corner-top-right corner"></div><div class="corner-top-left corner"></div></div>
+      	<div class="inner-wrapper">
+      <div class="inner-inner">
+                <div class="content clearfix">
+          <form action="/"  accept-charset="UTF-8" method="post" id="search-block-form" class="search-form">
+<div><div class="container-inline">
+  <div class="form-item" id="edit-search-block-form-1-wrapper">
+ <input type="text" maxlength="100" name="search_block_form" id="edit-search-block-form-1" size="18" value="" title="Enter the terms you wish to search for." class="form-text  custom-search-default-value custom-search-box" />
+</div>
+<fieldset class="custom_search-popup"></fieldset>
+<input type="submit" name="op" id="edit-submit" value="Search"  class="form-submit" />
+<input type="hidden" name="form_build_id" id="form-v0b1CETmzjOISg9O9bfT5BwELLsNhpJ-5hndLDfoXmg" value="form-v0b1CETmzjOISg9O9bfT5BwELLsNhpJ-5hndLDfoXmg"  />
+<input type="hidden" name="form_id" id="edit-search-block-form" value="search_block_form"  />
+<input type="hidden" name="default_text" id="edit-default-text" value=""  class="default-text" />
+</div>
+
+</div></form>
+        </div>
+      </div><!-- /inner-inner -->
+	  </div><!-- /inner-wrapper -->
+    <div class="corner-bottom"><div class="corner-bottom-right corner"></div><div class="corner-bottom-left corner"></div></div>
+  </div><!-- /inner -->
+</div><!-- /block --></div><!-- /preface-top-inner -->
+</div><!-- /preface-top -->
+</div><!-- /preface-top-wrapper -->
+  
+      
+    <!-- main row: width = grid_width -->
+    <div id="main-wrapper" class="main-wrapper full-width">
+      <div id="main" class="main row grid16-16">
+        <div id="main-inner" class="main-inner inner clearfix">
+          
+          <!-- main group: width = grid_width - sidebar_first_width -->
+          <div id="main-group" class="main-group row nested grid16-16">
+            <div id="main-group-inner" class="main-group-inner inner clearfix">
+
+              <div id="main-content" class="main-content row nested">
+                <div id="main-content-inner" class="main-content-inner inner clearfix">
+                  <!-- content group: width = grid_width - (sidebar_first_width + sidebar_last_width) -->
+                    <div id="content-group" class="content-group row nested grid16-16">
+                      <div id="content-group-inner" class="content-group-inner inner clearfix">
+                        
+                        <div id="content-region" class="content-region row nested">
+                          <div id="content-region-inner" class="content-region-inner inner clearfix">
+                            <a name="main-content-area" id="main-content-area"></a>
+                                                        <div id="content-inner" class="content-inner block">
+                              <div id="content-inner-inner" class="content-inner-inner inner clearfix">
+                                                                <div id="content-content" class="content-content">
+                                  
+<div id="node-1" class="node odd full-node node-type-frontpage">
+  <div class="inner">
+    
+    
+    
+    
+    <div class="content clearfix">
+          </div>
+
+    
+      </div><!-- /inner -->
+
+  </div><!-- /node-1 -->
+
+<div id="block-block-7" class="block block-block odd first last  grid16-16">
+  <div class="inner">
+    <div class="corner-top"><div class="corner-top-right corner"></div><div class="corner-top-left corner"></div></div>
+      	<div class="inner-wrapper">
+      <div class="inner-inner">
+                <div class="content clearfix">
+          <div id="forside">
+	<a href="/sites/default/files/filarkiv/lab.jpg"><img alt="Danish Gas Technology Centre" src="/sites/default/files/filarkiv/lab.jpg" style="width: 960px; height: 258px;" /></a> <img alt="" src="/sites/default/files/filarkiv/icons/stiplet_linje_forside3.gif" style="width: 960px; height: 48px;" /></div>
+        </div>
+      </div><!-- /inner-inner -->
+	  </div><!-- /inner-wrapper -->
+    <div class="corner-bottom"><div class="corner-bottom-right corner"></div><div class="corner-bottom-left corner"></div></div>
+  </div><!-- /inner -->
+</div><!-- /block -->                                                                  </div><!-- /content-content -->
+                                                              </div><!-- /content-inner-inner -->
+                            </div><!-- /content-inner -->
+                          </div><!-- /content-region-inner -->
+                        </div><!-- /content-region -->
+
+                      </div><!-- /content-group-inner -->
+                    </div><!-- /content-group -->
+
+                    				                    </div><!-- /main-content-inner -->
+
+                </div><!-- /main-content -->
+
+                              </div><!-- /main-group-inner -->
+            </div><!-- /main-group -->
+          </div><!-- /main-inner -->
+        </div><!-- /main -->
+      </div><!-- /main-wrapper -->
+
+      <!-- postscript-bottom row: width = grid_width -->
+      <div id="postscript-bottom-wrapper" class="postscript-bottom-wrapper full-width">
+<div id="postscript-bottom" class="postscript-bottom row grid16-16">
+<div id="postscript-bottom-inner" class="postscript-bottom-inner inner clearfix">
+
+<div id="block-block-4" class="block block-block odd first  grid16-4">
+  <div class="inner">
+    <div class="corner-top"><div class="corner-top-right corner"></div><div class="corner-top-left corner"></div></div>
+      	<div class="inner-wrapper">
+      <div class="inner-inner">
+                <div class="content clearfix">
+          <p><img alt="" src="/sites/default/files/filarkiv/icons/billede1.jpg" style="width: 176px; height: 362px; " /></p>
+        </div>
+      </div><!-- /inner-inner -->
+	  </div><!-- /inner-wrapper -->
+    <div class="corner-bottom"><div class="corner-bottom-right corner"></div><div class="corner-bottom-left corner"></div></div>
+  </div><!-- /inner -->
+</div><!-- /block -->
+<div id="block-block-5" class="block block-block even   grid16-4">
+  <div class="inner">
+    <div class="corner-top"><div class="corner-top-right corner"></div><div class="corner-top-left corner"></div></div>
+      	<div class="inner-wrapper">
+      <div class="inner-inner">
+                <div class="content clearfix">
+          <p><a href="http://www.boilerinfo.eu/app/index?lang=en" target="_blank"><img alt="" src="/sites/default/files/filarkiv/icons/billede2.jpg" style="width: 164px; height: 170px; " /></a><br />
+<a href="http://www.gasbiler.info/en/filling-stations" target="_blank"><img alt="Filling stations" src="/sites/default/files/filarkiv/photos/filling_stations3.jpg" style="width: 164px; height: 192px;" /></a></p>
+        </div>
+      </div><!-- /inner-inner -->
+	  </div><!-- /inner-wrapper -->
+    <div class="corner-bottom"><div class="corner-bottom-right corner"></div><div class="corner-bottom-left corner"></div></div>
+  </div><!-- /inner -->
+</div><!-- /block -->
+<div id="block-block-6" class="block block-block odd   grid16-4">
+  <div class="inner">
+    <div class="corner-top"><div class="corner-top-right corner"></div><div class="corner-top-left corner"></div></div>
+      	<div class="inner-wrapper">
+      <div class="inner-inner">
+                <div class="content clearfix">
+          <div>
+	<a href="/gas-quality">Gas quality</a><br />
+	A joint study establishes how existing gas appliances in the European market will react to varying gas qualities. <a href="/gas-quality">Read more</a><br />
+	&nbsp;</div>
+<div>
+	<a href="/gas-and-renewables">Gas and renewables</a></div>
+<div>
+	DGC is involved in combining gas and renewable energy as an important part of our strategy for Sustainable Gas Technology. This includes both heat pumps and micro CHP. <a href="/gas-and-renewables">Read more</a><br />
+	&nbsp;</div>
+<div>
+	<a href="/international-gas-union-research-conference">International Gas Union Research Conference&nbsp;</a></div>
+<div>
+	IGRC2014- was held in Copenhagen, Denmark 17-19 September 2014. IGRC is the globally most recognised gas research conference. <a href="/international-gas-union-research-conference">Read more</a></div>
+<p></p>
+        </div>
+      </div><!-- /inner-inner -->
+	  </div><!-- /inner-wrapper -->
+    <div class="corner-bottom"><div class="corner-bottom-right corner"></div><div class="corner-bottom-left corner"></div></div>
+  </div><!-- /inner -->
+</div><!-- /block -->
+<div id="block-views-workareasfront-block_1" class="block block-views even  last  grid16-4">
+  <div class="inner">
+    <div class="corner-top"><div class="corner-top-right corner"></div><div class="corner-top-left corner"></div></div>
+      	<div class="inner-wrapper">
+      <div class="inner-inner">
+                <div class="content clearfix">
+          <div class="view view-workareasfront view-id-workareasfront view-display-id-block_1 view-dom-id-1">
+    
+  
+  
+      <div class="view-content">
+        <div class="views-row views-row-1 views-row-odd views-row-first">
+      
+  <div class="views-field-field-iconwork-fid">
+                <span class="field-content"><img  class="imagefield imagefield-field_iconwork" width="140" height="52" alt="" src="http://www.dgc.eu/sites/default/files/forside1.jpg?1327067238" /></span>
+  </div>
+  
+  <div class="views-field-field-link-url">
+                <span class="field-content"><a href="/domestic-use-natural-gas">Domestic use of natural gas</a></span>
+  </div>
+  
+  <div class="views-field-field-intro-value">
+                <span class="field-content">Consultancy and testing within domestic gas installations and appliances.</span>
+  </div>
+  </div>
+  <div class="views-row views-row-2 views-row-even">
+      
+  <div class="views-field-field-iconwork-fid">
+                <span class="field-content"><img  class="imagefield imagefield-field_iconwork" width="140" height="52" alt="" src="http://www.dgc.eu/sites/default/files/forside2.jpg?1327067607" /></span>
+  </div>
+  
+  <div class="views-field-field-link-url">
+                <span class="field-content"><a href="/cogeneration-industry">Cogeneration &amp; industry </a></span>
+  </div>
+  
+  <div class="views-field-field-intro-value">
+                <span class="field-content">Services concerning gas utilization in cogeneration and industrial processes.</span>
+  </div>
+  </div>
+  <div class="views-row views-row-3 views-row-odd">
+      
+  <div class="views-field-field-iconwork-fid">
+                <span class="field-content"><img  class="imagefield imagefield-field_iconwork" width="140" height="52" alt="" src="http://www.dgc.eu/sites/default/files/forside3.jpg?1327067633" /></span>
+  </div>
+  
+  <div class="views-field-field-link-url">
+                <span class="field-content"><a href="/safety-certification">Safety &amp; certification</a></span>
+  </div>
+  
+  <div class="views-field-field-intro-value">
+                <span class="field-content">Consultancy on safety and certification of gas equipment and installations.</span>
+  </div>
+  </div>
+  <div class="views-row views-row-4 views-row-even">
+      
+  <div class="views-field-field-iconwork-fid">
+                <span class="field-content"><img  class="imagefield imagefield-field_iconwork" width="140" height="52" alt="" src="http://www.dgc.eu/sites/default/files/forside4.jpg?1327067647" /></span>
+  </div>
+  
+  <div class="views-field-field-link-url">
+                <span class="field-content"><a href="/environment-combustion">Environment &amp; combustion</a></span>
+  </div>
+  
+  <div class="views-field-field-intro-value">
+                <span class="field-content">Gas analysis, measurement of energy efficiency and emissions.</span>
+  </div>
+  </div>
+  <div class="views-row views-row-5 views-row-odd">
+      
+  <div class="views-field-field-iconwork-fid">
+                <span class="field-content"><img  class="imagefield imagefield-field_iconwork" width="140" height="52" alt="" src="http://www.dgc.eu/sites/default/files/forside5.jpg?1327067664" /></span>
+  </div>
+  
+  <div class="views-field-field-link-url">
+                <span class="field-content"><a href="/gas-pipelines">Gas pipelines</a></span>
+  </div>
+  
+  <div class="views-field-field-intro-value">
+                <span class="field-content">Consultancy on accident prevention, corrosion, odorants and maintenance.</span>
+  </div>
+  </div>
+  <div class="views-row views-row-6 views-row-even views-row-last">
+      
+  <div class="views-field-field-iconwork-fid">
+                <span class="field-content"><img  class="imagefield imagefield-field_iconwork" width="140" height="52" alt="" src="http://www.dgc.eu/sites/default/files/forside6.jpg?1327067677" /></span>
+  </div>
+  
+  <div class="views-field-field-link-url">
+                <span class="field-content"><a href="/green-gases-renewables">Green gases &amp; renewables</a></span>
+  </div>
+  
+  <div class="views-field-field-intro-value">
+                <span class="field-content">Measuring and testing natural gas in combination with renewable energy.</span>
+  </div>
+  </div>
+    </div>
+  
+  
+  
+  
+  
+  
+</div>         </div>
+      </div><!-- /inner-inner -->
+	  </div><!-- /inner-wrapper -->
+    <div class="corner-bottom"><div class="corner-bottom-right corner"></div><div class="corner-bottom-left corner"></div></div>
+  </div><!-- /inner -->
+</div><!-- /block --></div><!-- /postscript-bottom-inner -->
+</div><!-- /postscript-bottom -->
+</div><!-- /postscript-bottom-wrapper -->
+
+      <!-- footer row: width = grid_width -->
+      
+      <!-- footer-message row: width = grid_width -->
+      <div id="footer-message-wrapper" class="footer-message-wrapper full-width">
+        <div id="footer-message" class="footer-message row grid16-16">
+          <div id="footer-message-inner" class="footer-message-inner inner clearfix">
+            <div id="footer-message-text" class="footer-message-text block">
+<div id="footer-message-text-inner" class="footer-message-text-inner inner clearfix">
+Danish Gas Technology Centre<img alt="" src="/sites/default/files/filarkiv/icons/lodretstreg_0.gif" />Dr. Neergaards Vej 5B<img alt="" src="/sites/default/files/filarkiv/icons/lodretstreg_0.gif" />DK-2970 H&oslash;rsholm<img alt="" src="/sites/default/files/filarkiv/icons/lodretstreg_0.gif" />Tlf. +45 2016 9600<img alt="" src="/sites/default/files/filarkiv/icons/lodretstreg_0.gif" />dgc@dgc.dk<img alt="" src="/sites/default/files/filarkiv/icons/lodretstreg_0.gif" />webmaster@dgc.dk</div><!-- /footer-message-text-inner -->
+</div><!-- /footer-message-text -->
+          </div><!-- /footer-message-inner -->
+        </div><!-- /footer-message -->
+      </div><!-- /footer-message-wrapper -->
+
+    </div><!-- /page-inner -->
+  </div><!-- /page -->
+  <script type="text/javascript" src="/modules/eu-cookie-compliance-6.x-1.8/eu-cookie-compliance/js/eu_cookie_compliance.js?l"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, { "eu_cookie_compliance": { "popup_enabled": 1, "popup_agreed_enabled": 0, "popup_hide_agreed": 1, "popup_clicking_confirmation": 1, "popup_html_info": "\n\x3cdiv\x3e\n  \x3cdiv class =\"popup-content info\"\x3e\n    \x3cdiv id=\"popup-text\"\x3e\n      \x3cp\x3eWe use cookies on this site to enhance your user experience.\n\x3c/p\x3e\x3cp\x3eBy clicking any link on this page you are giving your consent for us to set cookies.\x3c/p\x3e\n    \x3c/div\x3e\n    \x3cdiv id=\"popup-buttons\"\x3e\n      \x3cbutton type=\"button\" class=\"agree-button\"\x3eYes, I agree\x3c/button\x3e\n      \x3cbutton type=\"button\" class=\"find-more-button\"\x3eNo, I want to find out more\x3c/button\x3e\n    \x3c/div\x3e\n  \x3c/div\x3e\n\x3c/div\x3e\n", "popup_html_agreed": "\n\x3cdiv\x3e\n  \x3cdiv class =\"popup-content agreed\"\x3e\n    \x3cdiv id=\"popup-text\"\x3e\n      \x3ch2\x3e	Thank you for accepting cookies\x3c/h2\x3e\n\x3cp\x3eYou can now hide this message or find out more about cookies.\x3c/p\x3e\n    \x3c/div\x3e\n    \x3cdiv id=\"popup-buttons\"\x3e\n      \x3cbutton type=\"button\" class=\"hide-popup-button\"\x3eHide this message \x3c/button\x3e\n      \x3cbutton type=\"button\" class=\"find-more-button\" \x3eMore information on cookies\x3c/button\x3e\n    \x3c/div\x3e\n  \x3c/div\x3e\n\x3c/div\x3e\n", "popup_height": "auto", "popup_width": "100%", "popup_delay": 1000, "popup_link": "http://www.dgc.eu/cookies", "popup_position": 0, "popup_language": "en" } });
+//--><!]]>
+</script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+var _gaq = _gaq || [];_gaq.push(["_setAccount", "UA-2391513-19"]);_gaq.push(["_trackPageview"]);(function() {var ga = document.createElement("script");ga.type = "text/javascript";ga.async = true;ga.src = ("https:" == document.location.protocol ? "https://ssl" : "http://www") + ".google-analytics.com/ga.js";var s = document.getElementsByTagName("script")[0];s.parentNode.insertBefore(ga, s);})();
+//--><!]]>
+</script>
+</body>
+</html>
+
+
+WARC/1.0
+WARC-Type: response
+WARC-Target-URI: http://www.dgc.eu
+WARC-Date: 20180530181832
+WARC-Language: en
+WARC-Record-ID: <http://www.dgc.eu>
+Content-Type: application/http;msgtype=response
+Content-Length: 26801
+
+HTTP/1.1 200
+Content-Type:text/html; charset=utf-8
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+  <title>Frontpage | Danish Gas  Technology Centre</title>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="shortcut icon" href="/sites/default/files/acquia_marina_favicon.ico" type="image/x-icon" />
+<meta name="description" content="DGC is a specialized consulting and development company within energy and environment. DGC's main focus area is gas utilization. DGC offers consulting services, research and development, laboratory testing, measurement, demonstration projects, and training." />
+<meta name="keywords" content="DGC,Gas,energy and environment,services,laboratory testing,demonstration projects,training" />
+<link rel="canonical" href="http://www.dgc.eu/" />
+<meta name="revisit-after" content="1 day" />
+  <link type="text/css" rel="stylesheet" media="all" href="/modules/cck-6.x-2.9/cck/theme/content-module.css?l" />
+<link type="text/css" rel="stylesheet" media="all" href="/modules/ckeditor-6.x-1.15/ckeditor/ckeditor.css?l" />
+<link type="text/css" rel="stylesheet" media="all" href="/modules/ctools-6.x-1.11/ctools/css/ctools.css?l" />
+<link type="text/css" rel="stylesheet" media="all" href="/modules/date-6.x-2.8/date/date.css?l" />
+<link type="text/css" rel="stylesheet" media="all" href="/modules/eu-cookie-compliance-6.x-1.8/eu-cookie-compliance/css/eu_cookie_compliance.css?l" />
+<link type="text/css" rel="stylesheet" media="all" href="/modules/filefield-6.x-3.13/filefield/filefield.css?l" />
+<link type="text/css" rel="stylesheet" media="all" href="/modules/node/node.css?l" />
+<link type="text/css" rel="stylesheet" media="all" href="/modules/system/defaults.css?l" />
+<link type="text/css" rel="stylesheet" media="all" href="/modules/system/system.css?l" />
+<link type="text/css" rel="stylesheet" media="all" href="/modules/system/system-menus.css?l" />
+<link type="text/css" rel="stylesheet" media="all" href="/modules/user/user.css?l" />
+<link type="text/css" rel="stylesheet" media="all" href="/modules/cck-6.x-2.9/cck/modules/fieldgroup/fieldgroup.css?l" />
+<link type="text/css" rel="stylesheet" media="all" href="/modules/views-6.x-2.16/views/css/views.css?l" />
+<link type="text/css" rel="stylesheet" media="all" href="/modules/custom_search-6.x-1.13/custom_search/custom_search.css?l" />
+<link type="text/css" rel="stylesheet" media="all" href="/sites/default/files/fontyourface/local_fonts/Morgan-normal-normal/stylesheet.css?l" />
+<link type="text/css" rel="stylesheet" media="all" href="/sites/default/files/fontyourface/local_fonts/Morganbold-normal-bold/stylesheet.css?l" />
+<link type="text/css" rel="stylesheet" media="all" href="/themes/fusion-6.x-1.12/fusion/fusion_core/css/style.css?l" />
+<link type="text/css" rel="stylesheet" media="all" href="/themes/fusion-6.x-1.12/fusion/fusion_core/css/typography.css?l" />
+<link type="text/css" rel="stylesheet" media="all" href="/themes/fusion-6.x-1.12/fusion/fusion_core/css/superfish.css?l" />
+<link type="text/css" rel="stylesheet" media="all" href="/themes/fusion-6.x-1.12/fusion/fusion_core/css/superfish-navbar.css?l" />
+<link type="text/css" rel="stylesheet" media="all" href="/themes/fusion-6.x-1.12/fusion/fusion_core/css/superfish-vertical.css?l" />
+<link type="text/css" rel="stylesheet" media="all" href="/themes/acquia_marina-6.x-3.1/acquia_marina/css/fusion-acquia-marina-style.css?l" />
+  <link type="text/css" rel="stylesheet" media="all" href="/themes/fusion-6.x-1.12/fusion/fusion_core/css/grid16-960.css?l"/>
+  <!--[if IE 8]>
+  <link type="text/css" rel="stylesheet" media="all" href="/themes/fusion-6.x-1.12/fusion/fusion_core/css/ie8-fixes.css?l" />
+<link type="text/css" rel="stylesheet" media="all" href="/themes/acquia_marina-6.x-3.1/acquia_marina/css/ie8-fixes.css?l" />
+  <![endif]-->
+  <!--[if IE 7]>
+  <link type="text/css" rel="stylesheet" media="all" href="/themes/fusion-6.x-1.12/fusion/fusion_core/css/ie7-fixes.css?l" />
+<link type="text/css" rel="stylesheet" media="all" href="/themes/acquia_marina-6.x-3.1/acquia_marina/css/ie7-fixes.css?l" />
+  <![endif]-->
+  <!--[if lte IE 6]>
+  <link type="text/css" rel="stylesheet" media="all" href="/themes/fusion-6.x-1.12/fusion/fusion_core/css/ie6-fixes.css?l"/>
+<link type="text/css" rel="stylesheet" media="all" href="/themes/acquia_marina-6.x-3.1/acquia_marina/css/ie6-fixes.css?l"/>
+  <![endif]-->
+    <script type="text/javascript" src="/misc/jquery.js?l"></script>
+<script type="text/javascript" src="/misc/drupal.js?l"></script>
+<script type="text/javascript" src="/modules/google_analytics-6.x-3.3/google_analytics/googleanalytics.js?l"></script>
+<script type="text/javascript" src="/modules/poormanscron-6.x-2.2/poormanscron/poormanscron.js?l"></script>
+<script type="text/javascript" src="/modules/custom_search-6.x-1.13/custom_search/js/custom_search.js?l"></script>
+<script type="text/javascript" src="/themes/fusion-6.x-1.12/fusion/fusion_core/js/jquery.bgiframe.min.js?l"></script>
+<script type="text/javascript" src="/themes/fusion-6.x-1.12/fusion/fusion_core/js/hoverIntent.js?l"></script>
+<script type="text/javascript" src="/themes/fusion-6.x-1.12/fusion/fusion_core/js/supposition.js?l"></script>
+<script type="text/javascript" src="/themes/fusion-6.x-1.12/fusion/fusion_core/js/supersubs.js?l"></script>
+<script type="text/javascript" src="/themes/fusion-6.x-1.12/fusion/fusion_core/js/superfish.js?l"></script>
+<script type="text/javascript" src="/themes/fusion-6.x-1.12/fusion/fusion_core/js/script.js?l"></script>
+<script type="text/javascript" src="/themes/acquia_marina-6.x-3.1/acquia_marina/js/jquery.corner.js?l"></script>
+<script type="text/javascript" src="/themes/acquia_marina-6.x-3.1/acquia_marina/js/acquia-marina-script.js?l"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, { "basePath": "/", "googleanalytics": { "trackOutgoing": 1, "trackMailto": 1, "trackDownload": 1, "trackDownloadExtensions": "7z|aac|arc|arj|asf|asx|avi|bin|csv|doc|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls|xml|z|zip" }, "cron": { "basePath": "/poormanscron", "runNext": 1527689573 }, "custom_search": { "form_target": "_self", "solr": 0 } });
+//--><!]]>
+</script>
+</head>
+
+<body id="pid-frontpage" class="front not-logged-in page-node node-type-frontpage no-sidebars full-node layout-main sidebars-split font-size-12 grid-type-960 grid-width-16">
+  <div id="page" class="page">
+    <div id="page-inner" class="page-inner">
+      <div id="skip">
+        <a href="#main-content-area">Skip to Main Content Area</a>
+      </div>
+
+      <!-- header-top row: width = grid_width -->
+      
+      <!-- header-group row: width = grid_width -->
+      <div id="header-group-wrapper" class="header-group-wrapper full-width">
+        <div id="header-group" class="header-group row grid16-16">
+          <div id="header-group-inner" class="header-group-inner inner clearfix">
+                        <div id="header-group-inner-top" class="clearfix">
+                          </div>
+                                    <div id="header-group-inner-inner" class="clearfix">
+                            <div id="header-site-info" class="header-site-info block">
+                <div id="header-site-info-inner" class="header-site-info-inner inner">
+                                    <div id="logo">
+                    <a href="/" title="Home"><img src="/sites/default/files/acquia_marina_logo.png" alt="Home" /></a>
+                  </div>
+                                                    </div><!-- /header-site-info-inner -->
+              </div><!-- /header-site-info -->
+                            
+<div id="block-block-3" class="block block-block odd first last  grid16-16">
+  <div class="inner">
+    <div class="corner-top"><div class="corner-top-right corner"></div><div class="corner-top-left corner"></div></div>
+      	<div class="inner-wrapper">
+      <div class="inner-inner">
+                <div class="content clearfix">
+          <div id="ikonerbund">
+	<a href="/contact">Contact</a></div>
+<div id="ikonerbund">
+	<a href="http://www.dgc.dk/">Danish</a></div>
+        </div>
+      </div><!-- /inner-inner -->
+	  </div><!-- /inner-wrapper -->
+    <div class="corner-bottom"><div class="corner-bottom-right corner"></div><div class="corner-bottom-left corner"></div></div>
+  </div><!-- /inner -->
+</div><!-- /block -->            </div>
+                        <div id="primary-menu" class="primary-menu block">
+<div id="primary-menu-inner" class="primary-menu-inner inner clearfix">
+<ul class="menu"><li class="menu-413 first"><a href="/work-areas" title="Work areas">Work areas</a></li>
+<li class="menu-414"><a href="/services" title="Services">Services</a></li>
+<li class="menu-415"><a href="/publications" title="Publications">Publications</a></li>
+<li class="menu-416 last"><a href="/about-dgc" title="About DGC">About DGC</a></li>
+</ul></div><!-- /primary-menu-inner -->
+</div><!-- /primary-menu -->
+			
+          </div><!-- /header-group-inner -->
+        </div><!-- /header-group -->
+      </div><!-- /header-group-wrapper -->
+
+      <!-- preface-top row: width = grid_width -->
+      <div id="preface-top-wrapper" class="preface-top-wrapper full-width">
+<div id="preface-top" class="preface-top row grid16-16">
+<div id="preface-top-inner" class="preface-top-inner inner clearfix">
+
+<div id="block-search-0" class="block block-search odd first last  grid16-16">
+  <div class="inner">
+    <div class="corner-top"><div class="corner-top-right corner"></div><div class="corner-top-left corner"></div></div>
+      	<div class="inner-wrapper">
+      <div class="inner-inner">
+                <div class="content clearfix">
+          <form action="/"  accept-charset="UTF-8" method="post" id="search-block-form" class="search-form">
+<div><div class="container-inline">
+  <div class="form-item" id="edit-search-block-form-1-wrapper">
+ <input type="text" maxlength="100" name="search_block_form" id="edit-search-block-form-1" size="18" value="" title="Enter the terms you wish to search for." class="form-text  custom-search-default-value custom-search-box" />
+</div>
+<fieldset class="custom_search-popup"></fieldset>
+<input type="submit" name="op" id="edit-submit" value="Search"  class="form-submit" />
+<input type="hidden" name="form_build_id" id="form-6gu-BD1hkW1SKf6_BgqduoZQZZsnSH-2lsHxIvPitl8" value="form-6gu-BD1hkW1SKf6_BgqduoZQZZsnSH-2lsHxIvPitl8"  />
+<input type="hidden" name="form_id" id="edit-search-block-form" value="search_block_form"  />
+<input type="hidden" name="default_text" id="edit-default-text" value=""  class="default-text" />
+</div>
+
+</div></form>
+        </div>
+      </div><!-- /inner-inner -->
+	  </div><!-- /inner-wrapper -->
+    <div class="corner-bottom"><div class="corner-bottom-right corner"></div><div class="corner-bottom-left corner"></div></div>
+  </div><!-- /inner -->
+</div><!-- /block --></div><!-- /preface-top-inner -->
+</div><!-- /preface-top -->
+</div><!-- /preface-top-wrapper -->
+  
+      
+    <!-- main row: width = grid_width -->
+    <div id="main-wrapper" class="main-wrapper full-width">
+      <div id="main" class="main row grid16-16">
+        <div id="main-inner" class="main-inner inner clearfix">
+          
+          <!-- main group: width = grid_width - sidebar_first_width -->
+          <div id="main-group" class="main-group row nested grid16-16">
+            <div id="main-group-inner" class="main-group-inner inner clearfix">
+
+              <div id="main-content" class="main-content row nested">
+                <div id="main-content-inner" class="main-content-inner inner clearfix">
+                  <!-- content group: width = grid_width - (sidebar_first_width + sidebar_last_width) -->
+                    <div id="content-group" class="content-group row nested grid16-16">
+                      <div id="content-group-inner" class="content-group-inner inner clearfix">
+                        
+                        <div id="content-region" class="content-region row nested">
+                          <div id="content-region-inner" class="content-region-inner inner clearfix">
+                            <a name="main-content-area" id="main-content-area"></a>
+                                                        <div id="content-inner" class="content-inner block">
+                              <div id="content-inner-inner" class="content-inner-inner inner clearfix">
+                                                                <div id="content-content" class="content-content">
+                                  
+<div id="node-1" class="node odd full-node node-type-frontpage">
+  <div class="inner">
+    
+    
+    
+    
+    <div class="content clearfix">
+          </div>
+
+    
+      </div><!-- /inner -->
+
+  </div><!-- /node-1 -->
+
+<div id="block-block-7" class="block block-block odd first last  grid16-16">
+  <div class="inner">
+    <div class="corner-top"><div class="corner-top-right corner"></div><div class="corner-top-left corner"></div></div>
+      	<div class="inner-wrapper">
+      <div class="inner-inner">
+                <div class="content clearfix">
+          <div id="forside">
+	<a href="/sites/default/files/filarkiv/lab.jpg"><img alt="Danish Gas Technology Centre" src="/sites/default/files/filarkiv/lab.jpg" style="width: 960px; height: 258px;" /></a> <img alt="" src="/sites/default/files/filarkiv/icons/stiplet_linje_forside3.gif" style="width: 960px; height: 48px;" /></div>
+        </div>
+      </div><!-- /inner-inner -->
+	  </div><!-- /inner-wrapper -->
+    <div class="corner-bottom"><div class="corner-bottom-right corner"></div><div class="corner-bottom-left corner"></div></div>
+  </div><!-- /inner -->
+</div><!-- /block -->                                                                  </div><!-- /content-content -->
+                                                              </div><!-- /content-inner-inner -->
+                            </div><!-- /content-inner -->
+                          </div><!-- /content-region-inner -->
+                        </div><!-- /content-region -->
+
+                      </div><!-- /content-group-inner -->
+                    </div><!-- /content-group -->
+
+                    				                    </div><!-- /main-content-inner -->
+
+                </div><!-- /main-content -->
+
+                              </div><!-- /main-group-inner -->
+            </div><!-- /main-group -->
+          </div><!-- /main-inner -->
+        </div><!-- /main -->
+      </div><!-- /main-wrapper -->
+
+      <!-- postscript-bottom row: width = grid_width -->
+      <div id="postscript-bottom-wrapper" class="postscript-bottom-wrapper full-width">
+<div id="postscript-bottom" class="postscript-bottom row grid16-16">
+<div id="postscript-bottom-inner" class="postscript-bottom-inner inner clearfix">
+
+<div id="block-block-4" class="block block-block odd first  grid16-4">
+  <div class="inner">
+    <div class="corner-top"><div class="corner-top-right corner"></div><div class="corner-top-left corner"></div></div>
+      	<div class="inner-wrapper">
+      <div class="inner-inner">
+                <div class="content clearfix">
+          <p><img alt="" src="/sites/default/files/filarkiv/icons/billede1.jpg" style="width: 176px; height: 362px; " /></p>
+        </div>
+      </div><!-- /inner-inner -->
+	  </div><!-- /inner-wrapper -->
+    <div class="corner-bottom"><div class="corner-bottom-right corner"></div><div class="corner-bottom-left corner"></div></div>
+  </div><!-- /inner -->
+</div><!-- /block -->
+<div id="block-block-5" class="block block-block even   grid16-4">
+  <div class="inner">
+    <div class="corner-top"><div class="corner-top-right corner"></div><div class="corner-top-left corner"></div></div>
+      	<div class="inner-wrapper">
+      <div class="inner-inner">
+                <div class="content clearfix">
+          <p><a href="http://www.boilerinfo.eu/app/index?lang=en" target="_blank"><img alt="" src="/sites/default/files/filarkiv/icons/billede2.jpg" style="width: 164px; height: 170px; " /></a><br />
+<a href="http://www.gasbiler.info/en/filling-stations" target="_blank"><img alt="Filling stations" src="/sites/default/files/filarkiv/photos/filling_stations3.jpg" style="width: 164px; height: 192px;" /></a></p>
+        </div>
+      </div><!-- /inner-inner -->
+	  </div><!-- /inner-wrapper -->
+    <div class="corner-bottom"><div class="corner-bottom-right corner"></div><div class="corner-bottom-left corner"></div></div>
+  </div><!-- /inner -->
+</div><!-- /block -->
+<div id="block-block-6" class="block block-block odd   grid16-4">
+  <div class="inner">
+    <div class="corner-top"><div class="corner-top-right corner"></div><div class="corner-top-left corner"></div></div>
+      	<div class="inner-wrapper">
+      <div class="inner-inner">
+                <div class="content clearfix">
+          <div>
+	<a href="/gas-quality">Gas quality</a><br />
+	A joint study establishes how existing gas appliances in the European market will react to varying gas qualities. <a href="/gas-quality">Read more</a><br />
+	&nbsp;</div>
+<div>
+	<a href="/gas-and-renewables">Gas and renewables</a></div>
+<div>
+	DGC is involved in combining gas and renewable energy as an important part of our strategy for Sustainable Gas Technology. This includes both heat pumps and micro CHP. <a href="/gas-and-renewables">Read more</a><br />
+	&nbsp;</div>
+<div>
+	<a href="/international-gas-union-research-conference">International Gas Union Research Conference&nbsp;</a></div>
+<div>
+	IGRC2014- was held in Copenhagen, Denmark 17-19 September 2014. IGRC is the globally most recognised gas research conference. <a href="/international-gas-union-research-conference">Read more</a></div>
+<p></p>
+        </div>
+      </div><!-- /inner-inner -->
+	  </div><!-- /inner-wrapper -->
+    <div class="corner-bottom"><div class="corner-bottom-right corner"></div><div class="corner-bottom-left corner"></div></div>
+  </div><!-- /inner -->
+</div><!-- /block -->
+<div id="block-views-workareasfront-block_1" class="block block-views even  last  grid16-4">
+  <div class="inner">
+    <div class="corner-top"><div class="corner-top-right corner"></div><div class="corner-top-left corner"></div></div>
+      	<div class="inner-wrapper">
+      <div class="inner-inner">
+                <div class="content clearfix">
+          <div class="view view-workareasfront view-id-workareasfront view-display-id-block_1 view-dom-id-1">
+    
+  
+  
+      <div class="view-content">
+        <div class="views-row views-row-1 views-row-odd views-row-first">
+      
+  <div class="views-field-field-iconwork-fid">
+                <span class="field-content"><img  class="imagefield imagefield-field_iconwork" width="140" height="52" alt="" src="http://www.dgc.eu/sites/default/files/forside1.jpg?1327067238" /></span>
+  </div>
+  
+  <div class="views-field-field-link-url">
+                <span class="field-content"><a href="/domestic-use-natural-gas">Domestic use of natural gas</a></span>
+  </div>
+  
+  <div class="views-field-field-intro-value">
+                <span class="field-content">Consultancy and testing within domestic gas installations and appliances.</span>
+  </div>
+  </div>
+  <div class="views-row views-row-2 views-row-even">
+      
+  <div class="views-field-field-iconwork-fid">
+                <span class="field-content"><img  class="imagefield imagefield-field_iconwork" width="140" height="52" alt="" src="http://www.dgc.eu/sites/default/files/forside2.jpg?1327067607" /></span>
+  </div>
+  
+  <div class="views-field-field-link-url">
+                <span class="field-content"><a href="/cogeneration-industry">Cogeneration &amp; industry </a></span>
+  </div>
+  
+  <div class="views-field-field-intro-value">
+                <span class="field-content">Services concerning gas utilization in cogeneration and industrial processes.</span>
+  </div>
+  </div>
+  <div class="views-row views-row-3 views-row-odd">
+      
+  <div class="views-field-field-iconwork-fid">
+                <span class="field-content"><img  class="imagefield imagefield-field_iconwork" width="140" height="52" alt="" src="http://www.dgc.eu/sites/default/files/forside3.jpg?1327067633" /></span>
+  </div>
+  
+  <div class="views-field-field-link-url">
+                <span class="field-content"><a href="/safety-certification">Safety &amp; certification</a></span>
+  </div>
+  
+  <div class="views-field-field-intro-value">
+                <span class="field-content">Consultancy on safety and certification of gas equipment and installations.</span>
+  </div>
+  </div>
+  <div class="views-row views-row-4 views-row-even">
+      
+  <div class="views-field-field-iconwork-fid">
+                <span class="field-content"><img  class="imagefield imagefield-field_iconwork" width="140" height="52" alt="" src="http://www.dgc.eu/sites/default/files/forside4.jpg?1327067647" /></span>
+  </div>
+  
+  <div class="views-field-field-link-url">
+                <span class="field-content"><a href="/environment-combustion">Environment &amp; combustion</a></span>
+  </div>
+  
+  <div class="views-field-field-intro-value">
+                <span class="field-content">Gas analysis, measurement of energy efficiency and emissions.</span>
+  </div>
+  </div>
+  <div class="views-row views-row-5 views-row-odd">
+      
+  <div class="views-field-field-iconwork-fid">
+                <span class="field-content"><img  class="imagefield imagefield-field_iconwork" width="140" height="52" alt="" src="http://www.dgc.eu/sites/default/files/forside5.jpg?1327067664" /></span>
+  </div>
+  
+  <div class="views-field-field-link-url">
+                <span class="field-content"><a href="/gas-pipelines">Gas pipelines</a></span>
+  </div>
+  
+  <div class="views-field-field-intro-value">
+                <span class="field-content">Consultancy on accident prevention, corrosion, odorants and maintenance.</span>
+  </div>
+  </div>
+  <div class="views-row views-row-6 views-row-even views-row-last">
+      
+  <div class="views-field-field-iconwork-fid">
+                <span class="field-content"><img  class="imagefield imagefield-field_iconwork" width="140" height="52" alt="" src="http://www.dgc.eu/sites/default/files/forside6.jpg?1327067677" /></span>
+  </div>
+  
+  <div class="views-field-field-link-url">
+                <span class="field-content"><a href="/green-gases-renewables">Green gases &amp; renewables</a></span>
+  </div>
+  
+  <div class="views-field-field-intro-value">
+                <span class="field-content">Measuring and testing natural gas in combination with renewable energy.</span>
+  </div>
+  </div>
+    </div>
+  
+  
+  
+  
+  
+  
+</div>         </div>
+      </div><!-- /inner-inner -->
+	  </div><!-- /inner-wrapper -->
+    <div class="corner-bottom"><div class="corner-bottom-right corner"></div><div class="corner-bottom-left corner"></div></div>
+  </div><!-- /inner -->
+</div><!-- /block --></div><!-- /postscript-bottom-inner -->
+</div><!-- /postscript-bottom -->
+</div><!-- /postscript-bottom-wrapper -->
+
+      <!-- footer row: width = grid_width -->
+      
+      <!-- footer-message row: width = grid_width -->
+      <div id="footer-message-wrapper" class="footer-message-wrapper full-width">
+        <div id="footer-message" class="footer-message row grid16-16">
+          <div id="footer-message-inner" class="footer-message-inner inner clearfix">
+            <div id="footer-message-text" class="footer-message-text block">
+<div id="footer-message-text-inner" class="footer-message-text-inner inner clearfix">
+Danish Gas Technology Centre<img alt="" src="/sites/default/files/filarkiv/icons/lodretstreg_0.gif" />Dr. Neergaards Vej 5B<img alt="" src="/sites/default/files/filarkiv/icons/lodretstreg_0.gif" />DK-2970 H&oslash;rsholm<img alt="" src="/sites/default/files/filarkiv/icons/lodretstreg_0.gif" />Tlf. +45 2016 9600<img alt="" src="/sites/default/files/filarkiv/icons/lodretstreg_0.gif" />dgc@dgc.dk<img alt="" src="/sites/default/files/filarkiv/icons/lodretstreg_0.gif" />webmaster@dgc.dk</div><!-- /footer-message-text-inner -->
+</div><!-- /footer-message-text -->
+          </div><!-- /footer-message-inner -->
+        </div><!-- /footer-message -->
+      </div><!-- /footer-message-wrapper -->
+
+    </div><!-- /page-inner -->
+  </div><!-- /page -->
+  <script type="text/javascript" src="/modules/eu-cookie-compliance-6.x-1.8/eu-cookie-compliance/js/eu_cookie_compliance.js?l"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, { "eu_cookie_compliance": { "popup_enabled": 1, "popup_agreed_enabled": 0, "popup_hide_agreed": 1, "popup_clicking_confirmation": 1, "popup_html_info": "\n\x3cdiv\x3e\n  \x3cdiv class =\"popup-content info\"\x3e\n    \x3cdiv id=\"popup-text\"\x3e\n      \x3cp\x3eWe use cookies on this site to enhance your user experience.\n\x3c/p\x3e\x3cp\x3eBy clicking any link on this page you are giving your consent for us to set cookies.\x3c/p\x3e\n    \x3c/div\x3e\n    \x3cdiv id=\"popup-buttons\"\x3e\n      \x3cbutton type=\"button\" class=\"agree-button\"\x3eYes, I agree\x3c/button\x3e\n      \x3cbutton type=\"button\" class=\"find-more-button\"\x3eNo, I want to find out more\x3c/button\x3e\n    \x3c/div\x3e\n  \x3c/div\x3e\n\x3c/div\x3e\n", "popup_html_agreed": "\n\x3cdiv\x3e\n  \x3cdiv class =\"popup-content agreed\"\x3e\n    \x3cdiv id=\"popup-text\"\x3e\n      \x3ch2\x3e	Thank you for accepting cookies\x3c/h2\x3e\n\x3cp\x3eYou can now hide this message or find out more about cookies.\x3c/p\x3e\n    \x3c/div\x3e\n    \x3cdiv id=\"popup-buttons\"\x3e\n      \x3cbutton type=\"button\" class=\"hide-popup-button\"\x3eHide this message \x3c/button\x3e\n      \x3cbutton type=\"button\" class=\"find-more-button\" \x3eMore information on cookies\x3c/button\x3e\n    \x3c/div\x3e\n  \x3c/div\x3e\n\x3c/div\x3e\n", "popup_height": "auto", "popup_width": "100%", "popup_delay": 1000, "popup_link": "http://www.dgc.eu/cookies", "popup_position": 0, "popup_language": "en" } });
+//--><!]]>
+</script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+var _gaq = _gaq || [];_gaq.push(["_setAccount", "UA-2391513-19"]);_gaq.push(["_trackPageview"]);(function() {var ga = document.createElement("script");ga.type = "text/javascript";ga.async = true;ga.src = ("https:" == document.location.protocol ? "https://ssl" : "http://www") + ".google-analytics.com/ga.js";var s = document.getElementsByTagName("script")[0];s.parentNode.insertBefore(ga, s);})();
+//--><!]]>
+</script>
+</body>
+</html>
+
+
