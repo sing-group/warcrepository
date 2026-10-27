@@ -1,15 +1,26 @@
 <?php
 
-$api = app('Dingo\Api\Routing\Router');
-$api->version('v1', function (Dingo\Api\Routing\Router $api) {
-    $api->post('login', 'App\Http\Controllers\AuthenticateController@authenticate');
-    $api->post('user', 'App\Http\Controllers\UserController@create');
-    $api->get('token', 'App\Http\Controllers\AuthenticateController@getToken');
-});
+use App\Http\Controllers\AuthenticateController;
+use App\Http\Controllers\CorpusController;
+use App\Http\Controllers\UserController;
+use Illuminate\Support\Facades\Route;
 
-$api->version('v1', ['middleware' => 'api.auth'], function($api) {
-    $api->get('users', 'App\Http\Controllers\UserController@users');
-    $api->get('me', 'App\Http\Controllers\UserController@me');
-    $api->post('corpus', 'App\Http\Controllers\CorpusController@store' );
-});
+/*
+|--------------------------------------------------------------------------
+| API Routes
+|--------------------------------------------------------------------------
+|
+| Mismas rutas que la API v1 de Dingo (prefijo /api), sin cambios para
+| los clientes externos.
+|
+*/
 
+Route::post('login', [AuthenticateController::class, 'authenticate']);
+Route::post('user', [UserController::class, 'create']);
+Route::get('token', [AuthenticateController::class, 'getToken']);
+
+Route::middleware('api.auth')->group(function () {
+    Route::get('users', [UserController::class, 'users']);
+    Route::get('me', [UserController::class, 'me']);
+    Route::post('corpus', [CorpusController::class, 'store']);
+});

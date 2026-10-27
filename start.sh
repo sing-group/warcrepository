@@ -1,10 +1,9 @@
 #!/bin/bash
 
-/usr/bin/mysqld_safe &
+/usr/bin/mariadbd-safe &
 
-sleep 10 
+while ! mariadb-admin ping >/dev/null 2>&1; do sleep 1; done
 
-echo "grant all privileges on ${MYSQL_DATABASE}.* to '${MYSQL_USER}'@'%' identified by '${MYSQL_PASSWORD}' with grant option; grant all privileges on *.* to 'root'@'%' identified by '${MYSQL_ROOT_PASSWORD}' with grant option ; flush privileges; " | mysql 
+echo "grant all privileges on ${MYSQL_DATABASE}.* to '${MYSQL_USER}'@'%' identified by '${MYSQL_PASSWORD}' with grant option; grant all privileges on *.* to 'root'@'%' identified by '${MYSQL_ROOT_PASSWORD}' with grant option ; flush privileges; " |  mariadb
 
-tail -f /var/log/mysql/* 
-
+cat

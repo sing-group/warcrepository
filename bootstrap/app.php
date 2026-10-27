@@ -1,55 +1,84 @@
 <?php
 
-/*
-|--------------------------------------------------------------------------
-| Create The Application
-|--------------------------------------------------------------------------
-|
-| The first thing we will do is create a new Laravel application instance
-| which serves as the "glue" for all the components of Laravel, and is
-| the IoC container for the system binding all of the various parts.
-|
-*/
+use App\Http\Middleware\AdminAuth;
+use App\Http\Middleware\ApiAuthenticate;
+use App\Http\Middleware\LangMiddleware;
+use App\Http\Middleware\RedirectIfAuthenticated;
+use Illuminate\Auth\AuthenticationException;
+use Illuminate\Foundation\Application;
+use Illuminate\Foundation\Configuration\Exceptions;
+use Illuminate\Foundation\Configuration\Middleware;
+use Illuminate\Http\Request;
+use Illuminate\Support\Facades\Route;
+use Symfony\Component\HttpFoundation\Response;
+use Symfony\Component\HttpKernel\Exception\HttpExceptionInterface;
 
-$app = new Illuminate\Foundation\Application(
-    realpath(__DIR__.'/../')
-);
+return Application::configure(basePath: dirname(__DIR__))
+    ->withRouting(
+        commands: __DIR__.'/../routes/console.php',
+        using: function () {
+            // API (sustituye a Dingo): mismas URLs bajo /api, sin sesión ni CSRF.
+            Route::prefix('api')
+                ->middleware('api')
+                ->group(base_path('routes/api.php'));
 
-/*
-|--------------------------------------------------------------------------
-| Bind Important Interfaces
-|--------------------------------------------------------------------------
-|
-| Next, we need to bind some important interfaces into the container so
-| we will be able to resolve them when needed. The kernels serve the
-| incoming requests to this application from both the web and CLI.
-|
-*/
+            // Rutas web con el espacio de nombres de controladores de Laravel 5.3.
+            Route::middleware('web')
+                ->namespace('App\Http\Controllers')
+                ->group(base_path('routes/web.php'));
+        },
+    )
+    ->withMiddleware(function (Middleware $middleware): void {
+        $middleware->web(append: [
+            LangMiddleware::class,
+        ]);
 
-$app->singleton(
-    Illuminate\Contracts\Http\Kernel::class,
-    App\Http\Kernel::class
-);
+        $middleware->alias([
+            'AdminAuth' => AdminAuth::class,
+            'guest' => RedirectIfAuthenticated::class,
+            'api.auth' => ApiAuthenticate::class,
+        ]);
+    })
+    ->withExceptions(function (Exceptions $exceptions): void {
+        // Las rutas de la API responden con el formato de errores de Dingo:
+        // {"message": "...", "status_code": 401}
+        $exceptions->render(function (Throwable $e, Request $request) {
+            if (! $request->is('api', 'api/*')) {
+                return null;
+            }
 
-$app->singleton(
-    Illuminate\Contracts\Console\Kernel::class,
-    App\Console\Kernel::class
-);
+            $statusCode = $e instanceof HttpExceptionInterface ? $e->getStatusCode() : 500;
+            $headers = $e instanceof HttpExceptionInterface ? $e->getHeaders() : [];
 
-$app->singleton(
-    Illuminate\Contracts\Debug\ExceptionHandler::class,
-    App\Exceptions\Handler::class
-);
+            $message = $e->getMessage();
+            if ($message === '') {
+                $message = sprintf('%d %s', $statusCode, Response::$statusTexts[$statusCode] ?? '');
+            }
 
-/*
-|--------------------------------------------------------------------------
-| Return The Application
-|--------------------------------------------------------------------------
-|
-| This script returns the application instance. The instance is given to
-| the calling script so we can separate the building of the instances
-| from the actual running of the application and sending responses.
-|
-*/
+            $body = ['message' => $message];
+            if ($e->getCode()) {
+                $body['code'] = $e->getCode();
+            }
+            $body['status_code'] = $statusCode;
 
-return $app;
+            if (config('app.api_debug')) {
+                $body['debug'] = [
+                    'line' => $e->getLine(),
+                    'file' => $e->getFile(),
+                    'class' => get_class($e),
+                    'trace' => explode("\n", $e->getTraceAsString()),
+                ];
+            }
+
+            return response()->json($body, $statusCode, $headers);
+        });
+
+        // Mismo comportamiento que el Handler de Laravel 5.3.
+        $exceptions->render(function (AuthenticationException $e, Request $request) {
+            if ($request->expectsJson()) {
+                return response()->json(['error' => 'Unauthenticated.'], 401);
+            }
+
+            return redirect()->guest('login');
+        });
+    })->create();

@@ -2,10 +2,13 @@
 
 namespace App;
 
+use Illuminate\Database\Eloquent\Factories\HasFactory;
 use Illuminate\Database\Eloquent\Model;
 
 class Corpus extends Model
 {
+    use HasFactory;
+
     public $table = "corpus";
     protected $primaryKey = 'uuid';
     public $incrementing = false;
@@ -57,4 +60,14 @@ class Corpus extends Model
         return date( 'Y-m-d', $phpdate );
     }
 
+    /**
+     * Same date format as Laravel 5.3 when serializing to JSON ("Y-m-d H:i:s").
+     *
+     * @param  \DateTimeInterface  $date
+     * @return string
+     */
+    protected function serializeDate(\DateTimeInterface $date)
+    {
+        return $date->format($this->getDateFormat());
+    }
 }

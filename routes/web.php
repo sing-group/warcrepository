@@ -77,19 +77,24 @@ Route::group(['middleware' => ['web']], function(){
             return view('auth.login');
         }
     });
-    Route::get('/registration',['as' => 'registration', function () {
+    Route::get('/registration', function () {
         if (Auth::check()) {
             return redirect('/user/home');
         }else{
             return view('registration.index');
         }
-    }]);
+    })->name('registration');
 
 // Verification mail link.
     Route::get('register/verify/{token}', 'Auth\RegisterController@verify');
 
 // Auth
-    Auth::routes();
+    // Las rutas de recuperar contraseña se declaran como en Laravel 5.3, para que
+    // el nombre "password.reset" siga apuntando a la ruta POST de más abajo.
+    Auth::routes(['reset' => false]);
+    Route::get('password/reset', 'Auth\ForgotPasswordController@showLinkRequestForm');
+    Route::post('password/email', 'Auth\ForgotPasswordController@sendResetLinkEmail');
+    Route::get('password/reset/{token}', 'Auth\ResetPasswordController@showResetForm');
 
 // Rewriting password.email route, to asigns it an alias.
     Route::put('password/email', array('as' => 'password.email', 'uses' => 'Auth\ForgotPasswordController@sendResetLinkEmail'));

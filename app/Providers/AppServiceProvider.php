@@ -2,27 +2,32 @@
 
 namespace App\Providers;
 
+use App\Support\Charts\Lavacharts;
+use Illuminate\Auth\Notifications\ResetPassword;
+use Illuminate\Foundation\AliasLoader;
 use Illuminate\Support\ServiceProvider;
 
 class AppServiceProvider extends ServiceProvider
 {
     /**
-     * Bootstrap any application services.
-     *
-     * @return void
+     * Register any application services.
      */
-    public function boot()
+    public function register(): void
     {
-        //
+        $this->app->singleton(Lavacharts::class);
+
+        AliasLoader::getInstance()->alias('Lava', \App\Support\Facades\Lava::class);
     }
 
     /**
-     * Register any application services.
-     *
-     * @return void
+     * Bootstrap any application services.
      */
-    public function register()
+    public function boot(): void
     {
-        //
+        // Mismo enlace que enviaba Laravel 5.3 en el correo de recuperar contraseña.
+        // (El nombre "password.reset" lo usa la ruta POST de routes/web.php.)
+        ResetPassword::createUrlUsing(function ($user, string $token) {
+            return url('password/reset', $token);
+        });
     }
 }

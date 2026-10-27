@@ -52,6 +52,6 @@
         </nav>
         @yield('content')
     </div>
-    <script src="{{ asset('js/app.js') }}"></script>
+    @vite('resources/assets/js/app.js')
 </body>
 </html>

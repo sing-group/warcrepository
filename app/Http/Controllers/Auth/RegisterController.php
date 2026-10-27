@@ -8,10 +8,12 @@ use Mail;
 use App\User;
 use Validator;
 use Illuminate\Http\Request;
+use Illuminate\Validation\ValidationException;
+use Illuminate\Support\Str;
 use App\Mail\EmailVerification;
 use App\Http\Controllers\Controller;
 use Illuminate\Foundation\Auth\RegistersUsers;
-use Webpatser\Uuid\Uuid;
+use Ramsey\Uuid\Uuid;
 
 class RegisterController extends Controller
 {
@@ -73,11 +75,11 @@ class RegisterController extends Controller
     {
 
         return User::create([
-            'uuid' => Uuid::generate()->string,
+            'uuid' => Uuid::uuid1()->toString(),
             'name' => $data['name'],
             'email' => $data['email'],
             'password' => bcrypt($data['password']),
-            'email_token' => str_random(10),
+            'email_token' => Str::random(10),
         ]);
 
 
@@ -92,7 +94,7 @@ class RegisterController extends Controller
         $validator = $this->validator($request->all());
         if ($validator->fails())
         {
-            $this->throwValidationException($request, $validator);
+            throw new ValidationException($validator);
         }
         // Database transactions is useful here because stuff happening is actually a transaction
         DB::beginTransaction();

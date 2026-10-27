@@ -6,6 +6,7 @@ use Auth;
 use Illuminate\Http\Request;
 use App\User;
 use App\Corpus;
+use App\Support\Zipper;
 class HomeController extends Controller{
 
     /**
@@ -158,7 +159,7 @@ class HomeController extends Controller{
         $corpus = \DB::table('corpus')->where('uuid', $corpus_uuid)->get()[0];
         \DB::table('corpus')->where('uuid', $corpus_uuid)->increment('downloads', 1);
         $files = glob($corpus->path);
-        \Zipper::make(public_path('tempZippedCorpus/'.$corpus_uuid.$corpus->name.'.zip'))->add($files)->close();
+        Zipper::make(public_path('tempZippedCorpus/'.$corpus_uuid.$corpus->name.'.zip'))->add($files)->close();
         chmod(public_path('tempZippedCorpus/'.$corpus_uuid.$corpus->name.'.zip'),0777);
         return response()->download(public_path('tempZippedCorpus/'.$corpus_uuid.$corpus->name.'.zip'))->deleteFileAfterSend(true);
     }

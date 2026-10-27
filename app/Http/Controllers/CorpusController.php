@@ -5,15 +5,13 @@ use ZipArchive;
 use DateTime;
 use App\Corpus;
 use App\User;
-use Dingo\Api\Auth\Auth;
-use Dingo\Api\Routing\Helpers;
+use App\Support\Api\Helpers;
 use Illuminate\Http\Request;
-use Mockery\Exception;
-use Tymon\JWTAuth\Exceptions\TokenBlacklistedException;
-use Tymon\JWTAuth\Exceptions\TokenExpiredException;
-use Tymon\JWTAuth\Exceptions\TokenInvalidException;
-use Tymon\JWTAuth\Facades\JWTAuth;
-use Webpatser\Uuid\Uuid;
+use PHPOpenSourceSaver\JWTAuth\Exceptions\TokenBlacklistedException;
+use PHPOpenSourceSaver\JWTAuth\Exceptions\TokenExpiredException;
+use PHPOpenSourceSaver\JWTAuth\Exceptions\TokenInvalidException;
+use PHPOpenSourceSaver\JWTAuth\Facades\JWTAuth;
+use Ramsey\Uuid\Uuid;
 
 class CorpusController extends Controller
 {
@@ -34,7 +32,7 @@ class CorpusController extends Controller
         $unzippedCorpusDir = "../public/unzippedCorpus/".$timestamp; //directory where the controller unzip the compressed corpus
         // Insert current user UUID as Foreign Key
         try {
-            $data['uuid'] = Uuid::generate(4)->string;// UUID type 4, random generation
+            $data['uuid'] = Uuid::uuid4()->toString();// UUID type 4, random generation
         } catch (\Exception $e) {
             return response()->json(['error' => 'could_not_generate_corpus_uuid'], 500);
         }
@@ -47,11 +45,32 @@ class CorpusController extends Controller
         // raising permissions to the current compressed corpus
         chmod($fileToUnzip,0644);
         // Unzipping the compressed corpus
+
+		  $zip = new ZipArchive;
+		  if ($zip->open($fileToUnzip) === TRUE) {
+		      for($i = 0; $i < $zip->numFiles; $i++) {
+		          $filename = $zip->getNameIndex($i);
+		          $fileinfo = pathinfo($filename);
+					 
+					 if ( substr( $filename, -1 ) == '/' || substr( $filename, -1 ) == '\\')
+						 mkdir($unzippedCorpusDir."/".substr($apiCorpusName,8,-4)."/".$fileinfo['dirname']."/".str_replace("\\","/",$fileinfo['basename'])."/", 0777, true);
+					 else {
+						 $to_create=$unzippedCorpusDir."/".substr($apiCorpusName,8,-4)."/".$fileinfo['dirname']."/".str_replace("\\","/",$fileinfo['basename']);
+						 if  (!is_dir(pathinfo($to_create)['dirname'])) mkdir(pathinfo($to_create)['dirname'], 0777, true);
+		             copy("zip://".$fileToUnzip."#".$filename, $to_create);
+				    }
+		      }
+		      $zip->close();   
+		  }
+		  
+		  /*
         $zip = new ZipArchive;
         if ($zip->open($fileToUnzip) === TRUE) {
             $zip->extractTo($unzippedCorpusDir."/".substr($apiCorpusName,8,-4));
             $zip->close();
         }
+		  */
+		  
 
         //delete the upload file from API
         unlink($fileToUnzip);
@@ -342,7 +361,7 @@ class CorpusController extends Controller
         }
         $data = $request;
         try {
-            $data['uuid'] = Uuid::generate(4)->string;// UUID type 4, random generation
+            $data['uuid'] = Uuid::uuid4()->toString();// UUID type 4, random generation
         } catch (\Exception $e) {
             return response()->json(['error' => 'could_not_generate_corpus_uuid'], 500);
         }

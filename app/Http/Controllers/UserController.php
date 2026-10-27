@@ -5,15 +5,14 @@ namespace App\Http\Controllers;
 use App\Transformers\UserTransformer;
 use App\User;
 use App\Corpus;
-use Dingo\Api\Http\Response;
-use Dingo\Api\Routing\Helpers;
+use App\Support\Api\Helpers;
 use Illuminate\Http\Request;
 use Illuminate\Support\Facades\Redirect;
-use Tymon\JWTAuth\Facades\JWTAuth;
-use Tymon\JWTAuth\Exceptions\TokenInvalidException;
-use Tymon\JWTAuth\Exceptions\TokenExpiredException;
-use Tymon\JWTAuth\Exceptions\TokenBlacklistedException;
-use Webpatser\Uuid\Uuid;
+use PHPOpenSourceSaver\JWTAuth\Facades\JWTAuth;
+use PHPOpenSourceSaver\JWTAuth\Exceptions\TokenInvalidException;
+use PHPOpenSourceSaver\JWTAuth\Exceptions\TokenExpiredException;
+use PHPOpenSourceSaver\JWTAuth\Exceptions\TokenBlacklistedException;
+use Ramsey\Uuid\Uuid;
 use Illuminate\Support\Facades\Hash;
 use Illuminate\Support\Facades\Storage;
 
@@ -62,7 +61,7 @@ class UserController extends Controller
     {
         $data = $request;
         try {
-            $data['uuid'] = Uuid::generate(4)->string;// UUID type 4, random generation
+            $data['uuid'] = Uuid::uuid4()->toString();// UUID type 4, random generation
         } catch (\Exception $e) {
             return response()->json(['error' => 'could_not_create_token'], 500);
         }

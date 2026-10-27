@@ -8,11 +8,13 @@ use \Illuminate\Database\Eloquent\Model;
 use Illuminate\Auth\Authenticatable as AuthenticableTrait;
 use Illuminate\Auth\Passwords\CanResetPassword as CanResetPasswordTrait;
 use Illuminate\Notifications\Notifiable;
+use Illuminate\Database\Eloquent\Factories\HasFactory;
+use PHPOpenSourceSaver\JWTAuth\Contracts\JWTSubject;
 
 
-class User extends Model implements Authenticatable, CanResetPassword
+class User extends Model implements Authenticatable, CanResetPassword, JWTSubject
 {
-    use AuthenticableTrait, Notifiable, CanResetPasswordTrait;
+    use AuthenticableTrait, HasFactory, Notifiable, CanResetPasswordTrait;
 
     //public $incrementing = false; // Necessary to make uuid works.
 
@@ -43,5 +45,32 @@ class User extends Model implements Authenticatable, CanResetPassword
         $this->save();
     }
 
+    /**
+     * Identifier stored in the "sub" claim of the JWT (the user id, as with tymon/jwt-auth 0.5).
+     *
+     * @return mixed
+     */
+    public function getJWTIdentifier()
+    {
+        return $this->getKey();
+    }
 
+    /**
+     * @return array
+     */
+    public function getJWTCustomClaims()
+    {
+        return [];
+    }
+
+    /**
+     * Same date format as Laravel 5.3 when serializing to JSON ("Y-m-d H:i:s").
+     *
+     * @param  \DateTimeInterface  $date
+     * @return string
+     */
+    protected function serializeDate(\DateTimeInterface $date)
+    {
+        return $date->format($this->getDateFormat());
+    }
 }

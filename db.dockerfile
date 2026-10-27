@@ -1,9 +1,8 @@
-FROM debian:9
+FROM debian:13
 
 ADD start.sh /root/start.sh
 
-RUN apt-get update && apt-get install -y mysql-server \
-    --no-install-recommends && \
+RUN apt-get update && apt-get install -y mariadb-server && \
     sed -i.bak "s/127\.0\.0\.1/0.0.0.0/g" \
     /etc/mysql/mariadb.conf.d/50-server.cnf && \
     chmod 755 /root/start.sh
